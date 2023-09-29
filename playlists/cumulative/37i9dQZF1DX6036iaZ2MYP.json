@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "Alinko",
+        "url": "https://open.spotify.com/album/2emgoSO0tHVlIv8s4fprne"
+      },
+      "artists": [
+        {
+          "name": "ShineTTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        },
+        {
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "Alinko",
+      "url": "https://open.spotify.com/track/0aUYRTlB5OkYf2MIpjWVgm"
+    },
+    {
+      "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
@@ -704,7 +726,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 223636,
       "name": "Chanj\u00e9",
       "url": "https://open.spotify.com/track/0koJoqB4PwaAcCtFGssnA2"
@@ -1299,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "Efforts",
+        "url": "https://open.spotify.com/album/2jX9y7I5BHNjQF3OhO54NA"
+      },
+      "artists": [
+        {
+          "name": "Samy Lrzo",
+          "url": "https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152523,
+      "name": "Efforts",
+      "url": "https://open.spotify.com/track/5KYNYSKA5CA6HUtngTzn9g"
+    },
+    {
+      "album": {
         "name": "Just Pop Hits",
         "url": "https://open.spotify.com/album/60oLjos6nFcbMOQAykbxdN"
       },
@@ -1696,6 +1736,28 @@
       "duration_ms": 167735,
       "name": "Handle Me (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
+    },
+    {
+      "album": {
+        "name": "Son Of The Soil",
+        "url": "https://open.spotify.com/album/2bpVooaqPufHWqA4d414fX"
+      },
+      "artists": [
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "High Fashion",
+      "url": "https://open.spotify.com/track/3VwmjJMWdJ2PEiMpag8g6E"
     },
     {
       "album": {
@@ -2150,7 +2212,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 136666,
       "name": "Labadi",
       "url": "https://open.spotify.com/track/0UP371eP3lmySxTUF79jLK"
@@ -2406,6 +2468,24 @@
       "duration_ms": 162000,
       "name": "LOVERMAN",
       "url": "https://open.spotify.com/track/4WP0sJCCOZFRvuXSuZvhrf"
+    },
+    {
+      "album": {
+        "name": "Low Waist",
+        "url": "https://open.spotify.com/album/48xKnLRBNSajT7mcP4zdTb"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181283,
+      "name": "Low Waist",
+      "url": "https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft"
     },
     {
       "album": {
@@ -2814,6 +2894,24 @@
       "duration_ms": 218181,
       "name": "My Man",
       "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
+    },
+    {
+      "album": {
+        "name": "My Work",
+        "url": "https://open.spotify.com/album/6WbTAQjDajkW1MBptt1I9O"
+      },
+      "artists": [
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160733,
+      "name": "My Work",
+      "url": "https://open.spotify.com/track/06A5rQH5i5UNVkeNHzWuNV"
     },
     {
       "album": {
@@ -3350,7 +3448,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 184077,
       "name": "PICANTO",
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
@@ -4237,6 +4335,24 @@
     },
     {
       "album": {
+        "name": "Tu sais faire",
+        "url": "https://open.spotify.com/album/1KlIaWCh3R45qFERc93qSB"
+      },
+      "artists": [
+        {
+          "name": "Lylah",
+          "url": "https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132890,
+      "name": "Tu sais faire",
+      "url": "https://open.spotify.com/track/1l4SxyMgu9UOCgo1K0z9xV"
+    },
+    {
+      "album": {
         "name": "Morning Black",
         "url": "https://open.spotify.com/album/6DtlPtbowcvNlVLDTPTIY8"
       },
@@ -4412,7 +4528,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
@@ -4560,7 +4676,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 180000,
       "name": "YAWA",
       "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"

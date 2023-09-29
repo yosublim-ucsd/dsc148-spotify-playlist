@@ -4,7 +4,7 @@
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-77 songs - 6 hr 4 min
+84 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [All In](https://open.spotify.com/track/3GakeyWQJbWZc0s0PMGght) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Taygeta Code](https://open.spotify.com/album/0cdNUFprRI0ke2uzOL7uqJ) | 4:41 | 2023-06-08 |  |
 | [Asbesto](https://open.spotify.com/track/3xwKqqLDlLdyDS1GO5ofgL) | [Dark Tempest](https://open.spotify.com/artist/20QGauCCn5cmwkG8bUiDsE) | [Asbesto](https://open.spotify.com/album/0abRMS7VjgDDOuhdVxOs9A) | 2:57 | 2023-09-15 |  |
 | [Ashes](https://open.spotify.com/track/1yav5A5ABFQ9ywEyvnLyB8) | [L\-Wiz](https://open.spotify.com/artist/0nGg1te3vliCXlKbYHLF9B) | [The Orange Tree](https://open.spotify.com/album/774FnnGNgn7cC9eweO8oLw) | 3:41 | 2022-12-08 |  |
+| [Background Check](https://open.spotify.com/track/3darGlrXU4wwSsbHYZODsB) | [0079](https://open.spotify.com/artist/00K5zIIE3FS8YDdZoOntsY) | [Background Check](https://open.spotify.com/album/6ljKLZKOb81aAd241ikUEe) | 4:22 | 2023-09-28 |  |
 | [Beauty Beyond A Web Of Confusion](https://open.spotify.com/track/6vBFjWQiTOY1TAdVq6xSzA) | [Thought Process](https://open.spotify.com/artist/3proICVogPsl2OeB7S2ZUC) | [all:Lo compilation vol:1](https://open.spotify.com/album/6e9JKZFv7kj0WJy0Lb4p0l) | 3:00 | 2022-11-30 |  |
 | [Bliss \- Original Mix](https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20) | [SubDimension](https://open.spotify.com/artist/6fwIH24ZNPIqkWa6BLjyqb) | [Woe & Bliss EP](https://open.spotify.com/album/1rwQMdcIf52wbSVG3YvmOH) | 6:13 | 2022-11-30 |  |
 | [Buddha](https://open.spotify.com/track/0IVC3iGfFt9CFojERArRgB) | [Leon Switch](https://open.spotify.com/artist/33jPdsTCBt9bITZucsvhqG), [Kwizma](https://open.spotify.com/artist/1m7dukoGV16L1hVKHcX5CZ) | [Buddha](https://open.spotify.com/album/6F22J3Y1CKlCRLRHgc68Cy) | 6:22 | 2023-06-22 |  |
@@ -21,12 +22,16 @@
 | [Competition](https://open.spotify.com/track/3LWEhJL5SNZG0Qur9VRd9V) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Competition](https://open.spotify.com/album/6ETGOvIFKT7MQw8hiZyRmZ) | 6:00 | 2023-06-08 |  |
 | [Cracks](https://open.spotify.com/track/7x5wz6mUoNVMUqXJHRYtiN) | [Dark Tempest](https://open.spotify.com/artist/20QGauCCn5cmwkG8bUiDsE) | [Cracks](https://open.spotify.com/album/7zmaglQ71xvOxs8FRWHr0E) | 3:28 | 2023-08-25 |  |
 | [Cryptic](https://open.spotify.com/track/0EiQqkpqOxGJOEZ1ynRcoi) | [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Congi Selection](https://open.spotify.com/album/0S3IJ7jEufwjkMYfFuuu0n) | 5:52 | 2023-06-08 |  |
+| [Deliverance](https://open.spotify.com/track/6OFgrj8vpbvGpGWa6IDpv2) | [Bukkha](https://open.spotify.com/artist/7ADHSBDZKBUoay9s2qXfBA) | [IMRV037](https://open.spotify.com/album/7CmJOJ1mzqgUkfQkvh35RR) | 4:39 | 2023-09-28 |  |
 | [Departure](https://open.spotify.com/track/5XeFM8x0mi2ftMvIdUDWto) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Captivate](https://open.spotify.com/artist/6ULclooHG0oQ6TOPq8Ytuo) | [Fade Into Dust / Departure](https://open.spotify.com/album/5UEcNOfIqP9F9SW65INOs8) | 4:36 | 2023-06-08 | 2023-08-12 |
 | [Do It Jah](https://open.spotify.com/track/46SQW0OrXmXaO41Aa3LcCz) | [Tubby Isiah](https://open.spotify.com/artist/26Tc8d2xASJ8okDwxRFNzu) | [Rising High LP](https://open.spotify.com/album/0vPyyzADg89DBctsSGHh09) | 3:41 | 2022-11-30 |  |
 | [Dread & Buried \- Congi Remix](https://open.spotify.com/track/2AuzAvDq4piWEeSsfkZxqp) | [Origin One](https://open.spotify.com/artist/1EKZ8G8paqscrKD9uZMOor), [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Deeply Remixed, Vol\. 2](https://open.spotify.com/album/1rD87trISV6lwx6QJ5TRpp) | 3:54 | 2022-11-30 |  |
 | [Encounter](https://open.spotify.com/track/0yd51BSGyLz852FDZjvK8Q) | [Formless](https://open.spotify.com/artist/7hXf0gBQHoIPWMWKZnxSj6), [No\-Man](https://open.spotify.com/artist/77BO4bYHfvTmVuG63wOuHX) | [Lucid](https://open.spotify.com/album/1zIx1aP24zBQrP01inAiV9) | 5:36 | 2023-06-22 |  |
 | [Everytime](https://open.spotify.com/track/4ex2TwYLDwyxVvBe6NgOe5) | [Numa Crew](https://open.spotify.com/artist/1tov99lRWyoWgwcnrBFADL) | [Dub Searcher](https://open.spotify.com/album/6P0r7vgr1OoiB7AL4pvwQF) | 3:50 | 2022-11-30 |  |
+| [Evolution](https://open.spotify.com/track/7uv4mcWALbuCSkRhN3yNZ2) | [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [Metaphysics](https://open.spotify.com/album/339cYzlMA0EUyhn4LVXHf2) | 4:10 | 2023-09-28 |  |
+| [Eyes In The Rain](https://open.spotify.com/track/0c3xxwqNKHOwvciDlxkd30) | [Dedman](https://open.spotify.com/artist/7dD5al99eCyWWlcVeoN7Gz) | [Eyes In The Rain](https://open.spotify.com/album/6P6uGYmR2F6XOAIvwukEEH) | 5:48 | 2023-09-28 |  |
 | [Far North Dub](https://open.spotify.com/track/0wmp4aZ02X9Eyy335SbqSd) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Far North Dubs EP](https://open.spotify.com/album/25iJRCx5VAdSDFFWCWlIjy) | 3:53 | 2022-11-30 |  |
+| [Fire](https://open.spotify.com/track/7e3undjXRElTxRyhK1OnYb) | [EchoBoy](https://open.spotify.com/artist/41EvwdctHORo4qe75HpSLV) | [Fire EP](https://open.spotify.com/album/3xxmpJvi2TXgfpr2xNuX54) | 4:27 | 2023-09-28 |  |
 | [Focus Mode](https://open.spotify.com/track/73tBBMZkHLn59Z39ZP2Xgg) | [Baitface](https://open.spotify.com/artist/41brhxliN5EvAXlo4y773r) | [Focus Mode](https://open.spotify.com/album/55UU40jLmmKeOMwPRd4IKa) | 5:36 | 2023-06-22 |  |
 | [Generation Sound](https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [My Religion EP](https://open.spotify.com/album/3IynPUiKNPQ6SeEJ3Uze8x) | 5:08 | 2023-06-22 |  |
 | [Gettin' Low](https://open.spotify.com/track/3aBvi0TfJM2h5FfccriAZA) | [Jafu](https://open.spotify.com/artist/1SJSnoggDVPSbOqpIn2yAg) | [Second Impressions](https://open.spotify.com/album/5odRasJobM0qT5s5XsxwDO) | 4:17 | 2022-11-30 |  |
@@ -43,7 +48,7 @@
 | [Lucid](https://open.spotify.com/track/5B2SBpFLNXgsxJUIkdr2YT) | [Formless](https://open.spotify.com/artist/7hXf0gBQHoIPWMWKZnxSj6) | [Lucid](https://open.spotify.com/album/1zIx1aP24zBQrP01inAiV9) | 5:59 | 2023-06-22 |  |
 | [Meek Dub](https://open.spotify.com/track/6jHOxTUmWeTupc4lKz76Vy) | [Somah](https://open.spotify.com/artist/0Dk9atH2YtBzyWlxu5VpyC) | [Mercy](https://open.spotify.com/album/5JOg5b9KEBsHju0GUen7lj) | 4:23 | 2022-11-30 |  |
 | [Micro Dose](https://open.spotify.com/track/4kNbzt8JmheXA0CBUTo5qe) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Negative Space](https://open.spotify.com/album/7cz8J3Bnwgr5L9wwZUnXOz) | 6:33 | 2023-03-01 | 2023-08-24 |
-| [Micro Dose](https://open.spotify.com/track/5WROKHW8ddJMiRpWEux9G3) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Negative Space](https://open.spotify.com/album/5bGhbn6cbkKg1abkdEYhLa) | 6:33 | 2023-03-01 |  |
+| [Micro Dose](https://open.spotify.com/track/5WROKHW8ddJMiRpWEux9G3) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Negative Space](https://open.spotify.com/album/5bGhbn6cbkKg1abkdEYhLa) | 6:33 | 2023-03-01 | 2023-09-29 |
 | [Nancara](https://open.spotify.com/track/6PLuKhTi6SUGglCsEWV7s9) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [\#000000365](https://open.spotify.com/album/71hvygiGgBQBftAMGbFMfq) | 6:21 | 2022-11-30 |  |
 | [Neural Net](https://open.spotify.com/track/41G3eYZhncCJ4bAGbC5d7Q) | [Dillard](https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq) | [Afterlife LP](https://open.spotify.com/album/73vOuqvQHY2dc1PejsEa69) | 3:25 | 2022-11-30 |  |
 | [Night Square](https://open.spotify.com/track/754AtYj0MT09y6q8Zm6INV) | [PHSNWSKY](https://open.spotify.com/artist/2xtQOwJMmnChneko7Rs8vW) | [Night Square EP](https://open.spotify.com/album/5a7eZfiVeUST9INkj5Y8WR) | 3:25 | 2023-03-01 |  |
@@ -62,6 +67,7 @@
 | [Rain](https://open.spotify.com/track/48rNoZbonGhGGsAA3scPPI) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Rain](https://open.spotify.com/album/2q9NWbWcTb2hcc9lfVBBZu) | 4:01 | 2022-12-21 |  |
 | [Reflection](https://open.spotify.com/track/6ZR6ZDHBsCOcLdshPANYTl) | [Dubbacle](https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu) | [Reflection](https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl) | 4:58 | 2023-06-22 |  |
 | [Revival](https://open.spotify.com/track/0B71eleP2fI8erz2AccjRx) | [Cimm](https://open.spotify.com/artist/5X4hjk9hibUXzbSn3jq6ZK), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6) | [Revival](https://open.spotify.com/album/36yJ0HBPXOBOv1HEjyLE0b) | 4:50 | 2022-11-30 |  |
+| [Rise Above](https://open.spotify.com/track/1Bws7rhbIf45CAIygXLai7) | [Taiko](https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq) | [Crumpets](https://open.spotify.com/album/5cx3u1fBnyF2oKl7S6lo4U) | 3:43 | 2023-09-28 |  |
 | [Rub A Thug](https://open.spotify.com/track/3cvBEDKdMXbPD8LabA0z6G) | [Ourman](https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8) | [Windy](https://open.spotify.com/album/1XhHgedHkBH9Rb5VmoiXMI) | 4:07 | 2023-03-01 |  |
 | [Sacred](https://open.spotify.com/track/0Xs48wQVbi3MdPzYPVlmDP) | [ESCPE](https://open.spotify.com/artist/0BmnB01PeIJC2Dqgnr5A1L) | [Cloud Walk](https://open.spotify.com/album/4V0RpNiBzEDrsu32equ8Kw) | 3:15 | 2023-06-22 |  |
 | [Serpent](https://open.spotify.com/track/0aUNGD38ERJk2QgU2g93i7) | [Audialist](https://open.spotify.com/artist/1CIVHSqqmOMnswj8dwtZCp) | [Audialist Select](https://open.spotify.com/album/0WRFgCjLKAFZKPCpRHCyu6) | 4:40 | 2022-11-30 |  |
@@ -73,6 +79,7 @@
 | [Symbolism](https://open.spotify.com/track/2fTtjRkjapPVOqW8YUliqJ) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD) | [Hermetica](https://open.spotify.com/album/4EFAUFCc36J7SFoyYDdz0o) | 5:40 | 2022-11-30 |  |
 | [Tales from the Crypt](https://open.spotify.com/track/5UzDfhUtdORIjbIYvL0dxs) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Flutez](https://open.spotify.com/album/1106tOwKKH5kZnNB7O5mMh) | 4:13 | 2022-11-30 |  |
 | [Tellaman](https://open.spotify.com/track/0lZORz16mfVk3NW58tguYS) | [Tubby Isiah](https://open.spotify.com/artist/26Tc8d2xASJ8okDwxRFNzu) | [Rising High LP](https://open.spotify.com/album/0vPyyzADg89DBctsSGHh09) | 4:10 | 2023-06-08 |  |
+| [The Last Lotus](https://open.spotify.com/track/0ckyGinZxwo5wnEPDBhQaJ) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [The Last Lotus EP](https://open.spotify.com/album/01LyeW8mTLceCdqcQTeBRx) | 4:39 | 2023-09-28 |  |
 | [Theory Of One](https://open.spotify.com/track/3EnfFT0S4AEANjRJTqtDhQ) | [Versa & Rowl](https://open.spotify.com/artist/16HXo5dAYHkP1g4vhPBrKn) | [Smokin' Sessions 20](https://open.spotify.com/album/5WIeDM6y3DhY2avhuZ1S2Q) | 4:10 | 2022-11-30 |  |
 | [Tired](https://open.spotify.com/track/3u0rtErqAsGNjc3SotWktj) | [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [Biome X Deep Heads](https://open.spotify.com/album/0izqzC6hfV8EycaipMjBkI) | 4:39 | 2023-03-01 |  |
 | [Tomorrow](https://open.spotify.com/track/3agFXIx45gyrD8457JK6wK) | [Dillard](https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq) | [Tomorrow \- EP](https://open.spotify.com/album/7IrrWUxNknlPtmVE1jPRVE) | 5:29 | 2022-11-30 |  |

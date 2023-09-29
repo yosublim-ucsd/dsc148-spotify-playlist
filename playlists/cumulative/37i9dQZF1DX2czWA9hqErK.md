@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-542 songs - 1 day 6 hr 24 min
+544 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Always Could](https://open.spotify.com/track/3RnsFAHevKdYMxGCFSyGsA) | [Chloe](https://open.spotify.com/artist/3Wnzt5vZ10HZFpwzpfyUIA) | [Always Could](https://open.spotify.com/album/0BGDLUFJbBEZU9MZ0s6RRr) | 2:53 | 2022-03-29 | 2022-07-05 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-03-25 | 2022-10-22 |
 | [Amelia](https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:11 | 2023-03-07 | 2023-08-16 |
+| [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2023-09-28 |  |
 | [Avalanche](https://open.spotify.com/track/2zYze9NpKgmpwq58hmgDkL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Avalanche](https://open.spotify.com/album/1SoeCpLaSPZBJ5o4PDSHVy) | 3:47 | 2021-12-16 | 2022-03-09 |
 | [Back In The Day](https://open.spotify.com/track/1SgUfsEz18JLCIlnvIhmFE) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Back In The Day](https://open.spotify.com/album/4yh7uIniR1c3v3QQ1PcduJ) | 3:35 | 2022-03-25 | 2022-04-04 |
 | [Back Of My Hand](https://open.spotify.com/track/2tNGLZLYpG7LUc8PuBXAb6) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Paradise Heights](https://open.spotify.com/album/5truT1ytaeAQFiq6BNPI9d) | 2:10 | 2021-12-16 | 2022-02-22 |
@@ -148,7 +149,7 @@
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-28 | 2023-08-04 |
 | [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 | 2023-08-01 |  |
 | [Eyes Closed](https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-04-04 | 2023-04-14 |
-| [Face in the Crowd](https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Face in the Crowd](https://open.spotify.com/album/5e811Cmtlnt225AQO1tIiu) | 3:24 | 2023-03-07 |  |
+| [Face in the Crowd](https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Face in the Crowd](https://open.spotify.com/album/5e811Cmtlnt225AQO1tIiu) | 3:24 | 2023-03-07 | 2023-09-29 |
 | [Fall Before You](https://open.spotify.com/track/1Nq0NBvGr3uPtKu0IhhBWM) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Fall Before You](https://open.spotify.com/album/5e5rbk3D4QUO5XlEUs6m9e) | 2:47 | 2021-12-16 | 2022-03-28 |
 | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/track/3oDm8bWMqVw2Hn4R8nYwyZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/album/4rhuxHJsNJdATS6PHxMvQ6) | 2:48 | 2023-08-15 |  |
 | [Falling Into You](https://open.spotify.com/track/16zwjXTQj9HDu47UOZJza8) | [Cara Averill](https://open.spotify.com/artist/3vzJQBiSsuVnfhOfaMRuU2) | [Falling Into You](https://open.spotify.com/album/3Je9uM19dWQAPODSpEdkTR) | 3:07 | 2022-01-25 | 2022-07-28 |
@@ -172,7 +173,7 @@
 | [Forever](https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [When I Close My Eyes](https://open.spotify.com/album/6JkrpiVpnhPrCpiVtDPN2f) | 2:49 | 2021-12-16 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/64CKrUSNUMzFHziTnJJzNG) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Forever](https://open.spotify.com/album/1NYpfhFgpcoMmADUQsaYQm) | 2:39 | 2023-05-26 | 2023-07-19 |
 | [Forever Goodbye](https://open.spotify.com/track/29SnhlskgH4sAXFCVDUgNG) | [Billie Flynn](https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf) | [Hey Stranger](https://open.spotify.com/album/2HD4QAxpfB16O7SUt4EyMU) | 4:27 | 2022-01-17 | 2022-07-07 |
-| [Forget Me \- Spotify Singles](https://open.spotify.com/track/2IIMt19xJuWIHVmfpd9jH8) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 3:49 | 2022-10-21 |  |
+| [Forget Me \- Spotify Singles](https://open.spotify.com/track/2IIMt19xJuWIHVmfpd9jH8) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 3:49 | 2022-10-21 | 2023-09-29 |
 | [Free Your Mind](https://open.spotify.com/track/0LcJvZLePFuEdmeSv7Cbsq) | [Chloe Rodgers](https://open.spotify.com/artist/3dptXWP4MdgRHTg65bsR7U) | [Back To The Quay](https://open.spotify.com/album/5ObJmggdX2RKXFpTuph4lQ) | 6:02 | 2022-03-29 | 2022-04-14 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-06-06 |  |
 | [Ghost](https://open.spotify.com/track/3STrStLYHHbwSWopJ3yuj7) | [Hannah Evans](https://open.spotify.com/artist/3oXoiCGV7IVgCEBwHiJM1s) | [Ghost](https://open.spotify.com/album/71pmdc72U1xTn0LIvbp5c7) | 3:47 | 2022-03-29 | 2022-04-08 |
@@ -318,6 +319,7 @@
 | [Love on the Side](https://open.spotify.com/track/442gGJvRUQaUzl36zTNWEU) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Love on the Side](https://open.spotify.com/album/2FiykGkODZ3zt7tDckKA8o) | 2:33 | 2022-03-29 | 2022-07-29 |
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-03-25 | 2022-12-21 |
 | [Magazines](https://open.spotify.com/track/7gT71c6WzCkifRtSQbggGz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Magazines](https://open.spotify.com/album/4hL7bPlgURwziybd5zBuEo) | 3:40 | 2021-12-16 | 2021-12-27 |
+| [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 | 2023-09-28 |  |
 | [Make Believe](https://open.spotify.com/track/01zA432f5V0ssx6YbMgk18) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/3NT1Gm0ikf2rUNlUT1bpL4) | 3:53 | 2021-12-16 | 2022-04-27 |
 | [Mama Said](https://open.spotify.com/track/4ZwB14yES6W9CvmnCtV437) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Mama Said](https://open.spotify.com/album/3f1baSN725q4v2aDdJZtoh) | 3:45 | 2022-05-31 | 2022-10-22 |
 | [Mama's Boy](https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:35 | 2023-09-12 |  |

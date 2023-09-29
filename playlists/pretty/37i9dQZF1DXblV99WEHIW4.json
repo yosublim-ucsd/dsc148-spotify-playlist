@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 211665,
+  "num_followers": 211897,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGZjMDdhMmZhM2IzMDc0MjUyYTEyZmI1YTE0ZTUwNmUxNzRhMTBm",
+  "snapshot_id": "MCw5YmU1YWQ4OWIxY2FlYWMzNjc4MTBmZjBjZTBlYzBkODJhYzY0YWMy",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Lonely Day",
-      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "A Beautiful Lie",
         "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 231533,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Lonely Day",
+      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Aggressive",
-        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 211430,
-      "name": "Hated",
-      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 214226,
       "name": "Let Me Be Sad",
       "url": "https://open.spotify.com/track/5jmYu7XY4zd3mJfizA8t1K"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Aggressive",
+        "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 211430,
+      "name": "Hated",
+      "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC"
-      },
-      "artists": [
-        {
-          "name": "Citizen",
-          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
-        }
-      ],
-      "duration_ms": 233436,
-      "name": "How Does It Feel?",
-      "url": "https://open.spotify.com/track/2CT85N0Rwl2UtNOYZ4gepm"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "American Capitalist",
         "url": "https://open.spotify.com/album/0AiuvwadoYnRjDJRdpmusr"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 241226,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/69CjL1kr0muXIraytXdbf5"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "duration_ms": 233436,
+      "name": "How Does It Feel?",
+      "url": "https://open.spotify.com/track/2CT85N0Rwl2UtNOYZ4gepm"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/3DIJCTr5Zl00MeLuG65Jgp"
     },
     {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
-        "name": "For Those That Wish To Exist",
-        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 299013,
-      "name": "Dying Is Absolutely Safe",
-      "url": "https://open.spotify.com/track/4B161tnzwvFCWiOfx9T8Di"
-    },
-    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "Sap",
@@ -1227,6 +1211,22 @@
       "duration_ms": 267333,
       "name": "Brother",
       "url": "https://open.spotify.com/track/4hmtCJAsVnaV3g6qkCsJ5b"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 299013,
+      "name": "Dying Is Absolutely Safe",
+      "url": "https://open.spotify.com/track/4B161tnzwvFCWiOfx9T8Di"
     },
     {
       "added_at": "2023-02-16 19:56:13",

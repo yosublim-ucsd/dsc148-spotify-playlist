@@ -1,12 +1,12 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 2857377,
+  "num_followers": 2860333,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWMxNGQ3MzVjMGZjZjE2MzIzY2Y3MjQxNWEyOWQyYmU3N2ZmMmU3",
+  "snapshot_id": "MCwxMDdmMDZlOWYzNDFlMTBhMDRhZjc2OGFjMmQ5NWMxYzFmNjg2NTE1",
   "tracks": [
     {
       "added_at": "2023-08-14 21:15:25",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
+        "name": "La Revolucion (Deluxe)",
+        "url": "https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 229680,
+      "name": "Me Estas Tentando",
+      "url": "https://open.spotify.com/track/7JVIiaJPFiZypYSOMREhhA"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
         "name": "Top Of The Line",
         "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 173866,
       "name": "Flow Natural",
       "url": "https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
-        "name": "La Revolucion (Deluxe)",
-        "url": "https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 229680,
-      "name": "Me Estas Tentando",
-      "url": "https://open.spotify.com/track/7JVIiaJPFiZypYSOMREhhA"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
+        "name": "Perreolog\u00eda",
+        "url": "https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        },
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        }
+      ],
+      "duration_ms": 257880,
+      "name": "Mala Conducta (feat. Franco El Gorila)",
+      "url": "https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 242573,
       "name": "M\u00e9tele Saz\u00f3n",
       "url": "https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
-        "name": "Perreolog\u00eda",
-        "url": "https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        },
-        {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        }
-      ],
-      "duration_ms": 257880,
-      "name": "Mala Conducta (feat. Franco El Gorila)",
-      "url": "https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
-        "name": "M.I.A.M.I.",
-        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
         "name": "Roc La Familia & Hector Bambino \"EL FATHER\" Present Los Rompe Discotekas",
         "url": "https://open.spotify.com/album/12WhZAzPc6ekGSTWPGEUVp"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 235760,
       "name": "El Telefono",
       "url": "https://open.spotify.com/track/6viC2tfK0mf86pcqxIoUOG"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
+        "name": "M.I.A.M.I.",
+        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -1967,18 +1967,18 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 220853,
-      "name": "Yo Te Lo Dije",
-      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
+      "duration_ms": 190493,
+      "name": "\u00bfpor Que Te Demoras?",
+      "url": "https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -1999,38 +1999,18 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
       },
       "artists": [
         {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 190493,
-      "name": "\u00bfpor Que Te Demoras?",
-      "url": "https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
-        "name": "The Final Countdown",
-        "url": "https://open.spotify.com/album/1BtMLmeruC0GGhBHYljDVU"
-      },
-      "artists": [
-        {
-          "name": "Eddie Dee",
-          "url": "https://open.spotify.com/artist/0IUl6p6MRVAC8xQOAEX4iD"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 235755,
-      "name": "Amor De Pobre",
-      "url": "https://open.spotify.com/track/437ZUT6wtzlrOil2LRmHpu"
+      "duration_ms": 220853,
+      "name": "Yo Te Lo Dije",
+      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -2051,6 +2031,26 @@
       "duration_ms": 245640,
       "name": "Tu Cuerpo Me Llama Rmx",
       "url": "https://open.spotify.com/track/7E1rvGKkYsVo6vxiTiuBPQ"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
+        "name": "The Final Countdown",
+        "url": "https://open.spotify.com/album/1BtMLmeruC0GGhBHYljDVU"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dee",
+          "url": "https://open.spotify.com/artist/0IUl6p6MRVAC8xQOAEX4iD"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 235755,
+      "name": "Amor De Pobre",
+      "url": "https://open.spotify.com/track/437ZUT6wtzlrOil2LRmHpu"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -2135,6 +2135,26 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
+        "name": "La Melodia de la Calle \"Updated\"",
+        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "Solos",
+      "url": "https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
         "name": "Plan Calle",
         "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
       },
@@ -2179,26 +2199,6 @@
       "duration_ms": 271986,
       "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
       "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
-        "name": "La Melodia de la Calle \"Updated\"",
-        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "Solos",
-      "url": "https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -2855,22 +2855,6 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
-        "name": "La Melodia de la Calle \"Updated\"",
-        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "El Doctorado",
-      "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
         "name": "KlK Llego El Tipo the Album",
         "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
       },
@@ -2883,6 +2867,22 @@
       "duration_ms": 175333,
       "name": "Menea Tu Chapa",
       "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
+        "name": "La Melodia de la Calle \"Updated\"",
+        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "duration_ms": 264146,
+      "name": "El Doctorado",
+      "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -3235,38 +3235,6 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
-        "name": "El Que los Puso a Entonar",
-        "url": "https://open.spotify.com/album/5rlYUO0BB8CMczbXc25Wrr"
-      },
-      "artists": [
-        {
-          "name": "Alberto Stylee",
-          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Te Imagino",
-      "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
-        "name": "La Santa",
-        "url": "https://open.spotify.com/album/23PqJXcgcINtpP43VVpUfQ"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 206402,
-      "name": "La Santa",
-      "url": "https://open.spotify.com/track/0dasi56p3hRh48zW5DC0SE"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
@@ -3287,6 +3255,38 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
+        "name": "La Santa",
+        "url": "https://open.spotify.com/album/23PqJXcgcINtpP43VVpUfQ"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 206402,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/0dasi56p3hRh48zW5DC0SE"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
+        "name": "El Que los Puso a Entonar",
+        "url": "https://open.spotify.com/album/5rlYUO0BB8CMczbXc25Wrr"
+      },
+      "artists": [
+        {
+          "name": "Alberto Stylee",
+          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Te Imagino",
+      "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
         "name": "Progresivo",
         "url": "https://open.spotify.com/album/6saeUDMyWZdwt6ZOhKhhEe"
       },
@@ -3299,6 +3299,22 @@
       "duration_ms": 177680,
       "name": "Nuestro Amor Es Asi",
       "url": "https://open.spotify.com/track/7hdUNvD8YXuRFpbSwi4U7V"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
+        "name": "My Destiny",
+        "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
+      },
+      "artists": [
+        {
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+        }
+      ],
+      "duration_ms": 288288,
+      "name": "Descara",
+      "url": "https://open.spotify.com/track/20Zj7TB00BDSp7KLUJaEvU"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -3319,22 +3335,6 @@
       "duration_ms": 229746,
       "name": "Agresivo",
       "url": "https://open.spotify.com/track/2kGnzHH1Q6YaxjNylz68CM"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
-        "name": "My Destiny",
-        "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
-      },
-      "artists": [
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
-        }
-      ],
-      "duration_ms": 288288,
-      "name": "Descara",
-      "url": "https://open.spotify.com/track/20Zj7TB00BDSp7KLUJaEvU"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -3439,26 +3439,6 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
-        "name": "Reggaeton Rulers: Los Que Ponen",
-        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Voltio",
-          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Let's Go To My Crib",
-      "url": "https://open.spotify.com/track/4SarxFaP7ObsGVqqztIjTO"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
         "name": "Quiero Una Chica",
         "url": "https://open.spotify.com/album/34eKYYPYq2EhyTVaQiQjfT"
       },
@@ -3491,6 +3471,26 @@
       "duration_ms": 198720,
       "name": "Gata Celosa",
       "url": "https://open.spotify.com/track/31IeSPRxSCtQqyi7ixc3WZ"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
+        "name": "Reggaeton Rulers: Los Que Ponen",
+        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Let's Go To My Crib",
+      "url": "https://open.spotify.com/track/4SarxFaP7ObsGVqqztIjTO"
     },
     {
       "added_at": "2023-08-14 21:15:25",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Cover: Appino",
+  "description": "La playlist che \u00e8 come andare ai concerti. Cover: Blonde Redhead",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "AMICA FRAGILE",
+        "url": "https://open.spotify.com/album/6AAoOuD5lBGebrvUyrQ4P3"
+      },
+      "artists": [
+        {
+          "name": "Mutonia",
+          "url": "https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300250,
+      "name": "AMICA FRAGILE",
+      "url": "https://open.spotify.com/track/2ZtUWuJKa29QH0zGk6Vu6X"
+    },
+    {
+      "album": {
         "name": "INIZIO TURNO FINE",
         "url": "https://open.spotify.com/album/2OXOIh9VSnieWigqw9QUdD"
       },
@@ -582,7 +600,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 176571,
       "name": "Anti-Fomo",
       "url": "https://open.spotify.com/track/2AQADuVGjoShxE9gnfRMDW"
@@ -1133,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "L'immagine che ho di me",
+        "url": "https://open.spotify.com/album/6xGbrTau1z7p2aiyoItdG1"
+      },
+      "artists": [
+        {
+          "name": "Selflore",
+          "url": "https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239539,
+      "name": "Bordeaux",
+      "url": "https://open.spotify.com/track/3KV0mra7zQTb04DDHnMSfu"
+    },
+    {
+      "album": {
         "name": "Broccoletti Goes Punk",
         "url": "https://open.spotify.com/album/3NryFAzIjGgs8kWEdK06PR"
       },
@@ -1324,6 +1360,24 @@
       "duration_ms": 148260,
       "name": "C'ho tutto un sogno Ramones",
       "url": "https://open.spotify.com/track/4erZfn8ZjbC6Wxi42CED12"
+    },
+    {
+      "album": {
+        "name": "C3",
+        "url": "https://open.spotify.com/album/0UAdjGzzRxBQGnj6sdZxVV"
+      },
+      "artists": [
+        {
+          "name": "MACISTE",
+          "url": "https://open.spotify.com/artist/2zC0GcyRms127L3vTWlNJP"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269105,
+      "name": "C3",
+      "url": "https://open.spotify.com/track/3wQGGKleRiIIi0nI8cokQY"
     },
     {
       "album": {
@@ -1717,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/3k0KImEdUVqLRgL0OvnePD"
+      },
+      "artists": [
+        {
+          "name": "FREEZ",
+          "url": "https://open.spotify.com/artist/28vV7h4PvbAFJGNhkQQOE0"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167722,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/26s6E9g0Q7VYBUgWGS4jiN"
+    },
+    {
+      "album": {
         "name": "Charlie Sheen",
         "url": "https://open.spotify.com/album/6cNcGxEFYkNCoMI4x2P2QX"
       },
@@ -1772,6 +1844,24 @@
       "duration_ms": 231532,
       "name": "Che benessere !? (con NASKA)",
       "url": "https://open.spotify.com/track/29wow7ReefY8giiopcBNGc"
+    },
+    {
+      "album": {
+        "name": "Che Cosa Ti Spinge A Vivere?",
+        "url": "https://open.spotify.com/album/4f7VUUJWHKEebVKzI5OSNb"
+      },
+      "artists": [
+        {
+          "name": "SPEAKEASY",
+          "url": "https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157228,
+      "name": "Che Cosa Ti Spinge A Vivere?",
+      "url": "https://open.spotify.com/track/1zyHfy9WD8oRG2DPmUhbQG"
     },
     {
       "album": {
@@ -2970,7 +3060,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 122823,
       "name": "EX",
       "url": "https://open.spotify.com/track/0s2a4lDkvChIBsDfoa69ET"
@@ -3086,7 +3176,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 310000,
       "name": "Ferma il treno",
       "url": "https://open.spotify.com/track/1eLE3CzvmEOJDSbPwxI0Sr"
@@ -4419,6 +4509,24 @@
     },
     {
       "album": {
+        "name": "Internet",
+        "url": "https://open.spotify.com/album/43DorRo1BRbjpsCLc5Hc5l"
+      },
+      "artists": [
+        {
+          "name": "Soft Boys Club",
+          "url": "https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188692,
+      "name": "Internet",
+      "url": "https://open.spotify.com/track/6M6MjfgxhWDnBJaJdeCJVb"
+    },
+    {
+      "album": {
         "name": "Io me ne sto fermo ad aspettare",
         "url": "https://open.spotify.com/album/2Y65xP2U931ct1qr9JT4Cs"
       },
@@ -4774,7 +4882,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 221284,
       "name": "L'ansia del casello",
       "url": "https://open.spotify.com/track/0tOZTDemzETWOETHrrhnWy"
@@ -4886,7 +4994,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 198670,
       "name": "La musica \u00e8 finita",
       "url": "https://open.spotify.com/track/3StEZwbxvR10edtOJoq2Ox"
@@ -5001,6 +5109,24 @@
     },
     {
       "album": {
+        "name": "Lattice",
+        "url": "https://open.spotify.com/album/4hJ5girKTDRtbNRtzEGIhh"
+      },
+      "artists": [
+        {
+          "name": "Moregr\u00e8",
+          "url": "https://open.spotify.com/artist/2fw5erjUYoGPxwKhOnELAm"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235682,
+      "name": "Lattice",
+      "url": "https://open.spotify.com/track/0nwqdRgFDh7c020Pm7swJQ"
+    },
+    {
+      "album": {
         "name": "Lavanda",
         "url": "https://open.spotify.com/album/2aVxyEwRpBg3QYmSPkuMeB"
       },
@@ -5012,7 +5138,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 192078,
       "name": "Lavanda",
       "url": "https://open.spotify.com/track/70cCqfIrYQDRw7VVl7WE6Y"
@@ -6483,6 +6609,32 @@
     },
     {
       "album": {
+        "name": "occhi",
+        "url": "https://open.spotify.com/album/5hqv0iT8Hx95Ayc2qWWgbw"
+      },
+      "artists": [
+        {
+          "name": "Foreverboymush",
+          "url": "https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE"
+        },
+        {
+          "name": "Saint Abel",
+          "url": "https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt"
+        },
+        {
+          "name": "Moskova Div",
+          "url": "https://open.spotify.com/artist/0s7lgcaJpldccLW8kD7Xkk"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "occhi",
+      "url": "https://open.spotify.com/track/6iW9PegPcomJryqLj5nMOE"
+    },
+    {
+      "album": {
         "name": "YOGA, Pt. 1",
         "url": "https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe"
       },
@@ -6880,6 +7032,24 @@
       "duration_ms": 151200,
       "name": "Per fortuna non t'ho visto pi\u00f9",
       "url": "https://open.spotify.com/track/4UUzOglsn0sSd4JvUq5iwr"
+    },
+    {
+      "album": {
+        "name": "Per non pensarci pi\u00f9",
+        "url": "https://open.spotify.com/album/74fX2Nb62K4SieqsRNDjvi"
+      },
+      "artists": [
+        {
+          "name": "Motta",
+          "url": "https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Per non pensarci pi\u00f9",
+      "url": "https://open.spotify.com/track/0F3JQEhViqSr7ouimK5LO7"
     },
     {
       "album": {
@@ -8161,6 +8331,24 @@
     },
     {
       "album": {
+        "name": "Sit Down for Dinner (Pts. 1 & 2)",
+        "url": "https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208468,
+      "name": "Sit Down for Dinner, Pt. 2",
+      "url": "https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB"
+    },
+    {
+      "album": {
         "name": "So Long",
         "url": "https://open.spotify.com/album/72DcA98uNwQxTP5ECaeFPu"
       },
@@ -8772,7 +8960,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 243984,
       "name": "Supercharged",
       "url": "https://open.spotify.com/track/2CY5m4p7tmL3nj6cZuwO87"
@@ -9955,6 +10143,28 @@
     },
     {
       "album": {
+        "name": "Punk for introverts",
+        "url": "https://open.spotify.com/album/1kGZ65H7jVEvTdSzwZ5kNj"
+      },
+      "artists": [
+        {
+          "name": "Novanta",
+          "url": "https://open.spotify.com/artist/4R7cSzZwMv7sXEuf7kq61Z"
+        },
+        {
+          "name": "etti/etta",
+          "url": "https://open.spotify.com/artist/1eKi8mUe8g2m5K4sTeQXxL"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310746,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/4brHfnE6AXNdwNg9ByQdrr"
+    },
+    {
+      "album": {
         "name": "Credere Di Pensare",
         "url": "https://open.spotify.com/album/74zRzOFTdEjTGycktwGa0Q"
       },
@@ -10006,6 +10216,24 @@
       "duration_ms": 198455,
       "name": "What a Heart Is For",
       "url": "https://open.spotify.com/track/18xVzYlFYM20dK5OP6E35n"
+    },
+    {
+      "album": {
+        "name": "What has gotten into you?",
+        "url": "https://open.spotify.com/album/4o7k0gfY0CCm1M2LxCxbj9"
+      },
+      "artists": [
+        {
+          "name": "Santa Chiara",
+          "url": "https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208173,
+      "name": "What has gotten into you?",
+      "url": "https://open.spotify.com/track/3o4lVNkYXzxKvpYs6VVqEb"
     },
     {
       "album": {
@@ -10096,7 +10324,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 109325,
       "name": "Worth it or not?",
       "url": "https://open.spotify.com/track/6WmS99KTxCKzToaL05Fxn4"

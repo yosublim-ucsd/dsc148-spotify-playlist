@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "it's a generation \u26d3 ft. walwin",
+  "description": "it's a generation \u26d3 ft. landon barker",
   "name": "The Locker",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 200892,
       "name": "a girl is a gun",
       "url": "https://open.spotify.com/track/1DizkiqT4coHh4lNMyEPtU"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 184615,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
@@ -1771,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "catalogue",
+        "url": "https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc"
+      },
+      "artists": [
+        {
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194319,
+      "name": "catalogue",
+      "url": "https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS"
+    },
+    {
+      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -1826,6 +1844,24 @@
       "duration_ms": 169493,
       "name": "Certified Depressant",
       "url": "https://open.spotify.com/track/69kWNJKHnRH73WkKPT3QU4"
+    },
+    {
+      "album": {
+        "name": "Past // Present // Future (Deluxe)",
+        "url": "https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150542,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/7eoZz7VZAVUhRsAwLh6Jbm"
     },
     {
       "album": {
@@ -3728,7 +3764,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 181847,
       "name": "Favourite Toy",
       "url": "https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP"
@@ -3750,6 +3786,24 @@
       "duration_ms": 181727,
       "name": "Fcked Up Teeth",
       "url": "https://open.spotify.com/track/3TpGGphdlSMOW7XIjq4hEG"
+    },
+    {
+      "album": {
+        "name": "Feel Like Me",
+        "url": "https://open.spotify.com/album/79y7ORz2Q77AnlJnNaS46K"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Feel Like Me",
+      "url": "https://open.spotify.com/track/4dft8CZAm1yURC9weV6o7N"
     },
     {
       "album": {
@@ -5121,6 +5175,24 @@
     },
     {
       "album": {
+        "name": "How to Hold a Knife",
+        "url": "https://open.spotify.com/album/0PQLyt9P4Qi94KgwTnsvcH"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176558,
+      "name": "How to Hold a Knife",
+      "url": "https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0"
+    },
+    {
+      "album": {
         "name": "hurricane",
         "url": "https://open.spotify.com/album/6KrlbTeMwlqpaH0aAA18bW"
       },
@@ -5334,7 +5406,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 196001,
       "name": "i hope KARMA",
       "url": "https://open.spotify.com/track/35ZzmdIfPCZWfmlkR5zgA4"
@@ -5814,6 +5886,42 @@
       "duration_ms": 206130,
       "name": "IS IT COOL 2 B FRIENDS?",
       "url": "https://open.spotify.com/track/2Io9qBI9Ke9zY0xoxKNoY2"
+    },
+    {
+      "album": {
+        "name": "It Could've Been You",
+        "url": "https://open.spotify.com/album/1fz0TnFIf2lhouk219X1mt"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215414,
+      "name": "It Could've Been You",
+      "url": "https://open.spotify.com/track/5eQAybRCE1L1YgPgu6n6UG"
+    },
+    {
+      "album": {
+        "name": "It Won't Be Like This Forever",
+        "url": "https://open.spotify.com/album/4iwi5cpXPASmSueTCcLPkc"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207808,
+      "name": "It Won't Be Like This Forever",
+      "url": "https://open.spotify.com/track/748NBl59GV0pfENbadjSxE"
     },
     {
       "album": {
@@ -8532,7 +8640,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 203580,
       "name": "Screw Loose",
       "url": "https://open.spotify.com/track/7sKxMRhdgtvoqaCI9AIrdu"
@@ -8822,6 +8930,24 @@
       "duration_ms": 136066,
       "name": "SHE\u2019S MY (SEXI BOY)",
       "url": "https://open.spotify.com/track/6foPSxr70ZhG1ZVu03JzYS"
+    },
+    {
+      "album": {
+        "name": "shoelaces",
+        "url": "https://open.spotify.com/album/1iHBSEzbep9OWbgZaawGqh"
+      },
+      "artists": [
+        {
+          "name": "joey maxwell",
+          "url": "https://open.spotify.com/artist/24HpqK3rYuuJgdh2WkNtTq"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179780,
+      "name": "shoelaces",
+      "url": "https://open.spotify.com/track/2cPndAZPxgZgXHPAT20xUE"
     },
     {
       "album": {
@@ -9566,7 +9692,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 154274,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/2SISsR0V9kNjOHU9sJa413"
@@ -9678,6 +9804,24 @@
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+    },
+    {
+      "album": {
+        "name": "summer 23",
+        "url": "https://open.spotify.com/album/3TmAEnR9uI6djJopd0cmf7"
+      },
+      "artists": [
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149660,
+      "name": "summer 23",
+      "url": "https://open.spotify.com/track/1eMkVzztzaNVUesBw1kc4M"
     },
     {
       "album": {
@@ -9852,7 +9996,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 184406,
       "name": "Take Me To Your Place",
       "url": "https://open.spotify.com/track/5tMzJ45qvVHHPf1xVgTTnX"
@@ -10454,7 +10598,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 222839,
       "name": "Think Fast (feat. Weezer)",
       "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"

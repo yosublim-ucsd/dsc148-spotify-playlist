@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-999 songs - 2 day 13 hr 39 min
+1,000 songs - 2 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [Left Alone feat\. 土岐麻子](https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Left Alone feat\. 土岐麻子](https://open.spotify.com/album/1UBA1poMb5uU40hvC6ld9r) | 4:10 | 2022-09-27 | 2023-01-27 |
 | [LEFT RIGHT REMIXX \- FEAT\. CIARA & JACKSON WANG // PROD BY JAKOPS](https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [LEFT RIGHT REMIXX \(FEAT\. CIARA & JACKSON WANG // PROD BY JAKOPS\)](https://open.spotify.com/album/6BYq4jicnLns37lj7By6NX) | 4:31 | 2023-05-04 | 2023-08-23 |
 | [Lemon Man](https://open.spotify.com/track/5FjklXsttFbTHipX9DsvXF) | [sankara](https://open.spotify.com/artist/7mt4mnzU3kea0RFoGBEmtD) | [Lemon Man](https://open.spotify.com/album/7ubdDTcKXTdgRmPNmq2un1) | 3:24 | 2022-06-21 | 2022-07-20 |
-| [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 | 2023-09-20 |  |
+| [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 | 2023-09-20 | 2023-09-29 |
 | [Let Me Feel It](https://open.spotify.com/track/6qpPM5slx9r1m9O8x5ngzs) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 4:05 | 2022-12-06 | 2023-01-28 |
 | [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-09-01 | 2022-09-07 |
 | [Let Me Let You Go \- Japanese Version](https://open.spotify.com/track/4kvYYgoKbVblOo7lPfJWf2) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-08-30 | 2022-09-02 |
@@ -849,6 +849,7 @@
 | [ダダリオ](https://open.spotify.com/track/5W3DgO9LLQkG1EVUKRNmZo) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [ダダリオ](https://open.spotify.com/album/1mq4LdI5Drick13kjnWVaG) | 4:48 | 2022-09-27 | 2022-09-29 |
 | [チャプター](https://open.spotify.com/track/5YyWqhhN1JEn7F2cqDUMQO) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [FICTION](https://open.spotify.com/album/2uCfgTfS5gVxOD1YFiebuE) | 4:18 | 2022-08-16 | 2022-10-12 |
 | [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 | 2022-10-18 | 2023-09-15 |
+| [ディストラクション・シスターズ](https://open.spotify.com/track/7Lr7JP6qEkoDMGFHtyrJHa) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/4t2okOrlqsIZ15pZfdhtuZ) | 2:30 | 2023-09-28 |  |
 | [トローチ](https://open.spotify.com/track/43T1IteiCgm6DpJk8BwIRy) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [トローチ](https://open.spotify.com/album/0qI2G8ssSUP9DwHTXPhEQJ) | 4:06 | 2022-07-26 | 2022-07-29 |
 | [ドク](https://open.spotify.com/track/3gP9oOdbuyRpD5Pn3SiAMv) | [warbear](https://open.spotify.com/artist/0crqBMILaHvFaCvagAiwZr) | [Patch](https://open.spotify.com/album/5kpqm3njhyZaMOclXBuhEj) | 2:57 | 2022-10-04 | 2022-10-26 |
 | [ナイトミスティパーク \- feat\. Kanna Sato](https://open.spotify.com/track/6NKVkUE6NslKKkWXPTmxNc) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM), [Kanna Sato](https://open.spotify.com/artist/33faWWzPH47L5wBC2mgh6A) | [ナイトミスティパーク \(feat\. Kanna Sato\)](https://open.spotify.com/album/3WoCl4i4YZNjCCinEbuarE) | 3:44 | 2023-09-05 | 2023-09-13 |

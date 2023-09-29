@@ -2,7 +2,7 @@
 
 ### [Arsenico ](https://open.spotify.com/playlist/37i9dQZF1DX0IWHdjlGV0r)
 
-> Certi amori bruciano di più\. Cover: Shiva
+> Certi amori bruciano di più\. Cover: Tedua
 
 139 songs - 7 hr 12 min
 

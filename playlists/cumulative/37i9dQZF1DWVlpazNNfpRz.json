@@ -1365,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "GUARACHA PA' GOGUEAR",
+        "url": "https://open.spotify.com/album/3JMFmwnjvucMnGOadcFlAK"
+      },
+      "artists": [
+        {
+          "name": "DJ Freshly",
+          "url": "https://open.spotify.com/artist/0C2bzaeNvJ4p4WYN3hj9L0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179124,
+      "name": "P\u00e9gate & Mu\u00e9vete - Pa' Goguear Mix",
+      "url": "https://open.spotify.com/track/5uQRKccKgFoJOetiAsoTPH"
+    },
+    {
+      "album": {
         "name": "Que Todo",
         "url": "https://open.spotify.com/album/7qisRmx60mvtn2yWhtwfn8"
       },

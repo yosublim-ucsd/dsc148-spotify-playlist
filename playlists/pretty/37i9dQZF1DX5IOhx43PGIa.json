@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: Laufey.",
-  "num_followers": 279590,
+  "num_followers": 279643,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjQ3NGJmOWJhYzEwY2MwNDNiNDE0YzVkNDc1ZWZjZDc5YzU4ODc3",
+  "snapshot_id": "MCw4YTRlY2VhMzRjNzk1NTY4NzM0ZjhmNTlhOGRmYTJjNmRhNDU5YzA3",
   "tracks": [
     {
       "added_at": "2023-09-22 16:53:45",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-09-22 16:53:45",
       "album": {
+        "name": "Shortcut To Heaven",
+        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 184343,
+      "name": "Shortcut To Heaven",
+      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
+    },
+    {
+      "added_at": "2023-09-22 16:53:45",
+      "album": {
         "name": "Drink!",
         "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 187862,
       "name": "Drink!",
       "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
-    },
-    {
-      "added_at": "2023-09-22 16:53:45",
-      "album": {
-        "name": "Shortcut To Heaven",
-        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 184343,
-      "name": "Shortcut To Heaven",
-      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
     },
     {
       "added_at": "2023-09-22 16:53:45",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-09-22 16:53:45",
       "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 220484,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5jhpphz9p3wuSThnkFCTZv"
+    },
+    {
+      "added_at": "2023-09-22 16:53:45",
+      "album": {
         "name": "Steal The Show",
         "url": "https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 152238,
       "name": "My Luv (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt"
-    },
-    {
-      "added_at": "2023-09-22 16:53:45",
-      "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 220484,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5jhpphz9p3wuSThnkFCTZv"
     },
     {
       "added_at": "2023-09-22 16:53:45",
@@ -1847,6 +1847,46 @@
     {
       "added_at": "2023-09-22 16:53:45",
       "album": {
+        "name": "If I Say I Love You",
+        "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
+      },
+      "artists": [
+        {
+          "name": "\u6050\u9f8d\u7684\u76ae",
+          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
+        },
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "duration_ms": 230704,
+      "name": "If I Say I Love You",
+      "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
+    },
+    {
+      "added_at": "2023-09-22 16:53:45",
+      "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/4RDu4REbJHnc4rgvulKdUs"
+      },
+      "artists": [
+        {
+          "name": "JKING",
+          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
+        },
+        {
+          "name": "Dinah Jane",
+          "url": "https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V"
+        }
+      ],
+      "duration_ms": 145061,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/03c2bluectSWUWsIRbSpjB"
+    },
+    {
+      "added_at": "2023-09-22 16:53:45",
+      "album": {
         "name": "playing tricks",
         "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
       },
@@ -1911,26 +1951,6 @@
     {
       "added_at": "2023-09-22 16:53:45",
       "album": {
-        "name": "If I Say I Love You",
-        "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
-      },
-      "artists": [
-        {
-          "name": "\u6050\u9f8d\u7684\u76ae",
-          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
-        },
-        {
-          "name": "Summer Salt",
-          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
-        }
-      ],
-      "duration_ms": 230704,
-      "name": "If I Say I Love You",
-      "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
-    },
-    {
-      "added_at": "2023-09-22 16:53:45",
-      "album": {
         "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
         "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
       },
@@ -1951,26 +1971,6 @@
     {
       "added_at": "2023-09-22 16:53:45",
       "album": {
-        "name": "Falling In Love",
-        "url": "https://open.spotify.com/album/4RDu4REbJHnc4rgvulKdUs"
-      },
-      "artists": [
-        {
-          "name": "JKING",
-          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
-        },
-        {
-          "name": "Dinah Jane",
-          "url": "https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V"
-        }
-      ],
-      "duration_ms": 145061,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/03c2bluectSWUWsIRbSpjB"
-    },
-    {
-      "added_at": "2023-09-22 16:53:45",
-      "album": {
         "name": "THE GRATITUDE PROJECT",
         "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
       },
@@ -1983,22 +1983,6 @@
       "duration_ms": 217258,
       "name": "SHOULD I BE OK?",
       "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
-    },
-    {
-      "added_at": "2023-09-22 16:53:45",
-      "album": {
-        "name": "Thank You For Attending",
-        "url": "https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp"
-      },
-      "artists": [
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 179360,
-      "name": "Paper Houses",
-      "url": "https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf"
     },
     {
       "added_at": "2023-09-22 16:53:45",
@@ -2023,6 +2007,22 @@
     {
       "added_at": "2023-09-22 16:53:45",
       "album": {
+        "name": "Thank You For Attending",
+        "url": "https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 179360,
+      "name": "Paper Houses",
+      "url": "https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf"
+    },
+    {
+      "added_at": "2023-09-22 16:53:45",
+      "album": {
         "name": "Thinkin Of U",
         "url": "https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS"
       },
@@ -2039,6 +2039,22 @@
       "duration_ms": 121682,
       "name": "Thinkin Of U",
       "url": "https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa"
+    },
+    {
+      "added_at": "2023-09-22 16:53:45",
+      "album": {
+        "name": "all of you",
+        "url": "https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Kim",
+          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
+        }
+      ],
+      "duration_ms": 158485,
+      "name": "all of you",
+      "url": "https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr"
     },
     {
       "added_at": "2023-09-22 16:53:45",
@@ -2079,22 +2095,6 @@
       "duration_ms": 229000,
       "name": "bayou",
       "url": "https://open.spotify.com/track/4b4qQm1jizKxQOmHzdUJIR"
-    },
-    {
-      "added_at": "2023-09-22 16:53:45",
-      "album": {
-        "name": "all of you",
-        "url": "https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Kim",
-          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
-        }
-      ],
-      "duration_ms": 158485,
-      "name": "all of you",
-      "url": "https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr"
     },
     {
       "added_at": "2023-09-22 16:53:45",
@@ -2147,18 +2147,18 @@
     {
       "added_at": "2023-09-22 16:53:45",
       "album": {
-        "name": "grass is greener",
-        "url": "https://open.spotify.com/album/1pLUbffRD0y1FUKZwC1CGR"
+        "name": "MEIGUANXIDEYO",
+        "url": "https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
         }
       ],
-      "duration_ms": 199700,
-      "name": "grass is greener",
-      "url": "https://open.spotify.com/track/6RwIjOIh9JoTbDiKmgL7fv"
+      "duration_ms": 220000,
+      "name": "MEIGUANXIDEYO",
+      "url": "https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47"
     },
     {
       "added_at": "2023-09-22 16:53:45",
@@ -2175,6 +2175,22 @@
       "duration_ms": 193825,
       "name": "Easily",
       "url": "https://open.spotify.com/track/5kbMmcJtPuTtmmWM2pcbau"
+    },
+    {
+      "added_at": "2023-09-22 16:53:45",
+      "album": {
+        "name": "grass is greener",
+        "url": "https://open.spotify.com/album/1pLUbffRD0y1FUKZwC1CGR"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 199700,
+      "name": "grass is greener",
+      "url": "https://open.spotify.com/track/6RwIjOIh9JoTbDiKmgL7fv"
     },
     {
       "added_at": "2023-09-22 16:53:45",
@@ -2207,22 +2223,6 @@
       "duration_ms": 127985,
       "name": "OUT OF BODY",
       "url": "https://open.spotify.com/track/6UHF567WPxGMnBYLy87G7w"
-    },
-    {
-      "added_at": "2023-09-22 16:53:45",
-      "album": {
-        "name": "MEIGUANXIDEYO",
-        "url": "https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu"
-      },
-      "artists": [
-        {
-          "name": "The Chairs",
-          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "MEIGUANXIDEYO",
-      "url": "https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47"
     },
     {
       "added_at": "2023-09-22 16:53:45",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2023-09-22 16:53:45",
       "album": {
-        "name": "Sunset Sensory",
-        "url": "https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG"
-      },
-      "artists": [
-        {
-          "name": "Mai Davika",
-          "url": "https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G"
-        }
-      ],
-      "duration_ms": 171285,
-      "name": "Sunset Sensory",
-      "url": "https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq"
-    },
-    {
-      "added_at": "2023-09-22 16:53:45",
-      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/6SwvmOnyxjuidSGIVtktXD"
       },
@@ -2383,18 +2367,18 @@
     {
       "added_at": "2023-09-22 16:53:45",
       "album": {
-        "name": "hewantscoffeebutiamtea",
-        "url": "https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U"
+        "name": "Sunset Sensory",
+        "url": "https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG"
       },
       "artists": [
         {
-          "name": "Numcha",
-          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
+          "name": "Mai Davika",
+          "url": "https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G"
         }
       ],
-      "duration_ms": 204500,
-      "name": "afterglow",
-      "url": "https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh"
+      "duration_ms": 171285,
+      "name": "Sunset Sensory",
+      "url": "https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq"
     },
     {
       "added_at": "2023-09-22 16:53:45",
@@ -2411,6 +2395,22 @@
       "duration_ms": 227927,
       "name": "the american dream",
       "url": "https://open.spotify.com/track/0eqRXQyzoNrwnDEvcQyXSR"
+    },
+    {
+      "added_at": "2023-09-22 16:53:45",
+      "album": {
+        "name": "hewantscoffeebutiamtea",
+        "url": "https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U"
+      },
+      "artists": [
+        {
+          "name": "Numcha",
+          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "afterglow",
+      "url": "https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh"
     },
     {
       "added_at": "2023-09-22 16:53:45",
@@ -2455,6 +2455,38 @@
     {
       "added_at": "2023-09-22 16:53:45",
       "album": {
+        "name": "Bloomingtale",
+        "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
+      },
+      "artists": [
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "duration_ms": 208136,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN"
+    },
+    {
+      "added_at": "2023-09-22 16:53:45",
+      "album": {
+        "name": "the roaring twenties",
+        "url": "https://open.spotify.com/album/3iu4PEVUoWS0bWi7f00XWz"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 169222,
+      "name": "deadline",
+      "url": "https://open.spotify.com/track/35ZzehGXi9mN1dmkT00IQM"
+    },
+    {
+      "added_at": "2023-09-22 16:53:45",
+      "album": {
         "name": "ANGEL",
         "url": "https://open.spotify.com/album/7dpjceNDgV9U67hEfAkEKO"
       },
@@ -2487,18 +2519,18 @@
     {
       "added_at": "2023-09-22 16:53:45",
       "album": {
-        "name": "the roaring twenties",
-        "url": "https://open.spotify.com/album/3iu4PEVUoWS0bWi7f00XWz"
+        "name": "What if I jump from a Bridge?",
+        "url": "https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
         }
       ],
-      "duration_ms": 169222,
-      "name": "deadline",
-      "url": "https://open.spotify.com/track/35ZzehGXi9mN1dmkT00IQM"
+      "duration_ms": 124861,
+      "name": "What if I jump from a Bridge?",
+      "url": "https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc"
     },
     {
       "added_at": "2023-09-22 16:53:45",
@@ -2515,22 +2547,6 @@
       "duration_ms": 141365,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4gLxqqLYKew729IbVXjqsv"
-    },
-    {
-      "added_at": "2023-09-22 16:53:45",
-      "album": {
-        "name": "What if I jump from a Bridge?",
-        "url": "https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto"
-      },
-      "artists": [
-        {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
-        }
-      ],
-      "duration_ms": 124861,
-      "name": "What if I jump from a Bridge?",
-      "url": "https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc"
     },
     {
       "added_at": "2023-09-22 16:53:45",
@@ -2555,22 +2571,6 @@
       "duration_ms": 205094,
       "name": "let's run away",
       "url": "https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0"
-    },
-    {
-      "added_at": "2023-09-22 16:53:45",
-      "album": {
-        "name": "Bloomingtale",
-        "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
-      },
-      "artists": [
-        {
-          "name": "Vira Talisa",
-          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
-        }
-      ],
-      "duration_ms": 208136,
-      "name": "More & More",
-      "url": "https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN"
     }
   ],
   "unique_name": "Jasmine",

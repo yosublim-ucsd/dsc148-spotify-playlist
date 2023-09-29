@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-847 songs - 1 day 21 hr 36 min
+848 songs - 1 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [Spider](https://open.spotify.com/track/10kB96jZFNTFoQga11csC0) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:00 | 2022-02-18 | 2022-07-29 |
 | [Spooky Scary Skeletons](https://open.spotify.com/track/6O4JigLzateJbqb8G3VVTR) | [Bombs Away](https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB) | [Spooky Scary Skeletons](https://open.spotify.com/album/3b6QpfGiY6s31Y7jTmnJ8J) | 2:20 | 2022-10-28 | 2023-01-14 |
 | [Stampede](https://open.spotify.com/track/0QjVOn2O9lTDDseljMKMK5) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr) | [Stampede](https://open.spotify.com/album/5pX3la4oPIp1liaVcxDCIf) | 2:03 | 2022-10-22 | 2023-07-29 |
+| [STAR MVCHINE](https://open.spotify.com/track/3VnxAsE1mWebpGJleOOGTj) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe), [Indy Skies](https://open.spotify.com/artist/4Rb9X7RfZMiHcJF6xo9pzH) | [STAR MVCHINE](https://open.spotify.com/album/1W8zCkfo1d2Wf5wVTY2yuT) | 3:57 | 2023-09-28 |  |
 | [Start A Fire](https://open.spotify.com/track/3KFhOg2pjYHc0mOaFqsmCW) | [Adro](https://open.spotify.com/artist/10a0MPE26mGGv05Exvb1uN), [24Bit](https://open.spotify.com/artist/5BrzPCYkpTrKzXN2tQuvau), [Gaming Playlist](https://open.spotify.com/artist/23Mfhfnb8nWudPtyzEO6F4) | [Start A Fire](https://open.spotify.com/album/3TVQNtBHT21LU5SYTMdmml) | 3:16 | 2022-01-31 | 2022-03-05 |
 | [Start A Riot](https://open.spotify.com/track/0GnSekAxuJfUCcbeh9ki3e) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Start A Riot](https://open.spotify.com/album/3xjvyhPVuPTKtudmFWSRws) | 2:44 | 2022-03-18 | 2022-04-19 |
 | [Start A Riot](https://open.spotify.com/track/49bOS8k7cx7JBu3TjrWU1w) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [RISE](https://open.spotify.com/album/4RszMvLTlzdiMRMqqt7ATc) | 2:44 | 2022-05-06 | 2022-06-04 |

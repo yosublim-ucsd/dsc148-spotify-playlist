@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: TOMOO
 
-1,755 songs - 4 day 17 hr 32 min
+1,757 songs - 4 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Another Way](https://open.spotify.com/track/4E7rg3aXFK1NNHM1eRxPA6) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [Trip](https://open.spotify.com/album/6XPo8gOZ0iwNgLwFlZZ2ml) | 3:47 | 2022-09-13 | 2022-09-28 |
 | [ANY DAY](https://open.spotify.com/track/5SWEws8tWvOvql08LeJD2G) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [AROMATIC](https://open.spotify.com/album/5OMqaGaCzjInevG0ji1kFU) | 3:37 | 2023-09-26 | 2023-09-28 |
 | [ANY DAY](https://open.spotify.com/track/7bgTx89SaMVK5ii4nrX8uM) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [AROMATIC](https://open.spotify.com/album/6pWUe2jfsIGEYnYj6FlBbT) | 3:37 | 2023-09-27 |  |
+| [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 | 2023-09-28 |  |
 | [Anyway](https://open.spotify.com/track/5n3V2VDdanYl4LOqUB53Tx) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Anyway](https://open.spotify.com/album/47z1EcMUrBTt3HJu87bqpB) | 3:36 | 2022-06-07 | 2022-07-11 |
 | [AoRaki](https://open.spotify.com/track/43PPG0Yb0fx7bgTKEFvjsn) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Funtale](https://open.spotify.com/album/7Bm9pJkJp4uiNGBjgRsshB) | 3:47 | 2023-06-20 | 2023-06-28 |
 | [Aoyama Killer Story \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [RA MU \- Night Tempo presents The Showa Groove](https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX) | 5:02 | 2022-10-06 | 2022-10-19 |
@@ -282,7 +283,7 @@
 | [Fast Life](https://open.spotify.com/track/5xaenX98UD9kFUYOR1H18c) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [Fast Life](https://open.spotify.com/album/52afF0eQk1076aLxoXXYhF) | 3:50 | 2023-07-25 | 2023-08-02 |
 | [Fav song](https://open.spotify.com/track/6Lq28D6gCru2Zd7XsdaBWN) | [青山みつ紀](https://open.spotify.com/artist/5cEt7kS0IIWeiTow3vOtsV) | [Fav song](https://open.spotify.com/album/38fnVkD7K4y3mS57YuMXnQ) | 3:34 | 2023-05-09 | 2023-05-17 |
 | [Figure](https://open.spotify.com/track/19qpmFLSJXgyeYohRFGf17) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 3:27 | 2022-08-18 | 2022-08-24 |
-| [Final Call](https://open.spotify.com/track/23UvqSjWD2dilIjKkCd2pf) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Final Call](https://open.spotify.com/album/5GWBGzUQ7053833dmf2rge) | 3:34 | 2022-10-04 |  |
+| [Final Call](https://open.spotify.com/track/23UvqSjWD2dilIjKkCd2pf) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Final Call](https://open.spotify.com/album/5GWBGzUQ7053833dmf2rge) | 3:34 | 2022-10-04 | 2023-09-29 |
 | [FiNAL SHiTS](https://open.spotify.com/track/0t3Aho5s4jnyU3q3g61ygp) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [FiNAL SHiTS](https://open.spotify.com/album/3UFM7yNZ0Rndf5KtjGNM7U) | 4:39 | 2022-08-02 | 2022-08-18 |
 | [FINALE](https://open.spotify.com/track/7oQGeFfnIYlSiYWjjZPEus) | [BENNIE K](https://open.spotify.com/artist/198kwzJsDRvjEEroTJKzKu) | [FINALE](https://open.spotify.com/album/17DddfRDgZPMVbP7VQk8B1) | 4:22 | 2022-06-07 | 2022-07-02 |
 | [Finale.](https://open.spotify.com/track/3KvRIvP9kzP2JTljShpSJu) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Pre\-Romance / Finale.](https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG) | 4:02 | 2022-09-08 | 2023-03-29 |
@@ -514,7 +515,7 @@
 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 | 2022-05-31 | 2022-07-19 |
 | [Little Red Riding Hood](https://open.spotify.com/track/1kXSvdQw5GByk7Ut432360) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Little Red Riding Hood](https://open.spotify.com/album/01IOJtpI12E42QyUjjLSL3) | 3:15 | 2023-01-26 | 2023-04-22 |
 | [little star \(2022 Illumination ver.\)](https://open.spotify.com/track/6nnCXOMLQz0NhRMYmHKs98) | [Socca](https://open.spotify.com/artist/1Ok7RP5GZH0jY8gZo098M6) | [little star \(2022 Illumination ver.\)](https://open.spotify.com/album/2ArCRaS2o7Cqaj8lxBeNLP) | 3:39 | 2023-01-05 | 2023-01-11 |
-| [Living My Life](https://open.spotify.com/track/3sOtP846W4vc5vrwWAzHGA) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Living My Life](https://open.spotify.com/album/3vWRrdqBke874pWHIyz2HF) | 3:45 | 2023-08-01 |  |
+| [Living My Life](https://open.spotify.com/track/3sOtP846W4vc5vrwWAzHGA) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Living My Life](https://open.spotify.com/album/3vWRrdqBke874pWHIyz2HF) | 3:45 | 2023-08-01 | 2023-09-29 |
 | [Logbook](https://open.spotify.com/track/7Dm0vGq2EZnok8p2PQjkMH) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Logbook](https://open.spotify.com/album/4XpPPretRm4hVnvBi3depc) | 3:17 | 2022-12-15 | 2022-12-21 |
 | [Lonely In Tokyo \(Japanese version\)](https://open.spotify.com/track/1DuQO5Rd1nM3phSLXIDcPa) | [MIREI](https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw) | [Lonely In Tokyo EP \(JPN\)](https://open.spotify.com/album/7pwSjRT1WP2wMNbQqU0lQd) | 3:14 | 2023-05-09 | 2023-06-07 |
 | [LONGINESS REMIX \- From THE FIRST TAKE](https://open.spotify.com/track/5C8lhC7xMmNsNNBnP37aPB) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [LONGINESS REMIX \- From THE FIRST TAKE](https://open.spotify.com/album/0CQhF63ygOw27OlcvmIfUc) | 3:09 | 2023-02-07 | 2023-03-01 |
@@ -1563,6 +1564,7 @@
 | [春一番](https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [春一番](https://open.spotify.com/album/6umddxqdrqZmILr4OHa35Z) | 3:17 | 2023-02-28 | 2023-08-31 |
 | [時をかける少女](https://open.spotify.com/track/7tKXX85MSaVD5ctgS8WelE) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [ToMoYo covers\~原田知世オフィシャル・カバー・アルバム](https://open.spotify.com/album/2jXG91MPq9hN7ZEpdY1w9n) | 3:22 | 2022-11-01 | 2022-12-14 |
 | [時計は眠い](https://open.spotify.com/track/4rkqxglseRrle9pYAw0mdv) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [時計は眠い](https://open.spotify.com/album/7a2bho1Rns2X9K3ec6WBKB) | 4:28 | 2022-12-13 | 2022-12-21 |
+| [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2023-09-28 |  |
 | [暁の鐘](https://open.spotify.com/track/5zR3pYsqJIHobB56klDhA3) | [Chitose Hajime](https://open.spotify.com/artist/0ii3SuIwfRs4pRH2sQ1J0U) | [暁の鐘](https://open.spotify.com/album/2HZl0oEhKALA7gqCQ8GjCN) | 4:04 | 2022-06-07 | 2022-06-15 |
 | [暴く春](https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [暴く春](https://open.spotify.com/album/2fIYGVS9QPcWS95wSqLdXs) | 3:26 | 2022-12-27 | 2022-12-29 |
 | [曇りくらいが丁度いい](https://open.spotify.com/track/6xA7IXaV1u3c3WAzZC7Vsm) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [曇りくらいが丁度いい](https://open.spotify.com/album/0juzJ32rR3Ub6qyq23uim4) | 3:40 | 2023-08-15 | 2023-08-17 |

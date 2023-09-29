@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,671 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,717 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 77 | [III](https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz) | [Marco Giubileo](https://open.spotify.com/artist/4yy2BnwVkyFSYo8sVZetaF), [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ), [Kim Stone](https://open.spotify.com/artist/1DwDghZjRzH4LJjLrQ5Kz3), [Roberto Soggetti](https://open.spotify.com/artist/2q7tyChOKCzw3uIRyyax1r), [Simone Boffa](https://open.spotify.com/artist/763xoqKG7PM9BnpwDzvZQR) | [III](https://open.spotify.com/album/4TFafDWw1gmlOWGu8QeToU) | 3:51 |
 | 78 | [Del Mar](https://open.spotify.com/track/4fiiULvaEPZQfa6mH2txg1) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Del Mar](https://open.spotify.com/album/4sKiIOOpmFKBwQGTEhk11p) | 3:59 |
 | 79 | [Unspeakable](https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA) | [Sam Rucker](https://open.spotify.com/artist/5wtjMg3MwCjzBaBfZwIhBE) | [Unspeakable](https://open.spotify.com/album/7fUkN5GD0NbcXVp74CcT9U) | 3:46 |
-| 80 | [BE](https://open.spotify.com/track/2BOcRhGIKurTmHQ8t22y6D) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [BE](https://open.spotify.com/album/7k7JcYg66RUHHhr1Z3bUwb) | 3:10 |
+| 80 | [BE](https://open.spotify.com/track/3G0u0AWzgnwgJpkmGpxLgX) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [BE](https://open.spotify.com/album/21fHWfuOmJnpYGozQo9LCK) | 3:10 |
 | 81 | [I'm Good \- radio single](https://open.spotify.com/track/5nSWbNXMgZZbVf16wiCp0f) | [Charles A\. Kelly](https://open.spotify.com/artist/61e513QSeet2Fwz8XvFegM) | [I'm Good](https://open.spotify.com/album/2eqo8o737VCnrQaMFk1fe1) | 3:48 |
 | 82 | [Nine 2 Five](https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Cool Shades](https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz) | 4:00 |
 | 83 | [Stick It Out](https://open.spotify.com/track/4ZkcYV2L5wz3a1VcmaAZ3t) | [James 'PJ' Spraggins](https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV), [Eric Dubose](https://open.spotify.com/artist/4zY23YqtW0FKY67lqFhKqK) | [Stick It Out](https://open.spotify.com/album/7BnIe8wSqy0cC3M96mZax5) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 | 100 | [Weekend Groove](https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT) | [Jesse Thompson](https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [The Inauguration of Jtjazz \(Jesse Thompson the Man Behind the Keys\)](https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a) | 4:53 |
 
-Snapshot ID: `MCw4YzMyZmYyMGYwYmUxZTY3YzQ3ZDA4MTI3YWVjYTQ4NTllOWZiMjcz`
+Snapshot ID: `MCxlYjJkMGNiNWVjYjU4MDQ3MDc0MmYwMTMxM2VlMzcwMzQxOThiNzll`

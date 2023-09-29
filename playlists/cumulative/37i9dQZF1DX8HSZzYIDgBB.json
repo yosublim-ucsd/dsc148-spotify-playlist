@@ -4368,6 +4368,32 @@
     {
       "album": {
         "name": "Sal de Mar",
+        "url": "https://open.spotify.com/album/21NRPLtRhSOKiBXbPM3yRU"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Iusef",
+          "url": "https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206590,
+      "name": "Sal de Mar",
+      "url": "https://open.spotify.com/track/42ji13UfpBT4Gntboni1HX"
+    },
+    {
+      "album": {
+        "name": "Sal de Mar",
         "url": "https://open.spotify.com/album/7A24Cw1BI1a7mjhTWGxLxn"
       },
       "artists": [
@@ -4966,7 +4992,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 200458,
       "name": "Towards The Mountain",
       "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"

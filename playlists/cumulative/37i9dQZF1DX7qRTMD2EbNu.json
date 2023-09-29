@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX?si=qccMT5kwQpODWW0mhEuLZg\"> M.anifest </a> ",
+  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M?si=DXRQ6FTcTSuPFdlgfyW2yA\"> Ko-Jo Cue </a> ",
   "name": "+233 Bars ",
   "tracks": [
+    {
+      "album": {
+        "name": "10x",
+        "url": "https://open.spotify.com/album/03F3bUL4JCXyGOhpcsSDAY"
+      },
+      "artists": [
+        {
+          "name": "KayMad",
+          "url": "https://open.spotify.com/artist/4YFAU57dP6be9kXSoDBazU"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156962,
+      "name": "10x",
+      "url": "https://open.spotify.com/track/4JzF4DEr9I2JjhegM11f6f"
+    },
     {
       "album": {
         "name": "22",
@@ -78,7 +96,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 687028,
       "name": "5th August 7",
       "url": "https://open.spotify.com/track/2vIxgWmoWVURCYHxhgtlme"
@@ -550,7 +568,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 137472,
       "name": "Assignment",
       "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 142500,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/6sID8N4CP0ikYnl9hRgtUO"
@@ -1182,7 +1200,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 308366,
       "name": "Cold & Trophies (feat. Sister Deborah)",
       "url": "https://open.spotify.com/track/4Nri0xCjwoC1CJUpFSnbaK"
@@ -1379,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Dede",
+        "url": "https://open.spotify.com/album/6VaBuDWyQkt4mVZ9bzcPyV"
+      },
+      "artists": [
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178834,
+      "name": "Dede",
+      "url": "https://open.spotify.com/track/4MnPFO4h4YCOr80WUDDJL8"
+    },
+    {
+      "album": {
         "name": "Dem Deh Try",
         "url": "https://open.spotify.com/album/16hOVq7kncTdjePoCYbB70"
       },
@@ -1416,7 +1452,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 206262,
       "name": "Digits - Remix",
       "url": "https://open.spotify.com/track/5Bnp61rdlcjT26aQ7fCBsG"
@@ -2116,7 +2152,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 208144,
       "name": "Fire - Remix",
       "url": "https://open.spotify.com/track/27413RLXJwf8qnCuJynC66"
@@ -2134,7 +2170,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 232087,
       "name": "First in Class",
       "url": "https://open.spotify.com/track/6NmwEiA27SB5k66nA2VBXp"
@@ -2214,7 +2250,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 129332,
       "name": "Foreign God",
       "url": "https://open.spotify.com/track/7qhKursN790s51MBVvS16g"
@@ -2272,10 +2308,32 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 166153,
       "name": "Freaky & Naughty",
       "url": "https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj"
+    },
+    {
+      "album": {
+        "name": "Free Throw",
+        "url": "https://open.spotify.com/album/0nEvJ6UqOcKJEsQ9AXSxGt"
+      },
+      "artists": [
+        {
+          "name": "Ko-Jo Cue",
+          "url": "https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Free Throw",
+      "url": "https://open.spotify.com/track/2pg9e25Kr4XqiyCCuQssGH"
     },
     {
       "album": {
@@ -2374,7 +2432,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 170172,
       "name": "G-Story",
       "url": "https://open.spotify.com/track/1hpWizyPRVLB0TkuGY8DD8"
@@ -2396,7 +2454,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 175864,
       "name": "Gabba",
       "url": "https://open.spotify.com/track/3NRelBByiCm3PkDyyzKuvo"
@@ -2414,7 +2472,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 221402,
       "name": "Gaga",
       "url": "https://open.spotify.com/track/3QPqrEOt48V8NHDt7rJkRp"
@@ -2532,7 +2590,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 400500,
       "name": "God Abeg (feat. Kwesi Arthur, Joey B & Kay T)",
       "url": "https://open.spotify.com/track/5WZXhQL346sTAQ4WKPUJpJ"
@@ -2694,7 +2752,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 160000,
       "name": "Green Means Go",
       "url": "https://open.spotify.com/track/3GSr6iTdh5lLjVyC67qCMk"
@@ -2844,7 +2902,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 195918,
       "name": "How I'm Feeling",
       "url": "https://open.spotify.com/track/7w2aN3TWfM6BSRGiBOMFag"
@@ -2866,7 +2924,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 202320,
       "name": "I Like",
       "url": "https://open.spotify.com/track/4U64p5uCo1MJ81mhuyPaeK"
@@ -3222,7 +3280,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 160418,
       "name": "Koobi",
       "url": "https://open.spotify.com/track/197R5eZFfywBrXGQ6tBofH"
@@ -3512,7 +3570,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 159262,
       "name": "Likkle Youth (feat. Jay Bahd, Skyface SDW and O'Kenneth)",
       "url": "https://open.spotify.com/track/0iZtUgYgVEG8QtJ2OazHdy"
@@ -3566,7 +3624,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 176713,
       "name": "Lost n found",
       "url": "https://open.spotify.com/track/6bZwlXO5h0FZXui1d76tHg"
@@ -3737,6 +3795,24 @@
     },
     {
       "album": {
+        "name": "MEMORIES",
+        "url": "https://open.spotify.com/album/462SxdQMC2vpzkGD6lBUyp"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Joe",
+          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176639,
+      "name": "MEMORIES",
+      "url": "https://open.spotify.com/track/4U7o1pramUrLh5jN2mXVgd"
+    },
+    {
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/4Ol9KKCihUw5uV7PTtStO9"
       },
@@ -3872,7 +3948,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 121756,
       "name": "MOOD",
       "url": "https://open.spotify.com/track/0ei8sI3SpiPoMlhcAXDrnF"
@@ -4098,6 +4174,28 @@
       "duration_ms": 229345,
       "name": "Non Living Thing (feat. Oxlade)",
       "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
+    },
+    {
+      "album": {
+        "name": "Non Profit",
+        "url": "https://open.spotify.com/album/5RasZr0nIiMergfvTDHcwB"
+      },
+      "artists": [
+        {
+          "name": "Kay-Ara",
+          "url": "https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1"
+        },
+        {
+          "name": "Yaw P",
+          "url": "https://open.spotify.com/artist/7MiNOuMPtp71yoErwjx3yP"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251162,
+      "name": "Non Profit",
+      "url": "https://open.spotify.com/track/1jm90gGyR0lfbCwH5sJJIc"
     },
     {
       "album": {
@@ -4486,7 +4584,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 200733,
       "name": "Oliver Khan",
       "url": "https://open.spotify.com/track/144P7iTQDdvpdQUPKYzsjD"
@@ -5256,7 +5354,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 206499,
       "name": "Sei Mu",
       "url": "https://open.spotify.com/track/2ZXHy4DKMIcl3yst89Jv20"
@@ -5498,7 +5596,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 167331,
       "name": "Sokoo",
       "url": "https://open.spotify.com/track/33ZZooDjBxsIhVKCDxfdrB"
@@ -5538,6 +5636,28 @@
       "duration_ms": 216424,
       "name": "Sorgi",
       "url": "https://open.spotify.com/track/6JSOtt00A0r8ZDBRlAtGlL"
+    },
+    {
+      "album": {
+        "name": "Sote",
+        "url": "https://open.spotify.com/album/77V9NII4iF5tfA6056vYJI"
+      },
+      "artists": [
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Sote",
+      "url": "https://open.spotify.com/track/78UUPN12it0yODLLGHSdPV"
     },
     {
       "album": {
@@ -6200,7 +6320,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 252600,
       "name": "Win",
       "url": "https://open.spotify.com/track/6MXFJ3e7WUvuUsFgpSXvCY"
@@ -6251,6 +6371,44 @@
     },
     {
       "album": {
+        "name": "PALMWINE DIARIES VOL.1",
+        "url": "https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "KWW",
+          "url": "https://open.spotify.com/artist/0oXCDYFtjdq5ruPQuz7NbP"
+        },
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "Twitch 4EVA",
+          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
+        },
+        {
+          "name": "Dayonthetrack",
+          "url": "https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Wossop",
+      "url": "https://open.spotify.com/track/6QvgQtIQzYy48w68M4iFhL"
+    },
+    {
+      "album": {
         "name": "Wtf",
         "url": "https://open.spotify.com/album/7aRyXcDMsV7Y7rHGMZhLtZ"
       },
@@ -6262,7 +6420,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 203939,
       "name": "Wtf",
       "url": "https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD"
@@ -6318,7 +6476,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 207086,
       "name": "Yaa Baby",
       "url": "https://open.spotify.com/track/4qSEMCwQCvv2BTsMQN6Wyv"
@@ -6498,7 +6656,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 185654,
       "name": "Yonah",
       "url": "https://open.spotify.com/track/42cJ1ouSw3VBHmc4fAoN5P"

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,034 songs - 23 hr 5 min
+1,038 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Air](https://open.spotify.com/track/2y7pV9xnmqZKdbdHK7RiWK) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Lost in Dreams](https://open.spotify.com/album/1KSrjyIcjFmL5JQO8yousZ) | 1:40 | 2022-01-20 |  |
 | [Alive](https://open.spotify.com/track/40guzgl8QTYXZoTjX2Syfl) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Alive](https://open.spotify.com/album/10ewSuqBNrSXnf8txoelQu) | 2:09 | 2022-01-12 |  |
 | [Alive \- Soft Piano Version](https://open.spotify.com/track/3ZkAivMUUjo6xAzRaQ590O) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Alive \(Soft Piano Version\)](https://open.spotify.com/album/24t1qK9Nd6iGH2RehDYZhL) | 1:05 | 2022-03-11 |  |
+| [Alive Reimagined](https://open.spotify.com/track/3EB1qJl1fBvyNCINwJbi8T) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Alive Reimagined](https://open.spotify.com/album/5tMcQfAzQCILBbfaDBHGrk) | 1:08 | 2023-09-28 |  |
 | [Alive With You](https://open.spotify.com/track/1nF9statvmu9UR0hus7s9T) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space, Vol\. 2](https://open.spotify.com/album/4GxaVQ8iCn6g6WeVmFKSWn) | 1:04 | 2022-02-04 |  |
 | [All of the Lights](https://open.spotify.com/track/1OWSPpAAN7MI7eybYqIg7R) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:28 | 2022-01-12 |  |
 | [Almost Asleep](https://open.spotify.com/track/5iPK6Z6eMCIf9kaZ9PMAlF) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Near](https://open.spotify.com/album/4gEyJJ0yLUrkTz0WAz1TkO) | 1:28 | 2022-01-15 |  |
@@ -54,6 +55,7 @@
 | [An Ocean Apart](https://open.spotify.com/track/6M7hmMkVaghknwaNMsampM) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Signs Revisited](https://open.spotify.com/album/6LXHz3fjr8QSqODA7xBmxG) | 1:23 | 2022-01-12 |  |
 | [Ancient Love](https://open.spotify.com/track/5fsGqXrJnldzBkSXynAjlh) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:22 | 2022-01-24 |  |
 | [Angels](https://open.spotify.com/track/2tcPVLQnj1u5WER7yqcQCm) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Lost in Dreams](https://open.spotify.com/album/1KSrjyIcjFmL5JQO8yousZ) | 1:43 | 2022-01-20 |  |
+| [Another Dreamscape \- Ambient Cello Version](https://open.spotify.com/track/3B34t3IAuFFDLlKu3bisN8) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Another Dreamscape \(Ambient Cello Version\)](https://open.spotify.com/album/5ZiCYPAiJp3Tuo59dItpW3) | 1:00 | 2023-09-28 |  |
 | [Another Dreamscape Arr\. For Strings](https://open.spotify.com/track/1C7zEeLzMTRERkTpmIir0M) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Another Dreamscape Arr\. For Strings](https://open.spotify.com/album/0w8G9BdMDxPzSWlbG2sQVq) | 1:00 | 2023-09-27 |  |
 | [Another Time](https://open.spotify.com/track/2jnEuCFpYvctFuR2qNmRrw) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Relaxing Cello and Piano](https://open.spotify.com/album/2dSaURPj5XAURyvb5nvO4U) | 1:15 | 2022-01-20 |  |
 | [Answers](https://open.spotify.com/track/2JOl4PZ6DdmJCgwkASMn5p) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Answers](https://open.spotify.com/album/3HL8GQCFn44QkAMYVXpFlJ) | 1:01 | 2022-06-18 |  |
@@ -938,6 +940,8 @@
 | [Trusted \- Cello Version](https://open.spotify.com/track/3rZPBUwGiTOcySIc6wrWNa) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wonderment](https://open.spotify.com/album/5xvoEnKYHlb2kBfkcE6i0k) | 1:03 | 2022-03-02 |  |
 | [Trusting](https://open.spotify.com/track/3Y0oDkeCVaEeOuy6QU1BJb) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:31 | 2022-01-12 |  |
 | [Trusting](https://open.spotify.com/track/1TTcCAQPdddNpNaC86AZiW) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Gazing](https://open.spotify.com/album/0hcrqnBc54ubYBORXkpPzT) | 1:26 | 2022-01-12 |  |
+| [Twilight Glow \- Cello Version](https://open.spotify.com/track/0HJjPd2BfARFk4QtLstvYy) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Twilight Glow](https://open.spotify.com/album/4LE3lY5dvL8wCAmieoeJq3) | 1:01 | 2023-09-28 |  |
+| [Twilight Glow \- Violin Version](https://open.spotify.com/track/4BiCwQUXaMrle1ega7iZ4M) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Twilight Glow](https://open.spotify.com/album/4LE3lY5dvL8wCAmieoeJq3) | 1:00 | 2023-09-28 |  |
 | [Twilight Sky](https://open.spotify.com/track/2g360Y6jrXc87N4OaRRKBd) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Twilight Sky](https://open.spotify.com/album/6tJjFwity5Umk6qSqEpFGE) | 1:03 | 2022-06-27 |  |
 | [Twilight With You \- Ambient Piano](https://open.spotify.com/track/3cWyIKMaf74iL1Tf4U1fi7) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Twilight With You](https://open.spotify.com/album/3TKuNAlvRhEmqIK1HvvfAs) | 1:06 | 2022-01-12 |  |
 | [Twinkle Twinkle Little Star Reimagined](https://open.spotify.com/track/1To5IALUbs9YfgF1E9Rd2R) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Twinkle Twinkle Little Star Reimagined](https://open.spotify.com/album/60SJH0xWgwHTFRE6DHhwxt) | 1:38 | 2022-01-20 |  |

@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 133333,
       "name": "Camberwell",
       "url": "https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3"
@@ -3292,6 +3292,24 @@
       "duration_ms": 156000,
       "name": "ginza",
       "url": "https://open.spotify.com/track/7napq1DUIYBfFbOxbtRKUu"
+    },
+    {
+      "album": {
+        "name": "Glassy Wave",
+        "url": "https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120097,
+      "name": "Glassy Wave",
+      "url": "https://open.spotify.com/track/5vb6yRMsWYwwggXq6hv2yE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-501 songs - 2 day 1 hr 3 min
+502 songs - 2 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [More & More \- No Vox Mix](https://open.spotify.com/track/0BV51sEynTVwGWq4PPQThN) | [Groovefella](https://open.spotify.com/artist/45ysl7gfRvC0FUIbmbXw9G) | [More & More](https://open.spotify.com/album/0mvLf6QrDCW3T4rkCNsyZ1) | 7:17 | 2021-04-21 | 2022-07-11 |
 | [More Than I Should Know](https://open.spotify.com/track/33gTKCdlC5OTe156GIiYVo) | [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [More Than I Should Know](https://open.spotify.com/album/30Ij9GnFU4AMFau8Pb6efo) | 3:38 | 2023-03-03 | 2023-07-15 |
 | [Morning Comes](https://open.spotify.com/track/5zLGsCUdRieydq198vi0q0) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Sound of the Jungle \(Pt\. 6/6\)](https://open.spotify.com/album/6m7N4BnroBoUnLmG6W2548) | 5:15 | 2023-03-10 |  |
+| [Morning Glory](https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Morning Glory](https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR) | 4:29 | 2023-09-22 |  |
 | [Mujer \(Anja Schneider Remix\)](https://open.spotify.com/track/5noZKtZK2JZsGK8JlUiVeB) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Meta\_](https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mujer \(Anja Schneider Remix\)](https://open.spotify.com/album/2tAqZzvr2JODFIr70Gkfd4) | 5:43 | 2022-07-01 | 2022-07-24 |
 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 | 2021-05-01 | 2022-08-04 |
 | [My Time With You](https://open.spotify.com/track/1MqiNllDK5JEVV3FrETMQl) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Lost Desert & Friends III](https://open.spotify.com/album/4I0G615tBSwurLamowdpHD) | 6:49 | 2023-06-23 | 2023-08-07 |
@@ -367,7 +368,7 @@
 | [Rational Utopia](https://open.spotify.com/track/1zZrBI8daxuMRJQqE0CkaO) | [Toto Chiavetta](https://open.spotify.com/artist/0DBwNrdGSluzJl24pHRiOk) | [Rational Utopia](https://open.spotify.com/album/0FFLuWqNeJc2HxROaNDH99) | 8:18 | 2022-06-10 | 2022-08-04 |
 | [Raven](https://open.spotify.com/track/3DSz44pPAfri3xhLvoGLaY) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C) | [Lux EP](https://open.spotify.com/album/5U8s00tqXWFwUfXD8eprtV) | 7:19 | 2021-04-21 | 2022-07-29 |
 | [Regado](https://open.spotify.com/track/4v6sh0roVtsDwDLCCRIFeV) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Regado](https://open.spotify.com/album/2fOtyH0xBYLXZInmq1KItS) | 5:07 | 2023-01-13 | 2023-02-26 |
-| [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 | 2022-09-02 |  |
+| [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 | 2022-09-02 | 2023-09-29 |
 | [Reign \- Okuma Remix](https://open.spotify.com/track/07ysv62qaOQmIEIvcIX2Wr) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [One by One Remixes](https://open.spotify.com/album/2VFxjPMUpN6n2aU8UdN4Ap) | 7:11 | 2021-05-07 | 2022-07-29 |
 | [Relax Shiva](https://open.spotify.com/track/6bU5V5LKTHjFB9LvJaH0xH) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Relax Shiva](https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe) | 3:56 | 2023-06-16 | 2023-07-09 |
 | [Remember Me](https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Tamara Blessa](https://open.spotify.com/artist/7gLbU9emwsE9xuxnA5rNLN) | [Remember Me](https://open.spotify.com/album/1C13hkYjqhNLmDbgwkmiVp) | 3:46 | 2023-04-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 151817,
+  "num_followers": 152278,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzM2YTI3YTcwM2JhNTIwOGNiNTBhNDNhOGMwZDZkNjlmM2Q5MjQw",
+  "snapshot_id": "MCwwMzE2OTVhOGJmZjQ2Nzc1MWNhYjBkMDc5MGNmZmU4ZDVlMzYzZTY5",
   "tracks": [
     {
       "added_at": "2023-09-20 12:15:02",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-09-20 12:15:02",
       "album": {
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 128985,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp"
+    },
+    {
+      "added_at": "2023-09-20 12:15:02",
+      "album": {
         "name": "Mr. Bossa Nova",
         "url": "https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 146666,
       "name": "Rio",
       "url": "https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ"
-    },
-    {
-      "added_at": "2023-09-20 12:15:02",
-      "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 128985,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp"
     },
     {
       "added_at": "2023-09-20 12:15:02",

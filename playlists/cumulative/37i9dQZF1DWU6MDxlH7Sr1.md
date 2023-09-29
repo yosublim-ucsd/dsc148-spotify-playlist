@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-285 songs - 18 hr 28 min
+287 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Kathy's Waltz](https://open.spotify.com/track/5d8SK0Qq6S7vxfU85zHnrI) | [D\. Brubeck](https://open.spotify.com/artist/0HQ501eKb3lNaFMNDRbxHd), [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [THE MUSIC OF AMERICA: Inventing Jazz \- Dave Brubeck](https://open.spotify.com/album/0tFNTTbxmknMMpOheMzfTP) | 4:50 | 2022-11-10 | 2022-11-13 |
 | [Kathy's Waltz](https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:47 | 2022-06-29 | 2023-02-24 |
 | [Kathy's Waltz](https://open.spotify.com/track/4vNhTztObTig8utYwGsETO) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y) | 4:47 | 2022-04-26 | 2022-07-29 |
+| [Konrad](https://open.spotify.com/track/6ExQ1R9sVXoA11g6WlcWzP) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Konrad](https://open.spotify.com/album/21TB7aIqO1QS3DevseXAMV) | 2:45 | 2023-09-29 |  |
 | [Lady in the Blue Dress](https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Lady in the Blue Dress](https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD) | 4:07 | 2022-04-26 | 2022-09-07 |
 | [Lake Arrowhead](https://open.spotify.com/track/1iceRErjDazYdrZoB8eo48) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Lake Arrowhead](https://open.spotify.com/album/2PER2MGdknFkZG5AAXDA9v) | 3:38 | 2023-04-13 |  |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 |  |
@@ -189,11 +190,11 @@
 | [On A Clear Day](https://open.spotify.com/track/2rtTRNbX2fRQGsLBje9YHS) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [On A Clear Day](https://open.spotify.com/album/3hLEkeJRG2VTK3M7015jt0) | 2:37 | 2022-10-13 | 2022-11-25 |
 | [On Green Dolphin Street](https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [In Person](https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07) | 5:53 | 2022-04-26 | 2022-11-18 |
 | [On The Street Where You Live](https://open.spotify.com/track/7xLNfcvvxHB3gjCeBdDD4n) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [On The Street Where You Live](https://open.spotify.com/album/09UH3htyiTiqxM0FnhqDsv) | 3:19 | 2022-08-10 |  |
-| [On The Sunny Side Of The Street](https://open.spotify.com/track/4X4PGg2TnRyXZS9lsY8Hl7) | [Syncopation Station](https://open.spotify.com/artist/7c5Bd1OW0AbwL2yqDpSecr) | [On The Sunny Side Of The Street](https://open.spotify.com/album/3qSthRLQuCOS3NB1sDPLEE) | 3:23 | 2023-04-13 |  |
+| [On The Sunny Side Of The Street](https://open.spotify.com/track/4X4PGg2TnRyXZS9lsY8Hl7) | [Syncopation Station](https://open.spotify.com/artist/7c5Bd1OW0AbwL2yqDpSecr) | [On The Sunny Side Of The Street](https://open.spotify.com/album/3qSthRLQuCOS3NB1sDPLEE) | 3:23 | 2023-04-13 | 2023-09-29 |
 | [One More Time](https://open.spotify.com/track/1cwApuGBzxyhCPBYSX3xqk) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [One More Time](https://open.spotify.com/album/75WAs6klPeLsGuW2jAvB4x) | 3:16 | 2023-05-11 |  |
 | [Our Love Story](https://open.spotify.com/track/1FW1U15nbWIAteWTI2Iy9L) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Our Love Story](https://open.spotify.com/album/3G7vIhBdcwdmKTMdr4NcYt) | 2:40 | 2023-04-13 |  |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 |  |
-| [Over Here](https://open.spotify.com/track/5XLasheriaLTs6momYfB9n) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Silver Lining](https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY) | 3:49 | 2022-08-10 |  |
+| [Over Here](https://open.spotify.com/track/5XLasheriaLTs6momYfB9n) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Silver Lining](https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY) | 3:49 | 2022-08-10 | 2023-09-29 |
 | [Overcome with emotion](https://open.spotify.com/track/5ZhZ2RGjOsFOUC57CyCUiJ) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Overcome with emotion](https://open.spotify.com/album/7kx9y7Z1NKaropXnE8tPmr) | 3:14 | 2023-09-08 |  |
 | [Pathfinding](https://open.spotify.com/track/3crZQxfAscJX4GLbmiV4F7) | [Theo Rollins](https://open.spotify.com/artist/60QiTTvsk3chyatkaryUFL) | [Pathfinding](https://open.spotify.com/album/4LjNSnWXsDOgaE7YK20BSF) | 3:10 | 2022-04-26 |  |
 | [Paul's Pal \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6a7RptxOL7EiTs0WNCjpeZ) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q) | 5:10 | 2022-04-26 | 2022-08-18 |
@@ -274,6 +275,7 @@
 | [Walk With Me](https://open.spotify.com/track/5Bta8U48xSE7r91zzuECxq) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [A Penny for Your Thoughts](https://open.spotify.com/album/2zHoGZXTMc6bdL5098LVSP) | 3:46 | 2023-04-13 | 2023-08-25 |
 | [Walking into Love](https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Walking into Love](https://open.spotify.com/album/2lfst2A0Lbz8kpzxprjnM2) | 3:17 | 2023-04-13 |  |
 | [Watch What Happens](https://open.spotify.com/track/3C8LKleDein4hf61QPoWg5) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Crossways](https://open.spotify.com/album/5wS9f4r6IGfxyluF1ykXtG) | 2:57 | 2022-06-08 | 2023-09-01 |
+| [We Talk Later](https://open.spotify.com/track/0ypKIgecf2ubbenc0qcuj7) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [We Talk Later](https://open.spotify.com/album/7xnclPUMXH1kocR3SJhZBK) | 2:50 | 2023-09-29 |  |
 | [What A Difference A Day Makes](https://open.spotify.com/track/38c3Ad0TqWEwnUPH2NdTWm) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [What A Difference A Day Makes](https://open.spotify.com/album/56B3PMPbWgxrZis5ruTcdm) | 4:06 | 2022-11-10 |  |
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-08-10 |  |
 | [What room you in?](https://open.spotify.com/track/0aq8Ox33II1IE0fubT3YDe) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [What room you in?](https://open.spotify.com/album/2pJzyAeVLq0Ms0xA258gHE) | 3:17 | 2023-08-10 |  |

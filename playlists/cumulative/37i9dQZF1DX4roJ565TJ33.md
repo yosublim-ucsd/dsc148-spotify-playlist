@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-157 songs - 12 hr 6 min
+158 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Sov På Min Arm \(Nocturne\)](https://open.spotify.com/track/3h4sjDpktTHGhAWGwLmBq6) | [Anna Sandström](https://open.spotify.com/artist/65Hb9fw3WwtPZskZZ3jaY8), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [ASK](https://open.spotify.com/album/2HqI79UD7f1YPwEyHXJTto) | 5:51 | 2023-02-16 |  |
 | [Stablemates](https://open.spotify.com/track/0e2qoYX2fvzOKw1WztN0Il) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Stablemates](https://open.spotify.com/album/3lqaHDcGbtoXOJOf4OCv4K) | 5:03 | 2022-05-26 |  |
 | [Stay Now](https://open.spotify.com/track/7hC1pSoxiMsK5pUqZGiyrV) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 2:49 | 2022-01-27 |  |
+| [Stepan](https://open.spotify.com/track/0UfVPxGRDxSJmf3IQ7O3Sp) | [Karl Wallmyr](https://open.spotify.com/artist/08OHaqFpoHPuOWMpn1ubRh) | [Serendippo](https://open.spotify.com/album/5ZCZSAZAMO5SFYBczR0eGF) | 4:39 | 2023-09-29 |  |
 | [Straight No Chaser](https://open.spotify.com/track/2X3YXnpdQmhbglF9TiVh18) | [Milder / Spering / Norén](https://open.spotify.com/artist/54T3sZrj7xq7IfBRxm95NS) | [Associations](https://open.spotify.com/album/3M5Vv6VLLL6whjtvfX9eSb) | 3:31 | 2021-11-08 |  |
 | [Sun Bleached](https://open.spotify.com/track/7u0T1Y4e9u4UsJwD9eimgC) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Ilaria Capalbo](https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT), [Staffan Svensson](https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM) | [Dolores: Two](https://open.spotify.com/album/13L16PToAgJGkypGuFLo9a) | 4:14 | 2021-11-08 |  |
 | [Söndan](https://open.spotify.com/track/3GgKkg7jhloBH5vjT6ABYJ) | [Rymden](https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW) | [Söndan](https://open.spotify.com/album/3vgaaFqozWv78En6jGMY9w) | 4:51 | 2021-11-08 | 2022-07-29 |

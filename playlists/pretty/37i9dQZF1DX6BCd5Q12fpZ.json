@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65623,
+  "num_followers": 65640,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjhkYmY1YzZkOGZmNWFjNjFkMjMyMjUyNGQzNzhlNDE5ZmI5YjA4",
+  "snapshot_id": "MCw1ZTRlZDBhYzYwMDAyZGJhOTc1MjNmNjczNDI4ZTRkZThkNzViNmI4",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Rhythm Inside",
+        "url": "https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Nottet",
+          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
+        }
+      ],
+      "duration_ms": 172152,
+      "name": "Rhythm Inside",
+      "url": "https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "110 Karat",
         "url": "https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 143000,
       "name": "Puppet On A String",
       "url": "https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Rhythm Inside",
-        "url": "https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx"
-      },
-      "artists": [
-        {
-          "name": "Lo\u00efc Nottet",
-          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
-        }
-      ],
-      "duration_ms": 172152,
-      "name": "Rhythm Inside",
-      "url": "https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N"
     },
     {
       "added_at": "2023-05-05 17:20:54",

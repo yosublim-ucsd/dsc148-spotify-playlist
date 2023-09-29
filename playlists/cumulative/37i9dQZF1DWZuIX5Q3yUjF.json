@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/4ve2w495Yz5uqcu4rtImJ8"
+      },
+      "artists": [
+        {
+          "name": "Cristina Lizzul",
+          "url": "https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/36KNw1NcM0o8rlGgocILm2"
+    },
+    {
+      "album": {
         "name": "Anima mundi",
         "url": "https://open.spotify.com/album/7pSPAplcwIKW6HxUUNhIRu"
       },
@@ -400,6 +418,24 @@
       "duration_ms": 172369,
       "name": "Avorio e Veleno",
       "url": "https://open.spotify.com/track/482vXBlu2NUiYNv1W6t9pF"
+    },
+    {
+      "album": {
+        "name": "baci baci",
+        "url": "https://open.spotify.com/album/32vXmKVBTSPluwU7nyRMYr"
+      },
+      "artists": [
+        {
+          "name": "NIMSAY",
+          "url": "https://open.spotify.com/artist/5jicTWnmYwpBo4TNpw5yre"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167231,
+      "name": "baci baci",
+      "url": "https://open.spotify.com/track/4Dog9VJrenfwhZXvbuhm5s"
     },
     {
       "album": {
@@ -628,7 +664,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 190782,
       "name": "Brava",
       "url": "https://open.spotify.com/track/0oNfUVmHSsWYknhbnamRtd"
@@ -1620,10 +1656,32 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 183507,
       "name": "Demone",
       "url": "https://open.spotify.com/track/214KT9TF4uVt1VCNBtOmzj"
+    },
+    {
+      "album": {
+        "name": "Dettagli",
+        "url": "https://open.spotify.com/album/4Ap3xuFc7S9zqnOZ3A2XdF"
+      },
+      "artists": [
+        {
+          "name": "marco.",
+          "url": "https://open.spotify.com/artist/3YwnaFYy7mL8nnjkxL0bx1"
+        },
+        {
+          "name": "Santacroce",
+          "url": "https://open.spotify.com/artist/6tXJU8pjgnWBnw6m6b8krY"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181524,
+      "name": "Dettagli",
+      "url": "https://open.spotify.com/track/7isfTQzWnrGZPv0eLf92cF"
     },
     {
       "album": {
@@ -3866,7 +3924,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 156000,
       "name": "Mai",
       "url": "https://open.spotify.com/track/49yoO2ALwofOHJnMO5ufUy"
@@ -4622,7 +4680,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 159937,
       "name": "Occhi Mare",
       "url": "https://open.spotify.com/track/5ShMQ5NevaLbqNnkAg2Rax"
@@ -5488,7 +5546,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 161684,
       "name": "Ridicolo",
       "url": "https://open.spotify.com/track/64OHcMEI1bgf5T0znQd1uq"
@@ -6661,6 +6719,28 @@
     },
     {
       "album": {
+        "name": "Chiamami Quando La Magia Finisce",
+        "url": "https://open.spotify.com/album/40NoSD1gcWgmWS2M0gri9N"
+      },
+      "artists": [
+        {
+          "name": "TROPICO",
+          "url": "https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW"
+        },
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214057,
+      "name": "Televisione (feat. Mahmood)",
+      "url": "https://open.spotify.com/track/4JuUtt0xKSzIy5nrpuXL4m"
+    },
+    {
+      "album": {
         "name": "Tell Me Why",
         "url": "https://open.spotify.com/album/6cUx83dXwKcmjER80iUAWy"
       },
@@ -6792,7 +6872,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 155320,
       "name": "Tra Mille",
       "url": "https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0"
@@ -7097,6 +7177,24 @@
     },
     {
       "album": {
+        "name": "Un'altra festa",
+        "url": "https://open.spotify.com/album/0eYc4SuHZ26wkYQL0ygkDh"
+      },
+      "artists": [
+        {
+          "name": "JeBel",
+          "url": "https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148224,
+      "name": "Un'altra festa",
+      "url": "https://open.spotify.com/track/1KpgcZBATfN2xyoKcyj1TH"
+    },
+    {
+      "album": {
         "name": "UN'ALTRA NOTTE",
         "url": "https://open.spotify.com/album/0wxai2kIsKcmGlHvSXsPR3"
       },
@@ -7315,6 +7413,24 @@
     },
     {
       "album": {
+        "name": "Vivere",
+        "url": "https://open.spotify.com/album/6REfVvtABJIP3wVIvoyOEP"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Vivere",
+      "url": "https://open.spotify.com/track/40P8i5YKA3xMDSozUw1vgK"
+    },
+    {
+      "album": {
         "name": "Volevo Portarti Al Mare",
         "url": "https://open.spotify.com/album/0KIp2ubNGwlo2H9DDpegfV"
       },
@@ -7442,7 +7558,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 174079,
       "name": "Zucchero e Sale",
       "url": "https://open.spotify.com/track/7j0VFuLHABoRBuNHiAKclJ"

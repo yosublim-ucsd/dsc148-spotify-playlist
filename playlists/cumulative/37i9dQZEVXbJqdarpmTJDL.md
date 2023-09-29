@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,284 songs - 2 day 20 hr 44 min
+1,285 songs - 2 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-17 |
 | [Issues](https://open.spotify.com/track/6yWrVpXkyFjvOjYrYLl8HT) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [rigasbeats](https://open.spotify.com/artist/11Clnp2vx1BgBKgfngjuMZ) | [ATHENA](https://open.spotify.com/album/16BsYbHUF4VT2u8R1Ef3Bc) | 3:38 | 2022-12-17 | 2022-12-19 |
 | [Istories](https://open.spotify.com/track/1bQGzQGGybgdEVkRIcHx1O) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4) | [Fthina Tricks](https://open.spotify.com/album/7MqSq1YDxSsLL5vEvBPsAk) | 4:30 | 2023-05-20 | 2023-05-28 |
+| [ISWS](https://open.spotify.com/track/4vRmcTWTaVC6pCeW9nt9DF) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [ISWS](https://open.spotify.com/album/0424OMEcTK0UyNzG0c9ell) | 2:34 | 2023-09-28 |  |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-12-25 | 2021-12-27 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 | 2022-12-25 | 2022-12-28 |
 | [It's Love](https://open.spotify.com/track/6bOAwlJ6V8oWqGOXeairhN) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [It's Love](https://open.spotify.com/album/61fjiw7XzE91ldIpdf3iCz) | 2:51 | 2022-04-11 | 2022-04-16 |
@@ -891,7 +892,7 @@
 | [Panorama](https://open.spotify.com/track/21xcnEC8ZIr8nTtI8xyDeS) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [Beverly Hills](https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW) | 3:02 | 2022-05-27 | 2022-11-13 |
 | [Panorama \- Bonus Track](https://open.spotify.com/track/2VKua9wDtyCDu8ptCFtc8D) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa) | [Mektoub 2](https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS) | 3:06 | 2023-05-06 | 2023-05-08 |
 | [Papafeio](https://open.spotify.com/track/6LIqOunAkraEyXV2kIDNEE) | [Tzamal](https://open.spotify.com/artist/3f3h06ii1hc3dmFiuLNAQq), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR) | [Papafeio](https://open.spotify.com/album/3iXIqW7ivdE9TZoNOZG3DW) | 4:31 | 2022-04-09 | 2022-04-11 |
-| [PAPAGOU](https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [PAPAGOU](https://open.spotify.com/album/0D5o2Ne3OXuErZZC6KP717) | 2:35 | 2023-05-05 |  |
+| [PAPAGOU](https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [PAPAGOU](https://open.spotify.com/album/0D5o2Ne3OXuErZZC6KP717) | 2:35 | 2023-05-05 | 2023-09-29 |
 | [Paparazzi](https://open.spotify.com/track/1Oc20BFw8E3QJXhZQJ5gS3) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Uncle Murda](https://open.spotify.com/artist/3kortApcf0ntRWexUkJE4H), [Ortiz](https://open.spotify.com/artist/3x9mGsQyJTszfiIVgqWDuT) | [Money and Drugs Can't Live in Poverty \(Deluxe Version\)](https://open.spotify.com/album/3FmU169FLMfnRt9vEronwN) | 4:00 | 2022-07-26 | 2022-07-30 |
 | [Paparazzi](https://open.spotify.com/track/7jmkuBZeH5lezHZ3iu3YH1) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Bad Boy \(Summer Hits\)](https://open.spotify.com/album/21rySo430y5dVWknVK0JAB) | 3:02 | 2022-05-28 | 2022-06-05 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-07 |

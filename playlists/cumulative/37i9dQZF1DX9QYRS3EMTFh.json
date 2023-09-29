@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Maureen",
+  "description": "Les hits dancehall du moment. Photo : Kalash",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -388,6 +388,28 @@
       "duration_ms": 157368,
       "name": "BACKYTOP",
       "url": "https://open.spotify.com/track/7nrShg7j8pfL4qOszh8r1H"
+    },
+    {
+      "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/1Ysj1KnPSmWT1Gge4mJQS6"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161528,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/0tWNSangvn0bKiKhazVMvG"
     },
     {
       "album": {
@@ -1177,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Cent",
+        "url": "https://open.spotify.com/album/0Ohw3kY5Nuhlr0V3QPNiOS"
+      },
+      "artists": [
+        {
+          "name": "JmaX",
+          "url": "https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177578,
+      "name": "Cent",
+      "url": "https://open.spotify.com/track/3s21wkLQFkjzv9yYEqHTvV"
+    },
+    {
+      "album": {
         "name": "CHAUD PATATE",
         "url": "https://open.spotify.com/album/6ECggfdkd4fqOrSKU4KeWx"
       },
@@ -1406,7 +1446,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 161739,
       "name": "Curious",
       "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
@@ -3138,7 +3178,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 127992,
       "name": "Le roi du Shatta",
       "url": "https://open.spotify.com/track/03NgCpDoLcslt53N88Y3Fp"
@@ -3266,7 +3306,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 223260,
       "name": "Longtime",
       "url": "https://open.spotify.com/track/2YCC5U2zruPmVxLVPYrpr5"

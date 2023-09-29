@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 373940,
+  "num_followers": 374027,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2VlNjM3YzA5N2YwZWU1N2U4YTFmZGI0NzZjYTIyMjliOWNmMTI1",
+  "snapshot_id": "MCwzYjRkYTBjMWI3OTgxMGVjNjAwNzY3NjE2NjZkZTIxNjYyYzYxYTE4",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "Pining",
-      "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Never Twice",
         "url": "https://open.spotify.com/album/1gzWphTk6PqMZ5qWbVaBk4"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 220240,
       "name": "Katchi",
       "url": "https://open.spotify.com/track/09uXepY9uC1cUlvZ6kbOy6"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Pining",
+      "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 227092,
+      "name": "To the Boys",
+      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "A Light That Never Dies",
         "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "First Flower",
-        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
       },
       "artists": [
         {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
         }
       ],
-      "duration_ms": 227092,
-      "name": "To the Boys",
-      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
+      "duration_ms": 250414,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/70HTUTCkfEgNDvKCzTNnV4"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1255,22 +1271,6 @@
       "duration_ms": 154617,
       "name": "B. Santa Ana, 1986",
       "url": "https://open.spotify.com/track/5qwQD3zccHVx6YdknvbCyv"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Max Jury",
-        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
-      },
-      "artists": [
-        {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
-        }
-      ],
-      "duration_ms": 250414,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/70HTUTCkfEgNDvKCzTNnV4"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "All My Shades Of Blue",
+        "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
+      },
+      "artists": [
+        {
+          "name": "Ruen Brothers",
+          "url": "https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Summer Sun",
+      "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Side Pony",
         "url": "https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 217680,
       "name": "I Don't Care About You",
       "url": "https://open.spotify.com/track/5sOhS3m45IPP9sUBXXlYGI"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "All My Shades Of Blue",
-        "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
       "artists": [
         {
-          "name": "Ruen Brothers",
-          "url": "https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go"
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Summer Sun",
-      "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2023-09-15 04:00:00",

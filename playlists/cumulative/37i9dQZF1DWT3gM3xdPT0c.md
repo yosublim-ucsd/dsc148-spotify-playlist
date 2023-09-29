@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-300 songs - 12 hr 52 min
+302 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Count On Me](https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8) | [Benjamin Fitzpatrick](https://open.spotify.com/artist/3IXaliW54FH8AanaBHlqnW) | [Count On Me](https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6) | 3:09 | 2022-03-04 | 2022-10-29 |
 | [Courtyard Caverns](https://open.spotify.com/track/5NV09w1TsRYEndFnbnGDrB) | [Faircamp](https://open.spotify.com/artist/1xxKCb2lrYVUmTL6EbD0Pu) | [Into the Wind](https://open.spotify.com/album/4qrpQBGCS95ekF7eEvZRue) | 2:30 | 2022-03-04 | 2022-07-22 |
 | [Cozy](https://open.spotify.com/track/0X0h2w5ZSArxZOcs3k2HAV) | [Marucs Winford](https://open.spotify.com/artist/4olra7Ebf6ENkggpYzVJtW) | [Cozy](https://open.spotify.com/album/0e8TxgBqfiCWhbLPjaaKA7) | 2:04 | 2022-05-27 |  |
+| [Dahlia](https://open.spotify.com/track/6ZUiOA4kUpxwHoqgTq502w) | [Raoul Raffino](https://open.spotify.com/artist/4OMeqxm2R62xPoMeoZ8EQB) | [Dahlia](https://open.spotify.com/album/1hez2OnBpf1Kxqr6QLthV5) | 2:20 | 2023-09-29 |  |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-04-21 | 2023-09-01 |
 | [Desert Rose](https://open.spotify.com/track/0MPgkoIlmnaSH5VYDMpSNe) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/05tAz0b9gHjjlpaIOxNvfy) | 1:51 | 2022-03-04 | 2022-05-27 |
 | [Dew](https://open.spotify.com/track/2AgbBeirZsQscZYJuZYO8t) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Dew](https://open.spotify.com/album/1ihmY5wn40fLchhW60Ibjg) | 2:02 | 2022-10-07 | 2023-05-10 |
@@ -108,6 +109,7 @@
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2022-03-04 | 2022-04-22 |
 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 | 2022-03-04 |  |
 | [From Me To You](https://open.spotify.com/track/6KvEQQkHCAiIQRr75ZgiV7) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Blackbird](https://open.spotify.com/album/0W4qzJ4avPABJU3IV2jmeP) | 2:45 | 2022-12-23 | 2023-03-10 |
+| [Frühlingsgefühle](https://open.spotify.com/track/4h0QLxUzVqQ7QKFSnWjvdu) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Frühlingsgefühle](https://open.spotify.com/album/7M5trxxK8lsEExyuBP1Au8) | 2:16 | 2023-09-29 |  |
 | [Geiranger](https://open.spotify.com/track/00VfPleq7One3xcddII48n) | [Felix Day](https://open.spotify.com/artist/1nNLAz1wsnh8FfcdeBYWEF) | [Geiranger](https://open.spotify.com/album/2pSJ62moAENPpLP5Ge4rQf) | 2:19 | 2023-06-02 |  |
 | [Gentle Stream](https://open.spotify.com/track/7xV7FTZ8rvSco3lZRxF3rt) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Gentle Stream](https://open.spotify.com/album/2ZiJsj9Wp3f7UTDgoVcVHN) | 2:40 | 2022-09-02 |  |
 | [Georgia](https://open.spotify.com/track/5WuytpdrS1L3JFGxZsT4mi) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Georgia](https://open.spotify.com/album/73fRkeHZHcw2K7PhLEz67y) | 2:21 | 2022-10-28 | 2023-02-25 |

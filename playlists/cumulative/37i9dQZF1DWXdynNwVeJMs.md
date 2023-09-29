@@ -2,9 +2,9 @@
 
 ### [Belgo\-Jazz](https://open.spotify.com/playlist/37i9dQZF1DWXdynNwVeJMs)
 
-> Listen to the finest Jazz made in Belgium\. Cover: John Ghost
+> Listen to the finest Jazz made in Belgium\. Cover: KAU
 
-185 songs - 15 hr 49 min
+186 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Adagio \(For Bob Collymore\)](https://open.spotify.com/track/7kAnqpE4QtAWWhrDRQKN1w) | [Jef Neve](https://open.spotify.com/artist/5drkbPiwHU6Kzh1wzYwMAl) | [Mysterium](https://open.spotify.com/album/31ADJ69Qa2K7qOIRkB9tLp) | 4:31 | 2022-09-08 | 2023-03-03 |
 | [Alice](https://open.spotify.com/track/7IKA8BGPhbUlypRWFAHmXv) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 4:47 | 2022-10-20 |  |
 | [Alles hier hetzelfde](https://open.spotify.com/track/4s3tKQwPJhy5oJHvXnAQQN) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [Alles hier hetzelfde](https://open.spotify.com/album/7yOMFXSwvmEtauLoflkiN2) | 6:11 | 2022-09-08 |  |
-| [Amulet](https://open.spotify.com/track/6f0ImtlSe8SRo2qeHW4TLc) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [Amulet](https://open.spotify.com/album/1HQmEGfHgCgy2LnCra5ZnJ) | 4:01 | 2023-09-07 |  |
+| [Amulet](https://open.spotify.com/track/6MksNP1yBT38UMVBt1Daqk) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [The Cycle Repeats](https://open.spotify.com/album/2GtnEumRpH310S1lKgVxTe) | 4:01 | 2023-09-28 |  |
+| [Amulet](https://open.spotify.com/track/6f0ImtlSe8SRo2qeHW4TLc) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [Amulet](https://open.spotify.com/album/1HQmEGfHgCgy2LnCra5ZnJ) | 4:01 | 2023-09-07 | 2023-09-29 |
 | [An Arp in Tunisia](https://open.spotify.com/track/13GMwEv7D26ltljKaWoHoV) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Odyssey](https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q) | 4:34 | 2022-09-29 | 2022-10-23 |
 | [An Arp in Tunisia](https://open.spotify.com/track/69QKB3yNoLeh0QS7cNXzMK) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 4:34 | 2022-09-08 | 2022-10-02 |
 | [An Arp in Tunisia](https://open.spotify.com/track/6VmcLYc8U5BhnnpRZgtK4k) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 4:34 | 2022-10-20 | 2023-03-18 |
@@ -73,7 +74,7 @@
 | [Gentse Leugentjes](https://open.spotify.com/track/3p0GOH8SUICpgPLKUYffze) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Less Is Endless](https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH) | 5:30 | 2022-09-08 |  |
 | [Grace Moment](https://open.spotify.com/track/7yzK4kdMW47v6CZUlScqFS) | [LG Jazz Collective](https://open.spotify.com/artist/4541P7mUvHtvsCPzy3Kg3F), [Guillaume Vierset](https://open.spotify.com/artist/00xZYrjS24ctWf6NcTEouF), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Laurent Barbier](https://open.spotify.com/artist/0QCzBAzR6DtGNvcO3suNK1), [Igor Gehenot](https://open.spotify.com/artist/4ucTplSqtePlPxNywuOf6p), [Félix Zurstrassen](https://open.spotify.com/artist/46btcyGzJKO2Y24kOhelTP), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [New Feel](https://open.spotify.com/album/2db4S9KTfkAEh5Wkhff0wH) | 6:52 | 2022-09-08 | 2023-02-24 |
 | [Honu](https://open.spotify.com/track/2a0BmJt3vqnyrz9xaNnyot) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Honu](https://open.spotify.com/album/3mVXSxRPdBmrr7E854vH92) | 3:42 | 2022-09-08 | 2022-09-26 |
-| [Honu](https://open.spotify.com/track/6YcVox42IUeHfHRNxrj1WR) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 3:42 | 2022-09-15 |  |
+| [Honu](https://open.spotify.com/track/6YcVox42IUeHfHRNxrj1WR) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 3:42 | 2022-09-15 | 2023-09-29 |
 | [How We'll Meet Tonight ?](https://open.spotify.com/track/3ao50dH6fEGQXKgZBlpQL1) | [WITVROUW](https://open.spotify.com/artist/2VkgYHdG7g57sHOZpEAy8x) | [WITVROUW](https://open.spotify.com/album/6oupqzhjk5i8ZZR7ISlgvd) | 7:30 | 2022-12-06 |  |
 | [Hubert](https://open.spotify.com/track/1h2KLGLh0M2U4vvgs3jaCY) | [Nabou](https://open.spotify.com/artist/1BwV1xO6KyJBmdx87xcJ08) | [Hubert](https://open.spotify.com/album/54DTXl96X0LpnR7uqtemIG) | 3:33 | 2022-09-08 | 2023-05-05 |
 | [Jazzclub](https://open.spotify.com/track/0KdVwhhbLhvnxjfjjNbqR7) | [Commander Spoon](https://open.spotify.com/artist/7ExHrExFzbW0JKlf5mzMxD) | [Spooning](https://open.spotify.com/album/1iLW7zBJQw2ZBVznNigEUC) | 2:33 | 2022-09-08 | 2022-12-07 |

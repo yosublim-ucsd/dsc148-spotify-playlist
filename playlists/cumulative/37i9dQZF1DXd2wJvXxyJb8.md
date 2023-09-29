@@ -4,7 +4,7 @@
 
 > algum não monogamico online? vem de dm
 
-322 songs - 14 hr 39 min
+323 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,5 +330,6 @@
 | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/track/27zzfMfgvjQtW21nPxNy7w) | [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN), [Mc Denny](https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi) | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria](https://open.spotify.com/album/6AzO0Zn7Cl2bBqa04T4q22) | 2:13 | 2022-07-28 | 2022-09-22 |
 | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/track/2IsusePMD32LQKNU7vZiAH) | [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN), [Mc Denny](https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi) | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/album/1hZBg3LJIEeqQf3WqcbCQf) | 2:13 | 2022-05-26 | 2022-07-31 |
 | [É Só Um Lance Lero Lero](https://open.spotify.com/track/5DoYLtsVnNMcrgpMdEPOsI) | [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3), [MC Luiggi](https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP), [Meno Saaint](https://open.spotify.com/artist/6JX06TYY9weAIjfnzFWqZL) | [É Só Um Lance Lero Lero](https://open.spotify.com/album/4On1CDfCz6TG3oW3BTVySP) | 1:56 | 2022-11-25 | 2023-04-12 |
+| [É Tesão ou É Amor](https://open.spotify.com/track/19TnKf5YHapfrI1FJjbx8i) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [É Tesão ou É Amor](https://open.spotify.com/album/6yimbyJdwJgL4bKA8MfS1s) | 2:38 | 2023-09-28 |  |
 
 \*This playlist was first scraped on 2022-05-27. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1502716,
+  "num_followers": 1502791,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDNiMGI2YTY3NDU2ZTNkNmM3YTc3MDk3NWVlZDAxMmRhYmMwMTU1",
+  "snapshot_id": "MCw4N2I1OGFhODk2NzU4NGFiNGNkOGU1YzdjZjllNTg4YzFlZGIwNGFl",
   "tracks": [
     {
       "added_at": "2023-08-30 15:31:41",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
-      },
-      "artists": [
-        {
-          "name": "Hugo Barriol",
-          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "Our Kingdom",
-      "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 162106,
       "name": "Grow into Love",
       "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
+      },
+      "artists": [
+        {
+          "name": "Hugo Barriol",
+          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "Our Kingdom",
+      "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
     },
     {
       "added_at": "2023-08-30 15:31:41",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "Sermon on the Rocks",
-        "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 196195,
-      "name": "Getting Ready to Get Down",
-      "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
+        "name": "Sermon on the Rocks",
+        "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 196195,
+      "name": "Getting Ready to Get Down",
+      "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
         "name": "My Finest Work Yet",
         "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 317413,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Call Me in the Afternoon",
+      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
     },
     {
       "added_at": "2023-08-30 15:31:41",
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Call Me in the Afternoon",
-      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
         "name": "Stars and Satellites",
         "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/6dokqbkGAaQuLxmpfb9g6a"
-      },
-      "artists": [
-        {
-          "name": "Animal Years",
-          "url": "https://open.spotify.com/artist/2TvIyBTuMGzgGuVLWKWJT1"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/7IuUsxQWHfXGkRDdAT0MLW"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
         "name": "I Forget Myself (feat. Darlingside)",
         "url": "https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 212146,
       "name": "I Forget Myself (feat. Darlingside)",
       "url": "https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/6dokqbkGAaQuLxmpfb9g6a"
+      },
+      "artists": [
+        {
+          "name": "Animal Years",
+          "url": "https://open.spotify.com/artist/2TvIyBTuMGzgGuVLWKWJT1"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/7IuUsxQWHfXGkRDdAT0MLW"
     },
     {
       "added_at": "2023-08-30 15:31:41",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "Boys (Side A)",
-        "url": "https://open.spotify.com/album/1b3wprWOJ2VLzsFhyELx30"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 86831,
-      "name": "Full Moon Song",
-      "url": "https://open.spotify.com/track/0Kl9ZswPXKQBr8PEQ6V3xc"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
+        "name": "Boys (Side A)",
+        "url": "https://open.spotify.com/album/1b3wprWOJ2VLzsFhyELx30"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 86831,
+      "name": "Full Moon Song",
+      "url": "https://open.spotify.com/track/0Kl9ZswPXKQBr8PEQ6V3xc"
     },
     {
       "added_at": "2023-08-30 15:31:41",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "American Novel: Ch. I",
-        "url": "https://open.spotify.com/album/6aOqx8c8t5I7I3fg3OxSCX"
-      },
-      "artists": [
-        {
-          "name": "The Brevet",
-          "url": "https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM"
-        }
-      ],
-      "duration_ms": 279500,
-      "name": "Moving Mountains",
-      "url": "https://open.spotify.com/track/6PRr6dzkiaLTGbkLSdQCvL"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
         "name": "All the Things That I Did and All the Things That I Didn't Do",
         "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 229760,
       "name": "Younger Years",
       "url": "https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
+        "name": "American Novel: Ch. I",
+        "url": "https://open.spotify.com/album/6aOqx8c8t5I7I3fg3OxSCX"
+      },
+      "artists": [
+        {
+          "name": "The Brevet",
+          "url": "https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM"
+        }
+      ],
+      "duration_ms": 279500,
+      "name": "Moving Mountains",
+      "url": "https://open.spotify.com/track/6PRr6dzkiaLTGbkLSdQCvL"
     },
     {
       "added_at": "2023-08-30 15:31:41",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
         "name": "Hundred Acres",
         "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 243733,
       "name": "More I See",
       "url": "https://open.spotify.com/track/24l2W4vP77LGaQGKy9PYmU"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
     },
     {
       "added_at": "2023-08-30 15:31:41",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "Half Moon Light",
-        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
         "name": "Unsung Passage",
         "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 296796,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2ZsKcXPYFPMF9RIh12XLCh"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
+        "name": "Half Moon Light",
+        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
     },
     {
       "added_at": "2023-08-30 15:31:41",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "Ivory Castanets",
-        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "Like a Wave",
-      "url": "https://open.spotify.com/track/0p3bGYYZTf75CskrmGwpVi"
-    },
-    {
-      "added_at": "2023-08-30 15:31:41",
-      "album": {
         "name": "People Are My Drug",
         "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
       },
@@ -1663,18 +1647,18 @@
     {
       "added_at": "2023-08-30 15:31:41",
       "album": {
-        "name": "Unsung Passage",
-        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
+        "name": "Ivory Castanets",
+        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
       },
       "artists": [
         {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
         }
       ],
-      "duration_ms": 225866,
-      "name": "Won't Be Long",
-      "url": "https://open.spotify.com/track/2rw4cJKCCBYpZ57EFHE2Ih"
+      "duration_ms": 190600,
+      "name": "Like a Wave",
+      "url": "https://open.spotify.com/track/0p3bGYYZTf75CskrmGwpVi"
     },
     {
       "added_at": "2023-08-30 15:31:41",
@@ -1691,6 +1675,22 @@
       "duration_ms": 220253,
       "name": "Thirty",
       "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
+    },
+    {
+      "added_at": "2023-08-30 15:31:41",
+      "album": {
+        "name": "Unsung Passage",
+        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "Won't Be Long",
+      "url": "https://open.spotify.com/track/2rw4cJKCCBYpZ57EFHE2Ih"
     }
   ],
   "unique_name": "Wild & Free",

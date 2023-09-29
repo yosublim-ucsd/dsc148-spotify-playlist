@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,945 likes - 128 songs - 7 hr 11 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,946 likes - 129 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,5 +136,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 126 | [Headlights](https://open.spotify.com/track/3OLuiRmi5DtpHq8SZiCtW3) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Headlights](https://open.spotify.com/album/7Fixp63EZJVwpQduqCJCBi) | 2:20 |
 | 127 | [Closer To You](https://open.spotify.com/track/64UCdNSBP51U28Uduj1KiI) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Closer To You / Make Yourself At Home](https://open.spotify.com/album/6g2yAFcr82CEv9ONmcfntZ) | 2:34 |
 | 128 | [The One You Call](https://open.spotify.com/track/6a3FrmdRlDvSOUH1I2caev) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [WILL MAC](https://open.spotify.com/artist/5jH1Szsgrub3R1WQHlzByy), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [The One You Call](https://open.spotify.com/album/1r53rl1GB5DQ2Xuw99dreK) | 3:48 |
+| 129 | [evergreen](https://open.spotify.com/track/7LhF0VgzR4fuN7SdChVRnp) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [evergreen](https://open.spotify.com/album/7CWHFWCJnFiDTCtyDbrVOK) | 2:55 |
 
-Snapshot ID: `MTA0ODIsZDFkZDNmOTIxZjUxZGM0NmVhMzYzYmFkZDZjZmVjNzFjMTBmYjdjYg==`
+Snapshot ID: `MTA0ODMsNDMyOWIxMGM4MmM2YzM2ZmYzNGQyZWRkZmYyZTQzNDdmYTIxM2I1MQ==`

@@ -4,11 +4,12 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-119 songs - 11 hr 16 min
+122 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-15 |  |
+| [\(It Goes Like\) Nanana](https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana](https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc) | 6:07 | 2023-09-28 |  |
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-15 | 2023-09-29 |
 | [Acuerdate \- Original Mix](https://open.spotify.com/track/3zRjdbOQvH2f40hk81ppns) | [Juanito](https://open.spotify.com/artist/39TK4RM8bEzWa1BoBxsSko) | [Acuerdate](https://open.spotify.com/album/088zTj7jac6UDKDz37hinS) | 6:57 | 2022-12-20 |  |
 | [Alegría \- Yuksek Remix](https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Alegría \(Yuksek Remix\) \- Single](https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH) | 4:18 | 2022-12-20 |  |
 | [All In A Dream \- Extended Mix](https://open.spotify.com/track/1IkPg6cCScDHqSbbq61IXA) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 6:08 | 2022-12-20 |  |
@@ -39,6 +40,7 @@
 | [Don't U Ever Change](https://open.spotify.com/track/1eXxOVrE84C4NNT1lkeqNu) | [Danilo & Pablo](https://open.spotify.com/artist/78XlyXdHJ4WHvXAjI6hKAO), [Ahmad Larnes](https://open.spotify.com/artist/13lG8fghcfmDvJ3uZYemc8) | [Mcde Recordings Best of \(2008\-2018\)](https://open.spotify.com/album/1mTypifXwQWC97TULc7smR) | 8:08 | 2022-12-20 | 2023-06-21 |
 | [Doudou \- Edit](https://open.spotify.com/track/5njtAeRrYhEVvl9ZzXpqjY) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj), [Jean\-Claude Naimro](https://open.spotify.com/artist/5NXrAZhndFutn5Kon2ZQCQ) | [Doudou \(Edit\)](https://open.spotify.com/album/3X8cilpO1M2PFGWGfr2kYG) | 5:32 | 2022-12-20 |  |
 | [Ecuador](https://open.spotify.com/track/7ByHMIhpm6bqT3ir9GpLpW) | [Get A Room!](https://open.spotify.com/artist/5kcakT7YURc2bDqMnDn7zY) | [Ecuador / The Reef](https://open.spotify.com/album/6yqfsVsXWzIapBZ9Ssb5Jp) | 6:20 | 2022-12-20 |  |
+| [En Balaté \(rework\)](https://open.spotify.com/track/780wEKS87IvaYO3QRrpTmx) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj), [Jean\-Claude Naimro](https://open.spotify.com/artist/5NXrAZhndFutn5Kon2ZQCQ) | [En Balaté \(rework\)](https://open.spotify.com/album/0otCKYtXnC0tpVxB0Edg9P) | 6:25 | 2023-09-28 |  |
 | [Epsilon Girls](https://open.spotify.com/track/1omHCWuWEH9TV0SmZiiLev) | [Andy Hart](https://open.spotify.com/artist/0oGnYXdjbDTggEWk0ckmQU) | [La Même Pour Moi EP](https://open.spotify.com/album/1VtcPA51S0pM1TVHwokT7q) | 5:49 | 2022-12-20 | 2023-03-09 |
 | [Epsilon Girls](https://open.spotify.com/track/3mLDrrAL7v2xLZj6PZENL2) | [Andy Hart](https://open.spotify.com/artist/0oGnYXdjbDTggEWk0ckmQU) | [La même pour moi](https://open.spotify.com/album/4ys2MudpQ7sR8El8JEQ9hu) | 5:49 | 2023-03-07 |  |
 | [Fade Out](https://open.spotify.com/track/5GLF6LLyaK95ydOjStPYiL) | [Adesse Versions](https://open.spotify.com/artist/2UMMVkgNVl50GCP1goIBRe) | [Pulp Fusion](https://open.spotify.com/album/4utfB7Ld6WCZFW0WeEZ3r6) | 5:49 | 2022-12-20 |  |
@@ -122,6 +124,7 @@
 | [Underwater \- Extended Mix](https://open.spotify.com/track/1AleARZA9JX0Makndi4eaB) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Best of 2022 \(Extended Mixes\)](https://open.spotify.com/album/3wqkCxTHSJXPSxqwiUesC5) | 6:51 | 2023-02-21 |  |
 | [Unfurl \- Vocal Mix](https://open.spotify.com/track/4BZ81MnNMWipbFd4uLh6Ml) | [REIYM](https://open.spotify.com/artist/5SXtjpheiX5DSZ1C6TInkX) | [Unfurl \(Vocal Mix\)](https://open.spotify.com/album/7yUGz6rX2LsWOCBz1Z7fsb) | 5:10 | 2022-12-20 |  |
 | [Use Me Again \- Carl Craig Rework](https://open.spotify.com/track/0DmVOSnZLqxYEktgaVTP1H) | [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Use Me Again \(And Again\)](https://open.spotify.com/album/0PEKVd030jHP00OnxwIFtb) | 7:42 | 2022-12-20 |  |
+| [walk in the park](https://open.spotify.com/track/5O3GznAgkjc07BtlE9Xq9r) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [walk in the park](https://open.spotify.com/album/3VkEwSXBTttuyUQNwICwIK) | 3:05 | 2023-09-28 |  |
 | [Welcome To The People](https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Welcome To The People](https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF) | 2:40 | 2022-12-20 |  |
 | [Wonky Bassline Disco Banger](https://open.spotify.com/track/2SMQQX11RBFBnTkkZqrDfd) | [Red Rack'Em](https://open.spotify.com/artist/5ZpsIb1MwTyfMmRH3Ma0KG) | [Wonky Bassline Disco Banger](https://open.spotify.com/album/08lPIgUE5JlKwOcKv850Ne) | 8:09 | 2022-12-20 |  |
 | [Ya Just Need 2 Believe in Yaself](https://open.spotify.com/track/3u1hU4L9HLGBjcj1nQekIv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [4MYPPL\#1](https://open.spotify.com/album/3jHf5zZ8d5MQg03YyfTa2I) | 7:02 | 2022-12-20 |  |

@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-406 songs - 21 hr 19 min
+409 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [I Thought About You](https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [I Thought About You](https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka) | 3:38 | 2021-12-07 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/1nDdCstJ1Mz8eRiyHhr5pS) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [I'll Be Seeing You](https://open.spotify.com/album/1K1bl5LvmHA4KAIhev8p0R) | 3:30 | 2021-12-07 | 2022-12-02 |
 | [I'll Never Be The Same](https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [I'll Never Be The Same](https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg) | 2:27 | 2023-08-17 |  |
+| [I'll Remember April](https://open.spotify.com/track/508qW9dDv9pTh85XgQm9Xp) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [I'll Remember April](https://open.spotify.com/album/7dEMSjL7qPpzPZFCriPLZv) | 3:23 | 2023-09-29 |  |
 | [I'll Take Romance](https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I'll Take Romance](https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq) | 3:09 | 2022-10-06 |  |
 | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 | 2022-05-31 |  |
 | [I'm Forever Yours](https://open.spotify.com/track/3fxTcNPr0YSZIg43iOArQr) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [I'm Forever Yours](https://open.spotify.com/album/3IdfFFoOqTGuSolYNM64wg) | 3:19 | 2023-09-22 |  |
@@ -214,6 +215,7 @@
 | [Look For The Silver Lining](https://open.spotify.com/track/5L2iEidxZtQYZsXjRGWWJN) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Look For The Silver Lining](https://open.spotify.com/album/15pmzgvbSncLWPfBEmdFYy) | 3:26 | 2023-01-26 |  |
 | [Looking Glass](https://open.spotify.com/track/0ed4hMQYEtnPJMz2O2Dw5Z) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Looking Glass](https://open.spotify.com/album/7dXKSgHWw3TRKfMN0QUwfH) | 2:24 | 2023-03-09 |  |
 | [Lost in Loneliness](https://open.spotify.com/track/7ESS38E7dhSrGML4HouB5P) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Lost in Loneliness](https://open.spotify.com/album/7ss8WnA2X9hyIk7HlxK8d5) | 2:08 | 2023-04-20 |  |
+| [Lot of Love](https://open.spotify.com/track/0NTAg7F7yE49scD5svkeIR) | [Jacob Schröder](https://open.spotify.com/artist/4VOTRfoGtDDp0Fl9ar28XN) | [Lot of Love](https://open.spotify.com/album/15JdATM0rLgvYOB2GFSQ2Q) | 2:40 | 2023-09-29 |  |
 | [Love For Sale](https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:23 | 2022-10-06 |  |
 | [Love on a Lonely Street](https://open.spotify.com/track/66GYfa8d7hZDXhzEaIG3Ct) | [Clifford Randall](https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG) | [Love on a Lonely Street](https://open.spotify.com/album/3XdY17cROlAbonVCRJskmc) | 2:34 | 2023-05-25 |  |
 | [Love Theme](https://open.spotify.com/track/7BBqYC7h3qFjmZYQDmnTxi) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Love Theme](https://open.spotify.com/album/1X5HJijS1ImWbwfMA2rE6a) | 3:42 | 2022-08-09 |  |
@@ -310,6 +312,7 @@
 | [Smile](https://open.spotify.com/track/5UbnuRgMvmJXNfVQwtnMeJ) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Smile](https://open.spotify.com/album/264uDpoSYiQWeHXvwQcAa0) | 3:50 | 2021-12-07 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/4ZY1K4JlzmoxdCJF6M18O5) | 4:40 | 2021-12-07 |  |
 | [Snap of a finger](https://open.spotify.com/track/3JgqTYwR9sHD0kS8IX33nS) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Snap of a finger](https://open.spotify.com/album/34KNU4mGRc7c1ovoBIkSOr) | 2:36 | 2023-05-11 |  |
+| [Social Call](https://open.spotify.com/track/2ZGcva06g0MbxrJdSNtAjU) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Social Call](https://open.spotify.com/album/4rSYJQxfq50gNYLkPgrKbR) | 3:52 | 2023-09-29 |  |
 | [Some kind of friend](https://open.spotify.com/track/2UQ6oJL6UV5CeoO4VejBYl) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [Some kind of friend](https://open.spotify.com/album/0E1hU35PyKJn70EiD0pCgo) | 3:07 | 2023-04-20 |  |
 | [Some Other Spring](https://open.spotify.com/track/0G8AkUVxf9cdD4Y8AyRzFm) | [Serenata Moss](https://open.spotify.com/artist/3W4A8cV0hV5vutTRDgWuMi) | [Some Other Spring](https://open.spotify.com/album/3wZlkPF1MBvRL0AAkd1h7B) | 2:28 | 2023-08-10 |  |
 | [some other time](https://open.spotify.com/track/4LgRqskD0OohOTxfZRqV8E) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:14 | 2021-12-07 |  |

@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-644 songs - 1 day 8 hr 48 min
+645 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Hollow](https://open.spotify.com/track/2PSuPIS5db6eBesTbRuikh) | [Teddy Beats](https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB), [Kerin Maguire](https://open.spotify.com/artist/3sKkXqemxQk1VktbNyiyxF) | [Hollow](https://open.spotify.com/album/3uzNox4LBHyKCyN65VQdcX) | 2:46 | 2022-05-06 | 2023-07-12 |
 | [Hollywood](https://open.spotify.com/track/3NdGXW1CUaFZ6QldSNEu2k) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Hollywood](https://open.spotify.com/album/2Z4CTN7XOXD68CcNfXLAxd) | 2:30 | 2022-11-18 | 2023-03-26 |
 | [Hollywood](https://open.spotify.com/track/5JFU275vItzgDrcCIIliKS) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Hollywood](https://open.spotify.com/album/4N5yjyIlqPNmX2Ik6L7xqE) | 2:30 | 2023-06-16 |  |
+| [Home](https://open.spotify.com/track/2vzfY5QmzOhTBo7D2TwAQj) | [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9) | [Home](https://open.spotify.com/album/6RkuLq19HWqHNVjw0d09nI) | 2:21 | 2023-08-25 |  |
 | [Home](https://open.spotify.com/track/3zE7oYotxr3EUTSSje7Ube) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Home](https://open.spotify.com/album/5nNwjyGbAdUzY9QKiEciBH) | 3:16 | 2022-01-14 | 2023-05-13 |
 | [Home](https://open.spotify.com/track/0T26riswexwPY9w3UCMwYE) | [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Home](https://open.spotify.com/album/4R8nylnqxlRvNO564YLyHx) | 3:10 | 2022-10-07 |  |
 | [Home \(feat\. Nico Santos\) \- Marcapasos Radio Remix](https://open.spotify.com/track/2NsWGd3UslepVF25pKw1sp) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Marcapasos](https://open.spotify.com/artist/6QKeymKBlijyJhfOi1smqB) | [Home \(feat\. Nico Santos\) \[The Remixes\]](https://open.spotify.com/album/3iCS2u4nW6aQ0eycQXTuFk) | 3:34 | 2022-01-14 | 2022-05-21 |
@@ -396,7 +397,7 @@
 | [No Matter Where](https://open.spotify.com/track/3K6saLzBc7PtVB7ouNdcFG) | [Michael FAY](https://open.spotify.com/artist/0VGxVDRb7Ut8eN2xL7kVXi), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [No Matter Where](https://open.spotify.com/album/061bTRL8FrYvjwLOAidBht) | 2:52 | 2023-08-04 |  |
 | [No Matter Where](https://open.spotify.com/track/4xhpJoHBX3MN7SKkfGjCZU) | [Michael FAY](https://open.spotify.com/artist/0VGxVDRb7Ut8eN2xL7kVXi), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [No Matter Where](https://open.spotify.com/album/1buhmZffcDbvHUa47jjRnH) | 2:52 | 2022-09-02 | 2023-07-21 |
 | [No Real Love](https://open.spotify.com/track/07B412zMWZRzwQO1M0ITKB) | [Exed](https://open.spotify.com/artist/3Wqw8JE2LIMDn9xaRL3tOI), [Dom Fricot](https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr) | [No Real Love](https://open.spotify.com/album/6J8MhEsBZ7CH5mO423HANi) | 3:07 | 2022-07-22 | 2022-09-03 |
-| [Nobody Else](https://open.spotify.com/track/4qehUdZCqaYo13JrUUrbEm) | [Ljung](https://open.spotify.com/artist/67Tfj03cthIyRsQLHqwI3V), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Nobody Else](https://open.spotify.com/album/0Ct642qUuKNneMDUyYtRnM) | 2:58 | 2022-10-28 |  |
+| [Nobody Else](https://open.spotify.com/track/4qehUdZCqaYo13JrUUrbEm) | [Ljung](https://open.spotify.com/artist/67Tfj03cthIyRsQLHqwI3V), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Nobody Else](https://open.spotify.com/album/0Ct642qUuKNneMDUyYtRnM) | 2:58 | 2022-10-28 | 2023-09-29 |
 | [Nothing Better](https://open.spotify.com/track/6ESPVLQpEGHoVgcOi8A4XB) | [Mizmo](https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV) | [Nothing Better](https://open.spotify.com/album/55OUdcRkbx2l1b2TM0UnDL) | 2:49 | 2023-07-21 |  |
 | [ocean breeze](https://open.spotify.com/track/7F8YDLKMrrttH5XQLDJ2bt) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM) | [ocean breeze](https://open.spotify.com/album/2961lVPUrCwBhpuyF5CrKX) | 1:57 | 2022-11-11 |  |
 | [ocean breeze](https://open.spotify.com/track/7Lo9HVc9pwHsgEIAa4NZr0) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM) | [ocean breeze](https://open.spotify.com/album/3MxCfS3YK8Xn4p8WRuXzH6) | 1:57 | 2022-04-01 | 2022-10-16 |

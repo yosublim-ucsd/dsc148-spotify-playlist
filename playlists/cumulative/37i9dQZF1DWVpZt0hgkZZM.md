@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-124 songs - 8 hr 26 min
+125 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [El Hijo de Tuta](https://open.spotify.com/track/5UcFBZjRxPH4fQbRrkGwjT) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [El Viaje Musical de Lisandro Meza, 60 Años, Vol\. 1](https://open.spotify.com/album/2ZwCWFJY7Kx12Uh1BrFdg3) | 4:00 | 2021-12-16 |  |
 | [El Jardinero](https://open.spotify.com/track/5O4a5RCYTJ452nsCuiPwtD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:26 | 2021-12-16 |  |
 | [El la Engañó](https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX) | [Natusha & Kondor Band](https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj) | [Natusha & Kondor Band](https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3) | 3:47 | 2021-12-16 |  |
-| [El Pescador de Barú](https://open.spotify.com/track/7pjSbRfTwv6sk8lHCWquZI) | [Los Warahuaco](https://open.spotify.com/artist/06phV7fzCjfgTxdJ9MQeSQ) | [Cumbias, Cumbias](https://open.spotify.com/album/4IGwcswnHXPJ3b85cYEYhA) | 2:54 | 2021-12-16 |  |
+| [El Pescador de Barú](https://open.spotify.com/track/7pjSbRfTwv6sk8lHCWquZI) | [Los Warahuaco](https://open.spotify.com/artist/06phV7fzCjfgTxdJ9MQeSQ) | [Cumbias, Cumbias](https://open.spotify.com/album/4IGwcswnHXPJ3b85cYEYhA) | 2:54 | 2021-12-16 | 2023-09-29 |
 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 | 2021-12-16 |  |
 | [El Santo Cachon](https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:29 | 2021-12-16 | 2023-05-27 |
 | [El Santo Cachon](https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Exitos](https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L) | 4:29 | 2021-12-16 |  |
@@ -124,6 +124,7 @@
 | [Te Voy a Hacer Falta](https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:24 | 2021-12-16 |  |
 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 | 2021-12-16 |  |
 | [Tonto Amor](https://open.spotify.com/track/4oO3pFGNyMAohdyq3uq6zZ) | [Hernan Hernandez](https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH) | [18 Éxitos](https://open.spotify.com/album/2HOXyGlmyh3aX14N1mbO5s) | 3:26 | 2021-12-16 | 2023-09-18 |
+| [Tonto Amor](https://open.spotify.com/track/0ftARxjabx2Bs2wvLLkltc) | [Hernan Hernandez](https://open.spotify.com/artist/49UMX5QVC2PaTG6CNjLQDH) | [18 Exitos](https://open.spotify.com/album/6BGEdqEaJ5PuNz64Vs2coI) | 3:26 | 2021-12-16 |  |
 | [Traicionera](https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx) | [Vallenatos Nativos](https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok) | [Latin Vallenatos](https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D) | 3:34 | 2021-12-16 |  |
 | [Tu Cariñito](https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Men in Salsa](https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4) | 4:11 | 2021-12-16 |  |
 | [Tu Eres Ajena](https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:53 | 2021-12-16 |  |

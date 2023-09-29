@@ -4,7 +4,7 @@
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Remembering Charlie Robison.
 
-186 songs - 12 hr 3 min
+187 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Angry All The Time](https://open.spotify.com/track/1LYaXZZbtCiNV7hf0EvmQg) | [Bruce Robison](https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq) | [Wrapped](https://open.spotify.com/album/24fUmBRIEfJ1IFXdJDdr0E) | 4:43 | 2021-12-23 | 2023-04-22 |
 | [Anyhow, I Love You](https://open.spotify.com/track/0SAi0kuzDwXPdQSHbEGfEt) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Texas Cookin](https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF) | 3:54 | 2021-12-23 | 2023-04-22 |
 | [Austin](https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Austin](https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG) | 4:34 | 2023-04-21 | 2023-09-18 |
+| [Austin](https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Austin](https://open.spotify.com/album/2VdUBCAnlhj9MijNsGZag5) | 4:34 | 2023-09-15 |  |
 | [Automatic](https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:07 | 2023-05-12 |  |
 | [B\-Movie Boxcar Blues](https://open.spotify.com/track/2zvCJhTosmbYYwC9RYcYBV) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [The Best Of Delbert McClinton 20th Century Masters The Millennium Collection](https://open.spotify.com/album/2jNWWggIx34uRC4di9uK6s) | 3:49 | 2021-12-23 | 2023-04-22 |
 | [Back Being Blue](https://open.spotify.com/track/3pQRtedt8lGlTpeabqfgdu) | [Kelly Willis](https://open.spotify.com/artist/2WG7Z6CpNehgR1WGgjKF0E) | [Back Being Blue](https://open.spotify.com/album/5RjHBbTd7tyZ85ti3rKHee) | 3:48 | 2021-12-23 | 2023-04-22 |
@@ -97,7 +98,7 @@
 | [Interstate](https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Burning The Day](https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY) | 4:41 | 2023-04-21 |  |
 | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 | 2022-09-09 | 2023-05-05 |
 | [Just Be](https://open.spotify.com/track/2kUEt5NNUcLUkXPTrshnfM) | [Walt Wilkins](https://open.spotify.com/artist/7ibIGIariNNiQyafUQ6Oqg) | [Plenty](https://open.spotify.com/album/3SUWft10nSf30iNCaw8jEt) | 3:47 | 2021-12-23 | 2023-04-22 |
-| [Just For The Record](https://open.spotify.com/track/50uI46R1kzo9thxADXIGQJ) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Memory and a Dirt Road](https://open.spotify.com/album/0mcOlV5jSdfRmtudAJPmRg) | 3:21 | 2023-04-26 |  |
+| [Just For The Record](https://open.spotify.com/track/50uI46R1kzo9thxADXIGQJ) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Memory and a Dirt Road](https://open.spotify.com/album/0mcOlV5jSdfRmtudAJPmRg) | 3:21 | 2023-04-26 | 2023-09-29 |
 | [Just For The Record](https://open.spotify.com/track/6lK8IcACQqLGt9L94qnqWo) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Memory and a Dirt Road](https://open.spotify.com/album/6X8nyysz7UNSI9pLpTroAP) | 3:21 | 2021-12-23 | 2023-04-22 |
 | [Keep on Moving](https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Keep on Moving](https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc) | 3:16 | 2021-12-23 | 2023-04-22 |
 | [Keep The Wolves Away](https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV) | [Uncle Lucius](https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW) | [And You Are Me](https://open.spotify.com/album/2nNgwgaNPoxJGT2nchbPrj) | 4:35 | 2021-12-23 |  |

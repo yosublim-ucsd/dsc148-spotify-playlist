@@ -2091,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "Amour plastique",
+      "url": "https://open.spotify.com/track/0HDO6JFfplYPrSWuufUosZ"
+    },
+    {
+      "album": {
         "name": "Andaikan Kau Datang (From \"Miracle in Cell No. 7\")",
         "url": "https://open.spotify.com/album/3iA7DH0b2IUs9tqGSOh3uP"
       },
@@ -4835,6 +4853,24 @@
     },
     {
       "album": {
+        "name": "Blue Butterflies",
+        "url": "https://open.spotify.com/album/2cJJcQCoQRfQe3inKIQa3K"
+      },
+      "artists": [
+        {
+          "name": "JHIN",
+          "url": "https://open.spotify.com/artist/1zbZa82fOkxnWd44o2uV6c"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137903,
+      "name": "Blue Butterflies",
+      "url": "https://open.spotify.com/track/1FpQ2EPJarW7rpjFGGd8Jd"
+    },
+    {
+      "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
       },
@@ -6420,7 +6456,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 182111,
       "name": "Chico",
       "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
@@ -11300,6 +11336,28 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "album": {
+        "name": "Feuer Wasser Sturm",
+        "url": "https://open.spotify.com/album/4UN4DOOiKEvhsNTtOKKfhW"
+      },
+      "artists": [
+        {
+          "name": "Niclov",
+          "url": "https://open.spotify.com/artist/79DrPht1MJw7KRXHINJDMd"
+        },
+        {
+          "name": "Baron",
+          "url": "https://open.spotify.com/artist/0U6t1GxrhOhD5vSHhe2JqE"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "Feuer Wasser Sturm",
+      "url": "https://open.spotify.com/track/0dEvVBg3ArnuJ9WBnPzOcj"
     },
     {
       "album": {
@@ -16440,7 +16498,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 153600,
       "name": "Jolie Jolie",
       "url": "https://open.spotify.com/track/2JJ6WnAfVglnYfxZubSukn"
@@ -19162,7 +19220,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -26788,7 +26846,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 164571,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX"
@@ -34418,6 +34476,24 @@
       "duration_ms": 225000,
       "name": "Tr\u00f3jk\u0105t Bermudzki",
       "url": "https://open.spotify.com/track/6L84MxeCGyg7fjTXzWYdmQ"
+    },
+    {
+      "album": {
+        "name": "tu fan",
+        "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240473,
+      "name": "tu fan",
+      "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
     },
     {
       "album": {

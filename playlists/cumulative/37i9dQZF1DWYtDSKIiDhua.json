@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Doja Cat",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: YA\u00d8",
   "name": "mood.",
   "tracks": [
     {
@@ -462,7 +462,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 220408,
       "name": "Another One Of Me (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 178813,
       "name": "Attention (Feat. DAWN, BLAS\u00c9)",
       "url": "https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z"
@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 204920,
       "name": "Falling or flying",
       "url": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
@@ -3695,6 +3695,24 @@
     },
     {
       "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/4025C1FxZ4AyhxOD6TMpxh"
+      },
+      "artists": [
+        {
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189931,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/1DYqJtsqLYXCKh7CIgZ4bG"
+    },
+    {
+      "album": {
         "name": "Hot Cocoa",
         "url": "https://open.spotify.com/album/7GdOPwDjLRIX9OOXpxAp6t"
       },
@@ -4672,7 +4690,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 208387,
       "name": "let me know",
       "url": "https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL"
@@ -8220,7 +8238,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 155624,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
@@ -8238,7 +8256,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 121532,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
@@ -8898,7 +8916,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 165833,
       "name": "The Worst Part",
       "url": "https://open.spotify.com/track/521RUfyAt3TYMdrynEn0KT"
@@ -9188,7 +9206,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 199368,
       "name": "tonight",
       "url": "https://open.spotify.com/track/3uPkF98XCSzJ9lVTwcpNa5"
@@ -9634,7 +9652,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 115426,
       "name": "Venus",
       "url": "https://open.spotify.com/track/7id0zfnNZdDIq3dQRCrSDJ"
@@ -10072,7 +10090,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 199146,
       "name": "When the Rain Comes",
       "url": "https://open.spotify.com/track/0mw1bEX0GYt1txWBjwGmRJ"

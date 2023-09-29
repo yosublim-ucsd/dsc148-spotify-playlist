@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Natalia Jim\u00e9nez en portada. ",
-  "num_followers": 129538,
+  "num_followers": 129572,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2Q5YzVlNTc3MzA4YTM2MTM1Mjc1NzlhMzIxZGJiNDk0YjU0OTA4",
+  "snapshot_id": "MCwwNzE2NDEzOGM0MDJmMDAwMTYzMDEyZTM0N2UyZGVhNjMwMjA2ZDM5",
   "tracks": [
     {
       "added_at": "2023-09-08 06:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
         "name": "Peca de Bonita",
         "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 257640,
       "name": "C\u00f3mo Te Olvido",
       "url": "https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        }
-      ],
-      "duration_ms": 157607,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
         "name": "No Te Apartes De M\u00ed",
         "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 239880,
       "name": "No Te Apartes De M\u00ed",
       "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "duration_ms": 157607,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "\u00c9chame A M\u00ed La Culpa",
-        "url": "https://open.spotify.com/album/1UzNlPl5CuIzvLqZ9Suv50"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "\u00c9chame A M\u00ed La Culpa",
-      "url": "https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD"
-    },
-    {
-      "added_at": "2023-09-08 06:00:00",
-      "album": {
         "name": "En Tu Sonrisa",
         "url": "https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 181466,
       "name": "En Tu Sonrisa",
       "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
+    },
+    {
+      "added_at": "2023-09-08 06:00:00",
+      "album": {
+        "name": "\u00c9chame A M\u00ed La Culpa",
+        "url": "https://open.spotify.com/album/1UzNlPl5CuIzvLqZ9Suv50"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "\u00c9chame A M\u00ed La Culpa",
+      "url": "https://open.spotify.com/track/4aWbiCasnpmIRn4LsQVKSD"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "Ven Porque Te Necesito",
-        "url": "https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX"
+        "name": "Dej\u00e9moslo As\u00ed",
+        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
       },
       "artists": [
         {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
         }
       ],
-      "duration_ms": 185560,
-      "name": "Ven Porque Te Necesito",
-      "url": "https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM"
+      "duration_ms": 209026,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
     },
     {
       "added_at": "2023-09-08 06:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-09-08 06:00:00",
       "album": {
-        "name": "Dej\u00e9moslo As\u00ed",
-        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
+        "name": "Ven Porque Te Necesito",
+        "url": "https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX"
       },
       "artists": [
         {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
         }
       ],
-      "duration_ms": 209026,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
+      "duration_ms": 185560,
+      "name": "Ven Porque Te Necesito",
+      "url": "https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM"
     },
     {
       "added_at": "2023-09-08 06:00:00",

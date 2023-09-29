@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Cerveza y Rock N' Roll",
+        "url": "https://open.spotify.com/album/3xmUbKQkwJF8XUvaJ2VOq1"
+      },
+      "artists": [
+        {
+          "name": "Locos y rucos in retro",
+          "url": "https://open.spotify.com/artist/0SaFbo2XIpdYpXWDj2Q2Fe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Cerveza y Rock N' Roll",
+      "url": "https://open.spotify.com/track/3AipqEAulADxcTha3j8mWM"
+    },
+    {
+      "album": {
         "name": "Eight Years Compilation",
         "url": "https://open.spotify.com/album/0V3XbOuchUnPQ2MctIg6Ff"
       },
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 224666,
       "name": "Grita",
       "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 206458,
       "name": "La Mentira",
       "url": "https://open.spotify.com/track/2zbuaopaNyAC3C4940YNCL"
@@ -1671,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
+        "url": "https://open.spotify.com/album/2yTicDu0XFg8HUATcCQa3U"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 734790,
+      "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
+      "url": "https://open.spotify.com/track/1vw07M44PHHu3ziRY5Wn4t"
+    },
+    {
+      "album": {
         "name": "La Kruda Realidad",
         "url": "https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda"
       },
@@ -1682,7 +1718,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 198226,
       "name": "Lejos Otra Vez",
       "url": "https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG"
@@ -1704,6 +1740,24 @@
       "duration_ms": 201293,
       "name": "Lo Pasado, Pasado",
       "url": "https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl"
+    },
+    {
+      "album": {
+        "name": "Lucia",
+        "url": "https://open.spotify.com/album/0bDHs3kNmXBknnQIMFoq25"
+      },
+      "artists": [
+        {
+          "name": "Santiago En La Guitarra",
+          "url": "https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173296,
+      "name": "Lucia",
+      "url": "https://open.spotify.com/track/5IuHNxizZvnsTjNPFBOZOh"
     },
     {
       "album": {
@@ -2972,7 +3026,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 155965,
       "name": "Stay Rude",
       "url": "https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i"
@@ -3102,7 +3156,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 192626,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"

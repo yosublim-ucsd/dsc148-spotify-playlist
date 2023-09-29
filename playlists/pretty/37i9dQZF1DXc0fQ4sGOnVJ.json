@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 150392,
+  "num_followers": 150400,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTgwNmU1NzkxMmQ1ZDBhMTVjNWQyMmJiNjNjMjU0YzM2MmZiNGQy",
+  "snapshot_id": "MCxlNDI4NDg3YTMwMDVkNjc2ZTlkNWQ0ZmZjZWEzM2MzMzU0ZTFmYzI1",
   "tracks": [
     {
       "added_at": "2023-08-21 15:41:01",
@@ -335,26 +335,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "The Bubba Mathis EP",
-        "url": "https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G"
-      },
-      "artists": [
-        {
-          "name": "Bubba Sparxxx",
-          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
-        },
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
-        }
-      ],
-      "duration_ms": 211888,
-      "name": "Put in Work",
-      "url": "https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "The Grind",
         "url": "https://open.spotify.com/album/4r9uwGEGbssusA5DTt3SwE"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 186261,
       "name": "Duramax (feat. Young Gunner)",
       "url": "https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "The Bubba Mathis EP",
+        "url": "https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G"
+      },
+      "artists": [
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        }
+      ],
+      "duration_ms": 211888,
+      "name": "Put in Work",
+      "url": "https://open.spotify.com/track/7jQIEyRMj8H6QqIOYT0dHV"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "The Colonel",
-        "url": "https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD"
-      },
-      "artists": [
-        {
-          "name": "Dusty Leigh",
-          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
-        },
-        {
-          "name": "Justin Champagne",
-          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
-        }
-      ],
-      "duration_ms": 157367,
-      "name": "Good Vibes Only",
-      "url": "https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "Hog Heaven",
         "url": "https://open.spotify.com/album/4d6JJcqCvlw4XBT5c3gbAf"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 282000,
       "name": "Backroads Life (feat. The Lacs)",
       "url": "https://open.spotify.com/track/75RsCkcyXJvc26HmmwKhlu"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "The Colonel",
+        "url": "https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD"
+      },
+      "artists": [
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        }
+      ],
+      "duration_ms": 157367,
+      "name": "Good Vibes Only",
+      "url": "https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1319,26 +1319,18 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Roll With Me (feat. Chris Hurt)",
-        "url": "https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE"
+        "name": "Redneck Rich",
+        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
       },
       "artists": [
         {
-          "name": "I4NI",
-          "url": "https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io"
-        },
-        {
-          "name": "Bubba Sparxxx",
-          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
-        },
-        {
-          "name": "Chris Hurt",
-          "url": "https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2"
+          "name": "Cody Parks and The Dirty South",
+          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
         }
       ],
-      "duration_ms": 235416,
-      "name": "Roll With Me (feat. Chris Hurt)",
-      "url": "https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG"
+      "duration_ms": 282462,
+      "name": "Redneck Rich",
+      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1363,18 +1355,26 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Redneck Rich",
-        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
+        "name": "Roll With Me (feat. Chris Hurt)",
+        "url": "https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE"
       },
       "artists": [
         {
-          "name": "Cody Parks and The Dirty South",
-          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
+          "name": "I4NI",
+          "url": "https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io"
+        },
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        },
+        {
+          "name": "Chris Hurt",
+          "url": "https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2"
         }
       ],
-      "duration_ms": 282462,
-      "name": "Redneck Rich",
-      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
+      "duration_ms": 235416,
+      "name": "Roll With Me (feat. Chris Hurt)",
+      "url": "https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG"
     },
     {
       "added_at": "2023-08-21 15:41:01",

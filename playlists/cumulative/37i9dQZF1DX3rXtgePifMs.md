@@ -4,7 +4,7 @@
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-89 songs - 4 hr 46 min
+92 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [AVVISO](https://open.spotify.com/track/2YMvLfACAlvQMiKonxdeUq) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 3:03 | 2023-09-20 |  |
 | [Better Than I?](https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG) | [Shakes](https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y) | [Better Than I?](https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5) | 2:25 | 2023-09-20 |  |
 | [BICHOTAG](https://open.spotify.com/track/5CQXesQM39J0CBnY0Npp6S) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:13 | 2023-09-20 |  |
+| [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 | 2023-09-28 |  |
 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 | 2023-09-20 |  |
 | [CATALYST](https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [CATALYST](https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU) | 3:26 | 2023-09-20 |  |
 | [Complicated \(feat\. Young Franco\)](https://open.spotify.com/track/4zeKrvNy29uPIrnOHfdRHK) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl) | [Panna Cotta](https://open.spotify.com/album/28Ymo5sEs0gwOoZYdaLkNY) | 2:57 | 2023-09-20 |  |
@@ -67,6 +68,7 @@
 | [Pinking Shears](https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Pinking Shears](https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK) | 2:32 | 2023-09-20 |  |
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-09-20 |  |
 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 | 2023-09-20 |  |
+| [Powder](https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd) | [Pontypool](https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ) | [Powder](https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R) | 3:26 | 2023-09-28 |  |
 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/2pDUb0DE5L5soxdQfyzDDc) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/1gIhUSOKHS9WoUCZeBR8Ao) | 4:28 | 2023-09-20 |  |
 | [Protein v2](https://open.spotify.com/track/4BxywQGCn9qUTHPAarWGZZ) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Universal Credit \(Deluxe\)](https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl) | 3:08 | 2023-09-20 |  |
 | [R.A.V.E.A.S.A.P \(Unglued Remix\)](https://open.spotify.com/track/1FSy5JFWNsPj6hM2qIWr7W) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [R.A.V.E.A.S.A.P \- The Remixes](https://open.spotify.com/album/3ScbyV8uIm9LF607YF8zCT) | 3:32 | 2023-09-20 |  |
@@ -80,6 +82,7 @@
 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 | 2023-09-20 |  |
 | [Superstar](https://open.spotify.com/track/6sqG2ZdKeW2C9lIStu99FP) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Micky Modelle](https://open.spotify.com/artist/3zcI1GFwUNAZj9NxlKOfYb), [Simone Denny](https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs) | [Belters Only](https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y) | 3:42 | 2023-09-20 |  |
 | [THAT GIRL](https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [THAT GIRL](https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE) | 2:05 | 2023-09-20 |  |
+| [The Gates Will Open](https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2) | [The Gates Will Open](https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv) | 5:46 | 2023-09-28 |  |
 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 | 2023-09-20 |  |
 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2023-09-20 |  |
 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 | 2023-09-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: TA Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,828 likes - 97 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,860 likes - 97 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 96 | [Layin Next to Me](https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Layin Next to Me](https://open.spotify.com/album/1jhFza8pUS6acLiZXNYdJx) | 3:37 |
 | 97 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 |
 
-Snapshot ID: `MCxlOTBjNTgyNGQwMDdkZDVjYmZmNjU3N2FjMmVhODM0MjE0ZGE2ODJm`
+Snapshot ID: `MCwyMmI2NThkMTE3MzQ0ODhjNTUwZjJiMzE3ZjQxZTJhNzI3MDdlNzJk`

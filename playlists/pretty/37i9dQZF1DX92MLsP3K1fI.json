@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Kim Loaiza y Pailita en portada.",
-  "num_followers": 74350,
+  "num_followers": 74482,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2NmYzU1ZTM1NjI4MGI3YTk2N2I3NTI2NDc1OWQ5MDEwYjQ3ZDk1",
+  "snapshot_id": "MCxhZmUyNDI3NWJjMjg2OTUyNDJlNTAyZTFhZmU2MDMzOWNmZjlmMjE0",
   "tracks": [
     {
       "added_at": "2023-09-25 22:55:53",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-09-25 22:55:53",
       "album": {
-        "name": "Amapolas (Remix)",
-        "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 267338,
-      "name": "Amapolas - Remix",
-      "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
-    },
-    {
-      "added_at": "2023-09-25 22:55:53",
-      "album": {
         "name": "dEsANiMaO :(",
         "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 187317,
       "name": "dEsANiMaO :(",
       "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
+    },
+    {
+      "added_at": "2023-09-25 22:55:53",
+      "album": {
+        "name": "Amapolas (Remix)",
+        "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 267338,
+      "name": "Amapolas - Remix",
+      "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
     },
     {
       "added_at": "2023-09-25 22:55:53",

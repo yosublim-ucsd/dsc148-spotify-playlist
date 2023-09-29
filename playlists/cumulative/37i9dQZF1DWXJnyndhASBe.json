@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Taco Hemingway",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Oki",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -438,6 +438,28 @@
       "duration_ms": 195463,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/5J8YMg4sdC4aRHjhumCrdc"
+    },
+    {
+      "album": {
+        "name": "Grand Prix",
+        "url": "https://open.spotify.com/album/35HvNMzdTNLKGDwUurvy3u"
+      },
+      "artists": [
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139424,
+      "name": "Grand Prix",
+      "url": "https://open.spotify.com/track/3xnJpiD7nR1xonj3QxQvgE"
     },
     {
       "album": {
@@ -1012,7 +1034,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 195257,
       "name": "OWOCE 33",
       "url": "https://open.spotify.com/track/4Dy9azWTLsDMUdUxrT1170"
@@ -1130,7 +1152,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 166579,
       "name": "same zmartwienia",
       "url": "https://open.spotify.com/track/2LMXAlcaN53mR1eHiwnJbb"
@@ -1159,6 +1181,44 @@
     },
     {
       "album": {
+        "name": "ostatnie dni przekl\u0119tych dni",
+        "url": "https://open.spotify.com/album/5FKKMJh5wj6oVoz4MGTaLF"
+      },
+      "artists": [
+        {
+          "name": "Rusina",
+          "url": "https://open.spotify.com/artist/5QQGdYIcd5A2PRcG42eNdQ"
+        },
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        },
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        },
+        {
+          "name": "TPS",
+          "url": "https://open.spotify.com/artist/1sUtQyqYAxG0JBYX1GSxxU"
+        },
+        {
+          "name": "kidzlori",
+          "url": "https://open.spotify.com/artist/5vd5bcqLmwJKYag1wil888"
+        },
+        {
+          "name": "learnhowtohustle",
+          "url": "https://open.spotify.com/artist/7pSOUt62cSYXpoQq0ZIiQy"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185250,
+      "name": "setki dr\u00f3g",
+      "url": "https://open.spotify.com/track/2JbBGM0HewmYSL99YFec02"
+    },
+    {
+      "album": {
         "name": "Stan",
         "url": "https://open.spotify.com/album/4lSPL8p1PEevYs9RMgvqD0"
       },
@@ -1182,6 +1242,24 @@
       "duration_ms": 181045,
       "name": "Stan",
       "url": "https://open.spotify.com/track/18bAMjHACL9Iphk0KB0z7o"
+    },
+    {
+      "album": {
+        "name": "SZA\u0141",
+        "url": "https://open.spotify.com/album/3hF4EgQJyVtLHfuc6rWkDU"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "SZA\u0141",
+      "url": "https://open.spotify.com/track/0HAjbuIEDbqhg70zbCcsHn"
     },
     {
       "album": {
@@ -1478,7 +1556,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 175890,
       "name": "\u015amig\u0142owiec",
       "url": "https://open.spotify.com/track/3EjijbjPkBbgK49GwZMuMY"

@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran \u2728 Cover: Maria Becerra",
-  "num_followers": 645994,
+  "num_followers": 646033,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY2NGFiNjA2MjAxNTIwNTk4ZGQyZTE1YzYzZDM3MjRmOGY3ODk0",
+  "snapshot_id": "MCwzMTYyYzZjNjBmOWVkNGI0YjE0ZDQ5NjIxZTFlZDExYjJhNDE4ODdl",
   "tracks": [
     {
       "added_at": "2023-08-18 20:49:26",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-08-18 20:49:26",
       "album": {
+        "name": "Creo En M\u00ed (Versi\u00f3n: ANTOLOG\u00cdA 20 A\u00d1OS)",
+        "url": "https://open.spotify.com/album/1zFYAdhfPwLHEEHGGsoBwz"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 248431,
+      "name": "Creo En M\u00ed - Versi\u00f3n: ANTOLOG\u00cdA 20 A\u00d1OS",
+      "url": "https://open.spotify.com/track/20kACW3Sxoi4Lmq7E8wH48"
+    },
+    {
+      "added_at": "2023-08-18 20:49:26",
+      "album": {
         "name": "Pa Mis Muchachas (feat. Nathy Peluso)",
         "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 216737,
       "name": "Pa Mis Muchachas (feat. Nathy Peluso)",
       "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
-    },
-    {
-      "added_at": "2023-08-18 20:49:26",
-      "album": {
-        "name": "Creo En M\u00ed (Versi\u00f3n: ANTOLOG\u00cdA 20 A\u00d1OS)",
-        "url": "https://open.spotify.com/album/1zFYAdhfPwLHEEHGGsoBwz"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 248431,
-      "name": "Creo En M\u00ed - Versi\u00f3n: ANTOLOG\u00cdA 20 A\u00d1OS",
-      "url": "https://open.spotify.com/track/20kACW3Sxoi4Lmq7E8wH48"
     },
     {
       "added_at": "2023-08-18 20:49:26",

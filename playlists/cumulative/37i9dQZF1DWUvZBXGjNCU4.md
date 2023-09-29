@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-283 songs - 12 hr 52 min
+285 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Comin' Home](https://open.spotify.com/track/4zRT3cEjUXh715YPOYsf8D) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Comin' Home](https://open.spotify.com/album/0hTWpULZAfuqIre5Z8HyL0) | 2:57 | 2023-02-24 |  |
 | [Coming home to someone](https://open.spotify.com/track/33jEJgoSbewTinFfmhsBLZ) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Coming home to someone](https://open.spotify.com/album/6GSi2ihzkIvHQggLoUxvzp) | 2:45 | 2022-05-13 |  |
 | [Crowns](https://open.spotify.com/track/1tYypP1QZl7IPoeFsW0yRm) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [Crowns](https://open.spotify.com/album/0CpZPSBZYRkXxCnOeBZmJA) | 2:15 | 2022-05-27 |  |
+| [Dahlia](https://open.spotify.com/track/6ZUiOA4kUpxwHoqgTq502w) | [Raoul Raffino](https://open.spotify.com/artist/4OMeqxm2R62xPoMeoZ8EQB) | [Dahlia](https://open.spotify.com/album/1hez2OnBpf1Kxqr6QLthV5) | 2:20 | 2023-09-29 |  |
 | [Dallam](https://open.spotify.com/track/6vy89nxZGa7YVKExm62L3U) | [Ringunguinja](https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu) | [Gitar](https://open.spotify.com/album/3x7DCTbKzZhja9ELXtRzDK) | 2:48 | 2022-05-13 | 2023-02-25 |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-03-31 |  |
 | [Days](https://open.spotify.com/track/7qXSDdJVmmiu6U0tNsfstK) | [Sebastian Winskog](https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb) | [Days / Nights](https://open.spotify.com/album/28mDnKkcKf16KSw7nDLoIM) | 2:45 | 2022-05-13 | 2022-06-10 |
@@ -67,7 +68,7 @@
 | [Diguil](https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t) | [Charles Avnik](https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp) | [Diguil](https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2) | 3:17 | 2022-05-13 |  |
 | [Distances](https://open.spotify.com/track/63iYBQAZDyqQYwf91qG6ZX) | [Between the Dots](https://open.spotify.com/artist/1i1ZRmxu9V91AzofKXp72i) | [Distances](https://open.spotify.com/album/20KF1rWAGlEEiSFVDhKkTL) | 3:05 | 2022-05-13 | 2022-06-10 |
 | [Door Of The North](https://open.spotify.com/track/7fYKZFLRRlcBIQ17V1E5qE) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Door Of The North](https://open.spotify.com/album/1gHkkuNVNrRNZsSB0aolOt) | 2:34 | 2023-01-20 |  |
-| [Dreamstate](https://open.spotify.com/track/2MCRPbiKo2AmcBduhTrUqI) | [Don Steale](https://open.spotify.com/artist/2HwPnlL403PomZYlx8SHQs) | [Dreamstate](https://open.spotify.com/album/2M1tz2hu4LvjsZfiam9AUV) | 3:32 | 2022-12-09 |  |
+| [Dreamstate](https://open.spotify.com/track/2MCRPbiKo2AmcBduhTrUqI) | [Don Steale](https://open.spotify.com/artist/2HwPnlL403PomZYlx8SHQs) | [Dreamstate](https://open.spotify.com/album/2M1tz2hu4LvjsZfiam9AUV) | 3:32 | 2022-12-09 | 2023-09-29 |
 | [Dreamy Hill](https://open.spotify.com/track/4xuHOEXLwk0mWmYwx8k99m) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Dreamy Hill](https://open.spotify.com/album/73ucC01vW9LnhxoBPbjhBl) | 1:55 | 2022-05-13 | 2022-05-27 |
 | [Dunes](https://open.spotify.com/track/2D8rgpm4G1baiUk5nvKbTX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Dunes](https://open.spotify.com/album/5SGwwCl8w3ngX0BwszeQfb) | 2:20 | 2022-05-13 | 2022-10-07 |
 | [Dust and Ashes \- Guitar Instrumental](https://open.spotify.com/track/1YSkQpcby9nfzBowrz00wC) | [Quiet Arrows](https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI) | [Behind the Breastbone \(Instrumentals\)](https://open.spotify.com/album/6LXLTqQpj8che1C9i2Haro) | 3:22 | 2022-09-02 | 2023-09-01 |
@@ -93,6 +94,7 @@
 | [Forgotten Promises](https://open.spotify.com/track/0w0RedAq8WsbthP2BLFJkr) | [Giacomo Manaia](https://open.spotify.com/artist/4t76e9ebvylDIUTLrXriVk) | [Forgotten Promises](https://open.spotify.com/album/2CUNI5DLIIFEzugW8zqQcY) | 3:09 | 2022-05-13 | 2023-03-31 |
 | [Found](https://open.spotify.com/track/2T2EemW8X3GlKvJe1gxpBC) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Found](https://open.spotify.com/album/2LtKNN5HRbG0Acos9YDAMA) | 2:39 | 2022-05-13 | 2022-06-10 |
 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 | 2022-05-13 |  |
+| [Frühlingsgefühle](https://open.spotify.com/track/4h0QLxUzVqQ7QKFSnWjvdu) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Frühlingsgefühle](https://open.spotify.com/album/7M5trxxK8lsEExyuBP1Au8) | 2:16 | 2023-09-29 |  |
 | [Fáilte](https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Fáilte](https://open.spotify.com/album/1Whcn3o7IpIoJtQXEBq6TZ) | 1:44 | 2023-02-24 | 2023-09-16 |
 | [Gallowhill](https://open.spotify.com/track/6SxZOktPKFDclsZaXvTyRF) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Across The Pond](https://open.spotify.com/album/4M7nAqMxiwTcWua278roTf) | 2:05 | 2022-05-13 | 2022-07-29 |
 | [Gallowhill](https://open.spotify.com/track/7vaRxV3zmbu9jlkZNfCpDi) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Across The Pond](https://open.spotify.com/album/29nlogZZVuuaLvA9lwjgTj) | 2:05 | 2022-07-22 |  |
@@ -202,7 +204,7 @@
 | [Red Cliff](https://open.spotify.com/track/6lsYXz5zZ1DLxk1es2Z3Te) | [Simon Persicke](https://open.spotify.com/artist/2EwkG5Ii2DfeUJSqdDzamR) | [Red Cliff](https://open.spotify.com/album/7Mri2V8TsAD6Qh2kBtaQuJ) | 2:48 | 2022-05-27 | 2023-06-23 |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-05-13 |  |
 | [Reunited](https://open.spotify.com/track/6eirYUJx3GarqrbDhgc51B) | [Daniel Fernando](https://open.spotify.com/artist/7KxUzzHsRoyRrtGMkYnH6y) | [Reunited](https://open.spotify.com/album/1WeMb5lu8JhRQrfNH4311X) | 3:02 | 2022-05-13 | 2023-02-25 |
-| [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 | 2022-06-17 |  |
+| [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 | 2022-06-17 | 2023-09-29 |
 | [Riviera Moon](https://open.spotify.com/track/437RdHmPqM2MC6DfmpGCxJ) | [Jessica Grange](https://open.spotify.com/artist/7xuui1WSiqWO67RrcHAGJh) | [Riviera Moon](https://open.spotify.com/album/3THNjZKsobzny5qV1XY8mR) | 1:58 | 2022-05-13 | 2023-09-16 |
 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 | 2022-05-13 |  |
 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 | 2022-05-13 |  |
@@ -265,7 +267,7 @@
 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 | 2022-05-13 | 2022-06-10 |
 | [Until Eternity](https://open.spotify.com/track/0Ln2XQp3zJpRsAqDvTJhgA) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Until Eternity](https://open.spotify.com/album/1N1czqs5ixWciPe4b6f8VO) | 2:01 | 2023-01-06 |  |
 | [Untroubled by a Rainy Day](https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Untroubled by a Rainy Day](https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR) | 3:03 | 2022-05-13 |  |
-| [Valentine](https://open.spotify.com/track/533SnCwxVytF3viTF5kYql) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Valentine](https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W) | 2:30 | 2023-02-24 |  |
+| [Valentine](https://open.spotify.com/track/533SnCwxVytF3viTF5kYql) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Valentine](https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W) | 2:30 | 2023-02-24 | 2023-09-29 |
 | [Vanek](https://open.spotify.com/track/7maiFElZYEyuvBjuxl6Whr) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2022-05-13 | 2023-06-10 |
 | [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-08-31 |  |
 | [Violet Fog](https://open.spotify.com/track/3E5sK3kvpTuUBQDQ8fvIes) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Violet Fog](https://open.spotify.com/album/0jQZ7IEH8y10fgOheXeGVq) | 2:58 | 2022-07-08 | 2022-07-15 |
@@ -275,7 +277,7 @@
 | [waking up in a new world](https://open.spotify.com/track/3q0Nbk3V4XgpOXpS4IWHTJ) | [Victor Santos](https://open.spotify.com/artist/1VIfeRsZv9cw7shAwqBDOW) | [Roses](https://open.spotify.com/album/09p5h5U8OsTHA9dIaXGVes) | 4:43 | 2022-05-13 | 2022-07-15 |
 | [Walking In Your Shoes](https://open.spotify.com/track/2rzB7UPdvMTfedZzHmDA5v) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Walking In Your Shoes](https://open.spotify.com/album/4CABL5ysMBfQTcDDM9Updm) | 2:10 | 2022-12-23 | 2023-04-28 |
 | [Waterfall](https://open.spotify.com/track/4yfJrK5whv2XCvp6JEwayO) | [Pether Walth](https://open.spotify.com/artist/7KsO5zRoKDB9DumlFYRNW1) | [Waterfall](https://open.spotify.com/album/1F5ltuidSbJFydkutXmMMl) | 1:52 | 2023-04-28 | 2023-09-16 |
-| [Waves](https://open.spotify.com/track/1fCos6izL2keCsoAtj30Kk) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Waves](https://open.spotify.com/album/00016y6rEQmuv4JGNL6w4c) | 2:57 | 2022-10-07 |  |
+| [Waves](https://open.spotify.com/track/1fCos6izL2keCsoAtj30Kk) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Waves](https://open.spotify.com/album/00016y6rEQmuv4JGNL6w4c) | 2:57 | 2022-10-07 | 2023-09-29 |
 | [Weary Traveler](https://open.spotify.com/track/7gLCSVhUt9CNBoCqNRas4R) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Weary Traveler](https://open.spotify.com/album/0uP3ptU1wLEBiIH6qpWoP9) | 3:10 | 2023-01-06 |  |
 | [Weavers](https://open.spotify.com/track/0fwI77XIC0gcpfU6h0il8v) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Mirror](https://open.spotify.com/album/1eajczC71VdUgRAakjJfw8) | 3:05 | 2022-05-13 | 2022-06-10 |
 | [Wees Hier](https://open.spotify.com/track/3X0udzrbLkU0GHi4zbrMAq) | [Adrianne Mercier](https://open.spotify.com/artist/06urGGaPJJnDlxhUHO0TCn) | [Wees Hier](https://open.spotify.com/album/1HhXKa695uXIITpxVLLk5q) | 1:54 | 2023-02-24 | 2023-09-16 |

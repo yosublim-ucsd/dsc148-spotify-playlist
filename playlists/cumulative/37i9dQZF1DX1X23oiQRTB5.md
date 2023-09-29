@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Dave x Tiakola au top de la première playlist de rap français !
+> Werenoi au top de la première playlist de rap français !
 
-190 songs - 9 hr 47 min
+192 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Entraînement](https://open.spotify.com/track/10IQPICqgiB3TeUV2UcYqz) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 4:11 | 2023-06-15 | 2023-09-24 |
 | [Entraînement](https://open.spotify.com/track/5JwqiWLLvi0HGABtvw57eX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/1WYGwCvsfFrr7kuQcfNnJr) | 4:11 | 2023-09-21 |  |
 | [Escorte](https://open.spotify.com/track/41owO9tpVFmNAZ4IEpM2iK) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:14 | 2023-04-06 | 2023-07-29 |
-| [Escorte](https://open.spotify.com/track/4cj9dhfsdN71e2gBgCP8Ho) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:14 | 2023-07-27 |  |
+| [Escorte](https://open.spotify.com/track/4cj9dhfsdN71e2gBgCP8Ho) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:14 | 2023-07-27 | 2023-09-29 |
 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 | 2023-07-06 |  |
 | [Fais de l'argent](https://open.spotify.com/track/5a96UhbVvqjmI4dEXr7wLb) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Fais de l'argent](https://open.spotify.com/album/12vTC7BH3Scluv2woieacw) | 2:25 | 2022-07-28 | 2023-02-17 |
 | [Fendi love](https://open.spotify.com/track/1tQRE9DOEtDzMSGRsGYqFM) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [COCO JOJO](https://open.spotify.com/album/5xNkM6KOf8SQqeNOHTYlzD) | 2:34 | 2022-01-06 | 2022-01-14 |
@@ -97,6 +97,7 @@
 | [Jeune d'en bas \(feat\. Nekfeu\)](https://open.spotify.com/track/3cOIYXOt3tMpeNz9XOmNos) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [Vrai 2 vrai](https://open.spotify.com/album/0dzxf2H7rACEaNpta7XjWg) | 3:26 | 2022-01-06 | 2022-02-18 |
 | [Joli](https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [SOIXVNT3 \- Part\. 3](https://open.spotify.com/album/2ARWfDAm9ONe0vUxGznc6n) | 2:36 | 2023-01-12 |  |
 | [Jolie \(feat\. Ninho\)](https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La Gaule, Vol.1](https://open.spotify.com/album/0xkRuvISedgQKc7BesPxwP) | 2:39 | 2023-02-02 |  |
+| [Jour de plus](https://open.spotify.com/track/0sazgd7qckzMWxJ6IHcRFv) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 3:29 | 2023-09-28 |  |
 | [Kalenji](https://open.spotify.com/track/1BL7fxywhLybZSHG6Lvi32) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Réelle vie 3.0](https://open.spotify.com/album/3qzinl5et0UJo0r5XtG8Kc) | 3:14 | 2022-02-03 | 2022-06-10 |
 | [KOA](https://open.spotify.com/track/0eo5HWCC0jd7z9YBKNmAy0) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [KOA](https://open.spotify.com/album/7FBlDnQcJkmdxQ7MKO8zc1) | 3:07 | 2022-10-20 | 2023-01-13 |
 | [Kongolais mauvais \(feat\. Ninho\)](https://open.spotify.com/track/5HdOXndzIyhcLTMhAJQkUs) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Le chemin des braves](https://open.spotify.com/album/6oGOmTaJ6dKUPK1TvdcAzo) | 3:49 | 2022-04-07 | 2022-07-01 |
@@ -121,6 +122,7 @@
 | [Louis V](https://open.spotify.com/track/7r83PYx36835T5BQCbzrjc) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Louis V](https://open.spotify.com/album/1BYuCRO2VsdMLNCTirNUMr) | 3:04 | 2022-01-06 | 2022-07-15 |
 | [Ma Came](https://open.spotify.com/track/3x6n0IkVMIqTl7EE2j3R2g) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2R9xCcqvgr4UCFfN3JvviO) | 2:42 | 2023-01-20 | 2023-06-02 |
 | [Ma Came](https://open.spotify.com/track/6DdKVun3sEVCfyeSV1vTJI) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR) | [Ma Came](https://open.spotify.com/album/2rW8ck12ZmGvd7NSO1Fbzm) | 2:42 | 2023-01-19 | 2023-01-21 |
+| [Magot](https://open.spotify.com/track/69zAnyBtarXinChSUq925t) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:16 | 2023-09-28 |  |
 | [Malpolis](https://open.spotify.com/track/4MHEsggGJNsgcK1zKD6W1D) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Malpolis](https://open.spotify.com/album/1cieqTocQSlVT8W0f8sCDh) | 3:20 | 2022-09-29 | 2023-02-24 |
 | [Manège](https://open.spotify.com/track/0JyX9jNf4mUdp1eNUVAqyR) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/1UEcfpwy8q1TvhATQx6Ntu) | 2:29 | 2022-01-06 | 2022-02-11 |
 | [Mapessa \(feat\. Tiakola\)](https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:48 | 2022-01-06 | 2022-09-30 |

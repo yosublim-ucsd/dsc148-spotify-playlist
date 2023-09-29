@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - India.",
-  "num_followers": 450536,
+  "num_followers": 450717,
   "original_name": "Top 50 - India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ5MTc5MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ5MjY1NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Jawan",
         "url": "https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/3xMHXmedL5Rvfxmiar9Ryv"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Heeriye (feat. Arijit Singh)",
         "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Still Rollin",
         "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
@@ -93,7 +93,23 @@
       "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "duration_ms": 159222,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
         "url": "https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC"
@@ -113,7 +129,27 @@
       "url": "https://open.spotify.com/track/0645eBDehHcqfiF15hscQV"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Making Memories",
+        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "duration_ms": 155161,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Dard",
         "url": "https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM"
@@ -129,23 +165,7 @@
       "url": "https://open.spotify.com/track/0Jiaz0O4AqnJICa9PxHhaR"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
-      },
-      "artists": [
-        {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
-        }
-      ],
-      "duration_ms": 159222,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
         "url": "https://open.spotify.com/album/4mrXgKhegKi7Ol4pdN4z3Q"
@@ -181,27 +201,7 @@
       "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Making Memories",
-        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        }
-      ],
-      "duration_ms": 155161,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Jailer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD"
@@ -221,7 +221,23 @@
       "url": "https://open.spotify.com/track/5DgY6Ab0vpyUMKnY9ubFOF"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Champagne Talk",
+        "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "Maan Meri Jaan",
+      "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "9:45",
         "url": "https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR"
@@ -241,23 +257,7 @@
       "url": "https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Champagne Talk",
-        "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "Maan Meri Jaan",
-      "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Laado",
         "url": "https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB"
@@ -277,23 +277,7 @@
       "url": "https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Still Rollin",
-        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
-      },
-      "artists": [
-        {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
-        }
-      ],
-      "duration_ms": 174730,
-      "name": "Still Rollin",
-      "url": "https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Malang Sajna",
         "url": "https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf"
@@ -321,7 +305,23 @@
       "url": "https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Still Rollin",
+        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "duration_ms": 174730,
+      "name": "Still Rollin",
+      "url": "https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
         "url": "https://open.spotify.com/album/7BE0KM7dc0f4MX6Kc6kCuN"
@@ -349,7 +349,27 @@
       "url": "https://open.spotify.com/track/00ake6KfnzbZ2MaRLGqsyX"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Hayyoda (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/3JiVWzoQqLwmH8DcayvdQ6"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Priya Mali",
+          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
+        }
+      ],
+      "duration_ms": 200142,
+      "name": "Hayyoda (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/6aQIGqAo9PxRKjUkhYtR6R"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\") - Single",
         "url": "https://open.spotify.com/album/1skD49xUwXnHLMrlEKTo6j"
@@ -373,7 +393,23 @@
       "url": "https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Desi Kalakaar",
+        "url": "https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "duration_ms": 253352,
+      "name": "Desi Kalakaar",
+      "url": "https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Chale Jaana Phir (Humko Tere Bina)",
         "url": "https://open.spotify.com/album/7Co0Nyse7oM3Us1KCulBpn"
@@ -397,31 +433,7 @@
       "url": "https://open.spotify.com/track/04ChFQZCKl2yRcvc0VR7qN"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2"
-      },
-      "artists": [
-        {
-          "name": "Sharn",
-          "url": "https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv"
-        },
-        {
-          "name": "40k",
-          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
-        },
-        {
-          "name": "The Paul",
-          "url": "https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ"
-        }
-      ],
-      "duration_ms": 203048,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Brahmastra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79"
@@ -445,27 +457,31 @@
       "url": "https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
-        "name": "Hayyoda (From \"Jawan\")",
-        "url": "https://open.spotify.com/album/3JiVWzoQqLwmH8DcayvdQ6"
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Sharn",
+          "url": "https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv"
         },
         {
-          "name": "Priya Mali",
-          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        },
+        {
+          "name": "The Paul",
+          "url": "https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ"
         }
       ],
-      "duration_ms": 200142,
-      "name": "Hayyoda (From \"Jawan\")",
-      "url": "https://open.spotify.com/track/6aQIGqAo9PxRKjUkhYtR6R"
+      "duration_ms": 203048,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\") - Single",
         "url": "https://open.spotify.com/album/4GEXGGOjUBuSHR4KgaSngh"
@@ -497,59 +513,7 @@
       "url": "https://open.spotify.com/track/75DRLUnnltzSyuTJ7onxmW"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Jawan",
-        "url": "https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 202556,
-      "name": "Not Ramaiya Vastavaiya",
-      "url": "https://open.spotify.com/track/5inzjqKe05zP1eInEO8O1i"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Yadav Brand 2",
-        "url": "https://open.spotify.com/album/3pRiXGIvpgNrMQmK6AgJ3c"
-      },
-      "artists": [
-        {
-          "name": "Sunny Yaduvanshi",
-          "url": "https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU"
-        },
-        {
-          "name": "AK Rok",
-          "url": "https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY"
-        },
-        {
-          "name": "Nitesh Ujoli",
-          "url": "https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ"
-        }
-      ],
-      "duration_ms": 174252,
-      "name": "Yadav Brand 2",
-      "url": "https://open.spotify.com/track/4JvziZ2kQsbzfvRQtpYfmJ"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Naa Ready (From \"Leo\")",
         "url": "https://open.spotify.com/album/7qRoSVSyHeA9qtOXUpBwRI"
@@ -573,7 +537,7 @@
       "url": "https://open.spotify.com/track/1B02UI29t3PTh3m98absaP"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Jailer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD"
@@ -597,7 +561,31 @@
       "url": "https://open.spotify.com/track/1cPDOeVdALLjj4erFPiuqW"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Yadav Brand 2",
+        "url": "https://open.spotify.com/album/3pRiXGIvpgNrMQmK6AgJ3c"
+      },
+      "artists": [
+        {
+          "name": "Sunny Yaduvanshi",
+          "url": "https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU"
+        },
+        {
+          "name": "AK Rok",
+          "url": "https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY"
+        },
+        {
+          "name": "Nitesh Ujoli",
+          "url": "https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ"
+        }
+      ],
+      "duration_ms": 174252,
+      "name": "Yadav Brand 2",
+      "url": "https://open.spotify.com/track/4JvziZ2kQsbzfvRQtpYfmJ"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO"
@@ -625,7 +613,35 @@
       "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Jawan",
+        "url": "https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 202556,
+      "name": "Not Ramaiya Vastavaiya",
+      "url": "https://open.spotify.com/track/5inzjqKe05zP1eInEO8O1i"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Love Forever With Arijit Singh",
         "url": "https://open.spotify.com/album/5Wm1nhxZqx7i0Hp6ZBqe9T"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
@@ -669,7 +685,23 @@
       "url": "https://open.spotify.com/track/6ygiy70ujkNOYXM1tQuMNe"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Farq hai",
+        "url": "https://open.spotify.com/album/0sj88yyoDKFPiJsxnIrgIB"
+      },
+      "artists": [
+        {
+          "name": "Suzonn",
+          "url": "https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h"
+        }
+      ],
+      "duration_ms": 184090,
+      "name": "Farq hai",
+      "url": "https://open.spotify.com/track/7GsNFfmWszJUcMvYePL6M1"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Check It Out",
         "url": "https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV"
@@ -689,7 +721,7 @@
       "url": "https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Chaand Baaliyan",
         "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
@@ -705,55 +737,7 @@
       "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Asal Mein",
-        "url": "https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK"
-      },
-      "artists": [
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "duration_ms": 224240,
-      "name": "Asal Mein",
-      "url": "https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Farq hai",
-        "url": "https://open.spotify.com/album/0sj88yyoDKFPiJsxnIrgIB"
-      },
-      "artists": [
-        {
-          "name": "Suzonn",
-          "url": "https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h"
-        }
-      ],
-      "duration_ms": 184090,
-      "name": "Farq hai",
-      "url": "https://open.spotify.com/track/7GsNFfmWszJUcMvYePL6M1"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Shree Hanuman Chalisa (Hanuman Ashtak)",
-        "url": "https://open.spotify.com/album/1JfMAw56ShwV21lxRrwGbu"
-      },
-      "artists": [
-        {
-          "name": "Hariharan",
-          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
-        }
-      ],
-      "duration_ms": 586075,
-      "name": "Shree Hanuman Chalisa",
-      "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/7JABHOzxcWGwmihIUq13dl"
@@ -773,7 +757,23 @@
       "url": "https://open.spotify.com/track/28lvraTNIN8qiTpoIK7m8Z"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Asal Mein",
+        "url": "https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "duration_ms": 224240,
+      "name": "Asal Mein",
+      "url": "https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Tere Hawaale (From \"Laal Singh Chaddha\")",
         "url": "https://open.spotify.com/album/1lZk7TnMgvS3mSlfeWW1b3"
@@ -797,31 +797,7 @@
       "url": "https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
-        "url": "https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 313051,
-      "name": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
-      "url": "https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
         "url": "https://open.spotify.com/album/3I8PdIhk6pNm8Kv0HiF14V"
@@ -841,63 +817,7 @@
       "url": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu"
-      },
-      "artists": [
-        {
-          "name": "Riar Saab",
-          "url": "https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q"
-        },
-        {
-          "name": "Abhijay Sharma",
-          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
-        }
-      ],
-      "duration_ms": 190444,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Aam Jahe Munde",
-        "url": "https://open.spotify.com/album/0VtFj2jJ3PosFrLHbE7TJX"
-      },
-      "artists": [
-        {
-          "name": "Parmish Verma",
-          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
-        },
-        {
-          "name": "PARDHAAN",
-          "url": "https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq"
-        }
-      ],
-      "duration_ms": 207838,
-      "name": "Aam Jahe Munde",
-      "url": "https://open.spotify.com/track/32VAw8DL9ixX5XSW2VLcZ4"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Kahani Suno 2.0",
-        "url": "https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV"
-      },
-      "artists": [
-        {
-          "name": "Kaifi Khalil",
-          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
-        }
-      ],
-      "duration_ms": 173637,
-      "name": "Kahani Suno 2.0",
-      "url": "https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Raataan Lambiyan (From \"Shershaah\")",
         "url": "https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj"
@@ -921,7 +841,67 @@
       "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu"
+      },
+      "artists": [
+        {
+          "name": "Riar Saab",
+          "url": "https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q"
+        },
+        {
+          "name": "Abhijay Sharma",
+          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
+        }
+      ],
+      "duration_ms": 190444,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
+        "url": "https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 313051,
+      "name": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
+      "url": "https://open.spotify.com/track/0czcoKJbJt08NqKrvSbbz7"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Kahani Suno 2.0",
+        "url": "https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        }
+      ],
+      "duration_ms": 173637,
+      "name": "Kahani Suno 2.0",
+      "url": "https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
@@ -941,7 +921,119 @@
       "url": "https://open.spotify.com/track/1Er6TEtbyuW1b9QtBVkggD"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Aam Jahe Munde",
+        "url": "https://open.spotify.com/album/0VtFj2jJ3PosFrLHbE7TJX"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "PARDHAAN",
+          "url": "https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq"
+        }
+      ],
+      "duration_ms": 207838,
+      "name": "Aam Jahe Munde",
+      "url": "https://open.spotify.com/track/32VAw8DL9ixX5XSW2VLcZ4"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "duration_ms": 170387,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Jab We Met",
+        "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        }
+      ],
+      "duration_ms": 321225,
+      "name": "Tum Se Hi",
+      "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Manjha",
+        "url": "https://open.spotify.com/album/1N9rGbn2M9lzU6YcJ6081E"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "Manjha",
+      "url": "https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
+      "album": {
+        "name": "White Brown Black",
+        "url": "https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ"
+      },
+      "artists": [
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "White Brown Black",
+      "url": "https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0"
+    },
+    {
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Dhundhala",
         "url": "https://open.spotify.com/album/1wQyuIiZpM5Qy4wQOU2i1J"
@@ -965,79 +1057,7 @@
       "url": "https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ"
     },
     {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Manjha",
-        "url": "https://open.spotify.com/album/1N9rGbn2M9lzU6YcJ6081E"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "Manjha",
-      "url": "https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU"
-      },
-      "artists": [
-        {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
-        }
-      ],
-      "duration_ms": 170387,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "Guli Mata",
-        "url": "https://open.spotify.com/album/1EK8G52QTTI7LgDKnrCmB6"
-      },
-      "artists": [
-        {
-          "name": "Saad Lamjarred",
-          "url": "https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Rajat Nagpal",
-          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
-        }
-      ],
-      "duration_ms": 235574,
-      "name": "Guli Mata",
-      "url": "https://open.spotify.com/track/3B9CL5t32mM2SDdps2IhYM"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
+      "added_at": "2023-09-28 08:23:12",
       "album": {
         "name": "Kaise Hua (From \"Kabir Singh\")",
         "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
@@ -1051,30 +1071,6 @@
       "duration_ms": 234722,
       "name": "Kaise Hua (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
-    },
-    {
-      "added_at": "2023-09-27 08:46:13",
-      "album": {
-        "name": "White Brown Black",
-        "url": "https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ"
-      },
-      "artists": [
-        {
-          "name": "Avvy Sra",
-          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
-        },
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        }
-      ],
-      "duration_ms": 175999,
-      "name": "White Brown Black",
-      "url": "https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0"
     }
   ],
   "unique_name": "Top 50 - India",

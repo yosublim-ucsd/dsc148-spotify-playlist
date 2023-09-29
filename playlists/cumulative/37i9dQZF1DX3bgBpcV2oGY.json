@@ -3339,6 +3339,24 @@
     },
     {
       "album": {
+        "name": "Spanish sun rays",
+        "url": "https://open.spotify.com/album/196ZLlX03BiqECKqux3VAV"
+      },
+      "artists": [
+        {
+          "name": "Africa Levine",
+          "url": "https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115992,
+      "name": "Spanish sun rays",
+      "url": "https://open.spotify.com/track/6moW6E8JUr3oSWlqx63Rwc"
+    },
+    {
+      "album": {
         "name": "La Massana",
         "url": "https://open.spotify.com/album/5sFOpgxafc8hRzyzADz0q3"
       },

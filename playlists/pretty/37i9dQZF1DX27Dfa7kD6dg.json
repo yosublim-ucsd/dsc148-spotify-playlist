@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 24911,
+  "num_followers": 24976,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDU5MzNlMTdhZGQ3ZDhlNDdkYTJjOGJlMDBmY2JmZjQ3NGUzYmY3",
+  "snapshot_id": "MCw1MDkzMTdjYWRjMzBjMDk5NGQzOGFlNTgwNTY3ZjZiODE3ZjQyZDE4",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
-        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        },
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 239420,
-      "name": "Pregones De San Crist\u00f3bal",
-      "url": "https://open.spotify.com/track/64agTveoc8y1cXjfLHJG9c"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 351333,
       "name": "Ublabad\u00fa",
       "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
+        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        },
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 239420,
+      "name": "Pregones De San Crist\u00f3bal",
+      "url": "https://open.spotify.com/track/64agTveoc8y1cXjfLHJG9c"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Unchained Force",
-        "url": "https://open.spotify.com/album/0iHz81rYUaq4KFb8MvSsOH"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 350000,
-      "name": "Mi Lindo Yamb\u00fa",
-      "url": "https://open.spotify.com/track/17NHdvCj6LhQW2EfRwcmc7"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
         "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 215272,
       "name": "Cu\u00eddate Bi\u00e9n",
       "url": "https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Unchained Force",
+        "url": "https://open.spotify.com/album/0iHz81rYUaq4KFb8MvSsOH"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "Mi Lindo Yamb\u00fa",
+      "url": "https://open.spotify.com/track/17NHdvCj6LhQW2EfRwcmc7"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Salsa Sensual, Vol. 1",
-        "url": "https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De New York",
-          "url": "https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu"
-        }
-      ],
-      "duration_ms": 292853,
-      "name": "Qui\u00e9reme Tal Como Soy",
-      "url": "https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Cuando Parar\u00e1 La Lluvia",
         "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 280266,
       "name": "Por Eso Est\u00e1 Conmigo",
       "url": "https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Salsa Sensual, Vol. 1",
+        "url": "https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De New York",
+          "url": "https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu"
+        }
+      ],
+      "duration_ms": 292853,
+      "name": "Qui\u00e9reme Tal Como Soy",
+      "url": "https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1"
-      },
-      "artists": [
-        {
-          "name": "Azuquita Y Su Orquesta Melao",
-          "url": "https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Salsa Na' Ma'",
-      "url": "https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "La Din\u00e1mica!",
         "url": "https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 161946,
       "name": "Tumba La Ca\u00f1a Jibarito",
       "url": "https://open.spotify.com/track/3qiFFGj7QQ2XOFbO0NA56s"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1"
+      },
+      "artists": [
+        {
+          "name": "Azuquita Y Su Orquesta Melao",
+          "url": "https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Salsa Na' Ma'",
+      "url": "https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto"
     },
     {
       "added_at": "2023-03-17 00:52:56",

@@ -1273,6 +1273,32 @@
     },
     {
       "album": {
+        "name": "Roots EP",
+        "url": "https://open.spotify.com/album/6ZAcM29Ot4yCMlsRTmA7ze"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Verseless",
+          "url": "https://open.spotify.com/artist/2kXwMFHdIbk3FVjJe9XOXM"
+        },
+        {
+          "name": "King Her",
+          "url": "https://open.spotify.com/artist/6acKJrfjda2y2rbJ9lKLm5"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218437,
+      "name": "Jabula",
+      "url": "https://open.spotify.com/track/6Kb5zYN5rUlBAZC3EqAB0T"
+    },
+    {
+      "album": {
         "name": "Just for me",
         "url": "https://open.spotify.com/album/00fcDjvEq4elj756TESO0c"
       },

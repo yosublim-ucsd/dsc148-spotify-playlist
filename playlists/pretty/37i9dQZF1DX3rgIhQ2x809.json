@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70120,
+  "num_followers": 70123,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzFiMzcxOTY2ZjlkMTk1YTJjNGFiOTc2ZWJkZmI4NGJlZGU0Njc3",
+  "snapshot_id": "MCwwMmQ2Nzg2MmU2OTk2YzkwZmViNTM2YmEzOWM1N2JlYjk5YTc5NjRm",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -867,22 +867,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Soluci\u00f3n",
-        "url": "https://open.spotify.com/album/2vi8w5TScVrMNUV6Z1hTQd"
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
       },
       "artists": [
         {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        },
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
         }
       ],
-      "duration_ms": 219361,
-      "name": "Soluci\u00f3n",
-      "url": "https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9"
+      "duration_ms": 209192,
+      "name": "Bonnie and Clyde",
+      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -903,18 +899,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Bonnie and Clyde",
-        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
+        "name": "Soluci\u00f3n",
+        "url": "https://open.spotify.com/album/2vi8w5TScVrMNUV6Z1hTQd"
       },
       "artists": [
         {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
         }
       ],
-      "duration_ms": 209192,
-      "name": "Bonnie and Clyde",
-      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
+      "duration_ms": 219361,
+      "name": "Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "BRUJULA",
+        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "BRUJULA",
+      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Invicta",
         "url": "https://open.spotify.com/album/164fsq8P3kfsSluv7q21rZ"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 286767,
       "name": "Invicta",
       "url": "https://open.spotify.com/track/28yQZfH9hoSvZLOKnEODlU"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "BRUJULA",
-        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "BRUJULA",
-      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Billete",
+        "url": "https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ"
+      },
+      "artists": [
+        {
+          "name": "Chen",
+          "url": "https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu"
+        }
+      ],
+      "duration_ms": 163777,
+      "name": "Billete",
+      "url": "https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Twerk",
         "url": "https://open.spotify.com/album/5DBAnbo3V3KnEf6Gvkq5Ua"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 160128,
       "name": "Twerk",
       "url": "https://open.spotify.com/track/4RChFXDIxsaWg8QTkpSWlo"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Billete",
-        "url": "https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ"
-      },
-      "artists": [
-        {
-          "name": "Chen",
-          "url": "https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu"
-        }
-      ],
-      "duration_ms": 163777,
-      "name": "Billete",
-      "url": "https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "diamante$ + espina$",
-        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 178176,
-      "name": "gatx",
-      "url": "https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Polvos Narcos",
         "url": "https://open.spotify.com/album/3OIeXcf2e3ahdXuHuFsHCw"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 228695,
       "name": "Polvos Narcos",
       "url": "https://open.spotify.com/track/6ckRxmSWoAy1oBrlwrlqhZ"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "diamante$ + espina$",
+        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "gatx",
+      "url": "https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip"
     },
     {
       "added_at": "2023-06-09 02:27:24",

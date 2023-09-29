@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 210875,
       "name": "17",
       "url": "https://open.spotify.com/track/3LejSFG20mSl4IzORHa7Ya"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 212901,
       "name": "BONA BONA",
       "url": "https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF"
@@ -8201,6 +8201,24 @@
     },
     {
       "album": {
+        "name": "2ND FULL ALBUM 'REBOOT'",
+        "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208210,
+      "name": "THE WAY TO (VOCAL Unit)",
+      "url": "https://open.spotify.com/track/2c42MAkCp7pFbGgJ7xg7xi"
+    },
+    {
+      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
       },
@@ -10274,7 +10292,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 318600,
       "name": "\u0e17\u0e34\u0e49\u0e07\u0e44\u0e27\u0e49\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e1e\u0e2d\u0e43\u0e08(Consoled)",
       "url": "https://open.spotify.com/track/6ErAsIiAY6I44yW5d3WXFM"
@@ -10495,7 +10513,7 @@
     },
     {
       "album": {
-        "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28",
+        "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28 - Single",
         "url": "https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT"
       },
       "artists": [
@@ -10943,7 +10961,7 @@
     },
     {
       "album": {
-        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e42\u0e04\u0e15\u0e23\u0e25\u0e37\u0e21\u0e22\u0e32\u0e01 My Precious",
+        "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01 (First Love) - Single",
         "url": "https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s"
       },
       "artists": [
@@ -10956,7 +10974,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 266557,
-      "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01 (First Love) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e42\u0e04\u0e15\u0e23\u0e25\u0e37\u0e21\u0e22\u0e32\u0e01 My Precious",
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01 (First Love) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e42\u0e04\u0e15\u0e23\u0e25\u0e37\u0e21\u0e22\u0e32\u0e01 My Precious]",
       "url": "https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv"
     },
     {
@@ -12991,7 +13009,7 @@
     },
     {
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e23\u0e2d\u0e07",
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e23\u0e2d\u0e07 - Single",
         "url": "https://open.spotify.com/album/1vsxelQ8EZjwbqMPEETzZ8"
       },
       "artists": [

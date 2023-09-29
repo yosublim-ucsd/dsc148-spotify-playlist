@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 55250,
+  "num_followers": 55299,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzVjNjQ4MjUxOTk5MDE4NTI5YmQyMWZiODYyMmU2Y2MzOTJiNDkz",
+  "snapshot_id": "MCxkMGI5ZDI2NTUwZjAyNTE4NWI3ZDJhOWJjNjVkMGVhNWRlZDAyYTVl",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "My Inspiration",
-        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 307506,
-      "name": "All Jazzed Up (And Nowhere To Go)",
-      "url": "https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "It's On Tonight",
         "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 234000,
       "name": "Dreaming Of You",
       "url": "https://open.spotify.com/track/5ClGoF3ctjs65gRIhqJR7Y"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "My Inspiration",
+        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 307506,
+      "name": "All Jazzed Up (And Nowhere To Go)",
+      "url": "https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -567,22 +567,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Radiant",
-        "url": "https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ"
-      },
-      "artists": [
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 299493,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Just Around The Corner",
         "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 254333,
       "name": "Blue Water",
       "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ"
+      },
+      "artists": [
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 299493,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7"
     },
     {
       "added_at": "2020-08-19 19:15:51",

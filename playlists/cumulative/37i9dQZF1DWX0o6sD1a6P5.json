@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Tyla",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Burna Boy",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1239,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Big Man",
+        "url": "https://open.spotify.com/album/07NzZwKyx7hjidyelPjUDt"
+      },
+      "artists": [
+        {
+          "name": "Bramsito",
+          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152849,
+      "name": "Big Man",
+      "url": "https://open.spotify.com/track/07MLjNIlPLOXBsxOL6W4uS"
+    },
+    {
+      "album": {
         "name": "Billing",
         "url": "https://open.spotify.com/album/453klLTlEAFDEBFvJiR3Xw"
       },
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 211293,
       "name": "capture my soul (feat. Joeboy)",
       "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 168150,
       "name": "Chop Time, No Friend",
       "url": "https://open.spotify.com/track/5KtN5U2onYnm63oVCHkTNz"
@@ -2667,6 +2685,28 @@
     },
     {
       "album": {
+        "name": "Descends",
+        "url": "https://open.spotify.com/album/7j8nuI3KFkRz2jECQSadOd"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9NI BASS DJ",
+          "url": "https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V"
+        },
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210246,
+      "name": "Descends",
+      "url": "https://open.spotify.com/track/4o0RcUuzfNTDsssjYdU9Ty"
+    },
+    {
+      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/3axl6saVOjcbY1RZJWB4XQ"
       },
@@ -2778,7 +2818,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 168859,
       "name": "Diamant",
       "url": "https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7"
@@ -4659,6 +4699,28 @@
     },
     {
       "album": {
+        "name": "Jaga Jaga (with Babyboy AV)",
+        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Jaga Jaga (with Babyboy AV)",
+      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
+    },
+    {
+      "album": {
         "name": "Jah",
         "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
       },
@@ -6273,6 +6335,28 @@
     },
     {
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/2QhVHAu7Jw3HLZNuEaoEgM"
+      },
+      "artists": [
+        {
+          "name": "Nissi",
+          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183267,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/7rsF6JHMItNOu6qwupYA2a"
+    },
+    {
+      "album": {
         "name": "Noche",
         "url": "https://open.spotify.com/album/6ETBTsvMYK6o24y0YzNYDy"
       },
@@ -7412,7 +7496,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 182124,
       "name": "Pocket",
       "url": "https://open.spotify.com/track/4rc2sb1NPhQjrL5e4KAtWn"
@@ -7656,6 +7740,32 @@
       "duration_ms": 149812,
       "name": "Rora",
       "url": "https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY"
+    },
+    {
+      "album": {
+        "name": "Routine Lover",
+        "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
+      },
+      "artists": [
+        {
+          "name": "Good Nation",
+          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Routine Lover",
+      "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
     },
     {
       "album": {
@@ -8060,6 +8170,32 @@
       "duration_ms": 159372,
       "name": "Sittin' On Top Of The World",
       "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
+    },
+    {
+      "album": {
+        "name": "SKEU SKEU",
+        "url": "https://open.spotify.com/album/51cae7KfubO0hMKlI5RYXK"
+      },
+      "artists": [
+        {
+          "name": "Jogga",
+          "url": "https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav"
+        },
+        {
+          "name": "wilsko",
+          "url": "https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha"
+        },
+        {
+          "name": "7ia",
+          "url": "https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "SKEU SKEU",
+      "url": "https://open.spotify.com/track/2tfcnJtKsz0jMrACO943Cz"
     },
     {
       "album": {
@@ -8656,7 +8792,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 162061,
       "name": "S\u00e9n\u00e9gal",
       "url": "https://open.spotify.com/track/6qQVjM3TxqEumTtIiCl3wb"

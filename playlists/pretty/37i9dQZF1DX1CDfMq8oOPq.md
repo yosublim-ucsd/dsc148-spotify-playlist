@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Paige
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,330 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,363 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 39 | [Ashley Banks](https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Ashley Banks](https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY) | 3:28 |
 | 40 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
 | 41 | [Em Mim](https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Em Mim](https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq) | 2:06 |
-| 42 | [Como Eu Virei A Bad Girl](https://open.spotify.com/track/2c4vnV4CFPMHaR76qdmxwn) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Carta Aberta \(Lado A\)](https://open.spotify.com/album/269fUNW56hNShvHyuGwIgA) | 2:11 |
-| 43 | [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 |
-| 44 | [Sangue Negro](https://open.spotify.com/track/5XFmilgqTejITyL7XTpDBc) | [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Sangue Negro](https://open.spotify.com/album/5BVSiqnFTBc9VNvGmwHT8R) | 1:44 |
+| 42 | [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 |
+| 43 | [Sangue Negro](https://open.spotify.com/track/5XFmilgqTejITyL7XTpDBc) | [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Sangue Negro](https://open.spotify.com/album/5BVSiqnFTBc9VNvGmwHT8R) | 1:44 |
+| 44 | [Como Eu Virei A Bad Girl](https://open.spotify.com/track/2c4vnV4CFPMHaR76qdmxwn) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Carta Aberta \(Lado A\)](https://open.spotify.com/album/269fUNW56hNShvHyuGwIgA) | 2:11 |
 | 45 | [Sobrevivi](https://open.spotify.com/track/3zFZxwjqQPYioTjcu18kAE) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [BadBabi](https://open.spotify.com/artist/60NNeMFMmPkwbBTmy7FGlh) | [Sobrevivi](https://open.spotify.com/album/6Mklnvkx0O7tceqISPMd6h) | 2:29 |
 | 46 | [Tukikis](https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Tukikis](https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n) | 2:54 |
 | 47 | [Calcinha da Fendi](https://open.spotify.com/track/4TUAvHTUKyQ1pioT6J5MQ1) | [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E), [Dj Herculano](https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv) | [Calcinha da Fendi](https://open.spotify.com/album/0yNGyMsTEBUWwfYvNYoWHl) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Kawo](https://open.spotify.com/track/4TCNy9SAKNl3LLpsK8ITID) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Kawo](https://open.spotify.com/album/75C45QT4TPLkGrOzevo1MN) | 3:37 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCwzOTVkMDE0M2Q0NjI5YzY3MjM3NjU2Y2U2OTgwYzNiMGEyNmViZTA0`
+Snapshot ID: `MCw3MDg3YjQwOGEyZTgxNmU3MzU0ZTc0NWQwZWExNTg5MTFmNGZiMjFl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Z\u00e9lie",
+  "description": "The best French indie tracks right now. Cover: Jeanne Bonjour",
   "name": "Made in France",
   "tracks": [
     {
@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "DOWN BY YOU",
+        "url": "https://open.spotify.com/album/2AaP0Nw0YjC1UFDMFT3l2X"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184832,
+      "name": "DOWN BY YOU",
+      "url": "https://open.spotify.com/track/5fagnXIy20bLyP4XoIXOwV"
+    },
+    {
+      "album": {
         "name": "Draw The Line",
         "url": "https://open.spotify.com/album/4UJYP88mzdccx0buZsNUzM"
       },
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 199640,
       "name": "Friends (feat. Tim Ayre)",
       "url": "https://open.spotify.com/track/0i4XXy3wOWpDHmFIO0jyTC"
@@ -2286,7 +2304,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 218373,
       "name": "Heartquake",
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 144107,
       "name": "Isn't It Something",
       "url": "https://open.spotify.com/track/02U7b1hwHNfU05Bsq7lvWD"
@@ -3653,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "Leberwurst",
+        "url": "https://open.spotify.com/album/6rqgpERcDlk8j7rTh0w6nm"
+      },
+      "artists": [
+        {
+          "name": "Fellini F\u00e9lin",
+          "url": "https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211555,
+      "name": "Leberwurst",
+      "url": "https://open.spotify.com/track/2mCd4yRECrYztgCWjfN3rT"
+    },
+    {
+      "album": {
         "name": "Les bonnes mani\u00e8res",
         "url": "https://open.spotify.com/album/3x9CnMbpz96ggiCQATfLQ4"
       },
@@ -3958,6 +3994,24 @@
       "duration_ms": 178253,
       "name": "Magique",
       "url": "https://open.spotify.com/track/27VZiMwOY5RrMT22shw1XY"
+    },
+    {
+      "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/5uiYpDm2jyWh7rrb3mFuMm"
+      },
+      "artists": [
+        {
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182503,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/65Jfx0QMcK8YBSeILwgXZx"
     },
     {
       "album": {
@@ -4765,6 +4819,24 @@
     },
     {
       "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/4f8GQzuYbXucqnwltQqYXQ"
+      },
+      "artists": [
+        {
+          "name": "Tobias Dray",
+          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146350,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/6p5gfF0VxadWM9elzdlvG6"
+    },
+    {
+      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/0id6fPdlzeBW2GISTo6Xd0"
       },
@@ -5441,6 +5513,24 @@
     },
     {
       "album": {
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/5fHLNq6EDhTzLWQI752ll1"
+      },
+      "artists": [
+        {
+          "name": "Talisco",
+          "url": "https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Reign",
+      "url": "https://open.spotify.com/track/6JaXNHTlkipu1s6Il8l4eZ"
+    },
+    {
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I"
       },
@@ -5510,7 +5600,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 161419,
       "name": "RESONATE",
       "url": "https://open.spotify.com/track/78FD0s97huTKxCw7Q2tM6J"
@@ -5818,6 +5908,24 @@
       "duration_ms": 238500,
       "name": "Sign Out",
       "url": "https://open.spotify.com/track/7xR9nZWkuINxV2jcbCplu9"
+    },
+    {
+      "album": {
+        "name": "september tape",
+        "url": "https://open.spotify.com/album/1XWwaTQTCLUZh3AeBreQIr"
+      },
+      "artists": [
+        {
+          "name": "Emma Castellino",
+          "url": "https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "six summers ago",
+      "url": "https://open.spotify.com/track/1gGMlQrApJ3eW2CNwI5FFA"
     },
     {
       "album": {
@@ -6784,7 +6892,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 347713,
       "name": "True love (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5"
@@ -7426,7 +7534,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 199970,
       "name": "\u00c9t\u00e9 Amer",
       "url": "https://open.spotify.com/track/3fTPbjj12M5Ih0130yR8VH"

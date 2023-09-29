@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Lexa, Thiago Pantaleão
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,050 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,067 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 48 | [Dejavú](https://open.spotify.com/track/1JnXc8ukcmbP2BRVRhmMaM) | [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Groove](https://open.spotify.com/album/0DcG4lvdZOGH4EGZJvftBM) | 2:46 |
 | 49 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 |
 | 50 | [Sirene](https://open.spotify.com/track/4akLOVqqLGnGLjEGL4yJ3f) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Sirene](https://open.spotify.com/album/2om1MhzlJVfYyp7scgxfBX) | 2:29 |
-| 51 | [Ondas](https://open.spotify.com/track/5jgRQRPhDC8sBoCNZYq7a5) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Ondas](https://open.spotify.com/album/2vF6eAgdrbrlfXwYhNHG9r) | 2:48 |
-| 52 | [Vilã](https://open.spotify.com/track/6gHv2hEqyAgBvgnBr2DWs8) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Vilã](https://open.spotify.com/album/2W6EWkkAkkmMxQyeePtMTE) | 2:28 |
+| 51 | [Vilã](https://open.spotify.com/track/6gHv2hEqyAgBvgnBr2DWs8) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Vilã](https://open.spotify.com/album/2W6EWkkAkkmMxQyeePtMTE) | 2:28 |
+| 52 | [Ondas](https://open.spotify.com/track/5jgRQRPhDC8sBoCNZYq7a5) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Ondas](https://open.spotify.com/album/2vF6eAgdrbrlfXwYhNHG9r) | 2:48 |
 | 53 | [Cadeado](https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:48 |
 | 54 | [Bomba](https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Bomba](https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo) | 2:16 |
 | 55 | [Amigos Não Se Pegam](https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Amigos Não Se Pegam](https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr) | 2:45 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 58 | [Um Dois](https://open.spotify.com/track/5iSYwmatz4QkD60IiZGMQA) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [Um Dois](https://open.spotify.com/album/4YFG2PvHDejBIVpFD6HIv6) | 2:38 |
 | 59 | [wet dreams](https://open.spotify.com/track/0k9wOEjffXnwzbypcgLt1a) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [wet dreams](https://open.spotify.com/album/4QESz2kWI20OOAeiPDjNnU) | 2:21 |
 | 60 | [Digdin](https://open.spotify.com/track/0XWVsGfQMBbvGDYddqP07n) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Fé Na Caminhada](https://open.spotify.com/album/41eYp9Mqs7dmd6Ad9ziR6F) | 2:39 |
-| 61 | [Pro Dia Nascer Feliz](https://open.spotify.com/track/0pciCbK80mgjXTYeVxbIru) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Pro Dia Nascer Feliz](https://open.spotify.com/album/5dePvauWlTrFFIwPsA3EHB) | 3:15 |
-| 62 | [Carambolar](https://open.spotify.com/track/4704Yxnyrf6T3G4H7JL8Kq) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Carambolar](https://open.spotify.com/album/1GkP37VZmvYhq5EGcVnUpi) | 2:22 |
+| 61 | [Carambolar](https://open.spotify.com/track/4704Yxnyrf6T3G4H7JL8Kq) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Carambolar](https://open.spotify.com/album/1GkP37VZmvYhq5EGcVnUpi) | 2:22 |
+| 62 | [Pro Dia Nascer Feliz](https://open.spotify.com/track/0pciCbK80mgjXTYeVxbIru) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Pro Dia Nascer Feliz](https://open.spotify.com/album/5dePvauWlTrFFIwPsA3EHB) | 3:15 |
 | 63 | [Toque De Veludo](https://open.spotify.com/track/5sHK9llP0yBRwr4fW5DVSn) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Toque De Veludo](https://open.spotify.com/album/5TBvqgBLIVP0MZJpkLEIHh) | 2:37 |
 | 64 | [Pegada de Vilã](https://open.spotify.com/track/0QNyFrnE4O6E4ZJDRvBuWm) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 2:38 |
 | 65 | [Cachoeira](https://open.spotify.com/track/0LqOJ2Vcm5uupnsHin7gRC) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [F.R.ED](https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5) | [Cachoeira](https://open.spotify.com/album/4mAithietzaFqqKXXniP44) | 2:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 79 | [TUA BITCH](https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL) | [Dona Nyna](https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ) | [Tua Bitch](https://open.spotify.com/album/3kGPprFPCsh8G82UfU5nDY) | 3:13 |
 | 80 | [Venturana](https://open.spotify.com/track/3ngZu880Lq0euIIfYyh7LZ) | [Camaleoa](https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk) | [Venturana](https://open.spotify.com/album/5S5jCik9vydVacGnKfrp1S) | 3:00 |
 
-Snapshot ID: `MCwzNjM2Zjk2NDI4Y2RiZGQzYjNmMWRmNjAxYmUyM2UyMjBmNTU5ZDM1`
+Snapshot ID: `MCxjMzk4MDNiOTA4MjEzMTUwNDY4MTliOGEzN2IwMDlmYzk4M2E1ZmZi`

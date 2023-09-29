@@ -4,7 +4,7 @@
 
 > Awaken and connect through meditation with Theta frequencies.
 
-70 songs - 3 hr 47 min
+75 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,12 +33,16 @@
 | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/track/7pbiAcJ9s27XaPJDgeePok) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/album/74vYTUE07u6O7Cc2HdhzL0) | 3:31 | 2023-03-16 |  |
 | [Binaural Theta Sinus 95 Hz \- 99 Hz Drone](https://open.spotify.com/track/494xMwyUCP3q99dYKkQ873) | [Ambient Tech](https://open.spotify.com/artist/08Ava0X5w3SgoLnrpJMZf8) | [Relaxing Theta Drones](https://open.spotify.com/album/3wyAWfCA8wUEFREHig6xQ8) | 3:38 | 2023-03-16 |  |
 | [Binaural Theta Sinus 95 Hz \- L 99 Hz \- R](https://open.spotify.com/track/5hl9D7QnQfGpwg4kuII1Ca) | [Theta Max](https://open.spotify.com/artist/2O2jPUqRbUz01bfmZcGPRf) | [Cosmic Whispers: Theta Sinus Chronicles](https://open.spotify.com/album/3ykhspojUB17HqriakCRbM) | 3:39 | 2023-05-26 |  |
+| [Binaural Theta Waves 116\-120 Hz](https://open.spotify.com/track/12CEQDCjFeanKalZDqBCEt) | [Miyasato Mana](https://open.spotify.com/artist/5OcbNTR6HjYavfDrHplvav) | [Binaural Theta Waves 116\-120 Hz](https://open.spotify.com/album/3trmSE2AhyJc1oXZZufd6R) | 2:32 | 2023-09-29 |  |
 | [Binaural Theta Waves 144\-148 Hz](https://open.spotify.com/track/748PdWZNFrZfZMCXMaflsJ) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Binaural Theta Waves 144\-148 Hz](https://open.spotify.com/album/5HK3zxZKaDtgp1faiiWZua) | 2:30 | 2023-08-04 |  |
+| [Binaural Theta Waves 98\-104 Hz](https://open.spotify.com/track/3bgt5my5lDPV2sRtjv4vp0) | [Syntropic Mind](https://open.spotify.com/artist/01O0xjXft0U8kHePVxE0iC) | [Binaural Theta Waves 98\-104 Hz](https://open.spotify.com/album/6gjnk5KglCtl5369QLEFMT) | 2:40 | 2023-09-29 |  |
+| [Blind Escape B Theta \(119\-126hz\)](https://open.spotify.com/track/1IUJpGhzxv1QVbX7qWMSP2) | [Peace In Stillness](https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf) | [Blind Escape Theta](https://open.spotify.com/album/1CNElyCMPik9Fe7oiMOobm) | 2:15 | 2023-09-29 |  |
+| [Brain Waves D Theta \(70\-77hz\)](https://open.spotify.com/track/3ZRpxcNPH0trqJuVIILWtc) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Nameless Static Theta](https://open.spotify.com/album/59K1vw7ImzS4vtnQlS79Dz) | 2:30 | 2023-09-29 |  |
 | [bravery within \(theta state\)](https://open.spotify.com/track/1JGbmqkZ4xYI4zM5XgckDP) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [slowed time & bravery within \(theta binaural\)](https://open.spotify.com/album/79lFMqK222Nb8KVQkkPzwS) | 4:18 | 2023-07-14 |  |
 | [Candour \(Binaural Theta\)](https://open.spotify.com/track/23z3Obrr5e50P1n59IsvjN) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Candour \(Binaural Theta\)](https://open.spotify.com/album/4bw7ONNOA7niQgt73t9Dt0) | 3:55 | 2023-08-04 |  |
 | [Creativity Theta Drone](https://open.spotify.com/track/1bxUuXieTW8RVMF0Ga6qBC) | [Arctic Pads](https://open.spotify.com/artist/4AduPPid79418PHGKIodmw) | [Theta Binaural Meditation](https://open.spotify.com/album/21JtKIzMrJPjYmfJNJ8WZW) | 3:18 | 2023-03-16 |  |
 | [Deep Skies \(Binaural Theta 93.1 Hz \- 85.7 Hz\)](https://open.spotify.com/track/4OXSCEIY7gVDCW17nuRiRe) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Theta Wave Binaural Beats](https://open.spotify.com/album/39yhM4UWYzKiIi7EEAGFNp) | 2:41 | 2023-03-16 |  |
-| [Deep Theta 4 Hz](https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Deep Theta : High Coherence Soundscapes for Meditation and Healing](https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z) | 5:19 | 2023-03-16 |  |
+| [Deep Theta 4 Hz](https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Deep Theta : High Coherence Soundscapes for Meditation and Healing](https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z) | 5:19 | 2023-03-16 | 2023-09-29 |
 | [Deeply Asleep Theta](https://open.spotify.com/track/0Wt3S8qTtKY235HoHAfdt5) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Theta Binaural Beats](https://open.spotify.com/album/2mRSTgtIy2zAq1Ne3hxvSG) | 4:21 | 2023-03-16 | 2023-07-29 |
 | [Doze Off \(Theta Waves\) 57 Hz \- 59 Hz](https://open.spotify.com/track/50bz3ncIMwkntk3Ohppy7e) | [Beyond Quantum](https://open.spotify.com/artist/526CTPjTISiN03ICeZO0Nf) | [Binaural Bliss](https://open.spotify.com/album/3wOu9ExpMCzOmMKcDFw2fo) | 2:53 | 2023-03-16 |  |
 | [For Dreaming \- Theta Binaural Beats](https://open.spotify.com/track/7Mq2z9K1rv9rhODKLhVZgO) | [Binaural Beats](https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1) | [Binaural Beats](https://open.spotify.com/album/51VyjQNF0KhcJCjhAXBSAR) | 20:00 | 2023-03-16 |  |
@@ -53,6 +57,7 @@
 | [Purple Night \(Theta Binaural\)](https://open.spotify.com/track/4jMT24JGe191KtWPERax3D) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Binaural Theta for Sleep](https://open.spotify.com/album/7rpR7N25fNVUyqFZT32xAh) | 3:24 | 2023-03-16 |  |
 | [Relieving Stress \(Binaural Theta\)](https://open.spotify.com/track/1zJrYUIt1IIL6xz6lXjZgL) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Recenter Your Mind](https://open.spotify.com/album/2XAbBsUESUVWkQKY5zYGGM) | 3:28 | 2023-03-16 |  |
 | [Skies REM \(Theta version\)](https://open.spotify.com/track/0Eh77Tpr1WLlOEeLnCX0nj) | [Oxling](https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ) | [Momentum](https://open.spotify.com/album/1ws82K8yfBPnVfBUu9BH7P) | 2:41 | 2023-03-16 |  |
+| [Sleepy Bellows F\# Theta \(88\-96hz\)](https://open.spotify.com/track/0bowH5adzgIYrxN9j2VA0c) | [Peace In Stillness](https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf) | [Blind Escape Theta](https://open.spotify.com/album/1CNElyCMPik9Fe7oiMOobm) | 2:30 | 2023-09-29 |  |
 | [Theta Blossom 107 Hz \- 113 Hz](https://open.spotify.com/track/6xmqpU7vn0W92U4lJxyPRJ) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Binaural Bliss](https://open.spotify.com/album/1Vdw99FLXQSRFbg9tYLxFH) | 3:01 | 2023-05-26 |  |
 | [Theta Brain Waves 185 Hz \- 190Hz](https://open.spotify.com/track/5fdR2Iv1yNWc6GXpTaY1iu) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Theta Brain Waves 185 Hz \- 190Hz](https://open.spotify.com/album/6ta2g3374zEtP6sucEYesr) | 3:12 | 2023-04-21 |  |
 | [Theta Dreams 64 + 67,3 hz](https://open.spotify.com/track/2H2LtSnmXMh7yOeCcoyyH3) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Theta Waves](https://open.spotify.com/album/0q4tBTB2yPbfE1u4nAvfWy) | 3:31 | 2023-03-16 |  |

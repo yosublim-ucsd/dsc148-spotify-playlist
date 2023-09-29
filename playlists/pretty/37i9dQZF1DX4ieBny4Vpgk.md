@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 
 > Vocal jazz favorites from 2022\. Cover: Samara Joy \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,589 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,594 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 49 | [I Can't Help It](https://open.spotify.com/track/1gVJYBIGO5zEKPa40MA1WK) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [I Can't Help It](https://open.spotify.com/album/334Lx9ZWSuv3zc0YHyQ0db) | 4:26 |
 | 50 | [If I Had You](https://open.spotify.com/track/6htL8eAdOScorA0ooaoL5k) | [Lara Luppi](https://open.spotify.com/artist/0TMpMNYlHlLT6Ey6BjcklA), [Luca Filastro](https://open.spotify.com/artist/7bRZhdSt3rftBwfmQRe5zR), [Aldo Zunino](https://open.spotify.com/artist/2ZQKolsIe5WgidiDRxLsCr), [Emanuele Zappia](https://open.spotify.com/artist/0yx2tQrSKPmyeVV1D82i6D) | [Day Dream](https://open.spotify.com/album/0IGv0S7wFk9QnyvMA0bIK2) | 5:28 |
 
-Snapshot ID: `MCxjZTNmOWU2MThiZGQ2Y2Y4ZDZmM2ZlMDA2YmZmMjU5NzM4OTZkYTVi`
+Snapshot ID: `MCxjMThiYTcwYzc5MWE0MzBmMzQ3ZDdiN2ExNmFhY2QwZjFlZmVjY2Iz`

@@ -7206,7 +7206,7 @@
     {
       "album": {
         "name": "Raveship",
-        "url": "https://open.spotify.com/album/1HToTAUlhRVXLpSgKaoX9B"
+        "url": "https://open.spotify.com/album/4ZCzGUaDpuvQlOSoqDTvrA"
       },
       "artists": [
         {
@@ -7225,6 +7225,32 @@
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 154124,
+      "name": "Raveship",
+      "url": "https://open.spotify.com/track/4WxXlPyF3VcfdkucISvrh0"
+    },
+    {
+      "album": {
+        "name": "Raveship",
+        "url": "https://open.spotify.com/album/1HToTAUlhRVXLpSgKaoX9B"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "MEELA",
+          "url": "https://open.spotify.com/artist/23mSn69IMflxLp3HPf7goI"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-29",
       "duration_ms": 154124,
       "name": "Raveship",
       "url": "https://open.spotify.com/track/57xVxFJv0Y22f8PcygWsIx"

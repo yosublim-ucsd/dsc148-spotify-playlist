@@ -96,6 +96,24 @@
     {
       "album": {
         "name": "25/8",
+        "url": "https://open.spotify.com/album/1SiHmacXtdlRC1oPpkoLWO"
+      },
+      "artists": [
+        {
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226907,
+      "name": "25/8",
+      "url": "https://open.spotify.com/track/5znoxCxMXctq9cwVbS25Eq"
+    },
+    {
+      "album": {
+        "name": "25/8",
         "url": "https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh"
       },
       "artists": [
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 227040,
       "name": "25/8",
       "url": "https://open.spotify.com/track/1TcB4qgfMXaiLDIE9DlimJ"

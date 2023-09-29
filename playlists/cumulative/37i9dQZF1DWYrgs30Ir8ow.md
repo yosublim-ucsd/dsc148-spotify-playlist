@@ -2,7 +2,7 @@
 
 ### [Fresh Hits](https://open.spotify.com/playlist/37i9dQZF1DWYrgs30Ir8ow)
 
-> Altijd fris in Fresh Hits\. Cover: Katnuf
+> Altijd fris in Fresh Hits\. Cover: Tate McRae
 
 307 songs - 14 hr 46 min
 

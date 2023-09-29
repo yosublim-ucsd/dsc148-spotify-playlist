@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 171021,
       "name": "All Too Much",
       "url": "https://open.spotify.com/track/2A9Vt5Mzf5kuqtkqikbsW9"
@@ -6198,6 +6198,28 @@
       "duration_ms": 177000,
       "name": "Shy Guy Beach",
       "url": "https://open.spotify.com/track/5ijS06iISEy4sWLN78BQpR"
+    },
+    {
+      "album": {
+        "name": "SHYPOP",
+        "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208941,
+      "name": "SHYPOP",
+      "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
     },
     {
       "album": {

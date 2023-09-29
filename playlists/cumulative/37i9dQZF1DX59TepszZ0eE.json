@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=3_xCYoTQQwOHpkOOXc6oiA\">Spirit Of Praise</a>\n",
+  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=-9JFuiccQya_Jl9YM4qbQQ\">Benjamin Dube</a>\n",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -922,6 +922,24 @@
       "duration_ms": 372093,
       "name": "Jesus You're My Life",
       "url": "https://open.spotify.com/track/4FevVgFnOyVXsSabEjxzWn"
+    },
+    {
+      "album": {
+        "name": "Joy, Peace and Happiness",
+        "url": "https://open.spotify.com/album/2YGfKSGwmRBVzXLyXzTwpa"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253877,
+      "name": "Joy, Peace and Happiness",
+      "url": "https://open.spotify.com/track/7M7f0aEGP5JLB6Se7JBoE7"
     },
     {
       "album": {
@@ -2697,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Wonderful Love",
+        "url": "https://open.spotify.com/album/4HJR0OT5NzqpjyW7sTzQIV"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "Wonderful Love",
+      "url": "https://open.spotify.com/track/2fkBDYfU5ZxaAkjQca4fZN"
+    },
+    {
+      "album": {
         "name": "Wozani Zindlamafa",
         "url": "https://open.spotify.com/album/2n0NKGMn0EwidGUlYKFxW4"
       },
@@ -2738,6 +2774,24 @@
       "duration_ms": 406600,
       "name": "Xa Ndiyekelelwa (Live)",
       "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
+    },
+    {
+      "album": {
+        "name": "Yaze Yafika Leyomini",
+        "url": "https://open.spotify.com/album/31ow4h4QzGFia8ODrPBVeA"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482768,
+      "name": "Yaze Yafika leyomini",
+      "url": "https://open.spotify.com/track/40EBB0o68HaO8gAUHfb1sQ"
     },
     {
       "album": {

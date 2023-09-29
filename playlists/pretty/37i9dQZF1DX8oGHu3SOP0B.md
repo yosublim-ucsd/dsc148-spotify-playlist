@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > เปิดให้ดังแล้วฟังเสียงเต็มๆ ของผู้หญิงจากประเทศไทย\. ศิลปิน: PAM ANSHISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,370 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,375 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 9 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 |
 | 10 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 |
 | 11 | [ขอไม่เจอเธอ \(Wish I Never Met You\)](https://open.spotify.com/track/6BJYRFCxU0tp1WoAX4m37c) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [ขอไม่เจอเธอ \(Wish I Never Met You\)](https://open.spotify.com/album/6qryy0vluBpKQXZAm8CQNu) | 3:48 |
-| 12 | [จมน้ำตา \- เพลงประกอบละคร มณีพยาบาท](https://open.spotify.com/track/7lUCulivM40OIpxw1Bk3HJ) | [New & Jiew](https://open.spotify.com/artist/3zvofxq3cDVsJvmqHOReHm) | [เพลงประกอบละคร มณีพยาบาท](https://open.spotify.com/album/4634INE7S7JjGSzff9Eh1a) | 4:03 |
+| 12 | [จมน้ำตา \(เพลงประกอบละคร มณีพยาบาท\)](https://open.spotify.com/track/7lUCulivM40OIpxw1Bk3HJ) | [New & Jiew](https://open.spotify.com/artist/3zvofxq3cDVsJvmqHOReHm) | [จมน้ำตา \- Single](https://open.spotify.com/album/4634INE7S7JjGSzff9Eh1a) | 4:03 |
 | 13 | [วันนี้เมื่อปีที่แล้ว \(On This Day\)](https://open.spotify.com/track/6NzlkyTJlkRTsnONNn9CZE) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [วันนี้เมื่อปีที่แล้ว \(On This Day\)](https://open.spotify.com/album/5MdxxW4LxDM7OAH2fEErAv) | 3:50 |
 | 14 | [ถ้ารู้ว่าแพ้ \(จะไม่เปิดแชทแกดูเลย\)](https://open.spotify.com/track/70LckHPoQ8ahFQkVU02Q3X) | [MedyBoss](https://open.spotify.com/artist/3RFmGFOWPXn05MU3RsqfiY) | [ถ้ารู้ว่าแพ้ \(จะไม่เปิดแชทแกดูเลย\)](https://open.spotify.com/album/6NsaFtNPv24LGCc1VwbXAf) | 3:40 |
 | 15 | [เอะอะ \- Why Me?](https://open.spotify.com/track/1BngrfGwazgsGJJr5v0W00) | [BOWPRAT](https://open.spotify.com/artist/40Yyk6kXQ8WtJ3RFp7qDaB) | [เอะอะ \(Why Me?\)](https://open.spotify.com/album/1Wx3sHEMrrbyrvp4WQypnI) | 3:47 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 41 | [แพ้ว่ะ](https://open.spotify.com/track/47KUgmN7zprO29hEVvMNX1) | [Pearwah](https://open.spotify.com/artist/5QJRejsVPjeqkRZkTMg6Pr) | [แพ้ว่ะ](https://open.spotify.com/album/6OyeZ2Fh9IxxypGwG8u1UJ) | 3:23 |
 | 42 | [โคตรไม่แฟร์ \(just friend\)](https://open.spotify.com/track/14ka5GWsuyhdFk4X83YRij) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [โคตรไม่แฟร์ \(just friend\)](https://open.spotify.com/album/2hDOB63qOPVwAiJSVvZHtl) | 3:20 |
 | 43 | [SAVE feat\. Zom Marie](https://open.spotify.com/track/7iUbu1QZzhMisVpNiX2zha) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [SAVE](https://open.spotify.com/album/3lOqUluNRqalVSAutocHNu) | 2:59 |
-| 44 | [โรงอาหาร \(Canteen\)](https://open.spotify.com/track/4vAN681BRgElt1Vwr76awL) | [Kamin Kingsak](https://open.spotify.com/artist/2flyd7ey35JuludWaAMELO) | [โรงอาหาร \(Canteen\)](https://open.spotify.com/album/11OzcdWBZwSDDT4QnyU2A9) | 3:57 |
-| 45 | [ที่ชอบที่ชอบ](https://open.spotify.com/track/64O5nC2bSgz0EwfYbgvoa1) | [Tippsy](https://open.spotify.com/artist/49oJblk17bkNV5DeZhd3OG) | [ที่ชอบที่ชอบ](https://open.spotify.com/album/7Mbt0NlBKWffjTKORqAiV4) | 3:36 |
+| 44 | [โรงอาหาร \(Canteen\)](https://open.spotify.com/track/4vAN681BRgElt1Vwr76awL) | [Kamin Kingsak](https://open.spotify.com/artist/2flyd7ey35JuludWaAMELO) | [โรงอาหาร \(Canteen\) \- Single](https://open.spotify.com/album/11OzcdWBZwSDDT4QnyU2A9) | 3:57 |
+| 45 | [ที่ชอบที่ชอบ](https://open.spotify.com/track/64O5nC2bSgz0EwfYbgvoa1) | [Tippsy](https://open.spotify.com/artist/49oJblk17bkNV5DeZhd3OG) | [ที่ชอบที่ชอบ \- Single](https://open.spotify.com/album/7Mbt0NlBKWffjTKORqAiV4) | 3:36 |
 | 46 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 |
 | 47 | [Elevator Love](https://open.spotify.com/track/4CI4u6TeYw5vA72frOuRIP) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2) | [Elevator Love](https://open.spotify.com/album/0ylWBxyLakaO0BPc5iNqfr) | 3:32 |
 | 48 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 |
-| 49 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [MATCHA](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\)](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 |
+| 49 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [MATCHA](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\) \- Single](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 |
 | 50 | [ฉันอยู่เพื่อรักเธอ \(Original Soundtrack "ครูเพ็ญศรีกับเลดี้ปอบ"\)](https://open.spotify.com/track/2b0v8PFfGgbGwfbmhyOvO2) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC) | [ฉันอยู่เพื่อรักเธอ \(Original Soundtrack "ครูเพ็ญศรีกับเลดี้ปอบ"\)](https://open.spotify.com/album/4ifSnJ5l6Ijjgs9e1zcnWk) | 3:54 |
 
-Snapshot ID: `MCwwMWM4ODU4MWM5NzQ4MTVjMTk0MzI5Y2FlYTA4NDdiMGQ0NDJmNjAw`
+Snapshot ID: `MCxlNzg5NTcxYjkzMjlkZDVjOWRmYzg5YWQxYTQyMjUzOWRmYTUwMWNm`

@@ -4,7 +4,7 @@
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Jaze
 
-83 songs - 4 hr 54 min
+84 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [High](https://open.spotify.com/track/4zPNQ2SbdyFK1aGoKJw3BM) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [High](https://open.spotify.com/album/1mmp0mqbtpmPqo5qKRTDJX) | 3:26 | 2022-08-26 |  |
 | [Hábitos](https://open.spotify.com/track/2rAvcI0Gr7U5tjXDGBCMLR) | [Giru Mad Fleiva](https://open.spotify.com/artist/54nlY8whZk1ZWDsXG2Oqw5) | [Hábitos](https://open.spotify.com/album/09Piq8hsnuixVQvRDmderX) | 3:12 | 2022-08-26 |  |
 | [Ilumina](https://open.spotify.com/track/3PeSFeePzAa8ewb8Iki04U) | [Pedro Mo](https://open.spotify.com/artist/3SddrVrcgL6qbXhj8AkwTZ), [Heather Grey](https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE) | [Ilumina](https://open.spotify.com/album/3LDIDTYvffKOY18dYFXjzY) | 2:55 | 2022-08-26 |  |
-| [Kaykunapi](https://open.spotify.com/track/1OkUdksTQFu3usuw5OGkb9) | [Liberato Kani](https://open.spotify.com/artist/36gANGyQxxQagGCqYlQnqb) | [Kaykunapi](https://open.spotify.com/album/29GroZcRkoieMr2OUnjjWX) | 2:44 | 2022-08-26 |  |
+| [Kaykunapi](https://open.spotify.com/track/5GPMzrfc5U7kU7qCB0kzt2) | [Hip Hop Peruano Mas Na](https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH), [Liberato Kani](https://open.spotify.com/artist/36gANGyQxxQagGCqYlQnqb) | [Hip Hop Peruano Mas Na : Mixtape, Vol\. 2](https://open.spotify.com/album/2mFYlXBO09xr1f14S4XZUn) | 2:42 | 2023-04-21 |  |
+| [Kaykunapi](https://open.spotify.com/track/1OkUdksTQFu3usuw5OGkb9) | [Liberato Kani](https://open.spotify.com/artist/36gANGyQxxQagGCqYlQnqb) | [Kaykunapi](https://open.spotify.com/album/29GroZcRkoieMr2OUnjjWX) | 2:44 | 2022-08-26 | 2023-09-29 |
 | [King Sin Queen](https://open.spotify.com/track/0bazCMOwUlba4PnBrpIAJv) | [Warrior Rapper School](https://open.spotify.com/artist/5BL81UunAE1uoEIIsxfvF8) | [Terapias](https://open.spotify.com/album/1zKXFyYjrWOEkpbdk3LoT9) | 3:54 | 2022-08-26 |  |
 | [La Escuela \(feat\. Túpac Amaru II, Chompa, Daske Gaitán & Terco92\)](https://open.spotify.com/track/4k0VwbFDbdiSGFyVGyGD1F) | [Rucorap](https://open.spotify.com/artist/7nk6JTUQHRwIaFbYRKNpmh), [Túpac Amaru II](https://open.spotify.com/artist/4cALN3PaFqTZU1TWDZgqXG), [Chompa](https://open.spotify.com/artist/1xjN5SW98pDO66w4GkRG1N), [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6), [Terco92](https://open.spotify.com/artist/2KUtIRV7tG4q4uyzHSkOqT) | [Bajo Presión](https://open.spotify.com/album/7oVQEzwNm7sdGOG7QMumle) | 5:45 | 2022-08-26 | 2023-04-22 |
 | [La Última Lágrima](https://open.spotify.com/track/0qJuO5hC41E1Pv4hS5R1FB) | [Umano](https://open.spotify.com/artist/76nSmuTOo6orMJPW8qJjqu) | [Los Olvidados Toman Venganza](https://open.spotify.com/album/3jA0t5OxdS8nQe3zP5MWJA) | 3:37 | 2022-08-26 |  |

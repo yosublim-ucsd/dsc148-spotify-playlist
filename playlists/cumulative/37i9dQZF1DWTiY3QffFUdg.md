@@ -4,11 +4,11 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-82 songs - 5 hr 11 min
+83 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3 DAYS AWAKE](https://open.spotify.com/track/42PM6bBmZrcQWcW7UwXSgK) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [3 DAYS AWAKE](https://open.spotify.com/album/1B4WNa7kYXPUB3f8WWO2at) | 2:23 | 2023-08-11 |  |
+| [3 DAYS AWAKE](https://open.spotify.com/track/42PM6bBmZrcQWcW7UwXSgK) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [3 DAYS AWAKE](https://open.spotify.com/album/1B4WNa7kYXPUB3f8WWO2at) | 2:23 | 2023-08-11 | 2023-09-29 |
 | [365](https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [365](https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI) | 3:12 | 2023-09-22 |  |
 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 | 2023-08-11 |  |
 | [Acid \(All Night Long\)](https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Acid \(All Night Long\)](https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x) | 2:33 | 2023-08-22 |  |
@@ -66,6 +66,7 @@
 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 | 2023-08-25 |  |
 | [PURA VIDA \- Wehbba Remix](https://open.spotify.com/track/1ch4P5LTDHoHulGC5lhNYT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PURA VIDA \(Wehbba Remix\)](https://open.spotify.com/album/5g3umWr9sJoUut6pOoyWUb) | 3:53 | 2023-08-11 | 2023-08-18 |
 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 | 2023-08-11 |  |
+| [Ray Of Solar \- Anfisa Letyago Remix](https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Ray Of Solar \(Anfisa Letyago Remix\)](https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2) | 3:27 | 2023-09-22 |  |
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-08-11 |  |
 | [Revolution](https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Revolution](https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X) | 2:46 | 2023-08-11 |  |
 | [Robotic Arms](https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Robotic Arms](https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR) | 3:50 | 2023-08-11 | 2023-09-20 |

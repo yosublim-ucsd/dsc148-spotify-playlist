@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Mychelle
 
-197 songs - 11 hr 54 min
+198 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [None For You](https://open.spotify.com/track/7eEECZKs0gpI2FgkTTFT0m) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [None For You](https://open.spotify.com/album/14smXRpyIxnLcvksGP8f0M) | 3:32 | 2021-12-09 | 2022-07-29 |
 | [Not Serious \- Acoustic](https://open.spotify.com/track/3O8EzNsk4t0Yo3WnEEOk8H) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Not Serious \(Acoustic\)](https://open.spotify.com/album/2fI8fCbbgVog7nvXDN8lEu) | 3:18 | 2023-08-30 |  |
 | [Nothing On You \- Piano Version](https://open.spotify.com/track/1ZyKvHxpgMg7r76sjpTma0) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Nothing On You \(Piano Version\)](https://open.spotify.com/album/0BKtm5NcZZKVkYrJgbOiRn) | 4:03 | 2021-12-09 | 2023-04-09 |
-| [Our Girls](https://open.spotify.com/track/4Mhq8MtZkV2x5XYmdL1dkK) | [Sunday Rose](https://open.spotify.com/artist/0on2Bi1asBv63WyzwbSQvE) | [Our Girls](https://open.spotify.com/album/7dn6togtkX2z12MMWCD8EQ) | 3:00 | 2021-12-09 |  |
+| [Our Girls](https://open.spotify.com/track/4Mhq8MtZkV2x5XYmdL1dkK) | [Sunday Rose](https://open.spotify.com/artist/0on2Bi1asBv63WyzwbSQvE) | [Our Girls](https://open.spotify.com/album/7dn6togtkX2z12MMWCD8EQ) | 3:00 | 2021-12-09 | 2023-09-29 |
 | [Our Song](https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 | 2022-08-25 |  |
 | [Painted Blue](https://open.spotify.com/track/4acYmlGd0jWWotNeLJ9hVT) | [Joshua Thew](https://open.spotify.com/artist/3BAw5djzZW90BLlWnzf9yv) | [Painted Blue](https://open.spotify.com/album/4G2IuCo9rNQTu6iT9Jl068) | 2:48 | 2022-05-05 |  |
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2021-12-09 | 2022-07-29 |
@@ -160,6 +160,7 @@
 | [Runaway](https://open.spotify.com/track/2djLuf0US0tAhZQqGHF8Q2) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Runaway](https://open.spotify.com/album/0N21fqUh7pnxP1BmPBctTc) | 5:08 | 2021-12-09 |  |
 | [Save You](https://open.spotify.com/track/4gGjys9urpojUMJboFI9xk) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:43 | 2021-12-09 | 2023-08-31 |
 | [Say So \- Acoustic Version](https://open.spotify.com/track/39xeg5Cq23RJMNnXs2A4Mf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Piano Album](https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW) | 3:57 | 2021-12-09 | 2023-04-09 |
+| [Self Sabotage \- Acoustic](https://open.spotify.com/track/7FWW21iLIVkYg99gANYfV6) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Self Sabotage \(Acoustic\)](https://open.spotify.com/album/4YCEWCy3qYjeU1r3kbGF7x) | 2:52 | 2023-09-28 |  |
 | [Seven Times \- Live](https://open.spotify.com/track/7xvnFLLcemBrNCtkmCNQlt) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Live At The Roundhouse](https://open.spotify.com/album/0FBoE1ZlpLdy29UGDOQyB6) | 3:29 | 2021-12-09 |  |
 | [She](https://open.spotify.com/track/7Hq4pnV88cIVrm8ZSsz0mc) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [I Fkn Love Myself](https://open.spotify.com/album/17AFgJa777rVq5X0wdiD6P) | 3:19 | 2021-12-09 |  |
 | [Slow Down \(Acoustic\)](https://open.spotify.com/track/4o905HLa1RQPXYBfxeCF16) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [When I Wake up \- Acoustic EP](https://open.spotify.com/album/7HiIZJHO9SNjFqorG8EzdK) | 2:36 | 2021-12-09 | 2022-01-14 |

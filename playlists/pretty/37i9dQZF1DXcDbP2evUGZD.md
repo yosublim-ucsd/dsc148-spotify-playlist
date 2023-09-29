@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,488 likes - 123 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,501 likes - 123 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 118 | [Grand Opening](https://open.spotify.com/track/714lCxO9PGlW6kre3FlYj7) | [HeMeets](https://open.spotify.com/artist/58WZqBpDzT98SrNhy01TPD) | [Grand Opening](https://open.spotify.com/album/7Dhb63HotAOPXMW7QP6Uw4) | 3:29 |
 | 119 | [Why Tears](https://open.spotify.com/track/5YIdE5lgN8UGlQpfjJv4wc) | [HeMeets](https://open.spotify.com/artist/58WZqBpDzT98SrNhy01TPD), [SAEM](https://open.spotify.com/artist/2rhoey47DIa5YfnHD8Kj19), [Jung Da\-woon](https://open.spotify.com/artist/1hGnyLaS02zH0kTe5ufdBu), [Lee Hyeong\-gu](https://open.spotify.com/artist/6nKpvtfQYvk8WeToauGGpe), [Rockun](https://open.spotify.com/artist/2uzJBnU7A1A6qYpgkecPSc) | [Mars Attack](https://open.spotify.com/album/2VwBRJyHqL17IzorSdiXK4) | 3:36 |
 | 120 | [Michelle](https://open.spotify.com/track/2DBJYcnnbtC4TZ1Kow4PaA) | [HeMeets](https://open.spotify.com/artist/58WZqBpDzT98SrNhy01TPD), [SAEM](https://open.spotify.com/artist/2rhoey47DIa5YfnHD8Kj19), [Jung Da\-woon](https://open.spotify.com/artist/1hGnyLaS02zH0kTe5ufdBu), [Lee Hyeong\-gu](https://open.spotify.com/artist/6nKpvtfQYvk8WeToauGGpe), [Rockun](https://open.spotify.com/artist/2uzJBnU7A1A6qYpgkecPSc) | [Mars Attack](https://open.spotify.com/album/2VwBRJyHqL17IzorSdiXK4) | 3:08 |
-| 121 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 |
-| 122 | [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 |
-| 123 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 |
+| 121 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\) \- Single](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 |
+| 122 | [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME \- Single](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 |
+| 123 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\) \- Single](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 |
 
-Snapshot ID: `MCxhOGI2NTYwNjBhZDhiMWU3MmE2NDhmZTBlMTZmYTI4NmNjMzBhNjRl`
+Snapshot ID: `MCxiZjFhMmVlYWY0NTc4OWFkODlkNjk2YTY5MzY1NzQ2MDdiMjEyMTM3`

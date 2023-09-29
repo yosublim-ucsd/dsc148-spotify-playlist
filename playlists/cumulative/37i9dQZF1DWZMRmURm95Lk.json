@@ -138,7 +138,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 225584,
       "name": "Ad occhi chiusi",
       "url": "https://open.spotify.com/track/2NL4SJrNUrIrut27M8dzfH"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 176774,
       "name": "B.U.F.",
       "url": "https://open.spotify.com/track/4wdow0OrNHyFJyAVG0knt3"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181333,
       "name": "Colpi di tosse",
       "url": "https://open.spotify.com/track/2snXy0KrRLruaTJBIaoPl5"
@@ -1224,6 +1224,24 @@
       "duration_ms": 180264,
       "name": "Corri",
       "url": "https://open.spotify.com/track/6w2Pp4y6dhSCJGg0P43RIy"
+    },
+    {
+      "album": {
+        "name": "-/-/-/-/-(L'attesa)",
+        "url": "https://open.spotify.com/album/2waIIOam7135wbnonjurOS"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277826,
+      "name": "Cose Preziose (Variante Di Lunenberg)",
+      "url": "https://open.spotify.com/track/5ZSIWkoUsoBJRBsd4y8bat"
     },
     {
       "album": {
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 101479,
       "name": "Deep underground",
       "url": "https://open.spotify.com/track/1renJzRq0HsiltnRCU9wBU"
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 166066,
       "name": "DINDIRINDINA",
       "url": "https://open.spotify.com/track/3VneYDrRAlvLQJ7c5jG3ht"
@@ -1832,7 +1850,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 275000,
       "name": "F35",
       "url": "https://open.spotify.com/track/4Mk8TVosV7qvFZhHWaaTto"
@@ -1884,6 +1902,28 @@
       "duration_ms": 160454,
       "name": "Fidarti di me",
       "url": "https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw"
+    },
+    {
+      "album": {
+        "name": "Flavio Domiziano",
+        "url": "https://open.spotify.com/album/1sWULGPvRpF5pFCcDqLVsF"
+      },
+      "artists": [
+        {
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168448,
+      "name": "Flavio Domiziano",
+      "url": "https://open.spotify.com/track/1v95dvpvdYiJd1YnqtTYZA"
     },
     {
       "album": {
@@ -2252,7 +2292,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 293160,
       "name": "Guerra E Pace",
       "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
@@ -2481,6 +2521,54 @@
     },
     {
       "album": {
+        "name": "Intro 2023 (5tate of Mind freestyle)",
+        "url": "https://open.spotify.com/album/2uvXdb0RIKOaQkrp9yvvgc"
+      },
+      "artists": [
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88529,
+      "name": "Intro 2023 (5tate of Mind freestyle)",
+      "url": "https://open.spotify.com/track/0TFgqsAkKWgKsSXhgxUWDM"
+    },
+    {
+      "album": {
+        "name": "TOTEM (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/524xUYS5ydBPaiHA2R3GeD"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Kaiz\u00e9n",
+          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
+        },
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170254,
+      "name": "Invisibili",
+      "url": "https://open.spotify.com/track/3xeyVLTJmrVALWXwbDyqYO"
+    },
+    {
+      "album": {
         "name": "TOTEM - Episodio Tre",
         "url": "https://open.spotify.com/album/3Rk9Z7j5nAzPSmg0OHPSSo"
       },
@@ -2670,7 +2758,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 225755,
       "name": "L'attimo esatto",
       "url": "https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP"
@@ -2714,7 +2802,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 248791,
       "name": "L'uomo dei sogni",
       "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
@@ -3074,7 +3162,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Leggero",
       "url": "https://open.spotify.com/track/4T5neV0qhXzkfOVSf7Fizt"
@@ -3330,7 +3418,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 175219,
       "name": "Maledetti",
       "url": "https://open.spotify.com/track/1xL1G84NvDrorgI0Xcg0Rt"
@@ -4300,7 +4388,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 229560,
       "name": "Parole",
       "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
@@ -5282,7 +5370,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 185893,
       "name": "Sapori e sostanza",
       "url": "https://open.spotify.com/track/21jGfTFjt6MPGltvk7yHrS"
@@ -5699,6 +5787,24 @@
     },
     {
       "album": {
+        "name": "Odio Pieno",
+        "url": "https://open.spotify.com/album/4OzxfmcyUrMc5SXxbcaV65"
+      },
+      "artists": [
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "Solo hardcore",
+      "url": "https://open.spotify.com/track/134Ntz0aFWx3ddGBNV09Ks"
+    },
+    {
+      "album": {
         "name": "Odio pieno",
         "url": "https://open.spotify.com/album/5BVJC8gB5e7BTbWDCo1fKb"
       },
@@ -5864,7 +5970,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 191213,
       "name": "SPUNTABLU",
       "url": "https://open.spotify.com/track/7MZcg5pmEXvJSNeOEVZ13s"
@@ -5968,7 +6074,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 162151,
       "name": "Still From The '90s (The Manifesto) - Reloaded Version",
       "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
@@ -6542,7 +6648,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 204335,
       "name": "Universo (feat. Neffa & Fabri Fibra)",
       "url": "https://open.spotify.com/track/63njYQ4X8RtPni0YgoIaEJ"
@@ -6634,7 +6740,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 233386,
       "name": "VETERANO (feat. DJ Shocca)",
       "url": "https://open.spotify.com/track/6Nyi1o5Yh6Jdw9Tmp3qjv9"

@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Ala Vaikunthapurramuloo
 
-221 songs - 14 hr 40 min
+222 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [He’S Soo Cute](https://open.spotify.com/track/4Ijq9U4ZvXuLord5plNeKR) | [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Sarileru Neekevvaru](https://open.spotify.com/album/6vi0HnekV5nuzXB96NOAEL) | 3:29 | 2022-07-24 | 2023-08-08 |
 | [He’s Soo Cute \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/track/7rlCMRioM2TkdhHdnXCpsr) | [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [He’s Soo Cute \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/album/50udaEReo1qUJUU2bzQoIw) | 3:29 | 2021-12-16 | 2022-07-25 |
 | [Hoyna Hoyna](https://open.spotify.com/track/7mNQwVYgoB3mtjkjCKsbXM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Inno Genga](https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU) | [Gang Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv) | 4:31 | 2021-12-16 |  |
-| [Idhe Kadha Nee Katha](https://open.spotify.com/track/344RDDZ8T7QFFqIT377ZOX) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Maharshi](https://open.spotify.com/album/3wAsZ0sTfkJvspCMlW5azC) | 2:48 | 2021-12-16 |  |
+| [Idhe Kadha Nee Katha](https://open.spotify.com/track/344RDDZ8T7QFFqIT377ZOX) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Maharshi](https://open.spotify.com/album/3wAsZ0sTfkJvspCMlW5azC) | 2:48 | 2021-12-16 | 2023-09-29 |
 | [Idhedho Bagundhe](https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Anitha](https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 4:26 | 2023-08-07 |  |
 | [Inkem Inkem Inkem Kaavaale](https://open.spotify.com/track/5JnXwEckWO0oFijOyTZDLf) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 4:26 | 2022-07-24 |  |
 | [Inkem Inkem Inkem Kaavaale](https://open.spotify.com/track/7uUugUpLi9js1AwUusoZ1h) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Geetha Govindam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2S7yFArvQ3gpnuiza1o3s1) | 4:26 | 2021-12-16 | 2022-07-25 |
@@ -201,6 +201,7 @@
 | [Sirivennela](https://open.spotify.com/track/7L2D6W7e8mn0zf8cH78Ch4) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \- Shyam Singha Roy \- Telugu](https://open.spotify.com/album/7EvKnbGkPEa6eNqUBpErN4) | 4:13 | 2022-02-04 | 2022-07-25 |
 | [Sirivennela](https://open.spotify.com/track/2WNkeWfXnpCbYtTG1ko0C3) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Shyam Singha Roy \- Telugu](https://open.spotify.com/album/1GfJGg83IGM5TQz400PF3P) | 4:13 | 2022-07-24 | 2022-07-29 |
 | [Sirivennela \(From "Shyam Singha Roy"\)](https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \(From "Shyam Singha Roy"\) \- Single](https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8) | 4:13 | 2022-07-24 | 2023-08-08 |
+| [Sitamma Vakitlo](https://open.spotify.com/track/7rija7VgKSXznBBy3b3TgD) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Seethamma Vakitlo Sirimalle Chettu](https://open.spotify.com/album/4nbsEScX6MTTXwXFU2nAbc) | 3:41 | 2023-08-07 |  |
 | [Sittharala Sirapadu](https://open.spotify.com/track/2yIU71Z6VgPOEaLp0VwFpN) | [Sooranna](https://open.spotify.com/artist/4wcOP8yrDPPNDzoK0SqbX2), [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/5pQe48ld4RvpjYtx8ZsqAg) | 3:06 | 2021-12-16 | 2022-07-23 |
 | [Sivuni Aana](https://open.spotify.com/track/6ZcRjdq1sUYDKxZ6GsOtTm) | [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Mounima](https://open.spotify.com/artist/0hsr1jMeS62WhIhV8wiNmo) | [Baahubali \- The Beginning](https://open.spotify.com/album/62FLwY6ofjIoyfTB4aY8Qo) | 3:15 | 2023-08-07 |  |
 | [Srivalli](https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Pushpa \- The Rise](https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL) | 3:41 | 2021-12-16 |  |

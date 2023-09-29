@@ -1,15 +1,51 @@
 {
-  "description": "Altijd fris in Fresh Hits. Cover: Katnuf",
-  "num_followers": 20092,
+  "description": "Altijd fris in Fresh Hits. Cover: Tate McRae",
+  "num_followers": 20114,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDk3ZTcyNjI0ZWQ2OWViZjMxNjkzMjYwYjU0NTJmZjk3ODg0NDgw",
+  "snapshot_id": "MCwzMmE0NmE5YjM0MTUwYWFhZDU5ZTY2MjdiZmExNTRjYTc1OWNhZmRj",
   "tracks": [
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "After van de After",
+        "url": "https://open.spotify.com/album/1yGqOW3uDceAK1J6BUuUFS"
+      },
+      "artists": [
+        {
+          "name": "Turfy Gang",
+          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "After van de After",
+      "url": "https://open.spotify.com/track/2spa45WfQMrdEGLM9ZjDR4"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Domino",
         "url": "https://open.spotify.com/album/28OF1MbXlYkpC5vNNnq1TJ"
@@ -37,7 +73,7 @@
       "url": "https://open.spotify.com/track/1BymSDOQY7CZY5BUekA8yH"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
@@ -53,7 +89,7 @@
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
@@ -69,27 +105,7 @@
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
-      "album": {
-        "name": "After van de After",
-        "url": "https://open.spotify.com/album/1yGqOW3uDceAK1J6BUuUFS"
-      },
-      "artists": [
-        {
-          "name": "Turfy Gang",
-          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
-        },
-        {
-          "name": "Trobi",
-          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "After van de After",
-      "url": "https://open.spotify.com/track/2spa45WfQMrdEGLM9ZjDR4"
-    },
-    {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Vlieg Hoog",
         "url": "https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ"
@@ -105,23 +121,7 @@
       "url": "https://open.spotify.com/track/4l4GsNFlVt6J3Wr4LJqmlg"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Petit g\u00e9nie",
         "url": "https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD"
@@ -169,7 +169,31 @@
       "url": "https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Slime You Out",
         "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
@@ -189,7 +213,23 @@
       "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "7K op je feestje",
         "url": "https://open.spotify.com/album/3ElOBNDYJI00N3IDimQ4ex"
@@ -209,7 +249,7 @@
       "url": "https://open.spotify.com/track/3StdsywJPGA9TskfcwQpPa"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -225,7 +265,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
@@ -241,7 +281,7 @@
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
@@ -257,7 +297,7 @@
       "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "100 Doezoe Cash",
         "url": "https://open.spotify.com/album/3jPB66A5yQ1zi6gwwnRlrb"
@@ -285,23 +325,7 @@
       "url": "https://open.spotify.com/track/0g45SM1MltjtFstJl35m0R"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
-      "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
-    },
-    {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Bittersweet Goodbye",
         "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
@@ -317,31 +341,7 @@
       "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Mae Stephens",
-          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
-    },
-    {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Lights Out (Official song Formula 1 Heineken Dutch Grand Prix)",
         "url": "https://open.spotify.com/album/7mIgjFSb0eTlimS6qIjNn5"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/6myxuB1q6TNsQS2vqNlbZh"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "On My Love",
         "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Only Lover",
         "url": "https://open.spotify.com/album/2PrWENAZz992vvC92B129d"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/2rFfVt1pS7hmew01Q2uL2b"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Bongos (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Lil Boo Thang",
         "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Coming Your Way (with Anne-Marie & Becky G)",
         "url": "https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Draaien",
         "url": "https://open.spotify.com/album/6hobNqHnmmBbX3R8dsCxwp"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/4gD4oxamFPz4TJNxuozDL5"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Dat Hadden Wij Moeten Zijn",
         "url": "https://open.spotify.com/album/5WxgeokG4RNocDTb4uQ1cE"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/1YdavvpHweXYPkKuxg40Ha"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Good Love",
         "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/1I3wKoVk918S6AYkqyYpy3"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/6XXSyQ7oyblFvOrx6lLA7j"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Cuff It",
         "url": "https://open.spotify.com/album/3ujSj1tKnkjg9V3d7WREoD"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/4aklcHyOrgB2t4iXNgpvk9"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Zolang Ik Er Ben",
         "url": "https://open.spotify.com/album/5G6KOxLyM9d2UOCYmVEPyC"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/6k1pgvw4WtAwEwiCOVsh02"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Droom Groot",
         "url": "https://open.spotify.com/album/6FflzXl74BClk23mWHzg6U"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/4XiYnHAolrUxuRCaGLFG0R"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
-      "added_at": "2023-09-25 09:17:40",
+      "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Victory (With Choir And Strings)",
         "url": "https://open.spotify.com/album/5GuOPJC3u1bOduMaiYg534"

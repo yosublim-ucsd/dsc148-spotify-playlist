@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: NewDad
 
-479 songs - 1 day 2 hr 52 min
+482 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 | 2023-07-13 |  |
 | [Dead Weight](https://open.spotify.com/track/2O79y6ji57voBvM8Qmhw21) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Dead Weight](https://open.spotify.com/album/1tL8iCIxXRoAeTYm6Kdgd2) | 3:43 | 2021-03-09 | 2022-01-17 |
 | [Deep](https://open.spotify.com/track/1Qd0jDJKlgBTuCNqlM4GWO) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Deep](https://open.spotify.com/album/3UVA6Nxe9gBBRVmbZwwIld) | 3:00 | 2021-03-19 | 2022-01-17 |
+| [Deep End \(Paul’s in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 | 2023-09-29 |  |
 | [Designated Driver](https://open.spotify.com/track/73u0xUD9Aag0hI1d2d0VU5) | [Motel Marys](https://open.spotify.com/artist/1mLFRG2MVmK7pRIoPTSRcj) | [Designated Driver](https://open.spotify.com/album/0MQ37Z3Hnkd1KhOHAhCkcH) | 2:35 | 2021-03-09 | 2022-01-17 |
 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-25 |  |
 | [Did I Mention I’m Sorry](https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Did I Mention I'm Sorry](https://open.spotify.com/album/5OJsV7LFoQBXSuGk7vBPac) | 3:17 | 2023-08-11 |  |
@@ -192,6 +193,7 @@
 | [Hard to Hold On](https://open.spotify.com/track/6sBfW1MvCJnMK7pqHJr2zH) | [Egg Drop Soup](https://open.spotify.com/artist/7pzH64zegJsbv79XgCYXr0) | [Hard to Hold On](https://open.spotify.com/album/6DrlsSumD7fJUyuNoWV2AO) | 3:52 | 2021-03-09 | 2022-01-17 |
 | [Hard to Kill](https://open.spotify.com/track/7bU1WWo32oscVeFfZBzbCu) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Hard to Kill](https://open.spotify.com/album/10NTFSIWsBXA9zKJ4fMuxb) | 3:26 | 2021-03-09 | 2022-01-17 |
 | [Hate Me](https://open.spotify.com/track/6heQxArnGCBoyAZ0phwT7d) | [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [Hate Me](https://open.spotify.com/album/6Ts10Yx9238mocuLUKsBkr) | 2:46 | 2021-03-09 | 2022-01-17 |
+| [Heartbreak Kid](https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Heartbreak Kid](https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM) | 3:00 | 2023-09-29 |  |
 | [Heavy](https://open.spotify.com/track/0mlE732Ghbmo89ISngqVNk) | [The Goodnight Darlings](https://open.spotify.com/artist/6krukeKcu8LAYaEG50ohmM) | [Heavy](https://open.spotify.com/album/7j52cSMnSXWMbYV37zbhFH) | 3:16 | 2021-03-09 | 2022-01-17 |
 | [Heavy Heart](https://open.spotify.com/track/5eWmggao2s6P1vVDeheUIg) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 4:23 | 2022-08-18 | 2022-10-14 |
 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 | 2022-08-18 | 2022-09-23 |
@@ -253,7 +255,7 @@
 | [Knuckles](https://open.spotify.com/track/0TbHtLbf1Q4pVg1hgcXWZd) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire \(Extended Edition\)](https://open.spotify.com/album/1Wh165Ol4TJwaHKFGcwoP4) | 2:40 | 2022-10-13 | 2022-11-13 |
 | [Knuckles](https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:40 | 2022-10-13 |  |
 | [Knuckles](https://open.spotify.com/track/7k0dSGTAvbmKmpB6qRQKCn) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Knuckles](https://open.spotify.com/album/0K5aDBQbnRuZsXItf7qPEj) | 2:40 | 2022-09-08 | 2022-10-14 |
-| [Kool Aid](https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Kool Aid](https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph) | 3:36 | 2022-10-13 |  |
+| [Kool Aid](https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Kool Aid](https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph) | 3:36 | 2022-10-13 | 2023-09-29 |
 | [Labrador](https://open.spotify.com/track/06LiHAhneCsoLvRPDHPrJR) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [Labrador](https://open.spotify.com/album/19nKwENJSpAHPUmTjEn0pC) | 3:41 | 2021-03-09 | 2022-01-17 |
 | [Lain \(phone clone\)](https://open.spotify.com/track/3aq2HJqPhVH3D8jcbAQJvT) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Lain \(phone clone\)](https://open.spotify.com/album/6kVkofYbaUHoPO1YKObr3k) | 4:01 | 2023-01-13 | 2023-02-26 |
 | [last july](https://open.spotify.com/track/3vC1FzGYGsjUDEeZahvaRt) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [If I never know you like this again](https://open.spotify.com/album/7nMKqegypHLrmj9fN98Tyx) | 3:46 | 2022-08-18 | 2022-11-18 |
@@ -286,6 +288,7 @@
 | [Moths](https://open.spotify.com/track/4Qq9DfuAHCqoUNX8y4vxNK) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Moths](https://open.spotify.com/album/6ToN4up7FEIeWVChNt8ppv) | 2:42 | 2023-03-03 | 2023-03-18 |
 | [Moving Target](https://open.spotify.com/track/23HUA2EDfmncWA0tuezbOU) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Moving Target](https://open.spotify.com/album/2A7q35abUPSP7EDjB2pUUM) | 3:51 | 2023-05-25 | 2023-06-13 |
 | [Ms\. California](https://open.spotify.com/track/0WxZEci23tWn1YzikUljEt) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Ms\. California](https://open.spotify.com/album/69vZJh3B8Dvjl7yUU0Eb5v) | 2:52 | 2021-03-09 | 2022-01-17 |
+| [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-29 |  |
 | [My Fall](https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Plus Ultra](https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk) | 3:14 | 2023-04-13 | 2023-05-23 |
 | [My Very Best](https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [My Very Best](https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6) | 3:17 | 2023-01-20 | 2023-06-18 |
 | [Narration of a Lost Millennial](https://open.spotify.com/track/7iQfH9grc0jwbbPOuUZSSw) | [Rad Horror](https://open.spotify.com/artist/3AqJEHlSivoMSqsVYQ595n) | [Anti Teenage Sensation \(The Part Where Julia Dies\)](https://open.spotify.com/album/1jZfZrwSmI6TnXrxY5lnk2) | 3:05 | 2021-03-09 | 2022-01-17 |
@@ -385,7 +388,7 @@
 | [So Cool](https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [So Cool](https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY) | 3:05 | 2023-05-25 |  |
 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-03-17 |  |
 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-05 | 2023-04-03 |
-| [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 | 2023-07-13 |  |
+| [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 | 2023-07-13 | 2023-09-29 |
 | [Someone Up There](https://open.spotify.com/track/2nORt1E3rcZX5CUueWSGgv) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [The WAEVE](https://open.spotify.com/album/2Pu5xQUV8wjHdUmWJnkA93) | 2:40 | 2023-02-10 | 2023-03-04 |
 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 | 2022-12-22 | 2023-08-16 |
 | [Speak of the Devil](https://open.spotify.com/track/5dBqUGyiFVvjc901wkZGyr) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Speak of the Devil](https://open.spotify.com/album/0cwnN8cat7gqJDL84CxxyO) | 3:35 | 2021-03-09 | 2022-01-17 |
@@ -480,7 +483,7 @@
 | [Win](https://open.spotify.com/track/0Z2d1Wv9VaHFxNxdgdKeBE) | [Nasty Cherry](https://open.spotify.com/artist/3a4OHGZwsqHc3eRChiDkS9) | [Win](https://open.spotify.com/album/3riT2ROhv1aQ7zZYut5cmQ) | 2:44 | 2021-03-09 | 2022-01-17 |
 | [Wind in My Sail](https://open.spotify.com/track/6qzKy0MR6hR7tjcw0a66Ct) | [\*repeat repeat](https://open.spotify.com/artist/0PEqo7RkX5wkaYwlT6hINn) | [Wind in My Sail](https://open.spotify.com/album/1thTc5DAfIg41RtmnFYyzf) | 3:05 | 2021-03-09 | 2022-01-17 |
 | [With Or Without](https://open.spotify.com/track/4aobh4j9xhG08Yb7VkcCzd) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [With Or Without](https://open.spotify.com/album/4OPRKb28mSim18LxaWMErZ) | 3:30 | 2021-03-09 | 2022-01-17 |
-| [Worn Out Buildings](https://open.spotify.com/track/0xUN8ZBQGxTnNp8AaCiFum) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Worn Out Buildings](https://open.spotify.com/album/2m74UsKsBKUaCZT7mXOhh6) | 3:35 | 2023-08-17 |  |
+| [Worn Out Buildings](https://open.spotify.com/track/0xUN8ZBQGxTnNp8AaCiFum) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Worn Out Buildings](https://open.spotify.com/album/2m74UsKsBKUaCZT7mXOhh6) | 3:35 | 2023-08-17 | 2023-09-29 |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-05-25 | 2023-06-02 |
 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-05-25 |  |
 | [Would You Be My Judy?](https://open.spotify.com/track/1ndRpUXCDR40upnsnV5IYS) | [Nancy](https://open.spotify.com/artist/6HN4w8eC0IVDYprG41CKh9) | [Would You Be My Judy?](https://open.spotify.com/album/5D4GX521TlVeTiYBMJ6czp) | 3:11 | 2022-08-18 | 2022-10-07 |

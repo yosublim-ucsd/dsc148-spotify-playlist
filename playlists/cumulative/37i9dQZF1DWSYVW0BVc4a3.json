@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 419486,
       "name": "Ano",
       "url": "https://open.spotify.com/track/7GEuIUb8ffHIsZ05O5Zdcl"
@@ -652,6 +652,28 @@
       "duration_ms": 320000,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/4o9XrRSQhyCi8O3jglCaIg"
+    },
+    {
+      "album": {
+        "name": "Aria",
+        "url": "https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
     },
     {
       "album": {
@@ -1954,7 +1976,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 357842,
       "name": "Children Of 95",
       "url": "https://open.spotify.com/track/0W3fiSN6ebq9V3kFb0KGPn"
@@ -2165,6 +2187,32 @@
     },
     {
       "album": {
+        "name": "Temple Of Dreams (Remixes Part 2)",
+        "url": "https://open.spotify.com/album/5f9hCba38bncD1S8xtX7og"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Nathan Daisy",
+          "url": "https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf"
+        },
+        {
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156349,
+      "name": "Coldman (feat. Nathan Daisy) - Robin M Remix",
+      "url": "https://open.spotify.com/track/2GoRThvRyJS8Z8AMmdudMW"
+    },
+    {
+      "album": {
         "name": "Spiritual Milk",
         "url": "https://open.spotify.com/album/4sonMTh4GV9Y1rvJTfdZ8R"
       },
@@ -2180,7 +2228,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 337158,
       "name": "Colossus",
       "url": "https://open.spotify.com/track/2gT6pnXZeEQUyGVSmC5yCW"
@@ -2760,6 +2808,32 @@
       "duration_ms": 199472,
       "name": "Diamond Therapy",
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
+    },
+    {
+      "album": {
+        "name": "Diamond Therapy",
+        "url": "https://open.spotify.com/album/6Ts98dV2mvynqieN4j3TOO"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277453,
+      "name": "Diamond Therapy - VIP",
+      "url": "https://open.spotify.com/track/2Mu2YlVCDCZ6VDnLEHIVG4"
     },
     {
       "album": {
@@ -6001,6 +6075,28 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "VLTRA (IT)",
+          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230645,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu"
+    },
+    {
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/1poee9nMmgtNtlvV1tzhLg"
       },
@@ -6360,6 +6456,24 @@
       "duration_ms": 208760,
       "name": "Lipstick (feat. Robbie Rise) - GUZ Remix",
       "url": "https://open.spotify.com/track/79ElTK74adV8mBoraNiSbq"
+    },
+    {
+      "album": {
+        "name": "Liquid Gold",
+        "url": "https://open.spotify.com/album/2K6e07SwGsxM7pTm3AbPCm"
+      },
+      "artists": [
+        {
+          "name": "AN21",
+          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214237,
+      "name": "Liquid Gold",
+      "url": "https://open.spotify.com/track/5ePsIL5oYErKR9zvEFjtIr"
     },
     {
       "album": {
@@ -7148,7 +7262,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 548786,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3kB6Dx68otpYKCwmhcuHE1"
@@ -8006,7 +8120,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 245714,
       "name": "Of Me - Edit",
       "url": "https://open.spotify.com/track/292721zd62TFxtEeKAYmFP"
@@ -8130,6 +8244,24 @@
       "duration_ms": 257419,
       "name": "On The Line - Estiva Club Mix",
       "url": "https://open.spotify.com/track/1mmvNvYV7JWOn6x0jbcIda"
+    },
+    {
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/14tIN4y03x4Zjv4XmY5teq"
+      },
+      "artists": [
+        {
+          "name": "RDGO",
+          "url": "https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183194,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/5lipO9xkC68LREHy8kBPJH"
     },
     {
       "album": {
@@ -9160,7 +9292,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 184514,
       "name": "Ring The Alarm",
       "url": "https://open.spotify.com/track/6EACtpp2xlqbs2rViFRXDO"
@@ -9885,6 +10017,24 @@
     },
     {
       "album": {
+        "name": "Shake / In The Mood",
+        "url": "https://open.spotify.com/album/6He6laSFhDHETaQaxulrtp"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205454,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/0al96kbwWxScOcA1iK7T0b"
+    },
+    {
+      "album": {
         "name": "Side Piece",
         "url": "https://open.spotify.com/album/0mVYwusAWHTaOrdhSj8gjE"
       },
@@ -10582,6 +10732,28 @@
       "duration_ms": 364332,
       "name": "Stay Awhile - Fideles Remix",
       "url": "https://open.spotify.com/track/60kRT1B2d1Yz1SxCXoBOHH"
+    },
+    {
+      "album": {
+        "name": "Steady Pace",
+        "url": "https://open.spotify.com/album/2naM3YdOoS51bK0mOTjP5R"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146007,
+      "name": "Steady Pace",
+      "url": "https://open.spotify.com/track/42Nbp4cNwh3VbncOXjnEkM"
     },
     {
       "album": {
@@ -11488,7 +11660,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 301838,
       "name": "The One",
       "url": "https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn"
@@ -13176,7 +13348,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 195937,
       "name": "When I See It (feat. The Vic)",
       "url": "https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso"
@@ -13276,6 +13448,28 @@
       "duration_ms": 462978,
       "name": "Wildfire - Colyn Remix",
       "url": "https://open.spotify.com/track/6l4DAumg138A324aTQfXUi"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329318,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"
     },
     {
       "album": {

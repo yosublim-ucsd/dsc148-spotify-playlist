@@ -495,6 +495,32 @@
     },
     {
       "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/3uyRVYklYijNZbk5wgfsEr"
+      },
+      "artists": [
+        {
+          "name": "JK-47",
+          "url": "https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF"
+        },
+        {
+          "name": "Jay Orient",
+          "url": "https://open.spotify.com/artist/7bgViO0G1B9CmxmNovYasB"
+        },
+        {
+          "name": "Tasman Keith",
+          "url": "https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156029,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/6NTZCq7P6aZRbP6KpJTIvw"
+    },
+    {
+      "album": {
         "name": "Azn E$hay",
         "url": "https://open.spotify.com/album/01zyRaej4TUOnM8CyFAKGn"
       },
@@ -1367,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Boys Light Up",
+        "url": "https://open.spotify.com/album/3GfGjAm40VSALkTTkj1dyQ"
+      },
+      "artists": [
+        {
+          "name": "Chillinit",
+          "url": "https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169307,
+      "name": "Boys Light Up",
+      "url": "https://open.spotify.com/track/4ErGr6NdI8DHIaf9bYuquZ"
+    },
+    {
+      "album": {
         "name": "BREAK BREAD",
         "url": "https://open.spotify.com/album/2rmxflAFtctJiaKgHWToWh"
       },
@@ -2195,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "Dance the Night Away",
+        "url": "https://open.spotify.com/album/0tr8adZcm9SdD7gWp2E00C"
+      },
+      "artists": [
+        {
+          "name": "Imthxfuture",
+          "url": "https://open.spotify.com/artist/5WlZDIBOMnTL1gUUmvapG6"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Dance the Night Away",
+      "url": "https://open.spotify.com/track/2dBqM1ZkPnjuCqOfukM3rj"
+    },
+    {
+      "album": {
         "name": "Dancers",
         "url": "https://open.spotify.com/album/5NqieYTsGIbYGIiGVhFA5r"
       },
@@ -2698,7 +2760,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 150236,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/3HaKlD9R8q4KNoIAGuXMwT"
@@ -3693,6 +3755,28 @@
     },
     {
       "album": {
+        "name": "GEEK'D UP (feat. K4NIKI)",
+        "url": "https://open.spotify.com/album/7jR5PHqErRCQ0DImbN3KHJ"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        },
+        {
+          "name": "K4NIKI",
+          "url": "https://open.spotify.com/artist/6ene33xp6RFlzDlHtpekUG"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114901,
+      "name": "GEEK'D UP (feat. K4NIKI)",
+      "url": "https://open.spotify.com/track/72k5ui6BnVMyTU9xORhN8N"
+    },
+    {
+      "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/3WV4nJjBjiYqnXJheNkcOV"
       },
@@ -4498,6 +4582,28 @@
       "duration_ms": 156013,
       "name": "HoodBars (Moses)",
       "url": "https://open.spotify.com/track/4FKa3vkrzGJoneS7qPsxwJ"
+    },
+    {
+      "album": {
+        "name": "HoodBars Elijah",
+        "url": "https://open.spotify.com/album/4vcOic01WyFRFfF548DpcB"
+      },
+      "artists": [
+        {
+          "name": "Hoodbars",
+          "url": "https://open.spotify.com/artist/6MbQ0kLyuOF8GzPQyMgiSW"
+        },
+        {
+          "name": "Elijah Yo",
+          "url": "https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156499,
+      "name": "HoodBars Elijah",
+      "url": "https://open.spotify.com/track/58z8o9BPpHD3i4VneLeSvc"
     },
     {
       "album": {
@@ -6301,6 +6407,24 @@
     },
     {
       "album": {
+        "name": "MISSY",
+        "url": "https://open.spotify.com/album/3rtoCKsQ2nZYzUkO21gKsX"
+      },
+      "artists": [
+        {
+          "name": "Say True God?",
+          "url": "https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124390,
+      "name": "MISSY",
+      "url": "https://open.spotify.com/track/0s1JX4cVN4jVNfFhBylUoc"
+    },
+    {
+      "album": {
         "name": "FS Type Beats",
         "url": "https://open.spotify.com/album/2r0tKVKRCyof88kyiyFNUL"
       },
@@ -7251,6 +7375,24 @@
     },
     {
       "album": {
+        "name": "ON GOD",
+        "url": "https://open.spotify.com/album/4Wy6WV24i0Sbc86Fa39QIz"
+      },
+      "artists": [
+        {
+          "name": "Nice Flaco",
+          "url": "https://open.spotify.com/artist/0iHJfju2zMmRbXBnVryn65"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129552,
+      "name": "ON GOD",
+      "url": "https://open.spotify.com/track/38kznMw7oKJpLvL6r8COjQ"
+    },
+    {
+      "album": {
         "name": "On Me",
         "url": "https://open.spotify.com/album/1nfbrWZAkBG4VuKztrBcSg"
       },
@@ -7928,6 +8070,28 @@
       "duration_ms": 189796,
       "name": "Proper60 (feat. Ay Huncho)",
       "url": "https://open.spotify.com/track/3GRKDBSiMwmcJd7welX7nb"
+    },
+    {
+      "album": {
+        "name": "Nothing Major",
+        "url": "https://open.spotify.com/album/0fvxoWGwTLx0c4PJo9FYWa"
+      },
+      "artists": [
+        {
+          "name": "Raj Mahal",
+          "url": "https://open.spotify.com/artist/7x10xDm8HzItrVOMaE6DGT"
+        },
+        {
+          "name": "Domba",
+          "url": "https://open.spotify.com/artist/3CeiqSedqQQ4lJ2wYmQywz"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75062,
+      "name": "PTSD",
+      "url": "https://open.spotify.com/track/1JAXID85pIHbvaFBQgjuLK"
     },
     {
       "album": {

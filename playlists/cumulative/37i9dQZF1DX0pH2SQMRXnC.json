@@ -987,6 +987,28 @@
     },
     {
       "album": {
+        "name": "Blow Up The Speakers (Again)",
+        "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
+      },
+      "artists": [
+        {
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+        },
+        {
+          "name": "The Moon",
+          "url": "https://open.spotify.com/artist/3V0QXa0lUPw2C8uOv8nInC"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208657,
+      "name": "Blow Up The Speakers (Again)",
+      "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
+    },
+    {
+      "album": {
         "name": "Bodyshock",
         "url": "https://open.spotify.com/album/2OJvGNMr2cyJAYyf5IMtj7"
       },
@@ -8406,7 +8428,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 238400,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/5SdosZFiok1BS9LkWexfFQ"
@@ -11140,7 +11162,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 164400,
       "name": "Survivors",
       "url": "https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw"
@@ -11522,6 +11544,32 @@
       "duration_ms": 187678,
       "name": "The Hymn Of Nivoria",
       "url": "https://open.spotify.com/track/0kd4QYttPngU4rG9fekZvj"
+    },
+    {
+      "album": {
+        "name": "The Kids Aren't Alright",
+        "url": "https://open.spotify.com/album/2FGSO5RaolhLysdhphlgLr"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "GPF",
+          "url": "https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222408,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/6bRBZE3BXUZ6QNdpKuMGop"
     },
     {
       "album": {

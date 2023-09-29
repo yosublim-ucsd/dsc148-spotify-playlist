@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 81594,
+  "num_followers": 81621,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDhlYTkzZmU0NjhlOTlkZDFlOGE0NDUzY2FlODc3ZTA3ODg3M2Nh",
+  "snapshot_id": "MCxiMTY2NjM3OGZhYWViNDhmYTU3ZTBjMzZjZGY3ZjcwYjk2OGM4OTdm",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -287,26 +287,18 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
-        "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
+        "name": "Sarah Vaughan Sings George Gershwin",
+        "url": "https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa"
       },
       "artists": [
         {
-          "name": "Peter Breiner",
-          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
-        },
-        {
-          "name": "Juray Bartos",
-          "url": "https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n"
-        },
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 278000,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/2nr3BJgSKhoDA3M9D06BqV"
+      "duration_ms": 199387,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3yoCcX8jaVBWXb9c8Q5nW2"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -331,18 +323,26 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Sarah Vaughan Sings George Gershwin",
-        "url": "https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa"
+        "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
+        "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        },
+        {
+          "name": "Juray Bartos",
+          "url": "https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         }
       ],
-      "duration_ms": 199387,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/3yoCcX8jaVBWXb9c8Q5nW2"
+      "duration_ms": 278000,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/2nr3BJgSKhoDA3M9D06BqV"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -383,30 +383,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
-        "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
-      },
-      "artists": [
-        {
-          "name": "Peter Breiner",
-          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
-        },
-        {
-          "name": "Juray Bartos",
-          "url": "https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n"
-        },
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Girl Crazy (Arr. For Trumpet And Piano): But Not For Me",
-      "url": "https://open.spotify.com/track/4viP4whWV1MDWxeFJe1A1V"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Wild: 7 Virtuoso Etudes: 1. I Got Rhythm (after G. Gershwin)",
         "url": "https://open.spotify.com/album/1i1I1Su34eDYOoKdT5x0hF"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 223000,
       "name": "Fascinatin' Rhythm",
       "url": "https://open.spotify.com/track/7MQ1HfXBLl4y23fHNEZMgQ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin For Trumpet (arr. J. Bartos and P. Breiner)",
+        "url": "https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw"
+      },
+      "artists": [
+        {
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
+        },
+        {
+          "name": "Juray Bartos",
+          "url": "https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Girl Crazy (Arr. For Trumpet And Piano): But Not For Me",
+      "url": "https://open.spotify.com/track/4viP4whWV1MDWxeFJe1A1V"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -963,6 +963,26 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
+        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
         "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 79226,
       "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
       "url": "https://open.spotify.com/track/1lgbpTmHtXHHEhhcckBSXS"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
-        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1107,6 +1107,34 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "duration_ms": 498373,
+      "name": "Let 'Em Eat Cake: Overture",
+      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Kiri sings Gershwin",
         "url": "https://open.spotify.com/album/0DbXv4zODvHFF9Imo88NR3"
       },
@@ -1159,34 +1187,6 @@
       "duration_ms": 412906,
       "name": "Catfish Row: Suite from Porgy and Bess (arr. S. Bowen for orchestra): I. Catfish Row",
       "url": "https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Michael Tilson Thomas Conducts Gershwin",
-        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic",
-          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        }
-      ],
-      "duration_ms": 498373,
-      "name": "Let 'Em Eat Cake: Overture",
-      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
     },
     {
       "added_at": "2022-08-05 04:02:00",

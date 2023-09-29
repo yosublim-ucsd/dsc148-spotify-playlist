@@ -2,7 +2,7 @@
 
 ### [AMAPIANO grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon?si=0UtnslMqQNG\-tMgA366iwQ">Kamo Mphela</a>, <a href="https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b?si=OR\-euxzsTu6UFE\-73WjjpA">Masterpiece YVK</a>
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=CT9m\_h55RvWIGeCups0QKA">DJ Maphorisa</a>,  <a href="https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx?si=TbJbGQH7QHuxsgs4CL6xRg">Tman Xpress</a>
 
 1,083 songs - 4 day 16 hr 26 min
 

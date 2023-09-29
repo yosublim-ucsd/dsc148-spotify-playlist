@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 ### [Belgo\-Jazz](https://open.spotify.com/playlist/37i9dQZF1DWXdynNwVeJMs)
 
-> Listen to the finest Jazz made in Belgium\. Cover: John Ghost
+> Listen to the finest Jazz made in Belgium\. Cover: KAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,504 likes - 80 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,521 likes - 79 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sheep Party](https://open.spotify.com/track/6xzI6RxSjjDzswPkUYH98d) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Khamsin](https://open.spotify.com/album/23MEycC3B7Gs3IHfsNoh8L) | 5:28 |
-| 2 | [The Quantities](https://open.spotify.com/track/41NMjKhLiukWNoNF2csOsk) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Quantities](https://open.spotify.com/album/6tBW03xdXTl5juo3u9RwB4) | 7:14 |
-| 3 | [Little Steps](https://open.spotify.com/track/01VLqczO49AFPdt4AiRTLC) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [The Cycle Repeats](https://open.spotify.com/album/2GtnEumRpH310S1lKgVxTe) | 5:11 |
+| 1 | [Amulet](https://open.spotify.com/track/6MksNP1yBT38UMVBt1Daqk) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [The Cycle Repeats](https://open.spotify.com/album/2GtnEumRpH310S1lKgVxTe) | 4:01 |
+| 2 | [Sheep Party](https://open.spotify.com/track/6xzI6RxSjjDzswPkUYH98d) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Khamsin](https://open.spotify.com/album/23MEycC3B7Gs3IHfsNoh8L) | 5:28 |
+| 3 | [The Quantities](https://open.spotify.com/track/41NMjKhLiukWNoNF2csOsk) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Quantities](https://open.spotify.com/album/6tBW03xdXTl5juo3u9RwB4) | 7:14 |
 | 4 | [WGHWBH](https://open.spotify.com/track/2Gk2ojObQ0KJev9q4xANXm) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [WGHWBH](https://open.spotify.com/album/3IXktD0oxECWhvw7yBW8LU) | 4:45 |
 | 5 | [Pieces of Peace II: Silence & Joy](https://open.spotify.com/track/3b6844SWNXVD5HlkKSpo9g) | [Kris Defoort](https://open.spotify.com/artist/0fWYodXapbJiFoMDRArdrQ), [Veronika Harcsa](https://open.spotify.com/artist/5nN4R7oxXwUsVpHfqUryfM) | [Silence & Joy](https://open.spotify.com/album/6ghb9Dm00ce0uHGkDsKF4F) | 8:20 |
-| 6 | [Amulet](https://open.spotify.com/track/6f0ImtlSe8SRo2qeHW4TLc) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [Amulet](https://open.spotify.com/album/1HQmEGfHgCgy2LnCra5ZnJ) | 4:01 |
-| 7 | [Rouf\-rouf](https://open.spotify.com/track/17QU94mEoN2moywNnBohht) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Sink\-Along](https://open.spotify.com/album/79jbHO5dq9dkn0TvqbHBdT) | 3:28 |
-| 8 | [Daisy](https://open.spotify.com/track/5hNy2QnFPoxrp6vytjSTrH) | [Camille\-Alban Spreng's Odil](https://open.spotify.com/artist/5xSgdrNqegJ83NoGBlm1GZ), [Nina Kortekaas](https://open.spotify.com/artist/2X4mzpmisX5th9ZSx74VlS) | [Daisy](https://open.spotify.com/album/7aAXE0dkNtCZoif0xLuRx6) | 4:20 |
+| 6 | [Rouf\-rouf](https://open.spotify.com/track/17QU94mEoN2moywNnBohht) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Sink\-Along](https://open.spotify.com/album/79jbHO5dq9dkn0TvqbHBdT) | 3:28 |
+| 7 | [Daisy](https://open.spotify.com/track/5hNy2QnFPoxrp6vytjSTrH) | [Camille\-Alban Spreng's Odil](https://open.spotify.com/artist/5xSgdrNqegJ83NoGBlm1GZ), [Nina Kortekaas](https://open.spotify.com/artist/2X4mzpmisX5th9ZSx74VlS) | [Daisy](https://open.spotify.com/album/7aAXE0dkNtCZoif0xLuRx6) | 4:20 |
+| 8 | [Little Steps](https://open.spotify.com/track/01VLqczO49AFPdt4AiRTLC) | [KAU](https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH) | [The Cycle Repeats](https://open.spotify.com/album/2GtnEumRpH310S1lKgVxTe) | 5:11 |
 | 9 | [Paljas](https://open.spotify.com/track/3DoLySSn6cpIBUgYcImbeQ) | [KVR](https://open.spotify.com/artist/46ExxwNgHEKxA2mRzQhdXo) | [Spam vol.1](https://open.spotify.com/album/32kUn5j1n7MfSBNAXV6zUy) | 7:10 |
 | 10 | [Wanderer](https://open.spotify.com/track/1mDqDD1QWMY3LcU4nnfn3D) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Dopamine Overdose](https://open.spotify.com/album/6ZalNPvkWelPjhB4NaV5RL) | 4:04 |
 | 11 | [The Call of the Quagga Quagga](https://open.spotify.com/track/3mKokrtZqNAPfiAg0Jo30P) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Call Of The Quagga Quagga](https://open.spotify.com/album/2EvdjR9ghHhHNtypwGB8S8) | 6:50 |
@@ -84,9 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 74 | [Maryward](https://open.spotify.com/track/3DUcCDY04fWN1qv9OB46cN) | [Grand Picture Palace](https://open.spotify.com/artist/1nw3i2K0N8XZi916gV0E4l) | [Maryward](https://open.spotify.com/album/6ZIDG4fFZLYKLNHkqAYQt8) | 6:07 |
 | 75 | [Final Curtain Call](https://open.spotify.com/track/66NducW8qYmayPWnPJ8WmP) | [Jef Neve](https://open.spotify.com/artist/5drkbPiwHU6Kzh1wzYwMAl) | [Final Curtain Call](https://open.spotify.com/album/5Fo6ik6xr82bmL8ugtsz22) | 6:05 |
 | 76 | [Cinder Bay](https://open.spotify.com/track/25XCseTFdKLuaCG01dT3Kj) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Cinder Bay](https://open.spotify.com/album/5Q1KqAvLtRcSIFrxUdYZtQ) | 4:44 |
-| 77 | [Honu](https://open.spotify.com/track/6YcVox42IUeHfHRNxrj1WR) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 3:42 |
-| 78 | [Swirl](https://open.spotify.com/track/1vpoU4P9acenUwLyQRxkp6) | [BAM! Trio](https://open.spotify.com/artist/5eK2rWqJ23rCpv9AdWNK86) | [Swirl](https://open.spotify.com/album/5EzwgWeQe3uy5TnsnN6wDS) | 4:05 |
-| 79 | [Cascade\(s\)](https://open.spotify.com/track/136X5PnHEO3jUiAm3bU6kF) | [Nordmann](https://open.spotify.com/artist/0Uox3PUw47qEqroDggrDRE) | [Cascade\(s\)](https://open.spotify.com/album/5QNydaZL1yVLAqWFN9fA8H) | 4:16 |
-| 80 | [Birdman](https://open.spotify.com/track/06CZmASsue66Gkp269Rqld) | [Hachoo](https://open.spotify.com/artist/63YSIh9PBCZZUzZWAJoidv) | [On a Thin Rope with a Shaky Smile](https://open.spotify.com/album/11fDYTospHQX82R2IKQFcj) | 5:05 |
+| 77 | [Swirl](https://open.spotify.com/track/1vpoU4P9acenUwLyQRxkp6) | [BAM! Trio](https://open.spotify.com/artist/5eK2rWqJ23rCpv9AdWNK86) | [Swirl](https://open.spotify.com/album/5EzwgWeQe3uy5TnsnN6wDS) | 4:05 |
+| 78 | [Cascade\(s\)](https://open.spotify.com/track/136X5PnHEO3jUiAm3bU6kF) | [Nordmann](https://open.spotify.com/artist/0Uox3PUw47qEqroDggrDRE) | [Cascade\(s\)](https://open.spotify.com/album/5QNydaZL1yVLAqWFN9fA8H) | 4:16 |
+| 79 | [Birdman](https://open.spotify.com/track/06CZmASsue66Gkp269Rqld) | [Hachoo](https://open.spotify.com/artist/63YSIh9PBCZZUzZWAJoidv) | [On a Thin Rope with a Shaky Smile](https://open.spotify.com/album/11fDYTospHQX82R2IKQFcj) | 5:05 |
 
-Snapshot ID: `MCw1NGYyNzQwMTkwMTBkMzk5NWE5YmIzNWY4Y2E0Y2IzZWM0MjIwMzU3`
+Snapshot ID: `MCwzY2ZlMDI0ZWZkZGMwNzU1YzVkZDk1MWVhMDMxOGUwYmFjMjczZTE4`

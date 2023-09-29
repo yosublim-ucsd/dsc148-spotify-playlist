@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 126000,
       "name": "99 Luftballons",
       "url": "https://open.spotify.com/track/4ho9gnuAVb97Q0TKFDSaiO"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 176437,
       "name": "Barbie Girl RMX",
       "url": "https://open.spotify.com/track/3GnXG8EvUeuo0IWH3kXFec"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 214546,
       "name": "Euphoria - Hardstyle Edit",
       "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
@@ -1353,6 +1353,28 @@
     },
     {
       "album": {
+        "name": "Goosebumps (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/4nm9KmrN9rXkWHiIUkseDg"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Audiosonik",
+          "url": "https://open.spotify.com/artist/7kMmIuIMrfztBnJn5HZuob"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130063,
+      "name": "Goosebumps - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/0Vv9C1V46riOJoXuLNJwju"
+    },
+    {
+      "album": {
         "name": "Gotta Catch 'Em All (Pok\u00e9mon Theme)",
         "url": "https://open.spotify.com/album/7eamYT4J7AZyrf7uAMW12h"
       },
@@ -1508,7 +1530,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 164000,
       "name": "How You Samba - LNY TNZ Remix",
       "url": "https://open.spotify.com/track/3ZEm9r78s5nt0iVsCZwCWy"
@@ -2622,7 +2644,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 190412,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td"
@@ -2652,6 +2674,32 @@
       "duration_ms": 230400,
       "name": "Ride With Me (feat. Kid Ink) - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
+    },
+    {
+      "album": {
+        "name": "Rude Boy",
+        "url": "https://open.spotify.com/album/1D69rMXTjw3X7XlRFY34of"
+      },
+      "artists": [
+        {
+          "name": "The Late Night Project",
+          "url": "https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9"
+        },
+        {
+          "name": "Onyra",
+          "url": "https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb"
+        },
+        {
+          "name": "Rich Fayden",
+          "url": "https://open.spotify.com/artist/3ar8JGsr43jlNDacAnqt34"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150745,
+      "name": "Rude Boy",
+      "url": "https://open.spotify.com/track/43O2EOt85fbhIADEt7ybP8"
     },
     {
       "album": {
@@ -3226,7 +3274,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 171232,
       "name": "Turn The Tide - Unlocked Remix",
       "url": "https://open.spotify.com/track/09XY1zEvgHE2kKHIliFGLP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: j.flowers.mp3 & Ralph Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,241 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,257 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Planefield2](https://open.spotify.com/track/5qI36xa23gmaoOEX264KdX) | [Gonçalo BC](https://open.spotify.com/artist/33ggho2vYzjpgOqdjzbSvi) | [Planefield2](https://open.spotify.com/album/16gZmN9kjhpRwrPgT21inq) | 4:14 |
 | 80 | [Uncut Gems](https://open.spotify.com/track/6wfXFEikmlL1e7VJpOtwhu) | [Odd Numbers](https://open.spotify.com/artist/32JiqL3jyFqx0K8osNYKU6), [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Uncut Gems](https://open.spotify.com/album/1bdbYgjDWdQx23SW3b5ARY) | 2:57 |
 
-Snapshot ID: `MCwwODg5YzdiMGVmODBhZmNhMThkMGUyNTNjYTY2YzY3NTgzYTc2NDlk`
+Snapshot ID: `MCxkMzQyYmY3MmRhYmRkMWZkN2NhZDhmMzQyMjAyNTY3Yzc5YmM4ZTVj`

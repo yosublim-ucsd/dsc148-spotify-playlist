@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNTU5MjAsMDAwMDAwMDA5NTlmMWJkZTIzNWU5ZGJlZjZkZDI5MGRhMmI2MzczOA==",
+  "snapshot_id": "MjgyNTU5MjAsMDAwMDAwMDA2YjE1MDg2YTQzODljMzhjNGJlOGRmMGI5YjQ5ZjA3ZA==",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Nature at Play: J.S. Bach's Cello Suite No. 1 (Live from the Great Smoky Mountains)",
-        "url": "https://open.spotify.com/album/3NGKzPTT6anTfj7qb9QtYq"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 153360,
-      "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: I. Pr\u00e9lude",
-      "url": "https://open.spotify.com/track/3t0yleDo23gh9vEjAfDbgX"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "She Listen To Trap",
         "url": "https://open.spotify.com/album/02Fde3nEdXojU5KqJn5Di3"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 143103,
       "name": "She Listen To Trap",
       "url": "https://open.spotify.com/track/7IJNuqJ3lGE7qzxOQ9AMMS"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Nature at Play: J.S. Bach's Cello Suite No. 1 (Live from the Great Smoky Mountains)",
+        "url": "https://open.spotify.com/album/3NGKzPTT6anTfj7qb9QtYq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 153360,
+      "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/3t0yleDo23gh9vEjAfDbgX"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

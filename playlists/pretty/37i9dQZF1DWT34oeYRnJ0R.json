@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Farruko",
-  "num_followers": 697448,
+  "num_followers": 697436,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjI4ZjkyODkwMGNlYzQwZTRmZDcwN2I3ZWQyYWE0NTcyYmI2OTll",
+  "snapshot_id": "MCxhNTY0ZjI4NDFmMmFiMjQxNzA3YjIxMTVhMWY0Zjc5N2Y3MDBiNzdj",
   "tracks": [
     {
       "added_at": "2023-09-19 19:47:52",
@@ -615,22 +615,22 @@
     {
       "added_at": "2023-09-19 19:47:52",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn"
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
       "artists": [
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         },
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 214123,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q"
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2023-09-19 19:47:52",
@@ -651,22 +651,22 @@
     {
       "added_at": "2023-09-19 19:47:52",
       "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         },
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
+      "duration_ms": 214123,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q"
     },
     {
       "added_at": "2023-09-19 19:47:52",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-09-19 19:47:52",
       "album": {
-        "name": "UuU",
-        "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "UuU",
-      "url": "https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2"
-    },
-    {
-      "added_at": "2023-09-19 19:47:52",
-      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/5d7DGxDhoMuCwSuLpremAd"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 194295,
       "name": "Sola",
       "url": "https://open.spotify.com/track/2WhXmta31SYoJm7xMCmMWN"
+    },
+    {
+      "added_at": "2023-09-19 19:47:52",
+      "album": {
+        "name": "UuU",
+        "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "UuU",
+      "url": "https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2"
     },
     {
       "added_at": "2023-09-19 19:47:52",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-09-19 19:47:52",
       "album": {
+        "name": "lo que pas\u00f3",
+        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 150576,
+      "name": "lo que pas\u00f3",
+      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
+    },
+    {
+      "added_at": "2023-09-19 19:47:52",
+      "album": {
         "name": "Limonadita Fresca",
         "url": "https://open.spotify.com/album/0WNHeQl2UyqgvfqWfWrcEH"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 200000,
       "name": "Limonadita Fresca",
       "url": "https://open.spotify.com/track/639HTh3UQI6kZXn6Qb7lH6"
-    },
-    {
-      "added_at": "2023-09-19 19:47:52",
-      "album": {
-        "name": "lo que pas\u00f3",
-        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 150576,
-      "name": "lo que pas\u00f3",
-      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
     },
     {
       "added_at": "2023-09-19 19:47:52",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2023-09-19 19:47:52",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 191489,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
-    },
-    {
-      "added_at": "2023-09-19 19:47:52",
-      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+    },
+    {
+      "added_at": "2023-09-19 19:47:52",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5ILWpcANkqbJ0372MY0Gws"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 191489,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2aOiqOdqV6V4uOzypF03HX"
     },
     {
       "added_at": "2023-09-19 19:47:52",

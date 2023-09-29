@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,845 likes - 154 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,867 likes - 154 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 114 | [Bangin](https://open.spotify.com/track/0ZVXBU8LCG0HutT5Oa8eI4) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Bangin](https://open.spotify.com/album/1v0xYbW5NagAzjMeBWIM5A) | 3:47 |
 | 115 | [Jauh](https://open.spotify.com/track/2iECqZwGqfoSTjJ0Mal8Cn) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Jauh](https://open.spotify.com/album/0U8j5HBVsgyRJVedu4XrSD) | 3:19 |
 | 116 | [Línea 7](https://open.spotify.com/track/7dKqJB09t92xID0Hw4ycMt) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Línea 7](https://open.spotify.com/album/27lhcWFcNtAPhlxgkzsSmG) | 2:55 |
-| 117 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \[feat\. Aheye of 4EVE\]](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 |
+| 117 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \- Single](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 |
 | 118 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 |
 | 119 | [MY WAY \(Prod\. R.Tee\)](https://open.spotify.com/track/3XfngyuVjltVRHSsLjrCRO) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [SHOW ME THE MONEY 11 Episode 1](https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy) | 6:17 |
 | 120 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 153 | [PULL UP](https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [PULL UP](https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic) | 2:41 |
 | 154 | [空っぽ](https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [空っぽ](https://open.spotify.com/album/6gsTB987dJeaTUifVdWbO4) | 4:53 |
 
-Snapshot ID: `MCxjMGNiM2RmZWExZWZlNGVlYjQxOTlhZmM0ZDAwZDBkZmJkNzA0OTAz`
+Snapshot ID: `MCxlNzRkZmNjNzQ5Y2YxMTUxYzgwY2IzZWIyYjQ2YzU1NDE0NjA5YzAz`

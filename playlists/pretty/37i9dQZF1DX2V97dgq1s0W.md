@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: Brent Jazmine Sullivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,347 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,495 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 79 | [Suite Life \(Familiar\) \- Bonus Track](https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:34 |
 | 80 | [Fuck Your Friend](https://open.spotify.com/track/55TjrzpNTh67khSEpZ6BCq) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 2:44 |
 
-Snapshot ID: `MCw4NDEwMTdmYWVkOTdlY2Q3NTg5ZGNjMGZhM2U0MzVkMDg1YjcxN2Rk`
+Snapshot ID: `MCwyMWRkNzQ3NTcyOWYzNjhjNDJiNTM0ZGM5OTYxYTg5NmVkOWRiNDE0`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Dydy Yeman",
+  "description": "African dance party music from Paris to Abidjan. Photo : DJ KEROZEN",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 242834,
       "name": "Abacou",
       "url": "https://open.spotify.com/track/0BevQ6RCp7uHdi2s0GmtWn"
+    },
+    {
+      "album": {
+        "name": "Abidjan Est Doux",
+        "url": "https://open.spotify.com/album/6ILXeDfNlfiHuf7FS46ad4"
+      },
+      "artists": [
+        {
+          "name": "Santrinos Raphael",
+          "url": "https://open.spotify.com/artist/0fmjzVxcH2aZo4tRAiRT1h"
+        },
+        {
+          "name": "Debordo Leekunfa",
+          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224132,
+      "name": "Abidjan Est Doux",
+      "url": "https://open.spotify.com/track/4qR40v3cDfonhumDnEMbZF"
     },
     {
       "album": {
@@ -228,7 +250,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 176718,
       "name": "Amour multiprise",
       "url": "https://open.spotify.com/track/4HMcdmSSqmFFKqmASxVjaz"
@@ -602,7 +624,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 142613,
       "name": "Copa",
       "url": "https://open.spotify.com/track/6DHB4gzkkIAtV4X5TruqoG"
@@ -2592,6 +2614,28 @@
       "duration_ms": 186086,
       "name": "TCH\u00d4K\u00d4R\u00d4BA",
       "url": "https://open.spotify.com/track/3sUcopiGb0rdBfKNprd2Pa"
+    },
+    {
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8"
+      },
+      "artists": [
+        {
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
+        },
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0"
     },
     {
       "album": {

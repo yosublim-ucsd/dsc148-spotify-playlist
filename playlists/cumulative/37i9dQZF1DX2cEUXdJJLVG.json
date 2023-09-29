@@ -3585,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "Or Is It?",
+        "url": "https://open.spotify.com/album/3D7UKoqrqBr4uuzk4KSecK"
+      },
+      "artists": [
+        {
+          "name": "MANOLO",
+          "url": "https://open.spotify.com/artist/007E3ZGctU4aLHEtxO0lTy"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310973,
+      "name": "Or Is It?",
+      "url": "https://open.spotify.com/track/1LQobjggg6QY8iXA8PNFIS"
+    },
+    {
+      "album": {
         "name": "Original Classic",
         "url": "https://open.spotify.com/album/1C7w8U2aScz7utdxA1bM4A"
       },

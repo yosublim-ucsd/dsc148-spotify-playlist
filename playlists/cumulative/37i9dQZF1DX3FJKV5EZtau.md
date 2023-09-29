@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-387 songs - 22 hr 9 min
+388 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-11 | 2023-02-24 |
 | [Airway](https://open.spotify.com/track/7H0Fn4Rf76dMg6hNzyOlef) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Airway](https://open.spotify.com/album/1hvFDHasQOCnAMQfRNa3JO) | 3:15 | 2022-01-07 | 2022-07-27 |
 | [Alive](https://open.spotify.com/track/4XmSL1CcNGC6U1t56alzF7) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Alive](https://open.spotify.com/album/6Rt1ebG0UdXmQRheYmSJyh) | 3:37 | 2022-01-07 | 2022-07-27 |
-| [All Too Much](https://open.spotify.com/track/2A9Vt5Mzf5kuqtkqikbsW9) | [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7), [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [All Too Much](https://open.spotify.com/album/7tAT5guOQp2lRqr72cUoHK) | 2:51 | 2023-01-27 |  |
+| [All Too Much](https://open.spotify.com/track/2A9Vt5Mzf5kuqtkqikbsW9) | [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7), [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [All Too Much](https://open.spotify.com/album/7tAT5guOQp2lRqr72cUoHK) | 2:51 | 2023-01-27 | 2023-09-29 |
 | [Alone](https://open.spotify.com/track/6fW7FK6s1EMtWu3mDdvq3X) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Alone](https://open.spotify.com/album/1QaaPVFdfYPPCIt5xT3QHP) | 2:53 | 2022-04-15 | 2022-07-29 |
 | [amends \- VIP edit](https://open.spotify.com/track/4rSyXUFwUeroeUSnt7YbL9) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎‎amends \(Remixes\)](https://open.spotify.com/album/0KhnXSPJIBJiRr41t0sSHA) | 1:24 | 2023-04-21 | 2023-08-13 |
 | [amends \- VIP edit](https://open.spotify.com/track/5KSWXdsvxy6urFGnGitIS2) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends \(VIP edit\)](https://open.spotify.com/album/2cpxWGU4KlQngmIKmTqs9D) | 1:24 | 2023-01-06 | 2023-04-21 |
@@ -312,6 +312,7 @@
 | [Shine](https://open.spotify.com/track/76FR3MBARic3eh86RQjubB) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [Shine](https://open.spotify.com/album/0omuuALyVUOzng14lYzWXi) | 3:45 | 2022-01-07 |  |
 | [Shining Star](https://open.spotify.com/track/5dKZd2yHkWuPAPRRPgqUiF) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [Shining Star](https://open.spotify.com/album/6KpouJSne56JYW0CnvH83b) | 5:22 | 2022-03-11 | 2022-04-23 |
 | [Shy Guy Beach](https://open.spotify.com/track/5ijS06iISEy4sWLN78BQpR) | [LAMEBOT](https://open.spotify.com/artist/3JKuaX35gCpazGcXeLaScA) | [Shy Guy Beach](https://open.spotify.com/album/2szEfAXYwk0yJsh4o6KzBo) | 2:57 | 2022-01-07 | 2022-07-29 |
+| [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 | 2023-09-08 |  |
 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-25 | 2023-09-26 |
 | [Silence](https://open.spotify.com/track/2ezhpsQj2wNPjOKC1oh1PB) | [Axollo](https://open.spotify.com/artist/08DhNYXQjr5i8ZL041APOI), [Josh Bogert](https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R) | [Silence](https://open.spotify.com/album/5hm09HsXv0q2SaarsbxVLQ) | 2:25 | 2022-07-14 | 2023-05-13 |
 | [Silence](https://open.spotify.com/track/7uESPYfdmMUaZCRFhw7Em6) | [Axollo](https://open.spotify.com/artist/08DhNYXQjr5i8ZL041APOI), [Josh Bogert](https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R) | [Silence](https://open.spotify.com/album/3IygZmlcrvGKazIInbITuV) | 2:25 | 2022-01-07 | 2022-04-13 |

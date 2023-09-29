@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 52253,
+  "num_followers": 52287,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGFhYTRiM2UyNDBiYTYzNDc2Mzc0NjQ1OWE4NTY5ZGFiY2RmMDg2",
+  "snapshot_id": "MCw3NDNiOWEyY2JiNTkzMGQwM2MxODQ5NjQ2ODgyMTAzMDIzNDQ0ZWFh",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -827,22 +827,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Mount Pleasant",
-        "url": "https://open.spotify.com/album/080iszZgRFPqymcbo1qlOK"
+        "name": "Real Life .:.High Fidelity",
+        "url": "https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh"
       },
       "artists": [
         {
-          "name": "Smoove & Turrell",
-          "url": "https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn"
-        },
-        {
-          "name": "Izo FitzRoy",
-          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
+          "name": "Phat Phunktion",
+          "url": "https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT"
         }
       ],
-      "duration_ms": 222957,
-      "name": "You're Gone",
-      "url": "https://open.spotify.com/track/2auIQ3gf99I7wFz2DbZKWk"
+      "duration_ms": 210160,
+      "name": "Miss Madison",
+      "url": "https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -863,18 +859,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Real Life .:.High Fidelity",
-        "url": "https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh"
+        "name": "Mount Pleasant",
+        "url": "https://open.spotify.com/album/080iszZgRFPqymcbo1qlOK"
       },
       "artists": [
         {
-          "name": "Phat Phunktion",
-          "url": "https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT"
+          "name": "Smoove & Turrell",
+          "url": "https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn"
+        },
+        {
+          "name": "Izo FitzRoy",
+          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
         }
       ],
-      "duration_ms": 210160,
-      "name": "Miss Madison",
-      "url": "https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE"
+      "duration_ms": 222957,
+      "name": "You're Gone",
+      "url": "https://open.spotify.com/track/2auIQ3gf99I7wFz2DbZKWk"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Funk!",
+        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 225424,
+      "name": "Let's Take a Ride",
+      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Jukestone Paradise",
         "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Funk!",
-        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
+        "name": "Pocket (Radio Edit)",
+        "url": "https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q"
       },
       "artists": [
         {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+          "name": "The Lionyls",
+          "url": "https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU"
         }
       ],
-      "duration_ms": 225424,
-      "name": "Let's Take a Ride",
-      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
+      "duration_ms": 227348,
+      "name": "Pocket (Radio Edit)",
+      "url": "https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1467,22 +1483,6 @@
       "duration_ms": 224832,
       "name": "Losin' Streak (feat. Daniel Merriweather)",
       "url": "https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Pocket (Radio Edit)",
-        "url": "https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q"
-      },
-      "artists": [
-        {
-          "name": "The Lionyls",
-          "url": "https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU"
-        }
-      ],
-      "duration_ms": 227348,
-      "name": "Pocket (Radio Edit)",
-      "url": "https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "St. Ann",
-        "url": "https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn"
+        "name": "Gnomes and Badgers",
+        "url": "https://open.spotify.com/album/2PtbRSz0TpdN7lQm6vntNr"
       },
       "artists": [
         {
-          "name": "Brother Theodore",
-          "url": "https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg"
+          "name": "Karl Denson",
+          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
         }
       ],
-      "duration_ms": 347237,
-      "name": ".img",
-      "url": "https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA"
+      "duration_ms": 216800,
+      "name": "I'm Your Biggest Fan",
+      "url": "https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1559,38 +1559,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Gnomes and Badgers",
-        "url": "https://open.spotify.com/album/2PtbRSz0TpdN7lQm6vntNr"
+        "name": "St. Ann",
+        "url": "https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn"
       },
       "artists": [
         {
-          "name": "Karl Denson",
-          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
+          "name": "Brother Theodore",
+          "url": "https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg"
         }
       ],
-      "duration_ms": 216800,
-      "name": "I'm Your Biggest Fan",
-      "url": "https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Lab Experiments, Vol. 2",
-        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kaiit",
-          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
-        }
-      ],
-      "duration_ms": 211615,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
+      "duration_ms": 347237,
+      "name": ".img",
+      "url": "https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1611,6 +1591,26 @@
       "duration_ms": 165450,
       "name": "F.y.g",
       "url": "https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Lab Experiments, Vol. 2",
+        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-08-22 14:26:16",

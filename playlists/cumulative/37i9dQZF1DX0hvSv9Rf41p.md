@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Excision & Subtronics.
 
-610 songs - 1 day 11 hr 13 min
+611 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All Or Nothing](https://open.spotify.com/track/0t9RRa08BNjaNfnKlY6mIU) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Alter/Ego Volume II](https://open.spotify.com/album/0BCJXsvVkC7fpEPhFEBzhB) | 4:52 | 2022-04-22 | 2023-04-22 |
 | [All Through the Night](https://open.spotify.com/track/5MLNm8nsvpCWJ2YpurIGLp) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Paradise Lost](https://open.spotify.com/album/45IlRslbY2q1bvRMHSVDD9) | 3:30 | 2021-12-17 | 2022-03-12 |
 | [All We Needed](https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [All We Needed](https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt) | 4:01 | 2022-07-22 | 2023-07-08 |
-| [Along The Way](https://open.spotify.com/track/0t5ba5bIUxBvwsHfC0XSSQ) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz), [BLKLBL](https://open.spotify.com/artist/2MSTncOrtc0tGz5Dls7XIP) | [Along The Way](https://open.spotify.com/album/3BskIApiATh6ffjlksP6mz) | 4:02 | 2023-07-14 |  |
+| [Along The Way](https://open.spotify.com/track/0t5ba5bIUxBvwsHfC0XSSQ) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz), [BLKLBL](https://open.spotify.com/artist/2MSTncOrtc0tGz5Dls7XIP) | [Along The Way](https://open.spotify.com/album/3BskIApiATh6ffjlksP6mz) | 4:02 | 2023-07-14 | 2023-09-29 |
 | [Amateur](https://open.spotify.com/track/51FT4yWCl91S04PJz8Oxeu) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Amateur](https://open.spotify.com/album/5Nd5bGBcXkr0hcgu59w3QF) | 6:11 | 2023-04-07 |  |
 | [amends \- VIP edit](https://open.spotify.com/track/4rSyXUFwUeroeUSnt7YbL9) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎‎amends \(Remixes\)](https://open.spotify.com/album/0KhnXSPJIBJiRr41t0sSHA) | 1:24 | 2023-07-07 | 2023-07-15 |
 | [amends \- VIP edit](https://open.spotify.com/track/5KSWXdsvxy6urFGnGitIS2) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends \(VIP edit\)](https://open.spotify.com/album/2cpxWGU4KlQngmIKmTqs9D) | 1:24 | 2023-01-06 | 2023-04-11 |
@@ -493,6 +493,7 @@
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-13 | 2023-07-08 |
 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 | 2022-09-16 | 2023-07-29 |
 | [Shut Up](https://open.spotify.com/track/6asMDae76R5jPI6vQJkwwp) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Shut Up](https://open.spotify.com/album/0ajXcWmw9BnS9UE81Ghodp) | 3:07 | 2022-07-08 | 2023-07-08 |
+| [SHYPOP](https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8) | 3:28 | 2023-09-22 |  |
 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-25 | 2023-09-26 |
 | [Signal](https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Signal](https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj) | 3:14 | 2023-05-19 | 2023-09-16 |
 | [Silent](https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Silent](https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs) | 3:10 | 2022-07-01 | 2023-07-08 |

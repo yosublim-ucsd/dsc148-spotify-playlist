@@ -1943,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Everyday & Night",
+        "url": "https://open.spotify.com/album/1oPHqM1PGWU6ZuAfhTYrg1"
+      },
+      "artists": [
+        {
+          "name": "\u00d8HENRY",
+          "url": "https://open.spotify.com/artist/4zL1qNBQ4ZVhWFUXbyFCqI"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106500,
+      "name": "Everyday & Night",
+      "url": "https://open.spotify.com/track/7b4yahnTvPpGeq9EWJ75zH"
+    },
+    {
+      "album": {
         "name": "Expensive OG",
         "url": "https://open.spotify.com/album/75UAX3c5Ahb7offUmPHyqB"
       },
@@ -2682,7 +2700,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 166956,
       "name": "Guy Man",
       "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
@@ -4877,6 +4895,28 @@
     },
     {
       "album": {
+        "name": "On Check",
+        "url": "https://open.spotify.com/album/2GUSlqevJlSp2RtNQ91A4l"
+      },
+      "artists": [
+        {
+          "name": "Tobless",
+          "url": "https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk"
+        },
+        {
+          "name": "Otega",
+          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157159,
+      "name": "On Check",
+      "url": "https://open.spotify.com/track/6zotVuFWbPn8ST6mvfvzDV"
+    },
+    {
+      "album": {
         "name": "On God",
         "url": "https://open.spotify.com/album/3qgrwmCGv7LtC1cYeavF4z"
       },
@@ -5606,7 +5646,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 83723,
       "name": "recognize",
       "url": "https://open.spotify.com/track/6ezXpXqbGqIwxUuVBMpHTp"

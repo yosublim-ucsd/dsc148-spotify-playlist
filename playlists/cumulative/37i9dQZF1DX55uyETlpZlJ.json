@@ -1867,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "MANIFEST",
+        "url": "https://open.spotify.com/album/5FTnu7pgquZYRIIhDdf5Gq"
+      },
+      "artists": [
+        {
+          "name": "AGORAH",
+          "url": "https://open.spotify.com/artist/0MS0PxbrMlTrqjSVLIdCaE"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188678,
+      "name": "MANIFEST",
+      "url": "https://open.spotify.com/track/2aukHnHoljvfUz0q7KqNet"
+    },
+    {
+      "album": {
         "name": "Many Me",
         "url": "https://open.spotify.com/album/6NJRgP6X0G2gOBFLGTtjyp"
       },

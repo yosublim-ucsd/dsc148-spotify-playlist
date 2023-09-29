@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 DannyLux en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,235 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,341 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [CUANDO LLUEVE](https://open.spotify.com/track/1zGm84bD3EQLq7Iot79U3T) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [CUANDO LLUEVE](https://open.spotify.com/album/0Me1LJTvDr06VOYB9jfWjq) | 4:18 |
 | 50 | [Perfecto](https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Perfecto](https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na) | 2:32 |
 
-Snapshot ID: `MCw5ZTlmZjUyZmExMTJkMWRkZTdhZjVjMmU1NzBjYTE0NWUzOTg1NWY5`
+Snapshot ID: `MCxmYjJjM2Q4NTY4OTc1YjYxYWFlNzJjZWM5ZWQwMWU2NjFmOWMzNDQ3`

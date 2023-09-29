@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Dj GBR, Mc IG, MC Ryan SP, MC PH, Mc Davi, Mc Luki, Mc Don Juan, Mc Kadu, TrapLaudo, MC GP, MC GH do 7 e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Gusttavo Lima com Ana Castela e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -2937,6 +2937,36 @@
     },
     {
       "album": {
+        "name": "Halls na L\u00edngua",
+        "url": "https://open.spotify.com/album/0FiyzguzViQQbVwi9QcgLl"
+      },
+      "artists": [
+        {
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        },
+        {
+          "name": "DJ LUCAS DE PAULA",
+          "url": "https://open.spotify.com/artist/48H2LKju3qH1hMJhhnhYvY"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143999,
+      "name": "Halls na L\u00edngua - Remix",
+      "url": "https://open.spotify.com/track/5uTVtc2Oc93nBVqPPI8Ijj"
+    },
+    {
+      "album": {
         "name": "Hino dos Mlks",
         "url": "https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt"
       },
@@ -3931,6 +3961,24 @@
     },
     {
       "album": {
+        "name": "LUAN CITY 2.0 - FASE 2",
+        "url": "https://open.spotify.com/album/3HZoYUVz3aRNa7xL8LIg8Y"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190293,
+      "name": "MULHER SEGURA - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KhLYwYVhi13hMhxX73m55"
+    },
+    {
+      "album": {
         "name": "M\u00e1gica (Ao Vivo)",
         "url": "https://open.spotify.com/album/1e3FBSBxbutzfpC5tAe2w8"
       },
@@ -4008,7 +4056,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 168358,
       "name": "Namorando Ou N\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/0ZAL7RbP2FsM3rObV60o7T"
@@ -5162,7 +5210,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 178547,
       "name": "P\u00e1tio do Posto - Ao Vivo",
       "url": "https://open.spotify.com/track/4t6eam3rC9JoNFVkfOHK4s"

@@ -3095,6 +3095,28 @@
     },
     {
       "album": {
+        "name": "Butterfly Nebula",
+        "url": "https://open.spotify.com/album/0f88ojWKFcQKvEx6ijvCDG"
+      },
+      "artists": [
+        {
+          "name": "CENTER MASS",
+          "url": "https://open.spotify.com/artist/1eLW5YCVTC1dO6FldG4Qxi"
+        },
+        {
+          "name": "Todd Krasovetz",
+          "url": "https://open.spotify.com/artist/4mbzotXsaIc5M8pWR6Bg6K"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380000,
+      "name": "Butterfly Nebula",
+      "url": "https://open.spotify.com/track/0oyyoFopF05tsnphR43pJq"
+    },
+    {
+      "album": {
         "name": "REDEYE",
         "url": "https://open.spotify.com/album/1VqvKZeG7dPToIHAso6KnA"
       },
@@ -3926,7 +3948,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -4150,7 +4172,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -4523,6 +4545,28 @@
     },
     {
       "album": {
+        "name": "Trapping in Space",
+        "url": "https://open.spotify.com/album/6lM1mSh8Xx4unNbIhNzkFK"
+      },
+      "artists": [
+        {
+          "name": "$ecrecy",
+          "url": "https://open.spotify.com/artist/5JPI07a5YJddqQI8Yqx7FO"
+        },
+        {
+          "name": "BIGBABYGUCCI",
+          "url": "https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139080,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/3tHqq6OkppBKkzqBaxD2D4"
+    },
+    {
+      "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
       },
@@ -4538,6 +4582,24 @@
       "duration_ms": 175200,
       "name": "Demons",
       "url": "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"
+    },
+    {
+      "album": {
+        "name": "Deseydin Anlard\u0131m",
+        "url": "https://open.spotify.com/album/5sj53KwqstRLO9M02A09xM"
+      },
+      "artists": [
+        {
+          "name": "EDES",
+          "url": "https://open.spotify.com/artist/2CKGWwaI4Uxv9jzCa1F8kZ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Deseydin Anlard\u0131m",
+      "url": "https://open.spotify.com/track/4hEOOThHrSHJrpkIXn1Ab2"
     },
     {
       "album": {
@@ -10802,7 +10864,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -19584,7 +19646,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
@@ -23920,7 +23982,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 188082,
       "name": "\u041d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d",
       "url": "https://open.spotify.com/track/601FfTcj3tkX4tSBG9UK8S"

@@ -4729,6 +4729,28 @@
     },
     {
       "album": {
+        "name": "Don't Wake Up (feat. Sir Trill)",
+        "url": "https://open.spotify.com/album/1dH3eSlqKD3VW5b4Drrdfi"
+      },
+      "artists": [
+        {
+          "name": "Citizen Deep",
+          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
+        },
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346000,
+      "name": "Don't Wake Up (feat. Sir Trill)",
+      "url": "https://open.spotify.com/track/4QgIdB09qSTOKERPzs9cGU"
+    },
+    {
+      "album": {
         "name": "Don't Wanna Be Myself",
         "url": "https://open.spotify.com/album/1ewQWghR0AV0TnBaMpT0Ml"
       },

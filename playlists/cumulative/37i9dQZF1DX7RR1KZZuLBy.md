@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-182 songs - 16 hr 40 min
+184 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Holy Ghost](https://open.spotify.com/track/34G2zoOHPg3VKflsGJ6cD0) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [I Cant Give Up Now](https://open.spotify.com/album/5GbAhxDtsxMeeoEMNJHpuT) | 5:36 | 2023-08-18 |  |
 | [Hosanna](https://open.spotify.com/track/2HFkbiZm1jOFG4mBotFZ8X) | [Karabo](https://open.spotify.com/artist/4lVkctc6sd3UNFSUV5m13w) | [Hosanna](https://open.spotify.com/album/7AUWNeNCVeuK8zvK0yy6if) | 4:05 | 2021-11-18 | 2023-08-11 |
 | [Hosanna](https://open.spotify.com/track/7rvB5RRZFsbj4mjTNJfOG5) | [Karabo](https://open.spotify.com/artist/0mCZlZDqg0tTXWmcjzpI8c) | [Hosanna](https://open.spotify.com/album/2rC7XoJ937wxoDUjfh5Ev7) | 4:05 | 2023-02-21 |  |
+| [I Am](https://open.spotify.com/track/3cCn4kCzhQst0vNHpSxDzt) | [Tanner Wareham](https://open.spotify.com/artist/0PjEfAc4kotv7fU7OiNj9L) | [I Am](https://open.spotify.com/album/3NOvXdoNlWfXipNrdWW3fE) | 4:48 | 2023-09-29 |  |
 | [I Love The Cross \- Radio Edit](https://open.spotify.com/track/6j8RopDLVla75gRzuam9So) | [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [I Love The Cross \(Radio Edit\)](https://open.spotify.com/album/6bjN3En1KZDZXxOluuy8O6) | 3:47 | 2023-08-18 |  |
 | [I Need You Now](https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Need You Now](https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF) | 4:11 | 2023-09-26 |  |
 | [I'm Getting Ready](https://open.spotify.com/track/1p4M16Qe079LFw4HeobdKk) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Black History Month: Gospel](https://open.spotify.com/album/6skBirPP2i1IJawDIUWcc3) | 8:26 | 2018-09-23 | 2022-11-14 |
@@ -122,6 +123,7 @@
 | [Oceans \(Where Feet May Fail\) \- Redux](https://open.spotify.com/track/4oxHDhN1my6y0Isk2k7GsV) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(X\)](https://open.spotify.com/album/2XKmrW38QMmkXJqn9SgBLR) | 8:11 | 2023-09-15 |  |
 | [Only Jesus](https://open.spotify.com/track/2txzErQliWk9JMlVNeolNh) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO), [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO), [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Sing Country](https://open.spotify.com/album/0AN0Rl9KP73tWdwJmAA2zv) | 3:48 | 2022-03-17 | 2023-04-28 |
 | [Our Nation](https://open.spotify.com/track/1Z4sDTyCOdZbvbwD0SBzrn) | [Heinz Winckler](https://open.spotify.com/artist/5Q1ldmPI95BBLkF8RyPIHF), [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD) | [Our Nation](https://open.spotify.com/album/3SC4tuvjDTwnIsKDCx9jOQ) | 4:15 | 2020-10-09 | 2023-05-12 |
+| [Planted](https://open.spotify.com/track/2BcDmPEM5hkeiP50TZMknX) | [Pursuit](https://open.spotify.com/artist/35c3E0sZRylpKozlrpO45M) | [iKhaya \(Home\)](https://open.spotify.com/album/5KbJFfhm0Tn8otT1oXkqf9) | 6:38 | 2023-09-29 |  |
 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 | 2023-06-30 |  |
 | [Praises](https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Praises](https://open.spotify.com/album/4Y3G7tgPH2GymSaflJNGb0) | 4:04 | 2023-09-22 |  |
 | [Prelude / The King on the Cross \- Live](https://open.spotify.com/track/1GefA6yajI6Wr26r6D4VUj) | [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 3:55 | 2018-10-23 |  |

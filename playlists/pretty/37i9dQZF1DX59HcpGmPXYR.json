@@ -1,12 +1,12 @@
 {
   "description": "The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride. Cover: Sam Smith & Kim Petras",
-  "num_followers": 656765,
+  "num_followers": 656779,
   "original_name": "Pride Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTNkMjljMmE0NGJhYWM3YmVkMGY3NGZkZmFhM2Q1ZmNlMmNhY2Jj",
+  "snapshot_id": "MCwyNzViN2Y5YTlmYWMxNTdhZWZmYjZkMmU3NGVmOWU4YjAzN2FlMTRm",
   "tracks": [
     {
       "added_at": "2023-06-08 22:01:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
+        "name": "Hits!",
+        "url": "https://open.spotify.com/album/3GKFt0Fc0iW0OoTt4qHoV2"
+      },
+      "artists": [
+        {
+          "name": "Right Said Fred",
+          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+        }
+      ],
+      "duration_ms": 171679,
+      "name": "I'm Too Sexy",
+      "url": "https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 168053,
       "name": "Beg for You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
-        "name": "Hits!",
-        "url": "https://open.spotify.com/album/3GKFt0Fc0iW0OoTt4qHoV2"
-      },
-      "artists": [
-        {
-          "name": "Right Said Fred",
-          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
-        }
-      ],
-      "duration_ms": 171679,
-      "name": "I'm Too Sexy",
-      "url": "https://open.spotify.com/track/76gbXfMpFoZJGkPgxgzvFt"
     },
     {
       "added_at": "2023-06-08 22:01:00",

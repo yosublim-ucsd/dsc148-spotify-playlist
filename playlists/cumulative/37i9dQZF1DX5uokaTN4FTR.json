@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: Billy Gillies, Hannah Boleyn",
+  "description": "The UK's biggest dance playlist! Cover: Hannah Laing",
   "name": "Massive Dance Hits",
   "tracks": [
     {
@@ -2820,7 +2820,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 187755,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/1452RkqFM4VMMA8qdOTrnR"
@@ -6554,6 +6554,24 @@
       "duration_ms": 191612,
       "name": "More Love",
       "url": "https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd"
+    },
+    {
+      "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146240,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
     },
     {
       "album": {

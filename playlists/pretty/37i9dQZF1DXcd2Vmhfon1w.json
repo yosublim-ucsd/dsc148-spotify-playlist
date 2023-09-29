@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Natos y Waor, Delaossa, Ill Peke\u00f1o",
-  "num_followers": 512665,
+  "num_followers": 512802,
   "original_name": "Rap Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzk0NGRlYjUwNzAwNzFkYzg4NjNlYzBhNzcyOWM5ZjhhNDBlMjc0",
+  "snapshot_id": "MCw4ZDgwMjc2MTM3ZjE0MWIyZWUxN2E4NjBjZmE4ZjkzNjBjZGVkMTg2",
   "tracks": [
     {
       "added_at": "2023-09-14 22:01:00",
@@ -31,46 +31,6 @@
     {
       "added_at": "2023-09-14 22:01:00",
       "album": {
-        "name": "Madame Bovary",
-        "url": "https://open.spotify.com/album/0SxFte5a7xpVWJtKFfW3cs"
-      },
-      "artists": [
-        {
-          "name": "Ayax",
-          "url": "https://open.spotify.com/artist/1lVofHO8O8nEygHTwJ2tnU"
-        },
-        {
-          "name": "Blasfem",
-          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Madame Bovary",
-      "url": "https://open.spotify.com/track/6Pu1EJORDSkTgVhZXx9V8U"
-    },
-    {
-      "added_at": "2023-09-14 22:01:00",
-      "album": {
-        "name": "Oye",
-        "url": "https://open.spotify.com/album/081QhDi0s0s8OGoc5dyfZQ"
-      },
-      "artists": [
-        {
-          "name": "FERNANDOCOSTA",
-          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
-        },
-        {
-          "name": "Dollar Selmouni",
-          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/3PT3XdQNh80MzaI4C8WAab"
-    },
-    {
-      "added_at": "2023-09-14 22:01:00",
-      "album": {
         "name": "Te Dir\u00eda",
         "url": "https://open.spotify.com/album/3sO3011CRF4Hpn4wnRZHb1"
       },
@@ -83,30 +43,6 @@
       "duration_ms": 185583,
       "name": "Te Dir\u00eda",
       "url": "https://open.spotify.com/track/2nPt4HyshAzcCkH1GUjE7R"
-    },
-    {
-      "added_at": "2023-09-14 22:01:00",
-      "album": {
-        "name": "Lo Real",
-        "url": "https://open.spotify.com/album/2dWRx8YRn7RFQ4UNdjbeGq"
-      },
-      "artists": [
-        {
-          "name": "Hard GZ",
-          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
-        },
-        {
-          "name": "Nikone",
-          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
-        },
-        {
-          "name": "Dualy",
-          "url": "https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo"
-        }
-      ],
-      "duration_ms": 206843,
-      "name": "Lo Real",
-      "url": "https://open.spotify.com/track/6Z1tZjQzSgEVoLYc5FE7pw"
     },
     {
       "added_at": "2023-09-14 22:01:00",
@@ -135,6 +71,50 @@
     {
       "added_at": "2023-09-14 22:01:00",
       "album": {
+        "name": "Lo Real",
+        "url": "https://open.spotify.com/album/2dWRx8YRn7RFQ4UNdjbeGq"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Nikone",
+          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
+        },
+        {
+          "name": "Dualy",
+          "url": "https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo"
+        }
+      ],
+      "duration_ms": 206843,
+      "name": "Lo Real",
+      "url": "https://open.spotify.com/track/6Z1tZjQzSgEVoLYc5FE7pw"
+    },
+    {
+      "added_at": "2023-09-14 22:01:00",
+      "album": {
+        "name": "Oye",
+        "url": "https://open.spotify.com/album/081QhDi0s0s8OGoc5dyfZQ"
+      },
+      "artists": [
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        },
+        {
+          "name": "Dollar Selmouni",
+          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/3PT3XdQNh80MzaI4C8WAab"
+    },
+    {
+      "added_at": "2023-09-14 22:01:00",
+      "album": {
         "name": "Hasta Cuando",
         "url": "https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 199595,
       "name": "Hasta Cuando",
       "url": "https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP"
+    },
+    {
+      "added_at": "2023-09-14 22:01:00",
+      "album": {
+        "name": "Madame Bovary",
+        "url": "https://open.spotify.com/album/0SxFte5a7xpVWJtKFfW3cs"
+      },
+      "artists": [
+        {
+          "name": "Ayax",
+          "url": "https://open.spotify.com/artist/1lVofHO8O8nEygHTwJ2tnU"
+        },
+        {
+          "name": "Blasfem",
+          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Madame Bovary",
+      "url": "https://open.spotify.com/track/6Pu1EJORDSkTgVhZXx9V8U"
     },
     {
       "added_at": "2023-09-14 22:01:00",
@@ -175,22 +175,26 @@
     {
       "added_at": "2023-09-14 22:01:00",
       "album": {
-        "name": "Israel B - Selecta Motorseries #05",
-        "url": "https://open.spotify.com/album/6EEQbg6WMNSkVEBKryIiCn"
+        "name": "Yo No S\u00e9",
+        "url": "https://open.spotify.com/album/2ed6KMzzTjO7pNGmn8lODE"
       },
       "artists": [
         {
-          "name": "Selecta",
-          "url": "https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ"
+          "name": "Nikone",
+          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
         },
         {
-          "name": "Israel B",
-          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+        },
+        {
+          "name": "GIO",
+          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
         }
       ],
-      "duration_ms": 166730,
-      "name": "Israel B - Selecta Motorseries #05",
-      "url": "https://open.spotify.com/track/5PYLohuj2eelCiSAch4wrZ"
+      "duration_ms": 164571,
+      "name": "Yo No S\u00e9",
+      "url": "https://open.spotify.com/track/0q2CiondkI8yh7CrAdrIXx"
     },
     {
       "added_at": "2023-09-14 22:01:00",
@@ -207,6 +211,26 @@
       "duration_ms": 183000,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/5tL5OWnOFNgGhRu3frvYGT"
+    },
+    {
+      "added_at": "2023-09-14 22:01:00",
+      "album": {
+        "name": "Israel B - Selecta Motorseries #05",
+        "url": "https://open.spotify.com/album/6EEQbg6WMNSkVEBKryIiCn"
+      },
+      "artists": [
+        {
+          "name": "Selecta",
+          "url": "https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ"
+        },
+        {
+          "name": "Israel B",
+          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
+        }
+      ],
+      "duration_ms": 166730,
+      "name": "Israel B - Selecta Motorseries #05",
+      "url": "https://open.spotify.com/track/5PYLohuj2eelCiSAch4wrZ"
     },
     {
       "added_at": "2023-09-14 22:01:00",
@@ -235,30 +259,6 @@
       "duration_ms": 258709,
       "name": "Kurosawa",
       "url": "https://open.spotify.com/track/65WhbNdDsoCwVEa8hv2WQB"
-    },
-    {
-      "added_at": "2023-09-14 22:01:00",
-      "album": {
-        "name": "Yo No S\u00e9",
-        "url": "https://open.spotify.com/album/2ed6KMzzTjO7pNGmn8lODE"
-      },
-      "artists": [
-        {
-          "name": "Nikone",
-          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
-        },
-        {
-          "name": "Reality",
-          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
-        },
-        {
-          "name": "GIO",
-          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Yo No S\u00e9",
-      "url": "https://open.spotify.com/track/0q2CiondkI8yh7CrAdrIXx"
     },
     {
       "added_at": "2023-09-14 22:01:00",

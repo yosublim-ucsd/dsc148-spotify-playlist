@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,763 likes - 102 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,759 likes - 102 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 18 | [Two By Two](https://open.spotify.com/track/43e1QhXItiHWcoHvENyJkI) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [He Went To The Sea](https://open.spotify.com/album/6sbHZO54hBTlyMhpqqkmom) | 2:40 |
 | 19 | [Show Me Where It Hurts \- Acoustic](https://open.spotify.com/track/0d7atlmNSW6i3rVaGyIpO0) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Show Me Where It Hurts \(Acoustic\)](https://open.spotify.com/album/1KX2m7tPEsz20wSfugvdWs) | 3:03 |
 | 20 | [Dream In A Dream](https://open.spotify.com/track/6EGvCC2xy1lEzfINPK5DUq) | [Frank Rensen](https://open.spotify.com/artist/4nahdbp2YzcisSOrGyVBAP) | [1/2](https://open.spotify.com/album/02YjNurvWFrkzn5wjEYT2P) | 3:11 |
-| 21 | [Courtyard Theatre](https://open.spotify.com/track/00eAyad4JN4CFGRdZPFdF9) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Courtyard Theatre](https://open.spotify.com/album/3QD3YNRDTSsYLI30dBYAHm) | 3:09 |
+| 21 | [Courtyard Theatre](https://open.spotify.com/track/3sKMUyp6Z2Ex9aFPv03xZd) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Dublin Sessions](https://open.spotify.com/album/5dFdSNChr9iVoEMBdCVB4w) | 3:09 |
 | 22 | [Is It Really Over](https://open.spotify.com/track/6iu2xELNP7DX9XPG3kl58q) | [Paper Towns](https://open.spotify.com/artist/5ofMaKibg1xntezRb8Og2U), [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [Is It Really Over](https://open.spotify.com/album/5giATgpzWHU0d0N48oRdIa) | 3:38 |
 | 23 | [Constellations](https://open.spotify.com/track/427ckvkTomPZKpFvgaMBcy) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Constellations](https://open.spotify.com/album/3cJm2D899SihiCAY68lU1Z) | 2:45 |
 | 24 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 101 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
 | 102 | [Jackal](https://open.spotify.com/track/1vwWgLdCaChk6SjQRVYVWJ) | [Noah\-Jazz](https://open.spotify.com/artist/6c133VGM0x6c5kJO5k2sLN) | [Jackal](https://open.spotify.com/album/5Rp9fkDFzzArRcsGEnZuvl) | 3:12 |
 
-Snapshot ID: `MCw3MTNjNzljNzNiMmVjNDBjMzFhYTc5ZTEzMTJiYWYxOGZjYTA3YzRl`
+Snapshot ID: `MCxjZTUzZDIwNzI4ODhmYmVmZDQwMTMzYzc3NjFiNDY1NWY4OThjMmNj`

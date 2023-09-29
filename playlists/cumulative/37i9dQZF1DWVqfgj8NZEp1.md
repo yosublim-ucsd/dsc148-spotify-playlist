@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-295 songs - 1 day 3 hr 22 min
+296 songs - 1 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Contemplation](https://open.spotify.com/track/78siZ5mLJApB78bhS9WwXI) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Contemplation](https://open.spotify.com/album/7rvhFTQ5KZNCzFtomenAfv) | 4:37 | 2023-05-25 | 2023-08-25 |
 | [Contemplation](https://open.spotify.com/track/7IYXZHYRWyhaKwoZGHckkM) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment: Second View](https://open.spotify.com/album/7CxvY9uDtXY6za0GdpWInW) | 4:37 | 2023-08-24 |  |
 | [Count Your Blessings](https://open.spotify.com/track/6NpwgYdHNNpq81GnpJNx3Y) | [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY), [Chris Cheek](https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1) | [Let's Call the Whole Thing Off](https://open.spotify.com/album/4jWRaPmgnSrobk6RLirNOG) | 8:12 | 2020-10-09 | 2022-03-18 |
+| [Cry Me a River](https://open.spotify.com/track/0MbWJKmsfogCvYwnqshqQY) | [Dominick Farinacci](https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB) | [Cry Me a River](https://open.spotify.com/album/5dbpStjViSbb4tKlXOHoN1) | 4:04 | 2023-09-29 |  |
 | [Curves](https://open.spotify.com/track/0glr1BX8Zy81l4HvLpmozl) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/5vRSjGybGL5JiNGIsfh2K6) | 6:19 | 2020-10-09 | 2022-07-29 |
 | [Curves](https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt) | 6:19 | 2022-06-30 | 2023-04-26 |
 | [Darn That Dream](https://open.spotify.com/track/11qeOjSAx3TDr4IOPXq9Js) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 5:05 | 2020-10-09 |  |

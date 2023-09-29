@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 138428,
+  "num_followers": 138502,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGI4MGNmNThmYTYzOGQzNzViMGE2MTU0ODc2NzIxZmQ3NzQyNDc2",
+  "snapshot_id": "MCxhZWM2ZmMxODM4YWQ3MWVhYzEyM2VlYjY5NDEzOTA0MjhmOTMxOWVl",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -487,22 +487,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Tourist (Remastered)",
-        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
-      },
-      "artists": [
-        {
-          "name": "St Germain",
-          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
-        }
-      ],
-      "duration_ms": 416565,
-      "name": "Rose rouge",
-      "url": "https://open.spotify.com/track/1divptdjcWXvF1aflfTQnw"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Flying Away",
         "url": "https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 406000,
       "name": "Underwater Love",
       "url": "https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Tourist (Remastered)",
+        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
+      },
+      "artists": [
+        {
+          "name": "St Germain",
+          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+        }
+      ],
+      "duration_ms": 416565,
+      "name": "Rose rouge",
+      "url": "https://open.spotify.com/track/1divptdjcWXvF1aflfTQnw"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -667,6 +667,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 272613,
+      "name": "Ocean Beat",
+      "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 233226,
       "name": "Futures",
       "url": "https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Suzuki",
-        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 272613,
-      "name": "Ocean Beat",
-      "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Supermodified",
-        "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
+        "name": "Music By Cavelight",
+        "url": "https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj"
       },
       "artists": [
         {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+          "name": "Blockhead",
+          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
         }
       ],
-      "duration_ms": 337506,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72"
+      "duration_ms": 306586,
+      "name": "Insomniac Olympics",
+      "url": "https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Music By Cavelight",
-        "url": "https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj"
+        "name": "Supermodified",
+        "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
       },
       "artists": [
         {
-          "name": "Blockhead",
-          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
         }
       ],
-      "duration_ms": 306586,
-      "name": "Insomniac Olympics",
-      "url": "https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1"
+      "duration_ms": 337506,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Foxbase Alpha",
-        "url": "https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3"
-      },
-      "artists": [
-        {
-          "name": "Saint Etienne",
-          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Nothing Can Stop Us",
-      "url": "https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Mating Game",
         "url": "https://open.spotify.com/album/17FDgwgmO3tD7X7qX6m7Sy"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 259600,
       "name": "Bittersweet Faith",
       "url": "https://open.spotify.com/track/3mjQWntZaTIysjKdQZWlgG"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Foxbase Alpha",
+        "url": "https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3"
+      },
+      "artists": [
+        {
+          "name": "Saint Etienne",
+          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Nothing Can Stop Us",
+      "url": "https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU"
     },
     {
       "added_at": "2020-09-04 01:12:56",

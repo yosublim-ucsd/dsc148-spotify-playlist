@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Rufus Wainwright ",
-  "num_followers": 474454,
+  "num_followers": 474464,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjFjMmVkOGM3ZTQxYzVjMWRmMGI2YTYwNWU3NDBhMDI4NGVkNzAy",
+  "snapshot_id": "MCw0MmYzOTQwNDg0NDQxYmRiY2FlNzRlYmQ1YWM5Y2U1YWNkOTVkZDMz",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "As I Rise",
-        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 140741,
-      "name": "As I Rise",
-      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "As I Rise",
+        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 140741,
+      "name": "As I Rise",
+      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Anti-Hero (Country Version)",
-        "url": "https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 190470,
-      "name": "Anti-Hero - Country Version",
-      "url": "https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Pine Hollow (Live)",
         "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 253000,
       "name": "Jolene - Live",
       "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Anti-Hero (Country Version)",
+        "url": "https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 190470,
+      "name": "Anti-Hero - Country Version",
+      "url": "https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/2rv7WyO5KUv5FIgmn7VEji"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
         }
       ],
-      "duration_ms": 251760,
-      "name": "All the Best",
-      "url": "https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0"
+      "duration_ms": 198205,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/4PqdXYgtBtoCCYx7QcKhHL"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/2rv7WyO5KUv5FIgmn7VEji"
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
       },
       "artists": [
         {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 198205,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/4PqdXYgtBtoCCYx7QcKhHL"
+      "duration_ms": 251760,
+      "name": "All the Best",
+      "url": "https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Rarities 2",
+        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
       },
@@ -1271,6 +1287,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 206796,
+      "name": "The Safety Dance",
+      "url": "https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Folkocracy",
         "url": "https://open.spotify.com/album/7FGoS4iN1v6SlsiUx1X5Wx"
       },
@@ -1295,38 +1327,6 @@
       "duration_ms": 222426,
       "name": "Twelve-Thirty (Young Girls Are Coming To The Canyon) [feat. Susanna Hoffs, Chris Stills & Sheryl Crow]",
       "url": "https://open.spotify.com/track/6wyiD5nZjbBsHnPwgUS6YJ"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 206796,
-      "name": "The Safety Dance",
-      "url": "https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Rarities 2",
-        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Easy Listening for Jerks, Pt. 1",
+        "url": "https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "duration_ms": 235516,
+      "name": "Will the Circle Be Unbroken",
+      "url": "https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Coming Around Again",
         "url": "https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 218760,
       "name": "Perfect Places - Live From BBC Radio 2",
       "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Easy Listening for Jerks, Pt. 1",
-        "url": "https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW"
-      },
-      "artists": [
-        {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
-        }
-      ],
-      "duration_ms": 235516,
-      "name": "Will the Circle Be Unbroken",
-      "url": "https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1503,22 +1503,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Polyhymnia",
-        "url": "https://open.spotify.com/album/4ThHnK1QSkpfwzHqpybmlz"
+        "name": "Unknown Legend",
+        "url": "https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH"
       },
       "artists": [
         {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        },
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
         }
       ],
-      "duration_ms": 395120,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT"
+      "duration_ms": 248360,
+      "name": "Unknown Legend",
+      "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1535,6 +1531,26 @@
       "duration_ms": 217586,
       "name": "To Ramona",
       "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Polyhymnia",
+        "url": "https://open.spotify.com/album/4ThHnK1QSkpfwzHqpybmlz"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        },
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 395120,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Unknown Legend",
-        "url": "https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH"
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
       },
       "artists": [
         {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 248360,
-      "name": "Unknown Legend",
-      "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
+      "duration_ms": 145280,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+        "name": "You Don't Know How It Feels",
+        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
         }
       ],
-      "duration_ms": 145280,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
+      "duration_ms": 222008,
+      "name": "You Don't Know How It Feels",
+      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1639,22 +1655,6 @@
       "duration_ms": 238288,
       "name": "Uummati Attanarsimat (Heart of Glass)",
       "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "You Don't Know How It Feels",
-        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 222008,
-      "name": "You Don't Know How It Feels",
-      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Cigarette Machine",
-        "url": "https://open.spotify.com/album/6XDLIwOzCSTRuXUc677yA4"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 204623,
-      "name": "Cigarette Machine",
-      "url": "https://open.spotify.com/track/3rtyOYyrqqCs5OWDgr2SzM"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/7GhS7SesozkzNAu4KUCOmX"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 295334,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/7rtNxSatiqmLKb4G71k1yn"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Cigarette Machine",
+        "url": "https://open.spotify.com/album/6XDLIwOzCSTRuXUc677yA4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 204623,
+      "name": "Cigarette Machine",
+      "url": "https://open.spotify.com/track/3rtyOYyrqqCs5OWDgr2SzM"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Surrounded by the Sound: Ten Covers by Eddie Berman",
-        "url": "https://open.spotify.com/album/7FNhjBeQyClK0vJTIq5Tbe"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
       },
@@ -1827,18 +1811,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+        "name": "Surrounded by the Sound: Ten Covers by Eddie Berman",
+        "url": "https://open.spotify.com/album/7FNhjBeQyClK0vJTIq5Tbe"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
         }
       ],
-      "duration_ms": 138383,
-      "name": "Simple Man - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+      "duration_ms": 253493,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1860,17 +1844,17 @@
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
       "artists": [
         {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 201851,
-      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
+      "duration_ms": 138383,
+      "name": "Simple Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1887,6 +1871,22 @@
       "duration_ms": 197306,
       "name": "Bluebird Wine - 2003 Remaster",
       "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Isumagijunnaitaungituq (The Unforgiven)",
-        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 273997,
-      "name": "Isumagijunnaitaungituq (The Unforgiven)",
-      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Leave Me Breathless",
         "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 240080,
       "name": "Girl From The North Country",
       "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Isumagijunnaitaungituq (The Unforgiven)",
+        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "Isumagijunnaitaungituq (The Unforgiven)",
+      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
     }
   ],
   "unique_name": "Folksy Covers",

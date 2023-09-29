@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Dinami",
+        "url": "https://open.spotify.com/album/26wCcQ91JidqBJ9NH6HfiB"
+      },
+      "artists": [
+        {
+          "name": "Tiger Stories",
+          "url": "https://open.spotify.com/artist/0Rjd9VdV6Bx4XjDZPp1O2U"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246057,
+      "name": "A Mirror in Every Drawer",
+      "url": "https://open.spotify.com/track/6ekfFY1c61AVIYn8mD6cHN"
+    },
+    {
+      "album": {
         "name": "A New Dawn",
         "url": "https://open.spotify.com/album/2kMgRY4bKThFnvSIQdKzKn"
       },
@@ -302,6 +320,24 @@
       "duration_ms": 180116,
       "name": "Awakened",
       "url": "https://open.spotify.com/track/5KIGU2oWqXFjXdQKTIhfmZ"
+    },
+    {
+      "album": {
+        "name": "Baggy Green",
+        "url": "https://open.spotify.com/album/2G9MQhLpC9FrL2pttKyatT"
+      },
+      "artists": [
+        {
+          "name": "Reverend XYZ",
+          "url": "https://open.spotify.com/artist/6v9oylddGLLp2ZQMgx3NoW"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Baggy Green",
+      "url": "https://open.spotify.com/track/5EEQNFIYPr2MrZLyVGvW63"
     },
     {
       "album": {
@@ -642,6 +678,24 @@
       "duration_ms": 712599,
       "name": "Day 1",
       "url": "https://open.spotify.com/track/4IqM95Bxy0Ki0xbSIrNYKN"
+    },
+    {
+      "album": {
+        "name": "Desire Path",
+        "url": "https://open.spotify.com/album/3isIYYC30KxLI7mrh2J7yz"
+      },
+      "artists": [
+        {
+          "name": "Raina Marigold",
+          "url": "https://open.spotify.com/artist/0Tsin1fHpWT121wkeKVN1J"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234256,
+      "name": "Desire Path",
+      "url": "https://open.spotify.com/track/5kZChmTjzHVxB8Z2tkVr0C"
     },
     {
       "album": {
@@ -1296,6 +1350,24 @@
       "duration_ms": 209850,
       "name": "glowing aura",
       "url": "https://open.spotify.com/track/2UPdvPrgmcRo9bJjaQl2u2"
+    },
+    {
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/7gijYHP7M2rWUjC8N8m5Rq"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Love",
+          "url": "https://open.spotify.com/artist/02yy9jEW0aHrT2MIb2IN0h"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Green Leaves",
+      "url": "https://open.spotify.com/track/6BVWlugjV9uuDGA0SvD0R5"
     },
     {
       "album": {

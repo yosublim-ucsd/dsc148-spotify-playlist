@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-625 songs - 1 day 3 hr 4 min
+626 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Passing Robes](https://open.spotify.com/track/1pFfGRhwqs1SHblhJcvR8d) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Passing Robes](https://open.spotify.com/album/005XUz22uopTJZFzq4KvJD) | 2:43 | 2021-12-07 | 2022-04-22 |
 | [Patchouli](https://open.spotify.com/track/3PpvhHp9USOBQFFQ7pJwsy) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Patchouli](https://open.spotify.com/album/2IKEDd4NsJtezuTDjBqhDg) | 1:52 | 2022-04-21 | 2022-09-24 |
 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 | 2022-03-01 |  |
+| [Peaceful Ignorance](https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Peaceful Ignorance](https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16) | 2:38 | 2023-09-18 |  |
 | [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 | 2022-02-01 | 2022-09-16 |
 | [Pedal Chair](https://open.spotify.com/track/7BcH01qQ67ZUStmNC4qhk8) | [Lenox Blake](https://open.spotify.com/artist/27AR7w3aKM7We9eLVS4JRk) | [Beach Think](https://open.spotify.com/album/1IzBoOSHSHN2pjxOB3GbEv) | 2:14 | 2021-12-07 | 2023-06-23 |
 | [Perfectly Flawed](https://open.spotify.com/track/6AdGVOupLKxDJTByA1Fs1j) | [Aiden Riedel](https://open.spotify.com/artist/77j4VlHhrvqU37GkYjwmp1) | [Perfectly Flawed](https://open.spotify.com/album/0K5ub7KMLtzFk4zM2nFiAp) | 2:47 | 2021-12-07 |  |
@@ -631,7 +632,7 @@
 | [Yōsei](https://open.spotify.com/track/5wsqAeIRP9mmZBVRua7ShH) | [Malotte H](https://open.spotify.com/artist/7DRkB3iAI3rpubmBA7qrEt) | [Yōsei](https://open.spotify.com/album/0PK0SJ0irDoDsSvI2WF5zy) | 2:38 | 2021-12-07 |  |
 | [Zeit der Stille](https://open.spotify.com/track/0uP8U2GsVBIifLbVbvHRid) | [Kal Daniels](https://open.spotify.com/artist/7tSECjYISKAql7IRAqhhYB) | [Herbst Briese](https://open.spotify.com/album/7ffWTDZHGBYKWnLrvAnyvZ) | 3:18 | 2021-12-07 | 2022-02-01 |
 | [Zephyr](https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Zephyr](https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4) | 2:40 | 2022-03-16 |  |
-| [À Cheval](https://open.spotify.com/track/48tmOujKv21Ej498FCYjXI) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [À Cheval](https://open.spotify.com/album/4S05QzDmpuZ5DvZiod7p27) | 2:54 | 2021-12-07 |  |
+| [À Cheval](https://open.spotify.com/track/48tmOujKv21Ej498FCYjXI) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [À Cheval](https://open.spotify.com/album/4S05QzDmpuZ5DvZiod7p27) | 2:54 | 2021-12-07 | 2023-09-29 |
 | [Ça en vaut la peine](https://open.spotify.com/track/3ggkhQAdAMUQe7Bz6kmYzr) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [Ça en vaut la peine](https://open.spotify.com/album/2yFJkdKJEjuEysAA8Isn66) | 2:31 | 2022-01-04 | 2022-05-06 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

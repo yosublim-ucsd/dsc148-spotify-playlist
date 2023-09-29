@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-167 songs - 8 hr 21 min
+168 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Come alive](https://open.spotify.com/track/3hEWU8JfRsKM74EagGviNu) | [Marble & Gold](https://open.spotify.com/artist/2SodjHn7iDJ2ZQeVogqWo7) | [Come alive](https://open.spotify.com/album/56tG12F6kTu2HJZHEslHPZ) | 3:54 | 2023-05-12 | 2023-06-23 |
 | [Come Along](https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Come Along](https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY) | 2:44 | 2022-09-15 | 2023-06-05 |
 | [Crazy](https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Crazy](https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA) | 3:40 | 2022-09-15 |  |
+| [Dancing With Your Ghost](https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Dancing With Your Ghost](https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL) | 2:42 | 2023-09-28 |  |
 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 | 2022-09-15 | 2023-02-15 |
 | [Dollar For A Dime](https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r) | [Olly Wall](https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Dollar For A Dime](https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko) | 2:28 | 2023-09-07 |  |
 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 | 2022-12-17 | 2023-02-15 |
@@ -62,7 +63,7 @@
 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 | 2022-09-15 | 2023-03-01 |
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-09-15 |  |
 | [Famous for a Day](https://open.spotify.com/track/0zPUSpMCNSn1ItUPANkCCs) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Famous for a Day](https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M) | 2:51 | 2022-09-29 | 2022-11-11 |
-| [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM) | 2:37 | 2023-02-15 |  |
+| [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM) | 2:37 | 2023-02-15 | 2023-09-29 |
 | [Feeling Lost Tonight](https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2) | [Krister & Dalbani](https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT) | [Feeling Lost Tonight](https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6) | 1:46 | 2023-03-30 |  |
 | [Feelings After Dark \(feat\. NISHA\)](https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [HARBER](https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd), [NISHA](https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv) | [Feelings After Dark \(feat\. NISHA\)](https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd) | 2:44 | 2022-09-15 | 2023-04-26 |
 | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [MIYA MIYA](https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy) | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29) | 2:49 | 2022-09-15 | 2022-09-30 |

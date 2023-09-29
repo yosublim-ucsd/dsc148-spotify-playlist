@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "a perfect day",
+        "url": "https://open.spotify.com/album/2pxIrPGkb83M4EAqlhWT0W"
+      },
+      "artists": [
+        {
+          "name": "Rusty Carz",
+          "url": "https://open.spotify.com/artist/0jlbuRqWcK7qyQFLYTdWqG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "a perfect day",
+      "url": "https://open.spotify.com/track/6sOI9uZ023BiPOeN3X3uqg"
+    },
+    {
+      "album": {
         "name": "A Winter with U",
         "url": "https://open.spotify.com/album/2EYPWseqviUX4HXAgNOmUC"
       },
@@ -650,7 +668,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 126857,
       "name": "Birdie Nest",
       "url": "https://open.spotify.com/track/3udESAvwu3koYQ2Exoaqq5"
@@ -2748,7 +2766,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 134396,
       "name": "Free",
       "url": "https://open.spotify.com/track/7L0oaIyBSqOT86qby2MmOi"
@@ -4606,7 +4624,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 122428,
       "name": "Lunchtime",
       "url": "https://open.spotify.com/track/71NfDrKAgOZckBgLSUfkTI"
@@ -5124,7 +5142,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 137374,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4ePaFsdS4DiGS4rlIVVHvx"
@@ -6957,6 +6975,24 @@
     },
     {
       "album": {
+        "name": "Silver Birch",
+        "url": "https://open.spotify.com/album/5r9MFchSYdBNL7y2z9QnIM"
+      },
+      "artists": [
+        {
+          "name": "Uxxii",
+          "url": "https://open.spotify.com/artist/3jzjuFegenZCrjd97xsQLC"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134745,
+      "name": "Silver Birch",
+      "url": "https://open.spotify.com/track/31dGP5ZJyL2tAPeoZ4uN8O"
+    },
+    {
+      "album": {
         "name": "SimplyShtick",
         "url": "https://open.spotify.com/album/5sMrp4rgsAOFlC8CpS4F5h"
       },
@@ -7354,7 +7390,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 107531,
       "name": "Spicy Brew",
       "url": "https://open.spotify.com/track/4Yd7O28WGsuZnKFX6wJ0CI"

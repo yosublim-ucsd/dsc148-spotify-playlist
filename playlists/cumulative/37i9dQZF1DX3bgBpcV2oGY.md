@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-222 songs - 9 hr 21 min
+223 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Solana](https://open.spotify.com/track/7AoxOiU9J8g30SvHFYGkD3) | [Adani Vida](https://open.spotify.com/artist/7mSI0w9dKno3T1eUO1bbMP) | [Solana](https://open.spotify.com/album/7dPSgiLpnRVyCGGZzNTDyo) | 2:42 | 2021-12-23 |  |
 | [Sombras Brillantes](https://open.spotify.com/track/3NR3svuOAd8gH6ZdJWLJhb) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ferreyra](https://open.spotify.com/album/6FHQVK0oq7y3Am6U0sYP7U) | 2:17 | 2021-12-23 |  |
 | [Somewhere in Paris](https://open.spotify.com/track/5XSYoYpF1RBnddnKXSFbQS) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Somewhere in Paris](https://open.spotify.com/album/1Jcfg22eDo6NZJIRFx06fl) | 2:32 | 2021-12-23 | 2022-04-06 |
+| [Spanish sun rays](https://open.spotify.com/track/6moW6E8JUr3oSWlqx63Rwc) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Spanish sun rays](https://open.spotify.com/album/196ZLlX03BiqECKqux3VAV) | 1:55 | 2023-09-29 |  |
 | [Sphinx](https://open.spotify.com/track/740LzA4Z4ArwYZGSU61X6S) | [Benito Novelli](https://open.spotify.com/artist/3V3Cv0iaImcAuGxsaESGyC) | [La Massana](https://open.spotify.com/album/5sFOpgxafc8hRzyzADz0q3) | 2:40 | 2021-12-23 | 2023-05-19 |
 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-24 | 2023-05-19 |
 | [Sunrise In Altona](https://open.spotify.com/track/14yq883gXycyEjpfU0R5Ol) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sunrise In Altona](https://open.spotify.com/album/6WpTMJ1M9Sbsp8aj7KNDau) | 2:33 | 2023-06-09 |  |

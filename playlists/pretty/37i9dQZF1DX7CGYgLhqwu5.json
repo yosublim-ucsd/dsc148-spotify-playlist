@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 369391,
+  "num_followers": 369503,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWM2ZmYzY2ExYjQxYzU4OTMyNjVhYWJiYjY5ZTA5NGJmNTcwNzRi",
+  "snapshot_id": "MCw2ODNmMzczYzVlNjFiZjNkN2MxMDEzZmEzOWE5OTJkOWJmZWQyZmRj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "At Folsom Prison",
-        "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
-      "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Gunfighter Ballads And Trail Songs",
         "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 235733,
       "name": "Big Iron",
       "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "At Folsom Prison",
+        "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 134786,
+      "name": "Just Between You and Me",
+      "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "The Essential George Jones",
         "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 140733,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 134786,
-      "name": "Just Between You and Me",
-      "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "All-Time Greatest Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/2sXUW22os4AVVSTn2L1nn8"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Love's Gonna Live Here",
+      "url": "https://open.spotify.com/track/2uDr0EFaBvnA31ZzPavw1I"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Hello Walls",
         "url": "https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 157000,
       "name": "Girl On The Billboard",
       "url": "https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ"
-      },
-      "artists": [
-        {
-          "name": "Hank Thompson",
-          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
-        }
-      ],
-      "duration_ms": 129240,
-      "name": "A Six Pack To Go",
-      "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
     },
     {
       "added_at": "2023-05-19 04:01:00",

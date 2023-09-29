@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 66740,
+  "num_followers": 66779,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTM4MTQ0OTU2NTc2YTczYmJmYjEwOGU1Mjc2ZTYyMWUyMzE2Yzhm",
+  "snapshot_id": "MCw1NTA3ZTJhNTM5NGFkZTU2ODkxYjlkODE4NGEyMDEzMzRkN2ZkMzkw",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Lo Mejor de la Zamba Argentina",
-        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "Zamba del Cantor Enamorado",
-      "url": "https://open.spotify.com/track/7Jq2TLAjRAiKZH0EctiAhJ"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Si La Vieras",
         "url": "https://open.spotify.com/album/4RcPHUbcXSib4fo1c6h522"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 226750,
       "name": "Si La Vieras",
       "url": "https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Lo Mejor de la Zamba Argentina",
+        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "Zamba del Cantor Enamorado",
+      "url": "https://open.spotify.com/track/7Jq2TLAjRAiKZH0EctiAhJ"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Sol Nocturno, Pt. 1",
-        "url": "https://open.spotify.com/album/7i5RT2diSWPj2jX4G8iyoR"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 233275,
-      "name": "Sol Nocturno",
-      "url": "https://open.spotify.com/track/4t38rSXR39gjVi5E7NwoLR"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Los Del Portezuelo",
         "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 203333,
       "name": "Al So\u00f1arte",
       "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Sol Nocturno, Pt. 1",
+        "url": "https://open.spotify.com/album/7i5RT2diSWPj2jX4G8iyoR"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 233275,
+      "name": "Sol Nocturno",
+      "url": "https://open.spotify.com/track/4t38rSXR39gjVi5E7NwoLR"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 190608,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/3GVVx7A9HewidYwsqs518a"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 229642,
-      "name": "Canci\u00f3n de Lejos",
-      "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Tal Como Siento",
         "url": "https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 240491,
       "name": "Tal Como Siento",
       "url": "https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 229642,
+      "name": "Canci\u00f3n de Lejos",
+      "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 190608,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "No Te Rindas",
         "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
       },
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "El Punto Final",
-        "url": "https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF"
+        "name": "De Barrio",
+        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
       },
       "artists": [
         {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+          "name": "Franco Ramirez",
+          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
         }
       ],
-      "duration_ms": 213418,
-      "name": "El Punto Final",
-      "url": "https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b"
+      "duration_ms": 192266,
+      "name": "Zambita pa' Enamorar",
+      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -971,34 +971,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "De Barrio",
-        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
+        "name": "El Punto Final",
+        "url": "https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF"
       },
       "artists": [
         {
-          "name": "Franco Ramirez",
-          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 192266,
-      "name": "Zambita pa' Enamorar",
-      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg"
-      },
-      "artists": [
-        {
-          "name": "Los Tabaleros",
-          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
-        }
-      ],
-      "duration_ms": 248430,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts"
+      "duration_ms": 213418,
+      "name": "El Punto Final",
+      "url": "https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1015,6 +999,22 @@
       "duration_ms": 301800,
       "name": "Mucho M\u00e1s Que Piel",
       "url": "https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg"
+      },
+      "artists": [
+        {
+          "name": "Los Tabaleros",
+          "url": "https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg"
+        }
+      ],
+      "duration_ms": 248430,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 213859,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 205557,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 213859,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
     },
     {
       "added_at": "2023-08-11 03:00:00",

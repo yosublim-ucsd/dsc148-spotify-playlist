@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-15",
-  "description": "all the stutter, all the feels. Cover: Babsy.",
+  "description": "all the stutter, all the feels.",
   "name": "Emotional Dance",
   "tracks": [
     {
@@ -959,6 +959,28 @@
     },
     {
       "album": {
+        "name": "Deadbeat Gospel",
+        "url": "https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "somedeadbeat",
+          "url": "https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254791,
+      "name": "Deadbeat Gospel",
+      "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
+    },
+    {
+      "album": {
         "name": "Deny It",
         "url": "https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i"
       },
@@ -1230,6 +1252,28 @@
       "duration_ms": 267842,
       "name": "Fading",
       "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
+    },
+    {
+      "album": {
+        "name": "fall apart",
+        "url": "https://open.spotify.com/album/1OA1Dsw90dmGEu00phJrGk"
+      },
+      "artists": [
+        {
+          "name": "Rommii",
+          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+        },
+        {
+          "name": "Adam Pastel",
+          "url": "https://open.spotify.com/artist/3tqVBzpvOtajAh0uwkHQoh"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "fall apart",
+      "url": "https://open.spotify.com/track/2F7Lgq3RcsmvZ8xD4C6lry"
     },
     {
       "album": {
@@ -2210,6 +2254,28 @@
       "duration_ms": 219812,
       "name": "Just Doin' Me",
       "url": "https://open.spotify.com/track/3k7w2iFmezR29eFEM11AV9"
+    },
+    {
+      "album": {
+        "name": "Just The Way I Feel",
+        "url": "https://open.spotify.com/album/2P642dj0EaJxTs1fRpkqxa"
+      },
+      "artists": [
+        {
+          "name": "Wankelmut",
+          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+        },
+        {
+          "name": "EMIAH",
+          "url": "https://open.spotify.com/artist/2SvY2cO17kdD3swIBGOxs8"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Just The Way I Feel",
+      "url": "https://open.spotify.com/track/26ZLujrsJ2JQ8QWHYOe9B3"
     },
     {
       "album": {
@@ -3371,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "PROTECTA",
+        "url": "https://open.spotify.com/album/1pqIMAkPGyIv2xqfR0Sohz"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225454,
+      "name": "PROTECTA",
+      "url": "https://open.spotify.com/track/4UFC4dvAyASnFJ3ZEoigsH"
+    },
+    {
+      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/7GCTjtsPVA8BSaFsUycCjf"
       },
@@ -3868,6 +3952,24 @@
       "duration_ms": 220952,
       "name": "SENSATIONS",
       "url": "https://open.spotify.com/track/0VLOrgzhF7tzlXLzN19u1Z"
+    },
+    {
+      "album": {
+        "name": "Shake / In The Mood",
+        "url": "https://open.spotify.com/album/6He6laSFhDHETaQaxulrtp"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205454,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/0al96kbwWxScOcA1iK7T0b"
     },
     {
       "album": {
@@ -4632,7 +4734,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 177744,
       "name": "Under Water",
       "url": "https://open.spotify.com/track/7FaEeXDs6TbIA3ip1MqknT"

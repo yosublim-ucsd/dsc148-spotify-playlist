@@ -14745,6 +14745,28 @@
     },
     {
       "album": {
+        "name": "STAR MVCHINE",
+        "url": "https://open.spotify.com/album/1W8zCkfo1d2Wf5wVTY2yuT"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        },
+        {
+          "name": "Indy Skies",
+          "url": "https://open.spotify.com/artist/4Rb9X7RfZMiHcJF6xo9pzH"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237241,
+      "name": "STAR MVCHINE",
+      "url": "https://open.spotify.com/track/3VnxAsE1mWebpGJleOOGTj"
+    },
+    {
+      "album": {
         "name": "Start A Fire",
         "url": "https://open.spotify.com/album/3TVQNtBHT21LU5SYTMdmml"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Yot Club & Jordana",
-  "num_followers": 454104,
+  "num_followers": 454306,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWUzMTdmYjk3ZjVhMjRlOGRmZGZjNDU3N2Q4NTNjMTM4NjAwOWVl",
+  "snapshot_id": "MCxlZjA5N2Y2YjFiMDZhZmM3YzJiZTk0NGZmZGEzYTA1NTE2NmRjNWY3",
   "tracks": [
     {
       "added_at": "2023-09-15 12:36:22",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Human Condition",
-        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 131618,
-      "name": "Human Condition",
-      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "It's In My Head",
         "url": "https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 181792,
       "name": "It's In My Head",
       "url": "https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Human Condition",
+        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 131618,
+      "name": "Human Condition",
+      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -775,38 +775,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "It's All In Your Head",
-        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
-      },
-      "artists": [
-        {
-          "name": "dandelion hands",
-          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
-        }
-      ],
-      "duration_ms": 167126,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "Deep Divine",
-        "url": "https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 220767,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Body Jumper",
         "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
       },
@@ -823,6 +791,22 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
+        "name": "It's All In Your Head",
+        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
+      },
+      "artists": [
+        {
+          "name": "dandelion hands",
+          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
+        }
+      ],
+      "duration_ms": 167126,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
         "name": "Can\u2019t Get Enough",
         "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 131174,
       "name": "Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Deep Divine",
+        "url": "https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 220767,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Plastic Envelope / Protect Him Always",
-        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Plastic Envelope",
-      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "End Of The Day (music from the film Anonymous Club)",
         "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 131107,
       "name": "Start Somewhere",
       "url": "https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Plastic Envelope / Protect Him Always",
+        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Plastic Envelope",
+      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
+      },
+      "artists": [
+        {
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+        }
+      ],
+      "duration_ms": 239343,
+      "name": "Into",
+      "url": "https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
         "name": "The Way He Looks",
         "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 96000,
       "name": "AHH!!",
       "url": "https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 239343,
-      "name": "Into",
-      "url": "https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "LIFE ON EARTH",
-        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "PIERCED ARROWS",
-      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "California Screaming",
         "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 197000,
       "name": "California Screaming",
       "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "LIFE ON EARTH",
+        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "PIERCED ARROWS",
+      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
     },
     {
       "added_at": "2023-09-15 12:36:22",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-09-15 12:36:22",
       "album": {
-        "name": "Elizabethtown.",
-        "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
-      },
-      "artists": [
-        {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
-        }
-      ],
-      "duration_ms": 136649,
-      "name": "mean creek.",
-      "url": "https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO"
-    },
-    {
-      "added_at": "2023-09-15 12:36:22",
-      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/3j4P5XClGIWJhnXT6NTix2"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 215580,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/3LuvpnAcuxPn2dV00C9Rxt"
+    },
+    {
+      "added_at": "2023-09-15 12:36:22",
+      "album": {
+        "name": "Elizabethtown.",
+        "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "duration_ms": 136649,
+      "name": "mean creek.",
+      "url": "https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO"
     }
   ],
   "unique_name": "Lo-fi Indie",

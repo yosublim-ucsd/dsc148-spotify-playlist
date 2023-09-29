@@ -4,7 +4,7 @@
 
 > Melodic house and techno to concentrate the mind.
 
-88 songs - 6 hr 12 min
+92 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Lost](https://open.spotify.com/track/24hiWRme0PyZqCYk9bn2rJ) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Lost](https://open.spotify.com/album/2SL3WtETf9WNNN2G7v9nU9) | 3:01 | 2023-09-08 |  |
 | [Lotus \- Club Mix](https://open.spotify.com/track/2SIbyyyKMYeZUrNgXMAl88) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [Lotus \(Club Mix\)](https://open.spotify.com/album/2aeejn2J3EFcjihtTDNOIj) | 4:19 | 2023-01-06 |  |
 | [Malfunction](https://open.spotify.com/track/3D4jG7Y8X8McysevNpy8Cj) | [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho) | [Malfunction](https://open.spotify.com/album/5Qrv5ulhZrnvhrUdKthVwO) | 4:37 | 2023-01-06 |  |
+| [Maluma](https://open.spotify.com/track/7DVliYNN00PZeha4aUAIOv) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Maluma](https://open.spotify.com/album/0CMp6YIq9RBiKTwFioxdKK) | 2:42 | 2023-09-28 |  |
 | [Marble](https://open.spotify.com/track/7w2Uz5hNCkrKjfgzvvNe6i) | [Miss Melera](https://open.spotify.com/artist/3P7dBiGBrfbqVE1Etbr9f1) | [Nocturnal 008](https://open.spotify.com/album/1zO69WjJDc7QBGpDbscldx) | 4:16 | 2023-01-06 |  |
 | [Meds \- yuma\. Remix](https://open.spotify.com/track/3VbGkKIFxuUP6fAcmKwEYc) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [DISPOSABLE SOCIETY \(DELUXE\)](https://open.spotify.com/album/4ydB44OU7hMXY65PJroOnF) | 3:27 | 2023-01-06 | 2023-05-06 |
 | [Meds \- yuma\. Remix](https://open.spotify.com/track/3aIjxH92Y5thPmaJZV8EtZ) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [DISPOSABLE SOCIETY \(DELUXE\)](https://open.spotify.com/album/2ToPwhMJhWGPPr1JXY0f6H) | 3:27 | 2023-01-06 |  |
@@ -77,11 +78,13 @@
 | [Propulsion](https://open.spotify.com/track/5sHP9Y0mhhxC1j7AtsqOvT) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:21 | 2023-01-06 |  |
 | [Pursuing Hope](https://open.spotify.com/track/1LvZxDh1QdLjbglpDYmxO9) | [Naji Arun](https://open.spotify.com/artist/6D4iLrobSbnjNEriFsP6lG) | [Wild Cards 15](https://open.spotify.com/album/0PiZxkumyyAWEfJRCojjAs) | 4:58 | 2023-01-06 |  |
 | [Rage](https://open.spotify.com/track/6Ey5lYMyrkmtOq4AynJWqq) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Rage](https://open.spotify.com/album/0UQq67DPcgjurEE1hv8BaP) | 4:21 | 2023-01-06 |  |
+| [Renegade \- Adam Ten & Mita Gami Remix](https://open.spotify.com/track/1DdpxHPTsrivn3X0KumOQz) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Nicolas Masseyeff](https://open.spotify.com/artist/53I5TvFOdroD7UzOlZjtRv), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [Renegade EP](https://open.spotify.com/album/6dgVJGpji0wnAeEt6xc9PA) | 5:33 | 2023-09-28 |  |
 | [Skin Deep](https://open.spotify.com/track/1CAozfu6bPDxaKe39x030x) | [Jay FM](https://open.spotify.com/artist/0XHQV1DM8cqEJrB4gRuogs) | [Skin Deep](https://open.spotify.com/album/3pejPyeMAWaEasm6SzmURn) | 2:57 | 2023-01-06 |  |
 | [Someday](https://open.spotify.com/track/7mp30d3iokq9QJVuJrCr47) | [Eugene Becker](https://open.spotify.com/artist/0CyuzTTSv7rrrgSkbereey) | [M32 / Someday](https://open.spotify.com/album/1swX91V0758v64RezrjdUk) | 3:54 | 2023-01-06 |  |
 | [Space Race](https://open.spotify.com/track/0xwdddgB2jZ93gUE2MmLQY) | [This Other Space](https://open.spotify.com/artist/6lhdbR7pr8RR29VgTh2lqT) | [To the Other Side](https://open.spotify.com/album/5o5mo6GTWRfGwssThNcnij) | 4:42 | 2023-01-06 |  |
 | [Spiral \- Edit](https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Spiral \(Edit\)](https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88) | 3:41 | 2023-01-06 |  |
 | [Sumidero](https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sumidero](https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ) | 4:58 | 2023-01-06 |  |
+| [Syren](https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:17 | 2023-09-28 |  |
 | [Take Me Home \(Flow\)](https://open.spotify.com/track/1rl7OIW7etWxE0AoSBgOr9) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Take Me Home \(Flow\)](https://open.spotify.com/album/4b2TWiGPq0iDNzYKyndF3f) | 5:22 | 2023-01-06 |  |
 | [talking to the stars](https://open.spotify.com/track/7nPMoLmBEkX5RZJFu69yBJ) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [talking to the stars](https://open.spotify.com/album/0QYLpRpeFBLc9ZluwNesya) | 3:10 | 2023-01-06 |  |
 | [The Life of an Empath](https://open.spotify.com/track/6SKHpIBF0zImsmqmRkgvwp) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 5:26 | 2023-01-06 |  |
@@ -89,6 +92,7 @@
 | [The Two of Us \(We Only Need\)](https://open.spotify.com/track/7mKOhewqU0whbsRHw2vD3t) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [The Two of Us \(We Only Need\)](https://open.spotify.com/album/7hA8pFcuyGgljiYegOCr3b) | 3:57 | 2023-01-06 |  |
 | [To the Other Side](https://open.spotify.com/track/0WQvuT8ShwwdwCAy86vjvA) | [This Other Space](https://open.spotify.com/artist/6lhdbR7pr8RR29VgTh2lqT) | [To the Other Side](https://open.spotify.com/album/5o5mo6GTWRfGwssThNcnij) | 3:18 | 2023-01-06 |  |
 | [Together](https://open.spotify.com/track/1GPFWNzYJMZrrrspWyfzLn) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Coast / Together](https://open.spotify.com/album/7k8M4tm1mp1DfdVTcTtItQ) | 3:38 | 2023-01-06 |  |
+| [Trills](https://open.spotify.com/track/1HKJRDxwHZcPMoun91LFH2) | [Sideral](https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b) | [Trills](https://open.spotify.com/album/6KdciLqSQb28ErhFZJcDGS) | 5:48 | 2023-09-28 |  |
 | [Under The Sun](https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Under The Sun](https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z) | 3:28 | 2023-01-06 |  |
 | [Winged](https://open.spotify.com/track/0NPcR1k55P2GkqNbEOzQNZ) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Winged](https://open.spotify.com/album/14XXSsGzPe6mw5lrnj5ags) | 3:03 | 2023-01-06 |  |
 | [Wish You Were Mine](https://open.spotify.com/track/3nTWBIjPDUWuuAfIdgQgxi) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Wish You Were Mine](https://open.spotify.com/album/5wbyzmz1QgQ2B9K5NSoaGL) | 3:09 | 2023-01-06 |  |

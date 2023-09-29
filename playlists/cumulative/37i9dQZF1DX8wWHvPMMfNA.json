@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 423866,
       "name": "'Round About Midnight - Remastered 2002/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6X6q7Wjn40xaYnIhXzMlOh"
@@ -92,6 +92,24 @@
       "duration_ms": 394466,
       "name": "502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering",
       "url": "https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya"
+    },
+    {
+      "album": {
+        "name": "60 Miles to Vegas",
+        "url": "https://open.spotify.com/album/1awLbiU61GNd82Trm0opNL"
+      },
+      "artists": [
+        {
+          "name": "Motor City Trio",
+          "url": "https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163420,
+      "name": "60 Miles to Vegas",
+      "url": "https://open.spotify.com/track/1lh26QT19Mh0l8BSvakaKv"
     },
     {
       "album": {
@@ -520,7 +538,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 382106,
       "name": "All My Tomorrows - Live At Palais Des Congres, Paris / 1999",
       "url": "https://open.spotify.com/track/3VUFA0cz9OEGMshT0NK762"
@@ -668,7 +686,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 180611,
       "name": "Anything Valuable",
       "url": "https://open.spotify.com/track/3CQ1gEocVfoT1qCm6jRs66"
@@ -704,7 +722,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 188077,
       "name": "Arbitrary Love",
       "url": "https://open.spotify.com/track/4vhr8jvSyLmzWJxjjBvPRv"
@@ -722,7 +740,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 203348,
       "name": "Around six thirty",
       "url": "https://open.spotify.com/track/1rlb8YcKIlMB0RkHcs66El"
@@ -870,7 +888,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 488733,
       "name": "Ballad Medley",
       "url": "https://open.spotify.com/track/4wpISKwRdLsRrP8dxJlf12"
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 294954,
       "name": "Blue Light",
       "url": "https://open.spotify.com/track/1S1NTdOasN7FQBPS5FSDHa"
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 170495,
       "name": "Blue Velvet",
       "url": "https://open.spotify.com/track/5Ne8Wx5YnewMjwuCjZWd83"
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 284407,
       "name": "Bright Drops",
       "url": "https://open.spotify.com/track/6TgUk5sdJegSlgSqxsvqyf"
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 233514,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/15L7bPjJZDxhhaaY1pKbpK"
@@ -1670,7 +1688,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 273040,
       "name": "Chartreuse",
       "url": "https://open.spotify.com/track/3AF40YsNhI8LfFnxKvcgGB"
@@ -2196,7 +2214,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 358360,
       "name": "Deep In A Dream",
       "url": "https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT"
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 229536,
       "name": "Delighted Mood",
       "url": "https://open.spotify.com/track/1zVWKtpnw1OBHOCW3nJDfg"
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 141245,
       "name": "Dietz Monnin",
       "url": "https://open.spotify.com/track/3qfCMfMSBnIv3jWvWR4J8D"
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 289693,
       "name": "Eleanor",
       "url": "https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1"
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 213451,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/3VyR5Ge6OR28B8sSNlZGxN"
@@ -2860,7 +2878,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 319333,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/113E6wtJ5gM2KwhWnj8dwr"
@@ -3401,6 +3419,24 @@
     },
     {
       "album": {
+        "name": "Full-time Obsession",
+        "url": "https://open.spotify.com/album/2Spm5SWIwhma9WmuVv4yDB"
+      },
+      "artists": [
+        {
+          "name": "Songbird Trio",
+          "url": "https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204515,
+      "name": "Full-time Obsession",
+      "url": "https://open.spotify.com/track/3ecM9Yp2c4Aw37mni1kOi2"
+    },
+    {
+      "album": {
         "name": "You Must Believe In Spring (Remastered Version)",
         "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
       },
@@ -3581,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "Grey Mornings",
+        "url": "https://open.spotify.com/album/4sGFc6217FNH1aubBYdXQf"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Grey Mornings",
+      "url": "https://open.spotify.com/track/4vR1tQ1rF01iF7Sc4ViLy3"
+    },
+    {
+      "album": {
         "name": "Guess the difference?",
         "url": "https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh"
       },
@@ -3722,6 +3776,24 @@
       "duration_ms": 188000,
       "name": "Heartbreak Avenue",
       "url": "https://open.spotify.com/track/6LeUGbjrPif0UyaPYzKxdG"
+    },
+    {
+      "album": {
+        "name": "Heartstring",
+        "url": "https://open.spotify.com/album/7vEcdZNrkIzxS9uGpBQfLM"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma Trio",
+          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168007,
+      "name": "Heartstring",
+      "url": "https://open.spotify.com/track/4S6nFmL0sTrPWqbMet7Q3e"
     },
     {
       "album": {
@@ -3970,7 +4042,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 245906,
       "name": "I Cover The Waterfront",
       "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
@@ -4000,7 +4072,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 375000,
       "name": "I Fall in Love Too Easily",
       "url": "https://open.spotify.com/track/5VQ5ZDPKpaqIcrgjgYkk8g"
@@ -4090,7 +4162,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 569880,
       "name": "I Guess I'll Have To Change My Plan",
       "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
@@ -4144,7 +4216,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 277013,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
@@ -4234,7 +4306,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 329533,
       "name": "I See Your Face Before Me - Remastered",
       "url": "https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG"
@@ -4540,7 +4612,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 309266,
       "name": "If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY"
@@ -4576,7 +4648,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 479560,
       "name": "Ill Wind",
       "url": "https://open.spotify.com/track/4BPd4Z916ZXnm8oXNqHxZg"
@@ -5098,7 +5170,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 428226,
       "name": "It's Easy To Remember - Live",
       "url": "https://open.spotify.com/track/2VLF3Q1yVvTwG32F5uW4z2"
@@ -5224,7 +5296,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 218516,
       "name": "Journee",
       "url": "https://open.spotify.com/track/7xrFuH4mvXuM3JqVA3dRWi"
@@ -5278,7 +5350,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 304213,
       "name": "Just A Gigolo",
       "url": "https://open.spotify.com/track/1S653s5e7kQV7MxIKZcCIc"
@@ -5728,7 +5800,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 245013,
       "name": "Lil Darlin'",
       "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
@@ -5836,7 +5908,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 334866,
       "name": "Lonely Town",
       "url": "https://open.spotify.com/track/3cv1Wq9k7OZq2oBb352J05"
@@ -5926,7 +5998,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 140939,
       "name": "Love In Technicolor",
       "url": "https://open.spotify.com/track/4Hn9MbDM7PSVjjRd7tTI4A"
@@ -6016,7 +6088,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 256252,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/4bbRXKb4z1S9GOD2ePqDbo"
@@ -6034,7 +6106,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 270333,
       "name": "Lover Man - Remastered",
       "url": "https://open.spotify.com/track/7hjJTsKBkmmQgqQ6ZFakSg"
@@ -6160,7 +6232,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 231920,
       "name": "Mama's Fish House",
       "url": "https://open.spotify.com/track/7Lg4ezQ23LtLQCF8ONnolW"
@@ -6653,6 +6725,24 @@
     },
     {
       "album": {
+        "name": "More than you know",
+        "url": "https://open.spotify.com/album/0qsxhiQaIOfxt2Eq1NMw1z"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230208,
+      "name": "More than you know",
+      "url": "https://open.spotify.com/track/0KDlzhSMPS14CBl50556yf"
+    },
+    {
+      "album": {
         "name": "Morii",
         "url": "https://open.spotify.com/album/1ESEXNpgchtK0kal3g1lyo"
       },
@@ -7046,7 +7136,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 191866,
       "name": "Nancy (With The Laughing Face)",
       "url": "https://open.spotify.com/track/2HdvZsLXBmO9sc4cV8d4BA"
@@ -7860,7 +7950,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 460000,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/6gwOTHR7B1YyWlnAiMBoT0"
@@ -8112,7 +8202,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 170976,
       "name": "Road to Hana",
       "url": "https://open.spotify.com/track/0oGuIyOrGHKblKTlIm6IHz"
@@ -8238,7 +8328,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 200790,
       "name": "Say It Over And Over Again",
       "url": "https://open.spotify.com/track/2nivRlQMUpL7yDOS7hLPY9"
@@ -8364,7 +8454,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 233600,
       "name": "Serenade In Blue",
       "url": "https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88"
@@ -8386,6 +8476,24 @@
       "duration_ms": 252128,
       "name": "Serendipity Swing",
       "url": "https://open.spotify.com/track/4nb9JJGOdtQ7CW5PsmkYUm"
+    },
+    {
+      "album": {
+        "name": "Seven Steps",
+        "url": "https://open.spotify.com/album/2wL9qSFeIhYBfxfSFxJSqk"
+      },
+      "artists": [
+        {
+          "name": "Belmont Central",
+          "url": "https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Seven Steps",
+      "url": "https://open.spotify.com/track/2unapOMh63c9FDNQHskpGL"
     },
     {
       "album": {
@@ -9030,7 +9138,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 292573,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
@@ -9498,7 +9606,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 214375,
       "name": "The Ansible",
       "url": "https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l"
@@ -9606,7 +9714,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 347000,
       "name": "The Cat Walk",
       "url": "https://open.spotify.com/track/0AzxtViaJfE9NuPYXNs3C1"
@@ -10136,7 +10244,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 308826,
       "name": "Then I'll Be Tired Of You - Instrumental",
       "url": "https://open.spotify.com/track/57ngHTYxMbRq17aPO2faFE"
@@ -10500,7 +10608,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 280866,
       "name": "Time And Again",
       "url": "https://open.spotify.com/track/18epPmynZUEZcGSUhTxK2t"
@@ -10662,7 +10770,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 206490,
       "name": "Une Histoire Flamande",
       "url": "https://open.spotify.com/track/0gbrsvaa2jjGBPaDCjBaIw"
@@ -10972,7 +11080,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 229205,
       "name": "What Is This Thing Called Love?",
       "url": "https://open.spotify.com/track/6kpocYwFqMxws72HV8iVj3"
@@ -11214,7 +11322,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 233780,
       "name": "Whitsunday Islands",
       "url": "https://open.spotify.com/track/1zKGVPC73CCFAyTF5Hsyqy"
@@ -11232,7 +11340,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 316400,
       "name": "Who Can I Turn To (When Nobody Needs Me)",
       "url": "https://open.spotify.com/track/57ZrEEk6UCFiMx2nrgE1kf"
@@ -11304,7 +11412,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 362040,
       "name": "With A Little Bit Of Luck - Instrumental",
       "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"

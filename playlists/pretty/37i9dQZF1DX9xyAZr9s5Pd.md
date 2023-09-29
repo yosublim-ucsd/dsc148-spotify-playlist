@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Paola Navarrete
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,266 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,269 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 | 59 | [Gravity](https://open.spotify.com/track/1uZjGWW5zZ7W0NKuxcCPp1) | [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws), [Amantina](https://open.spotify.com/artist/7hc53iJC9NjiLwr0BLWim7), [San Pedro Bonfim](https://open.spotify.com/artist/2zgWIWNakYzjY1IJaj6QFp) | [Gravity](https://open.spotify.com/album/6CsC1YU6PlbzRCV9pWpbFT) | 3:12 |
 | 60 | [Brújula](https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Brújula](https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr) | 3:10 |
 
-Snapshot ID: `MCxjOGUyYzdjMGJjNmE0NGY0MmY4NjhmMTA0ZGU5YzkwNjY4MzQ3MzA1`
+Snapshot ID: `MCwzZDhkMGMxMmI5MGI0YmMzMThkZmIzOTZhMjdlZTE1ZDNhZTkwZTZm`

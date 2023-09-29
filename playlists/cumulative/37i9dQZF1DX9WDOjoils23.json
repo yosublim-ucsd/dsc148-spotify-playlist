@@ -218,10 +218,28 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 312111,
       "name": "Jo Tere Gham Nu",
       "url": "https://open.spotify.com/track/7q43b3xrnGZJ4OJ8nbAVCL"
+    },
+    {
+      "album": {
+        "name": "Golden Voice of Punjab",
+        "url": "https://open.spotify.com/album/4ikiTmyjDT7NSdCG6UpPZm"
+      },
+      "artists": [
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312163,
+      "name": "Jo Tere Gham Nu",
+      "url": "https://open.spotify.com/track/2K3UgM88aTk52ZqMPW7qAF"
     },
     {
       "album": {

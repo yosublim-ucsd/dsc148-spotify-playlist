@@ -2313,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "Konrad",
+        "url": "https://open.spotify.com/album/21TB7aIqO1QS3DevseXAMV"
+      },
+      "artists": [
+        {
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Konrad",
+      "url": "https://open.spotify.com/track/6ExQ1R9sVXoA11g6WlcWzP"
+    },
+    {
+      "album": {
         "name": "Lady in the Blue Dress",
         "url": "https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD"
       },
@@ -3318,7 +3336,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 203193,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/4X4PGg2TnRyXZS9lsY8Hl7"
@@ -3390,7 +3408,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 229857,
       "name": "Over Here",
       "url": "https://open.spotify.com/track/5XLasheriaLTs6momYfB9n"
@@ -4850,6 +4868,24 @@
       "duration_ms": 177951,
       "name": "Watch What Happens",
       "url": "https://open.spotify.com/track/3C8LKleDein4hf61QPoWg5"
+    },
+    {
+      "album": {
+        "name": "We Talk Later",
+        "url": "https://open.spotify.com/album/7xnclPUMXH1kocR3SJhZBK"
+      },
+      "artists": [
+        {
+          "name": "Charlie Regan Three",
+          "url": "https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170253,
+      "name": "We Talk Later",
+      "url": "https://open.spotify.com/track/0ypKIgecf2ubbenc0qcuj7"
     },
     {
       "album": {

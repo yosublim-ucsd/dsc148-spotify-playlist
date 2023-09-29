@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 58643,
+  "num_followers": 58649,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGU0NjhmMzkzY2I0Njg1N2FkZTE4Yzc3MTkzMTI3MmIzYmIzZjMx",
+  "snapshot_id": "MCw3MjY1MjViOGJjOGM3ZGY5Njg3MTNlOGJjY2FjMGU3ZGIzNGQxNWQ1",
   "tracks": [
     {
       "added_at": "2023-09-22 12:31:43",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-09-22 12:31:43",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 121573,
-      "name": "Love Is a Christmas Rose",
-      "url": "https://open.spotify.com/track/2dqvqJetgd4UUVAHsheS9J"
-    },
-    {
-      "added_at": "2023-09-22 12:31:43",
-      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 256443,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/6yH9KPvWZ0Jnd8qsxj8oxs"
+    },
+    {
+      "added_at": "2023-09-22 12:31:43",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 121573,
+      "name": "Love Is a Christmas Rose",
+      "url": "https://open.spotify.com/track/2dqvqJetgd4UUVAHsheS9J"
     },
     {
       "added_at": "2023-09-22 12:31:43",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-09-22 12:31:43",
       "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8"
-      },
-      "artists": [
-        {
-          "name": "Midtown Players",
-          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
-        }
-      ],
-      "duration_ms": 241374,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD"
-    },
-    {
-      "added_at": "2023-09-22 12:31:43",
-      "album": {
         "name": "The Season",
         "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 201233,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2c7doFjJ66pEANqZQlDpT9"
+    },
+    {
+      "added_at": "2023-09-22 12:31:43",
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "duration_ms": 241374,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD"
     },
     {
       "added_at": "2023-09-22 12:31:43",

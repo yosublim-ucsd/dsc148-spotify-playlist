@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: MOLA",
-  "num_followers": 28786,
+  "num_followers": 28793,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjcyNWE5MzI0YTkzMDRhYmQxNGYyN2U2NGJjZDIzNDA3ODUwNzQz",
+  "snapshot_id": "MCw2OWM0MDM5MjkyNWJlMGMzMWFjOWI0OWJkZGI3ZjViMmE5YWIwMGFj",
   "tracks": [
     {
       "added_at": "2023-09-06 07:58:29",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "3 Gramm",
-        "url": "https://open.spotify.com/album/6nAN4ubpHk4y9vAxiRnj4R"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
-        }
-      ],
-      "duration_ms": 193590,
-      "name": "3 Gramm",
-      "url": "https://open.spotify.com/track/4BZNMuISWG5w26nnvPawdT"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "Fat A$$",
         "url": "https://open.spotify.com/album/56569RtgPsqkLpHfLZyIvY"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 140265,
       "name": "Fat A$$",
       "url": "https://open.spotify.com/track/4xkxn4euYWGwhus3Mp3g2L"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "3 Gramm",
+        "url": "https://open.spotify.com/album/6nAN4ubpHk4y9vAxiRnj4R"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm"
+        }
+      ],
+      "duration_ms": 193590,
+      "name": "3 Gramm",
+      "url": "https://open.spotify.com/track/4BZNMuISWG5w26nnvPawdT"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "me & my broken heart",
-        "url": "https://open.spotify.com/album/5dv3YjsXPfWBEClQwvQ0OJ"
-      },
-      "artists": [
-        {
-          "name": "Felicia Lu",
-          "url": "https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "me & my broken heart",
-      "url": "https://open.spotify.com/track/6VSDSqXYfBlwLXdzl9Srs4"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "Where Do We Go",
         "url": "https://open.spotify.com/album/4DDBDbyg0A15tQuClSvcqg"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 171200,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/1M2NNUv8UV5smjMVGyTrmz"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "me & my broken heart",
+        "url": "https://open.spotify.com/album/5dv3YjsXPfWBEClQwvQ0OJ"
+      },
+      "artists": [
+        {
+          "name": "Felicia Lu",
+          "url": "https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "me & my broken heart",
+      "url": "https://open.spotify.com/track/6VSDSqXYfBlwLXdzl9Srs4"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "Busy Overthinking",
-        "url": "https://open.spotify.com/album/5V0h8Vw3Gw8oaZ93AgpRp1"
-      },
-      "artists": [
-        {
-          "name": "Bae Blade",
-          "url": "https://open.spotify.com/artist/6QWt63IsdMipMmiH0D0aIA"
-        }
-      ],
-      "duration_ms": 206694,
-      "name": "Busy Overthinking",
-      "url": "https://open.spotify.com/track/6iHnOivqyolVuAeR576xBI"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "Risiko",
         "url": "https://open.spotify.com/album/6TWYq5h0izS13d2RCNtHAE"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 167467,
       "name": "Risiko",
       "url": "https://open.spotify.com/track/5Iy928vydNUl4oQhVeucMD"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "Busy Overthinking",
+        "url": "https://open.spotify.com/album/5V0h8Vw3Gw8oaZ93AgpRp1"
+      },
+      "artists": [
+        {
+          "name": "Bae Blade",
+          "url": "https://open.spotify.com/artist/6QWt63IsdMipMmiH0D0aIA"
+        }
+      ],
+      "duration_ms": 206694,
+      "name": "Busy Overthinking",
+      "url": "https://open.spotify.com/track/6iHnOivqyolVuAeR576xBI"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "Interstate Bridge",
-        "url": "https://open.spotify.com/album/4YY8cfIETTVzSVMtJRuzxl"
-      },
-      "artists": [
-        {
-          "name": "Velvet Two Stripes",
-          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "Interstate Bridge",
-      "url": "https://open.spotify.com/track/2k33m5kYVtQzTJXyUarRuu"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "Flutlicht",
         "url": "https://open.spotify.com/album/7n9uQg7pO2f7aD7sJG7ijL"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 190688,
       "name": "Flutlicht",
       "url": "https://open.spotify.com/track/7ArEhJopPJsOzA6gNfiKlb"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "Interstate Bridge",
+        "url": "https://open.spotify.com/album/4YY8cfIETTVzSVMtJRuzxl"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Interstate Bridge",
+      "url": "https://open.spotify.com/track/2k33m5kYVtQzTJXyUarRuu"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "25yrs on earth",
-        "url": "https://open.spotify.com/album/3WrFzxwbwDVkX3TkjPgO3j"
-      },
-      "artists": [
-        {
-          "name": "katya.",
-          "url": "https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O"
-        }
-      ],
-      "duration_ms": 178424,
-      "name": "birthday cake",
-      "url": "https://open.spotify.com/track/6r5Bx0FOO2QyUJNrdVcMro"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "You Knew",
         "url": "https://open.spotify.com/album/3WCCVWh8DLGKNh9DfeNiV2"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 201399,
       "name": "You Knew",
       "url": "https://open.spotify.com/track/6Mgntw8v9hBYzI0Oycmb3b"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "25yrs on earth",
+        "url": "https://open.spotify.com/album/3WrFzxwbwDVkX3TkjPgO3j"
+      },
+      "artists": [
+        {
+          "name": "katya.",
+          "url": "https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O"
+        }
+      ],
+      "duration_ms": 178424,
+      "name": "birthday cake",
+      "url": "https://open.spotify.com/track/6r5Bx0FOO2QyUJNrdVcMro"
     },
     {
       "added_at": "2023-09-06 07:58:29",

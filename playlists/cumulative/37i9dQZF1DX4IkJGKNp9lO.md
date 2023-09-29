@@ -4,7 +4,7 @@
 
 > 
 
-242 songs - 11 hr 37 min
+243 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,13 +224,14 @@
 | [Troll Och Häxor](https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 2:10 | 2021-12-14 |  |
 | [Tuffa tjejer](https://open.spotify.com/track/68piTUx7iztTcalFvaXovc) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bara skiten avtar](https://open.spotify.com/album/7oJHyi9KpoJRKH5Ypxarcm) | 2:08 | 2021-12-14 | 2022-07-27 |
 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 | 2021-12-14 |  |
+| [Tänk negativt](https://open.spotify.com/track/49gKIBAd8nsGWGs8Aimouy) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Tänk negativt](https://open.spotify.com/album/0f5LTeksAWDDcPSMzyNZE7) | 2:31 | 2023-09-28 |  |
 | [Utsugare](https://open.spotify.com/track/5HNtfpuToKHzDKOPwORi6j) | [Slaktkniv](https://open.spotify.com/artist/4TElB6wIyF7PdN7jYbgaaw) | [Powerpunk, Vol\. 2](https://open.spotify.com/album/6gKlAmyFXz9gKXE1sSue99) | 1:58 | 2021-12-14 | 2022-07-12 |
 | [Vad har du gjort?](https://open.spotify.com/track/6wdwI3hB821ni3XJJTZCgO) | [Hårdgnissel](https://open.spotify.com/artist/6go8Hycq8HF9V1g2kgPyyj) | [Vad har du gjort?](https://open.spotify.com/album/5cNCoynkJwR7mEEjiClJA1) | 1:40 | 2021-12-14 | 2022-07-28 |
 | [Vandrar vägen](https://open.spotify.com/track/2nVc9atl0DHGOIokK2aS2B) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Visar vägen](https://open.spotify.com/album/3uf8YWyGgdJRJXh5olLWO1) | 3:15 | 2021-12-14 | 2022-07-24 |
 | [Var en man](https://open.spotify.com/track/5Hfi7rpsoiK51gSqRUvfYN) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [Andrahandssorteringen](https://open.spotify.com/album/4d7oAZlPz2hhqb7tDszFhO) | 2:53 | 2021-12-14 | 2022-07-28 |
 | [Varje ensam natt](https://open.spotify.com/track/08PsVeAcmLKotmovg8ZADv) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [Varje ensam natt](https://open.spotify.com/album/0JSfu5YQErdJflzgob8S3y) | 3:24 | 2021-12-14 |  |
 | [Varje ensam natt](https://open.spotify.com/track/0R5rlEIIGLsvBzDZSqlKOr) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [Varje ensam natt](https://open.spotify.com/album/5r6qxnbzGq9k8TlPanAN6p) | 3:24 | 2021-12-14 | 2022-07-27 |
-| [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 | 2021-12-14 |  |
+| [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 | 2021-12-14 | 2023-09-29 |
 | [Vem sätter märket](https://open.spotify.com/track/6n6bwxNTBMhqzxlDcK6Gm7) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Vem sätter märket](https://open.spotify.com/album/0wK3Dh1UY6XVZOfhUvR6GF) | 3:10 | 2021-12-14 | 2022-11-13 |
 | [Vem Vågar Tro](https://open.spotify.com/track/5VAz683ouGZsuROud0rl44) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From The Past](https://open.spotify.com/album/6L76NkyJbhwhLLzFTQ36JU) | 3:03 | 2021-12-14 | 2022-07-17 |
 | [Vill inte va med](https://open.spotify.com/track/2i2sGdp41DUMH3VxUS6Zu9) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf) | 2:49 | 2021-12-14 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-514 songs - 1 day 4 hr 49 min
+515 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [ESCAPE \(feat\. KUČKA\)](https://open.spotify.com/track/3zRdNrpHq89K6P28shuM0w) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [ESCAPE / Palaces](https://open.spotify.com/album/4UEVQIXGTVlAZWIZsnPVp1) | 4:02 | 2022-04-25 | 2023-01-30 |
 | [Eternity](https://open.spotify.com/track/6OsdOBA7VE0ZYzV99CRutB) | [Bafu](https://open.spotify.com/artist/7noh40d76QRMnTPGW2VvO6), [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Eternity](https://open.spotify.com/album/02wSxU0vXahHp0r0qbIDsH) | 3:43 | 2021-11-22 | 2022-01-08 |
 | [Ethereal](https://open.spotify.com/track/5roi8Oveylqkssrp5fQ5hq) | [Audent](https://open.spotify.com/artist/16ZHzYuPyaRVjHGfZExJ60) | [Ethereal](https://open.spotify.com/album/7DP0YsFPjmjz6Es5cfLQyv) | 4:26 | 2022-04-11 | 2022-07-16 |
+| [evergreen](https://open.spotify.com/track/7LhF0VgzR4fuN7SdChVRnp) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [evergreen](https://open.spotify.com/album/7CWHFWCJnFiDTCtyDbrVOK) | 2:55 | 2023-09-28 |  |
 | [Everyday, Everyday \- Live Edit](https://open.spotify.com/track/4lqEaB69YUYkV2i9T7ZuU0) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Everyday, Everyday \(Live Edit\)](https://open.spotify.com/album/0HecV8KVJugnC7z3OrK1uW) | 6:29 | 2023-01-11 |  |
 | [Explore](https://open.spotify.com/track/62wmupzYp1sdfhKM9cNiYC) | [Prblm Chld](https://open.spotify.com/artist/6ZgKMPtqbeSTMuQ6FQlxKh), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Explore](https://open.spotify.com/album/5Se8Q4Kues4cWqDlSTSLa0) | 2:57 | 2022-01-20 | 2022-02-05 |
 | [Eyes](https://open.spotify.com/track/0YAukHbU1yppkR0seIwTW3) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Shift in Momentum](https://open.spotify.com/album/6V1CNkenPJvZkU5oNNirHW) | 4:58 | 2022-07-15 |  |

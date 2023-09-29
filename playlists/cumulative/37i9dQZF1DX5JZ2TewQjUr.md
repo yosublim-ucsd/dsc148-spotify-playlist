@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lau Heung King
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Goo Chan
 
-695 songs - 1 day 15 hr 17 min
+699 songs - 1 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Hang你老母 MeowMeow](https://open.spotify.com/track/42GaSRx19HNDyRBntX48Ux) | [Chrisok](https://open.spotify.com/artist/1DixYkPHal3npqnOSLyZaA) | [Hang你老母 MeowMeow](https://open.spotify.com/album/6xSiSkRW0zPgkF6r5P8F9J) | 1:52 | 2022-06-30 | 2022-09-09 |
 | [Happy Ever After](https://open.spotify.com/track/1pRRYq9XyBu8cJDPzHWicK) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [Happy Ever After](https://open.spotify.com/album/0dF4NV8urMiLF1yGQZAFsa) | 3:19 | 2023-07-06 |  |
 | [Harbor](https://open.spotify.com/track/49ZfLsBNfvKMu7J8Vqm9VE) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Synthetic](https://open.spotify.com/album/07wiHViuoo1UnSl1AjKjFk) | 2:30 | 2022-09-15 | 2023-03-18 |
+| [HARD](https://open.spotify.com/track/3ci0VZQQd2OHVSxaSM14Kc) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva), [Raw Soul](https://open.spotify.com/artist/2Ppd9IHI9ILZ9Epc20sKkM), [JYKC](https://open.spotify.com/artist/3u6JLHfwEnpd4WFvY8T5WN) | [HARD](https://open.spotify.com/album/3uZ1ehCIubZ8kt2xg0KNef) | 3:55 | 2023-09-28 |  |
 | [Haze](https://open.spotify.com/track/0JNE7FY4YAaabbvtnH2Anw) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Haze](https://open.spotify.com/album/3Wb8cdmD4QrVJBkAVFmjsk) | 3:32 | 2022-09-29 | 2023-02-03 |
 | [Haze \- Live](https://open.spotify.com/track/5HVh454mywL0Pu9sRFgolr) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Haze \(Live\)](https://open.spotify.com/album/7dJV7D6TTXOVSEFKA182U4) | 3:42 | 2022-12-01 | 2023-03-18 |
 | [HEAD ON YOUR SHOULDER](https://open.spotify.com/track/4Mnib2lihcKmricubFkKcp) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [BMW](https://open.spotify.com/artist/7cZ5ljacIj0RGAxAjijeqC), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [2020](https://open.spotify.com/album/1DMn7JbuPSz4ErrdQeYXZ0) | 3:54 | 2022-05-26 | 2022-09-09 |
@@ -218,6 +219,7 @@
 | [Laura Says Distortion](https://open.spotify.com/track/0lLh6qhc9dBavA8rQF3oa8) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [Laura Says Distortion](https://open.spotify.com/album/1K9fowNgyuHW4xfx848sCP) | 5:22 | 2023-04-06 | 2023-07-14 |
 | [LC](https://open.spotify.com/track/3RrMlTXuLVgvoOfMFRsf92) | [A New World If You Can Take It](https://open.spotify.com/artist/2PAWeJB5IPKkWEzlYYOBM1) | [LC](https://open.spotify.com/album/5Vz2XREfiPszCW8BwGolTn) | 3:19 | 2023-08-31 |  |
 | [Leave\-Taking \(feat\. Daniel Chu\)](https://open.spotify.com/track/2t1uIVzsYvR0GHXAWd4lLu) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe), [Daniel Chu](https://open.spotify.com/artist/6cE2k1b1Vz0jWil3gChUp2) | [Leave\-Taking \(feat\. Daniel Chu\)](https://open.spotify.com/album/1e1jFXUM49FsaZy09zSDxr) | 4:41 | 2022-12-29 | 2023-05-26 |
+| [Lemonade](https://open.spotify.com/track/1WLVAwtMG2ybHuumcEivyB) | [Emmahotel](https://open.spotify.com/artist/7b4LxE2BmMztZ0p7MdprNs) | [Lemonade](https://open.spotify.com/album/5aETnEP1mGB1LLiSXXaKts) | 3:46 | 2023-09-28 |  |
 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 | 2022-11-10 | 2023-03-18 |
 | [LGBT \(Let's Get Bread Today\)](https://open.spotify.com/track/3RSjsjxM9CDDd8P2qYEDrA) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [LGBT \(Let's Get Bread Today\)](https://open.spotify.com/album/6nirY2lofQ97Kk4lmPNg6G) | 3:00 | 2023-06-29 | 2023-09-15 |
 | [LGBT \(Let’s Get Bread Today\)](https://open.spotify.com/track/4TftpYSPHXM73TxOXPpQc4) | [The Low Mays](https://open.spotify.com/artist/2DUtkZYBQDfaBgJFFTIp5O) | [LGBT \(Let’s Get Bread Today\)](https://open.spotify.com/album/2u8qoaHrbNHrIANz84gb8J) | 3:00 | 2023-06-22 | 2023-07-01 |
@@ -570,6 +572,7 @@
 | [慣了習慣](https://open.spotify.com/track/1JkWAOkGyHRKY67xQGyqQS) | [Edmund Chan](https://open.spotify.com/artist/3RwDrv1IZ9T77yuQWfNoh0), [Shadow](https://open.spotify.com/artist/1UBpWQtYb1NyNE4ZUqblkk) | [慣了習慣](https://open.spotify.com/album/1mYvD5TT8oIW61K9jsLl2h) | 3:05 | 2022-07-21 | 2022-09-09 |
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2023-05-04 | 2023-09-01 |
 | [我和阿姨有個約會 feat\. 黎莉Chris Lai](https://open.spotify.com/track/4StKw8RzmJp0XnChWkUBSC) | [何英瑋EwanHo](https://open.spotify.com/artist/3OhS5yhYhob3JfMZeX0FCM), [黎莉](https://open.spotify.com/artist/18yqgzoX8It8OwuH0I3k90) | [我和阿姨有個約會 feat\. 黎莉Chris Lai](https://open.spotify.com/album/0xRGANwWmNcifIUq6URZlQ) | 3:02 | 2022-11-24 | 2022-12-09 |
+| [我唔想聽你講嘢啊](https://open.spotify.com/track/69VHxhfx1ubMVnlAVfWLO5) | [HUIJING](https://open.spotify.com/artist/17rS7q68uYpuNcvfWpPVid) | [我唔想聽你講嘢啊](https://open.spotify.com/album/7Lnlg9RGkZhd2fuwpMcihE) | 3:04 | 2023-09-28 |  |
 | [我就](https://open.spotify.com/track/3qOJsiDDU7aVtHgTZPZJL3) | [Johnson C](https://open.spotify.com/artist/4cqSfFi0L1wjn3BA3hS5Yr), [K3L](https://open.spotify.com/artist/1MLzEhihUlj8AaPj1QWIZ5) | [我就](https://open.spotify.com/album/6o0VQSEoVScsFUTVuBlhjh) | 2:44 | 2023-04-27 | 2023-07-14 |
 | [我想 \- Demo](https://open.spotify.com/track/30vkBvXDoRoLWxedYA5D97) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [我想 \(Demo\)](https://open.spotify.com/album/428FM2z8PI5B4by19YTnF0) | 5:25 | 2023-04-20 | 2023-07-14 |
 | [我想去休息 \(feat\. Kindle\)](https://open.spotify.com/track/0CICJ3nkG0HFfxjZBcM8yo) | [Alex!sReal](https://open.spotify.com/artist/4GVffkuHlMn3ml3Iu0XovW), [Kindle](https://open.spotify.com/artist/4OyRp2sbvMtH0TnuQzNbGY) | [我想去休息 \(feat\. Kindle\)](https://open.spotify.com/album/01cjPsfH1vVIYw58iS1UKF) | 3:13 | 2023-03-30 | 2023-07-14 |
@@ -679,6 +682,7 @@
 | [迷魂大結界](https://open.spotify.com/track/2dPsqF5JKM91BTNBcChMHT) | [HUIJING](https://open.spotify.com/artist/17rS7q68uYpuNcvfWpPVid) | [迷魂大結界](https://open.spotify.com/album/1j6PISUpxdDQK88fcCuVzN) | 2:36 | 2022-12-15 | 2023-03-18 |
 | [這晚更壞](https://open.spotify.com/track/11fMLk7ru6mnuMofTf9f4L) | [Higgo Raj](https://open.spotify.com/artist/3YEVEdKje1zmAHh8Hsxgnb) | [這晚更壞](https://open.spotify.com/album/5tqLPLqNgumAMFmD1pZo1X) | 3:01 | 2022-05-26 | 2022-07-29 |
 | [這裡等](https://open.spotify.com/track/0VTnMjE4Z91i4M3s9Wymkb) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [這裡等](https://open.spotify.com/album/1q4NFC4B3Z6fHIaR7Mr1Qv) | 3:30 | 2022-11-17 | 2023-03-18 |
+| [這裡等 \- Night Version](https://open.spotify.com/track/0WOUUnbn1DC6zQ39OvpXAx) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [GoodNite..\. \(Night Version\)](https://open.spotify.com/album/5EeZ4NipzcK4RFsa4lKptN) | 3:31 | 2023-09-28 |  |
 | [過去過不去](https://open.spotify.com/track/0NhIEAV7elUg0cpOLPwl5z) | [胡樂彤](https://open.spotify.com/artist/3y7xbntnGkT9eyXv384NeI) | [過去過不去](https://open.spotify.com/album/1t0MnE7H8ycpzZzgwZCn27) | 4:37 | 2022-08-11 | 2022-11-04 |
 | [醉後 Black Out \(feat\. Tsui Chin Hung\)](https://open.spotify.com/track/2RmxP2Rpuoscz77tasDxst) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [Tsui Chin Hung](https://open.spotify.com/artist/4iim34n0M5J5ua3fluGflT) | [Fuo.](https://open.spotify.com/album/6SrVTBtEk4rrESjDbf1S83) | 4:16 | 2023-03-24 | 2023-07-14 |
 | [重獲自信](https://open.spotify.com/track/1VucFdXeTVlq7E3tuQqP9i) | [LikHang](https://open.spotify.com/artist/1CjN9kt3l99SnJEyaspKIh) | [重獲自信](https://open.spotify.com/album/4x0KW73otW6TBS3CwO9FAm) | 4:55 | 2022-09-22 | 2023-01-06 |

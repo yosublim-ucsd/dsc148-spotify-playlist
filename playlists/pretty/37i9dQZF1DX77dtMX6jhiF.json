@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 10476,
+  "num_followers": 10493,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzZmNTk5YWQzNWM2MzZjZWYyYzA3Yjg5ZGRmNzQ1OGE5NWU1OGNk",
+  "snapshot_id": "MCxkZmRiZTVmNGFiYjg5YWMyMDNlYTBlMmIxMmNiYzcyMTYwY2NiMTRj",
   "tracks": [
     {
       "added_at": "2022-10-01 16:57:49",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 328826,
+      "name": "The Blacker The Berry",
+      "url": "https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 225573,
       "name": "Last Time That I Checc'd (feat. YG)",
       "url": "https://open.spotify.com/track/39xWBHPM4E9MwzEy5gbM7p"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "To Pimp A Butterfly",
-        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 328826,
-      "name": "The Blacker The Berry",
-      "url": "https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0"
     },
     {
       "added_at": "2022-10-01 16:57:49",

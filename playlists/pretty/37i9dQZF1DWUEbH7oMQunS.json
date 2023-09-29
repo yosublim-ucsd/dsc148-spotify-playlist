@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 53133,
+  "num_followers": 53250,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy",
+  "snapshot_id": "MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Asaph",
+        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 342453,
+      "name": "(73) the Nearness of You",
+      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "At the Table",
         "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Asaph",
-        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 342453,
-      "name": "(73) the Nearness of You",
-      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "features",
         "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 172000,
       "name": "wearing thin (alt. version)",
       "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Mother's Love",
-        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
-      },
-      "artists": [
-        {
-          "name": "Antonious",
-          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
-        }
-      ],
-      "duration_ms": 60944,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Spacies",
         "url": "https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 261500,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Mother's Love",
+        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
+      },
+      "artists": [
+        {
+          "name": "Antonious",
+          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
+        }
+      ],
+      "duration_ms": 60944,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "features",
         "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 216366,
       "name": "hold on (alt. version)",
       "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Eternal Jetlag",
-        "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
-      },
-      "artists": [
-        {
-          "name": "WILLO",
-          "url": "https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N"
-        }
-      ],
-      "duration_ms": 236172,
-      "name": "I Go",
-      "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Hope Where There Was None",
         "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 196040,
       "name": "Weeping Mary",
       "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Eternal Jetlag",
+        "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
+      },
+      "artists": [
+        {
+          "name": "WILLO",
+          "url": "https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N"
+        }
+      ],
+      "duration_ms": 236172,
+      "name": "I Go",
+      "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "You & I Again",
-        "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 160264,
-      "name": "You & I Again",
-      "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Universal Christ",
         "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 231424,
       "name": "Lord Have Mercy",
       "url": "https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "You & I Again",
+        "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 160264,
+      "name": "You & I Again",
+      "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "playing pretend",
-        "url": "https://open.spotify.com/album/4x9YHiyWw5bbdJEeMZSSGJ"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        }
-      ],
-      "duration_ms": 236546,
-      "name": "playing pretend",
-      "url": "https://open.spotify.com/track/7fDRcqnAQvWPJ7X1Ycnkgf"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Freedom Fighter (Jimmy James Remix)",
         "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 346773,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/1oh3kBFeCK4HGCHQwM5JKH"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "playing pretend",
+        "url": "https://open.spotify.com/album/4x9YHiyWw5bbdJEeMZSSGJ"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "duration_ms": 236546,
+      "name": "playing pretend",
+      "url": "https://open.spotify.com/track/7fDRcqnAQvWPJ7X1Ycnkgf"
     },
     {
       "added_at": "2023-07-28 04:02:00",

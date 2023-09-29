@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Eimosezu/Good Luck",
+        "url": "https://open.spotify.com/album/4WCNqpJ3itK3YZULcavlrz"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222303,
+      "name": "Eimosezu",
+      "url": "https://open.spotify.com/track/4o47Z4005opCggGLCAYmgS"
+    },
+    {
+      "album": {
         "name": "JUNK or GEM",
         "url": "https://open.spotify.com/album/4ihrJ3Tvoa5puJ8a8UKeUI"
       },
@@ -637,6 +655,24 @@
     },
     {
       "album": {
+        "name": "HONEY BOY",
+        "url": "https://open.spotify.com/album/5YHxyTKE3DGpuLzCDXOQQo"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239462,
+      "name": "HONEY BOY",
+      "url": "https://open.spotify.com/track/5j6xw8EzxPriAeHk7Z5Sdk"
+    },
+    {
+      "album": {
         "name": "Hontowane,",
         "url": "https://open.spotify.com/album/0Kyfu9ZMYITiwDUngdTpJc"
       },
@@ -738,7 +774,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 250033,
       "name": "It\u2019s all good",
       "url": "https://open.spotify.com/track/5V6ZKHUuyo9TgpmzMgxV9R"
@@ -1766,7 +1802,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 276082,
       "name": "\u305d\u3093\u306abitter\u306a\u8a71",
       "url": "https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY"

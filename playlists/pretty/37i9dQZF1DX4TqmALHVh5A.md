@@ -1,0 +1,62 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain](/playlists/plain/37i9dQZF1DX4TqmALHVh5A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4TqmALHVh5A)
+
+### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
+
+> La scène française branchée sur courant alternatif\. Photo : Takeshi HRTBRK
+
+[Spotify](https://open.spotify.com/user/spotify) - 18,082 likes - 50 songs - 2 hr 42 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Christiane F](https://open.spotify.com/track/20qFSAGLPpDxaQJYd1fB7G) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Christiane F](https://open.spotify.com/album/73RKng65JeReqOgTTLGspF) | 2:31 |
+| 2 | [J'ai plus peur](https://open.spotify.com/track/68Bx21Flk7AhI9PCnNI775) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Adulescent Fluorescent](https://open.spotify.com/album/7CN4CQaAH8OlV2vEFGNXhf) | 3:23 |
+| 3 | [Superstar](https://open.spotify.com/track/4yeQykjmOJeVxxfEoyPfiA) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [DÉSORDRES](https://open.spotify.com/album/6TGZoFUFnus52OtEXSmDEd) | 3:01 |
+| 4 | [Le soleil](https://open.spotify.com/track/2lktF3thBYKCdaaTmGbwHu) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Le soleil](https://open.spotify.com/album/6YLBbcCJyHaH8XhQOYr3R8) | 4:07 |
+| 5 | [Labrador](https://open.spotify.com/track/37RU5uDagBkmkcf61HGHTZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Labrador](https://open.spotify.com/album/464DpW9aRGNKJIHCud8jRl) | 2:39 |
+| 6 | [Du Faux](https://open.spotify.com/track/5YA0jwcbbjL0bS4upsd5Kq) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Du Faux](https://open.spotify.com/album/30PG6zM9Qmvarc75N7c3Vp) | 2:34 |
+| 7 | [Sans Cesse](https://open.spotify.com/track/2DLzUlHC6TY0JIri9c3Nd0) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Sans Cesse](https://open.spotify.com/album/5k9uPMU5VmYPDP3Zh5Iu1e) | 2:47 |
+| 8 | [Paradis](https://open.spotify.com/track/7s5RBWSYciJ7N2zvhSKgOs) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Paradis](https://open.spotify.com/album/22BjV2YN9xoEPqwJKQ3GRU) | 2:51 |
+| 9 | [Aspiration](https://open.spotify.com/track/7IXvqtnsBbJM7IEDQetR9b) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:02 |
+| 10 | [Radio](https://open.spotify.com/track/7t4TKQwffyxm6VjV8xUzdP) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Radio](https://open.spotify.com/album/4gjmcshJN2wyvrZZeIXO2M) | 2:50 |
+| 11 | [We Walk](https://open.spotify.com/track/3jQDg6gtXG5c0F6a8k1xDg) | [VoX LoW](https://open.spotify.com/artist/7wdA5zANepbxnHVkUNQMg9) | [We Walk](https://open.spotify.com/album/1YhST40WDQUfrTExNtOARC) | 5:01 |
+| 12 | [madame](https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [madame](https://open.spotify.com/album/01vzBMHu7LAeGT2Y3IQaYg) | 2:42 |
+| 13 | [It's Over](https://open.spotify.com/track/1ZpbVeGleNHviKOyPQhMkU) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Player Non Player](https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K) | 4:57 |
+| 14 | [Ce que la lune éclaire](https://open.spotify.com/track/3m5pD1dbGn5UoWUAiKyg8A) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Ce que la lune éclaire](https://open.spotify.com/album/6I9VmoqM3N8NtEotua9LVH) | 3:45 |
+| 15 | [Lunettes du style](https://open.spotify.com/track/22kQGWbD8Pq8tdG1PzorJQ) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [Lunettes du style](https://open.spotify.com/album/3UTwX4b6mg3wRf5qBl5wPN) | 3:35 |
+| 16 | [Je cours](https://open.spotify.com/track/51Gt7yGGiV4wEH9C8YgwBd) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Je cours](https://open.spotify.com/album/4mjbfmCjIffHSLbZRqNWNf) | 2:57 |
+| 17 | [Planisphère](https://open.spotify.com/track/4JMVCc9j54W3HqWD33YG46) | [Louis La Flemme](https://open.spotify.com/artist/4zu3kzgzqjnbULEKo6hIXI) | [Planisphère](https://open.spotify.com/album/6fpYPafHSYj9xRdD6vMl9x) | 3:07 |
+| 18 | [Vampire](https://open.spotify.com/track/1NXaC1bu1eufFLpkqog2zw) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Le cœur qui cogne](https://open.spotify.com/album/4yQrejKybw0gsJ7W6k0Vmw) | 3:33 |
+| 19 | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/track/5riDJY8bBZ5q93T6SuEyCt) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/album/4rRoWGVgwlIX75hKwLdtOg) | 2:10 |
+| 20 | [Aloha Baby](https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Aloha Baby](https://open.spotify.com/album/6AEcF9E1JgVy7J4U0UfpYh) | 6:05 |
+| 21 | [New World](https://open.spotify.com/track/4j9XjA7cYOeX9KFKNk3WUz) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [New World](https://open.spotify.com/album/6MTwKUXoJ0zWO8H8bshzqy) | 3:14 |
+| 22 | [Le Jardin](https://open.spotify.com/track/7CcnzW8nPLBMg8PuNHdbj8) | [Le Jardin](https://open.spotify.com/artist/52WmRuQzAPLVwlkksYBg9l) | [Le Jardin](https://open.spotify.com/album/0ylBUqmIa6wYAaKeXQWtoz) | 3:43 |
+| 23 | [Joy](https://open.spotify.com/track/349nICB9NxNabg6WI27ZV5) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Porte 11](https://open.spotify.com/album/6MH3JAwwP85b1XQN1bOyF4) | 2:22 |
+| 24 | [dénudée](https://open.spotify.com/track/4dJo55UsW4gWpKkkRvRTy1) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [dénudée](https://open.spotify.com/album/3n2PoNjcnOX4QSTbZuitU2) | 2:11 |
+| 25 | [Girlfriend](https://open.spotify.com/track/3BvnwJMDF3MxPVGSitA4f3) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Encore](https://open.spotify.com/album/5g010EGj82UnGrOTxaHveU) | 2:43 |
+| 26 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 |
+| 27 | [Nobody's Wife](https://open.spotify.com/track/3b0XPLMM0anvaKPumGyDoW) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Nobody's Wife](https://open.spotify.com/album/0JGgXJR6ZJES8IQ1bYEg8W) | 3:39 |
+| 28 | [Comme un idiot](https://open.spotify.com/track/5MW2D3rttNR84ivORyMvTV) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Comme un idiot](https://open.spotify.com/album/2e5EbSgc1Fy800rbR1SnGm) | 3:37 |
+| 29 | [Presque un secret](https://open.spotify.com/track/5Xsu89IWIRc3s3WCP4o69p) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Presque un secret](https://open.spotify.com/album/5N9tpTQqC42sOtGeevzngE) | 3:04 |
+| 30 | [Si j'avais su](https://open.spotify.com/track/6ZmquJRJGfeimrtQnLMQ64) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Si j'avais su](https://open.spotify.com/album/1NE8tgtqwz0hYV0q3PXf0i) | 3:41 |
+| 31 | [Je Voulais](https://open.spotify.com/track/26LEDUBccqiAj28QDjzOod) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Je Voulais](https://open.spotify.com/album/6v0EOkmlVsamzKicsn8m2R) | 3:02 |
+| 32 | [Dansé](https://open.spotify.com/track/4WBy4mNSb3ytse4qR2BjkG) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Dansé](https://open.spotify.com/album/44DuXaXwALoylbk0vUgC8o) | 2:51 |
+| 33 | [Mauvais Garçon](https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Mauvais Garçon](https://open.spotify.com/album/2xRuAm8VKXSMpbAjlqkCbW) | 2:51 |
+| 34 | [La marée](https://open.spotify.com/track/1w4Ny0UnhzNd6ZBwGjb5jk) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [La marée](https://open.spotify.com/album/3AOvO6Vmjl1Q5gGZ9ht9ze) | 3:18 |
+| 35 | [Rage2](https://open.spotify.com/track/6FEa9mo6Qrd1v0u5rTUlZU) | [SÜEÜR](https://open.spotify.com/artist/124RVleRdpnGBCTjulr6rq) | [ANANKÉ](https://open.spotify.com/album/7sUul65XdFnWzyjbhI0tpd) | 3:02 |
+| 36 | [Radio](https://open.spotify.com/track/3XDbBLoiPf3NNR4DY1wMld) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Radio](https://open.spotify.com/album/1nRoA7wDI7mraWdDMOteQ8) | 3:11 |
+| 37 | [Tes mains sales](https://open.spotify.com/track/0SlqPsiEli9P0SolyyaeIu) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Tes mains sales](https://open.spotify.com/album/1qHu35g9fesjTYiBQzL057) | 2:38 |
+| 38 | [COUP DE FOUDRE](https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [COUP DE FOUDRE](https://open.spotify.com/album/428jPxdZh194ALGPIBaeM8) | 3:20 |
+| 39 | [Les sites de rencontre](https://open.spotify.com/track/4nkJVppg7SLJCRnHbkGCrB) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange \(Extension\)](https://open.spotify.com/album/6OghTJMXlowG5XyFaQsFsi) | 4:45 |
+| 40 | [Jamais Je Ne Viens](https://open.spotify.com/track/5dSLiCcetFe3LGrnhbh9fZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/48OOvBs7jVOAWitbHAQ9Ll) | 2:28 |
+| 41 | [Une dernière fois](https://open.spotify.com/track/3FWo0LZdY98cNzlJ3vkBPO) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Bella Vita](https://open.spotify.com/album/1CUDj03p5bIJMthHyrqpYZ) | 3:07 |
+| 42 | [COLLÉ SERRÉ](https://open.spotify.com/track/0Oeym4SSUPJqNAH9sLUdvy) | [BRIQUE ARGENT](https://open.spotify.com/artist/6oEiRjlcIxYaZvnjlMiYLw) | [COLLÉ SERRÉ](https://open.spotify.com/album/1qRHnXgeDKChBP6iu16FQF) | 3:07 |
+| 43 | [L'Usine](https://open.spotify.com/track/6gPrgMobziEaMU1E8w8K5T) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [L'Usine](https://open.spotify.com/album/7qNgn6vkw8jKWrWhhaK7ZB) | 2:21 |
+| 44 | [Au Top](https://open.spotify.com/track/65QYWkPPVLsFj0pFGoLSSO) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Une Nouvelle Chance](https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl) | 2:59 |
+| 45 | [Catch Me](https://open.spotify.com/track/3aAmbkmw4wGiCAIn1Ktwlv) | [Balm](https://open.spotify.com/artist/4hI6ww0nRIy2qtXh48yKlp) | [Lavender](https://open.spotify.com/album/4nCf0hlINNS0mF6LeK0Cmh) | 3:43 |
+| 46 | [On Fait du Rock](https://open.spotify.com/track/3Y6MKj7jBrXqPve2DyoWqO) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [On Fait du Rock](https://open.spotify.com/album/2vAq1Kmv81GC3GfkSg9neE) | 4:13 |
+| 47 | [À l'aide](https://open.spotify.com/track/0RQFdPFD93bKg6rKsYXwpA) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [À l'aide](https://open.spotify.com/album/3eDQVsbI2raoTUtfKHwdxS) | 3:05 |
+| 48 | [Serie A](https://open.spotify.com/track/0D3MTS7Ea2EgXy6O9Horqc) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Serie A](https://open.spotify.com/album/6AQIcVtbI9gxFbRIKyr1i6) | 2:41 |
+| 49 | [Worried](https://open.spotify.com/track/0Ssz96Q8DAEry7mDrBRbcN) | [SOvOX](https://open.spotify.com/artist/5lJYPsXHNHiTtMbkW42tXN) | [Worried](https://open.spotify.com/album/74mX36E0PkXXiGc6FYZQBE) | 2:23 |
+| 50 | [Vivre soit 2](https://open.spotify.com/track/3HQUQjYxybimuqzIdebnr9) | [Astéréotypie](https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm) | [Aucun mec ne ressemble à Brad Pitt dans la Drôme](https://open.spotify.com/album/1POjEAquHo8mTJZDuanBeF) | 2:51 |
+
+Snapshot ID: `MCw1NGEwMTVmMDllOTc3YTEzMjY0ZmQwNDUzZWNkOWM4NWZhYmM4MTEx`

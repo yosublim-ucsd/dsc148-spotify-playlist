@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE"
+      },
+      "artists": [
+        {
+          "name": "W8lss",
+          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111767,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN"
+    },
+    {
+      "album": {
         "name": "Landscapes Below",
         "url": "https://open.spotify.com/album/1BJnBBsKEtxuvAYfBs7DiV"
       },
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 126730,
       "name": "Cloud9",
       "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
@@ -2807,6 +2825,24 @@
     },
     {
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/61boJpcbCcJogaxhegOHwN"
+      },
+      "artists": [
+        {
+          "name": "Kibunde",
+          "url": "https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/0GX01FogF0EeJYXKTYwhMp"
+    },
+    {
+      "album": {
         "name": "En El Aire",
         "url": "https://open.spotify.com/album/1hepGCK9fKSYO445J8BiLX"
       },
@@ -3242,6 +3278,24 @@
       "duration_ms": 128533,
       "name": "frozen in time",
       "url": "https://open.spotify.com/track/0svu0FglIbYrONwXZEde7C"
+    },
+    {
+      "album": {
+        "name": "fruta verde",
+        "url": "https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut"
+      },
+      "artists": [
+        {
+          "name": "Mir\u00e1",
+          "url": "https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111493,
+      "name": "fruta verde",
+      "url": "https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg"
     },
     {
       "album": {
@@ -3857,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/4YcojIOuGGewmDv8jMKKay"
+      },
+      "artists": [
+        {
+          "name": "Dip Lewis",
+          "url": "https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4AAxteXXwBqVchz26932uB"
+    },
+    {
+      "album": {
         "name": "Sunday Relax (Vol 2)",
         "url": "https://open.spotify.com/album/68eOP10FCWtspwSJscpYHM"
       },
@@ -4168,6 +4240,24 @@
       "duration_ms": 114285,
       "name": "If It Rains",
       "url": "https://open.spotify.com/track/5fpRmkeWY2XHqVJDZgGP9J"
+    },
+    {
+      "album": {
+        "name": "immersive kaleidoscope",
+        "url": "https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160611,
+      "name": "immersive kaleidoscope",
+      "url": "https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi"
     },
     {
       "album": {
@@ -5103,6 +5193,24 @@
     },
     {
       "album": {
+        "name": "Lizards and Lattes",
+        "url": "https://open.spotify.com/album/6MFXbVjc0gexy3Qvv3WuLb"
+      },
+      "artists": [
+        {
+          "name": "Wruce Billis",
+          "url": "https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119117,
+      "name": "Lizards and Lattes",
+      "url": "https://open.spotify.com/track/3WF6J4P4ozwQ1hbQMzGtID"
+    },
+    {
+      "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/2AY0kNs5q2d9hiTO27Go3Z"
       },
@@ -5758,7 +5866,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 140156,
       "name": "Message in a Bottle",
       "url": "https://open.spotify.com/track/70SUWUpE43Po3Tt5jvtZ8z"
@@ -6068,7 +6176,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 93099,
       "name": "Multiplier",
       "url": "https://open.spotify.com/track/7EMwd7BIruS3fqakmMcnW3"
@@ -6483,6 +6591,24 @@
     },
     {
       "album": {
+        "name": "Nostalgic Noodles",
+        "url": "https://open.spotify.com/album/7wcmvwXKitFGIE9yIPm5Cj"
+      },
+      "artists": [
+        {
+          "name": "Vidstige",
+          "url": "https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119117,
+      "name": "Nostalgic Noodles",
+      "url": "https://open.spotify.com/track/639IKfmKDbCl4mVt02t1Wa"
+    },
+    {
+      "album": {
         "name": "Just Breathe",
         "url": "https://open.spotify.com/album/7oR6ePQufS93SsdWMM4DSH"
       },
@@ -6806,6 +6932,24 @@
       "duration_ms": 184940,
       "name": "Overgrown",
       "url": "https://open.spotify.com/track/3jwiD3PrS9xU6XjpLf9Qq7"
+    },
+    {
+      "album": {
+        "name": "Past Bedtime",
+        "url": "https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky"
+      },
+      "artists": [
+        {
+          "name": "HollyDave",
+          "url": "https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125158,
+      "name": "Past Bedtime",
+      "url": "https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q"
     },
     {
       "album": {
@@ -7442,7 +7586,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 93432,
       "name": "Rice Balls for Dinner",
       "url": "https://open.spotify.com/track/7xfsqCYfZrpdylr6hbQVF2"
@@ -7586,7 +7730,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 131917,
       "name": "Rolling Papers",
       "url": "https://open.spotify.com/track/2LxU1WqpsgfpnvHQ22045Z"
@@ -7770,7 +7914,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 88421,
       "name": "Selva",
       "url": "https://open.spotify.com/track/5TW0leiqjfxmneCSDeF2MZ"
@@ -8156,7 +8300,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 117333,
       "name": "smthnjzzyfrthclcts",
       "url": "https://open.spotify.com/track/4kacnRjObcQrLrABPZrt0W"
@@ -8232,7 +8376,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 120300,
       "name": "Sogni",
       "url": "https://open.spotify.com/track/3b2C7nxe2YtWZufMysNlj2"
@@ -9433,6 +9577,24 @@
     },
     {
       "album": {
+        "name": "the neighborhood",
+        "url": "https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz"
+      },
+      "artists": [
+        {
+          "name": "ninetytwo.",
+          "url": "https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "the neighborhood",
+      "url": "https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0"
+    },
+    {
+      "album": {
         "name": "the next beat",
         "url": "https://open.spotify.com/album/6Gtz3GuIXjswIFjm3icFyI"
       },
@@ -9524,6 +9686,24 @@
       "duration_ms": 232000,
       "name": "The Wait",
       "url": "https://open.spotify.com/track/2jr1MzcRmVHUlZFxEZHa2P"
+    },
+    {
+      "album": {
+        "name": "Their Name Is Jazz",
+        "url": "https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj"
+      },
+      "artists": [
+        {
+          "name": "yoranda",
+          "url": "https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135385,
+      "name": "Their Name Is Jazz",
+      "url": "https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g"
     },
     {
       "album": {
@@ -9686,6 +9866,24 @@
       "duration_ms": 140000,
       "name": "Too Big Without You",
       "url": "https://open.spotify.com/track/1T1O2TmIjhPGGSd5QV279I"
+    },
+    {
+      "album": {
+        "name": "traffic",
+        "url": "https://open.spotify.com/album/5ako2aURhgoMoVeh9XZSn3"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lullaby & yorukaze",
+          "url": "https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99000,
+      "name": "traffic",
+      "url": "https://open.spotify.com/track/7rfwtpxQF4UBT7cQMslOb6"
     },
     {
       "album": {
@@ -9988,10 +10186,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 157241,
       "name": "wakens bright",
       "url": "https://open.spotify.com/track/6tfOG7WshG7cEm8zx7KYYT"
+    },
+    {
+      "album": {
+        "name": "Walk in the Park",
+        "url": "https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT"
+      },
+      "artists": [
+        {
+          "name": "NogEgg",
+          "url": "https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Walk in the Park",
+      "url": "https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG"
     },
     {
       "album": {
@@ -10404,7 +10620,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 137142,
       "name": "whiskey sour",
       "url": "https://open.spotify.com/track/2gxmc5NdgXjfLOFlAYuDuG"

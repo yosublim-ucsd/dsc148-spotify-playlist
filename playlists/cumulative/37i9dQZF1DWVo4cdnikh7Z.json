@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Jailer",
+  "description": "New Music from Kollywood.\nCover : Leo",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -1419,6 +1419,28 @@
     },
     {
       "album": {
+        "name": "Annai Thanthai (From \"Are You Ok Baby\")",
+        "url": "https://open.spotify.com/album/5AKox1tP8L1zKde3mLag1k"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278620,
+      "name": "Annai Thanthai - From \"Are You Ok Baby\"",
+      "url": "https://open.spotify.com/track/0cI4XdzUEzDRksZG5iDA5y"
+    },
+    {
+      "album": {
         "name": "DSP (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2UgjttUimzckiOaK6CdlN8"
       },
@@ -2352,6 +2374,24 @@
       "duration_ms": 238000,
       "name": "Baby Shower",
       "url": "https://open.spotify.com/track/6h74sm09hKVyplJZKZN27q"
+    },
+    {
+      "album": {
+        "name": "Badass (From \"Leo\")",
+        "url": "https://open.spotify.com/album/4f9WYw6XMUlo3O9dJ15HvP"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229677,
+      "name": "Badass (From \"Leo\")",
+      "url": "https://open.spotify.com/track/32qnBgfzURbwNayQIEB5W5"
     },
     {
       "album": {
@@ -18227,6 +18267,24 @@
     },
     {
       "album": {
+        "name": "Chithha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4N2LYZUpZRdVq2344dCeGO"
+      },
+      "artists": [
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Theera Swasame",
+      "url": "https://open.spotify.com/track/6DrSHG5r4bRXsnW0hd420H"
+    },
+    {
+      "album": {
         "name": "Theeratha Rakkalam (From \"Vasantha Mullai\")",
         "url": "https://open.spotify.com/album/4PBVJDCVIm1URRv4n1rsWG"
       },
@@ -21016,6 +21074,36 @@
       "duration_ms": 261000,
       "name": "Vendum",
       "url": "https://open.spotify.com/track/4ogxWEsy2bTf2QlN9T5JrZ"
+    },
+    {
+      "album": {
+        "name": "Vettaiyadum Karuppusaami (From \"Seeran\")",
+        "url": "https://open.spotify.com/album/1gjHFTBgbjyYYUpkJ6SQrj"
+      },
+      "artists": [
+        {
+          "name": "A.K. Sasidaran",
+          "url": "https://open.spotify.com/artist/2lmnIXHYUQsYESeuptYie4"
+        },
+        {
+          "name": "Aravind Gerald",
+          "url": "https://open.spotify.com/artist/5TdTiPkKljkTDd2bXOmjhw"
+        },
+        {
+          "name": "Velmurugan",
+          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
+        },
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229270,
+      "name": "Vettaiyadum Karuppusaami (From \"Seeran\")",
+      "url": "https://open.spotify.com/track/7gAt8dEaFDvKGIqswnBVTp"
     },
     {
       "album": {

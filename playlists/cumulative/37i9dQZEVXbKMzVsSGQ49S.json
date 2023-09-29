@@ -3319,6 +3319,28 @@
     },
     {
       "album": {
+        "name": "Butterfly Nebula",
+        "url": "https://open.spotify.com/album/0f88ojWKFcQKvEx6ijvCDG"
+      },
+      "artists": [
+        {
+          "name": "CENTER MASS",
+          "url": "https://open.spotify.com/artist/1eLW5YCVTC1dO6FldG4Qxi"
+        },
+        {
+          "name": "Todd Krasovetz",
+          "url": "https://open.spotify.com/artist/4mbzotXsaIc5M8pWR6Bg6K"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380000,
+      "name": "Butterfly Nebula",
+      "url": "https://open.spotify.com/track/0oyyoFopF05tsnphR43pJq"
+    },
+    {
+      "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew"
       },
@@ -3654,7 +3676,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 281500,
       "name": "Can't fight it",
       "url": "https://open.spotify.com/track/2qXREy7gASBMGnE6JQctmh"
@@ -3778,7 +3800,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -4728,7 +4750,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 120000,
       "name": "D.N.D.",
       "url": "https://open.spotify.com/track/2VwCWeNBekU08ls7YbxJRL"
@@ -5188,6 +5210,46 @@
       "duration_ms": 184800,
       "name": "Demeanor (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/3DMs7bahbQTnoxCjgP7qoK"
+    },
+    {
+      "album": {
+        "name": "Trapping in Space",
+        "url": "https://open.spotify.com/album/6lM1mSh8Xx4unNbIhNzkFK"
+      },
+      "artists": [
+        {
+          "name": "$ecrecy",
+          "url": "https://open.spotify.com/artist/5JPI07a5YJddqQI8Yqx7FO"
+        },
+        {
+          "name": "BIGBABYGUCCI",
+          "url": "https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139080,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/3tHqq6OkppBKkzqBaxD2D4"
+    },
+    {
+      "album": {
+        "name": "Deseydin Anlard\u0131m",
+        "url": "https://open.spotify.com/album/5sj53KwqstRLO9M02A09xM"
+      },
+      "artists": [
+        {
+          "name": "EDES",
+          "url": "https://open.spotify.com/artist/2CKGWwaI4Uxv9jzCa1F8kZ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Deseydin Anlard\u0131m",
+      "url": "https://open.spotify.com/track/4hEOOThHrSHJrpkIXn1Ab2"
     },
     {
       "album": {
@@ -7427,6 +7489,24 @@
     },
     {
       "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229627,
+      "name": "Face-off",
+      "url": "https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy"
+    },
+    {
+      "album": {
         "name": "Fade to black",
         "url": "https://open.spotify.com/album/5R1xdmueRaQUorUYmDK7Ga"
       },
@@ -8478,7 +8558,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
@@ -12294,7 +12374,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 169400,
       "name": "If You Are My Boyfriend",
       "url": "https://open.spotify.com/track/3EOcW84lE01cHT0nievKOz"
@@ -14490,7 +14570,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 186623,
       "name": "Letters From The Past",
       "url": "https://open.spotify.com/track/1h5ac7iBaSOFknqPf0W4li"
@@ -14758,6 +14838,42 @@
       "duration_ms": 179323,
       "name": "Lights Off - ESC Version",
       "url": "https://open.spotify.com/track/0tOKpglJb9cza4WdTtxsv7"
+    },
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212241,
+      "name": "Like Crazy",
+      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+    },
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "Like Crazy (English Version)",
+      "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
     },
     {
       "album": {
@@ -17640,7 +17756,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 178000,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/6cEnfT1IazBcTeec4TA1NB"
@@ -19584,7 +19700,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -23399,6 +23515,24 @@
     },
     {
       "album": {
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/5GHmJOnHCN2YHmIyTy5hKw"
+      },
+      "artists": [
+        {
+          "name": "RahRahBeats",
+          "url": "https://open.spotify.com/artist/2AsSKZ7TcITDsSQLw07U9V"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122033,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/2uGTZ3cOa4nfKnwxGI1gVw"
+    },
+    {
+      "album": {
         "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
       },
@@ -23742,6 +23876,24 @@
       "duration_ms": 179545,
       "name": "Stefania (Kalush Orchestra)",
       "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
+    },
+    {
+      "album": {
+        "name": "Step Right Back",
+        "url": "https://open.spotify.com/album/1hIoJT7Ti9hzgtyG5KmADk"
+      },
+      "artists": [
+        {
+          "name": "Last Funk",
+          "url": "https://open.spotify.com/artist/0n6IOVvMeUGqclR9cw7C96"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161590,
+      "name": "Step Right Back",
+      "url": "https://open.spotify.com/track/3OvVzB3M0yPfRTr1JYsmLH"
     },
     {
       "album": {

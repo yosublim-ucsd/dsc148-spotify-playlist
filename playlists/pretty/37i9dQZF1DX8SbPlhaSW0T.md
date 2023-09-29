@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SbPlhaSW0T.md) - [plain]
 
 > Los mejores del Trap de todos los tiempos! 🐐 Cover: Noriel
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,565 likes - 34 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,668 likes - 34 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,6 +41,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SbPlhaSW0T.md) - [plain]
 | 31 | [La Ruta](https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:04 |
 | 32 | [Si Te Dejas Llevar](https://open.spotify.com/track/3cdecPxEdxk99munEMVQ01) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Si Te Dejas Llevar \(feat\. Juanka\)](https://open.spotify.com/album/4ZBRYtgXi7vaLMQDW53WUY) | 3:47 |
 | 33 | [Mula](https://open.spotify.com/track/69rcDQoTgcU1qI396vTcxC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Mula](https://open.spotify.com/album/6F2BMX9keqKrROQbpqVNnQ) | 5:08 |
-| 34 | [47 \- Remix](https://open.spotify.com/track/6IoKSUyNOOheJRjiuGb1ew) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Sinfonico](https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [47 \(Remix\)](https://open.spotify.com/album/0uwIB5LyXa2riRyWUwKiJA) | 8:37 |
+| 34 | [Soldado Y Profeta \(feat\. Ozuna, Almighty, Kendo & Ñengo Flow\)](https://open.spotify.com/track/6OIePp3zOPV4OubtVTyJJ8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Soldado Y Profeta \(Remix\) \[feat\. Ozuna, Almighty, Kendo & Ñengo Flow\]](https://open.spotify.com/album/1vvOGbKeidxIS74bWGE0gz) | 8:32 |
 
-Snapshot ID: `MCwwYzk2NTQ5YzJlZjNjNDYxNzBhZDdjMjBmYTIwY2JkOTM3MzNhYzQ3`
+Snapshot ID: `MCw2NzJhYjUzZWU3MDgwZjU1ZTY5MDExYzc4YzAzNjIxODU3ODU3NTFl`

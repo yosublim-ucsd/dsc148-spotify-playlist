@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo. Freshly picked just for you. \u2728 Cover: Ralphie Choo",
-  "num_followers": 764509,
+  "num_followers": 764513,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmRiZjE1ZDVjMWQ3NDJjMTUyYjQ1YmE0ZjVjZmMwYmRhMWIxZDE2",
+  "snapshot_id": "MCw2ZjE0YWFiNTgzMTk5NjVlZTg5OTFkY2RmMmU1MTIyZTQ1M2RhOGUy",
   "tracks": [
     {
       "added_at": "2023-09-22 05:11:32",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-09-22 05:11:32",
       "album": {
+        "name": "AfroLOVA' 23",
+        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 141473,
+      "name": "SONR\u00cdE <3",
+      "url": "https://open.spotify.com/track/47sOMp1xXLBzGXOuUZPR4x"
+    },
+    {
+      "added_at": "2023-09-22 05:11:32",
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -139,18 +155,18 @@
     {
       "added_at": "2023-09-22 05:11:32",
       "album": {
-        "name": "AfroLOVA' 23",
-        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 141473,
-      "name": "SONR\u00cdE <3",
-      "url": "https://open.spotify.com/track/47sOMp1xXLBzGXOuUZPR4x"
+      "duration_ms": 182657,
+      "name": "BAGDAD - Cap.7: Liturgia",
+      "url": "https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB"
     },
     {
       "added_at": "2023-09-22 05:11:32",
@@ -171,22 +187,6 @@
       "duration_ms": 237526,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy"
-    },
-    {
-      "added_at": "2023-09-22 05:11:32",
-      "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 182657,
-      "name": "BAGDAD - Cap.7: Liturgia",
-      "url": "https://open.spotify.com/track/1zZ7vl1amOLI4GE5oUn0YB"
     },
     {
       "added_at": "2023-09-22 05:11:32",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-09-22 05:11:32",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        },
-        {
-          "name": "Tetra Collective",
-          "url": "https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k"
-        }
-      ],
-      "duration_ms": 253747,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
-    },
-    {
-      "added_at": "2023-09-22 05:11:32",
-      "album": {
         "name": "i miss u",
         "url": "https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 155812,
       "name": "i miss u",
       "url": "https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh"
+    },
+    {
+      "added_at": "2023-09-22 05:11:32",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        },
+        {
+          "name": "Tetra Collective",
+          "url": "https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k"
+        }
+      ],
+      "duration_ms": 253747,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
     },
     {
       "added_at": "2023-09-22 05:11:32",

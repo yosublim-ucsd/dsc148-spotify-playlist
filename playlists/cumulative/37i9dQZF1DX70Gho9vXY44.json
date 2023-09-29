@@ -657,6 +657,28 @@
     },
     {
       "album": {
+        "name": "Hip Hop Peruano Mas Na : Mixtape, Vol. 2",
+        "url": "https://open.spotify.com/album/2mFYlXBO09xr1f14S4XZUn"
+      },
+      "artists": [
+        {
+          "name": "Hip Hop Peruano Mas Na",
+          "url": "https://open.spotify.com/artist/2Tr0mJ3E4bL4CqVb4lHoUH"
+        },
+        {
+          "name": "Liberato Kani",
+          "url": "https://open.spotify.com/artist/36gANGyQxxQagGCqYlQnqb"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162613,
+      "name": "Kaykunapi",
+      "url": "https://open.spotify.com/track/5GPMzrfc5U7kU7qCB0kzt2"
+    },
+    {
+      "album": {
         "name": "Kaykunapi",
         "url": "https://open.spotify.com/album/29GroZcRkoieMr2OUnjjWX"
       },
@@ -668,7 +690,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 164023,
       "name": "Kaykunapi",
       "url": "https://open.spotify.com/track/1OkUdksTQFu3usuw5OGkb9"

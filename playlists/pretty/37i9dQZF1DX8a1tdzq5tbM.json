@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1411029,
+  "num_followers": 1411591,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTI4NmZmOTM4ZjI2YTllMjY4MjJiOWJlMTNiZTBlNDA2NmQ0YjMx",
+  "snapshot_id": "MCxmNTBhNTNhZTg5MTFlOWMxZWMzNTY5Y2QzNThjM2RmNmNmN2VhN2Yz",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Lola's Theme",
-        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Lola's Theme - Radio Edit",
-      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Hypnotica (Benny Benassi Presents The Biz)",
         "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 285570,
       "name": "Satisfaction - Isak Original Extended",
       "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Western Dream",
-        "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 401360,
-      "name": "World, Hold On",
-      "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 208026,
       "name": "Baby When the Light (feat. Cozi)",
       "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Western Dream",
+        "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 401360,
+      "name": "World, Hold On",
+      "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "ResuRection",
+        "url": "https://open.spotify.com/album/7sdKCL2Si8ukvdc98z20PO"
+      },
+      "artists": [
+        {
+          "name": "Planet Perfecto Knights",
+          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
+        },
+        {
+          "name": "Paul Mark Oakenfold",
+          "url": "https://open.spotify.com/artist/7L6RvRPjVWKyHqGU7CN9oo"
+        }
+      ],
+      "duration_ms": 236521,
+      "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
+      "url": "https://open.spotify.com/track/6aMbSmv99DETtr97inIrJ4"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "The Sound of Goodbye, Pt. 2",
         "url": "https://open.spotify.com/album/5bCAsnDwc633FM025XeWeP"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 199133,
       "name": "The Sound of Goodbye - Above & Beyond UK Edit",
       "url": "https://open.spotify.com/track/1GMw17BGY1vDWNJ4xVo9V6"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "ResuRection",
-        "url": "https://open.spotify.com/album/7sdKCL2Si8ukvdc98z20PO"
-      },
-      "artists": [
-        {
-          "name": "Planet Perfecto Knights",
-          "url": "https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs"
-        },
-        {
-          "name": "Paul Mark Oakenfold",
-          "url": "https://open.spotify.com/artist/7L6RvRPjVWKyHqGU7CN9oo"
-        }
-      ],
-      "duration_ms": 236521,
-      "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
-      "url": "https://open.spotify.com/track/6aMbSmv99DETtr97inIrJ4"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Further",
-        "url": "https://open.spotify.com/album/755TkKLW2Pxab93RQ4RNlb"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Swoon",
-      "url": "https://open.spotify.com/track/2drOnGxH4NvagDjre7GXCd"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Strange Condition",
         "url": "https://open.spotify.com/album/0xAiJhllwbeJH9HGMR5FnI"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 354613,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3BBioBvGxikn3mVT2hhrEm"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Further",
+        "url": "https://open.spotify.com/album/755TkKLW2Pxab93RQ4RNlb"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/2drOnGxH4NvagDjre7GXCd"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "The Girl You Lost To Cocaine",
-        "url": "https://open.spotify.com/album/1DkcApyygjUYE3rHPEsWIg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "The Girl You Lost To Cocaine - Sander van Doorn Edit",
-      "url": "https://open.spotify.com/track/1QSTWEdeiR8UbrMjZVSOq4"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Just One Day",
         "url": "https://open.spotify.com/album/1aaCqas2We3usilkGFucZN"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 200079,
       "name": "Feel Your Love",
       "url": "https://open.spotify.com/track/1fmz46ZLovDBxPaKVUsHws"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "The Girl You Lost To Cocaine",
+        "url": "https://open.spotify.com/album/1DkcApyygjUYE3rHPEsWIg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "The Girl You Lost To Cocaine - Sander van Doorn Edit",
+      "url": "https://open.spotify.com/track/1QSTWEdeiR8UbrMjZVSOq4"
     },
     {
       "added_at": "2023-03-22 14:00:00",

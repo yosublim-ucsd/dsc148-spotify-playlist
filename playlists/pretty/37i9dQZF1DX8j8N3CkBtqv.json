@@ -1,12 +1,12 @@
 {
   "description": "Naye Indie gaano ka khazana! Cover- Utsavi Jha",
-  "num_followers": 63187,
+  "num_followers": 63256,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmMxNTU1MjZlYTM2Mjc4NGY3NTVlOGRmZmE1ZWM3YzlmMWNkNzFk",
+  "snapshot_id": "MCw1ZDMyMWI3ZDZjOTdmMmM4YzQxMzI4MzVkNmM0M2ZkZDBkMTE1MWJl",
   "tracks": [
     {
       "added_at": "2023-09-22 04:56:06",
@@ -256,12 +256,12 @@
       },
       "artists": [
         {
-          "name": "Adarsh Rao",
-          "url": "https://open.spotify.com/artist/5SQnHY32o5XokokvR82PS9"
-        },
-        {
           "name": "Sugat Dhanvijay",
           "url": "https://open.spotify.com/artist/7Fg1T3kPu33XZxKbOvjx5h"
+        },
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/5SQnHY32o5XokokvR82PS9"
         }
       ],
       "duration_ms": 163106,

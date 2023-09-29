@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: Flower.far
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,358 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,362 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,20 +34,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 24 | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6) | 4:22 |
 | 25 | [MUSE](https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [MUSE](https://open.spotify.com/album/0JApBQ8xuOnFPw32RnoGrS) | 3:27 |
 | 26 | [ลาก่อน](https://open.spotify.com/track/3vfwUrq22haMmIJyyyI7Hq) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [ลาก่อน](https://open.spotify.com/album/2MM6NjLf7zzQxVNfD93wU1) | 3:08 |
-| 27 | [บรรยากาศ](https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [บรรยากาศ](https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT) | 4:35 |
+| 27 | [บรรยากาศ](https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [บรรยากาศ \- Single](https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT) | 4:35 |
 | 28 | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/track/3v5g7khNHS9726iyuI1iUs) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/album/4UmeizyaQt3UMctskcADjF) | 5:17 |
 | 29 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 |
 | 30 | [Therapist](https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Therapist](https://open.spotify.com/album/1lagCns5TwcDe8TcJJsHkR) | 3:13 |
 | 31 | [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 |
-| 32 | [ได้เวลาแยกย้าย](https://open.spotify.com/track/51Y5u1uButVdKnAmjtJ9Gn) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [ได้เวลาแยกย้าย](https://open.spotify.com/album/4StH50jOP7uCCIsQ6tijX0) | 3:56 |
+| 32 | [ได้เวลาแยกย้าย](https://open.spotify.com/track/51Y5u1uButVdKnAmjtJ9Gn) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [ได้เวลาแยกย้าย \- Single](https://open.spotify.com/album/4StH50jOP7uCCIsQ6tijX0) | 3:56 |
 | 33 | [ไม่ได้ก็ไม่เอา](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 |
 | 34 | [กลัวฝันดี](https://open.spotify.com/track/6dJ87ZODacjSBUkayDNZgg) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [กลัวฝันดี](https://open.spotify.com/album/24fT89spi1h2icDiEne5UO) | 3:49 |
-| 35 | [ได้แต่นึกถึง](https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ได้แต่นึกถึง](https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof) | 4:24 |
+| 35 | [ได้แต่นึกถึง](https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ได้แต่นึกถึง \- Single](https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof) | 4:24 |
 | 36 | [แอบหวัง](https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [แอบหวัง](https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK) | 3:55 |
 | 37 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 |
 | 38 | [เปลี่ยนไปแต่เหมือนเดิม \(Changed\)](https://open.spotify.com/track/69nkOVHSHgN2AyZRXHfAeD) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เปลี่ยนไปแต่เหมือนเดิม \(Changed\)](https://open.spotify.com/album/6k0Frmgoclu4EIJnLlP9vQ) | 3:36 |
 | 39 | [ก่อนที่เธอจะลืมฝัน](https://open.spotify.com/track/7434PIB7QneUWJSKjHhNXH) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ก่อนที่เธอจะลืมฝัน \(Lucid\)](https://open.spotify.com/album/3ERquWsXSCsvB7g1LGTrIp) | 4:16 |
-| 40 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \[feat\. Aheye of 4EVE\]](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 |
+| 40 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \- Single](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 |
 | 41 | [ไม่เป็นไรหรอกมั้ง](https://open.spotify.com/track/3mtHA5dSJW9DsCh1NjhwtX) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 5:24 |
 | 42 | [ขอให้ความเสียใจฉันหายไปกับฝน](https://open.spotify.com/track/3H4DCQTrmNbmAXHTb8ndgS) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ขอให้ความเสียใจฉันหายไปกับฝน](https://open.spotify.com/album/4OHYdOHu4n0h8LY7zWyLyK) | 4:55 |
 | 43 | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 49 | [ดาว \(Down\)](https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [ดาว \(Down\)](https://open.spotify.com/album/0IaQviNjdSyVrrZ0q7ZfqB) | 3:23 |
 | 50 | [BONG](https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [BONG](https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7) | 4:01 |
 
-Snapshot ID: `MCw3ZmZmYzdkNjJlYjhiYWJlYmU0ZmRmZGFiZmVmOWNlNDVmMGYzYjg3`
+Snapshot ID: `MCxlMTVmMTUyZTg0M2YyOGUzZjE5YTViYjk2YzRlYjU2YzM4ZDNmYzIz`

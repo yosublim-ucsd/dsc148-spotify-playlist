@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421213,
+  "num_followers": 421209,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj",
+  "snapshot_id": "MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1343,26 +1343,18 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Putaria e Crime",
-        "url": "https://open.spotify.com/album/1mt7soWCRIs5QgCOh2R8EL"
+        "name": "alice (s\u00f3 que sem as maravilhas)",
+        "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
       },
       "artists": [
         {
-          "name": "Natalh\u00e3o",
-          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
-        },
-        {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
-          "name": "BIDUZEN",
-          "url": "https://open.spotify.com/artist/20tJsPo3GVroZHlbdXJ7nX"
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
         }
       ],
-      "duration_ms": 243548,
-      "name": "Putaria e Crime",
-      "url": "https://open.spotify.com/track/37FfXMaqjD664lk7VcXEqr"
+      "duration_ms": 151111,
+      "name": "alice (s\u00f3 que sem as maravilhas)",
+      "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1383,18 +1375,26 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "alice (s\u00f3 que sem as maravilhas)",
-        "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
+        "name": "Putaria e Crime",
+        "url": "https://open.spotify.com/album/1mt7soWCRIs5QgCOh2R8EL"
       },
       "artists": [
         {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+          "name": "Natalh\u00e3o",
+          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "BIDUZEN",
+          "url": "https://open.spotify.com/artist/20tJsPo3GVroZHlbdXJ7nX"
         }
       ],
-      "duration_ms": 151111,
-      "name": "alice (s\u00f3 que sem as maravilhas)",
-      "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
+      "duration_ms": 243548,
+      "name": "Putaria e Crime",
+      "url": "https://open.spotify.com/track/37FfXMaqjD664lk7VcXEqr"
     },
     {
       "added_at": "2023-07-12 21:00:00",

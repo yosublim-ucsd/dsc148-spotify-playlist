@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Cometa Sucre en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,758 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,772 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 49 | [El corazón no engaña a su dueño \(ECNEASD\)](https://open.spotify.com/track/68xkXOW4aA6oFOsXGsg0Gj) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Iluso](https://open.spotify.com/artist/0i51gGztiY5rG4qdmkQeCP) | [El corazón no engaña a su dueño \(ECNEASD\)](https://open.spotify.com/album/3zvfgER0YAVkUu64r72r8P) | 2:53 |
 | 50 | [Cuidaré De Ti](https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Cuidaré De Ti](https://open.spotify.com/album/66t7uYODEltF75JDOSgroj) | 2:28 |
 
-Snapshot ID: `MCwxYjRiNzFlZTkzNjc1OTA2MzQwOTU3OTg3ODBmYjNhYzI3YTEzY2M4`
+Snapshot ID: `MCw4NjJhMWZkNjEzNzFmODlhZjJjNDA2MTczZGFlNTUxZmNhZGFhNjg2`

@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 64489,
+  "num_followers": 64495,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTI3NTdhMDllNmQxYjNmYjEyOTU4MWU0MDg2ZTJiNTljZTAyNjE5",
+  "snapshot_id": "MCw3ZDNlN2RiYWM1ZTk3YWNkNWZkZGUxNDAyMDI2MzFkMDU5Njc1YzEw",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "P\u00e1ssaro Proibido",
-        "url": "https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "Olhos Nos Olhos",
-      "url": "https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Chico Buarque de Hollanda Vol. 3",
         "url": "https://open.spotify.com/album/3sxAzbLUDuydUwiyWj5kil"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 233400,
       "name": "Roda-Viva",
       "url": "https://open.spotify.com/track/06ND7qqsmIRCuWdQNQIlTE"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "P\u00e1ssaro Proibido",
+        "url": "https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "Olhos Nos Olhos",
+      "url": "https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl"
     },
     {
       "added_at": "2021-08-18 22:14:03",

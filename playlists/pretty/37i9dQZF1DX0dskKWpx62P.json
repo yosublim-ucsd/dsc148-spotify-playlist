@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 35821,
+  "num_followers": 35877,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDA2MjFjNzNmOWU5MTMwODk1Yjg5MjVlZTY3ODgxM2QwYzVkOGNk",
+  "snapshot_id": "MCwyODk4MzEwYTg5MzRmZjE1ZGFiOTczNDRmNDIzMTYwNTg1Y2U4MDk3",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Amanda Portales la Novia del Per\u00fa",
-        "url": "https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn"
-      },
-      "artists": [
-        {
-          "name": "Amanda Portales",
-          "url": "https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Vaso de Cristal",
-      "url": "https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/4OmbN40zd86thCciHF3PR9"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 266831,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/1FJMpwSVvvRAUs4e9J8cSr"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Amanda Portales la Novia del Per\u00fa",
+        "url": "https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn"
+      },
+      "artists": [
+        {
+          "name": "Amanda Portales",
+          "url": "https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Vaso de Cristal",
+      "url": "https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
-      },
-      "artists": [
-        {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Adi\u00f3s Pueblo De Ayacucho",
-      "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Lo Mejor del Incomparable...Mario Mendoza",
         "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 163080,
       "name": "Mi Linda Ni\u00f1a",
       "url": "https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
+      },
+      "artists": [
+        {
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Adi\u00f3s Pueblo De Ayacucho",
+      "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
     },
     {
       "added_at": "2022-02-04 14:45:56",

@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 165833,
       "name": "all-american bitch",
       "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
@@ -11702,7 +11702,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 376035,
       "name": "Eu Sou Teu Pai - Ao Vivo",
       "url": "https://open.spotify.com/track/34eKejr8wd69fFpL38IIfv"
@@ -21460,10 +21460,36 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 200777,
       "name": "Mtg \u00c9 Madeirada At\u00e9 O Amanhecer",
       "url": "https://open.spotify.com/track/2EaE6Nd4B0R1tOrAutKSu2"
+    },
+    {
+      "album": {
+        "name": "Mtg \u00c9 Madeirada At\u00e9 O Amanhecer",
+        "url": "https://open.spotify.com/album/2Fxs8GgpPujcs44vbH4SFn"
+      },
+      "artists": [
+        {
+          "name": "Dj Vit\u00e3o da ZL",
+          "url": "https://open.spotify.com/artist/76NC6up0g0RCsGRma5lwrI"
+        },
+        {
+          "name": "Neto LX",
+          "url": "https://open.spotify.com/artist/5Llx4U4MgdWDvK34NpNUyi"
+        },
+        {
+          "name": "Dj Bel Bertinelli",
+          "url": "https://open.spotify.com/artist/7M4wGNG2NYHUBFHOMKeg2V"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200777,
+      "name": "Mtg \u00c9 Madeirada At\u00e9 O Amanhecer",
+      "url": "https://open.spotify.com/track/7gRzoWCpcfSs2yU9XeOhlh"
     },
     {
       "album": {

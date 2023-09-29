@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-137 songs - 8 hr 53 min
+138 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Control](https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Mystery Machine](https://open.spotify.com/album/7tIUXWWbdUtPvzZRWrn7zj) | 3:48 | 2022-08-05 |  |
 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 | 2023-05-19 |  |
 | [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 | 2022-08-05 | 2023-09-08 |
+| [Dahlia](https://open.spotify.com/track/3v76fnrYSYA8OVqxzjWIPJ) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Neon Dust](https://open.spotify.com/album/55TBJxFWNk8t8SqBajqfDt) | 5:06 | 2023-09-22 |  |
 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 | 2023-05-19 |  |
 | [Desire \(Sub Focus & Dimension\)](https://open.spotify.com/track/507UUx311ghfFTMSuHUeyS) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Desire \(with Dimension\) \[Sub Focus & Dimension\]](https://open.spotify.com/album/0KlELAN2z6hosr3PA7BAr4) | 3:35 | 2022-08-05 |  |
 | [Devil's Night](https://open.spotify.com/track/6JRzMirHyMNFOezS9kbtcl) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Devil's Night EP](https://open.spotify.com/album/7GhVfkNBfwR8cmbIC6qjMa) | 4:45 | 2022-08-05 |  |
@@ -53,7 +54,7 @@
 | [Feel Alive](https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Feel Alive](https://open.spotify.com/album/45j86M3d2PYo2trc8MoEW3) | 4:08 | 2022-08-05 | 2023-09-09 |
 | [Feeling High \(Lenzman Remix\)](https://open.spotify.com/track/6gs7Dy6ayB5PXEHpQxzaaZ) | [The Mouse Outfit](https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2), [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF), [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [Feeling High \(Lenzman Remix\)](https://open.spotify.com/album/3W0HtxZIUVjn04YaW4T5x0) | 4:48 | 2022-08-05 | 2023-08-12 |
 | [Feelings](https://open.spotify.com/track/6ubaO4iPmPCrtSsMkfmw9v) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [T\. Power](https://open.spotify.com/artist/6RWwgz4MtFCHzptyShPC1c) | [Diary of a Digital Soundboy](https://open.spotify.com/album/2AQvEaTftBRkdPm631O1rZ) | 4:47 | 2022-08-05 |  |
-| [Feels](https://open.spotify.com/track/1VqlpAwvOW192Th24eXenX) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Feels](https://open.spotify.com/album/56j4dfImJhmZPzaVyR4wnX) | 2:55 | 2022-08-05 |  |
+| [Feels](https://open.spotify.com/track/1VqlpAwvOW192Th24eXenX) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Feels](https://open.spotify.com/album/56j4dfImJhmZPzaVyR4wnX) | 2:55 | 2022-08-05 | 2023-09-29 |
 | [Find Your Way](https://open.spotify.com/track/0HbW183P72KHki0wJsv99I) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Find Your Way](https://open.spotify.com/album/4wDEWSRuqO6k4RgOolYy2h) | 5:28 | 2022-08-05 | 2023-07-01 |
 | [Fingerprints](https://open.spotify.com/track/15oT4PGAtcWflYCVUCtkug) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [Fingerprints](https://open.spotify.com/album/4ABIVST2di5nUzxsT0EZtb) | 3:48 | 2023-05-19 |  |
 | [fumble \(feat\. piri\)](https://open.spotify.com/track/1vyzpZ8td4h4QNpuATl3ZX) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [fumble \(feat\. piri\)](https://open.spotify.com/album/5hscifRFV9IXLm2mZ27fSH) | 2:54 | 2023-06-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk",
-  "num_followers": 33072,
+  "num_followers": 33106,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmIzNmI1MmVjOTY0ODZjNDk0ZjgwY2JiY2YyZjM4OTJkMzI5N2M5",
+  "snapshot_id": "MCwzZWU1ODk0ZGJiZWZmNjIzNGU2MDFjZTYzMzE5NDMwYmY0OGZmNjNm",
   "tracks": [
     {
       "added_at": "2023-09-04 13:49:57",
@@ -343,30 +343,26 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "M\u00fasicas Para Fumar Bal\u00e3o",
-        "url": "https://open.spotify.com/album/2zBsNCMQxokxViSI9kiaQX"
+        "name": "Sirenes",
+        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
           "name": "Big Bllakk",
           "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
         },
         {
           "name": "Pedro Apoema",
           "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 179574,
-      "name": "Dez e Faixa",
-      "url": "https://open.spotify.com/track/0Z6gKWw11x5pKSA16NOn6C"
+      "duration_ms": 230000,
+      "name": "Sirenes",
+      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -391,18 +387,30 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "Lembro",
-        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
+        "name": "M\u00fasicas Para Fumar Bal\u00e3o",
+        "url": "https://open.spotify.com/album/2zBsNCMQxokxViSI9kiaQX"
       },
       "artists": [
         {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Lembro",
-      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
+      "duration_ms": 179574,
+      "name": "Dez e Faixa",
+      "url": "https://open.spotify.com/track/0Z6gKWw11x5pKSA16NOn6C"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -471,26 +479,18 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "Sirenes",
-        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
+        "name": "Lembro",
+        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
       },
       "artists": [
         {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Sirenes",
-      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
+      "duration_ms": 164571,
+      "name": "Lembro",
+      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -635,38 +635,26 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "Fura Bilion\u00e1rios",
-        "url": "https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w"
+        "name": "Concreto",
+        "url": "https://open.spotify.com/album/0484Oh2IFxPJEyEQfdxg5g"
       },
       "artists": [
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
         },
         {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
         },
         {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Xaga",
-          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
-        },
-        {
-          "name": "Ghetto ZN",
-          "url": "https://open.spotify.com/artist/3j081Zyys4b40Q0DSogq1K"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Fura Bilion\u00e1rios",
-      "url": "https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC"
+      "duration_ms": 136666,
+      "name": "Concreto",
+      "url": "https://open.spotify.com/track/0j3wFKPtHef1d6ode3mzKk"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -707,26 +695,38 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "Concreto",
-        "url": "https://open.spotify.com/album/0484Oh2IFxPJEyEQfdxg5g"
+        "name": "Fura Bilion\u00e1rios",
+        "url": "https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w"
       },
       "artists": [
         {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Xaga",
+          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
+        },
+        {
+          "name": "Ghetto ZN",
+          "url": "https://open.spotify.com/artist/3j081Zyys4b40Q0DSogq1K"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
         }
       ],
-      "duration_ms": 136666,
-      "name": "Concreto",
-      "url": "https://open.spotify.com/track/0j3wFKPtHef1d6ode3mzKk"
+      "duration_ms": 300000,
+      "name": "Fura Bilion\u00e1rios",
+      "url": "https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC"
     },
     {
       "added_at": "2023-09-04 13:49:57",

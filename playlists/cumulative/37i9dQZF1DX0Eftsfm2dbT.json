@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Aglio e olio",
+        "url": "https://open.spotify.com/album/5dQPDTfYpbdXOatmVjTaNi"
+      },
+      "artists": [
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162233,
+      "name": "Aglio e olio",
+      "url": "https://open.spotify.com/track/0cw4jePLv2q20Lz9ZdqcvX"
+    },
+    {
+      "album": {
         "name": "United Queens",
         "url": "https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr"
       },
@@ -136,7 +154,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 168000,
       "name": "Away",
       "url": "https://open.spotify.com/track/6sodIGofqqQaGX5v4HgAAk"
@@ -378,7 +396,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 140162,
       "name": "Chip 'n' Dale",
       "url": "https://open.spotify.com/track/1FTS4GkfIdholeliuIRebx"
@@ -400,6 +418,28 @@
       "duration_ms": 117428,
       "name": "CIRCUS",
       "url": "https://open.spotify.com/track/6mhQT54ebps16bsfmmjuz6"
+    },
+    {
+      "album": {
+        "name": "JIYU",
+        "url": "https://open.spotify.com/album/1DlOMgYpMzmGrcBSoioKHB"
+      },
+      "artists": [
+        {
+          "name": "Shurkn Pap",
+          "url": "https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB"
+        },
+        {
+          "name": "KOWICHI",
+          "url": "https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165161,
+      "name": "COMFORTABLE",
+      "url": "https://open.spotify.com/track/2AlJhfTeZbbotAlPPV3D8G"
     },
     {
       "album": {
@@ -1070,7 +1110,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 177580,
       "name": "KIMINOMAMA",
       "url": "https://open.spotify.com/track/69lJz2fXXptw0YU5hF3L47"
@@ -1221,6 +1261,32 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7uq7RO0u3zAzj95GZXArJx"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        },
+        {
+          "name": "ViryKnot",
+          "url": "https://open.spotify.com/artist/0OmLGcDtPXUT2MnAtMtykp"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169646,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2LZK3VhByCHhb4HHlcvGJ5"
+    },
+    {
+      "album": {
         "name": "KAWAII BUBBLY LOVELY III",
         "url": "https://open.spotify.com/album/00NHoF1XbizRrBTny378TI"
       },
@@ -1310,7 +1376,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 184760,
       "name": "Miss You feat. Vernon of SEVENTEEN",
       "url": "https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi"
@@ -1416,6 +1482,28 @@
       "duration_ms": 136740,
       "name": "Naiya",
       "url": "https://open.spotify.com/track/1wcJpJWF1aK1WHyl7vjTR2"
+    },
+    {
+      "album": {
+        "name": "now that UR gone",
+        "url": "https://open.spotify.com/album/4pujOHKtOo25md7rMwnRLE"
+      },
+      "artists": [
+        {
+          "name": "BBY NABE",
+          "url": "https://open.spotify.com/artist/4zb2mUkgFg9NGwAJnzlS8B"
+        },
+        {
+          "name": "SEEDA",
+          "url": "https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168861,
+      "name": "never4ever",
+      "url": "https://open.spotify.com/track/5lEJuqYmCHLXdHIfYJwsEv"
     },
     {
       "album": {
@@ -1597,7 +1685,7 @@
         },
         {
           "name": "DAI",
-          "url": "https://open.spotify.com/artist/1Vq4jwzr7WSvWcbLFnGt3k"
+          "url": "https://open.spotify.com/artist/5wOXiOq2BTVTZypg7kr5fP"
         }
       ],
       "date_added": "2023-09-26",
@@ -1632,7 +1720,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 179464,
       "name": "Panic Run",
       "url": "https://open.spotify.com/track/3L2XRKRxXvP7GeKhJQgvbF"
@@ -1920,6 +2008,42 @@
       "duration_ms": 219252,
       "name": "Sweet Wine",
       "url": "https://open.spotify.com/track/04GsYibBOoPxJEBL92AniN"
+    },
+    {
+      "album": {
+        "name": "thanks",
+        "url": "https://open.spotify.com/album/2sDc5FcStPvo1fAMswhX3v"
+      },
+      "artists": [
+        {
+          "name": "dodo",
+          "url": "https://open.spotify.com/artist/1YwZlTKyH1RiGnCDb8O7TT"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195176,
+      "name": "thanks",
+      "url": "https://open.spotify.com/track/01ZsXCb8HrueIEVZNewduy"
+    },
+    {
+      "album": {
+        "name": "The Grower's Club Anthem",
+        "url": "https://open.spotify.com/album/5YCRnaqmGB3yF2ZO33ex50"
+      },
+      "artists": [
+        {
+          "name": "NORIKIYO",
+          "url": "https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203621,
+      "name": "The Grower's Club Anthem",
+      "url": "https://open.spotify.com/track/53JuXTNeS9Z6d9NWA2IfTG"
     },
     {
       "album": {
@@ -2280,7 +2404,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 190700,
       "name": "YUUTEMOSYAANAI",
       "url": "https://open.spotify.com/track/2WoHeCMpClK6Zg9012BM7R"

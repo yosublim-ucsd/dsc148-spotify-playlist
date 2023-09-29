@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/3XOj6M8MfJPr6BGpOuI9ho"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "LeriQ",
+          "url": "https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145892,
+      "name": "21",
+      "url": "https://open.spotify.com/track/6pZggWHbaEqA3d3WVVT35u"
+    },
+    {
+      "album": {
         "name": "234",
         "url": "https://open.spotify.com/album/7KLupsQWurAEG9XkDxRX5s"
       },
@@ -404,7 +426,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 172307,
       "name": "AMINA",
       "url": "https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x"
@@ -516,7 +538,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 216000,
       "name": "Asiwaju",
       "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
@@ -556,7 +578,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 130856,
       "name": "Authentic",
       "url": "https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR"
@@ -658,7 +680,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 190677,
       "name": "Baby Riddim",
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
@@ -1586,7 +1608,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 130500,
       "name": "CHERRY SWEET",
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
@@ -1608,7 +1630,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 140410,
       "name": "Chocolati",
       "url": "https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT"
@@ -2156,7 +2178,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 338975,
       "name": "Don't Lie/See It Through - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto"
@@ -2949,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+    },
+    {
+      "album": {
         "name": "Madina to the Universe",
         "url": "https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW"
       },
@@ -3292,6 +3332,28 @@
       "duration_ms": 222865,
       "name": "High Spirit",
       "url": "https://open.spotify.com/track/4qqOyc8ioVm5kvCYdgS2TO"
+    },
+    {
+      "album": {
+        "name": "Hillary Remix (feat. Pabi Cooper)",
+        "url": "https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH"
+      },
+      "artists": [
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        },
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174953,
+      "name": "Hillary Remix (feat. Pabi Cooper)",
+      "url": "https://open.spotify.com/track/2ff14gUetkeu5ybyyPQbOt"
     },
     {
       "album": {
@@ -3875,6 +3937,28 @@
     },
     {
       "album": {
+        "name": "Jaga Jaga (with Babyboy AV)",
+        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Jaga Jaga (with Babyboy AV)",
+      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
+    },
+    {
+      "album": {
         "name": "Jahera",
         "url": "https://open.spotify.com/album/0tYZ0bfXtTBzDFjMr2qqAk"
       },
@@ -3974,7 +4058,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 185660,
       "name": "Jonzing Boy",
       "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
@@ -4804,7 +4888,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 129621,
       "name": "Maria",
       "url": "https://open.spotify.com/track/1XUxwqxspZJOOrFJQvTcvn"
@@ -5332,7 +5416,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 192208,
       "name": "Not Worthy (feat. Nonso Amadi)",
       "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
@@ -6066,7 +6150,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 155368,
       "name": "PICASSO (feat. Logos Olori)",
       "url": "https://open.spotify.com/track/1f5WN3V8AVYyUahqjWogGj"
@@ -6348,6 +6432,32 @@
       "duration_ms": 156029,
       "name": "Roses",
       "url": "https://open.spotify.com/track/144kUjJ5kE1lKjDniO7uuX"
+    },
+    {
+      "album": {
+        "name": "Routine Lover",
+        "url": "https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj"
+      },
+      "artists": [
+        {
+          "name": "Good Nation",
+          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Routine Lover",
+      "url": "https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk"
     },
     {
       "album": {
@@ -6974,7 +7084,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 165819,
       "name": "Softies Vibe",
       "url": "https://open.spotify.com/track/45gohzfD4mrYZgVRkkNSRE"
@@ -7472,7 +7582,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 159425,
       "name": "Ta Ta Ta",
       "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
@@ -7676,7 +7786,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 156682,
       "name": "Time and Chance",
       "url": "https://open.spotify.com/track/1JY6hD0arFZTGLaSYk1eal"
@@ -7910,7 +8020,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
@@ -7946,7 +8056,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 213658,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV"

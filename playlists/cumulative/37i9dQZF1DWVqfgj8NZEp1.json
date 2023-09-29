@@ -1255,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Cry Me a River",
+        "url": "https://open.spotify.com/album/5dbpStjViSbb4tKlXOHoN1"
+      },
+      "artists": [
+        {
+          "name": "Dominick Farinacci",
+          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244484,
+      "name": "Cry Me a River",
+      "url": "https://open.spotify.com/track/0MbWJKmsfogCvYwnqshqQY"
+    },
+    {
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/5vRSjGybGL5JiNGIsfh2K6"
       },

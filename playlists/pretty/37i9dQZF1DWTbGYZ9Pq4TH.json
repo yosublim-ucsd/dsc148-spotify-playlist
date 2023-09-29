@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 171712,
+  "num_followers": 171747,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTQyYWViZDdiNWI4ZmQxODNjNWM4YjllYzk2MzIzYjFhN2FmZWQ1",
+  "snapshot_id": "MCxhOGY0MGRjMTU5ZmEzMWZhZmZlZjEzY2Q0ZDk4ZTkzMTM2NmMwYTgz",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Un'emozione per sempre",
-      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Sindrome di Stendhal",
         "url": "https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 177253,
       "name": "Il bacio di Klimt",
       "url": "https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Un'emozione per sempre",
+      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Cascare nei tuoi occhi",
+      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "Venere e Marte (feat. Marco Mengoni, Frah Quintale)",
         "url": "https://open.spotify.com/album/3qc7zx8OrCXDqzs7qa8l7P"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 222047,
       "name": "Venere e Marte (feat. Marco Mengoni, Frah Quintale)",
       "url": "https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Cascare nei tuoi occhi",
-      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "La Donna Cannone",
-        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
-      },
-      "artists": [
-        {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
-        }
-      ],
-      "duration_ms": 279706,
-      "name": "La donna cannone",
-      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "VASCONONSTOP",
         "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 253733,
       "name": "Come Nelle Favole",
       "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "La Donna Cannone",
+        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
+      },
+      "artists": [
+        {
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+        }
+      ],
+      "duration_ms": 279706,
+      "name": "La donna cannone",
+      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Gemelli Diversi",
-        "url": "https://open.spotify.com/album/2win94a4gptG9kru2p6Hka"
+        "name": "Rimmel",
+        "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
       },
       "artists": [
         {
-          "name": "Gemelli Diversi",
-          "url": "https://open.spotify.com/artist/1rmR17cbB34R3cKheHJBDZ"
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
         }
       ],
-      "duration_ms": 240240,
-      "name": "Un attimo ancora",
-      "url": "https://open.spotify.com/track/0rork59Tm6wKPD4SMTay1n"
+      "duration_ms": 220640,
+      "name": "Rimmel",
+      "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
     }
   ],
   "unique_name": "Amore Davvero",

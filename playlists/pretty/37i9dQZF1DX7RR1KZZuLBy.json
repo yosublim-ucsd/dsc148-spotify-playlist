@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 33844,
+  "num_followers": 33885,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGI3YTQwNzg3MWUxNDdhZTY3ZDQwN2RiY2FhYTljM2Y5NGUzNGY4",
+  "snapshot_id": "MCw3ZTA5ZWJiMzViY2VhNGUyMmE0NWZlNGIxZjkyYjNkMmVlN2Y5Yjc3",
   "tracks": [
     {
       "added_at": "2023-09-15 00:01:00",
@@ -129,6 +129,22 @@
       "url": "https://open.spotify.com/track/58tYUrA7rqXufrstqh4UZj"
     },
     {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/3NOvXdoNlWfXipNrdWW3fE"
+      },
+      "artists": [
+        {
+          "name": "Tanner Wareham",
+          "url": "https://open.spotify.com/artist/0PjEfAc4kotv7fU7OiNj9L"
+        }
+      ],
+      "duration_ms": 288029,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/3cCn4kCzhQst0vNHpSxDzt"
+    },
+    {
       "added_at": "2023-09-26 15:40:20",
       "album": {
         "name": "I Need You Now",
@@ -231,6 +247,22 @@
       "duration_ms": 183426,
       "name": "Just Like God",
       "url": "https://open.spotify.com/track/5kc449Mw1upsOITilmFB3f"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "iKhaya (Home)",
+        "url": "https://open.spotify.com/album/5KbJFfhm0Tn8otT1oXkqf9"
+      },
+      "artists": [
+        {
+          "name": "Pursuit",
+          "url": "https://open.spotify.com/artist/35c3E0sZRylpKozlrpO45M"
+        }
+      ],
+      "duration_ms": 398047,
+      "name": "Planted",
+      "url": "https://open.spotify.com/track/2BcDmPEM5hkeiP50TZMknX"
     },
     {
       "added_at": "2023-09-22 00:01:00",

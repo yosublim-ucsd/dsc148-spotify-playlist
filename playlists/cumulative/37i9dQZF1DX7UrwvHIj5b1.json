@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Background Check",
+        "url": "https://open.spotify.com/album/6ljKLZKOb81aAd241ikUEe"
+      },
+      "artists": [
+        {
+          "name": "0079",
+          "url": "https://open.spotify.com/artist/00K5zIIE3FS8YDdZoOntsY"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262308,
+      "name": "Background Check",
+      "url": "https://open.spotify.com/track/3darGlrXU4wwSsbHYZODsB"
+    },
+    {
+      "album": {
         "name": "all:Lo compilation vol:1",
         "url": "https://open.spotify.com/album/6e9JKZFv7kj0WJy0Lb4p0l"
       },
@@ -251,6 +269,24 @@
     },
     {
       "album": {
+        "name": "IMRV037",
+        "url": "https://open.spotify.com/album/7CmJOJ1mzqgUkfQkvh35RR"
+      },
+      "artists": [
+        {
+          "name": "Bukkha",
+          "url": "https://open.spotify.com/artist/7ADHSBDZKBUoay9s2qXfBA"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279987,
+      "name": "Deliverance",
+      "url": "https://open.spotify.com/track/6OFgrj8vpbvGpGWa6IDpv2"
+    },
+    {
+      "album": {
         "name": "Fade Into Dust / Departure",
         "url": "https://open.spotify.com/album/5UEcNOfIqP9F9SW65INOs8"
       },
@@ -353,6 +389,42 @@
     },
     {
       "album": {
+        "name": "Metaphysics",
+        "url": "https://open.spotify.com/album/339cYzlMA0EUyhn4LVXHf2"
+      },
+      "artists": [
+        {
+          "name": "Chief Kaya",
+          "url": "https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/7uv4mcWALbuCSkRhN3yNZ2"
+    },
+    {
+      "album": {
+        "name": "Eyes In The Rain",
+        "url": "https://open.spotify.com/album/6P6uGYmR2F6XOAIvwukEEH"
+      },
+      "artists": [
+        {
+          "name": "Dedman",
+          "url": "https://open.spotify.com/artist/7dD5al99eCyWWlcVeoN7Gz"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348004,
+      "name": "Eyes In The Rain",
+      "url": "https://open.spotify.com/track/0c3xxwqNKHOwvciDlxkd30"
+    },
+    {
+      "album": {
         "name": "Far North Dubs EP",
         "url": "https://open.spotify.com/album/25iJRCx5VAdSDFFWCWlIjy"
       },
@@ -368,6 +440,24 @@
       "duration_ms": 233142,
       "name": "Far North Dub",
       "url": "https://open.spotify.com/track/0wmp4aZ02X9Eyy335SbqSd"
+    },
+    {
+      "album": {
+        "name": "Fire EP",
+        "url": "https://open.spotify.com/album/3xxmpJvi2TXgfpr2xNuX54"
+      },
+      "artists": [
+        {
+          "name": "EchoBoy",
+          "url": "https://open.spotify.com/artist/41EvwdctHORo4qe75HpSLV"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267742,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/7e3undjXRElTxRyhK1OnYb"
     },
     {
       "album": {
@@ -678,7 +768,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 393375,
       "name": "Micro Dose",
       "url": "https://open.spotify.com/track/5WROKHW8ddJMiRpWEux9G3"
@@ -1021,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Crumpets",
+        "url": "https://open.spotify.com/album/5cx3u1fBnyF2oKl7S6lo4U"
+      },
+      "artists": [
+        {
+          "name": "Taiko",
+          "url": "https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223853,
+      "name": "Rise Above",
+      "url": "https://open.spotify.com/track/1Bws7rhbIf45CAIygXLai7"
+    },
+    {
+      "album": {
         "name": "Windy",
         "url": "https://open.spotify.com/album/1XhHgedHkBH9Rb5VmoiXMI"
       },
@@ -1224,6 +1332,24 @@
       "duration_ms": 250579,
       "name": "Tellaman",
       "url": "https://open.spotify.com/track/0lZORz16mfVk3NW58tguYS"
+    },
+    {
+      "album": {
+        "name": "The Last Lotus EP",
+        "url": "https://open.spotify.com/album/01LyeW8mTLceCdqcQTeBRx"
+      },
+      "artists": [
+        {
+          "name": "Mystic State",
+          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279398,
+      "name": "The Last Lotus",
+      "url": "https://open.spotify.com/track/0ckyGinZxwo5wnEPDBhQaJ"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Gunawan
+> Dendang Dangdut teratas\. Cover: Lesti
 
-122 songs - 9 hr 27 min
+125 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bertepuk Sebelah Tangan](https://open.spotify.com/track/76IJq5eOqctxtHGyuEwF5Y) | [Gamma1](https://open.spotify.com/artist/4c4TlVWGSvRk1mBfZdYsnX), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Bertepuk Sebelah Tangan](https://open.spotify.com/album/5A02IkD5iJF61AkW368oHI) | 3:14 | 2021-08-23 | 2023-06-30 |
 | [Bintang Tertutup Awan](https://open.spotify.com/track/3sarIVZdIKTZB6SD9A2c5F) | [Gunawan](https://open.spotify.com/artist/5MZr7EDPHUoy3vWUs2R88o) | [Bintang Tertutup Awan](https://open.spotify.com/album/2wSBUcaO4xdRiPL11aRxQb) | 4:31 | 2023-09-21 |  |
 | [Bojo Setyo](https://open.spotify.com/track/63TwHyUBMkvBbeeHr07sOG) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Bojo Setyo](https://open.spotify.com/album/2lD4cA2RppQkk2JR9dO0W2) | 4:48 | 2023-09-07 |  |
+| [Bukan Cinta Biasa](https://open.spotify.com/track/0SGLXPkGAHAzmNMUZICurK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Cinta Biasa](https://open.spotify.com/album/0Zhnf3VQis3LBvnyeP2OxH) | 5:17 | 2023-09-28 |  |
 | [Cincin Kepalsuan](https://open.spotify.com/track/7h16Oq3zKrQmY0NurK5DlT) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Cincin Kepalsuan](https://open.spotify.com/album/15FkTQrMpQpIsNtWsOlZH7) | 6:56 | 2023-07-21 |  |
 | [Cinta Dalam Khayalan](https://open.spotify.com/track/7A42dJ9KKGtRGE4s3xTzjv) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [Cinta Dalam Khayalan](https://open.spotify.com/album/75MaREwGLzVsd5kqHhdVnO) | 4:58 | 2022-10-13 | 2023-07-14 |
 | [Cinta Sejati](https://open.spotify.com/track/5Hr4r6S8DND2ef1BsUqsEU) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Cinta Sejati](https://open.spotify.com/album/0oc1EyhEHfUj79vJgxVDZu) | 3:43 | 2023-06-29 |  |
@@ -50,6 +51,7 @@
 | [Hati Ini Selalu Milikmu](https://open.spotify.com/track/4MKz4c3w8UaMpBqlDdqRLg) | [Shinta Arsinta](https://open.spotify.com/artist/2K1Wy4PPyo0ni0EZxPwNCa) | [Hati Ini Selalu Milikmu](https://open.spotify.com/album/112on20pNWhwlIGoWGe4JM) | 4:24 | 2023-08-24 |  |
 | [Hatiku Beku](https://open.spotify.com/track/2jiwjWWBlVx6GoOTg6h4BG) | [OM PMR 1977](https://open.spotify.com/artist/0A4aLQgaU88gKKC4DziWIl), [David Koeswoyo](https://open.spotify.com/artist/7x6OmOPjv1WyL831nr7Plx) | [Hatiku Beku](https://open.spotify.com/album/354yU1d7zhycezwTZ8E2FD) | 4:42 | 2023-06-09 |  |
 | [Hepi Betul](https://open.spotify.com/track/4uMts13ld3ZJWZBmj5HJrC) | [Dapur 61](https://open.spotify.com/artist/1M9ME2DPBtcOOYlzMaC3O8) | [Hepi Betul](https://open.spotify.com/album/78Ib3br5KAIAtvWK6tYhYj) | 4:05 | 2023-05-25 | 2023-07-14 |
+| [IISTIMEWA](https://open.spotify.com/track/6enD0k6TWGgyUzEC4HJR8U) | [Iis Dahlia](https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky), [Tiket](https://open.spotify.com/artist/1vhz9FJUh57QhAiRsB6fAM) | [IISTIMEWA](https://open.spotify.com/album/0lSqGC4B0BTMdGbvwxMuUk) | 3:13 | 2023-09-28 |  |
 | [Ikhlas Ngenteni](https://open.spotify.com/track/4zbeozbK1z1OM8p8EzG310) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ikhlas Ngenteni](https://open.spotify.com/album/3S1X1t6OSQB7CAYIIBY3qG) | 4:25 | 2022-10-13 |  |
 | [Indah Pada Waktunya](https://open.spotify.com/track/2EPSzjMwz0sCVwx0GUYjYa) | [Dewi Perssik](https://open.spotify.com/artist/1mX7WgTa4SubvAy0uxThYp) | [Indah Pada Waktunya](https://open.spotify.com/album/3aVuf3v7nr5qlcrNpFJ6D2) | 4:41 | 2021-08-23 |  |
 | [Insan Biasa](https://open.spotify.com/track/79T9Ab0SwY8h6kxzDoVZdz) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Insan Biasa](https://open.spotify.com/album/2UyX1tZhUrWMt52W3op8ha) | 5:40 | 2023-03-16 |  |
@@ -76,6 +78,7 @@
 | [Matamu](https://open.spotify.com/track/4567XBj0AIseDcylxH3VMD) | [Meli](https://open.spotify.com/artist/11s9ZlR5AfrRW2vXUkpBO4) | [Matamu](https://open.spotify.com/album/08kfLLPvmYHfr8Zaqcrrsf) | 3:06 | 2023-05-18 | 2023-08-25 |
 | [Mendung Tanpo Udan](https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Mendung Tanpo Udan](https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE) | 5:05 | 2022-10-13 |  |
 | [Menepi Cover](https://open.spotify.com/track/1merjIVhdrKOOdolcYhn3v) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Guyon Waton](https://open.spotify.com/album/1Or1VyBgYsWqszX54hhEu3) | 4:57 | 2021-08-23 |  |
+| [Menepuk Air di Dulang](https://open.spotify.com/track/0NCkhLWAhJSam1Qr21x5M3) | [Evie Tamala](https://open.spotify.com/artist/1K9FjNnLeoXFPJLnsofZN7) | [Menepuk Air di Dulang](https://open.spotify.com/album/5YcUGD2ssx84aki8Ykr7mk) | 5:08 | 2023-09-28 |  |
 | [Midua Cinta 2](https://open.spotify.com/track/0KdIzVC1n2MWuPDeKO18Wy) | [Sule](https://open.spotify.com/artist/2RidxHO6bjbB1wwZRrXAmI) | [Midua Cinta 2](https://open.spotify.com/album/0XBrWExffE5qF8PM66ATkn) | 3:39 | 2023-06-15 |  |
 | [Milik Orang](https://open.spotify.com/track/0dWWC789aUr6pP3wjcKrn7) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Milik Orang](https://open.spotify.com/album/5AWojPeB0TaNQxevK7qAZE) | 4:34 | 2021-08-23 | 2022-11-13 |
 | [Milik Orang](https://open.spotify.com/track/3ZYBj5Dt4gfDA5BdjJep2R) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [DANGDUT TERBAIK HAPPY ASMARA](https://open.spotify.com/album/1Jo6c8Zuw6FUvuHyREYTFG) | 4:34 | 2022-10-13 |  |
@@ -106,7 +109,7 @@
 | [Selamat Tinggal Kasih \- From "Cidro Asmoro"](https://open.spotify.com/track/2aIDECu2euEBfAqZrawoAM) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Selamat Tinggal Kasih \(From "Cidro Asmoro"\)](https://open.spotify.com/album/0sS6FE67HV8uJV5ceyGBp2) | 4:51 | 2023-06-01 |  |
 | [Semarang Ngawi](https://open.spotify.com/track/7Di7sWT0dsxlgDvJINPpHw) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Semarang Ngawi](https://open.spotify.com/album/6K4pgYhUy2r4e6akDRIe5y) | 4:24 | 2023-06-15 | 2023-08-25 |
 | [Sensi](https://open.spotify.com/track/0HTW3ym6XTwe3gyi3Y6F4g) | [Fania Putri](https://open.spotify.com/artist/7kciVBb9QDsMO8PqYGhuim) | [Sensi](https://open.spotify.com/album/4K5ZDNFUTp05z1Hj60tYEz) | 4:32 | 2023-06-09 | 2023-09-15 |
-| [Siapa Benar Siapa Salah](https://open.spotify.com/track/5tvW2B5gk0H5boGqVuHFLL) | [Gita Youbi](https://open.spotify.com/artist/1tjEjf3iIYPMTo0bOSZjcU) | [Siapa Benar Siapa Salah](https://open.spotify.com/album/59OrcFyOttYw7F3fZ1aT91) | 4:33 | 2021-08-23 |  |
+| [Siapa Benar Siapa Salah](https://open.spotify.com/track/5tvW2B5gk0H5boGqVuHFLL) | [Gita Youbi](https://open.spotify.com/artist/1tjEjf3iIYPMTo0bOSZjcU) | [Siapa Benar Siapa Salah](https://open.spotify.com/album/59OrcFyOttYw7F3fZ1aT91) | 4:33 | 2021-08-23 | 2023-09-29 |
 | [Simpati Cinta](https://open.spotify.com/track/5e2GK1AWsrqqmQd0bZE3lP) | [Imam S Arifin](https://open.spotify.com/artist/0kR8oZ9mW15tKZnYJhFCS9) | [Simpati Cinta](https://open.spotify.com/album/3dBT1zmQ9QOqx4PtLF9TPw) | 5:56 | 2023-04-28 |  |
 | [Singget](https://open.spotify.com/track/1s69jZHwfpgPopf2pGYEoS) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Nella Kharisma Album, Vol\. 3](https://open.spotify.com/album/2NzestN2ZSOAOIxn9EfHlm) | 4:45 | 2023-03-30 | 2023-08-25 |
 | [Singget](https://open.spotify.com/track/0I2YNuPlmHa6TRB2zMYEgk) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Mencla Mencle](https://open.spotify.com/album/6hWZu25i1sVgsbLxn0phE5) | 4:48 | 2021-08-23 | 2023-04-01 |

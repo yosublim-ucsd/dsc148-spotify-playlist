@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-380 songs - 1 day 2 hr 48 min
+381 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Bado Boy!](https://open.spotify.com/track/3kRX7GtOlik8LeG62lekqb) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Bado Boy!](https://open.spotify.com/album/5qr5HLIjVCmynsnnc9uEKc) | 5:08 | 2021-04-23 | 2022-03-17 |
 | [Balance](https://open.spotify.com/track/5YbkLLd2HizawqpBRDTDQX) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Balance](https://open.spotify.com/album/19FsWLk3xJIVArsQlTuxNL) | 3:40 | 2020-10-30 | 2022-03-18 |
 | [Barcelona](https://open.spotify.com/track/5ruzvCeaC09Mr6qkDvCN38) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Soul Connection](https://open.spotify.com/album/3zUlPoE9q6kZyW6UzyhlNs) | 3:45 | 2023-06-16 |  |
-| [BE](https://open.spotify.com/track/2BOcRhGIKurTmHQ8t22y6D) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [BE](https://open.spotify.com/album/7k7JcYg66RUHHhr1Z3bUwb) | 3:10 | 2022-10-24 |  |
+| [BE](https://open.spotify.com/track/2BOcRhGIKurTmHQ8t22y6D) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [BE](https://open.spotify.com/album/7k7JcYg66RUHHhr1Z3bUwb) | 3:10 | 2022-10-24 | 2023-09-29 |
+| [BE](https://open.spotify.com/track/3G0u0AWzgnwgJpkmGpxLgX) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [BE](https://open.spotify.com/album/21fHWfuOmJnpYGozQo9LCK) | 3:10 | 2022-10-28 |  |
 | [Be Here](https://open.spotify.com/track/4yGsW0sP0jcyxxxohnc6Y4) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:33 | 2020-10-30 | 2022-03-18 |
 | [Believe](https://open.spotify.com/track/27Ip6QauFp1x7uU5UZd1Ze) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Believe](https://open.spotify.com/album/32c0L5aOhKRswoVsOhvqwu) | 4:13 | 2022-04-01 | 2023-04-22 |
 | [Better Days Ahead](https://open.spotify.com/track/6CqeUptmJGIeNdUp12wNOB) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 4:51 | 2021-02-05 | 2022-03-17 |

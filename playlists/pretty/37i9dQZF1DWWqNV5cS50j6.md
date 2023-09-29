@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: underscores
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,909 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,897 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 8 | [Putting On Airs](https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Nothing Sacred](https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO) | 2:30 |
 | 9 | [Weird & Bizarre](https://open.spotify.com/track/46OGrRCC0Y7ZyF0qvXsPNt) | [Posh Chocolates](https://open.spotify.com/artist/3xTWaGPtvulmX73dfT71J1) | [Weird & Bizarre](https://open.spotify.com/album/4fLINYR36a8frZuUoefi6j) | 3:15 |
 | 10 | [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 |
-| 11 | [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [Midwxst](https://open.spotify.com/artist/3LqnZmfaZKVQPm8Ruj37wb) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 |
+| 11 | [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 |
 | 12 | [Impossible](https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:46 |
 | 13 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 |
 | 14 | [X\-RAY](https://open.spotify.com/track/26ZtCUtuDqeVjyTk0IsJzR) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["DESTRUCTION FOR DUMMIES", PT\. 2 JEAN DAWSON AS "NIGHTMARE"](https://open.spotify.com/album/48Rpbx4MGnVgN7Eli5yWvO) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 74 | [Dizzy Vision](https://open.spotify.com/track/20LTZsoVpBQsbbwkgY9YPb) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Dizzy Vision](https://open.spotify.com/album/2XOFL54zsynsBPicRY3dnX) | 2:47 |
 | 75 | [Suburbia](https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Suburbia](https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB) | 2:59 |
 
-Snapshot ID: `MCxiMWJlOTg0ZmMxMzNlMjVjNWUwZWRiOGY2MzlmZDU3MjE1NWZlMmE2`
+Snapshot ID: `MCw3NTcxMmZkMmMwMjY3YWU5NWJmNzI3OWE3M2NmNjFlZTQ2YTZmMzUz`

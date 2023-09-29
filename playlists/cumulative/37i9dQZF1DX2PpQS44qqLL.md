@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-425 songs - 1 day 4 hr 12 min
+426 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Eres Tú](https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Grandes Exitos](https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl) | 3:34 | 2021-12-21 |  |
 | [Es Ella Más Que Yo](https://open.spotify.com/track/374F2ZrWYYCFuRr1XDUnER) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Celebrando La Voz De Yuri](https://open.spotify.com/album/7ujHdVvsepyAQAKtzjjn3p) | 3:48 | 2021-12-21 | 2022-07-29 |
 | [Es Mejor Así](https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Un Segundo En El Tiempo](https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw) | 3:57 | 2021-12-21 |  |
-| [Escríbeme En El Cielo](https://open.spotify.com/track/2fnRjRGStHz4eDBiEXbFrc) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Sentidos Opuestos](https://open.spotify.com/album/2eOqqbyOTwSaS4V2H0jW64) | 4:10 | 2021-12-21 |  |
+| [Escríbeme En El Cielo](https://open.spotify.com/track/2fnRjRGStHz4eDBiEXbFrc) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Sentidos Opuestos](https://open.spotify.com/album/2eOqqbyOTwSaS4V2H0jW64) | 4:10 | 2021-12-21 | 2023-09-29 |
 | [Ese Hombre](https://open.spotify.com/track/35kdPvpOeQXH3AD7Yo6vy1) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/71LlTmSoCGEvqbmFijtvrI) | 5:10 | 2021-12-21 | 2022-07-29 |
 | [Ese Hombre](https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh) | 5:11 | 2021-12-21 | 2023-08-17 |
 | [Espejos Azules](https://open.spotify.com/track/1nJRvj8Swc438vHd4M2MpW) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Espejos Azules](https://open.spotify.com/album/4vguKAEOyMmlzz31GIQZef) | 2:52 | 2021-12-21 | 2022-07-28 |
@@ -284,6 +284,7 @@
 | [Noche De Copas](https://open.spotify.com/track/7wDiDAk8cBPACxGSY2Xv4D) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [La Más Completa Colección](https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a) | 3:31 | 2021-12-21 | 2022-07-29 |
 | [Noche De Copas](https://open.spotify.com/track/0eSBJRN4qEJxrdJiGLj6T7) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [Lo Mejor De Maria Conchita Alonso](https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x) | 3:35 | 2021-12-21 | 2022-11-13 |
 | [Nos Aburriremos Juntos](https://open.spotify.com/track/3vDcnqCEWnxqc0bF4hWtVl) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Lucía Es "Luna Morena"](https://open.spotify.com/album/1nctK0U7e8NJnYUqotUpG2) | 3:31 | 2021-12-21 | 2022-07-09 |
+| [O Ella o Yo](https://open.spotify.com/track/1DCKdBD1sT3gIDEXyDQ0d9) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [O Ella o Yo](https://open.spotify.com/album/0Xy14kGbjkFXjijXR5UhWt) | 3:53 | 2021-12-21 |  |
 | [O Ella, O Yo](https://open.spotify.com/track/7ExdHvzCEjsTBvvElNkoHY) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [La Historia y Más....](https://open.spotify.com/album/1RQhWKEgMILkyCIKDdGa98) | 3:53 | 2021-12-21 | 2022-07-29 |
 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/5M5kKTAb4g6ENXq5vhfJJk) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Personalidad](https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY) | 3:04 | 2021-12-21 | 2022-07-27 |
 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 | 2021-12-21 |  |

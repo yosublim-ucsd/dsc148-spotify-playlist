@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "1 MESSAGGIO",
+        "url": "https://open.spotify.com/album/4ckePFG01HSFnIDOtG9ZjS"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "1 MESSAGGIO",
+      "url": "https://open.spotify.com/track/3GsSmGgMELKhaYSj3QTShu"
+    },
+    {
+      "album": {
         "name": "30\u00b0 ALL'OMBRA",
         "url": "https://open.spotify.com/album/6zpJu8hfJqExVM3ttaUGN2"
       },
@@ -60,7 +78,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 147586,
       "name": "7 su 7",
       "url": "https://open.spotify.com/track/2E27zWyPLrjq2d38bOC2Xn"
@@ -803,6 +821,24 @@
     },
     {
       "album": {
+        "name": "La mia stanza (Deluxe)",
+        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211626,
+      "name": "Fine Settembre",
+      "url": "https://open.spotify.com/track/6hzdvxKpOM6Ot7CEPvfa9a"
+    },
+    {
+      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/2GJ2PdGfXMM1w4Y68djdGt"
       },
@@ -970,7 +1006,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 219846,
       "name": "Horror",
       "url": "https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH"
@@ -2266,6 +2302,28 @@
       "duration_ms": 154434,
       "name": "Tout va bien",
       "url": "https://open.spotify.com/track/4iuWGd3OWbHzzA8dCWoXTn"
+    },
+    {
+      "album": {
+        "name": "La mia stanza (Deluxe)",
+        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159397,
+      "name": "Tranquillo mai",
+      "url": "https://open.spotify.com/track/0fhTCQPc8uFQGQY3iWb0sU"
     },
     {
       "album": {

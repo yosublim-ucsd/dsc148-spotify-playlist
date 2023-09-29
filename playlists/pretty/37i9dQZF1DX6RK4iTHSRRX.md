@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,842 likes - 72 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,844 likes - 72 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 71 | [Silver Bells \(Instrumental Version\)](https://open.spotify.com/track/1SAvJB3SuxnZteaz8HsO4u) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [Christmas Hits,Christmas Songs & Christmas](https://open.spotify.com/artist/5q54Ivn39BGY46s48SsktP), [Christmas Songs Music](https://open.spotify.com/artist/2LFuz1xkGUVD4WKr4MF26k) | [Christmas Background Guitar Music](https://open.spotify.com/album/5KopTRQVMOhW1zSP2Ju1wn) | 2:40 |
 | 72 | [Auld Lang Syne](https://open.spotify.com/track/4QXYi1FykH0IS7EzSMiZjP) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Auld Lang Syne](https://open.spotify.com/album/0117x9jVfJF94hR3QPTfkc) | 2:20 |
 
-Snapshot ID: `MCxkY2VlMmM4ZWQxNjFjMGI2Y2U0MmMxZmNjMDQyOTRiOTFkOTE5MjJi`
+Snapshot ID: `MCw4YzE1Zjg4MDc0ODhlODdkYTNlY2ZiNTY1ZTY3MTliMjkyZTVhNTFi`

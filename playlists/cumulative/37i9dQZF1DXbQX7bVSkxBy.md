@@ -2,14 +2,14 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa?si=kegl4orFR6eE\_hRkksjFpw">Mr M & Revelation</a>
+> Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/0s1xpeEP8VX2sytVILCDBs?si=HIQbcAo2Qj\-8JBokdi4UUA">Saint Realest</a>
 
-101 songs - 9 hr 17 min
+102 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adonai](https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 8:31 | 2023-04-07 |  |
-| [Alagbara \(feat\. Lyrical HI\) \- Live](https://open.spotify.com/track/6ezGHMuG167jNieeHVEan4) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Alagbara \(feat\. Lyrical HI\) \[Live\]](https://open.spotify.com/album/0U4J6xspO4tfRebuqjlhEk) | 12:14 | 2023-09-08 |  |
+| [Alagbara \(feat\. Lyrical HI\) \- Live](https://open.spotify.com/track/6ezGHMuG167jNieeHVEan4) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Alagbara \(feat\. Lyrical HI\) \[Live\]](https://open.spotify.com/album/0U4J6xspO4tfRebuqjlhEk) | 12:14 | 2023-09-08 | 2023-09-29 |
 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 | 2023-04-07 | 2023-09-19 |
 | [Another Miracle](https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Another Miracle](https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU) | 3:32 | 2023-07-28 | 2023-09-01 |
 | [Ayaaaa](https://open.spotify.com/track/7kNSQbZwZU6hhkFyuq98PH) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [NAWIRAS Mass Choir](https://open.spotify.com/artist/68FjyOBa9zUDt1UkvioE05) | [Ayaaaa](https://open.spotify.com/album/7Dy3YwfcZwHtszp8T5u7Lg) | 11:55 | 2023-08-11 | 2023-08-18 |
@@ -25,6 +25,7 @@
 | [Daddy Wey Dey Pamper \- Special Version](https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Doris Joseph](https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho) | [Daddy Wey Dey Pamper \(Special Version\)](https://open.spotify.com/album/7MoXTFv7bTm0g5moOX0Tz2) | 4:47 | 2023-04-13 | 2023-07-29 |
 | [Daily](https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Daily](https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj) | 2:56 | 2023-06-30 |  |
 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 | 2023-04-07 | 2023-09-21 |
+| [Day By Day](https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Day By Day](https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z) | 2:52 | 2023-09-29 |  |
 | [Dependable God \(Medley\)](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God \(Medley\)](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 | 2023-04-07 |  |
 | [Ebenezer \- Live](https://open.spotify.com/track/0ssKyRqsf6GmSXtBHObYAP) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Kingdom Come \(Live\)](https://open.spotify.com/album/0nmXZ2QOghK12EEQv8NNnD) | 7:11 | 2023-07-28 |  |
 | [Ekwueme](https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Osinachi Nwachukwu](https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F) | [Ekwueme to the World Project](https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ) | 6:57 | 2023-04-07 |  |

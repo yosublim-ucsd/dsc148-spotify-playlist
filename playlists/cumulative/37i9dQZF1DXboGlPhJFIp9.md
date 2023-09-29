@@ -4,7 +4,7 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-173 songs - 8 hr 12 min
+174 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,9 +29,10 @@
 | [Breakups Are Hard](https://open.spotify.com/track/2xJuvHrr1OgDAkIxL6klv5) | [Pink Halcyon](https://open.spotify.com/artist/02YzIekYco9IxU1HZuVg0C) | [Breakups Are Hard](https://open.spotify.com/album/2cRJ1TWmG6e7cU91md5ymn) | 2:16 | 2022-05-13 |  |
 | [Breezy](https://open.spotify.com/track/5ufwUZ3FqWHHWEnjO0wBXf) | [Richie Kruz](https://open.spotify.com/artist/1ulbjpM1Xqulg1o3sIhIH5) | [Breezy](https://open.spotify.com/album/3IaLEX2CgHRSci1W90e0Pq) | 2:54 | 2022-05-13 |  |
 | [Bridges](https://open.spotify.com/track/4ojVtI82vjDG9gBEE29YBb) | [Woven Hearts](https://open.spotify.com/artist/0cCcXCxq76zprh8wHeCWD0) | [Bridges](https://open.spotify.com/album/03LUEUMI3thF8Hqol2MAOE) | 2:45 | 2023-03-31 | 2023-06-23 |
-| [Butterfly Baby \- Guitar](https://open.spotify.com/track/1GjZZjRXRKGHwpoNwcg7yH) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Wishful Thinking & Butterfly Baby](https://open.spotify.com/album/3WjqToFMhrS3yM13dpgN5o) | 2:39 | 2022-05-13 |  |
+| [Butterfly Baby \- Guitar](https://open.spotify.com/track/1GjZZjRXRKGHwpoNwcg7yH) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Wishful Thinking & Butterfly Baby](https://open.spotify.com/album/3WjqToFMhrS3yM13dpgN5o) | 2:39 | 2022-05-13 | 2023-09-29 |
 | [By Then](https://open.spotify.com/track/4UoKhh4KjZfFhbNh1EuyKv) | [Joe T\. Harris](https://open.spotify.com/artist/4iE2uZjQBe6KKF49DtFcD3) | [By Then](https://open.spotify.com/album/4um3mquSODjjiVy2KESC86) | 2:37 | 2022-05-13 | 2023-06-10 |
-| [Celestial Nights](https://open.spotify.com/track/6eDxJgFXQwHuLim99j0yRM) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Celestial Nights](https://open.spotify.com/album/4SFQqPn6heGbwYvAhmATSx) | 2:36 | 2023-01-20 |  |
+| [Celestial Nights](https://open.spotify.com/track/6eDxJgFXQwHuLim99j0yRM) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Celestial Nights](https://open.spotify.com/album/4SFQqPn6heGbwYvAhmATSx) | 2:36 | 2023-01-20 | 2023-09-29 |
+| [Chasing Time](https://open.spotify.com/track/2g7eY2gcXJm70qshq171CM) | [Napolia](https://open.spotify.com/artist/7yyohycQq12ZbZJZOISJ83) | [Chasing Time](https://open.spotify.com/album/2dyb0Zd1DG9dZNmxmtoYau) | 2:01 | 2023-09-29 |  |
 | [Chorale Bloom](https://open.spotify.com/track/1IKTSaVFGdnkbWkzSJPveE) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Chorale Bloom](https://open.spotify.com/album/1mzSDbGGXL5CXXTB8bEFYH) | 2:22 | 2022-06-24 |  |
 | [Clusters](https://open.spotify.com/track/2QHuP9PnPJuu8T3YrhGWLA) | [LUNA](https://open.spotify.com/artist/7xVi0DSU3QPrtx76T70CEi) | [Clusters](https://open.spotify.com/album/6PVMPpV2c8hgr85kOh2LWN) | 2:34 | 2022-07-08 | 2023-05-19 |
 | [cold start](https://open.spotify.com/track/1oRYeH614gcXBYZMjjvnOz) | [RRST](https://open.spotify.com/artist/3nPrEz2yxxCTnR2yPHiFo6) | [cold start](https://open.spotify.com/album/50bVrDOjalJh8BlPpsNHYZ) | 2:32 | 2022-05-13 |  |

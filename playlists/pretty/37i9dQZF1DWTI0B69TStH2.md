@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: IGA \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,174 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,181 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Na Złość](https://open.spotify.com/track/1HLxcIK9fmFxfrY7uq1xLa) | [Kixi](https://open.spotify.com/artist/6mAicfExIN7O30EmhYnA1V) | [Na Złość](https://open.spotify.com/album/797x9Cc6WYZ8GTGqCmepXa) | 2:45 |
 | 100 | [A GDYBY TAK?](https://open.spotify.com/track/3WoTVXqUKyuAPrM1lh0nkf) | [Bedzik](https://open.spotify.com/artist/2rLulWQ79BASTjvtgbggmT) | [A GDYBY TAK?](https://open.spotify.com/album/4wIBMwh7hPmoMq3R09N1GP) | 2:12 |
 
-Snapshot ID: `MCxhM2RlYTZkZjhjN2UwOWViNGU4ZjllM2IyYWQ0N2VlYmMxY2RjOGI2`
+Snapshot ID: `MCxmMDJiNTc3MzhkOWYwNWZlYzk5MDc2Mjc4YmFmNjllMWMzYTczNzgy`

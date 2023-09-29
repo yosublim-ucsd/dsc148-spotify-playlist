@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-264 songs - 12 hr 3 min
+266 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,8 @@
 | [Another Year](https://open.spotify.com/track/1yNM4fnj0ixfRn6EIPJi9F) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Another Year](https://open.spotify.com/album/6O6RtPJPOFiQvYeGXFJzBN) | 2:07 | 2023-03-31 |  |
 | [Another Year](https://open.spotify.com/track/3cpghClYBVWb7SjRZS6xtu) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Another Year](https://open.spotify.com/album/5LsS0b99IKvCpkWKvKTZ1d) | 2:07 | 2022-05-27 | 2023-04-21 |
 | [anticipation](https://open.spotify.com/track/0OhvlAMiXwy7i9dbnXbOWH) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [leaving the city](https://open.spotify.com/album/6wQyphlrdifX6l2gS3tM6x) | 3:46 | 2022-05-13 |  |
-| [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 | 2022-05-13 |  |
-| [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 | 2022-05-13 |  |
+| [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 | 2022-05-13 | 2023-09-29 |
+| [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 | 2022-05-13 | 2023-09-29 |
 | [Arizona Sunsets](https://open.spotify.com/track/3vBZ5BwSoqcDdab0ks2AEx) | [Chris Nordlinger](https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy) | [Arizona Sunsets](https://open.spotify.com/album/463pBKIsmNYwXgXuWBvSPq) | 2:07 | 2022-07-08 |  |
 | [Arve](https://open.spotify.com/track/7Ej0i8220fmM91CuhkeG4Q) | [Simon Persicke](https://open.spotify.com/artist/2EwkG5Ii2DfeUJSqdDzamR) | [Arve](https://open.spotify.com/album/4Pbuna5jvR0aLRy7JLJIlG) | 3:48 | 2022-05-13 | 2023-08-12 |
 | [As It Was](https://open.spotify.com/track/0AdUlf7gmrwhuVp8oznsRc) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [As It Was](https://open.spotify.com/album/7yZM712MQzUbnXAKeoAW4H) | 3:30 | 2022-06-10 | 2023-04-28 |
@@ -73,6 +73,7 @@
 | [Count On Me](https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Count On Me](https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6) | 3:09 | 2022-05-13 |  |
 | [Covered Bridge](https://open.spotify.com/track/5MWuwiaU3fMOuMWfsV3FIz) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Strings of Engagement](https://open.spotify.com/album/1mdk73KyB8l3CGuT5aslY5) | 2:37 | 2022-10-07 |  |
 | [Crowns](https://open.spotify.com/track/1tYypP1QZl7IPoeFsW0yRm) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [Crowns](https://open.spotify.com/album/0CpZPSBZYRkXxCnOeBZmJA) | 2:15 | 2022-05-27 |  |
+| [Dahlia](https://open.spotify.com/track/6ZUiOA4kUpxwHoqgTq502w) | [Raoul Raffino](https://open.spotify.com/artist/4OMeqxm2R62xPoMeoZ8EQB) | [Dahlia](https://open.spotify.com/album/1hez2OnBpf1Kxqr6QLthV5) | 2:20 | 2023-09-29 |  |
 | [Dallam](https://open.spotify.com/track/6vy89nxZGa7YVKExm62L3U) | [Ringunguinja](https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu) | [Gitar](https://open.spotify.com/album/3x7DCTbKzZhja9ELXtRzDK) | 2:48 | 2022-05-13 |  |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-03-31 |  |
 | [Daniel \(solo guitar\)](https://open.spotify.com/track/0xTOetBxADiMywa9DFWaa9) | [Rick Cyge](https://open.spotify.com/artist/2TzGXoRhmWkvCSjBIvVD8S) | [Daniel \(solo guitar\)](https://open.spotify.com/album/15D6xBG1zjyeNsIjRzMw6B) | 3:04 | 2022-05-13 | 2022-09-09 |
@@ -99,7 +100,7 @@
 | [Fading Daylight](https://open.spotify.com/track/2wgl16cBADyWzzRVpwd919) | [Carl Eksmo](https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB) | [Fading Daylight](https://open.spotify.com/album/1PF8aTQ7u5DiOywsUFUJSB) | 2:55 | 2023-03-31 |  |
 | [Fake a smile](https://open.spotify.com/track/2JI53ZVCxMucM68UpCtZ5C) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Fake a smile](https://open.spotify.com/album/4Z9LkxhZbqK0jY3bkj2uo7) | 2:49 | 2022-05-13 |  |
 | [Fall into Comfort](https://open.spotify.com/track/1qxD4Jw9pprF9hLTA01Pp7) | [Michael Mucklow](https://open.spotify.com/artist/7mobALd60kwSNrm2cFfzXI) | [Fall into Comfort](https://open.spotify.com/album/3z9zqed83nqwy6mk80i1u2) | 3:31 | 2022-05-13 |  |
-| [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-02-24 |  |
+| [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-02-24 | 2023-09-29 |
 | [Featherlight](https://open.spotify.com/track/2TVL6DZBZh2kqTalIKspbn) | [Tom Retnikoff](https://open.spotify.com/artist/0bJDHQakbAm5Ymjux31AgO) | [Featherlight](https://open.spotify.com/album/4hUgipvuMuSRfOFfeNTDi4) | 2:17 | 2022-05-13 |  |
 | [Fields Of Gold](https://open.spotify.com/track/303Xdw0tJcUWO9fMxDQL7v) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Fields Of Gold](https://open.spotify.com/album/59HJhRBvQLAL9qFodslbBm) | 2:34 | 2023-03-10 | 2023-06-10 |
 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 | 2022-05-13 |  |
@@ -110,6 +111,7 @@
 | [Footprints](https://open.spotify.com/track/3uCQFGUQ6iqmvPlwU0ZoCT) | [Mathew Joseph](https://open.spotify.com/artist/3thJquMnhrDJ0dU06Jo9jN) | [Footprints](https://open.spotify.com/album/7b0meoAMYAi5udatP3Ik1b) | 2:19 | 2022-05-13 | 2022-05-27 |
 | [Forgotten Promises](https://open.spotify.com/track/0w0RedAq8WsbthP2BLFJkr) | [Giacomo Manaia](https://open.spotify.com/artist/4t76e9ebvylDIUTLrXriVk) | [Forgotten Promises](https://open.spotify.com/album/2CUNI5DLIIFEzugW8zqQcY) | 3:09 | 2022-05-13 |  |
 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 | 2022-05-13 |  |
+| [Frühlingsgefühle](https://open.spotify.com/track/4h0QLxUzVqQ7QKFSnWjvdu) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Frühlingsgefühle](https://open.spotify.com/album/7M5trxxK8lsEExyuBP1Au8) | 2:16 | 2023-09-29 |  |
 | [Fáilte](https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Fáilte](https://open.spotify.com/album/1Whcn3o7IpIoJtQXEBq6TZ) | 1:44 | 2023-02-24 | 2023-09-14 |
 | [Galtymore](https://open.spotify.com/track/4NkVCOn4HmV6EvxIpAjInt) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Galtymore](https://open.spotify.com/album/52jTyKeU3kMpaUYrOyHaW2) | 1:57 | 2022-05-13 | 2023-09-14 |
 | [Gilmerton](https://open.spotify.com/track/2zJvW1rqjvYHFNPl2mYuPk) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Gilmerton](https://open.spotify.com/album/1X2C2VeeduvqLPPA9X6KlC) | 2:19 | 2022-05-13 | 2023-06-16 |
@@ -153,7 +155,7 @@
 | [Lakeside](https://open.spotify.com/track/2Igh5u0Gj6TtitvFY2eRhB) | [Kit Degas](https://open.spotify.com/artist/4JnwupXUsT1x9UZHN6v4Ri) | [Lakeside](https://open.spotify.com/album/6Mw4gVTRoLSiY964SJDYR6) | 2:05 | 2022-05-13 |  |
 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-04-28 | 2023-09-01 |
 | [Last rose of summer](https://open.spotify.com/track/1H2YnSQPwaHpCL7DwF7qS6) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Last rose of summer](https://open.spotify.com/album/338Nnd99DW3NbpDCQUZK89) | 2:28 | 2022-05-27 |  |
-| [Life of Joy](https://open.spotify.com/track/5nnB2HZH1683ya7AryXY7E) | [Nick Neon](https://open.spotify.com/artist/3xdbwxCQZIeD6AChx3aYxg) | [Life of Joy](https://open.spotify.com/album/7yDXJuDQGEobPOVq16lD6j) | 2:31 | 2022-05-13 |  |
+| [Life of Joy](https://open.spotify.com/track/5nnB2HZH1683ya7AryXY7E) | [Nick Neon](https://open.spotify.com/artist/3xdbwxCQZIeD6AChx3aYxg) | [Life of Joy](https://open.spotify.com/album/7yDXJuDQGEobPOVq16lD6j) | 2:31 | 2022-05-13 | 2023-09-29 |
 | [Lighthouse](https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Lighthouse](https://open.spotify.com/album/3AvjxvjZIFayjwENZ5ZFni) | 2:42 | 2022-05-13 |  |
 | [Little Light](https://open.spotify.com/track/2Ppf66x921uNDrwKyUyhg2) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [Little Light](https://open.spotify.com/album/64GHlOsZrUrLnquyALCuXX) | 4:29 | 2022-06-24 |  |
 | [Little Memories](https://open.spotify.com/track/1GwZ8CJtCKMjR3bZPxMuYX) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Little Memories](https://open.spotify.com/album/7zuMQmofglFthbWdpYZec0) | 2:33 | 2022-05-13 | 2023-06-10 |
@@ -269,7 +271,7 @@
 | [Wood Circles](https://open.spotify.com/track/2gyh1Z3wAP2gChERJJG52c) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Wood Circles](https://open.spotify.com/album/7xr8qnA4cvLLuHmiUEpGer) | 2:54 | 2022-05-13 | 2022-09-09 |
 | [Wooden Ships](https://open.spotify.com/track/3mVD4qVdm9PP5iQCO2kCUF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Wooden Ships](https://open.spotify.com/album/4Ti9pNgFaj6CeGESu1f2ld) | 2:48 | 2022-10-07 |  |
 | [Wordless](https://open.spotify.com/track/5X5sk7uUFqDYQSUXhJP2jg) | [Mell Woods](https://open.spotify.com/artist/4JapX3Eh1ncrfxZBaNvc6I) | [Wordless](https://open.spotify.com/album/7rfTvJgJZhlG5e5zeUrZtI) | 4:33 | 2022-10-07 | 2023-02-25 |
-| [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-31 |  |
+| [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-31 | 2023-09-29 |
 | [Zauberblume](https://open.spotify.com/track/0FwDRIMPR7TRC0FQwd7yRQ) | [Dominik Buchheim](https://open.spotify.com/artist/7e8fzJdZ6xHzokB2aGULSA) | [Zauberblume](https://open.spotify.com/album/7H7Y6KY9pPie86T6L1b3hq) | 3:50 | 2022-05-13 |  |
 | [Zenith](https://open.spotify.com/track/1kinFdrDDnmBhrGyCIGrM3) | [Maxime La Pierre](https://open.spotify.com/artist/2cEK29tjbvZltwtXcXhq8w) | [Caleidoscope](https://open.spotify.com/album/1X5bu0XoGfIZGOlWhkbxam) | 2:55 | 2022-05-13 |  |
 

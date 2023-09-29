@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! CamelPhat",
+  "description": "The biggest house bangers popping off in the UK, let's go! Ferreck Dawn",
   "name": "UK House Music",
   "tracks": [
     {
@@ -2375,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Dance Move",
+        "url": "https://open.spotify.com/album/1S0f71pdKq5LfMrsRAHVWG"
+      },
+      "artists": [
+        {
+          "name": "Zac Samuel",
+          "url": "https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Dance Move",
+      "url": "https://open.spotify.com/track/750prNiYbnIXyvOCbh47U8"
+    },
+    {
+      "album": {
         "name": "Dance With Me (Edit)",
         "url": "https://open.spotify.com/album/4mvAV6SSMEmkZ3CZBaVF0u"
       },
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 240053,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
@@ -5612,7 +5630,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 147401,
       "name": "Jam Inside Your Love (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
@@ -6040,7 +6058,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 157073,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/7jTRNKFddIvWjcfp45AzGY"
@@ -6106,6 +6124,36 @@
       "duration_ms": 225494,
       "name": "LET\u2019S DO IT AGAIN - Radio Edit",
       "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
+    },
+    {
+      "album": {
+        "name": "Let\u2019s Get Close (Angelo Ferreri Remix)",
+        "url": "https://open.spotify.com/album/1PXXJLEO7HSoWEFh8kNT5r"
+      },
+      "artists": [
+        {
+          "name": "Peter Brown",
+          "url": "https://open.spotify.com/artist/6FgtU463qtDrvUsL5b3Ael"
+        },
+        {
+          "name": "Ivan Pica",
+          "url": "https://open.spotify.com/artist/7CIJe8ijDiHuCx2Fw3MOj9"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        },
+        {
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206153,
+      "name": "Let\u2019s Get Close - Angelo Ferreri Remix",
+      "url": "https://open.spotify.com/track/0LC5RJBwJIIwFIXZTJyia4"
     },
     {
       "album": {
@@ -6304,7 +6352,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 195382,
       "name": "Limes",
       "url": "https://open.spotify.com/track/7Fk3cnNt5gzDevwKx5YSlR"
@@ -6983,6 +7031,24 @@
     },
     {
       "album": {
+        "name": "Midtown Playground",
+        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222475,
+      "name": "Midtown Playground",
+      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
+    },
+    {
+      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/7B54uESsR5n8xPhAfr4Qkq"
       },
@@ -7538,6 +7604,28 @@
       "duration_ms": 160000,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
+    },
+    {
+      "album": {
+        "name": "Need Your Love",
+        "url": "https://open.spotify.com/album/3UxMb30QWQEcQLatgnxCyb"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        },
+        {
+          "name": "Taite Imogen",
+          "url": "https://open.spotify.com/artist/3mkzFWYCYAGqxo02F1trQL"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232541,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/2BHvTbPBEaojVBM7nNrhVl"
     },
     {
       "album": {
@@ -10322,7 +10410,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 152640,
       "name": "Tearing Up My Heart (feat. Sofia Quinn)",
       "url": "https://open.spotify.com/track/7sHvEINPFk8n45mMFl7cR7"
@@ -10520,6 +10608,28 @@
       "duration_ms": 182880,
       "name": "The Disco",
       "url": "https://open.spotify.com/track/3UVcnUYcL0aFWxHYYOJCbj"
+    },
+    {
+      "album": {
+        "name": "The Dream (Royal-T Remix)",
+        "url": "https://open.spotify.com/album/6K9LK9pKa80mriu2SMaJMN"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        },
+        {
+          "name": "Royal-T",
+          "url": "https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184801,
+      "name": "The Dream - Royal-T Remix",
+      "url": "https://open.spotify.com/track/2eg15xKr5TpSyF39lF82MN"
     },
     {
       "album": {
@@ -11296,7 +11406,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 196000,
       "name": "U Want It",
       "url": "https://open.spotify.com/track/1RVsWMx4Te72rPSUhhKCr8"
@@ -11611,6 +11721,24 @@
     },
     {
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/27sIExXAxl4haMaaAye4wE"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159811,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/2q8EmGuKx14Ihp3sjaLuu1"
+    },
+    {
+      "album": {
         "name": "We Bring It",
         "url": "https://open.spotify.com/album/4rKPPgUL5T28e6YPPsTz5Y"
       },
@@ -11873,6 +12001,28 @@
     },
     {
       "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/4Lg781foL2p5Ws6A64t8z8"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215409,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/0HfwmVJGd0kzoVXLB6g7cX"
+    },
+    {
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/2r1u4VFgE7pZvf28bgPizn"
       },
@@ -12026,7 +12176,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 160000,
       "name": "Zora - Radio Edit",
       "url": "https://open.spotify.com/track/4XRyFcREciTdfxHHCHK5ax"

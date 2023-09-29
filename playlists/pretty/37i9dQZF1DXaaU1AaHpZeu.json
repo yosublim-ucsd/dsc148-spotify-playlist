@@ -1,12 +1,12 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina. Armenia en portada.",
-  "num_followers": 297454,
+  "num_followers": 297483,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTU5NGUxMWFhNWY3NDRkMWEwM2I1MTUwNzk0NWZmMjBjZjY5NzNh",
+  "snapshot_id": "MCw0MTI2MzExZDEwNGE2OGQ4MThlMzk3ZmM4MjFhZWYxNWZjMjBiY2Nj",
   "tracks": [
     {
       "added_at": "2023-09-22 08:08:00",
@@ -270,6 +270,10 @@
         {
           "name": "detunedfreq",
           "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+        },
+        {
+          "name": "Vau Boy",
+          "url": "https://open.spotify.com/artist/2tx3YCpd2RHR1ZSU101zFB"
         }
       ],
       "duration_ms": 165991,

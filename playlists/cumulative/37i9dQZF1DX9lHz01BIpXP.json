@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx?si=EzDRsNliTqKI0xKJPjwzhA\">Cream Machine</a> ",
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL?si=gX9Ki4eNRh-Ok0etAYYfFA\">Mr Heinz</a> & <a href=\"https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=qnCa5ScGSdu0Hn1d7GAZ4g\">Maglera Doe Boy</a> ",
   "name": "Afrikaanse Hip Hop",
   "tracks": [
     {
@@ -653,6 +653,28 @@
     },
     {
       "album": {
+        "name": "Ek Sal Nie Lieg Nie",
+        "url": "https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "M.Jay",
+          "url": "https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151196,
+      "name": "Ek Sal Nie Lieg Nie",
+      "url": "https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h"
+    },
+    {
+      "album": {
         "name": "FFF",
         "url": "https://open.spotify.com/album/36nqnCoIwYAaQhD7nNRtMw"
       },
@@ -726,7 +748,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 123402,
       "name": "Ghetto Boi",
       "url": "https://open.spotify.com/track/68OnCNxAld3VHwCqdqhBRK"
@@ -842,7 +864,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 263340,
       "name": "Hou Jou Leka",
       "url": "https://open.spotify.com/track/2NQedw63Pr0NlLD2DU0gVK"
@@ -1774,6 +1796,28 @@
       "duration_ms": 194146,
       "name": "Soldaat",
       "url": "https://open.spotify.com/track/6fXD6fswA7gxaxwwxb7lsY"
+    },
+    {
+      "album": {
+        "name": "Spanga",
+        "url": "https://open.spotify.com/album/1Mr5n8Hk7lONm377cK3mrk"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180165,
+      "name": "Spanga",
+      "url": "https://open.spotify.com/track/56SvCpQDzyoDCgkwjjE1Rc"
     },
     {
       "album": {

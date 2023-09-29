@@ -4,7 +4,7 @@
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM?si=MOgR62VNTEu5pyGtF\_nfMA">Citizen Deep</a>
 
-908 songs - 3 day 11 hr 52 min
+909 songs - 3 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Do It Again \(feat\. Youngr\) \- FKA Mash Remix](https://open.spotify.com/track/0Rc2Zn409GyoRz1CcZbRvP) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Youngr](https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [Do It Again \(feat\. Youngr\) \[FKA Mash Remix\]](https://open.spotify.com/album/75giQnkc7pmzLItIDsLZNc) | 3:39 | 2022-04-07 | 2022-04-15 |
 | [Do What You Love](https://open.spotify.com/track/2muTRl2whyxtWuJERhwtrs) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Do What You Love](https://open.spotify.com/album/1tI5rxGJAHnY6lMeNb3KlB) | 7:32 | 2021-12-29 | 2022-01-28 |
 | [Dom Dom Yes Yes](https://open.spotify.com/track/5JPotSaks8ig6cFcSoFzLj) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Dom Dom Yes Yes](https://open.spotify.com/album/77CSf0lFDefenZLkriL17m) | 2:05 | 2023-03-31 | 2023-04-07 |
+| [Don't Wake Up \(feat\. Sir Trill\)](https://open.spotify.com/track/4QgIdB09qSTOKERPzs9cGU) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY) | [Don't Wake Up \(feat\. Sir Trill\)](https://open.spotify.com/album/1dH3eSlqKD3VW5b4Drrdfi) | 5:46 | 2023-09-28 |  |
 | [Don't Wanna Be Myself](https://open.spotify.com/track/5jJFXPFguqo6fZqqGggwuq) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Don't Wanna Be Myself](https://open.spotify.com/album/1ewQWghR0AV0TnBaMpT0Ml) | 8:45 | 2022-07-14 | 2022-11-01 |
 | [Don’t Get Me Wrong](https://open.spotify.com/track/2ntpd9lUjPovqyEFfbYwmK) | [Deepconsoul](https://open.spotify.com/artist/5i4JeNw6u1j4B6f8ezRHRf), [Freeman Gumede](https://open.spotify.com/artist/72TQ8KmrZj6SfF2SgDWWib) | [Don’t Get Me Wrong](https://open.spotify.com/album/6fuxtJsTxSzDWBpjkOGFsh) | 7:53 | 2022-09-29 | 2022-12-09 |
 | [Don’t Let Me See \- Jimpster Remix Edit](https://open.spotify.com/track/3anqGyfRthhSK3P1zmJKWu) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Ray T](https://open.spotify.com/artist/16qLezAXthtabM2KemEN5Q), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Don’t Let Me See \(Jimpster Remixes\)](https://open.spotify.com/album/2sKHqW46XMT1NACxibp4hh) | 4:16 | 2023-06-02 | 2023-06-17 |

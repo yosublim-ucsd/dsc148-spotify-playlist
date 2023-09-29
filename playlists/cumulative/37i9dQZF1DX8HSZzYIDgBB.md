@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Immasoul en portada.
 
-274 songs - 16 hr 30 min
+275 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 | 2022-07-01 | 2022-08-02 |
 | [Sagitario](https://open.spotify.com/track/74F3bv0liKu2QN8MjqqDP9) | [Mila La Morena](https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P), [C∆IRNS](https://open.spotify.com/artist/0VWzC7LRAtMuSYC5wndrPb) | [Sagitario](https://open.spotify.com/album/3x64qRuawXWd1dSvsbDE1T) | 4:25 | 2023-02-21 | 2023-04-01 |
 | [Sal de Mar](https://open.spotify.com/track/3Go0i4zhTnL8CkfyTrSkez) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Iusef](https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b) | [Sal de Mar](https://open.spotify.com/album/5jDsT9P0V42MMYlJ9gI1jl) | 3:26 | 2022-01-17 | 2023-09-22 |
+| [Sal de Mar](https://open.spotify.com/track/42ji13UfpBT4Gntboni1HX) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Iusef](https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b) | [Sal de Mar](https://open.spotify.com/album/21NRPLtRhSOKiBXbPM3yRU) | 3:26 | 2023-05-05 |  |
 | [Sal de Mar](https://open.spotify.com/track/3b8WAuWj0MCKig7e5KV0YL) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sal de Mar](https://open.spotify.com/album/7A24Cw1BI1a7mjhTWGxLxn) | 4:27 | 2022-09-02 | 2023-04-14 |
 | [Sal de Maras](https://open.spotify.com/track/73C1hN8AcfPfrsdd0MwGEb) | [Martin Guerra](https://open.spotify.com/artist/5d5STgzsguF60wZiZeT9MM) | [Temporada de Pesca](https://open.spotify.com/album/05yxfuVNg4swKUEiJSqd4O) | 4:22 | 2021-10-05 | 2023-04-01 |
 | [SATURN](https://open.spotify.com/track/6aNfreVnFvPTHfziRmLsFW) | [BARDO](https://open.spotify.com/artist/2uHVCKIwvudS4Y9q6noXV7) | [EVERYWHERE REMINDS ME OF SPACE](https://open.spotify.com/album/3nJ9CAANT4wq82nxwf8BbY) | 3:26 | 2021-10-05 | 2022-05-10 |
@@ -257,7 +258,7 @@
 | [To My Love](https://open.spotify.com/track/6z1VtU0MCGo666iKiajfhp) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 3:59 | 2022-02-18 | 2022-05-10 |
 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 | 2021-10-05 |  |
 | [Todo Se Mantiene en Su Lugar](https://open.spotify.com/track/1heE3OvlSL96SdP1RfaSaR) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Todo Se Mantiene en Su Lugar](https://open.spotify.com/album/29CXlnmN2XPtAGBMb2nGT0) | 2:48 | 2022-09-29 | 2023-04-14 |
-| [Towards The Mountain](https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5) | 3:20 | 2022-03-30 |  |
+| [Towards The Mountain](https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5) | 3:20 | 2022-03-30 | 2023-09-29 |
 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 | 2022-07-29 |
 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 | 2022-09-16 | 2023-03-29 |
 | [traguito](https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 3:56 | 2023-03-31 |  |

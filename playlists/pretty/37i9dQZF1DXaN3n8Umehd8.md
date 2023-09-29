@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > this is my meal: gurrll dinnerrrrr ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,204 likes - 45 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,221 likes - 45 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 35 | [Naranjita sí carnal](https://open.spotify.com/track/38GUNizDnH3F6eBqZceONk) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 3:14 |
 | 36 | [Guacamole](https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [The Nada](https://open.spotify.com/album/2HzWcwDz1vXbYF3TH7XaMX) | 5:00 |
 | 37 | [Love Colada](https://open.spotify.com/track/1HwLTE2NLqP9HN097dzl2g) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 3:02 |
-| 38 | [Coca\-Cola](https://open.spotify.com/track/7pSAPCaLEPpKlIOHiJxTSb) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Faisan](https://open.spotify.com/artist/0x560lMC7W8ZtIneaKCmIz) | [Coca\-Cola](https://open.spotify.com/album/4ahz5GUHjLRqVL4lUcCdRi) | 3:00 |
-| 39 | [Agüita](https://open.spotify.com/track/71Y146mHsYsXCGvvkzCJFP) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pride: Divas De La Noche](https://open.spotify.com/album/2qtPqybyKno9YtqOvpH3gd) | 3:39 |
+| 38 | [Agüita](https://open.spotify.com/track/71Y146mHsYsXCGvvkzCJFP) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pride: Divas De La Noche](https://open.spotify.com/album/2qtPqybyKno9YtqOvpH3gd) | 3:39 |
+| 39 | [Coca\-Cola](https://open.spotify.com/track/7pSAPCaLEPpKlIOHiJxTSb) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Faisan](https://open.spotify.com/artist/0x560lMC7W8ZtIneaKCmIz) | [Coca\-Cola](https://open.spotify.com/album/4ahz5GUHjLRqVL4lUcCdRi) | 3:00 |
 | 40 | [Pan Dulce](https://open.spotify.com/track/4Mkpse99DB8TNijNjPpCbn) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Jugando En Serio](https://open.spotify.com/album/4JqI9G8wkDuEff58DxdMsp) | 4:06 |
 | 41 | [Mezcal](https://open.spotify.com/track/0amPleRUJLffVWoNwUf78k) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mezcal](https://open.spotify.com/album/4pcAzYQ2pQWtDTg4Q9tfkh) | 3:14 |
 | 42 | [Mango](https://open.spotify.com/track/6xfaCBxwV3F6qU4yCqKjKY) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade](https://open.spotify.com/album/2NHUkx5kUzp2r2laL2fonJ) | 2:36 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 44 | [Maruchan](https://open.spotify.com/track/6wbH6RUoIDZy0ftFo5gO1j) | [San Coyote](https://open.spotify.com/artist/3augwZaU3wAHhqN49Y7ONe) | [San Coyote \(Studio\)](https://open.spotify.com/album/5YA35LedmE007POV6XWj1u) | 3:39 |
 | 45 | [No Coke \- 2004 Original](https://open.spotify.com/track/0MmQL6ISNfwIErYvnVmcaQ) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [WOF](https://open.spotify.com/album/0Rs1l7shLhP8WokRmI7HXQ) | 2:51 |
 
-Snapshot ID: `MCw0MjdkZDBlZGRiMzI4ZTlmMjRhOTg2M2Y0MDg4YzAyZTkzNGNlMjhj`
+Snapshot ID: `MCwxNGM1NzQyMzc1YTEwOTM0ZWIwMjc0YjkyNzk1YjI0MDgwNmY5YzEz`

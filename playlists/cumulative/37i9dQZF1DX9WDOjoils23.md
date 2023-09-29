@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-35 songs - 5 hr 13 min
+36 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Ishq](https://open.spotify.com/track/55YbyzlrCUP4ym8Dok05Ot) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Punjabi Hits, Vol\. 1 & 2](https://open.spotify.com/album/6DMORl85M93UuwmdIPzu6u) | 3:40 | 2023-02-15 |  |
 | [Ja Ve Pardesia](https://open.spotify.com/track/6WrTw0AwTzqgYhl7I74IQM) | [Parvez Mehdi](https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ) | [Punjabi Mehfil, Vol\. 3](https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a) | 5:45 | 2023-02-15 |  |
 | [Jadon Kadi Tainu Mera Pyar Satavega](https://open.spotify.com/track/4IlIKBWyN3gQolyg6ZsdWK) | [Gulam Ali](https://open.spotify.com/artist/5BAwVnj972uTgQHH5DI8qi) | [Tu Hi Mera Dil Luteya](https://open.spotify.com/album/32HisT2mFnShBmFGtLamXZ) | 7:05 | 2023-02-15 |  |
-| [Jo Tere Gham Nu](https://open.spotify.com/track/7q43b3xrnGZJ4OJ8nbAVCL) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Punjab, Vol\. 1](https://open.spotify.com/album/6XJp6WcN6Y3Z4pGJshsSdV) | 5:12 | 2023-02-15 |  |
+| [Jo Tere Gham Nu](https://open.spotify.com/track/7q43b3xrnGZJ4OJ8nbAVCL) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Punjab, Vol\. 1](https://open.spotify.com/album/6XJp6WcN6Y3Z4pGJshsSdV) | 5:12 | 2023-02-15 | 2023-09-29 |
+| [Jo Tere Gham Nu](https://open.spotify.com/track/2K3UgM88aTk52ZqMPW7qAF) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Voice of Punjab](https://open.spotify.com/album/4ikiTmyjDT7NSdCG6UpPZm) | 5:12 | 2023-09-04 |  |
 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 | 2023-02-15 |  |
 | [Kinna Sohna Tainu](https://open.spotify.com/track/2amrgg9O41iXSAIRnxU7su) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [30 Greatest Hits Nusrat Fateh Ali Khan and Sabri Brothers](https://open.spotify.com/album/0bGcGPQfXs78eUEgJ2XfHp) | 9:38 | 2023-02-15 |  |
 | [Kiven Mukhre Ton Nazran Hatawan](https://open.spotify.com/track/1pMK7GI3AqrHZISTBMqsIs) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kanday Utte Mehrma Ve](https://open.spotify.com/album/1Euo5hXtaDZNzwJ6jbRFxK) | 21:10 | 2023-02-15 |  |

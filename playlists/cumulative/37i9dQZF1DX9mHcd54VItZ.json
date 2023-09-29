@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC?si=s4bAp29aQ4uHhM86DhYcJA\">Karen Zoid</a>",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=GnO1OB_6S_6kZLJF-0n5sQ\">Jemma Catherine</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 172502,
       "name": "Black Magic Girl",
       "url": "https://open.spotify.com/track/2wjI5Q9TSimAX41nzy3J24"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 221818,
       "name": "Bones",
       "url": "https://open.spotify.com/track/7c7wjBahsA0Je29ofU8q2o"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 172189,
       "name": "Constellations",
       "url": "https://open.spotify.com/track/2N0OwIqsXpeV4IGvOBUyhD"
@@ -1617,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "Earth Demon",
+        "url": "https://open.spotify.com/album/5Pm64aOAGvY23k51TRB258"
+      },
+      "artists": [
+        {
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251110,
+      "name": "Earth Demon",
+      "url": "https://open.spotify.com/track/5vbEAOh1toNWlM2ehfvAqu"
+    },
+    {
+      "album": {
         "name": "Eisbein",
         "url": "https://open.spotify.com/album/1qbb2G6mIZsigTkoS9jR0U"
       },
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 260626,
       "name": "Escape (The Pi\u00f1a Colada Song)",
       "url": "https://open.spotify.com/track/0r6cNe1xXtVjUYixphdXd1"
@@ -2274,7 +2292,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 292636,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/13bC2RZHqYhWOdUiMAH4O1"
@@ -2622,6 +2640,24 @@
       "duration_ms": 195714,
       "name": "Howl A Little Louder",
       "url": "https://open.spotify.com/track/1zZW0LFdXBHrF6iGhTxphL"
+    },
+    {
+      "album": {
+        "name": "I Don't Believe You",
+        "url": "https://open.spotify.com/album/5bdsdYwIrF22kYUxopl97M"
+      },
+      "artists": [
+        {
+          "name": "Jonny and the Fellow Revellers",
+          "url": "https://open.spotify.com/artist/07WFFoO9ByGnuhq4c8dwH8"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191016,
+      "name": "I Don't Believe You",
+      "url": "https://open.spotify.com/track/1puKFb5Swz4Mz5v0elWiPY"
     },
     {
       "album": {
@@ -3040,7 +3076,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 289266,
       "name": "Last Stand",
       "url": "https://open.spotify.com/track/6Q8CVI78we0VBcoNWjvHCZ"
@@ -3268,6 +3304,24 @@
       "duration_ms": 221006,
       "name": "Love in Space",
       "url": "https://open.spotify.com/track/1OXQqXkx0Nz3lheIrL5YWP"
+    },
+    {
+      "album": {
+        "name": "Sirens & Cathedrals",
+        "url": "https://open.spotify.com/album/1iEZfxbS3b0fwDU9UapROP"
+      },
+      "artists": [
+        {
+          "name": "Swimmer",
+          "url": "https://open.spotify.com/artist/0COkEvdVUFGE2r3TQs67vf"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Love Remains",
+      "url": "https://open.spotify.com/track/39Yc140rdc73NQYiYGRlEh"
     },
     {
       "album": {
@@ -3600,7 +3654,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 210491,
       "name": "My Obsession",
       "url": "https://open.spotify.com/track/3KSuV9KC96YOR7aaqiHNWS"
@@ -4509,6 +4563,24 @@
     },
     {
       "album": {
+        "name": "roadkill~",
+        "url": "https://open.spotify.com/album/72h5rMFASPwgX5i5wSuwGx"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166588,
+      "name": "roadkill~",
+      "url": "https://open.spotify.com/track/7oPBtckFtCURWFEn55xb2C"
+    },
+    {
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/5tLjTbclIzPE4t7QFqfEue"
       },
@@ -4983,6 +5055,24 @@
     },
     {
       "album": {
+        "name": "Soothing",
+        "url": "https://open.spotify.com/album/1SmWpe54evwGksth7sACJT"
+      },
+      "artists": [
+        {
+          "name": "Cal Motto-Ros",
+          "url": "https://open.spotify.com/artist/3nQ3eVNDnBzGUBIIgUTqqg"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Soothing",
+      "url": "https://open.spotify.com/track/4t10kSOLO3ZIpztOXqupHy"
+    },
+    {
+      "album": {
         "name": "Shelter Of Bones",
         "url": "https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr"
       },
@@ -5286,6 +5376,24 @@
       "duration_ms": 223103,
       "name": "Take Me Under",
       "url": "https://open.spotify.com/track/6mMLPWw1Dc8sNu8yJOhsOZ"
+    },
+    {
+      "album": {
+        "name": "Take your time",
+        "url": "https://open.spotify.com/album/1zwFQeTGjOpOkP9aVJzzgO"
+      },
+      "artists": [
+        {
+          "name": "Delano Jooste",
+          "url": "https://open.spotify.com/artist/5wSeUIvRBzhkeOoiPnOTQX"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214376,
+      "name": "Take your time",
+      "url": "https://open.spotify.com/track/5YGrodE7HhrVX4YkGpkQLy"
     },
     {
       "album": {
@@ -5963,6 +6071,24 @@
     },
     {
       "album": {
+        "name": "Versmoor",
+        "url": "https://open.spotify.com/album/5gfwTqz9mMIWuW4tvhsnop"
+      },
+      "artists": [
+        {
+          "name": "Jemma Catherine",
+          "url": "https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161424,
+      "name": "Versmoor",
+      "url": "https://open.spotify.com/track/4meblP6oLazdZUZPIizdbh"
+    },
+    {
+      "album": {
         "name": "Victim of Data",
         "url": "https://open.spotify.com/album/3Q1NdGdXpdVh3DRXlQ3wrb"
       },
@@ -6216,7 +6342,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 238538,
       "name": "When You Say",
       "url": "https://open.spotify.com/track/5zPZTwAsUftw5Nqr47aCBE"

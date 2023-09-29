@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Kyrie \(アイナ・ジ・エンド\) \*👉 <a href="https://spice.eplus.jp/articles/322418?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,449 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,556 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 25 | [Synergy](https://open.spotify.com/track/0qpw1DaobgqEb1w89zU37U) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Synergy](https://open.spotify.com/album/4XxZJsBbE0O0hUhNUvvKHt) | 3:17 |
 | 26 | [光を浴びて](https://open.spotify.com/track/6w8teS79FT2JV8XV4EgZDj) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [光を浴びて](https://open.spotify.com/album/2gmerqerD6iqVX4RgzDWGt) | 3:45 |
 | 27 | [Faded](https://open.spotify.com/track/5jA5K5u65OwoYWypfPaubP) | [Solmana](https://open.spotify.com/artist/5oLObsPPjMqrx9fv3assle) | [Faded](https://open.spotify.com/album/4AbTt6XF0Czic7Oi2eiZ8e) | 3:41 |
-| 28 | [Let me turn you on 2023](https://open.spotify.com/track/0laT61S2xpGv6v7Oy0jlNz) | [ホテルニュートーキョー](https://open.spotify.com/artist/5zDK6hPuODLGgs79FXULes), [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Let me turn you on 2023](https://open.spotify.com/album/7EBv6FukhilY2fkf5rd6hV) | 4:54 |
+| 28 | [Let me turn you on 2023](https://open.spotify.com/track/0laT61S2xpGv6v7Oy0jlNz) | [hotel new tokyo](https://open.spotify.com/artist/1afsTWeeJBHktAFCpddI1h), [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Let me turn you on 2023](https://open.spotify.com/album/7EBv6FukhilY2fkf5rd6hV) | 4:54 |
 | 29 | [yunagieiso](https://open.spotify.com/track/618pyNivEdcfLnc9TbKAuQ) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [yunagieiso](https://open.spotify.com/album/7FD9T96o1fl2qTcRem8iNM) | 3:57 |
 | 30 | [What's a Pop?](https://open.spotify.com/track/7hZdB03NoTbe82MTsN1cj8) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [心海](https://open.spotify.com/album/3xdOc3tCggVAGBVHRzqK6Q) | 4:10 |
 | 31 | [Naitokeba Yokatta](https://open.spotify.com/track/3peHF4gr5QvwgeAoM3ElXp) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Naitokeba Yokatta](https://open.spotify.com/album/3zJcDgm5S3uY5Aj3Ed6LFZ) | 3:01 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 80 | [Version of You](https://open.spotify.com/track/1OtRQsttoCQ03P95TCz6ho) | [Kinami](https://open.spotify.com/artist/5Zm3vMvLFPUji0Y2txuRdt) | [Version of You](https://open.spotify.com/album/6ppDsGwiugL0WJHX2Fv4Tf) | 2:31 |
 | 81 | [蜃気楼](https://open.spotify.com/track/4TJ679LbRBE9FarL99fOEB) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [蜃気楼](https://open.spotify.com/album/72cMGzadVVPSjQzVFZroc3) | 6:33 |
 
-Snapshot ID: `MCwzYzMzMTAxMDkyMTJkN2U4OWU1OWZhMjRmMzIyMjJjMTg1NTMzZmY0`
+Snapshot ID: `MCxhNTczMDg4MGQyMjNmZGM3OWIyODZlM2M2MWVlZjc5OTI2NjY1ZThl`

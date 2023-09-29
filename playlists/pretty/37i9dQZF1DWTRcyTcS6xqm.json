@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10574,
+  "num_followers": 10578,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDk5Y2UzMjAwMmJmYjUwMTNiOTRjZmRjNjg4ZDE5YWExY2QwMTk4",
+  "snapshot_id": "MCxiY2JiMGM1MzQ1ZmJkNmQzYzhlODhjZmFlOGVjYjA3OGZkMGYyOTVl",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Down Home Mojo",
+        "url": "https://open.spotify.com/album/3ERQDgDldAaWSZIJj9R9iz"
+      },
+      "artists": [
+        {
+          "name": "Tony Spinner",
+          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
+        }
+      ],
+      "duration_ms": 291720,
+      "name": "Sweet Thang",
+      "url": "https://open.spotify.com/track/3WxhLjbfNgVM6R2zMA3wIy"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Times Have Changed",
         "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 233560,
       "name": "Come On Up",
       "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Down Home Mojo",
-        "url": "https://open.spotify.com/album/3ERQDgDldAaWSZIJj9R9iz"
-      },
-      "artists": [
-        {
-          "name": "Tony Spinner",
-          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
-        }
-      ],
-      "duration_ms": 291720,
-      "name": "Sweet Thang",
-      "url": "https://open.spotify.com/track/3WxhLjbfNgVM6R2zMA3wIy"
     },
     {
       "added_at": "2021-02-26 05:01:00",

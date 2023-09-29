@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Chosunblues\(조선블루스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,319 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,368 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Don't be sad](https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc) | 3:30 |
 | 50 | [Punchdrunklovesong](https://open.spotify.com/track/31LkUlLS286dpY3LbAxRbg) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Cake CAKE](https://open.spotify.com/album/2iBGScS4eDpFVdPqZAFNhZ) | 1:21 |
 
-Snapshot ID: `MCw0ODFlNTk1YWFmYjFjYzk4NWJlYTg3OTg4YzNhYTY0NzFlOTNiMWQ4`
+Snapshot ID: `MCwwZTM5ZDQ3OGZkMGE4MTBlMDZmNTBhYzAxNWMzNWM3MTI4ZDNhMzJm`

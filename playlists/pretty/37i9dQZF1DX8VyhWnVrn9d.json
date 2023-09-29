@@ -1,12 +1,12 @@
 {
   "description": "Bailando de caballito, aunque se enoje tu mam\u00e1. Mi Banda El Mexicano en portada.",
-  "num_followers": 210054,
+  "num_followers": 210216,
   "original_name": "Quebradita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmRkYWFjYWViMDVkMTdmOWUzZjNiN2JiNjM2NTdmMmY4OGQ2MDhm",
+  "snapshot_id": "MCwxN2EyNTBiZDMwNzI2OWVjNGY5ZGRjYTMyN2RjMjM2YjEwMGU5OTc0",
   "tracks": [
     {
       "added_at": "2023-06-19 22:57:24",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Caliente, Caliente",
-        "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Caliente Caliente",
-      "url": "https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
         "name": "Fiesta Mexicana Con La Banda",
         "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 153520,
       "name": "El alacr\u00e1n",
       "url": "https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "Caliente, Caliente",
+        "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Caliente Caliente",
+      "url": "https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Lo Mejor De... (18 Exitos)",
-        "url": "https://open.spotify.com/album/6nAtdGbuJzkgMTsz1ZYsHj"
+        "name": "Mix movidas rom\u00e1nticas (USA)",
+        "url": "https://open.spotify.com/album/6XhzyrKMawpGgrMm32F70e"
       },
       "artists": [
         {
-          "name": "Banda Rodeo de Morelos",
-          "url": "https://open.spotify.com/artist/3DEQJ5z6j6scYrOHNfbPpu"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 219893,
-      "name": "El Llanero Solitario - Guillermo Tell",
-      "url": "https://open.spotify.com/track/3NUYbovgQcsNGE3O3IYHtz"
+      "duration_ms": 175706,
+      "name": "La cuca",
+      "url": "https://open.spotify.com/track/6fAgsEWreF327VmKHhKQYf"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Mix movidas rom\u00e1nticas (USA)",
-        "url": "https://open.spotify.com/album/6XhzyrKMawpGgrMm32F70e"
+        "name": "Lo Mejor De... (18 Exitos)",
+        "url": "https://open.spotify.com/album/6nAtdGbuJzkgMTsz1ZYsHj"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Banda Rodeo de Morelos",
+          "url": "https://open.spotify.com/artist/3DEQJ5z6j6scYrOHNfbPpu"
         }
       ],
-      "duration_ms": 175706,
-      "name": "La cuca",
-      "url": "https://open.spotify.com/track/6fAgsEWreF327VmKHhKQYf"
+      "duration_ms": 219893,
+      "name": "El Llanero Solitario - Guillermo Tell",
+      "url": "https://open.spotify.com/track/3NUYbovgQcsNGE3O3IYHtz"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Quiero Contigo",
-        "url": "https://open.spotify.com/album/40KZCK7YEf0CRVTTb3tOTI"
+        "name": "El Gato y Yo",
+        "url": "https://open.spotify.com/album/5ZmXWGOZmCIK1mcUC9IWKk"
       },
       "artists": [
         {
-          "name": "Banda Pachuco",
-          "url": "https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb"
+          "name": "Super Banda Radar",
+          "url": "https://open.spotify.com/artist/1nSIbeSfS5HTPrYDiPza0e"
         }
       ],
-      "duration_ms": 170773,
-      "name": "Mambo Lupita",
-      "url": "https://open.spotify.com/track/5GEy2VbVgiLtmYNHfMphb1"
+      "duration_ms": 181413,
+      "name": "El Gato y Yo",
+      "url": "https://open.spotify.com/track/6iNAKM878gy83Y3ZuXYyyQ"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "El Gato y Yo",
-        "url": "https://open.spotify.com/album/5ZmXWGOZmCIK1mcUC9IWKk"
+        "name": "Quiero Contigo",
+        "url": "https://open.spotify.com/album/40KZCK7YEf0CRVTTb3tOTI"
       },
       "artists": [
         {
-          "name": "Super Banda Radar",
-          "url": "https://open.spotify.com/artist/1nSIbeSfS5HTPrYDiPza0e"
+          "name": "Banda Pachuco",
+          "url": "https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb"
         }
       ],
-      "duration_ms": 181413,
-      "name": "El Gato y Yo",
-      "url": "https://open.spotify.com/track/6iNAKM878gy83Y3ZuXYyyQ"
+      "duration_ms": 170773,
+      "name": "Mambo Lupita",
+      "url": "https://open.spotify.com/track/5GEy2VbVgiLtmYNHfMphb1"
     },
     {
       "added_at": "2023-06-19 22:57:24",

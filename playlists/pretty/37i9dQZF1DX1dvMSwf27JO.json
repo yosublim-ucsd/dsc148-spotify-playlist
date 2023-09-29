@@ -1,13 +1,29 @@
 {
   "description": "Light on Rabanne\u2019s SS24 Runway for Paris Fashion Week, Soundtrack by Creative Director, Julien Dossena.",
-  "num_followers": 526040,
+  "num_followers": 525941,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGI2MzJjM2JiYjg1MDg3ZDRkMGU1ZWM4OGVhZjMzMzIwMWY0ZGJh",
+  "snapshot_id": "MCw5OWMyNjk5ZjEzZWQyOGViMmFhMGU1YjdkODI1MWU1NjVhY2NhMzAx",
   "tracks": [
+    {
+      "added_at": "2023-09-28 14:41:09",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210232,
+      "name": "Oxytocin",
+      "url": "https://open.spotify.com/track/4t2OeILB07eMGTXSUbMPEu"
+    },
     {
       "added_at": "2023-09-07 04:00:00",
       "album": {

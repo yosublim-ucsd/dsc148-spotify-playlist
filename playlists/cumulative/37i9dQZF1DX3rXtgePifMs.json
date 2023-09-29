@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Black Dress",
+        "url": "https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237361,
+      "name": "Black Dress",
+      "url": "https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY"
+    },
+    {
+      "album": {
         "name": "BORED",
         "url": "https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX"
       },
@@ -1235,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "Powder",
+        "url": "https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R"
+      },
+      "artists": [
+        {
+          "name": "Pontypool",
+          "url": "https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206680,
+      "name": "Powder",
+      "url": "https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd"
+    },
+    {
+      "album": {
         "name": "Luv 4 Rent",
         "url": "https://open.spotify.com/album/1gIhUSOKHS9WoUCZeBR8Ao"
       },
@@ -1538,6 +1574,24 @@
       "duration_ms": 125800,
       "name": "THAT GIRL",
       "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
+    },
+    {
+      "album": {
+        "name": "The Gates Will Open",
+        "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
+      },
+      "artists": [
+        {
+          "name": "Karma Kid",
+          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346775,
+      "name": "The Gates Will Open",
+      "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
     },
     {
       "album": {

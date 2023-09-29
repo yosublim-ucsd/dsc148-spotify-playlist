@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 452891,
+  "num_followers": 453234,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzgzZDk0ZGM2MWM3NzU2ZGVmNzBmZGE1Y2Q4NmIwNDU2NTMwYzMy",
+  "snapshot_id": "MCwzMDE4NDQ5YjZmYTQ1ZTI2ZDQ5OWM0MzgwMWMzMmMzMDhmMmFiMjBj",
   "tracks": [
     {
       "added_at": "2023-09-20 04:42:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
-        "name": "P.S. I LOVE YOU",
-        "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 240903,
-      "name": "P.S. I LOVE YOU",
-      "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
         "name": "Satu-Satu",
         "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 284988,
       "name": "Satu-Satu",
       "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
+        "name": "P.S. I LOVE YOU",
+        "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 240903,
+      "name": "P.S. I LOVE YOU",
+      "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
     },
     {
       "added_at": "2023-09-20 04:42:00",
@@ -787,8 +787,8 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
-        "name": "Hari Baru",
-        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
+        "name": "RAN For Your Life",
+        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
         }
       ],
-      "duration_ms": 268866,
-      "name": "Dekat Di Hati",
-      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
+      "duration_ms": 300693,
+      "name": "Pandangan Pertama",
+      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
     },
     {
       "added_at": "2023-09-20 04:42:00",
@@ -883,8 +883,8 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
-        "name": "RAN For Your Life",
-        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
+        "name": "Hari Baru",
+        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
         }
       ],
-      "duration_ms": 300693,
-      "name": "Pandangan Pertama",
-      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
+      "duration_ms": 268866,
+      "name": "Dekat Di Hati",
+      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
     },
     {
       "added_at": "2023-09-20 04:42:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
-        "name": "Film Favorit",
-        "url": "https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Film Favorit",
-      "url": "https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
         "name": "Renung Resah",
         "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 222000,
       "name": "Itu Aku",
       "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
+        "name": "Film Favorit",
+        "url": "https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Film Favorit",
+      "url": "https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1"
     },
     {
       "added_at": "2023-09-20 04:42:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
+        "name": "Losing Us.",
+        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "duration_ms": 236885,
+      "name": "Losing Us.",
+      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
         "name": "1st Special Edition",
         "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 199138,
       "name": "Yang Terdalam",
       "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
-        "name": "Losing Us.",
-        "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
-      },
-      "artists": [
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 236885,
-      "name": "Losing Us.",
-      "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
     },
     {
       "added_at": "2023-09-20 04:42:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
-        "name": "Peace, Love And Respect",
-        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
-      },
-      "artists": [
-        {
-          "name": "Gigi",
-          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "11 Januari",
-      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
         "name": "Belum Siap Kehilangan - Single",
         "url": "https://open.spotify.com/album/6WwKxL6zDhU9ENkD0VnzPW"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 288333,
       "name": "Belum Siap Kehilangan",
       "url": "https://open.spotify.com/track/3TSie4NZOh12yHhDwulBBV"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
+        "name": "Peace, Love And Respect",
+        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
+      },
+      "artists": [
+        {
+          "name": "Gigi",
+          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "11 Januari",
+      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
     },
     {
       "added_at": "2023-09-20 04:42:00",

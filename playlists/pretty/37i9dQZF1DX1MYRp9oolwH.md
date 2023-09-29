@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,141 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,207 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\)](https://open.spotify.com/track/3d4BUW2iX1HagWRRkat9l7) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Poornachari](https://open.spotify.com/artist/7ebwtbh8aSrOUbKIHDW4ty) | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\) \- Single](https://open.spotify.com/album/3Bq1oXhTLEWvDV03ZmrVue) | 3:33 |
 | 50 | [Oh Bangaram](https://open.spotify.com/track/75UdklaJHB2iYhQMXmE3DS) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5mw5TgQL15i1ernK02z9hV) | 3:48 |
 
-Snapshot ID: `MCxkMzAwMmI2MTZmOWU3NTNkMzAxODI4ZThhYTRjMDkxYzMwNGUwYjQ4`
+Snapshot ID: `MCwyYjViYjY2YWY4NGI0NjdhMTYyZmY0YjAwZmYwOWE2MmI1N2FlZmU0`

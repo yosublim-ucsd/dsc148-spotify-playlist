@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ?si=prRrjUtGQxujNJuF3xT1rA\">Sarz </a> and <a href=\"https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb?si=QFltAuFqR8-u3XDwv85AeQ\"> Crayon </a>   ",
+  "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG?si=2-B6h7PLTd20CGZtBywsBg\"> Bayanni </a>   ",
   "name": "Gbedu",
   "tracks": [
     {
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
@@ -1339,6 +1339,32 @@
     },
     {
       "album": {
+        "name": "Elon Musk (Remix)",
+        "url": "https://open.spotify.com/album/2ZSLKoKXOUxbCjX7QjWJkV"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204107,
+      "name": "Elon Musk - Remix",
+      "url": "https://open.spotify.com/track/68KDqjQ5T2gS0Pk47Somna"
+    },
+    {
+      "album": {
         "name": "No Bad Vibes",
         "url": "https://open.spotify.com/album/7Isz78RyCrtTdtVBexTV0E"
       },
@@ -1474,7 +1500,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 179454,
       "name": "Feel Different",
       "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
@@ -2013,6 +2039,28 @@
     },
     {
       "album": {
+        "name": "Jaga Jaga (with Babyboy AV)",
+        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Jaga Jaga (with Babyboy AV)",
+      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
+    },
+    {
+      "album": {
         "name": "Jaiye Foreign",
         "url": "https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY"
       },
@@ -2340,7 +2388,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 153523,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
@@ -2577,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "Low Waist",
+        "url": "https://open.spotify.com/album/48xKnLRBNSajT7mcP4zdTb"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181283,
+      "name": "Low Waist",
+      "url": "https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft"
+    },
+    {
+      "album": {
         "name": "Loyalty",
         "url": "https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL"
       },
@@ -2666,7 +2732,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 167881,
       "name": "Many Things",
       "url": "https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc"
@@ -2738,7 +2804,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 160770,
       "name": "My G",
       "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
@@ -3256,7 +3322,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 142363,
       "name": "Peppermint",
       "url": "https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis"
@@ -4714,7 +4780,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 247680,
       "name": "Won Da Mo",
       "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"

@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 521552,
+  "num_followers": 521719,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjYyYjk2ODE4NzJhZmNjMDJmYzk2M2U5ZDYzZDlhYjI3OTdjMTY3",
+  "snapshot_id": "MCwwMTYwMDMxOTNhMjI2MTFlNGE2NTcyMmJmMDY0Y2E3Y2FlN2MxNzcx",
   "tracks": [
     {
       "added_at": "2023-06-27 13:33:22",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/7DDtR2AfAcLGtSDJ0BQbhU"
     },
     {
-      "added_at": "2023-07-31 21:34:14",
-      "album": {
-        "name": "A Sign of Things to Come",
-        "url": "https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "A Sign of Things to Come",
-      "url": "https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL"
-    },
-    {
       "added_at": "2023-06-27 13:33:22",
       "album": {
         "name": "How Will I Laugh Tomorrow When I Can't Even Smile Today",
@@ -859,6 +843,22 @@
       "duration_ms": 392066,
       "name": "Night of the Witch",
       "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
+    },
+    {
+      "added_at": "2023-07-31 21:34:14",
+      "album": {
+        "name": "A Sign of Things to Come",
+        "url": "https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 275306,
+      "name": "A Sign of Things to Come",
+      "url": "https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Cycle of Suffering",
-        "url": "https://open.spotify.com/album/667otcFavTltYttK0VqcVm"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 308173,
-      "name": "I Sever",
-      "url": "https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "T\u016b",
         "url": "https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 167800,
       "name": "Nuke The Cross",
       "url": "https://open.spotify.com/track/41DPdRpN14Xv8khpafNZmg"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Cycle of Suffering",
+        "url": "https://open.spotify.com/album/667otcFavTltYttK0VqcVm"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 308173,
+      "name": "I Sever",
+      "url": "https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/5nx2UgWzyJAjDvpvvnRAZ8"
     },
     {
-      "added_at": "2023-07-31 21:34:14",
-      "album": {
-        "name": "Moments Elsewhere",
-        "url": "https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C"
-      },
-      "artists": [
-        {
-          "name": "Johnny Booth",
-          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Collapse in the Key of Fireworks",
-      "url": "https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x"
-    },
-    {
       "added_at": "2023-06-27 13:33:22",
       "album": {
         "name": "The Ultra-Violence",
@@ -1259,6 +1243,22 @@
       "duration_ms": 633600,
       "name": "The Ultra-Violence",
       "url": "https://open.spotify.com/track/20bJTQOaoHqeCHBhqIgcTl"
+    },
+    {
+      "added_at": "2023-07-31 21:34:14",
+      "album": {
+        "name": "Moments Elsewhere",
+        "url": "https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C"
+      },
+      "artists": [
+        {
+          "name": "Johnny Booth",
+          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Collapse in the Key of Fireworks",
+      "url": "https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Enter The Grave",
-        "url": "https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut"
-      },
-      "artists": [
-        {
-          "name": "Evile",
-          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
-        }
-      ],
-      "duration_ms": 270920,
-      "name": "Enter The Grave",
-      "url": "https://open.spotify.com/track/6A00Xnn0qg12xjEzCLY22O"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "The Legacy",
         "url": "https://open.spotify.com/album/6BLP5fnS4lIPQeneG4uyeW"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 246066,
       "name": "Over the Wall",
       "url": "https://open.spotify.com/track/1YJ5bavLWoAdax3CECYHRu"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Enter The Grave",
+        "url": "https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut"
+      },
+      "artists": [
+        {
+          "name": "Evile",
+          "url": "https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo"
+        }
+      ],
+      "duration_ms": 270920,
+      "name": "Enter The Grave",
+      "url": "https://open.spotify.com/track/6A00Xnn0qg12xjEzCLY22O"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1549,6 +1549,22 @@
       "url": "https://open.spotify.com/track/01zm9AlUjboMitrlL3oVAz"
     },
     {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "The New Order",
+        "url": "https://open.spotify.com/album/3aZG385ojagRAjAvscAv37"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 166240,
+      "name": "Into the Pit",
+      "url": "https://open.spotify.com/track/3r9jQQKWDHyhYlCG2YPE1N"
+    },
+    {
       "added_at": "2023-07-31 21:34:14",
       "album": {
         "name": "Mochado",
@@ -1595,22 +1611,6 @@
       "duration_ms": 384853,
       "name": "Through Eyes of Glass",
       "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
-        "name": "The New Order",
-        "url": "https://open.spotify.com/album/3aZG385ojagRAjAvscAv37"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 166240,
-      "name": "Into the Pit",
-      "url": "https://open.spotify.com/track/3r9jQQKWDHyhYlCG2YPE1N"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "State of Insurgency",
-        "url": "https://open.spotify.com/album/72l4WhRIOstE9jzWVzpQDY"
-      },
-      "artists": [
-        {
-          "name": "HeXeN",
-          "url": "https://open.spotify.com/artist/4nLzJeIvsP58MnoN7e9KT3"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Knee Deep in the Dead",
-      "url": "https://open.spotify.com/track/2IQS1gH2hzp6WAmjdWZtr1"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "No Absolution",
         "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
       },
@@ -1727,18 +1711,18 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Do-Over",
-        "url": "https://open.spotify.com/album/1zndMZYyzhEbEVe4I9fB4D"
+        "name": "State of Insurgency",
+        "url": "https://open.spotify.com/album/72l4WhRIOstE9jzWVzpQDY"
       },
       "artists": [
         {
-          "name": "Lich King",
-          "url": "https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz"
+          "name": "HeXeN",
+          "url": "https://open.spotify.com/artist/4nLzJeIvsP58MnoN7e9KT3"
         }
       ],
-      "duration_ms": 189280,
-      "name": "Black Metal Sucks",
-      "url": "https://open.spotify.com/track/62f5Wr85zS0rEhnh7Ege1Z"
+      "duration_ms": 241133,
+      "name": "Knee Deep in the Dead",
+      "url": "https://open.spotify.com/track/2IQS1gH2hzp6WAmjdWZtr1"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1755,6 +1739,22 @@
       "duration_ms": 92612,
       "name": "All Mosh / No Brain",
       "url": "https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Do-Over",
+        "url": "https://open.spotify.com/album/1zndMZYyzhEbEVe4I9fB4D"
+      },
+      "artists": [
+        {
+          "name": "Lich King",
+          "url": "https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz"
+        }
+      ],
+      "duration_ms": 189280,
+      "name": "Black Metal Sucks",
+      "url": "https://open.spotify.com/track/62f5Wr85zS0rEhnh7Ege1Z"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "No Place For Disgrace",
-        "url": "https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e"
-      },
-      "artists": [
-        {
-          "name": "Flotsam & Jetsam",
-          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
-        }
-      ],
-      "duration_ms": 373013,
-      "name": "No Place for Disgrace",
-      "url": "https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "Forbidden Evil",
         "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 272853,
       "name": "Chalice of Blood",
       "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "No Place For Disgrace",
+        "url": "https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e"
+      },
+      "artists": [
+        {
+          "name": "Flotsam & Jetsam",
+          "url": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+        }
+      ],
+      "duration_ms": 373013,
+      "name": "No Place for Disgrace",
+      "url": "https://open.spotify.com/track/4JoAPkFkBRnRNLeoUSG89X"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Infernal Overkill",
-        "url": "https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC"
-      },
-      "artists": [
-        {
-          "name": "Destruction",
-          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
-        }
-      ],
-      "duration_ms": 276106,
-      "name": "Bestial Invasion",
-      "url": "https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "Speed Between the Lines",
         "url": "https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA"
       },
@@ -1923,18 +1907,34 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Punishment for Decadence",
-        "url": "https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX"
+        "name": "Infernal Overkill",
+        "url": "https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC"
       },
       "artists": [
         {
-          "name": "Coroner",
-          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+          "name": "Destruction",
+          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
         }
       ],
-      "duration_ms": 287600,
-      "name": "Masked Jackal",
-      "url": "https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU"
+      "duration_ms": 276106,
+      "name": "Bestial Invasion",
+      "url": "https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Annihilation Principle",
+        "url": "https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O"
+      },
+      "artists": [
+        {
+          "name": "Laaz Rockit",
+          "url": "https://open.spotify.com/artist/72M83rfnDyqavWqiFGuYUR"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Fire in the Hole",
+      "url": "https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f"
     }
   ],
   "unique_name": "Thrashers",

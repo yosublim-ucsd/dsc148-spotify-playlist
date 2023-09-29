@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Immasoul en portada.",
-  "num_followers": 34393,
+  "num_followers": 34407,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODdmNGI5N2FjYmJkZjQ5YjQ5NTVmNWU2MjM0NzNhMjI3MTYzNzc5",
+  "snapshot_id": "MCxiMTM0MzU2OGU4ZTc3ZjMzMWE2YzBlZWE5NmI3MzZmY2EwNDUyMzY0",
   "tracks": [
     {
       "added_at": "2023-08-01 03:44:51",
@@ -259,18 +259,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+        "name": "Tinta y Tiempo",
+        "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
         }
       ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
+      "duration_ms": 184475,
+      "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
+      "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
     },
     {
       "added_at": "2023-08-11 06:00:00",
@@ -291,22 +295,18 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Tinta y Tiempo",
-        "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 184475,
-      "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
-      "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Boleros Psicod\u00e9licos",
-        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "Mentiras Con Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Nacarile",
         "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Boleros Psicod\u00e9licos",
+        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "Mentiras Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Madremonte",
-        "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 263096,
-      "name": "Contra la Corriente",
-      "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 198048,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Madremonte",
+        "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 263096,
+      "name": "Contra la Corriente",
+      "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Manifest Tone EP",
-        "url": "https://open.spotify.com/album/0rzUB5TzTLGYryGbry7YAE"
-      },
-      "artists": [
-        {
-          "name": "Chico Mann",
-          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
-        }
-      ],
-      "duration_ms": 255435,
-      "name": "Dilo Como Yo (Te Est\u00e1n Llamando)",
-      "url": "https://open.spotify.com/track/4wJF4rXSEidU6ZlZKp8Nre"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Sundown",
         "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 288618,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/3CGv4it1VeiRX7OaCjBmhW"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Manifest Tone EP",
+        "url": "https://open.spotify.com/album/0rzUB5TzTLGYryGbry7YAE"
+      },
+      "artists": [
+        {
+          "name": "Chico Mann",
+          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
+        }
+      ],
+      "duration_ms": 255435,
+      "name": "Dilo Como Yo (Te Est\u00e1n Llamando)",
+      "url": "https://open.spotify.com/track/4wJF4rXSEidU6ZlZKp8Nre"
     },
     {
       "added_at": "2023-05-12 16:01:56",
@@ -1399,18 +1399,26 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
+        "name": "Sal de Mar",
+        "url": "https://open.spotify.com/album/21NRPLtRhSOKiBXbPM3yRU"
       },
       "artists": [
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Iusef",
+          "url": "https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b"
         }
       ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
+      "duration_ms": 206590,
+      "name": "Sal de Mar",
+      "url": "https://open.spotify.com/track/42ji13UfpBT4Gntboni1HX"
     }
   ],
   "unique_name": "tropic.alt",

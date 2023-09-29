@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-107 songs - 6 hr 10 min
+108 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Between The Rain](https://open.spotify.com/track/5FagKEeBcZDoXo5AxEpcMg) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Between The Rain](https://open.spotify.com/album/7ijwsTk1qpmF3k5FIoT9cP) | 4:26 | 2023-05-11 |  |
 | [Blame It On My Youth \- Rain](https://open.spotify.com/track/1kcqIlIk0Tked5nm7sAQDW) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Blame It On My Youth \- Rain](https://open.spotify.com/album/1xHh3zVBbPvTMxxxZPl7Dx) | 4:58 | 2023-05-18 |  |
 | [Blue Café](https://open.spotify.com/track/0MgoRd7LaUL4VWwimX4fPw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Blue Café](https://open.spotify.com/album/0RzevXUMiwBxb8ulm1U7VZ) | 3:36 | 2023-06-22 |  |
-| [Blue Moon](https://open.spotify.com/track/6xEHmGdGA9ZnjwuHUD9EFm) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [Blue Moon](https://open.spotify.com/album/655YlNnJaQaflqOYHRUogN) | 3:37 | 2023-04-27 |  |
+| [Blue Moon](https://open.spotify.com/track/6xEHmGdGA9ZnjwuHUD9EFm) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [Blue Moon](https://open.spotify.com/album/655YlNnJaQaflqOYHRUogN) | 3:37 | 2023-04-27 | 2023-09-29 |
 | [Blue Tennessee](https://open.spotify.com/track/65xukQJeGh8BMUAPIGldf3) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Broken Promises](https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR) | 3:46 | 2023-04-27 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/4kY4TFMLtGkbr3yclyHCeN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 3:11 | 2023-04-27 |  |
 | [Broken Promises](https://open.spotify.com/track/4sSuZdKAQ5DaGXMcTVB1cJ) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Broken Promises](https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR) | 3:36 | 2023-04-27 |  |
@@ -96,6 +96,7 @@
 | [Soft Like Rain](https://open.spotify.com/track/0VoOgcLPinspmfp1NJ0NR3) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Soft Like Rain](https://open.spotify.com/album/0ZYPNtaa3s06B4H2ano78w) | 2:51 | 2023-04-27 |  |
 | [Someone Elses Love \- Rainy Jazz](https://open.spotify.com/track/1FTkGoHuWlpH4rpxMMXrXv) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love \(Rainy Jazz\)](https://open.spotify.com/album/57L3y0yeaQBZ8sy4EvXF7U) | 3:46 | 2023-04-27 |  |
 | [Sommarnattens Skeende \- Rain Version](https://open.spotify.com/track/7m6xM40of1KJw6JRKcRmU8) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [Sommarnattens Skeende \(Rain Version\)](https://open.spotify.com/album/1aCRMnV31DGcpjJJPiwcMe) | 3:36 | 2023-04-27 |  |
+| [Spiritless](https://open.spotify.com/track/4od7ZCFWUhJvGRJCwRxHAF) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Spiritless](https://open.spotify.com/album/0oXZ3h5wShcHVkL6I5qama) | 3:54 | 2023-09-29 |  |
 | [Spoonbills](https://open.spotify.com/track/0LM38lH2RI72dPmJ6KbBvw) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Spoonbills](https://open.spotify.com/album/2XyxvwvFpE076GQF5HkKoc) | 3:29 | 2023-05-11 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/29Gr0GjylxtT8NnqYdzD0q) | [Jené Martins](https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/5ccUuk74VKOx1uSOZUxAUt) | 2:36 | 2023-04-27 |  |
 | [Steam](https://open.spotify.com/track/3RmG3gc8uPfq0O0zHTsPsh) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Steam](https://open.spotify.com/album/2sG4LyH2WzTRKQbvavkxdd) | 3:21 | 2023-06-15 |  |

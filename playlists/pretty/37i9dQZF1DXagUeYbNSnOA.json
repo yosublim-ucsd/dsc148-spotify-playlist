@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Jossman. Updates every Wednesday.",
-  "num_followers": 172790,
+  "num_followers": 172815,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjZiYzI5YWY3ZDhiMTgyMmM3ZjVhN2YxNGVjNmNlM2ZhZGNiNWNk",
+  "snapshot_id": "MCw2ZTA1MDJiMTlkOGZkODRlZmFlZDhmMjNlMDkxZjNmZDYwMzM2MTA4",
   "tracks": [
     {
       "added_at": "2023-09-27 03:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-09-27 03:00:00",
       "album": {
+        "name": "Fuerte",
+        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
+      },
+      "artists": [
+        {
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+        }
+      ],
+      "duration_ms": 229454,
+      "name": "Fuerte",
+      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
+    },
+    {
+      "added_at": "2023-09-27 03:00:00",
+      "album": {
         "name": "aterrizar",
         "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2023-09-27 03:00:00",
       "album": {
-        "name": "Fuerte",
-        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
+        "name": "AQUA",
+        "url": "https://open.spotify.com/album/1yVq8AGWpGPRkhY2E2pztn"
       },
       "artists": [
         {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+          "name": "CANNYON",
+          "url": "https://open.spotify.com/artist/4uDcbcdxgwIACWrB24vNNx"
         }
       ],
-      "duration_ms": 229454,
-      "name": "Fuerte",
-      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
+      "duration_ms": 254000,
+      "name": "AQUA",
+      "url": "https://open.spotify.com/track/40R0lDskycJi0p1TQS6CJJ"
     },
     {
       "added_at": "2023-09-27 03:00:00",
@@ -815,22 +831,6 @@
       "duration_ms": 234359,
       "name": "Desahog\u00e1ndome",
       "url": "https://open.spotify.com/track/3wnAh76ynjSkMdLbOOR1GS"
-    },
-    {
-      "added_at": "2023-09-27 03:00:00",
-      "album": {
-        "name": "AQUA",
-        "url": "https://open.spotify.com/album/1yVq8AGWpGPRkhY2E2pztn"
-      },
-      "artists": [
-        {
-          "name": "CANNYON",
-          "url": "https://open.spotify.com/artist/4uDcbcdxgwIACWrB24vNNx"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "AQUA",
-      "url": "https://open.spotify.com/track/40R0lDskycJi0p1TQS6CJJ"
     },
     {
       "added_at": "2023-09-27 03:00:00",

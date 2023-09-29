@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 166801,
       "name": "Aboboyaa (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 150857,
       "name": "BACK IN UNI",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 192000,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 143042,
       "name": "Big 7",
       "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 175800,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 173888,
       "name": "Body 2 Body (feat. KiDi & Camidoh)",
       "url": "https://open.spotify.com/track/1POkAbQJ7Hja6FIzCYWCBY"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 183103,
       "name": "Buga (Lo Lo Lo)",
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 148374,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 176134,
       "name": "Cough (Odo)",
       "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
@@ -1690,6 +1690,28 @@
       "duration_ms": 183118,
       "name": "E Choke",
       "url": "https://open.spotify.com/track/0dfhS0eJu5a3OB6TVMdYlA"
+    },
+    {
+      "album": {
+        "name": "E Choke",
+        "url": "https://open.spotify.com/album/5oSPnUJVW4g1oXILuB0lVT"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI"
+        },
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183118,
+      "name": "E Choke",
+      "url": "https://open.spotify.com/track/0lzX67xt1DiKrl3CV0stJC"
     },
     {
       "album": {
@@ -1887,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Fate",
+        "url": "https://open.spotify.com/album/4ReLbue8ShBMjIGbJjGGAw"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178105,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/1QCV9ndrHVnqtMcqXszEN6"
+    },
+    {
+      "album": {
         "name": "Fine Wine (feat. King Promise & Joeboy)",
         "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
       },
@@ -1990,7 +2030,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 153232,
       "name": "For Daddy",
       "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
@@ -2088,7 +2128,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 171135,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8"
@@ -2176,7 +2216,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 173993,
       "name": "GIDIGBA (FIRM & STRONG)",
       "url": "https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7"
@@ -2494,7 +2534,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 208350,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
@@ -2608,7 +2648,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 197894,
       "name": "Hypertension",
       "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
@@ -2828,7 +2868,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Je M'appelle (feat. DaVido)",
       "url": "https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK"
@@ -3038,7 +3078,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 329079,
       "name": "Khekheleza (Dlala Dlala)",
       "url": "https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo"
@@ -3126,10 +3166,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 260058,
       "name": "Kristy",
       "url": "https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf"
+    },
+    {
+      "album": {
+        "name": "Kwaku Ananse",
+        "url": "https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206051,
+      "name": "Kwaku Ananse",
+      "url": "https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X"
     },
     {
       "album": {
@@ -3384,7 +3442,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-19",
+      "date_removed": null,
       "duration_ms": 151926,
       "name": "Little (Love I Love)",
       "url": "https://open.spotify.com/track/6GUMUz1H9nIxo1UiEXYQS0"
@@ -3784,7 +3842,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 193600,
       "name": "Militerian (feat. Naira Marley)",
       "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
@@ -3860,7 +3918,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 151663,
       "name": "Mon Bebe",
       "url": "https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw"
@@ -3932,7 +3990,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "More Of You",
       "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
@@ -4250,7 +4308,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 150055,
       "name": "Not God",
       "url": "https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH"
@@ -4808,7 +4866,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 326048,
       "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
       "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
@@ -4855,6 +4913,24 @@
     },
     {
       "album": {
+        "name": "Plenty Evil",
+        "url": "https://open.spotify.com/album/4LGC4uOB6sSUIirDU0w5GS"
+      },
+      "artists": [
+        {
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189771,
+      "name": "Plenty Evil",
+      "url": "https://open.spotify.com/track/0QgGGSo6ygXcDKjk5s2aER"
+    },
+    {
+      "album": {
         "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
         "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
       },
@@ -4896,7 +4972,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 202540,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6vuItm60bi4U9UOgvYanSp"
@@ -5184,7 +5260,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
@@ -5224,7 +5300,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 194318,
       "name": "san siro",
       "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
@@ -5414,7 +5490,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 178340,
       "name": "SIMMER DOWN",
       "url": "https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5"
@@ -5432,7 +5508,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 167767,
       "name": "Single",
       "url": "https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe"
@@ -5483,6 +5559,28 @@
     },
     {
       "album": {
+        "name": "L.I.T.A",
+        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170686,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/77jK5BkzUGqpTli5fJExWz"
+    },
+    {
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/0GxXWdO5ZOmdcr3TetwGtY"
       },
@@ -5512,7 +5610,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
@@ -5596,7 +5694,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 148000,
       "name": "Soweto",
       "url": "https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5"
@@ -5930,7 +6028,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 190791,
       "name": "Sungba",
       "url": "https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg"
@@ -5970,7 +6068,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 166426,
       "name": "Take Away",
       "url": "https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK"
@@ -6388,7 +6486,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 124444,
       "name": "Vero",
       "url": "https://open.spotify.com/track/0yjxAenLJwPCCcn19XSYG3"
@@ -6472,7 +6570,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 149457,
       "name": "Water",
       "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"
@@ -6736,7 +6834,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 163685,
       "name": "Wrong Person (with ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj"
@@ -6810,7 +6908,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
@@ -6908,7 +7006,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 194558,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd"

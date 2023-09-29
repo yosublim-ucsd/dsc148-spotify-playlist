@@ -2,14 +2,15 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Ndarboy Genk
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Hendra Kumbara
 
-220 songs - 18 hr 7 min
+224 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1001 Bintang](https://open.spotify.com/track/1DCgrzKULaaB2lsPgz8zNY) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [1001 Bintang](https://open.spotify.com/album/5CmEzPjTkA6wkwOmzUsNeq) | 4:22 | 2023-07-28 |  |
 | [Abadi](https://open.spotify.com/track/6rdqabpJT3jplQzor1os8j) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Abadi](https://open.spotify.com/album/6imuBPMqzJSYbN19D9GlFm) | 4:52 | 2023-03-09 |  |
+| [Abadi \- Dangdut Version](https://open.spotify.com/track/1D2YEPKpqCvmQOOi2xHsxX) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Abadi \(Dangdut Version\)](https://open.spotify.com/album/38wpQZfT0GMrRaw9MaAkTo) | 5:30 | 2023-09-28 |  |
 | [Aduh Biyung \- From "Cidro Asmoro"](https://open.spotify.com/track/3cXIS43BQZtXN9CBe7s2di) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Aduh Biyung \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3OOjxTTOLXt4OodeL9jJ9A) | 4:15 | 2022-05-26 | 2023-07-14 |
 | [Akhire Lungo](https://open.spotify.com/track/2LbtLp004yRHORSdL1uTwF) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Akhire Lungo](https://open.spotify.com/album/7wMhXRZvERrbp1MBpzcjK4) | 5:13 | 2022-05-26 | 2023-08-11 |
 | [Aku Bukan Jodohnya](https://open.spotify.com/track/6rKydpFW3QTBu172RRFkKS) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Aku Bukan Jodohnya](https://open.spotify.com/album/0Qsx7ZYhN4O64h8rSO1H94) | 5:38 | 2022-05-26 | 2023-08-11 |
@@ -101,6 +102,7 @@
 | [Lungaku](https://open.spotify.com/track/5laQzcP5GJcT0lF5R7HpBr) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Lungaku](https://open.spotify.com/album/13eXr1lmUyXeJtUEGHoBP6) | 5:59 | 2022-05-26 | 2023-07-14 |
 | [Madiun Ngawi](https://open.spotify.com/track/1cYFdtA6Ikt6L3nx17HidL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Madiun Ngawi](https://open.spotify.com/album/28PUMtZizCE3nKxO1Fi9bA) | 5:43 | 2023-05-19 |  |
 | [Madiun Ngawi](https://open.spotify.com/track/5TvIpLkrmpdacgAUlbQOFA) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Madiun Ngawi](https://open.spotify.com/album/5CYaM4Mm6H6JIXyBwKmdrx) | 5:46 | 2022-05-26 | 2022-09-16 |
+| [MAKSET](https://open.spotify.com/track/7r0C6hjDpLUNeCZEGqEkpJ) | [Kalia Siska](https://open.spotify.com/artist/70hsEvlt6YZPT97UIvzpEu), [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [MAKSET](https://open.spotify.com/album/2cBMC737NRu6uYgmkSemYS) | 6:07 | 2023-09-28 |  |
 | [MakSet](https://open.spotify.com/track/70sEkwn77Nrf0fVIK67YvG) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [MakSet](https://open.spotify.com/album/7w2UIvMEG4eIC72CMnVDU2) | 5:45 | 2023-09-22 |  |
 | [Manot](https://open.spotify.com/track/15HmzLQkPN4S6j1lvXYUJp) | [Gildcoustic](https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU) | [Manot](https://open.spotify.com/album/2O5X9w2clxTTzqWbHDM28E) | 5:48 | 2023-09-15 |  |
 | [Mbok Sarijem](https://open.spotify.com/track/0oUW3yW2eADBRGTOpUGe1H) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Mbok Sarijem](https://open.spotify.com/album/0mLRi97B3aVyS9aTkcyUIR) | 6:35 | 2023-09-15 |  |
@@ -194,6 +196,7 @@
 | [Semarang Ngawi](https://open.spotify.com/track/7Di7sWT0dsxlgDvJINPpHw) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Semarang Ngawi](https://open.spotify.com/album/6K4pgYhUy2r4e6akDRIe5y) | 4:24 | 2023-06-15 | 2023-08-11 |
 | [senenge atiku](https://open.spotify.com/track/1Mi6HihzwGb9aUbjDls0up) | [Sleman Receh](https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP) | [senenge atiku](https://open.spotify.com/album/4ER7VgpdxBtCHF9DcTqcFq) | 5:10 | 2022-05-26 | 2022-09-02 |
 | [Sewu Kuto](https://open.spotify.com/track/0dOVpj4DF72H55AczoFUU6) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Sewu Kuto](https://open.spotify.com/album/5SNtJc8E285xPBgJke5WIr) | 4:07 | 2022-05-26 | 2023-08-11 |
+| [Sido Rondo \(feat\. Mas Tutur\)](https://open.spotify.com/track/0CxgPOuTACNddFQC82zu9l) | [Mira Kirana](https://open.spotify.com/artist/0WfgPneshlAOQsgIOERmOP), [Mas Tutur](https://open.spotify.com/artist/0ZnrTjAIGN7PfnjfeC9AC9) | [Sido Rondo \(feat\. Mas Tutur\)](https://open.spotify.com/album/4NpCoRZQPRyJj3nO97pB63) | 5:52 | 2023-09-28 |  |
 | [Sinyal Tresna \- From Collabonation](https://open.spotify.com/track/5vVV76tC3KjigYnT4dzMba) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sinyal Tresna \(From Collabonation\)](https://open.spotify.com/album/79v7NB2gHevH35BCl5G2FQ) | 4:41 | 2022-07-21 | 2023-08-11 |
 | [Sinyal Tresno](https://open.spotify.com/track/1a3eBx0pLNJ0bfI2NMm59p) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Sinyal Tresno](https://open.spotify.com/album/1CXnJCfzX2TxG76pAJrjvO) | 4:50 | 2023-02-09 | 2023-08-11 |
 | [Sugeng Dalu](https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/1dZX3QreXQ3V257tr93SJI) | 5:23 | 2022-05-26 | 2023-08-11 |
@@ -225,6 +228,7 @@
 | [Wes Tatas](https://open.spotify.com/track/6g6tlaJKQWsL6Ysrt6anxs) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Wes Tatas](https://open.spotify.com/album/0st0wABUWgfiEPkF3fPhsz) | 4:07 | 2023-05-19 |  |
 | [Widodari](https://open.spotify.com/track/6NboFmEGgwlzpVG7dFfJUV) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Widodari](https://open.spotify.com/album/43jrtZTMIedkZMxTpfWCxa) | 4:56 | 2022-05-26 | 2023-07-14 |
 | [Wingi Dele Saiki Tempe](https://open.spotify.com/track/5Q3c8a4Z12UyDXWDzwZfYc) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Wingi Dele Saiki Tempe](https://open.spotify.com/album/30DhyZgunBAiosUbswKeaA) | 6:29 | 2022-05-26 | 2022-06-10 |
+| [Wis Dadi Siji](https://open.spotify.com/track/3V4psN224kLrGMNQ6nPYW2) | [Yoga Pratama](https://open.spotify.com/artist/4xb4qXz0TEBMoQCARbOPV1), [Mayangsari](https://open.spotify.com/artist/3rFjxo9yivNNj7ARVjSAzQ), [ALIM MAHAKARYA](https://open.spotify.com/artist/2Nzt5yxDZ24I6byUHRgjGF) | [Wis Dadi Siji](https://open.spotify.com/album/2WRKywqxFsv91baqQwyhu7) | 4:53 | 2023-09-28 |  |
 | [Wkwkwk](https://open.spotify.com/track/07AZnO1UhduzhZdiL7iZKo) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Wkwkwk](https://open.spotify.com/album/18Gtv8JfqAIwVwLuShicWm) | 4:03 | 2022-07-14 | 2022-07-22 |
 | [Yang](https://open.spotify.com/track/3v7OoIuqKeR2cm1UraZAGn) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [Yang](https://open.spotify.com/album/7fexpNRf6OG0n9MfL75j5y) | 4:34 | 2022-05-26 | 2022-11-14 |
 | [Yowis! \- Koplo](https://open.spotify.com/track/6uatCDtgBGZM22PQ1HFhHb) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Yowis! \(Koplo\)](https://open.spotify.com/album/61f6QjZDfdn7o3T4ahIplo) | 4:46 | 2022-05-26 | 2022-09-16 |

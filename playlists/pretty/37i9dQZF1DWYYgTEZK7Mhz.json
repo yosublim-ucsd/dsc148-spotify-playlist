@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 22263,
+  "num_followers": 22305,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmJlYmI0YmU4NDc1YWVhM2JjMGVjYTI1YTE4OGQwZjJjZGRiOTli",
+  "snapshot_id": "MCw1YmIxZDI1ZmYwMGQyODQ0M2JmYTQ1ZmI4MDViMTY4YTRlMmQ5ZWJi",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Gwiazdy xx Wieku - Ricchi E Poveri",
-        "url": "https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Un'ora con...",
         "url": "https://open.spotify.com/album/3jYaY4hJL3Ene7hctpoX44"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 236813,
       "name": "Nell'aria",
       "url": "https://open.spotify.com/track/5PXaja7dpezSS8nSDsyfb7"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Gwiazdy xx Wieku - Ricchi E Poveri",
+        "url": "https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
     },
     {
       "added_at": "2023-06-05 07:42:38",

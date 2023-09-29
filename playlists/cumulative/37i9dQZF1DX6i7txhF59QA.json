@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Let's party with cheerful Korean trot medley. Cover: Hong Jiyun(\ud64d\uc9c0\uc724) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Let's party with cheerful Korean trot medley. Cover: Song Ga-In(\uc1a1\uac00\uc778) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K-Trot Stars",
   "tracks": [
     {
@@ -7895,6 +7895,24 @@
     },
     {
       "album": {
+        "name": "2023 Song Ga In Best & Live",
+        "url": "https://open.spotify.com/album/2nmo7UyArrfpvAz2Gj9uwn"
+      },
+      "artists": [
+        {
+          "name": "Song Ga In",
+          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Mountain Chillgap - Live Version",
+      "url": "https://open.spotify.com/track/1l2quEhr9ydg3aNMMOIBXD"
+    },
+    {
+      "album": {
         "name": "Bongsungah school PART14",
         "url": "https://open.spotify.com/album/3Rmq4pcai47nT6G020fGDw"
       },
@@ -11312,7 +11330,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 191786,
       "name": "The early morning car",
       "url": "https://open.spotify.com/track/7rBImMA7bwE7qqnaF4pdmd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Staind
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,065 likes - 125 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,238 likes - 125 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 124 | [Dream Big](https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Dream Big](https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c) | 3:05 |
 | 125 | [Dead Weight](https://open.spotify.com/track/6zESIOIYKaxZQJP2hxgDlB) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Dead Weight](https://open.spotify.com/album/7HuFADTbWIytpxrDfpKTwc) | 3:22 |
 
-Snapshot ID: `MCxmYzM2MWVkMDM1ZTU4OGRjY2Q3ZDE1OGNkMjY5MzQwZmNmMjQ5OTcz`
+Snapshot ID: `MCxmNGE3YmNjNzZmODU2ZGY1Y2YzZDhkZDNlNzYzN2Q0ZDNlZjJmNjc0`

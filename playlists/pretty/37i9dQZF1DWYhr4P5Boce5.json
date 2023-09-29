@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 199629,
+  "num_followers": 199654,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDkyYmM2ODIxMjgzMTMxMjA1ZWE5ZmU0ZGMyN2NkZDQzOWQwZDdj",
+  "snapshot_id": "MCw3NjE1NGRmNjllMWQwMWRkYjlmZTljZDE5MmViZWMyOTIzMWZmZDU2",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Love Me Like I Am",
+        "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 184103,
+      "name": "Love Me Like I Am",
+      "url": "https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "A Little Crazy",
         "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 198000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Love Me Like I Am",
-        "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 184103,
-      "name": "Love Me Like I Am",
-      "url": "https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1179,26 +1179,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Adam & Eve'n",
-        "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
+        "name": "'90s Kids",
+        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
       },
       "artists": [
         {
-          "name": "Sir & Saint",
-          "url": "https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL"
-        },
-        {
-          "name": "Sir the Baptist",
-          "url": "https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg"
-        },
-        {
-          "name": "Saint Ashleey",
-          "url": "https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5"
+          "name": "LaPeer",
+          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
         }
       ],
-      "duration_ms": 125284,
-      "name": "Adam & Eve'n",
-      "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
+      "duration_ms": 206987,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1219,18 +1211,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "'90s Kids",
-        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
+        "name": "Adam & Eve'n",
+        "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
       },
       "artists": [
         {
-          "name": "LaPeer",
-          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
+          "name": "Sir & Saint",
+          "url": "https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL"
+        },
+        {
+          "name": "Sir the Baptist",
+          "url": "https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg"
+        },
+        {
+          "name": "Saint Ashleey",
+          "url": "https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5"
         }
       ],
-      "duration_ms": 206987,
-      "name": "Letters",
-      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
+      "duration_ms": 125284,
+      "name": "Adam & Eve'n",
+      "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
     },
     {
       "added_at": "2023-01-31 10:01:12",

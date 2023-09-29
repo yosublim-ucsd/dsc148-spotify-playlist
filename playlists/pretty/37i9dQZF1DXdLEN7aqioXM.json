@@ -1,12 +1,12 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 968236,
+  "num_followers": 968511,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWU2NjM2ZGVlMDhkZjQzODNiZmFjYjQyYjQyYmMzMTg5MzkzMzk2",
+  "snapshot_id": "MCxmMmVhMWRhM2YxMjQwZDA4YmEwOGE1ZDY5MWI1YzZmYzU0ZTFmM2I4",
   "tracks": [
     {
       "added_at": "2023-06-30 14:26:26",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-06-30 14:26:26",
       "album": {
-        "name": "Multiverse",
-        "url": "https://open.spotify.com/album/3YoxddtXSFXuu2eP6ueosY"
-      },
-      "artists": [
-        {
-          "name": "Timecop1983",
-          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
-        }
-      ],
-      "duration_ms": 311412,
-      "name": "Escaping the Void",
-      "url": "https://open.spotify.com/track/67oYdAby38ElzDhS6S7mWN"
-    },
-    {
-      "added_at": "2023-06-30 14:26:26",
-      "album": {
         "name": "Light Years",
         "url": "https://open.spotify.com/album/0tWGMqpI0DBEWFwmqcQrjg"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 256406,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/41QTliytEPoX2vkuMT0fKd"
+    },
+    {
+      "added_at": "2023-06-30 14:26:26",
+      "album": {
+        "name": "Multiverse",
+        "url": "https://open.spotify.com/album/3YoxddtXSFXuu2eP6ueosY"
+      },
+      "artists": [
+        {
+          "name": "Timecop1983",
+          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
+        }
+      ],
+      "duration_ms": 311412,
+      "name": "Escaping the Void",
+      "url": "https://open.spotify.com/track/67oYdAby38ElzDhS6S7mWN"
     },
     {
       "added_at": "2023-06-30 14:26:26",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-06-30 14:26:26",
       "album": {
-        "name": "Ornaments",
-        "url": "https://open.spotify.com/album/5b1WAngXJHEDow5XfNkzIm"
-      },
-      "artists": [
-        {
-          "name": "Sferro",
-          "url": "https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P"
-        }
-      ],
-      "duration_ms": 267997,
-      "name": "Blitz",
-      "url": "https://open.spotify.com/track/4j4P1BiYx0l9ZgeZEnD32P"
-    },
-    {
-      "added_at": "2023-06-30 14:26:26",
-      "album": {
         "name": "Crystalica - EP",
         "url": "https://open.spotify.com/album/3uSmnYqAXeS13BFvkQbG0w"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 336146,
       "name": "Emerald Rising",
       "url": "https://open.spotify.com/track/7lUNro5GwphA1CIq620wlc"
+    },
+    {
+      "added_at": "2023-06-30 14:26:26",
+      "album": {
+        "name": "Ornaments",
+        "url": "https://open.spotify.com/album/5b1WAngXJHEDow5XfNkzIm"
+      },
+      "artists": [
+        {
+          "name": "Sferro",
+          "url": "https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P"
+        }
+      ],
+      "duration_ms": 267997,
+      "name": "Blitz",
+      "url": "https://open.spotify.com/track/4j4P1BiYx0l9ZgeZEnD32P"
     },
     {
       "added_at": "2023-06-30 14:26:26",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-06-30 14:26:26",
       "album": {
+        "name": "Metrocenter 84",
+        "url": "https://open.spotify.com/album/27FPwOv08GRvTHdzHFqfio"
+      },
+      "artists": [
+        {
+          "name": "Sunset Neon",
+          "url": "https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Metrocenter 84",
+      "url": "https://open.spotify.com/track/3rxnmxTEqApa2ad9TWWDBx"
+    },
+    {
+      "added_at": "2023-06-30 14:26:26",
+      "album": {
         "name": "Out of Luck",
         "url": "https://open.spotify.com/album/6Ml0baIxoldVxxhRHILocv"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 181565,
       "name": "Out of Luck - Instrumental",
       "url": "https://open.spotify.com/track/6SjnM6fA2ZEVlaQzK04Tll"
-    },
-    {
-      "added_at": "2023-06-30 14:26:26",
-      "album": {
-        "name": "Metrocenter 84",
-        "url": "https://open.spotify.com/album/27FPwOv08GRvTHdzHFqfio"
-      },
-      "artists": [
-        {
-          "name": "Sunset Neon",
-          "url": "https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Metrocenter 84",
-      "url": "https://open.spotify.com/track/3rxnmxTEqApa2ad9TWWDBx"
     },
     {
       "added_at": "2023-06-30 14:26:26",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-06-30 14:26:26",
       "album": {
-        "name": "Crystal Waves (From \"Wave Break\")",
-        "url": "https://open.spotify.com/album/54hp6mvPDPZgVUFbWOK3N5"
+        "name": "Skulltaste",
+        "url": "https://open.spotify.com/album/6Qk8W6vurHFSuxJ0LldW3g"
       },
       "artists": [
         {
-          "name": "Kalax",
-          "url": "https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY"
+          "name": "Mux Mool",
+          "url": "https://open.spotify.com/artist/5ExPH13WUhdGVNnMq6RLCr"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Crystal Waves (From \"Wave Break\")",
-      "url": "https://open.spotify.com/track/4MxlFlAqGSnNMYYXne6Fer"
+      "duration_ms": 214999,
+      "name": "Get Better John",
+      "url": "https://open.spotify.com/track/0TV7fHt0J6fwodmjDHLldN"
     },
     {
       "added_at": "2023-06-30 14:26:26",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-06-30 14:26:26",
       "album": {
-        "name": "Skulltaste",
-        "url": "https://open.spotify.com/album/6Qk8W6vurHFSuxJ0LldW3g"
+        "name": "Crystal Waves (From \"Wave Break\")",
+        "url": "https://open.spotify.com/album/54hp6mvPDPZgVUFbWOK3N5"
       },
       "artists": [
         {
-          "name": "Mux Mool",
-          "url": "https://open.spotify.com/artist/5ExPH13WUhdGVNnMq6RLCr"
+          "name": "Kalax",
+          "url": "https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY"
         }
       ],
-      "duration_ms": 214999,
-      "name": "Get Better John",
-      "url": "https://open.spotify.com/track/0TV7fHt0J6fwodmjDHLldN"
+      "duration_ms": 280000,
+      "name": "Crystal Waves (From \"Wave Break\")",
+      "url": "https://open.spotify.com/track/4MxlFlAqGSnNMYYXne6Fer"
     },
     {
       "added_at": "2023-06-30 14:26:26",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-06-30 14:26:26",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/3wabwuZW2LWdGANxoEVUfj"
-      },
-      "artists": [
-        {
-          "name": "Lamorn",
-          "url": "https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9"
-        }
-      ],
-      "duration_ms": 193300,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/4u6wEBY7g2KEzGqVhuVSq1"
-    },
-    {
-      "added_at": "2023-06-30 14:26:26",
-      "album": {
         "name": "Space Between Us",
         "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 239360,
       "name": "Space Between Us",
       "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
+    },
+    {
+      "added_at": "2023-06-30 14:26:26",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3wabwuZW2LWdGANxoEVUfj"
+      },
+      "artists": [
+        {
+          "name": "Lamorn",
+          "url": "https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9"
+        }
+      ],
+      "duration_ms": 193300,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/4u6wEBY7g2KEzGqVhuVSq1"
     },
     {
       "added_at": "2023-06-30 14:26:26",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-06-30 14:26:26",
       "album": {
-        "name": "Cosmic Boundaries",
-        "url": "https://open.spotify.com/album/7397LusD3Odk8yvnHJC4hw"
-      },
-      "artists": [
-        {
-          "name": "Phaserland",
-          "url": "https://open.spotify.com/artist/318JBsDJrao7DYDwsaE715"
-        }
-      ],
-      "duration_ms": 293232,
-      "name": "Nomad City",
-      "url": "https://open.spotify.com/track/4bAVPOzkidrMsZHbbn8uI8"
-    },
-    {
-      "added_at": "2023-06-30 14:26:26",
-      "album": {
         "name": "2020 AD",
         "url": "https://open.spotify.com/album/10CEe5Hjg0iHasl8Z2DbSa"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 222222,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/7BaoPkMMPX5LwdyyUSByKe"
+    },
+    {
+      "added_at": "2023-06-30 14:26:26",
+      "album": {
+        "name": "Cosmic Boundaries",
+        "url": "https://open.spotify.com/album/7397LusD3Odk8yvnHJC4hw"
+      },
+      "artists": [
+        {
+          "name": "Phaserland",
+          "url": "https://open.spotify.com/artist/318JBsDJrao7DYDwsaE715"
+        }
+      ],
+      "duration_ms": 293232,
+      "name": "Nomad City",
+      "url": "https://open.spotify.com/track/4bAVPOzkidrMsZHbbn8uI8"
     },
     {
       "added_at": "2023-06-30 14:26:26",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-06-30 14:26:26",
       "album": {
-        "name": "Metaversal",
-        "url": "https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK"
-      },
-      "artists": [
-        {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        }
-      ],
-      "duration_ms": 339333,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia"
-    },
-    {
-      "added_at": "2023-06-30 14:26:26",
-      "album": {
         "name": "Defender",
         "url": "https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 197000,
       "name": "Disco on the Baltic Sea",
       "url": "https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs"
+    },
+    {
+      "added_at": "2023-06-30 14:26:26",
+      "album": {
+        "name": "Metaversal",
+        "url": "https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK"
+      },
+      "artists": [
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        }
+      ],
+      "duration_ms": 339333,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia"
     },
     {
       "added_at": "2023-06-30 14:26:26",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-06-30 14:26:26",
       "album": {
-        "name": "The Construct",
-        "url": "https://open.spotify.com/album/1y7EUn0wZFWNeGcHB5V7YC"
-      },
-      "artists": [
-        {
-          "name": "D/A/D",
-          "url": "https://open.spotify.com/artist/5yLMZlxETbRl2DQChBBkuS"
-        }
-      ],
-      "duration_ms": 291838,
-      "name": "Backbone of the Night",
-      "url": "https://open.spotify.com/track/0U2HJ0JMW4kMr3Np1ePFZ3"
-    },
-    {
-      "added_at": "2023-06-30 14:26:26",
-      "album": {
         "name": "Space Amplitude",
         "url": "https://open.spotify.com/album/0wel2m8VmYeR7ZnZZEZzu8"
       },
@@ -2395,22 +2379,18 @@
     {
       "added_at": "2023-06-30 14:26:26",
       "album": {
-        "name": "Temporarity (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7kePVkBLCrDB2g0YpMrxBn"
+        "name": "The Construct",
+        "url": "https://open.spotify.com/album/1y7EUn0wZFWNeGcHB5V7YC"
       },
       "artists": [
         {
-          "name": "Michael Cassette",
-          "url": "https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd"
-        },
-        {
-          "name": "16BL",
-          "url": "https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG"
+          "name": "D/A/D",
+          "url": "https://open.spotify.com/artist/5yLMZlxETbRl2DQChBBkuS"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Shadow\u2019s Movement - 16BL\u2019s Universal Disco Mix",
-      "url": "https://open.spotify.com/track/68QnK13w8jsIw5V1l9nUYJ"
+      "duration_ms": 291838,
+      "name": "Backbone of the Night",
+      "url": "https://open.spotify.com/track/0U2HJ0JMW4kMr3Np1ePFZ3"
     },
     {
       "added_at": "2023-06-30 14:26:26",
@@ -2459,6 +2439,26 @@
       "duration_ms": 247431,
       "name": "Timewarp",
       "url": "https://open.spotify.com/track/5pLEtE1TftgsWoDsY99ThL"
+    },
+    {
+      "added_at": "2023-06-30 14:26:26",
+      "album": {
+        "name": "Temporarity (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7kePVkBLCrDB2g0YpMrxBn"
+      },
+      "artists": [
+        {
+          "name": "Michael Cassette",
+          "url": "https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd"
+        },
+        {
+          "name": "16BL",
+          "url": "https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Shadow\u2019s Movement - 16BL\u2019s Universal Disco Mix",
+      "url": "https://open.spotify.com/track/68QnK13w8jsIw5V1l9nUYJ"
     },
     {
       "added_at": "2023-06-30 14:26:26",
@@ -2563,6 +2563,22 @@
     {
       "added_at": "2023-06-30 14:26:26",
       "album": {
+        "name": "Man and Machine",
+        "url": "https://open.spotify.com/album/6uGoWSuQIru4ShNEKc3KyP"
+      },
+      "artists": [
+        {
+          "name": "Moondragon",
+          "url": "https://open.spotify.com/artist/30V9HnHJWlepVciwL4CHub"
+        }
+      ],
+      "duration_ms": 240039,
+      "name": "Afterburner",
+      "url": "https://open.spotify.com/track/3zeS75ZBNbUoAZW9eKUk4f"
+    },
+    {
+      "added_at": "2023-06-30 14:26:26",
+      "album": {
         "name": "We Find Ourselves",
         "url": "https://open.spotify.com/album/3dS5r7ExDztGYhuZMJ1SLJ"
       },
@@ -2583,22 +2599,6 @@
       "duration_ms": 219609,
       "name": "We Find Ourselves - Edit",
       "url": "https://open.spotify.com/track/2AXZRDQz6fC6KthbMytyi5"
-    },
-    {
-      "added_at": "2023-06-30 14:26:26",
-      "album": {
-        "name": "Man and Machine",
-        "url": "https://open.spotify.com/album/6uGoWSuQIru4ShNEKc3KyP"
-      },
-      "artists": [
-        {
-          "name": "Moondragon",
-          "url": "https://open.spotify.com/artist/30V9HnHJWlepVciwL4CHub"
-        }
-      ],
-      "duration_ms": 240039,
-      "name": "Afterburner",
-      "url": "https://open.spotify.com/track/3zeS75ZBNbUoAZW9eKUk4f"
     },
     {
       "added_at": "2023-06-30 14:26:26",

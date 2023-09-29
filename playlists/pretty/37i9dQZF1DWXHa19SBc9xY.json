@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 77226,
+  "num_followers": 77331,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTQxNWE2N2IzM2Y3YmEzMTI0NTg1ZjQwNmY0MGZhODM3NWEzMTUw",
+  "snapshot_id": "MCw0NTdmNTI2NzcwZDY3YjUwY2RmZTVmMjM1YWI3NWVlMmVmNTk0NGQ2",
   "tracks": [
     {
       "added_at": "2023-09-02 00:01:21",
@@ -139,22 +139,18 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Meu Amor",
-        "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
+        "name": "samba do mo\u00e7o bonito",
+        "url": "https://open.spotify.com/album/79yWNPUh9pzwttJ4dTtlVQ"
       },
       "artists": [
         {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        },
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 146347,
-      "name": "Meu Amor",
-      "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
+      "duration_ms": 197090,
+      "name": "samba do mo\u00e7o bonito",
+      "url": "https://open.spotify.com/track/2RRSoVyvUIW7vNH9Ti3827"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -175,18 +171,22 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "samba do mo\u00e7o bonito",
-        "url": "https://open.spotify.com/album/79yWNPUh9pzwttJ4dTtlVQ"
+        "name": "Meu Amor",
+        "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
       },
       "artists": [
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        },
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
         }
       ],
-      "duration_ms": 197090,
-      "name": "samba do mo\u00e7o bonito",
-      "url": "https://open.spotify.com/track/2RRSoVyvUIW7vNH9Ti3827"
+      "duration_ms": 146347,
+      "name": "Meu Amor",
+      "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "De Onde Eu Venho",
-        "url": "https://open.spotify.com/album/3XKyRkEpNarQ7BQxLIzk5U"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "De Onde Eu Venho",
-      "url": "https://open.spotify.com/track/0ghWZ2Lf2KX2m0j4esH1Ou"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
         "name": "No Mundo",
         "url": "https://open.spotify.com/album/5xS2IPAnkQcq540z7HJh5N"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 188995,
       "name": "No Mundo",
       "url": "https://open.spotify.com/track/2mEALl4EcbiqffyP7fkNTH"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
+        "name": "De Onde Eu Venho",
+        "url": "https://open.spotify.com/album/3XKyRkEpNarQ7BQxLIzk5U"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "De Onde Eu Venho",
+      "url": "https://open.spotify.com/track/0ghWZ2Lf2KX2m0j4esH1Ou"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
+        "name": "ARREPIADA",
+        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "De Toda M\u00e3e",
+      "url": "https://open.spotify.com/track/2BHoY4Q7w2CHBfXj9z58Fo"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "ARREPIADA",
-        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "De Toda M\u00e3e",
-      "url": "https://open.spotify.com/track/2BHoY4Q7w2CHBfXj9z58Fo"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
         "name": "Praia do Flamengo",
         "url": "https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9"
       },
@@ -1455,22 +1455,6 @@
       "duration_ms": 271728,
       "name": "Praia do Flamengo",
       "url": "https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
-        "name": "Sou Daqui",
-        "url": "https://open.spotify.com/album/6dlqVfrdENu9wZsrj38w0O"
-      },
-      "artists": [
-        {
-          "name": "Lucas Felix",
-          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Sou Daqui",
-      "url": "https://open.spotify.com/track/3eUTsCeVdnA68g6PJ9kXQd"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -1495,6 +1479,22 @@
       "duration_ms": 261901,
       "name": "PREAMAR",
       "url": "https://open.spotify.com/track/5vXucjlEods0fafmWCudxU"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
+        "name": "Sou Daqui",
+        "url": "https://open.spotify.com/album/6dlqVfrdENu9wZsrj38w0O"
+      },
+      "artists": [
+        {
+          "name": "Lucas Felix",
+          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Sou Daqui",
+      "url": "https://open.spotify.com/track/3eUTsCeVdnA68g6PJ9kXQd"
     },
     {
       "added_at": "2023-09-02 00:01:21",

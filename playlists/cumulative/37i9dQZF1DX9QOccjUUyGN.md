@@ -4,7 +4,7 @@
 
 > tranquilo e calmo, no flow\. Foto: Arthurzin, WIU
 
-473 songs - 22 hr 36 min
+474 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,8 @@
 | [Pedaço de Mim](https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Pedaço de Mim](https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B) | 3:22 | 2022-03-18 | 2023-02-04 |
 | [Pede Tapa](https://open.spotify.com/track/0uni2JaTR39BMmTRcJ6JiV) | [OJhon](https://open.spotify.com/artist/4T5u1rPrwsk57uHGjticWq), [Toretto](https://open.spotify.com/artist/4Y7WtDnqiJrU6Ellq7GZYj), [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p) | [Pede Tapa](https://open.spotify.com/album/2fIeYfD4w435dFRlhPXzz7) | 2:33 | 2023-07-28 |  |
 | [Peixe Grande](https://open.spotify.com/track/4eL2UJw7hlvoxywx4CSL9F) | [Nauta](https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Peixe Grande](https://open.spotify.com/album/0BVqwfKqX94meCXXWem6XB) | 2:06 | 2022-10-14 | 2022-12-17 |
-| [Pensamentos](https://open.spotify.com/track/0Jq6jzZTqs0aDVv62fOXq6) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Acústico Mc Kadu](https://open.spotify.com/album/5Twg5GxZkWQqeRoNKhUdpH) | 5:14 | 2023-09-22 |  |
+| [Pensamentos](https://open.spotify.com/track/0Jq6jzZTqs0aDVv62fOXq6) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Acústico Mc Kadu](https://open.spotify.com/album/5Twg5GxZkWQqeRoNKhUdpH) | 5:14 | 2023-09-22 | 2023-09-29 |
+| [Pensamentos](https://open.spotify.com/track/4AXymu1OMTWHoz8uKs3L97) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Acústico Mc Kadu](https://open.spotify.com/album/3r6mdGEm8tJU2XNZJ4P7Af) | 5:14 | 2023-09-22 |  |
 | [Pensando Em Nós](https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Pensando Em Nós](https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd) | 3:12 | 2022-07-15 | 2022-09-03 |
 | [Perfume Mais Caro](https://open.spotify.com/track/4thX4lgktnjxkHTniznxK8) | [DjMenorRB](https://open.spotify.com/artist/71uOnE19iET2zJ3TNzkG6X), [Pretão do Mt](https://open.spotify.com/artist/1UtfPD6oPcyJs6EqwJdt4e) | [Perfume Mais Caro](https://open.spotify.com/album/55zZHtvKCpn7OchaEl4Hp6) | 2:14 | 2023-04-28 |  |
 | [PERSONNALITE](https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [PERSONNALITE](https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj) | 3:28 | 2023-09-22 |  |

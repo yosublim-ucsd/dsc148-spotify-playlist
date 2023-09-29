@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate playlist for the best in Mollywood!\nCover: 2018",
-  "num_followers": 72768,
+  "num_followers": 73013,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDMzZGYwZWVhYTIyZDg4YTdhZjAyMmJlYTQxMWUwMDc4NTkxNGZm",
+  "snapshot_id": "MCxiYTYxYTU1YmMyOGFiMDM5OTc2YjNhOWJhYjgzNjhiOWYxZjQwYjcz",
   "tracks": [
     {
       "added_at": "2023-09-27 10:00:03",
@@ -383,30 +383,6 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "Vijay Superum Pournamiyum (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2o5ujHPcWrrRmR8UF1Jj6V"
-      },
-      "artists": [
-        {
-          "name": "Vijay Yesudas",
-          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        },
-        {
-          "name": "Prince George",
-          "url": "https://open.spotify.com/artist/3Xh6eQ2RZtdSvsbpLHFKu0"
-        }
-      ],
-      "duration_ms": 218610,
-      "name": "Etho Mazhayil",
-      "url": "https://open.spotify.com/track/2Psbt9MZfVJNuHXFgG7DHh"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
         "name": "Nee Himamazhayayi (From \"Edakkad Battalion 06\")",
         "url": "https://open.spotify.com/album/6k4bzogIhV1Xl2Trbiuq9k"
       },
@@ -427,6 +403,30 @@
       "duration_ms": 304684,
       "name": "Nee Himamazhayayi - From \"Edakkad Battalion 06\"",
       "url": "https://open.spotify.com/track/0BCaEJQFk94ushm4Jc97Vo"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
+        "name": "Vijay Superum Pournamiyum (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2o5ujHPcWrrRmR8UF1Jj6V"
+      },
+      "artists": [
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Prince George",
+          "url": "https://open.spotify.com/artist/3Xh6eQ2RZtdSvsbpLHFKu0"
+        }
+      ],
+      "duration_ms": 218610,
+      "name": "Etho Mazhayil",
+      "url": "https://open.spotify.com/track/2Psbt9MZfVJNuHXFgG7DHh"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "Premam",
-        "url": "https://open.spotify.com/album/5gkkfFiedjuYeCM0v4IlZu"
-      },
-      "artists": [
-        {
-          "name": "Vijay Yesudas",
-          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
-        },
-        {
-          "name": "Rajesh Murugesan",
-          "url": "https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf"
-        }
-      ],
-      "duration_ms": 316551,
-      "name": "Malare",
-      "url": "https://open.spotify.com/track/4Hvf9xIeJWp5p9FkJerQhN"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
         "name": "Hridayam (Side B) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/6nuAnvIVNkw6pwqzuF2GJG"
       },
@@ -535,6 +515,30 @@
       "duration_ms": 201750,
       "name": "Pottu Thotta Pournami",
       "url": "https://open.spotify.com/track/4gYKdgwtMwUtKrmF0Qt2E7"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
+        "name": "Alare (From \"Member Rameshan 9aam Ward\")",
+        "url": "https://open.spotify.com/album/3r2555dO9qhGphE183VtFU"
+      },
+      "artists": [
+        {
+          "name": "Kailas",
+          "url": "https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61"
+        },
+        {
+          "name": "Ayraan",
+          "url": "https://open.spotify.com/artist/7lXhEJq3n8vGK4M9VJKS29"
+        },
+        {
+          "name": "Nithya Mammen",
+          "url": "https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P"
+        }
+      ],
+      "duration_ms": 261778,
+      "name": "Alare",
+      "url": "https://open.spotify.com/track/4xiOtiXXochXwmw3MU946g"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -587,26 +591,22 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "Alare (From \"Member Rameshan 9aam Ward\")",
-        "url": "https://open.spotify.com/album/3r2555dO9qhGphE183VtFU"
+        "name": "Premam",
+        "url": "https://open.spotify.com/album/5gkkfFiedjuYeCM0v4IlZu"
       },
       "artists": [
         {
-          "name": "Kailas",
-          "url": "https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61"
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
         },
         {
-          "name": "Ayraan",
-          "url": "https://open.spotify.com/artist/7lXhEJq3n8vGK4M9VJKS29"
-        },
-        {
-          "name": "Nithya Mammen",
-          "url": "https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P"
+          "name": "Rajesh Murugesan",
+          "url": "https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf"
         }
       ],
-      "duration_ms": 261778,
-      "name": "Alare",
-      "url": "https://open.spotify.com/track/4xiOtiXXochXwmw3MU946g"
+      "duration_ms": 316551,
+      "name": "Malare",
+      "url": "https://open.spotify.com/track/4Hvf9xIeJWp5p9FkJerQhN"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "Sita Ramam (Malayalam) (Extended Version) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/7uEo4BZZ0HjdSc4CWj6PEC"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
-        }
-      ],
-      "duration_ms": 218808,
-      "name": "Aaromal",
-      "url": "https://open.spotify.com/track/3WQKaHWTMEZFUGfTtj7LKG"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
         "name": "Solo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/743hktib4oAhlPFEtAIDJ4"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 272430,
       "name": "Sita Kalyanam",
       "url": "https://open.spotify.com/track/2ZppB7cqsWeEdJgU1TgXxK"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
+        "name": "Sita Ramam (Malayalam) (Extended Version) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/7uEo4BZZ0HjdSc4CWj6PEC"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        }
+      ],
+      "duration_ms": 218808,
+      "name": "Aaromal",
+      "url": "https://open.spotify.com/track/3WQKaHWTMEZFUGfTtj7LKG"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -1151,22 +1151,22 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "Goodalochana (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74dfKo4DL91dTZZilPMplE"
+        "name": "Minnal Murali",
+        "url": "https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x"
       },
       "artists": [
         {
-          "name": "Gopi Sundar",
-          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+          "name": "Marthyan",
+          "url": "https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T"
         },
         {
-          "name": "Abhaya Hiranmayi",
-          "url": "https://open.spotify.com/artist/0Z8vxkS3JFzjsLPHH7MLhR"
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
         }
       ],
-      "duration_ms": 106773,
-      "name": "Koyikkodu",
-      "url": "https://open.spotify.com/track/4ZvzfkM8slkxtCB7EtkyLD"
+      "duration_ms": 132755,
+      "name": "Thee Minnal",
+      "url": "https://open.spotify.com/track/0MazZtniHdlLigR01rpKEI"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -1199,22 +1199,22 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "Minnal Murali",
-        "url": "https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x"
+        "name": "Goodalochana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74dfKo4DL91dTZZilPMplE"
       },
       "artists": [
         {
-          "name": "Marthyan",
-          "url": "https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T"
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
         },
         {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+          "name": "Abhaya Hiranmayi",
+          "url": "https://open.spotify.com/artist/0Z8vxkS3JFzjsLPHH7MLhR"
         }
       ],
-      "duration_ms": 132755,
-      "name": "Thee Minnal",
-      "url": "https://open.spotify.com/track/0MazZtniHdlLigR01rpKEI"
+      "duration_ms": 106773,
+      "name": "Koyikkodu",
+      "url": "https://open.spotify.com/track/4ZvzfkM8slkxtCB7EtkyLD"
     },
     {
       "added_at": "2023-09-15 10:32:16",

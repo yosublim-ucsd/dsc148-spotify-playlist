@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,643 likes - 59 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,678 likes - 59 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 58 | [보고싶은 마음](https://open.spotify.com/track/320SvnJLfvCnIC5rx0hgZ9) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [양희은 골든 베스트 18](https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI) | 4:06 |
 | 59 | [돌아와요 부산항에](https://open.spotify.com/track/3Tiadxop66peME6AQ1BaLW) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [조용필](https://open.spotify.com/album/2ev1pKiYfeeFVpVVkcjeDE) | 2:44 |
 
-Snapshot ID: `MCw5M2Y2OTljMzI0YWU1Nzk4NTY5NTU5MjIzNjgzYzMzNzExYzgzOWZi`
+Snapshot ID: `MCxjNDg3M2EwNmQ3ZDNiYzhlMzIyNWU5ZTYzNjU3YjIxNjlhYzU3YmY3`

@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406066,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y"
+    },
+    {
+      "album": {
         "name": "Can Good Things Last Forever?",
         "url": "https://open.spotify.com/album/73536AVZgGnJQOCrfgCuve"
       },
@@ -956,6 +974,44 @@
       "duration_ms": 177658,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/17A8vZ3CSa2iApLAtLEDJN"
+    },
+    {
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/26ds8Q5NFxGkwQP163fJSb"
+      },
+      "artists": [
+        {
+          "name": "Jordy Waelauruw",
+          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
+        },
+        {
+          "name": "Yance Manusama",
+          "url": "https://open.spotify.com/artist/0bRoeRfOv39qIM4UbGj7Kw"
+        },
+        {
+          "name": "Marthin Siahaan",
+          "url": "https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD"
+        },
+        {
+          "name": "Niel Larumunde",
+          "url": "https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O"
+        },
+        {
+          "name": "Nael Larumunde",
+          "url": "https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT"
+        },
+        {
+          "name": "Grady Boanerges",
+          "url": "https://open.spotify.com/artist/0bnPVgEHt7i6WBI3n5H1S7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344913,
+      "name": "Donuts",
+      "url": "https://open.spotify.com/track/1nZm5r1XiZlIng4uMVgQvu"
     },
     {
       "album": {
@@ -2802,7 +2858,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 229389,
       "name": "Social Abstract",
       "url": "https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x"

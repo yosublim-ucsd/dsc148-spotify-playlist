@@ -2,9 +2,9 @@
 
 ### [K\-Trot Stars](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> Let's party with cheerful Korean trot medley\. Cover: Hong Jiyun\(홍지윤\) \(신나는 트로트 멜로디를 즐겨보세요!\)
+> Let's party with cheerful Korean trot medley\. Cover: Song Ga\-In\(송가인\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-814 songs - 1 day 22 hr 31 min
+815 songs - 1 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Mother](https://open.spotify.com/track/20fmErhR8XZhjVfbtKvjxD) | [Jieun Yang](https://open.spotify.com/artist/3RfRPUmzPijYom1BhlhLp4) | [MISS TROT2 Legendary Mission Best Semi\-Final 1](https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA) | 4:12 | 2022-04-07 | 2022-07-27 |
 | [Mother](https://open.spotify.com/track/7EXN6cOjgjhc0tsRHk5KV0) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Bongsungah school PART7](https://open.spotify.com/album/03aZK99AztPHiwh4XMta3i) | 3:56 | 2022-04-07 | 2022-07-29 |
 | [Mother's song](https://open.spotify.com/track/2Iqfa4D7HHFX52gegWwak7) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART18](https://open.spotify.com/album/4keQfQWkLot2MU9LuEho7I) | 3:38 | 2022-04-07 | 2022-07-27 |
+| [Mountain Chillgap \- Live Version](https://open.spotify.com/track/1l2quEhr9ydg3aNMMOIBXD) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [2023 Song Ga In Best & Live](https://open.spotify.com/album/2nmo7UyArrfpvAz2Gj9uwn) | 3:18 | 2023-09-28 |  |
 | [Mr\. Popularity](https://open.spotify.com/track/3mPyqnPd8ToVxyTTAwR7wj) | [Chang Jung Im](https://open.spotify.com/artist/7n1ozvPP3K3wmQvTUvkQFW), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Bongsungah school PART14](https://open.spotify.com/album/3Rmq4pcai47nT6G020fGDw) | 3:39 | 2022-04-21 | 2022-07-15 |
 | [Music is my life](https://open.spotify.com/track/4wegwpBOaT6YJp1QBc7Hsm) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART14](https://open.spotify.com/album/4gaF7DNZZA5W1wHEYZ88ll) | 4:10 | 2022-05-03 | 2022-05-28 |
 | [My childhood dream](https://open.spotify.com/track/4DPqksRZ4tZhx943ak9mJV) | [Boom](https://open.spotify.com/artist/2ExzQ95NkQ6mFMRQklLzgp), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART9](https://open.spotify.com/album/1lAFblayoSOk4ZzgtqGT0I) | 4:02 | 2022-04-07 | 2022-07-24 |
@@ -582,7 +583,7 @@
 | [That's too much + A song for a wife](https://open.spotify.com/track/6Lp04YjlZjXKB2xmxHg6WU) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [\[2020 TrotAwards\] BEST](https://open.spotify.com/album/7HG7FBpiTxtXkEYZpY0dzK) | 3:22 | 2023-09-01 |  |
 | [That\`s Life](https://open.spotify.com/track/1EPKpAaUPB3uYhdxqR8mK1) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Thanks for You](https://open.spotify.com/album/7lE9he8DZC1xrTPER4lLfA) | 3:14 | 2022-04-07 | 2022-07-28 |
 | [The blue in you](https://open.spotify.com/track/0gPPjwpT8XqwQQ1jc43JpZ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Hong Jinyeong](https://open.spotify.com/artist/5YmzM0BZzE9MLamoZ32ius) | [Love call center PART5](https://open.spotify.com/album/3ZPTpx4D0qqNtXbqrj5tag) | 3:28 | 2022-04-22 | 2022-07-27 |
-| [The early morning car](https://open.spotify.com/track/7rBImMA7bwE7qqnaF4pdmd) | [HONG JIYUN](https://open.spotify.com/artist/7hgu8d4pwEkvGKIEzeahXq) | ["Jiyun is..."](https://open.spotify.com/album/1GNjPm2mxQ6WGlj73Ngr9W) | 3:11 | 2023-09-21 |  |
+| [The early morning car](https://open.spotify.com/track/7rBImMA7bwE7qqnaF4pdmd) | [HONG JIYUN](https://open.spotify.com/artist/7hgu8d4pwEkvGKIEzeahXq) | ["Jiyun is..."](https://open.spotify.com/album/1GNjPm2mxQ6WGlj73Ngr9W) | 3:11 | 2023-09-21 | 2023-09-29 |
 | [The Farewell Bus Stop](https://open.spotify.com/track/4gJEy8qaW50XFWxW7NLgz4) | [YOOSANSEUL](https://open.spotify.com/artist/4oeD1QNqmKbREjPFgVfI6y), [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [The Farewell Bus Stop](https://open.spotify.com/album/5Q3mg8s6QDYsJVWLXAHt0l) | 3:36 | 2022-04-22 |  |
 | [The foggy Jang Choong Dan park](https://open.spotify.com/track/4NJiYrd2KLh45nw3K5BJgt) | [Shin Seong](https://open.spotify.com/artist/4ZrBMJ9pZMbLfqPN3nP1XU) | [Love call center PART14](https://open.spotify.com/album/4gaF7DNZZA5W1wHEYZ88ll) | 3:11 | 2022-04-22 | 2022-05-04 |
 | [The Forgotten Season](https://open.spotify.com/track/4Z5NS9w7D3iRDJ64pKpMbm) | [Lim Taekyung](https://open.spotify.com/artist/4uiTflGlDSvPLczUKYSkc6), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART28](https://open.spotify.com/album/5KgKaiW0GORPs45M6Ewp2v) | 3:41 | 2022-04-07 |  |

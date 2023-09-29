@@ -1,13 +1,33 @@
 {
   "description": "What's happening in R&B, right now \u2013 featuring Drake. \ud83d\udc15 ",
-  "num_followers": 362693,
+  "num_followers": 362807,
   "original_name": "R&B Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTFjMDgzNDhjMzQyYTAwYmE5ZGJjZTIxYTA3ZTQ1MjIzMDBiMTQy",
+  "snapshot_id": "MCw0OTk2YmNmYzgyOWQwN2YyMjVmMWE2ZThmMDQwOGFjNjA0N2M1NDM5",
   "tracks": [
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Slime You Out",
+        "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 310490,
+      "name": "Slime You Out (feat. SZA)",
+      "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
+    },
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
@@ -56,7 +76,7 @@
           "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 208040,
+      "duration_ms": 208038,
       "name": "WY@",
       "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
     },

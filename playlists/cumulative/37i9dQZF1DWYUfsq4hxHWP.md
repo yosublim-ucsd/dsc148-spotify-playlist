@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Dylan Gossett, Artwork: Fanélie Muselier
 
-1,880 songs - 4 day 6 hr 15 min
+1,882 songs - 4 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -787,6 +787,7 @@
 | [Houston](https://open.spotify.com/track/4PnJsoMs6wpyjLBbbsTr3l) | [Mitchell Ford](https://open.spotify.com/artist/0vFdZPsqj3kQQNuWN2ett1) | [Houston](https://open.spotify.com/album/5Bej7HvIC4cuAtEui51czB) | 4:00 | 2023-07-12 | 2023-09-21 |
 | [How Bout We Don't](https://open.spotify.com/track/48r3rRjrXeY1opTEFjDv18) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [How Bout We Don't](https://open.spotify.com/album/4pNi3s9mSd0nkYukNEVH4H) | 2:59 | 2022-08-26 | 2022-10-06 |
 | [How I Get High](https://open.spotify.com/track/5Tx5r6Q4DuVmCzk1sH2Pd1) | [Josh Kiser](https://open.spotify.com/artist/0f3VHWozHxr2u1VcsOVWnV) | [How I Get High](https://open.spotify.com/album/52x5UXLl0bC8eoLtxnf7IT) | 3:35 | 2023-05-03 | 2023-07-20 |
+| [How to Act](https://open.spotify.com/track/4w22usiR11z3zj67DtEySj) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [How to Act](https://open.spotify.com/album/74rd8zXUWAIssTX7kNBC8c) | 3:09 | 2023-09-28 |  |
 | [Howdy](https://open.spotify.com/track/29yiKrq4t4tMBmLxETYBoU) | [Clayton Johnson](https://open.spotify.com/artist/4cybx8xQKafXgZFGGHdJN9) | [Howdy](https://open.spotify.com/album/6aitm7wmo7r9SXBFO7xM5M) | 2:24 | 2023-01-11 | 2023-02-16 |
 | [Hung Over You](https://open.spotify.com/track/7hKWkSgbHuExj89lbso7Jq) | [Shantaia](https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T) | [Hung Over You](https://open.spotify.com/album/7wLgYkaFVJZ1lVIyvMhHg3) | 2:48 | 2022-06-29 | 2022-07-28 |
 | [Hung up by Now](https://open.spotify.com/track/6U45GwkbB095pLUdT51Joi) | [Page Mackenzie](https://open.spotify.com/artist/1Z0U0IItZx1XhY6ApxiSB2), [Garrett Biggs](https://open.spotify.com/artist/1uAjXKpS4W1YD9PYcFvSj5) | [Hung up by Now](https://open.spotify.com/album/4eQp6dEZILEVj8etEi6LpN) | 3:25 | 2022-01-19 | 2023-01-12 |
@@ -1304,6 +1305,7 @@
 | [Redneck Rich](https://open.spotify.com/track/324dNeGB5XlKp8gSsRG0RD) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Redneck Rich](https://open.spotify.com/album/2Wcs9kJkNHgGKdrh8CuBzj) | 3:37 | 2023-07-26 | 2023-08-03 |
 | [Remember That Song](https://open.spotify.com/track/3khpChsE7a9MFivJZ0H0h5) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX), [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1) | [Remember That Song](https://open.spotify.com/album/6IHjZ441aze8HFDVLb7cKg) | 2:49 | 2022-04-27 | 2022-06-08 |
 | [Remember That Truck](https://open.spotify.com/track/7akcukOUNQPB0LfxWZJ6Q6) | [Walker Tompkins](https://open.spotify.com/artist/7xoj82OAbEgNZ519YDWB4o) | [Remember That Truck](https://open.spotify.com/album/7mdrQMauEB41y4upQcZjSF) | 3:39 | 2022-09-28 | 2022-12-01 |
+| [Remind Me Again](https://open.spotify.com/track/1CeeixEJo8h8keqVZQxN4I) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Feels Country To Me](https://open.spotify.com/album/6QJMEOLLRy2DTXJGFWekIc) | 3:03 | 2023-09-28 |  |
 | [Reminisce](https://open.spotify.com/track/6O5MAdStmrKYZ9oFDrZ8Gr) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [Reminisce](https://open.spotify.com/album/706Y9kJRJeyY8mUd4kIWFF) | 3:44 | 2023-09-13 |  |
 | [Rent](https://open.spotify.com/track/4cPKXouHSHlzloUsu8pkFa) | [Jasmin Bade](https://open.spotify.com/artist/2ty6ck1MGd6mjMCadvpp5N) | [Rent](https://open.spotify.com/album/5jXKb367whCoEdSwANDym2) | 2:40 | 2022-02-23 | 2023-01-12 |
 | [Rest of Texas](https://open.spotify.com/track/6kyteAG65BjF6KH1eCht7r) | [Cian Pedersen](https://open.spotify.com/artist/55iTDt1OrQMIHMNKHUPAaQ) | [Rest of Texas](https://open.spotify.com/album/74WcvgHzoOcsU85iiAEl9a) | 3:28 | 2022-01-19 | 2022-03-03 |

@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: cassö, RAYE, D\-Block Europe
 
-441 songs - 20 hr 37 min
+442 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,8 @@
 | [Rave All Night](https://open.spotify.com/track/4AXtDJp0o8l6hOMxwZx1aL) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl) | [Rave All Night](https://open.spotify.com/album/2m2DL56EzrVle3Cqg5cA6d) | 2:34 | 2023-04-12 | 2023-06-15 |
 | [Rave Machine](https://open.spotify.com/track/4fciwBuNwHSuNFWZ9jf4EE) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Rave Machine](https://open.spotify.com/album/3f6mVN8bEhXVB2rUK6cfIn) | 3:22 | 2023-06-14 | 2023-07-06 |
 | [Rave Superstar](https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Rave Superstar](https://open.spotify.com/album/1qXEVMoSphad9CrO7Zwdsi) | 2:39 | 2023-03-01 | 2023-06-08 |
-| [Raveship](https://open.spotify.com/track/57xVxFJv0Y22f8PcygWsIx) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [MEELA](https://open.spotify.com/artist/23mSn69IMflxLp3HPf7goI) | [Raveship](https://open.spotify.com/album/1HToTAUlhRVXLpSgKaoX9B) | 2:34 | 2023-09-27 |  |
+| [Raveship](https://open.spotify.com/track/4WxXlPyF3VcfdkucISvrh0) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [MEELA](https://open.spotify.com/artist/23mSn69IMflxLp3HPf7goI) | [Raveship](https://open.spotify.com/album/4ZCzGUaDpuvQlOSoqDTvrA) | 2:34 | 2023-09-27 |  |
+| [Raveship](https://open.spotify.com/track/57xVxFJv0Y22f8PcygWsIx) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [MEELA](https://open.spotify.com/artist/23mSn69IMflxLp3HPf7goI) | [Raveship](https://open.spotify.com/album/1HToTAUlhRVXLpSgKaoX9B) | 2:34 | 2023-09-27 | 2023-09-29 |
 | [Ray Of Solar](https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Ray Of Solar](https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb) | 4:01 | 2023-08-09 |  |
 | [Remedy](https://open.spotify.com/track/1LoGrm5coC2yXhofVni5Cp) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Remedy](https://open.spotify.com/album/3reZq1pI5fbX7h724Bjoz2) | 2:07 | 2023-07-05 | 2023-07-20 |
 | [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-05-03 | 2023-05-07 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Roosevelt",
+  "description": "New music off the beaten track. Cover: Young Franco",
   "name": "OFF POP",
   "tracks": [
     {
@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 215000,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/54DstnlyeCz0Zb2HDtBJaq"
@@ -1197,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "Carbon Dioxide (Avalon Emerson Remix)",
+        "url": "https://open.spotify.com/album/2U1gbN87t9nWpsxFQwDv0A"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        },
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371000,
+      "name": "Carbon Dioxide - Avalon Emerson Remix",
+      "url": "https://open.spotify.com/track/1izkZudygEfMyRbUirb9ik"
+    },
+    {
+      "album": {
         "name": "Casualities (Yame Remix)",
         "url": "https://open.spotify.com/album/0RCa4DV10reH3RS8S4HDnB"
       },
@@ -1685,6 +1707,28 @@
     },
     {
       "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183377,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
+    },
+    {
+      "album": {
         "name": "DAYS GO BY",
         "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
       },
@@ -1704,6 +1748,28 @@
       "duration_ms": 271756,
       "name": "DAYS GO BY",
       "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
+    },
+    {
+      "album": {
+        "name": "Deadbeat Gospel",
+        "url": "https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "somedeadbeat",
+          "url": "https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254791,
+      "name": "Deadbeat Gospel",
+      "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
     },
     {
       "album": {
@@ -2231,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "Baby's Berserk",
+        "url": "https://open.spotify.com/album/6Mk4MCA47KLSzU4JgVbls5"
+      },
+      "artists": [
+        {
+          "name": "Baby's Berserk",
+          "url": "https://open.spotify.com/artist/7qoypmsmoFKt8lXJcTcM8w"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325232,
+      "name": "Eat Your Dollar",
+      "url": "https://open.spotify.com/track/4Hi1kCPHplqEMPJMKbmXGz"
+    },
+    {
+      "album": {
         "name": "Eats The Tale",
         "url": "https://open.spotify.com/album/6AzvKQoqiD8PHz5n9b4XqT"
       },
@@ -2520,7 +2604,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 175012,
       "name": "EVERYTHINGSALRIGHT",
       "url": "https://open.spotify.com/track/4Sko63ptJsDz9aP8zX5dT5"
@@ -2630,7 +2714,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 223133,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/2VpoQq4skMUOJNumZWIR2F"
@@ -3456,7 +3540,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 218373,
       "name": "Heartquake",
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
@@ -3711,6 +3795,24 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/3DlDSdRo6uSnTzNzlj5B2Z"
+      },
+      "artists": [
+        {
+          "name": "Kaleida",
+          "url": "https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215966,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5SOmkWOL2ODA3ZY2Y5B4SM"
+    },
+    {
+      "album": {
         "name": "Hot Evening",
         "url": "https://open.spotify.com/album/7IZ79nalZzDtQhgtCR4Dp1"
       },
@@ -3788,6 +3890,24 @@
       "duration_ms": 138951,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
+    },
+    {
+      "album": {
+        "name": "How Music Makes You Feel Better",
+        "url": "https://open.spotify.com/album/4mUY2PlUa8qducN1OyWu4w"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "How Music Makes You Feel Better - Edit",
+      "url": "https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN"
     },
     {
       "album": {
@@ -5872,7 +5992,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 182153,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow"
@@ -6050,6 +6170,24 @@
       "duration_ms": 354285,
       "name": "O'Neal",
       "url": "https://open.spotify.com/track/4sWJCVOn705QUBCDt81bPB"
+    },
+    {
+      "album": {
+        "name": "Don't Come Too Close When I'm Not Alright",
+        "url": "https://open.spotify.com/album/2ELmExDCOCaamOxZUTHNpx"
+      },
+      "artists": [
+        {
+          "name": "diaven",
+          "url": "https://open.spotify.com/artist/73lvMyBnQcxjGo2JRaDtLG"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3sQuubMtc3VraP4lEbrJ8j"
     },
     {
       "album": {
@@ -6992,6 +7130,24 @@
       "duration_ms": 186320,
       "name": "Seabird",
       "url": "https://open.spotify.com/track/7qw4F9ebIh2z1dSBpJMfdt"
+    },
+    {
+      "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/4d1qEIVehda9qcRO6VgkdT"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231912,
+      "name": "Second Nature",
+      "url": "https://open.spotify.com/track/2JTxM40sPrKFIpU6vcRfWF"
     },
     {
       "album": {
@@ -8064,7 +8220,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 300122,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy"
@@ -8524,7 +8680,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 234482,
       "name": "Troubled Waters",
       "url": "https://open.spotify.com/track/1Uuljx1HOfRmi3dvHJ6Yi6"
@@ -8578,7 +8734,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 199717,
       "name": "Tunnelvision",
       "url": "https://open.spotify.com/track/295HRmApiL8F7DJtBJtjFN"
@@ -8596,7 +8752,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 231316,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU"
@@ -8814,6 +8970,28 @@
       "duration_ms": 227804,
       "name": "Venera",
       "url": "https://open.spotify.com/track/6U9rAS28uOHyf5NZCYyt0J"
+    },
+    {
+      "album": {
+        "name": "VenusFlyTrap",
+        "url": "https://open.spotify.com/album/3395FYp8fgsNqZtflinT1j"
+      },
+      "artists": [
+        {
+          "name": "Nobodys Face",
+          "url": "https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl"
+        },
+        {
+          "name": "Kid Simius",
+          "url": "https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140240,
+      "name": "VenusFlyTrap",
+      "url": "https://open.spotify.com/track/4dtvOmrJ67v4JbiT13pOjK"
     },
     {
       "album": {

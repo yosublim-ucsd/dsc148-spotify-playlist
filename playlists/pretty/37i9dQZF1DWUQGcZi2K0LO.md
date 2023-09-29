@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 
 > Indian Indie songs we loved the most in 2022\. Cover \- Aditya A \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,084 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,114 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 | 49 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 |
 | 50 | [Pablo \- Love Bites](https://open.spotify.com/track/0Xgp4D3enM5Sh8r32XoPV9) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr) | [Pablo \(Love Bites\)](https://open.spotify.com/album/6GYIV808IRhPEFyLf7apVh) | 2:50 |
 
-Snapshot ID: `MCw0YjdjZmRkNzRjYTNkZGNmMjUxOGE0OGQzM2JjYTIwY2NlNDgwNGVm`
+Snapshot ID: `MCw4NjhjNGQyZmU2YzBiODZjMjRhYWY2MTgxMzFlM2QyMjZiMzI0NmFk`

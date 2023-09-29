@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 31610,
+  "num_followers": 31650,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDQ5MDRkM2NkZGJhYzBhNzYzZDFkMTlhZDQwNzJlMjZlZTk0NTg2",
+  "snapshot_id": "MCxlZWI0YjM3ODQ2NTI3MWZiNzczNjc3MTY3Yjk1OTg4ZDhlMDM0Zjg3",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -511,6 +511,22 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
+        "name": "GUAU!",
+        "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "El Fantasma",
+      "url": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
         "name": "M.I.A.M.I.",
         "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 219080,
       "name": "Culo",
       "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
-        "name": "GUAU!",
-        "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
-      },
-      "artists": [
-        {
-          "name": "\u00c1rbol",
-          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "El Fantasma",
-      "url": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70"
     },
     {
       "added_at": "2021-12-22 23:41:59",

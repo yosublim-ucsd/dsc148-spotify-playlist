@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Gunawan",
+  "description": "Dendang Dangdut teratas. Cover: Lesti",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -274,6 +274,24 @@
       "duration_ms": 288000,
       "name": "Bojo Setyo",
       "url": "https://open.spotify.com/track/63TwHyUBMkvBbeeHr07sOG"
+    },
+    {
+      "album": {
+        "name": "Bukan Cinta Biasa",
+        "url": "https://open.spotify.com/album/0Zhnf3VQis3LBvnyeP2OxH"
+      },
+      "artists": [
+        {
+          "name": "Lesti",
+          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317000,
+      "name": "Bukan Cinta Biasa",
+      "url": "https://open.spotify.com/track/0SGLXPkGAHAzmNMUZICurK"
     },
     {
       "album": {
@@ -801,6 +819,28 @@
     },
     {
       "album": {
+        "name": "IISTIMEWA",
+        "url": "https://open.spotify.com/album/0lSqGC4B0BTMdGbvwxMuUk"
+      },
+      "artists": [
+        {
+          "name": "Iis Dahlia",
+          "url": "https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky"
+        },
+        {
+          "name": "Tiket",
+          "url": "https://open.spotify.com/artist/1vhz9FJUh57QhAiRsB6fAM"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "IISTIMEWA",
+      "url": "https://open.spotify.com/track/6enD0k6TWGgyUzEC4HJR8U"
+    },
+    {
+      "album": {
         "name": "Ikhlas Ngenteni",
         "url": "https://open.spotify.com/album/3S1X1t6OSQB7CAYIIBY3qG"
       },
@@ -1270,6 +1310,24 @@
       "duration_ms": 297172,
       "name": "Menepi Cover",
       "url": "https://open.spotify.com/track/1merjIVhdrKOOdolcYhn3v"
+    },
+    {
+      "album": {
+        "name": "Menepuk Air di Dulang",
+        "url": "https://open.spotify.com/album/5YcUGD2ssx84aki8Ykr7mk"
+      },
+      "artists": [
+        {
+          "name": "Evie Tamala",
+          "url": "https://open.spotify.com/artist/1K9FjNnLeoXFPJLnsofZN7"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308341,
+      "name": "Menepuk Air di Dulang",
+      "url": "https://open.spotify.com/track/0NCkhLWAhJSam1Qr21x5M3"
     },
     {
       "album": {
@@ -1840,7 +1898,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 273423,
       "name": "Siapa Benar Siapa Salah",
       "url": "https://open.spotify.com/track/5tvW2B5gk0H5boGqVuHFLL"

@@ -1973,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "Mbarka",
+        "url": "https://open.spotify.com/album/0NDIU1tmuW2N794nt3yEBd"
+      },
+      "artists": [
+        {
+          "name": "Ismailovic",
+          "url": "https://open.spotify.com/artist/7eafY5MVTDx6MZCKNRvkt8"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375555,
+      "name": "Mbarka",
+      "url": "https://open.spotify.com/track/1Nb3n0i8SkrdHJmFZ8UvYo"
+    },
+    {
+      "album": {
         "name": "Mbarka (Original Mix)",
         "url": "https://open.spotify.com/album/0Dh2vSHSdz59MyhTt5Zuox"
       },
@@ -1988,7 +2006,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 375555,
       "name": "Mbarka - Original Mix",
       "url": "https://open.spotify.com/track/55uwSianyiBX7CAwPY5Jnf"

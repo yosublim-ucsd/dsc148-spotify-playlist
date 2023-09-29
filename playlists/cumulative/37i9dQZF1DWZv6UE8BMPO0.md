@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-107 songs - 5 hr 38 min
+109 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Greensleeves](https://open.spotify.com/track/3yUhFUj9GsId8yqwNIMndK) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 2:16 | 2022-10-27 |  |
 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 | 2022-10-20 |  |
 | [Happy Holiday](https://open.spotify.com/track/2Zmibx9TsizyFYCJFWnJXc) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [A Jazzy Christmas](https://open.spotify.com/album/5Ov8mmEM065VnF8glNLZUH) | 5:07 | 2022-10-20 |  |
+| [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/0YKkAnQ0MrpsVbNBXFgXpZ) | [Three is a Kind](https://open.spotify.com/artist/68d3jHoDqAYLsd7fHhfDKu) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/49e3GYwDxN1RhnrWBkniY7) | 3:17 | 2023-09-29 |  |
 | [Hark the Herald Angels Sing](https://open.spotify.com/track/27oIno72elQiNPLU8ZSLo2) | [Candy Cane Trio](https://open.spotify.com/artist/4NliOpNLEQq2p7q5P19hN2) | [Christmas Cocktails: A Jazz Lounge Holiday Collection](https://open.spotify.com/album/3bGiF08NkrpfTKrKXJPU3n) | 2:02 | 2021-12-21 |  |
 | [Have Yourself a Merry Christmas](https://open.spotify.com/track/491H13nUak4jYRwppQhOWz) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Have Yourself a Merry Christmas](https://open.spotify.com/album/5QGJu2QGX5lHmdrW3F8yrZ) | 3:22 | 2021-12-21 |  |
 | [Here Comes Santa Claus](https://open.spotify.com/track/1aKyuXDRVwtovYgDV0RalE) | [Rudy Snow](https://open.spotify.com/artist/3bBZZ3bsQwZ6DmUH51cabg) | [A Jazzy Christmas](https://open.spotify.com/album/74ITy0DcX3tWOD6Wm1P2IS) | 2:36 | 2021-12-21 |  |
@@ -107,6 +108,7 @@
 | [What Child Is This](https://open.spotify.com/track/1KYp6R9KfYSna86gFkIhq0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 2:24 | 2022-09-16 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [When You Wish Upon a Star](https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN) | 2:10 | 2021-12-21 | 2022-10-28 |
 | [When You Wish Upon a Star](https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [When You Wish Upon a Star](https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI) | 2:47 | 2022-10-27 |  |
+| [Where Are You Christmas](https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F) | [Swinging Renegades](https://open.spotify.com/artist/2Cbjo8F8AQ3ZZEJwmxlD8k) | [Where Are You Christmas](https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj) | 3:30 | 2023-09-29 |  |
 | [White Christmas](https://open.spotify.com/track/0X5GOwlZZgW0lT1NsCuir5) | [Sian Sullivan](https://open.spotify.com/artist/4VVP1CLZbbGay53RL2Gbe6) | [White Christmas](https://open.spotify.com/album/7iQnxZfcvdaaQX1fYRAfof) | 4:21 | 2022-10-07 |  |
 | [White Christmas \- Remastered](https://open.spotify.com/track/0uiPNd0fdoklct761AycxJ) | [Booker Ervin](https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy) | [Structurally Sound](https://open.spotify.com/album/4T7k8nLuMrFoiJSL1rlq0k) | 4:30 | 2021-12-21 | 2022-10-08 |
 | [Winter Weather / I've Got My Love to Keep Me Warm](https://open.spotify.com/track/7iuHxTfZzyhBxqZjqNrI0I) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [Martinis & Mistletoe: Christmas Jazz Piano](https://open.spotify.com/album/6irxdg4sz5ikmTg3ysQhbK) | 3:48 | 2021-12-21 | 2023-09-28 |

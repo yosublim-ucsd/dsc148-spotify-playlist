@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Kymara
 
-354 songs - 21 hr 11 min
+355 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Lost & Found](https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Lost & Found](https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X) | 3:46 | 2022-07-28 | 2022-10-15 |
 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-06-30 | 2022-12-03 |
 | [LOST YOU](https://open.spotify.com/track/0Gmjaje0sMUwD5mIHlhlfs) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [LOST YOU](https://open.spotify.com/album/3DMw1U0phfSBMkmO6pI5eF) | 2:57 | 2021-12-16 | 2022-05-20 |
-| [Love Island](https://open.spotify.com/track/2kiBow1qzFxXlCutSslC2R) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Love Island](https://open.spotify.com/album/3R1JtNGHhtszF5n6wMxswQ) | 2:23 | 2023-03-02 |  |
+| [Love Island](https://open.spotify.com/track/2kiBow1qzFxXlCutSslC2R) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Love Island](https://open.spotify.com/album/3R1JtNGHhtszF5n6wMxswQ) | 2:23 | 2023-03-02 | 2023-09-29 |
+| [Love Island](https://open.spotify.com/track/0FlBpw3OpaZur0hceVBj46) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Love Island](https://open.spotify.com/album/3Nu7ZdvKfsohdpjvf3swO4) | 2:23 | 2023-09-14 |  |
 | [Love, Trust, Patience](https://open.spotify.com/track/1XZXN8ELKBUa5Aq8ggCzfu) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [4 Degrees Of Separation](https://open.spotify.com/album/4SfyvtDprkEXIxkqrvg8BK) | 4:19 | 2023-07-07 |  |
 | [Magnetic](https://open.spotify.com/track/4rbGIJobQJLUCgKrrsY6mm) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP), [Sergiio](https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0) | [Magnetic](https://open.spotify.com/album/5ViCoszPDZqEOu2UVB34LQ) | 3:00 | 2021-12-16 | 2022-01-26 |
 | [Make A Place](https://open.spotify.com/track/1tnHsDjJqZPp7uZNqCERJ9) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Make A Place](https://open.spotify.com/album/7hyTC1R6gccWhdMZ9437ZB) | 3:19 | 2022-09-29 |  |

@@ -734,7 +734,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 251147,
       "name": "Aura Diferente",
       "url": "https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 153703,
       "name": "Carta",
       "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
@@ -1358,6 +1358,28 @@
       "duration_ms": 135447,
       "name": "Chama",
       "url": "https://open.spotify.com/track/21IKJYkz8ixquQUHXu6cXK"
+    },
+    {
+      "album": {
+        "name": "Chamadas",
+        "url": "https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156672,
+      "name": "Chamadas",
+      "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
     },
     {
       "album": {
@@ -1634,7 +1656,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 155500,
       "name": "Confuso",
       "url": "https://open.spotify.com/track/61hLjlVfhtDFt8k2qZpsfD"
@@ -6386,7 +6408,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 177049,
       "name": "Ros\u00e9",
       "url": "https://open.spotify.com/track/72bRHyV4lbyH52SoDdnESG"
@@ -8196,6 +8218,32 @@
       "duration_ms": 313021,
       "name": "Water (feat. Slow J) - Single Version",
       "url": "https://open.spotify.com/track/58dElABzeDBwfhttWGf6n1"
+    },
+    {
+      "album": {
+        "name": "What i Want, How i Like",
+        "url": "https://open.spotify.com/album/5tBWVO75zR2LP8WQzdz494"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        },
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        },
+        {
+          "name": "Vinagre",
+          "url": "https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "What i Want, How i Like",
+      "url": "https://open.spotify.com/track/5ESYN254hHVlueVCHxMj9A"
     },
     {
       "album": {

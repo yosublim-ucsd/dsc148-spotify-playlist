@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 893192,
+  "num_followers": 893280,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmViZjA4MGI1NDEzZDM3YmRiMTE4YmJhODBkYTU5NTdiMzkyZTJm",
+  "snapshot_id": "MCxiMjEzZDFhY2RiOWE5M2E5NTM2ODMyY2Q2ZTU4ZmQ4YjAwMTJhZjU4",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Jungle Juice",
         "url": "https://open.spotify.com/album/3ZWcx0FGgPqxpxcQ87cuZM"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 274966,
       "name": "Jungle Juice",
       "url": "https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "I Love You.",
+      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Rail Breaker (feat. Rico Act)",
         "url": "https://open.spotify.com/album/1mphFKSXZBzN35UF4KrdRc"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 225116,
       "name": "Rail Breaker (feat. Rico Act)",
       "url": "https://open.spotify.com/track/3qhW0ioG27ZRFbZn1diK2m"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 246315,
-      "name": "I Love You.",
-      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Pour All Night",
+        "url": "https://open.spotify.com/album/1r9fcqdsiCyRZJPuTUTG9e"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/5Cw393gL2SjFDLgAWfmt0s"
+        }
+      ],
+      "duration_ms": 209016,
+      "name": "Pour All Night",
+      "url": "https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "High Like This",
         "url": "https://open.spotify.com/album/1AHQrn7hhAuNghkFtCXEnD"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 192725,
       "name": "High Like This",
       "url": "https://open.spotify.com/track/3Ukb1tpAsQOdUSVKAW94Cj"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Pour All Night",
-        "url": "https://open.spotify.com/album/1r9fcqdsiCyRZJPuTUTG9e"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "Thelonious",
-          "url": "https://open.spotify.com/artist/5Cw393gL2SjFDLgAWfmt0s"
-        }
-      ],
-      "duration_ms": 209016,
-      "name": "Pour All Night",
-      "url": "https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Issa Bounce",
+        "url": "https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi"
+      },
+      "artists": [
+        {
+          "name": "UpsideDown",
+          "url": "https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "Issa Bounce",
+      "url": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Ur Body",
         "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 216338,
       "name": "Ur Body",
       "url": "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Issa Bounce",
-        "url": "https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi"
-      },
-      "artists": [
-        {
-          "name": "UpsideDown",
-          "url": "https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu"
-        }
-      ],
-      "duration_ms": 117600,
-      "name": "Issa Bounce",
-      "url": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Moving Points",
-        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        }
-      ],
-      "duration_ms": 121007,
-      "name": "Red Ish",
-      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "NO TOMORROW",
         "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
       },
@@ -1795,26 +1779,6 @@
       "duration_ms": 174334,
       "name": "NO TOMORROW",
       "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Cartel II",
-        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Reese LAFLARE",
-          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Fatal Attraction (feat. Reese LAFLARE)",
-      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1839,6 +1803,42 @@
       "duration_ms": 165346,
       "name": "SABER TOOTH",
       "url": "https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Cartel II",
+        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Reese LAFLARE",
+          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Fatal Attraction (feat. Reese LAFLARE)",
+      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Moving Points",
+        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 121007,
+      "name": "Red Ish",
+      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
     },
     {
       "added_at": "2023-09-22 04:00:00",

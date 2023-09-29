@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 166857,
       "name": "Altijd Al Beloofd",
       "url": "https://open.spotify.com/track/33PP2svLoyHP37hG5zChe0"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 211174,
       "name": "Dat Heb Jij Gedaan",
       "url": "https://open.spotify.com/track/3BkP5vYURwcoAkKhzrLVd8"
@@ -1271,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Beste Zangers 2023 (Duncan Laurence)",
+        "url": "https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171263,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja"
+    },
+    {
+      "album": {
         "name": "Beste Zangers 2022 (Kika Aflevering)",
         "url": "https://open.spotify.com/album/1nsKLut0cSDbMjlEl0BTyD"
       },
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 195576,
       "name": "Kwijt",
       "url": "https://open.spotify.com/track/1dbNg2ougivyUv6f9hQQzU"
@@ -2511,6 +2529,28 @@
     },
     {
       "album": {
+        "name": "Vas-y (Ga Maar)",
+        "url": "https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        },
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186455,
+      "name": "Vas-y (Ga Maar)",
+      "url": "https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx"
+    },
+    {
+      "album": {
         "name": "Verleden Tijd",
         "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
       },
@@ -2744,6 +2784,24 @@
       "duration_ms": 154436,
       "name": "Zo Kan Het Dus Ook",
       "url": "https://open.spotify.com/track/0ZDkMMdWTw9ykmmIGUVnrS"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2023 (MEAU)",
+        "url": "https://open.spotify.com/album/63zOiWwbAQgq0Ygfba01R4"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187263,
+      "name": "Zoals Ik Jou Gevonden Heb",
+      "url": "https://open.spotify.com/track/7lV6AmnEDfNwCMKLf9Tbmk"
     },
     {
       "album": {

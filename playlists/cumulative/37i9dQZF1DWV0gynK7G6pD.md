@@ -4,7 +4,7 @@
 
 > Updated every Friday with the very best classical new releases\. Cover: Bertrand Chamayou
 
-5,861 songs - 18 day 16 hr 2 min
+5,862 songs - 18 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5098,6 +5098,7 @@
 | [The North](https://open.spotify.com/track/0TERrk94ujW4uFk8v2n5i8) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: The North](https://open.spotify.com/album/07Mq4hhTxBFOIpXc17DbVM) | 2:48 | 2023-09-15 | 2023-09-23 |
 | [The North Wind](https://open.spotify.com/track/5MfXoAI0AULhxTdfLtKMLG) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [The North Wind](https://open.spotify.com/album/6mteOBbcQPszyxr6c6fiSh) | 1:19 | 2022-01-21 | 2022-01-29 |
 | [The North Wind \- Daigo Hanada Re\-work](https://open.spotify.com/track/3oM82Zz63KrnYQ0ZaTTQ9l) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [The North Wind \(Daigo Hanada Re\-work\)](https://open.spotify.com/album/1LjC5SMuxGzphoo6e9KEG5) | 1:55 | 2022-05-13 | 2022-05-20 |
+| [The Nutcracker Suite: III\. Dance of the Floreadores \(Waltz of the Flowers\)](https://open.spotify.com/track/3EoKddZSKJ9df6ZjKed5xZ) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW), [Chineke! Orchestra](https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls), [Andrew Grams](https://open.spotify.com/artist/358cR0CgJSkJSCbBDWTifa) | [The Nutcracker Suite: III\. Dance of the Floreadores \(Waltz of the Flowers\)](https://open.spotify.com/album/0SCyiJJk0Ux1dUsNUtEmfi) | 3:50 | 2023-09-22 |  |
 | [The Nutcracker, Op\. 71/TH14: Overture](https://open.spotify.com/track/4Jb2Ol93j4vW42GGr9ss0o) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Kristjan Järvi](https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7), [Baltic Sea Philharmonic](https://open.spotify.com/artist/1PlMcwoF2G03BqB1MDbXVt) | [Tchaikovsky: Nutcracker \- A Dramatic Symphony](https://open.spotify.com/album/44EqvwxwzzEHvyxCItKlve) | 1:22 | 2022-12-02 | 2022-12-10 |
 | [The Nutcracker, Op\. 71: Dance of the Sugar Plum Fairy \(Arr\. for Harp and Orchestra by Xavier de Maistre\)](https://open.spotify.com/track/5z7vwq3iZ5ivNK4jL6Xq80) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Xavier De Maistre](https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp), [Nathalie Stutzmann](https://open.spotify.com/artist/01nToDFj9swyFm6Pm3H2EL), [WDR Sinfonieorchester](https://open.spotify.com/artist/3QFf9QniZrojhI4UtZPQ97) | [The Nutcracker, Op\. 71: Dance of the Sugar Plum Fairy \(Arr\. for Harp and Orchestra by Xavier de Maistre\)](https://open.spotify.com/album/3MD6KYBHJtWPfDYboMUNoI) | 2:11 | 2022-08-19 | 2022-08-27 |
 | [The Open](https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [The Open](https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt) | 3:34 | 2022-04-08 | 2022-04-16 |

@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 114345,
+  "num_followers": 114364,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGQ4NWExMjI3MGJiYzNlYTE4MWMzZmIyOTQzMTNjNzEwMmJjMzU1",
+  "snapshot_id": "MCw5YWZjMGEzZGI2MGE1ODRiYmI2ZDAyMmZjMTA0ZDNjNmE0NDI2NmU5",
   "tracks": [
     {
       "added_at": "2023-09-22 06:08:09",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-09-22 06:08:09",
       "album": {
+        "name": "Touch It",
+        "url": "https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
+    },
+    {
+      "added_at": "2023-09-22 06:08:09",
+      "album": {
         "name": "Beamer (Bad Boys)",
         "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 195047,
       "name": "Beamer (Bad Boys)",
       "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
-    },
-    {
-      "added_at": "2023-09-22 06:08:09",
-      "album": {
-        "name": "Touch It",
-        "url": "https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
     },
     {
       "added_at": "2023-09-22 06:08:09",
@@ -847,30 +847,6 @@
     {
       "added_at": "2023-09-22 06:08:09",
       "album": {
-        "name": "Drogba (Joanna) [Global Latin Version]",
-        "url": "https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq"
-      },
-      "artists": [
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Chosen Few",
-          "url": "https://open.spotify.com/artist/35Btqnex8RxQg68iBRD16v"
-        }
-      ],
-      "duration_ms": 197214,
-      "name": "Drogba (Joanna) - Global Latin Version",
-      "url": "https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj"
-    },
-    {
-      "added_at": "2023-09-22 06:08:09",
-      "album": {
         "name": "Mimosas (Remix)",
         "url": "https://open.spotify.com/album/1xsyvauPdMlbEoqnJAAsZ9"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 273370,
       "name": "Mimosas - Remix",
       "url": "https://open.spotify.com/track/07grlLnIM285o7Y69mge5L"
+    },
+    {
+      "added_at": "2023-09-22 06:08:09",
+      "album": {
+        "name": "Drogba (Joanna) [Global Latin Version]",
+        "url": "https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Chosen Few",
+          "url": "https://open.spotify.com/artist/35Btqnex8RxQg68iBRD16v"
+        }
+      ],
+      "duration_ms": 197214,
+      "name": "Drogba (Joanna) - Global Latin Version",
+      "url": "https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj"
     },
     {
       "added_at": "2023-09-22 06:08:09",
@@ -1267,26 +1267,18 @@
     {
       "added_at": "2023-09-22 06:08:09",
       "album": {
-        "name": "iluminada",
-        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
       },
       "artists": [
         {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
-        },
-        {
-          "name": "Andrew Ace",
-          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
-        },
-        {
-          "name": "anatu",
-          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
         }
       ],
-      "duration_ms": 145909,
-      "name": "lo siento",
-      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
+      "duration_ms": 121142,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
     },
     {
       "added_at": "2023-09-22 06:08:09",
@@ -1307,18 +1299,26 @@
     {
       "added_at": "2023-09-22 06:08:09",
       "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
       "artists": [
         {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+        },
+        {
+          "name": "anatu",
+          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
         }
       ],
-      "duration_ms": 121142,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
+      "duration_ms": 145909,
+      "name": "lo siento",
+      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
     },
     {
       "added_at": "2023-09-22 06:08:09",

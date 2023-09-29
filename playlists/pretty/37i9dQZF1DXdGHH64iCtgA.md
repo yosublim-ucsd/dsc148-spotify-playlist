@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut down Etro's SS24 Runway for Milan Fashion Week, Soundtrack by Creative Director, Marco De Vincenzo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,595 likes - 62 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,699 likes - 62 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 61 | [Omnion \(feat\. Sharon Van Etten\)](https://open.spotify.com/track/3Hs30mGDpRG1uqkTYjSEJ8) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Omnion](https://open.spotify.com/album/0dhWdoFP6zgSavj2jcNCr3) | 4:54 |
 | 62 | [Cu cu rru cu cu' paloma](https://open.spotify.com/track/08xzqLZV31VvaixcqZxzZa) | [Patrizia Laquidara](https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9) | [Indirizzo portoghese \(15TH anniversary edition\)](https://open.spotify.com/album/278MQ4EIMVpnB2QlmQrFEX) | 3:45 |
 
-Snapshot ID: `MCw3NWMzZjFjN2FjNmE1ZTFkMDUxYjg5OWE5MDA2NjJiY2IzMDVlNGM0`
+Snapshot ID: `MCw5ZWQ4NTkzZWNiMDNmYWI2YzE2ZWYzNmYxMjU2ZGZmNjdkNjA2NzE1`

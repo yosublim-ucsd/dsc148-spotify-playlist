@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Doja Cat, New West, CRi, Arkells and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,309 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,350 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Addiction](https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:29 |
 | 100 | [die a little less](https://open.spotify.com/track/4SSkNGqyT3NMoDBevo4aIC) | [Gwyn Love](https://open.spotify.com/artist/4o5ZquVPYCsS90FQYPkGzN), [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [die a little less](https://open.spotify.com/album/3v6Pl74V5UvjrVaVzQbnyD) | 2:22 |
 
-Snapshot ID: `MCwxYzhiYjM5MDljNTA0ZGM1NGUxNDNmZjRjZWY4YWMzNDkwOTQ1MTg3`
+Snapshot ID: `MCxhMmY1Yjk2MDY5Njg5NGNhNjY5NTMwYzQwMTNhZjZhMTI4NDNiNGE0`

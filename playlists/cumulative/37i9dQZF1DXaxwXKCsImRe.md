@@ -4,7 +4,7 @@
 
 > A Spotify program to promote exciting artists! RADAR BNLX: Siggy & D1ns \(cover\), DIKKE, Kids With Buns, Shermanology, Pommelien Thijs, Haunted Youth & Zoë Tauran
 
-154 songs - 8 hr 8 min
+155 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [iClout \(feat\. EARTHGANG\)](https://open.spotify.com/track/61dvMPhVqB2iWGHQU6BjyK) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Digital Tears](https://open.spotify.com/album/6dEZTAWhslVOPZc3SU18oD) | 4:22 | 2021-12-10 | 2022-03-12 |
 | [In Control](https://open.spotify.com/track/5xgsrlbxfmAZR8t57ljK5t) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [In Control](https://open.spotify.com/album/6rfcQP2rywiV6reYrP9LOJ) | 3:10 | 2021-12-10 | 2022-08-26 |
 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 | 2022-02-03 | 2023-09-15 |
+| [Jabula](https://open.spotify.com/track/6Kb5zYN5rUlBAZC3EqAB0T) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Verseless](https://open.spotify.com/artist/2kXwMFHdIbk3FVjJe9XOXM), [King Her](https://open.spotify.com/artist/6acKJrfjda2y2rbJ9lKLm5) | [Roots EP](https://open.spotify.com/album/6ZAcM29Ot4yCMlsRTmA7ze) | 3:38 | 2023-09-28 |  |
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-12-10 | 2022-08-26 |
 | [Kleine Tornado](https://open.spotify.com/track/5rtx20BLAII8V5IxJILFOd) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [Kaat Thijs](https://open.spotify.com/artist/22SPS2g9kKMFBpzU4UnxLK) | [Kleine Tornado](https://open.spotify.com/album/5aoieYMrik5dAkFSh9WykV) | 3:22 | 2023-05-22 |  |
 | [Klop Klop](https://open.spotify.com/track/6a3UR5Lp9h2u9x4JMuV0T6) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Klop Klop](https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o) | 2:32 | 2022-10-17 |  |

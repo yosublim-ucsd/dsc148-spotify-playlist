@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 281705,
+  "num_followers": 281785,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTU0YzRmZTg1MDMxOTcyZDhlMmQzYTIyMDQ2ZTZiZGMyNGZjN2E3",
+  "snapshot_id": "MCw5NjI3Y2U0M2Y0YzNkMmVjZGQ2YWJkZTQxZjViZjZmNzEwZGEyM2I5",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -339,8 +339,8 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "For LP Fans Only",
-        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 115280,
-      "name": "That's All Right",
-      "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
+      "duration_ms": 122893,
+      "name": "Don't Be Cruel",
+      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -499,8 +499,8 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+        "name": "For LP Fans Only",
+        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 122893,
-      "name": "Don't Be Cruel",
-      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
+      "duration_ms": 115280,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Complete Hank Williams",
-        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Move It On Over",
-      "url": "https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 139733,
       "name": "Am I Losing You",
       "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Complete Hank Williams",
+        "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Move It On Over",
+      "url": "https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Crazy Arms",
-      "url": "https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Best Of Jimmie Rodgers",
         "url": "https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 137106,
       "name": "Honeycomb",
       "url": "https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Crazy Arms",
+      "url": "https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Complete Capitol Hits Of Faron Young",
-        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
-      },
-      "artists": [
-        {
-          "name": "Faron Young",
-          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "If You Ain't Lovin' (You Ain't Livin')",
-      "url": "https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Golden Hits",
         "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 151419,
       "name": "Send Me the Pillow You Dream On",
       "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Complete Capitol Hits Of Faron Young",
+        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
+      },
+      "artists": [
+        {
+          "name": "Faron Young",
+          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "If You Ain't Lovin' (You Ain't Livin')",
+      "url": "https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC"
     },
     {
       "added_at": "2023-01-02 21:32:07",

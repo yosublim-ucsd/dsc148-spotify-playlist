@@ -3568,10 +3568,28 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 143960,
       "name": "Love Island",
       "url": "https://open.spotify.com/track/2kiBow1qzFxXlCutSslC2R"
+    },
+    {
+      "album": {
+        "name": "Love Island",
+        "url": "https://open.spotify.com/album/3Nu7ZdvKfsohdpjvf3swO4"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143978,
+      "name": "Love Island",
+      "url": "https://open.spotify.com/track/0FlBpw3OpaZur0hceVBj46"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: ナードマグネット
 
-825 songs - 2 day 3 hr 50 min
+827 songs - 2 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 | 2023-05-16 | 2023-07-05 |
 | [Big tree song\(Hiroshi Takano remix\)](https://open.spotify.com/track/39Ma2cgdxwlol0dgMaMwII) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm), [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [Big tree song\(Hiroshi Takano remix\)](https://open.spotify.com/album/0nd4eeZllrxxWNFhrhlaHL) | 4:10 | 2023-06-13 | 2023-06-15 |
 | [Big tree song\(Hiroshi Takano remix\)](https://open.spotify.com/track/4NpqwLanVp3JG3NLJEn6cY) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm), [Hiroshi Takano](https://open.spotify.com/artist/1Z3tfBrHfzbWjvnOQh9GnO) | [Big tree song\(Hiroshi Takano remix\)](https://open.spotify.com/album/7kPBLhjqM3qGwoS8AhgLNd) | 4:10 | 2023-06-13 | 2023-07-05 |
-| [biscuit](https://open.spotify.com/track/4zG5UsMy6ZsGppfPijtzAY) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [原作](https://open.spotify.com/album/3V4cs5j2lb4uXz3k4gk2zc) | 3:18 | 2023-08-29 |  |
+| [biscuit](https://open.spotify.com/track/4zG5UsMy6ZsGppfPijtzAY) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [原作](https://open.spotify.com/album/3V4cs5j2lb4uXz3k4gk2zc) | 3:18 | 2023-08-29 | 2023-09-29 |
 | [Black Chocolate](https://open.spotify.com/track/52hKZ9AOrKYP5PNbn3qkud) | [Panorama Panama Town](https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf) | [Black Chocolate](https://open.spotify.com/album/0PAczNH9xSxffrYBruVVRB) | 3:39 | 2023-06-20 | 2023-07-05 |
 | [Black Jean Boogie](https://open.spotify.com/track/2PlKI5l5CZaUNHhPAT3tqp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/4a3ANHYDPrUDZScH8lqrO0) | 3:47 | 2023-07-25 | 2023-09-01 |
 | [Black Jean Boogie](https://open.spotify.com/track/6ooCR2BIdsMSzddhiElEnp) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [Black Jean Boogie](https://open.spotify.com/album/5iEulwmiFqO7uZMeYNiVZT) | 3:47 | 2023-07-25 | 2023-07-27 |
@@ -203,7 +203,7 @@
 | [I Don't Wanna Be You](https://open.spotify.com/track/1W2JZ582u23ihurEPQPjqB) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FLOWERS](https://open.spotify.com/album/5nSKf0TUKnosCEBuLJPcVC) | 2:45 | 2023-01-13 | 2023-02-15 |
 | [I Love me](https://open.spotify.com/track/0Y5tyjzA8QBQrOyAV6G0gt) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [I Love me](https://open.spotify.com/album/3OdNDDi9o21gKotKQnfa6h) | 3:13 | 2023-08-22 | 2023-09-27 |
 | [I Love me](https://open.spotify.com/track/2x7tc0BJTDDLwg1jQ9ROAB) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [I Love me](https://open.spotify.com/album/1BQ5QzcoyC8RDj3bBE9CNH) | 3:13 | 2023-08-22 | 2023-08-24 |
-| [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 | 2023-09-07 |  |
+| [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 | 2023-09-07 | 2023-09-29 |
 | [I said](https://open.spotify.com/track/33SCGoTFEjkI5AQHPuZJRh) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [I said](https://open.spotify.com/album/0y7mtkJtXVcLQYBZKPf1Sp) | 4:22 | 2023-02-28 | 2023-04-05 |
 | [I SAY NO](https://open.spotify.com/track/0qczXVvweqlYXRKKgw1WGZ) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [I SAY NO](https://open.spotify.com/album/4Azvu1ma0aQgwj8dTn6Fk4) | 3:27 | 2023-06-20 | 2023-06-22 |
 | [I Say No](https://open.spotify.com/track/2yRFTBM5biL3TfJ8HPnf7D) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [I Say No](https://open.spotify.com/album/3NVbXwZeXJqftrmXA3llNj) | 3:27 | 2023-06-20 | 2023-08-04 |
@@ -460,6 +460,7 @@
 | [YOUTH OF EDGE](https://open.spotify.com/track/3oHj3opkJTEfywxvCqQuUM) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [YOUTH OF EDGE](https://open.spotify.com/album/0a7tm3zCW2yFRfdTjJ78Ec) | 3:49 | 2023-08-29 |  |
 | [yunagieiso](https://open.spotify.com/track/618pyNivEdcfLnc9TbKAuQ) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [yunagieiso](https://open.spotify.com/album/7FD9T96o1fl2qTcRem8iNM) | 3:57 | 2023-09-26 |  |
 | [Yureigai To Gyakusetsu](https://open.spotify.com/track/2nhjP3RjbfZQgSIQk1elzZ) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Yureigai To Gyakusetsu](https://open.spotify.com/album/0whu8sWSEyuODpfsg8Q8Go) | 3:31 | 2023-08-08 | 2023-09-22 |
+| [ZERO](https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ZERO](https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3) | 3:55 | 2023-09-28 |  |
 | [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 | 2023-07-25 | 2023-08-23 |
 | [いつも、エンドレス](https://open.spotify.com/track/6bxUT3WHGWwPGFx60j847d) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [いつも、エンドレス](https://open.spotify.com/album/0vzfZObnp6pOHsX3yZyxo3) | 4:27 | 2023-01-17 | 2023-01-25 |
 | [いやがらせのうた](https://open.spotify.com/track/3s6yqjQFK0loZAJPhsIk9e) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [いやがらせのうた](https://open.spotify.com/album/6F5A1uGpepJOfUdetLgKf3) | 2:33 | 2023-08-31 | 2023-09-20 |
@@ -567,6 +568,7 @@
 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 | 2023-01-13 | 2023-02-22 |
 | [チルチルクラブ](https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [チルチルクラブ](https://open.spotify.com/album/62Z9g2fCTSC64htta3ZFB7) | 3:49 | 2023-06-20 | 2023-07-26 |
 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 | 2023-01-13 | 2023-07-12 |
+| [ディストラクション・シスターズ](https://open.spotify.com/track/7Lr7JP6qEkoDMGFHtyrJHa) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/4t2okOrlqsIZ15pZfdhtuZ) | 2:30 | 2023-09-28 |  |
 | [トロイメライ](https://open.spotify.com/track/3ilHK59gf2Rmw1QHr6bdnI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Dear DECADE,](https://open.spotify.com/album/2Q7v2wgfYIuZ2JoPa3Puhr) | 3:12 | 2023-01-13 | 2023-01-18 |
 | [ドライブ](https://open.spotify.com/track/6ejnOSVgHzStOr0FFo7kZR) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [ドライブ EP](https://open.spotify.com/album/4lR8rlhaM2wov7Xrw8akIk) | 4:43 | 2023-05-16 | 2023-06-14 |
 | [ドレミ](https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [ドレミ](https://open.spotify.com/album/4m3Zz5ajxf9evbVOLySDc8) | 4:07 | 2023-02-09 | 2023-03-01 |

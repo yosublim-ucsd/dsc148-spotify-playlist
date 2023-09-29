@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0MTV1wG5r8M1hTexjolpA5">Silnyya</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,400 likes - 55 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,409 likes - 55 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [mostri lovers](https://open.spotify.com/track/4Cfmb6VYYsGuigxl0sqAoJ) | [Ga](https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj) | [mostri lovers](https://open.spotify.com/album/1UYOUC7DmoaOwTsbHzzObL) | 2:58 |
 | 55 | [in un secondo](https://open.spotify.com/track/6YzFWwCEuFrohOrYHr7UI5) | [2802](https://open.spotify.com/artist/1wGqWC44yC1hYxWBnyY2Us) | [in un secondo](https://open.spotify.com/album/3Inl0YP3dhkUv8B7F9nBT7) | 2:40 |
 
-Snapshot ID: `MCw5MDAyYWQyZDFjNmIyZDgwYjJhN2NlMGIzYjljOGM1NzhjYTFjY2U0`
+Snapshot ID: `MCw0NDljOWJjNjQ0MjVlNTM1MDgwMjYxYmRhMzVhYTM0OGRiMzcxMjQx`

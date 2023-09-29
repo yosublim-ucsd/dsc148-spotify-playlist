@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP)
 
-> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx?si=EzDRsNliTqKI0xKJPjwzhA">Cream Machine</a>
+> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL?si=gX9Ki4eNRh\-Ok0etAYYfFA">Mr Heinz</a> & <a href="https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=qnCa5ScGSdu0Hn1d7GAZ4g">Maglera Doe Boy</a>
 
-107 songs - 5 hr 45 min
+109 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,16 +38,17 @@
 | [Ek Is Tussen](https://open.spotify.com/track/0XS9vnMfxqTuRDGeQroOKV) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [Ek Is Tussen](https://open.spotify.com/album/04XFXVW4dNH67A1AttIeo0) | 1:32 | 2023-03-30 |  |
 | [Ek Is Tussen \- Remix](https://open.spotify.com/track/0WCKGTPqGTXl0wbaDHxY0t) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ), [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B) | [AFRIKAANS GENOEG?](https://open.spotify.com/album/1CHHHkhWAPapUTfpxRbXsi) | 2:34 | 2023-04-13 | 2023-04-21 |
 | [EK ISI UITIE](https://open.spotify.com/track/1ePwUxEbNEbHiYSgiFyydM) | [Carbars Cel & Ponga](https://open.spotify.com/artist/6TXHKldyzmSTIOKTBf9kMU) | [EK ISI UITIE](https://open.spotify.com/album/0CYLa1vPfWZYI9yk2FEsWR) | 3:25 | 2022-09-08 |  |
+| [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 | 2023-09-28 |  |
 | [FFF](https://open.spotify.com/track/4ELBY7XVZYESi10omwgAok) | [DEMIGOD MINGO](https://open.spotify.com/artist/71GIrJ3f0Q0YDz2IaA4DxW) | [FFF](https://open.spotify.com/album/36nqnCoIwYAaQhD7nNRtMw) | 3:17 | 2023-04-20 | 2023-05-06 |
 | [Forever Or Never](https://open.spotify.com/track/2vQlEG2lcO9xcw5t1Gzgtv) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Anny](https://open.spotify.com/artist/5S3D0VwV9kYiOBsvPRmjT7) | [Funky\-Kaans](https://open.spotify.com/album/4dCrzyFLnOoCrMCEfLZ6qa) | 3:50 | 2022-09-08 | 2023-08-05 |
 | [Freaky Bra](https://open.spotify.com/track/1dCz3LcKE2cBA7TKZTi56M) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN) | [Loufi Flippen Loufi](https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK) | 2:56 | 2023-04-13 | 2023-04-21 |
-| [Ghetto Boi](https://open.spotify.com/track/68OnCNxAld3VHwCqdqhBRK) | [Kulturegng](https://open.spotify.com/artist/2TOxM93PxHUXxznzATXhqD) | [Ghetto Boi](https://open.spotify.com/album/0L8k4lMOBdc3DNusEDEXRw) | 2:03 | 2022-09-08 |  |
+| [Ghetto Boi](https://open.spotify.com/track/68OnCNxAld3VHwCqdqhBRK) | [Kulturegng](https://open.spotify.com/artist/2TOxM93PxHUXxznzATXhqD) | [Ghetto Boi](https://open.spotify.com/album/0L8k4lMOBdc3DNusEDEXRw) | 2:03 | 2022-09-08 | 2023-09-29 |
 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 | 2022-09-08 |  |
 | [Grootman](https://open.spotify.com/track/6AnQRH4wDqDjnAL7YSob7x) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:00 | 2022-09-08 |  |
 | [Haartseer Naai](https://open.spotify.com/track/1o8sfR9JWRPgl2rwmiCaeR) | [King Burger](https://open.spotify.com/artist/1QOy8p4Pm8xxgw8EU4RjnP) | [Haartseer Naai](https://open.spotify.com/album/2Vap5cLVlsHvqI8ANAqmeg) | 3:06 | 2022-09-08 | 2022-12-02 |
 | [Happy Family](https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Early B](https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd), [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Happy Family](https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21) | 4:04 | 2022-09-22 | 2022-12-09 |
 | [Hi Mitchell](https://open.spotify.com/track/0W1f1HfOqPyBQ5VLoc9lgL) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Is Ekke Man](https://open.spotify.com/album/3JLW4br5PUjGqKJklfoHv7) | 1:59 | 2023-02-09 | 2023-03-25 |
-| [Hou Jou Leka](https://open.spotify.com/track/2NQedw63Pr0NlLD2DU0gVK) | [Carbars Cel & Ponga](https://open.spotify.com/artist/6TXHKldyzmSTIOKTBf9kMU) | [Hou Jou Leka](https://open.spotify.com/album/4VSqBELCwNITeYYx2uPfx0) | 4:23 | 2022-09-08 |  |
+| [Hou Jou Leka](https://open.spotify.com/track/2NQedw63Pr0NlLD2DU0gVK) | [Carbars Cel & Ponga](https://open.spotify.com/artist/6TXHKldyzmSTIOKTBf9kMU) | [Hou Jou Leka](https://open.spotify.com/album/4VSqBELCwNITeYYx2uPfx0) | 4:23 | 2022-09-08 | 2023-09-29 |
 | [Hou Jou Man Dop](https://open.spotify.com/track/77f9qpCn1u53KwSQYIO4zK) | [Ameen Harron](https://open.spotify.com/artist/4ZgCTMu7jGyxieADZA0Jam), [Irshaad Ally](https://open.spotify.com/artist/3oBGG9N0i0jS5rcvNZP80k), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Hou Jou Man Dop](https://open.spotify.com/album/1jFkerCNl3QQ2FtYNQx0qr) | 3:49 | 2022-09-08 | 2023-03-31 |
 | [Innie Boland](https://open.spotify.com/track/41BvgzRpKygcNw4WPveCk7) | [Middelvinger](https://open.spotify.com/artist/76vCMjsvbkeG5cUXMU1jBG), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Innie Boland](https://open.spotify.com/album/10sJICqQGgC9KQPie2It2w) | 4:15 | 2022-09-08 | 2023-09-01 |
 | [Is Dope](https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL) | [Hemelbesem](https://open.spotify.com/artist/2rf163QPv7JZFRGuxjplds), [Stuwi W](https://open.spotify.com/artist/2eOVM21p4NdKeJrO3G5cdJ) | [Evil Is Nogsteeds Maklik](https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX) | 5:09 | 2022-09-08 |  |
@@ -94,6 +95,7 @@
 | [Smooth](https://open.spotify.com/track/7oovNehysT0pyWphC78mnH) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Smooth](https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq) | 2:49 | 2022-12-01 | 2023-07-14 |
 | [So Laatie Dou](https://open.spotify.com/track/70AYbxLFIm9Y5jhocOiV0Y) | [Terror MC](https://open.spotify.com/artist/1yZbqrCBkdHJ2bewe0HEHG) | [So Laatie Dou](https://open.spotify.com/album/1V91ZIjl4e6pcEp8C1Fr0T) | 2:40 | 2023-08-31 |  |
 | [Soldaat](https://open.spotify.com/track/6fXD6fswA7gxaxwwxb7lsY) | [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Longjevity](https://open.spotify.com/album/7gOn06YJr6NTt5cwHmC2Y8) | 3:14 | 2022-09-08 | 2022-11-04 |
+| [Spanga](https://open.spotify.com/track/56SvCpQDzyoDCgkwjjE1Rc) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Spanga](https://open.spotify.com/album/1Mr5n8Hk7lONm377cK3mrk) | 3:00 | 2023-09-28 |  |
 | [Stap Soldaat](https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Stap Soldaat](https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ) | 3:10 | 2023-03-02 |  |
 | [Swaar Tye](https://open.spotify.com/track/07GWdeJWoSJmOtiogGNOxX) | [Lil Jady](https://open.spotify.com/artist/535YmzkwAuuy4jjVrhnzBZ) | [Swaar Tye](https://open.spotify.com/album/1wT5j2yXzesSWS3El9tnPS) | 2:07 | 2023-06-02 | 2023-06-09 |
 | [Syfers](https://open.spotify.com/track/0ZpttaASCFswJdD8sJprbJ) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Sien Jou Later](https://open.spotify.com/album/0AXcygm8jz0YWKvgZvVd0T) | 3:17 | 2022-09-08 | 2023-03-25 |

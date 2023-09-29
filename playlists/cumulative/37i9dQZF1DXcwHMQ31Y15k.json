@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Hendra Kumbara",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 292864,
       "name": "Abadi",
       "url": "https://open.spotify.com/track/6rdqabpJT3jplQzor1os8j"
+    },
+    {
+      "album": {
+        "name": "Abadi (Dangdut Version)",
+        "url": "https://open.spotify.com/album/38wpQZfT0GMrRaw9MaAkTo"
+      },
+      "artists": [
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        },
+        {
+          "name": "Syalala Orkes Milenial",
+          "url": "https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330850,
+      "name": "Abadi - Dangdut Version",
+      "url": "https://open.spotify.com/track/1D2YEPKpqCvmQOOi2xHsxX"
     },
     {
       "album": {
@@ -1740,6 +1762,32 @@
       "duration_ms": 346631,
       "name": "Madiun Ngawi",
       "url": "https://open.spotify.com/track/5TvIpLkrmpdacgAUlbQOFA"
+    },
+    {
+      "album": {
+        "name": "MAKSET",
+        "url": "https://open.spotify.com/album/2cBMC737NRu6uYgmkSemYS"
+      },
+      "artists": [
+        {
+          "name": "Kalia Siska",
+          "url": "https://open.spotify.com/artist/70hsEvlt6YZPT97UIvzpEu"
+        },
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        },
+        {
+          "name": "SKA 86",
+          "url": "https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367868,
+      "name": "MAKSET",
+      "url": "https://open.spotify.com/track/7r0C6hjDpLUNeCZEGqEkpJ"
     },
     {
       "album": {
@@ -3509,6 +3557,28 @@
     },
     {
       "album": {
+        "name": "Sido Rondo (feat. Mas Tutur)",
+        "url": "https://open.spotify.com/album/4NpCoRZQPRyJj3nO97pB63"
+      },
+      "artists": [
+        {
+          "name": "Mira Kirana",
+          "url": "https://open.spotify.com/artist/0WfgPneshlAOQsgIOERmOP"
+        },
+        {
+          "name": "Mas Tutur",
+          "url": "https://open.spotify.com/artist/0ZnrTjAIGN7PfnjfeC9AC9"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352000,
+      "name": "Sido Rondo (feat. Mas Tutur)",
+      "url": "https://open.spotify.com/track/0CxgPOuTACNddFQC82zu9l"
+    },
+    {
+      "album": {
         "name": "Sinyal Tresna (From Collabonation)",
         "url": "https://open.spotify.com/album/79v7NB2gHevH35BCl5G2FQ"
       },
@@ -4084,6 +4154,32 @@
       "duration_ms": 389906,
       "name": "Wingi Dele Saiki Tempe",
       "url": "https://open.spotify.com/track/5Q3c8a4Z12UyDXWDzwZfYc"
+    },
+    {
+      "album": {
+        "name": "Wis Dadi Siji",
+        "url": "https://open.spotify.com/album/2WRKywqxFsv91baqQwyhu7"
+      },
+      "artists": [
+        {
+          "name": "Yoga Pratama",
+          "url": "https://open.spotify.com/artist/4xb4qXz0TEBMoQCARbOPV1"
+        },
+        {
+          "name": "Mayangsari",
+          "url": "https://open.spotify.com/artist/3rFjxo9yivNNj7ARVjSAzQ"
+        },
+        {
+          "name": "ALIM MAHAKARYA",
+          "url": "https://open.spotify.com/artist/2Nzt5yxDZ24I6byUHRgjGF"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293640,
+      "name": "Wis Dadi Siji",
+      "url": "https://open.spotify.com/track/3V4psN224kLrGMNQ6nPYW2"
     },
     {
       "album": {

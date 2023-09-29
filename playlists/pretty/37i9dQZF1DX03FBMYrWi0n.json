@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Laurence-Anne",
-  "num_followers": 2915,
+  "num_followers": 2919,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTFhMWE0OTNiODg5MzRlMjFiYmRmMTg3ZDg2M2RlNjE4ODFhMTg4",
+  "snapshot_id": "MCxhNWVmM2FhOTliZmZkYjM3YmI4YjA2NjJmNzA1MDRhYTY4MTRmZWVm",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Parfaite \u00e0 l'\u00e9cran",
-        "url": "https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP"
-      },
-      "artists": [
-        {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Parfaite \u00e0 l'\u00e9cran",
-      "url": "https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 223849,
       "name": "Comfort, Edge",
       "url": "https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Parfaite \u00e0 l'\u00e9cran",
+        "url": "https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP"
+      },
+      "artists": [
+        {
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Parfaite \u00e0 l'\u00e9cran",
+      "url": "https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "We Are Sunshine",
-        "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
-      },
-      "artists": [
-        {
-          "name": "The Blaze Velluto Collection",
-          "url": "https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "The Rabbit Song",
-      "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "\u200echerry \u200estems",
         "url": "https://open.spotify.com/album/59X6b30MP14N4rAgN2wtWB"
       },
@@ -579,22 +563,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Comment Debord",
-        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
-      },
-      "artists": [
-        {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 222002,
-      "name": "Chalet",
-      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Gants blancs",
         "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
       },
@@ -607,6 +575,38 @@
       "duration_ms": 214792,
       "name": "Gants blancs",
       "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "We Are Sunshine",
+        "url": "https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV"
+      },
+      "artists": [
+        {
+          "name": "The Blaze Velluto Collection",
+          "url": "https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "The Rabbit Song",
+      "url": "https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Comment Debord",
+        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 222002,
+      "name": "Chalet",
+      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Rencontrer looloo",
-        "url": "https://open.spotify.com/album/5p5o5lAkjxOMk6wPHgtfrP"
-      },
-      "artists": [
-        {
-          "name": "Chocolat",
-          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
-        }
-      ],
-      "duration_ms": 150320,
-      "name": "Ah ouin",
-      "url": "https://open.spotify.com/track/1W6VCZ9DPxgpgIGRgYmjL8"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Chicout",
         "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 220607,
       "name": "Feu de for\u00eat",
       "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Rencontrer looloo",
+        "url": "https://open.spotify.com/album/5p5o5lAkjxOMk6wPHgtfrP"
+      },
+      "artists": [
+        {
+          "name": "Chocolat",
+          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
+        }
+      ],
+      "duration_ms": 150320,
+      "name": "Ah ouin",
+      "url": "https://open.spotify.com/track/1W6VCZ9DPxgpgIGRgYmjL8"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Premier juin",
-        "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
-      },
-      "artists": [
-        {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
-        }
-      ],
-      "duration_ms": 268426,
-      "name": "Ma\u00efa",
-      "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Tipatshimushtunan",
         "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 245640,
       "name": "40h semaine",
       "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Premier juin",
+        "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
+      },
+      "artists": [
+        {
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+        }
+      ],
+      "duration_ms": 268426,
+      "name": "Ma\u00efa",
+      "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Politesse",
-        "url": "https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I"
-      },
-      "artists": [
-        {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "Politesse",
-      "url": "https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "The Witness",
         "url": "https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 249072,
       "name": "Witness Protection",
       "url": "https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Politesse",
+        "url": "https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I"
+      },
+      "artists": [
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "Politesse",
+      "url": "https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "l'\u00cele",
-        "url": "https://open.spotify.com/album/3AkriQvlkrwcr3Nq22hp1U"
+        "name": "Coin coin",
+        "url": "https://open.spotify.com/album/3XSN53ondDCSSLeIXXvNrK"
       },
       "artists": [
         {
-          "name": "Joseph Carr\u00e9",
-          "url": "https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44"
+          "name": "Malaim\u00e9 Soleil",
+          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
         }
       ],
-      "duration_ms": 182252,
-      "name": "l'\u00cele",
-      "url": "https://open.spotify.com/track/10wZLG9ttpMIiYCaJsRvGs"
+      "duration_ms": 209680,
+      "name": "Coin coin",
+      "url": "https://open.spotify.com/track/2EeKut39BXmeuZSeDn2Pmw"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Coin coin",
-        "url": "https://open.spotify.com/album/3XSN53ondDCSSLeIXXvNrK"
+        "name": "l'\u00cele",
+        "url": "https://open.spotify.com/album/3AkriQvlkrwcr3Nq22hp1U"
       },
       "artists": [
         {
-          "name": "Malaim\u00e9 Soleil",
-          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
+          "name": "Joseph Carr\u00e9",
+          "url": "https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44"
         }
       ],
-      "duration_ms": 209680,
-      "name": "Coin coin",
-      "url": "https://open.spotify.com/track/2EeKut39BXmeuZSeDn2Pmw"
+      "duration_ms": 182252,
+      "name": "l'\u00cele",
+      "url": "https://open.spotify.com/track/10wZLG9ttpMIiYCaJsRvGs"
     },
     {
       "added_at": "2023-09-08 04:00:00",

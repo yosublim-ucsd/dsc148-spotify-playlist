@@ -2,9 +2,9 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Mikel Erentxun.
+> Lo mejor del rock de aquí, como Arco.
 
-332 songs - 21 hr 35 min
+333 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Lady Madrid](https://open.spotify.com/track/5VJOeEGEhphuvtGZH0gbW9) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Los Nº1 De 40 Principales 2010](https://open.spotify.com/album/5PIoj4o0tZSIQjoS46BeLD) | 3:11 | 2022-06-30 | 2022-07-06 |
 | [Lady Madrid](https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Aviones](https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH) | 3:11 | 2022-07-21 | 2023-02-17 |
 | [Las Flores](https://open.spotify.com/track/2pgdMqyq3byWFb2BGHUq4c) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Las Flores](https://open.spotify.com/album/7ErRhhztsuwfajD1Ad15a2) | 4:07 | 2022-05-19 | 2022-06-10 |
+| [Las vidas que olvidé](https://open.spotify.com/track/65sXwuOvRgovXFe5m3oKvS) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Las vidas que olvidé](https://open.spotify.com/album/7xonHz50UMJAlKJAE1qHKH) | 3:01 | 2023-09-28 |  |
 | [Lejos de las leyes de los hombres \- Versión 2023](https://open.spotify.com/track/2bAUvzIsgE66UmGqADyGQg) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Lejos de las leyes de los hombres \(Versión 2023\)](https://open.spotify.com/album/7u6hWylxNJin7RPnuTsxrI) | 3:21 | 2023-09-21 |  |
 | [Letras Absurdas](https://open.spotify.com/track/5wOxmAdbz3ihLAiHxxX7ts) | [Tocando Techo](https://open.spotify.com/artist/4ZoykgIxJOeaS1uoADIHqo) | [Letras Absurdas](https://open.spotify.com/album/1fIyFZF0h2chYBrqXg7cIe) | 4:04 | 2023-05-11 | 2023-06-09 |
 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 | 2022-05-19 |  |
@@ -254,7 +255,7 @@
 | [Por amor viviremos](https://open.spotify.com/track/6UlDs030fd8vjzjne7OKwR) | [Javier Ojeda](https://open.spotify.com/artist/7qyL6M8Rib3S7jLWOYUjaI) | [Por Amor](https://open.spotify.com/album/19sp4hLVnkYnD0T4GgtvHt) | 2:57 | 2023-06-22 | 2023-06-30 |
 | [Por la boca vive el pez](https://open.spotify.com/track/1mOOMcUSzzsyzKmlukM1m4) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Fitografía](https://open.spotify.com/album/4zSihveMwgYWHA5Bkw29Ug) | 4:29 | 2022-05-19 | 2022-07-29 |
 | [Por la boca vive el pez](https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 4:29 | 2022-07-21 |  |
-| [Por las noches](https://open.spotify.com/track/7BtkQSPamCwesQN1mBBUFd) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:26 | 2023-08-31 |  |
+| [Por las noches](https://open.spotify.com/track/7BtkQSPamCwesQN1mBBUFd) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:26 | 2023-08-31 | 2023-09-29 |
 | [Por verte sonreír](https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Mira](https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18) | 6:40 | 2022-06-23 |  |
 | [Puede Ser](https://open.spotify.com/track/07kKtaDOmlcLU50s9eNqYp) | [Dixon](https://open.spotify.com/artist/3ZqivrF6irzebjksomnUyG) | [Puede Ser](https://open.spotify.com/album/2ozuvYpJIBwFW6sDQXjwMi) | 3:06 | 2022-09-01 | 2022-09-16 |
 | [Puntos Cardinales](https://open.spotify.com/track/0aT7bu51VYDV4GcO4zUCod) | [Tocando Techo](https://open.spotify.com/artist/4ZoykgIxJOeaS1uoADIHqo) | [Puntos Cardinales](https://open.spotify.com/album/1gWsrweysgf7joT7hp8tGr) | 3:17 | 2023-06-15 | 2023-06-23 |

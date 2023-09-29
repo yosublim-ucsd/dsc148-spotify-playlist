@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "Adua",
+        "url": "https://open.spotify.com/album/2ZUvWoIYTzPqwjaUAUW1hM"
+      },
+      "artists": [
+        {
+          "name": "Lemon Adisa",
+          "url": "https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158915,
+      "name": "Adua",
+      "url": "https://open.spotify.com/track/1F1TPrkwYpU3tfEmwGTXkU"
+    },
+    {
+      "album": {
         "name": "Agbado Wa O",
         "url": "https://open.spotify.com/album/3UATmv0OvLERgHyOnI40lx"
       },
@@ -126,7 +144,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 139885,
       "name": "Aje",
       "url": "https://open.spotify.com/track/1eYdeqrDKSFhmvQgW1OAXO"
@@ -322,7 +340,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 133333,
       "name": "Badagry",
       "url": "https://open.spotify.com/track/00zdNgxTeBKbB4JsjGwVqz"
@@ -392,7 +410,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 151548,
       "name": "Bankruptcy",
       "url": "https://open.spotify.com/track/6tbnqrQJWzPPQzlzvoIewt"
@@ -432,7 +450,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 173712,
       "name": "Bolanle",
       "url": "https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd"
@@ -520,7 +538,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 146951,
       "name": "Caution (Remix)",
       "url": "https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9"
@@ -668,7 +686,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 123870,
       "name": "Don't Hype Me",
       "url": "https://open.spotify.com/track/0NxAC5CVvgBfA5Qm2pqsg0"
@@ -770,7 +788,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 180636,
       "name": "Express",
       "url": "https://open.spotify.com/track/49ST93zDICBoe4noumugsa"
@@ -928,7 +946,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-05",
+      "date_removed": null,
       "duration_ms": 158608,
       "name": "Fun for Love",
       "url": "https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 145351,
       "name": "In Charge",
       "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
@@ -1812,7 +1830,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 132414,
       "name": "My Life",
       "url": "https://open.spotify.com/track/0SJYLFDUX2F1IMTdXS23zI"
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 160031,
       "name": "Oga Mi Sir",
       "url": "https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST"
@@ -2238,7 +2256,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 146494,
       "name": "Pop (Alcohol Alcohol)",
       "url": "https://open.spotify.com/track/6rMi4IgGoZ8ahKFNlhUym1"
@@ -2354,7 +2372,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 175255,
       "name": "Realize",
       "url": "https://open.spotify.com/track/1GfaxJMFAolWogWr2MNkZ3"
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 164684,
       "name": "Shaka",
       "url": "https://open.spotify.com/track/1HN2Q4IyIoJWqEQKeZSWNA"
@@ -2750,7 +2768,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 140551,
       "name": "traffic",
       "url": "https://open.spotify.com/track/57Ca9ulwiKUh5VEAb0ObA3"
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 186206,
       "name": "Wale",
       "url": "https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo"
@@ -2848,7 +2866,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 155428,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
@@ -2986,10 +3004,36 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 168352,
       "name": "Yoga",
       "url": "https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa"
+    },
+    {
+      "album": {
+        "name": "ZaZoo Zehh",
+        "url": "https://open.spotify.com/album/7JktjrthMuYVUBB5DU0SwO"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214533,
+      "name": "ZaZoo Zehh",
+      "url": "https://open.spotify.com/track/5CfdJYNGyd9ri674WxZIMt"
     },
     {
       "album": {

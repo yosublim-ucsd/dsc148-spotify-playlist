@@ -4,11 +4,12 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-184 songs - 11 hr 57 min
+188 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2003 Toyota Corolla](https://open.spotify.com/track/0kkysENXsRAz1awenKqxCB) | [2003 Toyota Corolla](https://open.spotify.com/artist/6FYMANNdpYv2Y9prysxwCW) | [2003 Toyota Corolla](https://open.spotify.com/album/4oOr6KBLtpEF3zjlK5HMYx) | 7:06 | 2022-05-19 | 2022-09-07 |
+| [A Mirror in Every Drawer](https://open.spotify.com/track/6ekfFY1c61AVIYn8mD6cHN) | [Tiger Stories](https://open.spotify.com/artist/0Rjd9VdV6Bx4XjDZPp1O2U) | [Dinami](https://open.spotify.com/album/26wCcQ91JidqBJ9NH6HfiB) | 4:06 | 2023-09-28 |  |
 | [A New Dawn](https://open.spotify.com/track/11N9Vx2jRgBwGZ4d34YteA) | [Origin ST](https://open.spotify.com/artist/03YMunHBU0yB0WIGH6RGE9) | [A New Dawn](https://open.spotify.com/album/2kMgRY4bKThFnvSIQdKzKn) | 2:40 | 2022-05-19 |  |
 | [A Pale Shelter](https://open.spotify.com/track/7hY7SElaTapgwcvFo2LR4i) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr), [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Ossa](https://open.spotify.com/artist/6UDMoQbqPXHUXfLRN6aXrc), [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [A Pale Shelter](https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B) | 4:32 | 2022-05-19 |  |
 | [Abrazo 2020](https://open.spotify.com/track/1r4aHCgkZhCuy91UmoVuVI) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 1:22 | 2022-05-19 |  |
@@ -24,6 +25,7 @@
 | [Autumn](https://open.spotify.com/track/6C0xrpCLSiAIm242vKE7HA) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [Minimal Sounds](https://open.spotify.com/album/7FtBKp3NQyxi3cUBi4BMC4) | 3:46 | 2022-05-19 |  |
 | [Avant après](https://open.spotify.com/track/4p8JiWyVoMKubwtMWQEvfG) | [Grandbruit](https://open.spotify.com/artist/4seVtzX0ihqxPzPeCYlKXY) | [Ville inerte](https://open.spotify.com/album/7x9hzH6UQdNe7WDzceVLMF) | 8:23 | 2022-05-19 |  |
 | [Awakened](https://open.spotify.com/track/5KIGU2oWqXFjXdQKTIhfmZ) | [The Deep Sleep Scientists](https://open.spotify.com/artist/2afsRt41XbJjJMMrABnBYR) | [Awakened](https://open.spotify.com/album/3WRhawwvVoG5leL75BKKbV) | 3:00 | 2022-09-23 |  |
+| [Baggy Green](https://open.spotify.com/track/5EEQNFIYPr2MrZLyVGvW63) | [Reverend XYZ](https://open.spotify.com/artist/6v9oylddGLLp2ZQMgx3NoW) | [Baggy Green](https://open.spotify.com/album/2G9MQhLpC9FrL2pttKyatT) | 3:25 | 2023-09-28 |  |
 | [Balance](https://open.spotify.com/track/5eauVhGJ1oGVTJNZYxFPXC) | [Beyond Time](https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2) | [Balance](https://open.spotify.com/album/170o62xFHJuTD2enmXU0CE) | 2:06 | 2023-03-10 |  |
 | [Beauty](https://open.spotify.com/track/4sTJvOr6fwdXXQebRajeWl) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 1:58 | 2022-05-19 |  |
 | [Behind the Waterfall](https://open.spotify.com/track/4bqyQQx0Ezeun0Eem2OqlI) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Behind the Waterfall](https://open.spotify.com/album/3QH8aE7f8JB0nU8YrK5Bz8) | 2:49 | 2022-08-11 |  |
@@ -42,6 +44,7 @@
 | [cumulus dream](https://open.spotify.com/track/7wICoe5EWgisUTGBSWBInx) | [Dreamsome](https://open.spotify.com/artist/1dqmMwqD6ylzixREHMaZyB) | [Clouds EP](https://open.spotify.com/album/0FqYLntyZVm3JHjOe9Zrtu) | 3:25 | 2023-08-25 |  |
 | [Dandelions](https://open.spotify.com/track/6IFQFMp1sazAG1ZA6bIA57) | [Amanita Phalloides](https://open.spotify.com/artist/7dipuZgipLo3oDsGhl6dQL), [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Hope Never Dies](https://open.spotify.com/album/7o9JDarAd1qKHN5mTVI6P4) | 3:44 | 2022-05-19 |  |
 | [Day 1](https://open.spotify.com/track/4IqM95Bxy0Ki0xbSIrNYKN) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Morning Loops](https://open.spotify.com/album/518ACaHelXkskhf4AtBEvA) | 11:52 | 2022-05-19 |  |
+| [Desire Path](https://open.spotify.com/track/5kZChmTjzHVxB8Z2tkVr0C) | [Raina Marigold](https://open.spotify.com/artist/0Tsin1fHpWT121wkeKVN1J) | [Desire Path](https://open.spotify.com/album/3isIYYC30KxLI7mrh2J7yz) | 3:54 | 2023-09-28 |  |
 | [Doux Sommeil](https://open.spotify.com/track/4HHB23Kvr6Lbwx8ksTTAuA) | [Cloudville](https://open.spotify.com/artist/2PZ9Lx5YAYcmTUPBc6a17L) | [Doux Sommeil](https://open.spotify.com/album/7saNKwrdkqrmz7w2eXliyn) | 2:30 | 2023-09-19 |  |
 | [Dream Silhouette](https://open.spotify.com/track/52aAiAhyUCzo8OrHSgPqHn) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Dream Silhouette](https://open.spotify.com/album/5LMPQs6RWNNMjX9m8CC6NN) | 3:08 | 2022-08-19 |  |
 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 | 2023-09-19 |  |
@@ -77,6 +80,7 @@
 | [Ghost](https://open.spotify.com/track/1W2wqz5nQEafZZWXbESetq) | [MLO](https://open.spotify.com/artist/5tdfcn1EwWqTKoxHyv9G6g) | [Oumuamua](https://open.spotify.com/album/7bfDO9ymlhD1LaTxShxHwJ) | 3:04 | 2022-05-19 |  |
 | [glowing aura](https://open.spotify.com/track/2Oln7IKNcflZzS8Z9WMj5f) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glowing aura](https://open.spotify.com/album/1stXAsb8qN1pDW5FLj1Kd9) | 3:29 | 2022-08-05 | 2022-10-14 |
 | [glowing aura](https://open.spotify.com/track/2UPdvPrgmcRo9bJjaQl2u2) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [glowing aura](https://open.spotify.com/album/23RjYjNtjkFYYlUk793H3Q) | 3:29 | 2022-10-04 |  |
+| [Green Leaves](https://open.spotify.com/track/6BVWlugjV9uuDGA0SvD0R5) | [Sounds of Love](https://open.spotify.com/artist/02yy9jEW0aHrT2MIb2IN0h) | [Rest](https://open.spotify.com/album/7gijYHP7M2rWUjC8N8m5Rq) | 3:21 | 2023-09-28 |  |
 | [Healing Waves](https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Healing Waves](https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD) | 2:41 | 2023-09-19 |  |
 | [Heavenly Harps](https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:04 | 2022-05-19 |  |
 | [Hiraeth](https://open.spotify.com/track/6Zv0JYbFJhOG0thnaGBIGW) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Painted Illusions](https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS) | 3:00 | 2023-09-19 |  |

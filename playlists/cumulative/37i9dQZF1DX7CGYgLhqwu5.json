@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 129240,
       "name": "A Six Pack To Go",
       "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
@@ -1502,6 +1502,24 @@
       "duration_ms": 166053,
       "name": "Lonesome 7-7203",
       "url": "https://open.spotify.com/track/6ZW6ND4N7oKkUhKqWZhjyk"
+    },
+    {
+      "album": {
+        "name": "All-Time Greatest Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/2sXUW22os4AVVSTn2L1nn8"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Love's Gonna Live Here",
+      "url": "https://open.spotify.com/track/2uDr0EFaBvnA31ZzPavw1I"
     },
     {
       "album": {

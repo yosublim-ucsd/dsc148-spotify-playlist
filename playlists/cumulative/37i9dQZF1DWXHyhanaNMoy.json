@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes! Cover: Noano",
+  "description": "Motion en good vibes! Cover: Bad Bunny",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Bad Gyal Deya",
+        "url": "https://open.spotify.com/album/1Y1nptoF24Avb0Fc1hMWY7"
+      },
+      "artists": [
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141804,
+      "name": "Bad Gyal Deya",
+      "url": "https://open.spotify.com/track/50gK52RLfAISsTCE3nXDa9"
+    },
+    {
+      "album": {
         "name": "Bad To Me",
         "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
       },
@@ -2191,6 +2209,28 @@
     },
     {
       "album": {
+        "name": "Blijf Je Bij Mij",
+        "url": "https://open.spotify.com/album/1xV3JLN1ZONOW0nGaoEzl6"
+      },
+      "artists": [
+        {
+          "name": "Remy",
+          "url": "https://open.spotify.com/artist/4VXbDR0X90gFcT245RQJIn"
+        },
+        {
+          "name": "Mas",
+          "url": "https://open.spotify.com/artist/2TG4b3Bk9yZaBHRrpYvWcT"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157607,
+      "name": "Blijf Je Bij Mij",
+      "url": "https://open.spotify.com/track/7tqXxVp9ZnxOhOxM3wZTWN"
+    },
+    {
+      "album": {
         "name": "Blim Blim Blim Blam",
         "url": "https://open.spotify.com/album/6S6zFUdcoFrlTGAiTHh6lO"
       },
@@ -3042,7 +3082,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 132827,
       "name": "Chamo",
       "url": "https://open.spotify.com/track/3A3Wzv53cuG2bk75R5NDkF"
@@ -4266,7 +4306,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 127846,
       "name": "Domhard",
       "url": "https://open.spotify.com/track/1JLkldM6BAXKPjcnsh3rNT"
@@ -4790,7 +4830,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 151035,
       "name": "Fantasie (Moto Moto)",
       "url": "https://open.spotify.com/track/0CBVBurneEdNqgYifxu8Pd"
@@ -4844,7 +4884,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 146914,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/262y8IGwj4Iez6HspjzBV7"
@@ -5954,6 +5994,28 @@
       "duration_ms": 194400,
       "name": "Hectisch",
       "url": "https://open.spotify.com/track/1wXbi7Vn9b53kMDOOdgZiZ"
+    },
+    {
+      "album": {
+        "name": "Helemaal Los",
+        "url": "https://open.spotify.com/album/73QTzVqxmLLSEp6B2OVcAE"
+      },
+      "artists": [
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        },
+        {
+          "name": "K-BOOM",
+          "url": "https://open.spotify.com/artist/5ZYekSTiNfDpGfdqN73QeJ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Helemaal Los",
+      "url": "https://open.spotify.com/track/0fYiwEr1TvfGES7HAp6c8y"
     },
     {
       "album": {
@@ -8025,6 +8087,28 @@
     },
     {
       "album": {
+        "name": "Loco Loco (feat. Sluwe Ollie)",
+        "url": "https://open.spotify.com/album/3v4lZJxJps8UEnZ8UVEIAy"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        },
+        {
+          "name": "Sluwe Ollie",
+          "url": "https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165694,
+      "name": "Loco Loco (feat. Sluwe Ollie)",
+      "url": "https://open.spotify.com/track/78dZXRH9JBXITQsS9Mlnsl"
+    },
+    {
+      "album": {
         "name": "Looking for Somebody",
         "url": "https://open.spotify.com/album/3V3asywN4oLR2McSuXD6gk"
       },
@@ -8190,7 +8274,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 142103,
       "name": "Love Is Free",
       "url": "https://open.spotify.com/track/4qetc6GDgmlWtGXCclFiD7"
@@ -8892,7 +8976,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 260661,
       "name": "Mijn Alles - Motafied Beatz Remix",
       "url": "https://open.spotify.com/track/0svAVFM4R1RPguV6u4nux5"
@@ -10200,6 +10284,24 @@
       "duration_ms": 165247,
       "name": "Nooit Meer",
       "url": "https://open.spotify.com/track/5KBwXLlUuNKPfQ9TpZrlar"
+    },
+    {
+      "album": {
+        "name": "Nachten Als Dit",
+        "url": "https://open.spotify.com/album/3K80h08IOac28tWClZlOJu"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113743,
+      "name": "Nyash (P.Y.T.)",
+      "url": "https://open.spotify.com/track/4pnsQXXSRkmIUHNrSczban"
     },
     {
       "album": {
@@ -11557,6 +11659,32 @@
     },
     {
       "album": {
+        "name": "Pyjama Party",
+        "url": "https://open.spotify.com/album/3lqBlfzp3N22kTk2CIumGy"
+      },
+      "artists": [
+        {
+          "name": "Jacq B",
+          "url": "https://open.spotify.com/artist/2Rd0yxydAq7hBWjbsuW8aF"
+        },
+        {
+          "name": "SCHETS",
+          "url": "https://open.spotify.com/artist/44HNB7RtTtGJ2r6IPOlaOm"
+        },
+        {
+          "name": "Donson",
+          "url": "https://open.spotify.com/artist/5BWlGj95oqmytrojTyBBvo"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Pyjama Party",
+      "url": "https://open.spotify.com/track/2anJzvdxvii5M9bScOILWH"
+    },
+    {
+      "album": {
         "name": "Qui sait ? (feat. ElGrandeToto)",
         "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
       },
@@ -11711,6 +11839,24 @@
     },
     {
       "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/4yK8dTeMWt9AphJjkCZYFL"
+      },
+      "artists": [
+        {
+          "name": "Toobss",
+          "url": "https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157938,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/5rmFnhInKIZI9DqYmpk3FI"
+    },
+    {
+      "album": {
         "name": "Regen Dans",
         "url": "https://open.spotify.com/album/7zot3ylo8dvfYPuTCUQ47p"
       },
@@ -11780,7 +11926,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 144026,
       "name": "Rhythm & Blues",
       "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
@@ -12018,10 +12164,44 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+    },
+    {
+      "album": {
+        "name": "Schijt",
+        "url": "https://open.spotify.com/album/1uwe4RflGCrT3A0FuF228V"
+      },
+      "artists": [
+        {
+          "name": "Fraasie",
+          "url": "https://open.spotify.com/artist/1ZpVxyJ5H28OWw0iUOsV82"
+        },
+        {
+          "name": "Digitzz",
+          "url": "https://open.spotify.com/artist/4MCQBhrvHrufVxrKk5c5U3"
+        },
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Keizer",
+          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
+        },
+        {
+          "name": "Willie Wartaal",
+          "url": "https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156849,
+      "name": "Schijt",
+      "url": "https://open.spotify.com/track/7doMumJZEo17qcIMTPYyFk"
     },
     {
       "album": {
@@ -12486,7 +12666,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 163636,
       "name": "So Many",
       "url": "https://open.spotify.com/track/50T8Qf9KSXqQzK3HjIAfrD"
@@ -14159,6 +14339,24 @@
     },
     {
       "album": {
+        "name": "UN PREVIEW",
+        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165582,
+      "name": "UN PREVIEW",
+      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -14598,6 +14796,36 @@
       "duration_ms": 147804,
       "name": "VIP",
       "url": "https://open.spotify.com/track/6NCJTDAQsOErJGv7mhdvsB"
+    },
+    {
+      "album": {
+        "name": "Visnet!",
+        "url": "https://open.spotify.com/album/4vnGvacddZxoYLyrA227IV"
+      },
+      "artists": [
+        {
+          "name": "Sleazy Stereo",
+          "url": "https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i"
+        },
+        {
+          "name": "Jayh Owen",
+          "url": "https://open.spotify.com/artist/4hgkBqik8f6ZueCQEA5VG8"
+        },
+        {
+          "name": "Kinoh",
+          "url": "https://open.spotify.com/artist/2DL90GeChXppBBui74CXlp"
+        },
+        {
+          "name": "Willie",
+          "url": "https://open.spotify.com/artist/7Jz5nFU3C4b6ytZhgFgttO"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Visnet!",
+      "url": "https://open.spotify.com/track/2Rrv2XfhfT5zvTpf7KSQiA"
     },
     {
       "album": {

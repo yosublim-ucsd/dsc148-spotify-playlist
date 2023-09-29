@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,980 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,174 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 47 | [Bad Romance \- Skrillex Remix](https://open.spotify.com/track/3ipLg66ktOi3Ag0p26ZBbp) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Bad Romance Remixes](https://open.spotify.com/album/4d8Ltw4bT71vjo052hlzhY) | 4:23 |
 | 48 | [I'm Good \(Blue\) \- Gabry Ponte Remix](https://open.spotify.com/track/1Ic76JMsAbHdDscO9ooJm9) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [I'm Good \(Blue\) \[Gabry Ponte Remix\]](https://open.spotify.com/album/0yspiEXcvJqcTMScgu04gq) | 2:45 |
 | 49 | [This Is Me \- Dave Audé Remix; from "The Greatest Showman"](https://open.spotify.com/track/1NNhZKNrg8WVmU6Ok8TDtO) | [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [The Greatest Showman Ensemble](https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [This Is Me \(Dave Audé Remix; from "The Greatest Showman"\)](https://open.spotify.com/album/1bbOecKvywdyRfSBxKbbCO) | 3:36 |
-| 50 | [Thursday \- Nicky Romero Remix](https://open.spotify.com/track/7r4nPsLToVIPdsiEeZKF6Y) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Thursday \(Nicky Romero Remix\)](https://open.spotify.com/album/0PMD7JbA1zLWuiC4ikRYxR) | 3:37 |
+| 50 | [New \- Ryan Riback Remix](https://open.spotify.com/track/6bdZCqyQeoYp7AkdWK1eeb) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [New \(Ryan Riback Remix\)](https://open.spotify.com/album/7HjLbfxU3GXwWEanY6pXGj) | 3:26 |
 
-Snapshot ID: `MCxiZWE5MTEwMDMwZTU2ODM3ZjgzNDJkZjRiMmJmM2Q0NDNjYjgyZjE5`
+Snapshot ID: `MCxlZWI5NDViZjAzMWIxNDk2OWNmZGRmM2MxZDM0N2M2ZGNiZWFiZDg0`

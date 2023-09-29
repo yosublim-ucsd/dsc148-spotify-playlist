@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Aqua",
-  "num_followers": 3443190,
+  "num_followers": 3443400,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTI4MThjMThkZDczYmZlMGUyN2I2N2E0ZTE0M2Q3ZjVmMmJhOGRi",
+  "snapshot_id": "MCxiMzMzODg1NGY3OTVkMjE4Yjc5M2VhYzc2NWNjOGFjZTAwYmY4OTg3",
   "tracks": [
     {
       "added_at": "2023-09-03 13:51:50",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
-    },
-    {
-      "added_at": "2023-09-03 13:51:50",
-      "album": {
         "name": "Summertime Sadness (Imanbek Remix)",
         "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 265997,
       "name": "Summertime - Imanbek Remix",
       "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
+    },
+    {
+      "added_at": "2023-09-03 13:51:50",
+      "album": {
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
     },
     {
       "added_at": "2023-09-03 13:51:50",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
+        "name": "Can't Tame Her (The Remixes)",
+        "url": "https://open.spotify.com/album/7F64hNuIf5LtqXCkRJrS90"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Can't Tame Her - VIZE Remix",
+      "url": "https://open.spotify.com/track/6oBuhfQSG0SSkcOPlEOavK"
+    },
+    {
+      "added_at": "2023-09-03 13:51:50",
+      "album": {
         "name": "Hallucination (Navos Remix)",
         "url": "https://open.spotify.com/album/0WKL2d7faG0lR3HLJuvT6v"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 150040,
       "name": "Hallucination - Navos Remix",
       "url": "https://open.spotify.com/track/5VrfQqPD5hymxVQzd5pkkw"
-    },
-    {
-      "added_at": "2023-09-03 13:51:50",
-      "album": {
-        "name": "Can't Tame Her (The Remixes)",
-        "url": "https://open.spotify.com/album/7F64hNuIf5LtqXCkRJrS90"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Can't Tame Her - VIZE Remix",
-      "url": "https://open.spotify.com/track/6oBuhfQSG0SSkcOPlEOavK"
     },
     {
       "added_at": "2023-09-03 13:51:50",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
+        "name": "TRUSTFALL (The Remixes)",
+        "url": "https://open.spotify.com/album/2P3cfwf0rwwG3xMZ4EMgP6"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "TRUSTFALL - Drove Remix",
+      "url": "https://open.spotify.com/track/0JylJPPllrXMwbogQGNOej"
+    },
+    {
+      "added_at": "2023-09-03 13:51:50",
+      "album": {
         "name": "Do It Like That (Jax Jones Remix)",
         "url": "https://open.spotify.com/album/3xUNr11OLl38k9aPZ5AzrA"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 295955,
       "name": "Do It Like That (Jax Jones Remix)",
       "url": "https://open.spotify.com/track/2FwNVwldrtc8454bYU5a9g"
-    },
-    {
-      "added_at": "2023-09-03 13:51:50",
-      "album": {
-        "name": "TRUSTFALL (The Remixes)",
-        "url": "https://open.spotify.com/album/2P3cfwf0rwwG3xMZ4EMgP6"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "TRUSTFALL - Drove Remix",
-      "url": "https://open.spotify.com/track/0JylJPPllrXMwbogQGNOej"
     },
     {
       "added_at": "2023-09-03 13:51:50",

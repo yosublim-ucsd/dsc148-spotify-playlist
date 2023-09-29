@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 
 > Kids music from Disney, CoComelon, Nickelodeon, and more! Find new tracks and familiar favorites on this kids music playlist, and check back each week for more!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 85,321 likes - 50 songs - 1 hr 53 min
+[Digster](https://open.spotify.com/user/digster.fm) - 85,318 likes - 50 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PAW Patrol Opening Theme](https://open.spotify.com/track/2bTc3HglsgQ8kbn1dUeo1M) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 0:40 |
 | 2 | [Shine On Me](https://open.spotify.com/track/7rFt04VwtHIJYsMtZIvzR0) | [The Really Loud House](https://open.spotify.com/artist/4GQWweaax2iFP1JIAyKY3R) | [The Really Loud House](https://open.spotify.com/album/2R5S0SC8YJI5z2Ml5MvUfP) | 1:16 |
-| 3 | [Supernatural](https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Songs From The Hit Show \- Season One: Extra Seasoning](https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq) | 3:06 |
+| 3 | [Supernatural](https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w), [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Songs From The Hit Show \- Season One: Extra Seasoning](https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq) | 3:06 |
 | 4 | [I'll Be There For You](https://open.spotify.com/track/1w53zkwg5wHOCe9tPDDeNT) | [Rock and Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [I’ll Be There For You](https://open.spotify.com/album/69rfMbaHB59BMmQKglW5C0) | 2:59 |
 | 5 | [Teenage Mutant Ninja Turtles Theme \- Remastered 2023](https://open.spotify.com/track/44VMNcXG5eAPK1IV7MqBYj) | [Teenage Mutant Ninja Turtles](https://open.spotify.com/artist/22VxLUFi6QDNZ24uB4Qk8d) | [Teenage Mutant Ninja Turtles Theme \(Remastered 2023\)](https://open.spotify.com/album/04MLszTuJs4uX5dOwgOZfH) | 0:59 |
 | 6 | [Gimme the Wand](https://open.spotify.com/track/1pmzpe09y4xEw6tTUuKdF6) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65) | [Fairly Odd Bops Vol\. 2](https://open.spotify.com/album/5O3SeuLweSVHp0PvK1566G) | 2:21 |

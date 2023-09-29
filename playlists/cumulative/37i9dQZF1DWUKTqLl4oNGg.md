@@ -4,7 +4,7 @@
 
 > A few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.
 
-82 songs - 4 hr 47 min
+84 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Desperados Under the Eaves](https://open.spotify.com/track/6PAGJfVrbxdIhIJmbsDLim) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Warren Zevon](https://open.spotify.com/album/5wY8fZoi9eFh3WMjLcHFps) | 4:47 | 2019-12-05 |  |
 | [Different Drum](https://open.spotify.com/track/3k63RLvRgkgPGx0keOH3P6) | [Stone Poneys](https://open.spotify.com/artist/2X9nnux4eS3CFBDSjcnoBQ), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Evergreen, Vol.2](https://open.spotify.com/album/2FrEXjdS2mZO6sx6pA5MbY) | 2:39 | 2019-12-05 |  |
 | [Dixie Chicken](https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Dixie Chicken](https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF) | 3:59 | 2019-12-05 |  |
-| [Doctor My Eyes](https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:19 | 2019-12-05 |  |
+| [Doctor My Eyes](https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:19 | 2019-12-05 | 2023-09-29 |
+| [Doctor My Eyes \- 1997 Remaster](https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Next Voice You Hear \- The Best Of Jackson Browne](https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu) | 3:19 | 2023-03-09 |  |
 | [Down by the River \- 2009 Remaster](https://open.spotify.com/track/2EFtUP7BmsjHzhQqI6A4rp) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Everybody Knows This Is Nowhere](https://open.spotify.com/album/70Yl2w1p00whfnC7fj94ox) | 9:18 | 2019-12-05 | 2023-02-08 |
 | [Everybody's Talkin' \- From "Midnight Cowboy"](https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Aerial Ballet](https://open.spotify.com/album/0H3v4snD6xhworsjXndsai) | 2:43 | 2023-02-07 |  |
 | [Everybody’s Gotta Live](https://open.spotify.com/track/1Og2Qi5XwYdr0YI6rn79Zb) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel To Real](https://open.spotify.com/album/5fhrpFxoThV3rhboaG1PzC) | 3:24 | 2023-02-07 | 2023-04-29 |
@@ -45,7 +46,8 @@
 | [I Just Wasn't Made For These Times \- Mono / Remastered](https://open.spotify.com/track/4CuO8TINNqM3D7aUdNQ3zG) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix Versions\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 3:15 | 2019-12-05 | 2023-02-08 |
 | [In My Room \- Remastered](https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:14 | 2019-12-05 |  |
 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 | 2023-02-07 |  |
-| [Jamaica Say You Will](https://open.spotify.com/track/0RwqThYUfPkAi71H2j63As) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:23 | 2019-12-05 |  |
+| [Jamaica Say You Will](https://open.spotify.com/track/0RwqThYUfPkAi71H2j63As) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:23 | 2019-12-05 | 2023-09-29 |
+| [Jamaica Say You Will \- Remastered](https://open.spotify.com/track/4GQ2MFqUKEzzmng6TNMNV5) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Remastered\)](https://open.spotify.com/album/3nwxyKw4JYWY99B7DPn82X) | 3:25 | 2023-03-09 |  |
 | [Jesus in 3/4 Time](https://open.spotify.com/track/62zvmUQ6zmZKH6jEYvz7cE) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [John David Souther](https://open.spotify.com/album/5pw5GDqCQjkfc6LctnfQKX) | 3:38 | 2019-12-05 |  |
 | [Kite Woman](https://open.spotify.com/track/3OLcz4dQuohRRsJqLS2iXw) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [John David Souther](https://open.spotify.com/album/5pw5GDqCQjkfc6LctnfQKX) | 3:06 | 2019-12-05 |  |
 | [Kite Woman](https://open.spotify.com/track/4Z0aLq8K9YEvXssrfcVpd2) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [Rhino Hi\-Five: J.D\. Souther](https://open.spotify.com/album/4Rq6anggo36B53PflhdgmV) | 3:06 | 2019-12-05 | 2022-09-03 |

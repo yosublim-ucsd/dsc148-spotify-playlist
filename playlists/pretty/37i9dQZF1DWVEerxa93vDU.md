@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 
 > Relaxing and soft piano, to get those chill sunday morning vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,436 likes - 210 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,427 likes - 210 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 | 209 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
 | 210 | [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 |
 
-Snapshot ID: `MCwwZTFjOTQ1MjZhYTVlMWQ5M2Q4MDMwY2FmOGJmNzQyNTkzMWYxYjll`
+Snapshot ID: `MCwwYWNhZDA1OTNkMDQzMDk1MTUxZmI3NTg1YjE2ZGJhNTkzMzg4ZjYz`

@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1529062,
+  "num_followers": 1529333,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTM1ZTViNjVhNTg5ODBjM2M5YTUwY2ZjYTJhMjdlNDMwNzI1NGZk",
+  "snapshot_id": "MCw1YjlkZTE3YTY3NmUwYWVkZDhhOTkxNDE5NWZhYTAyMWM0YTc3ZjUy",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Echoes Of Life: Night",
-        "url": "https://open.spotify.com/album/3XARakl3JkVizUCWSFG0wY"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7Ib1fj8HnRmi9WRBpDK6ie"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Desire (with Sam Smith) [Cedric Gervais Remixes]",
         "url": "https://open.spotify.com/album/7zxqQLnexgfdIdtfDWDGIx"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 259351,
       "name": "Desire (with Sam Smith) - Cedric Gervais Festival Mix",
       "url": "https://open.spotify.com/track/4E03xcSx0FZOfzEeTdcmRc"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Echoes Of Life: Night",
+        "url": "https://open.spotify.com/album/3XARakl3JkVizUCWSFG0wY"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7Ib1fj8HnRmi9WRBpDK6ie"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Slipstream (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 252073,
+      "name": "Slipstream (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
       },
@@ -1183,26 +1203,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Slipstream (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 252073,
-      "name": "Slipstream (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
       },
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "About Us (feat. EMME)",
-        "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
-        }
-      ],
-      "duration_ms": 286520,
-      "name": "About Us (feat. EMME)",
-      "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Twisted Reality (Edit)",
         "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
       },
@@ -1307,18 +1287,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The Return (Edit)",
-        "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
+        "name": "About Us (feat. EMME)",
+        "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
       },
       "artists": [
         {
-          "name": "Pryda",
-          "url": "https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
         }
       ],
-      "duration_ms": 232380,
-      "name": "The Return - Edit",
-      "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
+      "duration_ms": 286520,
+      "name": "About Us (feat. EMME)",
+      "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1347,26 +1331,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "This Feeling (Yotto Remix)",
-        "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
+        "name": "The Return (Edit)",
+        "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Pryda",
+          "url": "https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt"
         }
       ],
-      "duration_ms": 236078,
-      "name": "This Feeling - Yotto Remix",
-      "url": "https://open.spotify.com/track/5fZVPAWdFrPmqFZ4eZPjob"
+      "duration_ms": 232380,
+      "name": "The Return - Edit",
+      "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1387,6 +1363,30 @@
       "duration_ms": 340114,
       "name": "Hypnotised",
       "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "This Feeling (Yotto Remix)",
+        "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 236078,
+      "name": "This Feeling - Yotto Remix",
+      "url": "https://open.spotify.com/track/5fZVPAWdFrPmqFZ4eZPjob"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1515,30 +1515,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Greece 2000",
-        "url": "https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Three Drives",
-          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
-        },
-        {
-          "name": "Three Drives On A Vinyl",
-          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
-        }
-      ],
-      "duration_ms": 207334,
-      "name": "Greece 2000",
-      "url": "https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD"
       },
@@ -1599,18 +1575,50 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Affirmations",
-        "url": "https://open.spotify.com/album/7fLkWAvOwyWLPQDytTukiJ"
+        "name": "Greece 2000",
+        "url": "https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV"
       },
       "artists": [
         {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        },
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3umVRp5FJtkvh6VUZpra8C"
+      "duration_ms": 207334,
+      "name": "Greece 2000",
+      "url": "https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "To the Sea",
+        "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 452000,
+      "name": "To the Sea - Einmusik Remix",
+      "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1639,26 +1647,34 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "To the Sea",
-        "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
+        "name": "Affirmations",
+        "url": "https://open.spotify.com/album/7fLkWAvOwyWLPQDytTukiJ"
       },
       "artists": [
         {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        },
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        },
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
         }
       ],
-      "duration_ms": 452000,
-      "name": "To the Sea - Einmusik Remix",
-      "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
+      "duration_ms": 165000,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3umVRp5FJtkvh6VUZpra8C"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/7os08OWk7r3JfGw78VXMNh"
+      },
+      "artists": [
+        {
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
+        }
+      ],
+      "duration_ms": 147360,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/1lY2Uhz2R15ks7kqDc0tGD"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1699,42 +1715,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Take Me Up",
-        "url": "https://open.spotify.com/album/7os08OWk7r3JfGw78VXMNh"
-      },
-      "artists": [
-        {
-          "name": "PALASTIC",
-          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
-        }
-      ],
-      "duration_ms": 147360,
-      "name": "Take Me Up",
-      "url": "https://open.spotify.com/track/1lY2Uhz2R15ks7kqDc0tGD"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Alok Club Series 2023",
-        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "2 Much 2 Handle",
-      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
       },
@@ -1759,6 +1739,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Alok Club Series 2023",
+        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "2 Much 2 Handle",
+      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Hard To Breathe (feat. Hannah Boleyn)",
         "url": "https://open.spotify.com/album/7vGQzOXzYfLoEIkiZ26QXQ"
       },
@@ -1779,18 +1779,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
       "artists": [
         {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
         }
       ],
-      "duration_ms": 245881,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1819,22 +1823,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "You Take My Hand",
-        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
         }
       ],
-      "duration_ms": 315861,
-      "name": "You Take My Hand",
-      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+      "duration_ms": 245881,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Elamy",
-        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Elamy",
-      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Take Me High",
         "url": "https://open.spotify.com/album/3SYUZxNBcktJzhWlDHUCcU"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 162290,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/7vQP0yjr0b7PxTIGmQhGNB"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Elamy",
+        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Elamy",
+      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
     },
     {
       "added_at": "2023-09-22 04:00:00",

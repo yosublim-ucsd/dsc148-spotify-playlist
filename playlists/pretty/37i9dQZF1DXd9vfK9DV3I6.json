@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 282965,
+  "num_followers": 283117,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTNmZjlkY2FkM2U1M2FhZjViYzdhOGFkMWViNmI0NmIzMDBmNGE1",
+  "snapshot_id": "MCwzM2E0YzY1YzMwMWZjMzUzZDljMGM4ZTY2YzMwNmMzY2UxYmM5NjQ5",
   "tracks": [
     {
       "added_at": "2023-09-21 19:29:17",
@@ -263,6 +263,26 @@
     {
       "added_at": "2023-09-21 19:29:17",
       "album": {
+        "name": "Schhh",
+        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 185689,
+      "name": "Schhh",
+      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
+    },
+    {
+      "added_at": "2023-09-21 19:29:17",
+      "album": {
         "name": "Desert Rose",
         "url": "https://open.spotify.com/album/6GqDLlWydXny5lk8E7OpOP"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 157165,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/3g1bjrdnhYss63z1V6NRYX"
-    },
-    {
-      "added_at": "2023-09-21 19:29:17",
-      "album": {
-        "name": "Schhh",
-        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 185689,
-      "name": "Schhh",
-      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
     },
     {
       "added_at": "2023-09-21 19:29:17",
@@ -899,6 +899,26 @@
     {
       "added_at": "2023-09-21 19:29:17",
       "album": {
+        "name": "Il Mattino",
+        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
+      },
+      "artists": [
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+        }
+      ],
+      "duration_ms": 331206,
+      "name": "Il Mattino",
+      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
+    },
+    {
+      "added_at": "2023-09-21 19:29:17",
+      "album": {
         "name": "Deep Anatolia",
         "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
       },
@@ -919,22 +939,18 @@
     {
       "added_at": "2023-09-21 19:29:17",
       "album": {
-        "name": "Il Mattino",
-        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
+        "name": "Escuro",
+        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
       },
       "artists": [
         {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+          "name": "Cut Off",
+          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
         }
       ],
-      "duration_ms": 331206,
-      "name": "Il Mattino",
-      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
+      "duration_ms": 285913,
+      "name": "Escuro",
+      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
     },
     {
       "added_at": "2023-09-21 19:29:17",
@@ -959,22 +975,6 @@
       "duration_ms": 97636,
       "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
       "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
-    },
-    {
-      "added_at": "2023-09-21 19:29:17",
-      "album": {
-        "name": "Escuro",
-        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
-      },
-      "artists": [
-        {
-          "name": "Cut Off",
-          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
-        }
-      ],
-      "duration_ms": 285913,
-      "name": "Escuro",
-      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
     },
     {
       "added_at": "2023-09-21 19:29:17",
@@ -1139,26 +1139,6 @@
       "duration_ms": 430769,
       "name": "Anlar",
       "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
-    },
-    {
-      "added_at": "2023-09-21 19:29:17",
-      "album": {
-        "name": "Che Danestam (Seventh Soul Remix)",
-        "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
-      },
-      "artists": [
-        {
-          "name": "Homayoun Shajarian",
-          "url": "https://open.spotify.com/artist/5Uj3HYkiz1cn32IPHMqhOy"
-        },
-        {
-          "name": "Seventh Soul",
-          "url": "https://open.spotify.com/artist/7JfGGDKGTmy0JyjawXv0F6"
-        }
-      ],
-      "duration_ms": 506666,
-      "name": "Che Danestam - Seventh Soul Remix",
-      "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
     },
     {
       "added_at": "2023-09-21 19:29:17",
@@ -1591,22 +1571,6 @@
     {
       "added_at": "2023-09-21 19:29:17",
       "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
-      },
-      "artists": [
-        {
-          "name": "Safar (FR)",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
-    },
-    {
-      "added_at": "2023-09-21 19:29:17",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye"
       },
@@ -1631,6 +1595,22 @@
       "duration_ms": 452950,
       "name": "Mosaic - Yohan & David Remix",
       "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
+    },
+    {
+      "added_at": "2023-09-21 19:29:17",
+      "album": {
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "added_at": "2023-09-21 19:29:17",
@@ -1675,22 +1655,6 @@
     {
       "added_at": "2023-09-21 19:29:17",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 213737,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
-    },
-    {
-      "added_at": "2023-09-21 19:29:17",
-      "album": {
         "name": "Hebele Hubulu & Belantash",
         "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
       },
@@ -1703,6 +1667,22 @@
       "duration_ms": 484644,
       "name": "Hebele Hubulu",
       "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
+    },
+    {
+      "added_at": "2023-09-21 19:29:17",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 213737,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
     },
     {
       "added_at": "2023-09-21 19:29:17",
@@ -1727,30 +1707,6 @@
       "duration_ms": 273502,
       "name": "Rhim - Jad Halal Remix",
       "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
-    },
-    {
-      "added_at": "2023-09-21 19:29:17",
-      "album": {
-        "name": "El Hawa",
-        "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        },
-        {
-          "name": "Hayam Mansour",
-          "url": "https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6"
-        }
-      ],
-      "duration_ms": 347855,
-      "name": "El Hawa",
-      "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
     },
     {
       "added_at": "2023-09-21 19:29:17",
@@ -1791,6 +1747,30 @@
     {
       "added_at": "2023-09-21 19:29:17",
       "album": {
+        "name": "El Hawa",
+        "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        },
+        {
+          "name": "Hayam Mansour",
+          "url": "https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6"
+        }
+      ],
+      "duration_ms": 347855,
+      "name": "El Hawa",
+      "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
+    },
+    {
+      "added_at": "2023-09-21 19:29:17",
+      "album": {
         "name": "Ilios",
         "url": "https://open.spotify.com/album/0dn8zaFhDYjDuqOKGhr0Kw"
       },
@@ -1815,26 +1795,6 @@
       "duration_ms": 374857,
       "name": "Ilios",
       "url": "https://open.spotify.com/track/2IUWM1lWpUQU6zCxlHx8Kw"
-    },
-    {
-      "added_at": "2023-09-21 19:29:17",
-      "album": {
-        "name": "Angelic",
-        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
-      },
-      "artists": [
-        {
-          "name": "Nick Saley",
-          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
-        },
-        {
-          "name": "Ikonnya",
-          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
-        }
-      ],
-      "duration_ms": 269378,
-      "name": "Angelic",
-      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
     },
     {
       "added_at": "2023-09-21 19:29:17",
@@ -1875,18 +1835,22 @@
     {
       "added_at": "2023-09-21 19:29:17",
       "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
+        "name": "Angelic",
+        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
       },
       "artists": [
         {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+          "name": "Nick Saley",
+          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
+        },
+        {
+          "name": "Ikonnya",
+          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Mosaic",
-      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
+      "duration_ms": 269378,
+      "name": "Angelic",
+      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
     },
     {
       "added_at": "2023-09-21 19:29:17",
@@ -1903,6 +1867,42 @@
       "duration_ms": 184421,
       "name": "Free",
       "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
+    },
+    {
+      "added_at": "2023-09-21 19:29:17",
+      "album": {
+        "name": "MIRAN",
+        "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
+      },
+      "artists": [
+        {
+          "name": "Sinan Yalcin",
+          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
+        },
+        {
+          "name": "Roni Violinist",
+          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
+        }
+      ],
+      "duration_ms": 129145,
+      "name": "MIRAN",
+      "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
+    },
+    {
+      "added_at": "2023-09-21 19:29:17",
+      "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Mosaic",
+      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
     },
     {
       "added_at": "2023-09-21 19:29:17",

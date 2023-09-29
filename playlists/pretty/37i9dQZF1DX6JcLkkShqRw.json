@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con Cris Mj & DJ Tao.",
-  "num_followers": 313601,
+  "num_followers": 313851,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2FmZDdiMGQ0NzcwNjZjNzc3ZTE1NzQzYzlmN2JmNTIzOTdmMmQz",
+  "snapshot_id": "MCxjMDU0MjJkMDE0ZDZmNDVkNzNiMWMwYTM2ZDU0NjI1NTY3OGY3ZWNj",
   "tracks": [
     {
       "added_at": "2023-09-26 13:14:46",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-09-26 13:14:46",
       "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 186096,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
+    },
+    {
+      "added_at": "2023-09-26 13:14:46",
+      "album": {
         "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
         "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 260000,
       "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
       "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
-    },
-    {
-      "added_at": "2023-09-26 13:14:46",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 186096,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
     },
     {
       "added_at": "2023-09-26 13:14:46",
@@ -471,26 +471,6 @@
     {
       "added_at": "2023-09-26 13:14:46",
       "album": {
-        "name": "XQ TAN SOLA?",
-        "url": "https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 200073,
-      "name": "XQ TAN SOLA?",
-      "url": "https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi"
-    },
-    {
-      "added_at": "2023-09-26 13:14:46",
-      "album": {
         "name": "Mini Mini",
         "url": "https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 197663,
       "name": "Mini Mini",
       "url": "https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3"
+    },
+    {
+      "added_at": "2023-09-26 13:14:46",
+      "album": {
+        "name": "XQ TAN SOLA?",
+        "url": "https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 200073,
+      "name": "XQ TAN SOLA?",
+      "url": "https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi"
     },
     {
       "added_at": "2023-09-26 13:14:46",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-09-26 13:14:46",
       "album": {
+        "name": "Nota",
+        "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 159482,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
+    },
+    {
+      "added_at": "2023-09-26 13:14:46",
+      "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 176470,
       "name": "BABY OTAKU",
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
-    },
-    {
-      "added_at": "2023-09-26 13:14:46",
-      "album": {
-        "name": "Nota",
-        "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 159482,
-      "name": "Nota",
-      "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
     },
     {
       "added_at": "2023-09-26 13:14:46",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2023-09-26 13:14:46",
       "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3KFx3Wq5uUF763v3y0CoFn"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        },
+        {
+          "name": "Red Fingers",
+          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/7JEXEuuEQ7qDTW1DAOpFCz"
+    },
+    {
+      "added_at": "2023-09-26 13:14:46",
+      "album": {
         "name": "No Estoy",
         "url": "https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL"
       },
@@ -1647,46 +1667,6 @@
       "duration_ms": 106095,
       "name": "TOI HECHO",
       "url": "https://open.spotify.com/track/1qjb7lJPQ4oxQ3kSeZYXlt"
-    },
-    {
-      "added_at": "2023-09-26 13:14:46",
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3KFx3Wq5uUF763v3y0CoFn"
-      },
-      "artists": [
-        {
-          "name": "STRANGEHUMAN",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
-        },
-        {
-          "name": "Red Fingers",
-          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/7JEXEuuEQ7qDTW1DAOpFCz"
-    },
-    {
-      "added_at": "2023-09-26 13:14:46",
-      "album": {
-        "name": "No Soy Cualquier Ex",
-        "url": "https://open.spotify.com/album/41uKThpB0MdAR7Xm78ofML"
-      },
-      "artists": [
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Best",
-          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
-        }
-      ],
-      "duration_ms": 150326,
-      "name": "No Soy Cualquier Ex",
-      "url": "https://open.spotify.com/track/25vSSr6p4EMxgmcjQhP2rh"
     },
     {
       "added_at": "2023-09-26 13:14:46",
@@ -1735,6 +1715,26 @@
     {
       "added_at": "2023-09-26 13:14:46",
       "album": {
+        "name": "No Soy Cualquier Ex",
+        "url": "https://open.spotify.com/album/41uKThpB0MdAR7Xm78ofML"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "duration_ms": 150326,
+      "name": "No Soy Cualquier Ex",
+      "url": "https://open.spotify.com/track/25vSSr6p4EMxgmcjQhP2rh"
+    },
+    {
+      "added_at": "2023-09-26 13:14:46",
+      "album": {
         "name": "DISCOTEKA",
         "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
       },
@@ -1775,30 +1775,6 @@
     {
       "added_at": "2023-09-26 13:14:46",
       "album": {
-        "name": "RICKY RICON",
-        "url": "https://open.spotify.com/album/2TBtnMTQ5WPxMBtCiNc1f5"
-      },
-      "artists": [
-        {
-          "name": "Aqua VS",
-          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
-        },
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Lewis Somes",
-          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
-        }
-      ],
-      "duration_ms": 127200,
-      "name": "RICKY RICON",
-      "url": "https://open.spotify.com/track/5iPk6ylNdN0Rw8bMtQzIgh"
-    },
-    {
-      "added_at": "2023-09-26 13:14:46",
-      "album": {
         "name": "Los Diablotes",
         "url": "https://open.spotify.com/album/62jXkO0N4afVBqtlW1G166"
       },
@@ -1835,6 +1811,30 @@
       "duration_ms": 265527,
       "name": "Ay\u00fadame a Imaginar",
       "url": "https://open.spotify.com/track/0wzC02iW7IaqAASCgDR2Qs"
+    },
+    {
+      "added_at": "2023-09-26 13:14:46",
+      "album": {
+        "name": "RICKY RICON",
+        "url": "https://open.spotify.com/album/2TBtnMTQ5WPxMBtCiNc1f5"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "RICKY RICON",
+      "url": "https://open.spotify.com/track/5iPk6ylNdN0Rw8bMtQzIgh"
     },
     {
       "added_at": "2023-09-26 13:14:46",
@@ -1995,34 +1995,6 @@
     {
       "added_at": "2023-09-26 13:14:46",
       "album": {
-        "name": "Glocko",
-        "url": "https://open.spotify.com/album/7sBFofbqWdbYEe5SDv7X1b"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        },
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        },
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Izahn",
-          "url": "https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk"
-        }
-      ],
-      "duration_ms": 192043,
-      "name": "Glocko",
-      "url": "https://open.spotify.com/track/0zvrARWIZQD5M4WWH8mhsX"
-    },
-    {
-      "added_at": "2023-09-26 13:14:46",
-      "album": {
         "name": "Morena Cachetona (Remix)",
         "url": "https://open.spotify.com/album/0C8TTlq6vhpaJeJWez7CHv"
       },
@@ -2063,6 +2035,34 @@
       "duration_ms": 321941,
       "name": "Morena Cachetona - Remix",
       "url": "https://open.spotify.com/track/5MAroDmYxsLi4MtSEwo9wR"
+    },
+    {
+      "added_at": "2023-09-26 13:14:46",
+      "album": {
+        "name": "Glocko",
+        "url": "https://open.spotify.com/album/7sBFofbqWdbYEe5SDv7X1b"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Izahn",
+          "url": "https://open.spotify.com/artist/0kqEGkfZl82GmTSR6jVCSk"
+        }
+      ],
+      "duration_ms": 192043,
+      "name": "Glocko",
+      "url": "https://open.spotify.com/track/0zvrARWIZQD5M4WWH8mhsX"
     },
     {
       "added_at": "2023-09-26 13:14:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,042 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,437 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 47 | [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 |
 | 48 | [1x1](https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1](https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2) | 2:19 |
 | 49 | [LIGHTWAVES](https://open.spotify.com/track/46JbXTR6VNrnnoJJAsn6gN) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LIGHTWAVES](https://open.spotify.com/album/1JhkARu8eNtzhsxCNwjnte) | 2:21 |
-| 50 | [Rock My Body \(with INNA\) \[Sam Feldt Remix\]](https://open.spotify.com/track/7iLximGIlwAFgB5J7KG7pJ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Rock My Body \(with INNA\) \[Sam Feldt Remix\]](https://open.spotify.com/album/5AD2PA4Cef5qsJZGsyj0xZ) | 2:49 |
+| 50 | [Voyage Voyage](https://open.spotify.com/track/5ylF9jv5gKpPNXuhAuBwol) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Voyage Voyage](https://open.spotify.com/album/6DEDaISN74TGnW8nZfGHAY) | 2:24 |
 
-Snapshot ID: `MCwzN2U2N2RkMzFmOGQ1YTFjYTdkMjNhMWQ3M2U2OTgzOWM4ZGIwODlj`
+Snapshot ID: `MCxlMmNjZDcwZWRjYTE3OWRmNzdjZjczNWFkNzI5MjkxYWEwNDM1Nzdj`

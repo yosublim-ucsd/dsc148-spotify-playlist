@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 8498,
+  "num_followers": 8508,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmY0ZTU2NjQzMDA5ZjJlZGRkYzRkMjFlZTVhY2Y5YzkxMjJjZWMz",
+  "snapshot_id": "MCw0YjAwYTc5ZTNhZjU3YzU0ODQ5ZmJjNGY0ZWFhNDQzODNjNjc3Zjc1",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -359,6 +359,38 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA"
+      },
+      "artists": [
+        {
+          "name": "Darrell Evans",
+          "url": "https://open.spotify.com/artist/049i3NJRKyn0tQPNTwrKYO"
+        }
+      ],
+      "duration_ms": 361173,
+      "name": "Trading My Sorrows (Yes Lord)",
+      "url": "https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "A Week Away (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
       },
@@ -395,38 +427,6 @@
       "duration_ms": 222765,
       "name": "The Great Adventure",
       "url": "https://open.spotify.com/track/3Qpx3cHP6XMmf8comtpjkT"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA"
-      },
-      "artists": [
-        {
-          "name": "Darrell Evans",
-          "url": "https://open.spotify.com/artist/049i3NJRKyn0tQPNTwrKYO"
-        }
-      ],
-      "duration_ms": 361173,
-      "name": "Trading My Sorrows (Yes Lord)",
-      "url": "https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC"
     },
     {
       "added_at": "2021-06-29 13:36:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Zé Neto & Cristiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,562,083 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,564,137 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Beijo de Glicose \- Ao Vivo](https://open.spotify.com/track/6gyhp7IcNhTYzwlk8utsgP) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Beijo de Glicose \(Ao Vivo\)](https://open.spotify.com/album/6Y3F7RFN8cOh7ewKiyn2rC) | 2:51 |
 | 50 | [Haja Colírio \(feat\. Hugo & Guilherme\) \- Ao Vivo](https://open.spotify.com/track/1ELsaYdj2NlxLvkx9g24xZ) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Haja Colírio \(feat\. Hugo & Guilherme\) \[Ao Vivo\]](https://open.spotify.com/album/0pmNWSBnKRJOKnmpTaatCU) | 2:53 |
 
-Snapshot ID: `MCw1MjEzZmM5YzY5ODhlN2FmMjU2ZTZmODI4MDcwN2M4ZjUyMjM2ODMw`
+Snapshot ID: `MCwyZWY1MzlkZjM0Y2I5NDc4ZTI5MTAyM2JlOTMxZTAyMGUwODE5MDU2`

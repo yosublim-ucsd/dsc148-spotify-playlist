@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-597 songs - 1 day 19 hr 15 min
+598 songs - 1 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Arabesque Breakin' Suite \- Live at Jam PDM](https://open.spotify.com/track/1DZrA46ffYRT7tplL5kk99) | [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [Arabesque Breakin' Suite \(Live at Jam PDM\)](https://open.spotify.com/album/1qgkuxxjPDX4k7VzGnWhz1) | 3:04 | 2021-10-06 | 2022-07-05 |
 | [Aruenda](https://open.spotify.com/track/5QVFbvZjqNFT8gpQEKCqey) | [Zuco 103](https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA) | [Telenova](https://open.spotify.com/album/6G5bsMmEOoqAfaJleAMcRn) | 3:20 | 2023-05-22 |  |
 | [Ascensión](https://open.spotify.com/track/0HddcExCVtmIDJmrU811VC) | [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Ascensión](https://open.spotify.com/album/13SKT7r4ye3ndcOFOzB19p) | 3:22 | 2022-06-08 | 2022-07-28 |
+| [Ascensión](https://open.spotify.com/track/35o92ikbXQApq9xBjLgbnV) | [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Dreaming In Four Dimensions](https://open.spotify.com/album/5YU3RcCFC9zjsK4cmvxNIj) | 3:22 | 2023-09-18 |  |
 | [Asiko \(In a Silent Mix\) \- Motor City Drum Ensemble Remix](https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Dekmantel 10 Years 10.2](https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF) | 7:23 | 2021-10-06 |  |
 | [Atlantic Oscillations](https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/3ZLy3uTgrCAw9pNNpoEUZE) | 5:51 | 2021-10-06 | 2022-07-29 |
 | [Atlantic Oscillations](https://open.spotify.com/track/4c0MBMraTqhHafXnATV1st) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/7m3CyxNH2qJ5COtYLC7PPp) | 5:51 | 2021-10-06 | 2022-09-02 |
@@ -596,7 +597,7 @@
 | [Yo No Me Voy](https://open.spotify.com/track/1e4BOTRjWDjsXIiWod2uPC) | [Wara](https://open.spotify.com/artist/0JsGzIgI4gPBcwc9I26xG6) | [Yo No Me Voy](https://open.spotify.com/album/5vIC2fk7FiQflYiBgcsyaA) | 3:55 | 2022-04-17 | 2022-04-21 |
 | [YOGA IN KARACHI](https://open.spotify.com/track/1zyTxC7CrrT39YSg6bCZET) | [C.A.R.](https://open.spotify.com/artist/4twUXuOT8MWkh7u53TX0si) | [Befunde ab 1999](https://open.spotify.com/album/7a4Kf2VYhvrby4IcTzJMnq) | 8:47 | 2021-10-06 | 2022-06-24 |
 | [Zarambe \- Afrolicious Remix](https://open.spotify.com/track/0Oga3F3Fs4bZGrfiwkuSLl) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI), [Afrolicious](https://open.spotify.com/artist/3KqifmMqcKiOWYzte5jZcF) | [Karimba Diabolic](https://open.spotify.com/album/1ZIUBvitQJ6WMfQvnHjjxU) | 4:58 | 2022-04-01 | 2022-04-12 |
-| [Zenzero](https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Zenzero](https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO) | 4:10 | 2023-05-22 |  |
+| [Zenzero](https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Zenzero](https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO) | 4:10 | 2023-05-22 | 2023-09-29 |
 | [Zorromi](https://open.spotify.com/track/6POQFiHPuoSsjRwDoEin2I) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz) | [NOUSSIN](https://open.spotify.com/album/2GTv9mrqZql1WAuSq4zAQH) | 3:54 | 2021-10-06 | 2022-07-29 |
 | [Água Benta](https://open.spotify.com/track/2UEjZl2dOHNWw3HPdJ9At5) | [Claudia Manzo](https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg), [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Água Benta](https://open.spotify.com/album/3hPAPkaEKfnP1d8sNqy1bp) | 3:08 | 2022-01-14 | 2022-04-20 |
 | [Ángeles y Demonios](https://open.spotify.com/track/6kHPDIt9xOz5BWux4W3lkg) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Ángeles y Demonios](https://open.spotify.com/album/2RNqqNCMsxHAlxQfnChDEk) | 2:59 | 2022-06-22 | 2022-08-10 |

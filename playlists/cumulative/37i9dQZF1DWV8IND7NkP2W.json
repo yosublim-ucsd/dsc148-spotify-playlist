@@ -278,7 +278,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 343133,
       "name": "A moving scenery",
       "url": "https://open.spotify.com/track/6VXtbmnkPAHlx9bdPppdiz"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 127595,
       "name": "afternoon shower",
       "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 171785,
       "name": "Another Dream",
       "url": "https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 133968,
       "name": "choppy",
       "url": "https://open.spotify.com/track/6NqmlKB9tFfCIPof1uVcbk"
@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 102400,
       "name": "Cry In The Gaze (about you)",
       "url": "https://open.spotify.com/track/0hNmUYwnK8VzUEKnzXyA5P"
@@ -2944,6 +2944,24 @@
       "duration_ms": 117918,
       "name": "Downtown Speaks",
       "url": "https://open.spotify.com/track/6rBm5wzBqERvxxrLFSSbIu"
+    },
+    {
+      "album": {
+        "name": "Downtown Vibes",
+        "url": "https://open.spotify.com/album/1MHQ6JN3onSFTQGtVDHwZc"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108501,
+      "name": "Downtown Vibes",
+      "url": "https://open.spotify.com/track/7tjY5ycGCBEdjKTgY6r8Xg"
     },
     {
       "album": {
@@ -4033,6 +4051,24 @@
     },
     {
       "album": {
+        "name": "Glassy Wave",
+        "url": "https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120097,
+      "name": "Glassy Wave",
+      "url": "https://open.spotify.com/track/5vb6yRMsWYwwggXq6hv2yE"
+    },
+    {
+      "album": {
         "name": "glow",
         "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
       },
@@ -4526,7 +4562,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 364693,
       "name": "Harukaze",
       "url": "https://open.spotify.com/track/4M9XmxpfF1QtUpZWpFwcez"
@@ -4740,7 +4776,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 168132,
       "name": "Hitori",
       "url": "https://open.spotify.com/track/5s7AVzpAFgbrM0sSAit9Cp"
@@ -6211,6 +6247,24 @@
     },
     {
       "album": {
+        "name": "lone flower",
+        "url": "https://open.spotify.com/album/4XY6wUHoHdEqYiInh1rZtB"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106153,
+      "name": "lone flower",
+      "url": "https://open.spotify.com/track/2rqZes0QBKISckUdaDjSIu"
+    },
+    {
+      "album": {
         "name": "Long Live the King (Instrumental)",
         "url": "https://open.spotify.com/album/0DxnngpwW0L4DctzLXCSBf"
       },
@@ -6356,7 +6410,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 118437,
       "name": "Magic Hour",
       "url": "https://open.spotify.com/track/5zAq8jojZcRqmhqXYCiKZd"
@@ -6530,7 +6584,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 115794,
       "name": "Mellow Air",
       "url": "https://open.spotify.com/track/6TeII7M0IgFhgq7rDTbrOR"
@@ -7116,7 +7170,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 201842,
       "name": "MORAL",
       "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
@@ -10276,7 +10330,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 136426,
       "name": "SPICA",
       "url": "https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6"
@@ -10298,7 +10352,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 417506,
       "name": "Spiritual State",
       "url": "https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt"
@@ -11426,6 +11480,24 @@
       "duration_ms": 214000,
       "name": "Toucan",
       "url": "https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT"
+    },
+    {
+      "album": {
+        "name": "touch",
+        "url": "https://open.spotify.com/album/6c8K3yA92WDlMN6WguocxP"
+      },
+      "artists": [
+        {
+          "name": "Bayek",
+          "url": "https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88307,
+      "name": "touch",
+      "url": "https://open.spotify.com/track/1tZt5VNrrJBjld65OiZGKc"
     },
     {
       "album": {

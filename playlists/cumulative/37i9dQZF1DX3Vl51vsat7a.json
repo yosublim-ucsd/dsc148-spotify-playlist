@@ -2075,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "In My Novaa",
+        "url": "https://open.spotify.com/album/6vEMutP9WTvE9vC5oxhH2a"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256875,
+      "name": "In My Novaa",
+      "url": "https://open.spotify.com/track/0BWgnfDV4o5PPQMhcKfrzH"
+    },
+    {
+      "album": {
         "name": "Incredibly Annoying",
         "url": "https://open.spotify.com/album/2EHzdOCliBlaKJWTJ7A8li"
       },
@@ -2499,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "MAXIMUM RIZZ",
+        "url": "https://open.spotify.com/album/6NB2r3HWlI3qKrVk69giA9"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147960,
+      "name": "MAXIMUM RIZZ",
+      "url": "https://open.spotify.com/track/2f90oF6hNsvRd2T7pDgNht"
+    },
+    {
+      "album": {
         "name": "megapunk (remixes)",
         "url": "https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs"
       },
@@ -2904,7 +2940,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 200756,
       "name": "Novaacation",
       "url": "https://open.spotify.com/track/6TO8fVn8D5jVyGOK7p1kjz"
@@ -3864,7 +3900,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 155670,
       "name": "Theater\u2605",
       "url": "https://open.spotify.com/track/0SGtCOR4G9fx9PQq9shKkw"

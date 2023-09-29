@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
 
-162 songs - 10 hr 50 min
+163 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Matwasouneesh](https://open.spotify.com/track/6s3phzT9lHW1viznchr3lu) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [Matwasouneesh](https://open.spotify.com/album/1kfpSqYp8c4zttZGgExC8z) | 4:42 | 2022-03-30 | 2022-08-23 |
 | [Mawal](https://open.spotify.com/track/13yJKMCV044A6WDfNQnL1K) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Mawal](https://open.spotify.com/album/5PWaUTA0ezATBmK2AnNJbe) | 2:49 | 2023-06-24 |  |
 | [Mawjou3 Galbi](https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Mawjou3 Galbi](https://open.spotify.com/album/450bx2egvP32rGdLekadr0) | 3:18 | 2022-03-30 | 2023-06-24 |
-| [Mbarka \- Original Mix](https://open.spotify.com/track/55uwSianyiBX7CAwPY5Jnf) | [Ismailovic](https://open.spotify.com/artist/4RB42AM4VqzdHRQiVbzDU1), [M.Ali](https://open.spotify.com/artist/2h1ioVI51vRKxXyhrCs6et) | [Mbarka \(Original Mix\)](https://open.spotify.com/album/0Dh2vSHSdz59MyhTt5Zuox) | 6:15 | 2023-08-04 |  |
+| [Mbarka](https://open.spotify.com/track/1Nb3n0i8SkrdHJmFZ8UvYo) | [Ismailovic](https://open.spotify.com/artist/7eafY5MVTDx6MZCKNRvkt8) | [Mbarka](https://open.spotify.com/album/0NDIU1tmuW2N794nt3yEBd) | 6:15 | 2023-09-13 |  |
+| [Mbarka \- Original Mix](https://open.spotify.com/track/55uwSianyiBX7CAwPY5Jnf) | [Ismailovic](https://open.spotify.com/artist/4RB42AM4VqzdHRQiVbzDU1), [M.Ali](https://open.spotify.com/artist/2h1ioVI51vRKxXyhrCs6et) | [Mbarka \(Original Mix\)](https://open.spotify.com/album/0Dh2vSHSdz59MyhTt5Zuox) | 6:15 | 2023-08-04 | 2023-09-29 |
 | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bosy](https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/album/3wYZey6tv0VrSgpYUkCLQs) | 3:42 | 2023-08-18 |  |
 | [Mn Alby Baghany](https://open.spotify.com/track/4zViTBjVXkd5eaUsSjrhHv) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:50 | 2022-03-30 | 2023-06-24 |
 | [Mogador](https://open.spotify.com/track/2FBUQ0rB58kVxpR1xicpJs) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Mogador](https://open.spotify.com/album/05yz2wpMI4wJiBwyj7fvQj) | 2:30 | 2023-03-02 | 2023-06-24 |

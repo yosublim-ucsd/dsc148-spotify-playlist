@@ -2,9 +2,9 @@
 
 ### [Front Left](https://open.spotify.com/playlist/37i9dQZF1DX5WTH49Vcnqp)
 
-> Music that's hard to define but easy to love\. Cover: Jean Dawson
+> Music that's hard to define but easy to love\. Cover: Oliver Tree
 
-1,088 songs - 2 day 13 hr 44 min
+1,093 songs - 2 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Breathe Deeper \- Lil Yachty Remix](https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Breathe Deeper \(Lil Yachty Remix\)](https://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04) | 4:48 | 2021-12-28 | 2022-01-25 |
 | [Brinner](https://open.spotify.com/track/53eThdE4SviUNz3CeIw7QM) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Breakfast for Dinner](https://open.spotify.com/album/6tCvXIIA6A6zmdtmCq1fiD) | 3:43 | 2022-10-11 | 2022-11-18 |
 | [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-03 | 2022-04-01 |
+| [Broken is the man](https://open.spotify.com/track/1RESSkMgG8z9IEPHdBZb43) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Broken is the man](https://open.spotify.com/album/4170VVyEuynNaB1J8ShIgP) | 2:12 | 2023-09-28 |  |
 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 | 2023-05-04 | 2023-05-19 |
 | [Bubblegum](https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 4:39 | 2023-08-03 | 2023-09-02 |
 | [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 | 2023-08-31 | 2023-09-22 |
@@ -645,6 +646,7 @@
 | [Monster Brain](https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h) | 3:37 | 2023-04-27 | 2023-09-08 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-23 | 2023-05-26 |
 | [More or Less](https://open.spotify.com/track/4wmr7p8BOxrtBxpsyi4nzO) | [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [More or Less](https://open.spotify.com/album/01908c4Yd6FzAyAuIMvPEc) | 2:57 | 2022-11-03 | 2022-11-18 |
+| [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 | 2023-09-28 |  |
 | [Motels](https://open.spotify.com/track/0ZRvakrMLFVzfvR48dvTix) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bar & Grill](https://open.spotify.com/album/3nY1adGXhrb5La2iZMpsJE) | 3:23 | 2022-11-10 | 2022-11-13 |
 | [Motels](https://open.spotify.com/track/1V888fh2JLVzMElr1pEz6Z) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Motels](https://open.spotify.com/album/59ok1dIXKrSGEuyziyoyfO) | 3:23 | 2022-08-04 | 2023-04-14 |
 | [Motor In The Sand](https://open.spotify.com/track/2hXqXQY1OOpxbNMp4YUAey) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Motor In The Sand](https://open.spotify.com/album/157bInLliEb7yJgc29QjCn) | 3:07 | 2023-04-20 | 2023-05-26 |
@@ -855,6 +857,7 @@
 | [Sleep Tight \- Edit](https://open.spotify.com/track/0RbE1ZbqtX6Y3aMBwmcT5Q) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:03 | 2022-04-28 | 2022-06-24 |
 | [sleeping on the floor](https://open.spotify.com/track/2SaMMF3gwdwTjWuR44LETg) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [sleeping on the floor](https://open.spotify.com/album/4MQRdmpYmA0GZx8XoUJLYi) | 2:33 | 2022-03-03 | 2022-03-18 |
 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu) | 4:08 | 2022-11-10 | 2023-01-27 |
+| [Slugs](https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Slugs](https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR) | 3:06 | 2023-09-28 |  |
 | [Smash the Machine](https://open.spotify.com/track/5hWTFIYmkjcFqzEUwK8vxq) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Smash the Machine](https://open.spotify.com/album/4k9Wix95eGPxmtLVxfzoGe) | 2:57 | 2021-12-28 | 2022-02-11 |
 | [So Cool](https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [So Cool](https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY) | 3:05 | 2023-05-22 | 2023-08-18 |
 | [So Much Wine](https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 4:03 | 2022-11-24 | 2023-01-13 |
@@ -892,6 +895,7 @@
 | [Sticky \(feat\. Lolo Zouaï\)](https://open.spotify.com/track/4jFAyLOFXPqsxb5TmrHWUj) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Sticky \(feat\. Lolo Zouaï\)](https://open.spotify.com/album/2APyxj6pJrqb7H7IHP5Bgd) | 2:06 | 2023-08-03 |  |
 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 | 2021-12-28 | 2022-02-25 |
 | [Still Dream](https://open.spotify.com/track/4eobWZbCrcHmd1uNl6V1uo) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Still Dream](https://open.spotify.com/album/34Rf47b5mESH8G51QKH7Pr) | 3:58 | 2022-03-10 | 2022-04-15 |
+| [Still Rolling](https://open.spotify.com/track/4uHTsdgtVHUbJcLvs9jE3P) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisurevision](https://open.spotify.com/album/7GjS4SK8fvJFWfvlRw2jtU) | 3:39 | 2023-09-28 |  |
 | [Stockholm](https://open.spotify.com/track/16oMvdrGRE4vSLx42eM0M0) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stockholm](https://open.spotify.com/album/4vYParxuIGyTZvjAGT5Gt0) | 3:17 | 2023-04-27 | 2023-07-04 |
 | [Stop & Stare](https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Stop & Stare](https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj) | 2:36 | 2023-05-26 | 2023-07-14 |
 | [Stop Sign](https://open.spotify.com/track/0rUy5il8xc12tbAkpHaubN) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Stop Sign](https://open.spotify.com/album/7FLYPQ543VVhvyrC1qIBH1) | 3:01 | 2021-12-28 | 2022-02-17 |
@@ -1076,6 +1080,7 @@
 | [Wish on an Eyelash, Pt\. 2](https://open.spotify.com/track/10yYDp1Lnac8zEIYiCk1sp) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Wish on an Eyelash, Pt\. 2](https://open.spotify.com/album/6Toz3ZYx7OtGPxptZytqvx) | 3:09 | 2023-01-05 | 2023-03-25 |
 | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/track/18DoMepvkwmJk4CPH0HCbk) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/album/2xd07PANaM6jBT50rfG50U) | 2:50 | 2022-07-07 | 2022-09-23 |
 | [With The Band](https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [With The Band / Bruises & Scratches](https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8) | 2:53 | 2022-06-08 | 2022-08-12 |
+| [With You](https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:43 | 2023-09-28 |  |
 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 | 2022-05-26 | 2022-07-15 |
 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 | 2022-09-29 | 2022-12-02 |
 | [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 | 2023-04-06 | 2023-04-14 |

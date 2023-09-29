@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 167898,
       "name": "Angel\u2019s Fake",
       "url": "https://open.spotify.com/track/50irF70TpepGqUAZAeLY1q"
@@ -2450,6 +2450,24 @@
       "duration_ms": 197296,
       "name": "Inger",
       "url": "https://open.spotify.com/track/1WzN9onrPMWcuQR0ICNLfc"
+    },
+    {
+      "album": {
+        "name": "Into the rainbow",
+        "url": "https://open.spotify.com/album/6DWJ9SnoQHMdqxaJ11O5Q2"
+      },
+      "artists": [
+        {
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "Into the rainbow",
+      "url": "https://open.spotify.com/track/2Q9hKDeUwAS9B1a0X2ZiqY"
     },
     {
       "album": {
@@ -9129,6 +9147,24 @@
     },
     {
       "album": {
+        "name": "\u30d0\u30ab\u306b\u306a\u3063\u3066",
+        "url": "https://open.spotify.com/album/1TuLMM8BWAjvAX5BrSwd41"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u308a\u3043",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208466,
+      "name": "\u30d0\u30ab\u306b\u306a\u3063\u3066",
+      "url": "https://open.spotify.com/track/7xc7REkoXacqSrQF8Zgz5O"
+    },
+    {
+      "album": {
         "name": "\u30d0\u30b0\u3063\u3066\u306a\u3044?",
         "url": "https://open.spotify.com/album/7kWkWtsSOc77JEAH0AyJJo"
       },
@@ -9630,7 +9666,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 193160,
       "name": "\u30d5\u30e9\u30c3\u30c8\u30e9\u30a4\u30f3",
       "url": "https://open.spotify.com/track/4uBAbbdc3zsoswNG4mOlwI"
@@ -10032,7 +10068,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 291272,
       "name": "\u30e6\u30e9\u30e6\u30e9\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/4P2OObLmEOiFSPYcFJ3vst"
@@ -10966,6 +11002,24 @@
       "duration_ms": 169668,
       "name": "\u524d\u591c",
       "url": "https://open.spotify.com/track/57M5gx8YCxENPqSgNFoi8c"
+    },
+    {
+      "album": {
+        "name": "\u52c7\u8005",
+        "url": "https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194164,
+      "name": "\u52c7\u8005",
+      "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
     },
     {
       "album": {

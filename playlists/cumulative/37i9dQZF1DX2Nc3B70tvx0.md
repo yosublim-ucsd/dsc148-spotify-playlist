@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023: Mitski's album is here.
 
-1,793 songs - 4 day 11 hr 35 min
+1,794 songs - 4 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1305,7 +1305,8 @@
 | [Romeo \(feat\. Bas\)](https://open.spotify.com/track/2M1NViRgTlFMB6wB7AM7pa) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Romeo \(feat\. Bas\)](https://open.spotify.com/album/5D56sDvjs4SkBUQQ8kHAir) | 2:46 | 2021-10-09 | 2021-10-16 |
 | [Rooftop Dancing](https://open.spotify.com/track/69TJLfGTUYSugs2Yi1dnG3) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Rooftop Dancing](https://open.spotify.com/album/3PvStgRH7gl0LF6tw09yuq) | 3:03 | 2020-09-25 | 2021-09-03 |
 | [Room](https://open.spotify.com/track/0qyIfrncrrZQlx2jaffhYm) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Room](https://open.spotify.com/album/2eOU1jfnTXVVH14YJRkqz9) | 3:30 | 2020-09-04 | 2021-05-21 |
-| [Roommates](https://open.spotify.com/track/1PJe0Vt9p0QaV4ZNHUwml0) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Roommates](https://open.spotify.com/album/3r7xGndKL5CJDeTxUm25ZS) | 3:34 | 2023-06-30 |  |
+| [Roommates](https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Roommates](https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP) | 3:34 | 2023-07-07 |  |
+| [Roommates](https://open.spotify.com/track/1PJe0Vt9p0QaV4ZNHUwml0) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Roommates](https://open.spotify.com/album/3r7xGndKL5CJDeTxUm25ZS) | 3:34 | 2023-06-30 | 2023-09-29 |
 | [Roots](https://open.spotify.com/track/5HorjQJbDWGabguEDSwQvl) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Roots](https://open.spotify.com/album/6w5GyZcHfKNS6I18vVYvNJ) | 2:50 | 2021-03-10 | 2022-01-07 |
 | [Rosalie \(CH\. II\)](https://open.spotify.com/track/4pqM7ItJF81CipUjbFw0gt) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(CH\. II\)](https://open.spotify.com/album/3YyhGAMr3nks9z7sTj6Zet) | 4:17 | 2020-07-03 | 2021-02-28 |
 | [Rose](https://open.spotify.com/track/7xTpmsgbuPTHv6mHZyH18v) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Rose](https://open.spotify.com/album/4uBpe363rz0WVb9JN26L06) | 3:46 | 2020-01-10 | 2020-05-15 |

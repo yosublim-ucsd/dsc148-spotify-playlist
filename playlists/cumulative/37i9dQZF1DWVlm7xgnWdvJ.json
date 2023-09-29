@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(It Goes Like) Nanana",
+        "url": "https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367613,
+      "name": "(It Goes Like) Nanana",
+      "url": "https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz"
+    },
+    {
+      "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
@@ -656,6 +674,32 @@
       "duration_ms": 380182,
       "name": "Ecuador",
       "url": "https://open.spotify.com/track/7ByHMIhpm6bqT3ir9GpLpW"
+    },
+    {
+      "album": {
+        "name": "En Balat\u00e9 (rework)",
+        "url": "https://open.spotify.com/album/0otCKYtXnC0tpVxB0Edg9P"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Kassav'",
+          "url": "https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj"
+        },
+        {
+          "name": "Jean-Claude Naimro",
+          "url": "https://open.spotify.com/artist/5NXrAZhndFutn5Kon2ZQCQ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385578,
+      "name": "En Balat\u00e9 (rework)",
+      "url": "https://open.spotify.com/track/780wEKS87IvaYO3QRrpTmx"
     },
     {
       "album": {
@@ -2378,6 +2422,24 @@
       "duration_ms": 462624,
       "name": "Use Me Again - Carl Craig Rework",
       "url": "https://open.spotify.com/track/0DmVOSnZLqxYEktgaVTP1H"
+    },
+    {
+      "album": {
+        "name": "walk in the park",
+        "url": "https://open.spotify.com/album/3VkEwSXBTttuyUQNwICwIK"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185487,
+      "name": "walk in the park",
+      "url": "https://open.spotify.com/track/5O3GznAgkjc07BtlE9Xq9r"
     },
     {
       "album": {

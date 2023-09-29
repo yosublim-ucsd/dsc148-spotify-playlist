@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Safia Nolin
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,078 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,097 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,26 +37,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 27 | [Ma muse](https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ma muse / Je t'haine](https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H) | 2:58 |
 | 28 | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [DaChoyce](https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl) | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9) | 2:11 |
 | 29 | [French Riviera](https://open.spotify.com/track/1YIxzV3rlDUmIES9tpOytj) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [French Riviera](https://open.spotify.com/album/0zz8rBPR2RmxmlNfvjrgGA) | 3:21 |
-| 30 | [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 |
-| 31 | [Différent](https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Différent](https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y) | 2:39 |
+| 30 | [Différent](https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Différent](https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y) | 2:39 |
+| 31 | [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 |
 | 32 | [Localisé](https://open.spotify.com/track/1jJHvMdaI0B3tmiCgFNpeK) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Chef D'orchestre](https://open.spotify.com/album/10BPtugQncuVXNT8CVu0f1) | 2:51 |
-| 33 | [La Peuf 6](https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [La Peuf 6](https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp) | 2:48 |
-| 34 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 |
+| 33 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 |
+| 34 | [La Peuf 6](https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [La Peuf 6](https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp) | 2:48 |
 | 35 | [Dans la moyenne](https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Dans la moyenne](https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn) | 2:38 |
-| 36 | [À deux \- Extrait de la Bande Originale du film « Les Déguns 2 »](https://open.spotify.com/track/2lTsd9ofFTLuOPj07J00aq) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [À deux \(Extrait de la Bande Originale du film « Les Déguns 2 »\)](https://open.spotify.com/album/0lccVcAosJkypnQzpJc96K) | 2:50 |
-| 37 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 |
-| 38 | [Zénith](https://open.spotify.com/track/7waEJapWACgWkq3by4intP) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Zénith](https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r) | 2:36 |
+| 36 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 |
+| 37 | [Zénith](https://open.spotify.com/track/7waEJapWACgWkq3by4intP) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Zénith](https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r) | 2:36 |
+| 38 | [À deux \- Extrait de la Bande Originale du film « Les Déguns 2 »](https://open.spotify.com/track/2lTsd9ofFTLuOPj07J00aq) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [À deux \(Extrait de la Bande Originale du film « Les Déguns 2 »\)](https://open.spotify.com/album/0lccVcAosJkypnQzpJc96K) | 2:50 |
 | 39 | [Cette vie](https://open.spotify.com/track/2COzs35KuKto9iRL9RIZRg) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Cette vie](https://open.spotify.com/album/314caeDoxMmpPdP1aoPcyC) | 2:19 |
 | 40 | [Enfer](https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:58 |
-| 41 | [A quoi tu penses vraiment](https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:55 |
-| 42 | [Appart des Apes](https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Appart des Apes](https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw) | 2:55 |
+| 41 | [Appart des Apes](https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Appart des Apes](https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw) | 2:55 |
+| 42 | [A quoi tu penses vraiment](https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:55 |
 | 43 | [Je remplace mes exs](https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Je remplace mes exs](https://open.spotify.com/album/1JCfwbRtYqlTF6sQChqcuM) | 2:53 |
-| 44 | [Mon jauné](https://open.spotify.com/track/33Wq09RGanTl3JXuyUN0ga) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Mon jauné](https://open.spotify.com/album/0PXL8hSka7EKM9IO4ijtwD) | 3:18 |
-| 45 | [À l'inverse](https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [À l'inverse](https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX) | 2:55 |
+| 44 | [À l'inverse](https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [À l'inverse](https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX) | 2:55 |
+| 45 | [Mon jauné](https://open.spotify.com/track/33Wq09RGanTl3JXuyUN0ga) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Mon jauné](https://open.spotify.com/album/0PXL8hSka7EKM9IO4ijtwD) | 3:18 |
 | 46 | [R+V](https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [R+V](https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja) | 1:29 |
 | 47 | [Je te promets](https://open.spotify.com/track/2WQSqRICLiUVaQHT7QQ0We) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9), [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Je te promets](https://open.spotify.com/album/6e3k8dGR9n0i8ILS37puwR) | 3:40 |
 | 48 | [Shatta \(feat\. Ghost Killer Track\)](https://open.spotify.com/track/2CrMndt2MVGC0ZrBV1J0jv) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ) | [Après Gambinerie](https://open.spotify.com/album/7eEGUogVe7Et5HU0NPqPtF) | 2:05 |
 | 49 | [Donne](https://open.spotify.com/track/564LI6g6mPCngTvP6ABkZO) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [A.M.O.U.R](https://open.spotify.com/album/3LwsjIHgP08344cotAfY0N) | 3:51 |
 | 50 | [Plus jamais](https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Plus jamais](https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X) | 3:21 |
 
-Snapshot ID: `MCwzYjA2MDJlYTUxYWIwOGIyNzcyYWUwOTVmNTk0ZmRhNGZiNmRhNzc2`
+Snapshot ID: `MCxhMDUwZDU0YjYwZWQ3YWVlNzlmMjhjN2NjZWE3YWIzMGJiYWU5Mzg3`

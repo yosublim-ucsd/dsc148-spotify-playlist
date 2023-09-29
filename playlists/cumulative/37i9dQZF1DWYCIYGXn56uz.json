@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Il Tre",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: ARIETE",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 155624,
       "name": "Colori",
       "url": "https://open.spotify.com/track/2DHilO16oyRXF7a4GHxWxO"
@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "La mia stanza (Deluxe)",
+        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211626,
+      "name": "Fine Settembre",
+      "url": "https://open.spotify.com/track/6hzdvxKpOM6Ot7CEPvfa9a"
+    },
+    {
+      "album": {
         "name": "Fiore Sulla Luna",
         "url": "https://open.spotify.com/album/6Kz7JnUf9h5yqQDtt6R5Ag"
       },
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 147401,
       "name": "Fiore Sulla Luna",
       "url": "https://open.spotify.com/track/6Sinn7z9DmUQPY3oQcMKcV"
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 171946,
       "name": "Granita",
       "url": "https://open.spotify.com/track/70ZfnDxMxzFlCVdsZgpLSv"
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 213143,
       "name": "IL BENE NEL MALE",
       "url": "https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC"
@@ -1934,7 +1952,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 151624,
       "name": "Le Cose In Comune",
       "url": "https://open.spotify.com/track/1rVPV7us0kW0mXBgoNKAYK"
@@ -2492,6 +2510,24 @@
       "duration_ms": 197294,
       "name": "NEVE SU MARTE (feat. Annalisa)",
       "url": "https://open.spotify.com/track/3vMigJ03XjZTUMtrhDBIrK"
+    },
+    {
+      "album": {
+        "name": "niente",
+        "url": "https://open.spotify.com/album/31KUQDz09OrNeF5bW0MeSz"
+      },
+      "artists": [
+        {
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "niente",
+      "url": "https://open.spotify.com/track/6DVMWxdestSTiCSI0Ejnbm"
     },
     {
       "album": {
@@ -3591,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "sofia </3",
+        "url": "https://open.spotify.com/album/1o4hP3VBIoS2OwvIIrw2xz"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175411,
+      "name": "sofia </3",
+      "url": "https://open.spotify.com/track/5GiNMKuih6zryMHANHrS4U"
+    },
+    {
+      "album": {
         "name": "SOGNO",
         "url": "https://open.spotify.com/album/1sqrJ50Bu6DKuuRNQE7pk7"
       },
@@ -3925,6 +3979,28 @@
     },
     {
       "album": {
+        "name": "La mia stanza (Deluxe)",
+        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159397,
+      "name": "Tranquillo mai",
+      "url": "https://open.spotify.com/track/0fhTCQPc8uFQGQY3iWb0sU"
+    },
+    {
+      "album": {
         "name": "Tu mi fai bene",
         "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
       },
@@ -4096,6 +4172,24 @@
       "duration_ms": 141818,
       "name": "Unica",
       "url": "https://open.spotify.com/track/1dy9J9p6pWPmuxvi34A1As"
+    },
+    {
+      "album": {
+        "name": "Un\u2019altra Mania",
+        "url": "https://open.spotify.com/album/7yuIChBCoWVFzgM7ZbHPs1"
+      },
+      "artists": [
+        {
+          "name": "NIVEO",
+          "url": "https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156835,
+      "name": "Un\u2019altra Mania",
+      "url": "https://open.spotify.com/track/1taGP4ykDbPVPqMt1wovJN"
     },
     {
       "album": {

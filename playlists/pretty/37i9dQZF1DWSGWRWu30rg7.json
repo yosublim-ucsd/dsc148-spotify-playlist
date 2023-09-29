@@ -1,15 +1,391 @@
 {
-  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Alya Zurayya",
-  "num_followers": 63406,
+  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Nadzira Shafa",
+  "num_followers": 63417,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzc3YjU0MGVhNDQwMDU4NmQzMDEyN2Q2NGMwZTI1NWRlOWE1NGZm",
+  "snapshot_id": "MCwwYjE0MWRhZTRjYjM1Zjg3MDZmMDMzZmU5NWZkZmZjZWNiMzFkM2E4",
   "tracks": [
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Arah Bersamamu",
+        "url": "https://open.spotify.com/album/5eUomalYxWZJsOtMzl0Lhz"
+      },
+      "artists": [
+        {
+          "name": "Nadzira Shafa",
+          "url": "https://open.spotify.com/artist/3XzmTEQR3TMBJWJqE4Vtos"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Arah Bersamamu",
+      "url": "https://open.spotify.com/track/7LYHhyVh0lyOolKsOUDNMT"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Such Is Life",
+        "url": "https://open.spotify.com/album/2yAuI31A1YhNKxWLqTgiYC"
+      },
+      "artists": [
+        {
+          "name": "More on Mumbles",
+          "url": "https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN"
+        }
+      ],
+      "duration_ms": 191388,
+      "name": "Such Is Life",
+      "url": "https://open.spotify.com/track/4OaxqHssLexmIYgPLSdGcT"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "DINNER",
+        "url": "https://open.spotify.com/album/0MiS1pig5Q8RuvYwqUqeHN"
+      },
+      "artists": [
+        {
+          "name": "Weda Mauve",
+          "url": "https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6"
+        }
+      ],
+      "duration_ms": 245368,
+      "name": "DINNER",
+      "url": "https://open.spotify.com/track/30luEXaRUmaHL1gwpIRA36"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Senses",
+        "url": "https://open.spotify.com/album/7hLdnFUXoPwPVZMP3yuSQq"
+      },
+      "artists": [
+        {
+          "name": "Moneva",
+          "url": "https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J"
+        }
+      ],
+      "duration_ms": 233712,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/34OhCJNccx5e56csQKaXo8"
+    },
+    {
+      "added_at": "2023-09-28 17:05:09",
+      "album": {
+        "name": "entertain",
+        "url": "https://open.spotify.com/album/4bu8MjC20Rj18n79FZgdAA"
+      },
+      "artists": [
+        {
+          "name": "Andrea Najla",
+          "url": "https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "entertain",
+      "url": "https://open.spotify.com/track/58gBTCnvt611HydKx8hH8y"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "00.00",
+        "url": "https://open.spotify.com/album/6W4nShepkoTJyzpmeYx4ZN"
+      },
+      "artists": [
+        {
+          "name": "SEBY",
+          "url": "https://open.spotify.com/artist/2gyoZB0qaowphecujZAzTd"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "00.00",
+      "url": "https://open.spotify.com/track/6C2yfj1lwlN3UDvyCLidSw"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "It ain't you",
+        "url": "https://open.spotify.com/album/28vzGPEmuL1p0Zstvkb11w"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Soetomo",
+          "url": "https://open.spotify.com/artist/3EveEev3WbVFqsjRDoeJAH"
+        }
+      ],
+      "duration_ms": 217941,
+      "name": "It ain't you",
+      "url": "https://open.spotify.com/track/0Ne0t0utWCqFd9uQkHGvrU"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Drama Queen",
+        "url": "https://open.spotify.com/album/6Ni5a5uoO3jpPEkAuvQOfq"
+      },
+      "artists": [
+        {
+          "name": "Harnan Gunsa",
+          "url": "https://open.spotify.com/artist/3AjROpz3gjl1LLWXiToPEM"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "Drama Queen",
+      "url": "https://open.spotify.com/track/0AuWDQx1YsmhVqub4XoC83"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "go home without me",
+        "url": "https://open.spotify.com/album/4G6uIwu30pMbmW0Wp2u4sw"
+      },
+      "artists": [
+        {
+          "name": "Angie Krisnawan",
+          "url": "https://open.spotify.com/artist/4XuzqDiipEzAykvZRqpYiW"
+        }
+      ],
+      "duration_ms": 259363,
+      "name": "go home without me",
+      "url": "https://open.spotify.com/track/3TPtcOqd5uc7zKUDImjuCv"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "I Just Wanna Dance With You",
+        "url": "https://open.spotify.com/album/1w49WZhXvxtMKydYxYLgjB"
+      },
+      "artists": [
+        {
+          "name": "cellosux",
+          "url": "https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj"
+        }
+      ],
+      "duration_ms": 227338,
+      "name": "I Just Wanna Dance With You",
+      "url": "https://open.spotify.com/track/3rVvzQrxOnoJdGJ87WLDrr"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "The Chorus Superstar",
+        "url": "https://open.spotify.com/album/2BnDqpwaFMaO1wOl5I7pv0"
+      },
+      "artists": [
+        {
+          "name": "Space Cubs",
+          "url": "https://open.spotify.com/artist/3JOcvznPQ58nkKmyZ31ex0"
+        }
+      ],
+      "duration_ms": 212629,
+      "name": "The Chorus Superstar",
+      "url": "https://open.spotify.com/track/66pXN7akoC2e9RrPOSjBWc"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Warna Abadi",
+        "url": "https://open.spotify.com/album/3jjpo0OeMpfRNYv5Q9Navc"
+      },
+      "artists": [
+        {
+          "name": "Fourtune",
+          "url": "https://open.spotify.com/artist/0MLJ6wDKP8xAPYeXjisC7k"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Warna Abadi",
+      "url": "https://open.spotify.com/track/3kNStMhbYblNQGsGoymlpj"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Hang Fire",
+        "url": "https://open.spotify.com/album/2GLgb97lZw4tzuiIDVYljq"
+      },
+      "artists": [
+        {
+          "name": "Heave",
+          "url": "https://open.spotify.com/artist/7aGxsfO1ZwbBpEIrOvOeHv"
+        }
+      ],
+      "duration_ms": 230698,
+      "name": "Hang Fire",
+      "url": "https://open.spotify.com/track/0R41wxIs7oIueZbVrfEPsP"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Electrichestra",
+        "url": "https://open.spotify.com/album/1Vxxf5sFL5uv6kJgAzYQ05"
+      },
+      "artists": [
+        {
+          "name": "ElectricBird",
+          "url": "https://open.spotify.com/artist/0oQpseNKMgUuWyqF8pepNM"
+        }
+      ],
+      "duration_ms": 265935,
+      "name": "Wardogs (Electrichestra)",
+      "url": "https://open.spotify.com/track/5PG44oyFZPXHYkwXHdABRc"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Sungguh? (with Thavita)",
+        "url": "https://open.spotify.com/album/1powNQvRxplSW3wrNu1QXX"
+      },
+      "artists": [
+        {
+          "name": "RBA",
+          "url": "https://open.spotify.com/artist/3w364H4OAdrvrFlTmP8kB8"
+        },
+        {
+          "name": "Thavita",
+          "url": "https://open.spotify.com/artist/2mcKIHvd8ZFjjOVGBU8Peu"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Sungguh? (with Thavita)",
+      "url": "https://open.spotify.com/track/2fkZkH9247WlyHaM0fXVBy"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/6AvHqghzOREIkOOOJoLhWw"
+      },
+      "artists": [
+        {
+          "name": "Cast\u00e9",
+          "url": "https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5"
+        }
+      ],
+      "duration_ms": 221674,
+      "name": "Walk Your Heart Home",
+      "url": "https://open.spotify.com/track/1nbquISEGb21tsBdVlaP6V"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Kutunggu Di Sini",
+        "url": "https://open.spotify.com/album/0koQe31s59omtAJaVA63hZ"
+      },
+      "artists": [
+        {
+          "name": "ABRAM",
+          "url": "https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL"
+        }
+      ],
+      "duration_ms": 229879,
+      "name": "Kutunggu Di Sini",
+      "url": "https://open.spotify.com/track/4Kx1u8tSkq1cuiFbMmJgsA"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Lelah Berharap",
+        "url": "https://open.spotify.com/album/1v2l4Dafzsfkn256edqe7K"
+      },
+      "artists": [
+        {
+          "name": "Indaloka",
+          "url": "https://open.spotify.com/artist/0d1OFjbNJxQfnNbvp8mtko"
+        }
+      ],
+      "duration_ms": 272238,
+      "name": "Lelah Berharap",
+      "url": "https://open.spotify.com/track/6IocSbCSQ7HPPCUCkfT4Is"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Runaway / Devil's Work",
+        "url": "https://open.spotify.com/album/2yy0laMQIenkj6pU0mzpNy"
+      },
+      "artists": [
+        {
+          "name": "Domm Duarte",
+          "url": "https://open.spotify.com/artist/2fzBCB64PrQlVa33UJ3YVI"
+        },
+        {
+          "name": "Feezy God",
+          "url": "https://open.spotify.com/artist/0JRiR61Wk1VfWuyqB8JQBz"
+        }
+      ],
+      "duration_ms": 231325,
+      "name": "Runaway / Devil's Work",
+      "url": "https://open.spotify.com/track/1L0oynqMaYmoFnzvOZxN2y"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Anak Orang Kaya",
+        "url": "https://open.spotify.com/album/5fLO8CHH8kRTtqeeiXPViA"
+      },
+      "artists": [
+        {
+          "name": "Jay Yen",
+          "url": "https://open.spotify.com/artist/3JgETLiorvAt8Xfsz6HcRt"
+        }
+      ],
+      "duration_ms": 218938,
+      "name": "Anak Orang Kaya",
+      "url": "https://open.spotify.com/track/56Ut4bx6l2tBaTGyphiovt"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Pamit Undur Diri",
+        "url": "https://open.spotify.com/album/1Op62x9oHhFwRW5YNLhGUN"
+      },
+      "artists": [
+        {
+          "name": "Novi Aurellya",
+          "url": "https://open.spotify.com/artist/0PaM2Tp7AmjySxXnk9Fe6e"
+        }
+      ],
+      "duration_ms": 257897,
+      "name": "Pamit Undur Diri",
+      "url": "https://open.spotify.com/track/2TiyaPaBC1L48JzqBQIxQW"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Lilin Kecil",
+        "url": "https://open.spotify.com/album/3L1H9mpaorHFnOMwHeBzQU"
+      },
+      "artists": [
+        {
+          "name": "Monica Christiana",
+          "url": "https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h"
+        }
+      ],
+      "duration_ms": 237321,
+      "name": "Lilin Kecil",
+      "url": "https://open.spotify.com/track/6gCQHTogHYwOfVazsFUyOk"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
+      "album": {
+        "name": "Stalking Love",
+        "url": "https://open.spotify.com/album/5wZdRidAm9CH0J6OBovEOV"
+      },
+      "artists": [
+        {
+          "name": "BESIXXS",
+          "url": "https://open.spotify.com/artist/0CAOKtwuvALyOH4TO8N2Y5"
+        }
+      ],
+      "duration_ms": 230122,
+      "name": "Stalking Love",
+      "url": "https://open.spotify.com/track/033b8Gr0hg7aaO913KM0f5"
+    },
+    {
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Terbentur Terbentuk",
         "url": "https://open.spotify.com/album/64Znf2RLOnYO0QspHsWj86"
@@ -25,7 +401,7 @@
       "url": "https://open.spotify.com/track/1yScIns1DTexY6gCeJUQsV"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Lebih Baik Sendiri",
         "url": "https://open.spotify.com/album/6ICqpSWljJxaUAt11l1vQG"
@@ -41,7 +417,7 @@
       "url": "https://open.spotify.com/track/5ox0GSzwrO10Djv8IeYb8b"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/52WQbxvoGAq9DoTxvYOMyi"
@@ -61,7 +437,7 @@
       "url": "https://open.spotify.com/track/6wrzjZWtuGUSpXhZuTS3ne"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Ever Make You Smile",
         "url": "https://open.spotify.com/album/4gU1t69EACNjuCClhWDUuB"
@@ -77,7 +453,7 @@
       "url": "https://open.spotify.com/track/0q39Zy2FsXsf4EPFwX7VCG"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Secerah Mentari",
         "url": "https://open.spotify.com/album/4F7aflhov26ZLjTQyUyd2B"
@@ -93,7 +469,7 @@
       "url": "https://open.spotify.com/track/5RvAqSrpltHmuXH1WI5iUi"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Love Therapy",
         "url": "https://open.spotify.com/album/7KZwi86PGq4cM1pblKqG1P"
@@ -109,7 +485,7 @@
       "url": "https://open.spotify.com/track/56ym29yj4h0nZC6nEICJUv"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "bulan pagi",
         "url": "https://open.spotify.com/album/02pAqXBVcOwZQTvFV59H2n"
@@ -125,7 +501,7 @@
       "url": "https://open.spotify.com/track/0OkYyfbAUMjgeGBlA602iK"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Sakit Yang Kau Beri",
         "url": "https://open.spotify.com/album/2OG6eVFqcRow3PZvhPL2V2"
@@ -141,7 +517,7 @@
       "url": "https://open.spotify.com/track/2yzMPEYu9UZYeL8666Y3tb"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "PARTY",
         "url": "https://open.spotify.com/album/4dqJKY1KJC8cGEGTeriZVv"
@@ -161,7 +537,7 @@
       "url": "https://open.spotify.com/track/6YAXYMOxm2EdI9eRywwsJU"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Si Paling Sahabat",
         "url": "https://open.spotify.com/album/6oZtpqoxH6Oyio93DFt4pq"
@@ -177,7 +553,7 @@
       "url": "https://open.spotify.com/track/32mmUj9JS0SLcS1kS4GYG5"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Sending All The Love",
         "url": "https://open.spotify.com/album/5Nu2PITLQefilHbkNvlLKU"
@@ -193,7 +569,7 @@
       "url": "https://open.spotify.com/track/1VA5ZsqZFVHPxIqXgy0Co4"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Peluk Terakhir",
         "url": "https://open.spotify.com/album/2Ai3YSCf94warhvvNp15d6"
@@ -209,7 +585,7 @@
       "url": "https://open.spotify.com/track/6smSqjQj87tNYFC4EOFklh"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Spoken",
         "url": "https://open.spotify.com/album/4vK5cL9GPbSAzkj078pA87"
@@ -225,7 +601,7 @@
       "url": "https://open.spotify.com/track/0uVlYn8RFko9HJ6C5HpSDT"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "who the hecK",
         "url": "https://open.spotify.com/album/7Hu7o4jS6lyerjpwwK4BKw"
@@ -241,7 +617,7 @@
       "url": "https://open.spotify.com/track/6x2ML74p6NhvNiI5L7kRcP"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "statue",
         "url": "https://open.spotify.com/album/048jzpn9KPybH8PwCzxe2O"
@@ -257,7 +633,7 @@
       "url": "https://open.spotify.com/track/2VNlfoLHFzNyYtVKliM4dF"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Inklusi",
         "url": "https://open.spotify.com/album/0TMB2jmPJ3MIifYNBvtHnB"
@@ -273,7 +649,7 @@
       "url": "https://open.spotify.com/track/7JzhTG4sTQLK0D814n67oM"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Aku Jatuh Cinta",
         "url": "https://open.spotify.com/album/74anmcopmaXZsv69sfcOH9"
@@ -293,7 +669,7 @@
       "url": "https://open.spotify.com/track/3PvcsPN41j3Od1D3F0Lg2A"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Kamu dan Jakarta",
         "url": "https://open.spotify.com/album/6yr4zHorpolDseu4nkzeE1"
@@ -309,7 +685,7 @@
       "url": "https://open.spotify.com/track/4TAY40oWs1rVJoW876vvRz"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Coba",
         "url": "https://open.spotify.com/album/7MVUoFFYfHTC1s6v06Uezp"
@@ -325,7 +701,7 @@
       "url": "https://open.spotify.com/track/0PCYrIeDxTuHNTwUPrqJvQ"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Semua Rasa",
         "url": "https://open.spotify.com/album/5sOtXoBo4zLXGylvvBgrmd"
@@ -341,7 +717,7 @@
       "url": "https://open.spotify.com/track/6dB09VOZuH2hiPMKgLXMc8"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Residu",
         "url": "https://open.spotify.com/album/686az2DEKOZmzh6WgXEGvK"
@@ -357,7 +733,7 @@
       "url": "https://open.spotify.com/track/7eJA1CtjnO9eq99ihQPnSV"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "IS IT LOVE?",
         "url": "https://open.spotify.com/album/0V0OjuamTcxeFlci7A4UtR"
@@ -373,7 +749,7 @@
       "url": "https://open.spotify.com/track/7ImhYHYJJMiR10omMJyfpo"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Blinded",
         "url": "https://open.spotify.com/album/6k9UUXDRmiRC2hb9yhwRxx"
@@ -389,7 +765,7 @@
       "url": "https://open.spotify.com/track/38Yuh5vbhZ0eUQeZAy8U2W"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Get off of Me",
         "url": "https://open.spotify.com/album/3mWMLBnrXtjViHluWwBBXT"
@@ -413,7 +789,7 @@
       "url": "https://open.spotify.com/track/4S23hGvMCB6SNXFGv1pIuM"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Pain in My Soul",
         "url": "https://open.spotify.com/album/0Qetxwe1Y3DRY6PJMYVnlJ"
@@ -429,7 +805,7 @@
       "url": "https://open.spotify.com/track/2CFZSY12bsk3EBdxemlzHl"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "LETTER",
         "url": "https://open.spotify.com/album/2Y4fwbq1PFMww3TtoYuhyX"
@@ -445,7 +821,7 @@
       "url": "https://open.spotify.com/track/47n68rNEyeG239QOXQEzmK"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Lewat Semesta",
         "url": "https://open.spotify.com/album/6ZUThtgJ64fxwjS8orZi40"
@@ -461,7 +837,7 @@
       "url": "https://open.spotify.com/track/5dWF8OWDLa0j73rjkwfPv9"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Dilema",
         "url": "https://open.spotify.com/album/7900NuJIt1cOL0hgVUxvb9"
@@ -477,7 +853,7 @@
       "url": "https://open.spotify.com/track/3UwS62HQ6B1QiwyQFkgWLn"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Love Me, Honestly",
         "url": "https://open.spotify.com/album/1z6XL9xJnPXr9kaKWlwE8B"
@@ -493,7 +869,7 @@
       "url": "https://open.spotify.com/track/5ApaO8BQIthcnq9mSJcAOZ"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Cantik Dari Selatan",
         "url": "https://open.spotify.com/album/5tHwpYlrKjmfUPOhi07Ha6"
@@ -509,7 +885,7 @@
       "url": "https://open.spotify.com/track/63lxfecsHZVINzDcDW2BSC"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/3nct92aRjEbsgxxxZp5FE8"
@@ -525,7 +901,7 @@
       "url": "https://open.spotify.com/track/0HKFRl2qdyrm1pBvxfO82N"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Layar Kaca (with Ashilla & IYO)",
         "url": "https://open.spotify.com/album/5nwihkUm7Onz4IkX4DMmzh"
@@ -549,7 +925,7 @@
       "url": "https://open.spotify.com/track/1VgpnfLnTyPIb039eHcYUT"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Nonchalant",
         "url": "https://open.spotify.com/album/4mb7GvBdHZZcZly8NA4fN1"
@@ -565,7 +941,7 @@
       "url": "https://open.spotify.com/track/1vTg4BC0O9rPJ4GorPEXIz"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "History Of You",
         "url": "https://open.spotify.com/album/1W4RW7pGOSln4nypumplni"
@@ -581,7 +957,7 @@
       "url": "https://open.spotify.com/track/54wlNjIXeQKDk3DFF5C7BU"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Intergalaktik Klab",
         "url": "https://open.spotify.com/album/1AyVq41orhpZEsGGbOVEop"
@@ -597,7 +973,7 @@
       "url": "https://open.spotify.com/track/19Q6WJwO7BS1Q5kU1ertnu"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Best Prom Ever",
         "url": "https://open.spotify.com/album/4a2bPEqy88F8l3oB7DcsHO"
@@ -613,7 +989,7 @@
       "url": "https://open.spotify.com/track/3pZzVu3r5XMWXhwkoRhgka"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "9 Jahitan",
         "url": "https://open.spotify.com/album/5XEvQ1eJnVEmRrieoTGBhk"
@@ -629,7 +1005,7 @@
       "url": "https://open.spotify.com/track/3M3ebo5vWFtx0IMcaxD7Lv"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Beda Kasta",
         "url": "https://open.spotify.com/album/4ZjT5ia2uZvQ0u72ISEDUL"
@@ -645,7 +1021,7 @@
       "url": "https://open.spotify.com/track/76ylMZVblCvTDCIfIYVp0Z"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Kala Cinta",
         "url": "https://open.spotify.com/album/5Tu4g8nd10hBPbSkHcjuzP"
@@ -661,7 +1037,7 @@
       "url": "https://open.spotify.com/track/2jxATn6y1Unph7wkW2DNSY"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Heals",
         "url": "https://open.spotify.com/album/1g79ovkZBPuIBm0mWrgqHv"
@@ -677,7 +1053,7 @@
       "url": "https://open.spotify.com/track/5npkfypTIG1Qht2mMFJIeg"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "THE MOST BORING MAN ALIVE!",
         "url": "https://open.spotify.com/album/0RFEmq1EyEum5tL4g3al1x"
@@ -693,7 +1069,7 @@
       "url": "https://open.spotify.com/track/1LNDl1rA7uN2EsVTB6hiOo"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/3LcBY6maZkHaxwsXoE0ihW"
@@ -709,7 +1085,7 @@
       "url": "https://open.spotify.com/track/3oFfknpdbaWGT2KJ1oUiMA"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/5jf0U1bzPX7grOF7gQoQHl"
@@ -725,7 +1101,7 @@
       "url": "https://open.spotify.com/track/6q7pssrUvCJwIHku3bGk7z"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Flourish",
         "url": "https://open.spotify.com/album/5F04dv5esBOMqtIjHXnwlH"
@@ -741,7 +1117,7 @@
       "url": "https://open.spotify.com/track/2uUphuupqpCKvT3JfAyBRg"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Rush Time",
         "url": "https://open.spotify.com/album/2rkjGqvhbcZLpeGDux2oAL"
@@ -757,7 +1133,7 @@
       "url": "https://open.spotify.com/track/0KwjPCbzX08pReb7momLUU"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Out of My Mind",
         "url": "https://open.spotify.com/album/6Or20Fmb0eQGXEn5ezWbxU"
@@ -773,7 +1149,7 @@
       "url": "https://open.spotify.com/track/4Yoe372GaszpyL7wPbXdbU"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "So Sexy",
         "url": "https://open.spotify.com/album/49WNCo7VoK5SwHpP4bHKmk"
@@ -789,7 +1165,7 @@
       "url": "https://open.spotify.com/track/0FgsGgIbopnyCYibTAfjv2"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Hello Radio",
         "url": "https://open.spotify.com/album/25BTZcB3teJ6XkQ3jPB8uj"
@@ -805,7 +1181,7 @@
       "url": "https://open.spotify.com/track/1wGbYh3MpfyBMtJYftmXgQ"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Skinny Heart",
         "url": "https://open.spotify.com/album/3ZzE0sLaSHAaRyPBXOJO5j"
@@ -821,7 +1197,7 @@
       "url": "https://open.spotify.com/track/0lGebTayDRUzxczoyzzwvk"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Perpetual motion",
         "url": "https://open.spotify.com/album/3lFkMCSSu3rwde2F3JPryF"
@@ -837,7 +1213,7 @@
       "url": "https://open.spotify.com/track/3hjcGo7t6W0NYceAiVOqyr"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/45Gw5pqhtYVOmyDSSoWpG4"
@@ -853,7 +1229,7 @@
       "url": "https://open.spotify.com/track/4XeWS2jqQfiXx1p9QTr5zZ"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Gerdalia",
         "url": "https://open.spotify.com/album/4IryBjKtK6wNqvr0WIDWRg"
@@ -869,7 +1245,7 @@
       "url": "https://open.spotify.com/track/4NT8vnGvumlDKCc73GdnNF"
     },
     {
-      "added_at": "2023-09-22 02:57:27",
+      "added_at": "2023-09-28 17:02:36",
       "album": {
         "name": "Smile on You",
         "url": "https://open.spotify.com/album/313JE1LrYa4iIKoqDYQfbx"

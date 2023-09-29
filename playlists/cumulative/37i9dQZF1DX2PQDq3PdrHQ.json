@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "animos",
+        "url": "https://open.spotify.com/album/2w1cTkkTNv3VJNPz7tenr3"
+      },
+      "artists": [
+        {
+          "name": "redknobs",
+          "url": "https://open.spotify.com/artist/69cokHbMaS4QTveywGMSUN"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139114,
+      "name": "animos",
+      "url": "https://open.spotify.com/track/5CLBmr7bGBnsCFAsXITIyJ"
+    },
+    {
+      "album": {
         "name": "Anubi",
         "url": "https://open.spotify.com/album/48xyLuyOMnWyrfatEfSQSG"
       },
@@ -824,6 +842,24 @@
       "duration_ms": 132000,
       "name": "Beyond The Light",
       "url": "https://open.spotify.com/track/3A2vJ4lqQCufMGCY88GiGl"
+    },
+    {
+      "album": {
+        "name": "Blanket",
+        "url": "https://open.spotify.com/album/7upEQocfRg69LCyh1DeIMs"
+      },
+      "artists": [
+        {
+          "name": "Demurely",
+          "url": "https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127741,
+      "name": "Blanket",
+      "url": "https://open.spotify.com/track/7y5FvLf4zFR4wyadweNWXy"
     },
     {
       "album": {
@@ -1276,7 +1312,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 164231,
       "name": "Catching Goldfish",
       "url": "https://open.spotify.com/track/4OOg4gFlPeDDUtVfEGl3WU"
@@ -2680,7 +2716,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 115200,
       "name": "Dream It Real",
       "url": "https://open.spotify.com/track/5qgpCz7YWobF4cjnmV3O6i"
@@ -3012,7 +3048,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 174007,
       "name": "dusty",
       "url": "https://open.spotify.com/track/0mTrn2K2gohKeKf89BuWHT"
@@ -3146,7 +3182,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 155686,
       "name": "Emerald Earth",
       "url": "https://open.spotify.com/track/48C4Ay5VNjwAVlDMwNfzhO"
@@ -4810,7 +4846,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 129798,
       "name": "If Time Could Stop",
       "url": "https://open.spotify.com/track/0qgjSzVCHLCpHM19j6PBwH"
@@ -5194,7 +5230,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 160403,
       "name": "it was meant to be",
       "url": "https://open.spotify.com/track/5mHlTUyCELZpAij3EvZFFN"
@@ -5238,7 +5274,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 128695,
       "name": "I\u2019m Sorry",
       "url": "https://open.spotify.com/track/1fABkApKuxE5liqE91dIel"
@@ -5508,7 +5544,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 144052,
       "name": "late night movies",
       "url": "https://open.spotify.com/track/6Iy0OYEyUquJQMq4kNTC9S"
@@ -6082,7 +6118,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 85154,
       "name": "lost my color",
       "url": "https://open.spotify.com/track/0z7i8XntrHsfZvkRdJ6EMY"
@@ -6292,7 +6328,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 139339,
       "name": "Many Moons",
       "url": "https://open.spotify.com/track/64MHGHMwNGdW15hxJnrsGd"
@@ -6394,7 +6430,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 120612,
       "name": "Me, I'm Counting",
       "url": "https://open.spotify.com/track/0RuEzjOG0rzEx7wGhhxKdP"
@@ -6542,7 +6578,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 157611,
       "name": "Menta",
       "url": "https://open.spotify.com/track/7MZGAVGCqlbDb5o1u8afnk"
@@ -6676,7 +6712,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 150000,
       "name": "mirage",
       "url": "https://open.spotify.com/track/62fLle8LeEWmKjhW20WR7b"
@@ -7366,7 +7402,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 147484,
       "name": "Night never ends",
       "url": "https://open.spotify.com/track/3FnRiWUNHfYKnibaQVaLhW"
@@ -7526,7 +7562,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 152250,
       "name": "Nightsong",
       "url": "https://open.spotify.com/track/02Xug25tB1hYcCscxlZky4"
@@ -8596,7 +8632,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 128080,
       "name": "red moon",
       "url": "https://open.spotify.com/track/4swgV1x1kMvwCWBPn1vcWO"
@@ -9398,7 +9434,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "Silent Path",
       "url": "https://open.spotify.com/track/010GNDJHKUgs9j2npP13iI"
@@ -9826,7 +9862,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 162492,
       "name": "So Delightful",
       "url": "https://open.spotify.com/track/1gXIL1uhqbYLPvoEaHETed"
@@ -10144,7 +10180,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 137000,
       "name": "Stargazer",
       "url": "https://open.spotify.com/track/5YLozzNjqUbMKAUCCWZqve"
@@ -10408,7 +10444,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 110211,
       "name": "Summer Sky",
       "url": "https://open.spotify.com/track/2pTLw2Qhbw7hzxWaMLnfG9"
@@ -10962,7 +10998,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 150000,
       "name": "The Sun in her Eyes",
       "url": "https://open.spotify.com/track/7Mfnl9yfikDoOWJSxEaK9v"
@@ -11184,7 +11220,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 122181,
       "name": "through the night",
       "url": "https://open.spotify.com/track/1YCERFz4MWdiraOD9xBAoE"
@@ -11242,6 +11278,24 @@
       "duration_ms": 117000,
       "name": "time twist",
       "url": "https://open.spotify.com/track/2tTam1DLtJL6hqFd4JIBTu"
+    },
+    {
+      "album": {
+        "name": "Time Warp",
+        "url": "https://open.spotify.com/album/068P11fTS2AhMQhlxFgRiV"
+      },
+      "artists": [
+        {
+          "name": "A Space for Rent",
+          "url": "https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Time Warp",
+      "url": "https://open.spotify.com/track/10K4MrtAQrV7hdNIWF6sEB"
     },
     {
       "album": {
@@ -11358,6 +11412,24 @@
       "duration_ms": 108387,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/4mMekXSn4fAMcvr6dMiK6c"
+    },
+    {
+      "album": {
+        "name": "Travel By Night",
+        "url": "https://open.spotify.com/album/2caQtRv2tcZTD7fv7P38PA"
+      },
+      "artists": [
+        {
+          "name": "Itsuju",
+          "url": "https://open.spotify.com/artist/3PUVlFHrSamIkjf9UWphev"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140108,
+      "name": "Travel by Night",
+      "url": "https://open.spotify.com/track/0csl0mkkpaPCtMhvm54f4a"
     },
     {
       "album": {
@@ -11630,7 +11702,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 140487,
       "name": "Uphill",
       "url": "https://open.spotify.com/track/0oEDgkRNaHonuqilpTGydO"
@@ -12142,7 +12214,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 111363,
       "name": "you snooze, you bruise",
       "url": "https://open.spotify.com/track/7H7Vuf9WnVeR03R1ZYdExT"

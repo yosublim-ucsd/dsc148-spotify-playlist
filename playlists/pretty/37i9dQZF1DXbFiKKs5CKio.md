@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,458 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,511 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 14 | [E EU?](https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0), [prx](https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe) | [MOVA \- Algumas Verdades, Outras Mentiras](https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3) | 2:56 |
 | 15 | [Nunca Te Deixei](https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Nunca Te Deixei](https://open.spotify.com/album/0pF4py857zGGCEty1CeelF) | 3:46 |
 | 16 | [Vestido Vermelho](https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm) | [Vestido Vermelho](https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss) | 2:50 |
-| 17 | [Eu Tava Em Casa](https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 4:09 |
-| 18 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
+| 17 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
+| 18 | [Eu Tava Em Casa](https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 4:09 |
 | 19 | [Sinto a Sua Falta](https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Sinto a Sua Falta](https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL) | 3:21 |
 | 20 | [Auge](https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY), [iceton](https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj) | [Auge](https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu) | 3:10 |
 | 21 | [só eu sei](https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [só eu sei](https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo) | 1:55 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 42 | [Renascer](https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Renascer](https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45) | 4:54 |
 | 43 | [Canela e hortelã](https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW) | [Gray C.](https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS) | [Canela e hortelã](https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ) | 3:32 |
 | 44 | [n é vc, sou eu](https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23) | [Amxedx](https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0), [Nader](https://open.spotify.com/artist/5hJTj1DEcSkY1t64AOPVKV), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [n é vc, sou eu](https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3) | 2:40 |
-| 45 | [Perfeita Demais](https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ) | [R0DR1](https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ) | [Perfeita Demais](https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9) | 3:20 |
-| 46 | [Química Perfeita](https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI) | [JE$$I](https://open.spotify.com/artist/5dNWhZSPl0VSzZgvChB11Q), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Química Perfeita](https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw) | 2:57 |
+| 45 | [Química Perfeita](https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI) | [JE$$I](https://open.spotify.com/artist/5dNWhZSPl0VSzZgvChB11Q), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Química Perfeita](https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw) | 2:57 |
+| 46 | [Perfeita Demais](https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ) | [R0DR1](https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ) | [Perfeita Demais](https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9) | 3:20 |
 | 47 | [Dias Bons \(Alright\)](https://open.spotify.com/track/4TKJmXGlHLg1gBAoeYDMth) | [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Ill Camille](https://open.spotify.com/artist/4XPgViBvmCOxptCYxTvJo4) | [Universo Suspenso](https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR) | 4:11 |
 | 48 | [Ponte para Terapia](https://open.spotify.com/track/0QiPpYaOqbq8a5uY2TK7P4) | [Amanda Leite](https://open.spotify.com/artist/4Q49VqEExmuqtNK2QZAthq), [Track Room](https://open.spotify.com/artist/3z9m0AVnhY4i7HHL8wOMdc) | [Ponte para Terapia](https://open.spotify.com/album/5yTc6JsARqGCX6mjUnXRq6) | 3:19 |
 | 49 | [Entre Memórias Tristes](https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL) | [C.I.D](https://open.spotify.com/artist/6z9GhT6hHDjgsc516Txhsl) | [Entre Memórias Tristes](https://open.spotify.com/album/3DXLWxQqSBqWNRCgLQP0Tf) | 5:17 |
 | 50 | [Um momento](https://open.spotify.com/track/3ZBvsS1lEFjKc6kUqsAcHY) | [Gray C.](https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS) | [Um momento](https://open.spotify.com/album/07S8GOxygxS3qpgcaU3npE) | 3:00 |
 
-Snapshot ID: `MCxlYWVmZjY4NTRmNzA0ZWM4NjE1MjIyNmM4ZTFhYTgyNzZkYjVlOTU2`
+Snapshot ID: `MCxlMTllY2RkZDcwNTgwNGRiZDgzNjM5YmUzN2E5NjQ3OGM2NzllNTAx`

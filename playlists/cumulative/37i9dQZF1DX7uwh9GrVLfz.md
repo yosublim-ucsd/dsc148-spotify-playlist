@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: WANIMA
 
-624 songs - 1 day 9 hr 45 min
+625 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [NANANA](https://open.spotify.com/track/3K3NU1VZiAwIoQ7B06aM8I) | [DISTRESS](https://open.spotify.com/artist/2Rseip7lRjsDFTUSEyRj6K) | [NANANA](https://open.spotify.com/album/3r1ufZMtgZzQ8AjZJwxUwB) | 3:54 | 2022-06-21 | 2022-07-20 |
 | [naze kyou tenkiga warui](https://open.spotify.com/track/6xKi8s3RnwFSrBrqJ6H55F) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [naze kyou tenkiga warui](https://open.spotify.com/album/5k6hf0HvYEMWNhEVCy5oqq) | 2:54 | 2023-07-13 | 2023-07-26 |
 | [Never Let Go](https://open.spotify.com/track/54mLLNZy75Nq3WusmnUsKF) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Never Let Go](https://open.spotify.com/album/1OZXwQBMbmHFqt93FGiBsZ) | 3:05 | 2022-05-12 | 2022-07-23 |
-| [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-01-12 |  |
+| [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-01-12 | 2023-09-29 |
 | [Never Wanna Grow Up](https://open.spotify.com/track/2dtAAMlrZq2wpcqh200B7i) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [EVERLASTING](https://open.spotify.com/album/0hMfzTkueV5pZlXtcMotNk) | 2:51 | 2022-06-30 | 2022-11-02 |
 | [New Coaster](https://open.spotify.com/track/6PvvJiVzgcsOHZ4m026aFI) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [New Coaster](https://open.spotify.com/album/53CyhLs70UnvnqmU87B1Yx) | 2:45 | 2022-05-19 | 2022-07-28 |
 | [New Shit](https://open.spotify.com/track/6YKn5ACbOOiZ1sm6qQoT7O) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [A YEAR OF STRENGTH](https://open.spotify.com/album/1uorBMQ4jsjiHv4sqdSUTp) | 3:02 | 2023-09-19 |  |
@@ -515,6 +515,7 @@
 | [スモールワールド](https://open.spotify.com/track/5JQo1K1OYDpGLTw3dmVNvG) | [ジョズエ](https://open.spotify.com/artist/3hHyAPKqKkciTod3I07ofN) | [エレクとリック](https://open.spotify.com/album/7sevoP2cNy9VoTZ8gmGIWl) | 3:30 | 2022-06-07 | 2022-07-27 |
 | [タイムリミット](https://open.spotify.com/track/2chhBg7aGSGfxcmUjsAaKz) | [The Homesicks](https://open.spotify.com/artist/0U4GtZUDLZUvZdBWreoniH) | [タイムリミット](https://open.spotify.com/album/5yzKKgiw46sDS7uXqa0a8Q) | 3:49 | 2022-05-12 | 2022-07-29 |
 | [ティーンエイジじゃいられない](https://open.spotify.com/track/0qKNyKMNO8yPOENW7OZojB) | [ザ・暴動チャイルズ](https://open.spotify.com/artist/1rAfll9jPLKIllRhvevUMM) | [ティーンエイジじゃいられない](https://open.spotify.com/album/412bWzSB7KxVdzx8LZEqlO) | 3:56 | 2022-07-19 | 2022-08-10 |
+| [ディストラクション・シスターズ](https://open.spotify.com/track/7Lr7JP6qEkoDMGFHtyrJHa) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/4t2okOrlqsIZ15pZfdhtuZ) | 2:30 | 2023-09-28 |  |
 | [トライアングル](https://open.spotify.com/track/0RWjmkpOBORnRYE9RmspiO) | [Heavenstamp](https://open.spotify.com/artist/72Ejp7y60pGCASGkZ8ZAzI) | [トライアングル](https://open.spotify.com/album/0J9pydBaNaLxr4Et8E4TzH) | 1:42 | 2023-07-20 |  |
 | [ドブ川にサヨナラ](https://open.spotify.com/track/3omVAHBli472mnyUQ2xEKu) | [PROM](https://open.spotify.com/artist/2gv2xgqjo0hWWwmaF9ddQw) | [HYPER ACTIVE BLUES](https://open.spotify.com/album/51GLlQMiCQLluqWDYkH3e3) | 5:51 | 2022-05-31 | 2022-06-23 |
 | [ハイライト](https://open.spotify.com/track/0iMrvYZ2ULhJxSDUNYv8K9) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:09 | 2022-07-21 | 2023-03-22 |

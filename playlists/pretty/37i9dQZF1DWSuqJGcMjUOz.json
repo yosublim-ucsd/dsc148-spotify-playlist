@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3931,
+  "num_followers": 3930,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDg1NGE3ZGJiNTBhM2UyM2FjNTc4ZmFjODhjYjI0MjA1YjlmODVk",
+  "snapshot_id": "MCxlYTdlMWQxMDJkMmFhNGVkNjQxOWZkMjdiODk5NDkxZjFlMTY3ODI4",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -283,18 +283,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Montagnes Russes",
-        "url": "https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN"
+        "name": "PASSAGER (((8)))",
+        "url": "https://open.spotify.com/album/1j6Hm4xPK55jzp6dftmZiq"
       },
       "artists": [
         {
-          "name": "Lujipeka",
-          "url": "https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt"
+          "name": "Prinzly",
+          "url": "https://open.spotify.com/artist/6CecCbMlZKpr8sovW5ucq1"
+        },
+        {
+          "name": "Laylow",
+          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
         }
       ],
-      "duration_ms": 159173,
-      "name": "Poup\u00e9e Russe",
-      "url": "https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM"
+      "duration_ms": 93320,
+      "name": "STATION II - DIGITAL EMOTIONS",
+      "url": "https://open.spotify.com/track/4XUB9CgU0IREYuYlN3KXD5"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -315,22 +319,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "PASSAGER (((8)))",
-        "url": "https://open.spotify.com/album/1j6Hm4xPK55jzp6dftmZiq"
+        "name": "Montagnes Russes",
+        "url": "https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN"
       },
       "artists": [
         {
-          "name": "Prinzly",
-          "url": "https://open.spotify.com/artist/6CecCbMlZKpr8sovW5ucq1"
-        },
-        {
-          "name": "Laylow",
-          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
+          "name": "Lujipeka",
+          "url": "https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt"
         }
       ],
-      "duration_ms": 93320,
-      "name": "STATION II - DIGITAL EMOTIONS",
-      "url": "https://open.spotify.com/track/4XUB9CgU0IREYuYlN3KXD5"
+      "duration_ms": 159173,
+      "name": "Poup\u00e9e Russe",
+      "url": "https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Moussa",
-        "url": "https://open.spotify.com/album/1oxEKKN1NH5dTgQKiLkOiX"
-      },
-      "artists": [
-        {
-          "name": "Prince Waly",
-          "url": "https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy"
-        },
-        {
-          "name": "Freeze corleone",
-          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Balotelli (feat. Freeze Corleone)",
-      "url": "https://open.spotify.com/track/41DFvj092Ab3wcUJXTCRqG"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "10 ans d'Enfantillages !",
         "url": "https://open.spotify.com/album/20yuAjZhTVhDHcYx6dep1w"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 194813,
       "name": "Pour louper l'\u00e9cole",
       "url": "https://open.spotify.com/track/0XW5XY9LcCw6hpS7EuORkj"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Moussa",
+        "url": "https://open.spotify.com/album/1oxEKKN1NH5dTgQKiLkOiX"
+      },
+      "artists": [
+        {
+          "name": "Prince Waly",
+          "url": "https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy"
+        },
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "Balotelli (feat. Freeze Corleone)",
+      "url": "https://open.spotify.com/track/41DFvj092Ab3wcUJXTCRqG"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Tout \u00e9cartill\u00e9 (\u00c9dition deluxe)",
-        "url": "https://open.spotify.com/album/6CVsvtnm5djtroRFwBmbJ2"
-      },
-      "artists": [
-        {
-          "name": "Robert Charlebois",
-          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Je reviendrai \u00e0 Montr\u00e9al",
-      "url": "https://open.spotify.com/track/4e8LJBfqbFPybUtCUnLh2E"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Je Suis Canicule",
         "url": "https://open.spotify.com/album/4hWU5w4QTHAkB2mXM5PRgn"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 224415,
       "name": "3.5",
       "url": "https://open.spotify.com/track/2yA4AFOcgm7GoBrqzZuFEv"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Tout \u00e9cartill\u00e9 (\u00c9dition deluxe)",
+        "url": "https://open.spotify.com/album/6CVsvtnm5djtroRFwBmbJ2"
+      },
+      "artists": [
+        {
+          "name": "Robert Charlebois",
+          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Je reviendrai \u00e0 Montr\u00e9al",
+      "url": "https://open.spotify.com/track/4e8LJBfqbFPybUtCUnLh2E"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Waska Matisiwin",
+        "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
+      },
+      "artists": [
+        {
+          "name": "Laura Niquay",
+          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+        }
+      ],
+      "duration_ms": 118609,
+      "name": "Wactenamaci - Illumine-moi",
+      "url": "https://open.spotify.com/track/3gyVI0iEcLv4DPMHq1VXfX"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Danser",
         "url": "https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 205030,
       "name": "Te revoir",
       "url": "https://open.spotify.com/track/6mmc1ZPn4H3bD16P3Gh74z"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Waska Matisiwin",
-        "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
-      },
-      "artists": [
-        {
-          "name": "Laura Niquay",
-          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
-        }
-      ],
-      "duration_ms": 118609,
-      "name": "Wactenamaci - Illumine-moi",
-      "url": "https://open.spotify.com/track/3gyVI0iEcLv4DPMHq1VXfX"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "La fable de la grenouille dor\u00e9e",
-        "url": "https://open.spotify.com/album/2tcDyiKN4BWbQXgW494el5"
-      },
-      "artists": [
-        {
-          "name": "Vend\u00f4me",
-          "url": "https://open.spotify.com/artist/0Ynccr9no1SvYRuIL8jKqJ"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "03.04.19",
-      "url": "https://open.spotify.com/track/1rnnLXCZgFbnXw529B21H6"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "C-17",
         "url": "https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc"
       },
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "La fable de la grenouille dor\u00e9e",
+        "url": "https://open.spotify.com/album/2tcDyiKN4BWbQXgW494el5"
+      },
+      "artists": [
+        {
+          "name": "Vend\u00f4me",
+          "url": "https://open.spotify.com/artist/0Ynccr9no1SvYRuIL8jKqJ"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "03.04.19",
+      "url": "https://open.spotify.com/track/1rnnLXCZgFbnXw529B21H6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Aurore",
         "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
       },
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Alexandre Martel",
-        "url": "https://open.spotify.com/album/12gDz8t5kwGaQtuWrwVEsH"
-      },
-      "artists": [
-        {
-          "name": "Anatole",
-          "url": "https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396"
-        }
-      ],
-      "duration_ms": 258215,
-      "name": "Toune 9",
-      "url": "https://open.spotify.com/track/6SIBHaXzFYw7NG98NnNbWL"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "GLAM",
         "url": "https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 236906,
       "name": "Rock Band",
       "url": "https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Alexandre Martel",
+        "url": "https://open.spotify.com/album/12gDz8t5kwGaQtuWrwVEsH"
+      },
+      "artists": [
+        {
+          "name": "Anatole",
+          "url": "https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396"
+        }
+      ],
+      "duration_ms": 258215,
+      "name": "Toune 9",
+      "url": "https://open.spotify.com/track/6SIBHaXzFYw7NG98NnNbWL"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Prince Limonade",
+        "url": "https://open.spotify.com/album/6TfxUEEZnlT5xXyCQS1H3M"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8nanza",
+          "url": "https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30"
+        }
+      ],
+      "duration_ms": 345249,
+      "name": "Entre tes doigts",
+      "url": "https://open.spotify.com/track/44hD1LTCxIFhqOzqx9vaFh"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "normal",
         "url": "https://open.spotify.com/album/6oCINsAkkdM3RguhaI8IOI"
       },
@@ -1867,22 +1883,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Prince Limonade",
-        "url": "https://open.spotify.com/album/6TfxUEEZnlT5xXyCQS1H3M"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8nanza",
-          "url": "https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30"
-        }
-      ],
-      "duration_ms": 345249,
-      "name": "Entre tes doigts",
-      "url": "https://open.spotify.com/track/44hD1LTCxIFhqOzqx9vaFh"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "La clairi\u00e8re",
         "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
       },
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Pas l'temps d'niaiser",
-        "url": "https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz"
-      },
-      "artists": [
-        {
-          "name": "Les H\u00f4tesses D' Hilaire",
-          "url": "https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Inconfortable",
-      "url": "https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Moteur super sport",
         "url": "https://open.spotify.com/album/61Ducr5serAJxHZqNONiPt"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 191420,
       "name": "Moteur super sport",
       "url": "https://open.spotify.com/track/0S1RVvLHeDxRU4tcVbyWJX"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Pas l'temps d'niaiser",
+        "url": "https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz"
+      },
+      "artists": [
+        {
+          "name": "Les H\u00f4tesses D' Hilaire",
+          "url": "https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Inconfortable",
+      "url": "https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Nouvelle administration",
+        "url": "https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u"
+      },
+      "artists": [
+        {
+          "name": "Philippe B",
+          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
+        }
+      ],
+      "duration_ms": 198145,
+      "name": "Nouvelle administration",
+      "url": "https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Or",
         "url": "https://open.spotify.com/album/7baidwdjs0YAGX4eKVMK7e"
       },
@@ -1999,18 +2015,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Nouvelle administration",
-        "url": "https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u"
+        "name": "Winston Express",
+        "url": "https://open.spotify.com/album/5vPTLJRuspTFLoFb0u3wbT"
       },
       "artists": [
         {
-          "name": "Philippe B",
-          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
+          "name": "Le Winston Band",
+          "url": "https://open.spotify.com/artist/7wJPp0dMiA9SxxjryGyOqG"
         }
       ],
-      "duration_ms": 198145,
-      "name": "Nouvelle administration",
-      "url": "https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu"
+      "duration_ms": 220186,
+      "name": "Fais-moi tien",
+      "url": "https://open.spotify.com/track/4vj6a6z7R1kBa4W9RTS4Le"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2027,22 +2043,6 @@
       "duration_ms": 181286,
       "name": "Lance-Flamme Lance-Glace",
       "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Winston Express",
-        "url": "https://open.spotify.com/album/5vPTLJRuspTFLoFb0u3wbT"
-      },
-      "artists": [
-        {
-          "name": "Le Winston Band",
-          "url": "https://open.spotify.com/artist/7wJPp0dMiA9SxxjryGyOqG"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "Fais-moi tien",
-      "url": "https://open.spotify.com/track/4vj6a6z7R1kBa4W9RTS4Le"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Bad Vibrations",
-        "url": "https://open.spotify.com/album/7yb4goAE9BXatz579m7XHO"
-      },
-      "artists": [
-        {
-          "name": "Mudie",
-          "url": "https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr"
-        }
-      ],
-      "duration_ms": 167851,
-      "name": "Alien 2, le retour",
-      "url": "https://open.spotify.com/track/36EOocCydeuIBIAsQjjSRR"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "On va sauver ce qui reste",
         "url": "https://open.spotify.com/album/6klAWNXAeknSb05EFLbllK"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 123541,
       "name": "Chou",
       "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Bad Vibrations",
+        "url": "https://open.spotify.com/album/7yb4goAE9BXatz579m7XHO"
+      },
+      "artists": [
+        {
+          "name": "Mudie",
+          "url": "https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr"
+        }
+      ],
+      "duration_ms": 167851,
+      "name": "Alien 2, le retour",
+      "url": "https://open.spotify.com/track/36EOocCydeuIBIAsQjjSRR"
     },
     {
       "added_at": "2023-05-25 23:46:15",

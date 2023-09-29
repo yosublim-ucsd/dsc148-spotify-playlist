@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-185 songs - 10 hr 23 min
+186 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [ilhaam](https://open.spotify.com/track/1OZB6eUNMHMKEej1cdcVhZ) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Rishabh Raghuvanshi](https://open.spotify.com/artist/6kiIpLgnbr3H9PCF4Rld8i) | [ilhaam](https://open.spotify.com/album/1uJxwiRhcsb96SPV5U03IH) | 4:40 | 2023-05-17 | 2023-06-27 |
 | [Intezaar Tha \- Reprise](https://open.spotify.com/track/4u4n04LrxLlT4pVpqGlqKX) | [Sai Kabir](https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT) | [Tiku Weds Sheru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ) | 1:18 | 2023-06-23 | 2023-07-25 |
 | [Ishq Ki Baat](https://open.spotify.com/track/40rKj95kijRhQThm1RHo0f) | [Milan](https://open.spotify.com/artist/6uabsr2THX1Yls9VsqeQti) | [Ishq Ki Baat](https://open.spotify.com/album/0tnHMFYxC1zZrdtvo2DqXH) | 1:31 | 2023-07-14 |  |
-| [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 |  |
+| [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-09-29 |
 | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH) | [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0), [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/album/3IAapIBUVv73r0oiWzqxwW) | 3:38 | 2023-08-02 |  |
 | [Jabse Tu Humko Mila](https://open.spotify.com/track/23eVI4PMTL85SeOx4ploWd) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG) | [Jabse Tu Humko Mila](https://open.spotify.com/album/257189U2uvn9pVrkVL86vN) | 2:45 | 2023-07-14 |  |
 | [Jana Hai Wahaan](https://open.spotify.com/track/07411IoQ0y3ZFRV5GRUgUQ) | [Indofuzon](https://open.spotify.com/artist/33yokOSkYWfoJ6NUPCRltH) | [Jana Hai Wahaan](https://open.spotify.com/album/5ExO3b4TvRGhYC6p8Ubqv8) | 2:32 | 2023-05-17 | 2023-06-21 |
@@ -140,6 +140,7 @@
 | [Parwaah](https://open.spotify.com/track/5CeWyGt9oMtsBBOLtYRTl5) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK) | [Parwaah](https://open.spotify.com/album/0bxsenYWUkYi3nEDuPefhd) | 4:22 | 2023-05-17 | 2023-06-24 |
 | [Patang](https://open.spotify.com/track/6RD9dthWpHuwQj1CDENCZD) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:35 | 2023-05-17 | 2023-08-10 |
 | [Pehli Baarish \- Acoustic](https://open.spotify.com/track/3nH2qforxZ3ZWtCOne2m0F) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish \(Acoustic\)](https://open.spotify.com/album/5In5fUCXEXXNtaNfjsMscl) | 2:26 | 2023-06-30 | 2023-09-22 |
+| [Piya Tose Naina Lage Re](https://open.spotify.com/track/3DsIkyKjAe4yOvTsaS6dnn) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Kuhu Kuhu](https://open.spotify.com/album/4WXQQBBQsr1sKMp2I3IPGB) | 4:14 | 2023-09-28 |  |
 | [Pyaar Tera](https://open.spotify.com/track/454wwgqDwt9GsAMPQO2SVf) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2ZVdtecXaxrPhNTNoRwuzf) | 3:24 | 2023-06-02 | 2023-07-16 |
 | [Raah](https://open.spotify.com/track/3FnaNHFWHmWUs5sMyGhhiN) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC) | [Raah](https://open.spotify.com/album/4riwoENCoewQiI4k1fK9xj) | 2:57 | 2023-05-17 | 2023-07-15 |
 | [Raahain](https://open.spotify.com/track/4AO54xVKbDQroXgi2l7V9d) | [Peferd Da Costa](https://open.spotify.com/artist/00ubzRw4KemETUjdvwKqJp) | [Raahain](https://open.spotify.com/album/6pLKX0flGA3GoR3uhO0l1j) | 3:32 | 2023-09-15 |  |

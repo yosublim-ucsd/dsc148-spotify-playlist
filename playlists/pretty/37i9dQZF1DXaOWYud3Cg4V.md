@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,797 likes - 44 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,837 likes - 44 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 21 | [Pink Champagne](https://open.spotify.com/track/720ucZYHzfmoHxge37h8Pk) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV) | [Presenting Joe Liggins](https://open.spotify.com/album/3hszd9c8nejbnEIDwCwo3n) | 3:03 |
 | 22 | [I Don't Know](https://open.spotify.com/track/7J8g9n29cAxSlLxeHrKCLI) | [Willie Mabon](https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn) | [Presenting Willie Mabon](https://open.spotify.com/album/2Y3IduVxiiyB9cxhFthGim) | 3:10 |
 | 23 | [It Hurts Me to My Heart](https://open.spotify.com/track/5zlYphxm4NbQLdwjmdedqP) | [Faye Adams](https://open.spotify.com/artist/1bx4W3T0zPKzmsrRTvquWV) | [Shake a Hand / It Hurts Me to My Heart](https://open.spotify.com/album/6EJmbWQA8saJygAAslAUVE) | 3:00 |
-| 24 | [Smooth Sailing](https://open.spotify.com/track/6vubuLvaXL1bO4hQbAzG2E) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Ray Charles Singers](https://open.spotify.com/artist/716xTLDou3FHSi9mXOMU1Z) | [Lullabies Of Birdland](https://open.spotify.com/album/44zUpA9KsYPplGV7HZmE8K) | 3:06 |
+| 24 | [Smooth Sailing](https://open.spotify.com/track/6vubuLvaXL1bO4hQbAzG2E) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [Lullabies Of Birdland](https://open.spotify.com/album/44zUpA9KsYPplGV7HZmE8K) | 3:06 |
 | 25 | [Hound Dog \- Big Mama Thornton](https://open.spotify.com/track/1D2Rry5X9rQefHiAgjDyzH) | [Marc Shaiman](https://open.spotify.com/artist/4A5NGno1SttXk4vB4SLGHo) | ["A Few Good Men" Soundtrack](https://open.spotify.com/album/427yEXDJIEwSyecqczfbLu) | 2:51 |
 | 26 | [Good Rockin' Daddy](https://open.spotify.com/track/2tVssyr73lk9hNQr5z7iAD) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:25 |
 | 27 | [Rag Mop](https://open.spotify.com/track/5SOjgaven2icwH6GrRgzGL) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Hamp The Legendary Decca Recordings Of Lionel Hampton](https://open.spotify.com/album/4u5Gz5gglo9hj5G47NffQA) | 2:49 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 43 | [Booted](https://open.spotify.com/track/3mKwsHWqKv7mzVpZZwPsPH) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 3:04 |
 | 44 | [I Want You \- Remastered](https://open.spotify.com/track/4DJHfD8qXvko3yGNCAOH9A) | [The Cadets](https://open.spotify.com/artist/6kGIQDvdaEyZBA3aUyRHIO) | [Giving You Do\-Wop! \(Remastered\)](https://open.spotify.com/album/4Bs215DPmboswx7jMnuaDm) | 2:49 |
 
-Snapshot ID: `MCxhODczYmE1MjhiMDFlOGMyZWUzZDE3NjE3N2U3NTA0OWFiZDY4ZjMw`
+Snapshot ID: `MCwwZjJmNDg1OGNjNjE1YzM2YjdjOWM5YTUwMWRjYTkxYWExMDVkNzIy`

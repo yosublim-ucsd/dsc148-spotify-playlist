@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v?si=wbOt7KOzRWmFwXWKXV6xZg">Brendan Peyper</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR?si=mZ8ikRBSTVSQSEDaw\_NeXA">Marno van der Merwe</a>
 
 174 songs - 9 hr 44 min
 

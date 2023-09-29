@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 45519,
+  "num_followers": 45567,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWJiMDE1ZTNlYTc1Yzc5NTIwODFhNjkwNmQwZGVhNDhlM2VhMmMz",
+  "snapshot_id": "MCw2MDBkNDc3MGMxNmFkN2RmZThmYzE1ZjQ1MDQ5N2Y5YWY4N2M1OWUw",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:44",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "LP.8",
+        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 182485,
+      "name": "Olga",
+      "url": "https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Time Is Local",
         "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
       },
@@ -619,18 +635,18 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "LP.8",
-        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
+        "name": "Untethering",
+        "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
       },
       "artists": [
         {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+          "name": "Sea Oleena",
+          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
         }
       ],
-      "duration_ms": 182485,
-      "name": "Olga",
-      "url": "https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi"
+      "duration_ms": 418349,
+      "name": "Untethering",
+      "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -651,22 +667,6 @@
       "duration_ms": 121680,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/57R08VnhqGxJ9gQibB9ARS"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "Untethering",
-        "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
-      },
-      "artists": [
-        {
-          "name": "Sea Oleena",
-          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
-        }
-      ],
-      "duration_ms": 418349,
-      "name": "Untethering",
-      "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Eyeline",
-        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
-      },
-      "artists": [
-        {
-          "name": "LEYA",
-          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 104544,
-      "name": "DOG",
-      "url": "https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 460892,
       "name": "Fantas Variation for Voices",
       "url": "https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
+        "name": "Eyeline",
+        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
+      },
+      "artists": [
+        {
+          "name": "LEYA",
+          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 104544,
+      "name": "DOG",
+      "url": "https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
-      },
-      "artists": [
-        {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "Closer Now",
-      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/3eMDV3zY4iHrpQtJG4R7WU"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 89661,
       "name": "Around Me",
       "url": "https://open.spotify.com/track/4mLPOWAetA5UR4b70k6P8s"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+      },
+      "artists": [
+        {
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "Closer Now",
+      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Japanese Summer Lost",
-        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
-      },
-      "artists": [
-        {
-          "name": "Nao'ymt",
-          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
-        }
-      ],
-      "duration_ms": 211942,
-      "name": "Japanese Summer Lost",
-      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
         "name": "Afraid",
         "url": "https://open.spotify.com/album/7lhN1kGdks7l95IDSI8Ot9"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 226640,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/77N3e7R99NiCkHpkQltWzn"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
+        "name": "Japanese Summer Lost",
+        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
+      },
+      "artists": [
+        {
+          "name": "Nao'ymt",
+          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
+        }
+      ],
+      "duration_ms": 211942,
+      "name": "Japanese Summer Lost",
+      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Remission",
         "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 280000,
       "name": "Remission",
       "url": "https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "Illogical Dance",
-        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 473075,
-      "name": "Illogical Lullaby",
-      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Lost in Time",
-        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 114080,
-      "name": "Chapitre I",
-      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
         "name": "Orbits",
         "url": "https://open.spotify.com/album/5yX9DKolmT1yaFht5vQPlL"
       },
@@ -1239,18 +1223,38 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
+        "name": "emerged, vol. II",
+        "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
       },
       "artists": [
         {
-          "name": "YL Hooi",
-          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
+          "name": "badfocus",
+          "url": "https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh"
+        },
+        {
+          "name": "Albert \u0160tifter",
+          "url": "https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi"
         }
       ],
-      "duration_ms": 250440,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
+      "duration_ms": 143157,
+      "name": "abundance",
+      "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 114080,
+      "name": "Chapitre I",
+      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1303,22 +1307,18 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "emerged, vol. II",
-        "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
       },
       "artists": [
         {
-          "name": "badfocus",
-          "url": "https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh"
-        },
-        {
-          "name": "Albert \u0160tifter",
-          "url": "https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi"
+          "name": "YL Hooi",
+          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
         }
       ],
-      "duration_ms": 143157,
-      "name": "abundance",
-      "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
+      "duration_ms": 250440,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Inori (William Basinski Rework)",
-        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        },
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 306154,
-      "name": "Inori - William Basinski Rework",
-      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
         "name": "Meditations Mixtape Vol.1",
         "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
       },
@@ -1411,6 +1391,26 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "Inori (William Basinski Rework)",
+        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        },
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 306154,
+      "name": "Inori - William Basinski Rework",
+      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Celeste",
         "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
       },
@@ -1431,26 +1431,22 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "You Make It Look so Easy (Reverbed by Malibu)",
-        "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
+        "name": "Seeing Inside",
+        "url": "https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF"
       },
       "artists": [
         {
-          "name": "Himera",
-          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
+          "name": "Serena Gabriel",
+          "url": "https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR"
         },
         {
-          "name": "Petal Supply",
-          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+          "name": "Steve Roach",
+          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
         }
       ],
-      "duration_ms": 239232,
-      "name": "You Make It Look so Easy - Reverbed by Malibu",
-      "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
+      "duration_ms": 707200,
+      "name": "From the Sea",
+      "url": "https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1475,22 +1471,26 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
-        "name": "Seeing Inside",
-        "url": "https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF"
+        "name": "You Make It Look so Easy (Reverbed by Malibu)",
+        "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
       "artists": [
         {
-          "name": "Serena Gabriel",
-          "url": "https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR"
+          "name": "Himera",
+          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
         },
         {
-          "name": "Steve Roach",
-          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
         }
       ],
-      "duration_ms": 707200,
-      "name": "From the Sea",
-      "url": "https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig"
+      "duration_ms": 239232,
+      "name": "You Make It Look so Easy - Reverbed by Malibu",
+      "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 295623,
+      "name": "Silent Talk",
+      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Respite",
         "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 227631,
       "name": "Respite",
       "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
-        }
-      ],
-      "duration_ms": 295623,
-      "name": "Silent Talk",
-      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
     },
     {
       "added_at": "2023-09-08 14:04:44",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-09-08 14:04:44",
       "album": {
+        "name": "And You Know I Care",
+        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
+      },
+      "artists": [
+        {
+          "name": "Fiona Brice",
+          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
+    },
+    {
+      "added_at": "2023-09-08 14:04:44",
+      "album": {
         "name": "Immersed in Black Water (Linn Elisabet You Will Version)",
         "url": "https://open.spotify.com/album/5iXsdv1ARtSKnvNo2sBQdx"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 212444,
       "name": "Immersed in Black Water - Linn Elisabet You Will Version",
       "url": "https://open.spotify.com/track/1hrKwQY6BRkpfSnFmUUmUX"
-    },
-    {
-      "added_at": "2023-09-08 14:04:44",
-      "album": {
-        "name": "And You Know I Care",
-        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
-      },
-      "artists": [
-        {
-          "name": "Fiona Brice",
-          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
     },
     {
       "added_at": "2023-09-08 14:04:44",

@@ -574,7 +574,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 155387,
       "name": "Christmas Coco",
       "url": "https://open.spotify.com/track/4l0DzcKqfWJdI9uaxLTcNJ"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 112178,
       "name": "Cozy Fireplace",
       "url": "https://open.spotify.com/track/6l29buL3HPRKy36vzDuNJp"
@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 179861,
       "name": "in A Mang\u00e8",
       "url": "https://open.spotify.com/track/5lBz5nknYlW3d2yVRSfMR3"
@@ -2668,7 +2668,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 118260,
       "name": "latenite",
       "url": "https://open.spotify.com/track/4eaNEchs8ADEH5XfhJlk8K"
@@ -2866,7 +2866,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 98461,
       "name": "Log Cabin",
       "url": "https://open.spotify.com/track/44jlG98OigYNLq8mkEWc2f"
@@ -3572,7 +3572,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 73653,
       "name": "pure imagination",
       "url": "https://open.spotify.com/track/2Hdm6UGkZyY0wilfOCo6w5"
@@ -4178,10 +4178,32 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 139684,
       "name": "sincerely, yours",
       "url": "https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp"
+    },
+    {
+      "album": {
+        "name": "Holiday Hustle",
+        "url": "https://open.spotify.com/album/4nWDxRMiJuKx5BCsPFbK0S"
+      },
+      "artists": [
+        {
+          "name": "james.lfo",
+          "url": "https://open.spotify.com/artist/68x86W8SsxxJjDIT8SoWUa"
+        },
+        {
+          "name": "William Claeson",
+          "url": "https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231471,
+      "name": "Slay Bells",
+      "url": "https://open.spotify.com/track/3RSrEnMcJ48u9bQZi0TIoo"
     },
     {
       "album": {

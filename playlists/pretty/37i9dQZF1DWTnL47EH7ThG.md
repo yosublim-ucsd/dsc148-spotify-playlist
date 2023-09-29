@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,141 likes - 173 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,165 likes - 173 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 58 | [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 |
 | 59 | [Negus Poem 1 & 2](https://open.spotify.com/track/6hzSpBS8PUgEBzIPmnzUc6) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [Forever, Ya Girl](https://open.spotify.com/album/4jZGBAQ1iYaWlYndJ8h7LS) | 3:34 |
 | 60 | [Dreams](https://open.spotify.com/track/5HnEjIeK0hpoMqPY5H4WB7) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf) | 3:22 |
-| 61 | [a boy](https://open.spotify.com/track/42iyVfHqBN9YWXF4cQZ5IS) | [Betty Belle](https://open.spotify.com/artist/45Ndw1FM9epvaUXQXYGbST) | [a boy](https://open.spotify.com/album/3cMo9uXBv09Z1aUBxJ66tt) | 1:54 |
+| 61 | [a boy](https://open.spotify.com/track/42iyVfHqBN9YWXF4cQZ5IS) | [Betty](https://open.spotify.com/artist/45Ndw1FM9epvaUXQXYGbST) | [a boy](https://open.spotify.com/album/3cMo9uXBv09Z1aUBxJ66tt) | 1:54 |
 | 62 | [Oh Boy](https://open.spotify.com/track/1VqshjuUU602SPiZulCkHc) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Shapeshyfter](https://open.spotify.com/album/0cESoqQSfbpjOLuT3b23G0) | 3:44 |
 | 63 | [Svengali](https://open.spotify.com/track/4mIJ0lm0B8ynSPeGTjqJ5G) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Svengali](https://open.spotify.com/album/2NqZ5jCcoAevfo62dyJKk5) | 2:59 |
 | 64 | [Friendly](https://open.spotify.com/track/41s3kJ6aOLNLDs9MT7tMYO) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:00 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 172 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 | 173 | [Follow Me \- Skeptical Remix](https://open.spotify.com/track/040XDv8exmt03jJNMB6BhQ) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Skeptical](https://open.spotify.com/artist/28ee6rnxMl8AqwcroPfivP) | [Follow Me \(Remixes\)](https://open.spotify.com/album/2PuyaW7cXMyhikQ95l2jXU) | 3:49 |
 
-Snapshot ID: `MCxjZDZkZGEzZGEwYWNkYjdhOTU5MDFkM2QyYTcyYzI1MWQ5NTg0YmYz`
+Snapshot ID: `MCxiNDE5OTY2ZTRmMGZmNzlmYTQzMzU1YTQyNGFiOWU0ZmU4NzZiMWMw`

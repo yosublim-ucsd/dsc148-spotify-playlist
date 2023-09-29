@@ -3983,6 +3983,28 @@
     },
     {
       "album": {
+        "name": "Butterfly Nebula",
+        "url": "https://open.spotify.com/album/0f88ojWKFcQKvEx6ijvCDG"
+      },
+      "artists": [
+        {
+          "name": "CENTER MASS",
+          "url": "https://open.spotify.com/artist/1eLW5YCVTC1dO6FldG4Qxi"
+        },
+        {
+          "name": "Todd Krasovetz",
+          "url": "https://open.spotify.com/artist/4mbzotXsaIc5M8pWR6Bg6K"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380000,
+      "name": "Butterfly Nebula",
+      "url": "https://open.spotify.com/track/0oyyoFopF05tsnphR43pJq"
+    },
+    {
+      "album": {
         "name": "By Your Side (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
       },
@@ -5819,6 +5841,28 @@
     },
     {
       "album": {
+        "name": "Trapping in Space",
+        "url": "https://open.spotify.com/album/6lM1mSh8Xx4unNbIhNzkFK"
+      },
+      "artists": [
+        {
+          "name": "$ecrecy",
+          "url": "https://open.spotify.com/artist/5JPI07a5YJddqQI8Yqx7FO"
+        },
+        {
+          "name": "BIGBABYGUCCI",
+          "url": "https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139080,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/3tHqq6OkppBKkzqBaxD2D4"
+    },
+    {
+      "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
       },
@@ -5834,6 +5878,24 @@
       "duration_ms": 177506,
       "name": "Demons",
       "url": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR"
+    },
+    {
+      "album": {
+        "name": "Deseydin Anlard\u0131m",
+        "url": "https://open.spotify.com/album/5sj53KwqstRLO9M02A09xM"
+      },
+      "artists": [
+        {
+          "name": "EDES",
+          "url": "https://open.spotify.com/artist/2CKGWwaI4Uxv9jzCa1F8kZ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Deseydin Anlard\u0131m",
+      "url": "https://open.spotify.com/track/4hEOOThHrSHJrpkIXn1Ab2"
     },
     {
       "album": {
@@ -7945,6 +8007,24 @@
     },
     {
       "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229627,
+      "name": "Face-off",
+      "url": "https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -8418,7 +8498,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -8472,7 +8552,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 91869,
       "name": "Formula",
       "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
@@ -11868,7 +11948,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 122338,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
@@ -13674,7 +13754,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -13692,7 +13772,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-27",
+      "date_removed": null,
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
@@ -16104,7 +16184,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -26032,7 +26112,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 255680,
       "name": "Tumblr Girls (feat. Christoph Andersson)",
       "url": "https://open.spotify.com/track/4Fv6wNYUixnYkj3Dgfrls8"
@@ -26538,7 +26618,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"

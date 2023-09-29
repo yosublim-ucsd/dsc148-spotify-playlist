@@ -6384,10 +6384,36 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 225600,
       "name": "Garadi Title Track (From \"Garadi\")",
       "url": "https://open.spotify.com/track/61vsNRNqUQs9htOvb2pTH7"
+    },
+    {
+      "album": {
+        "name": "Garadi Title Track (From \"Garadi\")",
+        "url": "https://open.spotify.com/album/5hdtJG3w7foLoW9gY8mP4I"
+      },
+      "artists": [
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Garadi Title Track (From \"Garadi\")",
+      "url": "https://open.spotify.com/track/6uaOJCLS6kZXidqfykTAgP"
     },
     {
       "album": {
@@ -18042,6 +18068,28 @@
       "duration_ms": 202153,
       "name": "Shivani (From \"Kousalya Supraja Rama\")",
       "url": "https://open.spotify.com/track/28aOMbbEz3NpMmW6LOBDkE"
+    },
+    {
+      "album": {
+        "name": "Chikku (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2srywFK4e1aWMg1jRrzaMc"
+      },
+      "artists": [
+        {
+          "name": "Dhibu Ninan Thomas",
+          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
+        },
+        {
+          "name": "Poorvi",
+          "url": "https://open.spotify.com/artist/1p6wzhk9wb6HEoe7kjYYTx"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74378,
+      "name": "Show Me The Way - From \"Chithha\"",
+      "url": "https://open.spotify.com/track/6zhXNooUvN5U92HM2gWhWt"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 732841,
+  "num_followers": 733043,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjZlZTBhMGRhMGUwYmU2NTI4OTdiNzY2ZTVjYjVjMTM2ZDE5OThk",
+  "snapshot_id": "MCw3ZGUzMzJjYTIyZGIwMDE0Mjk4NmJjNWEzZmZlOWRjYWEyOGZiYzFm",
   "tracks": [
     {
       "added_at": "2023-09-01 17:03:00",
@@ -371,26 +371,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Agua e pipa",
-        "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
-      },
-      "artists": [
-        {
-          "name": "Buddha-Bar",
-          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
-        },
-        {
-          "name": "Jose Solano",
-          "url": "https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc"
-        }
-      ],
-      "duration_ms": 202553,
-      "name": "Agua e pipa",
-      "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Milambi",
         "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 193278,
       "name": "Milambi",
       "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Agua e pipa",
+        "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Jose Solano",
+          "url": "https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc"
+        }
+      ],
+      "duration_ms": 202553,
+      "name": "Agua e pipa",
+      "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
         "name": "Mesta",
         "url": "https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 371106,
       "name": "Mesta",
       "url": "https://open.spotify.com/track/0qPCty2LrwBk1unrp3mRlI"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "The Deep South",
-        "url": "https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY"
-      },
-      "artists": [
-        {
-          "name": "Marco Tegui",
-          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
-        },
-        {
-          "name": "Yusuf Lemone",
-          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
-        }
-      ],
-      "duration_ms": 383775,
-      "name": "Pastorcita",
-      "url": "https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Seymour",
         "url": "https://open.spotify.com/album/2EkkCltldcB3bHm4V9PlmO"
       },
@@ -691,18 +671,22 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Love And Hate",
-        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
+        "name": "The Deep South",
+        "url": "https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY"
       },
       "artists": [
         {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+          "name": "Marco Tegui",
+          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
+        },
+        {
+          "name": "Yusuf Lemone",
+          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
         }
       ],
-      "duration_ms": 267004,
-      "name": "Love And Hate",
-      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
+      "duration_ms": 383775,
+      "name": "Pastorcita",
+      "url": "https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Forlorn Hope",
-        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
       },
       "artists": [
         {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
         }
       ],
-      "duration_ms": 520042,
-      "name": "Forlorn Hope",
-      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
+      "duration_ms": 267004,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -759,6 +743,22 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
+        "name": "Forlorn Hope",
+        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 520042,
+      "name": "Forlorn Hope",
+      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
         "name": "Magic Workout",
         "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
       },
@@ -771,38 +771,6 @@
       "duration_ms": 335877,
       "name": "Magic Workout",
       "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Kanasi",
-        "url": "https://open.spotify.com/album/01lYRkmYe19HKCTPOcrIs1"
-      },
-      "artists": [
-        {
-          "name": "Solidmind",
-          "url": "https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF"
-        }
-      ],
-      "duration_ms": 387898,
-      "name": "Kanasi",
-      "url": "https://open.spotify.com/track/01Fg7rZ2Zlitgplt3TCjQH"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -835,6 +803,38 @@
       "duration_ms": 454680,
       "name": "Into Your Tribe - Bedouin Remix",
       "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Kanasi",
+        "url": "https://open.spotify.com/album/01lYRkmYe19HKCTPOcrIs1"
+      },
+      "artists": [
+        {
+          "name": "Solidmind",
+          "url": "https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF"
+        }
+      ],
+      "duration_ms": 387898,
+      "name": "Kanasi",
+      "url": "https://open.spotify.com/track/01Fg7rZ2Zlitgplt3TCjQH"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Neko Ep",
-        "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
-      },
-      "artists": [
-        {
-          "name": "Jacob Groening",
-          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
-        },
-        {
-          "name": "Kotoe",
-          "url": "https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM"
-        }
-      ],
-      "duration_ms": 273523,
-      "name": "Neko (feat Kotoe)",
-      "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -955,6 +935,26 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
+        "name": "Neko Ep",
+        "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
+      },
+      "artists": [
+        {
+          "name": "Jacob Groening",
+          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
+        },
+        {
+          "name": "Kotoe",
+          "url": "https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM"
+        }
+      ],
+      "duration_ms": 273523,
+      "name": "Neko (feat Kotoe)",
+      "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
       },
@@ -971,6 +971,22 @@
       "duration_ms": 381176,
       "name": "Time",
       "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/137gDgTwqUwTo3pmeCI0gA"
+      },
+      "artists": [
+        {
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+        }
+      ],
+      "duration_ms": 242145,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/3FHvCNoY4Pd8mJjOOaweBN"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Izvor",
-        "url": "https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1"
-      },
-      "artists": [
-        {
-          "name": "Tebra",
-          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Izvor",
-      "url": "https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Unsichtbar (Behrooz Zandi Remix)",
         "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 370196,
       "name": "Unsichtbar - Behrooz Zandi Remix",
       "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Izvor",
+        "url": "https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1"
+      },
+      "artists": [
+        {
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1099,22 +1115,6 @@
       "duration_ms": 400696,
       "name": "White Desert",
       "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Childhood",
-        "url": "https://open.spotify.com/album/137gDgTwqUwTo3pmeCI0gA"
-      },
-      "artists": [
-        {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
-        }
-      ],
-      "duration_ms": 242145,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/3FHvCNoY4Pd8mJjOOaweBN"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Doors To Shambhala",
-        "url": "https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr"
-      },
-      "artists": [
-        {
-          "name": "You Man",
-          "url": "https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp"
-        }
-      ],
-      "duration_ms": 271906,
-      "name": "Ummo",
-      "url": "https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
       },
@@ -1239,22 +1223,6 @@
       "duration_ms": 396960,
       "name": "Ciclos",
       "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1291,18 +1259,18 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
       },
       "artists": [
         {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
         }
       ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1319,6 +1287,38 @@
       "duration_ms": 238168,
       "name": "RAI",
       "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+      },
+      "artists": [
+        {
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+        }
+      ],
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Doors To Shambhala",
+        "url": "https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr"
+      },
+      "artists": [
+        {
+          "name": "You Man",
+          "url": "https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp"
+        }
+      ],
+      "duration_ms": 271906,
+      "name": "Ummo",
+      "url": "https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ"
     },
     {
       "added_at": "2023-09-01 17:03:00",

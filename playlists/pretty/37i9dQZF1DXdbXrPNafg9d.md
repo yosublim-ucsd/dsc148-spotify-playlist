@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Bleachers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,286,283 likes - 145 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,286,330 likes - 145 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 144 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 |
 | 145 | [Why You?](https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Why You?](https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq) | 2:40 |
 
-Snapshot ID: `MCxhNjhmYTVkZTJhMGViNWIzNWI2YWZiMzYzMjA0ODVjODA4OGQxM2Qx`
+Snapshot ID: `MCxkY2UyZmY4YWQwODBjOWZiOTJmM2I0MmJkODEzYmE4MzM0NzdhNTMx`

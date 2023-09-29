@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Kiefer
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,926 likes - 99 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,108 likes - 99 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [Uncertainties](https://open.spotify.com/track/0UpbT3Joops0jxblkZVhZL) | [Tristan De Liege](https://open.spotify.com/artist/56WzaWPSOfPePuPdfHBYr5), [Jambal](https://open.spotify.com/artist/4C4DCj8tcxj5RKpo7AVimE) | [Uncertainties](https://open.spotify.com/album/0cEakLOQxGGg8ndHljx89z) | 5:01 |
 | 99 | [Mischief](https://open.spotify.com/track/68xOMknCX6P1tC5KIe9Use) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Mischief](https://open.spotify.com/album/7bRHMCxk3iNWiQduBnOT8s) | 2:36 |
 
-Snapshot ID: `MCw1YzRiY2Q0ZDU0NzkyY2I4ZWVhN2NjZWJhZDE4ZGQzYTViNjUwYzZj`
+Snapshot ID: `MCwzNjg2YTA1MzkyZmM3YTI2MzhkZjc0M2FiYTIwMWE3YjMzYjJmMjEy`

@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-158 songs - 6 hr 32 min
+159 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bing Bong](https://open.spotify.com/track/6ZZ3aexUFYKMTlrvGqM9mO) | [Augie Haas](https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh) | [Bing Bong](https://open.spotify.com/album/09IebgiVmovUCMx7RcyFWT) | 1:56 | 2022-08-05 | 2023-07-16 |
 | [Bing Bong](https://open.spotify.com/track/6oZkr9amNdp5I8CK9RXFoP) | [Augie Haas](https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh) | [Bing Bong](https://open.spotify.com/album/0oi9yfTN7iiEc28lamOFe3) | 1:56 | 2022-08-05 |  |
 | [Blinds](https://open.spotify.com/track/3tSPA3UxoMgm1MgaoYBCVs) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/38Ke6rGw4tcEqOXXpzEDxt) | 2:39 | 2020-11-12 | 2022-07-29 |
+| [Blinds](https://open.spotify.com/track/6H91Px6JI4cnXDxLMH7Pja) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/2QJjsfcyX01dtcSQhmfBgv) | 2:39 | 2020-11-12 |  |
 | [Blinds](https://open.spotify.com/track/6xZCaA9hXELkApltXgLYxn) | [less.people](https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3) | [Online Mall Music](https://open.spotify.com/album/4u4bgltEl7PxelZBNGXE7r) | 2:39 | 2020-11-12 | 2023-09-16 |
 | [Blossom](https://open.spotify.com/track/6V9JyTxs7RkraVjnom973c) | [Garot Michael Conklin](https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz) | [Blossom](https://open.spotify.com/album/3uaI4KOw8ZLAOxuHMEdk8F) | 2:40 | 2022-03-18 | 2022-07-29 |
 | [Blue Haze](https://open.spotify.com/track/1mxjvX6NeHYGSW7bpgtRfy) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Transitions](https://open.spotify.com/album/45VGwNszNhpqKcYgo3dpZg) | 2:37 | 2020-11-12 |  |
@@ -141,7 +142,7 @@
 | [Spirits](https://open.spotify.com/track/5NZcq9i9Ni9NXMXYVy3fnK) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Spirits](https://open.spotify.com/album/67J6mvJgOvaRxRL4x8mQQa) | 2:24 | 2021-10-29 | 2022-11-20 |
 | [Springman](https://open.spotify.com/track/1QxvBUifBAyr47CPjVYh6v) | [Coubo](https://open.spotify.com/artist/3VZj4YxaCNGpQGm95P1lVq) | [Homewards](https://open.spotify.com/album/1saLXXiujQG2zc5piB9mjk) | 3:39 | 2020-11-12 | 2023-03-22 |
 | [Sriracha](https://open.spotify.com/track/0fIjitxzKgOKRCptRrrPUD) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections 2](https://open.spotify.com/album/7IXZxRPdXWTBwoqjZUo8Vt) | 2:52 | 2020-11-12 |  |
-| [Still](https://open.spotify.com/track/5qal4ZbTdvyDSf2V8BLALE) | [GentleBeatz](https://open.spotify.com/artist/6SgXRhAHCIFsnfnkET5QTH), [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Still](https://open.spotify.com/album/5fyichdZZd9eay631EGKHj) | 2:21 | 2020-11-12 |  |
+| [Still](https://open.spotify.com/track/5qal4ZbTdvyDSf2V8BLALE) | [GentleBeatz](https://open.spotify.com/artist/6SgXRhAHCIFsnfnkET5QTH), [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Still](https://open.spotify.com/album/5fyichdZZd9eay631EGKHj) | 2:21 | 2020-11-12 | 2023-09-29 |
 | [Suave](https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Suave](https://open.spotify.com/album/5txeC1tIBt4cbMNlS2dLR4) | 1:20 | 2020-11-12 |  |
 | [Summer Rain](https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Summer Rain](https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF) | 2:04 | 2022-07-22 |  |
 | [Sun Will Rise](https://open.spotify.com/track/7oFTdwHXmhYDwRW1QXqf8j) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV), [Chinsaku](https://open.spotify.com/artist/0Y4zXpYaV5L4zDiUhmlV0i) | [Sun Will Rise](https://open.spotify.com/album/2HL9SfddGTaBRMxw0akpav) | 2:09 | 2020-11-12 |  |

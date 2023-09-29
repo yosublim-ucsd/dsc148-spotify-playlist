@@ -7131,6 +7131,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Ignorance",
+        "url": "https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16"
+      },
+      "artists": [
+        {
+          "name": "Evening Tales from the Stars",
+          "url": "https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "Peaceful Ignorance",
+      "url": "https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV"
+    },
+    {
+      "album": {
         "name": "Peaceful Rebellion",
         "url": "https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI"
       },
@@ -11254,7 +11272,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 174500,
       "name": "\u00c0 Cheval",
       "url": "https://open.spotify.com/track/48tmOujKv21Ej498FCYjXI"

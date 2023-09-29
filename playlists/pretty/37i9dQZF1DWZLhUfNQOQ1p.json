@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un Negroni in mano. \ud83c\udf79",
-  "num_followers": 244933,
+  "num_followers": 245062,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTU0NWYzYjYzYTdhYjA0ZGI0MzM5YTYyMWMyNWFiMTc1Yjg2MTY1",
+  "snapshot_id": "MCw0MDI4YmUzNzMxNjVjZTZkZDg5NTM5NjQxODMwZGVhMjdhYmUyYWU1",
   "tracks": [
     {
       "added_at": "2023-09-27 08:45:20",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-09-27 08:45:20",
       "album": {
-        "name": "Melody A.M.",
-        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 218320,
-      "name": "Eple",
-      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
-    },
-    {
-      "added_at": "2023-09-27 08:45:20",
-      "album": {
         "name": "Dance of the Crab",
         "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 144479,
       "name": "Dance of the Crab - Edit",
       "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
+    },
+    {
+      "added_at": "2023-09-27 08:45:20",
+      "album": {
+        "name": "Melody A.M.",
+        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 218320,
+      "name": "Eple",
+      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
     },
     {
       "added_at": "2023-09-27 08:45:20",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-09-27 08:45:20",
       "album": {
-        "name": "Say A Little Prayer",
-        "url": "https://open.spotify.com/album/24R2FgklbS0E9JTpNQiZrf"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Amazonian Rockstar",
-          "url": "https://open.spotify.com/artist/3xlmQmCJ52Ip0bktQWPUG4"
-        }
-      ],
-      "duration_ms": 209351,
-      "name": "Say A Little Prayer",
-      "url": "https://open.spotify.com/track/5dYZ382ddDN8xBdJLx7d9e"
-    },
-    {
-      "added_at": "2023-09-27 08:45:20",
-      "album": {
         "name": "Amplified Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 236293,
       "name": "Missing - Todd Terry Remix",
       "url": "https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q"
+    },
+    {
+      "added_at": "2023-09-27 08:45:20",
+      "album": {
+        "name": "Say A Little Prayer",
+        "url": "https://open.spotify.com/album/24R2FgklbS0E9JTpNQiZrf"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Amazonian Rockstar",
+          "url": "https://open.spotify.com/artist/3xlmQmCJ52Ip0bktQWPUG4"
+        }
+      ],
+      "duration_ms": 209351,
+      "name": "Say A Little Prayer",
+      "url": "https://open.spotify.com/track/5dYZ382ddDN8xBdJLx7d9e"
     },
     {
       "added_at": "2023-09-27 08:45:20",

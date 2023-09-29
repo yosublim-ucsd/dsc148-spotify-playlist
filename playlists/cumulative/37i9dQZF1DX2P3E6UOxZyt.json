@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: Jocelyn 9.4.0",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: \u674e\u4f73\u6b61 (Kaia Lee)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 246513,
       "name": "CACTUS",
       "url": "https://open.spotify.com/track/5XEanyXMTmJwi6C3ECSc2j"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 259680,
       "name": "Can't Find",
       "url": "https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 223293,
       "name": "Friends Or ?",
       "url": "https://open.spotify.com/track/6cd94309FnLgWru6RfSYR4"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 161718,
       "name": "idk",
       "url": "https://open.spotify.com/track/2Xcmwm6of2KNJHyYCDiWfH"
@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 159069,
       "name": "OIK",
       "url": "https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb"
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 186323,
       "name": "tbh",
       "url": "https://open.spotify.com/track/3sSWFKh5tbvXmywz24H8rK"
@@ -2922,6 +2922,24 @@
       "duration_ms": 232917,
       "name": "\u4e0a\u9396",
       "url": "https://open.spotify.com/track/01mL9EIfoHlTaQe5eA2pfh"
+    },
+    {
+      "album": {
+        "name": "\u4e0a\u9396",
+        "url": "https://open.spotify.com/album/1kWFgDx7L23PJ0fuIUh8g6"
+      },
+      "artists": [
+        {
+          "name": "Soph T.",
+          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232917,
+      "name": "\u4e0a\u9396",
+      "url": "https://open.spotify.com/track/5vDksybGZvVKPvWvYVu5TA"
     },
     {
       "album": {
@@ -3620,7 +3638,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 257480,
       "name": "\u518d\u70ba\u4f60\u505a\u9ede\u4ec0\u9ebc",
       "url": "https://open.spotify.com/track/1YMhGvNA0ZN5MgJ8HsCYfa"
@@ -4479,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "\u5c0f\u8239",
+        "url": "https://open.spotify.com/album/22hncr4jgLDMOwznK4QwQm"
+      },
+      "artists": [
+        {
+          "name": "163 braces",
+          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163767,
+      "name": "\u5c0f\u8239",
+      "url": "https://open.spotify.com/track/7xx4P9DogV8sqUMtH3JXOn"
+    },
+    {
+      "album": {
         "name": "\u5c31\u7b97\u4e16\u754c\u7d42\u7d50",
         "url": "https://open.spotify.com/album/61CFT40tVHe5JcCpUjdaGC"
       },
@@ -5204,7 +5240,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
@@ -5270,6 +5306,24 @@
       "duration_ms": 214948,
       "name": "\u624d\u6ca1\u6709\u6c38\u8fdc",
       "url": "https://open.spotify.com/track/2IHjpxbh7SeoSp37pcRkxo"
+    },
+    {
+      "album": {
+        "name": "\u628a\u6240\u6709\u7684\u611b\u90fd\u63ee\u970d",
+        "url": "https://open.spotify.com/album/0wG64jKhXBFqzQ6yclsx7N"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u4f73\u6b61",
+          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "\u628a\u6240\u6709\u7684\u611b\u90fd\u63ee\u970d",
+      "url": "https://open.spotify.com/track/2bkU3k04LPBUzFSgPJvsB3"
     },
     {
       "album": {
@@ -7412,7 +7466,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 164467,
       "name": "\u96f6\u7c73\u8ddd\u96e2",
       "url": "https://open.spotify.com/track/2igZxfKydStcl7OYIr0urL"
@@ -7448,7 +7502,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 235280,
       "name": "\u96fb\u7dda\u687f\u4e0a\u7684\u9ce5",
       "url": "https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk"
@@ -7582,7 +7636,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 220529,
       "name": "\u9ed1",
       "url": "https://open.spotify.com/track/0TPQEJA9KeMOJDnKUCeOXs"

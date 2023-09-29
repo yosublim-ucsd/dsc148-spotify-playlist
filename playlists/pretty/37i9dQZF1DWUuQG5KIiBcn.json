@@ -1,12 +1,12 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 502961,
+  "num_followers": 503877,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjRlMGI0ZTFhNGZmMThjMjRmNjFmNDIwYzVhYThhYjQ4YTg1ZjZl",
+  "snapshot_id": "MCxkZGExMmNhMWJjMWUwNjQ0NzZmOThkZDY1NDRjN2VhNDcyMjBjYjAz",
   "tracks": [
     {
       "added_at": "2023-08-22 06:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 169973,
-      "name": "Arturo Garza Trevino",
-      "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "24 Kilates de Corridos",
         "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 199333,
       "name": "Macario Leyva",
       "url": "https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 169973,
+      "name": "Arturo Garza Trevino",
+      "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Lo Mejor De Rancheras",
-        "url": "https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8"
+        "name": "Se Me Canso El Corazon",
+        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
       },
       "artists": [
         {
-          "name": "Luis P\u00e9rez Meza",
-          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 164080,
-      "name": "El Barzon",
-      "url": "https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk"
+      "duration_ms": 168026,
+      "name": "Los Tres Gallos",
+      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Se Me Canso El Corazon",
-        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
+        "name": "Lo Mejor De Rancheras",
+        "url": "https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Luis P\u00e9rez Meza",
+          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
         }
       ],
-      "duration_ms": 168026,
-      "name": "Los Tres Gallos",
-      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
+      "duration_ms": 164080,
+      "name": "El Barzon",
+      "url": "https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Con el Coraz\u00f3n en Sonora",
-        "url": "https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67"
+        "name": "20 Corridos Valientes",
+        "url": "https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE"
       },
       "artists": [
         {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
-        },
-        {
-          "name": "Manuel El Indio Ortega",
-          "url": "https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj"
+          "name": "Luis y Julian",
+          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
         }
       ],
-      "duration_ms": 249774,
-      "name": "Los Tres Amarradores",
-      "url": "https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD"
+      "duration_ms": 192522,
+      "name": "Kil\u00f3metro 1160",
+      "url": "https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "20 Corridos Valientes",
-        "url": "https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE"
+        "name": "Con el Coraz\u00f3n en Sonora",
+        "url": "https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67"
       },
       "artists": [
         {
-          "name": "Luis y Julian",
-          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        },
+        {
+          "name": "Manuel El Indio Ortega",
+          "url": "https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj"
         }
       ],
-      "duration_ms": 192522,
-      "name": "Kil\u00f3metro 1160",
-      "url": "https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs"
+      "duration_ms": 249774,
+      "name": "Los Tres Amarradores",
+      "url": "https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD"
     },
     {
       "added_at": "2023-08-22 06:00:00",

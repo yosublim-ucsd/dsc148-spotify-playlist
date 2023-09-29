@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De 50 populairste hits van Nederland. Cover: Teddy Swims",
+  "description": "De 50 populairste hits van Nederland. Cover: KATNUF",
   "name": "Top Hits NL",
   "tracks": [
     {
@@ -108,6 +108,28 @@
       "duration_ms": 173760,
       "name": "22",
       "url": "https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a"
+    },
+    {
+      "album": {
+        "name": "7K op je feestje",
+        "url": "https://open.spotify.com/album/3ElOBNDYJI00N3IDimQ4ex"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Antybanty",
+          "url": "https://open.spotify.com/artist/0gndIS0odhxIsyIfgDj9pK"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130485,
+      "name": "7K Op Je Feestje",
+      "url": "https://open.spotify.com/track/3StdsywJPGA9TskfcwQpPa"
     },
     {
       "album": {
@@ -1048,7 +1070,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 166000,
       "name": "Een Chick Als (Jade)",
       "url": "https://open.spotify.com/track/6YoYAPb0z1TGznmifvmCwm"
@@ -1226,6 +1248,24 @@
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
       "album": {
@@ -3030,7 +3070,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"

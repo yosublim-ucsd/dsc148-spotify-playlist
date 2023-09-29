@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Pendulum \\m/",
-  "num_followers": 317496,
+  "num_followers": 317588,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzc1YjMxN2U2MGY1MDI5M2FkNDE5MWNkZGI4MzRmODI1OTI0ZWI0",
+  "snapshot_id": "MCxjY2VmZDE5NzRjMjU2NjZkNDUwZDU2ODNlZTVjNGZjMGZlN2E2ZjUy",
   "tracks": [
     {
       "added_at": "2023-09-22 19:24:01",
@@ -1163,22 +1163,18 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
-        "name": "LOVE ME",
-        "url": "https://open.spotify.com/album/6xLWkNCe4smqDmI5XkK3Qb"
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
       },
       "artists": [
         {
-          "name": "KLOUD",
-          "url": "https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu"
-        },
-        {
-          "name": "Gabriel Paris",
-          "url": "https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 204705,
-      "name": "LOVE ME",
-      "url": "https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA"
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
     },
     {
       "added_at": "2023-09-22 19:24:01",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
-        "name": "When You & Me Dance",
-        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+        "name": "LOVE ME",
+        "url": "https://open.spotify.com/album/6xLWkNCe4smqDmI5XkK3Qb"
       },
       "artists": [
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "KLOUD",
+          "url": "https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu"
+        },
+        {
+          "name": "Gabriel Paris",
+          "url": "https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4"
         }
       ],
-      "duration_ms": 221142,
-      "name": "When You & Me Dance",
-      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+      "duration_ms": 204705,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA"
     },
     {
       "added_at": "2023-09-22 19:24:01",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
-        "name": "Liar (with OST)",
-        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "OST",
-          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Liar (with OST)",
-      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
-    },
-    {
-      "added_at": "2023-09-22 19:24:01",
-      "album": {
         "name": "Light Up The Sky (feat. Scott Stapp)",
         "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
       },
@@ -1311,6 +1291,26 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
+        "name": "Liar (with OST)",
+        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "OST",
+          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Liar (with OST)",
+      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
+    },
+    {
+      "added_at": "2023-09-22 19:24:01",
+      "album": {
         "name": "Already Dead",
         "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 139925,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+    },
+    {
+      "added_at": "2023-09-22 19:24:01",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6oh5zFZzFawNVHyo4lzhhX"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 197935,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/0jX4nQqJS7m1fHodsWKpp1"
     },
     {
       "added_at": "2023-09-22 19:24:01",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6oh5zFZzFawNVHyo4lzhhX"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 197935,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/0jX4nQqJS7m1fHodsWKpp1"
-    },
-    {
-      "added_at": "2023-09-22 19:24:01",
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
-        "name": "Ghost Story (with All Time Low)",
-        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 166971,
-      "name": "Ghost Story (with All Time Low)",
-      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
-    },
-    {
-      "added_at": "2023-09-22 19:24:01",
-      "album": {
         "name": "Better Than Before",
         "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
       },
@@ -1503,22 +1483,6 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
-    },
-    {
-      "added_at": "2023-09-22 19:24:01",
-      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/4e2QxrBv9chCtzQRIWCzN8"
       },
@@ -1535,6 +1499,42 @@
       "duration_ms": 202714,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
+    },
+    {
+      "added_at": "2023-09-22 19:24:01",
+      "album": {
+        "name": "Ghost Story (with All Time Low)",
+        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 166971,
+      "name": "Ghost Story (with All Time Low)",
+      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
+    },
+    {
+      "added_at": "2023-09-22 19:24:01",
+      "album": {
+        "name": "Loving You Kills Me",
+        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "Loving You Kills Me",
+      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
     },
     {
       "added_at": "2023-09-22 19:24:01",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 231739,
-      "name": "Playing Chess",
-      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
-    },
-    {
-      "added_at": "2023-09-22 19:24:01",
-      "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
       },
@@ -1915,18 +1899,18 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
       },
       "artists": [
         {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
         }
       ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+      "duration_ms": 231739,
+      "name": "Playing Chess",
+      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
     },
     {
       "added_at": "2023-09-22 19:24:01",
@@ -1967,6 +1951,22 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2023-09-22 19:24:01",
+      "album": {
         "name": "Bad Luck",
         "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
       },
@@ -1983,6 +1983,30 @@
       "duration_ms": 171243,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
+    },
+    {
+      "added_at": "2023-09-22 19:24:01",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/5oSJfTqlsA91P6bZoc6SPV"
+      },
+      "artists": [
+        {
+          "name": "DVRKCLOUD",
+          "url": "https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE"
+        },
+        {
+          "name": "PatFromLastYear",
+          "url": "https://open.spotify.com/artist/0WqLTgwIxVGym0LlUwiHro"
+        },
+        {
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
     },
     {
       "added_at": "2023-09-22 19:24:01",
@@ -2023,30 +2047,6 @@
       "duration_ms": 222400,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR"
-    },
-    {
-      "added_at": "2023-09-22 19:24:01",
-      "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/5oSJfTqlsA91P6bZoc6SPV"
-      },
-      "artists": [
-        {
-          "name": "DVRKCLOUD",
-          "url": "https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE"
-        },
-        {
-          "name": "PatFromLastYear",
-          "url": "https://open.spotify.com/artist/0WqLTgwIxVGym0LlUwiHro"
-        },
-        {
-          "name": "Livingston Crain",
-          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW"
     },
     {
       "added_at": "2023-09-22 19:24:01",
@@ -2151,6 +2151,26 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
+        "name": "Superhuman (with K.Flay)",
+        "url": "https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 240044,
+      "name": "Superhuman (with K.Flay)",
+      "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
+    },
+    {
+      "added_at": "2023-09-22 19:24:01",
+      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/2bGQnP0JUPy0tL3MZq67kD"
       },
@@ -2191,26 +2211,6 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
-        "name": "Superhuman (with K.Flay)",
-        "url": "https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 240044,
-      "name": "Superhuman (with K.Flay)",
-      "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
-    },
-    {
-      "added_at": "2023-09-22 19:24:01",
-      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
       },
@@ -2223,6 +2223,30 @@
       "duration_ms": 292173,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
+    },
+    {
+      "added_at": "2023-09-22 19:24:01",
+      "album": {
+        "name": "Never Go Back",
+        "url": "https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Never Go Back",
+      "url": "https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT"
     },
     {
       "added_at": "2023-09-22 19:24:01",
@@ -2267,26 +2291,6 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
-        "name": "Sleep (with Calcium)",
-        "url": "https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Calcium",
-          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
-        }
-      ],
-      "duration_ms": 214631,
-      "name": "Sleep (with Calcium)",
-      "url": "https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T"
-    },
-    {
-      "added_at": "2023-09-22 19:24:01",
-      "album": {
         "name": "Do Or Die (Alternate Versions)",
         "url": "https://open.spotify.com/album/6C2Xchyqz7zTOBrhUTTCnd"
       },
@@ -2311,6 +2315,26 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
+        "name": "Sleep (with Calcium)",
+        "url": "https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Calcium",
+          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
+        }
+      ],
+      "duration_ms": 214631,
+      "name": "Sleep (with Calcium)",
+      "url": "https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T"
+    },
+    {
+      "added_at": "2023-09-22 19:24:01",
+      "album": {
         "name": "Kill The Machine (feat. Bad/Love)",
         "url": "https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi"
       },
@@ -2331,30 +2355,6 @@
       "duration_ms": 195720,
       "name": "Kill The Machine (feat. Bad/Love)",
       "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
-    },
-    {
-      "added_at": "2023-09-22 19:24:01",
-      "album": {
-        "name": "Never Go Back",
-        "url": "https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD"
-      },
-      "artists": [
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Never Go Back",
-      "url": "https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT"
     },
     {
       "added_at": "2023-09-22 19:24:01",
@@ -2399,26 +2399,6 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
-        "name": "UMBRA",
-        "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
-      },
-      "artists": [
-        {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
-        },
-        {
-          "name": "Voicians",
-          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "UMBRA",
-      "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
-    },
-    {
-      "added_at": "2023-09-22 19:24:01",
-      "album": {
         "name": "self:antiself",
         "url": "https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p"
       },
@@ -2435,6 +2415,26 @@
       "duration_ms": 290454,
       "name": "Ghostbox",
       "url": "https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI"
+    },
+    {
+      "added_at": "2023-09-22 19:24:01",
+      "album": {
+        "name": "UMBRA",
+        "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
+      },
+      "artists": [
+        {
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+        },
+        {
+          "name": "Voicians",
+          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "UMBRA",
+      "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
     },
     {
       "added_at": "2023-09-22 19:24:01",
@@ -2459,26 +2459,6 @@
     {
       "added_at": "2023-09-22 19:24:01",
       "album": {
-        "name": "Dichotomy",
-        "url": "https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 221028,
-      "name": "BITCH",
-      "url": "https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W"
-    },
-    {
-      "added_at": "2023-09-22 19:24:01",
-      "album": {
         "name": "Cute Without The E (Ziri)",
         "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
       },
@@ -2495,6 +2475,26 @@
       "duration_ms": 202105,
       "name": "Cute Without The E (Ziri)",
       "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
+    },
+    {
+      "added_at": "2023-09-22 19:24:01",
+      "album": {
+        "name": "Dichotomy",
+        "url": "https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        },
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 221028,
+      "name": "BITCH",
+      "url": "https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W"
     }
   ],
   "unique_name": "Rocktronic",

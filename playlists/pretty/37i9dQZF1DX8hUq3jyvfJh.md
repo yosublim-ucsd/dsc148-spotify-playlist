@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Juliette e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,432 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,444 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 19 | [danos colaterais](https://open.spotify.com/track/6NpyaGzRIy3ZAyrWp7GAiC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [danos colaterais](https://open.spotify.com/album/3HqcMHOo5q5TKiW758pE9y) | 2:41 |
 | 20 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
 | 21 | [Pausa](https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Pausa](https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H) | 3:39 |
-| 22 | [Chá De Camomila](https://open.spotify.com/track/6HEbNUXxMipde8vEtSZ49N) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 3:11 |
-| 23 | [Nem Eu Me Entendo](https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Múltipla](https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2) | 2:41 |
+| 22 | [Nem Eu Me Entendo](https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Múltipla](https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2) | 2:41 |
+| 23 | [Chá De Camomila](https://open.spotify.com/track/6HEbNUXxMipde8vEtSZ49N) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 3:11 |
 | 24 | [Desculpa te Ligar \- Versão Estendida, Ao Vivo](https://open.spotify.com/track/2gJaKTrXgaNQzAbNRCJSkK) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Desculpa te Ligar \(Versão Estendida, Ao Vivo\)](https://open.spotify.com/album/0ZcuzvxFwJXLhiidHmPJDQ) | 3:28 |
 | 25 | [INÍCIO DO FIM](https://open.spotify.com/track/1xJV8NLJOXS9X0gLw2KDqv) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 3:06 |
 | 26 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 28 | [desculpa, qualquer coisa](https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [tudo, eu, enfim.](https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq) | 3:54 |
 | 29 | [A.N.A.N.D.A.](https://open.spotify.com/track/19N3cwfpPVn61lTNLPlG8X) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A.N.A.N.D.A.](https://open.spotify.com/album/6Sanh4zYrUafHTxedmfea1) | 2:27 |
 | 30 | [Amigos Não Se Pegam](https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Amigos Não Se Pegam](https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr) | 2:45 |
-| 31 | [cABeçA De VEnTo](https://open.spotify.com/track/7xehHTNvc8fQEbNDfoE16P) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [cABeçA De VEnTo](https://open.spotify.com/album/2giZ7WnTkyie1TJJOoTEPX) | 2:45 |
-| 32 | [Casa Comigo?](https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Casa Comigo?](https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr) | 2:39 |
+| 31 | [Casa Comigo?](https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Casa Comigo?](https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr) | 2:39 |
+| 32 | [cABeçA De VEnTo](https://open.spotify.com/track/7xehHTNvc8fQEbNDfoE16P) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [cABeçA De VEnTo](https://open.spotify.com/album/2giZ7WnTkyie1TJJOoTEPX) | 2:45 |
 | 33 | [Pena Que Acabou](https://open.spotify.com/track/57DTGthLG6wQGuJV1QDJCA) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Pena Que Acabou](https://open.spotify.com/album/79R8Ivfbp5Gz1PpvKoBVjJ) | 2:25 |
 | 34 | [Libera a Pressão](https://open.spotify.com/track/1XbEcV9RjfGy3nUoya9yvA) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Libera a Pressão](https://open.spotify.com/album/3gMEKirJ3O9aHoZCxUSkeK) | 2:00 |
 | 35 | [ainda te busco](https://open.spotify.com/track/2kvGNBQ5Sf1Sh2ojXbwxoX) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [KARUMA](https://open.spotify.com/album/5UBuUGbxBmntnQLvkJNg1i) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [ATÉ O AMANHECER](https://open.spotify.com/track/65ZF0SDgHrIhSYXLYaZ47S) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [ATÉ O AMANHECER](https://open.spotify.com/album/6i8zv9CCuIszeZZxa3i6Uo) | 3:29 |
 | 50 | [Sem Tédio](https://open.spotify.com/track/6LIOqJseCbEpEVLkMkjp7U) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:00 |
 
-Snapshot ID: `MCwwMzU2MDc5ZGY0ZWU3NTI4ZmNiMDk2NmEyYmY5NWJkYzc0MjJkMDg4`
+Snapshot ID: `MCw5OGU2N2E4YTkyYjIyZTQ5MWU3NjUxYTM2MDAwMzBjMDVlMjIzMzk5`

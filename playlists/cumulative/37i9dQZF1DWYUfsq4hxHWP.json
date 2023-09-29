@@ -14175,6 +14175,24 @@
     },
     {
       "album": {
+        "name": "How to Act",
+        "url": "https://open.spotify.com/album/74rd8zXUWAIssTX7kNBC8c"
+      },
+      "artists": [
+        {
+          "name": "Chris Moreno",
+          "url": "https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189423,
+      "name": "How to Act",
+      "url": "https://open.spotify.com/track/4w22usiR11z3zj67DtEySj"
+    },
+    {
+      "album": {
         "name": "Howdy",
         "url": "https://open.spotify.com/album/6aitm7wmo7r9SXBFO7xM5M"
       },
@@ -23578,6 +23596,24 @@
       "duration_ms": 219946,
       "name": "Remember That Truck",
       "url": "https://open.spotify.com/track/7akcukOUNQPB0LfxWZJ6Q6"
+    },
+    {
+      "album": {
+        "name": "Feels Country To Me",
+        "url": "https://open.spotify.com/album/6QJMEOLLRy2DTXJGFWekIc"
+      },
+      "artists": [
+        {
+          "name": "Zach McPhee",
+          "url": "https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183028,
+      "name": "Remind Me Again",
+      "url": "https://open.spotify.com/track/1CeeixEJo8h8keqVZQxN4I"
     },
     {
       "album": {

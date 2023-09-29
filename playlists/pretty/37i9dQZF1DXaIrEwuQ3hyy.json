@@ -1,12 +1,12 @@
 {
   "description": "Die Tage werden k\u00fcrzer und die Luft frischer. Hier ist dein Soundtrack f\u00fcr den goldenen Herbst.",
-  "num_followers": 1011848,
+  "num_followers": 1012040,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDcyYWEyNDIyNzAzNDU1NzExYjAzMmNlZmJjZTQ3ODUwMjYxNWQy",
+  "snapshot_id": "MCwyZjNhMWQ0MTJmZGJiNTEyNzE5Y2U4MWQwNTRlMDI3ZDE4Nzg5MDdl",
   "tracks": [
     {
       "added_at": "2023-09-26 10:09:16",
@@ -75,6 +75,26 @@
     {
       "added_at": "2023-09-26 10:09:16",
       "album": {
+        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190464,
+      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
+    },
+    {
+      "added_at": "2023-09-26 10:09:16",
+      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
@@ -103,26 +123,6 @@
       "duration_ms": 258693,
       "name": "Smooth Operator - Single Version",
       "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
-    },
-    {
-      "added_at": "2023-09-26 10:09:16",
-      "album": {
-        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190464,
-      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
     },
     {
       "added_at": "2023-09-26 10:09:16",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-09-26 10:09:16",
       "album": {
-        "name": "Chemtrails Over The Country Club",
-        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 200661,
-      "name": "Let Me Love You Like A Woman",
-      "url": "https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D"
-    },
-    {
-      "added_at": "2023-09-26 10:09:16",
-      "album": {
         "name": "Summer Someday",
         "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 229253,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "added_at": "2023-09-26 10:09:16",
+      "album": {
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 200661,
+      "name": "Let Me Love You Like A Woman",
+      "url": "https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D"
     },
     {
       "added_at": "2023-09-26 10:09:16",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-09-26 10:09:16",
       "album": {
-        "name": "Coffee Shop",
-        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 124080,
-      "name": "Coffee Shop",
-      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
-    },
-    {
-      "added_at": "2023-09-26 10:09:16",
-      "album": {
         "name": "New Normal",
         "url": "https://open.spotify.com/album/3icfuNPdPHFm1FS8WdBvRk"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 198765,
       "name": "New Normal",
       "url": "https://open.spotify.com/track/2CIYemjFXdmCWpJnfbtrD6"
+    },
+    {
+      "added_at": "2023-09-26 10:09:16",
+      "album": {
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 124080,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
     },
     {
       "added_at": "2023-09-26 10:09:16",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-26 10:09:16",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/6i9bj9UAehl2AQLDmz5SDH"
-      },
-      "artists": [
-        {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
-        }
-      ],
-      "duration_ms": 186641,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/67MDtHFmozKIM6WlbXIhCl"
-    },
-    {
-      "added_at": "2023-09-26 10:09:16",
-      "album": {
         "name": "Weit weg",
         "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2023-09-26 10:09:16",
       "album": {
-        "name": "Oceanside",
-        "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6i9bj9UAehl2AQLDmz5SDH"
       },
       "artists": [
         {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
         }
       ],
-      "duration_ms": 167826,
-      "name": "Oceanside",
-      "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
+      "duration_ms": 186641,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/67MDtHFmozKIM6WlbXIhCl"
     },
     {
       "added_at": "2023-09-26 10:09:16",
@@ -899,6 +883,22 @@
       "duration_ms": 221804,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
+    },
+    {
+      "added_at": "2023-09-26 10:09:16",
+      "album": {
+        "name": "Oceanside",
+        "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 167826,
+      "name": "Oceanside",
+      "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
     },
     {
       "added_at": "2023-09-26 10:09:16",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-09-26 10:09:16",
       "album": {
+        "name": "Prolog I",
+        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
+      },
+      "artists": [
+        {
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+        }
+      ],
+      "duration_ms": 258505,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
+    },
+    {
+      "added_at": "2023-09-26 10:09:16",
+      "album": {
         "name": "trip",
         "url": "https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2023-09-26 10:09:16",
       "album": {
-        "name": "Prolog I",
-        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
+        "name": "Tissues",
+        "url": "https://open.spotify.com/album/41tFNtJfGLhjTA3p510KOa"
       },
       "artists": [
         {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+          "name": "Teddy Failure",
+          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
         }
       ],
-      "duration_ms": 258505,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
+      "duration_ms": 153491,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/07rDOk6qeP4CpqlkJmUo5x"
     },
     {
       "added_at": "2023-09-26 10:09:16",
@@ -1171,22 +1187,6 @@
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
-    },
-    {
-      "added_at": "2023-09-26 10:09:16",
-      "album": {
-        "name": "Tissues",
-        "url": "https://open.spotify.com/album/41tFNtJfGLhjTA3p510KOa"
-      },
-      "artists": [
-        {
-          "name": "Teddy Failure",
-          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
-        }
-      ],
-      "duration_ms": 153491,
-      "name": "Tissues",
-      "url": "https://open.spotify.com/track/07rDOk6qeP4CpqlkJmUo5x"
     },
     {
       "added_at": "2023-09-26 10:09:16",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-09-26 10:09:16",
       "album": {
-        "name": "Mystical Magical Rhythmical Radical Ride",
-        "url": "https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx"
+        "name": "Call Me A Dreamer",
+        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
         }
       ],
-      "duration_ms": 231840,
-      "name": "Pancakes & Butter",
-      "url": "https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4"
+      "duration_ms": 228798,
+      "name": "Call Me A Dreamer",
+      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
     },
     {
       "added_at": "2023-09-26 10:09:16",

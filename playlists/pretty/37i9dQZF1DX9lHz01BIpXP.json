@@ -1,13 +1,53 @@
 {
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx?si=EzDRsNliTqKI0xKJPjwzhA\">Cream Machine</a> ",
-  "num_followers": 1217,
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL?si=gX9Ki4eNRh-Ok0etAYYfFA\">Mr Heinz</a> & <a href=\"https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=qnCa5ScGSdu0Hn1d7GAZ4g\">Maglera Doe Boy</a> ",
+  "num_followers": 1218,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODgxNTllZjFiMzIzMTM5ODQ5MmU0NGY1ODRkNDJmOTZiYzQzZjZi",
+  "snapshot_id": "MCw2NDAzZjZmNzk1OTU5NjAxMjIzYjRiMjE1N2I4MWI0MmE2ZjgwOTEw",
   "tracks": [
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Spanga",
+        "url": "https://open.spotify.com/album/1Mr5n8Hk7lONm377cK3mrk"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "duration_ms": 180165,
+      "name": "Spanga",
+      "url": "https://open.spotify.com/track/56SvCpQDzyoDCgkwjjE1Rc"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Ek Sal Nie Lieg Nie",
+        "url": "https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "M.Jay",
+          "url": "https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl"
+        }
+      ],
+      "duration_ms": 151196,
+      "name": "Ek Sal Nie Lieg Nie",
+      "url": "https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h"
+    },
     {
       "added_at": "2023-08-04 08:38:57",
       "album": {
@@ -49,26 +89,6 @@
       "url": "https://open.spotify.com/track/6REk3z1Zf5zgfSqEtmje8e"
     },
     {
-      "added_at": "2023-08-17 22:01:39",
-      "album": {
-        "name": "Klaar Praat",
-        "url": "https://open.spotify.com/album/7gbz82FKLF2FPRBGKiyBI5"
-      },
-      "artists": [
-        {
-          "name": "KYLEO FROM THE WEST",
-          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
-        },
-        {
-          "name": "G-BONE",
-          "url": "https://open.spotify.com/artist/0e0QFpFodxO9NMBJnWdfBi"
-        }
-      ],
-      "duration_ms": 128261,
-      "name": "Klaar Praat",
-      "url": "https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI"
-    },
-    {
       "added_at": "2023-01-27 11:30:47",
       "album": {
         "name": "Noem My 'n Goen",
@@ -99,6 +119,26 @@
       "duration_ms": 188453,
       "name": "Broke",
       "url": "https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK"
+    },
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "Klaar Praat",
+        "url": "https://open.spotify.com/album/7gbz82FKLF2FPRBGKiyBI5"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "G-BONE",
+          "url": "https://open.spotify.com/artist/0e0QFpFodxO9NMBJnWdfBi"
+        }
+      ],
+      "duration_ms": 128261,
+      "name": "Klaar Praat",
+      "url": "https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI"
     },
     {
       "added_at": "2023-08-04 08:38:57",
@@ -895,38 +935,6 @@
       "duration_ms": 159813,
       "name": "Rich Boy",
       "url": "https://open.spotify.com/track/3OPHM9E96Q138fPxyF8bcN"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "Hou Jou Leka",
-        "url": "https://open.spotify.com/album/4VSqBELCwNITeYYx2uPfx0"
-      },
-      "artists": [
-        {
-          "name": "Carbars Cel & Ponga",
-          "url": "https://open.spotify.com/artist/6TXHKldyzmSTIOKTBf9kMU"
-        }
-      ],
-      "duration_ms": 263340,
-      "name": "Hou Jou Leka",
-      "url": "https://open.spotify.com/track/2NQedw63Pr0NlLD2DU0gVK"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "Ghetto Boi",
-        "url": "https://open.spotify.com/album/0L8k4lMOBdc3DNusEDEXRw"
-      },
-      "artists": [
-        {
-          "name": "Kulturegng",
-          "url": "https://open.spotify.com/artist/2TOxM93PxHUXxznzATXhqD"
-        }
-      ],
-      "duration_ms": 123402,
-      "name": "Ghetto Boi",
-      "url": "https://open.spotify.com/track/68OnCNxAld3VHwCqdqhBRK"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

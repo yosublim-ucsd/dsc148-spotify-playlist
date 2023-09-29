@@ -4,7 +4,7 @@
 
 > We're here to provide some sonic solace for your grief.
 
-132 songs - 8 hr 32 min
+133 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [April Come She Will](https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 1:49 | 2022-02-16 |  |
 | [Asleep \- 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 4:13 | 2022-02-16 |  |
 | [Beautiful \- Acoustic Version](https://open.spotify.com/track/6eRZNKHALXRajSpFozeO6J) | [Julian Lennon](https://open.spotify.com/artist/4Tvos0a5rRrBu4Oodu5f79) | [Everything Changes \(Acoustic Version\)](https://open.spotify.com/album/2ECn6CKh3Lv2WkZNooU2vi) | 4:48 | 2018-12-10 | 2022-02-16 |
+| [Between the Bars](https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:21 | 2022-02-16 |  |
 | [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 | 2022-02-16 | 2022-11-13 |
 | [Black Balloon](https://open.spotify.com/track/3kI8fSpOQmL5ax63lBOuH3) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:10 | 2018-12-10 | 2022-02-16 |
 | [Breathe \(2 AM\)](https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56) | [Anna Nalick](https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR) | [Wreck of the Day](https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9) | 4:39 | 2018-12-10 |  |
@@ -51,7 +52,7 @@
 | [Hear You Me](https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:44 | 2022-02-16 | 2023-09-28 |
 | [Here Today](https://open.spotify.com/track/77KlyZBphi6DGiW9Ib1EQo) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Tug Of War](https://open.spotify.com/album/1y79gGxlN41faE36yZ6F4k) | 2:26 | 2018-12-10 | 2022-02-17 |
 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 | 2018-12-10 | 2022-02-14 |
-| [Hold On \- Remastered 2010](https://open.spotify.com/track/4bN43jYf41eIjJZ3UXQpuA) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 1:52 | 2022-02-16 |  |
+| [Hold On \- Remastered 2010](https://open.spotify.com/track/4bN43jYf41eIjJZ3UXQpuA) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 1:52 | 2022-02-16 | 2023-09-29 |
 | [Hold You in My Arms](https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 5:06 | 2022-02-16 | 2022-11-13 |
 | [Holes In The Floor Of Heaven](https://open.spotify.com/track/1pZbQrvzJExLxvhYcrsYdG) | [Steve Wariner](https://open.spotify.com/artist/45S8rtgQSxj1a0tzCNhSeD) | [Burnin' The Roadhouse Down](https://open.spotify.com/album/0T5StT6vxkDLKnI2HwGduJ) | 4:48 | 2018-12-10 | 2022-02-16 |
 | [Hospital Hymns](https://open.spotify.com/track/5o4yJPLDYjZki6Ozv72WBY) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [Hospital Hymns](https://open.spotify.com/album/1gULFYjDeEsMRAXwz04qZe) | 5:12 | 2018-12-10 | 2022-07-29 |

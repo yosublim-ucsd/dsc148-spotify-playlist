@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 243224,
+  "num_followers": 243331,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ3NDliZjk0NmQ4MWJmYWE1Mzg0ODczNTg3YWFjYjEyODU2MzU4",
+  "snapshot_id": "MCxmMDg4NGE4MGY2ZWQwNTM0MDg5YzVhZDdhYTgzMTBkN2NiNzk3OGFj",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/0N0l3JnVMd4hFhS5V2d1iY"
+      },
+      "artists": [
+        {
+          "name": "Jinsang",
+          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
+        }
+      ],
+      "duration_ms": 117495,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/3ukklzkdKjDzqkroiXTvf4"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Lost in Love",
         "url": "https://open.spotify.com/album/4zjCyRjagCO2YX65OBCQKK"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 123186,
       "name": "I'll Bite Your Soul",
       "url": "https://open.spotify.com/track/71qKWIBggc7poNXclWN53M"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/0N0l3JnVMd4hFhS5V2d1iY"
-      },
-      "artists": [
-        {
-          "name": "Jinsang",
-          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
-        }
-      ],
-      "duration_ms": 117495,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/3ukklzkdKjDzqkroiXTvf4"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
-        "url": "https://open.spotify.com/album/1X78wB7bRT0uj1Yf9sFFuR"
-      },
-      "artists": [
-        {
-          "name": "DJ BYmoment",
-          "url": "https://open.spotify.com/artist/3rhFSNJH1jYyJpV7oEJiuC"
-        }
-      ],
-      "duration_ms": 121477,
-      "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
-      "url": "https://open.spotify.com/track/1p80DshsPD0zgGt2CPVBSm"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Gentle Boy",
         "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 122704,
       "name": "this girl",
       "url": "https://open.spotify.com/track/6AknQdo6L05nsY2aQsxCFi"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
+        "url": "https://open.spotify.com/album/1X78wB7bRT0uj1Yf9sFFuR"
+      },
+      "artists": [
+        {
+          "name": "DJ BYmoment",
+          "url": "https://open.spotify.com/artist/3rhFSNJH1jYyJpV7oEJiuC"
+        }
+      ],
+      "duration_ms": 121477,
+      "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
+      "url": "https://open.spotify.com/track/1p80DshsPD0zgGt2CPVBSm"
     },
     {
       "added_at": "2022-02-02 00:21:48",

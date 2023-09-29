@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Katerina Liouliou
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,443 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,558 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Anthismeno Kefali](https://open.spotify.com/track/3FNpoQXkWOjIpeE60qMEiV) | [Evridiki](https://open.spotify.com/artist/0WxbpUPH6SN75TSFAj3MAa), [Afanhs Hrwas](https://open.spotify.com/artist/0btMUAA4feVB0QQe32XC45) | [Anthismeno Kefali](https://open.spotify.com/album/6b8sCji5GeCCG3LZRP5EB3) | 3:46 |
 | 50 | [To Vlema Tou Monou](https://open.spotify.com/track/1RggD1q6WRJu0msJlo5JwR) | [Giota Negka](https://open.spotify.com/artist/3no2tb4sxgM2xJPRa1ZVhQ), [Stavros Siolas](https://open.spotify.com/artist/4xhGnzy0l7emjfvzK867iN), [Ilias Mastoris](https://open.spotify.com/artist/5djti6hHGtKRCA2vUJWsy8) | [To Vlema Tou Monou](https://open.spotify.com/album/0R1O2ra36DIiwvPNtXYwLg) | 4:48 |
 
-Snapshot ID: `MCw2ZTdkMzQzMWNkM2Y5NDc5MDI5ZmNhNTBmYmM2MjJmODBhZGIxMDBm`
+Snapshot ID: `MCwwNzU3NDVlZmMwNDFhOWU4MDQyNjcwZTMwMzFmYjYzOTQ5YTIxZmRj`

@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Faouzia
 
-307 songs - 17 hr 3 min
+308 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Batwanes Beek](https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Batwanes Beek](https://open.spotify.com/album/3w6wliAjhJS16hZyimZpT7) | 13:24 | 2022-06-06 | 2022-06-24 |
 | [Beating Broken Heart](https://open.spotify.com/track/2kqMZ9mWxK52aAk1wZFwCn) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Jon Paul](https://open.spotify.com/artist/7KxTSiCDnkZfTVKEWzONc9), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Beating Broken Heart](https://open.spotify.com/album/7AzJReocWDkxQaEAAyQ2Cl) | 2:19 | 2022-05-26 | 2022-12-08 |
 | [Believing In Me \(feat\. King Los\)](https://open.spotify.com/track/7JwWZEXsbB1Fb7cmrmpoOo) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC) | [Believing In Me](https://open.spotify.com/album/6oLdufnqZzlL643clLTGmM) | 2:24 | 2023-01-25 | 2023-09-07 |
-| [Bet](https://open.spotify.com/track/3iowVvAog2lPhMjuLpb6Sj) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Bet](https://open.spotify.com/album/0rmT0TYdnLKImISjpgiiQl) | 2:14 | 2023-09-19 |  |
+| [Bet](https://open.spotify.com/track/3iowVvAog2lPhMjuLpb6Sj) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Bet](https://open.spotify.com/album/0rmT0TYdnLKImISjpgiiQl) | 2:14 | 2023-09-19 | 2023-09-29 |
 | [BET ON ME](https://open.spotify.com/track/0HM405OG4w321E8gfbEQvR) | [YAS](https://open.spotify.com/artist/62yJAMA6CSwcNTcdsnK9P6) | [BET ON ME](https://open.spotify.com/album/3j5ny4kRZ43tyk7wUExLWJ) | 3:22 | 2023-01-26 | 2023-02-25 |
 | [BETTER DAYS](https://open.spotify.com/track/5GQvtRxFB12OD7H7gOzLba) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [BETTER DAYS](https://open.spotify.com/album/6R5VVjgUy508TNYkyw5pTQ) | 2:58 | 2022-03-22 | 2023-06-10 |
 | [Bladi hiya el Djazair](https://open.spotify.com/track/4n0UiHNnwkgwQ8kCGRUJEH) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Algeria to Brazil \(22 titres originaux\)](https://open.spotify.com/album/1vQe7TMzcH64RJXN4DuxeN) | 3:24 | 2022-06-06 | 2022-06-24 |
@@ -176,6 +176,7 @@
 | [MASHALLAH](https://open.spotify.com/track/195clrFhJoY0pdbgvY2Qg1) | [Fousey](https://open.spotify.com/artist/6GZUEdPWJRfQxTsgM9j120), [Adam Saleh](https://open.spotify.com/artist/4i9TNpZ5lQbPWmMX4zvnNq) | [MASHALLAH](https://open.spotify.com/album/7FQkB1MDucYaVEP2wnGc3X) | 2:34 | 2021-12-16 | 2022-02-23 |
 | [mental](https://open.spotify.com/track/7hIolwogISIKj8Lm9oG4Sn) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [mental](https://open.spotify.com/album/5Uagk4gZB7mwf42EcFz9gX) | 3:28 | 2021-12-16 | 2022-12-16 |
 | [MIA](https://open.spotify.com/track/6BoweqoW4UzDuTdNTXSdiv) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC), [Zirra](https://open.spotify.com/artist/3ygMZBYwEeR5Vd5Qze8IYl) | [MIA](https://open.spotify.com/album/1mRTMg98v92EJ2HMhOO3zv) | 3:33 | 2022-12-15 | 2023-04-01 |
+| [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Mirage \(for Assassin's Creed Mirage\)](https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz) | 2:13 | 2023-09-28 |  |
 | [Mirror A Dream](https://open.spotify.com/track/1dggnsaeC1YvX8njTczWPc) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Bedside](https://open.spotify.com/album/70NtCjv3g5kGSDohd1rqJC) | 3:27 | 2021-12-16 | 2022-07-29 |
 | [Mirror a Dream](https://open.spotify.com/track/5BlIOZm2busMAvV8jDN5b1) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Bedside](https://open.spotify.com/album/5VcSRDAkuMRgUn0ur6dV17) | 3:27 | 2022-07-28 | 2022-09-29 |
 | [MOONTALK](https://open.spotify.com/track/5NPFaYopu3sV98Rx1LmkKu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [MOONTALK](https://open.spotify.com/album/7rLRs1lMhJfYUJsdPPYwuu) | 3:29 | 2022-01-10 | 2023-04-09 |

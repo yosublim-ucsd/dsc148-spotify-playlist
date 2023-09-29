@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#voorjou \#rihanna \#noano7k \#prada \#koekje \#joost
 
-242 songs - 12 hr 5 min
+243 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Mozer Is Nijba](https://open.spotify.com/track/3GUs0BS7fxbSOZHez5ow9O) | [Keess](https://open.spotify.com/artist/6Dhjz5IwumzpmeyPCT0jBp), [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4), [D\-opss](https://open.spotify.com/artist/3ZDMIHGxzbwFWWhSMBKSHJ) | [Mozer Is Nijba](https://open.spotify.com/album/0MsLTaEtDN9U6Hhm5bdGui) | 2:25 | 2023-07-06 | 2023-07-18 |
 | [Mulala](https://open.spotify.com/track/5WrVGLYy0YNDijnCStN2CH) | [Sabri](https://open.spotify.com/artist/1BcQY5zmqzlHgEYIXwOopx), [Reboir](https://open.spotify.com/artist/0l6ghsW3fNY4iMtwgFq4i1) | [Mulala](https://open.spotify.com/album/1IvhCuXq0CkOPbgr8BOvaH) | 2:22 | 2023-06-26 |  |
 | [My Barn My Rules](https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 4:26 | 2023-06-19 | 2023-07-19 |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-28 |  |
 | [MY POWER](https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:19 | 2023-06-14 | 2023-09-01 |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-06-19 | 2023-09-01 |
 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 | 2023-02-23 | 2023-03-02 |

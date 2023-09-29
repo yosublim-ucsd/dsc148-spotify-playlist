@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-699 songs - 1 day 5 hr 22 min
+700 songs - 1 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Asilah](https://open.spotify.com/track/01bBzDT79dc34s2Aj9C5Z8) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Asilah](https://open.spotify.com/album/7sbf9VjGSRCE2BOA3GCOgX) | 1:55 | 2023-02-20 | 2023-07-25 |
 | [Asilah](https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Asilah](https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM) | 2:40 | 2022-05-27 | 2022-09-24 |
 | [Au Fond D'Amour](https://open.spotify.com/track/4Qk8tKfZW3lrPG18ZdWmE6) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Au Fond D'Amour](https://open.spotify.com/album/2pFYFoJj3SPBFBXrnbI65S) | 2:48 | 2022-05-27 | 2022-09-24 |
-| [Auriga](https://open.spotify.com/track/0r8M4zqlJeV0XPtCxyQ6fn) | [Odin Sørlie](https://open.spotify.com/artist/5El7zD8iCQu87fDwPBlPbN) | [Auriga](https://open.spotify.com/album/69FM0NepvcgTA81ItYe8HI) | 2:14 | 2022-05-27 |  |
+| [Auriga](https://open.spotify.com/track/0r8M4zqlJeV0XPtCxyQ6fn) | [Odin Sørlie](https://open.spotify.com/artist/5El7zD8iCQu87fDwPBlPbN) | [Auriga](https://open.spotify.com/album/69FM0NepvcgTA81ItYe8HI) | 2:14 | 2022-05-27 | 2023-09-29 |
 | [Aurora](https://open.spotify.com/track/2BtlvjGVA4mDDhj6VoCDho) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [Caritas](https://open.spotify.com/album/052uIw2Psurx5buzGCcrDH) | 2:22 | 2022-05-27 | 2022-09-24 |
 | [Aurskog](https://open.spotify.com/track/4Xy7g0dikhYyNhdHyzBBr6) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Aurskog](https://open.spotify.com/album/1NdMcghLOelX6u0Mz8smaG) | 2:05 | 2022-05-27 |  |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2022-05-27 | 2022-07-21 |
@@ -194,7 +194,7 @@
 | [Felt Improv No\. 25](https://open.spotify.com/track/4jklfyp9aW2xX8oUp7Z8gA) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 25](https://open.spotify.com/album/683ttioDjnQMeIgqQC2gfM) | 2:55 | 2022-05-27 | 2023-01-21 |
 | [Felt Improv No\. 3](https://open.spotify.com/track/4mUEjeo70EeAq2ARJySrj6) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 3](https://open.spotify.com/album/1cseVonhcrCKoxuNDGY6T8) | 3:01 | 2022-05-27 | 2022-08-10 |
 | [Fiafia](https://open.spotify.com/track/56YJq7TZi6EY2LMblApRwf) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Fiafia](https://open.spotify.com/album/4dUPA6l6WLL2XWPPIT1eZm) | 2:38 | 2023-03-06 | 2023-09-12 |
-| [Finito](https://open.spotify.com/track/6iWBMo4Cc2yAqwqkAUzLSN) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Finito](https://open.spotify.com/album/1zrmFxQTfjPUoEZepbJaSS) | 2:42 | 2022-05-27 |  |
+| [Finito](https://open.spotify.com/track/6iWBMo4Cc2yAqwqkAUzLSN) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Finito](https://open.spotify.com/album/1zrmFxQTfjPUoEZepbJaSS) | 2:42 | 2022-05-27 | 2023-09-29 |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2022-05-27 |  |
 | [Fiorire](https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ariosa](https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded) | 2:57 | 2022-05-27 |  |
 | [Fjærland](https://open.spotify.com/track/3nFJ85TXhIoNVZTVVlGNn9) | [Erica Statværd](https://open.spotify.com/artist/5s1olurhMGBz2Qfh3p2kcv) | [Fjærland](https://open.spotify.com/album/0QTUZYk4rNk5pkcFOBZLK1) | 2:24 | 2023-01-31 | 2023-03-28 |
@@ -477,7 +477,7 @@
 | [Potomac](https://open.spotify.com/track/4IMDvjtSlnkDlpH9sRS5Iq) | [Fiona Astier](https://open.spotify.com/artist/0lbcryc0VC6meVy7yoreV4) | [Potomac](https://open.spotify.com/album/25NV8qmZcF6pp4CvmbWSsE) | 2:10 | 2022-05-27 | 2023-03-13 |
 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 | 2022-05-27 | 2023-08-15 |
 | [Poussière](https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Poussière](https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6) | 2:12 | 2023-09-25 |  |
-| [Precious Amber](https://open.spotify.com/track/0THG8FXDsGFI3KInDcaQGs) | [Riks Vollis](https://open.spotify.com/artist/1ZBvM6NuWuoDZJW6upjjhF) | [Precious Amber](https://open.spotify.com/album/6nWS9DqVLr3NG8MXg17VYv) | 2:13 | 2022-05-27 | 2023-09-09 |
+| [Precious Amber](https://open.spotify.com/track/0THG8FXDsGFI3KInDcaQGs) | [Riks Vollis](https://open.spotify.com/artist/1ZBvM6NuWuoDZJW6upjjhF) | [Precious Amber](https://open.spotify.com/album/6nWS9DqVLr3NG8MXg17VYv) | 2:13 | 2022-05-27 |  |
 | [Prelude](https://open.spotify.com/track/7oQaKrNNFpzgGprrD8oirn) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Silent season](https://open.spotify.com/album/223FCnAQ89tkeqnNHMqF4G) | 3:23 | 2023-01-20 |  |
 | [Prelude In A\-Flat](https://open.spotify.com/track/26ufMVgpojM835miVaoTZG) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Prelude In A\-Flat](https://open.spotify.com/album/1cAx6BheD7zUvHlhr0S4Ph) | 2:40 | 2022-05-27 | 2022-09-24 |
 | [Prima Stella](https://open.spotify.com/track/0V4SL7IMRUeu7tqiuyedxO) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Prima Stella](https://open.spotify.com/album/2rp88Czsj3x0v6UbezgrCD) | 2:32 | 2022-05-27 | 2022-09-24 |
@@ -664,6 +664,7 @@
 | [Velez\-Malaga](https://open.spotify.com/track/2vevoLZEoZTCAYsvc1TDnq) | [Rosa Monteiro](https://open.spotify.com/artist/52Lag2Pn0WtKwomc2lCtZ1) | [Velez\-Malaga](https://open.spotify.com/album/6bmGfliwOLuAcStJqB9sNl) | 3:14 | 2022-05-27 | 2022-12-06 |
 | [Velez\-Malaga](https://open.spotify.com/track/7lTwRNweZTKc9C4COzTihs) | [Rosa Monteiro](https://open.spotify.com/artist/52Lag2Pn0WtKwomc2lCtZ1) | [Relaxing Piano Classics](https://open.spotify.com/album/3pLxieuvyteE7gyAJYyAbz) | 3:14 | 2022-09-23 | 2023-03-19 |
 | [Velvet](https://open.spotify.com/track/6yyGhhDGQAH4s8aAbMNO0E) | [Alice Frohde](https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe) | [Velvet](https://open.spotify.com/album/0NXTFJzKJQHBesApm2n1wT) | 2:14 | 2023-04-18 | 2023-04-30 |
+| [Velvet Clouds](https://open.spotify.com/track/3jCXY0CuLyrBQ5hMUwOk6i) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Velvet Clouds](https://open.spotify.com/album/5H8zgkqm0EvJGe21PbpKR6) | 2:31 | 2023-09-25 |  |
 | [Velvet Head](https://open.spotify.com/track/3qOUT5Azls5nmfgjE4aBHz) | [Tom Leaman](https://open.spotify.com/artist/2aCjyxAv55DqcgEBYNHS2l) | [Velvet Head](https://open.spotify.com/album/3aYUpnis3GFRuCINuhpi8E) | 2:04 | 2023-03-06 |  |
 | [Venjan](https://open.spotify.com/track/1Q2GGydtsco68kLjwfyTMu) | [Harry Bergqvist](https://open.spotify.com/artist/7edUGJR9gORcdARCKR76ks) | [Venjan](https://open.spotify.com/album/7qnL09lriGNex377C6R0Ma) | 1:51 | 2022-05-27 | 2022-09-24 |
 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 | 2022-05-27 |  |

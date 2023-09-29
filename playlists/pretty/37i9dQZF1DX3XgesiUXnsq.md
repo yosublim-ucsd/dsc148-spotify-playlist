@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,936 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,982 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 47 | [SCIENTISTS & ENGINEERS \[Feat\. Future, Eryn Allen Kane\]](https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SCIENTISTS & ENGINEERS \[Feat\. Future, Eryn Allen Kane\]](https://open.spotify.com/album/2dxxlSiPPh9v9TwSTpjLgo) | 4:13 |
 | 48 | [Risky](https://open.spotify.com/track/0WuH9YPPEnl75JyMIgXuiW) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Risky](https://open.spotify.com/album/5jo1DGIzHMKDuAUxLZqIhr) | 4:15 |
 | 49 | [Diablo](https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:18 |
-| 50 | [Sojourner \(feat\. J\. Cole\)](https://open.spotify.com/track/4rQrECrwG9KPZT9LBMX1bi) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [9th Wonder Presents: Jamla Is The Squad II](https://open.spotify.com/album/2K0JdsaYMJbNuY4qh7kC7X) | 5:43 |
+| 50 | [Sojourner \(feat\. J\. Cole\)](https://open.spotify.com/track/6FtCEQZesoKRmjf5LBKyko) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Sojourner \(feat\. J\. Cole\)](https://open.spotify.com/album/68WGEWZgJhPk2BnF8H2su2) | 5:43 |
 | 51 | [Ghost](https://open.spotify.com/track/0LBm4QrEsMlLbMGr3DFEp9) | [Mazen](https://open.spotify.com/artist/4ri7eLpPVlGqwclssOyJDM), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Ghost](https://open.spotify.com/album/7B9BkPmC0LxSHvPxiP9IzG) | 3:23 |
 | 52 | [MAN DOWN](https://open.spotify.com/track/3jqEeqbsATtPx2V37ChPe0) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [MAN DOWN](https://open.spotify.com/album/40ky3rclTC49nBSe3bikop) | 2:34 |
 | 53 | [CRIMINOLOGY](https://open.spotify.com/track/1DtjK21lNaO932RZdJUiI3) | [Demrick](https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR), [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP) | [CRIMINOLOGY](https://open.spotify.com/album/7GLk9G7so4H75Flbw56OAt) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:23 |
 | 100 | [Father Time \- 2018 Version](https://open.spotify.com/track/3SmBlrwEkQGZEyt6YdVqCl) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Father Time \(2018 Version\)](https://open.spotify.com/album/7paQkDb3idCmqDqjGC6VnW) | 4:43 |
 
-Snapshot ID: `MCw5N2ZjMjg4NTcxNWFjZTUwZGZkYTA3ZTc5MDVhODQ2NGI3YmUwMGYz`
+Snapshot ID: `MCw5YTQ2OGM3OWRlNTcwZDYwYjI5ZDhiY2M5Y2RkMzhkYWI2NTUyOWQx`

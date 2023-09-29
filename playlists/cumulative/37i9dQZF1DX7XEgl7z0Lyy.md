@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-102 songs - 3 hr 25 min
+103 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [onyx palace](https://open.spotify.com/track/3tsbNogFr6tPtxR2zlvlnO) | [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [onyx palace](https://open.spotify.com/album/5EgsZbmgKX9wxsK4OAShSG) | 2:13 | 2023-07-21 |  |
 | [party addict](https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [kojo](https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV) | [party addict](https://open.spotify.com/album/0asjbwtUwjHskzsK3nQf6A) | 2:05 | 2023-07-21 |  |
 | [PARTY!](https://open.spotify.com/track/4pUWZda85cdZYJ8hznSMft) | [LyteSpeed](https://open.spotify.com/artist/4XIl1fxI6tJQzbSMb2fNAr), [removeface](https://open.spotify.com/artist/6kdU7vLLarZWY5c5HNpEjM) | [PARTY!](https://open.spotify.com/album/4yBtw3pWdZWHurpAtWLyHD) | 1:18 | 2023-09-22 |  |
+| [partysexdrugs \(feat\. 6arelyhuman\)](https://open.spotify.com/track/6sxUoRcRqxLaG58cOmerA0) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [partysexdrugs \(feat\. 6arelyhuman\)](https://open.spotify.com/album/6Kg2OVFGXk8k8LSRkG5YnT) | 3:14 | 2023-09-28 |  |
 | [Pink flame](https://open.spotify.com/track/37NZqHHBOWPyUy7QeWjY1t) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Pink flame](https://open.spotify.com/album/5lkVw5Cqs1nCqf2T8uFsjQ) | 4:14 | 2023-08-25 |  |
 | [R4VAMPED KETAMINE!](https://open.spotify.com/track/1Thh76LGiu0ipJGaxyzRBB) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [EGOISTA: LOVE YOURSELF!](https://open.spotify.com/album/6lMBU96G6OEjSdXDlIiGPk) | 1:11 | 2023-07-21 | 2023-07-29 |
 | [REPL4CE!](https://open.spotify.com/track/3oXlxZ4teZ1iLon3NmN0bn) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [REPL4CE!](https://open.spotify.com/album/6eKBPTWQ2Q7IOVzDxpvQrr) | 2:19 | 2023-09-22 |  |

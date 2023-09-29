@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mick Jenkins",
-  "num_followers": 1623283,
+  "num_followers": 1623357,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjM0ZWU0NGIyMDFhMzI1YjA2ZDQxMzM4YTdhZTJlZDlmZGM5M2Nh",
+  "snapshot_id": "MCw5NDlhYTU0YTVjYzY2YWExN2ExMjFmYWI2NGY0M2UyMGU0Nzg2YjU4",
   "tracks": [
     {
       "added_at": "2023-09-26 23:56:28",
@@ -823,6 +823,30 @@
     {
       "added_at": "2023-09-26 23:56:28",
       "album": {
+        "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
+        "url": "https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB"
+      },
+      "artists": [
+        {
+          "name": "Nappyhigh",
+          "url": "https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 155003,
+      "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
+      "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
+    },
+    {
+      "added_at": "2023-09-26 23:56:28",
+      "album": {
         "name": "Woke Up and Asked Siri How I'm Gonna Die",
         "url": "https://open.spotify.com/album/5hKMFGdqaeJEbxpghERhsF"
       },
@@ -891,30 +915,6 @@
     {
       "added_at": "2023-09-26 23:56:28",
       "album": {
-        "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
-        "url": "https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB"
-      },
-      "artists": [
-        {
-          "name": "Nappyhigh",
-          "url": "https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 155003,
-      "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
-      "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
-    },
-    {
-      "added_at": "2023-09-26 23:56:28",
-      "album": {
         "name": "Dump On Em",
         "url": "https://open.spotify.com/album/7gOlcEabtQvzoSyOXtjqQ5"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-09-26 23:56:28",
       "album": {
-        "name": "CHANNEL No3",
-        "url": "https://open.spotify.com/album/1WfB6HK3LNQh3TLoDv3Msw"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 226588,
-      "name": "CHANNEL No3",
-      "url": "https://open.spotify.com/track/6UIMNszTQOvYchYqswBR17"
-    },
-    {
-      "added_at": "2023-09-26 23:56:28",
-      "album": {
         "name": "Runway",
         "url": "https://open.spotify.com/album/5pKCdjwCiOVwVVy28d2sFV"
       },
@@ -979,6 +963,42 @@
       "duration_ms": 186491,
       "name": "Runway",
       "url": "https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u"
+    },
+    {
+      "added_at": "2023-09-26 23:56:28",
+      "album": {
+        "name": "Victor",
+        "url": "https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH"
+      },
+      "artists": [
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 196647,
+      "name": "$outhside Story ft. Common",
+      "url": "https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs"
+    },
+    {
+      "added_at": "2023-09-26 23:56:28",
+      "album": {
+        "name": "CHANNEL No3",
+        "url": "https://open.spotify.com/album/1WfB6HK3LNQh3TLoDv3Msw"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 226588,
+      "name": "CHANNEL No3",
+      "url": "https://open.spotify.com/track/6UIMNszTQOvYchYqswBR17"
     },
     {
       "added_at": "2023-09-26 23:56:28",
@@ -1007,26 +1027,6 @@
       "duration_ms": 269439,
       "name": "Andre 3000 (feat. Bangladesh)",
       "url": "https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU"
-    },
-    {
-      "added_at": "2023-09-26 23:56:28",
-      "album": {
-        "name": "Victor",
-        "url": "https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH"
-      },
-      "artists": [
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 196647,
-      "name": "$outhside Story ft. Common",
-      "url": "https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs"
     }
   ],
   "unique_name": "Spilled Ink",

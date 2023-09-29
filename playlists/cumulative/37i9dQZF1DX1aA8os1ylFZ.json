@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 162870,
       "name": "About U",
       "url": "https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 187428,
       "name": "Bittersweet Goodbyes",
       "url": "https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ"
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 181422,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN"
@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-15",
+      "date_removed": null,
       "duration_ms": 157552,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/2bXsC1eJ9UftAkhmYRuLmA"
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 168755,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 162188,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
@@ -1923,6 +1923,28 @@
     },
     {
       "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237852,
+      "name": "Feelings (feat. J Hus)",
+      "url": "https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW"
+    },
+    {
+      "album": {
         "name": "feelings 4 u",
         "url": "https://open.spotify.com/album/18Q7p6s4Va4TVe7OqA5yoe"
       },
@@ -1960,6 +1982,24 @@
       "duration_ms": 159500,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw"
+    },
+    {
+      "album": {
+        "name": "FIRST PLACE",
+        "url": "https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo"
+      },
+      "artists": [
+        {
+          "name": "Lavils",
+          "url": "https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121211,
+      "name": "FIRST PLACE",
+      "url": "https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy"
     },
     {
       "album": {
@@ -2300,7 +2340,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 166189,
       "name": "Ginger Me",
       "url": "https://open.spotify.com/track/6ihWzjaRWNX9NAHnCzkD4S"
@@ -2579,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/2OqSKDW0ZotjVuZPrg15N8"
+      },
+      "artists": [
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/1eiPx1hsXwBUnrSqmaygUx"
+    },
+    {
+      "album": {
         "name": "Heart Is On My Sleeve",
         "url": "https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy"
       },
@@ -2854,6 +2912,24 @@
       "duration_ms": 196565,
       "name": "Home",
       "url": "https://open.spotify.com/track/5cJwZEAFSYVPqZjdGxBkVW"
+    },
+    {
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183996,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ"
     },
     {
       "album": {
@@ -3244,7 +3320,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 230680,
       "name": "I WANT YOU BUT YOU'LL NEVER KNOW... (feat. DRAM and Alex Isley)",
       "url": "https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct"
@@ -4236,7 +4312,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Loveloca",
       "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
@@ -5072,7 +5148,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 183895,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
@@ -5304,7 +5380,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 152562,
       "name": "Patience",
       "url": "https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk"
@@ -5504,7 +5580,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 194307,
       "name": "PPL",
       "url": "https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i"
@@ -5562,6 +5638,28 @@
       "duration_ms": 379004,
       "name": "PRICE OF FAME",
       "url": "https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH"
+    },
+    {
+      "album": {
+        "name": "Private",
+        "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        },
+        {
+          "name": "Bad\u00ed",
+          "url": "https://open.spotify.com/artist/7MDPfcrNPw7maI50adktWa"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158901,
+      "name": "Private",
+      "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
     },
     {
       "album": {
@@ -5784,7 +5882,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 190500,
       "name": "Risking It All",
       "url": "https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN"
@@ -6394,7 +6492,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 129666,
       "name": "Spoon & Bang",
       "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
@@ -7554,7 +7652,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 228075,
       "name": "Where Ya From",
       "url": "https://open.spotify.com/track/74kvijB0vU5BK44QnNb4Gt"
@@ -7652,7 +7750,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 195976,
       "name": "Wickedest (feat. Haile)",
       "url": "https://open.spotify.com/track/3W7p3aKtbyLjqiTwxF1jKw"
@@ -7850,8 +7948,8 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
-      "duration_ms": 208040,
+      "date_removed": null,
+      "duration_ms": 208038,
       "name": "WY@",
       "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
     },

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 174958,
+  "num_followers": 175021,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjVmMjA4ZmNlNWI5ZWZiYmU4ZGIwNTY3OWZmNGVmNjc0ZTExMGU0",
+  "snapshot_id": "MCw5ZjdlNjQ5NmU1ZWE1M2UwOGJmZjY1YWE1MGQ2ZDY4ZGYwZGM3NGZj",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "No Necesito Doctor.",
+        "url": "https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg"
+      },
+      "artists": [
+        {
+          "name": "Josh Gamez",
+          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "No Necesito Doctor.",
+      "url": "https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Dosis",
         "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 236578,
       "name": "A Ciegas",
       "url": "https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "No Necesito Doctor.",
-        "url": "https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg"
-      },
-      "artists": [
-        {
-          "name": "Josh Gamez",
-          "url": "https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "No Necesito Doctor.",
-      "url": "https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Veintiuno",
-        "url": "https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO"
+        "name": "La Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
       },
       "artists": [
         {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+          "name": "Rudy Torres",
+          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
         }
       ],
-      "duration_ms": 144155,
-      "name": "Veintiuno",
-      "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"
+      "duration_ms": 157100,
+      "name": "Los Bendigo",
+      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "La Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
+        "name": "Veintiuno",
+        "url": "https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO"
       },
       "artists": [
         {
-          "name": "Rudy Torres",
-          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
         }
       ],
-      "duration_ms": 157100,
-      "name": "Los Bendigo",
-      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
+      "duration_ms": 144155,
+      "name": "Veintiuno",
+      "url": "https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1735,6 +1735,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Firme Y Enfocado",
+        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
+        }
+      ],
+      "duration_ms": 231627,
+      "name": "Firme Y Enfocado",
+      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Se Enamor\u00f3",
         "url": "https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci"
       },
@@ -1755,22 +1775,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Firme Y Enfocado",
-        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
+        "name": "Inmenso",
+        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
       },
       "artists": [
         {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Pr\u00e1ctiko",
-          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
         }
       ],
-      "duration_ms": 231627,
-      "name": "Firme Y Enfocado",
-      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
+      "duration_ms": 157000,
+      "name": "Inmenso",
+      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1823,22 +1839,6 @@
       "duration_ms": 190095,
       "name": "El Fuego",
       "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Inmenso",
-        "url": "https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Inmenso",
-      "url": "https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy"
     },
     {
       "added_at": "2022-08-27 05:04:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Utsavi Jha
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,187 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,256 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 11 | [Harjaiyaa](https://open.spotify.com/track/4rtlS8gwyvU22xQfbnPC8v) | [Roy](https://open.spotify.com/artist/6SwbsxYcJ1zIxy1b5niCfs), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Harjaiyaa](https://open.spotify.com/album/5jRHK2YNxGajVDjXcP2aiI) | 3:12 |
 | 12 | [Judaai](https://open.spotify.com/track/4quoTn7QTN1GLN6NhzQMlE) | [Tajinder Singh](https://open.spotify.com/artist/74YdWBWq7R9JJIDM3NCSrG), [Bhanu Singh](https://open.spotify.com/artist/6W4D2fiAamwzg9RMOvAS16) | [Judaai](https://open.spotify.com/album/7HYBdhoPLG4viSMEIwiFr7) | 2:37 |
 | 13 | [Tu Aazma](https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tu Aazma](https://open.spotify.com/album/5ME4ICYbKFTTYDqclbINw6) | 3:18 |
-| 14 | [Teri Meri](https://open.spotify.com/track/6LwTIK5AzysBN1n5AyD35I) | [Adarsh Rao](https://open.spotify.com/artist/5SQnHY32o5XokokvR82PS9), [Sugat Dhanvijay](https://open.spotify.com/artist/7Fg1T3kPu33XZxKbOvjx5h) | [Teri Meri](https://open.spotify.com/album/72ADiqwmhAYwSEDB7xX7ft) | 2:43 |
+| 14 | [Teri Meri](https://open.spotify.com/track/6LwTIK5AzysBN1n5AyD35I) | [Sugat Dhanvijay](https://open.spotify.com/artist/7Fg1T3kPu33XZxKbOvjx5h), [Adarsh Rao](https://open.spotify.com/artist/5SQnHY32o5XokokvR82PS9) | [Teri Meri](https://open.spotify.com/album/72ADiqwmhAYwSEDB7xX7ft) | 2:43 |
 | 15 | [Aankhon Mein Aansu](https://open.spotify.com/track/6S9wFxOlnz42LpCKIhlpJR) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Aankhon Mein Aansu](https://open.spotify.com/album/43dYT1CnZXvbA71yk1t7sn) | 3:11 |
 | 16 | [Fireflies](https://open.spotify.com/track/0yYPEw8XGbRhIczNuGzw5H) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx) | [Fireflies](https://open.spotify.com/album/7H4sAe84ZPcJW7Th30CJg5) | 3:28 |
 | 17 | [Gumshuda](https://open.spotify.com/track/7pZclisnT35LbbtY8w9EqC) | [Madhur Dhir](https://open.spotify.com/artist/4s2nAfpPN5NFMLLdQVULIu), [Aditya Vashisht](https://open.spotify.com/artist/1r8s8YQcBKLsPLBUKWnFJt) | [Gumshuda](https://open.spotify.com/album/4RqnpqHnMOiO7xSYjceKVw) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Keh Do Na](https://open.spotify.com/track/5EHWMWzFWpV8xu9IrRxyVi) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Keh Do Na](https://open.spotify.com/album/2adeNS3gByA7VyV3a4WzL0) | 2:48 |
 | 50 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 |
 
-Snapshot ID: `MCw3NmMxNTU1MjZlYTM2Mjc4NGY3NTVlOGRmZmE1ZWM3YzlmMWNkNzFk`
+Snapshot ID: `MCw1ZDMyMWI3ZDZjOTdmMmM4YzQxMzI4MzVkNmM0M2ZkZDBkMTE1MWJl`

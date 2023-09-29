@@ -4,7 +4,7 @@
 
 > When the beat drops, that's Guaracha.
 
-90 songs - 5 hr 13 min
+91 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Positivo \- RMX](https://open.spotify.com/track/2o8LDsn0AGHFcrQOqU3XgE) | [Samanta Duque](https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl), [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a) | [Positivo \(RMX\)](https://open.spotify.com/album/010weQBW4EcB2cLAOYiXE6) | 3:57 | 2023-08-11 |  |
 | [Prende La Fiesta](https://open.spotify.com/track/0ecNQwI7XCZzZitraDt9IC) | [Dj Dasten](https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0), [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Prende La Fiesta](https://open.spotify.com/album/7D7qSQMZ9FVceWy2BtkK6O) | 3:06 | 2023-08-11 |  |
 | [PROVENZA \- REMIX](https://open.spotify.com/track/7xHNDiHAqzjIKKeR8f5vhH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 3:07 | 2023-08-11 |  |
+| [Pégate & Muévete \- Pa' Goguear Mix](https://open.spotify.com/track/5uQRKccKgFoJOetiAsoTPH) | [DJ Freshly](https://open.spotify.com/artist/0C2bzaeNvJ4p4WYN3hj9L0) | [GUARACHA PA' GOGUEAR](https://open.spotify.com/album/3JMFmwnjvucMnGOadcFlAK) | 2:59 | 2023-09-29 |  |
 | [Que Todo](https://open.spotify.com/track/70i9IQXt2ECmLbFStHI9kK) | [Elee Bermudez](https://open.spotify.com/artist/3XL83JdrAA1BDV1yVTcskW) | [Que Todo](https://open.spotify.com/album/7qisRmx60mvtn2yWhtwfn8) | 5:02 | 2023-08-11 |  |
 | [Que Tu Quiere](https://open.spotify.com/track/51TZ1XRQSKX4EYlgEWrQ4d) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [Daniel Parranda](https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Que Tu Quiere](https://open.spotify.com/album/6WG0ITJtGEcnyqRMW2XQgb) | 3:00 | 2023-08-11 |  |
 | [Qué Chimba](https://open.spotify.com/track/0rIZ49wxDf8H2LXOKmAMW5) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Qué Chimba](https://open.spotify.com/album/3bCabsApM2gTY3KYRKMsw6) | 2:49 | 2023-08-11 |  |

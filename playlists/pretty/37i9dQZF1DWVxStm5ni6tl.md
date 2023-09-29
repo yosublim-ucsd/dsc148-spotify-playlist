@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Antoniya, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,387 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [Talk To Me](https://open.spotify.com/track/02Az1ZPrTOeWjvc20ZveFT) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Talk To Me](https://open.spotify.com/album/6AzAxH3QhnCCYaA0k1LXDK) | 2:53 |
 | 80 | [Fake Money](https://open.spotify.com/track/5ZAkwPHjuje4eM3gItHXoB) | [Sarah Itamah](https://open.spotify.com/artist/5E5tgdinLfCPJAccYJjsta) | [Fake Money](https://open.spotify.com/album/41YFlcejLMS6h0Ak8DYQbb) | 2:28 |
 
-Snapshot ID: `MCw5MjZkYWUxODg4OWZkOTBhNzQ1MTZiOWFhMjUyYTQwYmMwYmUxNDQ4`
+Snapshot ID: `MCwxYWZiZDVlZWEzNDc3OTdiZTIzZjQ4MTQ1ZDBkZWFiZDhiNTI2N2U3`

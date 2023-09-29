@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Mikel Erentxun.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Arco.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -3577,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "Las vidas que olvid\u00e9",
+        "url": "https://open.spotify.com/album/7xonHz50UMJAlKJAE1qHKH"
+      },
+      "artists": [
+        {
+          "name": "Arco",
+          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181445,
+      "name": "Las vidas que olvid\u00e9",
+      "url": "https://open.spotify.com/track/65sXwuOvRgovXFe5m3oKvS"
+    },
+    {
+      "album": {
         "name": "Lejos de las leyes de los hombres (Versi\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7u6hWylxNJin7RPnuTsxrI"
       },
@@ -4856,7 +4874,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 206000,
       "name": "Por las noches",
       "url": "https://open.spotify.com/track/7BtkQSPamCwesQN1mBBUFd"

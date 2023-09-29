@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-141 songs - 7 hr 25 min
+142 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Frosty](https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Frosty](https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI) | 3:16 | 2022-12-16 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/6P0YUPZfoluJU2zKkSUNVT) | [Karizma Duo](https://open.spotify.com/artist/4AG4GdKn7FmC3EPk8m6dxg) | [Playlist of Christmas Songs](https://open.spotify.com/album/13Gygts2YXzvvvCq1wIUql) | 2:22 | 2021-12-17 |  |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/167NLVx6ZmZfIBe8GK3sSv) | [Praytell](https://open.spotify.com/artist/20QoRE4MEXGJpQwRktZ0LJ), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [It's Almost Christmas, Vol\. 3](https://open.spotify.com/album/48Ds43jzKqDa2IDAPPGBHN) | 3:11 | 2022-11-24 |  |
+| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/6k4ay4fFySwUAIbfHnT4FK) | [Mark Jacobsen](https://open.spotify.com/artist/5KxXsQXx6s5DeW4oUaiqBR) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/1nfSsAZndSGQM4pMXV5qEV) | 2:55 | 2023-09-29 |  |
 | [Green Grows The Holly](https://open.spotify.com/track/3rmZq65IMXxP3jE2h0aIjJ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Green Grows The Holly](https://open.spotify.com/album/66syYpRnwqFrK5EEiPOtYw) | 4:32 | 2022-10-24 |  |
 | [Hallelujah](https://open.spotify.com/track/4Cf29FCJVbDU9szjtXQjoK) | [Anna Engh](https://open.spotify.com/artist/5jKDOWw2w1xzj7M0wg4A9i) | [Hallelujah](https://open.spotify.com/album/4pilz2Q1kExS7zeL2AVN9a) | 3:16 | 2022-10-14 |  |
 | [Happy Christmas My Dear](https://open.spotify.com/track/3z0GfQCW7MAyoqfGbuymvD) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Happy Christmas My Dear](https://open.spotify.com/album/3CxBiwmyE6h2lMGevQqXNV) | 2:54 | 2021-12-17 |  |
@@ -87,7 +88,7 @@
 | [Little Saint Nick](https://open.spotify.com/track/4HWPbnVixcZ6rtcgeEY7X7) | [November Lights](https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH) | [Acoustic Christmas](https://open.spotify.com/album/2vBV9b3OWg7DcsJrVHJYKN) | 3:11 | 2022-09-23 |  |
 | [Lonely This Christmas \- Acoustic](https://open.spotify.com/track/7ssh3PNGec8Q0F3RHuSki9) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lonely This Christmas \(Acoustic\)](https://open.spotify.com/album/4rOT847XmxYe9LuTpea0Vt) | 2:50 | 2022-09-23 |  |
 | [Mama It's Christmas](https://open.spotify.com/track/2r3zWJ1sWux8Fix5MODSGI) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:56 | 2022-10-07 | 2023-09-22 |
-| [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 | 2023-09-15 |  |
+| [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 | 2023-09-15 | 2023-09-29 |
 | [Mary's Boy Child](https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Mary's Boy Child](https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI) | 1:57 | 2022-10-07 |  |
 | [Maybe Next Christmas](https://open.spotify.com/track/4JYewrsUG5zpV0gTQ2DqJp) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Maybe Next Christmas](https://open.spotify.com/album/5NaGbKAz6tToBAeK09bhpj) | 2:29 | 2022-10-14 |  |
 | [Maybe This Christmas](https://open.spotify.com/track/0LUBUrff46sIknLO4Kupup) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [The Secret Of Christmas](https://open.spotify.com/album/6PkCw5bDn4bYlpmz3mKyQT) | 2:40 | 2021-12-17 |  |
@@ -95,7 +96,7 @@
 | [Maybe This Christmas](https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Maybe This Christmas](https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY) | 1:52 | 2021-12-17 | 2022-10-08 |
 | [Merry Christmas Everyone \(Snow Is Falling\) \- Acoustic Cover](https://open.spotify.com/track/26YCOq8RYz8Qsx75rWa3kZ) | [Emily Hall](https://open.spotify.com/artist/4RbjejrQkdyJK5XUyvnSDU) | [Acoustic Christmas 2020 \- Xmas Chill Acustic](https://open.spotify.com/album/54KyGOuJWHAWGKUHQHJLUJ) | 2:14 | 2022-09-23 |  |
 | [Merry Christmas Wherever You Are \(Acoustic\)](https://open.spotify.com/track/3teWqnWLFpJ6RquvJzwG4O) | [Meiko](https://open.spotify.com/artist/6tW9jWf8lpuzDzAdVMvNMV) | [Merry Christmas Wherever You Are \(Acoustic\)](https://open.spotify.com/album/6STtqwEkgI7Kqvwem94mZv) | 3:21 | 2021-12-17 |  |
-| [Merry Xmas Everybody](https://open.spotify.com/track/0BQs8OCMlegB4Mlrx9nJA2) | [Joe Hicks](https://open.spotify.com/artist/0xwHtYTN6P4PtjLSzLV4U5) | [Merry Xmas Everybody](https://open.spotify.com/album/1A52lVGt4oJaXtI9FRxVvt) | 3:21 | 2021-12-17 |  |
+| [Merry Xmas Everybody](https://open.spotify.com/track/0BQs8OCMlegB4Mlrx9nJA2) | [Joe Hicks](https://open.spotify.com/artist/0xwHtYTN6P4PtjLSzLV4U5) | [Merry Xmas Everybody](https://open.spotify.com/album/1A52lVGt4oJaXtI9FRxVvt) | 3:21 | 2021-12-17 | 2023-09-29 |
 | [Mistletoe And Holly](https://open.spotify.com/track/2hL5cuZFFKQWwNZvxGaUq4) | [Javier Barrera](https://open.spotify.com/artist/0rPKDNLYtijSxZYDwdOpN8) | [Mistletoe And Holly](https://open.spotify.com/album/0CFV9ymitdztEb9HcJsGhx) | 1:32 | 2021-12-17 |  |
 | [My Grown\-Up Christmas List \- Acoustic](https://open.spotify.com/track/7ssaj3OghFAI8gMvTRbdak) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [My Grown\-Up Christmas List \(Acoustic\)](https://open.spotify.com/album/7DZUNrDWRLi5FF9Vf2qD7V) | 3:30 | 2022-09-23 |  |
 | [O Christmas Tree \- Acoustic](https://open.spotify.com/track/1KS9XTm3LUIBPHWMfwUdp5) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [O Christmas Tree \(Acoustic\)](https://open.spotify.com/album/6RoLTReIYJe8IS45SfCkt5) | 3:01 | 2022-09-23 |  |

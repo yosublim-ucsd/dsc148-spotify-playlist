@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-325 songs - 15 hr 3 min
+326 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Det finns bara en kung](https://open.spotify.com/track/4CwDkY1WcODvyuo0vw5lyI) | [F.E.S.T](https://open.spotify.com/artist/0QZbl0d87CNgrGgxi0DvkU) | [Det finns bara en kung](https://open.spotify.com/album/1pOgOOTULLBnySxhCQEh80) | 2:51 | 2022-05-19 | 2022-07-18 |
 | [Det regnar och regnar](https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Röd Chevrolet](https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB) | 3:42 | 2021-12-16 |  |
 | [Det Ringer](https://open.spotify.com/track/2knRq4hvRNFwI8ilTBJXeS) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ) | [Det Ringer](https://open.spotify.com/album/2eCJ7T0MsfxttdEreBmBUN) | 2:42 | 2022-06-02 | 2022-06-13 |
+| [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/track/4lkJBloFZ3aXhsezo8BgO1) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/album/484DSeiUk7NvezjWAvI2iP) | 2:53 | 2023-09-28 |  |
 | [Det årnær sæ](https://open.spotify.com/track/5h8cq31h3tTcEJRo4uceZp) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Det årnær sæ](https://open.spotify.com/album/5VUUm9IhL7migYIkyKwLe5) | 2:58 | 2021-12-16 | 2022-06-06 |
 | [Digger deg](https://open.spotify.com/track/4nt7SCb3Nkp60GcLHfPn5Y) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Digger deg](https://open.spotify.com/album/2CjutmDqrsL14Ru3OhcwaD) | 3:06 | 2022-01-20 | 2022-07-28 |
 | [Diggy Liggy](https://open.spotify.com/track/1N6ZbLCBBnO43OVkr0t0LC) | [Teddy Nelson](https://open.spotify.com/artist/7s2dnP8BfaBimZOM4P0fFE) | [Diggy Liggy](https://open.spotify.com/album/5c6e85py9XmaFQBFvODfoC) | 2:16 | 2022-03-24 | 2022-04-21 |
@@ -183,7 +184,7 @@
 | [Kjære Kristine](https://open.spotify.com/track/6CYfuolGiwqQqrcQzP62iP) | [Contrazt](https://open.spotify.com/artist/6PF8pPXvzffFLPcbLCgz5M) | [Uten Kart og Kompass](https://open.spotify.com/album/5tW1vD4mltxM5eMCgvXtQC) | 3:57 | 2022-03-24 | 2022-07-25 |
 | [KJØPE HELE SVERIGE](https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [KJØPE HELE SVERIGE](https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6) | 1:57 | 2022-10-15 |  |
 | [Kjøret Stopper Aldri](https://open.spotify.com/track/6wfSoiPBDeE9MYEIXGjd8o) | [Meland x Hauken](https://open.spotify.com/artist/1lel1kMN3SUvXOtrO2tmfr) | [Graduation 2022](https://open.spotify.com/album/0IxNPToiIjAyJAGezxTbSy) | 2:41 | 2022-06-16 | 2022-07-04 |
-| [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 | 2022-01-27 |  |
+| [Kompis](https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Kompis](https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE) | 2:41 | 2022-01-27 | 2023-09-29 |
 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 | 2022-05-12 |  |
 | [Kongen av campen](https://open.spotify.com/track/5hwySzV76a0LyYExMoK5tq) | [BEIST](https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC), [Stjørna Heimbrentslag](https://open.spotify.com/artist/40WYRdzpABj4U2tEGEUpHP) | [Kongen av campen](https://open.spotify.com/album/2tNoKYU0O4q6hwXiJbhmOC) | 2:42 | 2022-05-19 | 2022-07-13 |
 | [Kongen av campingplassen](https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6) | [En får være som en er](https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT) | 3:25 | 2022-10-13 | 2023-09-07 |

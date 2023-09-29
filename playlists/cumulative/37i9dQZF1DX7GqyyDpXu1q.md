@@ -4,7 +4,7 @@
 
 > Southern rock swagger served neat\. Cover: Chris Stapleton
 
-214 songs - 13 hr 7 min
+215 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Down To The Devil](https://open.spotify.com/track/2hOB1WsQRTLgVxeXaz7F73) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/0fEy0iCdOq34h6Ci3zvZVv) | 3:26 | 2022-06-14 | 2023-08-05 |
 | [Edge Of Darkness](https://open.spotify.com/track/4rhUBIlzi7zgV7TryhVujl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 4:28 | 2020-08-21 |  |
 | [Everything You're Breathing For](https://open.spotify.com/track/5LzHQ5aVYK828HIWcnralK) | [The Parlor Mob](https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV) | [And You Were A Crow](https://open.spotify.com/album/5cKSit160Ht2Iododg6sUQ) | 3:46 | 2020-08-21 | 2023-01-06 |
-| [Fearless](https://open.spotify.com/track/7mvfSh2FqzHBv2uoLgoHME) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Fearless](https://open.spotify.com/album/07JymTZmXvEZnX1eknGIOq) | 3:08 | 2021-07-30 |  |
+| [Fearless](https://open.spotify.com/track/7mvfSh2FqzHBv2uoLgoHME) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Fearless](https://open.spotify.com/album/07JymTZmXvEZnX1eknGIOq) | 3:08 | 2021-07-30 | 2023-09-29 |
+| [Fearless](https://open.spotify.com/track/3g8g5JxjgSOrLG3O1LmhF1) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Fearless](https://open.spotify.com/album/3yUkf4r4NGxqHg15gx7oT0) | 3:09 | 2023-09-12 |  |
 | [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 | 2022-06-14 |  |
 | [Flying](https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [I Rise](https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ) | 3:09 | 2022-11-18 |  |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-06-03 |  |

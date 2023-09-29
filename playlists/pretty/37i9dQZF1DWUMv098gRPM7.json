@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Charlotte Cardin",
-  "num_followers": 7149,
+  "num_followers": 7186,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzY3ZjllMDMzNTBlYzUxOGIzNDhjOTMxMmYyMmQzZWYwMDdjMjRk",
+  "snapshot_id": "MCwwY2UyODQ1NmYyNDAwNGIxMDYyYzkwODI1MDAyNWIxZjlhZmMxYjkw",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Time Goes \"Bye\"",
-        "url": "https://open.spotify.com/album/55FALUa466PtpCqbVDbalm"
-      },
-      "artists": [
-        {
-          "name": "Jex Nwalor",
-          "url": "https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8"
-        }
-      ],
-      "duration_ms": 261027,
-      "name": "Time Goes \"Bye\"",
-      "url": "https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Give Me Time",
         "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 154702,
       "name": "Give Me Time",
       "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Time Goes \"Bye\"",
+        "url": "https://open.spotify.com/album/55FALUa466PtpCqbVDbalm"
+      },
+      "artists": [
+        {
+          "name": "Jex Nwalor",
+          "url": "https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8"
+        }
+      ],
+      "duration_ms": 261027,
+      "name": "Time Goes \"Bye\"",
+      "url": "https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "NASTY",
+        "url": "https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 170366,
+      "name": "NASTY",
+      "url": "https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Strange",
         "url": "https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3"
       },
@@ -983,38 +999,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Proverb",
-        "url": "https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "NASTY",
-        "url": "https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 170366,
-      "name": "NASTY",
-      "url": "https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 214437,
       "name": "Take Care of You (feat. Syd)",
       "url": "https://open.spotify.com/track/5lYcnEFmVi9yWbU4ZINRyJ"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Proverb",
+        "url": "https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w"
     },
     {
       "added_at": "2023-09-22 04:00:00",

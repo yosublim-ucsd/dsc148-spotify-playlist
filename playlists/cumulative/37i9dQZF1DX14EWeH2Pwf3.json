@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Villabanks",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Marracash, Gu\u00e8",
   "name": "Plus Ultra",
   "tracks": [
+    {
+      "album": {
+        "name": "1 MESSAGGIO",
+        "url": "https://open.spotify.com/album/4ckePFG01HSFnIDOtG9ZjS"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "1 MESSAGGIO",
+      "url": "https://open.spotify.com/track/3GsSmGgMELKhaYSj3QTShu"
+    },
     {
       "album": {
         "name": "100 OPPS",
@@ -138,7 +156,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 173995,
       "name": "90 SPECIAL (feat. Sfera Ebbasta & Shiva)",
       "url": "https://open.spotify.com/track/5MmCEVccxedh3clyDoxubA"
@@ -1425,6 +1443,32 @@
     },
     {
       "album": {
+        "name": "Cadillac (feat. Artie 5ive)",
+        "url": "https://open.spotify.com/album/3mG2cIIIftDcBHTtfQrMMz"
+      },
+      "artists": [
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155526,
+      "name": "Cadillac (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif"
+    },
+    {
+      "album": {
         "name": "Cancelo",
         "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
       },
@@ -2242,7 +2286,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 194786,
       "name": "DM (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1uye7szvzXiEr4gQcRfDip"
@@ -2768,6 +2812,24 @@
       "duration_ms": 212647,
       "name": "FRAGILE",
       "url": "https://open.spotify.com/track/3viY8a90sk4tcalpfsBb3V"
+    },
+    {
+      "album": {
+        "name": "Freddy Krueger Freestyle",
+        "url": "https://open.spotify.com/album/6h801PlffuLHaO7tcmvz3y"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99327,
+      "name": "Freddy Krueger Freestyle",
+      "url": "https://open.spotify.com/track/6TbFOSCtOicAETFf0DxHFt"
     },
     {
       "album": {
@@ -5555,6 +5617,24 @@
     },
     {
       "album": {
+        "name": "Pe' vula' nata vota",
+        "url": "https://open.spotify.com/album/2974QHaL5Qe87rUeLaWjNe"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181276,
+      "name": "Pe' vula' nata vota",
+      "url": "https://open.spotify.com/track/3AHG5yEA6bWGDPaomzK61o"
+    },
+    {
+      "album": {
         "name": "DON DADA",
         "url": "https://open.spotify.com/album/2Z4OPYzsc9osAGBgHtsPnd"
       },
@@ -5592,7 +5672,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 133858,
       "name": "Pel\u00e9",
       "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
@@ -7500,7 +7580,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 171250,
       "name": "Umile (feat. Shiva)",
       "url": "https://open.spotify.com/track/0zwcUxnzdX6eSeaLKkrVPB"

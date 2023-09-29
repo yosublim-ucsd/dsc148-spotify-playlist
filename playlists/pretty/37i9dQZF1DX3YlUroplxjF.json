@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 466348,
+  "num_followers": 466436,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2VmNzQ5MjllMjQ5YzM3ZGQyOWNmNDQ2M2U3YjA0MjQ1NDhhM2E5",
+  "snapshot_id": "MCxmMGFiM2UwNDhhMTczNmY2ZDQ0Njk3MzgyZjI4ZjEwMmY0Yjc4YzBm",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Hereafter",
-      "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Carry the Weight / From the First Note",
         "url": "https://open.spotify.com/album/1LWKl74lrLudXEtmIUDr3o"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 229266,
       "name": "Carry the Weight",
       "url": "https://open.spotify.com/track/17aUTUaDHrwv49PViccjy9"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "Hereafter",
+      "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 193886,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 237354,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Ivy (Doomsday)",
-      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Brutalism",
         "url": "https://open.spotify.com/album/5qag6esZLv5ySuCpzh7CE6"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 207145,
       "name": "Mother",
       "url": "https://open.spotify.com/track/7klLTLP8zff6I83OK0AMgO"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "Ivy (Doomsday)",
+      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Damned Soul",
-        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
-      },
-      "artists": [
-        {
-          "name": "Rivals",
-          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "The World Is In Your Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Devastation",
-        "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
+        "name": "Damned Soul",
+        "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Rivals",
+          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
         }
       ],
-      "duration_ms": 221748,
-      "name": "Devastation",
-      "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
+      "duration_ms": 217146,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1363,6 +1347,22 @@
       "duration_ms": 212000,
       "name": "Empty Thoughts",
       "url": "https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Devastation",
+        "url": "https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 221748,
+      "name": "Devastation",
+      "url": "https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Disease (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Messed Up",
-      "url": "https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 170000,
       "name": "No One's Listening",
       "url": "https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Disease (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Messed Up",
+      "url": "https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Nocturnal Future",
-        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 272725,
-      "name": "Nocturnal Future",
-      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi"
       },
@@ -1559,34 +1543,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Disease (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
+        "name": "Nocturnal Future",
+        "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
         }
       ],
-      "duration_ms": 178154,
-      "name": "Takeover",
-      "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Sweet Dreams of Otherness",
-        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Sweet Dreams of Otherness",
-      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
+      "duration_ms": 272725,
+      "name": "Nocturnal Future",
+      "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1603,6 +1571,22 @@
       "duration_ms": 210200,
       "name": "Brick Wall",
       "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1635,6 +1619,22 @@
       "duration_ms": 201600,
       "name": "Bankrupt",
       "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Disease (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 178154,
+      "name": "Takeover",
+      "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"
     }
   ],
   "unique_name": "Crash Course",

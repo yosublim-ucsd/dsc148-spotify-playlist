@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave",
-  "num_followers": 317254,
+  "num_followers": 317451,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTk5MTU1Yzg1M2M4Nzc3ZjY4NjFlZWU5ZmE0N2U2NWI4M2M5MzE4",
+  "snapshot_id": "MCwzMWQ5YmJjNGYwNTBjMTkwNzA5ODVhNDA3NWE1YThhYjM1Y2YxNGU1",
   "tracks": [
     {
       "added_at": "2023-03-10 08:53:36",
@@ -55,22 +55,6 @@
       "duration_ms": 225941,
       "name": "I Believe It (The Life of Jesus)",
       "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 258812,
-      "name": "Thank God I Do",
-      "url": "https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -287,26 +271,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Build a Boat (feat. Gabby Barrett)",
-        "url": "https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        },
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 170549,
-      "name": "Build a Boat (feat. Gabby Barrett)",
-      "url": "https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "How Can You Not",
         "url": "https://open.spotify.com/album/2TBFTCdartNacGPFgiVxSz"
       },
@@ -319,54 +283,6 @@
       "duration_ms": 192862,
       "name": "How Can You Not",
       "url": "https://open.spotify.com/track/0covwa001dCZVFNB2Jz2tt"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 208691,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "I See Grace",
-        "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 193865,
-      "name": "I See Grace",
-      "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Jesus Changed My Life",
-        "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
-      },
-      "artists": [
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 235651,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -387,6 +303,74 @@
       "duration_ms": 187306,
       "name": "Love Me Like I Am (with Jordin Sparks)",
       "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 208691,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Build a Boat (feat. Gabby Barrett)",
+        "url": "https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        },
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 170549,
+      "name": "Build a Boat (feat. Gabby Barrett)",
+      "url": "https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Jesus Changed My Life",
+        "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 235651,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "I See Grace",
+        "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 193865,
+      "name": "I See Grace",
+      "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -439,22 +423,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Into The Wild",
-        "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "Hold You Tight",
-      "url": "https://open.spotify.com/track/5Ra30hSwA5Q2kkYf4yidcq"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Make It Through",
         "url": "https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm"
       },
@@ -467,6 +435,22 @@
       "duration_ms": 192196,
       "name": "Make It Through",
       "url": "https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Into The Wild",
+        "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "Hold You Tight",
+      "url": "https://open.spotify.com/track/5Ra30hSwA5Q2kkYf4yidcq"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -651,6 +635,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "I Speak Jesus",
+        "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 233301,
+      "name": "I Speak Jesus",
+      "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "Ryan Ellis",
         "url": "https://open.spotify.com/album/1W1SIJVBK38bbjb76kPJfO"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "I Speak Jesus",
-        "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 233301,
-      "name": "I Speak Jesus",
-      "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Whosoever",
         "url": "https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 225755,
       "name": "Hallelujah Anyway",
       "url": "https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Take It To Jesus",
+        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 268288,
+      "name": "Take It To Jesus",
+      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -719,22 +719,6 @@
       "duration_ms": 265286,
       "name": "God You Are",
       "url": "https://open.spotify.com/track/0doQwQqwoHnwvWNpjpHqFd"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Take It To Jesus",
-        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 268288,
-      "name": "Take It To Jesus",
-      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 258812,
+      "name": "Thank God I Do",
+      "url": "https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "You've Already Won (Radio Version)",
         "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "I Will Carry You (Radio Version)",
-        "url": "https://open.spotify.com/album/086Mrlmlf2kFVvGD2U7clN"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "I Will Carry You - Radio Version",
-      "url": "https://open.spotify.com/track/7d09yra9jPl1CaxUXHWh1b"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Friend In Jesus (Live)",
         "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 348141,
       "name": "Friend In Jesus - Live",
       "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "I Will Carry You (Radio Version)",
+        "url": "https://open.spotify.com/album/086Mrlmlf2kFVvGD2U7clN"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "I Will Carry You - Radio Version",
+      "url": "https://open.spotify.com/track/7d09yra9jPl1CaxUXHWh1b"
     },
     {
       "added_at": "2023-03-10 08:53:36",

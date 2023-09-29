@@ -6015,6 +6015,28 @@
     },
     {
       "album": {
+        "name": "Morning Glory",
+        "url": "https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR"
+      },
+      "artists": [
+        {
+          "name": "Mondingo",
+          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+        },
+        {
+          "name": "Monoko",
+          "url": "https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269679,
+      "name": "Morning Glory",
+      "url": "https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV"
+    },
+    {
+      "album": {
         "name": "Mujer (Anja Schneider Remix)",
         "url": "https://open.spotify.com/album/2tAqZzvr2JODFIr70Gkfd4"
       },
@@ -7510,7 +7532,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 525619,
       "name": "Regina Blue",
       "url": "https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts"

@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=TsPl\_IGsTC2XAFMxDMOzfQ">Xenia Manasseh</a>
 
-249 songs - 13 hr 16 min
+250 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Cinderella Girl \(Where You Dey\) \[feat\. Ludacris\]](https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Cinderella Girl \(Where You Dey\) \[feat\. Ludacris\]](https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR) | 3:35 | 2023-05-11 |  |
 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-05-04 |  |
 | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d) | 3:00 | 2021-05-03 | 2022-09-24 |
-| [Crazy](https://open.spotify.com/track/6xPBy6PlnWvWHBaGyyusvv) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Crazy](https://open.spotify.com/album/4n58L3DcofQSva9E78JtsB) | 2:02 | 2023-09-21 |  |
+| [Crazy](https://open.spotify.com/track/6xPBy6PlnWvWHBaGyyusvv) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Crazy](https://open.spotify.com/album/4n58L3DcofQSva9E78JtsB) | 2:02 | 2023-09-21 | 2023-09-29 |
 | [Dangerous](https://open.spotify.com/track/7FdZxGH4zPNgE2JAcQcebg) | [T\-Classic](https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE) | [Dangerous](https://open.spotify.com/album/5fvfkQ5pnNnLpEjPvAUpwH) | 2:47 | 2022-05-05 | 2022-11-04 |
 | [Dangerous \(feat\. Ayra Starr\)](https://open.spotify.com/track/0hnfvkzawEjVVxBUWDEnEL) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Bravo](https://open.spotify.com/album/2VrbmxYUpIxZHb6uq7d695) | 2:58 | 2021-10-08 | 2022-05-06 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-05-04 |  |
@@ -149,6 +149,7 @@
 | [Love/Hate](https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:43 | 2023-08-31 |  |
 | [Lovin 21](https://open.spotify.com/track/4QboxKsKXMP6J2wKSJwdeN) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Lovin 21](https://open.spotify.com/album/25uPeqo8AAB9Hp46oYquY5) | 3:15 | 2023-05-04 | 2023-07-01 |
 | [Loving you](https://open.spotify.com/track/1ovB353KrNbmTaEL303k3Y) | [Tembipowers](https://open.spotify.com/artist/4SQ0j97pz30NcGfWAUmTMg), [Berny](https://open.spotify.com/artist/0cBJhAZtsIhcRuWSoXCLcE) | [Loving you](https://open.spotify.com/album/2E6HlQE1rhLSjsHNiv5cpv) | 2:41 | 2021-05-03 | 2022-05-06 |
+| [Low Waist](https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Low Waist](https://open.spotify.com/album/48xKnLRBNSajT7mcP4zdTb) | 3:01 | 2023-09-29 |  |
 | [Loyalty](https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Loyalty](https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL) | 2:47 | 2022-05-05 | 2023-05-05 |
 | [Mad Apology](https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:00 | 2023-06-08 |  |
 | [Maitama \(Going\)](https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [Maitama \(Going\)](https://open.spotify.com/album/3cErrQwNkGcBR37wIZUDd5) | 3:26 | 2022-11-18 | 2023-05-05 |

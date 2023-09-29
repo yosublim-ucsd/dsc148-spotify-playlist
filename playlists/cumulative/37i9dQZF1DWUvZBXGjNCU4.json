@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Dahlia",
+        "url": "https://open.spotify.com/album/1hez2OnBpf1Kxqr6QLthV5"
+      },
+      "artists": [
+        {
+          "name": "Raoul Raffino",
+          "url": "https://open.spotify.com/artist/4OMeqxm2R62xPoMeoZ8EQB"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140388,
+      "name": "Dahlia",
+      "url": "https://open.spotify.com/track/6ZUiOA4kUpxwHoqgTq502w"
+    },
+    {
+      "album": {
         "name": "Gitar",
         "url": "https://open.spotify.com/album/3x7DCTbKzZhja9ELXtRzDK"
       },
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 212000,
       "name": "Dreamstate",
       "url": "https://open.spotify.com/track/2MCRPbiKo2AmcBduhTrUqI"
@@ -1536,6 +1554,24 @@
       "duration_ms": 155000,
       "name": "Free at last",
       "url": "https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu"
+    },
+    {
+      "album": {
+        "name": "Fr\u00fchlingsgef\u00fchle",
+        "url": "https://open.spotify.com/album/7M5trxxK8lsEExyuBP1Au8"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136482,
+      "name": "Fr\u00fchlingsgef\u00fchle",
+      "url": "https://open.spotify.com/track/4h0QLxUzVqQ7QKFSnWjvdu"
     },
     {
       "album": {
@@ -3516,7 +3552,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 184980,
       "name": "Rivers of My Mind",
       "url": "https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M"
@@ -4650,7 +4686,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 150961,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/533SnCwxVytF3viTF5kYql"
@@ -4830,7 +4866,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 177789,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1fCos6izL2keCsoAtj30Kk"

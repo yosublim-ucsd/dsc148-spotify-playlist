@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE"
+      },
+      "artists": [
+        {
+          "name": "W8lss",
+          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111767,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN"
+    },
+    {
+      "album": {
         "name": "Bicycle",
         "url": "https://open.spotify.com/album/72SXioi40kiKjCGN4IxbPD"
       },
@@ -824,7 +842,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 211428,
       "name": "Cereal",
       "url": "https://open.spotify.com/track/7zmnH5VY7m2TDJjMnr1g7k"
@@ -1854,7 +1872,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 135562,
       "name": "Flamingo",
       "url": "https://open.spotify.com/track/1oHzeB9icPNP6e1hoCFxbL"
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 90000,
       "name": "hidden gardens",
       "url": "https://open.spotify.com/track/3qKjG9rjjsvIm8VApzgFnx"
@@ -2726,6 +2744,24 @@
       "duration_ms": 156750,
       "name": "Howzit?",
       "url": "https://open.spotify.com/track/395eVmBVCjR3TY8eUrOVl4"
+    },
+    {
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/4YcojIOuGGewmDv8jMKKay"
+      },
+      "artists": [
+        {
+          "name": "Dip Lewis",
+          "url": "https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4AAxteXXwBqVchz26932uB"
     },
     {
       "album": {
@@ -3542,7 +3578,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 60000,
       "name": "lost love.",
       "url": "https://open.spotify.com/track/6lMyaA24CjS5PvdOzYjCl3"
@@ -4118,7 +4154,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 144405,
       "name": "Morning",
       "url": "https://open.spotify.com/track/22xSHJxnzwtEO2qph3rmrs"
@@ -4154,7 +4190,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 151124,
       "name": "Morning Calm",
       "url": "https://open.spotify.com/track/7KSEpWctIyChr3cFZwfXn2"
@@ -5802,7 +5838,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 160000,
       "name": "Soft Breeze",
       "url": "https://open.spotify.com/track/3L2DXKtk8Jbn9OYbYHz76b"
@@ -6712,7 +6748,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 132272,
       "name": "time together",
       "url": "https://open.spotify.com/track/5S3M80eLbQYjf53A4hXiZi"
@@ -6850,6 +6886,24 @@
       "duration_ms": 117012,
       "name": "town life",
       "url": "https://open.spotify.com/track/7o6Tpfymsh47oT5VeSSIPL"
+    },
+    {
+      "album": {
+        "name": "traffic",
+        "url": "https://open.spotify.com/album/5ako2aURhgoMoVeh9XZSn3"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lullaby & yorukaze",
+          "url": "https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99000,
+      "name": "traffic",
+      "url": "https://open.spotify.com/track/7rfwtpxQF4UBT7cQMslOb6"
     },
     {
       "album": {
@@ -7198,7 +7252,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 123243,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/4ORT7AWNeQ34OL7uboB43c"
@@ -7310,10 +7364,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 140809,
       "name": "Wake up early",
       "url": "https://open.spotify.com/track/70ILhZLYGwOdy89qcgukNt"
+    },
+    {
+      "album": {
+        "name": "Walk in the Park",
+        "url": "https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT"
+      },
+      "artists": [
+        {
+          "name": "NogEgg",
+          "url": "https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Walk in the Park",
+      "url": "https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG"
     },
     {
       "album": {

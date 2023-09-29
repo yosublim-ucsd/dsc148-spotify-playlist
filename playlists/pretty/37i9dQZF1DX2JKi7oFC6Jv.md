@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,686 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,702 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 53 | [So Derobe](https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [The Shrew Would Have Cushioned The Blow / So Derobe](https://open.spotify.com/album/0Q0xQqRk5NCMzv4LLn1D6B) | 6:10 |
 | 54 | [Feeling Funky](https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Sensei EP](https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf) | 4:41 |
 | 55 | [Galiium](https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Gallium](https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP) | 7:36 |
-| 56 | [Move & Breathe](https://open.spotify.com/track/0tUBJgHumIS69lTHJ94bRM) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [3:33](https://open.spotify.com/album/6DzzvDoOqxVBuUmAniObKb) | 3:25 |
-| 57 | [Swervin'](https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r) | [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Limonata](https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS) | 4:30 |
+| 56 | [Swervin'](https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r) | [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Limonata](https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS) | 4:30 |
+| 57 | [Move & Breathe](https://open.spotify.com/track/0tUBJgHumIS69lTHJ94bRM) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [3:33](https://open.spotify.com/album/6DzzvDoOqxVBuUmAniObKb) | 3:25 |
 | 58 | [I'm Fly \- DJ Version](https://open.spotify.com/track/0e5jqZDWMqo5u13SQ0WmXQ) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [I'm Fly](https://open.spotify.com/album/3xwYsxgBdRhr4sJ1H0XDuf) | 4:08 |
-| 59 | [Hooligans](https://open.spotify.com/track/3HgL89b9l6Iwt06BH01r9s) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 5:38 |
-| 60 | [Funky Flex vs Pulse](https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Funky Flex vs Pulse](https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf) | 6:01 |
+| 59 | [Condo \(feat\. T\-Pain\) \- Roska Remix](https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Condo \(feat\. T\-Pain\) \[Remixes\]](https://open.spotify.com/album/2LRP4vOT55IKQHnQvi4hwr) | 3:52 |
+| 60 | [Hooligans](https://open.spotify.com/track/3HgL89b9l6Iwt06BH01r9s) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 5:38 |
 
-Snapshot ID: `MCxjOWVhYzlmODNmODU2YWYxZWRiZGY5YWNlMjNjZDc2NDNmZjAwODlm`
+Snapshot ID: `MCwxZDZlYTBiMGY3NjU5NGEzZWVkMTY1MmNiYzdkOTZkNTMwMGY0YTQ0`

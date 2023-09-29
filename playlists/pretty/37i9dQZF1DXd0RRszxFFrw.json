@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 51144,
+  "num_followers": 51189,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWVhMDk1NGM0OGUyZTE4Y2EwNDAzNThjMzI3NmU4NjgxZmEzYWM0",
+  "snapshot_id": "MCw4NDYwNThjYjZiOTliM2Y4MWQ1N2EzNDRjMmY2ODBhY2FhMTdjMmVm",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ibiza Sunset",
-        "url": "https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8"
-      },
-      "artists": [
-        {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
-        }
-      ],
-      "duration_ms": 168432,
-      "name": "Ibiza Sunset",
-      "url": "https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Bossa Nova Sounds EP",
         "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 180860,
       "name": "The Girl From Ipanema",
       "url": "https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Ibiza Sunset",
+        "url": "https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8"
+      },
+      "artists": [
+        {
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+        }
+      ],
+      "duration_ms": 168432,
+      "name": "Ibiza Sunset",
+      "url": "https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "A Brand New World",
-        "url": "https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo"
-      },
-      "artists": [
-        {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "Bossa Bravado",
-      "url": "https://open.spotify.com/track/6okyzUui51pNetfcXT40zu"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Flight to Paradise",
         "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 279293,
       "name": "El Ca\u00f1averal - Guajira",
       "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "A Brand New World",
+        "url": "https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo"
+      },
+      "artists": [
+        {
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Bossa Bravado",
+      "url": "https://open.spotify.com/track/6okyzUui51pNetfcXT40zu"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Just Feeling Great",
+        "url": "https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S"
+      },
+      "artists": [
+        {
+          "name": "Nylonwings",
+          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
+        }
+      ],
+      "duration_ms": 121814,
+      "name": "Just Feeling Great",
+      "url": "https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Asi lo siento",
         "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 143179,
       "name": "Meu cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Just Feeling Great",
-        "url": "https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S"
-      },
-      "artists": [
-        {
-          "name": "Nylonwings",
-          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
-        }
-      ],
-      "duration_ms": 121814,
-      "name": "Just Feeling Great",
-      "url": "https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Only In Paris",
-        "url": "https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw"
-      },
-      "artists": [
-        {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Bossanova in My Heart",
-      "url": "https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Spanish Guitar EP",
         "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 109505,
       "name": "Lagrima",
       "url": "https://open.spotify.com/track/5BI10E53YBSMYbCnKijBEN"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Only In Paris",
+        "url": "https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw"
+      },
+      "artists": [
+        {
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Bossanova in My Heart",
+      "url": "https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Bajo La Luna",
-        "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
-      },
-      "artists": [
-        {
-          "name": "Enrique De Melchor",
-          "url": "https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Zaralmondi - Colombianas",
-      "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Bossa Nova Sounds EP",
         "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 167161,
       "name": "Brigas, Nunca Mais",
       "url": "https://open.spotify.com/track/0a0aIKG6sw9bt8iRy3iGh5"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Bajo La Luna",
+        "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
+      },
+      "artists": [
+        {
+          "name": "Enrique De Melchor",
+          "url": "https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Zaralmondi - Colombianas",
+      "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
     },
     {
       "added_at": "2022-10-27 22:01:00",

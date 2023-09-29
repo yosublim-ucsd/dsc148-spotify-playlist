@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: K. Michelle",
-  "num_followers": 42906,
+  "num_followers": 42920,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWIyY2ZiMmQyMGYyYzE3NTRmY2Q2NjUwMjI4YjJjNjdhMDQ3M2Rk",
+  "snapshot_id": "MCw4MDM5ZjFkNGY0MzY2NDFjYjFiNTA1YmNlNTQ2NjFkZGFlNzVkMzUy",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -557,42 +557,6 @@
       "url": "https://open.spotify.com/track/4WKCqaRaYMKbDhw9rSdIUI"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Used To Me (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 167591,
-      "name": "Used To Me (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Fridayy",
-        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 183705,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
-    },
-    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Do You Mind",
@@ -611,6 +575,42 @@
       "duration_ms": 140568,
       "name": "Do You Mind",
       "url": "https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Fridayy",
+        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 183705,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Used To Me (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/1lPazDBnJg0TB7bR6qYpqf"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 167591,
+      "name": "Used To Me (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -841,6 +841,22 @@
       "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
     },
     {
+      "added_at": "2023-03-03 05:16:10",
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/3AtfoVhfF6k3scHxvOz5iL"
+      },
+      "artists": [
+        {
+          "name": "Kenya Vaun",
+          "url": "https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk"
+        }
+      ],
+      "duration_ms": 187484,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "The Hurtbook (Homegirl Pack)",
@@ -859,22 +875,6 @@
       "duration_ms": 193781,
       "name": "So Be It (with Summer Walker) - Remix",
       "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
-    },
-    {
-      "added_at": "2023-03-03 05:16:10",
-      "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/3AtfoVhfF6k3scHxvOz5iL"
-      },
-      "artists": [
-        {
-          "name": "Kenya Vaun",
-          "url": "https://open.spotify.com/artist/34lwpzvwbRDx9hnbQkwbJk"
-        }
-      ],
-      "duration_ms": 187484,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/70Kv6vWsCZeQryTBebFvbX"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo"
     },
     {
-      "added_at": "2023-07-14 17:29:23",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47"
-      },
-      "artists": [
-        {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
-    },
-    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Meet Me Upstrz",
@@ -939,6 +923,22 @@
       "duration_ms": 156107,
       "name": "Mine",
       "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
+    },
+    {
+      "added_at": "2023-07-14 17:29:23",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
     },
     {
       "added_at": "2023-07-28 08:00:10",
@@ -1033,6 +1033,26 @@
       "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
     },
     {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/7qLaG83ajGXlT4qwVwZNXs"
+      },
+      "artists": [
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        },
+        {
+          "name": "Jacob Latimore",
+          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
@@ -1057,42 +1077,6 @@
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/7qLaG83ajGXlT4qwVwZNXs"
-      },
-      "artists": [
-        {
-          "name": "Gemaine",
-          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
-        },
-        {
-          "name": "Jacob Latimore",
-          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
-        }
-      ],
-      "duration_ms": 184736,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
-    },
-    {
-      "added_at": "2023-09-01 04:55:52",
-      "album": {
-        "name": "Blame Yourself",
-        "url": "https://open.spotify.com/album/6vTOLZuBKqosKg2lSUKcR6"
-      },
-      "artists": [
-        {
-          "name": "K. Michelle",
-          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
-        }
-      ],
-      "duration_ms": 249917,
-      "name": "Blame Yourself",
-      "url": "https://open.spotify.com/track/4Zxpy4Fy5U6AZC2WTEovDu"
-    },
-    {
       "added_at": "2022-10-14 05:33:57",
       "album": {
         "name": "Love Jones (feat. Ty Dolla $ign)",
@@ -1111,6 +1095,22 @@
       "duration_ms": 183589,
       "name": "Love Jones (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
+    },
+    {
+      "added_at": "2023-09-01 04:55:52",
+      "album": {
+        "name": "Blame Yourself",
+        "url": "https://open.spotify.com/album/6vTOLZuBKqosKg2lSUKcR6"
+      },
+      "artists": [
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        }
+      ],
+      "duration_ms": 249917,
+      "name": "Blame Yourself",
+      "url": "https://open.spotify.com/track/4Zxpy4Fy5U6AZC2WTEovDu"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1233,6 +1233,22 @@
       "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
+      "added_at": "2023-09-08 05:11:32",
+      "album": {
+        "name": "ISN'T THE SAME",
+        "url": "https://open.spotify.com/album/2pBuZonuiDcOeLNg2SDdOX"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        }
+      ],
+      "duration_ms": 156624,
+      "name": "ISN'T THE SAME",
+      "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Sock It 2 Me",
@@ -1267,22 +1283,6 @@
       "duration_ms": 161684,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
-    },
-    {
-      "added_at": "2023-09-08 05:11:32",
-      "album": {
-        "name": "ISN'T THE SAME",
-        "url": "https://open.spotify.com/album/2pBuZonuiDcOeLNg2SDdOX"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 156624,
-      "name": "ISN'T THE SAME",
-      "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
     },
     {
       "added_at": "2022-11-04 06:34:53",
@@ -1337,26 +1337,6 @@
       "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
     },
     {
-      "added_at": "2022-09-30 04:04:59",
-      "album": {
-        "name": "Smoke, Drink, Break Up (feat. Wale)",
-        "url": "https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx"
-      },
-      "artists": [
-        {
-          "name": "Nelccia",
-          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 131542,
-      "name": "Smoke, Drink, Break Up (feat. Wale)",
-      "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
-    },
-    {
       "added_at": "2023-09-08 05:11:32",
       "album": {
         "name": "No Rules (Slut Me Out) (Single)",
@@ -1377,20 +1357,24 @@
       "url": "https://open.spotify.com/track/2av5w5YWi6lZAJKueee1gs"
     },
     {
-      "added_at": "2023-05-05 04:18:58",
+      "added_at": "2022-09-30 04:04:59",
       "album": {
-        "name": "Sadboy, Vol. 1",
-        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
+        "name": "Smoke, Drink, Break Up (feat. Wale)",
+        "url": "https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx"
       },
       "artists": [
         {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+          "name": "Nelccia",
+          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 130021,
-      "name": "Sadboy",
-      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
+      "duration_ms": 131542,
+      "name": "Smoke, Drink, Break Up (feat. Wale)",
+      "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1407,6 +1391,22 @@
       "duration_ms": 229090,
       "name": "Thug Passion",
       "url": "https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1"
+    },
+    {
+      "added_at": "2023-05-05 04:18:58",
+      "album": {
+        "name": "Sadboy, Vol. 1",
+        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 130021,
+      "name": "Sadboy",
+      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
       "added_at": "2023-07-28 08:00:10",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/6JMSuPOANWkvzhjlHB7P96"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93"
-      },
-      "artists": [
-        {
-          "name": "Liyah Katana",
-          "url": "https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu"
-        }
-      ],
-      "duration_ms": 153386,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Tripolar 3",
@@ -1527,6 +1511,22 @@
       "duration_ms": 165428,
       "name": "five more",
       "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93"
+      },
+      "artists": [
+        {
+          "name": "Liyah Katana",
+          "url": "https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu"
+        }
+      ],
+      "duration_ms": 153386,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1577,20 +1577,20 @@
       "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
     },
     {
-      "added_at": "2023-07-28 08:00:10",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Bands On You",
-        "url": "https://open.spotify.com/album/1iFQfpAqDZRYkFruuicgUx"
+        "name": "I'M THE PROBLEM",
+        "url": "https://open.spotify.com/album/6Ke3MYjGU7CCv6x530tdm4"
       },
       "artists": [
         {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
         }
       ],
-      "duration_ms": 169846,
-      "name": "Bands On You",
-      "url": "https://open.spotify.com/track/27l7Z82Oe1jmTMj3ietkgL"
+      "duration_ms": 228334,
+      "name": "This Man",
+      "url": "https://open.spotify.com/track/596mDgt5lAcoFLQn3FrXQ7"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1609,6 +1609,22 @@
       "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
     },
     {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Bands On You",
+        "url": "https://open.spotify.com/album/1iFQfpAqDZRYkFruuicgUx"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Bands On You",
+      "url": "https://open.spotify.com/track/27l7Z82Oe1jmTMj3ietkgL"
+    },
+    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "212",
@@ -1623,6 +1639,22 @@
       "duration_ms": 146799,
       "name": "212",
       "url": "https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "How Many",
+        "url": "https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Destiny",
+          "url": "https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf"
+        }
+      ],
+      "duration_ms": 198888,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1643,22 +1675,6 @@
       "duration_ms": 194000,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/0Yb6xqb1lqVJKc71pzqjic"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "How Many",
-        "url": "https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm"
-      },
-      "artists": [
-        {
-          "name": "Ryan Destiny",
-          "url": "https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf"
-        }
-      ],
-      "duration_ms": 198888,
-      "name": "How Many",
-      "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1701,22 +1717,6 @@
       "url": "https://open.spotify.com/track/5CeVK0aXJyPKr5O9tlyCs9"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "I'M THE PROBLEM",
-        "url": "https://open.spotify.com/album/6Ke3MYjGU7CCv6x530tdm4"
-      },
-      "artists": [
-        {
-          "name": "K. Michelle",
-          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
-        }
-      ],
-      "duration_ms": 228334,
-      "name": "This Man",
-      "url": "https://open.spotify.com/track/596mDgt5lAcoFLQn3FrXQ7"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Thanks 4 Nothing",
@@ -1733,20 +1733,24 @@
       "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Runner Up",
-        "url": "https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg"
+        "name": "On Mine",
+        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
       },
       "artists": [
         {
-          "name": "Tejy",
-          "url": "https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk"
+          "name": "Imani Williams",
+          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
-      "duration_ms": 172275,
-      "name": "Runner Up",
-      "url": "https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62"
+      "duration_ms": 143986,
+      "name": "On Mine",
+      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
     },
     {
       "added_at": "2022-09-30 04:04:59",

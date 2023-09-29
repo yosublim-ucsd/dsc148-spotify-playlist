@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 960807,
+  "num_followers": 961153,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjQ1NTYxNDkzYzAyN2U4OTU5MWI5Y2JhOTE2NmE4YTIzZjgzMWQ1",
+  "snapshot_id": "MCw5MzA3ZDY1MjMwZTgxZGE5YjIwOWUzMmE2ZmJjMWNiOTc2MGZjOGRl",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 108373,
+      "name": "Just Fly, Don't Worry",
+      "url": "https://open.spotify.com/track/6uB3tMtnAkxqtm08NDNZAV"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "The Moon Song",
         "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 141040,
       "name": "The Moon Song",
       "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 108373,
-      "name": "Just Fly, Don't Worry",
-      "url": "https://open.spotify.com/track/6uB3tMtnAkxqtm08NDNZAV"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
+      "duration_ms": 284130,
+      "name": "The Only Thing",
+      "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 284130,
-      "name": "The Only Thing",
-      "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Meet the Frownies",
+        "url": "https://open.spotify.com/album/5MklZDFSt57gbbaPv0kO6S"
+      },
+      "artists": [
+        {
+          "name": "Mr Twin Sister",
+          "url": "https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "Meet the Frownies",
+      "url": "https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 211626,
       "name": "Future Lover",
       "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Meet the Frownies",
-        "url": "https://open.spotify.com/album/5MklZDFSt57gbbaPv0kO6S"
-      },
-      "artists": [
-        {
-          "name": "Mr Twin Sister",
-          "url": "https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "Meet the Frownies",
-      "url": "https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1047,38 +1047,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Business Solutions",
-        "url": "https://open.spotify.com/album/5EoBpPFpD4y4GCc4CFaLhE"
-      },
-      "artists": [
-        {
-          "name": "JORDANN",
-          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "Business Solutions",
-      "url": "https://open.spotify.com/track/7AQF2AOa43bMg08srt9PO3"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/5SAR4b6aNdpzekzJoDVISc"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 181508,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1pxV36wX49w3PAcv8etdRU"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -1099,6 +1067,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Business Solutions",
+        "url": "https://open.spotify.com/album/5EoBpPFpD4y4GCc4CFaLhE"
+      },
+      "artists": [
+        {
+          "name": "JORDANN",
+          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Business Solutions",
+      "url": "https://open.spotify.com/track/7AQF2AOa43bMg08srt9PO3"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 196363,
       "name": "January",
       "url": "https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/5SAR4b6aNdpzekzJoDVISc"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 181508,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1pxV36wX49w3PAcv8etdRU"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Humans",
+        "url": "https://open.spotify.com/album/3NBcENkuLCwmb0TSgbZvRi"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 251690,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 297422,
       "name": "Come On Home",
       "url": "https://open.spotify.com/track/6MyN49pk1GgnsH9owzqVLx"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Humans",
-        "url": "https://open.spotify.com/album/3NBcENkuLCwmb0TSgbZvRi"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 251690,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Strange Disciple",
+        "url": "https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "duration_ms": 255438,
+      "name": "Weak In Your Light",
+      "url": "https://open.spotify.com/track/4odb2UIgc0u22MNV7p4iQq"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Essentials",
         "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
       },
@@ -1723,6 +1739,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "One Day It'll All Make Sense",
+        "url": "https://open.spotify.com/album/6MtD3lsWbdX3fVWp5KfzQd"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "duration_ms": 61224,
+      "name": "One Day It'll All Make Sense",
+      "url": "https://open.spotify.com/track/41F6Z4ldpPWxy0hr5OUn9z"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Forever Turned Around",
         "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
       },
@@ -1735,22 +1767,6 @@
       "duration_ms": 190466,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Strange Disciple",
-        "url": "https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK"
-      },
-      "artists": [
-        {
-          "name": "Nation of Language",
-          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
-        }
-      ],
-      "duration_ms": 255438,
-      "name": "Weak In Your Light",
-      "url": "https://open.spotify.com/track/4odb2UIgc0u22MNV7p4iQq"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1787,22 +1803,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "One Day It'll All Make Sense",
-        "url": "https://open.spotify.com/album/6MtD3lsWbdX3fVWp5KfzQd"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 61224,
-      "name": "One Day It'll All Make Sense",
-      "url": "https://open.spotify.com/track/41F6Z4ldpPWxy0hr5OUn9z"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Cerulean Tapes",
         "url": "https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M"
       },
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "D'vocean",
-        "url": "https://open.spotify.com/album/7EdGStQq6pCfMdURb1T2Hz"
-      },
-      "artists": [
-        {
-          "name": "Eastghost",
-          "url": "https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv"
-        }
-      ],
-      "duration_ms": 218151,
-      "name": "D'vocean",
-      "url": "https://open.spotify.com/track/7mkjLeqNeFLuzjcf2sOTqP"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 258002,
       "name": "Tomb",
       "url": "https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "D'vocean",
+        "url": "https://open.spotify.com/album/7EdGStQq6pCfMdURb1T2Hz"
+      },
+      "artists": [
+        {
+          "name": "Eastghost",
+          "url": "https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv"
+        }
+      ],
+      "duration_ms": 218151,
+      "name": "D'vocean",
+      "url": "https://open.spotify.com/track/7mkjLeqNeFLuzjcf2sOTqP"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "One More Rush",
+        "url": "https://open.spotify.com/album/3nRL4wC7InlFxQlMq0bnvV"
+      },
+      "artists": [
+        {
+          "name": "Baril",
+          "url": "https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Take Ur Time",
+      "url": "https://open.spotify.com/track/6kYfkZMRWI6t0dvfHilSv3"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Long Distance",
         "url": "https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 221720,
       "name": "We're Here, My Dear",
       "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "One More Rush",
-        "url": "https://open.spotify.com/album/3nRL4wC7InlFxQlMq0bnvV"
-      },
-      "artists": [
-        {
-          "name": "Baril",
-          "url": "https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Take Ur Time",
-      "url": "https://open.spotify.com/track/6kYfkZMRWI6t0dvfHilSv3"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Everything Was Green",
-        "url": "https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3"
-      },
-      "artists": [
-        {
-          "name": "Forest Claudette",
-          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
-        }
-      ],
-      "duration_ms": 255419,
-      "name": "Violence",
-      "url": "https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Cola",
         "url": "https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 98770,
       "name": "Hum",
       "url": "https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Everything Was Green",
+        "url": "https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "duration_ms": 255419,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Tungsten",
-        "url": "https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic"
-      },
-      "artists": [
-        {
-          "name": "Healy",
-          "url": "https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "Everything's Fine",
-      "url": "https://open.spotify.com/track/1hQM22L8FSThJB5drLpfQs"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "NYC Stuff and NYC Bags - EP",
         "url": "https://open.spotify.com/album/2BbHRqsqZmJOkIWXlQXGsS"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 115773,
       "name": "Outro 4 NYC",
       "url": "https://open.spotify.com/track/5po3pk15QRCg1jf9thg39N"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Tungsten",
+        "url": "https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic"
+      },
+      "artists": [
+        {
+          "name": "Healy",
+          "url": "https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "Everything's Fine",
+      "url": "https://open.spotify.com/track/1hQM22L8FSThJB5drLpfQs"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "hurt me enough",
-        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
-      },
-      "artists": [
-        {
-          "name": "Nathan Archie",
-          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
-        }
-      ],
-      "duration_ms": 186032,
-      "name": "hurt me enough",
-      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Outer Peace",
         "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 150744,
       "name": "New House",
       "url": "https://open.spotify.com/track/26I5ccX6wQKwCdrfDykIif"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "hurt me enough",
+        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
+      },
+      "artists": [
+        {
+          "name": "Nathan Archie",
+          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
+        }
+      ],
+      "duration_ms": 186032,
+      "name": "hurt me enough",
+      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd"
-      },
-      "artists": [
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "House Creature",
         "url": "https://open.spotify.com/album/27ba8fckG1oJ4DzPZO80Ey"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 117783,
       "name": "One Trick Pony",
       "url": "https://open.spotify.com/track/1qpg6H28CYp95bvj2fj3b3"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd"
+      },
+      "artists": [
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf"
     }
   ],
   "unique_name": "late night vibes",

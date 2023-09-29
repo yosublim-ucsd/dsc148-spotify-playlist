@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 80768,
+  "num_followers": 80858,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTdiNGFiYTU4MjVkODhhZWQxZTBiMzU0YjM5MGMyMWIzZjBkNDcx",
+  "snapshot_id": "MCxhYjU4NGRlN2U0ZTEyODQ3MDBjMmJhNGQzYWY1NTU5YzZjOGFhNDVh",
   "tracks": [
     {
       "added_at": "2023-09-14 22:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "The Way You Love Me - Deluxe Re-Issue",
-        "url": "https://open.spotify.com/album/5XFybVXqX9Xhys2sd91eC1"
-      },
-      "artists": [
-        {
-          "name": "Marc Evans",
-          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
-        }
-      ],
-      "duration_ms": 399653,
-      "name": "The Way U Love Me",
-      "url": "https://open.spotify.com/track/5u2Bf96SjyWMKSrqAu9jUD"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "I Think I'll Do Some Stepping (On My Own) - OPOLOPO Rework",
         "url": "https://open.spotify.com/album/4xR1Tz7NKnqwaPYvt3VlSX"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 508111,
       "name": "I Think I'll Do Some Stepping (On My Own) - OPOLOPO Rework",
       "url": "https://open.spotify.com/track/0q6bCDZ8YCM4QyGofrSiSy"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "The Way You Love Me - Deluxe Re-Issue",
+        "url": "https://open.spotify.com/album/5XFybVXqX9Xhys2sd91eC1"
+      },
+      "artists": [
+        {
+          "name": "Marc Evans",
+          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
+        }
+      ],
+      "duration_ms": 399653,
+      "name": "The Way U Love Me",
+      "url": "https://open.spotify.com/track/5u2Bf96SjyWMKSrqAu9jUD"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
-      },
-      "artists": [
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
-        },
-        {
-          "name": "Hayze",
-          "url": "https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Changes (feat. Haze)",
-      "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
         "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
       },
@@ -903,6 +883,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
+      },
+      "artists": [
+        {
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+        },
+        {
+          "name": "Hayze",
+          "url": "https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Changes (feat. Haze)",
+      "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Welcome Aboard",
         "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
       },
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "WELCOME HOME",
+        "url": "https://open.spotify.com/album/2fBXchCWGXcGViKCTRG3Bi"
+      },
+      "artists": [
+        {
+          "name": "Mr V",
+          "url": "https://open.spotify.com/artist/42gpwkOlK8m00RBmB54sQD"
+        }
+      ],
+      "duration_ms": 415680,
+      "name": "Jus Dance",
+      "url": "https://open.spotify.com/track/3bNf9uutsm3cbPs2LnrlVW"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Backfired",
         "url": "https://open.spotify.com/album/6ny1UzeTKJ9iR4e7t6SHVz"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 519039,
       "name": "Backfired - Dave Lee Club Mix",
       "url": "https://open.spotify.com/track/2RsSPUTNQ147dUCQyC4toz"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "WELCOME HOME",
-        "url": "https://open.spotify.com/album/2fBXchCWGXcGViKCTRG3Bi"
-      },
-      "artists": [
-        {
-          "name": "Mr V",
-          "url": "https://open.spotify.com/artist/42gpwkOlK8m00RBmB54sQD"
-        }
-      ],
-      "duration_ms": 415680,
-      "name": "Jus Dance",
-      "url": "https://open.spotify.com/track/3bNf9uutsm3cbPs2LnrlVW"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1223,22 +1223,18 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/43xDloRiOgJc41Vczj2uvG"
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
       },
       "artists": [
         {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Nadirah Shakoor",
-          "url": "https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy"
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
         }
       ],
-      "duration_ms": 389066,
-      "name": "Pride - Main Mix",
-      "url": "https://open.spotify.com/track/51l17BzbgSXv4kEdQdzABO"
+      "duration_ms": 269572,
+      "name": "Night Visions",
+      "url": "https://open.spotify.com/track/3ChSgzeihSYujR3JpKk9De"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1263,6 +1259,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/43xDloRiOgJc41Vczj2uvG"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Nadirah Shakoor",
+          "url": "https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy"
+        }
+      ],
+      "duration_ms": 389066,
+      "name": "Pride - Main Mix",
+      "url": "https://open.spotify.com/track/51l17BzbgSXv4kEdQdzABO"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Here to There",
         "url": "https://open.spotify.com/album/3bYHhxZtHnG7Ys0Vpf3xvy"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 325773,
       "name": "Music in Me (Come Alive)",
       "url": "https://open.spotify.com/track/5DVTiIwuqEuXHWIOpnTSng"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
-      },
-      "artists": [
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        }
-      ],
-      "duration_ms": 269572,
-      "name": "Night Visions",
-      "url": "https://open.spotify.com/track/3ChSgzeihSYujR3JpKk9De"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Best of the Last",
-        "url": "https://open.spotify.com/album/0F97K61LRqeWkHJoCoq1ib"
-      },
-      "artists": [
-        {
-          "name": "Studio Apartment",
-          "url": "https://open.spotify.com/artist/4qiZmlChOmtDYF2YVDkDrg"
-        },
-        {
-          "name": "Monique Bingham",
-          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
-        }
-      ],
-      "duration_ms": 452439,
-      "name": "Flight (feat. Monique Bingham) - Nulife Vocal Mix",
-      "url": "https://open.spotify.com/track/3pZPJCTjm5r53Na4V6weLs"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Kissing Strangers",
         "url": "https://open.spotify.com/album/5dOouQAVL4EmZ2TYfcpZyj"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 466163,
       "name": "Kissing Strangers - Ralf GUM & CrisP Club Mix",
       "url": "https://open.spotify.com/track/1y8atHf1XO3GLyUSo8vJuq"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Best of the Last",
+        "url": "https://open.spotify.com/album/0F97K61LRqeWkHJoCoq1ib"
+      },
+      "artists": [
+        {
+          "name": "Studio Apartment",
+          "url": "https://open.spotify.com/artist/4qiZmlChOmtDYF2YVDkDrg"
+        },
+        {
+          "name": "Monique Bingham",
+          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
+        }
+      ],
+      "duration_ms": 452439,
+      "name": "Flight (feat. Monique Bingham) - Nulife Vocal Mix",
+      "url": "https://open.spotify.com/track/3pZPJCTjm5r53Na4V6weLs"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/2n3nX312EHZSQ5nuEGfCD2"
-      },
-      "artists": [
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 410348,
-      "name": "I - Sean McCabe Remix",
-      "url": "https://open.spotify.com/track/2Krq49k8Nvxxuanui53S1v"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Momma's Groove",
         "url": "https://open.spotify.com/album/7bUrgjRgOLDrNVOmrbOTSI"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 384012,
       "name": "Momma's Groove",
       "url": "https://open.spotify.com/track/7eMprrLOCDuig4qPmZScNO"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/2n3nX312EHZSQ5nuEGfCD2"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 410348,
+      "name": "I - Sean McCabe Remix",
+      "url": "https://open.spotify.com/track/2Krq49k8Nvxxuanui53S1v"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Nuyorican Soul",
+        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
+      },
+      "artists": [
+        {
+          "name": "Nuyorican Soul",
+          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "It's Alright, I Feel It",
+      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "For The Culture (Sean McCabe & Black Sonix Remix)",
         "url": "https://open.spotify.com/album/5hvhL20Q3hGxuZ6U7ZIhXf"
       },
@@ -1955,26 +1975,6 @@
       "duration_ms": 247918,
       "name": "For The Culture - Sean McCabe & Black Sonix Remix Edit",
       "url": "https://open.spotify.com/track/7HOZfuZ9OzOtfHfOW3XNaK"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Nuyorican Soul",
-        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
-      },
-      "artists": [
-        {
-          "name": "Nuyorican Soul",
-          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
-        },
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "It's Alright, I Feel It",
-      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2019,26 +2019,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "TIME AFTER TIME",
-        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
-      },
-      "artists": [
-        {
-          "name": "Soul Central",
-          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
-        },
-        {
-          "name": "Abigail Bailey",
-          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
-        }
-      ],
-      "duration_ms": 399693,
-      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
-      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Warning (Radio Edit)",
         "url": "https://open.spotify.com/album/05hqHQOPleFvNzVddVR7YD"
       },
@@ -2063,6 +2043,26 @@
       "duration_ms": 232258,
       "name": "Warning - Radio Edit",
       "url": "https://open.spotify.com/track/0UGEJhHc5CwI2BmbPTGq72"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "TIME AFTER TIME",
+        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
+      },
+      "artists": [
+        {
+          "name": "Soul Central",
+          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
+        },
+        {
+          "name": "Abigail Bailey",
+          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
+        }
+      ],
+      "duration_ms": 399693,
+      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
+      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
-        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 494066,
-      "name": "Heaven - Marlon D. & G.A. Club Mix",
-      "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/6uPlPqAVtZNiYC8Qck1swM"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 455346,
       "name": "For Real - Atjazz Remix",
       "url": "https://open.spotify.com/track/1AHF21soOfMpMTZ4mjIXsa"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
+        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 494066,
+      "name": "Heaven - Marlon D. & G.A. Club Mix",
+      "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2735,26 +2735,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4FQ6GPr9THpyZh2AlbHB26"
-      },
-      "artists": [
-        {
-          "name": "Risksoundsystem",
-          "url": "https://open.spotify.com/artist/4OpU2Yc6oQQKLgvOyO2JLc"
-        },
-        {
-          "name": "Marc Evans",
-          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
-        }
-      ],
-      "duration_ms": 414720,
-      "name": "Closer - Original Mix",
-      "url": "https://open.spotify.com/track/2aWKUNDJI9dpEGQY2BVtjb"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l"
       },
@@ -2787,6 +2767,26 @@
       "duration_ms": 313893,
       "name": "Love and Devotion-Porgy and Bess Mix",
       "url": "https://open.spotify.com/track/3L5nmAeO0DhM04Wju6geCh"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4FQ6GPr9THpyZh2AlbHB26"
+      },
+      "artists": [
+        {
+          "name": "Risksoundsystem",
+          "url": "https://open.spotify.com/artist/4OpU2Yc6oQQKLgvOyO2JLc"
+        },
+        {
+          "name": "Marc Evans",
+          "url": "https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d"
+        }
+      ],
+      "duration_ms": 414720,
+      "name": "Closer - Original Mix",
+      "url": "https://open.spotify.com/track/2aWKUNDJI9dpEGQY2BVtjb"
     },
     {
       "added_at": "2023-09-14 22:00:00",

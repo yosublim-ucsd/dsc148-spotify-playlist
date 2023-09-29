@@ -1,6 +1,6 @@
 {
   "description": "Kids music from Disney, CoComelon, Nickelodeon, and more! Find new tracks and familiar favorites on this kids music playlist, and check back each week for more!",
-  "num_followers": 85321,
+  "num_followers": 85318,
   "original_name": "Kids Music",
   "owner": {
     "name": "Digster",
@@ -50,6 +50,10 @@
         {
           "name": "MusicClubKids!",
           "url": "https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w"
+        },
+        {
+          "name": "Sam Moran",
+          "url": "https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq"
         }
       ],
       "duration_ms": 186563,

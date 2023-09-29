@@ -543,6 +543,46 @@
     },
     {
       "album": {
+        "name": "Aglio e olio",
+        "url": "https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT"
+      },
+      "artists": [
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165018,
+      "name": "Aglio e olio",
+      "url": "https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND"
+    },
+    {
+      "album": {
+        "name": "agony",
+        "url": "https://open.spotify.com/album/1o46UGCAjuiNUpzMIqkmnh"
+      },
+      "artists": [
+        {
+          "name": "Ilykimchi",
+          "url": "https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb"
+        },
+        {
+          "name": "Niles",
+          "url": "https://open.spotify.com/artist/5ZJamUavXzHaddUzHWzRHc"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179090,
+      "name": "agony",
+      "url": "https://open.spotify.com/track/0JvhSZngvrshUUlFCtA6uD"
+    },
+    {
+      "album": {
         "name": "agony",
         "url": "https://open.spotify.com/album/1Om3YkaTqCgjVsFrvyYW2V"
       },
@@ -2169,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Can't Get over Me",
+        "url": "https://open.spotify.com/album/6l4JbBRojQPPGznEEbsJBp"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Can't Get over Me",
+      "url": "https://open.spotify.com/track/7swx2zXYblMAFx2SDUMIBq"
+    },
+    {
+      "album": {
         "name": "Can't Stop (Egg Remix)",
         "url": "https://open.spotify.com/album/2CJ6zZL6tVdBJAR66U6pVp"
       },
@@ -2292,7 +2350,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 280208,
       "name": "Chaotic NRG",
       "url": "https://open.spotify.com/track/5FKmQG3seap8bwPjbmQc5a"
@@ -3386,7 +3444,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 241979,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
@@ -4260,6 +4318,24 @@
       "duration_ms": 495483,
       "name": "Floating Urn Two",
       "url": "https://open.spotify.com/track/3a3CpLMmRMIrztSzBuHbAO"
+    },
+    {
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/3jgqAh9isqTcZLrIntkGZJ"
+      },
+      "artists": [
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164896,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/1AWbEMZ6FCeqQDQtqFjkuF"
     },
     {
       "album": {
@@ -5904,7 +5980,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 174876,
       "name": "I Don't Do Drugs - Y2K Remix",
       "url": "https://open.spotify.com/track/49CHpBYoeE9j0QIXy9dKI7"
@@ -6126,7 +6202,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 146054,
       "name": "I Want to Go to There",
       "url": "https://open.spotify.com/track/3fe0sBQNrGVyDr0jF5B4Cg"
@@ -6322,7 +6398,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 197000,
       "name": "In This Darkness",
       "url": "https://open.spotify.com/track/6qrcJkIpuWpxH0ruS8WVAy"
@@ -6536,6 +6612,28 @@
       "duration_ms": 129015,
       "name": "it's not about u",
       "url": "https://open.spotify.com/track/7mvVMUBy9bZI13N7dipRlx"
+    },
+    {
+      "album": {
+        "name": "it's only forever (K-Lone 160 Mix)",
+        "url": "https://open.spotify.com/album/0AbMtIcAZbaJlk0zNODMI8"
+      },
+      "artists": [
+        {
+          "name": "Maya Q",
+          "url": "https://open.spotify.com/artist/7w4cjtjGRbBN9wGWeu0r4J"
+        },
+        {
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269500,
+      "name": "it's only forever - K-Lone 160 Mix",
+      "url": "https://open.spotify.com/track/4nffe0yXHM7sedQEFzIEk9"
     },
     {
       "album": {
@@ -7054,7 +7152,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 148571,
       "name": "Lemme Fantasize",
       "url": "https://open.spotify.com/track/5HoBABnGo4MmxowXCjKozt"
@@ -7076,6 +7174,24 @@
       "duration_ms": 134774,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/3QYeBUd9Dqpip2kTuECDQ3"
+    },
+    {
+      "album": {
+        "name": "let u in",
+        "url": "https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175504,
+      "name": "let u in",
+      "url": "https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl"
     },
     {
       "album": {
@@ -7780,7 +7896,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 166106,
       "name": "Make You Scream - Isabella Lovestory & Kamixlo Remix",
       "url": "https://open.spotify.com/track/25vFpp8Cobvjk8QbgLeQsg"
@@ -7850,7 +7966,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 147933,
       "name": "Masochists",
       "url": "https://open.spotify.com/track/4kcCPJTdg2M0QWVas2Yyoa"
@@ -8202,6 +8318,24 @@
       "duration_ms": 326000,
       "name": "More Sensuous",
       "url": "https://open.spotify.com/track/5rF2osPlyeyIwUOmS5MbQ4"
+    },
+    {
+      "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146240,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
     },
     {
       "album": {
@@ -10482,7 +10616,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 255044,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/2hiycqburjTLyvuJASqGlE"
@@ -11431,6 +11565,28 @@
     },
     {
       "album": {
+        "name": "Steady Pace",
+        "url": "https://open.spotify.com/album/2naM3YdOoS51bK0mOTjP5R"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146007,
+      "name": "Steady Pace",
+      "url": "https://open.spotify.com/track/42Nbp4cNwh3VbncOXjnEkM"
+    },
+    {
+      "album": {
         "name": "Still Miss U",
         "url": "https://open.spotify.com/album/6Twb7nEWGMHnKHB4RKIHNu"
       },
@@ -11486,6 +11642,28 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
+        "name": "Strangers To Lovers",
+        "url": "https://open.spotify.com/album/4TUJge88IJZimo9Qe50CVj"
+      },
+      "artists": [
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "Nat Slater",
+          "url": "https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248023,
+      "name": "Strangers To Lovers",
+      "url": "https://open.spotify.com/track/0DmTnBsrmab2WzzRdb0pOy"
     },
     {
       "album": {

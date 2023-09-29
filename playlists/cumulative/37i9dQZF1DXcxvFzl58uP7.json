@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 223266,
       "name": "Coffee's on Me",
       "url": "https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX"
@@ -7424,6 +7424,24 @@
       "duration_ms": 200000,
       "name": "I Won!",
       "url": "https://open.spotify.com/track/3KQDLIK3HZkPJg7HS0d7jx"
+    },
+    {
+      "album": {
+        "name": "under the rug",
+        "url": "https://open.spotify.com/album/2dEqqZZV87Y0qFhUPQNmb3"
+      },
+      "artists": [
+        {
+          "name": "phendste",
+          "url": "https://open.spotify.com/artist/2bZ9fMqMY3l3GGzjgJJRyH"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "i'd find you",
+      "url": "https://open.spotify.com/track/1XrLgICxJEqkgDmiuANWC7"
     },
     {
       "album": {

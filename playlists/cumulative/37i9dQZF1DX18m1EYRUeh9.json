@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-11",
-  "description": "Smooth joints from around the globe. Cover: Yussef Dayes",
+  "description": "Smooth joints from around the globe. Cover: Say She She",
   "name": "Rarities",
   "tracks": [
     {
@@ -224,7 +224,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 132500,
       "name": "BAM!",
       "url": "https://open.spotify.com/track/47ddPZaTtDaZXsSlN7odQP"
@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Stings",
+        "url": "https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "Dogtown",
+      "url": "https://open.spotify.com/track/5ktCZMdlQ5jf1o6vqKFSso"
+    },
+    {
+      "album": {
         "name": "MOONSHOTS",
         "url": "https://open.spotify.com/album/2mIOejIeyVH58sDAKVfi53"
       },
@@ -804,7 +822,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 182198,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/2Z8Oy280CsH1tjOxj7nyLk"
@@ -830,6 +848,28 @@
       "duration_ms": 192000,
       "name": "Femininity (Elle Shimada Remix)",
       "url": "https://open.spotify.com/track/4FoRdkrFTWs3jdm9nwl1GK"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "Sariah Mae",
+          "url": "https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178477,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
     },
     {
       "album": {
@@ -913,6 +953,28 @@
     },
     {
       "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "Greatest Gift (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
+    },
+    {
+      "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/4WIZcuQmryKVoltVHn7alR"
       },
@@ -954,6 +1016,28 @@
       "duration_ms": 242711,
       "name": "hollatchu",
       "url": "https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU"
+    },
+    {
+      "album": {
+        "name": "FOSHIRA",
+        "url": "https://open.spotify.com/album/6S64R5mbSiFuRJgyQ1Nowy"
+      },
+      "artists": [
+        {
+          "name": "Foshe",
+          "url": "https://open.spotify.com/artist/0KCuUspc7QtrKkeTqXGHKZ"
+        },
+        {
+          "name": "Indira Elias",
+          "url": "https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232195,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/4LCWffAoLQJ2AAJupPR91a"
     },
     {
       "album": {
@@ -1040,7 +1124,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 148106,
       "name": "I'm Scanning Things I Can't See",
       "url": "https://open.spotify.com/track/6PFMHtcCD9l1O7PVUvxRn5"
@@ -1278,7 +1362,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 357949,
       "name": "Lost in a Bed of Flowers",
       "url": "https://open.spotify.com/track/6jKRORjRyncMFPyMxsYyp1"
@@ -1783,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239213,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/2g37Oi6GLhqoa2Z2NjrUe7"
+    },
+    {
+      "album": {
         "name": "RagJazz",
         "url": "https://open.spotify.com/album/3zxutQ3DFl5sBX7sxI2nVZ"
       },
@@ -1798,6 +1900,24 @@
       "duration_ms": 259842,
       "name": "RagJazz",
       "url": "https://open.spotify.com/track/7DAuQoUWFq40NBVXwWs4xU"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7b607glTYc3E06eB9hQusa"
+      },
+      "artists": [
+        {
+          "name": "First Beige",
+          "url": "https://open.spotify.com/artist/0QLkmmM8acu07MIT5GcSPT"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265885,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/70NoGzQstw0zYukOY2PVBl"
     },
     {
       "album": {
@@ -2148,7 +2268,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 262000,
       "name": "Sun Shines Bright",
       "url": "https://open.spotify.com/track/6m5Q3I5OawFTm8PeJJFFvY"
@@ -2760,7 +2880,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 225051,
       "name": "Yawp!",
       "url": "https://open.spotify.com/track/4ucg669twDqiGSeK3cz0Xv"

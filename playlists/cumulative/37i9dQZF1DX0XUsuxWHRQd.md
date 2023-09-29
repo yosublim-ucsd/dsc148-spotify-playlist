@@ -4,7 +4,7 @@
 
 > New music from Doja Cat, Lil Tecca and Moneybagg Yo.
 
-1,781 songs - 3 day 20 hr 7 min
+1,782 songs - 3 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1292,6 +1292,7 @@
 | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/track/1xqRKo0SDFDO5Jy8yEVD0X) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [ROLLIN N CONTROLLIN FREESTYLE](https://open.spotify.com/album/752RRPgpiIBjptbb1BqoRI) | 3:11 | 2021-02-12 | 2021-05-15 |
 | [Ron Artest](https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ron Artest](https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ) | 2:33 | 2023-02-10 | 2023-02-19 |
 | [ROOF](https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Back On My Baby Jesus Sh!t AGAIN](https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B) | 1:34 | 2021-11-12 | 2022-02-12 |
+| [Rosa Parks](https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 5:24 | 2023-09-28 |  |
 | [Rose Gold \(feat\. King Von\)](https://open.spotify.com/track/1qPJqsojWPApzEuSVoFawJ) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Rose Gold \(feat\. King Von\)](https://open.spotify.com/album/2c0Ma4DaG94fdYU0JEwkki) | 3:12 | 2021-01-21 | 2021-03-26 |
 | [ROSE STREET](https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [ROSE STREET](https://open.spotify.com/album/7CndERmuISXqBYNk7poimm) | 2:33 | 2022-04-01 | 2022-04-09 |
 | [Roses Remix \(feat\. Future\)](https://open.spotify.com/track/1KyZ4rUiW2lkqGNLQYKpcC) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Roses Remix \(feat\. Future\)](https://open.spotify.com/album/1yhDNVAm4gq1TuYdSbpEar) | 3:07 | 2020-06-05 | 2020-09-02 |

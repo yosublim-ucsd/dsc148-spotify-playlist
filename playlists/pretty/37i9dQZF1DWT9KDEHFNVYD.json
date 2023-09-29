@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 10912,
+  "num_followers": 10919,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjdkOTlmN2ZkMjg1ZDFkZWFjMzBlMDA5N2ViZTBhY2U1YmIzNzI2",
+  "snapshot_id": "MCw4ZjZlYTU5MjU4NmU4NDU0MWVlN2M2MDYwZjJhMmQ3ZDYzMWU2YjUw",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -679,6 +679,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Hei\u00dfe Lippen",
+      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Codes and Keys",
         "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "void beats/invocation trex",
         "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 233903,
       "name": "melody in high feedback tones",
       "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
-    },
-    {
-      "added_at": "2023-01-12 03:40:17",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -773,6 +757,22 @@
       "url": "https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO"
     },
     {
+      "added_at": "2023-01-12 03:40:17",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+    },
+    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Stars Are the Light",
@@ -787,6 +787,22 @@
       "duration_ms": 288031,
       "name": "The World and the Sun",
       "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Not The Time / Callous",
+        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Not The Time",
+      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -816,25 +832,9 @@
           "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Hei\u00dfe Lippen",
-      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Not The Time / Callous",
-        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Not The Time",
-      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2023-01-25 02:05:47",
@@ -851,6 +851,22 @@
       "duration_ms": 410666,
       "name": "77 Slightly Delayed",
       "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+    },
+    {
+      "added_at": "2023-03-23 21:21:38",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -885,36 +901,20 @@
       "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+        "name": "Lodger (2017 Remaster)",
+        "url": "https://open.spotify.com/album/0S5nxDIEprOH23QeDoMeFK"
       },
       "artists": [
         {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
-    },
-    {
-      "added_at": "2023-03-23 21:21:38",
-      "album": {
-        "name": "L'\u00e9t\u00e9 suivant...",
-        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
-      },
-      "artists": [
-        {
-          "name": "Limousine",
-          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
-        }
-      ],
-      "duration_ms": 387200,
-      "name": "Autoroute",
-      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
+      "duration_ms": 225440,
+      "name": "Red Sails - 2017 Remaster",
+      "url": "https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -935,38 +935,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Phase Modulation Shuffle (Edit)",
-        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Phase Modulation Shuffle (Edit)",
-      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Lodger (2017 Remaster)",
-        "url": "https://open.spotify.com/album/0S5nxDIEprOH23QeDoMeFK"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 225440,
-      "name": "Red Sails - 2017 Remaster",
-      "url": "https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Floating Coffin",
         "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
       },
@@ -981,20 +949,36 @@
       "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-03-23 21:21:38",
       "album": {
-        "name": "NEU! 75",
-        "url": "https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l"
+        "name": "L'\u00e9t\u00e9 suivant...",
+        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
       },
       "artists": [
         {
-          "name": "NEU!",
-          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+          "name": "Limousine",
+          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
         }
       ],
-      "duration_ms": 431800,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc"
+      "duration_ms": 387200,
+      "name": "Autoroute",
+      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Phase Modulation Shuffle (Edit)",
+        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Phase Modulation Shuffle (Edit)",
+      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
     },
     {
       "added_at": "2022-03-29 02:06:14",
@@ -1011,6 +995,22 @@
       "duration_ms": 279601,
       "name": "Quakenbr\u00fcck - version",
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "NEU! 75",
+        "url": "https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l"
+      },
+      "artists": [
+        {
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+        }
+      ],
+      "duration_ms": 431800,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
     },
     {
-      "added_at": "2022-03-04 01:55:34",
-      "album": {
-        "name": "Mandatory Enjoyment",
-        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
-      },
-      "artists": [
-        {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Final Weapon",
-      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Know by Heart",
@@ -1127,6 +1111,22 @@
       "duration_ms": 335199,
       "name": "One More Night - 2004 Remastered Version",
       "url": "https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0"
+    },
+    {
+      "added_at": "2022-03-04 01:55:34",
+      "album": {
+        "name": "Mandatory Enjoyment",
+        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
+      },
+      "artists": [
+        {
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Final Weapon",
+      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/3Lr8LULx6VXGqf3FeiVjC0"
     },
     {
-      "added_at": "2023-04-07 06:00:00",
-      "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
-      },
-      "artists": [
-        {
-          "name": "Mirror Revelations",
-          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "II",
@@ -1207,6 +1191,22 @@
       "duration_ms": 391881,
       "name": "9",
       "url": "https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT"
+    },
+    {
+      "added_at": "2023-04-07 06:00:00",
+      "album": {
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
+      },
+      "artists": [
+        {
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Faust IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2yFbw2SIBZ7ExIBRVoFkJJ"
-      },
-      "artists": [
-        {
-          "name": "Faust",
-          "url": "https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7"
-        }
-      ],
-      "duration_ms": 708813,
-      "name": "Krautrock - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0FCeHhtD9n3SFMALs3YXhH"
-    },
-    {
       "added_at": "2022-11-19 05:33:06",
       "album": {
         "name": "Feorm Falorx",
@@ -1343,6 +1327,22 @@
       "duration_ms": 239107,
       "name": "Nightcrawler",
       "url": "https://open.spotify.com/track/58J2w5yqne5YfzbmYi2mvY"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Faust IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2yFbw2SIBZ7ExIBRVoFkJJ"
+      },
+      "artists": [
+        {
+          "name": "Faust",
+          "url": "https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7"
+        }
+      ],
+      "duration_ms": 708813,
+      "name": "Krautrock - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0FCeHhtD9n3SFMALs3YXhH"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 250029,
-      "name": "Conductor 71",
-      "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Ohms",
         "url": "https://open.spotify.com/album/1uubGVQSGD0SR09BT0unJO"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 136426,
       "name": "State of Clear",
       "url": "https://open.spotify.com/track/1RpcIabGrqPQQe1jSHwpna"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 250029,
+      "name": "Conductor 71",
+      "url": "https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": ">>",
-        "url": "https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7"
-      },
-      "artists": [
-        {
-          "name": "Beak>",
-          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
-        }
-      ],
-      "duration_ms": 319853,
-      "name": "Yatton",
-      "url": "https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Axes",
         "url": "https://open.spotify.com/album/6URJwDxKSs8MWXm8WnMcTk"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 278026,
       "name": "Bells",
       "url": "https://open.spotify.com/track/7MeZ2vkj3UNOsMiekKRbGM"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": ">>",
+        "url": "https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7"
+      },
+      "artists": [
+        {
+          "name": "Beak>",
+          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
+        }
+      ],
+      "duration_ms": 319853,
+      "name": "Yatton",
+      "url": "https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh"
     },
     {
       "added_at": "2021-07-30 14:56:06",

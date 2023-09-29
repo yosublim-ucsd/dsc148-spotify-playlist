@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 224000,
       "name": "1st Soundscape",
       "url": "https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm"
@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
+        "url": "https://open.spotify.com/album/3lHbPfpCbfIbqW1Q4u9Vkq"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228310,
+      "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
+      "url": "https://open.spotify.com/track/2KHIUDMyKpCoatqCwDAtD4"
+    },
+    {
+      "album": {
         "name": "Another Universe",
         "url": "https://open.spotify.com/album/0EH0fPHBU6THoowDgDcCjz"
       },
@@ -806,6 +824,24 @@
       "duration_ms": 156784,
       "name": "Anywhere Else",
       "url": "https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY"
+    },
+    {
+      "album": {
+        "name": "Aono \uff06 Akine (From \"Blue Orchestra\" Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6bc3Y0oULpmOEZQlwDzq6x"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157554,
+      "name": "Aono & Akine",
+      "url": "https://open.spotify.com/track/4J4K9tVp3A0VLux2S92Lzc"
     },
     {
       "album": {
@@ -1316,6 +1352,24 @@
       "duration_ms": 273960,
       "name": "Branches",
       "url": "https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ"
+    },
+    {
+      "album": {
+        "name": "Isn\u2019t It Now?",
+        "url": "https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165067,
+      "name": "Broke Zodiac",
+      "url": "https://open.spotify.com/track/13VBnTHnLmgst3J4dF0zpH"
     },
     {
       "album": {
@@ -2362,7 +2416,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 333354,
       "name": "Estrellita (Arr. Mino Kabasawa)",
       "url": "https://open.spotify.com/track/3eBPhA9APSJNZlWv1Rln4j"
@@ -8276,7 +8330,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 182108,
       "name": "The Girl with the Flaxen Hair",
       "url": "https://open.spotify.com/track/40jTwi0A7djTFe01Di61Ux"
@@ -8432,7 +8486,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 285839,
       "name": "To Rage",
       "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
@@ -9404,7 +9458,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 315640,
       "name": "\u3086\u3081\u3046\u3064\u3064",
       "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"

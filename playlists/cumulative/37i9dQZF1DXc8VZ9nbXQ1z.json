@@ -1443,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "New Leaf",
+        "url": "https://open.spotify.com/album/32Y3zXEYmqJITXcXFT10NJ"
+      },
+      "artists": [
+        {
+          "name": "Robby Da Loca",
+          "url": "https://open.spotify.com/artist/1pv2AlK1Ct1ErEKP7ZOk2s"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422500,
+      "name": "Dancing Shadows",
+      "url": "https://open.spotify.com/track/4PSYo17uzJYC8xTgxsWybx"
+    },
+    {
+      "album": {
         "name": "Dare Your Move",
         "url": "https://open.spotify.com/album/7wMzeVpDff9c3MsUciRjfU"
       },
@@ -3307,6 +3325,32 @@
     },
     {
       "album": {
+        "name": "Permanent Music 3",
+        "url": "https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Zaba",
+          "url": "https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/5EjeN8ChFDW6lRHfrdnW2W"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410847,
+      "name": "IPlan",
+      "url": "https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg"
+    },
+    {
+      "album": {
         "name": "IQHAWE",
         "url": "https://open.spotify.com/album/4FxgWaDxIrMGItb5cc5ur4"
       },
@@ -4386,6 +4430,24 @@
       "duration_ms": 464505,
       "name": "Manana",
       "url": "https://open.spotify.com/track/5WL2W5n2nTlQb3AppemEZE"
+    },
+    {
+      "album": {
+        "name": "Mangalam",
+        "url": "https://open.spotify.com/album/2EeKAOY9tXnGNtDVTO8Ctf"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383225,
+      "name": "Mangalam",
+      "url": "https://open.spotify.com/track/4y2o3XahngmyJ3clWCxLAB"
     },
     {
       "album": {
@@ -6078,6 +6140,28 @@
       "duration_ms": 270448,
       "name": "Redemption - Hyenah Remix",
       "url": "https://open.spotify.com/track/3TQq8RseQ5hzI011BuvuPR"
+    },
+    {
+      "album": {
+        "name": "Rej",
+        "url": "https://open.spotify.com/album/6wD1X9ScsDcxnVOCtA3LUv"
+      },
+      "artists": [
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Neil Amarey",
+          "url": "https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "Rej",
+      "url": "https://open.spotify.com/track/3wgJgvlQ1HXJvt61NRE08e"
     },
     {
       "album": {

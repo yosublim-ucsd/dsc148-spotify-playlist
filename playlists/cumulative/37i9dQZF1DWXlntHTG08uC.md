@@ -4,7 +4,7 @@
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-173 songs - 8 hr 11 min
+177 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [528 Hz Chakra](https://open.spotify.com/track/2ltJWrTVi01JEV0b4ClKLN) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [528 Hz Frequencies for Mind and Body Vol 3](https://open.spotify.com/album/3dbNlAIfcmieBOZrhoI2Ll) | 2:57 | 2023-02-08 |  |
 | [528 Hz Clarity Vibrations](https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS) | [Pan Galactic Vibration](https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER) | [528 Hz Clarity Vibrations](https://open.spotify.com/album/35K9cAhglhHKSiJfWNdgQC) | 2:12 | 2023-08-07 |  |
 | [528 Hz Continuous Sleep](https://open.spotify.com/track/7lmkOvO66o3N0iQI1bY6eT) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [432 & 528 Hz Intuition](https://open.spotify.com/album/2AamrEPNMZkmMknDSYlgMm) | 3:03 | 2023-03-13 |  |
+| [528 Hz Deep Rain.](https://open.spotify.com/track/2adVXaEzFP0DeDlHWslzAg) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [528 Hz Deep Rain.](https://open.spotify.com/album/0NlyM5XLn1ySNnRJnHZ198) | 2:41 | 2023-09-28 |  |
 | [528 Hz DNA Repair](https://open.spotify.com/track/2oUbRBvpvb7iyvyMcBrsjG) | [Solfeggio Frequencies for Meditation](https://open.spotify.com/artist/5WkGVH2I9VFYiicvzevCuh) | [528 Hz Clarity, Peace and DNA Repair](https://open.spotify.com/album/5ohhnuyB8pdNRUsyl52ZS1) | 2:46 | 2023-02-08 |  |
 | [528 Hz Dormir](https://open.spotify.com/track/5xAzGzdCDsJOa7xx4jaElk) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [Solfeggio Ondas](https://open.spotify.com/album/5UmaBX9C27Np8TepecsPBc) | 3:07 | 2023-03-13 |  |
 | [528 Hz Dream Time](https://open.spotify.com/track/2Uvf7tAkpRs3Uaw0hZVaLY) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [432 & 528 Hz Intuition](https://open.spotify.com/album/2AamrEPNMZkmMknDSYlgMm) | 3:09 | 2023-03-13 |  |
@@ -159,6 +160,7 @@
 | [Regenerated \- 528 Hz](https://open.spotify.com/track/4Yx2SQzL24C9aVcm5tlO2u) | [Affine Art](https://open.spotify.com/artist/3AmKLzmRGL96qTjXEfUt8U) | [Regenerated \- 528 Hz](https://open.spotify.com/album/1LPatd6lmr65wjw9palfNb) | 3:11 | 2023-04-06 |  |
 | [Release Guilt](https://open.spotify.com/track/3y1xAcvu0IqsuNHkgaZhHG) | [Frozen Voices](https://open.spotify.com/artist/6CHiV1LMP7HIwJWk1CJDfz) | [Letting Go](https://open.spotify.com/album/2einESbC1mpHussGKlQyJ6) | 3:08 | 2023-02-08 |  |
 | [Relieving \(528Hz\)](https://open.spotify.com/track/1iQMepRkkQ6si1KAGMgOKb) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [Relieving \(528Hz\)](https://open.spotify.com/album/1ECF1xt5dHsOpEH4AWe1QT) | 3:28 | 2023-02-08 |  |
+| [Renewal 285 Hz](https://open.spotify.com/track/3bVSWrCrPCkbE6PV77s8X5) | [Cirrostratus](https://open.spotify.com/artist/1efXHkaD9YJioujIxYgo0p) | [Renewal 285 Hz](https://open.spotify.com/album/7c1R5ySwdVtyjJP8jWtE4M) | 2:42 | 2023-09-28 |  |
 | [Resonare 852 Hz](https://open.spotify.com/track/4yeHkbeopZeDd0uGbvzmvq) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [528 & 852](https://open.spotify.com/album/0wMnlSxk9JOM5GutgLLL5f) | 2:38 | 2023-02-08 |  |
 | [Resonate \- 528 Hz](https://open.spotify.com/track/3X0Q2dR9VV2NYYvHhSoKw4) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Resonate \- 528 Hz](https://open.spotify.com/album/2qjWX0Cty1h9H1iFtsHHPk) | 3:04 | 2023-04-06 |  |
 | [Sankrit Healing 528 Hz](https://open.spotify.com/track/12SNzDUz3Sso7sPpKuYTSW) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Sankrit Healing 528 Hz](https://open.spotify.com/album/14U8q0YZILjJtIdpIsGpjN) | 4:03 | 2023-02-08 |  |
@@ -175,9 +177,11 @@
 | [Soma 528 Hz](https://open.spotify.com/track/4B2mjVtceUEQJ9VnDxcAea) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Soma 528 Hz](https://open.spotify.com/album/0ZO2YpR7OiWD3djscL8sJP) | 2:30 | 2023-08-07 |  |
 | [Stay Close 852 Hz](https://open.spotify.com/track/08oWPv0iCrqcXlEz9fnWKA) | [Mantratown](https://open.spotify.com/artist/2OWl1TNy7Drnvhb2Gso2CV) | [Stay Close 852 Hz](https://open.spotify.com/album/5csEEPZwqvgDtrU4MzcGEK) | 2:32 | 2023-02-08 |  |
 | [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 | 2023-02-08 |  |
+| [Stillness 528 Hz](https://open.spotify.com/track/15R17KcjlGhkGnK0WQXUeP) | [Wyndon](https://open.spotify.com/artist/1BqAkR85z3mqqeQcCaHUpa) | [Stillness 528 Hz](https://open.spotify.com/album/28oSg3maJO90kUA35TaH3D) | 2:46 | 2023-09-28 |  |
 | [Terra Firma](https://open.spotify.com/track/5OIkpy9XQbTFBtDdMbgpRq) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Terra Firma](https://open.spotify.com/album/1p33sMa7scJrXZSetrhEb0) | 2:45 | 2023-02-08 | 2023-09-20 |
 | [The Solar Plexus](https://open.spotify.com/track/3MT3MRv2dHEPJ8iewyU7sk) | [Chakra Healing Music Academy](https://open.spotify.com/artist/568O2cGvLWBRq81ESU0Dlw) | [The Solar Plexus: Manipura Meditation, Unblock Third Chakra for Personal Power](https://open.spotify.com/album/0qGNtgX2DdPIWYzVObBfGV) | 3:18 | 2023-02-08 |  |
 | [Tides of Eternity \- 528 Hz](https://open.spotify.com/track/0j48VpaORlXL68e8lzNVKm) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Tides of Eternity \- 528 Hz](https://open.spotify.com/album/1zq1m8odL8lESOcrXiZIuD) | 2:17 | 2023-02-08 | 2023-09-20 |
+| [Tranquility 528 Hz](https://open.spotify.com/track/2YJHtTpLG1ZTspR5PD5vPu) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Tranquility 528 Hz](https://open.spotify.com/album/5Qv8ulSJC0Z5ZwpkVVK1IZ) | 2:46 | 2023-09-28 |  |
 | [unwinding mind 528 Hz](https://open.spotify.com/track/4ygQzLDawyji6Q0VxhQDfV) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:12 | 2023-02-08 |  |
 | [Very Gentle 528 Hz](https://open.spotify.com/track/36lK0alPIzF9mV22hNkCIL) | [Lynx XII](https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa) | [528 Hz Sleep & Relaxation](https://open.spotify.com/album/4qaU7LnjZmjwmwF3ar9p4U) | 3:05 | 2023-04-06 |  |
 | [Warm Light 528 Hz](https://open.spotify.com/track/0K63aGIdMRvLiODv0Joaxe) | [Mindra](https://open.spotify.com/artist/3YfVff4wWeiUd5Cmbl3VLm) | [Warm Light EP](https://open.spotify.com/album/4nCc1RosiutNoEOx33MWcC) | 2:33 | 2023-08-07 |  |

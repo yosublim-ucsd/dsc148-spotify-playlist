@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Arthurzin, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,625 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,640 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 10 | [O Que Você Quer De Mim?](https://open.spotify.com/track/716PQM0u5KAK2ZewFFvWNX) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Lil Gabi](https://open.spotify.com/artist/5mBUw2lTWpPs3bMddcvoLh), [JF](https://open.spotify.com/artist/4qPuG9huUJ72ZOtAmSfB7E) | [O Que Você Quer De Mim?](https://open.spotify.com/album/2AynRDQApq3gMqTV3RSa00) | 2:57 |
 | 11 | [Mira Laser](https://open.spotify.com/track/6T6ffiFG97deyMcgcBYu9k) | [ASTRO G](https://open.spotify.com/artist/7d9vBMIWHhpKJfWMVIM4zm), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Dj Speed](https://open.spotify.com/artist/1U2Wtrsm80naKb4xvhzhsf) | [Mira Laser](https://open.spotify.com/album/6u5e0Q8boDkTGGPPEv8XVx) | 2:40 |
 | 12 | [Legado](https://open.spotify.com/track/18YvXoCpyH6v0aO5fSqzYy) | [Mc Vetão](https://open.spotify.com/artist/4xGAGNa46HT0pafsiecUQ5), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Legado](https://open.spotify.com/album/0VkE1P6cQNt4EWjeScxrRw) | 2:17 |
-| 13 | [Pensamentos](https://open.spotify.com/track/0Jq6jzZTqs0aDVv62fOXq6) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Acústico Mc Kadu](https://open.spotify.com/album/5Twg5GxZkWQqeRoNKhUdpH) | 5:14 |
+| 13 | [Pensamentos](https://open.spotify.com/track/4AXymu1OMTWHoz8uKs3L97) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Acústico Mc Kadu](https://open.spotify.com/album/3r6mdGEm8tJU2XNZJ4P7Af) | 5:14 |
 | 14 | [Niggas \(feat\. Dzalles\)](https://open.spotify.com/track/7hvyNLtgwCBIbMLF8uh3FE) | [BLACK MOB](https://open.spotify.com/artist/6fln1Tr6HEnvnYy4NqkaQu), [Dzalles](https://open.spotify.com/artist/1g6LF0uXFYCwtHPCx1qzTm) | [Niggas](https://open.spotify.com/album/12KhARbTyWcrqkkDt40p2k) | 2:58 |
 | 15 | [Quente](https://open.spotify.com/track/2XL6YKQxmeEQi4qRqmkPvW) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Mazza](https://open.spotify.com/artist/4Ptt8sy9DDGpt846oLz30S), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Quente](https://open.spotify.com/album/5nVWCIcpghFEhr6ddzEXQ9) | 2:50 |
 | 16 | [Não Foi Em Vão](https://open.spotify.com/track/0gGhzkV3HePnt92jHCLMda) | [POLLO](https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23) | [Não Foi Em Vão](https://open.spotify.com/album/4WCPW45LtiHrdinC9AjZwI) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Estava Escrito](https://open.spotify.com/track/60pyQknGXQnrnLX1rIHN7r) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Estava Escrito](https://open.spotify.com/album/0Iu4OkL8Y9AThCe1TIykmt) | 2:50 |
 | 75 | [Perfume Mais Caro](https://open.spotify.com/track/4thX4lgktnjxkHTniznxK8) | [DjMenorRB](https://open.spotify.com/artist/71uOnE19iET2zJ3TNzkG6X), [Pretão do Mt](https://open.spotify.com/artist/1UtfPD6oPcyJs6EqwJdt4e) | [Perfume Mais Caro](https://open.spotify.com/album/55zZHtvKCpn7OchaEl4Hp6) | 2:14 |
 
-Snapshot ID: `MCxlMjBkZDhkNjViMDJjZjcyNWY1NTUxMWNkZGEyMWYxMmQ3NDYzNDA3`
+Snapshot ID: `MCw2YWNhNTk5YWJiNDFmNzgzNDMxZTQ0NmNiZDU5ZmYzZmYzMzljODA2`

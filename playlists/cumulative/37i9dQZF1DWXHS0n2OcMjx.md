@@ -4,13 +4,13 @@
 
 > Cool beats for homework time!
 
-490 songs - 18 hr 32 min
+493 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!Sunshine!](https://open.spotify.com/track/5v4j4LiqW49SnYAwnJugw5) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [Seven Hours](https://open.spotify.com/album/35tjstca6Mawcst5DoeXMN) | 3:03 | 2022-04-08 |  |
 | [14Th Floor](https://open.spotify.com/track/6Umvpk3FNqHSVN2raiAHMR) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc), [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE) | [14Th Floor](https://open.spotify.com/album/0Kje26nv2CJrsjZ3Ob0w1H) | 1:46 | 2023-09-22 |  |
-| [1989 at the bustop](https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [deconstruct](https://open.spotify.com/album/2nICjIzW2n6fMUaFPP4bnb) | 1:41 | 2023-09-22 |  |
+| [1989 at the bustop](https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [deconstruct](https://open.spotify.com/album/2nICjIzW2n6fMUaFPP4bnb) | 1:41 | 2023-09-22 | 2023-09-29 |
 | [6 AM](https://open.spotify.com/track/4q9LTp6HB2OKDlbNgrLn39) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [6 AM](https://open.spotify.com/album/1jNJxQaep23GkcDFnXZdXx) | 1:55 | 2023-09-22 |  |
 | [6pm Freedom](https://open.spotify.com/track/78wa13XBguLAx0c5pzqZDI) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Easy Breathing & 6pm Freedom](https://open.spotify.com/album/3jO0ts2BPgfBWKms1D5H2x) | 3:00 | 2023-09-22 |  |
 | [A Good Evening](https://open.spotify.com/track/2JJG2VeY1SMNS9ZqVnVZoV) | [Secret Corner](https://open.spotify.com/artist/7a40ZaJBGkEnOqrZyBCwQU) | [A Good Evening](https://open.spotify.com/album/6euHSUaffo1PSTtmRF1lNx) | 2:12 | 2023-09-22 |  |
@@ -120,6 +120,7 @@
 | [Downtown](https://open.spotify.com/track/0F3Bo3HVGi2fzCU67Z6rDv) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Downtown](https://open.spotify.com/album/6KDVzfdX9UGMaDP5K9zREY) | 1:51 | 2023-09-22 |  |
 | [Dream ON](https://open.spotify.com/track/6NLzpxi7PZH1K1tsLqpmeh) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Dream ON](https://open.spotify.com/album/1pCrJ0Ortb3rbhiUaWbkfU) | 1:47 | 2022-04-08 | 2023-09-23 |
 | [Drives](https://open.spotify.com/track/07uRU9EczqsAqDdTcNCqwv) | [Z\-bone](https://open.spotify.com/artist/2bCoBCb2t0qwwPb5MGgjag) | [Drives](https://open.spotify.com/album/5Yq3BR4a0Ip2NkJ4lXEVHa) | 3:12 | 2023-09-22 |  |
+| [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-29 |  |
 | [Dusty](https://open.spotify.com/track/1H6lcREWzGbrL9fQSfhInB) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Dusty](https://open.spotify.com/album/3O0Pka7Pg4PgoF78M8oJjZ) | 2:18 | 2022-04-08 | 2023-09-23 |
 | [Echoes](https://open.spotify.com/track/6j7fobMzagIA3dIr8bzY0J) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Echoes](https://open.spotify.com/album/7qVzL9yk9tO8qTaJB2SJ1h) | 1:12 | 2022-04-08 | 2023-09-09 |
 | [Egg Rollz](https://open.spotify.com/track/5swljGcGse2QRMLWji89yv) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Egg Rollz](https://open.spotify.com/album/0g2qx277TrWnpNgQcXjvBp) | 2:11 | 2023-09-22 |  |
@@ -141,7 +142,7 @@
 | [Final Destination](https://open.spotify.com/track/5uaIokPB63EyNp2e0nbRpN) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh) | [Final Destination](https://open.spotify.com/album/0CFOKN17H7EWQ7dmtA5dpy) | 2:07 | 2023-09-22 |  |
 | [first things first](https://open.spotify.com/track/1wEpA0CBRytqdJQcNT4UZB) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [first things first](https://open.spotify.com/album/1eox4CtQHP36x9RuByM2kW) | 2:11 | 2023-09-22 |  |
 | [Flexible Funk](https://open.spotify.com/track/70hHzMEeNshCpPdLKJQZPj) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Flexible Funk](https://open.spotify.com/album/4WF3YNB4hocJ2aw04TeyGj) | 1:34 | 2023-09-22 |  |
-| [Fluorescent Nights](https://open.spotify.com/track/74KBmmkchWEsbq1dJBPIat) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [Fluorescent Nights](https://open.spotify.com/album/3DSCE0Sxe3f85PASMudE6S) | 2:18 | 2023-09-22 |  |
+| [Fluorescent Nights](https://open.spotify.com/track/74KBmmkchWEsbq1dJBPIat) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [Fluorescent Nights](https://open.spotify.com/album/3DSCE0Sxe3f85PASMudE6S) | 2:18 | 2023-09-22 | 2023-09-29 |
 | [Fly With Me](https://open.spotify.com/track/0utlMloUqhPm1sHdRbRX0d) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Fly With Me](https://open.spotify.com/album/4Yg9AcZjDJvg7UbhebX2vY) | 1:44 | 2023-09-22 |  |
 | [For One day](https://open.spotify.com/track/7fSrFB7FWoz4BtXEbJkEqQ) | [Ambient Solle](https://open.spotify.com/artist/34ScNK2ccDxZim8TVcqWXT) | [For One day](https://open.spotify.com/album/2OYOSpMBaxmOZk1vKATq3q) | 2:37 | 2023-09-22 |  |
 | [for you](https://open.spotify.com/track/7EUp5t0R3xhWNRaOiIleFV) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [for you](https://open.spotify.com/album/2Ee66lYmpcXnbSW5cZbJxw) | 1:48 | 2023-09-22 |  |
@@ -273,10 +274,12 @@
 | [moog me up](https://open.spotify.com/track/0A8jHHS6r4XsCKq1NKLIZQ) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [moog me up](https://open.spotify.com/album/0whRlQmX3GyDVH6uJX2C6l) | 1:54 | 2022-04-08 |  |
 | [Moon Phase](https://open.spotify.com/track/5KOqtQpmBD6JutK8lVTsUK) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Moon Phase](https://open.spotify.com/album/5lPRMxLfVtRwVgHH3XJmhd) | 1:47 | 2023-09-22 |  |
 | [Moonshine](https://open.spotify.com/track/3lYQ3kdb5YVZ038kG3BMkf) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Moonshine](https://open.spotify.com/album/4Z1tjtyP4DRsFiFOMSniLu) | 1:52 | 2023-09-22 | 2023-09-25 |
+| [morning daze](https://open.spotify.com/track/6RVsrU01xEx8041ZTnew60) | [kimikai](https://open.spotify.com/artist/6CKdPPDWzwzWI3ju0Os4HR) | [morning daze](https://open.spotify.com/album/5S4J0M0zh2W3paHjBNkcyv) | 2:24 | 2023-09-29 |  |
 | [Morning Glory](https://open.spotify.com/track/7osOgKGCOAGRwTfgQtpcQ2) | [MC](https://open.spotify.com/artist/0DyoPw1p8N3GheQzvjt7x5) | [Morning Glory](https://open.spotify.com/album/5hQ9zJCadcXFvxRu2Pxfdl) | 1:49 | 2023-09-22 | 2023-09-26 |
 | [Morning Lights](https://open.spotify.com/track/48VvpSV8VqQuX47GMCh2vT) | [Tethys](https://open.spotify.com/artist/0A4KdVpy2emvZSTw7qBJzv) | [Morning Lights](https://open.spotify.com/album/5ri0bx90XDn8Y4ziV40Dm4) | 2:08 | 2023-09-22 |  |
 | [Morning Sweetness](https://open.spotify.com/track/5XaohMu79GaUzXEKVLJdrE) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Morning Sweetness](https://open.spotify.com/album/12GXoeM9z30czVZyWtkoag) | 2:54 | 2022-04-08 | 2023-09-09 |
 | [Mothers](https://open.spotify.com/track/2i0fkV4Sly4EUwyc5W8KSJ) | [Rez Tiller](https://open.spotify.com/artist/6kMQXQHnSoU416PTFgiCQn) | [Mothers](https://open.spotify.com/album/49IVbk9OUZCId3Vj3p6z87) | 2:06 | 2023-09-22 |  |
+| [mountain peak](https://open.spotify.com/track/0VGLPDmgUWpoUjStj7Csvc) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [mountain peak](https://open.spotify.com/album/39X3V9LCL3hqHDiUqjUpH6) | 2:26 | 2023-09-29 |  |
 | [mushroom clouds](https://open.spotify.com/track/0FjGnELYi164OPipUCqEYG) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [mushroom clouds](https://open.spotify.com/album/102vk5Vw84JxgRSFa96EQZ) | 2:48 | 2023-09-22 |  |
 | [my garden](https://open.spotify.com/track/5on1wGhJ1vseh68mtI5JOF) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [my garden](https://open.spotify.com/album/3wckUGh9RP26nZ1Ip9jChM) | 2:35 | 2023-09-22 |  |
 | [My Love](https://open.spotify.com/track/4wGrZiGaO4WVm6mNfaDjch) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories](https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7) | 2:42 | 2022-04-08 | 2023-09-23 |
@@ -450,7 +453,7 @@
 | [Toys](https://open.spotify.com/track/0uA5haTZ3KkIWXReBo9PX1) | [Fairground Fish](https://open.spotify.com/artist/6lG54eZ9rnLWDSoaV4GtRE) | [XYZ](https://open.spotify.com/album/4EBEcFilrfd78jF1pIUe2M) | 2:22 | 2022-04-08 | 2023-09-23 |
 | [Train Ride](https://open.spotify.com/track/4mHEsCjfyA1vKlIIgsMDrU) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 2:31 | 2022-04-08 | 2022-11-20 |
 | [Train Ride](https://open.spotify.com/track/5hCXtdsOhwWCG6zX0ivfYg) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE) | 2:31 | 2022-07-08 | 2023-09-23 |
-| [Train Ride](https://open.spotify.com/track/1wHe3rj4X3t64ysy8s6iI1) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Train Ride](https://open.spotify.com/album/75LJ0BirgujfrO2VNXNSIh) | 1:52 | 2023-09-22 |  |
+| [Train Ride](https://open.spotify.com/track/1wHe3rj4X3t64ysy8s6iI1) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Train Ride](https://open.spotify.com/album/75LJ0BirgujfrO2VNXNSIh) | 1:52 | 2023-09-22 | 2023-09-29 |
 | [Tranquil Twilight](https://open.spotify.com/track/22zMUlKVs4jOX5BBPrftUc) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Tranquil Twilight](https://open.spotify.com/album/3PZQWTZ50FwGQfJczPcDlA) | 2:00 | 2023-09-22 |  |
 | [transient beach](https://open.spotify.com/track/30eLFH6K8Dro6bUQ6hGvrl) | [gnerf](https://open.spotify.com/artist/74bY9Mn9CdYFwFSkoDDxmP) | [transient beach](https://open.spotify.com/album/1TVeo9z2FlgRQ0XuKXZpju) | 2:27 | 2023-09-22 |  |
 | [Tronntora](https://open.spotify.com/track/2f26EtMrZFMuFLx8RrFeaL) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Tronntora](https://open.spotify.com/album/38e12KrFKnDpLXp6x5rrCN) | 2:06 | 2023-09-22 |  |

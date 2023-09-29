@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 229713,
+  "num_followers": 229889,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWQyOGE5NDc3NTlhY2NlNmJhY2RiMDgxNGQ0ODdhMmQxMWRlZDcx",
+  "snapshot_id": "MCw3NTk5OWQzMGNkOTZlYjk5NWRkM2ZmOTRhZjJmZTQ1N2RkNGNiNTFi",
   "tracks": [
     {
       "added_at": "2023-09-25 20:24:58",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-09-25 20:24:58",
       "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 185191,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0"
+    },
+    {
+      "added_at": "2023-09-25 20:24:58",
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 284886,
       "name": "Fresh - House of Prayers Poolside Edit",
       "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
-    },
-    {
-      "added_at": "2023-09-25 20:24:58",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 185191,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0"
     },
     {
       "added_at": "2023-09-25 20:24:58",
@@ -615,30 +615,6 @@
     {
       "added_at": "2023-09-25 20:24:58",
       "album": {
-        "name": "Getting There From Here (with Todd Edwards)",
-        "url": "https://open.spotify.com/album/4q3H03gfjuu77rjquLZCQy"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        },
-        {
-          "name": "Turbotito",
-          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "Getting There From Here (with Todd Edwards)",
-      "url": "https://open.spotify.com/track/2iNsXxaoNuVieLZgbep8bW"
-    },
-    {
-      "added_at": "2023-09-25 20:24:58",
-      "album": {
         "name": "Skipping Like A Stone (feat. Beck) [Gerd Janson Remix]",
         "url": "https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 185821,
       "name": "Skipping Like A Stone (feat. Beck) - Gerd Janson Remix",
       "url": "https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo"
+    },
+    {
+      "added_at": "2023-09-25 20:24:58",
+      "album": {
+        "name": "Getting There From Here (with Todd Edwards)",
+        "url": "https://open.spotify.com/album/4q3H03gfjuu77rjquLZCQy"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "Getting There From Here (with Todd Edwards)",
+      "url": "https://open.spotify.com/track/2iNsXxaoNuVieLZgbep8bW"
     },
     {
       "added_at": "2023-09-25 20:24:58",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-09-25 20:24:58",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
+    },
+    {
+      "added_at": "2023-09-25 20:24:58",
+      "album": {
         "name": "The Best Rapper Alive",
         "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
       },
@@ -1043,6 +1059,22 @@
       "duration_ms": 487619,
       "name": "The Best Rapper Alive",
       "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
+    },
+    {
+      "added_at": "2023-09-25 20:24:58",
+      "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 355480,
+      "name": "Poundland Anthem",
+      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
     },
     {
       "added_at": "2023-09-25 20:24:58",
@@ -1063,22 +1095,6 @@
       "duration_ms": 188000,
       "name": "Awesome Ways",
       "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
-    },
-    {
-      "added_at": "2023-09-25 20:24:58",
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 355480,
-      "name": "Poundland Anthem",
-      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
     },
     {
       "added_at": "2023-09-25 20:24:58",
@@ -1115,6 +1131,22 @@
       "duration_ms": 165720,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6"
+    },
+    {
+      "added_at": "2023-09-25 20:24:58",
+      "album": {
+        "name": "We Could Be Falling In Love",
+        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 179487,
+      "name": "We Could Be Falling In Love - Edit",
+      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
     },
     {
       "added_at": "2023-09-25 20:24:58",
@@ -1179,22 +1211,6 @@
     {
       "added_at": "2023-09-25 20:24:58",
       "album": {
-        "name": "We Could Be Falling In Love",
-        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 179487,
-      "name": "We Could Be Falling In Love - Edit",
-      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
-    },
-    {
-      "added_at": "2023-09-25 20:24:58",
-      "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 172160,
       "name": "CAN'T GO HOME",
       "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
-    },
-    {
-      "added_at": "2023-09-25 20:24:58",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
     },
     {
       "added_at": "2023-09-25 20:24:58",

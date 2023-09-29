@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Alive Reimagined",
+        "url": "https://open.spotify.com/album/5tMcQfAzQCILBbfaDBHGrk"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Echoes",
+          "url": "https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68723,
+      "name": "Alive Reimagined",
+      "url": "https://open.spotify.com/track/3EB1qJl1fBvyNCINwJbi8T"
+    },
+    {
+      "album": {
         "name": "Dream Space, Vol. 2",
         "url": "https://open.spotify.com/album/4GxaVQ8iCn6g6WeVmFKSWn"
       },
@@ -834,6 +852,24 @@
       "duration_ms": 103636,
       "name": "Angels",
       "url": "https://open.spotify.com/track/2tcPVLQnj1u5WER7yqcQCm"
+    },
+    {
+      "album": {
+        "name": "Another Dreamscape (Ambient Cello Version)",
+        "url": "https://open.spotify.com/album/5ZiCYPAiJp3Tuo59dItpW3"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60441,
+      "name": "Another Dreamscape - Ambient Cello Version",
+      "url": "https://open.spotify.com/track/3B34t3IAuFFDLlKu3bisN8"
     },
     {
       "album": {
@@ -16818,6 +16854,42 @@
       "duration_ms": 86524,
       "name": "Trusting",
       "url": "https://open.spotify.com/track/1TTcCAQPdddNpNaC86AZiW"
+    },
+    {
+      "album": {
+        "name": "Twilight Glow",
+        "url": "https://open.spotify.com/album/4LE3lY5dvL8wCAmieoeJq3"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Echoes",
+          "url": "https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61239,
+      "name": "Twilight Glow - Cello Version",
+      "url": "https://open.spotify.com/track/0HJjPd2BfARFk4QtLstvYy"
+    },
+    {
+      "album": {
+        "name": "Twilight Glow",
+        "url": "https://open.spotify.com/album/4LE3lY5dvL8wCAmieoeJq3"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Echoes",
+          "url": "https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60737,
+      "name": "Twilight Glow - Violin Version",
+      "url": "https://open.spotify.com/track/4BiCwQUXaMrle1ega7iZ4M"
     },
     {
       "album": {

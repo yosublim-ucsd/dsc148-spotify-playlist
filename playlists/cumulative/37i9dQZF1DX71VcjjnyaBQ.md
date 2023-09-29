@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-183 songs - 15 hr 53 min
+184 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Awakening](https://open.spotify.com/track/6bK3YND4NEVYhjnLWo7YQ0) | [Benjamin Sanz](https://open.spotify.com/artist/4GMCgqFCMeJa6e0y0M4w3u) | [The Escape](https://open.spotify.com/album/1TDxIEzLsBUNHpWFtCWNwn) | 4:30 | 2021-12-21 |  |
 | [Baba Drame](https://open.spotify.com/track/0I0xbIFqsdofe9bVvurK9Q) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Valentine](https://open.spotify.com/album/379ITOn61QlGYoHwkdTVQ2) | 4:59 | 2021-12-21 | 2022-06-09 |
 | [Ballad for K](https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD) | [Ruhi Erdogan](https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9) | [Ballad for K](https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl) | 3:55 | 2022-02-10 |  |
+| [Baltimore](https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:37 | 2023-09-26 |  |
 | [Baltimore](https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 5:37 | 2023-08-08 | 2023-09-21 |
 | [Bess Is My Woman Now](https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [Massimo Faraò Plays the Great Jazz American Composers \- George Gershwin, Vol\. 3](https://open.spotify.com/album/0w9US9EzNtLwIMDHM4QDQC) | 4:28 | 2022-06-02 |  |
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-02-16 |  |
@@ -159,7 +160,7 @@
 | [The Nearness of You](https://open.spotify.com/track/02yr2hzYzjn1SNQhZbOfuB) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [Longing](https://open.spotify.com/album/7kHNwW20hSNlYZgvLnJwrO) | 5:23 | 2021-12-21 | 2022-05-25 |
 | [The Rumor](https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [The Rumor](https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G) | 4:30 | 2021-12-21 |  |
 | [The Starter](https://open.spotify.com/track/51UyPZRpvRZp9d4gRDrwzY) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Starter](https://open.spotify.com/album/6uAqOGzZJOszPnpcoUHRL2) | 6:15 | 2021-12-21 | 2022-12-06 |
-| [The Starter](https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Starter](https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI) | 6:15 | 2023-01-03 |  |
+| [The Starter](https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Starter](https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI) | 6:15 | 2023-01-03 | 2023-09-29 |
 | [Thembi](https://open.spotify.com/track/6x4WAXhYazOoc0vCg2sybO) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/5bNLEyWCkiYC5ZoMxSWMWB) | 7:02 | 2021-12-21 | 2022-05-08 |
 | [Theo](https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [Bloodline](https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG) | 5:59 | 2022-02-10 | 2022-07-29 |
 | [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 | 2023-05-30 |

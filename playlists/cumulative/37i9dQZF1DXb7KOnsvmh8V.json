@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "God Rest Ye Merry Gentlemen",
+        "url": "https://open.spotify.com/album/1nfSsAZndSGQM4pMXV5qEV"
+      },
+      "artists": [
+        {
+          "name": "Mark Jacobsen",
+          "url": "https://open.spotify.com/artist/5KxXsQXx6s5DeW4oUaiqBR"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175166,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/6k4ay4fFySwUAIbfHnT4FK"
+    },
+    {
+      "album": {
         "name": "Green Grows The Holly",
         "url": "https://open.spotify.com/album/66syYpRnwqFrK5EEiPOtYw"
       },
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 296673,
       "name": "Mama It's Christmas",
       "url": "https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J"
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 201152,
       "name": "Merry Xmas Everybody",
       "url": "https://open.spotify.com/track/0BQs8OCMlegB4Mlrx9nJA2"

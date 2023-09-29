@@ -2,7 +2,7 @@
 
 ### [EQUAL España](https://open.spotify.com/playlist/37i9dQZF1DX6dANf8jNW4z)
 
-> Ven a Spotify EQUAL Fest Madrid a celebrar el talento femenino\. Entradas <a href="https://www.ticketmaster.es/event/35863?subchannel\_id=67&brand=planetevents">aquí</a>\. Foto: Nathy Peluso.
+> Mujeres a todo volumen\. Foto: Nathy Peluso.
 
 858 songs - 1 day 20 hr 16 min
 

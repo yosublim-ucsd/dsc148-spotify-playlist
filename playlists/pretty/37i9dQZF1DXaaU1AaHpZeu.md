@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Armenia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,454 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,483 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 12 | [La Fiesta 2.0](https://open.spotify.com/track/1D5kWWzZssK9Q6UstbfrsS) | [Celia Becks](https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1), [Liz Forte](https://open.spotify.com/artist/7GArathIWiQj50qNsBBLN1) | [La Fiesta 2.0](https://open.spotify.com/album/29sad1UpXFIG3DWzxFdvQX) | 2:53 |
 | 13 | [Elena Observando la Osa Mayor](https://open.spotify.com/track/68BQMDE4mppCSm5iVtvFND) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK) | [Elena Observando la Osa Mayor](https://open.spotify.com/album/3J1oz6X7tNKVBY0t5vwqdB) | 3:38 |
 | 14 | [Happy](https://open.spotify.com/track/4WTtWpPJuljhDWyzgWqe1h) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Happy](https://open.spotify.com/album/1AgJX2ef0crHFHOq1UhFIQ) | 3:31 |
-| 15 | [diente de león](https://open.spotify.com/track/1TgaJh3WqQNs5rwGQnXxxI) | [alequi](https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH), [detunedfreq](https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K) | [diente de león](https://open.spotify.com/album/71bDHlD0CIqAZ2bPlumxag) | 2:45 |
+| 15 | [diente de león](https://open.spotify.com/track/1TgaJh3WqQNs5rwGQnXxxI) | [alequi](https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH), [detunedfreq](https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K), [Vau Boy](https://open.spotify.com/artist/2tx3YCpd2RHR1ZSU101zFB) | [diente de león](https://open.spotify.com/album/71bDHlD0CIqAZ2bPlumxag) | 2:45 |
 | 16 | [cartulinas de colores](https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [cartulinas de colores](https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC) | 2:39 |
 | 17 | [Sin pistola](https://open.spotify.com/track/008gGt53LBG5eBo7rfganm) | [V.Rod](https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Sin pistola](https://open.spotify.com/album/1HSPfrQ8Cz51hsc1ttXoHy) | 2:33 |
 | 18 | [Marchito](https://open.spotify.com/track/7EYVt3gOAG8bOq3D5sqXLb) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Marchito](https://open.spotify.com/album/7KNK4fSGZlkMJ3ItyrM06H) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Venganza](https://open.spotify.com/track/3rEWBl6OLD7kKpIgGxRy7x) | [Velandia y La Tigra](https://open.spotify.com/artist/2saVhSlCKjNZnW4QZcFHkE), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Proverbios Burros](https://open.spotify.com/album/0kOYLBgKBtUwd3OX9LxYsA) | 4:12 |
 | 50 | [Algo Discreto](https://open.spotify.com/track/7y660DIuwEb44cC86hNjAf) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Algo Discreto](https://open.spotify.com/album/10RilTBrHWcQeLOmgbptgp) | 3:20 |
 
-Snapshot ID: `MCxhYTU5NGUxMWFhNWY3NDRkMWEwM2I1MTUwNzk0NWZmMjBjZjY5NzNh`
+Snapshot ID: `MCw0MTI2MzExZDEwNGE2OGQ4MThlMzk3ZmM4MjFhZWYxNWZjMjBiY2Nj`

@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese female rock icons\. Cover: クレナズム \(Culenasm\)
 
-1,148 songs - 3 day 0 hr 25 min
+1,149 songs - 3 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,7 +439,7 @@
 | [SHOCK!!!](https://open.spotify.com/track/1YxIJ78KNEzI6WutmYYeKM) | [YMB](https://open.spotify.com/artist/4sRqEn62eCbn4ltnSZMNN5) | [SHOCK!!!](https://open.spotify.com/album/2GWi3AFNMiD6N0S5VXLMPI) | 4:05 | 2022-05-26 | 2022-06-04 |
 | [Shooting Star](https://open.spotify.com/track/2e0J2wYPhaqyeC9skq5kRm) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Shooting Star](https://open.spotify.com/album/0MSx6z7OXSPbApc4PGJ2gy) | 4:24 | 2023-08-08 | 2023-08-16 |
 | [SHOW YOU MY SOY SAUCE](https://open.spotify.com/track/4hzf8FrONSbzKWqYSWiX5s) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [SHOW YOU MY SOY SAUCE](https://open.spotify.com/album/5KmBmb7US92HxcEY2WcABp) | 4:35 | 2022-11-01 | 2022-11-09 |
-| [Shunrai](https://open.spotify.com/track/6QIyB1933cJ6VBt50bzidT) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:39 | 2023-01-12 |  |
+| [Shunrai](https://open.spotify.com/track/6QIyB1933cJ6VBt50bzidT) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:39 | 2023-01-12 | 2023-09-29 |
 | [SHUTTER CHANCE](https://open.spotify.com/track/5zWmcgatjW7RhcqjUX41Wj) | [Hi Cheers!](https://open.spotify.com/artist/3FtZDTzCnJcwj722rHC53o) | [SHUTTER CHANCE](https://open.spotify.com/album/18RhkIHenGsmVmx1j7A1UJ) | 2:50 | 2022-07-19 | 2022-07-27 |
 | [Silly romance](https://open.spotify.com/track/0Z9oufPvd3uaolj0lw4eMk) | [EDOGA\-SULLIVAN](https://open.spotify.com/artist/0MfHOOVaHSNHSiNtOBOkkA) | [Silly romance](https://open.spotify.com/album/56VA0kGYvHZkzyyGMkEkcb) | 2:36 | 2022-09-13 | 2022-09-21 |
 | [silver halide](https://open.spotify.com/track/6mr15INPDsvJvF88KnJGek) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [innovation](https://open.spotify.com/album/5bdAKMVRR7xgucjsH21VxF) | 4:41 | 2023-09-20 | 2023-09-27 |
@@ -747,6 +747,7 @@
 | [ツキヨツキヨ](https://open.spotify.com/track/3EOPIafs4IzuhrP4Ssxa3i) | [田中未希](https://open.spotify.com/artist/4W742xSzpjksYS36OfM52u) | [ツキヨツキヨ](https://open.spotify.com/album/6wP4YJLQ2kYEIx55Spc4z9) | 2:50 | 2022-06-28 | 2022-07-06 |
 | [テンダーランド](https://open.spotify.com/track/5NoAhvPMNd3y2LaNVueted) | [Scenarioart](https://open.spotify.com/artist/4yHLkC0Z5EYVyinSP2AHvV) | [Blue Smell](https://open.spotify.com/album/78g76Sk7DVhByaj4kpJOw4) | 3:57 | 2022-06-21 | 2022-06-23 |
 | [ディストラクション・ガール](https://open.spotify.com/track/1s1dOI20xSJ54jFBrrtudY) | [湯冷めラジオ](https://open.spotify.com/artist/1Pjvr24b1tkJjyMRcyzF92) | [ディストラクション・ガール](https://open.spotify.com/album/3iSInBHMggTPtpEr6TKxdp) | 4:15 | 2023-09-05 | 2023-09-13 |
+| [ディストラクション・シスターズ](https://open.spotify.com/track/7Lr7JP6qEkoDMGFHtyrJHa) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/4t2okOrlqsIZ15pZfdhtuZ) | 2:30 | 2023-09-28 |  |
 | [デウス・エクス・マキナ](https://open.spotify.com/track/7oxLHXummz6DfPF9Mw5Tie) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [デウス・エクス・マキナ](https://open.spotify.com/album/2wzemivJXWInOdmjfojngk) | 4:34 | 2022-05-26 | 2022-07-24 |
 | [デネブ](https://open.spotify.com/track/48dnJZeiiCuVubh5U7kecr) | [Bamboo](https://open.spotify.com/artist/22PWmS35Xwsu1mC16PCNef) | [デネブ](https://open.spotify.com/album/3jlhboMP8HSb4j9CeiJd5j) | 4:44 | 2022-10-12 | 2022-10-19 |
 | [トウメイヒーロー](https://open.spotify.com/track/0KmbF3zYBIZ21W9NarpOw6) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [トウメイヒーロー](https://open.spotify.com/album/7Ev69ntYYEuBQ5KDOEG9hU) | 3:13 | 2022-06-02 | 2022-06-06 |

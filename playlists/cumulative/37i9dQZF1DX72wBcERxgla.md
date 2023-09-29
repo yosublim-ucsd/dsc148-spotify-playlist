@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-406 songs - 21 hr 25 min
+409 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [He’s a good kid](https://open.spotify.com/track/2tSSroZLU5ikFBZW83EC69) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [He’s a good kid](https://open.spotify.com/album/21jLquIJrmwqfcmke7ddWc) | 2:26 | 2023-04-13 |  |
 | [How High The Moon](https://open.spotify.com/track/1COenIO3ak9ffIDzwvO1Ts) | [Christina Mondzo](https://open.spotify.com/artist/0pvhGfxbtulg7H68xiV8Re) | [How High The Moon](https://open.spotify.com/album/4M2l2FXPwA6nqPWhS3JMW8) | 2:46 | 2023-04-13 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [How Long Has This Been Going On?](https://open.spotify.com/album/4enSlE24XGXXLkrGW7lxZ1) | 2:51 | 2022-06-22 |  |
+| [Hummingbird](https://open.spotify.com/track/1TgQA78oWDhJfEZBerhXtS) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Hummingbird](https://open.spotify.com/album/61zTMt7hd4LioURBVwfvB5) | 2:35 | 2023-09-29 |  |
 | [I Apologize](https://open.spotify.com/track/2QgJAZCJb9s1RxEybOaeYJ) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [If I Love Again](https://open.spotify.com/album/0J8hyD8Uc9tdHDgDiQwGxx) | 3:09 | 2023-03-02 |  |
 | [I Can't Get Started \(With You\)](https://open.spotify.com/track/0vpZnqfPR7ztK1iYUdRI4P) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [I Can't Get Started \(With You\)](https://open.spotify.com/album/61gEEgRzs3Rl0QB7X4lk7D) | 4:39 | 2022-08-10 |  |
 | [I Could Write A Book](https://open.spotify.com/track/66eaAKE675VWRnj8EVeDQk) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [I Could Write A Book](https://open.spotify.com/album/1Jn2DXdP0Ci1UBVjfFpZPF) | 3:16 | 2023-03-02 |  |
@@ -156,6 +157,7 @@
 | [I'd Never Lie to You](https://open.spotify.com/track/3js7K5ccTY41JFjFjHToeA) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [I'd Never Lie to You](https://open.spotify.com/album/7dDDmbvO3WZWZ3gyhQVqiw) | 2:33 | 2023-03-16 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/1nDdCstJ1Mz8eRiyHhr5pS) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [I'll Be Seeing You](https://open.spotify.com/album/1K1bl5LvmHA4KAIhev8p0R) | 3:30 | 2022-04-12 |  |
 | [I'll Never Be The Same](https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [I'll Never Be The Same](https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg) | 2:27 | 2023-08-17 |  |
+| [I'll Remember April](https://open.spotify.com/track/508qW9dDv9pTh85XgQm9Xp) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [I'll Remember April](https://open.spotify.com/album/7dEMSjL7qPpzPZFCriPLZv) | 3:23 | 2023-09-29 |  |
 | [I'll Take Romance](https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I'll Take Romance](https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq) | 3:09 | 2022-10-06 | 2023-08-11 |
 | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 | 2022-05-31 |  |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/7433MybqQz6iILaFXwqCW3) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [I'm Getting Sentimental Over You](https://open.spotify.com/album/73AlHfvtVAHZl6PyzE4tKW) | 3:27 | 2023-05-25 |  |
@@ -202,6 +204,7 @@
 | [Look For The Silver Lining](https://open.spotify.com/track/5L2iEidxZtQYZsXjRGWWJN) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Look For The Silver Lining](https://open.spotify.com/album/15pmzgvbSncLWPfBEmdFYy) | 3:26 | 2023-01-26 |  |
 | [Looking Glass](https://open.spotify.com/track/0ed4hMQYEtnPJMz2O2Dw5Z) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Looking Glass](https://open.spotify.com/album/7dXKSgHWw3TRKfMN0QUwfH) | 2:24 | 2023-03-09 |  |
 | [Lost in Loneliness](https://open.spotify.com/track/7ESS38E7dhSrGML4HouB5P) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Lost in Loneliness](https://open.spotify.com/album/7ss8WnA2X9hyIk7HlxK8d5) | 2:08 | 2023-04-20 |  |
+| [Lot of Love](https://open.spotify.com/track/0NTAg7F7yE49scD5svkeIR) | [Jacob Schröder](https://open.spotify.com/artist/4VOTRfoGtDDp0Fl9ar28XN) | [Lot of Love](https://open.spotify.com/album/15JdATM0rLgvYOB2GFSQ2Q) | 2:40 | 2023-09-29 |  |
 | [Love For Sale](https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:23 | 2022-10-06 |  |
 | [Love in the First Degree](https://open.spotify.com/track/3LVaEWRdveFDHotlDaRDLa) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Love in the First Degree](https://open.spotify.com/album/39LNWMSNTxqiOAxqhRrOOa) | 2:46 | 2023-04-13 |  |
 | [Love on a Lonely Street](https://open.spotify.com/track/66GYfa8d7hZDXhzEaIG3Ct) | [Clifford Randall](https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG) | [Love on a Lonely Street](https://open.spotify.com/album/3XdY17cROlAbonVCRJskmc) | 2:34 | 2023-05-25 |  |
@@ -413,6 +416,6 @@
 | [You Stepped Out Of A Dream](https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [You Stepped Out Of A Dream](https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS) | 2:35 | 2022-10-27 |  |
 | [You Took Advantage of Me](https://open.spotify.com/track/1C5FahCvIOUsd0RrfmlQng) | [Einar Magnusson](https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag) | [You Took Advantage of Me](https://open.spotify.com/album/7z4ANRQxTVKOpRpsaMKoKu) | 2:58 | 2023-04-13 |  |
 | [Young and Foolish](https://open.spotify.com/track/0jXDdQhyBxYpN8IdepBwzn) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Young and Foolish](https://open.spotify.com/album/4QDQ3rOy6os0Xm8BdM2TJ0) | 2:54 | 2023-04-13 |  |
-| [Yours Is My Heart Alone](https://open.spotify.com/track/1fj7I1goPnCIsAF3SxGh61) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [Yours Is My Heart Alone](https://open.spotify.com/album/5t3Bi41QottgJFkQf5EXr3) | 3:21 | 2023-02-09 |  |
+| [Yours Is My Heart Alone](https://open.spotify.com/track/1fj7I1goPnCIsAF3SxGh61) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [Yours Is My Heart Alone](https://open.spotify.com/album/5t3Bi41QottgJFkQf5EXr3) | 3:21 | 2023-02-09 | 2023-09-29 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

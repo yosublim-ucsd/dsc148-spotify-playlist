@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-417 songs - 21 hr 44 min
+420 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Blame it on My Youth](https://open.spotify.com/track/1KWj5vKH4ns49fPDsD6Qa1) | [Seth William](https://open.spotify.com/artist/4wmS3zcqEbHaGPSib72vQB) | [In Love For the Rest of My Life](https://open.spotify.com/album/7um0tlhr6y5RIufvcyVjbp) | 2:33 | 2022-01-13 | 2023-02-10 |
 | [Blue In Green](https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Blue In Green](https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW) | 3:47 | 2022-05-24 |  |
 | [Blue Moon](https://open.spotify.com/track/08iHceGlaOmsMpNJVuN8Ev) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Blue Moon](https://open.spotify.com/album/3bMoWdrQYKVgGklRZVdDXv) | 3:26 | 2022-11-17 |  |
-| [Blue Notes in the Afternoon](https://open.spotify.com/track/3Crsc0HeZX63iFyyDZUNHL) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Blue Notes in the Afternoon](https://open.spotify.com/album/0fRdNpsQzDIqfDcWrlbagH) | 2:27 | 2023-05-25 |  |
+| [Blue Notes in the Afternoon](https://open.spotify.com/track/3Crsc0HeZX63iFyyDZUNHL) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Blue Notes in the Afternoon](https://open.spotify.com/album/0fRdNpsQzDIqfDcWrlbagH) | 2:27 | 2023-05-25 | 2023-09-29 |
 | [Blue Skies](https://open.spotify.com/track/200ZWfIGSTurs8dhUi0PUE) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Blue Skies](https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75) | 2:55 | 2023-02-09 |  |
 | [Bluesette](https://open.spotify.com/track/0wnOuJclpacVenVngRphVW) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bluesette](https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw) | 2:47 | 2022-06-14 |  |
 | [Body & Soul](https://open.spotify.com/track/3UTEhsBot3p6ym9qUJN2KG) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [I Remember You](https://open.spotify.com/album/6Zy69hl6GmvOE141qAZt3t) | 3:43 | 2023-01-05 |  |
@@ -150,6 +150,7 @@
 | [How Insensitive](https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE) | [Petra Britton](https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2) | [Ev'rything I Love](https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh) | 2:18 | 2022-03-10 | 2023-01-13 |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [How Long Has This Been Going On?](https://open.spotify.com/album/4enSlE24XGXXLkrGW7lxZ1) | 2:51 | 2022-06-22 |  |
 | [Hoy Como Ayer?](https://open.spotify.com/track/4zY1POF6FgffXRCQu4orYH) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Hoy Como Ayer?](https://open.spotify.com/album/20aD9JR438fFl7GfcVW2Wk) | 2:48 | 2023-08-24 |  |
+| [Hummingbird](https://open.spotify.com/track/1TgQA78oWDhJfEZBerhXtS) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Hummingbird](https://open.spotify.com/album/61zTMt7hd4LioURBVwfvB5) | 2:35 | 2023-09-29 |  |
 | [I Can't Get Started \(With You\)](https://open.spotify.com/track/0vpZnqfPR7ztK1iYUdRI4P) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [I Can't Get Started \(With You\)](https://open.spotify.com/album/61gEEgRzs3Rl0QB7X4lk7D) | 4:39 | 2022-08-11 |  |
 | [I Could Write A Book](https://open.spotify.com/track/66eaAKE675VWRnj8EVeDQk) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [I Could Write A Book](https://open.spotify.com/album/1Jn2DXdP0Ci1UBVjfFpZPF) | 3:16 | 2023-03-02 |  |
 | [I Cover the Waterfront](https://open.spotify.com/track/4nMtlRwN03BaHf7fhIk6Ne) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Someday My Prince Will Come](https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv) | 3:13 | 2022-06-14 |  |
@@ -170,6 +171,7 @@
 | [I'll Be Seeing You](https://open.spotify.com/track/1nDdCstJ1Mz8eRiyHhr5pS) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [I'll Be Seeing You](https://open.spotify.com/album/1K1bl5LvmHA4KAIhev8p0R) | 3:30 | 2021-12-14 | 2023-02-24 |
 | [I'll Know](https://open.spotify.com/track/18kLnvEUvTSOxEO458nLpb) | [Pat Montgomery](https://open.spotify.com/artist/4MZ1ZTfPA50HgH3A40qCHd) | [I'll Know](https://open.spotify.com/album/2VyBoFDyoYKi3Bocp7bOt7) | 2:33 | 2023-04-27 |  |
 | [I'll Never Be The Same](https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [I'll Never Be The Same](https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg) | 2:27 | 2023-08-17 |  |
+| [I'll Remember April](https://open.spotify.com/track/508qW9dDv9pTh85XgQm9Xp) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [I'll Remember April](https://open.spotify.com/album/7dEMSjL7qPpzPZFCriPLZv) | 3:23 | 2023-09-29 |  |
 | [I'll Take Romance](https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I'll Take Romance](https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq) | 3:09 | 2022-10-06 |  |
 | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 | 2022-06-01 |  |
 | [I'm Forever Yours](https://open.spotify.com/track/3fxTcNPr0YSZIg43iOArQr) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [I'm Forever Yours](https://open.spotify.com/album/3IdfFFoOqTGuSolYNM64wg) | 3:19 | 2023-09-22 |  |
@@ -219,6 +221,7 @@
 | [Look For The Silver Lining](https://open.spotify.com/track/5L2iEidxZtQYZsXjRGWWJN) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Look For The Silver Lining](https://open.spotify.com/album/15pmzgvbSncLWPfBEmdFYy) | 3:26 | 2023-01-26 |  |
 | [Looking Glass](https://open.spotify.com/track/0ed4hMQYEtnPJMz2O2Dw5Z) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Looking Glass](https://open.spotify.com/album/7dXKSgHWw3TRKfMN0QUwfH) | 2:24 | 2023-03-09 |  |
 | [Lost in Loneliness](https://open.spotify.com/track/7ESS38E7dhSrGML4HouB5P) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Lost in Loneliness](https://open.spotify.com/album/7ss8WnA2X9hyIk7HlxK8d5) | 2:08 | 2023-04-20 |  |
+| [Lot of Love](https://open.spotify.com/track/0NTAg7F7yE49scD5svkeIR) | [Jacob Schröder](https://open.spotify.com/artist/4VOTRfoGtDDp0Fl9ar28XN) | [Lot of Love](https://open.spotify.com/album/15JdATM0rLgvYOB2GFSQ2Q) | 2:40 | 2023-09-29 |  |
 | [Love For Sale](https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:23 | 2022-10-06 |  |
 | [Love in the First Degree](https://open.spotify.com/track/3LVaEWRdveFDHotlDaRDLa) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Love in the First Degree](https://open.spotify.com/album/39LNWMSNTxqiOAxqhRrOOa) | 2:46 | 2023-04-14 |  |
 | [Love on a Lonely Street](https://open.spotify.com/track/66GYfa8d7hZDXhzEaIG3Ct) | [Clifford Randall](https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG) | [Love on a Lonely Street](https://open.spotify.com/album/3XdY17cROlAbonVCRJskmc) | 2:34 | 2023-05-25 |  |

@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-281 songs - 1 day 1 hr 24 min
+282 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Arthur Go](https://open.spotify.com/track/1sfMzwPc6P8VGi3osLXQFV) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [The Moon and I](https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4) | 4:27 | 2022-05-25 |  |
 | [Ask Me Now](https://open.spotify.com/track/2BgD1WUT45SDvAqyNAzR3S) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Jazz Is Now](https://open.spotify.com/album/2ziOps71q2ClRrGC3QEpiG) | 5:31 | 2022-04-28 | 2022-11-25 |
 | [At That Moment](https://open.spotify.com/track/4XZhdl2OpQUDgNqQlhlg03) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Dimensions](https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8) | 4:39 | 2022-03-17 |  |
+| [Autumn Serenade](https://open.spotify.com/track/1PssJJCY05yMFjetc1VIEF) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:33 | 2023-09-22 |  |
 | [Azalea](https://open.spotify.com/track/02Z7LG6DNTuVTJiGdvTwDu) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 5:03 | 2020-03-31 | 2022-04-28 |
 | [Baby Plays Around](https://open.spotify.com/track/4yOHkrkJHqE7sruMEgDJBb) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 10:07 | 2022-02-18 | 2022-11-12 |
 | [Back on the beat](https://open.spotify.com/track/52q5MqCCKzUjYE06orhDxX) | [Laurent De Wilde](https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj) | [Back on the beat](https://open.spotify.com/album/2IOOiVxPT2N3fOYQJlubz1) | 5:10 | 2023-03-15 | 2023-08-25 |
@@ -68,7 +69,7 @@
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/1CgD99QQ8RReNg7LKbBO1y) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Dream A Little Dream Of Me](https://open.spotify.com/album/7ycWxV5g9evEkfpieN6YG1) | 3:00 | 2023-01-26 |  |
 | [East of the Sun \(And West of the Moon\)](https://open.spotify.com/track/7dNORA3zEIgPBelCsFFMTH) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 7:41 | 2023-03-23 |  |
 | [Elemental Mood](https://open.spotify.com/track/1UU9CmBw1QQLdlqjhkE8U9) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Ballads](https://open.spotify.com/album/5TukPT8lJcjrx8tVMpuHg6) | 6:03 | 2022-03-11 |  |
-| [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-09-16 |  |
+| [Embraceable You](https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN) | 3:54 | 2022-09-16 | 2023-09-29 |
 | [Emily](https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI) | [Ben Besiakov](https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4) | [The Art of Jazz with Ben Besiakov](https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3) | 5:19 | 2022-02-24 | 2022-08-31 |
 | [Eronel](https://open.spotify.com/track/1um3T5M9KAgWLDQk0IUzhh) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Un musicien \- Une histoire](https://open.spotify.com/album/4KRfiGU514jIczyXkQ4KK6) | 4:30 | 2020-03-31 | 2022-07-29 |
 | [Eronel](https://open.spotify.com/track/67tnJf77mVKMIOVcR1SQ2F) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Criss\-Cross \(Expanded Edition\)](https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI) | 4:30 | 2022-07-28 | 2023-08-25 |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 191442,
       "name": "1527",
       "url": "https://open.spotify.com/track/2rKkaX6ToSvPhUqO3GiKfA"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 222990,
       "name": "Ace Of Spades",
       "url": "https://open.spotify.com/track/3OJzhZyr202dKAs1d0o7C9"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 204008,
       "name": "Back 2 The Oldschool",
       "url": "https://open.spotify.com/track/2nc6DkAQN4OkLR8Zu9RJIA"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 208657,
       "name": "Blow Up The Speakers (Again)",
       "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
@@ -1491,6 +1491,32 @@
     },
     {
       "album": {
+        "name": "Close To You (Audiotricz Remix)",
+        "url": "https://open.spotify.com/album/4f6hP9KBR7Sm6ACbWTYQGc"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Close To You (Audiotricz Remix)",
+      "url": "https://open.spotify.com/track/6TqKy9halHx61AFUlwiDDZ"
+    },
+    {
+      "album": {
         "name": "Code Of The Warrior",
         "url": "https://open.spotify.com/album/6OFww3bgGwytoKjLUJbCca"
       },
@@ -1714,7 +1740,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 178988,
       "name": "Copies Are Faking - Sihk Remix",
       "url": "https://open.spotify.com/track/3iMi5y6uGJf0vEovm3Y4vv"
@@ -2455,6 +2481,32 @@
     },
     {
       "album": {
+        "name": "Dwars Door Het Dak",
+        "url": "https://open.spotify.com/album/54AIAmimRQl5gPnRGeuQAg"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        },
+        {
+          "name": "EZG",
+          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194700,
+      "name": "Dwars Door Het Dak",
+      "url": "https://open.spotify.com/track/45eT7AahIkUl82p0vFxiZF"
+    },
+    {
+      "album": {
         "name": "ECHOES",
         "url": "https://open.spotify.com/album/6HE5jgyjgkKNuYQTaBeM9Z"
       },
@@ -2636,7 +2688,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 177384,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/6hJOslrB3jquQksSqUTJ7Y"
@@ -3169,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "FNKY SH!T",
+        "url": "https://open.spotify.com/album/3Xlwq8kCRZis7cHVocPMtT"
+      },
+      "artists": [
+        {
+          "name": "ANDY SVGE",
+          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207925,
+      "name": "FNKY SH!T",
+      "url": "https://open.spotify.com/track/0grVheM1EIQ8boAeZkBkk9"
+    },
+    {
+      "album": {
         "name": "Focus On Myself",
         "url": "https://open.spotify.com/album/3NbOL6EI5MHMR7sOztj47t"
       },
@@ -3238,7 +3308,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 141200,
       "name": "For Those About To Rave (with Timmy Trumpet) - LUNAX Remix",
       "url": "https://open.spotify.com/track/7pPLHY0hjwyNhY6z1bgddW"
@@ -3748,7 +3818,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 162580,
       "name": "G\u00e4nsehaut",
       "url": "https://open.spotify.com/track/4xQJSkraElaWEAK21Q6jMg"
@@ -4833,6 +4903,28 @@
     },
     {
       "album": {
+        "name": "Innovate",
+        "url": "https://open.spotify.com/album/0Ybg4XFk2EItSqZjIIsBEU"
+      },
+      "artists": [
+        {
+          "name": "Deluzion",
+          "url": "https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB"
+        },
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Innovate",
+      "url": "https://open.spotify.com/track/1cDsGG8T7UO3hABFM3D0Co"
+    },
+    {
+      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/2uJIyCqmlx44HWXmU7Q1iY"
       },
@@ -5070,7 +5162,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 308129,
       "name": "Keep Burning (The Qontinent Anthem 2023)",
       "url": "https://open.spotify.com/track/0jXl8yokUCPrz54jdJWfd4"
@@ -5319,6 +5411,28 @@
     },
     {
       "album": {
+        "name": "Kriss Kross",
+        "url": "https://open.spotify.com/album/29D6qw7B4I5h9IemDdeoTZ"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156705,
+      "name": "Kriss Kross",
+      "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
+    },
+    {
+      "album": {
         "name": "Kyrie Eleison (Hallelujah)",
         "url": "https://open.spotify.com/album/6WY1AeKKdUqHH8msHQL8MU"
       },
@@ -5536,7 +5650,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 217600,
       "name": "Let's Go!",
       "url": "https://open.spotify.com/track/35T3AtwWEh43TXHku4Cx5H"
@@ -5694,7 +5808,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 157935,
       "name": "Like A Dream",
       "url": "https://open.spotify.com/track/7sss95zd4RYdiwKhEAbqkV"
@@ -6060,6 +6174,32 @@
       "duration_ms": 173684,
       "name": "Love Is Gone - Exhale Remix",
       "url": "https://open.spotify.com/track/5FWyfbOZ25bSOLBImIXumb"
+    },
+    {
+      "album": {
+        "name": "Love Like Yours",
+        "url": "https://open.spotify.com/album/7LhDrHd7GkACFuhA8muQ5b"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Empyre One",
+          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
+        },
+        {
+          "name": "Kane Scott",
+          "url": "https://open.spotify.com/artist/03Uxnv0S5yon8NjFeBF3Bu"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193164,
+      "name": "Love Like Yours",
+      "url": "https://open.spotify.com/track/60FjaVoaLYKEZmmYC7Gx5t"
     },
     {
       "album": {
@@ -6798,6 +6938,24 @@
       "duration_ms": 207217,
       "name": "My Heart Will Go On (Titanic)",
       "url": "https://open.spotify.com/track/6xW8JLQGyCIDUvQU6KplAQ"
+    },
+    {
+      "album": {
+        "name": "Cognitive Chaos",
+        "url": "https://open.spotify.com/album/6KFBWXbscOOgRsufAipATw"
+      },
+      "artists": [
+        {
+          "name": "Insurgent",
+          "url": "https://open.spotify.com/artist/2SyZmJfQgELdyr4sbiqZS6"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219847,
+      "name": "My Pain",
+      "url": "https://open.spotify.com/track/0Iuu9xzvZPtqLUkpeMT78L"
     },
     {
       "album": {
@@ -7692,6 +7850,28 @@
       "duration_ms": 213000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3vyw1KgD1UNpWbupv7vkE4"
+    },
+    {
+      "album": {
+        "name": "Party Everywhere",
+        "url": "https://open.spotify.com/album/3lPc7CF3ysHqLgyFSMxJPE"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130838,
+      "name": "Party Everywhere",
+      "url": "https://open.spotify.com/track/3HHqSilU2nbhzi6S9tWbCV"
     },
     {
       "album": {
@@ -8626,7 +8806,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 177000,
       "name": "Riot",
       "url": "https://open.spotify.com/track/03yCWOsdgVJyww4SB5unJs"
@@ -9184,7 +9364,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 183250,
       "name": "Shoey In Ya Face",
       "url": "https://open.spotify.com/track/6X1iWnWbG474c8cYXJ2JED"
@@ -9608,7 +9788,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 185273,
       "name": "Storm of Insanity",
       "url": "https://open.spotify.com/track/2zfG6HNax2O9gccfJECrcN"
@@ -10492,7 +10672,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 222408,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/6bRBZE3BXUZ6QNdpKuMGop"
@@ -11652,7 +11832,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 154936,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/6pl7bKdaDOCArT097PV6ma"
@@ -11860,6 +12040,28 @@
       "duration_ms": 227617,
       "name": "We Go So Far (Don\u2019t Stop Believin')",
       "url": "https://open.spotify.com/track/1sbcMH8P8zhtaESyGSNqGo"
+    },
+    {
+      "album": {
+        "name": "We Ignite",
+        "url": "https://open.spotify.com/album/2y1hu0C9Po1IJwN4ZhOFKh"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183879,
+      "name": "We Ignite",
+      "url": "https://open.spotify.com/track/3PdQHt44xlYLjxKXDA759H"
     },
     {
       "album": {
@@ -12302,7 +12504,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 233806,
       "name": "Work My Body",
       "url": "https://open.spotify.com/track/7qo3ijgvEpDGZgGaqPID0X"

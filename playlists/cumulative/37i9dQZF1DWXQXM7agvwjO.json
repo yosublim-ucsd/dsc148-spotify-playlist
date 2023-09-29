@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Grrrl Gang",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: KIKI",
   "name": ".ORG",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 224920,
       "name": "1999",
       "url": "https://open.spotify.com/track/0NVY5WqI36pLkamIuWiYqs"
@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "Post-existential Crisis",
+        "url": "https://open.spotify.com/album/4prSARzV3VYfUKWX4XcGQN"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217973,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3hQDJ5gTY8pw9Y7giqrde4"
+    },
+    {
+      "album": {
         "name": "The Way That Lovers Do",
         "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
       },
@@ -822,6 +840,24 @@
       "duration_ms": 167166,
       "name": "Am I Overthinking This?",
       "url": "https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv"
+    },
+    {
+      "album": {
+        "name": "Amazon",
+        "url": "https://open.spotify.com/album/7DW6UJHoXuDCriwp9gV8gU"
+      },
+      "artists": [
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0TEJQb3o4DFVAnBBoVWQmy"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198614,
+      "name": "Amazon",
+      "url": "https://open.spotify.com/track/6Nd0WR8BkrVxiMKerWOvpl"
     },
     {
       "album": {
@@ -956,6 +992,24 @@
       "duration_ms": 300124,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/39yw4rOahVl6Yg9lz7BN1F"
+    },
+    {
+      "album": {
+        "name": "ANXIOUS HEART",
+        "url": "https://open.spotify.com/album/0jIUaKjd0A3WSKSNWJZjRZ"
+      },
+      "artists": [
+        {
+          "name": "geiko",
+          "url": "https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206351,
+      "name": "ANXIOUS HEART",
+      "url": "https://open.spotify.com/track/5XPsSVX2R3enPamRURMq3W"
     },
     {
       "album": {
@@ -2311,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "no public sounds",
+        "url": "https://open.spotify.com/album/6aO96YUjirdU0mPzy7mCHd"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193853,
+      "name": "c r a z y",
+      "url": "https://open.spotify.com/track/3o86gmLtoG3jE9sFgVu4nn"
+    },
+    {
+      "album": {
         "name": "Cactus, Cactus",
         "url": "https://open.spotify.com/album/3hfUaz21ZhJQ7Fa9amwMhZ"
       },
@@ -3016,7 +3088,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 234946,
       "name": "Cold Dream",
       "url": "https://open.spotify.com/track/0cwSPWIRLf0nJjvCOwmV5w"
@@ -4548,6 +4620,24 @@
       "duration_ms": 198222,
       "name": "Em Trong \u0110\u1ea7u",
       "url": "https://open.spotify.com/track/0ON38MgDpAMcRC9ULx7NOf"
+    },
+    {
+      "album": {
+        "name": "Empathy",
+        "url": "https://open.spotify.com/album/2SVHt6UvABd7VDnzDIkfB6"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "Empathy",
+      "url": "https://open.spotify.com/track/0smhYLzS4wSETI2ALFrIXr"
     },
     {
       "album": {
@@ -11318,7 +11408,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 225156,
       "name": "Paradise (\u96fb\u5f71\u300a\u6211\u7684\u5929\u5802\u57ce\u5e02\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/1sPe0BW8Ob7lZ1lTY5M44V"
@@ -12288,7 +12378,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 182590,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3tWNpUIONNXnubu8Zmg74K"
@@ -13018,7 +13108,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 222270,
       "name": "Skinky",
       "url": "https://open.spotify.com/track/1hZMv2JTkTW6yN5GPCW07r"
@@ -13712,7 +13802,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 164745,
       "name": "STRANGER",
       "url": "https://open.spotify.com/track/3RZWanTuiT7LaHSft9wCnv"
@@ -14167,6 +14257,28 @@
     },
     {
       "album": {
+        "name": "Superhuman",
+        "url": "https://open.spotify.com/album/1zLtYbdACs3Y823URmquVY"
+      },
+      "artists": [
+        {
+          "name": "Rees Gonzales",
+          "url": "https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd"
+        },
+        {
+          "name": "Doughbaby",
+          "url": "https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255389,
+      "name": "Superhuman",
+      "url": "https://open.spotify.com/track/1HeGR9Pi3TCVDl4jrHZv2j"
+    },
+    {
+      "album": {
         "name": "Surel",
         "url": "https://open.spotify.com/album/0Cg5DfqjXLaJqWThh9lDmr"
       },
@@ -14555,6 +14667,24 @@
     },
     {
       "album": {
+        "name": "The Chorus Superstar",
+        "url": "https://open.spotify.com/album/2BnDqpwaFMaO1wOl5I7pv0"
+      },
+      "artists": [
+        {
+          "name": "Space Cubs",
+          "url": "https://open.spotify.com/artist/3JOcvznPQ58nkKmyZ31ex0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212629,
+      "name": "The Chorus Superstar",
+      "url": "https://open.spotify.com/track/66pXN7akoC2e9RrPOSjBWc"
+    },
+    {
+      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -14606,7 +14736,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 266000,
       "name": "The Man In The Mirror",
       "url": "https://open.spotify.com/track/4I63wEhh30DCcgKZjvvNjP"
@@ -15719,6 +15849,24 @@
     },
     {
       "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/6AvHqghzOREIkOOOJoLhWw"
+      },
+      "artists": [
+        {
+          "name": "Cast\u00e9",
+          "url": "https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221674,
+      "name": "Walk Your Heart Home",
+      "url": "https://open.spotify.com/track/1nbquISEGb21tsBdVlaP6V"
+    },
+    {
+      "album": {
         "name": "METADRAMATIC",
         "url": "https://open.spotify.com/album/2hwcTP5vjAZJfULKrRWGv8"
       },
@@ -15890,7 +16038,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 244000,
       "name": "we grew up together",
       "url": "https://open.spotify.com/track/343YezHfY7G8ZliqUHYQKS"
@@ -16134,6 +16282,24 @@
       "duration_ms": 195035,
       "name": "What makes a lover stay",
       "url": "https://open.spotify.com/track/6DDTsWw7YxKvHh3mBBm6Nc"
+    },
+    {
+      "album": {
+        "name": "Nightvision (Love Is God 10/16 Edition)",
+        "url": "https://open.spotify.com/album/1moXnMVFwnceCSjuKlThls"
+      },
+      "artists": [
+        {
+          "name": "Matter Halo",
+          "url": "https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348219,
+      "name": "What You Wanna Be (feat. The Kopycat)",
+      "url": "https://open.spotify.com/track/60T43Nrgz4idMlx76UpV9w"
     },
     {
       "album": {
@@ -17034,7 +17200,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-29",
       "duration_ms": 261150,
       "name": "\u0e04\u0e19\u0e02\u0e49\u0e32\u0e07\u0e46",
       "url": "https://open.spotify.com/track/7jt0oPIMRlbqWXN9CRwzvR"

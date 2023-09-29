@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 26132,
+  "num_followers": 26199,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWY5MTcyODUwYTNlNTg5MDUwODgxZWJjYTE5MzgwNTlhMDMwN2Ri",
+  "snapshot_id": "MCxlNTkwYTIwOGE0MmEwNzk4YTRjZmYyOGFiNTU4YTMyOGQ4MGYzY2I1",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 336504,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Sublime Tech House, Vol. 20",
+        "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
+      },
+      "artists": [
+        {
+          "name": "Reblok",
+          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
+        }
+      ],
+      "duration_ms": 176264,
+      "name": "Slim Shady",
+      "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Hip Trumpets",
         "url": "https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 195238,
       "name": "Hip Trumpets",
       "url": "https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Sublime Tech House, Vol. 20",
-        "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
-      },
-      "artists": [
-        {
-          "name": "Reblok",
-          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
-        }
-      ],
-      "duration_ms": 176264,
-      "name": "Slim Shady",
-      "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
-      },
-      "artists": [
-        {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
-        }
-      ],
-      "duration_ms": 222923,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Alley Rave",
         "url": "https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 364099,
       "name": "Alley Rave",
       "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1319,18 +1319,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "summer '23",
-        "url": "https://open.spotify.com/album/2EbpNouTaGpQLUPQ6xfXJ4"
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy"
       },
       "artists": [
         {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "DJ Cosworth",
+          "url": "https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm"
         }
       ],
-      "duration_ms": 379218,
-      "name": "street knowledge.",
-      "url": "https://open.spotify.com/track/711gJWmej4ldX9N7BJQvbR"
+      "duration_ms": 348315,
+      "name": "Untitled A",
+      "url": "https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1367,6 +1371,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "summer '23",
+        "url": "https://open.spotify.com/album/2EbpNouTaGpQLUPQ6xfXJ4"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 379218,
+      "name": "street knowledge.",
+      "url": "https://open.spotify.com/track/711gJWmej4ldX9N7BJQvbR"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Galactica",
         "url": "https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 310289,
       "name": "Galactica",
       "url": "https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy"
-      },
-      "artists": [
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        },
-        {
-          "name": "DJ Cosworth",
-          "url": "https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm"
-        }
-      ],
-      "duration_ms": 348315,
-      "name": "Untitled A",
-      "url": "https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "TRiPPPY",
-        "url": "https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ"
-      },
-      "artists": [
-        {
-          "name": "Cour T.",
-          "url": "https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "TRiPPPY",
-      "url": "https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "YAP EP",
         "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "TRiPPPY",
+        "url": "https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ"
+      },
+      "artists": [
+        {
+          "name": "Cour T.",
+          "url": "https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "TRiPPPY",
+      "url": "https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Kill The Soundboy",
-        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
-      },
-      "artists": [
-        {
-          "name": "Denney",
-          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
-        }
-      ],
-      "duration_ms": 404000,
-      "name": "Kill The Soundboy",
-      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Tears In Berghain EP",
         "url": "https://open.spotify.com/album/7ez8S0rG2f4hec5NIJOaWY"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 267122,
       "name": "Tears In Berghain",
       "url": "https://open.spotify.com/track/0DJQZ0od70Z6SkuoEeOYAa"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Kill The Soundboy",
+        "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
+      },
+      "artists": [
+        {
+          "name": "Denney",
+          "url": "https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v"
+        }
+      ],
+      "duration_ms": 404000,
+      "name": "Kill The Soundboy",
+      "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Superlicious",
+        "url": "https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Superlicious",
+      "url": "https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Hush Hush EP",
         "url": "https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ"
       },
@@ -1779,38 +1795,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Superlicious",
-        "url": "https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y"
+        "name": "Pronosticos Cachito",
+        "url": "https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e"
       },
       "artists": [
         {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+          "name": "KinAhau",
+          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
         }
       ],
-      "duration_ms": 181417,
-      "name": "Superlicious",
-      "url": "https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Likkle Drop (feat. Kwame)",
-        "url": "https://open.spotify.com/album/4ERrzPJu5Yh3QluUblMids"
-      },
-      "artists": [
-        {
-          "name": "Benson",
-          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
-        },
-        {
-          "name": "Kwame",
-          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
-        }
-      ],
-      "duration_ms": 176210,
-      "name": "Likkle Drop (feat. Kwame)",
-      "url": "https://open.spotify.com/track/7fP89DrqJcr5cmvWBdkBBP"
+      "duration_ms": 240000,
+      "name": "Pronosticos Cachito",
+      "url": "https://open.spotify.com/track/3lBQvzsycvySqg739cOGew"
     }
   ],
   "unique_name": "Minimal Tech",

@@ -1491,28 +1491,6 @@
     },
     {
       "album": {
-        "name": "Lullabies Of Birdland",
-        "url": "https://open.spotify.com/album/44zUpA9KsYPplGV7HZmE8K"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Ray Charles Singers",
-          "url": "https://open.spotify.com/artist/716xTLDou3FHSi9mXOMU1Z"
-        }
-      ],
-      "date_added": "2019-02-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186026,
-      "name": "Smooth Sailing",
-      "url": "https://open.spotify.com/track/6vubuLvaXL1bO4hQbAzG2E"
-    },
-    {
-      "album": {
         "name": "Jubilee Vibes",
         "url": "https://open.spotify.com/album/0FoPklfcJIW3cogJcJF8AA"
       },
@@ -1532,6 +1510,28 @@
       "duration_ms": 187400,
       "name": "Smooth Sailing",
       "url": "https://open.spotify.com/track/1eredMnT1NJXYDwk80mVNJ"
+    },
+    {
+      "album": {
+        "name": "Lullabies Of Birdland",
+        "url": "https://open.spotify.com/album/44zUpA9KsYPplGV7HZmE8K"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "The Ray Charles Singers",
+          "url": "https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186026,
+      "name": "Smooth Sailing",
+      "url": "https://open.spotify.com/track/6vubuLvaXL1bO4hQbAzG2E"
     },
     {
       "album": {

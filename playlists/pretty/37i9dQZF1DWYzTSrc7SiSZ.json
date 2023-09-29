@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 671092,
+  "num_followers": 671162,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWYyYzBjMTJjZDI0ZmUyMzg5NGVjMzYxNGM3NGEwMmZjYmIxMWIz",
+  "snapshot_id": "MCxiYjJmNzQ5NDNjMTBlOGYxYWYzYmMyMDA0MTMzODEwYWUxZTY2MWRh",
   "tracks": [
     {
       "added_at": "2023-08-31 19:57:26",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Ya",
-        "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
-      },
-      "artists": [
-        {
-          "name": "Flavio",
-          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
-        },
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 197910,
-      "name": "Ya",
-      "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Fogata",
         "url": "https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry"
       },
@@ -603,6 +583,26 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
+        "name": "Ya",
+        "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
+      },
+      "artists": [
+        {
+          "name": "Flavio",
+          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
+        },
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 197910,
+      "name": "Ya",
+      "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
         "name": "Cafeliko",
         "url": "https://open.spotify.com/album/02qmYpNbxlf8EFAzHQTK4x"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 126984,
       "name": "Cafeliko",
       "url": "https://open.spotify.com/track/0mzvDQW1IgLuXAwD5YMN6i"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
-        "name": "Siempre tengo sue\u00f1o",
-        "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 165909,
-      "name": "Siempre tengo sue\u00f1o",
-      "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -663,18 +647,18 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Diecis\u00e9is",
-        "url": "https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ"
+        "name": "Siempre tengo sue\u00f1o",
+        "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
       },
       "artists": [
         {
-          "name": "Tiare",
-          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 212452,
-      "name": "Cardenalito",
-      "url": "https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz"
+      "duration_ms": 165909,
+      "name": "Siempre tengo sue\u00f1o",
+      "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -831,22 +815,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/2MegsHOQtYtR3aCueFrMan"
-      },
-      "artists": [
-        {
-          "name": "Matt Hunter",
-          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Una Noche (Unplugged)",
         "url": "https://open.spotify.com/album/4mXPyq4Rgu2gTv2oIsliLu"
       },
@@ -867,6 +835,46 @@
       "duration_ms": 238654,
       "name": "Una Noche - Unplugged",
       "url": "https://open.spotify.com/track/5PzwXQyY8B64TH5G71da4R"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/2MegsHOQtYtR3aCueFrMan"
+      },
+      "artists": [
+        {
+          "name": "Matt Hunter",
+          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "fr\u00edo",
+        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Luisa",
+          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
+        }
+      ],
+      "duration_ms": 278490,
+      "name": "fr\u00edo",
+      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -899,30 +907,6 @@
       "duration_ms": 144300,
       "name": "Pajaritos",
       "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
-        "name": "fr\u00edo",
-        "url": "https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Luisa",
-          "url": "https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z"
-        }
-      ],
-      "duration_ms": 278490,
-      "name": "fr\u00edo",
-      "url": "https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1099,22 +1083,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Toma Mi Mano",
         "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
       },
@@ -1131,6 +1099,22 @@
       "duration_ms": 182000,
       "name": "Toma Mi Mano",
       "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
+        "name": "Soy capaz",
+        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 205452,
+      "name": "Soy capaz",
+      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 231936,
       "name": "Hablo Con Vos (feat. Nahuel Barbero)",
       "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
-        "name": "Soy capaz",
-        "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 205452,
-      "name": "Soy capaz",
-      "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1259,26 +1243,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "I Fell In Love",
-        "url": "https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Xenia Rubinos",
-          "url": "https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb"
-        }
-      ],
-      "duration_ms": 260186,
-      "name": "I Fell in Love",
-      "url": "https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
       },
@@ -1295,6 +1259,26 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "I Fell In Love",
+        "url": "https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Xenia Rubinos",
+          "url": "https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb"
+        }
+      ],
+      "duration_ms": 260186,
+      "name": "I Fell in Love",
+      "url": "https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 256255,
+      "name": "Qu\u00e9 Bonito Es Lo Bonito",
+      "url": "https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
         "name": "Sola (Remix)",
         "url": "https://open.spotify.com/album/5oA98aDLteUiejvagOwTrB"
       },
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
         }
       ],
-      "duration_ms": 256255,
-      "name": "Qu\u00e9 Bonito Es Lo Bonito",
-      "url": "https://open.spotify.com/track/4C35zLQBHI1qFsVgfQtiWB"
+      "duration_ms": 150071,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1495,22 +1495,6 @@
       "duration_ms": 242000,
       "name": "Volves",
       "url": "https://open.spotify.com/track/5uvobs7WJRW691LBLX3oxM"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
-      },
-      "artists": [
-        {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
-        }
-      ],
-      "duration_ms": 150071,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1787,6 +1771,26 @@
       "duration_ms": 172586,
       "name": "Esc\u00e1pate",
       "url": "https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "Hace Mucho",
+        "url": "https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        },
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 196909,
+      "name": "Hace Mucho",
+      "url": "https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN"
     }
   ],
   "unique_name": "Chill Latino",
