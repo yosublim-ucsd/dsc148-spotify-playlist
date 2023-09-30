@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 114555,
+  "num_followers": 114641,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzNiMzQ4ZDc5YWE5NDZhMDc5M2RiYjc0ZWY2NmI3MTkwNGUxYWVk",
+  "snapshot_id": "MCxkZDM3ZTFmNDBjZDFhOGFhYmViMjBmNGY4YTYxZTE4OTA2YmI1ZWNh",
   "tracks": [
     {
       "added_at": "2023-09-15 22:07:17",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2023-09-15 22:07:17",
       "album": {
+        "name": "Fogo de Deus",
+        "url": "https://open.spotify.com/album/2xrNzxLH7tyqjKtDiimLf0"
+      },
+      "artists": [
+        {
+          "name": "DJ MP7",
+          "url": "https://open.spotify.com/artist/4aul0cD22Afw1rdQZzJizF"
+        },
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Fogo de Deus",
+      "url": "https://open.spotify.com/track/4Ir1Kc6Re3iZRh2oLF5sTU"
+    },
+    {
+      "added_at": "2023-09-15 22:07:17",
+      "album": {
         "name": "Me Resgatou (Remix)",
         "url": "https://open.spotify.com/album/6TU6bUWANhJ9zpJ3tTApVM"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 231948,
       "name": "Me Resgatou - Remix",
       "url": "https://open.spotify.com/track/7Lp0ewXTeZBzflHnhX9mp7"
-    },
-    {
-      "added_at": "2023-09-15 22:07:17",
-      "album": {
-        "name": "Fogo de Deus",
-        "url": "https://open.spotify.com/album/2xrNzxLH7tyqjKtDiimLf0"
-      },
-      "artists": [
-        {
-          "name": "DJ MP7",
-          "url": "https://open.spotify.com/artist/4aul0cD22Afw1rdQZzJizF"
-        },
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Fogo de Deus",
-      "url": "https://open.spotify.com/track/4Ir1Kc6Re3iZRh2oLF5sTU"
     },
     {
       "added_at": "2023-09-15 22:07:17",

@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-447 songs - 22 hr 11 min
+451 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Nomeh](https://open.spotify.com/track/3xQbeORys8d2PyWuiGqHYI) | [Alisieu](https://open.spotify.com/artist/2cUKHomZHG6dG3PhDltRSJ) | [Nomeh](https://open.spotify.com/album/6UdQ5667BhDB47V7E95wm6) | 3:54 | 2021-11-10 |  |
 | [Nonzero](https://open.spotify.com/track/1lznUD9b22CxILXT8CVZIM) | [Stone Martyrs](https://open.spotify.com/artist/5TQiCNGub87gWCQRZuncKK) | [Nonzero](https://open.spotify.com/album/5JSW6sO061G259GqDqFvUV) | 3:32 | 2021-11-10 |  |
 | [Norrbotten](https://open.spotify.com/track/5ardBAnHzOgVgwbC7lUeoj) | [Lugnet före stormen](https://open.spotify.com/artist/6dr0I7Dag5o0aCFKKglKSH) | [Norrbotten](https://open.spotify.com/album/39pxK7nI9nT3Vo3XQ4MJQK) | 2:36 | 2021-11-10 |  |
-| [Novi Sad](https://open.spotify.com/track/7Kd9aRamqqlKwB5PtT4lSf) | [Lost Fables](https://open.spotify.com/artist/1uTJ77nWT4cR9Ur5HtdHPo) | [Palaeophonus](https://open.spotify.com/album/37U1JppB4VUGPzpz1z7UcK) | 3:32 | 2021-11-10 |  |
+| [Novi Sad](https://open.spotify.com/track/7Kd9aRamqqlKwB5PtT4lSf) | [Lost Fables](https://open.spotify.com/artist/1uTJ77nWT4cR9Ur5HtdHPo) | [Palaeophonus](https://open.spotify.com/album/37U1JppB4VUGPzpz1z7UcK) | 3:32 | 2021-11-10 | 2023-09-30 |
 | [Now](https://open.spotify.com/track/1LQlKIWA4eQqJg7KFdlyou) | [Hausste](https://open.spotify.com/artist/5Oz6ivFBe8vVFznXeggj30) | [Now](https://open.spotify.com/album/4KXF0ecJzcJnMzoSFwBLxF) | 2:39 | 2022-12-02 |  |
 | [Nox](https://open.spotify.com/track/6e8eaU1oPzSu0WXnbSyZt7) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Nox](https://open.spotify.com/album/7H7xsgmAr1XitXSeiP6ADc) | 2:28 | 2021-11-10 |  |
 | [Nuevo tiempo](https://open.spotify.com/track/5XzqugXuvYg6mxcyjpNesn) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [De regreso](https://open.spotify.com/album/0K3k1JIj8a8C1wUGrdLJwF) | 2:53 | 2022-04-07 |  |
@@ -305,11 +305,13 @@
 | [Panacea](https://open.spotify.com/track/09f1jQrl37fb3ZYoYBHVl9) | [Lyla Perez\-Vega](https://open.spotify.com/artist/0VWtwOJIkPQtVfH1JtQEic) | [Panacea](https://open.spotify.com/album/7Gf1shdQhSkxVu5GtXdLob) | 3:42 | 2022-01-28 |  |
 | [Panalipa Bisignatus](https://open.spotify.com/track/6LjyIMfDZkn2uY2sLM6Hdk) | [Sir Martin Walker](https://open.spotify.com/artist/5Bnqn1xdZlNk13QC9gc5Tu) | [Panalipa Bisignatus](https://open.spotify.com/album/77syYrRA3qfOI8bUmu1Hez) | 3:56 | 2021-11-10 | 2023-08-12 |
 | [Paralian](https://open.spotify.com/track/2tEsGZfscyYYnHF7exJFIA) | [Valérian Christophe](https://open.spotify.com/artist/6SCBzE0YewrwW07e57yvqv) | [Paralian](https://open.spotify.com/album/25dxQmc3QBjDRrUENzXkHo) | 2:35 | 2022-04-01 |  |
+| [Passages](https://open.spotify.com/track/5VzaFU0O3pTmG3fnjs0Ff0) | [Kim Nalah](https://open.spotify.com/artist/3EY39ZsyVU9c2Uw17ILmcJ) | [Passages](https://open.spotify.com/album/4XZCuM5CJRMMAvV1apBvXH) | 3:01 | 2023-09-29 |  |
 | [Passing Through](https://open.spotify.com/track/3clWNXDjKPbqvGviyo1Asg) | [Flying Rivers](https://open.spotify.com/artist/0dpYklrmz6pA7Yc3w48IPk) | [Millons of Trees](https://open.spotify.com/album/4RPxiQwUYBFwoXjLrpkNwl) | 2:33 | 2021-11-10 | 2023-09-09 |
 | [Patiently](https://open.spotify.com/track/5oHQkijiGG8oxR1FlyfNE1) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Patiently](https://open.spotify.com/album/3fOMieWSJiSkpXlM5l4vgm) | 2:59 | 2021-11-10 |  |
 | [Peace and Quiet](https://open.spotify.com/track/6fKAXHHXXu0IrgNbOASoFS) | [Zen Atlas](https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N) | [Peace and Quiet](https://open.spotify.com/album/1VA2ltU2TnJ3uAFpXG1DZ0) | 3:30 | 2021-11-10 | 2023-07-01 |
 | [Peaceful Journey](https://open.spotify.com/track/2w2TNG4SXWwRAPiHZoRgnw) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Peaceful Journey](https://open.spotify.com/album/7lxqmEkwnv3BkHhFj9Yqx7) | 2:11 | 2021-11-10 |  |
 | [Peaceful Sundown](https://open.spotify.com/track/03o9SRxgQAu7lpmvqePASW) | [Buddha's Sleep](https://open.spotify.com/artist/32JsxZpT1TFmRtCJzr7lg2) | [Peaceful Sundown](https://open.spotify.com/album/7owwupvVS9cNFJLvI1hQKI) | 2:34 | 2022-09-30 |  |
+| [Peak](https://open.spotify.com/track/7F2Y6sGghpGmjNTFygQO4h) | [santini perotti](https://open.spotify.com/artist/2C3LjNILc7hBqMcLczxi2L) | [Peak](https://open.spotify.com/album/1SQaQKEWXa4eI9CcIrpLyt) | 2:46 | 2023-09-29 |  |
 | [Peak Calm](https://open.spotify.com/track/5lXpowQ714d5VWxjdFLfi7) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Peak Calm](https://open.spotify.com/album/4Xfiq1H2pq5VtknmKXkUm8) | 2:36 | 2021-11-10 |  |
 | [Perfect Night](https://open.spotify.com/track/1bDlImMOyf1J7II5dTyECe) | [Saige Kasey](https://open.spotify.com/artist/52UDsMZhmDnjEWtynTRVeV) | [Perfect Night](https://open.spotify.com/album/4gQPGoNxTX0gJDGpaWL2iq) | 2:33 | 2022-04-21 | 2022-05-11 |
 | [Permanence](https://open.spotify.com/track/3f3k78b7LCbVFddtITvYd8) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Permanence](https://open.spotify.com/album/2x9uW2MBsifQDnp8zFPMk4) | 3:11 | 2023-09-08 |  |
@@ -378,6 +380,7 @@
 | [Smile](https://open.spotify.com/track/0pQassNAXhd7OszdrhLrSF) | [Evah Linnet](https://open.spotify.com/artist/2BOqxhLZK8i0dICth5U9VH) | [Smile](https://open.spotify.com/album/2i8nDba3GDeI8HWDKNaJ4u) | 3:06 | 2021-11-10 |  |
 | [Smyrna](https://open.spotify.com/track/20WOKEJgCcTSP9fpmTN9BM) | [From Us](https://open.spotify.com/artist/1alyoRkSvs6MfBhq7lgY3Q) | [Smyrna](https://open.spotify.com/album/0kRViOapDgEc4RvhO4jbXA) | 3:19 | 2021-11-10 |  |
 | [Snooze](https://open.spotify.com/track/29618YxnLp1lxnonnxjI46) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Snooze](https://open.spotify.com/album/3Hv8OJI0Cbwbm8ULXfCPFU) | 2:46 | 2021-11-10 |  |
+| [Soft](https://open.spotify.com/track/6HR82S6IU4a7Lq0Gg8fx8U) | [Madna Eúra](https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe) | [Soft](https://open.spotify.com/album/33WqLEqPxoOwdF2ZnE6YTx) | 2:52 | 2023-09-29 |  |
 | [Soft Blend](https://open.spotify.com/track/62bbizSic7MEEfMFDJniE5) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Complex](https://open.spotify.com/album/0BhbkpkVvEbIF3zG8SEC16) | 2:11 | 2022-11-11 |  |
 | [Softly](https://open.spotify.com/track/21qtqBROcwDDNJD8ppAuwB) | [Delawares](https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1) | [Softly](https://open.spotify.com/album/3eHldyd3B8vooLnelcDW8b) | 2:16 | 2022-10-21 |  |
 | [Somnium](https://open.spotify.com/track/13o8mCXKQvMhuuNErL4JZ2) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Somnium](https://open.spotify.com/album/6GGCSed3CmViPzJ244Wggg) | 3:30 | 2022-09-30 |  |
@@ -449,6 +452,7 @@
 | [When We Touch](https://open.spotify.com/track/6QNrpzKEYLzQsBqQQphfue) | [Rain Wonder](https://open.spotify.com/artist/4HLiKb2yZbSKwi3Uflpp36) | [Into the Night](https://open.spotify.com/album/7wlueDU2PxSRaEUbf9dXMl) | 2:05 | 2021-11-10 | 2023-05-06 |
 | [Whispered Views](https://open.spotify.com/track/7d1WTH2d7T3apIa8f6DVbe) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Whispered Views](https://open.spotify.com/album/7fmbUfpkcaqkSZOvR60WcY) | 2:52 | 2023-04-13 |  |
 | [Wild Flowers](https://open.spotify.com/track/5QxJpxP8HG9UpHgAXt9NcL) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Deep Healing Sessions Vol 1](https://open.spotify.com/album/6pS5kuMkDKvDgZkaBQnSSI) | 3:27 | 2021-11-10 |  |
+| [Windless](https://open.spotify.com/track/6ag3FxxSmUZu8PoTNfgPEx) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Windless](https://open.spotify.com/album/51cG2g2BWyn46uehhxAgMp) | 2:57 | 2023-09-29 |  |
 | [Winter Morning](https://open.spotify.com/track/5eKSEgKZA7CL7mA6BDX5I2) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Winter Morning](https://open.spotify.com/album/4PCQrftSp8n5yfO1t3wZ7c) | 3:35 | 2022-01-21 |  |
 | [Wood Siding Railway Station](https://open.spotify.com/track/5ixnYv40UHrZQIuqNlOJl0) | [Baroque Modernist](https://open.spotify.com/artist/5uXsIKri6D2vNv9V1EdGet) | [Pristina](https://open.spotify.com/album/5qcBhbgv4r3UeJAOQKCHuf) | 3:12 | 2021-11-10 |  |
 | [Worry Not](https://open.spotify.com/track/7hS2ckejZtpQIompCdbczv) | [María Mojca](https://open.spotify.com/artist/39ZWSqegQ0BRppztA35wXU) | [Worry Not](https://open.spotify.com/album/79VOF59svdNCrRXatvtxNm) | 2:45 | 2022-11-11 |  |

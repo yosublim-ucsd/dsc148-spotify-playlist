@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: KANE",
-  "num_followers": 258787,
+  "num_followers": 258915,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjdiYTE1NDBhMWI3OTViOWNlYzdjZTQ5ODU4YTYwNzVhNzA3YmY0",
+  "snapshot_id": "MCwwOGFlZTc3M2FhOTlmNTE0ZDc4YTJiYTkzMDY4OGFjOGY2ZWMwYTdi",
   "tracks": [
     {
       "added_at": "2023-09-28 22:00:00",
@@ -99,8 +99,8 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Broken is the man",
-        "url": "https://open.spotify.com/album/4170VVyEuynNaB1J8ShIgP"
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
       "artists": [
         {
@@ -110,7 +110,7 @@
       ],
       "duration_ms": 132213,
       "name": "Broken is the man",
-      "url": "https://open.spotify.com/track/1RESSkMgG8z9IEPHdBZb43"
+      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -331,6 +331,26 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
+        "name": "3D (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
         "name": "Hahaha",
         "url": "https://open.spotify.com/album/0ymEWOOv24RYfduGFeuAA7"
       },
@@ -378,6 +398,10 @@
         {
           "name": "Jandro",
           "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
         }
       ],
       "duration_ms": 128000,
@@ -408,7 +432,7 @@
       "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "Joris",
-        "url": "https://open.spotify.com/album/0ai6RgBjVRIiJ99acrYV23"
+        "url": "https://open.spotify.com/album/7nqav22eDtbEci6zCr4wQL"
       },
       "artists": [
         {
@@ -418,7 +442,7 @@
       ],
       "duration_ms": 195773,
       "name": "Kom Dichterbij",
-      "url": "https://open.spotify.com/track/3xjn7xDbYm5vuWZiyehV6k"
+      "url": "https://open.spotify.com/track/0Dte4Y9MDkF71KiiiLQUga"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -504,7 +528,7 @@
       "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "I Can Feel",
-        "url": "https://open.spotify.com/album/2zSO8RqfAatj24OjXWG94d"
+        "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
       },
       "artists": [
         {
@@ -522,7 +546,7 @@
       ],
       "duration_ms": 173360,
       "name": "I Can Feel",
-      "url": "https://open.spotify.com/track/02Pow05DYnolKiYTbrr6yU"
+      "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -716,7 +740,7 @@
       "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "a beautiful blur",
-        "url": "https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2"
+        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
       },
       "artists": [
         {
@@ -726,7 +750,7 @@
       ],
       "duration_ms": 206400,
       "name": "Out Of My League",
-      "url": "https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK"
+      "url": "https://open.spotify.com/track/0O7V6ItLSmWsh8qisU8mTr"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -1035,6 +1059,30 @@
       "duration_ms": 248213,
       "name": "Mrs. Postman",
       "url": "https://open.spotify.com/track/0RmDnoikD0DgBBcXsrt1qN"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 211006,
+      "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
+      "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
     },
     {
       "added_at": "2023-09-28 22:00:00",

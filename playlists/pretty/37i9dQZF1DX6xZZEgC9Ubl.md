@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,521,367 likes - 152 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521,741 likes - 152 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 151 | [my world](https://open.spotify.com/track/4YC4jW8DAxwANQXJDMiDqh) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [my world](https://open.spotify.com/album/2tOL4tC0w7iUUkl76ZcpBl) | 2:21 |
 | 152 | [Outta Time](https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Outta Time](https://open.spotify.com/album/59A0LQ9jDtBqjd9dxXkAGm) | 2:05 |
 
-Snapshot ID: `MCwxNzRiZjRhMDdkMTIzODQ3OWM1NWJlOThkOTIwZWJlZWRiODgxODky`
+Snapshot ID: `MCw4ZGFiNjQ4YjhiNDIxNWQ0OTQxMWI2ZTAzZWRhYjc3ZTIzMTlmNWQz`

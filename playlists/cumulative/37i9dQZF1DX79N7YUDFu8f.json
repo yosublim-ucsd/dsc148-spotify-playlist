@@ -477,6 +477,28 @@
     },
     {
       "album": {
+        "name": "Convince Yourself",
+        "url": "https://open.spotify.com/album/3GgDV6ldoI54egU3rfOBGZ"
+      },
+      "artists": [
+        {
+          "name": "Ato P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc"
+        },
+        {
+          "name": "Jeffrey Dol",
+          "url": "https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196446,
+      "name": "Convince Yourself",
+      "url": "https://open.spotify.com/track/0lbuz5ZNwAxlp1z1Vkks9f"
+    },
+    {
+      "album": {
         "name": "Courtyard Theatre",
         "url": "https://open.spotify.com/album/3QD3YNRDTSsYLI30dBYAHm"
       },
@@ -2158,7 +2180,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 217426,
       "name": "New Light",
       "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
@@ -2266,7 +2288,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 185173,
       "name": "novembre",
       "url": "https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2"
@@ -3458,7 +3480,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 167034,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/6FWX5q2d33dFBJJAXgFteV"

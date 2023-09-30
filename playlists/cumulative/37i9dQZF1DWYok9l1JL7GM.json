@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The south got something to say. Cover: Outkast",
+  "description": "The south got something to say. Cover: Ludacris",
   "name": "I Love My Down South Classics",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 230693,
       "name": "ATLiens",
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
@@ -374,10 +374,36 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 240760,
       "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
+    },
+    {
+      "album": {
+        "name": "Body Head Bangerz, Vol. 1",
+        "url": "https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe"
+      },
+      "artists": [
+        {
+          "name": "Roy Jones Jr.",
+          "url": "https://open.spotify.com/artist/5K6YsAKuRtcczPgxAdzc3B"
+        },
+        {
+          "name": "Mr Magic",
+          "url": "https://open.spotify.com/artist/4e0Z9S1BolFuwPDnA8wOjF"
+        },
+        {
+          "name": "Trouble",
+          "url": "https://open.spotify.com/artist/3OMd4I5GX8Hz51SLS0C2Fm"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Can't Be Touched (feat. Mr. Magic & Trouble)",
+      "url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K"
     },
     {
       "album": {
@@ -806,10 +832,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 281826,
       "name": "Go DJ",
       "url": "https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h"
+    },
+    {
+      "album": {
+        "name": "January 10th",
+        "url": "https://open.spotify.com/album/3pD5nHq65PfGJtd5aMNPUj"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219107,
+      "name": "Got Dem Racks",
+      "url": "https://open.spotify.com/track/5bHuDZwLcuXTlFMj2XPk0S"
     },
     {
       "album": {
@@ -940,7 +984,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 235213,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
@@ -1062,7 +1106,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 256013,
       "name": "I Got The Hook-Up!",
       "url": "https://open.spotify.com/track/3qEEoMccf3U90pM47dbQtX"
@@ -1084,6 +1128,28 @@
       "duration_ms": 240613,
       "name": "I Luv It",
       "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
+    },
+    {
+      "album": {
+        "name": "Cee-Lo Green... Is The Soul Machine",
+        "url": "https://open.spotify.com/album/0wdleLMeNmGUHChsmx9svt"
+      },
+      "artists": [
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221400,
+      "name": "I'll Be Around (feat. Timbaland) - Club Mix",
+      "url": "https://open.spotify.com/track/2TIGwYiQYr1N5zTOQToDfK"
     },
     {
       "album": {
@@ -1916,7 +1982,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 369573,
       "name": "Roses",
       "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
@@ -2044,7 +2110,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 261972,
       "name": "Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)",
       "url": "https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH"
@@ -2066,7 +2132,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 228933,
       "name": "Sittin' Sidewayz (feat. Big Pokey)",
       "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
@@ -2092,7 +2158,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 118933,
       "name": "Slob On My Nob (feat. Project Pat)",
       "url": "https://open.spotify.com/track/0mXMr1OVZZKYmOinBaofOp"
@@ -2281,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "Chicken - N - Beer",
+        "url": "https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290760,
+      "name": "Splash Waterfalls",
+      "url": "https://open.spotify.com/track/2T8hXV9LUZMDBKR5RALGEa"
+    },
+    {
+      "album": {
         "name": "Aquemini",
         "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
       },
@@ -2292,7 +2376,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 426853,
       "name": "SpottieOttieDopaliscious",
       "url": "https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC"
@@ -2314,7 +2398,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 213760,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e"
@@ -2606,6 +2690,24 @@
       "duration_ms": 263920,
       "name": "Throw Some D's",
       "url": "https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu"
+    },
+    {
+      "album": {
+        "name": "Ballers",
+        "url": "https://open.spotify.com/album/355iltHafyHwRAfS57zk6d"
+      },
+      "artists": [
+        {
+          "name": "504 Boyz",
+          "url": "https://open.spotify.com/artist/5ILgJERmX20rZuVVDQ7z5P"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268973,
+      "name": "Tight Whips",
+      "url": "https://open.spotify.com/track/2jeH47i3BqcoLCvAA1AQYX"
     },
     {
       "album": {

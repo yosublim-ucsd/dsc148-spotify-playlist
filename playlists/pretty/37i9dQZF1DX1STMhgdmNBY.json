@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 62180,
+  "num_followers": 62250,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzM4YzQxNTI5ZjUxOTg5MmMxZmI4M2M2YTE1YzAzNmU1MDJlOWUw",
+  "snapshot_id": "MCw5MDNlZWJmMmEyNjVkYmYxMDJmYzI3NDliZDAwYWJlZTRkMWNiZjkw",
   "tracks": [
     {
       "added_at": "2023-08-23 10:28:38",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "To Love Somebody (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "I Shall Be Released",
-      "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "They Call Me the Popcorn Man (France 1975) [Blues Reference]",
         "url": "https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 385600,
       "name": "Lonesome In My Bedroom",
       "url": "https://open.spotify.com/track/4xu0LW34dFEoHG1x65tQPx"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "To Love Somebody (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -175,22 +175,6 @@
       "duration_ms": 300466,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Backlash Blues",
-      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -263,6 +247,22 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
+        "name": "Tin Pan Alley",
+        "url": "https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT"
+      },
+      "artists": [
+        {
+          "name": "Magic Slim",
+          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
+        }
+      ],
+      "duration_ms": 322026,
+      "name": "Cold Hearted Woman",
+      "url": "https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 164986,
-      "name": "Do I Move You?",
-      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
+      "duration_ms": 148826,
+      "name": "Backlash Blues",
+      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Tin Pan Alley",
-        "url": "https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT"
-      },
-      "artists": [
-        {
-          "name": "Magic Slim",
-          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
-        }
-      ],
-      "duration_ms": 322026,
-      "name": "Cold Hearted Woman",
-      "url": "https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "Turn The Heat Up!",
         "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 411960,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Do I Move You?",
+      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Don't Lose This",
-        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
-      },
-      "artists": [
-        {
-          "name": "Pops Staples",
-          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
-        }
-      ],
-      "duration_ms": 246826,
-      "name": "Friendship",
-      "url": "https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 338333,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "Don't Lose This",
+        "url": "https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1"
+      },
+      "artists": [
+        {
+          "name": "Pops Staples",
+          "url": "https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3"
+        }
+      ],
+      "duration_ms": 246826,
+      "name": "Friendship",
+      "url": "https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Chicago Blues Session Volume 3",
-        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
-      },
-      "artists": [
-        {
-          "name": "Magic Slim & The Teardrops",
-          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
-        }
-      ],
-      "duration_ms": 442346,
-      "name": "So Easy To Love You",
-      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "Here Comes Shuggie Otis",
         "url": "https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 255946,
       "name": "Gospel Groove",
       "url": "https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "Chicago Blues Session Volume 3",
+        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
+      },
+      "artists": [
+        {
+          "name": "Magic Slim & The Teardrops",
+          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
+        }
+      ],
+      "duration_ms": 442346,
+      "name": "So Easy To Love You",
+      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "The Last Of The Blue Devils",
-        "url": "https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw"
-      },
-      "artists": [
-        {
-          "name": "Jay McShann",
-          "url": "https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU"
-        }
-      ],
-      "duration_ms": 421666,
-      "name": "'Tain't Nobody's Biz'ness If I Do",
-      "url": "https://open.spotify.com/track/6SVMrke6GfTo8VFWaDH8Yu"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
         "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 566960,
       "name": "12:15 Slow Goonbash Blues",
       "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "The Last Of The Blue Devils",
+        "url": "https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw"
+      },
+      "artists": [
+        {
+          "name": "Jay McShann",
+          "url": "https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU"
+        }
+      ],
+      "duration_ms": 421666,
+      "name": "'Tain't Nobody's Biz'ness If I Do",
+      "url": "https://open.spotify.com/track/6SVMrke6GfTo8VFWaDH8Yu"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "The Legendary Christine Perfect Album",
-        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
-      },
-      "artists": [
-        {
-          "name": "Christine McVie",
-          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
-        }
-      ],
-      "duration_ms": 191355,
-      "name": "I'm on My Way",
-      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "You Don't Know Me",
         "url": "https://open.spotify.com/album/4uc55G1No3AyUqiWBpd9LC"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 210851,
       "name": "Love & Devotion",
       "url": "https://open.spotify.com/track/0HdYXZKwBLwhKMVBVerHms"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "The Legendary Christine Perfect Album",
+        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
+      },
+      "artists": [
+        {
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
+        }
+      ],
+      "duration_ms": 191355,
+      "name": "I'm on My Way",
+      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
     },
     {
       "added_at": "2023-08-23 10:28:38",

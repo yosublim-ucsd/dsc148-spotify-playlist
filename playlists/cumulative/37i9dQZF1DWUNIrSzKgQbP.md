@@ -4,7 +4,7 @@
 
 > Falling leaves and cozy tunes.
 
-573 songs - 1 day 11 hr 53 min
+574 songs - 1 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Love Like This \- Acoustic](https://open.spotify.com/track/1VfJeju8B6qP4ZFsYuVW9U) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Love Like This](https://open.spotify.com/album/4YX6wTzs3xlZCWXpMdP1TP) | 4:01 | 2022-03-21 | 2022-06-08 |
 | [Love Part Three](https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx) | [Dani Larkin](https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi) | [Love Part Three](https://open.spotify.com/album/5Quw6izA6Ub8cmeFIYLxnt) | 4:27 | 2021-12-20 | 2022-03-22 |
 | [Lovers Who Make Love \- Live at the Mac](https://open.spotify.com/track/36VE1ZN6UFtVpAH1HJELA6) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Live at the Mac](https://open.spotify.com/album/7IfKkyytqHkjdH2uRTXEIX) | 3:43 | 2021-12-20 | 2022-03-22 |
+| [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 | 2023-09-29 |  |
 | [Maine](https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:52 | 2023-06-21 |  |
 | [Martha](https://open.spotify.com/track/6jR9qx0N2DgwzVuvispn7H) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [Martha](https://open.spotify.com/album/0ByzrqiFGK0FvsmYnjAIPn) | 3:27 | 2022-03-21 | 2022-06-08 |
 | [Masterpiece \- \(solo\)](https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dandelion](https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD) | 4:00 | 2022-12-21 | 2023-03-16 |

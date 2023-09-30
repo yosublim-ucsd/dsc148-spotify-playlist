@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "INSAINT",
+        "url": "https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150966,
+      "name": "Destruction Sisters",
+      "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
+    },
+    {
+      "album": {
         "name": "Super Champon",
         "url": "https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis"
       },
@@ -198,6 +216,24 @@
       "duration_ms": 57946,
       "name": "Dirty old fart is waiting for my reaction",
       "url": "https://open.spotify.com/track/1yxbAP2Q68GvJss6IaMES7"
+    },
+    {
+      "album": {
+        "name": "DO THE DANCE",
+        "url": "https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196199,
+      "name": "DO THE DANCE",
+      "url": "https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F"
     },
     {
       "album": {
@@ -605,6 +641,24 @@
     },
     {
       "album": {
+        "name": "INSAINT",
+        "url": "https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94733,
+      "name": "No Pain, No Gain is Shit",
+      "url": "https://open.spotify.com/track/3sdnKfAlmXYopLqTtXgXB1"
+    },
+    {
+      "album": {
         "name": "Nonnegative",
         "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
       },
@@ -670,7 +724,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 202000,
       "name": "Shambles",
       "url": "https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk"
@@ -868,7 +922,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 188493,
       "name": "\u3086\u304d\u3053\u3055\u3093",
       "url": "https://open.spotify.com/track/7EzsrJjJQBXRPiAPijADtG"
@@ -886,7 +940,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 150966,
       "name": "\u30c7\u30a3\u30b9\u30c8\u30e9\u30af\u30b7\u30e7\u30f3\u30fb\u30b7\u30b9\u30bf\u30fc\u30ba",
       "url": "https://open.spotify.com/track/7Lr7JP6qEkoDMGFHtyrJHa"

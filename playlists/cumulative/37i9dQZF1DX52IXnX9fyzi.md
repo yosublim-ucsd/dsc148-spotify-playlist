@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-366 songs - 15 hr 50 min
+367 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Le vol de l’oiseau](https://open.spotify.com/track/4pAGwabwsTepSu5mAD9lv4) | [Oscar Kowalski](https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04) | [Réminiscence](https://open.spotify.com/album/7CrynEMirXsEVcGWDQyUzS) | 2:16 | 2022-05-13 |  |
 | [lei sogna di noi](https://open.spotify.com/track/2myAatrsAXWSYBCJzphYle) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [lei sogna di noi](https://open.spotify.com/album/6hEEE80InjpeOtNaMxFTu5) | 2:00 | 2022-04-14 | 2022-05-14 |
 | [Les Combes\-58](https://open.spotify.com/track/3luC1osD9bTIdiv77Z8ebS) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Les Combes\-58](https://open.spotify.com/album/1t983gN7i0JitSK1BmsWAZ) | 3:24 | 2022-04-14 |  |
-| [Les murmures](https://open.spotify.com/track/5fe40JdDz3qqDB1vAQOaRr) | [Bon Coeur](https://open.spotify.com/artist/3uvirEQnNIIz4wsyCPEper) | [Les murmures](https://open.spotify.com/album/4oYNPdNy3Zisu3oeUjLHGa) | 2:32 | 2022-12-22 |  |
+| [Les murmures](https://open.spotify.com/track/3LAXZYdt54FXx09a8DRaFB) | [Bon Coeur](https://open.spotify.com/artist/3uvirEQnNIIz4wsyCPEper) | [Les murmures](https://open.spotify.com/album/16o2AEiuG2uh2zNzQsCotn) | 2:32 | 2023-09-18 |  |
+| [Les murmures](https://open.spotify.com/track/5fe40JdDz3qqDB1vAQOaRr) | [Bon Coeur](https://open.spotify.com/artist/3uvirEQnNIIz4wsyCPEper) | [Les murmures](https://open.spotify.com/album/4oYNPdNy3Zisu3oeUjLHGa) | 2:32 | 2022-12-22 | 2023-09-30 |
 | [Les passions](https://open.spotify.com/track/5eVSECRwlo8dpiAVWZImDs) | [Gianfranco Abate](https://open.spotify.com/artist/0LY1eNeWoYUJ9kwockmS2t) | [Les passions](https://open.spotify.com/album/1kLAGCQCV2Zn75wEKDl9eh) | 2:34 | 2022-04-14 |  |
 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 | 2023-06-20 |  |
 | [Liminal ride](https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Liminal ride](https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY) | 2:36 | 2022-12-22 |  |

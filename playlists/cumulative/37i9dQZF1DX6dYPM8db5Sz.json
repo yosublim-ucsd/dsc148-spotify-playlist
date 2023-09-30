@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=czPv541DQ32MDznf9sg6Mw\">Beatenberg</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI?si=XAqW2HNdRdGVqo7cVrQvoA\">Carla Franco</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -2613,6 +2613,28 @@
     },
     {
       "album": {
+        "name": "FEELING IT",
+        "url": "https://open.spotify.com/album/3I3dDA3aaa94LY9eXkk774"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "Ashwin Smith",
+          "url": "https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143100,
+      "name": "FEELING IT",
+      "url": "https://open.spotify.com/track/5tKM15EmEHGRufPvR2Prqi"
+    },
+    {
+      "album": {
         "name": "Feet Up",
         "url": "https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R"
       },
@@ -3202,6 +3224,24 @@
       "duration_ms": 246960,
       "name": "Heart's with You",
       "url": "https://open.spotify.com/track/1MMJpmRPegpVB71ra9pQGf"
+    },
+    {
+      "album": {
+        "name": "Hello!",
+        "url": "https://open.spotify.com/album/4MU0XWnLmEVsh2Nd576K2w"
+      },
+      "artists": [
+        {
+          "name": "Face and the Features",
+          "url": "https://open.spotify.com/artist/16vvbLv35opMOVyRC8x5c9"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187559,
+      "name": "Hello!",
+      "url": "https://open.spotify.com/track/3UTEuU57JBaP9JEIyz52vp"
     },
     {
       "album": {
@@ -5764,6 +5804,24 @@
       "duration_ms": 244358,
       "name": "Picasso's Concept",
       "url": "https://open.spotify.com/track/6Ufmq069l9bhk6TGg5Uw6G"
+    },
+    {
+      "album": {
+        "name": "Sorry Like You Mean It",
+        "url": "https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274918,
+      "name": "Pickup, Don't Pickup",
+      "url": "https://open.spotify.com/track/4E5P6ztlfq3jE9Df80jtND"
     },
     {
       "album": {

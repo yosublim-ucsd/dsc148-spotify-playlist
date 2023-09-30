@@ -1162,6 +1162,14 @@
         {
           "name": "Videoclub",
           "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        },
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Matthyeux",
+          "url": "https://open.spotify.com/artist/6oE1rW4wI9y4lISZ5NvyDp"
         }
       ],
       "date_added": "2023-09-25",
@@ -21094,7 +21102,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

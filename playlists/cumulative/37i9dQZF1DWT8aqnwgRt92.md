@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-897 songs - 2 day 8 hr 43 min
+899 songs - 2 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,8 @@
 | [Luxury Spoon](https://open.spotify.com/track/7K7QoJtb4WAgEHn8lt9ilJ) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Luxury Spoon](https://open.spotify.com/album/1n88YDIWx9tuAL4mykoAVh) | 3:58 | 2023-01-17 | 2023-04-12 |
 | [MAGICAL DESTROYER](https://open.spotify.com/track/09hJ0h06g0xbqQddx21ssG) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [MAGICAL DESTROYER](https://open.spotify.com/album/7LtA97RybPQ1EJA03SQtzV) | 3:47 | 2023-04-11 | 2023-06-16 |
 | [Magic×Color \- TV ver.](https://open.spotify.com/track/3mUkn8ac2JP1DUYELsdNgS) | [鈴木杏奈](https://open.spotify.com/artist/1rurXiTSARlQc9Q3ybRuwX) | [Magic×Color \(TV ver.\)](https://open.spotify.com/album/5aevfaKvoBEKM1qhkFMekE) | 1:44 | 2022-07-28 | 2022-08-17 |
-| [Magie×Magie](https://open.spotify.com/track/3EZBAhq6Sxgu3QquGJpVlx) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie×Magie](https://open.spotify.com/album/4FLYXuJ7Qn1X5oYvVDaCau) | 4:07 | 2023-09-28 |  |
+| [Magie Magie](https://open.spotify.com/track/7MgKJtAKVJ2wSmZ7ixC6Uq) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie Magie](https://open.spotify.com/album/2ajiabtgQpv4Yr4QO8XDc5) | 4:07 | 2023-09-28 |  |
+| [Magie×Magie](https://open.spotify.com/track/3EZBAhq6Sxgu3QquGJpVlx) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie×Magie](https://open.spotify.com/album/4FLYXuJ7Qn1X5oYvVDaCau) | 4:07 | 2023-09-28 | 2023-09-30 |
 | [Maihime](https://open.spotify.com/track/54Z5e3S47pWQeqe8IhKcqc) | [Lyrical Lily](https://open.spotify.com/artist/5REb2r1aINeEXDGYlkazXf) | [Maihime / Around and Around](https://open.spotify.com/album/50w6AeGNRJxIeq9pouT0oY) | 3:30 | 2023-01-17 | 2023-02-16 |
 | [Maihime](https://open.spotify.com/track/7ahO8v4N7OQsnnNd2p8Fab) | [Lyrical Lily](https://open.spotify.com/artist/5REb2r1aINeEXDGYlkazXf) | [Maihime](https://open.spotify.com/album/6VZQnpPyngzoTH4H3f5LOO) | 3:30 | 2023-02-14 | 2023-02-22 |
 | [Make Me Feel Better](https://open.spotify.com/track/48Hxgmy2rW0jT6YZUo18R8) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Make Me Feel Better](https://open.spotify.com/album/0VymrjRtKPZUvHkcJLaqby) | 4:29 | 2022-11-24 | 2022-12-22 |
@@ -448,6 +449,7 @@
 | [STRIX](https://open.spotify.com/track/1ReifYy4YQWlAHu1yJjf7s) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 2:24 | 2022-06-25 | 2022-07-27 |
 | [Stuck on you](https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [Stuck on you](https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h) | 3:05 | 2022-11-17 | 2023-01-13 |
 | [sugar](https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [sugar](https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5) | 3:47 | 2023-07-27 | 2023-09-08 |
+| [Suki ni Naccha Dame na Hito](https://open.spotify.com/track/4qnO8leJ0xIAvEkEnYB4nu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Suki ni Naccha Dame na Hito](https://open.spotify.com/album/2VnYRRWGs3kat0GeFjwzwl) | 3:37 | 2023-09-28 |  |
 | [Sun Is Coming Up](https://open.spotify.com/track/3QF909rQu5LgpXxrPL81Nz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp) | 4:15 | 2022-07-05 | 2022-07-29 |
 | [Sun Is Coming Up](https://open.spotify.com/track/4Tzy19BN954GdgSiUH62jD) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/6idCwCmUoXnX8ITg8PfHEj) | 4:15 | 2022-07-28 | 2022-08-17 |
 | [SUPER SHOCK \(with 羽多野 渉\)](https://open.spotify.com/track/7tFZu3Lr43csLBWNooNSd2) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0), [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT) | [SUPER SHOCK \(with 羽多野 渉\)](https://open.spotify.com/album/4DLui1rvYIcnE5cu3YbU6Q) | 3:49 | 2022-09-27 | 2022-11-03 |
@@ -776,7 +778,7 @@
 | [天灯](https://open.spotify.com/track/0bfsRP5VUaseeZypS4uZ1j) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TVアニメ「ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇」オープニングテーマ「天灯」](https://open.spotify.com/album/3r04pAxWWkkH8lhG4pX7PF) | 3:40 | 2022-08-23 | 2022-08-25 |
 | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/track/6UEudr7wL1kWoEzWTWOjL9) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/album/5ANkUMQeCcz1yLFKGwIamt) | 4:58 | 2022-07-07 | 2022-10-05 |
 | [奇縁ロマンス](https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [奇縁ロマンス](https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT) | 3:41 | 2023-04-11 | 2023-07-12 |
-| [好きになっちゃダメな人](https://open.spotify.com/track/7dahojrN9JHJS4rmyfsYJI) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [好きになっちゃダメな人](https://open.spotify.com/album/6vE3rwCWwPzyCcV3Lz0Yoh) | 3:37 | 2023-09-28 |  |
+| [好きになっちゃダメな人](https://open.spotify.com/track/7dahojrN9JHJS4rmyfsYJI) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [好きになっちゃダメな人](https://open.spotify.com/album/6vE3rwCWwPzyCcV3Lz0Yoh) | 3:37 | 2023-09-28 | 2023-09-30 |
 | [宝石の日々](https://open.spotify.com/track/0N4AHb6WKIBr4LWH127Lm0) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [宝石の日々](https://open.spotify.com/album/7wgUbItIynxcEMvpWvPZNQ) | 5:08 | 2023-07-02 | 2023-08-09 |
 | [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 | 2023-01-17 | 2023-04-12 |
 | [寄花\-Yosuga\-](https://open.spotify.com/track/4AK1qzjvhxUtUujZoZ22Z1) | [\#kzn](https://open.spotify.com/artist/6PPyZ24emAZuxz2OK9DDCq), [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [寄花\-Yosuga\-](https://open.spotify.com/album/6RT1XoXFGcW33smcuJY0yk) | 3:30 | 2023-04-25 | 2023-06-14 |

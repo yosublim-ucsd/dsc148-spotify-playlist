@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 93002,
+  "num_followers": 93038,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTc3OGJjNDUyYWFkNDNmMzkxYjc1ZjVkNGE1YjExNzkzYjkzY2Q3",
+  "snapshot_id": "MCw5ZGZhY2QyODY3ZDRlMzc5NjM0MWZiZGVjZDliYjcxYTU2ZTQ4NDE5",
   "tracks": [
     {
       "added_at": "2023-09-25 03:39:19",
@@ -411,22 +411,18 @@
     {
       "added_at": "2023-09-25 03:39:19",
       "album": {
-        "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
-        "url": "https://open.spotify.com/album/1MzE2U6E9FbWzbMEpxIDqq"
+        "name": "Ugly Beauty",
+        "url": "https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9"
       },
       "artists": [
         {
-          "name": "Yihuik\u82e1\u6167",
-          "url": "https://open.spotify.com/artist/07h8O5G4IO8l723aNOqip2"
-        },
-        {
-          "name": "\u6b27\u59c6",
-          "url": "https://open.spotify.com/artist/7v2lyqm5b1wv9DikYIvl7g"
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
         }
       ],
-      "duration_ms": 129631,
-      "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
-      "url": "https://open.spotify.com/track/5I2gqQtMsPOZSaBAYMMWv9"
+      "duration_ms": 172968,
+      "name": "\u8166\u516c",
+      "url": "https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8"
     },
     {
       "added_at": "2023-09-25 03:39:19",
@@ -451,18 +447,22 @@
     {
       "added_at": "2023-09-25 03:39:19",
       "album": {
-        "name": "Ugly Beauty",
-        "url": "https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9"
+        "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
+        "url": "https://open.spotify.com/album/1MzE2U6E9FbWzbMEpxIDqq"
       },
       "artists": [
         {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+          "name": "Yihuik\u82e1\u6167",
+          "url": "https://open.spotify.com/artist/07h8O5G4IO8l723aNOqip2"
+        },
+        {
+          "name": "\u6b27\u59c6",
+          "url": "https://open.spotify.com/artist/7v2lyqm5b1wv9DikYIvl7g"
         }
       ],
-      "duration_ms": 172968,
-      "name": "\u8166\u516c",
-      "url": "https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8"
+      "duration_ms": 129631,
+      "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
+      "url": "https://open.spotify.com/track/5I2gqQtMsPOZSaBAYMMWv9"
     },
     {
       "added_at": "2023-09-25 03:39:19",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-09-25 03:39:19",
       "album": {
+        "name": "\u661f\u661f\u90fd\u807d\u61c2",
+        "url": "https://open.spotify.com/album/7JBgAdKg5VOiQAf0d0jX0s"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6fa4CP",
+          "url": "https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR"
+        }
+      ],
+      "duration_ms": 188313,
+      "name": "\u661f\u661f\u90fd\u807d\u61c2 (W\u5287\u5834\u300a\u56e0\u70ba\u4f60\u5982\u6b64\u8000\u773c\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/5uvleLnm4RYiJvoMwZtziI"
+    },
+    {
+      "added_at": "2023-09-25 03:39:19",
+      "album": {
         "name": "SUPERMAN",
         "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
       },
@@ -1279,34 +1295,18 @@
     {
       "added_at": "2023-09-25 03:39:19",
       "album": {
-        "name": "\u661f\u661f\u90fd\u807d\u61c2",
-        "url": "https://open.spotify.com/album/7JBgAdKg5VOiQAf0d0jX0s"
+        "name": "You're My Love",
+        "url": "https://open.spotify.com/album/4vmKVMmlL0aEAaGBWJ12Uo"
       },
       "artists": [
         {
-          "name": "\u4e5d\u6fa4CP",
-          "url": "https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR"
+          "name": "\u674e\u4f73\u7ff0",
+          "url": "https://open.spotify.com/artist/0Smp4iNiSczpOof3x08L1T"
         }
       ],
-      "duration_ms": 188313,
-      "name": "\u661f\u661f\u90fd\u807d\u61c2 (W\u5287\u5834\u300a\u56e0\u70ba\u4f60\u5982\u6b64\u8000\u773c\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/5uvleLnm4RYiJvoMwZtziI"
-    },
-    {
-      "added_at": "2023-09-25 03:39:19",
-      "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU"
-      },
-      "artists": [
-        {
-          "name": "\u4e94\u5805\u60c5WOLF(S) (\u90b1\u92d2\u6fa4\u3001\u9673\u96f6\u4e5d\u3001\u9ec3\u5049\u6649\u3001\u8cf4\u664f\u99d2\u3001\u5a41\u5cfb\u78a9)",
-          "url": "https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp"
-        }
-      ],
-      "duration_ms": 206669,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL"
+      "duration_ms": 197528,
+      "name": "You're My Love",
+      "url": "https://open.spotify.com/track/4oOlDUTm41YVy23XzRssrS"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

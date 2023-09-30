@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-497 songs - 20 hr 21 min
+498 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Gift of love](https://open.spotify.com/track/4i25JUltbSuKmj7DP4FqJS) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Gift of love](https://open.spotify.com/album/20TJY3OAmGRi5ziV1zRIBe) | 2:06 | 2023-07-20 | 2023-07-22 |
 | [ginza](https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt) | 2:36 | 2022-07-28 |  |
 | [ginza](https://open.spotify.com/track/7napq1DUIYBfFbOxbtRKUu) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/6HIANT2xXqqWtThAX1fXdu) | 2:36 | 2022-06-30 | 2022-07-29 |
-| [Glassy Wave](https://open.spotify.com/track/5vb6yRMsWYwwggXq6hv2yE) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu) | 2:00 | 2023-09-28 |  |
+| [Glassy Wave](https://open.spotify.com/track/497tQqdZm2EXvOvRim673I) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/7uwNE4i944rSd3hVlEPUap) | 2:00 | 2023-09-28 |  |
+| [Glassy Wave](https://open.spotify.com/track/5vb6yRMsWYwwggXq6hv2yE) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Glassy Wave](https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu) | 2:00 | 2023-09-28 | 2023-09-30 |
 | [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 | 2023-04-28 |
 | [golden hour](https://open.spotify.com/track/6vW3cxpUmK3pjyB1GXIu7N) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc) | [golden hour](https://open.spotify.com/album/6dA0ItWZ4CtzsPKTwYvwma) | 1:55 | 2019-05-26\* | 2019-06-15 |
 | [Golden State](https://open.spotify.com/track/1QEHwRNmwnmRnoSokEXvLe) | [Sonus Vibes](https://open.spotify.com/artist/3Lj74BC4DEJSQxE6eWujUa), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Odyssey](https://open.spotify.com/album/1PlCw0Zm0vDHYx3LUASH6h) | 1:48 | 2021-12-16 | 2022-04-21 |

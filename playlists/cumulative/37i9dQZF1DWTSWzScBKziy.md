@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-208 songs - 13 hr 34 min
+209 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Fight On My Knees](https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Fight On My Knees](https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ) | 3:08 | 2022-10-29 |  |
 | [Fill My Cup](https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Fill My Cup](https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O) | 3:27 | 2022-05-27 |  |
 | [First Things First](https://open.spotify.com/track/3lcBpmaV7zkDtFzjzOB6GJ) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc) | 4:11 | 2022-10-29 | 2023-09-26 |
+| [First Things First](https://open.spotify.com/track/4E4JkkNvwl2EzZWIm0VJig) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj) | 4:11 | 2022-10-29 |  |
 | [First Things First](https://open.spotify.com/track/5uqOxamVliO1VCpoOLKDFV) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/0xzWZ4k69mRjyEj2pKn8SP) | 4:11 | 2022-10-29 | 2023-04-07 |
 | [For All My Life](https://open.spotify.com/track/49gozhH6p55OJaH6s1zk2c) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [TAYA](https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF) | 3:30 | 2022-10-29 |  |
 | [For All My Life](https://open.spotify.com/track/6qKbhIsM00FFhI1OKi74V7) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [TAYA](https://open.spotify.com/album/5N03zjLUSu0iqsTitN5tt3) | 3:30 | 2022-05-27 | 2023-01-19 |
@@ -141,7 +142,7 @@
 | [More](https://open.spotify.com/track/0hFyyBF7BntGhLPffwliYh) | [Katy Weirich](https://open.spotify.com/artist/3QubzJpthCbzrOI1bisB0d) | [More](https://open.spotify.com/album/0OP9HYBOIsuXYluIctWpuN) | 3:48 | 2022-10-29 | 2023-06-09 |
 | [More Than Ever](https://open.spotify.com/track/00cHdJO9E4TvmJBeuJq0pr) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd) | [More Than Ever](https://open.spotify.com/album/68OLHztu1jW6VilxvWZEtf) | 3:14 | 2022-05-27 | 2023-02-19 |
 | [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 | 2022-05-27 | 2023-05-14 |
-| [Need You](https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq) | [Caz](https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu) | [Need You](https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl) | 3:20 | 2022-05-27 |  |
+| [Need You](https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq) | [Caz](https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu) | [Need You](https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl) | 3:20 | 2022-05-27 | 2023-09-30 |
 | [Never Not God](https://open.spotify.com/track/6zWdaANy7zVHGPqzv1fZeT) | [The Sound](https://open.spotify.com/artist/3bsZZ1rEW7u6BqsIorxUPy) | [God Is Real](https://open.spotify.com/album/15WYTz5xlfGzNacurKTrqW) | 2:57 | 2022-05-27 | 2022-10-30 |
 | [Never Too Far](https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Never Too Far](https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8) | 3:04 | 2022-10-29 |  |
 | [No Hurt](https://open.spotify.com/track/4JoRciZN3rt1yl5akIAkrx) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [No Hurt](https://open.spotify.com/album/0Hbl3j7AuG0kQeHsM6GT7T) | 3:12 | 2022-10-29 | 2023-02-15 |

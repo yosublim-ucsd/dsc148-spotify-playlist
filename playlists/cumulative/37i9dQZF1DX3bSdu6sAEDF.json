@@ -290,7 +290,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 178537,
       "name": "All My Loving",
       "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 226066,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
@@ -1876,6 +1876,24 @@
       "duration_ms": 173045,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/5oP725PoN0QHZ0T8kDt8I4"
+    },
+    {
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/5VhP72XtpbnGMOKTOjvAKK"
+      },
+      "artists": [
+        {
+          "name": "Billy Lockett",
+          "url": "https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/3nRnQHg6DkhWMEIm4iJYdV"
     },
     {
       "album": {
@@ -3450,6 +3468,24 @@
       "duration_ms": 153373,
       "name": "Love on the Side",
       "url": "https://open.spotify.com/track/442gGJvRUQaUzl36zTNWEU"
+    },
+    {
+      "album": {
+        "name": "Love Somebody Again",
+        "url": "https://open.spotify.com/album/4t3bg4GQxROjqTbZ7OYlo5"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178840,
+      "name": "Love Somebody Again",
+      "url": "https://open.spotify.com/track/5oMEctLBPeeRe1VvYiN8xP"
     },
     {
       "album": {

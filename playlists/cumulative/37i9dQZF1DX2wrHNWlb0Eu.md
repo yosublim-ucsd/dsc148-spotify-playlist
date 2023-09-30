@@ -4,7 +4,7 @@
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-130 songs - 8 hr 7 min
+131 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [ประกาศให้โลกรู้](https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ประกาศให้โลกรู้](https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS) | 4:05 | 2023-04-03 |  |
 | [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/track/0MzLiZtEcL5L9MagFTnkx0) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/album/7LqpicnCabVFkpaVDKxRNW) | 3:50 | 2023-02-21 | 2023-09-20 |
 | [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/track/0jfh6PNB5GBg094Ilg84yG) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/album/01eKsPypv6vDuDznnhMWfe) | 3:50 | 2023-02-10 | 2023-04-30 |
+| [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/track/2L98ftReSp3kqlzxGSTLtY) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [TWO OF A KIND](https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv) | 3:50 | 2023-06-09 |  |
 | [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\) \- Single](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 | 2023-02-10 |  |
 | [ฝนตกไหม](https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ฝนตกไหม \- Single](https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj) | 4:21 | 2023-02-10 |  |
 | [ฝันหวานอายจูบ](https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [SKY](https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM) | 3:24 | 2023-02-10 | 2023-09-27 |
@@ -131,7 +132,7 @@
 | [โคตรพิเศษ \- From แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 3:57 | 2023-02-10 |  |
 | [โต๊ะริม](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2023-02-10 |  |
 | [โรแมนติก \(Romantic\)](https://open.spotify.com/track/4aPu6Tpvp4h8vNcyrC0sqU) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [โรแมนติก \(Romantic\)](https://open.spotify.com/album/3kTNtUTHdjCWwVll5XTQ84) | 4:00 | 2023-04-03 | 2023-05-16 |
-| [โลกอีกใบ](https://open.spotify.com/track/7cLkKf5GpXdHAx9fJA77JY) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [Oat Pramote](https://open.spotify.com/artist/6IjkVLH49YhlZiz4TOHJZv) | [LA LUNE](https://open.spotify.com/album/4llAtuHyR20CVWFbpdKPAq) | 3:14 | 2023-06-09 |  |
+| [โลกอีกใบ](https://open.spotify.com/track/7cLkKf5GpXdHAx9fJA77JY) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [Oat Pramote](https://open.spotify.com/artist/6IjkVLH49YhlZiz4TOHJZv) | [LA LUNE](https://open.spotify.com/album/4llAtuHyR20CVWFbpdKPAq) | 3:14 | 2023-06-09 | 2023-09-30 |
 | [โลกอีกใบ](https://open.spotify.com/track/0OPcptseBfeBIUai6JLOLd) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [โอ๊ต ปราโมทย์](https://open.spotify.com/artist/3U0TobFQX3KeTbCfxcuoSw) | [LA LUNE](https://open.spotify.com/album/1PEBaeuKlP7CBC9Skg78Yg) | 3:14 | 2023-02-21 | 2023-05-01 |
 | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1), [วิน รัตนพล](https://open.spotify.com/artist/4DjUSzKP28JRUYJKh2VwP0) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 5:26 | 2023-06-09 |  |
 | [ใจความสำคัญ \- From "รักหมดแก้ว Love on the Rocks"](https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [ใจความสำคัญ \(From "รักหมดแก้ว Love on the Rocks"\)](https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY) | 3:36 | 2023-02-10 |  |

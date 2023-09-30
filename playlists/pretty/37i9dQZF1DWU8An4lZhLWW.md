@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 
 > These songs from superhero movies and TV shows will take you up, up, and away!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,879 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,909 likes - 51 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 | 23 | [Batman: The Animated Series \(Main Title\)](https://open.spotify.com/track/5l2FbSEaZJtQNv6Z2h1DnK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Batman: The Animated Series, Vol\. 1 \(Original Soundtrack from the Warner Bros\. Television Series\)](https://open.spotify.com/album/7MlfJk6Wh9Ig315YKUDE01) | 1:01 |
 | 24 | [I'm Spider\-Man](https://open.spotify.com/track/7D42jUGCSe0BhIco9Pb7TB) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [The Magnificent Six](https://open.spotify.com/artist/3TwaH6h6rvgPfzAiDMj0OY), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [The Amazing Spider\-Man 2 \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R) | 1:00 |
 | 25 | [The Avengers](https://open.spotify.com/track/5SXsXjVJCWeJuf7FHvgBYR) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [The Avengers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3wvpIkfl4oOgZLMaQBWadf) | 2:03 |
-| 26 | [Go!](https://open.spotify.com/track/4AORpy9kuI37FvgTF3BWrd) | [Greg Cipes](https://open.spotify.com/artist/6L3vVRDyG1FxVkpfkY27oH), [Scott Menville](https://open.spotify.com/artist/7JrGE2z9m0yDVXELO7o9jB), [Khary Payton](https://open.spotify.com/artist/6NhL2mZ0OKFLvYIeyi5rd0), [Tara Strong](https://open.spotify.com/artist/4CN7jn6DiWNaDnaJdhBMKp), [Hynden Walch](https://open.spotify.com/artist/4yPSwzNyZhysv1v9FlV5jj) | [Teen Titans Go! To The Movies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0JjBO2WnSE6pjK4TC9Jci2) | 1:37 |
+| 26 | [Go! \(feat\. Greg Cipes, Scott Menville, Khary Payton, Tara Strong & Hynden Walch\)](https://open.spotify.com/track/4AORpy9kuI37FvgTF3BWrd) | [Teen Titans Go!](https://open.spotify.com/artist/7gbPHgWtOXiy5bgUpfRDt4), [Greg Cipes](https://open.spotify.com/artist/6L3vVRDyG1FxVkpfkY27oH), [Scott Menville](https://open.spotify.com/artist/7JrGE2z9m0yDVXELO7o9jB), [Khary Payton](https://open.spotify.com/artist/6NhL2mZ0OKFLvYIeyi5rd0), [Tara Strong](https://open.spotify.com/artist/4CN7jn6DiWNaDnaJdhBMKp), [Hynden Walch](https://open.spotify.com/artist/4yPSwzNyZhysv1v9FlV5jj) | [Teen Titans Go! To The Movies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0JjBO2WnSE6pjK4TC9Jci2) | 1:37 |
 | 27 | [Teen Titans Theme \(From "Teen Titans"\) \- Instrumental Mix](https://open.spotify.com/track/5cefstO9Bg6cSW0EsSJmJm) | [Anime Kei](https://open.spotify.com/artist/0PMGIDR5OQokTICRFbNdeB) | [Cartoon Themes \(10 Cartoon Favourites\)](https://open.spotify.com/album/4i06SveFnINFQRNy35btWM) | 1:01 |
 | 28 | [The Wolverine](https://open.spotify.com/track/1rvznQo13QGGrqN596vIDH) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Pete Anthony](https://open.spotify.com/artist/5KKEMrGvNos1TXpuGz9Rbr) | [The Wolverine](https://open.spotify.com/album/2wrlDHUaJOIgfOJMcYyW2w) | 2:21 |
 | 29 | [Theme from Ant\-Man](https://open.spotify.com/track/6yNPVGljyzMYTxEhL6fLBg) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Ant\-Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72mY2C05rfAbkHOax2gJYf) | 2:46 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8An4lZhLWW.md) - [plain]
 | 50 | [Supergirl Theme](https://open.spotify.com/track/66B7UOtpZR4IXjYzycoYeS) | [Blake Neely](https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp) | [The Music Of DC Comics: Vol\. 2](https://open.spotify.com/album/2AkLjCY0xB3LvvQoO7Fv4N) | 1:11 |
 | 51 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 |
 
-Snapshot ID: `MCxhYzcyZDhhMzZlMzYzZDMyMGRlZTU3M2VhNjUzMzQyMjVlMjc0OWFh`
+Snapshot ID: `MCxlNGU0MGM5MjZhYmEwYjQ1ZmU4MjQ5ZDUzMzVmOTU3MDE4ZmY5MTBm`

@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 103437,
+  "num_followers": 103498,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWY3NGZiMDZiODdiYzA4M2NiNGU4MzJhY2ZkMGNlZmZjYzIxM2Rm",
+  "snapshot_id": "MCwyNDQyMjA3OWRlZjhiZDAyYzZkZDRmYTFkMGQzYzNlZGJmOWZmMGE5",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "The English Riviera",
         "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 290173,
       "name": "The Bay",
       "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 303653,
-      "name": "Down in the Valley",
-      "url": "https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Blood Pressures",
         "url": "https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 248200,
       "name": "Future Starts Slow",
       "url": "https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 303653,
+      "name": "Down in the Valley",
+      "url": "https://open.spotify.com/track/7IcKs2XXHnQBtBJtzEyqqS"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Moonwater (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/59kCQ8ak5Aarnoz80CPlpo"
-      },
-      "artists": [
-        {
-          "name": "CHAPPO",
-          "url": "https://open.spotify.com/artist/0fdMBzQuX9TIF6t6N8fwg6"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/40DTE6OONWvsNlWNtsjZyj"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "BTSTU (Edit)",
         "url": "https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 209493,
       "name": "BTSTU - Edit",
       "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Moonwater (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/59kCQ8ak5Aarnoz80CPlpo"
+      },
+      "artists": [
+        {
+          "name": "CHAPPO",
+          "url": "https://open.spotify.com/artist/0fdMBzQuX9TIF6t6N8fwg6"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/40DTE6OONWvsNlWNtsjZyj"
     },
     {
       "added_at": "2021-09-02 08:15:11",

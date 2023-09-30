@@ -4,7 +4,7 @@
 
 > The hottest songs from LGBTQIA+ artists\. Cover: G Flip
 
-936 songs - 2 day 3 hr 2 min
+937 songs - 2 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [C\-Major](https://open.spotify.com/track/2R9P2h0TCkDK0qXzLSpiTy) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [C\-Major](https://open.spotify.com/album/0ch8XuUCgy7k10pbtlx1Dg) | 3:28 | 2023-09-26 |  |
 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 | 2023-08-08 | 2023-09-13 |
 | [Call On Me](https://open.spotify.com/track/2BavoPkV6sxi2xXznhLGEK) | [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy), [STORYBOARDS](https://open.spotify.com/artist/40XivUP1WvCUYSAuqsLbQb), [Garrison Starr](https://open.spotify.com/artist/1l9EtXzykoDuCp1nW9EL6g) | [Call On Me](https://open.spotify.com/album/3crJJ85tA4XzOr81nCPuZ7) | 3:14 | 2023-05-09 | 2023-06-02 |
-| [Can I Talk My Shit?](https://open.spotify.com/track/52qozr06OygMerkZTWPQzL) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Can I Talk My Shit?](https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU) | 3:25 | 2023-08-08 |  |
+| [Can I Talk My Shit?](https://open.spotify.com/track/1tXn4yWAAyzFikNsJ3bMow) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 3:25 | 2023-09-26 |  |
+| [Can I Talk My Shit?](https://open.spotify.com/track/52qozr06OygMerkZTWPQzL) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Can I Talk My Shit?](https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU) | 3:25 | 2023-08-08 | 2023-09-30 |
 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 | 2022-09-16 | 2022-10-08 |
 | [Can't Fake It](https://open.spotify.com/track/40VBxyQp3ZIYPiWwOJ4HJ3) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Can't Fake It](https://open.spotify.com/album/6TPoUp0iBcxdFlXahUllXY) | 2:10 | 2023-01-24 | 2023-03-08 |
 | [Can't Stand feat\. ZensoFly](https://open.spotify.com/track/7t5E6WC2HIeAAAKWUymNzs) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [ZenSoFly](https://open.spotify.com/artist/4tDTF2Ho65ijdmMHbtgJ1h) | [Can't Stand](https://open.spotify.com/album/4Xfcjaz36C9tkHq3COjWml) | 5:26 | 2023-08-08 | 2023-09-13 |

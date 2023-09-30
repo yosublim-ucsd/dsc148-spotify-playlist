@@ -522,7 +522,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 232005,
       "name": "Blue Bayou",
       "url": "https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM"
@@ -1028,6 +1028,24 @@
       "duration_ms": 186635,
       "name": "Dancing in the Sky",
       "url": "https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8"
+    },
+    {
+      "album": {
+        "name": "Dancing On My Own (Acoustic)",
+        "url": "https://open.spotify.com/album/72ov5JIcL7C7DA3rOOVEtu"
+      },
+      "artists": [
+        {
+          "name": "Colin Stough",
+          "url": "https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214501,
+      "name": "Dancing On My Own - Acoustic",
+      "url": "https://open.spotify.com/track/36HaY0w1BAbM6w1zWxguPu"
     },
     {
       "album": {
@@ -4030,7 +4048,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 229496,
       "name": "Palace - Cover",
       "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
@@ -4471,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "ERNEST & The Fellas Unplugged",
+        "url": "https://open.spotify.com/album/0lxxrZlnRP8K7gIqspSDjU"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234066,
+      "name": "Slow Dancing In A Burning Room (Circle Sessions)",
+      "url": "https://open.spotify.com/track/5lc6hhwOvfNJjZy5EyrbxG"
+    },
+    {
+      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
       },
@@ -4482,7 +4518,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 320933,
       "name": "Someone Like You - Piano Vocal",
       "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
@@ -4624,6 +4660,24 @@
       "duration_ms": 225000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9"
+    },
+    {
+      "album": {
+        "name": "Do It Anyway",
+        "url": "https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228021,
+      "name": "Steal My Girl",
+      "url": "https://open.spotify.com/track/5nraaaIIPnVoXFLcFA1MDJ"
     },
     {
       "album": {

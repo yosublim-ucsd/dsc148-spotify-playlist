@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Staind",
+  "description": "The hardest songs, loud. Very loud. Cover: Sleep Theory",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -4507,6 +4507,24 @@
     },
     {
       "album": {
+        "name": "Complete Collapse (Deluxe)",
+        "url": "https://open.spotify.com/album/3povldXcm2CSdm3lpkE1tW"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166595,
+      "name": "Don't Let The Party Die",
+      "url": "https://open.spotify.com/track/0h9HqYMU1EGRZ8E3aQ2lJE"
+    },
+    {
+      "album": {
         "name": "Don't Pray For Me",
         "url": "https://open.spotify.com/album/4xVMkU8AP5ihwCv0ra9uaf"
       },
@@ -5143,6 +5161,24 @@
     },
     {
       "album": {
+        "name": "Everything Turns Around",
+        "url": "https://open.spotify.com/album/2q1uXiqqTfP24tnWjEDxhg"
+      },
+      "artists": [
+        {
+          "name": "Dogstar",
+          "url": "https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Everything Turns Around",
+      "url": "https://open.spotify.com/track/1snNY6gV41RNLYdetvv2nr"
+    },
+    {
+      "album": {
         "name": "Evil",
         "url": "https://open.spotify.com/album/5EdJlD6ASMACKDLhczcwhb"
       },
@@ -5728,6 +5764,24 @@
       "duration_ms": 197213,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
+    },
+    {
+      "album": {
+        "name": "Forgotten",
+        "url": "https://open.spotify.com/album/4RnQzNSS5tZCgSOSuK7dM1"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175249,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/277kkbKWZtQUpnK19WcEM6"
     },
     {
       "album": {
@@ -7793,6 +7847,28 @@
     },
     {
       "album": {
+        "name": "Imposter Syndrome (feat. Lzzy Hale)",
+        "url": "https://open.spotify.com/album/4HhYDRWtEOESsVY2K4ZEyo"
+      },
+      "artists": [
+        {
+          "name": "Sophie Lloyd",
+          "url": "https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230635,
+      "name": "Imposter Syndrome (feat. Lzzy Hale)",
+      "url": "https://open.spotify.com/track/64wbg9tWc1hKSB4qokoq0e"
+    },
+    {
+      "album": {
         "name": "IN THREES",
         "url": "https://open.spotify.com/album/7eCCtzR9Vx8Rupmlo1O8eA"
       },
@@ -8724,7 +8800,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 206924,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI"
@@ -9210,6 +9286,24 @@
       "duration_ms": 238765,
       "name": "Lord Of Chaos",
       "url": "https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE"
+    },
+    {
+      "album": {
+        "name": "Losing Game",
+        "url": "https://open.spotify.com/album/6XPjsxlgipjhdzzbDPsM9o"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/5Hloo9hpO9fVbOBhyorNnT"
     },
     {
       "album": {
@@ -10711,6 +10805,24 @@
     },
     {
       "album": {
+        "name": "Paper Hearts",
+        "url": "https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215733,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2rzoY8Gzj9iC0jPwPRQgZP"
+    },
+    {
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw"
       },
@@ -10722,7 +10834,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 215733,
       "name": "Numb",
       "url": "https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0"
@@ -13832,7 +13944,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 246837,
       "name": "Spellbinding",
       "url": "https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r"
@@ -14538,10 +14650,32 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 204226,
       "name": "Take Shape (feat. Billy Corgan)",
       "url": "https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4"
+    },
+    {
+      "album": {
+        "name": "The Above",
+        "url": "https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        },
+        {
+          "name": "Billy Corgan",
+          "url": "https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204226,
+      "name": "Take Shape (feat. Billy Corgan)",
+      "url": "https://open.spotify.com/track/6uBtqwcoaMTcTewEXX9e7T"
     },
     {
       "album": {
@@ -16371,6 +16505,24 @@
     },
     {
       "album": {
+        "name": "Vampyre",
+        "url": "https://open.spotify.com/album/5zixXL2EbpFA1pyXRNs7q5"
+      },
+      "artists": [
+        {
+          "name": "New Years Day",
+          "url": "https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "Vampyre",
+      "url": "https://open.spotify.com/track/2N6yiyzYEQ2Vta748N2nop"
+    },
+    {
+      "album": {
         "name": "Luxury Disease",
         "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
       },
@@ -16586,7 +16738,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 244135,
       "name": "Waiting On The Sky To Change",
       "url": "https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0"

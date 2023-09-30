@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Buffalo Nichols
 
-242 songs - 14 hr 9 min
+243 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Laughing in the Sunshine](https://open.spotify.com/track/4TYwijXp1eODPgVSIiMfTp) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Laughing in the Sunshine](https://open.spotify.com/album/7duewCcizMjJRxlToFIeZt) | 3:34 | 2022-05-13 | 2022-06-11 |
 | [Lemonades \(feat\. Cam Kimbrough, Luther Dickinson & Chuck Treece\)](https://open.spotify.com/track/72jNvtgMO1NuNFu37h9019) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Cam Kimbrough](https://open.spotify.com/artist/5iAM7x8kZR3VvaO2FMDaFq), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk), [Chuck Treece](https://open.spotify.com/artist/1eqVSNP9MMcDjki4dMIfeV) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:08 | 2022-06-24 |  |
 | [Let Me Go](https://open.spotify.com/track/1UCRy4AZi5T4gfRDQwel5t) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Let Me Go](https://open.spotify.com/album/571dTEZ64Z49fi7EdlknZp) | 2:15 | 2022-02-18 | 2022-11-23 |
-| [Let Me Go](https://open.spotify.com/track/7n8mE3JYsbwrcJf0hr6Xo1) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 2:15 | 2022-02-18 |  |
+| [Let Me Go](https://open.spotify.com/track/7n8mE3JYsbwrcJf0hr6Xo1) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 2:15 | 2022-02-18 | 2023-09-30 |
 | [Light Shine In](https://open.spotify.com/track/3azPwNPD36yMmg4gYRtuJ4) | [Conor Gains](https://open.spotify.com/artist/3v56uAiWA52So80mU5pBy2) | [Light Shine In](https://open.spotify.com/album/5SgySlto0nQI5P38u7Cvw0) | 3:27 | 2021-04-02 | 2022-03-26 |
 | [Like A Dove](https://open.spotify.com/track/1br8OkIlBEJjhcAdZ44UUC) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Like A Dove](https://open.spotify.com/album/2iQ9N9PXfVaHF3t5xNIwVl) | 5:50 | 2023-08-25 |  |
 | [Like You Mean It](https://open.spotify.com/track/27qo8wD02bPb4tbunUm8w8) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Like You Mean It](https://open.spotify.com/album/3qKgpfBcTIztyYMxoRzwFz) | 2:38 | 2023-03-17 | 2023-05-27 |
@@ -234,6 +234,7 @@
 | [When Love Comes In](https://open.spotify.com/track/3GSNgcN4DnYTIYqL7GzIZT) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Ubuntu](https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz) | 4:14 | 2023-05-02 |  |
 | [WHITE PONY \- REVIVAL EDITION](https://open.spotify.com/track/5qdGrDgHYU56ujGsD6G0KN) | [N3ptune](https://open.spotify.com/artist/0Kt3k5975Iq6wW9cuutIZn), [Rusty Steve](https://open.spotify.com/artist/42P6ecU6XM2iC1hS8tuY2L) | [BLACK HORSE \(THE REVIVAL\)](https://open.spotify.com/album/4l4YPkRz6C7aZyqDgk9D9K) | 3:39 | 2023-01-13 |  |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-02-25 | 2023-02-14 |
+| [Wilder Than the West](https://open.spotify.com/track/6R68v7QdeTDEkNuBLbMy37) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Wilder Than the West](https://open.spotify.com/album/03xTki4ce3xfSLnvvtcpnO) | 2:34 | 2023-09-29 |  |
 | [Wintertime](https://open.spotify.com/track/2GuN81w2lPTNfMiKyMLnLR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Wintertime](https://open.spotify.com/album/7x0QccFsF6oUTHCeaJ3wRf) | 3:59 | 2021-11-12 | 2023-07-01 |
 | [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 | 2023-03-10 |  |
 | [Wolves All Around Me](https://open.spotify.com/track/5yX5XWU1JaOq3tYeuqGfVE) | [Hebron Shane](https://open.spotify.com/artist/3wVOcyphZAxmjMtasFzsJ2) | [Wolves All Around Me](https://open.spotify.com/album/4K7QDZ8Fldny1DYn9C5nbN) | 3:27 | 2021-03-19 | 2022-03-26 |

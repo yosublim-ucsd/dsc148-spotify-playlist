@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. Cover: Ed Sheeran",
-  "num_followers": 169199,
+  "num_followers": 169312,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGUxYjc4YzNiN2Q0YTQ0MDVjOGU2Y2VkN2FiYTU5NGUyY2UxZWRk",
+  "snapshot_id": "MCw2OWM4ZGI1M2RhZjA0MDU1OGZiY2NmNjEyYzhiMjlmZjk0NzU0Y2Ez",
   "tracks": [
     {
       "added_at": "2023-09-28 17:00:52",
@@ -23,6 +23,26 @@
       "duration_ms": 197976,
       "name": "American Town",
       "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
+    },
+    {
+      "added_at": "2023-09-28 17:00:52",
+      "album": {
+        "name": "3D (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
     },
     {
       "added_at": "2023-09-28 17:00:52",
@@ -419,6 +439,26 @@
     {
       "added_at": "2023-09-28 17:00:52",
       "album": {
+        "name": "4 Letters",
+        "url": "https://open.spotify.com/album/6rBPJ90IQORMs8YalbGdfd"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+        }
+      ],
+      "duration_ms": 181175,
+      "name": "4 Letters",
+      "url": "https://open.spotify.com/track/66bhW33qGtoNu3LQM5W70Z"
+    },
+    {
+      "added_at": "2023-09-28 17:00:52",
+      "album": {
         "name": "Magic Hour",
         "url": "https://open.spotify.com/album/4otUxxCM0HA9Deq2vBMJBk"
       },
@@ -460,7 +500,7 @@
       "added_at": "2023-09-28 17:00:52",
       "album": {
         "name": "a beautiful blur",
-        "url": "https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2"
+        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
       },
       "artists": [
         {
@@ -470,7 +510,7 @@
       ],
       "duration_ms": 206400,
       "name": "Out Of My League",
-      "url": "https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK"
+      "url": "https://open.spotify.com/track/0O7V6ItLSmWsh8qisU8mTr"
     },
     {
       "added_at": "2023-09-28 17:00:52",
@@ -576,7 +616,7 @@
       "added_at": "2023-09-28 17:00:52",
       "album": {
         "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/5eQqnyOrLCKl2ptVYevOAL"
+        "url": "https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG"
       },
       "artists": [
         {
@@ -589,8 +629,8 @@
         }
       ],
       "duration_ms": 224000,
-      "name": "Paolo Sandejas, YsanYgo - Sunday Morning",
-      "url": "https://open.spotify.com/track/7iil6fgXBgJcSqbKOKI4dx"
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB"
     },
     {
       "added_at": "2023-09-28 17:00:52",
@@ -1021,6 +1061,54 @@
       "url": "https://open.spotify.com/track/4XN7DfXnGUtzzDb6fHtWa2"
     },
     {
+      "added_at": "2023-09-29 05:09:46",
+      "album": {
+        "name": "Purple Hearts",
+        "url": "https://open.spotify.com/album/727ZfIUj4W9LZqYFT7tn9e"
+      },
+      "artists": [
+        {
+          "name": "Drewgon",
+          "url": "https://open.spotify.com/artist/4GWsaDmURHLEsicjIvzRSI"
+        },
+        {
+          "name": "Yacko",
+          "url": "https://open.spotify.com/artist/0UzB5HoYpXb7PtfrggXQqo"
+        }
+      ],
+      "duration_ms": 151920,
+      "name": "Purple Hearts (feat. Yacko)",
+      "url": "https://open.spotify.com/track/61nMsfkoVrODcnrTWZUvd5"
+    },
+    {
+      "added_at": "2023-09-29 05:09:46",
+      "album": {
+        "name": "Don't Stop (feat. IN:A)",
+        "url": "https://open.spotify.com/album/1RpBFa9Iq4KeOPfbZBasGV"
+      },
+      "artists": [
+        {
+          "name": "KENNYJACTA",
+          "url": "https://open.spotify.com/artist/215VH8SdJdGlV0xhqP2pxc"
+        },
+        {
+          "name": "GLOXINIA",
+          "url": "https://open.spotify.com/artist/3dAIRNpFDRZlgUg2oAwrB5"
+        },
+        {
+          "name": "BLACKHOED",
+          "url": "https://open.spotify.com/artist/3IDgPD7PfO2x3GHl4v6Azy"
+        },
+        {
+          "name": "IN:A",
+          "url": "https://open.spotify.com/artist/27u2IhosoH9I9NUiHPikjJ"
+        }
+      ],
+      "duration_ms": 134538,
+      "name": "Don't Stop (feat. IN:A)",
+      "url": "https://open.spotify.com/track/41NpOSnuVqSnXoN65mRNmb"
+    },
+    {
       "added_at": "2023-09-28 17:00:52",
       "album": {
         "name": "Runaway / Devil's Work",
@@ -1121,6 +1209,22 @@
       "url": "https://open.spotify.com/track/3hQDJ5gTY8pw9Y7giqrde4"
     },
     {
+      "added_at": "2023-09-29 05:09:46",
+      "album": {
+        "name": "About all love",
+        "url": "https://open.spotify.com/album/1IV3TxNNJgcnE6nlZycxx6"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "About all love",
+      "url": "https://open.spotify.com/track/0x6X6hV1taDYGOhkBLuoqS"
+    },
+    {
       "added_at": "2023-09-28 17:00:52",
       "album": {
         "name": "The Day After You",
@@ -1135,6 +1239,22 @@
       "duration_ms": 195480,
       "name": "The Day After You",
       "url": "https://open.spotify.com/track/7sGfyf64mOvIhRAMe0DXTh"
+    },
+    {
+      "added_at": "2023-09-28 17:00:52",
+      "album": {
+        "name": "Your World",
+        "url": "https://open.spotify.com/album/4KhCopgSUKLj3S37T53D0b"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 179933,
+      "name": "Your World",
+      "url": "https://open.spotify.com/track/5gySNmBBmI1oQQoW6aPv5O"
     },
     {
       "added_at": "2023-09-28 17:00:52",
@@ -1511,6 +1631,22 @@
       "duration_ms": 157906,
       "name": "BORN TO LOSE",
       "url": "https://open.spotify.com/track/5xtRAIRKyiaeX8BrHkxdj1"
+    },
+    {
+      "added_at": "2023-09-28 17:00:52",
+      "album": {
+        "name": "Strawberry Ice Cream",
+        "url": "https://open.spotify.com/album/59MmqBryooxMuIu9X8mjYz"
+      },
+      "artists": [
+        {
+          "name": "david hugo",
+          "url": "https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn"
+        }
+      ],
+      "duration_ms": 190452,
+      "name": "Strawberry Ice Cream",
+      "url": "https://open.spotify.com/track/5zd3ZyWEjTvVyiyKocCPqT"
     },
     {
       "added_at": "2023-09-28 17:00:52",

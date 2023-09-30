@@ -4,7 +4,7 @@
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-92 songs - 4 hr 59 min
+94 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [DON'T LET THE DEVIL \(feat\. thankugoodsir\)](https://open.spotify.com/track/1f7eBRPgFfKPhqMU7z31yF) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [thankugoodsir](https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 2:45 | 2023-09-20 |  |
 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 | 2023-09-20 |  |
 | [Dreaming Of You](https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Dreaming Of You](https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri) | 3:24 | 2023-09-20 |  |
+| [EAZI](https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil) | [Young Eman](https://open.spotify.com/artist/5ChhhneeWudlENWJcstXzL) | [EAZI](https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM) | 2:30 | 2023-09-29 |  |
 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 | 2023-09-20 |  |
 | [EYELIDS](https://open.spotify.com/track/3Sb8uNflVynSu16m0zdt2x) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2), [Cole Bleu](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [EYELIDS](https://open.spotify.com/album/0KqX8QZZ3QdwGRFItQS8zp) | 2:06 | 2023-09-20 |  |
 | [EZ 4 Me](https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [EZ 4 Me](https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg) | 3:00 | 2023-09-20 |  |
@@ -98,6 +99,7 @@
 | [We Can Be Anything](https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp) | 3:21 | 2023-09-20 |  |
 | [What Comes Will Come](https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 3:51 | 2023-09-25 |  |
 | [Who Else Would It Be](https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Who Else Would It Be](https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm) | 1:31 | 2023-09-20 |  |
+| [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 | 2023-09-29 |  |
 | [Why You Waiting?](https://open.spotify.com/track/4NS6mjfccw3m9fPYLCKa53) | [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Why You Waiting?](https://open.spotify.com/album/3czLQ2sjzql5WJQg7degVt) | 2:35 | 2023-09-20 |  |
 | [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 | 2023-09-20 |  |
 

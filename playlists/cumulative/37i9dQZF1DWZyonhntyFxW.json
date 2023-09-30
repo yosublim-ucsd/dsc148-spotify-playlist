@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 187245,
       "name": "EL LOVE",
       "url": "https://open.spotify.com/track/5gF2k94idQZlm5Dbe2HjoI"
@@ -1304,6 +1304,28 @@
       "duration_ms": 149908,
       "name": "ElNaw Wy",
       "url": "https://open.spotify.com/track/1vQOTZPsWE4r2Sm9nKi9iw"
+    },
+    {
+      "album": {
+        "name": "Escobar",
+        "url": "https://open.spotify.com/album/2mAiQSJIzExk7PQOzOKvce"
+      },
+      "artists": [
+        {
+          "name": "L5VAV",
+          "url": "https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u"
+        },
+        {
+          "name": "Shahyn",
+          "url": "https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186495,
+      "name": "Escobar",
+      "url": "https://open.spotify.com/track/35SaLcWrRF8lRBiY93MSnn"
     },
     {
       "album": {
@@ -2072,7 +2094,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 149999,
       "name": "LOCATION",
       "url": "https://open.spotify.com/track/2HbIwat8F8LtvfQkU6Yymf"
@@ -3403,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "Serag Mohema",
+        "url": "https://open.spotify.com/album/0331FU8uJjsUGhgMfFyK0g"
+      },
+      "artists": [
+        {
+          "name": "Batistuta",
+          "url": "https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164384,
+      "name": "Serag Mohema",
+      "url": "https://open.spotify.com/track/50KBo4IWpjTkFqT24SAGNN"
+    },
+    {
+      "album": {
         "name": "Share3 El 100",
         "url": "https://open.spotify.com/album/0Me0fSxdj5G3vFSDtlgAZC"
       },
@@ -3618,6 +3658,24 @@
       "duration_ms": 159810,
       "name": "TA TA TA",
       "url": "https://open.spotify.com/track/0RH75zMCXxmyxqiz8CymsO"
+    },
+    {
+      "album": {
+        "name": "Ta2reban",
+        "url": "https://open.spotify.com/album/2ktW3wBPnU7MVrs305ULyV"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209433,
+      "name": "Ta2reban",
+      "url": "https://open.spotify.com/track/7lkjvLhf2PH1fa5cv54tJR"
     },
     {
       "album": {
@@ -4544,7 +4602,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 154303,
       "name": "\u0639\u0646\u062f \u0628\u0639\u0646\u062f",
       "url": "https://open.spotify.com/track/13p4ETF99JwFFY8yNyWjgI"

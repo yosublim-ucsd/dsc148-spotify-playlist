@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 143023,
+  "num_followers": 143027,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTcxYzQzYzk1Yzk2NjVhYTQ3M2ZmOWJjZWZiNWI0Y2JkZWYwYmI5",
+  "snapshot_id": "MCw0YWQyMWZkYzMxZGNkMDVlMDYzMDBjMTc0NWEwODliYWUyNTdlMWFi",
   "tracks": [
     {
       "added_at": "2023-09-13 20:37:36",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Santa Borrachera",
-        "url": "https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO"
-      },
-      "artists": [
-        {
-          "name": "SuenaTron",
-          "url": "https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Santa Borrachera",
-      "url": "https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Rogando Por Tu Amor",
         "url": "https://open.spotify.com/album/0hJfMeu3ayGQtUbMZ8KZiM"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 203879,
       "name": "Rogando Por Tu Amor",
       "url": "https://open.spotify.com/track/3konQZ2dxzZ9N83J0fC5qo"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Santa Borrachera",
+        "url": "https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO"
+      },
+      "artists": [
+        {
+          "name": "SuenaTron",
+          "url": "https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Santa Borrachera",
+      "url": "https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Porque Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS"
+      },
+      "artists": [
+        {
+          "name": "Roel Martinez",
+          "url": "https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Porque Vivo Enamorado",
+      "url": "https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Sientes Igual",
         "url": "https://open.spotify.com/album/0sn1yEI18W8oDFqaMcgj5C"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 159637,
       "name": "Pura Sabrosura",
       "url": "https://open.spotify.com/track/3etkEQi64KOu73UexyHvCU"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Porque Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS"
-      },
-      "artists": [
-        {
-          "name": "Roel Martinez",
-          "url": "https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Porque Vivo Enamorado",
-      "url": "https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Entiende Corazon",
+        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
+      },
+      "artists": [
+        {
+          "name": "Zereno",
+          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
+        }
+      ],
+      "duration_ms": 189166,
+      "name": "Entiende Corazon",
+      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Celebremos El Amor",
         "url": "https://open.spotify.com/album/3cVF8fhGFBiSs5ggsFpcwy"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Entiende Corazon",
-        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/5RJg4RhFCjohxFLkga8e4C"
       },
       "artists": [
         {
-          "name": "Zereno",
-          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
+          "name": "Potente",
+          "url": "https://open.spotify.com/artist/5bvI6ngb2zCeNFMe2wDSWD"
         }
       ],
-      "duration_ms": 189166,
-      "name": "Entiende Corazon",
-      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
+      "duration_ms": 193850,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/125nNouH95Q996cSYS79lb"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -755,18 +771,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/5RJg4RhFCjohxFLkga8e4C"
+        "name": "Mas Tequila Por Favor",
+        "url": "https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03"
       },
       "artists": [
         {
-          "name": "Potente",
-          "url": "https://open.spotify.com/artist/5bvI6ngb2zCeNFMe2wDSWD"
+          "name": "Cristelo",
+          "url": "https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9"
         }
       ],
-      "duration_ms": 193850,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/125nNouH95Q996cSYS79lb"
+      "duration_ms": 200493,
+      "name": "Mas Tequila Por Favor",
+      "url": "https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -787,18 +803,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Mas Tequila Por Favor",
-        "url": "https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03"
+        "name": "Anda Vuela Y Vete",
+        "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
       },
       "artists": [
         {
-          "name": "Cristelo",
-          "url": "https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9"
+          "name": "Kamryn Ramirez",
+          "url": "https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md"
         }
       ],
-      "duration_ms": 200493,
-      "name": "Mas Tequila Por Favor",
-      "url": "https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU"
+      "duration_ms": 165866,
+      "name": "Anda Vuela Y Vete",
+      "url": "https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -815,22 +831,6 @@
       "duration_ms": 209836,
       "name": "Sed\u00faceme",
       "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Anda Vuela Y Vete",
-        "url": "https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw"
-      },
-      "artists": [
-        {
-          "name": "Kamryn Ramirez",
-          "url": "https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md"
-        }
-      ],
-      "duration_ms": 165866,
-      "name": "Anda Vuela Y Vete",
-      "url": "https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "No Me Busques",
-        "url": "https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk"
-      },
-      "artists": [
-        {
-          "name": "Liz Garcia",
-          "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
-        }
-      ],
-      "duration_ms": 228812,
-      "name": "No Me Busques",
-      "url": "https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Contigo Corazon",
         "url": "https://open.spotify.com/album/7ymlEj6NfzuNw2CYa2ZrJj"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 195291,
       "name": "Contigo Corazon",
       "url": "https://open.spotify.com/track/4WGMtadfZnohsK7WDJpryN"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "No Me Busques",
+        "url": "https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk"
+      },
+      "artists": [
+        {
+          "name": "Liz Garcia",
+          "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
+        }
+      ],
+      "duration_ms": 228812,
+      "name": "No Me Busques",
+      "url": "https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
-        "url": "https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO"
-      },
-      "artists": [
-        {
-          "name": "Pablo Urbina",
-          "url": "https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv"
-        }
-      ],
-      "duration_ms": 185179,
-      "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
-      "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Que Dolor",
         "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Si Esto No Es Amor",
-        "url": "https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP"
+        "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
+        "url": "https://open.spotify.com/album/1Ak5K1NCuiWuBtCWCAUPwO"
       },
       "artists": [
         {
-          "name": "Liz Garcia",
-          "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
+          "name": "Pablo Urbina",
+          "url": "https://open.spotify.com/artist/308aRFwb49I3w9CVmwNNOv"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Si Esto No Es Amor",
-      "url": "https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI"
+      "duration_ms": 185179,
+      "name": "Por Que Te Fuistes (En Memoria De Ernestine Romero)",
+      "url": "https://open.spotify.com/track/1fNwFvFBofgk4lWRfJYkO0"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1107,6 +1091,22 @@
       "duration_ms": 161623,
       "name": "NADIE",
       "url": "https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Si Esto No Es Amor",
+        "url": "https://open.spotify.com/album/0KKjJ7j7oWVv79T2IvY0hP"
+      },
+      "artists": [
+        {
+          "name": "Liz Garcia",
+          "url": "https://open.spotify.com/artist/2JcqJQOf7QQbFgFAzf8mDX"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Si Esto No Es Amor",
+      "url": "https://open.spotify.com/track/2XPIUhrtYTB6mFdQSpZUOI"
     },
     {
       "added_at": "2023-09-13 20:37:36",

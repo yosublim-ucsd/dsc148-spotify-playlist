@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,313 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,669 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [RUN FOR YOU](https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [RUN FOR YOU](https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG) | 2:58 |
 | 50 | [COLORS](https://open.spotify.com/track/6R4fObJ9nCUnVj1e3BDLyg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [IN WONDER \- EP](https://open.spotify.com/album/3qInZr8LBwGHnz851luc80) | 3:57 |
 
-Snapshot ID: `MCw0OTcwNjM2ODA0ZDFiOTMzMDRmOGUwYmQ2N2NmNDBmZmY1YmJhODAx`
+Snapshot ID: `MCw5MzliZjNmNTc0NTAxMjAzNjRhZTc5NzYwMDQyNmU4YWU2MjYxMDAy`

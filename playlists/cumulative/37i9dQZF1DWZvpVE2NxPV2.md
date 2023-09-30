@@ -4,7 +4,7 @@
 
 > Peaceful ambient for mind body connection.
 
-208 songs - 10 hr 52 min
+209 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Sensory Perception](https://open.spotify.com/track/0gkpdzAJ3065QgKDO0Nm8x) | [Rigby Jay](https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY) | [Sensory Perception](https://open.spotify.com/album/4LKuWF3OzhS6dwvN9e0LNs) | 3:05 | 2022-11-25 |  |
 | [Sentiment \- Yoga Version](https://open.spotify.com/track/0xknACiHrVed7KEML5oNuU) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Sentiment \- Yoga Version](https://open.spotify.com/album/7deF5Xp7ctwSJb85ZWFPaG) | 2:45 | 2022-10-25 | 2023-06-21 |
 | [Serena´s Meditation](https://open.spotify.com/track/0wGvryNQ0SOv7VMnHLs1Nn) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Serena´s Meditation](https://open.spotify.com/album/6lF4ne4DEfrpldVN0hEEbT) | 2:30 | 2023-01-10 |  |
-| [Serene Lake](https://open.spotify.com/track/5j7x0N6j0TH6Tq6RuiKtnj) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Serene Lake](https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo) | 2:36 | 2022-11-25 |  |
+| [Serene Lake](https://open.spotify.com/track/5j7x0N6j0TH6Tq6RuiKtnj) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Serene Lake](https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo) | 2:36 | 2022-11-25 | 2023-09-30 |
 | [Serenity of Touch](https://open.spotify.com/track/45I8e1cnl6rzrf2AEqoMDO) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Serenity of Touch](https://open.spotify.com/album/3xyRep7OzHkL9laLeiB6Ci) | 2:20 | 2022-01-07 | 2023-06-21 |
 | [Shaasvat](https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [Shaasvat](https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk) | 3:25 | 2022-01-07 |  |
 | [Shanti Breaths](https://open.spotify.com/track/1bFYO2lUPYRbkWcJobEroe) | [Three Jewels](https://open.spotify.com/artist/1uSV6zmPoVgtt7WZ7oEvYA) | [Shanti Breaths](https://open.spotify.com/album/10sG8XOXOJWNi53kB0MypN) | 3:48 | 2022-06-02 | 2023-01-11 |
@@ -169,6 +169,7 @@
 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-12 | 2022-12-10 |
 | [Solsken](https://open.spotify.com/track/0r14frSgaiYUHdW66ZCDY3) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Solsken](https://open.spotify.com/album/06ZptErgRD4TluQw7ax1wj) | 3:45 | 2022-06-02 | 2022-12-10 |
 | [Soul Sanctuary](https://open.spotify.com/track/0F0D6AJURYa1gLkMuaClSc) | [Phanari](https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg) | [Soul Sanctuary](https://open.spotify.com/album/7vsIKloIvCCSEKAssTlBkH) | 3:17 | 2023-06-20 |  |
+| [Soulful Serenity](https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Soulful Serenity](https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj) | 3:04 | 2023-09-29 |  |
 | [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 | 2022-08-12 | 2022-12-10 |
 | [Spellbound](https://open.spotify.com/track/21KaEe9seWVaE5UWwb439V) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Spellbound](https://open.spotify.com/album/5MYvk8SIFdpvM3ePfTEyTy) | 3:06 | 2023-06-20 |  |
 | [Spirit of Now](https://open.spotify.com/track/6EDGhLq5RfOIzjJTMNgUG8) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Spirit of Now](https://open.spotify.com/album/1kEYXVCoLl2c15HfkubYSr) | 3:19 | 2023-08-11 |  |

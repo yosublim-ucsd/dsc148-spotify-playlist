@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-269 songs - 14 hr 51 min
+270 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Tums](https://open.spotify.com/track/3D1MBQdIBq0gn85wfOtOC9) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [Tums](https://open.spotify.com/album/1Ycwxjo9vjfPoLHAy4Hemt) | 3:37 | 2023-03-03 | 2023-03-14 |
 | [Tums](https://open.spotify.com/track/00HG0BYPrRQQ5S7HVhVNSy) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Tums](https://open.spotify.com/album/71faAIel0uVhPSmu8VJcj7) | 3:37 | 2021-11-19 | 2023-02-02 |
 | [Turn Up](https://open.spotify.com/track/0oyutiBE89NpGtAdo3cA5Y) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Turn Up](https://open.spotify.com/album/7Ig6Dn3DjDgJC9dAk2FJ8M) | 3:00 | 2021-11-19 | 2022-02-02 |
-| [Twitter](https://open.spotify.com/track/45NRSkN11nKunCO8gwswug) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [Twitter](https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu) | 2:45 | 2021-11-26 |  |
+| [Twitter](https://open.spotify.com/track/45NRSkN11nKunCO8gwswug) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [Twitter](https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu) | 2:45 | 2021-11-26 | 2023-09-30 |
 | [U Nasty](https://open.spotify.com/track/7bsxDwNl5lYXOWU5U3jvQw) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [U Nasty](https://open.spotify.com/album/4u4e0Wr2F95vEQElrmpw8a) | 3:11 | 2021-11-19 | 2022-01-23 |
 | [UCLA](https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:12 | 2022-02-01 | 2023-07-08 |
 | [Uh Uh](https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Uh Uh](https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC) | 3:13 | 2023-06-23 |  |
@@ -276,6 +276,7 @@
 | [Yakisoba \(feat\. Wavehi\)](https://open.spotify.com/track/11VqZrskzYRWEjGqtqC4FP) | [DaWave](https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY), [Wavehi](https://open.spotify.com/artist/2iLx2UVrTEV4Vq3T9tY675) | [Yakisoba \(feat\. Wavehi\)](https://open.spotify.com/album/1SVe7vr8xtQfRtxsQtkdb5) | 2:53 | 2021-11-19 | 2022-02-02 |
 | [Yalla](https://open.spotify.com/track/2rBKfA9WpLBQxRFPcJXiXf) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo) | [Yalla](https://open.spotify.com/album/5U2t7ENPjxeIK3fQexprEA) | 2:32 | 2023-03-17 | 2023-08-15 |
 | [Yesterdays](https://open.spotify.com/track/2ROhaolQOaQ0TQR09OEANW) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Yesterdays](https://open.spotify.com/album/0nJdQHNPSOjR6BpZ3fViUu) | 3:30 | 2023-06-09 | 2023-09-10 |
+| [Your Lovin'](https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Your Lovin'](https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7) | 3:39 | 2023-09-29 |  |
 | [Zurna](https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Zurna](https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH) | 2:39 | 2023-08-11 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

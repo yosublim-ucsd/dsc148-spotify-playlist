@@ -4,7 +4,7 @@
 
 > LIT killah & Tiago PZK en la casa del Trap Argentino.
 
-238 songs - 11 hr 26 min
+239 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,12 +164,13 @@
 | [Pintao](https://open.spotify.com/track/0B8yu7yLe1UsXv6gewHRv2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 2:47 | 2022-01-21 |  |
 | [Poka Luz](https://open.spotify.com/track/05h2p4OlGsBFNeVMLrKuJE) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [Poka Luz](https://open.spotify.com/album/1M7xS9mJ9jOxFKCWKqvMhy) | 1:46 | 2023-03-17 |  |
 | [Por el Aire](https://open.spotify.com/track/2r2v9AjM48KaWvcG0IyXt7) | [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d), [iberre og](https://open.spotify.com/artist/6ZS3sAG3hC7noyONwaXLUh) | [Por el Aire](https://open.spotify.com/album/0s4xkWvxZQant3mg4KAoa0) | 3:33 | 2022-01-21 | 2022-03-12 |
+| [Puestos Pal Millón](https://open.spotify.com/track/5qBVWOBdNAIRimwp79OHJ7) | [Fili Wey](https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Puestos Pal Millón](https://open.spotify.com/album/6rY2sf7BkUmRRhmFzOZoQY) | 2:54 | 2023-09-29 |  |
 | [PUFF](https://open.spotify.com/track/2Asa5boIOZADugCzoy0lRS) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [PUFF](https://open.spotify.com/album/6jb35yKFOV9HY6QeKKaa69) | 2:20 | 2022-05-27 |  |
 | [Pálpitos](https://open.spotify.com/track/1C80yOmk8Ub5bhZHvvnir3) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [Pálpitos](https://open.spotify.com/album/5Y436fUo4pGsKcJNRMcY97) | 2:47 | 2022-09-02 | 2023-02-25 |
 | [QUE PASO?](https://open.spotify.com/track/4cHSkta5T7QLkMpFMVTCxy) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [QUE PASO?](https://open.spotify.com/album/7enAbGMvvw6yieMmxRJyHG) | 3:53 | 2022-01-21 | 2023-01-28 |
 | [QUÉ LOCO](https://open.spotify.com/track/5gvKZfC4fZ4P4B8qvqCeRo) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [POCHOCLOS](https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP) | 2:31 | 2022-06-17 | 2023-01-28 |
 | [RELOJES REVENTADOS](https://open.spotify.com/track/3WHBTuOibN5pPTiz9eyUpA) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:40 | 2022-11-11 |  |
-| [Roberto Perfumo](https://open.spotify.com/track/74aKFQ2gPjm9UawHPyoni5) | [Chiki Wanted](https://open.spotify.com/artist/33jFO9W9LzOFYLwdPcs97O) | [Roberto Perfumo](https://open.spotify.com/album/2rq6aaauxZ4uGCzZ7DBW9Q) | 2:05 | 2023-09-08 |  |
+| [Roberto Perfumo](https://open.spotify.com/track/74aKFQ2gPjm9UawHPyoni5) | [Chiki Wanted](https://open.spotify.com/artist/33jFO9W9LzOFYLwdPcs97O) | [Roberto Perfumo](https://open.spotify.com/album/2rq6aaauxZ4uGCzZ7DBW9Q) | 2:05 | 2023-09-08 | 2023-09-30 |
 | [Roma](https://open.spotify.com/track/3xywCyObh95Tge2J6aM90B) | [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT), [Arse](https://open.spotify.com/artist/32gBQPn4CkmUE9NzK0IXdX), [R.J.Ä](https://open.spotify.com/artist/3Q8bocv6goyDOaHXauuYp8), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [Roma](https://open.spotify.com/album/6YX2jYAlZjERuOlpjI3Rbt) | 3:30 | 2022-04-01 | 2022-10-29 |
 | [Rompediscoteka](https://open.spotify.com/track/5IdLmgNH1r8QQbELC1GueB) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [Rompediscoteka](https://open.spotify.com/album/22pOSKsw95pibnK4OZq2Om) | 3:02 | 2022-04-01 | 2023-03-02 |
 | [ROMPEDISCOTEKA](https://open.spotify.com/track/65pH9RioD4Kw4laCZdWexI) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [ROMPEDISCOTEKA](https://open.spotify.com/album/0vmEOqbr8asBKT1OlmSgNb) | 3:02 | 2023-02-24 | 2023-03-18 |

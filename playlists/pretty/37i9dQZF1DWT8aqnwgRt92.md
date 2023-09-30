@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,344,406 likes - 85 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,345,063 likes - 85 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 32 | [Shambles](https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Shambles](https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w) | 3:22 |
 | 33 | [Whatever Comes](https://open.spotify.com/track/0fjDWBGZR65iXyvEnKVaOA) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [Whatever Comes](https://open.spotify.com/album/6n1hdXqcaQTJEVxwLxS0Gr) | 4:52 |
 | 34 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 |
-| 35 | [好きになっちゃダメな人](https://open.spotify.com/track/7dahojrN9JHJS4rmyfsYJI) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [好きになっちゃダメな人](https://open.spotify.com/album/6vE3rwCWwPzyCcV3Lz0Yoh) | 3:37 |
+| 35 | [Suki ni Naccha Dame na Hito](https://open.spotify.com/track/4qnO8leJ0xIAvEkEnYB4nu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Suki ni Naccha Dame na Hito](https://open.spotify.com/album/2VnYRRWGs3kat0GeFjwzwl) | 3:37 |
 | 36 | [スクラップアート](https://open.spotify.com/track/1cza4rtohdOAOZNtDQWCYO) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [スクラップアート](https://open.spotify.com/album/4FeGPKB2ofgaHrUHI7CDyV) | 3:33 |
 | 37 | [Please, please!](https://open.spotify.com/track/2Y8X7mYmu8dDK4o5mFaI0G) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [Please, please!](https://open.spotify.com/album/4jHpWzvHRJZovJhVo6x7WL) | 3:42 |
 | 38 | [ムスビメ](https://open.spotify.com/track/0pkVxyrTqqlv3moOEA2wOt) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [ムスビメ](https://open.spotify.com/album/3PRUbUlarV6rpompdRENpr) | 4:50 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 64 | [ハピネス オブ ザ デッド](https://open.spotify.com/track/05IbSlTnKUcZ1vFyG3aUzQ) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ハピネス オブ ザ デッド](https://open.spotify.com/album/2qUA9ZKcJgOmGkWRbnqCsV) | 2:54 |
 | 65 | [鉄の檻](https://open.spotify.com/track/72Ssvonm3MdboS2EVssX5R) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [鉄の檻](https://open.spotify.com/album/5XuQ3aHlkeBIkmyS3mBIEC) | 4:25 |
 | 66 | [WHO ARE ME？](https://open.spotify.com/track/0GNW0n51GebjUm7rNkAheS) | [峯田茉優](https://open.spotify.com/artist/6upQVPtLKJ0PQJRsw9LiRy) | [WHO ARE ME？](https://open.spotify.com/album/0Osc6NIlI0TOSsIE1ncgmq) | 3:00 |
-| 67 | [Magie×Magie](https://open.spotify.com/track/3EZBAhq6Sxgu3QquGJpVlx) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie×Magie](https://open.spotify.com/album/4FLYXuJ7Qn1X5oYvVDaCau) | 4:07 |
+| 67 | [Magie Magie](https://open.spotify.com/track/7MgKJtAKVJ2wSmZ7ixC6Uq) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie Magie](https://open.spotify.com/album/2ajiabtgQpv4Yr4QO8XDc5) | 4:07 |
 | 68 | [Let you know!](https://open.spotify.com/track/2w0mPCDZU5jeJlabMQt0ib) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Let you know!](https://open.spotify.com/album/2sb3UXzY4MzoFYeRX42b86) | 2:36 |
 | 69 | [Gotoubun no Mirai](https://open.spotify.com/track/2TUjc5l9TCPx76wpHDKS4Z) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai](https://open.spotify.com/album/00l4qRX62LwlUm0zSY5sTS) | 3:39 |
 | 70 | [Brand new day](https://open.spotify.com/track/4bpbgfgLzivQp88KLUl7BK) | [sana \(sajou no hana\)](https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY) | [Brand new day](https://open.spotify.com/album/54utDXKQTwJKa5f7BD6lzB) | 3:41 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Chase Me](https://open.spotify.com/track/1nniq3yLXytUSibE2RUE6X) | [ノラ](https://open.spotify.com/artist/0D1NT8IXN0I2wrbVOb1NNj), [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y) | [Chase Me](https://open.spotify.com/album/6XO0I9CHE8BpiFEOmFYkmI) | 2:59 |
 | 85 | [Kakuriyo](https://open.spotify.com/track/5AcpugY3aqM57SLVuTC3If) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Kakuriyo](https://open.spotify.com/album/6G2dCzjkvQTfdS1AtpXCSx) | 3:53 |
 
-Snapshot ID: `MCw0NzI0YTE2NWFjMzZkMzllN2RiOGY3NGY0Y2ExZjhlOGUyMTUwYTVk`
+Snapshot ID: `MCwzNmUxMDgwYWNmMmE3MTU0ZWRiMDg4N2RkMWJiNWRlOWJmYmVjNTlj`

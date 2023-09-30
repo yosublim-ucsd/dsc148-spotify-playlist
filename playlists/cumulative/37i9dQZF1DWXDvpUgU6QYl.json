@@ -198,10 +198,28 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 198508,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
+    },
+    {
+      "album": {
+        "name": "Caught In D Middle",
+        "url": "https://open.spotify.com/album/6eJmPKnUNJY70xyKs9Dyqk"
+      },
+      "artists": [
+        {
+          "name": "Christian Rich",
+          "url": "https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205128,
+      "name": "Caught In D Middle",
+      "url": "https://open.spotify.com/track/1DaSG7w7F7ATHCoEOIi7Vt"
     },
     {
       "album": {
@@ -472,7 +490,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 209317,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/6wmrbBpn1m0idxwGv6q2lf"
@@ -831,6 +849,28 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/76tdnPDtupBVJiQPN67GTp"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        },
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168739,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2flLSFm3o1HbThLXabDoum"
+    },
+    {
+      "album": {
         "name": "Move With Me",
         "url": "https://open.spotify.com/album/5v5gVZILcpnPhyGfeeVPrc"
       },
@@ -907,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/3aqsOlBHvcuDQvNJNuSWwM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183311,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/3Jpf1gn9uR4tbL35HT0yPj"
+    },
+    {
+      "album": {
         "name": "Owner of a Lonely Heart (Luca Olivotto Remix)",
         "url": "https://open.spotify.com/album/5um4ELMhFxPWe3AeJha9Uh"
       },
@@ -948,6 +1006,24 @@
       "duration_ms": 200826,
       "name": "Pleasure Peak",
       "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
+    },
+    {
+      "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/5lKmhqMjIHAWfPxIwTmZ9Z"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181689,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/0l2Ko28SKOhVMk3qc8VLbz"
     },
     {
       "album": {
@@ -1035,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Shall Not Hate",
+        "url": "https://open.spotify.com/album/5WTxu3mR88tIc6nySZfdZG"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280684,
+      "name": "Shall Not Hate",
+      "url": "https://open.spotify.com/track/4STpIZzYNraz6lijKUutiN"
+    },
+    {
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/1778oIDqxkMmObBkq8O6cF"
       },
@@ -1068,7 +1162,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 401860,
       "name": "Shuffle And Swing",
       "url": "https://open.spotify.com/track/52cpPpeVyUYK9OivAqOlgJ"
@@ -1116,7 +1210,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 175833,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
@@ -1178,7 +1272,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 230400,
       "name": "Technicolour Kenny",
       "url": "https://open.spotify.com/track/6CKztDSyFEe7ti6HEGCHng"
@@ -1236,7 +1330,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 135476,
       "name": "Too Late to Say Sorry",
       "url": "https://open.spotify.com/track/2ML4DCDP2d0xg9O6Haatin"
@@ -1262,6 +1356,28 @@
       "duration_ms": 169831,
       "name": "V I B R A T I O N",
       "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"
+    },
+    {
+      "album": {
+        "name": "VenusFlyTrap",
+        "url": "https://open.spotify.com/album/3395FYp8fgsNqZtflinT1j"
+      },
+      "artists": [
+        {
+          "name": "Nobodys Face",
+          "url": "https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl"
+        },
+        {
+          "name": "Kid Simius",
+          "url": "https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140240,
+      "name": "VenusFlyTrap",
+      "url": "https://open.spotify.com/track/4dtvOmrJ67v4JbiT13pOjK"
     },
     {
       "album": {

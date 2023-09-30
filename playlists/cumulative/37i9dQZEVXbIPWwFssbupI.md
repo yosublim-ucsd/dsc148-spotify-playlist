@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,478 songs - 3 day 6 hr 41 min
+1,479 songs - 3 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Angle mort](https://open.spotify.com/track/1s5VDexKohgvhplbdpYKBk) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:09 | 2022-01-29 | 2022-01-31 |
 | [Ani Kuni \- Edit](https://open.spotify.com/track/0Ae5IeIdyaIzp43cdXXtZc) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 2:49 | 2021-07-10 | 2021-10-06 |
 | [Anonymat](https://open.spotify.com/track/4rQo9XZQXP7n9VaXRKQVU7) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 3:43 | 2021-03-27 | 2021-03-29 |
-| [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-09-22 |  |
+| [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-09-22 | 2023-09-30 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-09-12 | 2023-05-04 |
 | [Anthracite](https://open.spotify.com/track/2AoDYFB8sKWZunF2hS6Nxh) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Vingt\-deux](https://open.spotify.com/album/3fmOPx6xuF1RA9yPunOwis) | 2:56 | 2023-01-21 | 2023-01-23 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2022-11-12 |
@@ -290,7 +290,7 @@
 | [Ciao](https://open.spotify.com/track/0ma3NlsPqinnkehSwvXtSd) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:36 | 2023-07-28 | 2023-07-30 |
 | [Ciao](https://open.spotify.com/track/3d7vLNeOXnzdBwUGbqklPE) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:36 | 2023-03-11 | 2023-07-29 |
 | [CIRCUS MAXIMUS](https://open.spotify.com/track/4GL9GMX9t7Qkprvf1YighZ) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:18 | 2023-07-29 | 2023-07-31 |
-| [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 | 2023-09-26 |  |
+| [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 | 2023-09-26 | 2023-09-30 |
 | [Civilisation](https://open.spotify.com/track/12C6Cy0B1fH7k5Ex0DreRS) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 4:05 | 2021-11-21 | 2021-12-05 |
 | [Clap Your Hands](https://open.spotify.com/track/6jcfITWcR5egvbD4fsGayr) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 3:09 | 2022-04-03 | 2023-01-03 |
 | [Clic clic pan pan](https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3) | [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [Pays des merveilles](https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe) | 2:43 | 2022-02-08 | 2023-01-03 |
@@ -869,7 +869,7 @@
 | [Malembé](https://open.spotify.com/track/0dAdLqKqFPmOzkPiTA4V2K) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [OMERTA](https://open.spotify.com/album/6GBLnzPmNPkumYGkHBEzDQ) | 3:14 | 2023-03-11 | 2023-03-19 |
 | [Malpolis](https://open.spotify.com/track/3sgzxVe4NjuezbZ8CiPlLP) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Tombolo](https://open.spotify.com/album/4Vuld8wVr4SATvO8v625Ht) | 3:20 | 2022-09-24 | 2022-10-23 |
 | [Mambella](https://open.spotify.com/track/48xHszgl5GSK5nefCOiFov) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Olupellar](https://open.spotify.com/artist/09wnzgFWuf8oZHJ4BDoeMS) | [Mambella](https://open.spotify.com/album/0qZsbYAhTYHpu5y5sjF46B) | 2:51 | 2023-02-12 | 2023-02-14 |
-| [Mamma Mia](https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 | 2023-07-27 | 2023-09-29 |
+| [Mamma Mia](https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 | 2023-07-27 |  |
 | [Maniac](https://open.spotify.com/track/2PG3D6a0BaldrZB9W0FPuv) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Maniac](https://open.spotify.com/album/1fyjw6K3xbKMNhrqzTEa09) | 2:11 | 2022-07-31 | 2022-08-15 |
 | [Maniac](https://open.spotify.com/track/6rg7j8ig8msX7THtUH7Kxa) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Maniac](https://open.spotify.com/album/1CehVPXtCjLRn4F9hvCJSy) | 2:11 | 2022-05-21 | 2022-07-31 |
 | [Manifeste](https://open.spotify.com/track/0dhZSfQGvCPaJQKlPtjrt2) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 7:22 | 2021-11-21 | 2021-12-04 |
@@ -1426,6 +1426,7 @@
 | [Vivre](https://open.spotify.com/track/5dZ9YFidvSqVK44PfxhJmB) | [47ter](https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi) | [Légende](https://open.spotify.com/album/53gQsnrZHFAXjTZvP5sLg4) | 3:05 | 2021-04-18 | 2021-04-23 |
 | [Voilà](https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Voilà](https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE) | 2:56 | 2021-05-25 | 2021-05-29 |
 | [VOIR LE MONDE BRÛLER](https://open.spotify.com/track/4r0U3YkeJvKNsCRSdCs9lx) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 5:15 | 2021-07-18 | 2021-07-24 |
+| [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-09-29 |  |
 | [Voldemort](https://open.spotify.com/track/7CpI3rs2A4etl7VXghjfWe) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 3:48 | 2023-09-12 | 2023-09-25 |
 | [Vrai / Faux](https://open.spotify.com/track/7c8hPeNvH3bWnQPqaVBIst) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:55 | 2021-11-14 | 2021-11-20 |
 | [Vroum Vroum](https://open.spotify.com/track/6sRPU30pj9A6G1pBXqzQkM) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Vroum Vroum](https://open.spotify.com/album/0cPGWnwGhDm4SAV8h2Ot6l) | 3:06 | 2021-03-27 | 2021-06-13 |

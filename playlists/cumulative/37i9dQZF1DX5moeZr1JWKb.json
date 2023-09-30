@@ -1379,6 +1379,62 @@
     },
     {
       "album": {
+        "name": "Ca\u00f1onazos Bailables Todoenuno",
+        "url": "https://open.spotify.com/album/4WbV2GwiuCHfeelumaF13s"
+      },
+      "artists": [
+        {
+          "name": "ha$lopablito",
+          "url": "https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX"
+        },
+        {
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        },
+        {
+          "name": "Timeless",
+          "url": "https://open.spotify.com/artist/2mdGS5s5gsHF3GPIxonulh"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160987,
+      "name": "Pa' la Pollita",
+      "url": "https://open.spotify.com/track/19pDfu2jX4amfY2IUo4XYp"
+    },
+    {
+      "album": {
+        "name": "Palabra de Honor",
+        "url": "https://open.spotify.com/album/6PXaBc24sYwppirA7vzaBB"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        },
+        {
+          "name": "DeeJohend",
+          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
+        },
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "SpreadLof",
+          "url": "https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217894,
+      "name": "Palabra de Honor",
+      "url": "https://open.spotify.com/track/6YmZBTOhXdBBHySS9RlFo5"
+    },
+    {
+      "album": {
         "name": "Palmar",
         "url": "https://open.spotify.com/album/15c4KC9VuWmPxjokIDPHYY"
       },

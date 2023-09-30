@@ -4,7 +4,7 @@
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-97 songs - 9 hr 37 min
+98 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Liquid Fantasy \- Club Remix](https://open.spotify.com/track/3Lr9Km1gicHy1EjjfY5WUG) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Vicky Who?](https://open.spotify.com/artist/0fj8NKbvzFH5LxS1h7Yr5I) | [Liquid Fantasy](https://open.spotify.com/album/1qkpQWUWtHprhuiVsGDz9p) | 7:42 | 2023-03-27 |  |
 | [Luana \- Olivier Giacomotto Remix](https://open.spotify.com/track/4IEzWRYr5wtbDCYUep3xAQ) | [OIBAF&WALLEN](https://open.spotify.com/artist/1XxjptQCZTsunMdxj8rFvl), [Olivier Giacomotto](https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao) | [Luana](https://open.spotify.com/album/3579IFF1Qkp6EnfFWgxsma) | 6:50 | 2023-03-27 |  |
 | [Mind Escape \- Extended Mix](https://open.spotify.com/track/6YFgRRX47jN0c3VvhOfhS5) | [Hollt](https://open.spotify.com/artist/7G5LXo0b0pFlVzgWNGOngl) | [Philosophy of Time](https://open.spotify.com/album/65Z1ZhNi3gvGMitnw5lI1D) | 7:07 | 2023-03-27 |  |
-| [Mondo \- AFFKT Remix](https://open.spotify.com/track/1He0DGWOadQSqw9nsClg16) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Modeplex](https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU), [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF) | [Mondo EP](https://open.spotify.com/album/1PRy8kSzt2KyGu82mdhzhC) | 6:14 | 2023-03-27 |  |
+| [Mondo \- AFFKT Remix](https://open.spotify.com/track/1He0DGWOadQSqw9nsClg16) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Modeplex](https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU), [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF) | [Mondo EP](https://open.spotify.com/album/1PRy8kSzt2KyGu82mdhzhC) | 6:14 | 2023-03-27 | 2023-09-30 |
+| [Mondo \- AFFKT Remix](https://open.spotify.com/track/2v7ijraLzXCgG9Q5yMZCkL) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Modeplex](https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU), [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF) | [Mondo EP](https://open.spotify.com/album/0KG6VN8hpNvQxvDGKLMRkJ) | 6:14 | 2023-03-27 |  |
 | [nCTRL](https://open.spotify.com/track/5XfojfN07IcOskzRjQgCrT) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [nCTRL](https://open.spotify.com/album/4y97dGnwLXUHyPtSPJPCfz) | 4:10 | 2022-07-23 |  |
 | [Never Alone \(ft\. Dix\_On The Phone\)](https://open.spotify.com/track/3nvbuSK7WPDwpyXNAv5sYO) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [+](https://open.spotify.com/album/611LjdYsQvGXLI0pCOrmZk) | 4:08 | 2023-03-27 |  |
 | [Nordic Soul](https://open.spotify.com/track/64WABdDl1fsSopTdWNw2Yw) | [Florian Kruse](https://open.spotify.com/artist/7GhGgxIAhzJxZXvF1bEYZ8) | [Nordic Soul](https://open.spotify.com/album/5CHqUFlU04h2FNiRYeXV1C) | 4:53 | 2023-03-27 |  |

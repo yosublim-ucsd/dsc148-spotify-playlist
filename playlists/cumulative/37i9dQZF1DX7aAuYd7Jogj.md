@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-335 songs - 16 hr 22 min
+336 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Country Chimes](https://open.spotify.com/track/3htH2dXVeOFB2qfqJBO9Og) | [Coconut Calm](https://open.spotify.com/artist/6CJjcrdMJpp3LxzcpNXjp7) | [Country Chimes](https://open.spotify.com/album/5YOrucAjPM8G2QfG9M1GlG) | 4:21 | 2023-04-06 |  |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2023-04-06 |  |
 | [Cryogenic](https://open.spotify.com/track/72h583lkdV6HhI5PiNkDEU) | [Gyr](https://open.spotify.com/artist/2A1jbcxHxyQkW1uukhPrFQ) | [Cryogenic](https://open.spotify.com/album/0Vs8liFqMTvsbZspKXmZWc) | 2:32 | 2023-04-06 |  |
+| [Curved](https://open.spotify.com/track/2n3Nzq9Mv1CUXzac82tw4M) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Curved](https://open.spotify.com/album/65DVyRqrCUhyHlGExoKBQ0) | 2:17 | 2023-09-29 |  |
 | [Dadivoso](https://open.spotify.com/track/6TQTn4yVTfcKogv4rW2J4m) | [Salina Cardenas](https://open.spotify.com/artist/3UJgE628TwNqsowj6m4m4k) | [Dadivoso](https://open.spotify.com/album/4K2KqYwcfVXTl28zVnWeiN) | 2:09 | 2023-04-06 |  |
 | [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2023-04-06 |  |
 | [Dark Blue](https://open.spotify.com/track/2BTJLOrqvYeLLeEub0IDJx) | [Palace Flower](https://open.spotify.com/artist/1uU27K4D96Hn0ws2lULjHp) | [Dark Blue](https://open.spotify.com/album/4RlbWH1eu5h1ICu4zeA35n) | 2:54 | 2023-04-06 |  |
@@ -112,7 +113,7 @@
 | [Eudaimonia](https://open.spotify.com/track/6KU6lJNEwpHSB8EdI6klNN) | [Gaea Antoniou](https://open.spotify.com/artist/3L8lia6SiogIvkEl2qQ32d) | [Eudaimonia](https://open.spotify.com/album/09qRQwHteDmqgCTEe2HcYl) | 2:57 | 2023-04-06 |  |
 | [Europa](https://open.spotify.com/track/5A3kw1qZP3UQwzfALXmVFd) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Europa](https://open.spotify.com/album/0tvUIHd5KOv2cRnKPkzq5t) | 3:13 | 2023-04-06 |  |
 | [Evanescence](https://open.spotify.com/track/38on97S89ITu9jIB8RFDZz) | [Arlo Leclerc](https://open.spotify.com/artist/3EBKbV8vGkaVfjF21qCb4g) | [Evanescence](https://open.spotify.com/album/11FbErbpuYrm1tnqBj17VH) | 3:07 | 2023-09-08 |  |
-| [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2023-04-06 |  |
+| [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2023-04-06 | 2023-09-30 |
 | [Everything is Different](https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO) | [Nadia Pugh](https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6) | [Everything is Different](https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX) | 3:06 | 2023-04-06 |  |
 | [éternité](https://open.spotify.com/track/1UH0Sxy2Ahx7T8XQ6csGku) | [Eric Ardouin](https://open.spotify.com/artist/6OgJnPHALT6sZtk9En6QHj) | [éternité](https://open.spotify.com/album/4X3h5iylTfBFKTpjpsEWLc) | 3:19 | 2023-04-06 |  |
 | [Fairy Glen](https://open.spotify.com/track/5wqIlPSJHeUZn34gcS7KQR) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Fairy Glen](https://open.spotify.com/album/14uqXEsb5bqZu7dI2yYlQf) | 2:49 | 2023-04-06 |  |

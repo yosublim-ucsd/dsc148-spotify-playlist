@@ -8005,6 +8005,24 @@
     },
     {
       "album": {
+        "name": "Nebbia",
+        "url": "https://open.spotify.com/album/2hHwQHgFG9yUVxsddb1YBH"
+      },
+      "artists": [
+        {
+          "name": "Luca Magliano",
+          "url": "https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Nebbia",
+      "url": "https://open.spotify.com/track/16d6iAPkHT69gtd9dksGuz"
+    },
+    {
+      "album": {
         "name": "Neblina",
         "url": "https://open.spotify.com/album/5MHWq6pCwzDE3niX3dCZ4b"
       },

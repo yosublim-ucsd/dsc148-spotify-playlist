@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,690 likes - 55 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,693 likes - 55 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 48 | [Amagents](https://open.spotify.com/track/5dVd3tBZQhOctXiq2jwrhD) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm) | [Amagents](https://open.spotify.com/album/0rgt2gSlZTttcQTg2xsvGK) | 3:43 |
 | 49 | [Allow](https://open.spotify.com/track/3GO9CVRhEpksVFi3QeplQt) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq) | [Ndim Nawe](https://open.spotify.com/album/57KvERWvmhZrvwEphJVwdw) | 4:38 |
 | 50 | [Siyathandana](https://open.spotify.com/track/1NaxpfTsKPGG3Dpw6Fnv35) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Sweet And Short 2.0](https://open.spotify.com/album/0v3xefa1vgoNtsAnM30FuU) | 6:36 |
-| 51 | [Fool's Love](https://open.spotify.com/track/50SwljHvTm8xmC0z69qHPV) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [BlackRose](https://open.spotify.com/artist/3cJr6Nd7eupCOoGTAsDyMI) | [Fool's Love](https://open.spotify.com/album/23MYXCv95Y6WSOF4D0B906) | 3:21 |
+| 51 | [Fool's Love](https://open.spotify.com/track/5ZcApNg82s5RIpA9l9IuPB) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [BlackRose](https://open.spotify.com/artist/3cJr6Nd7eupCOoGTAsDyMI) | [Interblaktic](https://open.spotify.com/album/3ZrhMXlyekQsEDYQ45QVO8) | 3:21 |
 | 52 | [Just A Mess](https://open.spotify.com/track/24RCh9nhADnz72QwspioB6) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:51 |
 | 53 | [Hey Wena](https://open.spotify.com/track/6xWKqSm5x9j6AnQJvWiak3) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Entity MusiQ](https://open.spotify.com/artist/6EqAIU7pGX8LnmXmAxpO9u), [Alie\-Keys](https://open.spotify.com/artist/3DJ0mAQ0XKTRL1ilhAM38X) | [Danko!](https://open.spotify.com/album/2ki4Bk6f9zxcISNizFW7xa) | 5:44 |
 | 54 | [Ngiphelele](https://open.spotify.com/track/4E5JMQvCv7Bzt3E04hvxY2) | [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3) | [Love and Respect](https://open.spotify.com/album/3tEgPrJtHZJDLvWwd2w8Kc) | 4:23 |
 | 55 | [Love Letter](https://open.spotify.com/track/3dlP7Y2nKQcg3djavKhlrD) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 4:31 |
 
-Snapshot ID: `MCw0NjYzNTEwNmIyMDkxM2JiOTBhZDcyYWFhMzNhZmIwY2M3Yjg4OWZh`
+Snapshot ID: `MCwyNjExOTExNTY1NmJmNWMwMGM1MGQ2MDIxNDIxNGVkMmY0MDE4ODA2`

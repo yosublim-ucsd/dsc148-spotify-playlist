@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: MaRynn Taylor
 
-299 songs - 15 hr 49 min
+303 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Ain't Got A Shot](https://open.spotify.com/track/6a2fq1YWUjR2dDDMl1sIv4) | [Nate Barnes](https://open.spotify.com/artist/2BtTAfI93v4WeSEubKCL6h) | [You Ain't Pretty](https://open.spotify.com/album/1ai40yy9DyrO8YxyI31zm6) | 3:23 | 2021-12-31 | 2022-02-12 |
 | [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 | 2023-06-02 |  |
 | [Alone Some](https://open.spotify.com/track/03lMS8wm9oa3xHCJMQ4KM3) | [Gracee Shriver](https://open.spotify.com/artist/2dn03VbHARxzUqbTrx0Rw1) | [Alone Some](https://open.spotify.com/album/2M7tI07QU18C9RD5JNjya8) | 2:52 | 2022-09-23 |  |
+| [Along For The Ride](https://open.spotify.com/track/5cY2DkoSx8XXiyLJrMzMpc) | [Jordan Harvey](https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW) | [It Is What It Is](https://open.spotify.com/album/6brYqTLZzsYeQsuwYgiT9F) | 2:51 | 2023-09-29 |  |
 | [Already Drank That Beer](https://open.spotify.com/track/04xV6TrdtlxobADx3FHCii) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/5xic0WEeujIOZ022648SlS) | 3:22 | 2021-12-31 |  |
 | [Always](https://open.spotify.com/track/1ubGogM1YgLECPXjMNz8EL) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 2:57 | 2021-12-31 | 2023-01-14 |
 | [Are You Okay?](https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Are You Okay?](https://open.spotify.com/album/4UzlGKEB3pNb8zSLoAtARW) | 3:12 | 2022-02-11 |  |
@@ -50,6 +51,7 @@
 | [Casual](https://open.spotify.com/track/5gDMFKZB0BT42aDJB0AGPI) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Casual](https://open.spotify.com/album/5biFk4V11QxQO2J8Q9kMmr) | 2:43 | 2021-12-31 | 2023-01-14 |
 | [Champagne Problem](https://open.spotify.com/track/7JIzEv4l1UVnEZ6owvjnWf) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Champagne Problem](https://open.spotify.com/album/7h6UDZVbl2zzhcANEe7zB7) | 2:50 | 2021-12-31 | 2022-08-02 |
 | [Changed](https://open.spotify.com/track/59CcTuZW4YDSAok0ZOOTgx) | [Taryn Papa](https://open.spotify.com/artist/6Ej5v1jyKVKWQ9qdBkPMBW) | [Changed](https://open.spotify.com/album/2UrcEgREB1xJGXDNNlJcxv) | 2:48 | 2022-05-13 |  |
+| [Chasin' a Feeling](https://open.spotify.com/track/1P3Ymylx917eE0uTuvPtbD) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [George Birge: Mind On You](https://open.spotify.com/album/4zMwONv2Wd8QXg5keTkrM6) | 3:19 | 2023-09-29 |  |
 | [Chevy](https://open.spotify.com/track/2S1AUpbamlb1XijnpBlOZ9) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [Chevy](https://open.spotify.com/album/4BdRzFSbh6cdV2CuXUMAC2) | 2:48 | 2023-08-18 |  |
 | [Comin' from](https://open.spotify.com/track/2RbFPHlqlkHERW2oWdr6YG) | [Nick Boyd](https://open.spotify.com/artist/5MgzAw2RMY0fJSDTn63Cdj) | [Comin' from](https://open.spotify.com/album/2ZfSo68hUsfGiYxz0pYVf0) | 2:58 | 2022-04-15 |  |
 | [Couldn't Care Less](https://open.spotify.com/track/2wz6AeBog3TfuqQY9NXVII) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Couldn't Care Less](https://open.spotify.com/album/50gHenRfrlNVQ6nSYELygE) | 3:08 | 2022-04-01 | 2022-07-29 |
@@ -97,6 +99,7 @@
 | [Guilty](https://open.spotify.com/track/3oMw1Me5BrUyVdAcjtn0BS) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Guilty](https://open.spotify.com/album/4gAIYOwt94MpkgGTSDwJEi) | 2:44 | 2022-04-22 | 2023-01-14 |
 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 | 2022-03-18 |  |
 | [Had To Be There](https://open.spotify.com/track/6zXVzaFPSe2X5LMkRHeN5x) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Had To Be There](https://open.spotify.com/album/5vY6uG0RmX4F9wHeUDpTRt) | 2:22 | 2022-11-02 |  |
+| [Hands on the Wheel](https://open.spotify.com/track/0wgpdRjaFPJcMDk4k2inkV) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Hands on the Wheel](https://open.spotify.com/album/77RBLFvpxWT32x78lQ0m14) | 3:21 | 2023-09-29 |  |
 | [Hang the Moon](https://open.spotify.com/track/2pQEiFLujXVmbLKhanrXjD) | [The Roads Below](https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI) | [Hang the Moon](https://open.spotify.com/album/7eWr3gZZqEHV7t2SAET5jo) | 2:56 | 2021-12-31 |  |
 | [Hard To Be Like You](https://open.spotify.com/track/2SwN4lQizVGH8xt2PV3Jn7) | [Tim Cote](https://open.spotify.com/artist/691irgH5wVKYSc2NkhFqR4) | [Hard To Be Like You](https://open.spotify.com/album/37ZmUNecp9w66EswqHTSQc) | 3:17 | 2021-12-31 |  |
 | [Hate Me](https://open.spotify.com/track/0B1lajXBzwHLTihUW19xEh) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Hate Me](https://open.spotify.com/album/28aNImQBnhTpzp02HkW9YX) | 2:52 | 2022-01-28 | 2022-07-02 |
@@ -181,6 +184,7 @@
 | [Miss Us Then](https://open.spotify.com/track/3v7t1HDVDKCwa5QB9GUy4I) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Miss Us Then](https://open.spotify.com/album/4NmOlKfPRKxL8Oe1pFKnnw) | 3:13 | 2021-12-31 | 2022-07-02 |
 | [Missing You](https://open.spotify.com/track/3ry2MzHjQaDK2HCJfOI0yj) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [Missing You](https://open.spotify.com/album/18Mp4wIhG0WGXkkmsk7hNs) | 2:43 | 2022-04-01 |  |
 | [Momentum](https://open.spotify.com/track/2Km7p52eJt51AsLoizZsXz) | [Patrick Murphy](https://open.spotify.com/artist/2GV1qOwwdkJFVbDL4u6rlh) | [Momentum](https://open.spotify.com/album/1UVUIMDHj2I0Lt5Mumd6eh) | 3:21 | 2022-05-06 |  |
+| [More or Less](https://open.spotify.com/track/53PCMZmgBA739sanZsNU0x) | [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [More or Less](https://open.spotify.com/album/3twjUH5CABauFgk6YcRC3u) | 3:09 | 2023-09-29 |  |
 | [My Favorite](https://open.spotify.com/track/2IVy3iMsdJpoL93FYaPZZD) | [Stephen Carey](https://open.spotify.com/artist/5R4aCM4MHu9UvbvfDgW6N1) | [My Favorite](https://open.spotify.com/album/7EYrUwCFsD1544kVlGtP0r) | 2:39 | 2022-04-08 |  |
 | [My Future](https://open.spotify.com/track/3BgmOSHUxnpSAcUM1ekBrj) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [My Future](https://open.spotify.com/album/3ar0skKJQsyath9XFqdFDh) | 2:35 | 2023-01-13 |  |
 | [My Mistake](https://open.spotify.com/track/3KKzYn1hHHwdATpAzYWV5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [My Mistake](https://open.spotify.com/album/6Augs9cdAbmK60GzMGx1gc) | 3:41 | 2023-06-02 |  |

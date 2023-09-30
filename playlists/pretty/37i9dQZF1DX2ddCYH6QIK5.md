@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: soffie, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,910 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,920 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 26 | [always](https://open.spotify.com/track/7AU2FTmWCZwnVSnhZW47sd) | [sofd](https://open.spotify.com/artist/0AUT0Zezk0RgjT5dBjsj27) | [always](https://open.spotify.com/album/0MBb9pJQYcJSo2tT1JFGh0) | 2:40 |
 | 27 | [Wertlos](https://open.spotify.com/track/5bXHDGs5dgQjTKuEyt3RvR) | [das blühende leben](https://open.spotify.com/artist/5j2wAhtgYolAMqJK8JzbLK) | [Wertlos](https://open.spotify.com/album/2BrudNVwWtkcRjTs0j4tPX) | 3:48 |
 | 28 | [Save Me](https://open.spotify.com/track/7fVeaVDxRrcnnKB6TLj9uE) | [Skatman](https://open.spotify.com/artist/79K6YRpx6Q5HZJfxxcDq58) | [Save Me EP](https://open.spotify.com/album/4z2kshHJmuO99NZ93leb5t) | 5:42 |
-| 29 | [Night Dive](https://open.spotify.com/track/3HTmeBzVuuIDVipmH1LYUA) | [Pete Gelée](https://open.spotify.com/artist/3hnWBzPHPTCjeWKsMcsFTW) | [Skinny Dipping](https://open.spotify.com/album/3fqCFFaVvL05Dd49oyULrQ) | 3:48 |
+| 29 | [Night Dive](https://open.spotify.com/track/3HTmeBzVuuIDVipmH1LYUA) | [Pete Gelée](https://open.spotify.com/artist/3hnWBzPHPTCjeWKsMcsFTW), [Gelée](https://open.spotify.com/artist/20Aw9gD1C3jArExAqKkTmX) | [Skinny Dipping](https://open.spotify.com/album/3fqCFFaVvL05Dd49oyULrQ) | 3:48 |
 | 30 | [eye to eye](https://open.spotify.com/track/19RHyDJTYWnZq54f3UyCgl) | [may](https://open.spotify.com/artist/0xCMgjZjdbW6hsiCRR05Cn) | [eye to eye](https://open.spotify.com/album/40OD1XXC6HSpcEJyDwZj5G) | 2:15 |
 | 31 | [Trag Mich](https://open.spotify.com/track/75bsJHvS8Rkz9RUty1Pf1F) | [MARA](https://open.spotify.com/artist/67zxtspF6QzJlc2a99yKwB), [VELA](https://open.spotify.com/artist/4UQF8SErsJMBFjJedVPLOw) | [Trag Mich](https://open.spotify.com/album/7r3gpLXB0CDIBVfn44P5UG) | 2:22 |
 | 32 | [Hayashi](https://open.spotify.com/track/2XXztk1aMUV5Oazh24hp9I) | [DOBé](https://open.spotify.com/artist/0eNEnjahhkwmbX24dSaRqX) | [Hayashi](https://open.spotify.com/album/1ES4zaRw2uR1iIoFjTCnGr) | 5:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Dinge](https://open.spotify.com/track/5xHHgnItfPKSoYXEUxALC0) | [WILLMAN](https://open.spotify.com/artist/6i8voyPYg0tgoAtzaez7Dg), [ELAV](https://open.spotify.com/artist/54qCVYlwbZUAxWzLIdSYF4) | [Dinge](https://open.spotify.com/album/7sxQWv8sUZrTQwAaDHHLq9) | 2:44 |
 | 80 | [Lately](https://open.spotify.com/track/3ReVWeeH0a44SLYlfrvJuB) | [Padi](https://open.spotify.com/artist/3BqbpG4GyEmaybhZSclexV) | [Lately](https://open.spotify.com/album/0HcJAYxLG2dUCPZtCwhLt3) | 3:34 |
 
-Snapshot ID: `MCw5Y2Y4MjU5YzJkNjI1N2YyOTY4OWQ0ZTMzNDY0ODAyMzJlZTIyYWYz`
+Snapshot ID: `MCwwYWYzYzYyOGZiMTY2NWZiNGY2MDU5NjBhZmFiNjFkM2Q1YTMxMmZm`

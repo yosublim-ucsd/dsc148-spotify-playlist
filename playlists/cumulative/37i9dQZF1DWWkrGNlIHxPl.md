@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Faouzia
 
-308 songs - 17 hr 5 min
+309 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [ELEPHANT in the room](https://open.spotify.com/track/6ZyM3trBytgnYgRfh2stYu) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [ELEPHANT in the room](https://open.spotify.com/album/3t98yciKCkgEvjLYwtrNPg) | 2:54 | 2023-07-31 | 2023-09-20 |
 | [Enta](https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap \- EP.1](https://open.spotify.com/album/3dQpnLxtGSzIRi7TEA8MzC) | 3:08 | 2022-04-22 | 2023-06-15 |
 | [Everlasting Dance](https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Everlasting Dance](https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1) | 3:23 | 2023-06-07 |  |
-| [EXCUSE U](https://open.spotify.com/track/7mvyMA1kzEdASKIZVIo25t) | [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Tribe of Monsters](https://open.spotify.com/artist/6ZBkSEQim7hD4OpsvDuCh3) | [EXCUSE U](https://open.spotify.com/album/2OjfODnTf5wHLMr8qvzInN) | 2:54 | 2023-09-19 |  |
+| [EXCUSE U](https://open.spotify.com/track/7mvyMA1kzEdASKIZVIo25t) | [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Tribe of Monsters](https://open.spotify.com/artist/6ZBkSEQim7hD4OpsvDuCh3) | [EXCUSE U](https://open.spotify.com/album/2OjfODnTf5wHLMr8qvzInN) | 2:54 | 2023-09-19 | 2023-09-30 |
 | [Exist With You](https://open.spotify.com/track/2Ql5hqShctiwksSLN3XRiM) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Exist With You](https://open.spotify.com/album/3RNA3HxO5AskgF6QxPqqiA) | 2:35 | 2021-12-16 | 2022-11-20 |
 | [Expansion](https://open.spotify.com/track/5RuZXfvGTutkEWZHwcIymn) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Expansion](https://open.spotify.com/album/3aRqOFkZNQPWUz4GbRDXFP) | 2:32 | 2023-04-24 | 2023-05-08 |
 | [Ezzamer](https://open.spotify.com/track/0Y5e2hA9ZliPQetontXakv) | [Dj Shemsy](https://open.spotify.com/artist/1m22LlL6L3XrF61P080BGP) | [Bébé Allaoui mégamix, Vol\. 2](https://open.spotify.com/album/2agS979pL5P5ZC38GV1AsO) | 6:45 | 2022-06-06 | 2022-06-24 |
@@ -211,6 +211,7 @@
 | [Ouine rak tergoud](https://open.spotify.com/track/7r9pAgEZLdFMKcFTWWmybq) | [Cheba Zahouania](https://open.spotify.com/artist/4Wgtd686yIVzteHHXryywZ), [Cheba Djenet](https://open.spotify.com/artist/1ASWRVuWAg6nNhGvaWVKeH) | [Best Of Cheba Zahouania](https://open.spotify.com/album/6ykxFvTrQty19bzBVQ5H6j) | 3:39 | 2022-06-06 | 2022-06-24 |
 | [Outro](https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0) | [Debani](https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R) | [Outro](https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH) | 3:08 | 2023-05-26 |  |
 | [Over](https://open.spotify.com/track/5dl66CllFRkUQbQ6YfuwjA) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Over](https://open.spotify.com/album/2HC2roNcCmTEVSQM43XjCw) | 3:06 | 2021-12-16 | 2021-12-31 |
+| [PAINFUL PARADISE](https://open.spotify.com/track/3PUMFgRmBuKqGDtNKLBPt6) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [PAINFUL PARADISE](https://open.spotify.com/album/54nuF8VIzj6ZoW5yYFHt9M) | 2:55 | 2023-09-29 |  |
 | [Patience](https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3) | 2:50 | 2021-12-16 | 2022-02-23 |
 | [Persian Girl](https://open.spotify.com/track/00F00gtN0N4kqlD7HdIKm8) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [yef](https://open.spotify.com/artist/1O1ZcnRuYrvL3jfODzdPme) | [Persian Girl](https://open.spotify.com/album/0xrvQnt3aGmIBz1AQNPkQ9) | 3:29 | 2022-03-29 | 2023-06-25 |
 | [Pick up](https://open.spotify.com/track/2twgq4n0x2rxkosP5NgOME) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Pick up](https://open.spotify.com/album/4wfgzG3ScHhKvZIJLKPPDr) | 2:03 | 2023-07-31 |  |

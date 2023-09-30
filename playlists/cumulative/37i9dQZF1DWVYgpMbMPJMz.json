@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: <a href=\"spotify:artist:6JaSyvyg28SHC0Of8YE6M9\">Christine D'Clario</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: <a href=\"spotify:artist:4vEpUOtKWtpotWkuv0Vlx4\">Evan Craft</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1354,6 +1354,28 @@
       "duration_ms": 220906,
       "name": "Canyon",
       "url": "https://open.spotify.com/track/0AmKjCIxl7leZzlVbHeAmO"
+    },
+    {
+      "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Ke'Erron",
+          "url": "https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243522,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8"
     },
     {
       "album": {
@@ -4450,7 +4472,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 406500,
       "name": "King Of Glory",
       "url": "https://open.spotify.com/track/6gCVzvEYM5mTuL8xBGoJEu"
@@ -5322,6 +5344,24 @@
       "duration_ms": 192134,
       "name": "Nail Scarred Hands",
       "url": "https://open.spotify.com/track/4lUzMhab7SAAQBOCxyG1qo"
+    },
+    {
+      "album": {
+        "name": "Name Above All Names",
+        "url": "https://open.spotify.com/album/4pl2xLrgY9Zq8ukesuFli8"
+      },
+      "artists": [
+        {
+          "name": "Charity Gayle",
+          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364671,
+      "name": "Name Above All Name - Single Version",
+      "url": "https://open.spotify.com/track/0e3QRktKhq0glX1HT96NI4"
     },
     {
       "album": {
@@ -8858,7 +8898,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 460869,
       "name": "Wide Eyed Wonder",
       "url": "https://open.spotify.com/track/5o6AL8Zr1szCNnwxfaTFck"
@@ -9205,7 +9245,7 @@
     },
     {
       "album": {
-        "name": "Your Love Will Never Change (Live At Mosaic, Los Angeles, 2023)",
+        "name": "Your Love Will Never Change (Live)",
         "url": "https://open.spotify.com/album/1ClXRS95oKTIZU2EuuFk7M"
       },
       "artists": [
@@ -9218,7 +9258,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 304000,
-      "name": "Your Love Will Never Change - Live At Mosaic, Los Angeles, 2023",
+      "name": "Your Love Will Never Change - Live",
       "url": "https://open.spotify.com/track/6jbqxumh7V2O5AoT0Qd0ny"
     }
   ],

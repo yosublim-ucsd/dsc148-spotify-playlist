@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: blink-182",
+  "description": "The UK's biggest rock playlist. Cover: Barns Courtney",
   "name": "The Rock List",
   "tracks": [
     {
@@ -424,6 +424,24 @@
       "duration_ms": 171133,
       "name": "ANIMAL",
       "url": "https://open.spotify.com/track/5dpOtj3sd3nnXEudsgMozs"
+    },
+    {
+      "album": {
+        "name": "Atomic City",
+        "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210842,
+      "name": "Atomic City",
+      "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
     },
     {
       "album": {
@@ -2829,6 +2847,24 @@
     },
     {
       "album": {
+        "name": "It Won't Be Like This Forever",
+        "url": "https://open.spotify.com/album/4iwi5cpXPASmSueTCcLPkc"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207808,
+      "name": "It Won't Be Like This Forever",
+      "url": "https://open.spotify.com/track/748NBl59GV0pfENbadjSxE"
+    },
+    {
+      "album": {
         "name": "I\u2019m a Mess (with YUNGBLUD)",
         "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
       },
@@ -3035,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "Landmines",
+        "url": "https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175767,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9"
+    },
+    {
+      "album": {
         "name": "Leech",
         "url": "https://open.spotify.com/album/3QATHeFuFAimHyxBMeP6Xr"
       },
@@ -3068,6 +3122,24 @@
       "duration_ms": 175116,
       "name": "Left Right Forward",
       "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
+    },
+    {
+      "album": {
+        "name": "Let Me Breathe",
+        "url": "https://open.spotify.com/album/33wpwi9UuI8B1msmn0DxD7"
+      },
+      "artists": [
+        {
+          "name": "The Reytons",
+          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216386,
+      "name": "Let Me Breathe",
+      "url": "https://open.spotify.com/track/3QUjfaK5cdKt3H5oYCRSDI"
     },
     {
       "album": {
@@ -3277,6 +3349,24 @@
     },
     {
       "album": {
+        "name": "Man Of The Hour",
+        "url": "https://open.spotify.com/album/7nFTofjLPNkUkRAqRWM0O5"
+      },
+      "artists": [
+        {
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181377,
+      "name": "Man Of The Hour",
+      "url": "https://open.spotify.com/track/3c6UDCA6oRifiwLJMkTgfh"
+    },
+    {
+      "album": {
         "name": "Matador",
         "url": "https://open.spotify.com/album/5RaY5k4pJCfKRrLGXQmSZ5"
       },
@@ -3382,7 +3472,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 239132,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/4Mszk8p6xU2h6mhVoIp4io"
@@ -5854,6 +5944,24 @@
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "album": {
+        "name": "Young In America",
+        "url": "https://open.spotify.com/album/1ZIQTACUeZjcf9xHHvCpQp"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224913,
+      "name": "Young In America",
+      "url": "https://open.spotify.com/track/0Ef2EJ0YndF0GZMQHsrOvt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT"

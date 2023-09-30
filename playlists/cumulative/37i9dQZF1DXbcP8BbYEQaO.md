@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-586 songs - 1 day 9 hr 4 min
+587 songs - 1 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Ghost](https://open.spotify.com/track/4mUV6ibaOhrkYNxFT0bSuL) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Ghost \- EP](https://open.spotify.com/album/4xRU1l0o51zNmeTPqFuVRB) | 3:04 | 2021-12-31 | 2022-03-12 |
 | [ghostin](https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 4:31 | 2020-10-13\* | 2021-06-19 |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-02-10 |  |
-| [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-04 |  |
+| [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-04 | 2023-09-30 |
 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 | 2021-10-09 | 2022-04-17 |
 | [Giving In To The Love](https://open.spotify.com/track/6pVGigBjIqGgGscGcKGqSi) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Giving In To The Love](https://open.spotify.com/album/5K0nBsDX1pO2OakhRPpsIJ) | 3:01 | 2021-10-16 | 2022-04-17 |
 | [GLAM!](https://open.spotify.com/track/4IazlP0NMBXhS1hF6H7et6) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [GLAM!](https://open.spotify.com/album/3oJkESCEfG0Q1M2xYIK63U) | 3:41 | 2022-01-07 | 2022-04-17 |
@@ -302,6 +302,7 @@
 | [Keeping It In The Dark \- From 13 Reasons Why \- Season 3 Soundtrack](https://open.spotify.com/track/2XtL4VAqehOQulLpf1sFVF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Keeping It In The Dark \(From 13 Reasons Why \- Season 3 Soundtrack\)](https://open.spotify.com/album/34kdsqSo8eVjo29lNLBCRl) | 3:28 | 2020-10-13\* | 2021-12-04 |
 | [Kill The Choreography](https://open.spotify.com/track/5uCPD62VzJld8n1aHnXAvv) | [Satellite Mode](https://open.spotify.com/artist/1cV2hqt2CbxlRCGh0Pvkij) | [Robots vs\. Party Girls](https://open.spotify.com/album/7HuimoHm8u50Be2WZk8mrb) | 3:10 | 2023-09-23 |  |
 | [Kiss \- Edit](https://open.spotify.com/track/6pldLFN4pLfySELWJwhYxA) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Kiss](https://open.spotify.com/album/6RW7rkL2TAKGYO3XbIH6Af) | 3:04 | 2022-08-12 | 2022-09-17 |
+| [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ) | 3:21 | 2023-09-29 |  |
 | [Know Me](https://open.spotify.com/track/2KPBSnz8n5lXYXkLauQXa9) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Know Me](https://open.spotify.com/album/6cDPAUnbS6SSY1T8meA0h1) | 3:46 | 2020-10-13\* | 2021-06-19 |
 | [LA Hallucinations](https://open.spotify.com/track/4MtbYFVMUsmr37KA52ZMN0) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 3:04 | 2022-04-16 |  |
 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2020-10-13\* | 2021-06-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 
 > Time to headbang around the Christmas tree! Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,641 likes - 69 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,656 likes - 69 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 17 | [Heavy Metal Christmas \(The Twelve Days of Christmas\)](https://open.spotify.com/track/59WsYKt9mpTd0c1Z9uLGsw) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [A Twisted Christmas](https://open.spotify.com/album/0NokM2CRbGwVjhS7J1nyAC) | 5:14 |
 | 18 | [All I Want For Christmas Is You](https://open.spotify.com/track/2KpS37udVvcVTP8lkKyYjG) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [All I Want For Christmas Is You](https://open.spotify.com/album/4yYRCfrUG8Ck6nkqOEJDtQ) | 3:27 |
 | 19 | [Santa Claws Is Coming To Town](https://open.spotify.com/track/23L3lZfC8tjIBDZhl0odQ1) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS), [John 5](https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX), [Billy Sheehan](https://open.spotify.com/artist/0GXvIHZC6fUFoclPbf7Lbm), [Vinny Appice](https://open.spotify.com/artist/2yz2Hp6i6oqcHlzSez1P5y) | [We Wish You A Metal XMas...And A Headbanging New Year!](https://open.spotify.com/album/3c2GYOQcticisqVSpKKNRc) | 4:19 |
-| 20 | [Run Rudolph Run](https://open.spotify.com/track/0eL99mrX8qVKgYJU46QHUb) | [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Billy Gibbons](https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD), [Dave Grohl](https://open.spotify.com/artist/7mRVAzlt1fAAR9Cut6Rq8c) | [We Wish You A Metal XMas...And A Headbanging New Year!](https://open.spotify.com/album/3c2GYOQcticisqVSpKKNRc) | 4:00 |
+| 20 | [Run Rudolph Run](https://open.spotify.com/track/0eL99mrX8qVKgYJU46QHUb) | [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw), [Dave Grohl](https://open.spotify.com/artist/7mRVAzlt1fAAR9Cut6Rq8c) | [We Wish You A Metal XMas...And A Headbanging New Year!](https://open.spotify.com/album/3c2GYOQcticisqVSpKKNRc) | 4:00 |
 | 21 | [A Christmas Story](https://open.spotify.com/track/0mxNIGjdC0S3yTQzruTJ43) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [A Christmas Carol \(Extended Version\)](https://open.spotify.com/album/7EP0PL7eSomccxe37OIjoS) | 5:02 |
 | 22 | [Jingle Bells](https://open.spotify.com/track/1zftFFa10Lt1afCWUbL0XN) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Monster Ballads X\-Mas](https://open.spotify.com/album/0wA8kXmYc5DRmcJXYQ49G8) | 3:02 |
 | 23 | [Darkest Carols, Faithful Sing](https://open.spotify.com/track/3wF7umDgSCKVLUWtoMOeab) | [Christopher Lee](https://open.spotify.com/artist/2anYzFDecFa10y1rfZH44b) | [Darkest Carols, Faithful Sing](https://open.spotify.com/album/6b4auQytxYBDMZcYynCL6T) | 3:52 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 68 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3YRXVd1lusaMPCJYav3pRz) | [Paul Di'Anno](https://open.spotify.com/artist/6SKy1FCU5PskoE5Ode2y3Y), [Paul Samson \(Samson\)](https://open.spotify.com/artist/4vbpbFeVJouo8UvJT6jKA3) | [Heavy Metal Christmas](https://open.spotify.com/album/3s5PHvys0oH8inYn8WUEgl) | 3:30 |
 | 69 | [White Christmas](https://open.spotify.com/track/6xUPF0cpNS3lL1Q4c5k9fa) | [Paul Di'Anno](https://open.spotify.com/artist/6SKy1FCU5PskoE5Ode2y3Y), [Lea Hart](https://open.spotify.com/artist/6F7TZJPVHTlpG9jCYKw7h3) | [A Very Metal Xmas](https://open.spotify.com/album/4yIcXXvkfOTl58xvAjBslh) | 4:14 |
 
-Snapshot ID: `MCxjN2Q5NzM4ZDIxZjQ3MDhhYWQ0Zjk5Y2E4MDBhNGI5MmUyMmE0YTE3`
+Snapshot ID: `MCwxNWIzYjQ3MDE5ZTRmYzU5OGU4YTgyODI2MWQzOWRhNTUzZGNkNzdm`

@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Thaikkudam Bridge",
-  "num_followers": 24877,
+  "num_followers": 24928,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDc5NDMzYTlkYTI5YjFjMWVjMzhiNWI5OTY1NGM1OGU1N2E2ODUx",
+  "snapshot_id": "MCxiMzUzYjY4ZmY3ODkyMzc0OTdiNTk1Y2NhMjJiYmNmMDBlZTg1ZTU4",
   "tracks": [
     {
       "added_at": "2023-09-25 11:34:00",
@@ -75,6 +75,22 @@
       "duration_ms": 258000,
       "name": "Giddh",
       "url": "https://open.spotify.com/track/3QSD8pMN4h5W7Q1uXf2llP"
+    },
+    {
+      "added_at": "2023-09-29 11:29:02",
+      "album": {
+        "name": "Gopa Trance",
+        "url": "https://open.spotify.com/album/3nSlJ9VWwpcX66QgFjSZNe"
+      },
+      "artists": [
+        {
+          "name": "Madhuvanthi Narayan",
+          "url": "https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8"
+        }
+      ],
+      "duration_ms": 162853,
+      "name": "Gopa Trance",
+      "url": "https://open.spotify.com/track/2U2YHuFB8kYdmYzOp2FHg5"
     },
     {
       "added_at": "2023-09-20 12:51:42",

@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 233727,
+  "num_followers": 233785,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTM4OTg5NTdmNDNhZGMyMGJkNzgwNDljZjY0OWRkMGVmZWEyYWI3",
+  "snapshot_id": "MCw5NmUxYTEyYTQ0YWYxZmI1MWZlOTUzMGZlNTEyYjJmYzlmMzQ3ODE3",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -359,18 +359,18 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Scream",
-        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
         }
       ],
-      "duration_ms": 358053,
-      "name": "Thriller",
-      "url": "https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq"
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -391,18 +391,18 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
       },
       "artists": [
         {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 239133,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
+      "duration_ms": 358053,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -495,6 +495,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "A.N.T. Farm",
+        "url": "https://open.spotify.com/album/2cVKRV3zYpcaU8Cz8sroUA"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Calling All the Monsters",
+      "url": "https://open.spotify.com/track/0QTUoI90fBFdKkd4h8fsOu"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
@@ -511,18 +527,18 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "A.N.T. Farm",
-        "url": "https://open.spotify.com/album/2cVKRV3zYpcaU8Cz8sroUA"
+        "name": "Somebody\u2019s Watching Me (Sped Up)",
+        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
       },
       "artists": [
         {
-          "name": "China Anne McClain",
-          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
         }
       ],
-      "duration_ms": 206506,
-      "name": "Calling All the Monsters",
-      "url": "https://open.spotify.com/track/0QTUoI90fBFdKkd4h8fsOu"
+      "duration_ms": 238786,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -543,22 +559,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Hey Stoopid",
-        "url": "https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Feed My Frankenstein",
-      "url": "https://open.spotify.com/track/7LDTB4kVmrLCU5TqKjZnzm"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Halloween Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
       },
@@ -575,6 +575,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "Hey Stoopid",
+        "url": "https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Feed My Frankenstein",
+      "url": "https://open.spotify.com/track/7LDTB4kVmrLCU5TqKjZnzm"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "Battlestar Galactica: The A to Z of Fantasy TV",
         "url": "https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 142560,
       "name": "The Addams Family",
       "url": "https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Somebody\u2019s Watching Me (Sped Up)",
-        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
-      },
-      "artists": [
-        {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Somebody's Watching Me - Single Version",
-      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -639,22 +639,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
-        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 313453,
-      "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "The Jack 2 Pack (The Nightmare Before Christmas)",
         "url": "https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 202333,
       "name": "This is Halloween - Pop Version",
       "url": "https://open.spotify.com/track/2KUL1Ix9grxAWvIAft9EWL"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 313453,
+      "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
     },
     {
       "added_at": "2019-10-09 15:02:50",

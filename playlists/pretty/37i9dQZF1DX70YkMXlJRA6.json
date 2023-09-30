@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 46408,
+  "num_followers": 46436,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGU5MTFkYmExNzlkODk5MjgyMDk2YzRhMGVlMThhMDg0NDcyYzA3",
+  "snapshot_id": "MCw3MzY3ZGRkOWZmNjU1OTU2YzhlMGI2ZDRiN2QxZWUwOWJjY2ViNmE5",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -377,6 +377,22 @@
       "url": "https://open.spotify.com/track/1vRVJLRaCKiCdTRcfQmDNG"
     },
     {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Raffolution",
+        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 220306,
+      "name": "Latino & Proud",
+      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
+    },
+    {
       "added_at": "2023-04-14 01:19:32",
       "album": {
         "name": "Espantap\u00e1jaros",
@@ -395,22 +411,6 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Raffolution",
-        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Latino & Proud",
-      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Beach Planet Vol. 1",
-        "url": "https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp"
-      },
-      "artists": [
-        {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Each Time I Think of You",
-      "url": "https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Madremonte",
         "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 204705,
       "name": "Guadalupe",
       "url": "https://open.spotify.com/track/2gokZy0P2QgqIRGMljHJAg"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Beach Planet Vol. 1",
+        "url": "https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp"
+      },
+      "artists": [
+        {
+          "name": "T\u00c2CHES",
+          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Each Time I Think of You",
+      "url": "https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar"
     },
     {
       "added_at": "2023-03-23 21:34:53",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
+      },
+      "artists": [
+        {
+          "name": "Aceros del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Costa Para\u00edso",
+      "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "M\u00e9tele (Cesare Remix)",
         "url": "https://open.spotify.com/album/07fJL4eGqxwSzvmuYjdKT3"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Pulso",
-        "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
+        "name": "Baile Fodongo",
+        "url": "https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE"
       },
       "artists": [
         {
-          "name": "Aceros del Pac\u00edfico",
-          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
+          "name": "Altoparlante",
+          "url": "https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Costa Para\u00edso",
-      "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
+      "duration_ms": 306599,
+      "name": "Baile Fodongo",
+      "url": "https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -595,22 +611,6 @@
       "duration_ms": 230746,
       "name": "Sol Clap",
       "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Baile Fodongo",
-        "url": "https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE"
-      },
-      "artists": [
-        {
-          "name": "Altoparlante",
-          "url": "https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU"
-        }
-      ],
-      "duration_ms": 306599,
-      "name": "Baile Fodongo",
-      "url": "https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX"
     },
     {
       "added_at": "2022-11-12 17:24:45",
@@ -729,26 +729,6 @@
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
     },
     {
-      "added_at": "2022-06-30 17:42:11",
-      "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
-    },
-    {
       "added_at": "2022-06-07 16:47:23",
       "album": {
         "name": "Sierra Madre (Remix)",
@@ -775,6 +755,26 @@
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
+    },
+    {
+      "added_at": "2022-06-30 17:42:11",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
     },
     {
       "added_at": "2022-06-07 16:47:23",

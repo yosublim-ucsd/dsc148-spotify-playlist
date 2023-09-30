@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": " <a href=\"spotify:artist:6iWuBN32BqCJAeXW6o3nil\">Cautious Clay</a> shares his jazz favorites",
-  "name": "Cautious Clay Digs Jazz",
+  "description": " <a href=\"spotify:artist:5lDtfHPqWN6MG9tFywnW8J\">Kiefer</a> shares his jazz favorites",
+  "name": "Kiefer Digs Jazz",
   "tracks": [
     {
       "album": {
@@ -60,6 +60,24 @@
       "duration_ms": 192173,
       "name": "(I Love You) For Sentimental Reasons",
       "url": "https://open.spotify.com/track/1E5YXsJECiRjkX04FYSF2d"
+    },
+    {
+      "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316693,
+      "name": "2 Down & 1 Across",
+      "url": "https://open.spotify.com/track/7tHX5FHFc8XXgKU4uDcQvN"
     },
     {
       "album": {
@@ -204,7 +222,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 418960,
       "name": "Affirmation",
       "url": "https://open.spotify.com/track/0lNaytiCORnMNZTEBQxlPv"
@@ -320,7 +338,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 169351,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/6S3vv8FNXoAaP1HA8pJx3j"
@@ -742,7 +760,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 388200,
       "name": "Black Market",
       "url": "https://open.spotify.com/track/2AsjFgg7ImLpxySqCw0b0L"
@@ -857,6 +875,42 @@
     },
     {
       "album": {
+        "name": "Cool Struttin' (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/38ERGmBgDAsCTb4KNeopsX"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 619733,
+      "name": "Blue Minor - Rudy Van Gelder Edition/1998 Remaster",
+      "url": "https://open.spotify.com/track/4K2wcfSfyNYIJNhoCvVnbP"
+    },
+    {
+      "album": {
+        "name": "Blues For Myself (Piano Solo)",
+        "url": "https://open.spotify.com/album/4YZjyiz1O5rBwiz6c0VVyI"
+      },
+      "artists": [
+        {
+          "name": "Cedar Walton",
+          "url": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234506,
+      "name": "Blues For Myself",
+      "url": "https://open.spotify.com/track/5adplcKfzKt11qY8KvL4Dd"
+    },
+    {
+      "album": {
         "name": "Eastern Sounds",
         "url": "https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f"
       },
@@ -872,6 +926,24 @@
       "duration_ms": 334813,
       "name": "Blues For The Orient - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/5mbUj1YVHxVzEsSqvGMS6T"
+    },
+    {
+      "album": {
+        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360133,
+      "name": "Blues On The Corner",
+      "url": "https://open.spotify.com/track/4dL4C5uezPiXv2l6sout5U"
     },
     {
       "album": {
@@ -908,7 +980,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 186826,
       "name": "Boperation",
       "url": "https://open.spotify.com/track/5XeXu59KGiFTRSfVugX8tA"
@@ -926,7 +998,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 548066,
       "name": "Brazilia (Brasilia)",
       "url": "https://open.spotify.com/track/61cwJTjsCfQ7M8Aa9jcLWJ"
@@ -970,7 +1042,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 285600,
       "name": "Bright Size Life",
       "url": "https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac"
@@ -1237,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Cornbread",
+        "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383400,
+      "name": "Ceora",
+      "url": "https://open.spotify.com/track/5rQTh8OF3mfjgu0NJkSTOk"
+    },
+    {
+      "album": {
         "name": "Resynthesis",
         "url": "https://open.spotify.com/album/0h53lAKeUdvII1H6B4QvbQ"
       },
@@ -1350,6 +1440,42 @@
       "duration_ms": 513960,
       "name": "Cherry Ocean",
       "url": "https://open.spotify.com/track/7uNuYRHVGsxBz5oSGaoM5X"
+    },
+    {
+      "album": {
+        "name": "A World Of Piano!",
+        "url": "https://open.spotify.com/album/4kewvoxXWlmQfBEwsgmpxi"
+      },
+      "artists": [
+        {
+          "name": "Phineas Newborn Jr.",
+          "url": "https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226026,
+      "name": "Cheryl",
+      "url": "https://open.spotify.com/track/1nrHwioVJaWCNbyHNdTimS"
+    },
+    {
+      "album": {
+        "name": "Mosaic (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0ROzOHhkPnjLnHFLJ49Xco"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531546,
+      "name": "Children Of The Night - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1PzZSuQybSmPEj6ikj2YMH"
     },
     {
       "album": {
@@ -1706,10 +1832,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 322946,
       "name": "Cyrenna",
       "url": "https://open.spotify.com/track/435jOhHAGBzs2XzSzBjYfF"
+    },
+    {
+      "album": {
+        "name": "Speak No Evil",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405920,
+      "name": "Dance Cadaverous - Remastered1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/4hKk4FVmLvgwNapTBxc9ao"
     },
     {
       "album": {
@@ -1855,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "Maiden Voyage",
+        "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556133,
+      "name": "Dolphin Dance - Remastered",
+      "url": "https://open.spotify.com/track/1Ku5vu9Crncz8ixeT4Ijxc"
+    },
+    {
+      "album": {
         "name": "Your Christmas Present - Ray Charles & Friends",
         "url": "https://open.spotify.com/album/1owHnAIok626YQVKAlYxHy"
       },
@@ -1927,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "It's Ok, B U",
+        "url": "https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277297,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/7xPmifA66venm9mqO2soY1"
+    },
+    {
+      "album": {
         "name": "Tarika Blue",
         "url": "https://open.spotify.com/album/7HAwI2tHY7ReYr2pjg4eWT"
       },
@@ -1963,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417693,
+      "name": "Driftin' - Remastered",
+      "url": "https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7"
+    },
+    {
+      "album": {
         "name": "Yusef Lateef's Detroit Latitude 42\u00ba 30\u00ba Longitude 83\u00ba",
         "url": "https://open.spotify.com/album/4GHQT6CdLGyaf3VDJZuTur"
       },
@@ -1996,6 +2194,24 @@
       "duration_ms": 430626,
       "name": "Effi - Remastered",
       "url": "https://open.spotify.com/track/0nIeaEyPJIixP1B73MTXpf"
+    },
+    {
+      "album": {
+        "name": "E.S.P. (2022 Remaster)",
+        "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377320,
+      "name": "Eighty-One",
+      "url": "https://open.spotify.com/track/0eyDYZmV5seBW1j9Ga41AR"
     },
     {
       "album": {
@@ -2086,7 +2302,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 269493,
       "name": "Epistrophy - Live At Carnegie Hall, New York /1957/Early Show",
       "url": "https://open.spotify.com/track/5DhAJI6n3mq0dJCbW3UsJF"
@@ -2122,7 +2338,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 147268,
       "name": "Etude",
       "url": "https://open.spotify.com/track/4qIluUXW2uoi0tafnAtQUb"
@@ -2230,7 +2446,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 664933,
       "name": "First Light",
       "url": "https://open.spotify.com/track/3JkgrvbHI6TlskLY4pwEUM"
@@ -2422,6 +2638,24 @@
       "duration_ms": 404533,
       "name": "Fred",
       "url": "https://open.spotify.com/track/3qfLV015NcpofyPCwAn9oJ"
+    },
+    {
+      "album": {
+        "name": "Live At Scullers (Live At Scullers Jazz Club, Boston, MA / October 17-18, 1996)",
+        "url": "https://open.spotify.com/album/4Y3tXWA9rfwR51HtXWjiPV"
+      },
+      "artists": [
+        {
+          "name": "Ray Brown Trio",
+          "url": "https://open.spotify.com/artist/3kcjzDWaSVR3VqgEIBZIdo"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427013,
+      "name": "Freddie Freeloader - Live At Scullers Jazz Club, Boston, MA / October 17-18, 1996",
+      "url": "https://open.spotify.com/track/5q4Qd2JyYwC55BqRcDOjbY"
     },
     {
       "album": {
@@ -2661,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "Criss-Cross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252760,
+      "name": "Hackensack",
+      "url": "https://open.spotify.com/track/0lAlm98HpGCy2Sc4G0UMNm"
+    },
+    {
+      "album": {
         "name": "Illumination!",
         "url": "https://open.spotify.com/album/33Lr5tEByMXO35IEaCZg2X"
       },
@@ -2741,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "We Get Requests",
+        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250853,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/6916T4FnaJvcmGl9PDbbz7"
+    },
+    {
+      "album": {
         "name": "On My Ones",
         "url": "https://open.spotify.com/album/6o73C44oWGeDaCjLvoEKtD"
       },
@@ -2795,6 +3065,24 @@
     },
     {
       "album": {
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225893,
+      "name": "Humoresque - Live",
+      "url": "https://open.spotify.com/track/0v4zFxKc1OdbGG0A4DxOPd"
+    },
+    {
+      "album": {
         "name": "The Mad Hatter",
         "url": "https://open.spotify.com/album/6YJhCssdm3tNhUR6gR1RW6"
       },
@@ -2842,7 +3130,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 420546,
       "name": "I Can't Give You Anything But Love - Live At Smalls' Paradise, Harlem, NYC, 1957 / Remastered 1999 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4hQ9sApKQQj8fi1rzpJdke"
@@ -2957,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "The Complete Columbia Studio Solo Recordings of Thelonious Monk: 1962-1968",
+        "url": "https://open.spotify.com/album/1XRoD5NjmaXWvueB9DWGwx"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352933,
+      "name": "I Love You Sweetheart of All My Dreams (Take 1)",
+      "url": "https://open.spotify.com/track/1MDlgKAKfoVGZ0WiYbtlrE"
+    },
+    {
+      "album": {
         "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/6QTzCV8ST4VAMxFFv5NyMn"
       },
@@ -3004,7 +3310,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 535293,
       "name": "I Thought It Was You",
       "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
@@ -3210,6 +3516,28 @@
       "duration_ms": 222146,
       "name": "I've Never Been In Love Before",
       "url": "https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx"
+    },
+    {
+      "album": {
+        "name": "Live at the Kennedy Center, Vol. 1",
+        "url": "https://open.spotify.com/album/7e2kjPj516qSIwsWEdDuUL"
+      },
+      "artists": [
+        {
+          "name": "Mulgrew Miller",
+          "url": "https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh"
+        },
+        {
+          "name": "Mulgrew Miller Trio",
+          "url": "https://open.spotify.com/artist/0IjjDATh4kt18k38dA68pw"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578346,
+      "name": "If I Should Lose You (Live)",
+      "url": "https://open.spotify.com/track/2RLmbrYJydTfgxA8Wi9KoP"
     },
     {
       "album": {
@@ -3830,7 +4158,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 207226,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/407cjMpkvvF1soh4rKA19N"
@@ -3928,7 +4256,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 174994,
       "name": "Life Is Just A Bowl Of Cherries",
       "url": "https://open.spotify.com/track/29j6Pa2a4hSLznGWbLz3jQ"
@@ -4206,7 +4534,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 728360,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/2Xzj98dVbsafbaGdxXcwmv"
@@ -4250,6 +4578,24 @@
       "duration_ms": 329613,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/0Srs2sPdZTfFvvfLP4DGa0"
+    },
+    {
+      "album": {
+        "name": "Nefertiti (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451093,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/4AhnRSiNKpHLTPJh7n9l3Q"
     },
     {
       "album": {
@@ -4362,6 +4708,24 @@
       "duration_ms": 219306,
       "name": "Masterjam",
       "url": "https://open.spotify.com/track/7bDN2s7iD8vItHzj6sxxah"
+    },
+    {
+      "album": {
+        "name": "Now He Sings, Now He Sobs",
+        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388160,
+      "name": "Matrix",
+      "url": "https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID"
     },
     {
       "album": {
@@ -4509,6 +4873,24 @@
     },
     {
       "album": {
+        "name": "Monk's Dream",
+        "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385466,
+      "name": "Monk's Dream - Take 8",
+      "url": "https://open.spotify.com/track/0488kXJ1YnLMrrM1ssJnev"
+    },
+    {
+      "album": {
         "name": "Montara",
         "url": "https://open.spotify.com/album/01GsxvwlAXZineSgxQXWR1"
       },
@@ -4556,7 +4938,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 262026,
       "name": "Moonlight Serenade",
       "url": "https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc"
@@ -4675,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Come by Here",
+        "url": "https://open.spotify.com/album/0BKiicVZVzX1aNaY7eCIoP"
+      },
+      "artists": [
+        {
+          "name": "Barry Harris",
+          "url": "https://open.spotify.com/artist/5IgSjABjN0VorY1Vo41ivX"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395000,
+      "name": "My Heart Stood Still",
+      "url": "https://open.spotify.com/track/7JbZeJ9TAfX9Jp5WAeSKkM"
+    },
+    {
+      "album": {
         "name": "Sunday At The Village Vanguard [Keepnews Collection]",
         "url": "https://open.spotify.com/album/3uwufR7PwniMX7t3v4I5oB"
       },
@@ -4708,6 +5108,24 @@
       "duration_ms": 180933,
       "name": "My Old Flame",
       "url": "https://open.spotify.com/track/2UGJnn5AfQwUVH40hEUlPP"
+    },
+    {
+      "album": {
+        "name": "Spirit Of The Moment: Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/47r5Lw8ubeqjTBY9ivqWfm"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman Quartet",
+          "url": "https://open.spotify.com/artist/53HPdlKWDIGFF4GvVrCtEV"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 661826,
+      "name": "My One and Only Love - Live",
+      "url": "https://open.spotify.com/track/2LXg3AeoS79qKDIaKMrCTH"
     },
     {
       "album": {
@@ -5195,6 +5613,24 @@
     },
     {
       "album": {
+        "name": "Miles Davis - In Person Friday And Saturday Nights At The Blackhawk, Complete",
+        "url": "https://open.spotify.com/album/5PQYdCNagyzTfZeAn6MLXn"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416266,
+      "name": "Oleo - Live at the Black Hawk, San Francisco, CA - April 21, 1961",
+      "url": "https://open.spotify.com/track/2BHdKsA6ogaCGsU28Dr7QA"
+    },
+    {
+      "album": {
         "name": "Bright Size Life",
         "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
       },
@@ -5236,7 +5672,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 367773,
       "name": "On the Trail",
       "url": "https://open.spotify.com/track/5MKKKVSZZalOWxwTfIDxkO"
@@ -5458,7 +5894,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 161173,
       "name": "Passing Strangers",
       "url": "https://open.spotify.com/track/0DzrKs3NUQtGDQQ2Bs7ocb"
@@ -5498,6 +5934,24 @@
       "duration_ms": 141733,
       "name": "Pennies From Heaven",
       "url": "https://open.spotify.com/track/57Ix0bAnWd48YhEAp9y20K"
+    },
+    {
+      "album": {
+        "name": "Free For All (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1iYuqmkhvfNCTpo94ZjVuY"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502533,
+      "name": "Pensativa - Rudy Van Gelder Edition / 2004 Remaster",
+      "url": "https://open.spotify.com/track/5DGTmpn0z4qlqEq2ZBd8XH"
     },
     {
       "album": {
@@ -6158,6 +6612,42 @@
       "duration_ms": 206506,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
+    },
+    {
+      "album": {
+        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392000,
+      "name": "Search For Peace",
+      "url": "https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz"
+    },
+    {
+      "album": {
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187866,
+      "name": "Self-Portrait in Three Colors",
+      "url": "https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z"
     },
     {
       "album": {
@@ -6932,7 +7422,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 278626,
       "name": "Strasbourg / St. Denis",
       "url": "https://open.spotify.com/track/62VWmsNoDmqT0Mj9oHHFVh"
@@ -7273,6 +7763,24 @@
     },
     {
       "album": {
+        "name": "Criss-Cross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Tea for Two",
+      "url": "https://open.spotify.com/track/3SSDhknexqI9YrrLj3sof6"
+    },
+    {
+      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
       },
@@ -7324,6 +7832,24 @@
       "duration_ms": 183893,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/2d64G7VaZdHQuAquz5HQNu"
+    },
+    {
+      "album": {
+        "name": "That's My Kick (Octave Remastered Series)",
+        "url": "https://open.spotify.com/album/4pKIjIDSlgSelaUKcTlIiN"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171040,
+      "name": "That\u2019s My Kick - Remastered 2020",
+      "url": "https://open.spotify.com/track/2Fj1mdaM5Ol9wD0MQ5vHnn"
     },
     {
       "album": {
@@ -7522,7 +8048,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 427733,
       "name": "The Mighty Sword",
       "url": "https://open.spotify.com/track/2R97WwEzx7uk7kTFCe4qTG"
@@ -7616,7 +8142,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 137066,
       "name": "The Shadow Of Your Smile",
       "url": "https://open.spotify.com/track/6AgBWG1JdFFWPfFe8qHY1w"
@@ -7706,7 +8232,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 343600,
       "name": "Theme From Mr. Broadway",
       "url": "https://open.spotify.com/track/2HFdLKXIT03e3GZABHw7K3"
@@ -7800,6 +8326,24 @@
       "duration_ms": 209770,
       "name": "This Guy's in Love with You",
       "url": "https://open.spotify.com/track/788KvoTFdb2KIKsRnuNlQ4"
+    },
+    {
+      "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385866,
+      "name": "This I Dig Of You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5f0n6K8hW2RIVXuZjxO0bu"
     },
     {
       "album": {
@@ -8533,6 +9077,24 @@
     },
     {
       "album": {
+        "name": "Speak No Evil",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491493,
+      "name": "Witch Hunt - Remastered 1998 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6fw1b1bCVNY5EVurncxIss"
+    },
+    {
+      "album": {
         "name": "Equilibrium",
         "url": "https://open.spotify.com/album/0jdPF0XNaprry2aipeMyGD"
       },
@@ -8592,7 +9154,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 315561,
       "name": "Yesterday's Price",
       "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
@@ -8686,7 +9248,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 152026,
       "name": "You Turned The Tables On Me",
       "url": "https://open.spotify.com/track/5qYWyw9tJjbNqrHjaC3PtP"
@@ -8740,7 +9302,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 207933,
       "name": "\u00c1guia n\u00e3o come mosca",
       "url": "https://open.spotify.com/track/1tvZSoGpCh7zklf0UNI7JL"

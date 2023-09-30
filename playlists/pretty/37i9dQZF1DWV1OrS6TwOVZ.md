@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1OrS6TwOVZ.md) - [plain]
 
 > The musically talented <a href="">Folamour</a> shares a feel good, groovy mix that will surely lift your spirits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,786 likes - 14 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,813 likes - 14 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1OrS6TwOVZ.md) - [plain]
 | 13 | [So Strange \- 12" Version \- Mixed](https://open.spotify.com/track/3bQqqluQikAyrw2tbSte4y) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [So Strange \- 12" Version \(Mixed\)](https://open.spotify.com/album/4jhz4lUgvpsE2ejg9wewqq) | 5:23 |
 | 14 | [My People \- Dam Swindle Club Mix \- Mixed](https://open.spotify.com/track/3YoGm2xigPwS5xgMDvRAHe) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [My People \- Dam Swindle Club Mix \(Mixed\)](https://open.spotify.com/album/0ZoO5VjfEmSEYPgMop9RaJ) | 4:49 |
 
-Snapshot ID: `MCw1ZmEyMGIzMWM2M2M3MzY5YmIxNGI2ZDk2ZWYyMTc4NTczOGYwZTQ4`
+Snapshot ID: `MCxkMjY1Yzg3ZTBkOWU5NDJjY2Q3ZGQyNmEyZWFjNTA1MmVmZGRlN2U4`

@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-245 songs - 16 hr 21 min
+247 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Better Days](https://open.spotify.com/track/2fbWhSnQsDn5Xd1yNg2aDy) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Memory Device](https://open.spotify.com/album/6ahDe3JvaSf0ztWjc5rT5E) | 5:07 | 2023-03-22 |  |
 | [Better Days](https://open.spotify.com/track/2mxORKTmKsYB2cRvEaX4go) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Memory Device](https://open.spotify.com/album/5BniwoarFJxQBNbfUglezI) | 5:07 | 2022-01-27 | 2023-04-30 |
 | [Better Days](https://open.spotify.com/track/34GmVBFlBL83wEsAy97AP9) | [Baba Ali](https://open.spotify.com/artist/48US3n5ecZ1TS4RjzsdWrm) | [Memory Device](https://open.spotify.com/album/2NpIoEd9xx6GvJPSQKFQ0Z) | 5:07 | 2021-11-01 | 2022-07-29 |
-| [Birth](https://open.spotify.com/track/0McTGe6ZnZuPdj4Nhufesa) | [Runah](https://open.spotify.com/artist/1t7LGsCYaXFaDW6GiAuaNI) | [H\. B\. M\. T.](https://open.spotify.com/album/68LwK6oD8UHl2el001VB9X) | 4:08 | 2021-11-01 |  |
+| [Birth](https://open.spotify.com/track/0McTGe6ZnZuPdj4Nhufesa) | [Runah](https://open.spotify.com/artist/1t7LGsCYaXFaDW6GiAuaNI) | [H\. B\. M\. T.](https://open.spotify.com/album/68LwK6oD8UHl2el001VB9X) | 4:08 | 2021-11-01 | 2023-09-30 |
 | [Black and Blue](https://open.spotify.com/track/2kYyZ8ieDbFgSqgVSQ06kY) | [Ramsey](https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8) | [Ramsey](https://open.spotify.com/album/62zvqJzG1V3VFViiVl7R4D) | 3:56 | 2022-10-23 | 2022-11-01 |
 | [Blue](https://open.spotify.com/track/0x9PaR4PUbcOfdzQAPZtlR) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/5vqX6dLfL5513FnnpCXTNY) | 3:17 | 2021-11-01 | 2022-07-29 |
 | [Blue](https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6) | 3:18 | 2022-09-25 |  |
@@ -80,6 +80,7 @@
 | [Fazer Folk \(Teeth Version\)](https://open.spotify.com/track/4MxUhgxYz3LMgvfOhhHZZZ) | [Teeth Agency](https://open.spotify.com/artist/3R2C23kElKLZaxLN2kxlhd) | [Fazer Folk / Many People](https://open.spotify.com/album/05RfJp5i4X3eMEhqS3jXt3) | 4:00 | 2021-11-01 | 2022-07-29 |
 | [Feed the Flowers Nightmares](https://open.spotify.com/track/4lyjNOz9dY0ON1y7ZBdU0P) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Feed the Flowers Nightmares](https://open.spotify.com/album/528sbcF31aHnHxnvOf4r1w) | 4:16 | 2022-09-13 |  |
 | [Fester](https://open.spotify.com/track/5zJ2umLMvMqKhtxDqCwMxY) | [Gravedweller](https://open.spotify.com/artist/3TB2BAG8xnarUNFNGLG4RX) | [Gravedweller](https://open.spotify.com/album/4jKTbEe9CxBrWU38GZEinZ) | 3:05 | 2022-10-23 | 2022-11-01 |
+| [Fire Leap](https://open.spotify.com/track/5WbLDvtHGLuqsVVWIJrP7U) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ), [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [Fire Leap](https://open.spotify.com/album/648ChSAlKMM1uPUvWjvpKr) | 2:51 | 2023-09-29 |  |
 | [flashlight](https://open.spotify.com/track/7IDRXVRJDWg2Y1gUz11VS6) | [spookyghostboy](https://open.spotify.com/artist/3pHAJqPZhCGNoFShXcqD9k) | [flashlight](https://open.spotify.com/album/0d0sW4cetIRnwF4yACl9mu) | 3:05 | 2021-11-01 | 2022-09-15 |
 | [Flood](https://open.spotify.com/track/2rdHpC57kfwsxuQKfaEjjQ) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 2:57 | 2021-11-01 | 2023-04-29 |
 | [Flood](https://open.spotify.com/track/49WW6BCMjCCYt6V6UEhy4H) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 2:57 | 2023-03-22 |  |
@@ -200,7 +201,7 @@
 | [Spit It Out](https://open.spotify.com/track/44la56EZdE2fw9r963o5E2) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spit It Out](https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS) | 3:07 | 2021-11-01 |  |
 | [Station Wagon](https://open.spotify.com/track/1mqy0PZ49CimyTAW3I4eaN) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 6:39 | 2022-01-27 | 2022-09-15 |
 | [Station Wagon](https://open.spotify.com/track/2cvBpyqeKbRCbomGBfa9PQ) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink](https://open.spotify.com/album/7hl54HF6Nykh5IDrbqhiJX) | 6:39 | 2021-11-01 | 2022-07-29 |
-| [Strange Dance](https://open.spotify.com/track/3frH5rQAE1DnmKgGLno48o) | [Philip Selway](https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH) | [Strange Dance](https://open.spotify.com/album/4OREG2d9U3Belo7kYhWTl1) | 5:57 | 2023-07-05 |  |
+| [Strange Dance](https://open.spotify.com/track/3frH5rQAE1DnmKgGLno48o) | [Philip Selway](https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH) | [Strange Dance](https://open.spotify.com/album/4OREG2d9U3Belo7kYhWTl1) | 5:57 | 2023-07-05 | 2023-09-30 |
 | [Strange Time](https://open.spotify.com/track/0GGScFe4IjFm6i3nGcn6t5) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Singer\-Songwriters Today](https://open.spotify.com/album/5vm2jvcTwVDX62T6vUOao8) | 3:20 | 2022-11-01 | 2022-11-14 |
 | [Strange Time](https://open.spotify.com/track/271xOXIZAV1Oc2cZJ5Tnoi) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Bad Contestant](https://open.spotify.com/album/6TQBSDaY7mVEjwK3QxQUfA) | 3:20 | 2021-11-01 | 2022-07-29 |
 | [Strange Time](https://open.spotify.com/track/4eCXQY1vh9XMW66LmS5alP) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Bad Contestant](https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M) | 3:20 | 2022-01-27 |  |
@@ -248,6 +249,7 @@
 | [Way Past Three](https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Way Past Three](https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z) | 2:42 | 2023-03-22 |  |
 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 | 2021-11-01 |  |
 | [What Would I Do?](https://open.spotify.com/track/5EJA7Rwkeuvm98CZg0XXNO) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [What Would I Do?](https://open.spotify.com/album/5UMCUhNtZ5bkz0Giv0SppV) | 3:54 | 2022-09-13 |  |
+| [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 | 2023-09-29 |  |
 | [Witch Slap \(IOU\)](https://open.spotify.com/track/7LFxhbIwEO84r0QlrlN7wq) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Witch Slap \(IOU\)](https://open.spotify.com/album/5bty0rYDoqIxGohu3ifmuA) | 2:15 | 2021-11-01 | 2022-10-16 |
 | [XO](https://open.spotify.com/track/6DmUJDEOlwjehIaOawoTUf) | [Gartex](https://open.spotify.com/artist/2NRoExsFusov5R2frdt1TV) | [XO](https://open.spotify.com/album/2yivLArG7CWlqV3AgnjAet) | 4:40 | 2022-10-23 | 2022-11-01 |
 | [You Never Came](https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 5:35 | 2022-10-23 | 2022-11-01 |

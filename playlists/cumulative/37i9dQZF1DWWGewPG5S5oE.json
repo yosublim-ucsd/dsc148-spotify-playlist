@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "m_unit: Beyond Orbits",
+        "url": "https://open.spotify.com/album/1vEFCTIEfv5oueGhxYfq7u"
+      },
+      "artists": [
+        {
+          "name": "Miho Hazama",
+          "url": "https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359706,
+      "name": "Can't Hide Love",
+      "url": "https://open.spotify.com/track/4EGnoNlgvp9qtg4SsGszEN"
+    },
+    {
+      "album": {
         "name": "Beyond Orbits",
         "url": "https://open.spotify.com/album/3W0Me7Gsn13sSJft44KHBI"
       },
@@ -560,7 +578,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 359706,
       "name": "Can\u2019t Hide Love",
       "url": "https://open.spotify.com/track/3say48b5YjOGpHkrHyIfap"
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 300560,
       "name": "Red Ocean",
       "url": "https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk"
@@ -3890,7 +3908,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 256360,
       "name": "\u4e59\u5973\u306e\u7948\u308a",
       "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"

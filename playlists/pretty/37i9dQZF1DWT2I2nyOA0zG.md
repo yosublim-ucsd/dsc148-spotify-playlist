@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,744 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,747 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 4 | [My Size](https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:45 |
 | 5 | [Chasing Peace Of Mind \(with Habib Koité & Ami Faku\)](https://open.spotify.com/track/2BEs69LTsDpBqKLialzhOe) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Habib Koité](https://open.spotify.com/artist/2laFwNRffMM18LvKKDxCs9), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 3:27 |
 | 6 | [Injabulo](https://open.spotify.com/track/6yqUbRQXmeCtpBBookikSB) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Injabulo](https://open.spotify.com/album/2dL3uqWC31vpb9RwvMSJD1) | 5:07 |
-| 7 | [Yimpi Lena](https://open.spotify.com/track/1GNEGb0wifyx2ohbjbBOyU) | [Gaba Cannal](https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo), [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Kwa Ntliziyo Ngise](https://open.spotify.com/album/47gLMWlhmz42dBBAnJ6PfN) | 8:48 |
-| 8 | [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 |
+| 7 | [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 |
+| 8 | [Down](https://open.spotify.com/track/5PcO9uuhPX9PcdPC0SMDmz) | [Zinah](https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw), [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1) | [Tulipa](https://open.spotify.com/album/68I937NYViFxtNEAZyc6b9) | 3:11 |
 | 9 | [Badimo \(feat\. DJ Maphorisa & Boohle\)](https://open.spotify.com/track/5LRdE3vW5Pb4zPXKOHZOa1) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Badimo \(feat\. DJ Maphorisa & Boohle\)](https://open.spotify.com/album/16T88ND5mXBOVElDNieKZq) | 4:14 |
 | 10 | [Low Waist](https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Low Waist](https://open.spotify.com/album/48xKnLRBNSajT7mcP4zdTb) | 3:01 |
 | 11 | [Alone](https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:41 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 69 | [One Of A Kind](https://open.spotify.com/track/1GYffAby5VxcjjIp7j0ea7) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [One Of A Kind](https://open.spotify.com/album/58SSPXzU66q7GdFqUPxCaU) | 2:56 |
 | 70 | [Pheelz Like Summer](https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:50 |
 
-Snapshot ID: `MCwxMGNhNjkwYTYwMTA4MmExOWRiZGFhYzQzYjEyNjhiMzM1YmM1YjU0`
+Snapshot ID: `MCw0ZmM2ODhjNmY3NjVkMzdlY2E1ZDI4YTYyZDAyMTA1YzBlNThkNWY5`

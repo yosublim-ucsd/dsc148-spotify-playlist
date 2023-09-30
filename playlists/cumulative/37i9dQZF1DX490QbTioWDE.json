@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Como En D1sn3y",
+        "url": "https://open.spotify.com/album/5hekGRUAhHGCTWo02HXtER"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185397,
+      "name": "Como En D1sn3y",
+      "url": "https://open.spotify.com/track/5C2N1ExeWwRD7w5PKkoT9M"
+    },
+    {
+      "album": {
         "name": "Como La Primera Vez",
         "url": "https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd"
       },
@@ -1895,6 +1913,28 @@
     },
     {
       "album": {
+        "name": "Esto Se Acab\u00f3",
+        "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        },
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199651,
+      "name": "Esto se Acab\u00f3",
+      "url": "https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf"
+    },
+    {
+      "album": {
         "name": "Ex de Verdad",
         "url": "https://open.spotify.com/album/3KHctnefJp6w3hfYQetKoB"
       },
@@ -2434,7 +2474,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 134058,
       "name": "La Bachata - En Vivo",
       "url": "https://open.spotify.com/track/2BTlIPUB2qpfkR8UIulnaa"
@@ -3292,7 +3332,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 192483,
       "name": "Me Duele Tu Nombre (En Vivo)",
       "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
@@ -3564,6 +3604,24 @@
       "duration_ms": 184189,
       "name": "Mi Celosa Hermosa",
       "url": "https://open.spotify.com/track/6E788WFodIv2X1pkudERSO"
+    },
+    {
+      "album": {
+        "name": "Mi Ex Tenia Razon",
+        "url": "https://open.spotify.com/album/4qWGNyciPnijpcnfbW44wc"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191850,
+      "name": "Mi Ex Tenia Razon",
+      "url": "https://open.spotify.com/track/04G51FtYTnXq1FPYTDnYjL"
     },
     {
       "album": {
@@ -4738,7 +4796,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 236890,
       "name": "Por Amarte",
       "url": "https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM"

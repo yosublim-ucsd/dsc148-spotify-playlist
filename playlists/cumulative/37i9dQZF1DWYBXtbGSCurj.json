@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Ecologyk, Jotap\u00ea, Yunk Vino, Only ",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Dudu, Ryu, the Runner",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 258045,
       "name": "AMEX",
       "url": "https://open.spotify.com/track/6VsKSN2EaMiAHGGtepvkaH"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 107055,
       "name": "CALA-BOCA, TRABALHO",
       "url": "https://open.spotify.com/track/3owg1lzgvzaaDnLgs2vs08"
@@ -4390,7 +4390,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 131039,
       "name": "Conga La Conga",
       "url": "https://open.spotify.com/track/6H3oPXa5AtznVvrc3i56Gj"
@@ -6556,7 +6556,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 199846,
       "name": "Ela \u00e9 Rica",
       "url": "https://open.spotify.com/track/4GNdIl4x1p4TQU1Q81f7Wq"
@@ -6908,6 +6908,24 @@
       "duration_ms": 136062,
       "name": "Essa \u00e9 a vida de um Gangsta",
       "url": "https://open.spotify.com/track/5aYz0Njm6KiGLosbEFCzlS"
+    },
+    {
+      "album": {
+        "name": "(EX) POSTO",
+        "url": "https://open.spotify.com/album/5YlxSyxPJBFQeJelrmwCVd"
+      },
+      "artists": [
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136170,
+      "name": "Ess\u00eancia",
+      "url": "https://open.spotify.com/track/7kMLrkCb77shJnF31Lu2nz"
     },
     {
       "album": {
@@ -7918,6 +7936,40 @@
       "duration_ms": 162711,
       "name": "Filha da Primeira Dama",
       "url": "https://open.spotify.com/track/1ys92qqJhLRgD3jaTPCfs2"
+    },
+    {
+      "album": {
+        "name": "Filho da trag\u00e9dia",
+        "url": "https://open.spotify.com/album/19enVphprn8hU8t33Ue9Wu"
+      },
+      "artists": [
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Distrito 23",
+          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Filho da trag\u00e9dia",
+      "url": "https://open.spotify.com/track/46J7cemrvq6WnKtu03lK3N"
     },
     {
       "album": {
@@ -9670,7 +9722,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 182916,
       "name": "Inevit\u00e1vel",
       "url": "https://open.spotify.com/track/5neAtwliol6KyyU2qbvYl1"
@@ -10862,6 +10914,32 @@
       "duration_ms": 271384,
       "name": "Lip Tint",
       "url": "https://open.spotify.com/track/7waYsXxo3ckAAaLbnxtmjq"
+    },
+    {
+      "album": {
+        "name": "Lista De Contato",
+        "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122826,
+      "name": "Lista De Contato",
+      "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
     },
     {
       "album": {
@@ -13735,6 +13813,40 @@
     },
     {
       "album": {
+        "name": "Nem To No Meu Pico",
+        "url": "https://open.spotify.com/album/6kaKN0ghsVJQFktLcrJSeZ"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Luskin",
+          "url": "https://open.spotify.com/artist/37b8Vb9pAoBPgvNWkri90g"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132985,
+      "name": "Nem To No Meu Pico",
+      "url": "https://open.spotify.com/track/44XmDr75zfMHczLu6K7V3F"
+    },
+    {
+      "album": {
         "name": "Nesse Instante (feat. Vulgo FK & Caio Passos)",
         "url": "https://open.spotify.com/album/1Y9mcwjrp9ejCPONQAZIg1"
       },
@@ -14363,6 +14475,32 @@
     },
     {
       "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209013,
+      "name": "N\u00e3o Me Para",
+      "url": "https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ"
+    },
+    {
+      "album": {
         "name": "N\u00c3O POSSO DEIXAR / NEG\u00d3CIOS",
         "url": "https://open.spotify.com/album/3F0E5cnyqbr6PwfZIQX2JK"
       },
@@ -14562,7 +14700,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 270038,
       "name": "N\u00f3s Mant\u00e9m",
       "url": "https://open.spotify.com/track/7EIlIYU4BRx8tZT7IF2NGy"
@@ -15726,6 +15864,32 @@
       "duration_ms": 167500,
       "name": "Pelo Momento",
       "url": "https://open.spotify.com/track/3VGfEHmAaSm8qSTFs74Xq0"
+    },
+    {
+      "album": {
+        "name": "Pensamento",
+        "url": "https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Pensamento",
+      "url": "https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z"
     },
     {
       "album": {
@@ -16908,6 +17072,32 @@
       "duration_ms": 120000,
       "name": "Princesa do Morro",
       "url": "https://open.spotify.com/track/3p9yAHLinHSBrqCdmA55l2"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Ike Avila",
+          "url": "https://open.spotify.com/artist/5lhE76UOmRgymO8trdoYCH"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/4mzvw0V6YE2OkbXZmIXnh6"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186514,
+      "name": "Processo",
+      "url": "https://open.spotify.com/track/0LKvEb3dAuhIrlY2oMRVVg"
     },
     {
       "album": {
@@ -18926,7 +19116,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 158514,
       "name": "Sem Chuteira",
       "url": "https://open.spotify.com/track/3gBgbGacAGNhyWACuITJqW"
@@ -19037,6 +19227,32 @@
     },
     {
       "album": {
+        "name": "Sem Paci\u00eancia",
+        "url": "https://open.spotify.com/album/1KG02ileJtzBTTh4Um87No"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117013,
+      "name": "Sem Paci\u00eancia",
+      "url": "https://open.spotify.com/track/3YUVRprnVfl4qSpx682ZhU"
+    },
+    {
+      "album": {
         "name": "Sem Saber",
         "url": "https://open.spotify.com/album/7uUfRYWccTpD0y69BnjW6I"
       },
@@ -19082,7 +19298,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 186240,
       "name": "Sempre Em Chamas",
       "url": "https://open.spotify.com/track/74sMkHh3EhqstTGXn8CEy4"
@@ -19362,6 +19578,32 @@
       "duration_ms": 173346,
       "name": "Shinigami",
       "url": "https://open.spotify.com/track/67F9pN19ZExJW3jrAlhZon"
+    },
+    {
+      "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206869,
+      "name": "Show Lotado",
+      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
     },
     {
       "album": {
@@ -19698,7 +19940,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 204488,
       "name": "SPIKE LEE",
       "url": "https://open.spotify.com/track/0PiyUsdP12jF2N1gj0KBsg"
@@ -20006,7 +20248,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 111205,
       "name": "SW5G",
       "url": "https://open.spotify.com/track/1VtBmXGtsliU5UUzRe4lWN"
@@ -21597,6 +21839,32 @@
     },
     {
       "album": {
+        "name": "Vazio",
+        "url": "https://open.spotify.com/album/6hqRJVALLMkR8cXKnuN41P"
+      },
+      "artists": [
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "Distrito 23",
+          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154545,
+      "name": "Vazio",
+      "url": "https://open.spotify.com/track/5HdRBh4XKNrtDBCP1rWCn5"
+    },
+    {
+      "album": {
         "name": "Vegano",
         "url": "https://open.spotify.com/album/3vU8uUnBiNOtE8Bhn6invy"
       },
@@ -21634,7 +21902,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 169600,
       "name": "Vem Jogar O Popo Pra Mim",
       "url": "https://open.spotify.com/track/4JnFYQqZaKw3wQikPQHmVJ"
@@ -22456,6 +22724,28 @@
       "duration_ms": 144374,
       "name": "Vulgo Malvad\u00e3o",
       "url": "https://open.spotify.com/track/0bq6BwMFuwpaLxEZ9iZtf9"
+    },
+    {
+      "album": {
+        "name": "V\u00edcio Il\u00edcito!",
+        "url": "https://open.spotify.com/album/2k7N7TTh4n5axt24pCVnaG"
+      },
+      "artists": [
+        {
+          "name": "Jayp",
+          "url": "https://open.spotify.com/artist/4B89qqZfta5V4f2tV0JS7O"
+        },
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115443,
+      "name": "V\u00edcio Il\u00edcito!",
+      "url": "https://open.spotify.com/track/5jN9rnW0jnBGonNRmrY23o"
     },
     {
       "album": {

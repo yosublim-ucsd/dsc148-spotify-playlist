@@ -2,9 +2,9 @@
 
 ### [Mariachi 2023](https://open.spotify.com/playlist/37i9dQZF1DX7VikJCuOpfO)
 
-> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Camila Fernández
+> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Paola Jara, Chiquis,
 
-362 songs - 19 hr 38 min
+363 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [El Pobre](https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [El Pobre](https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo) | 3:05 | 2023-09-08 |  |
 | [El Privilegio de Amar](https://open.spotify.com/track/05lhZ4XA7TVvRvgK7MSQKp) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Privilegio de Amar](https://open.spotify.com/album/6uAUmc8sBlagwyjSYAM58I) | 3:35 | 2022-05-13 | 2022-06-01 |
 | [El privilegio de amar \- En vivo](https://open.spotify.com/track/50AcR2LB8UPRJ6hGQHcnH2) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Sinfónico Desde el Palacio de Bellas Artes \(En Vivo\)](https://open.spotify.com/album/2SyOyd1McFv5i3m58pU1iD) | 4:11 | 2022-06-01 | 2023-01-07 |
-| [El Tenampa](https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [El Tenampa](https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A) | 2:14 | 2023-05-26 |  |
+| [El Tenampa](https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [El Tenampa](https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A) | 2:14 | 2023-05-26 | 2023-09-30 |
 | [El Tiempo No Perdona](https://open.spotify.com/track/17bv7TKu1N7HpI4WYBa8kK) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Tiempo No Perdona](https://open.spotify.com/album/4vHQZxQgHgNEhvbomvfxHH) | 4:03 | 2022-05-13 | 2022-06-01 |
 | [El Valor de una Mujer](https://open.spotify.com/track/74CFOSkfQnjR0QccdBw0TZ) | [Rommy Gonzalez](https://open.spotify.com/artist/6ogSFJSKH6pf8TAJRCkx4y) | [El Valor de una Mujer](https://open.spotify.com/album/1937ADKD00itlrHLVrS5aL) | 4:18 | 2023-01-20 | 2023-05-27 |
 | [Ella Qué Te Dio](https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:48 | 2022-05-13 |  |
@@ -109,7 +109,7 @@
 | [En Mis Zapatos](https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Pa' Olvidar](https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0) | 2:45 | 2023-09-08 |  |
 | [En Peligro De Extinción](https://open.spotify.com/track/1j1YHcWT5YhbfLVPEwfggi) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [En Peligro De Extinción](https://open.spotify.com/album/1ifTocK3NJ1jLmocxrWDbk) | 3:45 | 2023-05-19 | 2023-08-07 |
 | [En Realidad](https://open.spotify.com/track/2m7I1EX7ogZVHFow6Q1jeC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:25 | 2023-01-06 |  |
-| [En Tu Sonrisa](https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [En Tu Sonrisa](https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F) | 3:01 | 2022-07-01 | 2023-09-19 |
+| [En Tu Sonrisa](https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [En Tu Sonrisa](https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F) | 3:01 | 2022-07-01 |  |
 | [Engañémoslo \- Versión Banda](https://open.spotify.com/track/61JVUiCjANQnXHE9eY3aaT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Engañémoslo](https://open.spotify.com/album/3WEmQxo46sFb48DUXk8nli) | 3:19 | 2022-05-13 | 2022-06-01 |
 | [Entiende Que Ya](https://open.spotify.com/track/6LaHhcm92gEEO2CYxUJ340) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Entiende Que Ya](https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ) | 2:47 | 2022-05-13 | 2022-06-01 |
 | [Eran De Azucar Sus Labios](https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Eran De Azucar Sus Labios](https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P) | 3:07 | 2023-05-19 |  |
@@ -159,9 +159,10 @@
 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 | 2023-01-06 |  |
 | [Lamentablemente](https://open.spotify.com/track/1s76QNibNLVKAxUg1KIXgr) | [Xavier Zazueta](https://open.spotify.com/artist/503bpBBwBb5ZFTwWnSYsDE) | [Lamentablemente](https://open.spotify.com/album/7J6VNwvGoPyZW0DnSnbrOl) | 3:22 | 2022-06-01 | 2023-01-07 |
 | [Las Locuras Mías](https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Las Locuras Mías](https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P) | 3:45 | 2023-01-06 |  |
-| [Las Rejas No Matan](https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Las Rejas No Matan](https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9) | 2:58 | 2023-01-06 |  |
+| [Las Rejas No Matan](https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Las Rejas No Matan](https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9) | 2:58 | 2023-01-06 | 2023-09-30 |
 | [Limón Con Sal](https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 2:54 | 2022-06-01 | 2023-05-27 |
 | [Lo Estoy Pagando](https://open.spotify.com/track/76PiO53LB0HlJZWJ8Gk6p5) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS) | [Lo Estoy Pagando](https://open.spotify.com/album/1Wjvnceb4dwl7cYyUi5Jly) | 3:57 | 2022-05-13 | 2022-06-01 |
+| [Lo Que No Sirve, Estorba](https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Lo Que No Sirve, Estorba](https://open.spotify.com/album/0I9nIeCH2dJVy8gEthtJ2t) | 2:36 | 2023-09-29 |  |
 | [Lo Que Te Amo](https://open.spotify.com/track/1tIQkndspTBVViTgxE3TXO) | [Patricio Valdez](https://open.spotify.com/artist/1pbATczMMPRMFSWYfF2PG5) | [Lo Que Te Amo](https://open.spotify.com/album/4TcikkRafylojwKtZ1nHXh) | 3:45 | 2023-07-22 | 2023-08-18 |
 | [Lo Siento Mucho \- Versión Mariachi](https://open.spotify.com/track/1KWN7OGF1KqyLjD9EuWY6z) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Lo Siento Mucho \(Versión Mariachi\)](https://open.spotify.com/album/53NlCXfNNhgP7F0LS2Z7yT) | 3:18 | 2022-05-13 | 2022-06-01 |
 | [Los Mandados](https://open.spotify.com/track/31JZmPlv1H0npDMY4G5r9b) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Los Mandados](https://open.spotify.com/album/7uNCs64FQWq2ZsWA2PjJPK) | 2:43 | 2022-06-01 | 2023-01-07 |

@@ -1,12 +1,12 @@
 {
   "description": "For all the new African Gospel Releases this week. Cover:   <a href=\"https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=yj0Rw4oPTMC94Vmys0xD5g\">Benjamin Dube</a> ",
-  "num_followers": 12071,
+  "num_followers": 12091,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjUwMGU2NzdiZjE1Y2MzMTQ5NmRjNjkzN2Q2ZTdmNDM4N2I1OWNl",
+  "snapshot_id": "MCw4MDc1MmE5MDM1MzM1YTA5MWMwOTU3OGU5MzA2YzRmYzM0YTExYmRk",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -35,6 +35,22 @@
       "duration_ms": 195428,
       "name": "Daily - Remix",
       "url": "https://open.spotify.com/track/3dtD6RxBNau20iIsowaKVu"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Legendary in His Presence (Live)",
+        "url": "https://open.spotify.com/album/2P7NaOnVBSjHgmrbAFUM4G"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        }
+      ],
+      "duration_ms": 136125,
+      "name": "I Need Thee (Live)",
+      "url": "https://open.spotify.com/track/0k72g6s6faEERwGTSENvB2"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -175,6 +191,22 @@
       "duration_ms": 253877,
       "name": "Joy, Peace and Happiness",
       "url": "https://open.spotify.com/track/7M7f0aEGP5JLB6Se7JBoE7"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Legendary in His Presence (Live)",
+        "url": "https://open.spotify.com/album/2P7NaOnVBSjHgmrbAFUM4G"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        }
+      ],
+      "duration_ms": 188874,
+      "name": "In Your Presence (Live)",
+      "url": "https://open.spotify.com/track/0oME27XBLQPt1LA9SbSg7z"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -871,7 +903,7 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "JustOneVerse Series, Vol. 1: Grace",
+        "name": "Grace (JustOneVerse Series, Vol. 1)",
         "url": "https://open.spotify.com/album/28R34u91HoGcyqQ4aWsOBI"
       },
       "artists": [
@@ -881,7 +913,7 @@
         }
       ],
       "duration_ms": 159791,
-      "name": "JustOneVerse Series, Vol. 1: Grace",
+      "name": "Grace (JustOneVerse Series, Vol. 1)",
       "url": "https://open.spotify.com/track/20ESHWKVqYj0ZCFuAEXp4s"
     },
     {
@@ -1892,8 +1924,8 @@
       },
       "artists": [
         {
-          "name": "Temple Nation",
-          "url": "https://open.spotify.com/artist/0h5cFvKShFUTbZnmhPvQCM"
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
         },
         {
           "name": "Ceedee",

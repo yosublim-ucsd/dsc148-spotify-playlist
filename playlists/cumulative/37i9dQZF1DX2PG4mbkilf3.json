@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/5EkUPC1lK59jm0O0y1jswQ"
+      },
+      "artists": [
+        {
+          "name": "Liyah Katana",
+          "url": "https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/6lRRwsfmMLBUPiGLYTtWBb"
+    },
+    {
+      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/7ih9bEz6nXigYmVNddVtio"
       },
@@ -1027,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "B.I.T.S",
+        "url": "https://open.spotify.com/album/4mzk2FikzbYaxjsAqdfK8D"
+      },
+      "artists": [
+        {
+          "name": "GOODBADUGLY",
+          "url": "https://open.spotify.com/artist/1lhpezG9iqq6YgLFcKlIA9"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201130,
+      "name": "B.I.T.S",
+      "url": "https://open.spotify.com/track/5uEvNZqN8zMkVh1uVum6OM"
+    },
+    {
+      "album": {
         "name": "B.O.T.B.",
         "url": "https://open.spotify.com/album/0pUJmYE4ea0TElFKq2ocBv"
       },
@@ -1208,7 +1244,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 195750,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/5QYQYOCUsaI9rBUmsZLtU1"
@@ -2156,7 +2192,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
@@ -2418,7 +2454,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 201131,
       "name": "Country Gyal",
       "url": "https://open.spotify.com/track/5TVL1BMpJeXiDxm74LWVBb"
@@ -2462,7 +2498,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 160863,
       "name": "crave you",
       "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
@@ -3608,7 +3644,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 185321,
       "name": "Eden",
       "url": "https://open.spotify.com/track/3Hn1KmWMe6toEkcPs1FiPi"
@@ -5634,7 +5670,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 399153,
       "name": "Hours In Silence",
       "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
@@ -6688,7 +6724,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 148000,
       "name": "Kissin' My Tattoos",
       "url": "https://open.spotify.com/track/09xQ2YpARX6KfVKKbiDaoY"
@@ -7220,7 +7256,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 165310,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/2CxwqktUwLHo0XtgMaI9Qc"
@@ -7416,7 +7452,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 218140,
       "name": "Losing Faith",
       "url": "https://open.spotify.com/track/1vrkqfiCKoO6B6yLV3UO6M"
@@ -7640,7 +7676,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 152796,
       "name": "Make You Feel Good",
       "url": "https://open.spotify.com/track/54TjeeLsIqTNrv5nMq4MzL"
@@ -8012,6 +8048,24 @@
       "duration_ms": 190384,
       "name": "Mine (feat. Boslen)",
       "url": "https://open.spotify.com/track/5HvaoqWuK3TkkqOx9U94zv"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/3Xq8VGN9DjmjfoTfC7GYbJ"
+      },
+      "artists": [
+        {
+          "name": "Yoko Gold",
+          "url": "https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169373,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3tRqKrFc94pUhbN1MCxpYR"
     },
     {
       "album": {
@@ -9661,6 +9715,24 @@
     },
     {
       "album": {
+        "name": "EZ PZ LEMON SQUEEZY",
+        "url": "https://open.spotify.com/album/40ZLE1pRA0n7UyKXOcfaR7"
+      },
+      "artists": [
+        {
+          "name": "Serenade",
+          "url": "https://open.spotify.com/artist/3pXkGyRhsDavFHyVL9pmoY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104571,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/065zr1QkpUaqW734zFZtdQ"
+    },
+    {
+      "album": {
         "name": "Overtime",
         "url": "https://open.spotify.com/album/4kbdDJg0PiM9hoD8Y2uBw5"
       },
@@ -9948,7 +10020,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 183160,
       "name": "Pick Up I'm Alone",
       "url": "https://open.spotify.com/track/3UgQpa28K9OwBZOpKmm1fp"
@@ -11186,7 +11258,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 220908,
       "name": "Senseless - XEmix",
       "url": "https://open.spotify.com/track/01LwmDDekwCUHtcpPMHTvx"
@@ -12093,6 +12165,24 @@
     },
     {
       "album": {
+        "name": "Sovereignty",
+        "url": "https://open.spotify.com/album/6FoJ8tjtSh3IdDinPS7ie0"
+      },
+      "artists": [
+        {
+          "name": "Aiza",
+          "url": "https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Sovereignty",
+      "url": "https://open.spotify.com/track/0VamvzBKHLbzIPVsNx1MPg"
+    },
+    {
+      "album": {
         "name": "Space and Time",
         "url": "https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n"
       },
@@ -12826,6 +12916,24 @@
       "duration_ms": 231770,
       "name": "TAKE ME AS I AM",
       "url": "https://open.spotify.com/track/02zXxImHvdQdhmZ3kxUno9"
+    },
+    {
+      "album": {
+        "name": "Taking Control",
+        "url": "https://open.spotify.com/album/31zEM8HglrCkirKLaxmkkz"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "Taking Control",
+      "url": "https://open.spotify.com/track/2nuzUJCQ5iWY80FsyUJtk6"
     },
     {
       "album": {
@@ -13854,6 +13962,28 @@
       "duration_ms": 182736,
       "name": "Trust You Now",
       "url": "https://open.spotify.com/track/1oVNPc9Cw5eFfjQLt8ezTt"
+    },
+    {
+      "album": {
+        "name": "Two Seater",
+        "url": "https://open.spotify.com/album/6WjixDtKcOv7IMp1E9YfH6"
+      },
+      "artists": [
+        {
+          "name": "DJ Agile",
+          "url": "https://open.spotify.com/artist/3ypWgymPzuSt8QT4Tg09Ed"
+        },
+        {
+          "name": "August Rigo",
+          "url": "https://open.spotify.com/artist/0j4KkLX4P2OPMJfXcatbQ3"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187632,
+      "name": "Two Seater",
+      "url": "https://open.spotify.com/track/7lmRIUh9wpC8Orglf8nkY2"
     },
     {
       "album": {

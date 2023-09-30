@@ -3904,7 +3904,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 172000,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/1S4HPRUxROzKH5fVenmN9t"
@@ -5474,7 +5474,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 141365,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4gLxqqLYKew729IbVXjqsv"
@@ -5936,7 +5936,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 205094,
       "name": "let's run away",
       "url": "https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0"
@@ -8183,6 +8183,24 @@
     },
     {
       "album": {
+        "name": "NEW DNA",
+        "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "PUPPET SHOW",
+      "url": "https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp"
+    },
+    {
+      "album": {
         "name": "Puzzle",
         "url": "https://open.spotify.com/album/5M036X9ie02v6htGvb6aJN"
       },
@@ -8822,6 +8840,24 @@
       "duration_ms": 197500,
       "name": "SEEING PINK",
       "url": "https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0"
+    },
+    {
+      "album": {
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/0aSwQqVt9gMkOufw49oqPj"
+      },
+      "artists": [
+        {
+          "name": "Ashley Mehta",
+          "url": "https://open.spotify.com/artist/0SkdOD7lcoBZaLOh2dsMsA"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120270,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/53z145u67lEQFSSEZRTHy7"
     },
     {
       "album": {
@@ -11290,7 +11326,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 124861,
       "name": "What if I jump from a Bridge?",
       "url": "https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc"
@@ -11865,6 +11901,24 @@
     },
     {
       "album": {
+        "name": "YUM.ME",
+        "url": "https://open.spotify.com/album/4QmEoPynJ9tjQBjh0jdiSj"
+      },
+      "artists": [
+        {
+          "name": "Mndsgn",
+          "url": "https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79584,
+      "name": "YUM.ME",
+      "url": "https://open.spotify.com/track/5CaIpjSJ49hQxQqC7IG04H"
+    },
+    {
+      "album": {
         "name": "ZOOM",
         "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
       },
@@ -11916,6 +11970,24 @@
       "duration_ms": 244046,
       "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
       "url": "https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
+        "url": "https://open.spotify.com/album/25hqQlN9L9482Arrj3PmgD"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168944,
+      "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
+      "url": "https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY"
     },
     {
       "album": {

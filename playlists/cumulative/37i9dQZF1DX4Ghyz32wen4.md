@@ -2,9 +2,9 @@
 
 ### [sentimiento.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
 
-> Una selección de temas de amor y desamor, con mucho feeling\. María Becerra en portada.
+> Una selección de temas de amor y desamor, con mucho feeling\. Feid en portada.
 
-131 songs - 7 hr 2 min
+132 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Cómo Te Olvido?](https://open.spotify.com/track/1QcbxA9ILapCLgnFNxs3RE) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Cactus](https://open.spotify.com/album/5VUIu125IKTjmC02C0MlDq) | 3:08 | 2022-04-25 | 2023-02-16 |
 | [Cómo Te Olvido?](https://open.spotify.com/track/4JIjw2i0NpRcHAY4BDww64) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Cactus](https://open.spotify.com/album/7zuDQkt1hiK1zWOqdZR3yN) | 3:08 | 2022-07-23 |  |
 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 | 2023-02-08 | 2023-07-22 |
-| [De Nuevo](https://open.spotify.com/track/3oFu4gyDBi52uPzTJsAvSf) | [Dany Doll](https://open.spotify.com/artist/4Bxo29WRyYvpL6ZLUL6FvY), [Hemphil Otra Nota](https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9), [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW) | [De Nuevo](https://open.spotify.com/album/0QrTQAtARKKb7viQ5G32IY) | 3:39 | 2023-05-19 |  |
+| [De Nuevo](https://open.spotify.com/track/3oFu4gyDBi52uPzTJsAvSf) | [Dany Doll](https://open.spotify.com/artist/4Bxo29WRyYvpL6ZLUL6FvY), [Hemphil Otra Nota](https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9), [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW) | [De Nuevo](https://open.spotify.com/album/0QrTQAtARKKb7viQ5G32IY) | 3:39 | 2023-05-19 | 2023-09-30 |
 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 | 2022-04-25 |  |
 | [Dormir Contigo](https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Dormir Contigo](https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8) | 3:24 | 2022-04-25 |  |
 | [Dosis](https://open.spotify.com/track/10SVwgvHl2LN6H6ij5lloD) | [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y), [KarloH](https://open.spotify.com/artist/0QOlyFDAVDrZbnfS9zUQNk) | [Dosis](https://open.spotify.com/album/0FCRnLWbqtfOqoy6NE83vM) | 2:47 | 2023-06-30 |  |
@@ -105,6 +105,7 @@
 | [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 | 2023-05-05 | 2023-07-22 |
 | [Para Qué Regresas](https://open.spotify.com/track/29R2zvgyIWqAerVBq1JWsl) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Para Qué Regresas](https://open.spotify.com/album/6NBM3RbIBcoezqh5A4hev8) | 2:28 | 2022-04-25 |  |
 | [PARA SIEMPRE](https://open.spotify.com/track/0xvaM53zDst3zcIpcNc37M) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [PARA SIEMPRE](https://open.spotify.com/album/10c4dLSQaTsSkmXLNBZGuK) | 3:28 | 2023-09-04 |  |
+| [PRIVILEGIOS](https://open.spotify.com/track/2zonJr6k1OKs41TctoNU8Q) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 3:05 | 2023-09-29 |  |
 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 | 2022-04-25 | 2023-09-09 |
 | [Pulsiones](https://open.spotify.com/track/41WKZIuNkbyPRy0gj7XpNg) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Pulsiones](https://open.spotify.com/album/0rLIHu6IvHDXzUYZ3GlU4I) | 2:57 | 2022-04-25 |  |
 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 | 2022-04-25 |  |

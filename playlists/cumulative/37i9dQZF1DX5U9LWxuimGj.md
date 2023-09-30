@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Angie K
 
-133 songs - 7 hr 19 min
+135 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [El Trabajador](https://open.spotify.com/track/4HMN1CLGPYKs1tRda7U7iC) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY), [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b) | [Beyond These Walls](https://open.spotify.com/album/2KQOp4bGm40HvQIcxQbrCp) | 3:11 | 2021-12-10 |  |
 | [Friend](https://open.spotify.com/track/0ae7hcCowMnsMAreiJq9AT) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Sun Up to Sundown](https://open.spotify.com/album/57FPKfJyjp3hXukgNjFsym) | 3:06 | 2022-04-08 |  |
 | [Friends in Low Places](https://open.spotify.com/track/2xAexQlBRpLrHsTk7hvdPk) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Robert Ray](https://open.spotify.com/artist/2gCYmuikCF3r1WCLfqo8Hb), [Clay Hollis](https://open.spotify.com/artist/6TgIvoihzya5Cf6b5Eq5I1), [Jerry DeLeon & Southbound](https://open.spotify.com/artist/0BhWkzHglAanDkZISPU6QQ) | [Friends in Low Places](https://open.spotify.com/album/2xsdKICcsa8pXbUByoP3tv) | 2:57 | 2021-12-10 |  |
+| [Getaway](https://open.spotify.com/track/4WXOMShFoM0V05dDSC5dkR) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Getaway](https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p) | 3:27 | 2023-09-29 |  |
 | [Girls Like Me](https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Girls Like Me](https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv) | 2:51 | 2022-06-10 | 2023-07-23 |
 | [Girls Like Me](https://open.spotify.com/track/5SD4XZ2UEuynMl0F0Nml1y) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 2:51 | 2023-07-14 |  |
 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 | 2023-05-05 |  |
@@ -82,6 +83,7 @@
 | [Lighters](https://open.spotify.com/track/3LzYPwXiaFbqR205cqMvUY) | [Angel Edwards](https://open.spotify.com/artist/5aTxliDWUENg3Gv9UeAkPu) | [Lighters](https://open.spotify.com/album/1Vld8ReQcvI45bkoQxL1cu) | 3:25 | 2021-12-10 |  |
 | [Little Obsessed](https://open.spotify.com/track/2ZtgCMvuLICClTCq5UogMu) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Little Obsessed](https://open.spotify.com/album/2lG5vFafefPqL3g8UNNTVi) | 3:50 | 2021-12-10 | 2023-04-22 |
 | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/track/6pNeLrBdPEkUG3f1jbrMG9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/album/6UheMHszVb1bG2O5AB7lkI) | 3:09 | 2021-12-10 |  |
+| [Love Like This \- En Vivo](https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche Live Sessions \(En Vivo\)](https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz) | 3:38 | 2023-09-29 |  |
 | [Luz Prendida](https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luz Prendida](https://open.spotify.com/album/3ai6kChzcTOxYvail4UJ1C) | 2:53 | 2023-07-28 |  |
 | [Made For This](https://open.spotify.com/track/62rjdkhu3J2U0QNJ6F7wQh) | [Hayley Orrantia](https://open.spotify.com/artist/6Ba7gb6RPgcbbWCQY7N8Dx) | [Made For This](https://open.spotify.com/album/4MpYNH0tUSt3eQoYAwvFmi) | 3:55 | 2021-12-10 | 2023-04-22 |
 | [Made Me Cry](https://open.spotify.com/track/4BHiDQEOsguauSBmNyQZPv) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Made Me Cry](https://open.spotify.com/album/5X1C3UxSZamJ2Kc6iMILq4) | 3:24 | 2022-02-11 |  |

@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-482 songs - 1 day 6 hr 16 min
+484 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [A Line](https://open.spotify.com/track/73gS8oIeBx85oEDce2Mkgg) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Everything Is Dangerous But Nothing's Surprising](https://open.spotify.com/album/02isuorLo6tPExAe4qGVAD) | 3:10 | 2022-05-26 | 2022-06-10 |
 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-06-22 |  |
 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2022-05-06 |  |
-| [Addicted to Romance](https://open.spotify.com/track/3Mjr9GT1iobk4qK8tg1wzH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [She Came to Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7LlDxqhvGPlyGeDzUBC86Q) | 3:05 | 2023-09-28 |  |
+| [Addicted to Romance](https://open.spotify.com/track/3Mjr9GT1iobk4qK8tg1wzH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [She Came to Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7LlDxqhvGPlyGeDzUBC86Q) | 3:05 | 2023-09-28 | 2023-09-30 |
+| [Addicted to Romance \- from the film 'She Came to Me'](https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj) | [Addicted to Romance \(from the film 'She Came to Me'\)](https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd) | 3:05 | 2023-09-28 |  |
 | [ADHD](https://open.spotify.com/track/3ZqJEsAtQrrVVkWAOaqkRt) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form](https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL) | 2:45 | 2022-10-06 | 2023-02-17 |
 | [ADHD](https://open.spotify.com/track/5tGVX0JhfjZc08cRK8Q6Dk) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form](https://open.spotify.com/album/7o6ZqDkitrak5YhaFGpcKV) | 2:45 | 2022-05-12 | 2022-10-14 |
 | [ADHD](https://open.spotify.com/track/6kaxIqJSqJzDXa8d29jnKf) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form \(Deluxe\)](https://open.spotify.com/album/6DlsrwDnj9S9YvLWgdFeNz) | 2:45 | 2022-10-27 | 2022-11-13 |
@@ -184,7 +185,8 @@
 | [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-23 | 2023-04-14 |
 | [Her](https://open.spotify.com/track/3GGC9T0BpAQVuFxhdKd58W) | [Too Tired](https://open.spotify.com/artist/72Io2PZQgqVbYdkzPByKCT) | [Her](https://open.spotify.com/album/2X7ThRYFzSoTvhYyImTEiP) | 4:48 | 2023-09-22 |  |
 | [Hey You](https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Hey You](https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM) | 4:28 | 2022-07-14 | 2022-10-07 |
-| [HiDE and SEEK](https://open.spotify.com/track/2b1DGuCTkavcf22pnv7J1X) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [HiDE and SEEK](https://open.spotify.com/album/5e4gJZl8oBksBmBmLvM7b3) | 3:37 | 2023-08-10 |  |
+| [HiDE and SEEK](https://open.spotify.com/track/2b1DGuCTkavcf22pnv7J1X) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [HiDE and SEEK](https://open.spotify.com/album/5e4gJZl8oBksBmBmLvM7b3) | 3:37 | 2023-08-10 | 2023-09-30 |
+| [HiDE and SEEK](https://open.spotify.com/track/2tyBPxSlHbkZLi1P3b2WLA) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:37 | 2023-09-28 |  |
 | [High Enough](https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr) | 3:51 | 2022-05-06 | 2022-07-06 |
 | [High Time](https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [High Time](https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn) | 3:54 | 2022-11-24 | 2023-05-26 |
 | [Hive Mind](https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:15 | 2022-09-29 | 2022-12-16 |

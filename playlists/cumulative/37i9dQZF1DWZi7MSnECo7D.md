@@ -2,9 +2,9 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: JP
+> Novidades e destaques do indie nacional\. Foto: Jaloo
 
-488 songs - 1 day 3 hr 35 min
+491 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [pieces](https://open.spotify.com/track/4iYclxeZPwL1tVgXkLSb1j) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [pieces](https://open.spotify.com/album/66GR0d6Gi5IgzjzrnhwKej) | 3:13 | 2022-01-28 | 2022-03-12 |
 | [piLLOW dREAMs](https://open.spotify.com/track/3N6YmolwkUHj6Keo82hAYo) | [1LUM3](https://open.spotify.com/artist/01JSyuJJh1WCHIuM3Zx7hn) | [piLLOW dREAMs](https://open.spotify.com/album/1aN7xp1dgvMyAft5llyoox) | 3:14 | 2022-01-14 | 2022-02-12 |
 | [Plano Certo](https://open.spotify.com/track/1yNGWZprvQ6mAGxEWg3u9H) | [Jandaia](https://open.spotify.com/artist/4l71AqvKVsROxPnch4fyI8) | [Plano Certo](https://open.spotify.com/album/16DJ6WF6ULJMuMaxEm7W2R) | 2:21 | 2022-03-11 | 2022-04-23 |
+| [Poca](https://open.spotify.com/track/3QV57sbqvd8ekL3qhvuUkp) | [Tangolo Mangos](https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o) | [Poca](https://open.spotify.com/album/2NpkzNY0YGGoVxClxtphQu) | 3:58 | 2023-09-29 |  |
 | [Pode Chegar](https://open.spotify.com/track/1xY1qLVrlFZPYjpklP1cl4) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Parte do Que Vem](https://open.spotify.com/album/7s4EA9tZu5gK98FOSBL1ZS) | 4:15 | 2022-07-01 | 2022-08-20 |
 | [Polaroids](https://open.spotify.com/track/3D454eHAU28YfY74uwyI9b) | [Betina](https://open.spotify.com/artist/60xTz0cmopLyYBnQg9QGoK), [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Polaroids](https://open.spotify.com/album/4BA0EFWHNxlc1q7ubXMMon) | 3:36 | 2022-05-13 | 2022-06-25 |
 | [Por Enquanto](https://open.spotify.com/track/7Jqb8ZKO0cqj8fewm1A5e3) | [Joana Bentes](https://open.spotify.com/artist/0kRYwayXJKJRNHMJSRnmJm) | [De Volta Pra Cássia](https://open.spotify.com/album/1bA4ihMlX3gCtliW150HdR) | 3:26 | 2022-01-14 | 2022-01-29 |
@@ -357,6 +358,7 @@
 | [Quem vai apagar a luz](https://open.spotify.com/track/17o3WyVnuZB0YtvQ6zjNMG) | [Sophia Chablau e Uma Enorme Perda de Tempo](https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj), [Negro Leo](https://open.spotify.com/artist/6UKn12Sg5H3SyiFX5GalB6) | [Música do Esquecimento](https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb) | 2:39 | 2023-09-08 |  |
 | [Querer Nunca Fez Planos](https://open.spotify.com/track/2XEuJHY9Ak80QwI1BVhmMa) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb), [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Querer Nunca Fez Planos](https://open.spotify.com/album/6JrS5ydirAAPoXipEYqD6I) | 3:37 | 2022-05-27 | 2022-07-02 |
 | [Querido](https://open.spotify.com/track/0PwSwGyOUT0HqCOOgY2ny3) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29) | [Querido](https://open.spotify.com/album/3X25A4Wln0BapqgiEWjy3E) | 3:16 | 2023-02-24 | 2023-04-22 |
+| [Quero te ver gozar](https://open.spotify.com/track/25AI0OE0Dl2le4omEsIwyW) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [Quero te ver gozar](https://open.spotify.com/album/58y3yjaCfF8Z3lCoAxqcog) | 3:01 | 2023-09-29 |  |
 | [Radinho de Pilha](https://open.spotify.com/track/6DSOcfjIBGwaX1Y4JIIvZD) | [anaritzz](https://open.spotify.com/artist/612T3eaMe5kviNoujTfi84) | [Radinho de Pilha](https://open.spotify.com/album/7KXfbdTrKFgsSkNGRqKCzG) | 3:32 | 2023-03-31 | 2023-09-02 |
 | [Raio](https://open.spotify.com/track/2PcjavAsBsTlpX3TuLndpK) | [Nathan Dies](https://open.spotify.com/artist/1JcsUiXXY016XtwaKpIAuh) | [Instinto](https://open.spotify.com/album/2LbTR9Dz0YpMrrBAoGJEIl) | 3:28 | 2022-01-14 | 2022-02-26 |
 | [raízes \- Remix](https://open.spotify.com/track/2ObCAMrK1iNxUE3W628Tn6) | [Asafe Vieira](https://open.spotify.com/artist/7eEqXJXpJndYJ2tXFxT3hs) | [raízes \(Remix\)](https://open.spotify.com/album/3AjnjubuBt0TlpkmZDSJuL) | 3:20 | 2023-04-07 | 2023-04-22 |
@@ -367,6 +369,7 @@
 | [Revés De Tudo](https://open.spotify.com/track/5gXCL3ne8NsLNKuiyN3jRm) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [V](https://open.spotify.com/album/6bQw2aNY06eokyQwc2IaK4) | 4:21 | 2022-08-19 | 2023-08-05 |
 | [Risco](https://open.spotify.com/track/4YnFFesMh6JYIGCTtzapv5) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Risco](https://open.spotify.com/album/1zLk5joVdgeDeukWMyKjta) | 2:22 | 2022-01-14 | 2022-09-24 |
 | [Rotina](https://open.spotify.com/track/4H44feb7oHzkqzNQJnBv98) | [Tuono](https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL) | [Rotina](https://open.spotify.com/album/2VTSX1KLy3MtO0qcrZBoG9) | 3:41 | 2022-10-28 | 2023-01-21 |
+| [Rua da Lua Cheia](https://open.spotify.com/track/0URryycDasqNVVqiX1aV01) | [Exclusive Os Cabides](https://open.spotify.com/artist/0SE1q0DtRWvOcjt78ZZ4ZF) | [Rua da Lua Cheia](https://open.spotify.com/album/60vjflVrXOLjbjmfuKEIti) | 3:37 | 2023-09-29 |  |
 | [Ruka](https://open.spotify.com/track/5PVAuU1agtdRhqLGVJl72r) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Ruka](https://open.spotify.com/album/2BgGbb83c0HYQccSVnKBcH) | 2:59 | 2022-01-14 | 2022-01-29 |
 | [RUÍNA](https://open.spotify.com/track/1HQNigUfZPpkc5XTfy9xps) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [RUÍNA](https://open.spotify.com/album/6h1CeOmOokGP4rUf9nmwtQ) | 2:51 | 2023-09-22 |  |
 | [Rádio\-Relógio](https://open.spotify.com/track/6hrq44XyDxvIkhemm70sbd) | [meot](https://open.spotify.com/artist/20xtrfwLue7Sslipsez0NI), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Rádio\-Relógio](https://open.spotify.com/album/1Y2Nb9q1h3WK2NjSdVGX6u) | 2:40 | 2022-01-14 | 2022-03-26 |

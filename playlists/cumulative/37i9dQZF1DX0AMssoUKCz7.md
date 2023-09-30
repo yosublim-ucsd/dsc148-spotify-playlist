@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-645 songs - 1 day 8 hr 50 min
+646 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,7 @@
 | [See You Again \(Feat\. ÆJ\)](https://open.spotify.com/track/08fs5CvDMxpUFCD8IVqC9J) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41) | [See You Again \(Feat\. ÆJ\)](https://open.spotify.com/album/7kZnlSPBb1NrSUvM6ckBif) | 2:38 | 2022-09-02 | 2022-12-08 |
 | [Set The World \(On Fire\)](https://open.spotify.com/track/1UtjCEfOU9JaAMuGIhBPBx) | [Flatdisk](https://open.spotify.com/artist/1nwOAIlEn6W5ZtwLyDE9kv), [Bitter's Kiss](https://open.spotify.com/artist/2iYRrbF7KszvcbF4Zf4Tq2) | [Set The World \(On Fire\)](https://open.spotify.com/album/09qsaTWMHIShQH4CKkVdrd) | 2:59 | 2022-01-14 | 2022-06-04 |
 | [Seve \- Radio Edit](https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Seve \(Radio Edit\)](https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4) | 3:30 | 2022-01-14 | 2022-04-21 |
-| [Sex On Me \- Re\-Edit](https://open.spotify.com/track/6zwZ9blEaUCdhrprmyM1vg) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Sex On Me \(Re\-Edit\)](https://open.spotify.com/album/0vF5ZGN1zjK3exzACcAFDC) | 3:15 | 2022-01-14 |  |
+| [Sex On Me \- Re\-Edit](https://open.spotify.com/track/6zwZ9blEaUCdhrprmyM1vg) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Sex On Me \(Re\-Edit\)](https://open.spotify.com/album/0vF5ZGN1zjK3exzACcAFDC) | 3:15 | 2022-01-14 | 2023-09-30 |
 | [Sexual Healing \- Kygo Remix](https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Sexual Healing \(Kygo Remix\)](https://open.spotify.com/album/6j62lF3YXsygj6xTjAyRG5) | 6:08 | 2022-01-14 | 2022-09-24 |
 | [Shakin'](https://open.spotify.com/track/4w7FCJ8IpOIaQl6EQROMRx) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Shakin'](https://open.spotify.com/album/2PaKysj7IvH3q7TplsxqWi) | 3:01 | 2022-06-17 | 2023-01-10 |
 | [She Told Me](https://open.spotify.com/track/1BIoRbf6n3h2Rk7BpRGIQX) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [She Told Me](https://open.spotify.com/album/0v3ecJO3wgYWoHEg0sjdsj) | 2:41 | 2022-10-07 | 2023-09-24 |
@@ -555,6 +555,7 @@
 | [Sunset](https://open.spotify.com/track/5jUgFofZJCuSQjcYao0VMv) | [A\-SHO](https://open.spotify.com/artist/1nMwu5ui0X2XYTRKGmCFJz), [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E) | [Sunset](https://open.spotify.com/album/7BbXUY8gAHmyZJsVSXfhWR) | 3:19 | 2022-01-14 | 2022-04-21 |
 | [Sunset](https://open.spotify.com/track/2Wf1AxNNsj3yPcLbvnW7TJ) | [Methner](https://open.spotify.com/artist/1KVh2mDowk5csLQLpG4sln), [XO](https://open.spotify.com/artist/7iYWcuAtM8cO4AFTJ5MHVl), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Sunset](https://open.spotify.com/album/2pgRAlP4GDx78gQHiCW2ad) | 2:48 | 2022-05-06 | 2022-06-22 |
 | [Sunset Lovers](https://open.spotify.com/track/1x7NAvqHgCvhV549ls0FTE) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Sunset Lovers](https://open.spotify.com/album/5x7S16YvroS0lLKXARqUMu) | 2:56 | 2022-08-12 |  |
+| [Sweetly](https://open.spotify.com/track/1XD8fIhuh6VgsLK6Uui7tj) | [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Sweetly](https://open.spotify.com/album/0yVvja6ED0e2JUtUYas91D) | 2:36 | 2023-08-25 |  |
 | [Take My Breath Away](https://open.spotify.com/track/6Uc23VRzRJSgu3eebPvH8I) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Take My Breath Away](https://open.spotify.com/album/0tnQBT1tTVrNDx7uprIH5X) | 3:08 | 2022-12-09 |  |
 | [Take You Back](https://open.spotify.com/track/0BHWGCaAn0hr0pzWxME6sJ) | [Theodor Rosenberg](https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof), [Vowed](https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY) | [Take You Back](https://open.spotify.com/album/6W0sBpM2FwQ5TG6BbLilSQ) | 2:10 | 2022-07-15 | 2022-10-25 |
 | [Take You Home](https://open.spotify.com/track/0ttshmKwUyuYku3oZeFTaq) | [KAJ](https://open.spotify.com/artist/1MPHxC0IFc9NFIqTSksCuj), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Take You Home](https://open.spotify.com/album/52UPYW1UBvITT13DR1yRwV) | 2:24 | 2023-07-21 |  |

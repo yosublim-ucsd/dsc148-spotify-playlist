@@ -370,10 +370,32 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 185000,
       "name": "Addicted to Romance",
       "url": "https://open.spotify.com/track/3Mjr9GT1iobk4qK8tg1wzH"
+    },
+    {
+      "album": {
+        "name": "Addicted to Romance (from the film 'She Came to Me')",
+        "url": "https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Patti Scialfa",
+          "url": "https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185013,
+      "name": "Addicted to Romance - from the film 'She Came to Me'",
+      "url": "https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1"
     },
     {
       "album": {
@@ -7472,7 +7494,7 @@
     {
       "album": {
         "name": "a beautiful blur",
-        "url": "https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2"
+        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
       },
       "artists": [
         {
@@ -7483,6 +7505,24 @@
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Out Of My League",
+      "url": "https://open.spotify.com/track/0O7V6ItLSmWsh8qisU8mTr"
+    },
+    {
+      "album": {
+        "name": "a beautiful blur",
+        "url": "https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
       "duration_ms": 206400,
       "name": "Out Of My League",
       "url": "https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK"
@@ -10222,7 +10262,7 @@
     {
       "album": {
         "name": "This Is Home (Dark-Side Mix)",
-        "url": "https://open.spotify.com/album/1ijhRCbp5W9rLh6cCcCgt6"
+        "url": "https://open.spotify.com/album/7wPxxeIyLPuRCcmNMFiw5t"
       },
       "artists": [
         {
@@ -10233,6 +10273,24 @@
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 304887,
+      "name": "This Is Home - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/556w1qW5noqRaR9Brq1EOc"
+    },
+    {
+      "album": {
+        "name": "This Is Home (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/1ijhRCbp5W9rLh6cCcCgt6"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
       "duration_ms": 304887,
       "name": "This Is Home - Dark-Side Mix",
       "url": "https://open.spotify.com/track/7aA0fUnyi2tIGkZbsWRADb"

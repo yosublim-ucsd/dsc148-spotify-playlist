@@ -1157,6 +1157,28 @@
     },
     {
       "album": {
+        "name": "All I Hear Is Birds (Focus Rework)",
+        "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        },
+        {
+          "name": "Matt Robertson",
+          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248506,
+      "name": "All I Hear Is Birds - Focus Rework",
+      "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
+    },
+    {
+      "album": {
         "name": "Into The Blue",
         "url": "https://open.spotify.com/album/5VzhW20SptDDaQ3FjjO6IQ"
       },
@@ -4134,7 +4156,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 381496,
       "name": "Composition Of Flowers (Excerpt)",
       "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
@@ -5344,6 +5366,28 @@
       "duration_ms": 214841,
       "name": "Dustlight",
       "url": "https://open.spotify.com/track/4wVkEXl1cGlLHnIrKnGGL5"
+    },
+    {
+      "album": {
+        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Dwelling",
+      "url": "https://open.spotify.com/track/5tm9QZP0Mu4El6IzWSoNcw"
     },
     {
       "album": {
@@ -6629,6 +6673,24 @@
     },
     {
       "album": {
+        "name": "Flesh",
+        "url": "https://open.spotify.com/album/21RNVRDl7R8ihhc0crfTFr"
+      },
+      "artists": [
+        {
+          "name": "Jogging House",
+          "url": "https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434696,
+      "name": "Flesh",
+      "url": "https://open.spotify.com/track/5fFk95hDPNBF3UQkwSOim3"
+    },
+    {
+      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/0m7GOu14uf9RojKaN6cu74"
       },
@@ -6676,7 +6738,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 236000,
       "name": "Flora of Sleep",
       "url": "https://open.spotify.com/track/0OY5LHRJUkNKFDAFtJKfQT"
@@ -8744,7 +8806,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 255459,
       "name": "Inspirit - Takuya's Ry\u016bteki Dragons",
       "url": "https://open.spotify.com/track/7a72jzUzOYYCDyKDNG3Icg"
@@ -10864,6 +10926,24 @@
       "duration_ms": 312493,
       "name": "Microgravity",
       "url": "https://open.spotify.com/track/4SxmbfErnDroZYcn3q1x6p"
+    },
+    {
+      "album": {
+        "name": "Migration Sun",
+        "url": "https://open.spotify.com/album/1a9wieG6wDFp5zcTdxK8SQ"
+      },
+      "artists": [
+        {
+          "name": "Sonant",
+          "url": "https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278541,
+      "name": "Migration Sun",
+      "url": "https://open.spotify.com/track/5sw81wiy3iwmUulSlB6WxJ"
     },
     {
       "album": {
@@ -15446,7 +15526,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 199310,
       "name": "Sidney's Lullaby",
       "url": "https://open.spotify.com/track/6MQxmNGmQqcJT1uBidQUdS"

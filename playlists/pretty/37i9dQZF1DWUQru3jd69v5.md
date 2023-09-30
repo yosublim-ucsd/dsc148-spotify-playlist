@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Fre\_nky
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,803 likes - 56 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,845 likes - 56 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 55 | ["Bisiness"](https://open.spotify.com/track/5rd8GueEmsKWLgJhQOM8v0) | [Totó Valentino](https://open.spotify.com/artist/4TR1rLViZ0TMo5gdvSVVZr), [Nessuno](https://open.spotify.com/artist/7BMPwaB9s6d7J33bIPp8Z5) | ["Bisiness"](https://open.spotify.com/album/1VvBBQLEK5qmoXtTsOtCrh) | 2:39 |
 | 56 | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9) | 2:27 |
 
-Snapshot ID: `MCxkYTEzY2MwN2RhMjFlNDc2Y2E3NTFmYTg4MTRmYjhmZThhZmI3NDQz`
+Snapshot ID: `MCwwYWI3NzFjY2Q5ZDdmNjcwNDc3MTgwNGE3MzIzYzBiZDEwODE1MzMz`

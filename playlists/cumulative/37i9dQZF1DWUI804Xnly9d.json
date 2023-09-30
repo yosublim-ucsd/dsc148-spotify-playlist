@@ -116,7 +116,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 136500,
       "name": "Acche Hain",
       "url": "https://open.spotify.com/track/6dxq28SkzTofI0p7mAarhl"
@@ -588,6 +588,32 @@
       "duration_ms": 205035,
       "name": "Bikhra",
       "url": "https://open.spotify.com/track/6YnilfIRgLOzlOrqPEOEnb"
+    },
+    {
+      "album": {
+        "name": "Achha Sila Diya",
+        "url": "https://open.spotify.com/album/2uodXwPtgPs131krAW6QIV"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Nikhil Vinay",
+          "url": "https://open.spotify.com/artist/0HsUQSehtJfQENJxgxQwg5"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259347,
+      "name": "Bitter Betrayals (From \"T-Series Solos\")",
+      "url": "https://open.spotify.com/track/2qqFgR22eDiTcCTQUaSshU"
     },
     {
       "album": {
@@ -1926,7 +1952,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 141358,
       "name": "Kivein Mukhade",
       "url": "https://open.spotify.com/track/7FFfdpjbckpKidr7AoLLPE"
@@ -2682,6 +2708,28 @@
     {
       "album": {
         "name": "Kuhu Kuhu",
+        "url": "https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg"
+      },
+      "artists": [
+        {
+          "name": "Khatija Rahman",
+          "url": "https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP"
+        },
+        {
+          "name": "Firdaus Orchestra",
+          "url": "https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258255,
+      "name": "Piya Tose Naina Lage Re",
+      "url": "https://open.spotify.com/track/6br9un9rA9AqqRTSgWq3jJ"
+    },
+    {
+      "album": {
+        "name": "Kuhu Kuhu",
         "url": "https://open.spotify.com/album/4WXQQBBQsr1sKMp2I3IPGB"
       },
       "artists": [
@@ -2700,7 +2748,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 254091,
       "name": "Piya Tose Naina Lage Re",
       "url": "https://open.spotify.com/track/3DsIkyKjAe4yOvTsaS6dnn"
@@ -2896,10 +2944,6 @@
         {
           "name": "Pulkit Jain",
           "url": "https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U"
-        },
-        {
-          "name": "PALAK",
-          "url": "https://open.spotify.com/artist/647Uu49eunQT9Xe1LIFykI"
         }
       ],
       "date_added": "2023-07-03",
@@ -3234,6 +3278,24 @@
       "duration_ms": 176538,
       "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\") - Trending",
       "url": "https://open.spotify.com/track/5nJR43Y1coIT3QPchuCGfw"
+    },
+    {
+      "album": {
+        "name": "Teri Baaton Mein",
+        "url": "https://open.spotify.com/album/2vd3rMFyrNqTN2cfmHYcAY"
+      },
+      "artists": [
+        {
+          "name": "Praveen Yadav",
+          "url": "https://open.spotify.com/artist/0HAgQesj94NOC9MvBrx7zH"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195517,
+      "name": "Teri Baaton Mein",
+      "url": "https://open.spotify.com/track/5juIfRjWCX15RvLD6AKqWr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,335 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,399 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 40 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/4HTF7QhXhZQyuowEaGAiBl) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 5:57 |
 | 41 | [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Let The Good Times Roll: The Music Of Louis Jordan](https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u) | 4:34 |
 | 42 | [Hesitation Blues \- Live](https://open.spotify.com/track/2ZA8w7VIA2A5bFmb3ViXoQ) | [Hot Tuna](https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7) | [Hot Tuna](https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL) | 5:06 |
-| 43 | [Mean Mistreatin' Mama](https://open.spotify.com/track/2kGpMbIIaK82aYl1N4xoHC) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Billy Gibbons](https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Strange Angels: In Flight with Elmore James](https://open.spotify.com/album/3qeVFVdY4jf4fD3nkZ4ZdN) | 5:58 |
+| 43 | [Mean Mistreatin' Mama](https://open.spotify.com/track/2kGpMbIIaK82aYl1N4xoHC) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Strange Angels: In Flight with Elmore James](https://open.spotify.com/album/3qeVFVdY4jf4fD3nkZ4ZdN) | 5:58 |
 | 44 | [I’ve Been Loving You Too Long \(Live\)](https://open.spotify.com/track/5D0ZRPvZOCbR520eCZ5mCs) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 6:52 |
 | 45 | [Change Is Gonna Come](https://open.spotify.com/track/1t0v4uUKWd0MrmHtcEzRiV) | [Ronnie EarlThe Broadcasters](https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF) | [Good News](https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63) | 6:02 |
 | 46 | [Sweet Home Chicago \- Mono Rough Mix](https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues \(Expanded\)](https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 99 | [Taxman](https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI) | [Teresa James](https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C) | [Taxman](https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee) | 3:26 |
 | 100 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 
-Snapshot ID: `MCwwZTM2NmEzMzFjN2YyNWQ1ZTQwNzQ4ODg5OWViMjQ3MzliNmY3Mjhi`
+Snapshot ID: `MCwzNTQ3NmJiY2QyNGJhM2JmYWRlYWQxNzY0N2Q5ZDBkNTcwNTIyMTQ2`

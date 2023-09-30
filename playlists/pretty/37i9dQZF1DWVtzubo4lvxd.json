@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 111388,
+  "num_followers": 111398,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTJjMGQwYThkNTJmZDJkNDI1NmU1ODkxYWM1YTZmYzQxYTk4MjYz",
+  "snapshot_id": "MCxmMWJkYzYwMDBlY2MzYWY3YTc2NzgzNzU0YjQ4OTM2N2IwZDU5NmRi",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -87,22 +87,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Harbor",
-        "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
-      },
-      "artists": [
-        {
-          "name": "Tomppabeats",
-          "url": "https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4"
-        }
-      ],
-      "duration_ms": 91504,
-      "name": "Monday Loop",
-      "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Gentle Boy",
         "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 122704,
       "name": "this girl",
       "url": "https://open.spotify.com/track/6AknQdo6L05nsY2aQsxCFi"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Harbor",
+        "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
+      },
+      "artists": [
+        {
+          "name": "Tomppabeats",
+          "url": "https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4"
+        }
+      ],
+      "duration_ms": 91504,
+      "name": "Monday Loop",
+      "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -407,8 +407,8 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "time off",
-        "url": "https://open.spotify.com/album/7aFxwormHMkxMn7gXzHvBs"
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
         }
       ],
-      "duration_ms": 122749,
-      "name": "we used to talk every night",
-      "url": "https://open.spotify.com/track/4FbOZNHWXvvCwuuqRVNkRS"
+      "duration_ms": 96405,
+      "name": "i love being with you",
+      "url": "https://open.spotify.com/track/3diGMqE8nIltVg7fFdwi9n"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 253848,
-      "name": "Tick Tock",
-      "url": "https://open.spotify.com/track/7fBCxF9Qt9l7YeEyTMNEQq"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Away with the Fairies",
         "url": "https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2"
       },
@@ -539,8 +523,24 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Gentle Boy",
-        "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 253848,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/7fBCxF9Qt9l7YeEyTMNEQq"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "time off",
+        "url": "https://open.spotify.com/album/7aFxwormHMkxMn7gXzHvBs"
       },
       "artists": [
         {
@@ -548,25 +548,25 @@
           "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
         }
       ],
-      "duration_ms": 96405,
-      "name": "i love being with you",
-      "url": "https://open.spotify.com/track/3diGMqE8nIltVg7fFdwi9n"
+      "duration_ms": 122749,
+      "name": "we used to talk every night",
+      "url": "https://open.spotify.com/track/4FbOZNHWXvvCwuuqRVNkRS"
     },
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "The Blyat Tapes,Vol.1",
-        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
+        "name": "Where I Met You",
+        "url": "https://open.spotify.com/album/3iynciZnTYz1lMCKBMiXTY"
       },
       "artists": [
         {
-          "name": "DVLTVN",
-          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
         }
       ],
-      "duration_ms": 85514,
-      "name": "Dont.Be.Afraid.",
-      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
+      "duration_ms": 141124,
+      "name": "Where I Met You",
+      "url": "https://open.spotify.com/track/0hohbae2D1GRZxEB51lQOJ"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -587,18 +587,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Where I Met You",
-        "url": "https://open.spotify.com/album/3iynciZnTYz1lMCKBMiXTY"
+        "name": "The Blyat Tapes,Vol.1",
+        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
       },
       "artists": [
         {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+          "name": "DVLTVN",
+          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
         }
       ],
-      "duration_ms": 141124,
-      "name": "Where I Met You",
-      "url": "https://open.spotify.com/track/0hohbae2D1GRZxEB51lQOJ"
+      "duration_ms": 85514,
+      "name": "Dont.Be.Afraid.",
+      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/2dYxugKzxoX6phylPQ2I2x"
-      },
-      "artists": [
-        {
-          "name": "leaf beach",
-          "url": "https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh"
-        }
-      ],
-      "duration_ms": 110305,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/6trLPOBjf8nWjMtl5PibbV"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 128372,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/2dYxugKzxoX6phylPQ2I2x"
+      },
+      "artists": [
+        {
+          "name": "leaf beach",
+          "url": "https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh"
+        }
+      ],
+      "duration_ms": 110305,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/6trLPOBjf8nWjMtl5PibbV"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Silience",
+        "url": "https://open.spotify.com/album/0Lma145HTquzDLS6tPTtoy"
+      },
+      "artists": [
+        {
+          "name": "Toonorth",
+          "url": "https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Silience",
+      "url": "https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Lucid Dreams",
         "url": "https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 120000,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/6wh61ZuwyFfS9DD6EJCov4"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Silience",
-        "url": "https://open.spotify.com/album/0Lma145HTquzDLS6tPTtoy"
-      },
-      "artists": [
-        {
-          "name": "Toonorth",
-          "url": "https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Silience",
-      "url": "https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "corals 2",
-        "url": "https://open.spotify.com/album/1cXZDExwXLZtfLRxCcnETx"
-      },
-      "artists": [
-        {
-          "name": "Fujitsu",
-          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "sand castles",
-      "url": "https://open.spotify.com/track/6ip3BwXKlULyY279vreCz9"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Caliber",
         "url": "https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 130588,
       "name": "Caliber",
       "url": "https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "corals 2",
+        "url": "https://open.spotify.com/album/1cXZDExwXLZtfLRxCcnETx"
+      },
+      "artists": [
+        {
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "sand castles",
+      "url": "https://open.spotify.com/track/6ip3BwXKlULyY279vreCz9"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
-      },
-      "artists": [
-        {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
-        }
-      ],
-      "duration_ms": 178260,
-      "name": "Joan of Arc.",
-      "url": "https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Easy Feet",
         "url": "https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 116893,
       "name": "Too Tired",
       "url": "https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 178260,
+      "name": "Joan of Arc.",
+      "url": "https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Cats Walking",
-        "url": "https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps"
-      },
-      "artists": [
-        {
-          "name": "Yomoti",
-          "url": "https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC"
-        }
-      ],
-      "duration_ms": 136470,
-      "name": "Cats Walking",
-      "url": "https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Imaginary",
         "url": "https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 148604,
       "name": "Afloat",
       "url": "https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Cats Walking",
+        "url": "https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps"
+      },
+      "artists": [
+        {
+          "name": "Yomoti",
+          "url": "https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC"
+        }
+      ],
+      "duration_ms": 136470,
+      "name": "Cats Walking",
+      "url": "https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi"
     },
     {
       "added_at": "2022-04-15 12:09:52",

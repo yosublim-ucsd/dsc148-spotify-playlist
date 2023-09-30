@@ -681,6 +681,28 @@
     },
     {
       "album": {
+        "name": "Cowboy Capone",
+        "url": "https://open.spotify.com/album/0Cy64A0Me95BhPop86hQFl"
+      },
+      "artists": [
+        {
+          "name": "Colt Graves",
+          "url": "https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191359,
+      "name": "Cowboy Capone",
+      "url": "https://open.spotify.com/track/57pR0VkO0rLLUZCsyhpg8k"
+    },
+    {
+      "album": {
         "name": "Crocodile Hunter",
         "url": "https://open.spotify.com/album/2zVNTo9y6TcUqlCqnljvpe"
       },
@@ -1836,6 +1858,28 @@
       "duration_ms": 235416,
       "name": "Roll With Me",
       "url": "https://open.spotify.com/track/1A8bSRTIaWjOjtt1y8gmZO"
+    },
+    {
+      "album": {
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/00GNobeHKDEOYXXkXxGwl5"
+      },
+      "artists": [
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195041,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/39T5oAenSW23lsJT41u8VP"
     },
     {
       "album": {

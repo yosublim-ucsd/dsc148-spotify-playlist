@@ -2,15 +2,16 @@
 
 ### [RADAR Thailand](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: Flower.far
+> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: YourMOOD
 
-126 songs - 7 hr 57 min
+128 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24](https://open.spotify.com/track/6ZmvkPsAhZdP0VUqX2NtTo) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [24](https://open.spotify.com/album/1qI2EQofSUMJJl35IzIsT0) | 5:05 | 2023-08-25 |  |
 | [9MM](https://open.spotify.com/track/5rqTRj4ZB2Nv3watYPlIYb) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [ESKIIMO](https://open.spotify.com/artist/3XtbVyd1BMPc4vIwCengvA) | [9MM](https://open.spotify.com/album/3NvxmDyHLzXU73v6eRDXS2) | 2:39 | 2023-08-25 | 2023-09-02 |
 | [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 | 2023-07-21 |  |
+| [April](https://open.spotify.com/track/1HcNxQxyvT4Jg2c1A9FxjS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [April \- Single](https://open.spotify.com/album/2zittikcejcyLsFIk5mSik) | 4:58 | 2023-09-29 |  |
 | [BONG](https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [BONG](https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7) | 4:01 | 2023-04-13 |  |
 | [BTS](https://open.spotify.com/track/5ny2fV7iSKCRWzLRhUO0CJ) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [BTS](https://open.spotify.com/album/7bmozsYfL8Yh0UNun8onhO) | 2:43 | 2023-01-10 | 2023-01-19 |
 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 | 2022-09-15 | 2023-07-22 |
@@ -28,12 +29,12 @@
 | [Me](https://open.spotify.com/track/1CpGLnjauP66HeqZEaCq5i) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:29 | 2022-09-15 | 2023-08-26 |
 | [MUSE](https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [MUSE](https://open.spotify.com/album/0JApBQ8xuOnFPw32RnoGrS) | 3:27 | 2023-04-13 |  |
 | [My Moon](https://open.spotify.com/track/1kynRiOydIAzpVIXOKf5iH) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SIMON](https://open.spotify.com/artist/4Dz036NLSs8GPIFaCPJWGU) | [My Moon](https://open.spotify.com/album/1M2AkqbtUCIMHa0stw4Fuc) | 3:00 | 2023-04-20 | 2023-05-09 |
-| [OK](https://open.spotify.com/track/4D3o6JnlbcU15KspRCVROS) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [OK](https://open.spotify.com/album/6bkAgNnwZmg1P64adK9wfV) | 4:08 | 2023-09-01 |  |
+| [OK](https://open.spotify.com/track/4D3o6JnlbcU15KspRCVROS) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [OK](https://open.spotify.com/album/6bkAgNnwZmg1P64adK9wfV) | 4:08 | 2023-09-01 | 2023-09-30 |
 | [Perfect](https://open.spotify.com/track/2PJpocUzoJDp8cG7Uq5XPA) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Perfect](https://open.spotify.com/album/69i0JGTuHXXxD3M0c3F3Mh) | 4:34 | 2023-07-02 | 2023-08-26 |
 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2023-06-02 |  |
 | [Please](https://open.spotify.com/track/7nElMqssjoTPpfm8kSN1y1) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:45 | 2022-09-15 | 2023-07-03 |
 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK?](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 | 2023-04-13 | 2023-07-17 |
-| [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-09-15 |  |
+| [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-09-15 | 2023-09-30 |
 | [Stay](https://open.spotify.com/track/12fWIindDPAAsaPXPSAYJK) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Stay](https://open.spotify.com/album/5MwGuY9wRplZgMtA1Bn1UV) | 3:27 | 2023-07-21 |  |
 | [Stranger](https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Stranger](https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ) | 5:46 | 2022-11-23 | 2023-04-14 |
 | [Therapist](https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Therapist](https://open.spotify.com/album/1lagCns5TwcDe8TcJJsHkR) | 3:13 | 2023-05-12 |  |
@@ -67,6 +68,7 @@
 | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM) | 4:48 | 2023-04-13 |  |
 | [จิ๊กโก๋ลาบวช](https://open.spotify.com/track/6pQjWG8NCPuZUKPZJssaTJ) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [จิ๊กโก๋ลาบวช](https://open.spotify.com/album/3QlEM3qaBzU9YESHaQqFxf) | 2:09 | 2023-08-25 | 2023-09-02 |
 | [ฉันสัญญาจะไม่ร้องไห้ \(ดวงดาวที่โหดร้าย\)](https://open.spotify.com/track/5Rrn7VUOFMyYK5Gy7cA4AK) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฉันสัญญาจะไม่ร้องไห้ \(ดวงดาวที่โหดร้าย\)](https://open.spotify.com/album/0Dl48BAHraILiXW5rO9uIC) | 4:38 | 2023-04-13 | 2023-08-26 |
+| [ชน \(battle\)](https://open.spotify.com/track/3EVlTT0RzXqVapGHqvxkdf) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [ชน \(battle\)](https://open.spotify.com/album/7qcNglOOUH0QeyTtiezm7m) | 2:29 | 2023-09-29 |  |
 | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/track/7tRUgI2s5RRJrUYsqCg4FN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/album/5FrFp41GTSuc0q4m63bTPO) | 3:05 | 2023-04-18 | 2023-06-23 |
 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 | 2022-09-15 |  |
 | [ดวงตา \(Eyes\)](https://open.spotify.com/track/2cgk7fHnqkY7lhDP0F1KZb) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [LAVNDR](https://open.spotify.com/album/2oUXL1OYvl6rdGJInjBUkN) | 3:33 | 2022-09-15 | 2023-01-11 |

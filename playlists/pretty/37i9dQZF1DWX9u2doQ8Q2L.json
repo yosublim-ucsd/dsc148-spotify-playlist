@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 377077,
+  "num_followers": 377076,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmNkOWM2ODZiMWJiOTAwM2ViMzZhZmE2NDljY2YxYTJjZGE1ZjUx",
+  "snapshot_id": "MCwyMGExNGI5NGI1M2VmMzAwM2M2NTM0ZTBhMjlkOWYyZGY2ZDY5ZDM0",
   "tracks": [
     {
       "added_at": "2023-09-28 15:00:00",
@@ -128,7 +128,7 @@
       "added_at": "2023-09-28 15:00:00",
       "album": {
         "name": "INSAINT",
-        "url": "https://open.spotify.com/album/4t2okOrlqsIZ15pZfdhtuZ"
+        "url": "https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s"
       },
       "artists": [
         {
@@ -137,8 +137,8 @@
         }
       ],
       "duration_ms": 150966,
-      "name": "\u30c7\u30a3\u30b9\u30c8\u30e9\u30af\u30b7\u30e7\u30f3\u30fb\u30b7\u30b9\u30bf\u30fc\u30ba",
-      "url": "https://open.spotify.com/track/7Lr7JP6qEkoDMGFHtyrJHa"
+      "name": "Destruction Sisters",
+      "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
     },
     {
       "added_at": "2023-09-28 15:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-09-28 15:00:00",
       "album": {
-        "name": "Bee and The Whales",
-        "url": "https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs"
-      },
-      "artists": [
-        {
-          "name": "Galileo Galilei",
-          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
-        }
-      ],
-      "duration_ms": 207624,
-      "name": "\u6b7b\u3093\u3067\u304f\u308c",
-      "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"
-    },
-    {
-      "added_at": "2023-09-28 15:00:00",
-      "album": {
         "name": "Pacific Line",
         "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2023-09-28 15:00:00",
       "album": {
-        "name": "long island iced tea",
-        "url": "https://open.spotify.com/album/6PmL0VtPsbrOg5w4U6J8VJ"
+        "name": "Bee and The Whales",
+        "url": "https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs"
       },
       "artists": [
         {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+          "name": "Galileo Galilei",
+          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
         }
       ],
-      "duration_ms": 198660,
-      "name": "long island iced tea",
-      "url": "https://open.spotify.com/track/65odcT5IsIASZI5sRmXlhQ"
+      "duration_ms": 207624,
+      "name": "\u6b7b\u3093\u3067\u304f\u308c",
+      "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"
     },
     {
       "added_at": "2023-09-28 15:00:00",
@@ -1663,8 +1647,24 @@
     {
       "added_at": "2023-09-28 15:00:00",
       "album": {
-        "name": "I Refuse",
-        "url": "https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R"
+        "name": "long island iced tea",
+        "url": "https://open.spotify.com/album/6PmL0VtPsbrOg5w4U6J8VJ"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 198660,
+      "name": "long island iced tea",
+      "url": "https://open.spotify.com/track/65odcT5IsIASZI5sRmXlhQ"
+    },
+    {
+      "added_at": "2023-09-28 15:00:00",
+      "album": {
+        "name": "89.7 Growl FM",
+        "url": "https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy"
       },
       "artists": [
         {
@@ -1672,9 +1672,9 @@
           "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
         }
       ],
-      "duration_ms": 227800,
-      "name": "I Refuse",
-      "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
+      "duration_ms": 162546,
+      "name": "Let It Go As If You Wander",
+      "url": "https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k"
     },
     {
       "added_at": "2023-09-28 15:00:00",

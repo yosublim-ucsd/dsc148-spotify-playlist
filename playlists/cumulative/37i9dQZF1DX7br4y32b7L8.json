@@ -1108,6 +1108,10 @@
         {
           "name": "Floris Keijzer",
           "url": "https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC"
+        },
+        {
+          "name": "Eyah",
+          "url": "https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E"
         }
       ],
       "date_added": "2023-07-24",
@@ -4786,10 +4790,32 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 286875,
       "name": "Wie Ben Jij",
       "url": "https://open.spotify.com/track/2txPPrev1n79RlLuFh01lW"
+    },
+    {
+      "album": {
+        "name": "Wie Ben Jij (Sped Up)",
+        "url": "https://open.spotify.com/album/5HPvRGI723QNLimhjzXD9q"
+      },
+      "artists": [
+        {
+          "name": "SBMG",
+          "url": "https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr"
+        },
+        {
+          "name": "Rello",
+          "url": "https://open.spotify.com/artist/3H6wISJt78QaXrvNSRr47V"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Wie Ben Jij - Sped Up",
+      "url": "https://open.spotify.com/track/5Wgkd6dgFvjLadervYGJHH"
     },
     {
       "album": {

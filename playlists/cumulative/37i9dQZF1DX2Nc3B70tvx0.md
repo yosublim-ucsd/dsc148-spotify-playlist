@@ -2,9 +2,9 @@
 
 ### [Front Page Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> Newsworthy indie of 2023: Mitski's album is here.
+> Newsworthy indie of 2023: New albums from Del Water Gap, Slow Pulp, Mitski and more.
 
-1,794 songs - 4 day 11 hr 38 min
+1,796 songs - 4 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Big Wheel](https://open.spotify.com/track/5TxwBIN4MTTWLvW3Tl5ttE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Big Wheel](https://open.spotify.com/album/4gYJZjcBe0hbXNCfkiHgeD) | 3:15 | 2020-08-07 | 2021-05-22 |
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2022-10-07 | 2023-02-11 |
 | [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-18 | 2022-04-09 |
-| [Bioluminescence](https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Bioluminescence](https://open.spotify.com/album/3ljdLdZzfpPaaz95B1xGG9) | 5:12 | 2023-07-28 |  |
+| [Bioluminescence](https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Bioluminescence](https://open.spotify.com/album/3ljdLdZzfpPaaz95B1xGG9) | 5:12 | 2023-07-28 | 2023-09-30 |
 | [Birch \(feat\. Taylor Swift\)](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 | 2021-09-02 | 2022-01-24 |
 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 | 2020-05-15 | 2020-10-29 |
 | [Black Fins](https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Black Fins](https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL) | 4:22 | 2023-07-20 | 2023-09-02 |
@@ -657,7 +657,7 @@
 | [heavun](https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [heavun](https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te) | 3:11 | 2023-06-16 | 2023-07-29 |
 | [Heavy Head \(Keep It Near\)](https://open.spotify.com/track/3MysmIY9A5dXcj5hbBQsDS) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Sunday Self](https://open.spotify.com/album/0H3YnP2NCBgaHY7qbnIna9) | 4:17 | 2020-09-04 | 2020-12-04 |
 | [Hell N Back](https://open.spotify.com/track/6xxG3HbexOhJKyiLmtUPhT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Will You Be My Yellow?](https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p) | 3:33 | 2020-12-04 | 2020-12-22 |
-| [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 | 2023-09-22 |  |
+| [Hell N Back \(feat\. Summer Walker\) \[BONUS TRACK\]](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 | 2023-09-22 |  |
 | [Hell Of A Ride](https://open.spotify.com/track/0m2FDSa8vPgAz4lbBqOttK) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Hell Of A Ride](https://open.spotify.com/album/2lhR2LG4Lx2IBa4o5Kj69l) | 2:59 | 2023-07-13 | 2023-07-29 |
 | [Hello Hello Hello \- Polo & Pan Remix](https://open.spotify.com/track/0DWTIW018T4iqubyYdU43r) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Hello Hello Hello \(Polo & Pan Remix\)](https://open.spotify.com/album/55L7SoSuzXa9XbyQfrT9AJ) | 3:55 | 2020-12-04 | 2021-05-20 |
 | [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 | 2022-07-18 | 2022-07-30 |
@@ -686,7 +686,7 @@
 | [Holding Back](https://open.spotify.com/track/7GpYaKxoIl1XzCjF9aGck2) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Holding Back](https://open.spotify.com/album/2BknuzgtjnuSDuPF2bjWPJ) | 3:52 | 2022-03-03 | 2022-05-16 |
 | [Holdup](https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Holdup](https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk) | 2:35 | 2023-05-11 | 2023-06-14 |
 | [Hole](https://open.spotify.com/track/6OOkbVOvc8umM48aIEA3aK) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Hole](https://open.spotify.com/album/4PXmj9895vqvTuuz6trOW8) | 2:54 | 2021-12-02 | 2022-04-07 |
-| [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-04-28 |  |
+| [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-04-28 | 2023-09-30 |
 | [Holly Holly](https://open.spotify.com/track/609PjstZKFBH2ryWbJFzev) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Holly Holly](https://open.spotify.com/album/0g7Pwo6QefrUgvPNhJLFR7) | 2:42 | 2021-10-04 | 2022-04-09 |
 | [Hollywood Forever Cemetery](https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 3:29 | 2022-06-17 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Home](https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy) | 2:36 | 2019-10-19 | 2020-02-28 |
@@ -1040,6 +1040,7 @@
 | [Moves](https://open.spotify.com/track/56m9pSdW8e56jiadoFKuu8) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Moves](https://open.spotify.com/album/5kMj4ooSnYk9MUCedMrhi7) | 3:13 | 2021-10-22 | 2022-07-29 |
 | [Movies](https://open.spotify.com/track/31LKL7XfxR1PTm6Or9KTKv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX) | 5:53 | 2019-05-26\* | 2019-09-27 |
 | [Much After Feeling](https://open.spotify.com/track/1yLuTmyO2f3zi4BPHMxTvs) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Much After Feeling / Plant Sugar](https://open.spotify.com/album/153maywyhkwqBu4bJbAQOV) | 3:35 | 2019-09-21 | 2020-04-03 |
+| [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-29 |  |
 | [Music to Clean the House to](https://open.spotify.com/track/7doJTm33FOrVlGJVybeM5T) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Music to Clean the House to](https://open.spotify.com/album/7Le9VJybLF82vhykqbJSBF) | 3:45 | 2020-03-27 | 2020-06-12 |
 | [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 | 2021-07-05 | 2022-01-05 |
 | [My Big Day](https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD) | 2:47 | 2023-06-22 | 2023-07-29 |
@@ -1076,6 +1077,7 @@
 | [New Romance](https://open.spotify.com/track/5ZhBx7W9rigl2vuRdT27rq) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/4uGklcCyzOko2IOYtMzUNg) | 4:12 | 2022-01-07 | 2022-07-29 |
 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 | 2023-04-21 |  |
 | [Next To Me](https://open.spotify.com/track/25B37PuDwZCLof9uOtlVww) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Next To Me](https://open.spotify.com/album/7KVCSOYFXS42GI7zsu9z84) | 2:33 | 2022-02-11 | 2022-04-21 |
+| [NFU](https://open.spotify.com/track/1RG9wGYVd6YyrYDDUqz2LU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [NFU](https://open.spotify.com/album/6e5xluOlHaZPnI1ORf483L) | 3:41 | 2023-09-29 |  |
 | [Night Like This](https://open.spotify.com/track/54kwgaNYb7EzcMd8za1cam) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [Night Like This](https://open.spotify.com/album/0tYyC1yyUj1tMHWaf8Im2t) | 3:03 | 2021-02-24 | 2021-10-09 |
 | [Night Vision](https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Night Vision](https://open.spotify.com/album/4lN4JWv9uMwvZ7eL1XviGa) | 3:50 | 2023-02-17 | 2023-05-16 |
 | [Nihilist Kite Flyer](https://open.spotify.com/track/1wTmri3120lu6TuZjPKLMB) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Nihilist Kite Flyer](https://open.spotify.com/album/0pdJoqnJlz2IyXURszYGUF) | 3:02 | 2019-05-26\* | 2019-08-13 |

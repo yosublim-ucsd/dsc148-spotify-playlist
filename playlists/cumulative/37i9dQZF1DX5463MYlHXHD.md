@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa ñeri\. Foto: BM & La Champions Liga.
 
-153 songs - 8 hr 22 min
+154 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Gancia y Limon](https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o) | [Smk\-2](https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Gancia y Limon](https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa) | 3:53 | 2023-09-22 |  |
 | [Gobernada](https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5) | [El Guachoon](https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr) | [25 Horas de Gira](https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL) | 3:13 | 2023-05-26 |  |
 | [Gordo Rata \- En Vivo](https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Gordo Rata \(En Vivo\)](https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO) | 3:40 | 2023-05-26 |  |
+| [Guerra](https://open.spotify.com/track/2SS3YF05rm1adWFAGXAZFh) | [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB) | [Guerra](https://open.spotify.com/album/3nAcVpBeZ5MEaZmtNt1Uhf) | 2:57 | 2023-09-29 |  |
 | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [GUSTY DJ I Alejo Isakk Session en el Barrio \#5](https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT) | 2:45 | 2023-05-26 |  |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/03nTCsN43CgGyIhR9A3US2) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [En Este Futuro Brillante, No Puedes Olvidar Tu Pasado](https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H) | 3:00 | 2023-05-26 |  |
 | [Hdp](https://open.spotify.com/track/5t7asDLp6jJXxLp6I2SBYl) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Hdp](https://open.spotify.com/album/65Nbvf1AHKsEerfNIWbgHp) | 3:05 | 2023-05-26 | 2023-09-16 |
@@ -81,7 +82,7 @@
 | [La Jarra Loca](https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros que Nunca](https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS) | 3:58 | 2023-05-26 |  |
 | [La Mano de Dios](https://open.spotify.com/track/0rbBliLgUiiuZBLAOf2gQb) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [La Mano de Dios](https://open.spotify.com/album/2L6G8RA5pqd2XB9Pv8tIhJ) | 2:49 | 2023-05-26 | 2023-06-23 |
 | [La Motito de Carlitos](https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Lo Peor](https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc) | 3:56 | 2023-05-26 |  |
-| [La Ranchada](https://open.spotify.com/track/5RIP4Uy07AfA9ilF58h3DW) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [La Ranchada](https://open.spotify.com/album/2F0O2YclNhQdwKp865K2bH) | 7:33 | 2023-09-22 |  |
+| [La Ranchada](https://open.spotify.com/track/5RIP4Uy07AfA9ilF58h3DW) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [La Ranchada](https://open.spotify.com/album/2F0O2YclNhQdwKp865K2bH) | 7:33 | 2023-09-22 | 2023-09-30 |
 | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm) | 2:20 | 2023-05-26 |  |
 | [LATI2](https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [LATI2](https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am) | 3:24 | 2023-05-26 |  |
 | [Lejos de Ti](https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw), [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [Close de Ort!](https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f) | 4:35 | 2023-05-26 |  |

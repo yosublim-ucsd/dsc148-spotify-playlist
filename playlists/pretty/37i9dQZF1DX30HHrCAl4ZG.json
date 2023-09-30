@@ -1,15 +1,51 @@
 {
-  "description": "Explore all things indie rock right now. Featuring new music by Petey. ",
-  "num_followers": 849235,
+  "description": "Explore all things indie rock right now. Featuring new music by Briston Maroney. ",
+  "num_followers": 849267,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzYwMmJiYjIwNTlkNmUyNzNmODY0MDY4MDM1ZGIxZTZiNWNhMjIw",
+  "snapshot_id": "MCxhNzQ0NzhkMmM3MmVlZGRjNzdkMDU5NjA1ZDk4Y2ZhOWViODQ4ZTU0",
   "tracks": [
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 170824,
+      "name": "Boys Of Faith (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/6pRRHgDjfIGhTUCGlHX2p8"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Cousin",
+        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 251386,
+      "name": "Levee",
+      "url": "https://open.spotify.com/track/3LjINbaBQeitJZD36pVdP4"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Ultrapure",
         "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
@@ -20,9 +56,57 @@
           "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 179226,
-      "name": "Chaos Party",
-      "url": "https://open.spotify.com/track/6oF2soqgQMtooPKPfwvLuv"
+      "duration_ms": 200546,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/4nGgHg7tCUYVZtPDDVgm92"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 155721,
+      "name": "Mama's Boy",
+      "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -61,6 +145,22 @@
       "url": "https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "How to Hold a Knife",
+        "url": "https://open.spotify.com/album/0PQLyt9P4Qi94KgwTnsvcH"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        }
+      ],
+      "duration_ms": 176558,
+      "name": "How to Hold a Knife",
+      "url": "https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Angel Hair",
@@ -77,22 +177,6 @@
       "url": "https://open.spotify.com/track/0akgQn9E1BxuNqklbxPSTx"
     },
     {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Nothing Works",
-        "url": "https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 252797,
-      "name": "Nothing Works",
-      "url": "https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90"
-    },
-    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "Boy Scout",
@@ -107,22 +191,6 @@
       "duration_ms": 200261,
       "name": "Boy Scout",
       "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 155721,
-      "name": "Mama's Boy",
-      "url": "https://open.spotify.com/track/0b6xZk9f96N77BfmYWnQNC"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -157,6 +225,22 @@
       "url": "https://open.spotify.com/track/2OfPiMCN1oV3lFgh6mO0vQ"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Kimosab\u00e8",
+        "url": "https://open.spotify.com/album/6bbyTk1fL07XSecYxWlInv"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 228865,
+      "name": "Derby Raceway",
+      "url": "https://open.spotify.com/track/1davHiGeSwxgSvdy1yXtjp"
+    },
+    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "everything is alive",
@@ -171,6 +255,22 @@
       "duration_ms": 273492,
       "name": "alife",
       "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Sure Enough",
+        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "Sure Enough",
+      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -191,22 +291,6 @@
       "duration_ms": 278126,
       "name": "Let The Light In (feat. Father John Misty)",
       "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "COLLIDING",
-        "url": "https://open.spotify.com/album/1FvHt3aswvRaEk5vm0pY58"
-      },
-      "artists": [
-        {
-          "name": "ill peach",
-          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
-        }
-      ],
-      "duration_ms": 163213,
-      "name": "COLLIDING",
-      "url": "https://open.spotify.com/track/6sZM05GUBlSiCDd0LGmffK"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -239,6 +323,22 @@
       "duration_ms": 166626,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Don't Mind",
+        "url": "https://open.spotify.com/album/2MJJxvYWMhzirNvLIv6c4y"
+      },
+      "artists": [
+        {
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
+        }
+      ],
+      "duration_ms": 202494,
+      "name": "Don't Mind",
+      "url": "https://open.spotify.com/track/2kSlrSnErfPwviKC9eTw6P"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -291,6 +391,22 @@
       "duration_ms": 220465,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/4kQVyej9KLlxX3Ro969Poa"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Nothing Works",
+        "url": "https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252797,
+      "name": "Nothing Works",
+      "url": "https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -399,6 +515,22 @@
       "duration_ms": 183934,
       "name": "No Alarm",
       "url": "https://open.spotify.com/track/1NfpDQQerZvnm1NF1p4V4p"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/7oCDphcaDVxbN7CPRRPbxm"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "duration_ms": 178169,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/7t1Q5yppvM7mwkV5jihZMf"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -631,22 +763,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Echo The Diamond",
-        "url": "https://open.spotify.com/album/4Mal9r2lPvrzpsWstauX32"
-      },
-      "artists": [
-        {
-          "name": "Margaret Glaspy",
-          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Irish Goodbye",
-      "url": "https://open.spotify.com/track/2Gla2RTvl3ozhERrYzVmfi"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "NYE [Feat. Suki Waterhouse]",
         "url": "https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP"
       },
@@ -811,22 +927,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Ready For You",
-        "url": "https://open.spotify.com/album/1h4w0lyV12u3CuxsvQvEKR"
-      },
-      "artists": [
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Ready For You",
-      "url": "https://open.spotify.com/track/3cDHpCGXwtmwlYG03O73UD"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "The Mall",
         "url": "https://open.spotify.com/album/5h7BayM1hxhcxfDUC7d85U"
       },
@@ -943,26 +1043,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Hello (feat. KennyHoopla)",
-        "url": "https://open.spotify.com/album/4Flmd6lR7yOZ1PLvRXOTVM"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        },
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 219932,
-      "name": "Hello (feat. KennyHoopla)",
-      "url": "https://open.spotify.com/track/313EAgpDtxaqYhQMxaNUwk"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "I\u2019d Like You To Leave",
         "url": "https://open.spotify.com/album/07fLys1nAwfqubZ5q927iW"
       },
@@ -1043,22 +1123,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Flyin' On The Beat",
-        "url": "https://open.spotify.com/album/5MbfW3ayrxQXYJTb9Z673d"
-      },
-      "artists": [
-        {
-          "name": "Trash Panda",
-          "url": "https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7"
-        }
-      ],
-      "duration_ms": 164305,
-      "name": "Flyin' On The Beat",
-      "url": "https://open.spotify.com/track/19VZHcvZzCiSu7AqsImPRF"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Sarah's Birthday on the Beach",
         "url": "https://open.spotify.com/album/6dQpeNbSypatcAG3N53Ldz"
       },
@@ -1091,24 +1155,8 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Celebrity Lookalikes",
-        "url": "https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu"
-      },
-      "artists": [
-        {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
-        }
-      ],
-      "duration_ms": 212458,
-      "name": "Celebrity Lookalikes",
-      "url": "https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Evicted",
-        "url": "https://open.spotify.com/album/2Exf1TaOG1wElBCKNDzWdz"
+        "name": "Cousin",
+        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
       },
       "artists": [
         {
@@ -1118,7 +1166,7 @@
       ],
       "duration_ms": 209760,
       "name": "Evicted",
-      "url": "https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ"
+      "url": "https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1183,22 +1231,6 @@
       "duration_ms": 175190,
       "name": "Since August",
       "url": "https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "From Me to You",
-        "url": "https://open.spotify.com/album/333e8sycLvInCv5SVViLLt"
-      },
-      "artists": [
-        {
-          "name": "PWNT",
-          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
-        }
-      ],
-      "duration_ms": 196125,
-      "name": "From Me to You",
-      "url": "https://open.spotify.com/track/0yTizzQjcAOj8zZNfHBkgL"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1315,22 +1347,6 @@
       "duration_ms": 207500,
       "name": "Drivin (feat. Field Medic)",
       "url": "https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Tell Me That It\u2019s Over",
-        "url": "https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 142333,
-      "name": "Marvelous",
-      "url": "https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1483,22 +1499,6 @@
       "duration_ms": 174600,
       "name": "My Grandma Says We Have No Future",
       "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Top 5",
-        "url": "https://open.spotify.com/album/72OSdlZT0gJDJvvfJ9N4x8"
-      },
-      "artists": [
-        {
-          "name": "Worriers",
-          "url": "https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD"
-        }
-      ],
-      "duration_ms": 182556,
-      "name": "Top 5",
-      "url": "https://open.spotify.com/track/7eefiH4EBKSCJHZym4oPNL"
     },
     {
       "added_at": "2023-09-08 04:00:00",

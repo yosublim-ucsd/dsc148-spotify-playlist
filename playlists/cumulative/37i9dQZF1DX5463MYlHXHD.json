@@ -1255,6 +1255,28 @@
     },
     {
       "album": {
+        "name": "Guerra",
+        "url": "https://open.spotify.com/album/3nAcVpBeZ5MEaZmtNt1Uhf"
+      },
+      "artists": [
+        {
+          "name": "Dj Plaga",
+          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
+        },
+        {
+          "name": "Tirri La Roca",
+          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177808,
+      "name": "Guerra",
+      "url": "https://open.spotify.com/track/2SS3YF05rm1adWFAGXAZFh"
+    },
+    {
+      "album": {
         "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
         "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
       },
@@ -1602,7 +1624,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 453610,
       "name": "La Ranchada",
       "url": "https://open.spotify.com/track/5RIP4Uy07AfA9ilF58h3DW"

@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 157362,
+  "num_followers": 157506,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjBmYWMxOGFhMTkxNTI4MDkwMjY3ZTRiZTkwOWFhOGRlZmRjMDYy",
+  "snapshot_id": "MCxkZDQ2MGQ3YzBhN2NiMDIzYjQ0NmNiNGMzMTFiNDQ4ZDRlYTlhOGUw",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -245,6 +245,22 @@
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
     },
     {
+      "added_at": "2022-02-03 23:38:31",
+      "album": {
+        "name": "Let the Festivities Begin!",
+        "url": "https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "The Link Is About to Die",
+      "url": "https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU"
+    },
+    {
       "added_at": "2022-07-01 02:44:20",
       "album": {
         "name": "Up and Away",
@@ -263,22 +279,6 @@
       "duration_ms": 224448,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
-    },
-    {
-      "added_at": "2022-02-03 23:38:31",
-      "album": {
-        "name": "Let the Festivities Begin!",
-        "url": "https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "The Link Is About to Die",
-      "url": "https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -539,6 +539,22 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 290448,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3pTtkt58Xi4VfAgZJVH3cU"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
         "name": "On te l'avait dit",
         "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
@@ -605,26 +621,6 @@
       "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
     },
     {
-      "added_at": "2022-04-17 20:09:31",
-      "album": {
-        "name": "Inspiration Information 3",
-        "url": "https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP"
-      },
-      "artists": [
-        {
-          "name": "Mulatu Astatke",
-          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
-        },
-        {
-          "name": "The Heliocentrics",
-          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Cha Cha",
-      "url": "https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "K.G.",
@@ -661,20 +657,24 @@
       "url": "https://open.spotify.com/track/5GMhgIyKbUlcw05h394yvl"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-04-17 20:09:31",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+        "name": "Inspiration Information 3",
+        "url": "https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        },
+        {
+          "name": "The Heliocentrics",
+          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
         }
       ],
-      "duration_ms": 290448,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/3pTtkt58Xi4VfAgZJVH3cU"
+      "duration_ms": 275373,
+      "name": "Cha Cha",
+      "url": "https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr"
     },
     {
-      "added_at": "2023-07-19 02:43:48",
-      "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
-    },
-    {
       "added_at": "2022-12-29 18:51:03",
       "album": {
         "name": "Tayyara Warak (Habibi Funk 023)",
@@ -943,6 +927,22 @@
       "duration_ms": 168097,
       "name": "Tayyara Warak",
       "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
+    },
+    {
+      "added_at": "2023-07-19 02:43:48",
+      "album": {
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
       "added_at": "2022-04-17 18:29:09",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 206684,
-      "name": "Nosotros Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Ilana (The Creator)",
         "url": "https://open.spotify.com/album/7qi4bVdiQy8tTtAzwJBd2w"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 447083,
       "name": "Tarhatazed",
       "url": "https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 206684,
+      "name": "Nosotros Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
     },
     {
-      "added_at": "2022-03-04 03:59:12",
-      "album": {
-        "name": "Binbo\u011fa",
-        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
-      },
-      "artists": [
-        {
-          "name": "Yalnayak",
-          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Binbo\u011fa",
-      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Afrique Victime",
@@ -1241,20 +1225,36 @@
       "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-03-04 03:59:12",
       "album": {
-        "name": "\u0434\u043b\u044f FOR",
-        "url": "https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ"
+        "name": "Binbo\u011fa",
+        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
       },
       "artists": [
         {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+          "name": "Yalnayak",
+          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
         }
       ],
-      "duration_ms": 96923,
-      "name": "\u0434\u0432a TWO",
-      "url": "https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1"
+      "duration_ms": 242400,
+      "name": "Binbo\u011fa",
+      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
+    },
+    {
+      "added_at": "2023-04-13 23:05:11",
+      "album": {
+        "name": "Sue\u00f1o EP",
+        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Octopus",
+      "url": "https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1273,20 +1273,20 @@
       "url": "https://open.spotify.com/track/3Oz6UMkZPQFP14wLXYWLul"
     },
     {
-      "added_at": "2023-04-13 23:05:11",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Sue\u00f1o EP",
-        "url": "https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR"
+        "name": "\u0434\u043b\u044f FOR",
+        "url": "https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ"
       },
       "artists": [
         {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
         }
       ],
-      "duration_ms": 231013,
-      "name": "Octopus",
-      "url": "https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o"
+      "duration_ms": 96923,
+      "name": "\u0434\u0432a TWO",
+      "url": "https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1"
     },
     {
       "added_at": "2023-07-17 18:55:09",
@@ -1373,6 +1373,22 @@
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Zan",
+        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
+      },
+      "artists": [
+        {
+          "name": "Liraz",
+          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
+        }
+      ],
+      "duration_ms": 216640,
+      "name": "Bia Bia",
+      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
+    },
+    {
       "added_at": "2022-03-28 18:17:41",
       "album": {
         "name": "Udhero Na",
@@ -1391,22 +1407,6 @@
       "duration_ms": 303361,
       "name": "Udhero Na feat. Anoushka Shankar",
       "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Zan",
-        "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
-      },
-      "artists": [
-        {
-          "name": "Liraz",
-          "url": "https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk"
-        }
-      ],
-      "duration_ms": 216640,
-      "name": "Bia Bia",
-      "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1501,20 +1501,20 @@
       "url": "https://open.spotify.com/track/250EZZGyjYplBum6Simk1B"
     },
     {
-      "added_at": "2023-07-19 02:43:48",
+      "added_at": "2023-06-05 21:04:25",
       "album": {
-        "name": "Taimangalimaaq (Time After Time)",
-        "url": "https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52"
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
         }
       ],
-      "duration_ms": 253090,
-      "name": "Taimangalimaaq (Time After Time)",
-      "url": "https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW"
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu",
+      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1535,6 +1535,22 @@
       "duration_ms": 318226,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
+    },
+    {
+      "added_at": "2023-07-19 02:43:48",
+      "album": {
+        "name": "Taimangalimaaq (Time After Time)",
+        "url": "https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 253090,
+      "name": "Taimangalimaaq (Time After Time)",
+      "url": "https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1567,22 +1583,6 @@
       "duration_ms": 373893,
       "name": "Calling England Home",
       "url": "https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2"
-    },
-    {
-      "added_at": "2023-06-05 21:04:25",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu",
-      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
       "added_at": "2023-07-24 18:01:42",
@@ -1631,22 +1631,6 @@
       "duration_ms": 241157,
       "name": "Nautilus",
       "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
-    },
-    {
-      "added_at": "2023-07-19 02:50:55",
-      "album": {
-        "name": "The Ballad of the Runaway Girl",
-        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 205636,
-      "name": "Arnaq",
-      "url": "https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v"
     },
     {
       "added_at": "2022-11-25 01:28:32",
@@ -1701,20 +1685,20 @@
       "url": "https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2023-07-19 02:50:55",
       "album": {
-        "name": "Remain in Light",
-        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+        "name": "The Ballad of the Runaway Girl",
+        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
       "artists": [
         {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 348813,
-      "name": "Once in a Lifetime",
-      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
+      "duration_ms": 205636,
+      "name": "Arnaq",
+      "url": "https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1731,6 +1715,22 @@
       "duration_ms": 327560,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/0lfCoE7BfCZaaLiKSxSYXL"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Remain in Light",
+        "url": "https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 348813,
+      "name": "Once in a Lifetime",
+      "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
     }
   ],
   "unique_name": "Folk Fabrique",

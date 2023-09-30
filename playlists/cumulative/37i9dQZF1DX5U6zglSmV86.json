@@ -415,6 +415,32 @@
     },
     {
       "album": {
+        "name": "En El Barrio",
+        "url": "https://open.spotify.com/album/7IBfh4NB9SG92PhyqfoI3x"
+      },
+      "artists": [
+        {
+          "name": "El Borrado M",
+          "url": "https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U"
+        },
+        {
+          "name": "El Lirikario",
+          "url": "https://open.spotify.com/artist/3Iouw6T9joHE8dX2TomvNM"
+        },
+        {
+          "name": "Lirik Dog",
+          "url": "https://open.spotify.com/artist/089lHQDlY6FIMtKzztdUAb"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255789,
+      "name": "En El Barrio",
+      "url": "https://open.spotify.com/track/6W89riCJaMblBi5CHhB6Vi"
+    },
+    {
+      "album": {
         "name": "Viaje Sin Equipaje",
         "url": "https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw"
       },
@@ -543,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Frikitona",
+        "url": "https://open.spotify.com/album/0NAoesvR4n07viJtdUBqDE"
+      },
+      "artists": [
+        {
+          "name": "Chikis RA",
+          "url": "https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178785,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/2kY8eaR1Y5T69uMhXw3h1s"
+    },
+    {
+      "album": {
         "name": "HDP",
         "url": "https://open.spotify.com/album/671zdpfcfgpxxEsEP3XUo5"
       },
@@ -566,6 +610,32 @@
       "duration_ms": 222631,
       "name": "HDP",
       "url": "https://open.spotify.com/track/6Yz3ftaOXFBSIUh8DKFoLp"
+    },
+    {
+      "album": {
+        "name": "Ilegal",
+        "url": "https://open.spotify.com/album/5xdzsNhg4IP4FXUMiT70Be"
+      },
+      "artists": [
+        {
+          "name": "Don Tkt Hemafia",
+          "url": "https://open.spotify.com/artist/6YBqTxHlF9NKytDKR4I2aw"
+        },
+        {
+          "name": "69 Lokos",
+          "url": "https://open.spotify.com/artist/4sJC9ncqXO3ulcAhomHevu"
+        },
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267695,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/6SYOA4crkUyhgtsNrhpRd9"
     },
     {
       "album": {
@@ -668,6 +738,28 @@
       "duration_ms": 236160,
       "name": "La Sombra",
       "url": "https://open.spotify.com/track/5LcFkBiHvB5BtIGdmWCAa0"
+    },
+    {
+      "album": {
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/1zK3TV2luYmgMTBgViW2Jc"
+      },
+      "artists": [
+        {
+          "name": "Krusha G",
+          "url": "https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw"
+        },
+        {
+          "name": "Coko Yamasaki",
+          "url": "https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183733,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/5hSjKz5d9BNFLbVN1dJ0YV"
     },
     {
       "album": {

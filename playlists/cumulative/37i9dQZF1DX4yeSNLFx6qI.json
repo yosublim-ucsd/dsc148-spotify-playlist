@@ -1217,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "CU4TRO",
+        "url": "https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187533,
+      "name": "Fue Lo Mejor",
+      "url": "https://open.spotify.com/track/5EMc0D7ColnFc9t21jF6PD"
+    },
+    {
+      "album": {
         "name": "Fue Lo Mejor",
         "url": "https://open.spotify.com/album/7LMo6IdCd1P9BTGOYvbgZF"
       },
@@ -3272,7 +3290,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 231724,
       "name": "Te La Dedico",
       "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"

@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 26848,
+  "num_followers": 26871,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmI2YTY2MGVlZGNkMTljMmQ1ZTA4MzFiNTU1ZGE2NzMxY2ZmNTRj",
+  "snapshot_id": "MCw2NjlhZmVmNjIxYzUyZDI5MmJlOGI5NWRkZmJiOTgzNDg3ZWEzNjE2",
   "tracks": [
     {
       "added_at": "2023-09-03 23:24:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "S.O.S.",
-        "url": "https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG"
-      },
-      "artists": [
-        {
-          "name": "No s\u00e9 a qui\u00e9n matar",
-          "url": "https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV"
-        }
-      ],
-      "duration_ms": 177771,
-      "name": "S.O.S.",
-      "url": "https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Amor de Furgoneta",
         "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 192865,
       "name": "Amor de Furgoneta",
       "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "S.O.S.",
+        "url": "https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG"
+      },
+      "artists": [
+        {
+          "name": "No s\u00e9 a qui\u00e9n matar",
+          "url": "https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV"
+        }
+      ],
+      "duration_ms": 177771,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Almost Reach the Sun",
+        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
+      },
+      "artists": [
+        {
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
+        }
+      ],
+      "duration_ms": 237087,
+      "name": "Lazy Lovers",
+      "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Ceremonia",
         "url": "https://open.spotify.com/album/0eJvHrZXZkkUDVMQuEJq07"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 251595,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Almost Reach the Sun",
-        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
-      },
-      "artists": [
-        {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
-        }
-      ],
-      "duration_ms": 237087,
-      "name": "Lazy Lovers",
-      "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
     },
     {
       "added_at": "2023-05-05 06:00:00",

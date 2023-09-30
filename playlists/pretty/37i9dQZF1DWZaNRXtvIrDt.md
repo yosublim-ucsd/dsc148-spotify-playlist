@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,868 likes - 85 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,896 likes - 85 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 84 | [Fly Away XTC](https://open.spotify.com/track/5G4sUncALYICBJzxsRBrhn) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Fallen Angel](https://open.spotify.com/album/5eKWupqx2kfK4w9eEmUn6n) | 4:37 |
 | 85 | [Mother \- Pretty Girl Remix](https://open.spotify.com/track/2rGOL5VgjeJUjQEoRVSQ8o) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Mother \(Remixes\)](https://open.spotify.com/album/4dkxdBbALMtQCORM3vne8u) | 5:50 |
 
-Snapshot ID: `MCw5YmYwMTg3MTkxMTYzODUwMTM2YWE2NzI1ZDk5NjU3OTZjYTA1NzRh`
+Snapshot ID: `MCwxMzg2ZDFmYmRmZTg4M2UxZTk4Zjc2YjdlYzhmYzJkYzg2MzA2Mzcx`

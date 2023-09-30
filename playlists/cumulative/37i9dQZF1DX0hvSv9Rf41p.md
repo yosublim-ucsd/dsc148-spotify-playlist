@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Excision & Subtronics.
 
-611 songs - 1 day 11 hr 17 min
+612 songs - 1 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Keep You \(Close\)](https://open.spotify.com/track/7h3L3Dsr2bNd2NIwoXcsNu) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [PLAY: GRID](https://open.spotify.com/album/0AhHp5xTgnoJvZgzhFQJuw) | 2:46 | 2023-09-15 |  |
 | [KENKA](https://open.spotify.com/track/0IWI0riXpzyc5FqVuoljGJ) | [Psyk](https://open.spotify.com/artist/2RusBZlkZ9lETokC77zCH6), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [Lazerpunk](https://open.spotify.com/artist/1xFCRE0T1SELBAaxtlG5X3) | [KENKA](https://open.spotify.com/album/33ClsVhy2gpOIVF9rAE8LX) | 3:22 | 2021-12-17 | 2022-03-12 |
 | [Kill Me With Your Love](https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Kill Me With Your Love](https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31) | 2:54 | 2022-01-21 | 2022-08-06 |
-| [KILLA](https://open.spotify.com/track/1B8rygL2m0YFYXKfxNqsG1) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [ESCARGOT](https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3) | [KILLA](https://open.spotify.com/album/1xZ3vAVE835fY1Gi5O17Sa) | 3:24 | 2023-07-21 |  |
+| [KILLA](https://open.spotify.com/track/1B8rygL2m0YFYXKfxNqsG1) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [ESCARGOT](https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3) | [KILLA](https://open.spotify.com/album/1xZ3vAVE835fY1Gi5O17Sa) | 3:24 | 2023-07-21 | 2023-09-30 |
 | [King](https://open.spotify.com/track/0zLwiYqZEwjS4p85V07uOh) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [King](https://open.spotify.com/album/31BofjIuJwIht4LCcUmzDH) | 2:55 | 2023-05-19 | 2023-09-09 |
 | [Kiwi](https://open.spotify.com/track/1NVvUFQF36tfet1CoAN2fM) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [Riotville ADE Compilation 2022](https://open.spotify.com/album/1Q5WOq8xnIggDbpsSk1Z2E) | 2:26 | 2022-09-30 | 2022-10-20 |
 | [Kiwi](https://open.spotify.com/track/55b0r9RIvfhCJKCRqpGy4q) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Foramic](https://open.spotify.com/artist/4HD430MFk1qBcLuLbBvclq) | [Kiwi](https://open.spotify.com/album/0ieBSQU75oRUKPzmb9lvJT) | 2:26 | 2022-09-30 | 2023-04-09 |
@@ -396,6 +396,7 @@
 | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 | 2023-07-07 |  |
 | [One Day](https://open.spotify.com/track/0y9PU8ICc8ubLDjQ1kEjSH) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Sable Valley Summer Vol\. 2](https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5) | 3:56 | 2021-12-17 | 2022-03-12 |
 | [One More Day \(with Chandler Leighton\)](https://open.spotify.com/track/7hCZVX8ogwzgszIKtkD6Bv) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [One More Day \(with Chandler Leighton\)](https://open.spotify.com/album/20BQqiuNutjnDzWLSBZfWL) | 4:32 | 2021-12-17 | 2022-02-19 |
+| [One Strobe](https://open.spotify.com/track/2hqJXTvK0uU4VeUhxVg6Sp) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Counting EP](https://open.spotify.com/album/5dcBbK62PiNQNKoY9Tl3Jd) | 4:12 | 2023-09-29 |  |
 | [Opal](https://open.spotify.com/track/3hLkSHCoQgucEZCtotzLoX) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Opal](https://open.spotify.com/album/0hlXsQLYWsZBTcL5sReHrl) | 5:42 | 2021-12-17 | 2022-05-07 |
 | [Open Your Mind](https://open.spotify.com/track/1ztnDy21iJOc5eH7wvbEeV) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Open Your Mind](https://open.spotify.com/album/4coZdNTSApgHapvBDXY1U4) | 2:54 | 2022-03-04 | 2022-12-03 |
 | [Operator](https://open.spotify.com/track/5JVHMRWlqPuqB331dVe5wl) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Operator](https://open.spotify.com/album/0cUBXDtEC8xdBkwI1KvxAt) | 2:53 | 2022-08-26 | 2023-03-25 |

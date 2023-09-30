@@ -432,10 +432,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 237199,
       "name": "El Ecuador",
       "url": "https://open.spotify.com/track/6oI8kM58eUIao3sLwt1PQS"
+    },
+    {
+      "album": {
+        "name": "El Fin del Mar",
+        "url": "https://open.spotify.com/album/51xJG7Sg2Lkh7FJEAzxUvK"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258687,
+      "name": "El Fin del Mar",
+      "url": "https://open.spotify.com/track/7z0Rl2N1ChaC6a9FxSGn9Y"
     },
     {
       "album": {
@@ -724,6 +742,28 @@
       "duration_ms": 235133,
       "name": "La Ni\u00f1a Blanca",
       "url": "https://open.spotify.com/track/2HQfE6rpHZnbXZUtUtO9RL"
+    },
+    {
+      "album": {
+        "name": "Llegar\u00e1",
+        "url": "https://open.spotify.com/album/1tbSyBL4rjT73sQwLfDNpi"
+      },
+      "artists": [
+        {
+          "name": "Ana Naranja",
+          "url": "https://open.spotify.com/artist/2nTGMPHzQvrJKH2j1LSQiq"
+        },
+        {
+          "name": "Grupo Enkel\u00e9",
+          "url": "https://open.spotify.com/artist/0e7FfMLNwJDYhLwRnvxpRm"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233497,
+      "name": "Llegar\u00e1",
+      "url": "https://open.spotify.com/track/6WUDIML61rMTnuxRlNVcJL"
     },
     {
       "album": {
@@ -1428,7 +1468,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 213040,
       "name": "Venganza",
       "url": "https://open.spotify.com/track/4KoUXNSCBNWkUAOm09q4vq"

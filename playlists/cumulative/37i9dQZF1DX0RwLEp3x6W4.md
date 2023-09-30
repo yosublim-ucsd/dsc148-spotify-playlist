@@ -2,7 +2,7 @@
 
 ### [Bluegrass Origins](https://open.spotify.com/playlist/37i9dQZF1DX0RwLEp3x6W4)
 
-> Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Jesse McReynolds
+> Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Hazel Dickens and Alice Gerrard
 
 90 songs - 3 hr 48 min
 

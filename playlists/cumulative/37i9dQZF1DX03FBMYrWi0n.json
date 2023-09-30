@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 182252,
       "name": "l'\u00cele",
       "url": "https://open.spotify.com/track/10wZLG9ttpMIiYCaJsRvGs"
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 208754,
       "name": "Nue",
       "url": "https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6"
@@ -1686,6 +1686,24 @@
       "duration_ms": 164735,
       "name": "Petit canari",
       "url": "https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0"
+    },
+    {
+      "album": {
+        "name": "Peupliers",
+        "url": "https://open.spotify.com/album/6Q4lWPh4rtQ4guPGOAFfpd"
+      },
+      "artists": [
+        {
+          "name": "Totalement Sublime",
+          "url": "https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295687,
+      "name": "Peupliers",
+      "url": "https://open.spotify.com/track/1CvXAfQiVuP7wdDK7O3xX1"
     },
     {
       "album": {
@@ -2100,6 +2118,24 @@
       "duration_ms": 145936,
       "name": "Ton h\u00f4tel",
       "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
+    },
+    {
+      "album": {
+        "name": "Tracer des lignes",
+        "url": "https://open.spotify.com/album/7xty3TrdI151JCmI6tO35v"
+      },
+      "artists": [
+        {
+          "name": "oui merci",
+          "url": "https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189510,
+      "name": "Tracer des lignes",
+      "url": "https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB"
     },
     {
       "album": {

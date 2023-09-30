@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : Lartiste
+> Les hits du moment sont ici\. Cover : Nej
 
 214 songs - 11 hr 46 min
 

@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Office Dog \| Artwork: Jim Klok
 
-1,156 songs - 2 day 15 hr 2 min
+1,157 songs - 2 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,8 @@
 | [Fountainhead](https://open.spotify.com/track/0hdC0qNrHBFdQoXM0skx7v) | [Nara's Room](https://open.spotify.com/artist/3HZtXP2NFVOKB6aNLCmpwW) | [Topanga swirl](https://open.spotify.com/album/4LWgpYBBrOF9mXAg1ioSEY) | 6:09 | 2023-08-23 |  |
 | [Frankenstein](https://open.spotify.com/track/1UaKZDqPvCfFX2kgqOczsB) | [TRAMP](https://open.spotify.com/artist/6ijgEPSDNChOTSh7hmRf7t) | [Frankenstein](https://open.spotify.com/album/2IOYp1mJ90Spa3Qdcu3xVz) | 3:12 | 2022-04-27 | 2022-07-07 |
 | [Frankie's Rowing Machine](https://open.spotify.com/track/4sBIBw2fzDkOdImREN44dy) | [Search Committee](https://open.spotify.com/artist/2S9LiHluJWkBZgCUbtSLls) | [Frankie's Rowing Machine](https://open.spotify.com/album/79YZPCvGk5SYvq8tJ7WHN0) | 2:41 | 2022-08-03 | 2022-10-27 |
-| [Freaks Like Us](https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3) | 4:54 | 2023-08-02 |  |
+| [Freaks Like Us](https://open.spotify.com/track/0chJDuzoUhpvfLJiSP4cEe) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/6aaFOSMUUxYBAJ3fcxZmBo) | 4:54 | 2023-09-27 |  |
+| [Freaks Like Us](https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3) | 4:54 | 2023-08-02 | 2023-09-30 |
 | [Freaky](https://open.spotify.com/track/3YTh8sEUXyvufGoQA5e6LP) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Freaky](https://open.spotify.com/album/1IAFJUMqWGnF6lYADgS2jw) | 2:49 | 2023-08-23 |  |
 | [Free Kitten](https://open.spotify.com/track/6XzQcgxOkerUy8W0Lspmgx) | [Voiid](https://open.spotify.com/artist/5k1Hr3VeI3TXHwBh9ohm0b) | [Free Kitten](https://open.spotify.com/album/3T5LblFP8XqcHK9sOjGq5F) | 3:37 | 2023-02-22 | 2023-03-09 |
 | [Friends](https://open.spotify.com/track/1q23rBKbOj5p2RWFXK96HQ) | [The Entrepreneurs](https://open.spotify.com/artist/4S7dliS2X7ESmtenWiGlaq) | [Friends / Amìanto](https://open.spotify.com/album/258wAP3PJ72w6iD6jfo6bv) | 3:00 | 2022-03-23 | 2022-05-05 |

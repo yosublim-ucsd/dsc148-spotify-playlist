@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Kim Petras
 
-2,006 songs - 4 day 21 hr 1 min
+2,007 songs - 4 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,7 +565,8 @@
 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-09-24 |  |
 | [GPS](https://open.spotify.com/track/07p84hBZV8ViWuSLXtCvfF) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5) | [GPS](https://open.spotify.com/album/4HNInw0g44IblsgpOAXZVm) | 4:01 | 2023-01-29 | 2023-02-06 |
 | [Gradation](https://open.spotify.com/track/1jHUljgXl2Xj1HGAwulnO5) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Gradation](https://open.spotify.com/album/5woBgrQYG6UZZ84NVaKtXw) | 3:17 | 2023-09-17 | 2023-09-25 |
-| [Grapefruit Moon](https://open.spotify.com/track/4u6rKlnEBE1Ul3Ll7IUuH9) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Grapefruit Moon](https://open.spotify.com/album/0JFZ2rVwfkL6YpBfyNIN1l) | 3:16 | 2023-09-24 |  |
+| [Grapefruit Moon](https://open.spotify.com/track/2PE3kNSKy56QkLZmO3Sb5w) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:16 | 2023-09-24 |  |
+| [Grapefruit Moon](https://open.spotify.com/track/4u6rKlnEBE1Ul3Ll7IUuH9) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Grapefruit Moon](https://open.spotify.com/album/0JFZ2rVwfkL6YpBfyNIN1l) | 3:16 | 2023-09-24 | 2023-09-30 |
 | [Grateful Days](https://open.spotify.com/track/3oC5ojye9bZTp1Z5UDEUhl) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [Grateful Days](https://open.spotify.com/album/3LIVv7tHwJ3wXthuXT8APm) | 3:08 | 2023-06-18 | 2023-06-26 |
 | [Graveyard](https://open.spotify.com/track/2GtYzWux5LwmdOzKkYLbZG) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [A R I Z O N A](https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED) | 3:43 | 2023-05-14 | 2023-05-23 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-17 |  |

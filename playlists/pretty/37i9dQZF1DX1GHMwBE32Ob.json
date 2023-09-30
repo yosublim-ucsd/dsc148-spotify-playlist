@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nRIP Mohbad",
-  "num_followers": 22139,
+  "num_followers": 22318,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTI2NDM2ZDdmOWIxMDQzMjQ4NDIzMDJlNTE5ZjJiNjgwYmY1NDNj",
+  "snapshot_id": "MCxkNDlhNTg5NDhkZmEzN2FhYzFlMWZlYTY0NjQzYjg0ZDMxMzliNzI1",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Gbeff",
-        "url": "https://open.spotify.com/album/1YK8ApM3tX4BPjfSNgcg4U"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 135240,
-      "name": "Gbeff",
-      "url": "https://open.spotify.com/track/1zr6TtMmNTTDKbyzWxybdY"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Feel Better",
         "url": "https://open.spotify.com/album/1ew7HYS9GyX2klze1hoKFL"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 143300,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Gbeff",
+        "url": "https://open.spotify.com/album/1YK8ApM3tX4BPjfSNgcg4U"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        }
+      ],
+      "duration_ms": 135240,
+      "name": "Gbeff",
+      "url": "https://open.spotify.com/track/1zr6TtMmNTTDKbyzWxybdY"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -739,18 +739,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Wire",
-        "url": "https://open.spotify.com/album/7sp3pOTSG2BO3VWKcRWJH8"
+        "name": "A True Champion",
+        "url": "https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk"
       },
       "artists": [
         {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
         }
       ],
-      "duration_ms": 144065,
-      "name": "Wire",
-      "url": "https://open.spotify.com/track/2XNaMlHROxvkKGohcQHQZV"
+      "duration_ms": 191722,
+      "name": "KPK (Ko Por Ke)",
+      "url": "https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -779,22 +783,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "A True Champion",
-        "url": "https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk"
+        "name": "Wire",
+        "url": "https://open.spotify.com/album/7sp3pOTSG2BO3VWKcRWJH8"
       },
       "artists": [
         {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        },
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 191722,
-      "name": "KPK (Ko Por Ke)",
-      "url": "https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG"
+      "duration_ms": 144065,
+      "name": "Wire",
+      "url": "https://open.spotify.com/track/2XNaMlHROxvkKGohcQHQZV"
     },
     {
       "added_at": "2023-09-29 00:01:00",

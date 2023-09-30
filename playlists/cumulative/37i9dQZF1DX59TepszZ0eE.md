@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=\-9JFuiccQya\_Jl9YM4qbQQ">Benjamin Dube</a>
 
-158 songs - 15 hr 50 min
+159 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Hlala Kimi Jesu \(Live\)](https://open.spotify.com/track/1mSNKKV9AnVTrLotvDQWu6) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Hlala Kimi Jesu \(Live\)](https://open.spotify.com/album/3dDxgxhQ3DBSvn9T4DXpOZ) | 8:42 | 2023-09-08 |  |
 | [Hold On \(Live\)](https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1) | [Hold On \(Live\)](https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS) | 6:45 | 2023-06-30 |  |
 | [I Love You Jesus](https://open.spotify.com/track/19t91jklcPLCHYLW0kCRPd) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Give Thanks](https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY) | 9:31 | 2022-05-19 | 2023-03-18 |
+| [I Need Thee \(Live\)](https://open.spotify.com/track/0k72g6s6faEERwGTSENvB2) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Legendary in His Presence \(Live\)](https://open.spotify.com/album/2P7NaOnVBSjHgmrbAFUM4G) | 2:16 | 2023-09-29 |  |
 | [Imisebenzi Yakho](https://open.spotify.com/track/2fNijmMXShZ4ns3DpgPOFG) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Lavish Worship](https://open.spotify.com/album/346LyPDtxWHvzIB6j6D3Iz) | 5:07 | 2023-04-11 | 2023-06-09 |
 | [Indodana](https://open.spotify.com/track/4jnH5sr7A3hoTmDc6P8Mu2) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [The Grace Encounter, Vol\. 2](https://open.spotify.com/album/57ynLVUliNS3GClLff3g9b) | 4:54 | 2023-03-17 |  |
 | [Ingumlilo \(Lento\) \- Live](https://open.spotify.com/track/4oWA2rEDhWrSOeS61szIIM) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Ingumlilo \(Lento\) \[Live\]](https://open.spotify.com/album/1cmIfoIgaAuWyocxTn2i88) | 5:14 | 2019-04-11 |  |

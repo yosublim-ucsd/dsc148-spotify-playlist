@@ -7375,6 +7375,24 @@
     },
     {
       "album": {
+        "name": "Nattord",
+        "url": "https://open.spotify.com/album/5YlgpGdRTaSuCCUC9bdMuf"
+      },
+      "artists": [
+        {
+          "name": "Eleonora Feldt",
+          "url": "https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Nattord",
+      "url": "https://open.spotify.com/track/5Vab4sH6FYCTPHEZHFlIhQ"
+    },
+    {
+      "album": {
         "name": "Natural Beauty",
         "url": "https://open.spotify.com/album/26ZL2DE2ENhMPEJBqbkdxq"
       },
@@ -8452,6 +8470,24 @@
       "duration_ms": 171550,
       "name": "Phases",
       "url": "https://open.spotify.com/track/2O44kT3re6Pc8ENnA6gJYy"
+    },
+    {
+      "album": {
+        "name": "Placidus",
+        "url": "https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra"
+      },
+      "artists": [
+        {
+          "name": "Elvio Mart\u00edn",
+          "url": "https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Placidus",
+      "url": "https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu"
     },
     {
       "album": {
@@ -11980,6 +12016,24 @@
       "duration_ms": 199663,
       "name": "Through The Self",
       "url": "https://open.spotify.com/track/2uUsM8gmp9HHToPcehe9Zl"
+    },
+    {
+      "album": {
+        "name": "Tidal Energy",
+        "url": "https://open.spotify.com/album/01LVspS9Zhj3RDVsLcZqyP"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5nvarv",
+          "url": "https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Tidal Energy",
+      "url": "https://open.spotify.com/track/7KuG4E1I7cNDaHo31R8Lzm"
     },
     {
       "album": {

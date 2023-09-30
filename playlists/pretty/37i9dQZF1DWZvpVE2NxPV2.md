@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,915 likes - 140 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,995 likes - 140 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,17 +18,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 8 | [Dawn stillness](https://open.spotify.com/track/6sSlBSEGhY6mRG5ZvW7B27) | [Fables From Mars](https://open.spotify.com/artist/2jIevUMKJWhRbcToBLJjqW) | [Dawn stillness](https://open.spotify.com/album/7ACjn1FTHLZtAcfW1PMvXW) | 2:39 |
 | 9 | [Transparent](https://open.spotify.com/track/4PDuAWcBrtLPRce5V33hHK) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Echoes of Water](https://open.spotify.com/album/42l3J84qQWgIcToLFBAJr1) | 2:33 |
 | 10 | [Ethereal Spaces Pt 2](https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Ethereal Spaces Pt 2](https://open.spotify.com/album/7hET4nANrxoMHd7ysLsdCC) | 8:10 |
-| 11 | [Unending Love](https://open.spotify.com/track/5DbkYCqQFm8HFp6DO8VJMM) | [New Height](https://open.spotify.com/artist/6wKNuxO3R9Y8CWozSwouwr) | [Unending Love](https://open.spotify.com/album/1WCKZu9Zq6AUlyd7tfdcgf) | 2:46 |
-| 12 | [Evening Star](https://open.spotify.com/track/3FkjbZPxaCFNaZyYZ1jtmr) | [Mellow Mountain](https://open.spotify.com/artist/4nhyKupGKrTJj8f8whWa8L) | [Misty](https://open.spotify.com/album/4IDHmuncCMCsF288iMWXRN) | 3:03 |
-| 13 | [Timeless](https://open.spotify.com/track/21DnS7yrrRpyls44ZIz0is) | [Zen Anani](https://open.spotify.com/artist/5urqRIieWuxva363YmJoU2) | [Timeless](https://open.spotify.com/album/0JOAt5jpy8gSU7JbjKlOgW) | 2:39 |
-| 14 | [Open Air](https://open.spotify.com/track/7KTPLShpRc7m6091ywTrjU) | [Ion Dia](https://open.spotify.com/artist/6tuTemxMmES4GFfBd54bHX) | [Open Air](https://open.spotify.com/album/5YXErTPlxXqszRJHa5JCGs) | 2:43 |
-| 15 | [Sojourn](https://open.spotify.com/track/0vt9Z5bs20zegRzu3WfHcJ) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Sojourn](https://open.spotify.com/album/678tvE12gbHFdLNL5ME8L0) | 3:21 |
-| 16 | [Emersion](https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Emersion](https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z) | 2:48 |
-| 17 | [Selama Aku Bersamamu](https://open.spotify.com/track/6j3XbhOPbyAqJcYc1gkRdS) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Selama Aku Bersamamu](https://open.spotify.com/album/14AvT6nrlER3v91lS8MvDs) | 4:12 |
-| 18 | [Spirit of Now](https://open.spotify.com/track/6EDGhLq5RfOIzjJTMNgUG8) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Spirit of Now](https://open.spotify.com/album/1kEYXVCoLl2c15HfkubYSr) | 3:19 |
-| 19 | [Calming Winds](https://open.spotify.com/track/1ScsfyaRKIOcIzkkfHwC0A) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Calming Winds](https://open.spotify.com/album/79SUMG1B1GU23f7jz6bW2S) | 2:36 |
-| 20 | [Senses](https://open.spotify.com/track/40btANYJL2hwYW0C5b28pb) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Senses](https://open.spotify.com/album/74K5NTAi3kXSgzuBbneNiG) | 3:09 |
-| 21 | [Serene Lake](https://open.spotify.com/track/5j7x0N6j0TH6Tq6RuiKtnj) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Serene Lake](https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo) | 2:36 |
+| 11 | [Soulful Serenity](https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Soulful Serenity](https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj) | 3:04 |
+| 12 | [Unending Love](https://open.spotify.com/track/5DbkYCqQFm8HFp6DO8VJMM) | [New Height](https://open.spotify.com/artist/6wKNuxO3R9Y8CWozSwouwr) | [Unending Love](https://open.spotify.com/album/1WCKZu9Zq6AUlyd7tfdcgf) | 2:46 |
+| 13 | [Evening Star](https://open.spotify.com/track/3FkjbZPxaCFNaZyYZ1jtmr) | [Mellow Mountain](https://open.spotify.com/artist/4nhyKupGKrTJj8f8whWa8L) | [Misty](https://open.spotify.com/album/4IDHmuncCMCsF288iMWXRN) | 3:03 |
+| 14 | [Timeless](https://open.spotify.com/track/21DnS7yrrRpyls44ZIz0is) | [Zen Anani](https://open.spotify.com/artist/5urqRIieWuxva363YmJoU2) | [Timeless](https://open.spotify.com/album/0JOAt5jpy8gSU7JbjKlOgW) | 2:39 |
+| 15 | [Open Air](https://open.spotify.com/track/7KTPLShpRc7m6091ywTrjU) | [Ion Dia](https://open.spotify.com/artist/6tuTemxMmES4GFfBd54bHX) | [Open Air](https://open.spotify.com/album/5YXErTPlxXqszRJHa5JCGs) | 2:43 |
+| 16 | [Sojourn](https://open.spotify.com/track/0vt9Z5bs20zegRzu3WfHcJ) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Sojourn](https://open.spotify.com/album/678tvE12gbHFdLNL5ME8L0) | 3:21 |
+| 17 | [Emersion](https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Emersion](https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z) | 2:48 |
+| 18 | [Selama Aku Bersamamu](https://open.spotify.com/track/6j3XbhOPbyAqJcYc1gkRdS) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Selama Aku Bersamamu](https://open.spotify.com/album/14AvT6nrlER3v91lS8MvDs) | 4:12 |
+| 19 | [Spirit of Now](https://open.spotify.com/track/6EDGhLq5RfOIzjJTMNgUG8) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Spirit of Now](https://open.spotify.com/album/1kEYXVCoLl2c15HfkubYSr) | 3:19 |
+| 20 | [Calming Winds](https://open.spotify.com/track/1ScsfyaRKIOcIzkkfHwC0A) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Calming Winds](https://open.spotify.com/album/79SUMG1B1GU23f7jz6bW2S) | 2:36 |
+| 21 | [Senses](https://open.spotify.com/track/40btANYJL2hwYW0C5b28pb) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Senses](https://open.spotify.com/album/74K5NTAi3kXSgzuBbneNiG) | 3:09 |
 | 22 | [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 |
 | 23 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 |
 | 24 | [Carpe Noctem](https://open.spotify.com/track/027030DBi749hu0tVBAFgX) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Carpe Noctem](https://open.spotify.com/album/38AOIqKaMi4AmlwjD1R9wJ) | 3:03 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 139 | [Fragility](https://open.spotify.com/track/76PJSFCBGkVazJvMcE3Uyi) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Fragility](https://open.spotify.com/album/5xoJiIPUG9kVH5HoQiKRb6) | 2:28 |
 | 140 | [Descendent](https://open.spotify.com/track/1WQU9B3hbamPd5uRsQuDEZ) | [The Thing About Noise](https://open.spotify.com/artist/3YDqHBcfFRqJ136NsrFyYa) | [Texture](https://open.spotify.com/album/5WDvrrJdqAhIRh97925mPe) | 3:06 |
 
-Snapshot ID: `MCw2YWZlZjJlOGY2YWNjZDkwMGZhNTFiY2UxNDhiMThjOGY0NjZjNjY2`
+Snapshot ID: `MCw1MWNkNzE2ZTg0M2EwZDcxZGMyZjQ3NDE1ZmQ1YTFhMDBjMTU2NWM0`

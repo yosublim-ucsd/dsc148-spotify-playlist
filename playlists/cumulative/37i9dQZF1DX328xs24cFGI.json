@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Two Moon",
+        "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222303,
+      "name": "Eimosezu",
+      "url": "https://open.spotify.com/track/4dM1oqZxJ2tU7ALY9S0YcD"
+    },
+    {
+      "album": {
         "name": "Eimosezu/Good Luck",
         "url": "https://open.spotify.com/album/4WCNqpJ3itK3YZULcavlrz"
       },
@@ -416,7 +434,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 222303,
       "name": "Eimosezu",
       "url": "https://open.spotify.com/track/4o47Z4005opCggGLCAYmgS"
@@ -529,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Two Moon",
+        "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202042,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/6GrdwAWFl91NXRxOZCgeRE"
+    },
+    {
+      "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/54OkOlGIXztDx8OzcRiPh4"
       },
@@ -540,7 +576,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 202413,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/28pvMnRZKNiqz6xgBBMkr2"
@@ -666,10 +702,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 239462,
       "name": "HONEY BOY",
       "url": "https://open.spotify.com/track/5j6xw8EzxPriAeHk7Z5Sdk"
+    },
+    {
+      "album": {
+        "name": "Two Moon",
+        "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240305,
+      "name": "Honey Boy",
+      "url": "https://open.spotify.com/track/3B6GDjpl3NyK2jzaJhHN6m"
     },
     {
       "album": {

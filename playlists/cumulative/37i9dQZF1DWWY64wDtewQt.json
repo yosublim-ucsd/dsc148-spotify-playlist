@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "AREAMATE MIZ",
+        "url": "https://open.spotify.com/album/2cuN40DJHCdsfxqx7jM8w3"
+      },
+      "artists": [
+        {
+          "name": "Anar",
+          "url": "https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80271,
+      "name": "AREAMATE MIZ",
+      "url": "https://open.spotify.com/track/6A3uNmMItYREVU0mKY84DO"
+    },
+    {
+      "album": {
         "name": "ARUMANAKKU MK III",
         "url": "https://open.spotify.com/album/5rTkqyJBPAFENcGeGlqCm6"
       },
@@ -672,7 +690,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 137538,
       "name": "AWAKE",
       "url": "https://open.spotify.com/track/2jGZZSMGhFxeypMxyVu4yS"
@@ -1464,6 +1482,28 @@
       "duration_ms": 121121,
       "name": "BROKEN SPIRIT",
       "url": "https://open.spotify.com/track/1UFfpcghvBAHfKwXFG1rr5"
+    },
+    {
+      "album": {
+        "name": "Broken Trust",
+        "url": "https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH"
+      },
+      "artists": [
+        {
+          "name": "SAY3AM",
+          "url": "https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "Broken Trust",
+      "url": "https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte"
     },
     {
       "album": {
@@ -4840,7 +4880,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 140873,
       "name": "IMMACULATE",
       "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"
@@ -4912,10 +4952,36 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 136551,
       "name": "INFERNO",
       "url": "https://open.spotify.com/track/2BLNg9bsza3OamsQvziqc7"
+    },
+    {
+      "album": {
+        "name": "infinite universe",
+        "url": "https://open.spotify.com/album/47k1YcVtWladbWe4EUjSfj"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        },
+        {
+          "name": "glichery",
+          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125029,
+      "name": "infinite universe",
+      "url": "https://open.spotify.com/track/2U155vVDxWPXEaKy2QvK99"
     },
     {
       "album": {
@@ -6120,7 +6186,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 128015,
       "name": "METAMORPHOSIS 3",
       "url": "https://open.spotify.com/track/3J5y9v6vK5ginTnMroJ1Nn"
@@ -6480,6 +6546,24 @@
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
+    },
+    {
+      "album": {
+        "name": "Montagem Celestial de Atenas",
+        "url": "https://open.spotify.com/album/1ZDSWNvpRCtsvLrKEh9a50"
+      },
+      "artists": [
+        {
+          "name": "DJ ORBITAL",
+          "url": "https://open.spotify.com/artist/01XS19DjUcPe5dfYEkXjsg"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210024,
+      "name": "Montagem Celestial de Atenas",
+      "url": "https://open.spotify.com/track/3EbCHjv7JbnBoF88Ku5giz"
     },
     {
       "album": {

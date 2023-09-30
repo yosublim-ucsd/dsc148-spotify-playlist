@@ -867,6 +867,28 @@
     },
     {
       "album": {
+        "name": "Pantea",
+        "url": "https://open.spotify.com/album/7tjjFuEY18RaR8b5BgLxNa"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo_BITW",
+          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
+        },
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/1kvoVygySqbDgyY22qirrv"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Calla",
+      "url": "https://open.spotify.com/track/55U8TrpDMrrLUsAIETCVQ4"
+    },
+    {
+      "album": {
         "name": "Sail",
         "url": "https://open.spotify.com/album/3mfmjgtgtGl9f4hUg5CGed"
       },
@@ -3736,7 +3758,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 315062,
       "name": "Please Stay",
       "url": "https://open.spotify.com/track/1vND8c6S9qev3vgXcVAWFD"

@@ -4,12 +4,13 @@
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-60 songs - 7 hr 8 min
+61 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7\-09](https://open.spotify.com/track/6iSXQusy9UtT5gEELq8N2D) | [The Diamond Underground](https://open.spotify.com/artist/6odaKoS2DymDdAFfAdkov0) | [7\-09](https://open.spotify.com/album/6nQG7eXRcdfyvCFn49wKt1) | 4:11 | 2023-08-10 |  |
-| [A Course In Miracles \- Rodriguez Jr\. Remix](https://open.spotify.com/track/0PCQXXAz2vnh7BoPzZVGe8) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [The Interior Journey Remixes \- Part 2](https://open.spotify.com/album/62DW4TKnxSyAG6jlnYQ9Ma) | 6:11 | 2023-08-10 |  |
+| [A Course In Miracles \- Rodriguez Jr\. Remix](https://open.spotify.com/track/0PCQXXAz2vnh7BoPzZVGe8) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [The Interior Journey Remixes \- Part 2](https://open.spotify.com/album/62DW4TKnxSyAG6jlnYQ9Ma) | 6:11 | 2023-08-10 | 2023-09-30 |
+| [A Course In Miracles \- Rodriguez Jr\. Remix](https://open.spotify.com/track/5Zrda3NOcXsl3AgU1sf1gd) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [The Interior Journey Remixes, Pt\. 2](https://open.spotify.com/album/1cH0l3yujm3KzKDHRvQ09U) | 6:11 | 2023-09-06 |  |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2023-08-10 |  |
 | [Amphibian](https://open.spotify.com/track/41Suz8eMIQXvKdOtkeBYEU) | [Kovert](https://open.spotify.com/artist/5W1dJUVVvOxkYp7r6Z86Bk) | [Emerge](https://open.spotify.com/album/5hZsoDf7rizzN6AqU3qYIZ) | 6:58 | 2023-08-10 |  |
 | [Astral](https://open.spotify.com/track/4cqw90LqN30dRXG9R7ZvUD) | [Far Distance](https://open.spotify.com/artist/2YWhjb3uXjX0wWO4WwczYz) | [Change the World](https://open.spotify.com/album/0GfOb5po7WmOd13QNcpZ3S) | 6:46 | 2023-08-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/0s1xpeEP8VX2sytVILCDBs?si=HIQbcAo2Qj-8JBokdi4UUA\">Saint Realest</a> ",
-  "num_followers": 9757,
+  "num_followers": 9789,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGUyNDczNGFlN2FlNmUzNjZiZjQ0OGMwMGYwOTU3MGJiZTkxZmFl",
+  "snapshot_id": "MCw2MmY0MGQ1Y2I2ZTE2M2E3ZjdlYmNkOGQ1ZmUyYWYyNTIxMmY3NTE0",
   "tracks": [
     {
       "added_at": "2023-09-22 00:01:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "You are Great",
+        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 319346,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "SATISFIED",
         "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
@@ -743,34 +759,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "You are Great",
-        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z"
       },
       "artists": [
         {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
         }
       ],
-      "duration_ms": 319346,
-      "name": "Imela",
-      "url": "https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Everything (Amen)",
-        "url": "https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7"
-      },
-      "artists": [
-        {
-          "name": "Timi Dakolo",
-          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
-        }
-      ],
-      "duration_ms": 237725,
-      "name": "Everything (Amen)",
-      "url": "https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu"
+      "duration_ms": 172027,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -791,22 +791,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "The Expression",
-        "url": "https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm"
+        "name": "Everything (Amen)",
+        "url": "https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7"
       },
       "artists": [
         {
-          "name": "Glowreeyah Braimah",
-          "url": "https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Timi Dakolo",
+          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
         }
       ],
-      "duration_ms": 290530,
-      "name": "Miracle Worker (feat. Nathaniel Bassey)",
-      "url": "https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT"
+      "duration_ms": 237725,
+      "name": "Everything (Amen)",
+      "url": "https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -835,18 +831,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Return Rev. 2:4",
-        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
+        "name": "The Expression",
+        "url": "https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm"
       },
       "artists": [
         {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+          "name": "Glowreeyah Braimah",
+          "url": "https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         }
       ],
-      "duration_ms": 531375,
-      "name": "On Fire",
-      "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
+      "duration_ms": 290530,
+      "name": "Miracle Worker (feat. Nathaniel Bassey)",
+      "url": "https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Return Rev. 2:4",
+        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 531375,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "Man Of Galilee",
         "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 257645,
       "name": "Omemma",
       "url": "https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 172027,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE"
     },
     {
       "added_at": "2023-09-29 00:01:00",

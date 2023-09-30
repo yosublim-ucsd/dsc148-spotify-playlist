@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "New and approved indie pop. Cover: Rocco ",
+  "description": "New and approved indie pop. Cover: hemlocke springs ",
   "name": "Indie Pop",
   "tracks": [
     {
@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 165916,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3"
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 222656,
       "name": "Black Horse",
       "url": "https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv"
@@ -3120,7 +3120,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 221092,
       "name": "Blades",
       "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
@@ -6182,7 +6182,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 146228,
       "name": "cross my heart",
       "url": "https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU"
@@ -7236,7 +7236,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 207684,
       "name": "dirty dishes",
       "url": "https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq"
@@ -8666,7 +8666,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 224210,
       "name": "enknee1",
       "url": "https://open.spotify.com/track/69RiJ3z34tsKkRjeVSjdvL"
@@ -11844,7 +11844,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195147,
-      "name": "Hell N Back (feat. Summer Walker)",
+      "name": "Hell N Back (feat. Summer Walker) [BONUS TRACK]",
       "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
     },
     {
@@ -12546,7 +12546,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 183852,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
@@ -12997,6 +12997,24 @@
     },
     {
       "album": {
+        "name": "Drop Cherries",
+        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206427,
+      "name": "I Can't Get My Head Around You",
+      "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
+    },
+    {
+      "album": {
         "name": "I Can't Get My Head Around You",
         "url": "https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e"
       },
@@ -13376,7 +13394,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 200328,
       "name": "I Haven't Seen You Since The Summer",
       "url": "https://open.spotify.com/track/3LQnvTX0E4cwig42VTbX3X"
@@ -14366,7 +14384,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 150533,
       "name": "Imposter Syndrome",
       "url": "https://open.spotify.com/track/15ooUT2BqringLAgnx9n3O"
@@ -14937,6 +14955,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s My Birthday",
+        "url": "https://open.spotify.com/album/1glQYqG0CJxmYONoz04LVU"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158803,
+      "name": "It\u2019s My Birthday",
+      "url": "https://open.spotify.com/track/1qMDY64lQJyic7OtjYDTUs"
+    },
+    {
+      "album": {
         "name": "U R HERE",
         "url": "https://open.spotify.com/album/0qLWg6o9UcLaJXzxOUiX69"
       },
@@ -15132,7 +15168,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 202382,
       "name": "Juliene",
       "url": "https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2"
@@ -15150,7 +15186,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 157733,
       "name": "july",
       "url": "https://open.spotify.com/track/5qAK8ceZCzwvNabw9Mu17F"
@@ -15172,6 +15208,24 @@
       "duration_ms": 179714,
       "name": "JUMPSHOT!",
       "url": "https://open.spotify.com/track/1hWIeur5Q8BJ9hUrDyTI8W"
+    },
+    {
+      "album": {
+        "name": "jupiter",
+        "url": "https://open.spotify.com/album/7EL4J9B8CbOiKNxuv9wHjn"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150430,
+      "name": "jupiter",
+      "url": "https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S"
     },
     {
       "album": {
@@ -16647,6 +16701,24 @@
     },
     {
       "album": {
+        "name": "LOO SONG",
+        "url": "https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147619,
+      "name": "LOO SONG",
+      "url": "https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku"
+    },
+    {
+      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -16658,7 +16730,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 178617,
       "name": "Looking For Somebody (To Love)",
       "url": "https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT"
@@ -16694,7 +16766,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 182826,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK"
@@ -17002,7 +17074,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 188065,
       "name": "Lovegod",
       "url": "https://open.spotify.com/track/2hKnW3SMsVWhXoSYLXn01G"
@@ -18574,7 +18646,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 179080,
       "name": "moving on (feat. Khary)",
       "url": "https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG"
@@ -20818,7 +20890,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 248093,
       "name": "palmtreedays_1644.wav",
       "url": "https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy"
@@ -21721,6 +21793,24 @@
     },
     {
       "album": {
+        "name": "going...going...GONE!",
+        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185666,
+      "name": "pos",
+      "url": "https://open.spotify.com/track/5EwIo2Vc50Blvpk00ynRQP"
+    },
+    {
+      "album": {
         "name": "Post Humorous",
         "url": "https://open.spotify.com/album/3Gk3QuFFF4zi4RdyYhBkpy"
       },
@@ -22118,7 +22208,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 238680,
       "name": "promised",
       "url": "https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ"
@@ -22696,7 +22786,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 170107,
       "name": "Ribs",
       "url": "https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM"
@@ -24066,7 +24156,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 136828,
       "name": "Sick",
       "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
@@ -28286,7 +28376,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
@@ -29082,7 +29172,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 137114,
       "name": "VOYCONTODO",
       "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
@@ -29490,7 +29580,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 242922,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
@@ -31014,6 +31104,28 @@
       "duration_ms": 235266,
       "name": "Youuu",
       "url": "https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD"
+    },
+    {
+      "album": {
+        "name": "You\u2019d Be Stars (feat. chloe moriondo)",
+        "url": "https://open.spotify.com/album/0BiwIMzRsVUWQFl2taiScY"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        },
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222899,
+      "name": "You\u2019d Be Stars (feat. chloe moriondo)",
+      "url": "https://open.spotify.com/track/6qsIkaOBHaQByY3jiNZSaA"
     },
     {
       "album": {

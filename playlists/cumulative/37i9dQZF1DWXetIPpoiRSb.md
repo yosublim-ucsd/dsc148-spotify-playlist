@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Jung Kook & Jack Harlow
 
-1,179 songs - 2 day 11 hr 25 min
+1,180 songs - 2 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [27 Club](https://open.spotify.com/track/0AyQKliKwDgdjlfsT2fhN7) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Some Days](https://open.spotify.com/album/34d6ShNbcuMzFbLLz9RcB7) | 2:39 | 2021-07-04 | 2021-09-18 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-17 | 2023-06-10 |
 | [3 outfits](https://open.spotify.com/track/78zWCikDMYzFpXAdqANPrD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [3 outfits](https://open.spotify.com/album/0SFK4Bn2QtKOi1bJieGPZ1) | 3:30 | 2022-03-25 | 2022-05-28 |
+| [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-28 |  |
 | [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 | 2023-06-16 | 2023-09-29 |
 | [4:15](https://open.spotify.com/track/0KilmlKbnfk8Xspi2Cwj9r) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Claudia Valentina](https://open.spotify.com/album/2jyo8rzon3CaY1YRcuUC09) | 3:20 | 2020-11-03 | 2021-03-19 |
 | [4D](https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [4D](https://open.spotify.com/album/6La4e4vpCHGtvCXUbp71BJ) | 2:21 | 2022-04-08 | 2022-07-02 |

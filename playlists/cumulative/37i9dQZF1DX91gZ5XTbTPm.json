@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Sexyy Red",
+  "description": "The Midwest is always on time. Cover: Icewear Vezzo",
   "name": "CST",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 196647,
       "name": "$outhside Story ft. Common",
       "url": "https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs"
@@ -236,6 +236,24 @@
       "duration_ms": 133136,
       "name": "223's (feat. BabyTron)",
       "url": "https://open.spotify.com/track/2Gn3xsO0hacXJy1Z2EHrgm"
+    },
+    {
+      "album": {
+        "name": "30 Floors Up",
+        "url": "https://open.spotify.com/album/1oJq2ry0x6kWlR2LFW7XN2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144786,
+      "name": "30 Floors Up",
+      "url": "https://open.spotify.com/track/5KpBWd0OVnBaJ4Dc8TtzdZ"
     },
     {
       "album": {
@@ -1136,6 +1154,46 @@
       "duration_ms": 106000,
       "name": "Bad Man (Smooth Criminal)",
       "url": "https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl"
+    },
+    {
+      "album": {
+        "name": "Bae",
+        "url": "https://open.spotify.com/album/3sI2NjVOrYjtv6zu90gtVN"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Bae",
+      "url": "https://open.spotify.com/track/58BFQlOjR0A3K48J6QAz6O"
+    },
+    {
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156387,
+      "name": "Bae (42 Dugg)",
+      "url": "https://open.spotify.com/track/391Fi42HNOsMuQPnpfVNfm"
     },
     {
       "album": {
@@ -2666,7 +2724,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 150967,
       "name": "Doomsday (with Juice WRLD & Cordae)",
       "url": "https://open.spotify.com/track/3bkpVSoNvBkvt9LJMFT5at"
@@ -2990,7 +3048,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 226765,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw"
@@ -4051,6 +4109,32 @@
     },
     {
       "album": {
+        "name": "Guitar In My Room",
+        "url": "https://open.spotify.com/album/2BgCZFN0tmSrb2deTawr5h"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227647,
+      "name": "Guitar In My Room (with Lil Durk & Kid Cudi)",
+      "url": "https://open.spotify.com/track/4LPIwB4gtPzuB0YKHjOldj"
+    },
+    {
+      "album": {
         "name": "2 Effortless",
         "url": "https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz"
       },
@@ -5082,7 +5166,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 159600,
       "name": "Irreplaceable",
       "url": "https://open.spotify.com/track/6jhFFQtKBib4cICFEyf5Lv"
@@ -5663,6 +5747,24 @@
     },
     {
       "album": {
+        "name": "Lenny Cooke",
+        "url": "https://open.spotify.com/album/6jdxGiQy5ZulPW0IoAwDoX"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147664,
+      "name": "Lenny Cooke",
+      "url": "https://open.spotify.com/track/6jkoFl438J3fNH38dk7Amu"
+    },
+    {
+      "album": {
         "name": "let it fly",
         "url": "https://open.spotify.com/album/1pMtm1ezZsrxNVFtVZ22EL"
       },
@@ -5750,7 +5852,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 131424,
       "name": "Little Spoon",
       "url": "https://open.spotify.com/track/1fpP0O41Ktl5e9IUft6EBd"
@@ -5822,7 +5924,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 130707,
       "name": "Looking For The Hoes (Ain\u2019t My Fault)",
       "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
@@ -5844,7 +5946,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 305142,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/16Oy2t41hPHbM8rjpdVGov"
@@ -6339,6 +6441,24 @@
     },
     {
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5vZ7xRju0A737ghh0n10cZ"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132220,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/1fFg0KgrMwxTdIsO4bTd9S"
+    },
+    {
+      "album": {
         "name": "Money Counter Music Vol. 2: Born In It",
         "url": "https://open.spotify.com/album/2S2xBS9OFTqMQS1b2Ydjl0"
       },
@@ -6775,6 +6895,28 @@
     },
     {
       "album": {
+        "name": "No Panties (with Sexyy Red) [From Rap Sh!t S2: The Mixtape]",
+        "url": "https://open.spotify.com/album/1nhOy9oUdLf97cebjpBlap"
+      },
+      "artists": [
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125926,
+      "name": "No Panties (with Sexyy Red) - From Rap Sh!t S2: The Mixtape",
+      "url": "https://open.spotify.com/track/0nFCMtJecNIJ7ArO8qBwba"
+    },
+    {
+      "album": {
         "name": "BACK IN ACTION 2.0",
         "url": "https://open.spotify.com/album/3ShlqDCnYpRdcJxA9wlkpE"
       },
@@ -7080,7 +7222,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 174546,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6Dgox7jnx9vMRQlyfcXBPK"
@@ -7937,6 +8079,28 @@
     },
     {
       "album": {
+        "name": "Psilocybin",
+        "url": "https://open.spotify.com/album/6ACPzspbhvbgb9vvh7MvF1"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138598,
+      "name": "Psilocybin",
+      "url": "https://open.spotify.com/track/0ON7bBXpaFPRoWzaHhBrDl"
+    },
+    {
+      "album": {
         "name": "Pyrex",
         "url": "https://open.spotify.com/album/1ZWHj0kb2hk0hZCCDdNjL5"
       },
@@ -8192,7 +8356,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 179991,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/10qjN7LKGHkp4fs5bByDZc"
@@ -8210,7 +8374,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 81322,
       "name": "Reds Cap",
       "url": "https://open.spotify.com/track/4g6FYjv8CFM0nf1aWuZutn"
@@ -8232,6 +8396,24 @@
       "duration_ms": 144479,
       "name": "Reel Em In",
       "url": "https://open.spotify.com/track/50yCs2ldgkd0OJji21ZAAa"
+    },
+    {
+      "album": {
+        "name": "Rich & Player",
+        "url": "https://open.spotify.com/album/7vwtySRvkjDq6KPB9uddst"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113015,
+      "name": "Rich & Player",
+      "url": "https://open.spotify.com/track/4uAdk4WsvROzbhHpxlI744"
     },
     {
       "album": {
@@ -11532,6 +11714,28 @@
       "duration_ms": 358000,
       "name": "YAH Know",
       "url": "https://open.spotify.com/track/1LzovYtOvkODueiluGyRzF"
+    },
+    {
+      "album": {
+        "name": "No Socks 3",
+        "url": "https://open.spotify.com/album/0TuZ9izuLgcVvN7dKyqRRb"
+      },
+      "artists": [
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186728,
+      "name": "Yea Freestyle",
+      "url": "https://open.spotify.com/track/1tNIrPGSAhs4wquxihb01G"
     },
     {
       "album": {

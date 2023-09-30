@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 10199,
+  "num_followers": 10217,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzUzNGZiMmExOTY0MjEwNTMwZjMyYmNiZWI2ODFhNjg3ODY1OTI4",
+  "snapshot_id": "MCw2OGE4NzRkNDZmNWUyNWI5ZDQ4NmZhY2IxZjNiMTVjODA1Y2E5NTg1",
   "tracks": [
     {
       "added_at": "2021-03-11 16:28:13",
@@ -443,18 +443,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "DJ. DOC 4th Album",
-        "url": "https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv"
+        "name": "T.O.P - The 2nd Album",
+        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
       },
       "artists": [
         {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
         }
       ],
-      "duration_ms": 192888,
-      "name": "Dance with DOC",
-      "url": "https://open.spotify.com/track/46tMl2itZomvKj9TR7wzVz"
+      "duration_ms": 281760,
+      "name": "T.O.P. (Twinkling Of Paradise)",
+      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -523,18 +523,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "T.O.P - The 2nd Album",
-        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
+        "name": "DJ. DOC 4th Album",
+        "url": "https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv"
       },
       "artists": [
         {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
         }
       ],
-      "duration_ms": 281760,
-      "name": "T.O.P. (Twinkling Of Paradise)",
-      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
+      "duration_ms": 192888,
+      "name": "Dance with DOC",
+      "url": "https://open.spotify.com/track/46tMl2itZomvKj9TR7wzVz"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Rhythm Light Beat Black",
-        "url": "https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI"
-      },
-      "artists": [
-        {
-          "name": "DEUX",
-          "url": "https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA"
-        }
-      ],
-      "duration_ms": 271490,
-      "name": "\uc5ec\ub984 \uc548\uc5d0\uc11c",
-      "url": "https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Once N 4 All",
         "url": "https://open.spotify.com/album/1ezAh7aCsuTvnb3g2WIprH"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 218333,
       "name": "Hot",
       "url": "https://open.spotify.com/track/1IkdRtsgZCtWIekX8NrLdN"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Rhythm Light Beat Black",
+        "url": "https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI"
+      },
+      "artists": [
+        {
+          "name": "DEUX",
+          "url": "https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA"
+        }
+      ],
+      "duration_ms": 271490,
+      "name": "\uc5ec\ub984 \uc548\uc5d0\uc11c",
+      "url": "https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -703,6 +703,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "One Time For Your Mind",
+        "url": "https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT"
+      },
+      "artists": [
+        {
+          "name": "1TYM",
+          "url": "https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "1Tym",
+      "url": "https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "\ud551\uacc4",
         "url": "https://open.spotify.com/album/2Aof43935C9VCXzV7HnA39"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 255891,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "One Time For Your Mind",
-        "url": "https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT"
-      },
-      "artists": [
-        {
-          "name": "1TYM",
-          "url": "https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "1Tym",
-      "url": "https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Second Birth",
+        "url": "https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm"
+      },
+      "artists": [
+        {
+          "name": "UP",
+          "url": "https://open.spotify.com/artist/1gjzJCtXM9MERO7IyUNLUN"
+        }
+      ],
+      "duration_ms": 240430,
+      "name": "\ubfcc\uc694\ubfcc\uc694",
+      "url": "https://open.spotify.com/track/4FyJtlsvCNO8uS58aqI354"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
         "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 237029,
       "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
       "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Second Birth",
-        "url": "https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm"
-      },
-      "artists": [
-        {
-          "name": "UP",
-          "url": "https://open.spotify.com/artist/1gjzJCtXM9MERO7IyUNLUN"
-        }
-      ],
-      "duration_ms": 240430,
-      "name": "\ubfcc\uc694\ubfcc\uc694",
-      "url": "https://open.spotify.com/track/4FyJtlsvCNO8uS58aqI354"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ud64d\uacbd\ubbfc Vol. 3",
-        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
-      },
-      "artists": [
-        {
-          "name": "Hong Kyung-min",
-          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Shaky Friendship - Euru Remix Version",
-      "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Bijou Is Ballad",
         "url": "https://open.spotify.com/album/6bitlzpPk8hUUsVY2N8jhA"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 314933,
       "name": "Anyhow Song",
       "url": "https://open.spotify.com/track/0FGrzqdJWFAzO6JTWttcWM"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "\ud64d\uacbd\ubbfc Vol. 3",
+        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
+      },
+      "artists": [
+        {
+          "name": "Hong Kyung-min",
+          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Shaky Friendship - Euru Remix Version",
+      "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "2nd Album",
-        "url": "https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC"
-      },
-      "artists": [
-        {
-          "name": "YTC",
-          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
-        }
-      ],
-      "duration_ms": 250618,
-      "name": "\ud0c0\uc778",
-      "url": "https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Deuxism",
         "url": "https://open.spotify.com/album/5Q5YrEMnQmNxtivzl4j8hM"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 213550,
       "name": "\uc6b0\ub9ac\ub294",
       "url": "https://open.spotify.com/track/7bON6VDJ5ndO6EAxCrjVj2"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "2nd Album",
+        "url": "https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC"
+      },
+      "artists": [
+        {
+          "name": "YTC",
+          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
+        }
+      ],
+      "duration_ms": 250618,
+      "name": "\ud0c0\uc778",
+      "url": "https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ud654\uc0b0",
-        "url": "https://open.spotify.com/album/05cmrYERspfIVBw3Hx57DV"
-      },
-      "artists": [
-        {
-          "name": "Park Sang Min",
-          "url": "https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu"
-        }
-      ],
-      "duration_ms": 265508,
-      "name": "\ubb34\uae30\uc5ec \uc798 \uc788\uac70\ub77c",
-      "url": "https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Cyber Yoo Sueng Jun",
         "url": "https://open.spotify.com/album/3jrD9RUkQcrFZpy2dZL5sD"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 234066,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/5NEyoTXkeo2L6UkRgRgSKD"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "\ud654\uc0b0",
+        "url": "https://open.spotify.com/album/05cmrYERspfIVBw3Hx57DV"
+      },
+      "artists": [
+        {
+          "name": "Park Sang Min",
+          "url": "https://open.spotify.com/artist/7nbE2lMt1tbp5y3Uivn0bu"
+        }
+      ],
+      "duration_ms": 265508,
+      "name": "\ubb34\uae30\uc5ec \uc798 \uc788\uac70\ub77c",
+      "url": "https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Jinusean",
-        "url": "https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt"
-      },
-      "artists": [
-        {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
-        }
-      ],
-      "duration_ms": 243910,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/1XZHPuWHpyaVRsgOW2OVoB"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Come Come Come baby",
         "url": "https://open.spotify.com/album/0SwgQkiMgFLn7dLKj0yOcW"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 231888,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/7fKZEW2QI7hdRITkMJZY9N"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Jinusean",
+        "url": "https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt"
+      },
+      "artists": [
+        {
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+        }
+      ],
+      "duration_ms": 243910,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/1XZHPuWHpyaVRsgOW2OVoB"
     },
     {
       "added_at": "2021-03-11 16:28:13",

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 175021,
+  "num_followers": 175078,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjdlNjQ5NmU1ZWE1M2UwOGJmZjY1YWE1MGQ2ZDY4ZGYwZGM3NGZj",
+  "snapshot_id": "MCw5ZjVmMjA4ZmNlNWI5ZWZiYmU4ZGIwNTY3OWZmNGVmNjc0ZTExMGU0",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "La M\u00fasica",
-        "url": "https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M"
-      },
-      "artists": [
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "La M\u00fasica",
-      "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Palpitaciones (Remix)",
         "url": "https://open.spotify.com/album/7arSsVZ5zYOxQakXbw73cv"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 236394,
       "name": "Palpitaciones (Remix)",
       "url": "https://open.spotify.com/track/5Lg5iLWcrkuL0EYwvroDqS"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "La M\u00fasica",
+        "url": "https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "La M\u00fasica",
+      "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1843,22 +1843,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Relevantes",
-        "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
+        "name": "Solita",
+        "url": "https://open.spotify.com/album/009mTdnGfMQGaPYZq3UFfl"
       },
       "artists": [
         {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+          "name": "Abdi",
+          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
         },
         {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
         }
       ],
-      "duration_ms": 210370,
-      "name": "Humillado",
-      "url": "https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863"
+      "duration_ms": 218666,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/5OMj7i9Eeuh2kolJAvlZLQ"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1883,22 +1883,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Solita",
-        "url": "https://open.spotify.com/album/009mTdnGfMQGaPYZq3UFfl"
+        "name": "Relevantes",
+        "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
       },
       "artists": [
         {
-          "name": "Abdi",
-          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
         },
         {
-          "name": "El Leo Pa\u00b4",
-          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
         }
       ],
-      "duration_ms": 218666,
-      "name": "Solita",
-      "url": "https://open.spotify.com/track/5OMj7i9Eeuh2kolJAvlZLQ"
+      "duration_ms": 210370,
+      "name": "Humillado",
+      "url": "https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863"
     },
     {
       "added_at": "2022-08-27 05:04:45",

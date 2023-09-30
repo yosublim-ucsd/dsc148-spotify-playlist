@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Amindi",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Felix Ames",
   "name": "Vanguard",
   "tracks": [
     {
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 172307,
       "name": "AMINA",
       "url": "https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x"
@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 144584,
       "name": "Brewster",
       "url": "https://open.spotify.com/track/3c2LHcsave8QZ2DTzQ2iln"
@@ -4290,7 +4290,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 199490,
       "name": "Deliver Me (feat. Busta Rhymes, Dirty Money, Dawn Richard and Kalenna)",
       "url": "https://open.spotify.com/track/4gjmx4ttDOi8iMbZQfqJL4"
@@ -4450,6 +4450,24 @@
       "duration_ms": 194135,
       "name": "Doctor, My Eyes",
       "url": "https://open.spotify.com/track/1ZjE0bbhrk7OyQftjaWUxQ"
+    },
+    {
+      "album": {
+        "name": "Don't Be Alarmed",
+        "url": "https://open.spotify.com/album/1uMNsWU8HxJjDFx0GoBnDs"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230835,
+      "name": "Don't Be Alarmed",
+      "url": "https://open.spotify.com/track/0IvDIOxW3afsWsKH9ovWfy"
     },
     {
       "album": {
@@ -7709,6 +7727,24 @@
     },
     {
       "album": {
+        "name": "Hypnotherapy",
+        "url": "https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205821,
+      "name": "Hypnotherapy",
+      "url": "https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX"
+    },
+    {
+      "album": {
         "name": "I Believed It (feat. Mac Miller)",
         "url": "https://open.spotify.com/album/0nKlLF5MUHVyMAiQdMD3Pi"
       },
@@ -8032,7 +8068,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 255920,
       "name": "Ice Slippin",
       "url": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
@@ -11290,7 +11326,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 176456,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/0Eto5S71KnEkPzmFGUM6TM"
@@ -11424,7 +11460,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 245466,
       "name": "OCCASION",
       "url": "https://open.spotify.com/track/3f8qaN6X27sLRXlYwf3UKC"
@@ -12204,7 +12240,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 164163,
       "name": "pieces",
       "url": "https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU"
@@ -13209,6 +13245,28 @@
     },
     {
       "album": {
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/278zfgv7VgkOCjudytlKGA"
+      },
+      "artists": [
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156542,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/6457xos9iBf72uoe0iKVHa"
+    },
+    {
+      "album": {
         "name": "rewind",
         "url": "https://open.spotify.com/album/1bHhbJVvzqeKTKNEK2aU8T"
       },
@@ -14164,7 +14222,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 282000,
       "name": "Since I Have A Lover",
       "url": "https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9"
@@ -18112,6 +18170,24 @@
       "duration_ms": 207880,
       "name": "wish that i could",
       "url": "https://open.spotify.com/track/5w4q9Es264UdYYr2AjnPhU"
+    },
+    {
+      "album": {
+        "name": "wish you hell",
+        "url": "https://open.spotify.com/album/1WlsXlSlUc0CxO0Rkqcp8t"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174304,
+      "name": "wish you hell",
+      "url": "https://open.spotify.com/track/5QTpJCeiyOyBVaeThyMQUV"
     },
     {
       "album": {

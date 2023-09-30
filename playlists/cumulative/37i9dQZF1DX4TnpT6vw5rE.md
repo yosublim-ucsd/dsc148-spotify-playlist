@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-247 songs - 14 hr 46 min
+248 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Finn roen](https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Finn roen](https://open.spotify.com/album/2eX9Kdyv7Pb6ro098w5yke) | 3:34 | 2020-12-08\* | 2021-05-27 |
 | [First Light](https://open.spotify.com/track/1bnxXs5RnZMstR6U1lsJtV) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Daily Light](https://open.spotify.com/album/2P4ERwxCZCBsRb5TgqigIe) | 2:42 | 2022-07-22 |  |
 | [Flight to Polaris](https://open.spotify.com/track/22M3gpI0en4ZYrhK1JBt8X) | [Hindrick](https://open.spotify.com/artist/25NRdQfTSmntRQ1ioRGZ8N) | [Flight to Polaris](https://open.spotify.com/album/4QcXA1apOxDteqr3W0hadh) | 2:31 | 2023-08-04 |  |
-| [Fluorescent \- Meditation Rework](https://open.spotify.com/track/2dKEuiYDd07R9ekDK3v8Kp) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Fluorescent \(Meditation Rework\)](https://open.spotify.com/album/38QGNYxFbXNr9sCjHi59YE) | 2:27 | 2023-09-08 |  |
+| [Fluorescent \- Meditation Rework](https://open.spotify.com/track/2dKEuiYDd07R9ekDK3v8Kp) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Fluorescent \(Meditation Rework\)](https://open.spotify.com/album/38QGNYxFbXNr9sCjHi59YE) | 2:27 | 2023-09-08 | 2023-09-30 |
 | [Focus](https://open.spotify.com/track/3l7mCSypI6tYJvYe8dDI4f) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Focus](https://open.spotify.com/album/0Q6OXWzRgM4pbUlxYMV2Pb) | 2:47 | 2020-12-08\* | 2021-05-27 |
 | [Focus One](https://open.spotify.com/track/3XbLt09x1IBDMPYDTFRZXM) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus One](https://open.spotify.com/album/7pPXleKmHlZ8YPkQTxetQ1) | 3:31 | 2021-12-22 |  |
 | [Focus Within](https://open.spotify.com/track/7kiz2xQSHHaCifsJQ1rppt) | [Bernardo Fuches](https://open.spotify.com/artist/0qymchRqSiaK2RgmjPOTCs) | [Focus Within](https://open.spotify.com/album/7u4hpdAQdp3IEFXC7dy1lv) | 2:37 | 2022-04-21 |  |
@@ -241,6 +241,7 @@
 | [Tired Eyes](https://open.spotify.com/track/41RcpktSrVWYmI8XaNZA07) | [Still Dreams](https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR) | [Close To Sleep](https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK) | 4:12 | 2020-12-08\* |  |
 | [Towards Silence](https://open.spotify.com/track/25stZHn22KgYL9roXriBe9) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Towards Silence](https://open.spotify.com/album/4e3UJoorTIvwDfg8D4DDYr) | 2:54 | 2022-10-14 |  |
 | [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-14 |  |
+| [Traveling South](https://open.spotify.com/track/403ONsS1ggfGlohDshBgjG) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Traveling South](https://open.spotify.com/album/3a1knsci6NazXIV5pK4OFh) | 3:00 | 2023-09-22 |  |
 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 | 2020-12-08\* |  |
 | [Unkai](https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ) | [Kazunobu Nishiyama](https://open.spotify.com/artist/5PalD0e4tBG8xaSgTMuv6X) | [Unkai](https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt) | 3:36 | 2022-06-16 |  |
 | [Unsaid](https://open.spotify.com/track/2AGNymbWbkZUYTZIAdGb4H) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK) | [Unsaid](https://open.spotify.com/album/7I2441VTSINBUfbWemfCyG) | 2:28 | 2023-07-28 |  |

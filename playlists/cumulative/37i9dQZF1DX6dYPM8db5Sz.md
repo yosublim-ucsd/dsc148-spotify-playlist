@@ -2,9 +2,9 @@
 
 ### [SAlt](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU?si=czPv541DQ32MDznf9sg6Mw">Beatenberg</a>
+> The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI?si=XAqW2HNdRdGVqo7cVrQvoA">Carla Franco</a>
 
-491 songs - 1 day 4 hr 16 min
+494 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Far Far Away](https://open.spotify.com/track/667RuRJORsvZLjNCjIJiYH) | [Miss Sxvage](https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo) | [Far Far Away](https://open.spotify.com/album/0zkZsqlINmCBM7iWY54D1G) | 2:33 | 2023-07-28 | 2023-09-08 |
 | [Feedback Hounds](https://open.spotify.com/track/02FhwPLpWOtfGz9M33eKFG) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Heaving](https://open.spotify.com/album/54FdctR7tCJoXBNCZvhyYT) | 3:56 | 2023-04-06 | 2023-04-09 |
 | [Feedback Hounds](https://open.spotify.com/track/0BLBZXRlN1FrW93Qs959qE) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Heaving](https://open.spotify.com/album/4wEk7sSn1PyVEsF0jVL9Io) | 3:56 | 2023-04-06 | 2023-06-16 |
+| [FEELING IT](https://open.spotify.com/track/5tKM15EmEHGRufPvR2Prqi) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [FEELING IT](https://open.spotify.com/album/3I3dDA3aaa94LY9eXkk774) | 2:23 | 2023-09-29 |  |
 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-06-15 | 2023-07-14 |
 | [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 | 2022-11-24 | 2023-02-10 |
 | [Find You There](https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Find You There](https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3) | 3:05 | 2023-06-22 | 2023-08-05 |
@@ -180,6 +181,7 @@
 | [Head Up High](https://open.spotify.com/track/6NSsAX4y7tBsRiOCvVNuR8) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Head Up High](https://open.spotify.com/album/0qj0dLCx210N6GWD1MfViI) | 4:12 | 2023-09-21 |  |
 | [hearing faces](https://open.spotify.com/track/3aIOgiGUBjEBiVAoaRbEgx) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [THE RED BUTTON WAS TALKING AGAIN](https://open.spotify.com/album/7zieU55cGtAinDTr3OkPGw) | 3:25 | 2023-09-07 |  |
 | [Heart's with You](https://open.spotify.com/track/1MMJpmRPegpVB71ra9pQGf) | [Jonty Hartwig](https://open.spotify.com/artist/1UR2SVto1m74aOrhbzOkTK) | [Heart's with You](https://open.spotify.com/album/3spyfyRwUeAW8T8VCwgE8o) | 4:06 | 2022-07-21 | 2022-11-01 |
+| [Hello!](https://open.spotify.com/track/3UTEuU57JBaP9JEIyz52vp) | [Face and the Features](https://open.spotify.com/artist/16vvbLv35opMOVyRC8x5c9) | [Hello!](https://open.spotify.com/album/4MU0XWnLmEVsh2Nd576K2w) | 3:07 | 2023-09-29 |  |
 | [Here Like The Rain](https://open.spotify.com/track/6Sd3bSqCaZ5O9Tn0m0P6IC) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Here Like The Rain](https://open.spotify.com/album/7kra5GGwK8ActnTZw50jHo) | 3:38 | 2022-10-20 | 2023-01-13 |
 | [Hey Hollywood](https://open.spotify.com/track/7c51FoWz8OV0wDrNLfWqB3) | [Warmer Heights](https://open.spotify.com/artist/1e42DCXz3I3nQeiqARQM1Z) | [Hey Hollywood](https://open.spotify.com/album/1qPisiSNWE9RxoR4wOy6de) | 3:33 | 2023-04-21 | 2023-07-07 |
 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 | 2023-01-12 | 2023-01-20 |
@@ -317,6 +319,7 @@
 | [Parasite](https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Distopia](https://open.spotify.com/album/1D37tFbgePiH2NuBrzOAm9) | 3:33 | 2022-10-06 | 2022-11-18 |
 | [Parasite](https://open.spotify.com/track/4q7Ta95N485EjD1fPXOkZ7) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Parasite](https://open.spotify.com/album/5hn6dLSrvICNwLyHrLY2gw) | 2:26 | 2023-06-22 | 2023-08-05 |
 | [Picasso's Concept](https://open.spotify.com/track/6Ufmq069l9bhk6TGg5Uw6G) | [MELLE](https://open.spotify.com/artist/4Xsikt3RZsWMRwsRa2DnVD) | [Picasso's Concept](https://open.spotify.com/album/6umdXya30JzYnahewihJb6) | 4:04 | 2023-04-14 | 2023-06-23 |
+| [Pickup, Don't Pickup](https://open.spotify.com/track/4E5P6ztlfq3jE9Df80jtND) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sorry Like You Mean It](https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0) | 4:34 | 2023-09-29 |  |
 | [pink & blue](https://open.spotify.com/track/0fVfYsnBOunr5mX1mViBQt) | [gerald kent](https://open.spotify.com/artist/4deC9GQfMqj9MpuG0jA2un) | [façade](https://open.spotify.com/album/79vl4afRpt6VNGoHRFaUfP) | 3:14 | 2023-01-26 | 2023-03-18 |
 | [PITY PARTY](https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [PITY PARTY](https://open.spotify.com/album/44aRUzG8io87BE9XUIhYy8) | 2:27 | 2022-09-22 | 2022-10-07 |
 | [Pizza Party](https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Pizza Party](https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd) | 3:20 | 2023-09-15 |  |

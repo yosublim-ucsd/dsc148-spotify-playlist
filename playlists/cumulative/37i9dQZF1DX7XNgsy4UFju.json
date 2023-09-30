@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: DEBBY FRIDAY",
+  "description": "Home to all the latest indie jams. Cover: Mitski",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 226133,
       "name": "All We Ever Do Is Talk",
       "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
@@ -1356,6 +1356,24 @@
       "duration_ms": 276440,
       "name": "Animal (feat. Geoffroy)",
       "url": "https://open.spotify.com/track/19DnkdlcmVu9IKotPQ7KIz"
+    },
+    {
+      "album": {
+        "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
+        "url": "https://open.spotify.com/album/3lHbPfpCbfIbqW1Q4u9Vkq"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228310,
+      "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
+      "url": "https://open.spotify.com/track/2KHIUDMyKpCoatqCwDAtD4"
     },
     {
       "album": {
@@ -4276,7 +4294,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 304146,
       "name": "Conwayroad",
       "url": "https://open.spotify.com/track/7E1Lv1GatC0YDiOtFTcTqF"
@@ -5054,6 +5072,24 @@
       "duration_ms": 254311,
       "name": "Delicate People",
       "url": "https://open.spotify.com/track/7kIESeQJRLusBUExD0eOL6"
+    },
+    {
+      "album": {
+        "name": "Kimosab\u00e8",
+        "url": "https://open.spotify.com/album/6bbyTk1fL07XSecYxWlInv"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228865,
+      "name": "Derby Raceway",
+      "url": "https://open.spotify.com/track/1davHiGeSwxgSvdy1yXtjp"
     },
     {
       "album": {
@@ -7488,7 +7524,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 196006,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F"
@@ -9319,6 +9355,24 @@
     },
     {
       "album": {
+        "name": "Living In The Light",
+        "url": "https://open.spotify.com/album/79FfEcU3In6KhBGT7QYVxR"
+      },
+      "artists": [
+        {
+          "name": "Po Lazarus",
+          "url": "https://open.spotify.com/artist/2kOLImI4VIsAM8yA9KQUOi"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285053,
+      "name": "Hey, Big Beluga",
+      "url": "https://open.spotify.com/track/5E3zEkgKnUyiQuHMytfxGa"
+    },
+    {
+      "album": {
         "name": "HIDE",
         "url": "https://open.spotify.com/album/1utKbZcRFkm5ANR84UQBvk"
       },
@@ -9709,6 +9763,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156722,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM"
+    },
+    {
+      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/5uBw6DLLVJPk86NL8G3Xde"
       },
@@ -9828,7 +9900,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 212440,
       "name": "how do you love a man",
       "url": "https://open.spotify.com/track/45L2t9a6fkpWtiawD6VbNl"
@@ -10894,6 +10966,24 @@
       "duration_ms": 236600,
       "name": "In Need of Repair",
       "url": "https://open.spotify.com/track/2gvLhQi8nrGFcZB7OuLeZC"
+    },
+    {
+      "album": {
+        "name": "So Long Babylon",
+        "url": "https://open.spotify.com/album/6wDOrVYuEDl0I7ejxnV0ty"
+      },
+      "artists": [
+        {
+          "name": "Old Man Canyon",
+          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222251,
+      "name": "In Our Own Way",
+      "url": "https://open.spotify.com/track/6fU43kp4WjcxAyqNGj9JUQ"
     },
     {
       "album": {
@@ -12090,6 +12180,24 @@
       "duration_ms": 197388,
       "name": "Last Bite",
       "url": "https://open.spotify.com/track/3Pbh4rvssrjzPB3YWEoaDh"
+    },
+    {
+      "album": {
+        "name": "Late Purity",
+        "url": "https://open.spotify.com/album/3w05C8XCo5WPa8CvgcGL0g"
+      },
+      "artists": [
+        {
+          "name": "Jaunt",
+          "url": "https://open.spotify.com/artist/0RjyW369Wyqush2rz41dkA"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214026,
+      "name": "Late Purity",
+      "url": "https://open.spotify.com/track/1ZyQzWhVjDDlYtraYfkXfO"
     },
     {
       "album": {
@@ -14328,7 +14436,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 247649,
       "name": "Never Apart",
       "url": "https://open.spotify.com/track/1ku2wcKgP7y0gQmLMUsp0D"
@@ -14516,7 +14624,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 166500,
       "name": "Next Best Exit",
       "url": "https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y"
@@ -14578,6 +14686,24 @@
       "duration_ms": 190964,
       "name": "Next to Normal",
       "url": "https://open.spotify.com/track/2FcfiX8WugD8q3k5UUrKN2"
+    },
+    {
+      "album": {
+        "name": "NFU",
+        "url": "https://open.spotify.com/album/6e5xluOlHaZPnI1ORf483L"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221800,
+      "name": "NFU",
+      "url": "https://open.spotify.com/track/1RG9wGYVd6YyrYDDUqz2LU"
     },
     {
       "album": {
@@ -21230,7 +21356,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 230586,
       "name": "This Time",
       "url": "https://open.spotify.com/track/79ob9RdP6xf1MmdIxW9jSt"
@@ -22042,7 +22168,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
@@ -22598,7 +22724,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 300232,
       "name": "Wandering Lies",
       "url": "https://open.spotify.com/track/31FzcFpBHhmOAXCCrfsO9t"
@@ -23221,6 +23347,24 @@
     },
     {
       "album": {
+        "name": "White Limo Stuck In The Snow",
+        "url": "https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243831,
+      "name": "White Limo Stuck in The Snow",
+      "url": "https://open.spotify.com/track/59HszsyMeo4qNtLnoPObH0"
+    },
+    {
+      "album": {
         "name": "scaredy cat",
         "url": "https://open.spotify.com/album/5Ddn9NZA8N1JsdioylNJqe"
       },
@@ -23748,6 +23892,24 @@
       "duration_ms": 163049,
       "name": "WORTHLESS",
       "url": "https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ"
+    },
+    {
+      "album": {
+        "name": "xo skeleton",
+        "url": "https://open.spotify.com/album/7JsS429Dv0r1EqwUoesbQD"
+      },
+      "artists": [
+        {
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237440,
+      "name": "xo skeleton",
+      "url": "https://open.spotify.com/track/3caxPvBu0gBJGk3zHfnosV"
     },
     {
       "album": {

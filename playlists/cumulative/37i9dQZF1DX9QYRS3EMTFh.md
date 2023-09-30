@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-307 songs - 14 hr 2 min
+308 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z), [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 | 2022-03-17 | 2022-06-17 |
 | [Money over Love](https://open.spotify.com/track/24qlO5kDu4h9ap6mCFF1vj) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Sikka Rymes](https://open.spotify.com/artist/0BDiVDhMNHA8WcxKxEbBjr) | [Born Fi Dis \(Prelude\)](https://open.spotify.com/album/3IOJe8ibR9njr5z1YNI9pH) | 3:21 | 2021-12-22 | 2022-01-07 |
 | [MOOV](https://open.spotify.com/track/76koWWOne981lr5gxbzH2O) | [Pix'L](https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Empreinte](https://open.spotify.com/album/2d3dlA16tR1IgxoJhkGrmv) | 3:10 | 2022-06-23 | 2022-09-09 |
+| [My Doudou](https://open.spotify.com/track/1eSE9S5Z58BDnwafWr8Akw) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [My Doudou](https://open.spotify.com/album/3Yu0D13xgIcR974AFxFN85) | 2:20 | 2023-09-28 |  |
 | [My Moto](https://open.spotify.com/track/6I0yiEym3CTTYl4E8NKtk8) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [My Moto](https://open.spotify.com/album/3gIFu0CH2CiaLeOBcrP3Hq) | 2:14 | 2023-05-25 | 2023-06-23 |
 | [Mété Kow](https://open.spotify.com/track/7BwfjietX7YEXECGi49z5M) | [Lagess](https://open.spotify.com/artist/5brOruoItuGUMISGRDOzNq), [DJ Digital](https://open.spotify.com/artist/66aQVAZJUg9c4ZNOQaxjvN) | [Mété Kow](https://open.spotify.com/album/6BuJa09mSXh6yx9QpH55Ab) | 2:25 | 2022-06-02 | 2022-11-25 |
 | [Next To Me \(feat\. Toni\-Ann Singh\)](https://open.spotify.com/track/3qbORtchROy5DjRoYFsz69) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Toni\-Ann Singh](https://open.spotify.com/artist/1bZCIM9oJAMPOTxFTtPXvJ) | [Next To Me \(feat\. Toni\-Ann Singh\)](https://open.spotify.com/album/7joy1NA5tfuo0exE4KVZLk) | 3:56 | 2022-12-01 | 2023-01-27 |

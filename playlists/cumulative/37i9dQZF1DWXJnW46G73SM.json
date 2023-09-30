@@ -719,6 +719,28 @@
     },
     {
       "album": {
+        "name": "Alb Safi",
+        "url": "https://open.spotify.com/album/4Mk24O7u5xVwkNOSGINF5s"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        },
+        {
+          "name": "Maha Ftouni",
+          "url": "https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151746,
+      "name": "Alb Safi",
+      "url": "https://open.spotify.com/track/0WrqGT7608mOopBNxKtjzz"
+    },
+    {
+      "album": {
         "name": "Alby",
         "url": "https://open.spotify.com/album/3yrLQsZ78t3IlRjBAQuodN"
       },
@@ -1150,6 +1172,24 @@
       "duration_ms": 190965,
       "name": "Arosty",
       "url": "https://open.spotify.com/track/2IEWP8OvgxXZcpx7h2rFF4"
+    },
+    {
+      "album": {
+        "name": "Asef",
+        "url": "https://open.spotify.com/album/3bwbHPTavXwjHsGsRaPVy7"
+      },
+      "artists": [
+        {
+          "name": "Massar Egbari",
+          "url": "https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196173,
+      "name": "Asef",
+      "url": "https://open.spotify.com/track/6lWCaMrjUxopxKJfsO0e1W"
     },
     {
       "album": {
@@ -2829,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Elharb Al3almia Altaltah",
+        "url": "https://open.spotify.com/album/2vpIxNIZuOarFUfHbVmr4O"
+      },
+      "artists": [
+        {
+          "name": "Lamis Kan",
+          "url": "https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183104,
+      "name": "Elharb Al3almia Altaltah",
+      "url": "https://open.spotify.com/track/0nFsVjjbepvAqCzkQTg5a5"
+    },
+    {
+      "album": {
         "name": "Elly Yeza3alny",
         "url": "https://open.spotify.com/album/6Rg3o3fGaWaDpZ2UbRUMnk"
       },
@@ -4008,7 +4066,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 140000,
       "name": "Hanor2os",
       "url": "https://open.spotify.com/track/5iILBNAqhYBWSSYVszZMDC"
@@ -6166,7 +6224,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 208000,
       "name": "Men Kan Yesda2",
       "url": "https://open.spotify.com/track/0fbkNOvYVWwdxfi2Yixpb3"
@@ -6504,6 +6562,28 @@
       "duration_ms": 96000,
       "name": "Mlook Alfarhah",
       "url": "https://open.spotify.com/track/4pcAKurw42eSHSWfmHpr6p"
+    },
+    {
+      "album": {
+        "name": "L Nor (2-3)",
+        "url": "https://open.spotify.com/album/0SYxXFWltccqziLMvruS5E"
+      },
+      "artists": [
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        },
+        {
+          "name": "Donia Wael",
+          "url": "https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Mnamel",
+      "url": "https://open.spotify.com/track/1DKPneXBsDu5ea9W01LOZm"
     },
     {
       "album": {
@@ -7458,6 +7538,24 @@
       "duration_ms": 138644,
       "name": "Setto Ana (Maktoub Alya)",
       "url": "https://open.spotify.com/track/1WwGDWDEdyUR5fKANFTxUY"
+    },
+    {
+      "album": {
+        "name": "Sha2lebty Routiny",
+        "url": "https://open.spotify.com/album/705AMg1ZwX2b3XENnfqKh6"
+      },
+      "artists": [
+        {
+          "name": "Sharmoofers",
+          "url": "https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161351,
+      "name": "Sha2lebty Routiny",
+      "url": "https://open.spotify.com/track/0vTX33ZSAyGOrIcmp3Fa9x"
     },
     {
       "album": {
@@ -8652,7 +8750,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 241906,
       "name": "Ya Ghazal",
       "url": "https://open.spotify.com/track/0qqlxbChmf6iUkzvbdYQ44"
@@ -10932,7 +11030,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 198805,
       "name": "\u0639\u0643\u0633\u0647\u0645",
       "url": "https://open.spotify.com/track/3Lui4jMSqPFnB3bwNEOKqE"
@@ -11286,7 +11384,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 214520,
       "name": "\u0643\u0639\u0628\u0643 \u0639\u0644\u064a",
       "url": "https://open.spotify.com/track/3fiEw3W3xInUXjyuqFO1S6"

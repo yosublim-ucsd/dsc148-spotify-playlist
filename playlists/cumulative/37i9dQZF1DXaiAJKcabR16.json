@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Rose City / Rise Up With Fists",
+        "url": "https://open.spotify.com/album/0pYtOyHubrt0sHOg7fhPzS"
+      },
+      "artists": [
+        {
+          "name": "Elliott BROOD",
+          "url": "https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166986,
+      "name": "Rose City",
+      "url": "https://open.spotify.com/track/5JoFmBsA6J1FJumA0BJKX1"
+    },
+    {
+      "album": {
         "name": "Down to the River",
         "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
       },

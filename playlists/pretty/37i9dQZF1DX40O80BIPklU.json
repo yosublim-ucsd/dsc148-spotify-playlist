@@ -1,15 +1,31 @@
 {
   "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Bipo Montana, McKlopedia y Nanpa B\u00e1sico en portada. ",
-  "num_followers": 320538,
+  "num_followers": 320599,
   "original_name": "Rap en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODFjZDc1ZDNjMDhiZmE0MDMxNjlkNzFiMGMwY2VhOWZmY2U2Y2Zj",
+  "snapshot_id": "MCxhNTQ3NjljOTUyYjRiOGJkOTBmNTc1ZmQ2NDYwZGMxMjA4ZTc3MjNl",
   "tracks": [
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "El 17",
+        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "duration_ms": 165168,
+      "name": "El Canton Norte",
+      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "La Plata",
         "url": "https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI"
@@ -33,7 +49,7 @@
       "url": "https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "FUCK EL POLICE (REMIX)",
         "url": "https://open.spotify.com/album/5c5xfOQXKfJBHXNj1iAO5s"
@@ -53,7 +69,7 @@
       "url": "https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Quiero Ser Baladista",
         "url": "https://open.spotify.com/album/3jaL3oDxPdCwhCklNYFEaL"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/5vn7LJgmLIy8Xxg7359eO6"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/6YRiaULjOY1hjYBaEjQy8Y"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "#B2B",
         "url": "https://open.spotify.com/album/4SXhzfcLwMl2sTSOkGBx5t"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/4Jp9fqZoO1CVctAPJB29eC"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "TRANKY FUNKY",
         "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "El Ayer",
         "url": "https://open.spotify.com/album/3wb8JOh65W2vQ2Ubv7B4Ms"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/3vxpy2vOzLtCjx82CoWte6"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "No Eres Rapero",
         "url": "https://open.spotify.com/album/6OBEOXqY6rJLtarTzYoBIP"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/0PvQddVhVgnLK2FHiTQh8l"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "#RichieRich",
         "url": "https://open.spotify.com/album/0F3fs9LNLVDEOQzEsYbKCG"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/1sy7y8mhsHfhgWk2EiKk2U"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Boombarrio (Remake)",
         "url": "https://open.spotify.com/album/1SWXIsbnLqz8el1H8nkXfO"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/2AyhvBf16vNzc9FPu3wPij"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "F\u00e9nix (Vol. 2)",
         "url": "https://open.spotify.com/album/6tFZvYlKvk5olYOsSwqiEv"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/4MRGiF6FaKQt9EVLOvc2Zs"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/4y1JivHvgNKyLD7Zx7RlHZ"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/6c0uR67qHuaEm4m7gGlUmw"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "CIEN SHOWS",
         "url": "https://open.spotify.com/album/2dIdv3mfCNzMC139bjldaX"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/4EeKsQCjByEuwlQ71U3p2W"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "M\u00e1s de Ti",
         "url": "https://open.spotify.com/album/72ct55HUoVEWCeWpogQHeT"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/7fRwxP1bj8ktaWxxK3p4pb"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Ecolocalizaci\u00f3n",
         "url": "https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Agua Bendita",
         "url": "https://open.spotify.com/album/5E43YpkRr0eDPgiNwXzU6N"
@@ -329,27 +345,7 @@
       "url": "https://open.spotify.com/track/4V7GYSaTVhulizZ0a3dwFV"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
-        "name": "Ambici\u00f3n",
-        "url": "https://open.spotify.com/album/0cMNuOwFj3ymoxZsO3OxDX"
-      },
-      "artists": [
-        {
-          "name": "John C",
-          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Ambici\u00f3n",
-      "url": "https://open.spotify.com/track/3qUrm7bzZbweXp3PhjnT39"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
@@ -381,7 +377,7 @@
       "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "ENVIDIA",
         "url": "https://open.spotify.com/album/1rnQTScM9t7Rvz2XS8hADj"
@@ -409,7 +405,7 @@
       "url": "https://open.spotify.com/track/05vtKZQr8tdZamjmC753dG"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Cuarto De Siglo",
         "url": "https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ"
@@ -433,7 +429,7 @@
       "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Alzypher Vol. 12",
         "url": "https://open.spotify.com/album/1WjW44rJhg4ZShTGwqT8oH"
@@ -453,7 +449,7 @@
       "url": "https://open.spotify.com/track/0hJ1WnpQNJwaLioiG8kc4N"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "REPRE$ENT",
         "url": "https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA"
@@ -477,7 +473,7 @@
       "url": "https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Cuando Ya Est\u00e9 Muerto",
         "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
@@ -493,7 +489,7 @@
       "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Akapellah Hotline: Cobuz & Bustta",
         "url": "https://open.spotify.com/album/1B0ue14v9AHXSYloaqeMDM"
@@ -513,7 +509,7 @@
       "url": "https://open.spotify.com/track/2WXPCiwCzoH71JESAImTKE"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Perseverancia",
         "url": "https://open.spotify.com/album/5vLJoj4LdKC4MsqXHmYyRj"
@@ -533,7 +529,7 @@
       "url": "https://open.spotify.com/track/1YfRiuIjPlAQagj1AoqAew"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Mujer",
         "url": "https://open.spotify.com/album/5r0bfpYeKKhKKDXfGfhuwV"
@@ -557,7 +553,7 @@
       "url": "https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "PASAR EL ROLO",
         "url": "https://open.spotify.com/album/6BaTUVSblCrSozjzwQIBkb"
@@ -577,7 +573,7 @@
       "url": "https://open.spotify.com/track/0TFQ7UThwlokHls2vxTxb2"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Ser\u00e1 posible?",
         "url": "https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB"
@@ -597,7 +593,7 @@
       "url": "https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Bendici\u00f3n o Desgracia",
         "url": "https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO"
@@ -617,7 +613,7 @@
       "url": "https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "La Profec\u00eda (The Eagle & The Condor)",
         "url": "https://open.spotify.com/album/23oTd0d19ex5sQWEEt3xma"
@@ -637,7 +633,7 @@
       "url": "https://open.spotify.com/track/4gJD13mp8IhO7PtTkbmaaX"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Ansiedad",
         "url": "https://open.spotify.com/album/6F8ccFAxXnQ9RPiQo0aPn9"
@@ -653,7 +649,7 @@
       "url": "https://open.spotify.com/track/69vGl5T8eNegQYemljEFWX"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Despu\u00e9s de Antes",
         "url": "https://open.spotify.com/album/2M7c4etCFEFT1muf7qinap"
@@ -669,7 +665,7 @@
       "url": "https://open.spotify.com/track/1X0NmncUIFrmGxQzInjr3I"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "CERO$ / LATI2",
         "url": "https://open.spotify.com/album/47LBnwJDhEr9orf488dmnX"
@@ -693,7 +689,7 @@
       "url": "https://open.spotify.com/track/3GyITe4SR6TOnvYHCAdZqy"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Posdata",
         "url": "https://open.spotify.com/album/2R2tb1OIF91FBpqE7gJ8Km"
@@ -713,7 +709,7 @@
       "url": "https://open.spotify.com/track/0KNbSGfz4A8qSNEv45kykQ"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "JOSEAR",
         "url": "https://open.spotify.com/album/2agTC7zjgkT8yAxZ9F9ceG"
@@ -729,7 +725,7 @@
       "url": "https://open.spotify.com/track/0kqVbc8GrAUQo6zAee7CP1"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "El Mundo Es M\u00edo",
         "url": "https://open.spotify.com/album/7hTv5dTeDCWavviOKakPrT"
@@ -749,7 +745,7 @@
       "url": "https://open.spotify.com/track/6xpBiLizBvv1F54QT14er9"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
         "url": "https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY"
@@ -777,7 +773,7 @@
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
         "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
@@ -793,7 +789,7 @@
       "url": "https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "El Mundo Es Tuyo",
         "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
@@ -809,7 +805,7 @@
       "url": "https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Sirena",
         "url": "https://open.spotify.com/album/0dTFJm1H9hKxR6RUPiflhS"
@@ -825,7 +821,7 @@
       "url": "https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
@@ -845,7 +841,7 @@
       "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Cnv Sound Volums (Kion Studio One Shots)",
         "url": "https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3"
@@ -865,7 +861,7 @@
       "url": "https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
@@ -885,7 +881,7 @@
       "url": "https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Mar y Tierra",
         "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
@@ -901,7 +897,7 @@
       "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Alzypher Vol. 9",
         "url": "https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H"
@@ -933,7 +929,7 @@
       "url": "https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Toma 4",
         "url": "https://open.spotify.com/album/7Il1eXMjz7OJExifvW8Vgt"
@@ -949,7 +945,7 @@
       "url": "https://open.spotify.com/track/5UUkHi8YrakZKY9gDbtVNz"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO"
@@ -973,7 +969,7 @@
       "url": "https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a"
@@ -989,7 +985,7 @@
       "url": "https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Humo en la Trampa 3",
         "url": "https://open.spotify.com/album/52pj5NqKKtffjSmxvMzhlY"
@@ -1017,7 +1013,7 @@
       "url": "https://open.spotify.com/track/76j6ISLdqxSKJBNGLL0fPb"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Grillz",
         "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
@@ -1037,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Fuera de \u00d3rbita",
         "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
@@ -1053,7 +1049,7 @@
       "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Ahora y Siempre",
         "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
@@ -1073,7 +1069,7 @@
       "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "MAMA",
         "url": "https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO"
@@ -1089,7 +1085,7 @@
       "url": "https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Inmortales",
         "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
@@ -1121,7 +1117,7 @@
       "url": "https://open.spotify.com/track/0frbDonZlnjEaxKnPKclb3"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Se Me Olvid\u00f3",
         "url": "https://open.spotify.com/album/6sbeex4HisXrm68OJuUR2g"
@@ -1141,7 +1137,7 @@
       "url": "https://open.spotify.com/track/6mDaKsBN1KHIBfeNXJwhZk"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Mi Fucking Vida Loca",
         "url": "https://open.spotify.com/album/5FYjXEhiF2tJ3mNXGoe079"
@@ -1161,7 +1157,7 @@
       "url": "https://open.spotify.com/track/5TaEqPEcVumcFj6BIJUUUc"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Pensando en Ti",
         "url": "https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh"
@@ -1177,7 +1173,7 @@
       "url": "https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "DANCE CRIP",
         "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
@@ -1193,7 +1189,7 @@
       "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Una Calada",
         "url": "https://open.spotify.com/album/0zkF6rU4NaLQ9msTqcBGwn"
@@ -1209,7 +1205,7 @@
       "url": "https://open.spotify.com/track/3dO4nlMMWLo08eiprSMJqN"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "DIOS Y LA MUERTE",
         "url": "https://open.spotify.com/album/1R8MDUqb1IWHf8ilwNQRGe"
@@ -1229,7 +1225,7 @@
       "url": "https://open.spotify.com/track/0aJQiBqEHjsbDVOGca0j6B"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Somos Varios",
         "url": "https://open.spotify.com/album/5Wtjm9176pqb5GZQrsBQDv"
@@ -1249,7 +1245,7 @@
       "url": "https://open.spotify.com/track/2hFYvGaFDdcv6tNPFtbBPi"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Duki: Bzrp Music Sessions, Vol. 50",
         "url": "https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW"
@@ -1269,7 +1265,7 @@
       "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/4HffDVQnrInW3kQ5ewyHmb"
@@ -1289,7 +1285,7 @@
       "url": "https://open.spotify.com/track/4uBtsdMMC7toM7DFV08uie"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "SOLO POR VOS",
         "url": "https://open.spotify.com/album/3653dbWREgZU9P2qjfrtmE"
@@ -1305,7 +1301,7 @@
       "url": "https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Inmortales",
         "url": "https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV"
@@ -1321,7 +1317,7 @@
       "url": "https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Alzypher Vol. 10",
         "url": "https://open.spotify.com/album/6pJJBc9UIOhABBSVWJ1eCd"
@@ -1349,7 +1345,7 @@
       "url": "https://open.spotify.com/track/1gnsY2TnziUSPAdTwScTtl"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Ilegal",
         "url": "https://open.spotify.com/album/5ZW5SdUAU4ICF6Ch0IBwpG"
@@ -1393,7 +1389,7 @@
       "url": "https://open.spotify.com/track/0cTwOl6O8Vp9bcCqiXryum"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Laberintos",
         "url": "https://open.spotify.com/album/6hOSzcQRoySsrbAZ5JkEuF"
@@ -1409,7 +1405,7 @@
       "url": "https://open.spotify.com/track/0mfkVo9p68LCmMxHNXUALt"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Te Marqu\u00e9 Pedo",
         "url": "https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX"
@@ -1429,7 +1425,7 @@
       "url": "https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/0x2AgjiW79US1Z9GnT6RqS"
@@ -1445,7 +1441,7 @@
       "url": "https://open.spotify.com/track/7JDIPgGybOZ8gPS81i0Ho6"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
         "url": "https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63"
@@ -1465,7 +1461,7 @@
       "url": "https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "SnipeZ",
         "url": "https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN"
@@ -1485,7 +1481,7 @@
       "url": "https://open.spotify.com/track/4AuPpQnGyE61BDNHcfpFxJ"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
@@ -1505,7 +1501,7 @@
       "url": "https://open.spotify.com/track/5K42LXYdwB905rlqgDA6Qg"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Pensando en Verte",
         "url": "https://open.spotify.com/album/40yd4gGPM83Kwde7EO79aW"
@@ -1529,7 +1525,7 @@
       "url": "https://open.spotify.com/track/0Kros3xlCtmyHTarar1SZ3"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Lo Tengo",
         "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
@@ -1549,7 +1545,7 @@
       "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
         "url": "https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7"
@@ -1569,7 +1565,7 @@
       "url": "https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "FEEL ME??",
         "url": "https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR"
@@ -1585,7 +1581,7 @@
       "url": "https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "DREAM TEAM",
         "url": "https://open.spotify.com/album/300OH5pDtCASI7RNgZaCZ1"
@@ -1601,7 +1597,7 @@
       "url": "https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "De Todo Un Poco",
         "url": "https://open.spotify.com/album/6IMPQbEBdoWF3xzKfd2NFC"
@@ -1621,7 +1617,7 @@
       "url": "https://open.spotify.com/track/19ucvAFRVyPIf093e7ArrR"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "0880",
         "url": "https://open.spotify.com/album/4CxxPMxN8t7LKKz9izpwhZ"
@@ -1641,7 +1637,7 @@
       "url": "https://open.spotify.com/track/3a1iaFg2FLSqzl42BtIldv"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "La Familia (Episodio 3)",
         "url": "https://open.spotify.com/album/0L4OmODB4Q6fAzRHPgvjNz"
@@ -1657,7 +1653,7 @@
       "url": "https://open.spotify.com/track/3My1xeYZKWoxQ1BL5FTBHK"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Mitolo G's",
         "url": "https://open.spotify.com/album/4f0hu5GxLyap7KPUld6rX1"
@@ -1677,7 +1673,7 @@
       "url": "https://open.spotify.com/track/1TSK9oQ4O9eltqaYDRaVJM"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Sosiego",
         "url": "https://open.spotify.com/album/3NTgBrqQsM4gmBQG5DHNEQ"
@@ -1697,7 +1693,7 @@
       "url": "https://open.spotify.com/track/3DCpNEyzKPwF8gWKbwyiEw"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Uzumaki",
         "url": "https://open.spotify.com/album/7nJWw7EXntcF4EjsWsFMJJ"
@@ -1717,7 +1713,7 @@
       "url": "https://open.spotify.com/track/5eO9DgpkoSm2k9eOkI14Xg"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
@@ -1737,7 +1733,7 @@
       "url": "https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Life's Short",
         "url": "https://open.spotify.com/album/4HIt7gmLxWtLDQEVpNRXCZ"
@@ -1761,7 +1757,7 @@
       "url": "https://open.spotify.com/track/172vmBDwYWR9u9Si4QvhAx"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Especies",
         "url": "https://open.spotify.com/album/38MDL6mhsLPxRBd4nGN1Gk"
@@ -1781,7 +1777,7 @@
       "url": "https://open.spotify.com/track/0wfvhjv5cqqSuwJD84WYZ8"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Sin Rap No Hay Vida",
         "url": "https://open.spotify.com/album/2q98m8YtkJMX0fw7BeoOHt"
@@ -1817,7 +1813,7 @@
       "url": "https://open.spotify.com/track/3dKrmQJqytKDhScy0KlVut"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Estetograma",
         "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
@@ -1837,7 +1833,7 @@
       "url": "https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "NEO",
         "url": "https://open.spotify.com/album/3sfLvbXtGlQl9wVafzi55i"
@@ -1853,7 +1849,7 @@
       "url": "https://open.spotify.com/track/4kf612vXDfbM5AHrFIVUN9"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Delivery",
         "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
@@ -1873,7 +1869,7 @@
       "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Agua Con Hielo",
         "url": "https://open.spotify.com/album/0DlTKnkCSkIdCbsW4Ti13V"
@@ -1897,7 +1893,7 @@
       "url": "https://open.spotify.com/track/3qR5fiOr9sLtiIZpfwaTkY"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Por clave El Cabez\u00f3n",
         "url": "https://open.spotify.com/album/5L7s5VhbCUFH3N9j88JBVD"
@@ -1913,7 +1909,7 @@
       "url": "https://open.spotify.com/track/0HOhRI51K27ynqH7QQj1Rv"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Mucho para M\u00ed",
         "url": "https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5"
@@ -1933,7 +1929,7 @@
       "url": "https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
         "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
@@ -1949,7 +1945,7 @@
       "url": "https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Morena 420",
         "url": "https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC"
@@ -1969,7 +1965,7 @@
       "url": "https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "No Me Pueden Parar",
         "url": "https://open.spotify.com/album/7AZeHp1ggYt5RlupEJuoJK"
@@ -1985,7 +1981,7 @@
       "url": "https://open.spotify.com/track/5NWqum4G4GsjHyU2D8UTt0"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Estrecho / Alvarado (feat. pablopablo)",
         "url": "https://open.spotify.com/album/1Z3NkOHY0rbefHDkIttPhP"
@@ -2005,7 +2001,7 @@
       "url": "https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Underrated",
         "url": "https://open.spotify.com/album/4bTHEqX5vfP9UiFairPree"
@@ -2029,7 +2025,7 @@
       "url": "https://open.spotify.com/track/42EDLkzqnTmw2xZZ9bkfYT"
     },
     {
-      "added_at": "2023-09-22 06:00:00",
+      "added_at": "2023-09-29 06:00:00",
       "album": {
         "name": "Preg\u00fantale A Tu Pap\u00e1 Por Mi",
         "url": "https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO"

@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> La playlist che è come andare ai concerti\. Cover: Blonde Redhead
+> La playlist che è come andare ai concerti! Nuove uscite rock, indie, post\-rock, punk ed emo dall'Italia\. Cover: Blonde Redhead
 
-561 songs - 1 day 7 hr 15 min
+562 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Hyperdrive](https://open.spotify.com/track/4uSa5FEquJTsmd9nqtQCuR) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [Hyperdrive](https://open.spotify.com/album/2SMTOccVOS1DSl7DlVdiFD) | 3:14 | 2023-07-06 | 2023-09-01 |
 | [I RAGAZZI COI GOMITI SUI TAVOLI](https://open.spotify.com/track/4Ul88N7v8tRU2PikQXMMcC) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [I RAGAZZI COI GOMITI SUI TAVOLI](https://open.spotify.com/album/0qzgEKo84VFfA49MxdOdWY) | 3:57 | 2022-07-07 | 2022-08-26 |
 | [I wanna lie \(in bed with you\)](https://open.spotify.com/track/1mA8KzXJ0goaJZQBLW2zbw) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [I wanna lie \(in bed with you\)](https://open.spotify.com/album/3h5epN8mjwW75vU5BcIJ0f) | 2:36 | 2022-11-10 | 2022-12-24 |
+| [i wish i was here first](https://open.spotify.com/track/0gGC5ImVLnfwwaZIzh6ooe) | [Blue Alaska](https://open.spotify.com/artist/6IZCiqTePdDDwTzm25rSKN) | [i wish i was here first](https://open.spotify.com/album/0mBwWspqqTgpK65iwSnM0t) | 3:40 | 2023-09-29 |  |
 | [I.KNOW.YOU.KNOW.IT.](https://open.spotify.com/track/7u14JXY85GbajBwcFPWbxD) | [Indigo Quest](https://open.spotify.com/artist/5faxdMwaZrv6bLYLWHhbrf) | [I.KNOW.YOU.KNOW.IT.](https://open.spotify.com/album/3nVkK5RaSLXYld21Z4t9re) | 3:07 | 2023-02-23 | 2023-03-18 |
 | [Ice Age](https://open.spotify.com/track/1iBTutx1nwO5oijV0X9vIX) | [Nobody Cried For Dinosaurs](https://open.spotify.com/artist/2RQE2lqMvFUFA5u0znpkvo) | [Ice Age](https://open.spotify.com/album/0q1EYVfZLHtFLE4sUVQ8Kg) | 4:22 | 2022-11-24 | 2023-01-20 |
 | [Idea](https://open.spotify.com/track/0AI35B8TuEtmz5ayf4dQR0) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Idea](https://open.spotify.com/album/3jG7ZwprmZW0PDoImjUL0H) | 2:45 | 2022-05-12 | 2023-01-13 |

@@ -79,6 +79,24 @@
     },
     {
       "album": {
+        "name": "1982 (Remix)",
+        "url": "https://open.spotify.com/album/5ZoZ6gKFGJ8E4oiU7fMfMR"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "1982 - Remix",
+      "url": "https://open.spotify.com/track/0EG54WPNcosMeybB8AdgOP"
+    },
+    {
+      "album": {
         "name": "Rachmaninoff, Tchaikovsky etc; Works for Piano",
         "url": "https://open.spotify.com/album/3Sk0rgbZiuKPowNs20LpAz"
       },
@@ -434,6 +452,28 @@
       "duration_ms": 276035,
       "name": "Adderall - No Intro",
       "url": "https://open.spotify.com/track/6jsgDXBHbzXWv0Lsbmorf2"
+    },
+    {
+      "album": {
+        "name": "Addicted to Romance (from the film 'She Came to Me')",
+        "url": "https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Patti Scialfa",
+          "url": "https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185013,
+      "name": "Addicted to Romance - from the film 'She Came to Me'",
+      "url": "https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1"
     },
     {
       "album": {
@@ -916,6 +956,24 @@
       "duration_ms": 226535,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/0zmd3kkK4FL9qYBXhWiOKW"
+    },
+    {
+      "album": {
+        "name": "Amphetamine Smiles",
+        "url": "https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185653,
+      "name": "Amphetamine Smiles",
+      "url": "https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ"
     },
     {
       "album": {
@@ -1777,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Black (Live in St Paul , 8/31/2023)",
+        "url": "https://open.spotify.com/album/0kTWX7n8tSSJ8TBVx5vQWQ"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508693,
+      "name": "Black (Live in St Paul , 8/31/2023)",
+      "url": "https://open.spotify.com/track/2AAQOJH9dHR9R4jiYA1Goz"
+    },
+    {
+      "album": {
         "name": "Black Hole Sun",
         "url": "https://open.spotify.com/album/3R8GhDAi9r5wv8cOUFZ9xK"
       },
@@ -1970,7 +2046,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 278533,
       "name": "Born to Run - Live at Brendan Byrne Arena, E. Rutherford, NJ - 7/9/1981",
       "url": "https://open.spotify.com/track/58tSKcqJ0afkdgiHIdgUPc"
@@ -2010,6 +2086,24 @@
       "duration_ms": 202442,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NX5CdXj24m5fQQci6u8JJ"
+    },
+    {
+      "album": {
+        "name": "Bring Me To Life (Demo / Remastered)",
+        "url": "https://open.spotify.com/album/0DfHqikBacUYVH6OjO4MPd"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "Bring Me To Life - Demo / Remastered 2023",
+      "url": "https://open.spotify.com/track/7FEjJLwvoedqAG5j1loQQu"
     },
     {
       "album": {
@@ -2538,7 +2632,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 224800,
       "name": "Christie Rd. - Outtake",
       "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
@@ -2632,7 +2726,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 193294,
       "name": "Climber - Demo",
       "url": "https://open.spotify.com/track/5weIZ06HP5ESdFf4bOnpow"
@@ -3024,7 +3118,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 290475,
       "name": "Cream (Take 2)",
       "url": "https://open.spotify.com/track/2CkRxfFJhdhjPKhhi515zc"
@@ -3046,6 +3140,24 @@
       "duration_ms": 298106,
       "name": "Creatures Of the Night - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
       "url": "https://open.spotify.com/track/72x1sWjZF7wGU72mT5iQ3E"
+    },
+    {
+      "album": {
+        "name": "Crossing Over (2023 Remaster)",
+        "url": "https://open.spotify.com/album/2VkvsbyNjm1KP5GIYKtSUn"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305757,
+      "name": "Crossing Over - 2023 Remaster",
+      "url": "https://open.spotify.com/track/1XLRqJpQF7nRVUKDb2oTtV"
     },
     {
       "album": {
@@ -3697,6 +3809,24 @@
     },
     {
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/6vYuWSS8nLKm64kTiX24MF"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185507,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/1y0lz1wrwJApCampPjqzP8"
+    },
+    {
+      "album": {
         "name": "Dreamlike",
         "url": "https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW"
       },
@@ -4153,6 +4283,28 @@
     },
     {
       "album": {
+        "name": "Doom Protectors",
+        "url": "https://open.spotify.com/album/40tr1n8XT3EX4Vj4r13Yi4"
+      },
+      "artists": [
+        {
+          "name": "VEIN",
+          "url": "https://open.spotify.com/artist/5UpoEonoqVkfRlySIcEU64"
+        },
+        {
+          "name": "Death",
+          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294857,
+      "name": "Embrace Your End",
+      "url": "https://open.spotify.com/track/2FU9gU2m2oNRGBiAGmASUD"
+    },
+    {
+      "album": {
         "name": "Eminence Front (Live At Wembley, UK / 2019)",
         "url": "https://open.spotify.com/album/2haHhluMK70wydfarjO6xX"
       },
@@ -4190,6 +4342,24 @@
       "duration_ms": 253968,
       "name": "En el Bald\u00edo - En Vivo",
       "url": "https://open.spotify.com/track/1hNT1e0igCiprBrETIhd55"
+    },
+    {
+      "album": {
+        "name": "En Pausa",
+        "url": "https://open.spotify.com/album/4VN1tnk43WT1FZp8pL5h4q"
+      },
+      "artists": [
+        {
+          "name": "Como Asesinar a Felipes",
+          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263483,
+      "name": "En Pausa",
+      "url": "https://open.spotify.com/track/4Bgpxhi150I9e2eOw1mGv4"
     },
     {
       "album": {
@@ -4472,7 +4642,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 107589,
       "name": "Etude De Concert, Op. 2, No. 6, Si Oiseau J'etais, \"Were I a Bird\" - Welte-Mignon 1654",
       "url": "https://open.spotify.com/track/2xmFyAEU7U5Mr6Kjb9fJGa"
@@ -4918,6 +5088,24 @@
       "duration_ms": 226066,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z"
+    },
+    {
+      "album": {
+        "name": "Get Blue",
+        "url": "https://open.spotify.com/album/4OTw9OxgrmrEXImjqdoR2x"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283026,
+      "name": "Get Blue",
+      "url": "https://open.spotify.com/track/055F7clCQecaI2j0ZBQP8E"
     },
     {
       "album": {
@@ -6072,7 +6260,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 123000,
       "name": "Human - Accapella Version",
       "url": "https://open.spotify.com/track/0CrBLW25dHSjbzDhZ0lKjw"
@@ -7937,6 +8125,24 @@
     },
     {
       "album": {
+        "name": "Vida Cotidiana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/157buz5Int6IECXF2hKYak"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193213,
+      "name": "La Versi\u00f3n En Mi Cabeza",
+      "url": "https://open.spotify.com/track/70iA1uzud3bwrJzQQZ5D6i"
+    },
+    {
+      "album": {
         "name": "Live 1978 - 1992",
         "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
       },
@@ -7952,6 +8158,24 @@
       "duration_ms": 225466,
       "name": "Lady Writer - Live At The Rainbow / Dec 1979",
       "url": "https://open.spotify.com/track/77014L6RWjLdxOkpIaO6As"
+    },
+    {
+      "album": {
+        "name": "Landmines",
+        "url": "https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175767,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9"
     },
     {
       "album": {
@@ -8684,7 +8908,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 360503,
       "name": "Love Can Heal - Dark-Side Mix",
       "url": "https://open.spotify.com/track/7IOJKh6TomNexUadGLns5l"
@@ -8760,6 +8984,24 @@
       "duration_ms": 269715,
       "name": "Love Is A Rich Man",
       "url": "https://open.spotify.com/track/02ghUGm0JJ0SPVFLVBi6Th"
+    },
+    {
+      "album": {
+        "name": "Love Is All That Matters",
+        "url": "https://open.spotify.com/album/3WFzLbp8lKYQ74Cmhl1CKw"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167946,
+      "name": "Love Is All That Matters - Accapella Version",
+      "url": "https://open.spotify.com/track/1t2NrAgLwZxfpcwwV20SxH"
     },
     {
       "album": {
@@ -9262,7 +9504,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 192176,
       "name": "Misery (feat. Atreyu)",
       "url": "https://open.spotify.com/track/3PcbdPfxHNUo8LeWPEBnQT"
@@ -10434,7 +10676,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 208114,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
@@ -10879,6 +11121,24 @@
     },
     {
       "album": {
+        "name": "In Utero 30th Live",
+        "url": "https://open.spotify.com/album/251D5futdABXD1SHrd47lb"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238365,
+      "name": "Pennyroyal Tea - Live In Los Angeles, Great Western Forum - December 30, 1993",
+      "url": "https://open.spotify.com/track/7g8wYvj1XPFu7CRNFH7zsa"
+    },
+    {
+      "album": {
         "name": "Plein D'Amour",
         "url": "https://open.spotify.com/album/13CuZhFz03sBZ0pGP1guLM"
       },
@@ -11250,6 +11510,24 @@
       "duration_ms": 138240,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/0cB6oycfIlplPhfHWFo0h2"
+    },
+    {
+      "album": {
+        "name": "Promised You A Miracle (Live From Paisley Abbey)",
+        "url": "https://open.spotify.com/album/50XXzEskcTuyXfkzZu6f8C"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260413,
+      "name": "Promised You A Miracle - Live From Paisley Abbey",
+      "url": "https://open.spotify.com/track/6ziBfNAKx2dHDSFL5QA1FR"
     },
     {
       "album": {
@@ -11955,6 +12233,24 @@
     },
     {
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/0VEGkgBCCQJuSVrNNEbtHw"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217386,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/5OG8I9MtgrNNydRCo3EACH"
+    },
+    {
+      "album": {
         "name": "Rivers (Live At The Afas Live)",
         "url": "https://open.spotify.com/album/6aU1IBgcfYGEdJT37piNLN"
       },
@@ -12178,6 +12474,24 @@
       "duration_ms": 172438,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/5nEeCaCtSoZDMlgarC3GVF"
+    },
+    {
+      "album": {
+        "name": "Ruska (Live In Helsinki St. John's Church)",
+        "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231573,
+      "name": "Ruska - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
     },
     {
       "album": {
@@ -13071,6 +13385,24 @@
     },
     {
       "album": {
+        "name": "Something Beautiful (2023 Version)",
+        "url": "https://open.spotify.com/album/3uRWZz7ECikDn9DecNMXjB"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316540,
+      "name": "Something Beautiful - 2023 Version",
+      "url": "https://open.spotify.com/track/2p2BsulfyMgpXDwlz9RfpO"
+    },
+    {
+      "album": {
         "name": "Something Changed (Water From Your Eyes Interpolation)",
         "url": "https://open.spotify.com/album/4HJm5HpEQ6Jg8KHvnsj2q3"
       },
@@ -13690,6 +14022,28 @@
       "duration_ms": 188470,
       "name": "Superstar (feat. Remington Leith)",
       "url": "https://open.spotify.com/track/0k7V0datb9PpWRDGkB0xzq"
+    },
+    {
+      "album": {
+        "name": "Sweet Sounds Of Heaven",
+        "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442667,
+      "name": "Sweet Sounds Of Heaven (feat. Lady Gaga & Stevie Wonder)",
+      "url": "https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be"
     },
     {
       "album": {
@@ -14851,6 +15205,24 @@
     },
     {
       "album": {
+        "name": "This Is Home (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/1ijhRCbp5W9rLh6cCcCgt6"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304887,
+      "name": "This Is Home - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/7aA0fUnyi2tIGkZbsWRADb"
+    },
+    {
+      "album": {
         "name": "Live In Vienna 1998",
         "url": "https://open.spotify.com/album/0zEmVfGL3K1lMqF3IpwCPs"
       },
@@ -15029,6 +15401,24 @@
     },
     {
       "album": {
+        "name": "El Hilo del Tiempo",
+        "url": "https://open.spotify.com/album/4wGsXVkJVkyl6XttneSkyg"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290423,
+      "name": "Todo Se Resuelve",
+      "url": "https://open.spotify.com/track/0bK6a0xIhWj9ZVYTxEZK9A"
+    },
+    {
+      "album": {
         "name": "Tomorrow Never Comes",
         "url": "https://open.spotify.com/album/0CLKz1aW13bGfrNhqOmA7r"
       },
@@ -15080,7 +15470,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 288230,
       "name": "Too Far Gone? - Live at MetLife Stadium, East Rutherford, NJ \u2013 August 6, 2023",
       "url": "https://open.spotify.com/track/50T5tj2DdZ0yajhBrSESve"
@@ -15668,6 +16058,28 @@
       "duration_ms": 220200,
       "name": "Vale La Pena",
       "url": "https://open.spotify.com/track/03F8efKrlYFkpLsUheNHql"
+    },
+    {
+      "album": {
+        "name": "Barcarolle. Piano Evocations from the Golden Age (Extended Edition)",
+        "url": "https://open.spotify.com/album/6npRp5KpCP1q938piBKwOE"
+      },
+      "artists": [
+        {
+          "name": "Vassily Sapellnikoff",
+          "url": "https://open.spotify.com/artist/2mPsrlJthLsbakd4CJjJUY"
+        },
+        {
+          "name": "Peter Phillips",
+          "url": "https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186430,
+      "name": "Valse, Op. 1 in E-Flat Major - Welte-Mignon 942",
+      "url": "https://open.spotify.com/track/1I19k20k1pYpua4H8OsSnf"
     },
     {
       "album": {
@@ -16335,6 +16747,24 @@
     },
     {
       "album": {
+        "name": "Dookie (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47l8TkJCLzHaekHImz1e9g"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179623,
+      "name": "When I Come Around - Cassette demo",
+      "url": "https://open.spotify.com/track/4ECOhAff9rCHTgddtPO1Wa"
+    },
+    {
+      "album": {
         "name": "When Love Sucks (feat. Dido)",
         "url": "https://open.spotify.com/album/0BmbK3Ayd0Q9BWOCQYOdQw"
       },
@@ -16711,6 +17141,24 @@
     },
     {
       "album": {
+        "name": "R\u00f6kFl\u00f6te (Alternative Mixes)",
+        "url": "https://open.spotify.com/album/3uXkihtnfUMEe8zsP2RpFU"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298184,
+      "name": "Wolf Unchained - Alternative Mix",
+      "url": "https://open.spotify.com/track/79ZzFRDXRNaOL3qGn7pffa"
+    },
+    {
+      "album": {
         "name": "VOGUE",
         "url": "https://open.spotify.com/album/78qNHjNv7E9TjyihxT8XbI"
       },
@@ -16751,6 +17199,24 @@
     },
     {
       "album": {
+        "name": "Ya No Te Esperar\u00e9",
+        "url": "https://open.spotify.com/album/6CpwgrssmzTfRoL1QHEjmy"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208298,
+      "name": "Ya No Te Esperar\u00e9",
+      "url": "https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0"
+    },
+    {
+      "album": {
         "name": "You Already Know",
         "url": "https://open.spotify.com/album/58lRNid4z2AoQvPqzqfD3D"
       },
@@ -16778,6 +17244,32 @@
       "duration_ms": 156000,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/2gfFcnPwV3MyI1Qq0jlanv"
+    },
+    {
+      "album": {
+        "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
+        "url": "https://open.spotify.com/album/6k7ASb40R8wBiQymSSwwh0"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
+      "url": "https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ"
     },
     {
       "album": {

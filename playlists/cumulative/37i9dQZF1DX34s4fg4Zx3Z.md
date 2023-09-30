@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: MYLINA; thiết kế: Isu Kim
 
-1,287 songs - 3 day 3 hr 37 min
+1,289 songs - 3 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [chạy theo em](https://open.spotify.com/track/03hRoo3FsmzG3X5FZpn0S8) | [Duniverse](https://open.spotify.com/artist/3h1HA6owjEkAHnIkMzYXoZ) | [chạy theo em](https://open.spotify.com/album/1NdIMRmI0TVUh3TgitAuzc) | 3:13 | 2023-07-26 | 2023-09-15 |
 | [chạy trốn](https://open.spotify.com/track/0ytT0BAsapL17sylQKwCUN) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [chạy trốn](https://open.spotify.com/album/1lWx3rPdvhE7QO8kP1G8nD) | 2:23 | 2023-01-06 | 2023-02-16 |
 | [Chầm Chậm Cùng Anh](https://open.spotify.com/track/13Cl4lQMQZXoUTFFYGvcmD) | [A.C Xuân Tài](https://open.spotify.com/artist/4cXmPRr3FNM39g79G2IovE) | [Chầm Chậm Cùng Anh](https://open.spotify.com/album/42RAxVQ8JRew5R8biFaIpW) | 3:52 | 2022-01-28 | 2023-01-06 |
+| [Chắp \(feat\. Kriss Ngo\)](https://open.spotify.com/track/3pMTzRgv1gQCDOk7vTcz1D) | [NEWA Fee](https://open.spotify.com/artist/2mwaf0hA6tytSq7wuL6EZD), [Kriss Ngo](https://open.spotify.com/artist/2bZuywG6cBhHAo4s3pdFlO) | [Chắp \(feat\. Kriss Ngo\)](https://open.spotify.com/album/4mmgcMySuhiNcdgLajWeAl) | 3:24 | 2023-09-29 |  |
 | [Chẳng Ai Muốn](https://open.spotify.com/track/2YdII5s2dJk6dcVl2MtdLw) | [Diam](https://open.spotify.com/artist/3Ynv5eRtPGGOjIdEvEtoMq), [DreAw](https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp) | [Chẳng Ai Muốn](https://open.spotify.com/album/69ZXxzr9QqiuezC1gbc5Ts) | 2:56 | 2022-03-30 | 2022-05-12 |
 | [Chẳng Biết Do Ai](https://open.spotify.com/track/3WSAgPUXWxSP19clEHOmAt) | [SuperC](https://open.spotify.com/artist/2jfbFAZ1SeBTGdjPc4hpSo), [Halee](https://open.spotify.com/artist/2KSRO8SmehOyvbtnVgBVeR), [datfitzx](https://open.spotify.com/artist/2rkSOVm1YGlmjYTgmmfZd7) | [Chẳng Biết Do Ai](https://open.spotify.com/album/0sEwi0aESYFijW9aHs0kbK) | 2:55 | 2023-06-06 | 2023-07-11 |
 | [Chẳng Biết Phải Làm Sao](https://open.spotify.com/track/6bv1AmKHLlAKEn3d1a702t) | [Jackie Njine](https://open.spotify.com/artist/3taOSFlvxaSINTTnKhjMQz) | [Chẳng Biết Phải Làm Sao](https://open.spotify.com/album/1bow0knZOT43RlETgxu9Sd) | 3:53 | 2023-06-08 | 2023-07-14 |
@@ -727,6 +728,7 @@
 | [Nguyệt Hồng Phai](https://open.spotify.com/track/03lC2nXXuj2fMTAj37jhrB) | [NH4T](https://open.spotify.com/artist/63WrjImX9GPi1i1pqz2BKe), [Dương Yến Phi](https://open.spotify.com/artist/0UFPhgdolmJm2bciyAIqEY) | [Nguyệt Hồng Phai](https://open.spotify.com/album/4RsKzbVsWg0xnUVtsJAvKV) | 4:16 | 2022-05-11 | 2022-05-27 |
 | [Ngàn Đời](https://open.spotify.com/track/4nhT1gZ0sxWzLJYPtz43Hg) | [MegaShock](https://open.spotify.com/artist/78BCjtPwVVmrolLWLArPaX) | [Ngàn Đời](https://open.spotify.com/album/1olRZF7lcbeTq8GvYeBTIx) | 2:41 | 2022-09-27 | 2023-01-13 |
 | [Ngày Bình Thường](https://open.spotify.com/track/1uYHYvyp2rZqJ8yMj6lUua) | [MAY](https://open.spotify.com/artist/5MJKruMaFrXMOdR3pK967G) | [Ngày Bình Thường](https://open.spotify.com/album/2DUgVPR2TiRWl2BZ6yNrnW) | 3:21 | 2022-09-29 | 2022-10-13 |
+| [NGÀY EM ĐI](https://open.spotify.com/track/41F04SJJMUVgLaRmWEu0OI) | [Kay H](https://open.spotify.com/artist/5WFBLpoBC4CAKN77G7oAPC), [Cú](https://open.spotify.com/artist/3YhJ6WiVNrXWWH1TQhVt60) | [NGÀY EM ĐI](https://open.spotify.com/album/1HhPPlHpYpcYdBfOel1AIz) | 3:53 | 2023-09-28 |  |
 | [Ngày Em Đẹp Nhất](https://open.spotify.com/track/0DtarPcErIh4skfFtxzomo) | [Tama](https://open.spotify.com/artist/4npVRqpqmmM0MYHXTzu0o1) | [Ngày Em Đẹp Nhất](https://open.spotify.com/album/5HMluyDCD66ZPwYpIQ1c31) | 5:03 | 2023-05-05 | 2023-06-30 |
 | [Ngày Em Đến](https://open.spotify.com/track/59ejl6vSGdvCJC9eu5rOOH) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Ngày Em Đến](https://open.spotify.com/album/5iA4LgsmNdykoKLGPUZQsc) | 2:54 | 2022-05-18 | 2022-06-10 |
 | [Ngày Không Nắng](https://open.spotify.com/track/0KqIot5tKP3kinpIjTZBp1) | [Try92](https://open.spotify.com/artist/3TAL7g0EaT0Az8Xr2Upv1b) | [Ngày Không Nắng](https://open.spotify.com/album/5mI1BAYkTKvUXp1PZWcZYi) | 5:41 | 2023-07-27 | 2023-09-13 |

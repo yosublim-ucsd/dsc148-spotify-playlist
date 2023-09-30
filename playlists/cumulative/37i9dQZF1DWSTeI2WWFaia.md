@@ -2,9 +2,9 @@
 
 ### [Spilled Ink](https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia)
 
-> Lyrical, lo\-fi, and lowlife raps\. Cover: Mick Jenkins
+> Lyrical, lo\-fi, and lowlife raps\. Cover: Earl Sweatshirt
 
-534 songs - 1 day 4 hr 27 min
+535 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Sink](https://open.spotify.com/track/6SGtzveb9eeXkSYqkyLk21) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Sink](https://open.spotify.com/album/6e6elVmUC70lrRndssuAk5) | 2:04 | 2021-09-03 | 2022-03-15 |
 | [Skegee](https://open.spotify.com/track/4MwhUpDkOOb4UU7BtKznlu) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Skegee](https://open.spotify.com/album/18ZCRn9GAuLUVMiuNXGyIL) | 3:06 | 2021-09-03 | 2023-03-04 |
 | [Slip](https://open.spotify.com/track/6TH7vmxNibiSynNVMZU5bW) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [The Distance](https://open.spotify.com/album/2ZVkCDIJ8IFDqTO5DNWR2L) | 2:50 | 2022-02-18 | 2022-07-26 |
+| [Slip](https://open.spotify.com/track/4mnjagpaCTWFLqiRMHbFAm) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Fix Before Tha VI](https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG) | 3:30 | 2023-09-29 |  |
 | [Slipping Into Darkness](https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Slipping Into Darkness](https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N) | 4:16 | 2023-03-17 | 2023-06-11 |
 | [Slow it Down](https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:30 | 2023-07-21 | 2023-09-19 |
 | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/track/01HF0G0K6CPvVIub1JpO4f) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 2:47 | 2023-09-05 |  |
@@ -532,7 +533,7 @@
 | [Whoop Tang Flow \(feat\. Raekwon\)](https://open.spotify.com/track/091VDkLyQvQBS0YXC0nEtg) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Bebey](https://open.spotify.com/album/01ewz4ezvpzgz1R1WOetVy) | 4:01 | 2021-09-03 | 2022-06-18 |
 | [Wimbledon](https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Wimbledon](https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m) | 2:22 | 2022-05-20 | 2023-04-22 |
 | [Win](https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Win](https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf) | 3:55 | 2023-06-16 | 2023-07-23 |
-| [Wish Me Well](https://open.spotify.com/track/4HZk0YHZ2nJMtBkikMCqtm) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [Wish Me Well / Glory Glory](https://open.spotify.com/album/6t2OdInznQdA2v7wtGrznb) | 2:12 | 2023-09-26 |  |
+| [Wish Me Well](https://open.spotify.com/track/4HZk0YHZ2nJMtBkikMCqtm) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [Wish Me Well / Glory Glory](https://open.spotify.com/album/6t2OdInznQdA2v7wtGrznb) | 2:12 | 2023-09-26 | 2023-09-30 |
 | [Woke Up and Asked Siri How I'm Gonna Die](https://open.spotify.com/track/5YAgSjM22pJzOOwN7261Uh) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Woke Up and Asked Siri How I'm Gonna Die](https://open.spotify.com/album/5hKMFGdqaeJEbxpghERhsF) | 2:41 | 2023-09-05 |  |
 | [World Champ](https://open.spotify.com/track/6Nt8M5jgmtRCxY2yGZdGKK) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [World Champ](https://open.spotify.com/album/6138iEeNObAgJOFw5pSVUw) | 2:26 | 2022-04-29 | 2022-07-29 |
 | [Worldwide Steppers](https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:23 | 2022-05-20 | 2022-05-28 |

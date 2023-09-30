@@ -478,7 +478,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
@@ -5220,6 +5220,24 @@
       "duration_ms": 197041,
       "name": "Vermilion",
       "url": "https://open.spotify.com/track/4V2Hz5O0EOui1S3coZhdTd"
+    },
+    {
+      "album": {
+        "name": "Vivaldi (and 74 musicians)",
+        "url": "https://open.spotify.com/album/17ceSZMkAnPbFI9R1BbvQH"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200759,
+      "name": "Vivaldi (and 74 musicians)",
+      "url": "https://open.spotify.com/track/3Rwpdpwyryqwl4SMRR7mm0"
     },
     {
       "album": {

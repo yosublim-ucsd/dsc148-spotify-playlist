@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-341 songs - 15 hr 19 min
+342 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Another Love](https://open.spotify.com/track/6OfT72cZN67HsBTDbnqsMo) | [Ryan Tenner](https://open.spotify.com/artist/29i15whXYvAclIabh8MwFb) | [Pop Piano Covers](https://open.spotify.com/album/5VsC6hpWCfb3N9GhlPqWIn) | 4:12 | 2022-08-05 | 2022-08-10 |
 | [As We Dance](https://open.spotify.com/track/01i2Pwd1th9J7T1zHBVPJQ) | [Joseph Vidal](https://open.spotify.com/artist/0xPExAs5AtfPcauYdhWqfi) | [As We Dance](https://open.spotify.com/album/0YYG9E8nuHaUXpgbwhV6nM) | 2:40 | 2022-10-24 | 2023-02-15 |
 | [As You Are](https://open.spotify.com/track/51KaUzLKNm24PSwdK8MhVY) | [Jakob München](https://open.spotify.com/artist/5lzyS07BZQrvRmABhTmroF) | [As You Are](https://open.spotify.com/album/3O9SKAOz5YQ95vIl6Z61xQ) | 2:21 | 2023-05-09 |  |
-| [Au loin](https://open.spotify.com/track/7JR2FbKiAkUfCw0pe4F9Ob) | [Bon Coeur](https://open.spotify.com/artist/3uvirEQnNIIz4wsyCPEper) | [Au loin](https://open.spotify.com/album/6434rqJKVGoPvcn2rlZbx2) | 2:47 | 2022-10-04 |  |
+| [Au loin](https://open.spotify.com/track/684T86icudUoR4RjT7exYS) | [Bon Coeur](https://open.spotify.com/artist/3uvirEQnNIIz4wsyCPEper) | [Au loin](https://open.spotify.com/album/75xfThp43Rx8tSNXBphZXf) | 2:47 | 2023-09-18 |  |
+| [Au loin](https://open.spotify.com/track/7JR2FbKiAkUfCw0pe4F9Ob) | [Bon Coeur](https://open.spotify.com/artist/3uvirEQnNIIz4wsyCPEper) | [Au loin](https://open.spotify.com/album/6434rqJKVGoPvcn2rlZbx2) | 2:47 | 2022-10-04 | 2023-09-30 |
 | [Autumn Leaf](https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Autumn Leaf](https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7) | 2:27 | 2022-08-01 |  |
 | [Aşk Mühürü \(Mira & Yaman\)](https://open.spotify.com/track/0Y6qIIK11T451NjsjvMSYJ) | [Toygar Işıklı](https://open.spotify.com/artist/2l0Ol9ASKE7E196nHpblB7) | [Med Cezir \(Original Tv Series Soundtrack\)](https://open.spotify.com/album/4g4jsUq6IsRUQM6kPBjucu) | 1:59 | 2022-11-14 | 2023-03-23 |
 | [Barcelona](https://open.spotify.com/track/5JSQc1Anz5HWLZUpMbmMh1) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Barcelona](https://open.spotify.com/album/1YrneT7zPyEDXSnJ2AIDrD) | 2:46 | 2023-03-07 |  |

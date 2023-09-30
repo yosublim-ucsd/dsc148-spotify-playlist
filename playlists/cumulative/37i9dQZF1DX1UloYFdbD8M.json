@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Gopa Trance",
+        "url": "https://open.spotify.com/album/3nSlJ9VWwpcX66QgFjSZNe"
+      },
+      "artists": [
+        {
+          "name": "Madhuvanthi Narayan",
+          "url": "https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162853,
+      "name": "Gopa Trance",
+      "url": "https://open.spotify.com/track/2U2YHuFB8kYdmYzOp2FHg5"
+    },
+    {
+      "album": {
         "name": "Co Creation Project: Kappa Originals x Bloom In Green '22",
         "url": "https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL"
       },

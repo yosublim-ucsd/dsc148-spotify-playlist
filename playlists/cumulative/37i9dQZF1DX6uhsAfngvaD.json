@@ -1383,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "Defeat",
+        "url": "https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1318174,
+      "name": "Defeat",
+      "url": "https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB"
+    },
+    {
+      "album": {
         "name": "Sentimiento Mundial",
         "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
       },
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 190720,
       "name": "Drown",
       "url": "https://open.spotify.com/track/61eG7WlDZhRKJKMLPsCtWY"
@@ -2725,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "I Feel It",
+        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185182,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
+    },
+    {
+      "album": {
         "name": "i walk this earth all by myself",
         "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
@@ -3064,7 +3100,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 269268,
       "name": "James",
       "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
@@ -3960,6 +3996,24 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
+    },
+    {
+      "album": {
+        "name": "Lost In A Rush Of Emptiness",
+        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
+      },
+      "artists": [
+        {
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198767,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
     },
     {
       "album": {
@@ -5239,6 +5293,24 @@
     },
     {
       "album": {
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315005,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8"
+    },
+    {
+      "album": {
         "name": "So Humble The Afternoon",
         "url": "https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp"
       },
@@ -6334,7 +6406,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 216343,
       "name": "Where The Light Used To Lay",
       "url": "https://open.spotify.com/track/3cN6n7yeYM3QEOswqQVmV8"
@@ -6482,7 +6554,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"

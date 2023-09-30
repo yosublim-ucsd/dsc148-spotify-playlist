@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Koyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,130 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,213 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [STRAP!](https://open.spotify.com/track/2qkf8hc9iDQPtJrin3CPiN) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [STRAP!](https://open.spotify.com/album/2tWnNwQCgwpDgVwuN9coKs) | 1:58 |
 | 100 | [A Sad Sad Song](https://open.spotify.com/track/5b9M4d2UlAOwPDAur72Z1G) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [People R Ugly](https://open.spotify.com/album/7zokQXDSsOzWWswmtKjZrL) | 2:52 |
 
-Snapshot ID: `MCwzYTMwNDExNmM5NzkwOTM2YTg5ZjcyNzdkZGE2NmNhZDc5YmQ3ZDJl`
+Snapshot ID: `MCw3Y2Q5YzY4ZmNmMmE4ZTlhMzUzNzAxNzQ5ZTZlMjk2M2JjNTE0MTFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,069 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,431 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 17 | [I'll Never Smile Again](https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [The Seventeen Number Ones](https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV) | 3:09 |
 | 18 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 |
 | 19 | [memories](https://open.spotify.com/track/4VkRQSpG16JxrXaVlNyWdX) | [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb) | [memories](https://open.spotify.com/album/1W7locJBenHBGz0Z8OzBcq) | 1:26 |
-| 20 | [Agony \- Remix](https://open.spotify.com/track/0YsQ6dgNby7nascEb12v6G) | [NVBR](https://open.spotify.com/artist/51U1llIay9sKYGWqp76q5U) | [Agony \(Remix\)](https://open.spotify.com/album/5Xj154q0kijKbdlMVAwalw) | 5:01 |
+| 20 | [Agony \- Instrumental](https://open.spotify.com/track/0XiGmM93irCMKo0FADlWFj) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn) | [Agony \(Instrumental\)](https://open.spotify.com/album/7uL9TY3BOHFFDaMeAJIYfm) | 5:01 |
 | 21 | [Fallen Down \(Reprise\)](https://open.spotify.com/track/23b9BdZ2WZnDSeDzNUTVvZ) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 2:30 |
 | 22 | [Six Forty Seven](https://open.spotify.com/track/2WuK1opHQzRo18YXCtY2DF) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Six Forty Seven](https://open.spotify.com/album/0FawTVuFbmS9KLWA8TAtau) | 1:59 |
 | 23 | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/track/2mei1NCzlPpkh98PzEqc4N) | [Maria Pseftoga](https://open.spotify.com/artist/0eiGR5RtOEfEFqRhSp6mIa), [May Roosevelt](https://open.spotify.com/artist/3Fs0Rcn2Ss2fqbrLvLN4Kt) | [Memoir \#02 \[06.12.09\]](https://open.spotify.com/album/5bQrNKusEFt4fgS5z0Pjog) | 1:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 74 | [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 |
 | 75 | [Out](https://open.spotify.com/track/3XacRs7DmGzAb8auxz6Wnt) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [What We Do For Others](https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR) | 2:42 |
 
-Snapshot ID: `MCwzZmZlYTI5NTEyZDNjYjgxMGU2MWI1ODFjNjYyZDM5NGJlNjMxODAz`
+Snapshot ID: `MCxhYjVhZjliNzY5NGY5ZGNkMDhjZDdhNGRhODM0MmEzZjZkZWZhNmQy`

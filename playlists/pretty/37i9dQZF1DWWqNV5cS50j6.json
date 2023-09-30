@@ -1,13 +1,29 @@
 {
-  "description": "Not NOT pop. Cover: underscores",
-  "num_followers": 696897,
+  "description": "Not NOT pop. Cover: ericdoa",
+  "num_followers": 696917,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTcxMmZkMmMwMjY3YWU5NWJmNzI3OWE3M2NmNjFlZTQ2YTZmMzUz",
+  "snapshot_id": "MCw4YTc0ZDQzMmQwZDE3MDFlN2NhYmE0ZjFlYmM4NzYyMTBlMDA4MjMx",
   "tracks": [
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "sins (let me in)",
+        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 128326,
+      "name": "sins (let me in)",
+      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
+    },
     {
       "added_at": "2023-09-22 16:42:23",
       "album": {
@@ -25,20 +41,32 @@
       "url": "https://open.spotify.com/track/2T6D4elLJtJs5V1DHhrDi1"
     },
     {
-      "added_at": "2023-09-22 16:42:23",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "sins (let me in)",
-        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
+        "name": "The Gods Must Be Crazy",
+        "url": "https://open.spotify.com/album/5isDMdPrvufHyLyO8E4Hr1"
       },
       "artists": [
         {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+          "name": "Armand Hammer",
+          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "E L U C I D",
+          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
         }
       ],
-      "duration_ms": 128326,
-      "name": "sins (let me in)",
-      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
+      "duration_ms": 180772,
+      "name": "The Gods Must Be Crazy",
+      "url": "https://open.spotify.com/track/62ir3CludVLlbrXk6AOlGg"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -105,6 +133,22 @@
       "url": "https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "www she hot",
+        "url": "https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "www she hot",
+      "url": "https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH"
+    },
+    {
       "added_at": "2023-09-22 16:42:23",
       "album": {
         "name": "Myspace Addiction",
@@ -127,22 +171,6 @@
     {
       "added_at": "2023-09-22 16:42:23",
       "album": {
-        "name": "Nothing Sacred",
-        "url": "https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO"
-      },
-      "artists": [
-        {
-          "name": "Nate Brazier",
-          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
-        }
-      ],
-      "duration_ms": 150052,
-      "name": "Putting On Airs",
-      "url": "https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
         "name": "Weird & Bizarre",
         "url": "https://open.spotify.com/album/4fLINYR36a8frZuUoefi6j"
       },
@@ -155,6 +183,38 @@
       "duration_ms": 195918,
       "name": "Weird & Bizarre",
       "url": "https://open.spotify.com/track/46OGrRCC0Y7ZyF0qvXsPNt"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "VIDEO GAME",
+        "url": "https://open.spotify.com/album/5byaS0rosm6QwgVwtRPoeb"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 128720,
+      "name": "VIDEO GAME",
+      "url": "https://open.spotify.com/track/2dPgrDsNTN2tTUQMn3vWW5"
+    },
+    {
+      "added_at": "2023-09-22 16:42:23",
+      "album": {
+        "name": "Nothing Sacred",
+        "url": "https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO"
+      },
+      "artists": [
+        {
+          "name": "Nate Brazier",
+          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
+        }
+      ],
+      "duration_ms": 150052,
+      "name": "Putting On Airs",
+      "url": "https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -475,26 +535,6 @@
       "duration_ms": 130384,
       "name": "Wasted Summers",
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
-        "name": "Crying In My Car",
-        "url": "https://open.spotify.com/album/1GZ0dk7XtNsU6guKICEOBd"
-      },
-      "artists": [
-        {
-          "name": "Tyler Cole",
-          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 182146,
-      "name": "Crying In My Car (with Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl"
     },
     {
       "added_at": "2023-09-22 16:42:23",
@@ -847,26 +887,6 @@
     {
       "added_at": "2023-09-22 16:42:23",
       "album": {
-        "name": "DnD (feat. Kenny Mason)",
-        "url": "https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 251175,
-      "name": "DnD (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
         "name": "plansfor2",
         "url": "https://open.spotify.com/album/5j1fwt4WbOoV8pVj0M7UZz"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 215067,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/683VMYf2AuBE9QoiaBCsEW"
-    },
-    {
-      "added_at": "2023-09-22 16:42:23",
-      "album": {
-        "name": "BAD SON",
-        "url": "https://open.spotify.com/album/2ykrqWTfqZ1ltn6n0ooFIf"
-      },
-      "artists": [
-        {
-          "name": "Curtis Waters",
-          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
-        },
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        }
-      ],
-      "duration_ms": 186957,
-      "name": "PETTY (feat. TiaCorine)",
-      "url": "https://open.spotify.com/track/4WAwwhUc54CHYksDvVP8Zt"
     },
     {
       "added_at": "2023-09-22 16:42:23",

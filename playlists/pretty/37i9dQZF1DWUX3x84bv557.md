@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Numidia
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,667 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,727 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Opzij](https://open.spotify.com/track/1yoDJQ04wFrCBw9rkVgtXp) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [Opzij](https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C) | 2:22 |
 | 60 | [Rolling Stone](https://open.spotify.com/track/7pmmCC7wOuG38rZeUCtPpa) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [Rolling Stone](https://open.spotify.com/album/3XSu9f5Zau6MN01ZCxQz0F) | 2:25 |
 
-Snapshot ID: `MCw1NjFmZmFkMjk5ZWEwNTBhMjZmMjU5NzUxMDAzNzVmODUxYTRjZjlh`
+Snapshot ID: `MCxmYTlhNGY1ZjA5ZGZlODY2ODE4MDA2OTdhNzBkM2YxZmU0NTk3OTk2`

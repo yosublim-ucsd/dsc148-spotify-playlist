@@ -3296,7 +3296,7 @@
     {
       "album": {
         "name": "Glassy Wave",
-        "url": "https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu"
+        "url": "https://open.spotify.com/album/7uwNE4i944rSd3hVlEPUap"
       },
       "artists": [
         {
@@ -3307,6 +3307,24 @@
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 120097,
+      "name": "Glassy Wave",
+      "url": "https://open.spotify.com/track/497tQqdZm2EXvOvRim673I"
+    },
+    {
+      "album": {
+        "name": "Glassy Wave",
+        "url": "https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
       "duration_ms": 120097,
       "name": "Glassy Wave",
       "url": "https://open.spotify.com/track/5vb6yRMsWYwwggXq6hv2yE"

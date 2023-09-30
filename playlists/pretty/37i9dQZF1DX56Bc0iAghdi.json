@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 26019,
+  "num_followers": 26052,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTNmN2QxODA5OTA0YWY1ZTkxZjhiZGI3ZmZjMWNjMDc2YzllMmEw",
+  "snapshot_id": "MCwwOWU1MzMwMWQxZjAzYWQyZmM3ZTIwYWU3ZjRhYmE0MTdhM2NiNDRm",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Twenty Four Seven",
+        "url": "https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 186513,
+      "name": "Fanatic",
+      "url": "https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "Brighter",
         "url": "https://open.spotify.com/album/0uaNHO3Fg6eX9tAtUBxV8q"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 279272,
       "name": "Brighter",
       "url": "https://open.spotify.com/track/44u5ggF8jOttzk8XvPGyik"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Twenty Four Seven",
-        "url": "https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 186513,
-      "name": "Fanatic",
-      "url": "https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Celebrate Life",
+        "url": "https://open.spotify.com/album/5wlSuYlEUkibKPZXbfJjc5"
+      },
+      "artists": [
+        {
+          "name": "Alice Pisano",
+          "url": "https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH"
+        }
+      ],
+      "duration_ms": 235236,
+      "name": "Celebrate Life",
+      "url": "https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "It's Not Over",
         "url": "https://open.spotify.com/album/6qPfheQDOnZDpViFsJIJ5t"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 211785,
       "name": "It's Not Over",
       "url": "https://open.spotify.com/track/36iivpdcpCQRjmcDHzJJep"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Celebrate Life",
-        "url": "https://open.spotify.com/album/5wlSuYlEUkibKPZXbfJjc5"
-      },
-      "artists": [
-        {
-          "name": "Alice Pisano",
-          "url": "https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH"
-        }
-      ],
-      "duration_ms": 235236,
-      "name": "Celebrate Life",
-      "url": "https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/0abL7FZysjxpaxEPURpBsl"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 308173,
-      "name": "Everything for Nothing",
-      "url": "https://open.spotify.com/track/0nrzVrjEz8G49T0lSQd2sy"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/0bgRKFVFp5wiMnLfiM2WzB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 252381,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/5kSWv4oxIoTE3LSh831GpU"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/0abL7FZysjxpaxEPURpBsl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 308173,
+      "name": "Everything for Nothing",
+      "url": "https://open.spotify.com/track/0nrzVrjEz8G49T0lSQd2sy"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Gone Are the Days (Julie Odnoralov Remix)",
-        "url": "https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        },
-        {
-          "name": "Julie Odnoralov",
-          "url": "https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ"
-        }
-      ],
-      "duration_ms": 235312,
-      "name": "Gone Are the Days (Julie Odnoralov Remix)",
-      "url": "https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Fun",
         "url": "https://open.spotify.com/album/5tgWl3CLKfqlG6SQeD9VOf"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 213680,
       "name": "Fun",
       "url": "https://open.spotify.com/track/1HVQO24aqjZWB19HkOztZg"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Gone Are the Days (Julie Odnoralov Remix)",
+        "url": "https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        },
+        {
+          "name": "Julie Odnoralov",
+          "url": "https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ"
+        }
+      ],
+      "duration_ms": 235312,
+      "name": "Gone Are the Days (Julie Odnoralov Remix)",
+      "url": "https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM"
     },
     {
       "added_at": "2023-02-18 06:22:02",

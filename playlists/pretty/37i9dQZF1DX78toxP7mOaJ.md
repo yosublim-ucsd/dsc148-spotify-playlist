@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Office Dog \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,842 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,883 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 91 | [Domino](https://open.spotify.com/track/3v70cZTbmDtdada83OlRn4) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Domino](https://open.spotify.com/album/1smfUyWCkDAxgDRfJEXt3d) | 3:37 |
 | 92 | [Eutherians \(Ultramarine\)](https://open.spotify.com/track/28e2ijIPbnUzeU8b9xntzn) | [ME REX](https://open.spotify.com/artist/4i3bRgGFFhxCNJg4xURPJm) | [Eutherians \(Ultramarine\)](https://open.spotify.com/album/2F5jGyZ9z14KGjH4tdhPTA) | 4:13 |
 | 93 | [This One](https://open.spotify.com/track/5Qp6SIUrqZFSyYZHJkb6I0) | [Reggie Pearl](https://open.spotify.com/artist/0bqF0eDCWNkie7lHRS9fDe) | [This One](https://open.spotify.com/album/7xcV8IGE3Djn5vbk6ehdin) | 3:04 |
-| 94 | [Freaks Like Us](https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3) | 4:54 |
+| 94 | [Freaks Like Us](https://open.spotify.com/track/0chJDuzoUhpvfLJiSP4cEe) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/6aaFOSMUUxYBAJ3fcxZmBo) | 4:54 |
 | 95 | [Sylvie's A Mess](https://open.spotify.com/track/4KHhb8Yvy03AtfsWMTPalP) | [Walter Etc.](https://open.spotify.com/artist/6oosocT7xXnTK2ehoe28mJ) | [Sylvie's A Mess](https://open.spotify.com/album/3xfSCABLEqZznsq4j9NvEK) | 1:40 |
 | 96 | [Real Life](https://open.spotify.com/track/2fgZPk5SaFk2D28uHJOYx0) | [Holdfast.](https://open.spotify.com/artist/2Swe1eLITXtY5b0xOx8AE8) | [Real Life](https://open.spotify.com/album/2roed6azw0vPdq8wNLApNr) | 3:53 |
 | 97 | [Rorschach](https://open.spotify.com/track/0p1Uo9bQhK4uUfLCVhaKQf) | [Secondhand Sound](https://open.spotify.com/artist/7F5gkuNk8gKIYIQtXJNFAw) | [Rorschach](https://open.spotify.com/album/4fuNiaOlWl5i9QoL4X6C7N) | 3:55 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 124 | [dissolve](https://open.spotify.com/track/1GJF9cxjx4tEeUgIHlqGlb) | [sunshy](https://open.spotify.com/artist/3N10oOH2Qf9uti4SA0Azav) | [dissolve](https://open.spotify.com/album/2oHvvxsZZ8lziRzIjIfUs9) | 2:25 |
 | 125 | [Olly Carp](https://open.spotify.com/track/2VspudiJVujvSewaidcfKZ) | [HYLA](https://open.spotify.com/artist/7hpxHWdnM6cECjtgqMiWOo) | [Olly Carp](https://open.spotify.com/album/09tgHx4T78MhsW4XP0GKte) | 4:35 |
 
-Snapshot ID: `MCw1N2E4NjFkYjkzMDI4YmQxYmM4ZTdjM2NiMTExMjdkYWQ3N2IxZWFi`
+Snapshot ID: `MCwyZGRlMWJlMTYyODZlZWU3ZTExNzNkZjg2NWNkM2RhNDZhZjJlZmE3`

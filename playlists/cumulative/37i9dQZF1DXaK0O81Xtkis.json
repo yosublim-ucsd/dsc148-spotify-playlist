@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: LANY",
+  "description": "make it pop! cover: david hugo",
   "name": "soda",
   "tracks": [
     {
@@ -376,6 +376,24 @@
       "duration_ms": 142636,
       "name": "After the Tone",
       "url": "https://open.spotify.com/track/3JK6Fyd3DjaThmIjDAUPBm"
+    },
+    {
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/6QxANS2xYXeZjbezRja99U"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163866,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/2Kg1iDi7uHeAKUsFUV8cbU"
     },
     {
       "album": {
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 228000,
       "name": "Coping on Unemployment",
       "url": "https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU"
@@ -3466,6 +3484,24 @@
       "duration_ms": 188352,
       "name": "evergreen",
       "url": "https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA"
+    },
+    {
+      "album": {
+        "name": "everything hits me at once",
+        "url": "https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152978,
+      "name": "everything hits me at once",
+      "url": "https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb"
     },
     {
       "album": {
@@ -5024,7 +5060,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 146250,
       "name": "Hello My Name Is",
       "url": "https://open.spotify.com/track/3ekyM2RKssRCbqVhrVt2R0"
@@ -8704,7 +8740,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 180000,
       "name": "No Longer Bound",
       "url": "https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3"
@@ -9794,7 +9830,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 199422,
       "name": "pretty isn\u2019t pretty",
       "url": "https://open.spotify.com/track/6W9l02gRsXVxzIuQC1oc1X"
@@ -11509,6 +11545,24 @@
     },
     {
       "album": {
+        "name": "Strawberry Ice Cream",
+        "url": "https://open.spotify.com/album/59MmqBryooxMuIu9X8mjYz"
+      },
+      "artists": [
+        {
+          "name": "david hugo",
+          "url": "https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190452,
+      "name": "Strawberry Ice Cream",
+      "url": "https://open.spotify.com/track/5zd3ZyWEjTvVyiyKocCPqT"
+    },
+    {
+      "album": {
         "name": "Strawberry Kisses",
         "url": "https://open.spotify.com/album/4QQ5HRLZrSC7882WTmvZFH"
       },
@@ -12596,6 +12650,42 @@
       "duration_ms": 144269,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/2p89C4cm3uO4aE0m3KpYRn"
+    },
+    {
+      "album": {
+        "name": "this is what space feels like",
+        "url": "https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183017,
+      "name": "this is what space feels like",
+      "url": "https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1"
+    },
+    {
+      "album": {
+        "name": "this time",
+        "url": "https://open.spotify.com/album/7JXBW10JRr5UtC7CjPZR5t"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176420,
+      "name": "this time",
+      "url": "https://open.spotify.com/track/3RflzntjekyDoIlm11kNIN"
     },
     {
       "album": {
@@ -13776,6 +13866,24 @@
       "duration_ms": 130533,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/5HH4smD2ZGTGx0H7rHTutW"
+    },
+    {
+      "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163392,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Folk Arc](https://open.spotify.com/playlist/37i9dQZF1DWT9XEOPDgFX3)
 
-> Walk the bridge between indie and folk\. Cover: Briston Maroney
+> Walk the bridge between indie and folk\. Cover: Baerd
 
-403 songs - 1 day 1 hr 5 min
+406 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Favorite Part](https://open.spotify.com/track/5RjiNm4c0itCWYQQd3br2U) | [Anna Ash](https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw) | [Favorite Part / Popularity](https://open.spotify.com/album/4tRy1IKOZ6NHj9iaTyBlnj) | 3:17 | 2022-04-13 | 2022-07-22 |
 | [For Props](https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy) | 3:43 | 2022-04-29 | 2023-05-17 |
 | [For Props](https://open.spotify.com/track/4ONnqJEwXq3RRoQBm2CuYH) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [For Props](https://open.spotify.com/album/37qOG7Mcy601w1oVaLd3Nc) | 3:43 | 2022-01-21 | 2022-07-29 |
+| [foreign language](https://open.spotify.com/track/3Z8NtoBVL4klYukN4xSTK5) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [earlier from '20](https://open.spotify.com/album/2AekUERWbAA27Eyux7Gj9Z) | 3:55 | 2023-09-29 |  |
 | [Forever \(New Feelings Version\)](https://open.spotify.com/track/0a3XINx8PuXVIwEiQoSdUd) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 4:05 | 2022-04-29 | 2022-07-29 |
 | [Forever You & I](https://open.spotify.com/track/6XBUQjHdbHeLvc45We8UZM) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [Forever You & I](https://open.spotify.com/album/1dWmrJhe6iXyMgZ9FjX1oi) | 4:06 | 2022-04-29 | 2022-06-26 |
 | [Friends](https://open.spotify.com/track/32irCtqVudXga5frCUDFVH) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Friends](https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD) | 3:02 | 2022-12-02 | 2023-05-09 |
@@ -186,6 +187,7 @@
 | [Is There Something In The Movies?](https://open.spotify.com/track/38eArj40ijTenXtpbpMPnj) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Is There Something In The Movies?](https://open.spotify.com/album/5wRgdU0KVKlPl52TXYloet) | 3:30 | 2022-01-21 | 2022-07-29 |
 | [It Wasn't Me](https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 4:07 | 2022-04-29 | 2023-05-27 |
 | [It Wasn't Me](https://open.spotify.com/track/43rbf15tRzNwXiawHIrfep) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [It Wasn't Me](https://open.spotify.com/album/5c2MxPXIF0omcoZuudbu03) | 4:07 | 2022-01-21 | 2022-07-29 |
+| [It's All Happening Now](https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [It's All Happening Now](https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK) | 2:32 | 2023-09-29 |  |
 | [It's Infinite](https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 2:54 | 2023-05-05 |  |
 | [It's Infinite](https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [It's Infinite](https://open.spotify.com/album/2xTzkPIjEuzHgLFxC1SnRC) | 2:54 | 2022-04-13 | 2022-11-13 |
 | [I’ll Go Running](https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx) | 3:56 | 2023-01-13 | 2023-03-18 |
@@ -202,7 +204,7 @@
 | [King Street](https://open.spotify.com/track/6jEhp06H3nxblZIyBy7ueE) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [King Street](https://open.spotify.com/album/1EzN2Ajl5JdJ2Pwgz8BxKF) | 3:38 | 2022-01-21 | 2022-07-29 |
 | [Kings & Queens](https://open.spotify.com/track/03SZ2O8n8ngB92Xlnh3urC) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [Kings & Queens](https://open.spotify.com/album/3vgMeqqU1tzZRnq4aMSxA1) | 4:38 | 2022-04-13 | 2022-12-17 |
 | [Lawn](https://open.spotify.com/track/0lwRMQQ6BxVBV0WaokbQ22) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Lawn](https://open.spotify.com/album/18fBg00a9TmorB9yvQwYlq) | 3:37 | 2022-01-21 | 2022-07-29 |
-| [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 | 2022-04-29 |  |
+| [Lawn](https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:37 | 2022-04-29 | 2023-09-30 |
 | [lesson](https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 1:37 | 2022-04-13 | 2023-09-25 |
 | [Let Go](https://open.spotify.com/track/3C37PWNd6ojQD8OhIp9aKu) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Let Go](https://open.spotify.com/album/6Am8g1lq0cXcOCmv5fwnzk) | 4:00 | 2023-03-03 | 2023-04-12 |
 | [Let Go of the Myth](https://open.spotify.com/track/61KPTGdmcm1PO88DER3OPz) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Let Go of the Myth](https://open.spotify.com/album/4VSYheyF1IVK4x2SiDUmPi) | 2:45 | 2023-01-20 | 2023-02-25 |
@@ -228,6 +230,7 @@
 | [Metaphor](https://open.spotify.com/track/2khytXmfph4aUqGqIHrw70) | [Marlon Funaki](https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6) | [Metaphor](https://open.spotify.com/album/1IX1wLeq3fcZuV4IT5Uo6E) | 3:57 | 2023-08-11 |  |
 | [Michelangelo](https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 3:29 | 2022-01-21 | 2023-05-26 |
 | [midnight sun \- reflects / acoustic version](https://open.spotify.com/track/3aMSHc6o4cTJnimrHoNT9k) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS \(Deluxe Edition\)](https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP) | 4:55 | 2022-12-16 | 2023-02-03 |
+| [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 | 2023-09-29 |  |
 | [Mirror](https://open.spotify.com/track/64XLoFc5NQjjFgaM5n7UzF) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Bad Radio](https://open.spotify.com/album/5Fh8bD99yT2xlDUlLNw005) | 2:31 | 2022-12-09 | 2023-02-25 |
 | [Miss You](https://open.spotify.com/track/2P3pcxpeW1tPDh73XyOCF2) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Making You Up](https://open.spotify.com/album/6TIqQfv8TZHzAsdmggbxF8) | 3:39 | 2023-03-17 | 2023-05-25 |
 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 | 2022-04-29 |  |
@@ -236,7 +239,7 @@
 | [Moon Phase](https://open.spotify.com/track/544All8qqFl7xPX04BFjN7) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [becalmyounglovers](https://open.spotify.com/album/2v6unA9iS25xjas5WVHzEE) | 3:03 | 2022-04-13 | 2022-07-29 |
 | [More](https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [More](https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8) | 4:46 | 2022-12-09 | 2023-08-20 |
 | [Mother](https://open.spotify.com/track/6YYInRSnBw8cbEx9sN1ocI) | [Eve Owen](https://open.spotify.com/artist/5K9H52DBfvfMzrskJkU4An) | [Don't Let The Ink Dry](https://open.spotify.com/album/1ceVlojqwgJjJUQFia6k16) | 3:15 | 2022-04-13 | 2022-07-29 |
-| [Mouse Me Cat You](https://open.spotify.com/track/75WlJmJCkwsbgwrLEle4mp) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Mouse Me Cat You](https://open.spotify.com/album/10US8WPvdKCwAjGyU1HLVS) | 3:37 | 2023-08-25 |  |
+| [Mouse Me Cat You](https://open.spotify.com/track/75WlJmJCkwsbgwrLEle4mp) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Mouse Me Cat You](https://open.spotify.com/album/10US8WPvdKCwAjGyU1HLVS) | 3:37 | 2023-08-25 | 2023-09-30 |
 | [My Blue Suit](https://open.spotify.com/track/4AeMm4h6EIiVDBVgzfE2Qf) | [Matt Sweeney](https://open.spotify.com/artist/6IpGCPfdHtfNZwSGihxXSj), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [My Blue Suit](https://open.spotify.com/album/417TS9g3Cjst35yPEMSJph) | 2:36 | 2022-01-21 | 2022-07-28 |
 | [My Day \(feat\. Alenni\) \(Cordova Session\)](https://open.spotify.com/track/1zxHV6rvRYw8TOO7DequN7) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q), [Alenni](https://open.spotify.com/artist/4H9dYNlHz7Qz20rAh4UscB) | [My Day / What the Hell is Going On? \(Cordova Sessions\)](https://open.spotify.com/album/2v4porMNwSQodSEYmiopZE) | 3:06 | 2022-04-13 | 2022-07-29 |
 | [My First Life \(feat\. Wye Oak\)](https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt), [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [My First Life](https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1) | 3:36 | 2022-04-13 | 2022-11-13 |
@@ -256,7 +259,7 @@
 | [Ocotillo](https://open.spotify.com/track/4ABRY5YF41ujdFZz4AeJVp) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Ocotillo](https://open.spotify.com/album/4bTftSZkQC8035Mi0j7wYK) | 4:50 | 2022-04-13 | 2022-07-29 |
 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 | 2022-04-29 | 2023-08-13 |
 | [Oh Canada](https://open.spotify.com/track/7hQtE18rdFeXhSVhF62CXv) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/37ymm9QGZFi1sAQJrQZCzI) | 4:47 | 2022-04-13 | 2022-07-29 |
-| [Oh Canada](https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:47 | 2022-04-29 |  |
+| [Oh Canada](https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:47 | 2022-04-29 | 2023-09-30 |
 | [Ohio](https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Ohio](https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF) | 3:22 | 2023-08-18 |  |
 | [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 | 2022-01-21 | 2023-08-19 |
 | [One More Hour](https://open.spotify.com/track/09XOlLHpRhRSuI1plPFFuc) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses](https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0) | 3:43 | 2022-01-21 | 2022-07-29 |

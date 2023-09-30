@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 144203,
+  "num_followers": 144323,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTY1OWVlY2UwM2ZlOTUxZDEyNGZmNGI3ODQyMTQ3Y2NkM2ZlOTBl",
+  "snapshot_id": "MCxiN2NhNmE5YzYxNDI1ZDhjNjE1NzA3NzBlNWI2ZDY1ZjAzNGY0MTBj",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -855,22 +855,18 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Liebeskummerparty",
-        "url": "https://open.spotify.com/album/0u5DLCi7p5AED8y7vxNqQY"
+        "name": "Von Wind und Anonymit\u00e4t",
+        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
       },
       "artists": [
         {
-          "name": "ROTE M\u00dcTZE RAPHI",
-          "url": "https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L"
-        },
-        {
-          "name": "Aylo",
-          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 164453,
-      "name": "Tag ein Tag aus",
-      "url": "https://open.spotify.com/track/0m21WyNPuPOwYsxxgBsnVn"
+      "duration_ms": 162380,
+      "name": "Unique",
+      "url": "https://open.spotify.com/track/76NbcSdF8lF5Ujd065C0wf"
     }
   ],
   "unique_name": "Liebeslieder",

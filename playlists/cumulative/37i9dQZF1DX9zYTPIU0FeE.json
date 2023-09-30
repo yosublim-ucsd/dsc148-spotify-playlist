@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Cabin Fever",
+        "url": "https://open.spotify.com/album/43dmHtuJLgnXl6BTG3YuIy"
+      },
+      "artists": [
+        {
+          "name": "MUNGO BUNGO",
+          "url": "https://open.spotify.com/artist/38zmC7oufF1B8WCBaHWqsz"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232773,
+      "name": "Cabin Fever",
+      "url": "https://open.spotify.com/track/7erj4S9e7ps3Ha9TWf3LAD"
+    },
+    {
+      "album": {
         "name": "Skemerdans, Season 1 (Music from the Showmax Original Series)",
         "url": "https://open.spotify.com/album/0mNEoS45dcBIdQ5SAtzmV1"
       },
@@ -1689,6 +1707,28 @@
     },
     {
       "album": {
+        "name": "What Is Wrong With Groovin'",
+        "url": "https://open.spotify.com/album/08ytgP2RhHhihp6HpKaPEs"
+      },
+      "artists": [
+        {
+          "name": "DJ Kenzhero & Tha_Muzik",
+          "url": "https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265960,
+      "name": "Piece of Ground",
+      "url": "https://open.spotify.com/track/4x69jUo3ULAWef7TggDHG7"
+    },
+    {
+      "album": {
         "name": "Breaking Bread",
         "url": "https://open.spotify.com/album/6M46nDC2qUNcCeuSLS0AWq"
       },
@@ -2116,6 +2156,32 @@
       "duration_ms": 295025,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/4rjThEz7ckmhTMcxNzkavN"
+    },
+    {
+      "album": {
+        "name": "Siparia To Soweto",
+        "url": "https://open.spotify.com/album/4xCOJRqTHEqgNVKZIYBL5u"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        },
+        {
+          "name": "Siparia Deltones",
+          "url": "https://open.spotify.com/artist/72CBLZTw8aO90bXlS8vMUz"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375335,
+      "name": "The Meeting Place",
+      "url": "https://open.spotify.com/track/70ECtruJHPrf2eoEMLdDqU"
     },
     {
       "album": {

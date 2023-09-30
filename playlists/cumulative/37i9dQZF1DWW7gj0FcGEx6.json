@@ -2529,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "The Creator (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/69GMDH8pkopRkQRwdff0Jp"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Missile Launch",
+      "url": "https://open.spotify.com/track/2s5clj5ey4v257HOAxBIPD"
+    },
+    {
+      "album": {
         "name": "Guardians of the Galaxy Vol. 3 (Original Score)",
         "url": "https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q"
       },
@@ -3758,6 +3776,24 @@
     {
       "album": {
         "name": "The Deepest Breath (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6EeKcbMlEqF276x17JZKUr"
+      },
+      "artists": [
+        {
+          "name": "Nainita Desai",
+          "url": "https://open.spotify.com/artist/6yyzlTFjuZqptozK4Q9wHO"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235270,
+      "name": "Stephen Trains Alessia",
+      "url": "https://open.spotify.com/track/07RExMA8WI7Xl5yLPZ3Hnf"
+    },
+    {
+      "album": {
+        "name": "The Deepest Breath (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/68fL0XFt0lru115Ro4TGwD"
       },
       "artists": [
@@ -3768,7 +3804,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 235270,
       "name": "Stephen Trains Alessia",
       "url": "https://open.spotify.com/track/1E3nN6LhvpqizoguRFfVhs"

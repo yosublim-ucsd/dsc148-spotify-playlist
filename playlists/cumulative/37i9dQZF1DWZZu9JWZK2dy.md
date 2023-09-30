@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-111 songs - 7 hr 52 min
+112 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Kerot! to March](https://open.spotify.com/track/3edh7C1iGIslrU7Vx7wTQH) | [Nobuaki Kakuda](https://open.spotify.com/artist/6d3s9bd3dlNCqNIQ7IMkWx), [Juri Ihata](https://open.spotify.com/artist/5V6Fmx6qjQcg7avFO4cyLK) | ["SERGEANT KERORO" KERORO Songs](https://open.spotify.com/album/6NA4L8cYcXbVnsYfzIestY) | 3:11 | 2022-07-06 |  |
 | [Lion](https://open.spotify.com/track/1ux8Y96cV5Qs0kdOCq4cZ2) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6), [Megumi Nakajima](https://open.spotify.com/artist/26ZuiIbHV0OGNX3EYsYeES) | [MACROSS FRONTIER Opening Theme Lion](https://open.spotify.com/album/36hcAxhOV7yBUdRquz4hj0) | 5:03 | 2022-07-06 |  |
 | [Love Destiny](https://open.spotify.com/track/14GCPjb7YH4BDvhF0DrvV5) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Love Destiny](https://open.spotify.com/album/09wFdGA9QATYbr1yBH7YEL) | 4:33 | 2021-09-14 |  |
+| [MAJI DE KANSHA!](https://open.spotify.com/track/7fNIWITkFbwDZXLJsvlMcK) | [T\-Pistonz+KMC](https://open.spotify.com/artist/49bcuetvIVHNo5ARCZmR2k) | [GANBARIYO!](https://open.spotify.com/album/0Fw8zPzz10quVBw8tL2oZq) | 5:25 | 2023-09-29 |  |
 | [Mysterious Eyes](https://open.spotify.com/track/3xtFrBrX6yuS1pNPVGufwO) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [THE BEST History of GARNET CROW at the crest...](https://open.spotify.com/album/3e3NS2L4bziOWpIMvnRE3R) | 4:28 | 2021-09-14 |  |
 | [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 | 2021-09-14 |  |
 | [Over Soul](https://open.spotify.com/track/3uIdLQXUeYAPI1DMQXbdpk) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [Over Soul](https://open.spotify.com/album/1pZ7Ubh11m5xzgXIP6ZrWk) | 3:53 | 2021-09-14 |  |
@@ -66,7 +67,7 @@
 | [さらば](https://open.spotify.com/track/4gRBVBLgnwzHn6WODOwo0W) | [キンモクセイ](https://open.spotify.com/artist/14UjZg0MdiVjAkbqWNFsIt) | [音楽は素晴らしいものだ](https://open.spotify.com/album/1Ie5iQ1pUZUlAAY985v4YZ) | 4:26 | 2021-09-14 | 2022-07-29 |
 | [さらば](https://open.spotify.com/track/3GAOg6GTBoqUKvOdjfpqkS) | [キンモクセイ](https://open.spotify.com/artist/14UjZg0MdiVjAkbqWNFsIt) | [ベスト・コンディション〜kinmokusei single collection〜](https://open.spotify.com/album/4et9fqJ89GzkKCvbOsjFDX) | 4:29 | 2022-07-06 |  |
 | [さらば](https://open.spotify.com/track/4I710qdCFqAZ7IkPI6Ee8q) | [キンモクセイ](https://open.spotify.com/artist/14UjZg0MdiVjAkbqWNFsIt) | [さらば](https://open.spotify.com/album/718w30FryODQx9pLJGZAtq) | 4:31 | 2022-07-06 | 2022-11-13 |
-| [ふわふわ時間](https://open.spotify.com/track/0IqeCcW8L96JrGURHQbmcI) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム](https://open.spotify.com/album/2sCj12vSaLgszgQqOAOpz7) | 3:56 | 2021-09-14 |  |
+| [ふわふわ時間](https://open.spotify.com/track/0IqeCcW8L96JrGURHQbmcI) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [放課後ティータイム](https://open.spotify.com/album/2sCj12vSaLgszgQqOAOpz7) | 3:56 | 2021-09-14 | 2023-09-30 |
 | [アンインストール](https://open.spotify.com/track/72ghOwtaZ0vggvWspdJiE9) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [「ぼくらの」オープニングテーマ アンインストール](https://open.spotify.com/album/3pDK2zBTymHAafUL9oNbuD) | 4:41 | 2021-09-14 |  |
 | [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 | 2021-09-14 |  |
 | [ウンディーネ](https://open.spotify.com/track/41EFjyvs5g7Ga3ii1kE2aa) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [『ARIA The ANIMATION』オープニングテーマ「ウンディーネ」](https://open.spotify.com/album/6wiX5nusCOYJ446P01ExbW) | 5:45 | 2021-09-14 | 2022-07-07 |

@@ -4,7 +4,7 @@
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-101 songs - 7 hr 36 min
+102 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Emlanjeni](https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kwela](https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA) | 4:02 | 2023-02-10 |  |
 | [Ex](https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Ex](https://open.spotify.com/album/4TnCuNvX8Bzhbx2uv5K5cR) | 3:24 | 2022-02-11 | 2023-02-11 |
 | [Feelin U](https://open.spotify.com/track/7vKpE6Nvrh7viO8Q0croIW) | [Gigi Lamayne](https://open.spotify.com/artist/3405LTbL2jP8J0gVQK3087), [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Feelin U](https://open.spotify.com/album/1qYpOAYbKEZp5Dr5s87quL) | 3:54 | 2022-02-11 | 2023-02-11 |
-| [Fool's Love](https://open.spotify.com/track/50SwljHvTm8xmC0z69qHPV) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [BlackRose](https://open.spotify.com/artist/3cJr6Nd7eupCOoGTAsDyMI) | [Fool's Love](https://open.spotify.com/album/23MYXCv95Y6WSOF4D0B906) | 3:21 | 2022-02-11 |  |
+| [Fool's Love](https://open.spotify.com/track/50SwljHvTm8xmC0z69qHPV) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [BlackRose](https://open.spotify.com/artist/3cJr6Nd7eupCOoGTAsDyMI) | [Fool's Love](https://open.spotify.com/album/23MYXCv95Y6WSOF4D0B906) | 3:21 | 2022-02-11 | 2023-09-30 |
+| [Fool's Love](https://open.spotify.com/track/5ZcApNg82s5RIpA9l9IuPB) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [BlackRose](https://open.spotify.com/artist/3cJr6Nd7eupCOoGTAsDyMI) | [Interblaktic](https://open.spotify.com/album/3ZrhMXlyekQsEDYQ45QVO8) | 3:21 | 2023-09-21 |  |
 | [Ghanama](https://open.spotify.com/track/0AZxr9dlswnn6TNxIMyijH) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [African Queen](https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s) | 4:53 | 2022-02-11 |  |
 | [Hamba](https://open.spotify.com/track/5M0J5ZOt7LPeZrHs9G7c7R) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Soul In Mind](https://open.spotify.com/album/5ceGC90YEocJP4lXy5ifzV) | 5:36 | 2022-02-11 |  |
 | [Hamba](https://open.spotify.com/track/0NSogHxp78SkhQML9gm4xG) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Hamba](https://open.spotify.com/album/7wJ5QAcjREHeBjYnaRu9vM) | 4:32 | 2022-02-11 |  |

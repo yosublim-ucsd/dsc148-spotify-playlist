@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Os grandes hits do momento estão aqui! Foto: TOMORROW X TOGETHER, Anitta
+> Os grandes hits do momento estão aqui! Foto: MC Rogerinho
 
 207 songs - 9 hr 58 min
 

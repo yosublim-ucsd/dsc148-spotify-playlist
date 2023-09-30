@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Goo Chan
 
-699 songs - 1 day 15 hr 31 min
+700 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 | 2023-03-18 |
 | [bandaid](https://open.spotify.com/track/0lIAm02QM3kruSx08BaJOc) | [Isaac Chan](https://open.spotify.com/artist/6M3ZAQrnGowesc5rG8WlNV), [Jessica Oh](https://open.spotify.com/artist/1545Lqks1a2K8J41pueQCb) | [bandaid](https://open.spotify.com/album/5t1JNivEUa8zdGbi8qd8Yz) | 2:51 | 2022-05-26 | 2022-07-29 |
 | [Be around \- Acoustic](https://open.spotify.com/track/2fff5HjVbc7NHGtlqQ0IGN) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Be around \(Acoustic\)](https://open.spotify.com/album/2sXqdHVpFyVRZwn8V68gnw) | 3:08 | 2022-05-26 | 2022-07-29 |
+| [be friend ok?](https://open.spotify.com/track/0QAjTuquM5uEkmJmsw8Uyf) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [be friend ok?](https://open.spotify.com/album/1ln31LYy6uCIRh8iyPWACq) | 3:05 | 2023-09-28 |  |
 | [be mine](https://open.spotify.com/track/1qlr9q9ub13lCS4OJKcp9t) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [2nd PRE EVOLUTION](https://open.spotify.com/album/2enwJuwD3Tygke0CHEGcS9) | 2:53 | 2023-04-27 | 2023-07-14 |
 | [BE WATER](https://open.spotify.com/track/6zasKzpAgR1vUq3wEKGdGE) | [FIESTER](https://open.spotify.com/artist/2XFADx63n5mL7ZNnUwX8Aj), [KAREN YEE](https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh) | [FULLNESS](https://open.spotify.com/album/0CW5rLz42bfAKXNs15e5gt) | 3:24 | 2023-01-19 | 2023-05-26 |
 | [Be You](https://open.spotify.com/track/4YA05pFBqNtqYe9NasRpEm) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [Be You](https://open.spotify.com/album/7xwOuaf0bp3EBG9tXpz32a) | 3:32 | 2022-08-11 | 2022-11-04 |

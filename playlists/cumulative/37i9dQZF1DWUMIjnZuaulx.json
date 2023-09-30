@@ -715,6 +715,28 @@
     },
     {
       "album": {
+        "name": "Blessed (Live)",
+        "url": "https://open.spotify.com/album/6NsIs7IvSThXeXvFZxu3WM"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lindsey",
+          "url": "https://open.spotify.com/artist/4V6jbtRhAeabsaTqDjESUm"
+        },
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341039,
+      "name": "Blessed - Live",
+      "url": "https://open.spotify.com/track/2Jag78bMyI4AyQbBBpaCVs"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/6gN21PnSYvEI1luXf7lL1B"
       },
@@ -730,7 +752,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 200970,
       "name": "Blessed - Single Version",
       "url": "https://open.spotify.com/track/32S5FDM1d30qsEI5po3Hly"
@@ -1106,7 +1128,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 287739,
       "name": "Daddy Wey Dey Pamper - Special Version",
       "url": "https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL"
@@ -2002,7 +2024,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 253706,
       "name": "Grey Hair",
       "url": "https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq"
@@ -2914,7 +2936,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 254208,
       "name": "I Still Have You",
       "url": "https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9"
@@ -3240,6 +3262,24 @@
       "duration_ms": 216595,
       "name": "IN MY FEELINGS",
       "url": "https://open.spotify.com/track/3b8ALkia9ueH0ybDLt7lMt"
+    },
+    {
+      "album": {
+        "name": "In My Name (Radio Edit)",
+        "url": "https://open.spotify.com/album/1nNldULLoMEBXRYJRHlE7l"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221749,
+      "name": "In My Name - Radio Edit",
+      "url": "https://open.spotify.com/track/15w0pp8cDjI99gs2lAPsOY"
     },
     {
       "album": {
@@ -5065,6 +5105,24 @@
     },
     {
       "album": {
+        "name": "He Is Here",
+        "url": "https://open.spotify.com/album/28yOCHKml5qWT0YV3P8lxN"
+      },
+      "artists": [
+        {
+          "name": "Fresh Start Worship",
+          "url": "https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196810,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/7ip9sYAFsPo66qz1FR6YKd"
+    },
+    {
+      "album": {
         "name": "Soul Sister",
         "url": "https://open.spotify.com/album/0NTIi6ERXzMw7T7XiZOTTU"
       },
@@ -5644,7 +5702,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 182474,
       "name": "Sing (From \"The Terrell Show: Season 6\")",
       "url": "https://open.spotify.com/track/5Xbt7RoO6N6ymFA4DmzaPK"
@@ -5910,7 +5968,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 233409,
       "name": "Speak Your Name - Radio Version",
       "url": "https://open.spotify.com/track/1hkE2Z4cKoHraPgJjYynHG"
@@ -6677,6 +6735,32 @@
     },
     {
       "album": {
+        "name": "This Joy (Live)",
+        "url": "https://open.spotify.com/album/3DAQM6V6AUUaqstNA38KNp"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Tina Col\u00f3n Williams",
+          "url": "https://open.spotify.com/artist/2BH2hojvyoVD7WKMWU8TNl"
+        },
+        {
+          "name": "Joshua Miller",
+          "url": "https://open.spotify.com/artist/74nSu95etGTImEcrNPkMQK"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311306,
+      "name": "This Joy - Live",
+      "url": "https://open.spotify.com/track/09kMxmxcVpZwM75dYqr0Pk"
+    },
+    {
+      "album": {
         "name": "Throughout The Earth",
         "url": "https://open.spotify.com/album/2JKka21qtp4vzn36QwdnqE"
       },
@@ -6812,6 +6896,28 @@
       "duration_ms": 272593,
       "name": "Try Love",
       "url": "https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt"
+    },
+    {
+      "album": {
+        "name": "Up Up Up",
+        "url": "https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF"
+      },
+      "artists": [
+        {
+          "name": "Anthony Brown",
+          "url": "https://open.spotify.com/artist/1W7DATOf6IUurjV5M5ZWyC"
+        },
+        {
+          "name": "Zach Savage",
+          "url": "https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239266,
+      "name": "Up Up Up (Introducing Zach Savage)",
+      "url": "https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy"
     },
     {
       "album": {

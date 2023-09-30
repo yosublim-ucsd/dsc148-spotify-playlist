@@ -845,6 +845,32 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/45tUpXXzTSNp1QZ6Z1ENvX"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        },
+        {
+          "name": "PLVTINUM",
+          "url": "https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218859,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/1BO5Y7G9ukdTRVw1ER0HuC"
+    },
+    {
+      "album": {
         "name": "Annihilist",
         "url": "https://open.spotify.com/album/0opaKmS2lnPYlhj0PLTn4P"
       },
@@ -2148,6 +2174,24 @@
       "duration_ms": 215600,
       "name": "Breaking Point",
       "url": "https://open.spotify.com/track/4Us3BHNRNRVlJFtDd1e5xA"
+    },
+    {
+      "album": {
+        "name": "Breaking Teeth",
+        "url": "https://open.spotify.com/album/2KONHMjnO0RbxX997M2eEg"
+      },
+      "artists": [
+        {
+          "name": "Hollow Front",
+          "url": "https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153904,
+      "name": "Breaking Teeth",
+      "url": "https://open.spotify.com/track/3HWyHrobRg5FYzGS0oP5FV"
     },
     {
       "album": {
@@ -5941,6 +5985,24 @@
     },
     {
       "album": {
+        "name": "HEAVY RAIN",
+        "url": "https://open.spotify.com/album/5ugnVcdOzU6R94g0vJ00ih"
+      },
+      "artists": [
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234047,
+      "name": "HEAVY RAIN",
+      "url": "https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS"
+    },
+    {
+      "album": {
         "name": "Heir to the Serpent",
         "url": "https://open.spotify.com/album/1KkGP91FL5N5zxc9Jb8Fpd"
       },
@@ -8402,7 +8464,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 250418,
       "name": "NEVERBLOOM",
       "url": "https://open.spotify.com/track/5AmwSEeKmk2ivpOJDsGz5x"
@@ -8780,7 +8842,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 226086,
       "name": "Not Welcome",
       "url": "https://open.spotify.com/track/4PFv0DkA3FuUtqpOr114mf"
@@ -9393,6 +9455,24 @@
     },
     {
       "album": {
+        "name": "This place only brings death",
+        "url": "https://open.spotify.com/album/5bds0LlgCaYsvAscrK1HQ0"
+      },
+      "artists": [
+        {
+          "name": "Heart Of A Coward",
+          "url": "https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239240,
+      "name": "Passenger",
+      "url": "https://open.spotify.com/track/2SXk2Adq9A8hMvrbglHmRs"
+    },
+    {
+      "album": {
         "name": "Peace That Starts the War",
         "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
       },
@@ -9686,6 +9766,24 @@
       "duration_ms": 229714,
       "name": "Purple Static",
       "url": "https://open.spotify.com/track/3AddKBr7vkhZrmqNZ2l80z"
+    },
+    {
+      "album": {
+        "name": "Pushing The Pink Envelope",
+        "url": "https://open.spotify.com/album/1aQ0u8V9EOwE8ohlaFeHhm"
+      },
+      "artists": [
+        {
+          "name": "The Callous Daoboys",
+          "url": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251684,
+      "name": "Pushing The Pink Envelope",
+      "url": "https://open.spotify.com/track/4hvDdBwERAE7KbDRqia8WS"
     },
     {
       "album": {
@@ -11779,6 +11877,28 @@
     },
     {
       "album": {
+        "name": "Thank You, Again (feat. Phil Bozeman)",
+        "url": "https://open.spotify.com/album/3JduUHfZtTYuYvn7WhfEG1"
+      },
+      "artists": [
+        {
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+        },
+        {
+          "name": "Phil Bozeman",
+          "url": "https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184830,
+      "name": "Thank You, Again (feat. Phil Bozeman)",
+      "url": "https://open.spotify.com/track/5dFc7LBIXNXdfOE6xBYN3i"
+    },
+    {
+      "album": {
         "name": "Deadlock",
         "url": "https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR"
       },
@@ -12201,6 +12321,24 @@
     },
     {
       "album": {
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/7EBnsR1bhRVITs48imBq5w"
+      },
+      "artists": [
+        {
+          "name": "Dayshell",
+          "url": "https://open.spotify.com/artist/4yextvMjXxQXzyQkyS1jYX"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241800,
+      "name": "The Reckoning",
+      "url": "https://open.spotify.com/track/5TWO6RPpkaaan9mO7Uyou2"
+    },
+    {
+      "album": {
         "name": "The Sabbath",
         "url": "https://open.spotify.com/album/1ofDlelW6YGKcFO7A9qSsF"
       },
@@ -12584,7 +12722,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 248891,
       "name": "Throne of the Sunset",
       "url": "https://open.spotify.com/track/5ATwGbGDPUoSfAx4KaDyYH"
@@ -12866,6 +13004,24 @@
       "duration_ms": 213181,
       "name": "UGLY",
       "url": "https://open.spotify.com/track/1OeUAnQzyziBEwnZEg7pet"
+    },
+    {
+      "album": {
+        "name": "Abyss Pt I",
+        "url": "https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234932,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/4WQjkKYfMU5E6UI6WYzsok"
     },
     {
       "album": {

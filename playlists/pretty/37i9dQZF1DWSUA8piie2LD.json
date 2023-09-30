@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 94852,
+  "num_followers": 94965,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzgzNDYxYmMyMWQwZDg2Y2QxOTcwNTVjNWRhY2M5MDFkMTQ0MmM1",
+  "snapshot_id": "MCwzOGE4MDEwMmEyMGVkOGUxY2RlYTQ0YWZmMDViZmRjZWM1NmEzOGU3",
   "tracks": [
     {
       "added_at": "2023-09-28 06:22:48",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-28 06:22:48",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
-      },
-      "artists": [
-        {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
-        }
-      ],
-      "duration_ms": 340386,
-      "name": "Fields of Gold",
-      "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
-    },
-    {
-      "added_at": "2023-09-28 06:22:48",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 266693,
       "name": "The Closer I Get To You",
       "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
+    },
+    {
+      "added_at": "2023-09-28 06:22:48",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
+      },
+      "artists": [
+        {
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+        }
+      ],
+      "duration_ms": 340386,
+      "name": "Fields of Gold",
+      "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
     },
     {
       "added_at": "2023-09-28 06:22:48",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-09-28 06:22:48",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Here With You",
-      "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
-    },
-    {
-      "added_at": "2023-09-28 06:22:48",
-      "album": {
         "name": "Vivid",
         "url": "https://open.spotify.com/album/7Gu1FXxTuc0nRfatQjHtx6"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-09-28 06:22:48",
       "album": {
-        "name": "Island Life",
-        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
       "artists": [
         {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
         }
       ],
-      "duration_ms": 288666,
-      "name": "Island Life",
-      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
+      "duration_ms": 257373,
+      "name": "Here With You",
+      "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
     },
     {
       "added_at": "2023-09-28 06:22:48",
@@ -799,6 +783,22 @@
       "duration_ms": 302506,
       "name": "This Time Around",
       "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
+    },
+    {
+      "added_at": "2023-09-28 06:22:48",
+      "album": {
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 288666,
+      "name": "Island Life",
+      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
     },
     {
       "added_at": "2023-09-28 06:22:48",
@@ -883,6 +883,38 @@
     {
       "added_at": "2023-09-28 06:22:48",
       "album": {
+        "name": "Le Tour d'Amour",
+        "url": "https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8"
+      },
+      "artists": [
+        {
+          "name": "Boulevard Pacific",
+          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
+        },
+        {
+          "name": "Thomas Darelid",
+          "url": "https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ"
+        },
+        {
+          "name": "Henrik Janson",
+          "url": "https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED"
+        },
+        {
+          "name": "Jenny Kristoffersson",
+          "url": "https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy"
+        },
+        {
+          "name": "Per Lindvall",
+          "url": "https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Le Tour d'Amour",
+      "url": "https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn"
+    },
+    {
+      "added_at": "2023-09-28 06:22:48",
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
       },
@@ -927,38 +959,6 @@
       "duration_ms": 289826,
       "name": "Midnight In Manhattan",
       "url": "https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM"
-    },
-    {
-      "added_at": "2023-09-28 06:22:48",
-      "album": {
-        "name": "Le Tour d'Amour",
-        "url": "https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8"
-      },
-      "artists": [
-        {
-          "name": "Boulevard Pacific",
-          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
-        },
-        {
-          "name": "Thomas Darelid",
-          "url": "https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ"
-        },
-        {
-          "name": "Henrik Janson",
-          "url": "https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED"
-        },
-        {
-          "name": "Jenny Kristoffersson",
-          "url": "https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy"
-        },
-        {
-          "name": "Per Lindvall",
-          "url": "https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Le Tour d'Amour",
-      "url": "https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn"
     },
     {
       "added_at": "2023-09-28 06:22:48",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-09-28 06:22:48",
       "album": {
-        "name": "Someone To Love You",
-        "url": "https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 290453,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH"
-    },
-    {
-      "added_at": "2023-09-28 06:22:48",
-      "album": {
         "name": "Face To Face (US Version)",
         "url": "https://open.spotify.com/album/4dsjIo29fU5QOowQ1hj1z8"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 238800,
       "name": "Brazilia",
       "url": "https://open.spotify.com/track/1u4RewzgMEpsUQOojZrG4Y"
+    },
+    {
+      "added_at": "2023-09-28 06:22:48",
+      "album": {
+        "name": "Someone To Love You",
+        "url": "https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 290453,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH"
     },
     {
       "added_at": "2023-09-28 06:22:48",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-28 06:22:48",
       "album": {
-        "name": "In Joy",
-        "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
-      },
-      "artists": [
-        {
-          "name": "Gordon James",
-          "url": "https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz"
-        }
-      ],
-      "duration_ms": 305680,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
-    },
-    {
-      "added_at": "2023-09-28 06:22:48",
-      "album": {
         "name": "Nice & Slow",
         "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 288800,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
+    },
+    {
+      "added_at": "2023-09-28 06:22:48",
+      "album": {
+        "name": "In Joy",
+        "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
+      },
+      "artists": [
+        {
+          "name": "Gordon James",
+          "url": "https://open.spotify.com/artist/5OSScl9AWD6yfWTkmjgFPz"
+        }
+      ],
+      "duration_ms": 305680,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
     },
     {
       "added_at": "2023-09-28 06:22:48",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Cometa Sucre en portada.",
+  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Esteman y B\u00e1ndalos Chinos en portada.",
   "name": "IRIS",
   "tracks": [
     {
@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 134516,
       "name": "Fue Por Ti",
       "url": "https://open.spotify.com/track/3Zf9tMuhSXNVvjtBjYzbEg"
@@ -597,6 +597,28 @@
     },
     {
       "album": {
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232693,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
+    },
+    {
+      "album": {
         "name": "NINA",
         "url": "https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv"
       },
@@ -714,6 +736,28 @@
       "duration_ms": 198000,
       "name": "Porrito y a Dormir",
       "url": "https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez"
+    },
+    {
+      "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185840,
+      "name": "PRIVILEGIOS",
+      "url": "https://open.spotify.com/track/2zonJr6k1OKs41TctoNU8Q"
     },
     {
       "album": {

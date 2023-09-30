@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-78 songs - 5 hr 22 min
+79 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,9 @@
 | [Esse é o melhor Rap do Levi](https://open.spotify.com/track/0TIL1uiTx69oaBUOSZZBXS) | [Byakuran](https://open.spotify.com/artist/4KzmxE2KIMp9GRuFiDsouR) | [Esse é o melhor Rap do Levi](https://open.spotify.com/album/27MB9kSbxFtNMFsR4pqyDF) | 2:43 | 2022-02-22 |  |
 | [Estilo Ninja](https://open.spotify.com/track/4s26Od5JQ2hhsTM3yhTeX0) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/1gHHeZFCqtSUUQmJiBYTWO) | 3:26 | 2022-02-22 | 2022-11-12 |
 | [Estilo Ninja](https://open.spotify.com/track/5gx959g5KMe4E1MPDYoBwN) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Estilo Ninja](https://open.spotify.com/album/5oRTrJ28ZEkRLckMsbvtV6) | 3:26 | 2022-05-27 |  |
+| [Eu tô viajando](https://open.spotify.com/track/1TNHMVG6nuM1ZkmpsUT3rq) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [Eu tô viajando](https://open.spotify.com/album/5arN4faBxWMvV9RroZAh8l) | 2:48 | 2023-09-29 |  |
 | [Homem Aranha 2099](https://open.spotify.com/track/7oXLXGVe9NCtKTLLt1m74F) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Homem Aranha 2099](https://open.spotify.com/album/4nqeJtuIcFncsXgIdb9gIg) | 4:04 | 2023-07-07 |  |
-| [Ira do Imperador](https://open.spotify.com/track/3mIDmzWZ0j6YCTmfx9HeZv) | [WLO Raps](https://open.spotify.com/artist/5mK0ia4fsBwPubjA05Zg4p) | [Ira do Imperador](https://open.spotify.com/album/17fPIDlmeA81BVhfy2PJeT) | 4:49 | 2023-07-07 |  |
+| [Ira do Imperador](https://open.spotify.com/track/3mIDmzWZ0j6YCTmfx9HeZv) | [WLO Raps](https://open.spotify.com/artist/5mK0ia4fsBwPubjA05Zg4p) | [Ira do Imperador](https://open.spotify.com/album/17fPIDlmeA81BVhfy2PJeT) | 4:49 | 2023-07-07 | 2023-09-30 |
 | [Lobo da Morte](https://open.spotify.com/track/3njxGUCNJwcYw5ngNbTvRu) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Lobo da Morte](https://open.spotify.com/album/5ROinWZCjY4vRWTjiCBZXy) | 3:29 | 2023-03-31 |  |
 | [Madara](https://open.spotify.com/track/3ZYSGRt1lnm25Br7TgE7P9) | [nakashisam](https://open.spotify.com/artist/3uGU5qTwDPeXKJRsOgehFR), [Nerexx](https://open.spotify.com/artist/7FN9bcVGUvnJO4ukEa54Rw), [Tukatrip](https://open.spotify.com/artist/41xThDLkAI5bNLiX8eFp1T) | [Madara](https://open.spotify.com/album/6NxlhpWn2vXP8xXWquPFCK) | 4:25 | 2022-02-22 | 2023-03-11 |
 | [Madara: A Lenda Reencarnada](https://open.spotify.com/track/70EKfzmUOGLZCbl2s9qJ8F) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Madara: A Lenda Reencarnada](https://open.spotify.com/album/3a9dHWUNuQIK3zrslZsmnE) | 3:30 | 2022-02-22 |  |

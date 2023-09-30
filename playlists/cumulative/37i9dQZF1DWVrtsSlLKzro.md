@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-309 songs - 18 hr 29 min
+311 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Miss You \(feat\. GG Magree\) \- Seven Lions and Gem & Tauri Remix](https://open.spotify.com/track/2NUG19cLueD671fKgtGpIp) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Gem & Tauri](https://open.spotify.com/artist/4pSG7BUZvHZGk1j7QoWcFp) | [Miss You \(feat\. GG Magree\) \[Seven Lions and Gem & Tauri Remix\]](https://open.spotify.com/album/7dc72fttC6n7Q3agzyMV3f) | 4:52 | 2022-12-02 |  |
 | [Missing You](https://open.spotify.com/track/1Y3rH662UDCRPkZe1KUOyM) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Missing You](https://open.spotify.com/album/5i1JWD1UbiURo8JlguXhym) | 3:17 | 2023-03-10 |  |
 | [Moment](https://open.spotify.com/track/2Zk9i8ayiwYLZIEJemuhl9) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Moment](https://open.spotify.com/album/4zvb6dFdrfPFHcLGtMdCXr) | 3:12 | 2022-01-21 | 2022-12-03 |
+| [Morning Light](https://open.spotify.com/track/7fJ5UGjo2oiNG1pmIboATC) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [About Us](https://open.spotify.com/album/1hhz0ag2dAr0qw7W78smcT) | 4:33 | 2023-09-29 |  |
 | [My Feelings](https://open.spotify.com/track/0QnICpnSkCXY4d4zfYA2bB) | [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [My Feelings](https://open.spotify.com/album/4Bp7INayLmfQyNDDsmTNM3) | 3:27 | 2021-12-03 |  |
 | [My Last Song](https://open.spotify.com/track/3JCduk0tXQFjJBzo7qsj5e) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [My Last Song](https://open.spotify.com/album/7udkEjMPP76tjv8RL1zl2q) | 2:35 | 2021-12-03 | 2023-06-10 |
 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 | 2023-02-24 |  |
@@ -266,6 +267,7 @@
 | [State Of Mind](https://open.spotify.com/track/1DxP9H5LlFb5ChzoCwgKyg) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [State Of Mind](https://open.spotify.com/album/3tqijD8XuF8D6bJ9GWV6IN) | 3:25 | 2023-04-07 |  |
 | [Stop Thinking \(feat\. Lights\)](https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Stop Thinking \(feat\. Lights\)](https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K) | 4:52 | 2022-09-30 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-08 |  |
+| [Strangers \(feat\. Linney\)](https://open.spotify.com/track/7wKCuyM3ePTmBtygQMqbDB) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Strangers \(feat\. Linney\)](https://open.spotify.com/album/1xN5qOb2SI9zDM2u0UricP) | 3:15 | 2023-09-29 |  |
 | [Super Human](https://open.spotify.com/track/1ZMUZYIlsTnQbOrgbpgalr) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Super Human](https://open.spotify.com/album/5yjMa5thOg0X7tieV3rhTf) | 4:06 | 2022-12-02 |  |
 | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi) | 3:48 | 2021-12-03 |  |
 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 | 2023-02-24 |  |

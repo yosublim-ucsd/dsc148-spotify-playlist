@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Dean Lewis
 
-345 songs - 17 hr 50 min
+346 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 | 2023-06-15 | 2023-06-23 |
 | [This Generation Sucks](https://open.spotify.com/track/4NVNnpHWcw5AErkebQpz9j) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [This Generation Sucks](https://open.spotify.com/album/7wMxSUbeSMNnGQGhYo8fYV) | 2:58 | 2023-08-10 | 2023-09-29 |
 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 | 2023-09-14 |  |
+| [this is what space feels like](https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what space feels like](https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP) | 3:03 | 2023-09-29 |  |
 | [Timebomb](https://open.spotify.com/track/3H6F5djWiLqN1ePTHMzs3E) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/2fznRO2wXuzjjKvA5WvLiP) | 2:51 | 2023-06-22 | 2023-08-18 |
 | [Timebomb](https://open.spotify.com/track/3cAFxPjBOBz97MWfbidgfH) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Timebomb](https://open.spotify.com/album/7nGZLJ6jHY0xSAhi35i6B2) | 2:51 | 2023-06-22 | 2023-06-25 |
 | [Tom Cruise](https://open.spotify.com/track/0cyVDjmAa72JNfv2B4HxfL) | [San Joseph](https://open.spotify.com/artist/59YOtpr5yzoCBLxAWeCAp5) | [Tom Cruise](https://open.spotify.com/album/0aDfWJBnQ5DeOmoi5Rckg2) | 2:39 | 2023-06-15 | 2023-06-23 |

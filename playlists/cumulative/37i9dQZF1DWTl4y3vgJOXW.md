@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Damian Lillard
 
-534 songs - 1 day 3 hr 12 min
+536 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [4 Thangs \(feat\. Big Sean & Hit\-Boy\)](https://open.spotify.com/track/4wmZtoif8SGm7PDqgKrEXr) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [4 Thangs \(feat\. Big Sean & Hit\-Boy\)](https://open.spotify.com/album/7DaO2NczGej6crL0eTAXcS) | 1:44 | 2021-09-02 | 2022-06-25 |
 | [5 Star \(with Rick Ross\)](https://open.spotify.com/track/5shjJZp662loniBOyjqr8h) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [5 Star \(with Rick Ross\)](https://open.spotify.com/album/6IX1qlt5sGAWAF2XPteKy6) | 2:49 | 2022-09-30 | 2022-12-31 |
 | [5 Thousand Singles](https://open.spotify.com/track/4GErqtrdgp4w2z984cReZl) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/06vukn88R2dOCd6sfMaogd) | 2:45 | 2021-09-02 | 2022-06-25 |
+| [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 | 2023-09-29 |  |
 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 | 2022-08-19 | 2023-03-03 |
 | [8 Out Of 10](https://open.spotify.com/track/0zqy3ss4CwD6u4QPksS0nI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:15 | 2021-09-02 | 2022-06-09 |
 | [a life of pain](https://open.spotify.com/track/5wWufNs1j4v2HsL5IZ5Zlp) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 1:52 | 2022-11-04 | 2022-12-31 |
@@ -313,6 +314,7 @@
 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2022-06-24 | 2023-03-14 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-06-24 | 2022-07-29 |
 | [Nascar](https://open.spotify.com/track/4F60iJFwx0G7x3SNjYWiZP) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets II](https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX) | 2:59 | 2021-09-02 | 2022-06-25 |
+| [Need It](https://open.spotify.com/track/6mtjo5kIHKlboGE84lf1FJ) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Need It](https://open.spotify.com/album/3L3WBqghAN3LeGZa5eRIBk) | 3:15 | 2023-09-29 |  |
 | [Never Legit](https://open.spotify.com/track/6OBiK1IBLZrbfMXnEom3vb) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Hood Baby 2](https://open.spotify.com/album/0SAGgynuEGS5Dg1kpVRFE6) | 2:57 | 2023-02-17 | 2023-02-22 |
 | [Never Recover \(Lil Baby & Gunna, Drake\)](https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:14 | 2021-09-02 | 2022-11-05 |
 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 | 2022-07-29 |  |

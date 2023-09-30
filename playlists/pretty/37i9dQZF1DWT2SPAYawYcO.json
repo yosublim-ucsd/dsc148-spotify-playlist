@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: Ed Sheeran",
-  "num_followers": 365516,
+  "num_followers": 365747,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzcwN2JmYTdlMjUxOGUxNjUxYmFkODNmNzA3ZDQzOWM3ZGMxZWUz",
+  "snapshot_id": "MCw1NGM5MThkMTRmNjc5ZGEzMDY4MzMwZDc5MDQ2M2UzYTRmZDUzYzY1",
   "tracks": [
     {
       "added_at": "2023-09-28 14:10:53",
@@ -131,8 +131,8 @@
     {
       "added_at": "2023-09-28 14:10:53",
       "album": {
-        "name": "Broken is the man",
-        "url": "https://open.spotify.com/album/4170VVyEuynNaB1J8ShIgP"
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
       "artists": [
         {
@@ -142,7 +142,7 @@
       ],
       "duration_ms": 132213,
       "name": "Broken is the man",
-      "url": "https://open.spotify.com/track/1RESSkMgG8z9IEPHdBZb43"
+      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
     },
     {
       "added_at": "2023-09-28 14:10:53",
@@ -215,6 +215,26 @@
       "duration_ms": 150421,
       "name": "Op Shop Lover",
       "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
+    },
+    {
+      "added_at": "2023-09-28 14:10:53",
+      "album": {
+        "name": "3D (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
     },
     {
       "added_at": "2023-09-28 14:10:53",
@@ -647,18 +667,22 @@
     {
       "added_at": "2023-09-28 14:10:53",
       "album": {
-        "name": "She Came to Me (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7LlDxqhvGPlyGeDzUBC86Q"
+        "name": "Addicted to Romance (from the film 'She Came to Me')",
+        "url": "https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd"
       },
       "artists": [
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Patti Scialfa",
+          "url": "https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Addicted to Romance",
-      "url": "https://open.spotify.com/track/3Mjr9GT1iobk4qK8tg1wzH"
+      "duration_ms": 185013,
+      "name": "Addicted to Romance - from the film 'She Came to Me'",
+      "url": "https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1"
     },
     {
       "added_at": "2023-09-28 14:10:53",

@@ -1,15 +1,47 @@
 {
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Rau_Ze",
-  "num_followers": 106245,
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: DEBBY FRIDAY",
+  "num_followers": 106263,
   "original_name": "Montr\u00e9al Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmUxZjg3YTM5NDMxMDc0NDBkNDFjMjg2NTlmZjNiOGFkZGQ3NDNh",
+  "snapshot_id": "MCxlNTljM2IwNzUzZWFkZWU3OWY0MGY4OTNlZDc3ZjRmZjU5NmNkMTkz",
   "tracks": [
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
+      "album": {
+        "name": "let u in",
+        "url": "https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "let u in",
+      "url": "https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl"
+    },
+    {
+      "added_at": "2023-09-29 18:30:00",
+      "album": {
+        "name": "Oniromancie",
+        "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
+      },
+      "artists": [
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Polymorphe",
+      "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
+    },
+    {
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "L'Habitude",
         "url": "https://open.spotify.com/album/1EIrvNHQ1MM1nI5N1zMicz"
@@ -25,7 +57,23 @@
       "url": "https://open.spotify.com/track/3bNgr5gy1gY3yoGRuVo5Wk"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
+      "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Avant Elle",
+      "url": "https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD"
+    },
+    {
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
@@ -45,23 +93,7 @@
       "url": "https://open.spotify.com/track/0dDuTVzcx3YK9m9035G1rF"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "ET SI, DE/main l'oiseau",
-        "url": "https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa"
-      },
-      "artists": [
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 193943,
-      "name": "ET SI, DE",
-      "url": "https://open.spotify.com/track/0asoN1Hr01zsTgQVKn1k0y"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Falling Behind",
         "url": "https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw"
@@ -77,7 +109,39 @@
       "url": "https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
+      "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 193967,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/4HwuBZ2IqMpGpPyvmoB9b4"
+    },
+    {
+      "added_at": "2023-09-29 18:30:00",
+      "album": {
+        "name": "WOIIYOIE VOL. 2 - INTENSE CITY",
+        "url": "https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ"
+      },
+      "artists": [
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Intense City",
+      "url": "https://open.spotify.com/track/1aYelCq6B5NHQI70OkTghr"
+    },
+    {
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Comme dans un penthouse",
         "url": "https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR"
@@ -93,39 +157,23 @@
       "url": "https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
-        "name": "99 Nights",
-        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+        "name": "ET SI, DE/main l'oiseau",
+        "url": "https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
         }
       ],
-      "duration_ms": 235455,
-      "name": "Puppy",
-      "url": "https://open.spotify.com/track/01sURX8cx2KhgUgNFKKLAg"
+      "duration_ms": 193943,
+      "name": "ET SI, DE",
+      "url": "https://open.spotify.com/track/0asoN1Hr01zsTgQVKn1k0y"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Depuis Marseille",
-        "url": "https://open.spotify.com/album/1ADpFrR3P89toHRHmMLsvv"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "Depuis Marseille",
-      "url": "https://open.spotify.com/track/4mAUDy4YPWmpn55wfcf9yw"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Hello Hi / Un Deux Trois",
         "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
@@ -141,7 +189,71 @@
       "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2jCR4qFSK6U0tgDQP88CFK"
+      },
+      "artists": [
+        {
+          "name": "pijama land",
+          "url": "https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2XfmOPlZzdmSqw8IkkQ5e9"
+    },
+    {
+      "added_at": "2023-09-29 18:30:00",
+      "album": {
+        "name": "Depuis Marseille",
+        "url": "https://open.spotify.com/album/1ADpFrR3P89toHRHmMLsvv"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "Depuis Marseille",
+      "url": "https://open.spotify.com/track/4mAUDy4YPWmpn55wfcf9yw"
+    },
+    {
+      "added_at": "2023-09-29 18:30:00",
+      "album": {
+        "name": "Rappelle-moi ton nom",
+        "url": "https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9drik St-Onge",
+          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
+        }
+      ],
+      "duration_ms": 209154,
+      "name": "Rappelle-moi ton nom",
+      "url": "https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW"
+    },
+    {
+      "added_at": "2023-09-29 18:30:00",
+      "album": {
+        "name": "L'air d'aller (Musique de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e)",
+        "url": "https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO"
+      },
+      "artists": [
+        {
+          "name": "Robert Robert",
+          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "N'importe O\u00f9 Sauf Ici",
+      "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
+    },
+    {
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Mercure",
         "url": "https://open.spotify.com/album/72rzVypIG6LhrJStwG1KBe"
@@ -161,23 +273,7 @@
       "url": "https://open.spotify.com/track/6jbD5Xd7blUaYkLqoiuVDB"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Avant Elle",
-        "url": "https://open.spotify.com/album/37HLuNvMsD3ibgohJHropW"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "Avant Elle",
-      "url": "https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "draps blancs",
         "url": "https://open.spotify.com/album/5lvZztaoquhzK9hw0KMGv6"
@@ -193,23 +289,23 @@
       "url": "https://open.spotify.com/track/6Ph3SGhwnpkrUUwYaLMP28"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
-        "name": "Oniromancie",
-        "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
+        "name": "Cool et branch\u00e9e",
+        "url": "https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz"
       },
       "artists": [
         {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
         }
       ],
-      "duration_ms": 251680,
-      "name": "Citadelle",
-      "url": "https://open.spotify.com/track/4j4dIhycDWkN85AiuaiUFT"
+      "duration_ms": 177335,
+      "name": "Cool et branch\u00e9e",
+      "url": "https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Une autre vie",
         "url": "https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z"
@@ -225,39 +321,23 @@
       "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
-        "name": "Rappelle-moi ton nom",
-        "url": "https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t"
+        "name": "Oublier",
+        "url": "https://open.spotify.com/album/3MJltJ9phcfouKbcupRDoP"
       },
       "artists": [
         {
-          "name": "C\u00e9drik St-Onge",
-          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
         }
       ],
-      "duration_ms": 209154,
-      "name": "Rappelle-moi ton nom",
-      "url": "https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW"
+      "duration_ms": 183776,
+      "name": "Oublier",
+      "url": "https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "L'air d'aller (Musique de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e)",
-        "url": "https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO"
-      },
-      "artists": [
-        {
-          "name": "Robert Robert",
-          "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "N'importe O\u00f9 Sauf Ici",
-      "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
@@ -285,23 +365,23 @@
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
-        "name": "Oublier",
-        "url": "https://open.spotify.com/album/3MJltJ9phcfouKbcupRDoP"
+        "name": "Tracer des lignes",
+        "url": "https://open.spotify.com/album/7xty3TrdI151JCmI6tO35v"
       },
       "artists": [
         {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+          "name": "oui merci",
+          "url": "https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr"
         }
       ],
-      "duration_ms": 183776,
-      "name": "Oublier",
-      "url": "https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43"
+      "duration_ms": 189510,
+      "name": "Tracer des lignes",
+      "url": "https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "tu penses-tu + veux veux pas",
         "url": "https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy"
@@ -317,7 +397,7 @@
       "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "I Dunno",
         "url": "https://open.spotify.com/album/7L2nTi1dbVSVPt813vQtNs"
@@ -333,23 +413,7 @@
       "url": "https://open.spotify.com/track/6aqMhnDtKgD34c34hgnVrP"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Cool et branch\u00e9e",
-        "url": "https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz"
-      },
-      "artists": [
-        {
-          "name": "Marco Ema",
-          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
-        }
-      ],
-      "duration_ms": 177335,
-      "name": "Cool et branch\u00e9e",
-      "url": "https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Aire de plastique",
         "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
@@ -365,7 +429,7 @@
       "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Petit canari",
         "url": "https://open.spotify.com/album/1QiOn6KM23NyBfu4voBV1s"
@@ -381,7 +445,7 @@
       "url": "https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Search History",
         "url": "https://open.spotify.com/album/2LpBl5PDQCYn3RF94j401j"
@@ -397,7 +461,7 @@
       "url": "https://open.spotify.com/track/7tk9zuWVPMDXzAgYuKPNJ2"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Settle & Fly / O(O)O",
         "url": "https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R"
@@ -417,23 +481,7 @@
       "url": "https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Pinstripe",
-        "url": "https://open.spotify.com/album/2n6vul9nQeViq0dCmTyCE2"
-      },
-      "artists": [
-        {
-          "name": "pijama land",
-          "url": "https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY"
-        }
-      ],
-      "duration_ms": 202564,
-      "name": "Pinstripe",
-      "url": "https://open.spotify.com/track/7xgYhFywtEe1cGz7g92oLS"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Comedy",
         "url": "https://open.spotify.com/album/0cy67dLDF9i8DGjAEUS1Zj"
@@ -449,7 +497,7 @@
       "url": "https://open.spotify.com/track/0GcV1G5sLpOUkOIfPvOo45"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/6aqa8GOrqhN63ac0NygKvi"
@@ -469,7 +517,7 @@
       "url": "https://open.spotify.com/track/0znL4gWKujsTEvn9dj20ZG"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Poem #2",
         "url": "https://open.spotify.com/album/0bPJLBHHf4CFfTjE1VOwud"
@@ -485,7 +533,7 @@
       "url": "https://open.spotify.com/track/3VwZnKXI8wSNUxDP2pHPJh"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "L'\u00e9norme chien tr\u00e8s gentil",
         "url": "https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C"
@@ -501,7 +549,7 @@
       "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Spring Bug",
         "url": "https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L"
@@ -517,7 +565,7 @@
       "url": "https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Manteau d'ardoise",
         "url": "https://open.spotify.com/album/1p7Jqg1d1gI8dAJWCk8Tfh"
@@ -533,7 +581,7 @@
       "url": "https://open.spotify.com/track/7E4auyJcpWwOAJPJUsIo6h"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Combien \u00e7a co\u00fbte",
         "url": "https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6"
@@ -553,23 +601,7 @@
       "url": "https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "WOIIYOIE VOL. 2 - INTENSE CITY",
-        "url": "https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ"
-      },
-      "artists": [
-        {
-          "name": "Skiifall",
-          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Intense City",
-      "url": "https://open.spotify.com/track/1aYelCq6B5NHQI70OkTghr"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Beaucoup",
         "url": "https://open.spotify.com/album/5Lpgfnms4qU0uwtTDGBetH"
@@ -593,7 +625,7 @@
       "url": "https://open.spotify.com/track/62ciFxmwDZB4O3ZHu9rTrq"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Central Park La Fontaine",
         "url": "https://open.spotify.com/album/1ivGuq5opyNFHIrm3cv7gl"
@@ -609,7 +641,7 @@
       "url": "https://open.spotify.com/track/4sKRzvs3WsNQSyCOivbiSl"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Bye-Bye",
         "url": "https://open.spotify.com/album/4vNJ25IMLfZXXLeUaHi5uo"
@@ -625,7 +657,7 @@
       "url": "https://open.spotify.com/track/12fPH6Lik4MALabj2UfdEX"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/7tj6xJzuw7GMlE7PIs1gxx"
@@ -641,7 +673,7 @@
       "url": "https://open.spotify.com/track/5Oq7LoIwDH77lzOUtg1Z0z"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Bravo!",
         "url": "https://open.spotify.com/album/6xaz2AoyyNki9QejVb1aZ6"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/3WzakEyusKz9x4TUxZmLH7"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Si j'\u00e9tais toi",
         "url": "https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r"
@@ -677,7 +709,7 @@
       "url": "https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Illusoire",
         "url": "https://open.spotify.com/album/2jEyWbI2bvhSBob6feiZjq"
@@ -693,7 +725,7 @@
       "url": "https://open.spotify.com/track/5Yfk4gARR6ExKOlsknlFFN"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Tache d'encre",
         "url": "https://open.spotify.com/album/0yYien414Z46D8nNVjFj9d"
@@ -709,7 +741,7 @@
       "url": "https://open.spotify.com/track/1toQXtLaRc3MaK53vKL24z"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Canal \u00c9vasion / B\u00e9b\u00e9",
         "url": "https://open.spotify.com/album/7jfaUmo5XcQiaf0Wv4ETbX"
@@ -725,7 +757,7 @@
       "url": "https://open.spotify.com/track/2PXgofu04uKIeCATVydtUQ"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Moonroad",
         "url": "https://open.spotify.com/album/4xFCdfW6KlgtUZGHWx6suJ"
@@ -741,7 +773,7 @@
       "url": "https://open.spotify.com/track/3WsMHj0S0HKxOK4daW6xOb"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "swirly",
         "url": "https://open.spotify.com/album/6xxKNduR65aGZkDTuNZ6Be"
@@ -757,7 +789,7 @@
       "url": "https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Eye For An Eye",
         "url": "https://open.spotify.com/album/60lPRUPJv9WBKCVhPh76FD"
@@ -773,7 +805,7 @@
       "url": "https://open.spotify.com/track/0V9RRFTEx06xnNDOtRNuoo"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/18Nmv8QNKh8qjwJnG7iRJD"
@@ -789,7 +821,7 @@
       "url": "https://open.spotify.com/track/4oQbpxHDWMSQ4HVEhoYCFD"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "<3 <~je~> 3>",
         "url": "https://open.spotify.com/album/5MgEhsYvAMIOwnMssvVECb"
@@ -809,7 +841,7 @@
       "url": "https://open.spotify.com/track/79g50LUtLlZSQ4RtF4lwAF"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Nothing Left (Lonely Song)",
         "url": "https://open.spotify.com/album/43LrTSzFvVUX4fcZT4IeDP"
@@ -825,7 +857,7 @@
       "url": "https://open.spotify.com/track/3Fs8IAImTJ1Igtr8YDTeUO"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Highly Unrecommended",
         "url": "https://open.spotify.com/album/3u2yBtsdT8ZULEZiIy1Wcx"
@@ -841,7 +873,7 @@
       "url": "https://open.spotify.com/track/78USgwBpKW9D6sspCu5F3D"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Air Molo",
         "url": "https://open.spotify.com/album/2QLSf8BMWjrEun5lhmVjj4"
@@ -857,7 +889,7 @@
       "url": "https://open.spotify.com/track/7muEnAc7ijPmWwmYCM7iAG"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "It's The Life",
         "url": "https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh"
@@ -873,7 +905,7 @@
       "url": "https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Block Of Wood",
         "url": "https://open.spotify.com/album/5mpeLiDcSNmDZo7GPARi8c"
@@ -889,7 +921,7 @@
       "url": "https://open.spotify.com/track/38sbz9ql94TLWkNa7YHA16"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Better Luck In The Next Life",
         "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
@@ -909,7 +941,7 @@
       "url": "https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Soif",
         "url": "https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC"
@@ -925,7 +957,7 @@
       "url": "https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Vague de Chaleur",
         "url": "https://open.spotify.com/album/15XpnxhRwPCR5wglfnPmtC"
@@ -945,7 +977,7 @@
       "url": "https://open.spotify.com/track/7G4ZvyuqsdTGLiEpt9Nu0S"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Mort de peur",
         "url": "https://open.spotify.com/album/3p3yaxFzVEgprptHO9qwu7"
@@ -961,7 +993,7 @@
       "url": "https://open.spotify.com/track/5BrSdlZO7iZygt6og7ZRoS"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Magie \u00e0 minuit",
         "url": "https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt"
@@ -985,7 +1017,7 @@
       "url": "https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "HIDEAWAY Vol. I",
         "url": "https://open.spotify.com/album/66LghYktR6TEc6bzm0wjuN"
@@ -1001,7 +1033,7 @@
       "url": "https://open.spotify.com/track/0CSnwni3GSWONb9hvpaxfx"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "BLUE",
         "url": "https://open.spotify.com/album/56CovnRrY1xrrMSWLkk0L6"
@@ -1021,7 +1053,7 @@
       "url": "https://open.spotify.com/track/5wf1TXbl9KVasQjIbdDB39"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Ring of Past",
         "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
@@ -1037,7 +1069,7 @@
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Teinte",
         "url": "https://open.spotify.com/album/5OhCrmOqckXZRLicXsmMWS"
@@ -1053,7 +1085,7 @@
       "url": "https://open.spotify.com/track/0HMF4ha6tszLkLCDy6IZZ8"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Sprint!",
         "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
@@ -1069,7 +1101,7 @@
       "url": "https://open.spotify.com/track/36gW3LyIrKBYuOgwBQtXlr"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "please don't sugarcoat it",
         "url": "https://open.spotify.com/album/1UCcTE8i06JrjJjKYbIsWb"
@@ -1085,7 +1117,7 @@
       "url": "https://open.spotify.com/track/5nDjaNSWWxMDzgDTpEiCM1"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "S\u00e9rie II: Les heures innocentes",
         "url": "https://open.spotify.com/album/1M1E34ZQdcGc6B0RH8dojB"
@@ -1101,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6u57eMxEKEmCmnLfLps7QS"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "RIVI\u00c8RE",
         "url": "https://open.spotify.com/album/2U8WGLMnKsFj9n8oj4myy4"
@@ -1117,7 +1149,7 @@
       "url": "https://open.spotify.com/track/7IPS4QVAre25NbjV9aWYsy"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Conif\u00e8re II",
         "url": "https://open.spotify.com/album/27AJRwbqjpYYkXdN5d9e9z"
@@ -1133,7 +1165,7 @@
       "url": "https://open.spotify.com/track/0N0Ymk2UB6yzGBL2Xqo82L"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/5mkgf9ydsSSjmowrNO6QBM"
@@ -1149,7 +1181,7 @@
       "url": "https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Gants blancs",
         "url": "https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL"
@@ -1165,7 +1197,7 @@
       "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Moneytree",
         "url": "https://open.spotify.com/album/2RSdk3HLEhbQIvRSadqxaS"
@@ -1185,7 +1217,7 @@
       "url": "https://open.spotify.com/track/0BjPVKGaC2j99Xfn9xbqBU"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Y o Y",
         "url": "https://open.spotify.com/album/6xNUG5JbT6SEQ4tw0YF0MU"
@@ -1201,7 +1233,7 @@
       "url": "https://open.spotify.com/track/2o630PUPBm3pjEdllOiErd"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Across The Room",
         "url": "https://open.spotify.com/album/5xD3AZ3zsBzhXFCcEmULkD"
@@ -1217,7 +1249,7 @@
       "url": "https://open.spotify.com/track/3riOdbVB5Ma1SrhKjBt7bl"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Deux pieds dans la tombe",
         "url": "https://open.spotify.com/album/2RcU4foSojnJ3O1cba7Pfh"
@@ -1237,7 +1269,7 @@
       "url": "https://open.spotify.com/track/6rEuBcNDSMt9lLIQIDv6IR"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Je n'habite pas chez moi",
         "url": "https://open.spotify.com/album/20iT6YJYJD0d7ushv8mQHv"
@@ -1253,7 +1285,7 @@
       "url": "https://open.spotify.com/track/7q9auzxcNfbzqRwILxqNVF"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Viendras-tu pleurer?",
         "url": "https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm"
@@ -1269,7 +1301,7 @@
       "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Tragedy",
         "url": "https://open.spotify.com/album/5rtzuc9i65JU8u90cOOFPr"
@@ -1285,7 +1317,7 @@
       "url": "https://open.spotify.com/track/3Y0No5lXAS30OlN84b6NWv"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "\"Turning (Inside Out)\" b/w \"Out Of Control\"",
         "url": "https://open.spotify.com/album/561UO06aHshx0pz1miVIPV"
@@ -1305,7 +1337,7 @@
       "url": "https://open.spotify.com/track/0YDQCkIxi2mOBB5ksDd9u1"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Pause",
         "url": "https://open.spotify.com/album/43kkRSBUKK3JaZvQiMmAVJ"
@@ -1325,7 +1357,7 @@
       "url": "https://open.spotify.com/track/4zkYz1az0oGzTlfZUb1Zwf"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "BEZU",
         "url": "https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF"
@@ -1345,7 +1377,7 @@
       "url": "https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "en plein vol",
         "url": "https://open.spotify.com/album/1ybTjnD1JeEL8iQjcxh4Lt"
@@ -1365,7 +1397,7 @@
       "url": "https://open.spotify.com/track/0qE2TLnemJVGb93aPB4BU4"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Picture in Picture",
         "url": "https://open.spotify.com/album/5Dpa1BC2KYnwlRJEoeTqTk"
@@ -1381,7 +1413,7 @@
       "url": "https://open.spotify.com/track/2TNziyPiO5OyGnSDZ44MGQ"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Not Ideal",
         "url": "https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc"
@@ -1397,7 +1429,7 @@
       "url": "https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Anxious Avoidant Deluxe",
         "url": "https://open.spotify.com/album/5PBjnHGcfnEvAfa66w0eE7"
@@ -1413,7 +1445,7 @@
       "url": "https://open.spotify.com/track/2SzMY8c3D8aY2csmLVfuRZ"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Diff\u00e9rent de toi",
         "url": "https://open.spotify.com/album/1ir16RkFLAXmhqHvWNhDCV"
@@ -1429,7 +1461,7 @@
       "url": "https://open.spotify.com/track/6QqapEQ1RsiEJnlWQKtqzf"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "M'as-tu vu passer?",
         "url": "https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0"
@@ -1445,7 +1477,7 @@
       "url": "https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Seul au monde",
         "url": "https://open.spotify.com/album/0tZyUZXG6JcABtk1wmpMFm"
@@ -1461,7 +1493,7 @@
       "url": "https://open.spotify.com/track/0YgsjiXvHW1ipRDWWVnlSz"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Blowing Up The Workshop 48",
         "url": "https://open.spotify.com/album/2GrgfxTWIdUgi2TdjnjKtK"
@@ -1477,7 +1509,7 @@
       "url": "https://open.spotify.com/track/0a5jOGRI9fB9H9A9vIVYzY"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Flickering Lights",
         "url": "https://open.spotify.com/album/6w8iEyywSIzRUayxEjr9JC"
@@ -1493,7 +1525,7 @@
       "url": "https://open.spotify.com/track/2M2MpJLcjmuXYDbFrA8OoE"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Redcup",
         "url": "https://open.spotify.com/album/2JqC8e1k92ih07yaSzq8Yx"
@@ -1513,7 +1545,7 @@
       "url": "https://open.spotify.com/track/4qzwmA5yyAaMQgezGFJhRu"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Participaction",
         "url": "https://open.spotify.com/album/28QXkHLmSpG1ebxfZK6Kg0"
@@ -1529,7 +1561,7 @@
       "url": "https://open.spotify.com/track/0qsq7Uc65KPIHIRoWWClzb"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Jos\u00e9 Louis And The Paradox Of Love",
         "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
@@ -1549,7 +1581,7 @@
       "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "I Let My Plant Die",
         "url": "https://open.spotify.com/album/1iKWCghsfxBgHE1SSIzZ8z"
@@ -1565,7 +1597,7 @@
       "url": "https://open.spotify.com/track/3Qrsp5Lkrf7Ad65wvanoeq"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Safe Space",
         "url": "https://open.spotify.com/album/1ks99OEgYN41RQmQVKIowY"
@@ -1581,7 +1613,7 @@
       "url": "https://open.spotify.com/track/3C9LuqZ8kBJItBiZEEZ9xY"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Mieux que rien",
         "url": "https://open.spotify.com/album/4t1WcLs8gT4RlqptceZk6L"
@@ -1597,23 +1629,7 @@
       "url": "https://open.spotify.com/track/2ThckaIohgGpUHiG87yObp"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "consolation",
-        "url": "https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 292680,
-      "name": "jardin",
-      "url": "https://open.spotify.com/track/2mcMoXYHmVLxmCgAvaO2cS"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Sade Sati (Deluxe)",
         "url": "https://open.spotify.com/album/3PXo9tdk59o5O8VHJcrR6K"
@@ -1629,7 +1645,7 @@
       "url": "https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Le matin",
         "url": "https://open.spotify.com/album/1KBxSKZYkIDt7eIyXpLpHM"
@@ -1645,7 +1661,7 @@
       "url": "https://open.spotify.com/track/5EOzaKdYpIBMOQS16iben7"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Please Don't Think About Tomorrow",
         "url": "https://open.spotify.com/album/5vUGjMxVmPZGqgwRPPZEuF"
@@ -1661,7 +1677,7 @@
       "url": "https://open.spotify.com/track/5FM8xEph5A58laSAIr16ph"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "ta peau",
         "url": "https://open.spotify.com/album/0CDkekykSRQAUkQ6d7BRfH"
@@ -1681,27 +1697,7 @@
       "url": "https://open.spotify.com/track/4Tu5nR9YC9TnSp2YVnPmxP"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "Nuit am\u00e9ricaine",
-        "url": "https://open.spotify.com/album/00NbIUbjav9Sy89vKhPtLo"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00f4me Mini\u00e8re",
-          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
-        },
-        {
-          "name": "NGABO",
-          "url": "https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ"
-        }
-      ],
-      "duration_ms": 241998,
-      "name": "Nuit am\u00e9ricaine",
-      "url": "https://open.spotify.com/track/1cOIijnd1qHpJSLA2jBQMe"
-    },
-    {
-      "added_at": "2023-09-22 04:01:00",
+      "added_at": "2023-09-29 18:30:00",
       "album": {
         "name": "Almost Lost You",
         "url": "https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN"

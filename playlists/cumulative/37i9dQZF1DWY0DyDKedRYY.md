@@ -4,7 +4,7 @@
 
 > The most exciting new music, featuring RADAR official artist Reneé Rapp on the cover.
 
-601 songs - 1 day 7 hr 0 min
+602 songs - 1 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 | 2023-05-27 | 2023-07-08 |
 | [Call Of The Unicorn](https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Call Of The Unicorn](https://open.spotify.com/album/3vKSdCzdcMhNc23QvxrJp1) | 3:10 | 2021-12-01 | 2022-04-09 |
 | [cambiarte](https://open.spotify.com/track/4WnGtjG4gnE49sXLBJbiHN) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [cambiarte](https://open.spotify.com/album/0PuUNo37BZ2P0M0ajTo0GG) | 2:43 | 2022-04-08 | 2022-05-18 |
-| [Can I Talk My Shit?](https://open.spotify.com/track/52qozr06OygMerkZTWPQzL) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Can I Talk My Shit?](https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU) | 3:25 | 2023-08-30 |  |
+| [Can I Talk My Shit?](https://open.spotify.com/track/1tXn4yWAAyzFikNsJ3bMow) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 3:25 | 2023-08-30 |  |
+| [Can I Talk My Shit?](https://open.spotify.com/track/52qozr06OygMerkZTWPQzL) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Can I Talk My Shit?](https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU) | 3:25 | 2023-08-30 | 2023-09-30 |
 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz), [Two star](https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 | 2023-08-30 |  |
 | [caroline](https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [caroline](https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd) | 3:18 | 2022-07-26 | 2022-09-07 |
 | [Casual](https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt) | 3:52 | 2022-11-14 | 2023-01-05 |

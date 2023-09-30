@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: La Franela",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Indio Solari y Los Fundamentalistas del Aire Acondicionado",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -606,7 +606,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 203247,
       "name": "Contra el Viento",
       "url": "https://open.spotify.com/track/57iYWAcYUV7IMrgR7N8wNX"
@@ -3982,6 +3982,24 @@
       "duration_ms": 249699,
       "name": "Vida de Topos",
       "url": "https://open.spotify.com/track/3lL9MHVJizb451IfV7h6pj"
+    },
+    {
+      "album": {
+        "name": "Vino Tinto",
+        "url": "https://open.spotify.com/album/4mfzTGo7zQpJ51ZxpGsISt"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255840,
+      "name": "VIno Tinto",
+      "url": "https://open.spotify.com/track/5c4lchIbTBbrn3J6WBNH2z"
     },
     {
       "album": {

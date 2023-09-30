@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Minimal Piano Works",
+        "url": "https://open.spotify.com/album/3i5F24FMzyHE3BTzJqBrHH"
+      },
+      "artists": [
+        {
+          "name": "Tristan Barton",
+          "url": "https://open.spotify.com/artist/0obGrBCNNmdEbcJfzjuA68"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "A Bach Response",
+      "url": "https://open.spotify.com/track/4y9slcqIZOLrHFHTrpU59l"
+    },
+    {
+      "album": {
         "name": "L'Eixample",
         "url": "https://open.spotify.com/album/1lfCe8KBQcAdEttuWRuao5"
       },
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 393426,
       "name": "Sigur 3 (Untitled)",
       "url": "https://open.spotify.com/track/2zkZGzzWOzGwi1rtWv7mhZ"

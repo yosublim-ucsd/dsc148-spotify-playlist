@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: HotWax
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,369 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,381 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 19 | [Crowd](https://open.spotify.com/track/5btcktwEOwwLGjg4ZOXU8A) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [Crowd](https://open.spotify.com/album/4mbuha3EQeT0RRqONrzNfD) | 3:12 |
 | 20 | [Karaoke](https://open.spotify.com/track/7keNZhvY8vbs3AyqDewmjj) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Karaoke](https://open.spotify.com/album/7FfYlliKoC99WzeDwyIbqn) | 3:20 |
 | 21 | [Money](https://open.spotify.com/track/5rlfh1uoDFgbycSkX0Dms5) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Money](https://open.spotify.com/album/3WSZtZRBRJVoAljZAaip2m) | 2:54 |
-| 22 | [Wait For It](https://open.spotify.com/track/3tICVwJq5VrYOOALfA63zT) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Wait For It](https://open.spotify.com/album/1KcsDags2CnbjBWYtSQwaK) | 3:59 |
+| 22 | [Wait For It](https://open.spotify.com/track/4wOgS5cp5cKU7u82Wibtbq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/6aaFOSMUUxYBAJ3fcxZmBo) | 3:59 |
 | 23 | [Cut Your Face](https://open.spotify.com/track/0lO6kfb48tlpVBAlJnTGjO) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Cut Your Face](https://open.spotify.com/album/0b2IAxWPZLraVt4Sfrl2cT) | 4:46 |
 | 24 | [permanent s m i l e](https://open.spotify.com/track/7xJnVFoKuFqHCfbaShP63W) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [don't dream too much](https://open.spotify.com/album/4l0t1qVRWPzLwmY70GCGMN) | 3:56 |
 | 25 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 37 | [Overdrive](https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [follow: noise](https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN) | 2:57 |
 | 38 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 |
 | 39 | [Well I Hope Ur Happy](https://open.spotify.com/track/0BAwN4aylbMlgX10Gaaw8o) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Hell Is A Teenage Girl](https://open.spotify.com/album/7Dggd87vkUC1VsMmrUw4bZ) | 3:04 |
-| 40 | [Freaks Like Us](https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3) | 4:54 |
+| 40 | [Freaks Like Us](https://open.spotify.com/track/0chJDuzoUhpvfLJiSP4cEe) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/6aaFOSMUUxYBAJ3fcxZmBo) | 4:54 |
 | 41 | [SNAKES](https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [SNAKES](https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk) | 3:11 |
 | 42 | [Join The Club](https://open.spotify.com/track/69GxHryDHLWjJGccowdFoJ) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Join The Club](https://open.spotify.com/album/45XFiYaalYoNTcM5Kb4IXW) | 3:03 |
 | 43 | [sacrifice/surrender](https://open.spotify.com/track/4HB55BRbNxoynvMFxrVlco) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [sacrifice/surrender](https://open.spotify.com/album/46wAFzEPEs6AQWWnyV2OO8) | 3:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Sister, Brother](https://open.spotify.com/track/11X5kvgN18tU3J4EuAkl7L) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Fester](https://open.spotify.com/album/75vIvXpWldf5ypHvHkjH0P) | 4:02 |
 | 80 | [escalate](https://open.spotify.com/track/2hBalflQk2epPYW7GwdQb2) | [pieces](https://open.spotify.com/artist/35uZwCzQKuv1zHalrRkikr) | [escalate](https://open.spotify.com/album/3fpsNJU44c7Jp69qvTqpAM) | 3:22 |
 
-Snapshot ID: `MCwzNmZmZjc4YzJjM2M2ZjljOWI0YjQwOWE1ZTlmMzYxMDBiZjQ5OTE5`
+Snapshot ID: `MCxiYTFhZjM5MDE4MWVlYzVjYTg0MDBmYjllNzQ0Njk5ODkwMTQ1NzVk`

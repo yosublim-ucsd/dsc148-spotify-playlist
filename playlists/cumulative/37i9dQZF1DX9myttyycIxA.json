@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: zzzahara",
+  "description": "Underground indie rock gems. Cover: Cherry Glazzerr ",
   "name": "undercurrents",
   "tracks": [
     {
@@ -1476,6 +1476,24 @@
       "duration_ms": 157935,
       "name": "Bad Communicator",
       "url": "https://open.spotify.com/track/0Y7OIMb5lkLXvuKTZLs9mF"
+    },
+    {
+      "album": {
+        "name": "I Don't Want You Anymore",
+        "url": "https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167920,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/3O7ij6i8NmdxxmOrpHDVJV"
     },
     {
       "album": {
@@ -5038,7 +5056,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 261327,
       "name": "Dream Woman",
       "url": "https://open.spotify.com/track/7nmtN2pXRz86ooiPmZxztQ"
@@ -7641,6 +7659,24 @@
     },
     {
       "album": {
+        "name": "Hang Up the Lights",
+        "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160437,
+      "name": "Hang Up The Lights",
+      "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
+    },
+    {
+      "album": {
         "name": "Hangar",
         "url": "https://open.spotify.com/album/0vGLRqaVUnflzJS7yvXs0g"
       },
@@ -7706,7 +7742,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 151483,
       "name": "Happiness Is An 8 Ball",
       "url": "https://open.spotify.com/track/6uEQDaJJr9I7C0nM1iKseQ"
@@ -8424,6 +8460,24 @@
       "duration_ms": 262611,
       "name": "Home",
       "url": "https://open.spotify.com/track/1spaVEd0xNQTvWhfxd1e4s"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156722,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM"
     },
     {
       "album": {
@@ -10640,7 +10694,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 146750,
       "name": "Letters",
       "url": "https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m"
@@ -10766,7 +10820,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 173194,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/2rWPsijkCV8r3FfE3qinNJ"
@@ -11331,6 +11385,24 @@
     },
     {
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/34V75CfwJ7raA6wjQDpKPb"
+      },
+      "artists": [
+        {
+          "name": "Mali Velasquez",
+          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289761,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/4sINCbrGzO8ycv5qkzxe7d"
+    },
+    {
+      "album": {
         "name": "Middle Man",
         "url": "https://open.spotify.com/album/54fId2tvhp88PlC9XtoVpD"
       },
@@ -11695,6 +11767,24 @@
     },
     {
       "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246426,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
+    },
+    {
+      "album": {
         "name": "Muscle Memory",
         "url": "https://open.spotify.com/album/1iAFICvSpHa8ikT8MOLdI7"
       },
@@ -12028,7 +12118,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 108413,
       "name": "new drugs",
       "url": "https://open.spotify.com/track/3PkNZj1fGr6iUWMui8VjCi"
@@ -13185,6 +13275,24 @@
     },
     {
       "album": {
+        "name": "PHD",
+        "url": "https://open.spotify.com/album/3clusQ6T8jI8LenvmGB15O"
+      },
+      "artists": [
+        {
+          "name": "Malice K",
+          "url": "https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117511,
+      "name": "PHD",
+      "url": "https://open.spotify.com/track/0MzNvq7rOR7zYfJcRf7Yzz"
+    },
+    {
+      "album": {
         "name": "photograph",
         "url": "https://open.spotify.com/album/6oPlHI8HkXSFBgUJAMmuGZ"
       },
@@ -13262,6 +13370,24 @@
       "duration_ms": 241271,
       "name": "Pieces of Gold",
       "url": "https://open.spotify.com/track/5TtOVNkBiVYxs4MRgwOTqy"
+    },
+    {
+      "album": {
+        "name": "Pitbull",
+        "url": "https://open.spotify.com/album/7uYegA5tZ2wvo7GfDsgmbf"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Pitbull",
+      "url": "https://open.spotify.com/track/7GerEWizPhfbNmWJgQOU5b"
     },
     {
       "album": {
@@ -14448,7 +14574,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 187686,
       "name": "Screaming In The Rain Again",
       "url": "https://open.spotify.com/track/0jsh4swhkkj6L4MAnwGWqS"
@@ -14542,7 +14668,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 226660,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/5hSH7K2BAcdkDo4VRVreTo"
@@ -14690,6 +14816,24 @@
       "duration_ms": 159480,
       "name": "Shining Armor",
       "url": "https://open.spotify.com/track/32x4NRfnM2b5sqBGsuGCfG"
+    },
+    {
+      "album": {
+        "name": "shoelaces",
+        "url": "https://open.spotify.com/album/1iHBSEzbep9OWbgZaawGqh"
+      },
+      "artists": [
+        {
+          "name": "joey maxwell",
+          "url": "https://open.spotify.com/artist/24HpqK3rYuuJgdh2WkNtTq"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179780,
+      "name": "shoelaces",
+      "url": "https://open.spotify.com/track/2cPndAZPxgZgXHPAT20xUE"
     },
     {
       "album": {
@@ -15040,7 +15184,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 186466,
       "name": "Slugs",
       "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
@@ -18502,7 +18646,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 216234,
       "name": "Weird",
       "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
@@ -18978,6 +19122,24 @@
       "duration_ms": 186504,
       "name": "Wish It Was",
       "url": "https://open.spotify.com/track/31fAHxxQshddV7JHNkxz49"
+    },
+    {
+      "album": {
+        "name": "With Me",
+        "url": "https://open.spotify.com/album/3ItpOcDRCMne7N7KFotDCQ"
+      },
+      "artists": [
+        {
+          "name": "Varsity",
+          "url": "https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/19oJeztertAs96nTXrkTNM"
     },
     {
       "album": {

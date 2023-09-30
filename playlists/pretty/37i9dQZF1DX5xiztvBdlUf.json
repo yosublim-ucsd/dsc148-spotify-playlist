@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 599288,
+  "num_followers": 599490,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDgyNmYzMDA2MjBmM2JhODA0YjdhYTg3MmIxZGE5NWZjODI4ZDll",
+  "snapshot_id": "MCwwMTljNjQ2MjgzMzI2NmQ4YzUzNjdkZTVhNThlZmEzY2ZjMzE1ZmNh",
   "tracks": [
     {
       "added_at": "2023-09-15 16:02:45",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Altered Destiny",
-        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 185578,
-      "name": "Altered Destiny - Chill Mix",
-      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "Cenote",
         "url": "https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 298335,
       "name": "Cenote",
       "url": "https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Altered Destiny",
+        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 185578,
+      "name": "Altered Destiny - Chill Mix",
+      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Le Funk",
-        "url": "https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec"
-      },
-      "artists": [
-        {
-          "name": "Prunk",
-          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
-        },
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 239106,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/2tjWqC7s6tKPl1nBFuHX0m"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "Nefertari",
         "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 241160,
       "name": "Nefertari",
       "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Le Funk",
+        "url": "https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec"
+      },
+      "artists": [
+        {
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        },
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 239106,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2tjWqC7s6tKPl1nBFuHX0m"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Roda",
-        "url": "https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        }
-      ],
-      "duration_ms": 285123,
-      "name": "Roda",
-      "url": "https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "Between Two Worlds",
         "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 464026,
       "name": "Between Two Worlds",
       "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Roda",
+        "url": "https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        }
+      ],
+      "duration_ms": 285123,
+      "name": "Roda",
+      "url": "https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO"
-      },
-      "artists": [
-        {
-          "name": "Mika Olson",
-          "url": "https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "I WON'T STAY",
         "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO"
+      },
+      "artists": [
+        {
+          "name": "Mika Olson",
+          "url": "https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Sign of the Times",
-        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 193403,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "Inner Child (Patrice B\u00e4umel Remix)",
         "url": "https://open.spotify.com/album/4AVJ3orR0WTENQDm3mn67f"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 253195,
       "name": "Inner Child - Patrice B\u00e4umel Remix",
       "url": "https://open.spotify.com/track/6oFYHUfDjBTGvR5M3RzSUE"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 193403,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
-        }
-      ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "Lay It All On Me",
         "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 227384,
       "name": "Lay It All On Me",
       "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
+        "name": "What U Doing",
+        "url": "https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 229523,
+      "name": "What U Doing",
+      "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
         "name": "Alone (andhim Remix)",
         "url": "https://open.spotify.com/album/5dAIxyXI3nmT0IogiHaid6"
       },
@@ -1211,26 +1231,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "What U Doing",
-        "url": "https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 229523,
-      "name": "What U Doing",
-      "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "Cold Shoulder (Helsloot Remix)",
         "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
       },
@@ -1247,6 +1247,42 @@
       "duration_ms": 246466,
       "name": "Cold Shoulder - Helsloot Remix",
       "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Trojan Love (Original Club Mix)",
+        "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
+      },
+      "artists": [
+        {
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 357283,
+      "name": "Trojan Love - Original Club Mix",
+      "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 221966,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1295,42 +1331,6 @@
       "duration_ms": 163902,
       "name": "Lost Generation - Edit",
       "url": "https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 221966,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
-        "name": "Trojan Love (Original Club Mix)",
-        "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
-      },
-      "artists": [
-        {
-          "name": "Definition",
-          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 357283,
-      "name": "Trojan Love - Original Club Mix",
-      "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "Malmedy",
-        "url": "https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 342813,
-      "name": "Malmedy",
-      "url": "https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP"
-    },
-    {
-      "added_at": "2023-09-15 16:02:45",
-      "album": {
         "name": "Noso",
         "url": "https://open.spotify.com/album/46TCzN7jRdwIWXPzi60Eyz"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 443189,
       "name": "Noso",
       "url": "https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML"
+    },
+    {
+      "added_at": "2023-09-15 16:02:45",
+      "album": {
+        "name": "Malmedy",
+        "url": "https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 342813,
+      "name": "Malmedy",
+      "url": "https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP"
     },
     {
       "added_at": "2023-09-15 16:02:45",
@@ -1519,26 +1519,26 @@
     {
       "added_at": "2023-09-15 16:02:45",
       "album": {
-        "name": "To Be Written",
-        "url": "https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2"
+        "name": "Restless & Wild",
+        "url": "https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX"
       },
       "artists": [
         {
-          "name": "Marc DePulse",
-          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
         },
         {
-          "name": "Eleonora",
-          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+          "name": "Ahmet Kilic",
+          "url": "https://open.spotify.com/artist/5OyOddK42Hm0pENFDWxn39"
         },
         {
-          "name": "Lunar Plane",
-          "url": "https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy"
+          "name": "Lynn",
+          "url": "https://open.spotify.com/artist/7nzbcK2bzEtoMgTQAwHQVl"
         }
       ],
-      "duration_ms": 393442,
-      "name": "To Be Written - Lunar Plane Remix",
-      "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
+      "duration_ms": 403286,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb"
     },
     {
       "added_at": "2023-09-15 16:02:45",

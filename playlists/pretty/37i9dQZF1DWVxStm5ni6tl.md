@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Antoniya, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,411 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [perky](https://open.spotify.com/track/3ij9bvJRbDU8ZJiYIUkzUV) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [perky](https://open.spotify.com/album/1XBYiyhsR1Z9UQgbVI85gu) | 2:31 |
 | 2 | [Luna](https://open.spotify.com/track/4iMYe0imqLkjVgZOYqcutR) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Luna](https://open.spotify.com/album/17wPjQZ6rhmBILGt0ZD3n6) | 3:45 |
 | 3 | [Tourner](https://open.spotify.com/track/10JAfW2AVRnUbHTzlvplTB) | [Véda](https://open.spotify.com/artist/10fGKWTRU4oFbQG0sWPVHi), [Jeune Rebeu](https://open.spotify.com/artist/1Eqk1dyp15e8W7meILuhgD) | [Mon boy](https://open.spotify.com/album/3GrwegDfPCjoMqUIRhzuOc) | 2:08 |
-| 4 | [No Patience After Dark](https://open.spotify.com/track/09btjfUjME8icG0dSUoYan) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [HIDEAWAY Vol\. II](https://open.spotify.com/album/7ry4nLf7jor5tbVhFfmWND) | 2:24 |
+| 4 | [No Patience After Dark](https://open.spotify.com/track/2CaWCoKWHQREwlTRTr7jNd) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [HIDEAWAY Vol\. II](https://open.spotify.com/album/5XDg1uKmCjPSNfKXY95mB2) | 2:24 |
 | 5 | [Can’t Explain](https://open.spotify.com/track/14CWwpO81KQk2bfAgnDLdr) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Can’t Explain](https://open.spotify.com/album/1rYcphC606XUgGhkmE9wjW) | 2:02 |
 | 6 | [Denver](https://open.spotify.com/track/56we7VFD9TURVUn2lTuySo) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Feels Country To Me](https://open.spotify.com/album/6QJMEOLLRy2DTXJGFWekIc) | 3:01 |
 | 7 | [Real Love](https://open.spotify.com/track/0XSrtPRwUsoKH264DFP8kZ) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr), [Flara K](https://open.spotify.com/artist/6QX83NubxIwxQzoNzSATMu), [Aaron Paris](https://open.spotify.com/artist/71zpxFNyq4h7rNXjpl9eJi) | [Real Love](https://open.spotify.com/album/4NKP3IcS7Gu5HK9gy8spJ8) | 3:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [Talk To Me](https://open.spotify.com/track/02Az1ZPrTOeWjvc20ZveFT) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Talk To Me](https://open.spotify.com/album/6AzAxH3QhnCCYaA0k1LXDK) | 2:53 |
 | 80 | [Fake Money](https://open.spotify.com/track/5ZAkwPHjuje4eM3gItHXoB) | [Sarah Itamah](https://open.spotify.com/artist/5E5tgdinLfCPJAccYJjsta) | [Fake Money](https://open.spotify.com/album/41YFlcejLMS6h0Ak8DYQbb) | 2:28 |
 
-Snapshot ID: `MCwxYWZiZDVlZWEzNDc3OTdiZTIzZjQ4MTQ1ZDBkZWFiZDhiNTI2N2U3`
+Snapshot ID: `MCw5MjZkYWUxODg4OWZkOTBhNzQ1MTZiOWFhMjUyYTQwYmMwYmUxNDQ4`

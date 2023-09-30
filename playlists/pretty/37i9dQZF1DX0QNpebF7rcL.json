@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Shemekia Copeland",
-  "num_followers": 51669,
+  "num_followers": 51681,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDhhOTQ5Y2QyODNhNDUxMzk4OGYyMDg1ZGQ5N2RmMTkwYjRjMTFh",
+  "snapshot_id": "MCxmN2RhZDI2MjVmYWM2NWVhYTA1OWQxZjFiNTM4NjUwZDAyYjEwNTYy",
   "tracks": [
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Nobody Wants To Be Lonely",
+        "url": "https://open.spotify.com/album/4VQuUtKFBB9BjBjFvqWXJl"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 193844,
+      "name": "Nobody Wants To Be Lonely",
+      "url": "https://open.spotify.com/track/04AyFkLrP4bbrDjcXGPhfz"
+    },
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
@@ -95,22 +111,6 @@
       "duration_ms": 238173,
       "name": "Hope You Realize It (Goodbye Again)",
       "url": "https://open.spotify.com/track/2cMKzAbQbKwHqYQgvRvGSw"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "You Got It (And I Need It)",
-        "url": "https://open.spotify.com/album/1WpFHd5j9wvcV0mMZnhz0o"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 199966,
-      "name": "You Got It (And I Need It)",
-      "url": "https://open.spotify.com/track/71bUNFk68LUA5Y0HURe94Y"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -203,6 +203,22 @@
       "duration_ms": 236859,
       "name": "I Want To",
       "url": "https://open.spotify.com/track/5JsZqpiC00eYCz7NRmACw6"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Way Too Long",
+        "url": "https://open.spotify.com/album/4On5stWO7yBkRUdOZKejzN"
+      },
+      "artists": [
+        {
+          "name": "8 Ball Aitken",
+          "url": "https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Way Too Long",
+      "url": "https://open.spotify.com/track/3NLCu7XL8dRLRtgObLWa5z"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 342853,
       "name": "Down To The Bottom",
       "url": "https://open.spotify.com/track/2867syuupBlecM1Ra7PGyZ"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Heart and Soul",
-        "url": "https://open.spotify.com/album/0t9Y8U95Pt5ATKeHlnuVPa"
-      },
-      "artists": [
-        {
-          "name": "8 Ball Aitken",
-          "url": "https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Righteous Loving",
-      "url": "https://open.spotify.com/track/2NKWAmzIFidQ7rYkS78Yv9"
     },
     {
       "added_at": "2022-03-18 05:00:00",

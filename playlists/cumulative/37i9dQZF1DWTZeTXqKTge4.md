@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: GreenWoodz
+> Le meilleur du hip\-hop québécois\. Photo: Fredz
 
-475 songs - 1 day 0 hr 10 min
+477 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 | 2022-02-18 | 2022-09-17 |
 | [3 saisons](https://open.spotify.com/track/7qppWvyQ9uw2TPAlHNzp4H) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [3 saisons](https://open.spotify.com/album/3hNE9lZZ7U5EQxYCCZh3zT) | 3:33 | 2022-01-07 | 2022-03-05 |
 | [3.5](https://open.spotify.com/track/2yA4AFOcgm7GoBrqzZuFEv) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Je Suis Canicule](https://open.spotify.com/album/4hWU5w4QTHAkB2mXM5PRgn) | 3:44 | 2022-10-07 | 2023-08-12 |
-| [30 Shots](https://open.spotify.com/track/5sJr70b05dLwOamB3s7o8L) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 2:53 | 2022-12-02 |  |
+| [30 Shots](https://open.spotify.com/track/5sJr70b05dLwOamB3s7o8L) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 2:53 | 2022-12-02 | 2023-09-30 |
 | [30 Shots](https://open.spotify.com/track/6VEoDyngWaZrkKV7Jw2ShY) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Little Bro](https://open.spotify.com/album/3sAKND1PUz7rDHB4xuvMuD) | 2:53 | 2023-02-03 | 2023-02-08 |
 | [300](https://open.spotify.com/track/7r5grL8qyyy0lmujA3pneU) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [300](https://open.spotify.com/album/3Z3fXpDs9XqGrHKlbLeAZp) | 2:47 | 2022-01-21 | 2022-04-23 |
 | [3e avenue](https://open.spotify.com/track/1Utqa3AcyGm5qZGek8WxQP) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [3e avenue](https://open.spotify.com/album/7F34U28n3S1sT9jkVWcgd9) | 3:28 | 2022-01-07 | 2022-04-02 |
@@ -187,6 +187,7 @@
 | [Friday Night](https://open.spotify.com/track/1Edza42w05Qq7cz5K6r658) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Friday Night](https://open.spotify.com/album/3SrVZQpgpvIaQ1HErGygdQ) | 2:41 | 2023-03-03 | 2023-06-03 |
 | [Froid](https://open.spotify.com/track/7xdBeATvkJWIEsh60xc2GZ) | [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg) | [Froid](https://open.spotify.com/album/5jKAgilOampSvGsOpYHRhG) | 3:25 | 2023-02-17 | 2023-06-03 |
 | [Fruit défendu](https://open.spotify.com/track/4dS3ZuMB8PBN0y5nOdQRKN) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Fruit défendu](https://open.spotify.com/album/46hTeni6rzDZApaurPprXj) | 3:22 | 2022-10-21 | 2023-02-25 |
+| [FTG](https://open.spotify.com/track/5j5ar3YNnHXZlYLfVPLcHT) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [FTG](https://open.spotify.com/album/1glTvN8B0pM2VY33CJnT9v) | 3:03 | 2023-09-29 |  |
 | [Fuck That](https://open.spotify.com/track/0aPy6slOERNdDUvz0HvGSl) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 3:34 | 2022-01-07 | 2022-01-15 |
 | [Funambule](https://open.spotify.com/track/17IYFs7jWrOZ3q30kBmnBn) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Funambule](https://open.spotify.com/album/4o4Wy7x6zIvGaeDdJxC9k2) | 2:34 | 2022-09-02 | 2022-12-24 |
 | [Future Ex](https://open.spotify.com/track/4c5hY1uAZGRFWrcwb3ZSjO) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs) | [Un jour de plus au paradis](https://open.spotify.com/album/3rz0HsjWhOAom7JaSRziWd) | 3:01 | 2022-12-09 |  |
@@ -283,13 +284,14 @@
 | [Marrakech](https://open.spotify.com/track/3Imu0WHSlEWiv4fZngTD2l) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9) | [Marrakech](https://open.spotify.com/album/7b4wIbfPAoDOXsBLYEzki2) | 3:31 | 2022-01-21 | 2022-04-29 |
 | [Matusalem](https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:42 | 2022-06-10 | 2023-03-11 |
 | [Mauvais Ressentiment](https://open.spotify.com/track/7Gqxw0JjHdPW6crGmFMIlA) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [Mauvais Ressentiment](https://open.spotify.com/album/2i2QBPdBMAGlBuvCdzfp5e) | 2:57 | 2023-08-18 |  |
+| [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 | 2023-09-29 |  |
 | [Mauvaise Humeur](https://open.spotify.com/track/53eakKGFwVXIrpqoN7mFat) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [Gate to RLLNR](https://open.spotify.com/album/2zq2VWlpX9PI6yXe5xZ4Ab) | 2:26 | 2022-02-18 | 2022-10-01 |
 | [Message](https://open.spotify.com/track/5PAqLkdj1eRvP6QEbm1wzF) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Message](https://open.spotify.com/album/0CQocGYtpheZuJkgcZodbF) | 2:37 | 2022-01-28 | 2022-03-18 |
 | [Message Direct](https://open.spotify.com/track/5LhYhfvvdY1wynWDk3sK2b) | [SB](https://open.spotify.com/artist/6S7LxJgzPjJy87oXIMxLJG) | [Naître et Grandir](https://open.spotify.com/album/1zQo997aIZPk298Aeubdjd) | 3:12 | 2022-03-11 | 2022-07-26 |
 | [Metal](https://open.spotify.com/track/5OzHZiK7AapFqnTpAyVTNy) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Metal](https://open.spotify.com/album/0KF4OaklvypnnbPpNh5Ptt) | 3:22 | 2022-01-07 | 2022-03-23 |
 | [Mew](https://open.spotify.com/track/0XyFWTz62YHIppuJHsdCXS) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Mew](https://open.spotify.com/album/7z4jZcsp7l9U6j5Q5ydhrW) | 3:17 | 2023-03-10 | 2023-06-03 |
 | [MICRODOSE](https://open.spotify.com/track/6ccLf6BQBxl863pP57yr3g) | [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [VITE!](https://open.spotify.com/album/7HsaVeXEfVsB6SAO3Nrcqj) | 2:09 | 2022-05-13 | 2022-07-23 |
-| [MIKE TANGO LIMA](https://open.spotify.com/track/38bvFbzotkGZLkBNi5LYD0) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 2:24 | 2023-08-04 |  |
+| [MIKE TANGO LIMA](https://open.spotify.com/track/38bvFbzotkGZLkBNi5LYD0) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 2:24 | 2023-08-04 | 2023-09-30 |
 | [Mission Nocturne](https://open.spotify.com/track/7g1sKd5TXXMMVTaBlssG2U) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Mission Nocturne](https://open.spotify.com/album/3tKvDoCb5VgKj7lQZO50Bc) | 2:40 | 2023-04-28 |  |
 | [Misunderstood](https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW) | [DARY](https://open.spotify.com/artist/7vfo5uAqkgpHfgTW2LmSPG) | [HAINE MOI](https://open.spotify.com/album/74rD7TMXbDIRygW8MiWbjD) | 3:48 | 2022-01-21 | 2022-07-02 |
 | [Mode Avion](https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mode Avion](https://open.spotify.com/album/7oSVJPi9zgjRavK3z0xB4H) | 3:17 | 2023-05-12 | 2023-07-08 |

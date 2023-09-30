@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-168 songs - 13 hr 45 min
+169 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [نتيا ضعيف](https://open.spotify.com/track/6GfXhVpEqBay6HM1iCavDR) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [نتيا ضعيف](https://open.spotify.com/album/3QGTRsK0LF6t5XO5oBXd5i) | 4:21 | 2022-09-20 | 2023-02-21 |
 | [نكون مديرونجي تعيطلي هيا نجي](https://open.spotify.com/track/5NHNsu2SFsEJ06zPbRTomb) | [RaiJdid](https://open.spotify.com/artist/6eARrgJK4IDBeFTHcHIQwM) | [نكون مديرونجي تعيطلي هيا نجي](https://open.spotify.com/album/44eg9fpdAVZwEMmNDCYXD8) | 7:56 | 2023-05-08 |  |
 | [ها قلبي ها قلبي يناسبها المكان](https://open.spotify.com/track/0IiDI1jF6bmERRxsaPNyAe) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [ها قلبي ها قلبي يناسبها المكان](https://open.spotify.com/album/3Y6L5aPp1EGEbZ2hyHypoa) | 5:54 | 2021-10-19 | 2022-09-21 |
-| [هدا غي عشق وفايت](https://open.spotify.com/track/3joJoAR6B8308tfIlisTx2) | [Abbas Kahla](https://open.spotify.com/artist/2v4kCfsNFrNNBAwAs4GZrV) | [هدا غي عشق وفايت](https://open.spotify.com/album/78Jky16Q6UjmNj4Kh5I5Re) | 4:14 | 2023-05-25 |  |
+| [هدا غي عشق وفايت](https://open.spotify.com/track/3joJoAR6B8308tfIlisTx2) | [Abbas Kahla](https://open.spotify.com/artist/2v4kCfsNFrNNBAwAs4GZrV) | [هدا غي عشق وفايت](https://open.spotify.com/album/78Jky16Q6UjmNj4Kh5I5Re) | 4:14 | 2023-05-25 | 2023-09-30 |
+| [هدا غي عشق وفايت Abbas Kahla](https://open.spotify.com/track/2XccMlUe2DuW4YLrjFghki) | [Abbas Kahla](https://open.spotify.com/artist/2v4kCfsNFrNNBAwAs4GZrV) | [هدا غي عشق وفايت Abbas Kahla](https://open.spotify.com/album/5Zyjk5uDs9yYlQFMSR5MvU) | 4:14 | 2023-09-25 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

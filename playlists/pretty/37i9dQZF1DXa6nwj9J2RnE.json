@@ -6,10 +6,30 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGFmMDQ2ODAyZjFjYzkwMDNlNTRhYmFmYmQ1MzA2Njc0MDQ5NjVl",
+  "snapshot_id": "MCw3OTM2MmJhMTRiY2Y2M2U4MTAzOTI5MTUzMGYzYzdjNGY1NzRiMWEz",
   "tracks": [
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
+      "album": {
+        "name": "ENERGIE",
+        "url": "https://open.spotify.com/album/4DAAPsmrW61T7EuhrQHzpl"
+      },
+      "artists": [
+        {
+          "name": "Chibi Ichigo",
+          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
+        },
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "duration_ms": 241957,
+      "name": "ENERGIE",
+      "url": "https://open.spotify.com/track/3GeYpZcJMoSraXaiKG4yqq"
+    },
+    {
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "IN THE HILLS//IN DE WEIDE",
         "url": "https://open.spotify.com/album/5pGOZmnzL3j5Y5cKoDk0u3"
@@ -25,7 +45,23 @@
       "url": "https://open.spotify.com/track/3JjcRAnlWFHCXR0zrV7gE5"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
+      "album": {
+        "name": "Peachy Free",
+        "url": "https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94"
+      },
+      "artists": [
+        {
+          "name": "BEA1991",
+          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+        }
+      ],
+      "duration_ms": 154051,
+      "name": "Peachy Free",
+      "url": "https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2"
+    },
+    {
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Sterrenlopen (met S10)",
         "url": "https://open.spotify.com/album/2r3iyljpsMTEOMmTVdVJYJ"
@@ -45,23 +81,7 @@
       "url": "https://open.spotify.com/track/7yrvzTfOAxtB4UkUnizn1X"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
-      "album": {
-        "name": "Peachy Free",
-        "url": "https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94"
-      },
-      "artists": [
-        {
-          "name": "BEA1991",
-          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
-        }
-      ],
-      "duration_ms": 154051,
-      "name": "Peachy Free",
-      "url": "https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2"
-    },
-    {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Kop In The Sand",
         "url": "https://open.spotify.com/album/3lRqcRvlYbaqK65LTnUZno"
@@ -77,7 +97,7 @@
       "url": "https://open.spotify.com/track/4XCw1TmwEKcU2rbUQAvSNk"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Nog Steeds Dezelfde",
         "url": "https://open.spotify.com/album/2BJ4ZpdRnUagLr4xRfNgmQ"
@@ -97,7 +117,7 @@
       "url": "https://open.spotify.com/track/0F4hPNXDZHw79Vxxxklcl6"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Vijver",
         "url": "https://open.spotify.com/album/10i1NxqMsxbSPqjosPb6AG"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/0nxo2TJxgC0hd8wMvlzXon"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Little Time",
         "url": "https://open.spotify.com/album/3ejpXw3IeeMoaTTgm0KIoA"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/1WaQsiZuSKdjVx0NTrnpOX"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Unlocked",
         "url": "https://open.spotify.com/album/3saGtz3MzM4dWtHT2t11uj"
@@ -145,7 +165,7 @@
       "url": "https://open.spotify.com/track/4OnJJB3lwl1fnPGrDQlbzy"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "I Wish I Knew",
         "url": "https://open.spotify.com/album/1eKElfchc2K5pjz0JkH6b8"
@@ -165,7 +185,7 @@
       "url": "https://open.spotify.com/track/1JDWUdfpi7lEm39hTuEuh0"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Waiting On You (Recorded Live)",
         "url": "https://open.spotify.com/album/48gFbqIM1Q8LQMAAfNC4hK"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/4YRPoV5sVEWaIwbyOBrQMx"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/6rD5BrQ8q6A1Uw9aIoRgMt"
@@ -197,7 +217,7 @@
       "url": "https://open.spotify.com/track/37E6beg4rfSVrJh5XHTad7"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Onverwachte Visite",
         "url": "https://open.spotify.com/album/7sylTYO4m4ccNyQd6zWFeX"
@@ -213,7 +233,7 @@
       "url": "https://open.spotify.com/track/2M4ullZOgWZWSovqHslHG4"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Marathon I",
         "url": "https://open.spotify.com/album/4bvQPPSsD0iGIjqf1OYEu5"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/5VBT9JcgyoBvM7Uau4X57d"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/7L161NHfeg5E3dHOvr5GZ0"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/7KEYsxeFYN0ruMY6sGNdtf"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "The Observer",
         "url": "https://open.spotify.com/album/0F4ukdM899G7C49k0SBWL2"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/6f6qL5EOxhStjbxy4mSbfQ"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Time for Love",
         "url": "https://open.spotify.com/album/5la69AsSpd40RNEmgojJ3p"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/4wCYpfVP2qRSYB4OO5q8FC"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Silent Treatment",
         "url": "https://open.spotify.com/album/5LO6ze68qvFSZA9G8X5HVX"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/3Kfm28drfcq4sugyWsvIyd"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "I Don't Care Tonight",
         "url": "https://open.spotify.com/album/4WZaOHiKK6GLGimpLPHZC3"
@@ -321,7 +341,7 @@
       "url": "https://open.spotify.com/track/6kZwi3zqzCwVejpjYfIaOa"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "excuses",
         "url": "https://open.spotify.com/album/3WS0r3RjStJi2DIYioq6QW"
@@ -337,7 +357,7 @@
       "url": "https://open.spotify.com/track/1rB3CxWVX9GlNIfLoIuLXb"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "VERFBOMMENVERF",
         "url": "https://open.spotify.com/album/7aKZV7ORfgsplHnJfchgTf"
@@ -353,7 +373,7 @@
       "url": "https://open.spotify.com/track/5a8XU0IawHs3qtkET6LiK0"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Zonder",
         "url": "https://open.spotify.com/album/1yPgri8VVGPHaHoI8Mc18h"
@@ -369,7 +389,7 @@
       "url": "https://open.spotify.com/track/4ZMYnbAOkyOIhfuA0hHHq0"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Into Your Head",
         "url": "https://open.spotify.com/album/1YgODoJinZO2aL2Zhqtv6r"
@@ -385,7 +405,7 @@
       "url": "https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Scheef",
         "url": "https://open.spotify.com/album/3KwnniiGH4XmOs5FQgIoSp"
@@ -401,7 +421,7 @@
       "url": "https://open.spotify.com/track/2vMHhWv9bIS2IpVcwALlKZ"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag",
         "url": "https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/2jXsjXKDneBlnppUhdaaKC"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Golvend Water",
         "url": "https://open.spotify.com/album/3rqmnLiK024NpId3HhxkdB"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/11WNquIczwWq8t8utMQpae"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt",
         "url": "https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3"
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/0xKKs27xVmFug8P9bHYyFy"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "MEISJE IN WIT",
         "url": "https://open.spotify.com/album/53Qe59ywnVMSrmOo9ofV3U"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/4HQBvGxtBz3R0C7gcUsVH0"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Fractalnoia",
         "url": "https://open.spotify.com/album/1wlYADby49rptkaWPxVoip"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/4EAG6m9bVVbX8d3tAfqlUv"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Vanavond",
         "url": "https://open.spotify.com/album/5PpFQHdoDf04BYHH29Rtwy"
@@ -501,7 +521,7 @@
       "url": "https://open.spotify.com/track/5bNXaDNh0p6qQk1CWs9tVO"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Bee Suits",
         "url": "https://open.spotify.com/album/61pNm3k80rVB8Iqr8sfTfQ"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/5o3Hynwzaxw5H619v2VLUB"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Simpel Leven",
         "url": "https://open.spotify.com/album/32Xek93X7KcaeoMN81bY24"
@@ -537,7 +557,7 @@
       "url": "https://open.spotify.com/track/09wSw0pOVBJWW7Q7nuXvAB"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Het Niets",
         "url": "https://open.spotify.com/album/5qUBj35J2gbHxtnX8lbAZL"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/5YYGua7TW1KjqjqDO0EjqJ"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Child Of Sin",
         "url": "https://open.spotify.com/album/1GUJ68BpXPPp98eAMzLT6N"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/3ASAvmNlhz4VYt5iUApaHc"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Bloed In Mijn Bloed",
         "url": "https://open.spotify.com/album/6imc4krabQCDfV7AcOvoth"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/5UuvuYtxL6z5h5g02XTcs3"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "GODSPEED",
         "url": "https://open.spotify.com/album/5PznlTVFdnmXyp34K4iJjI"
@@ -617,7 +637,7 @@
       "url": "https://open.spotify.com/track/6mWi1D3usqO9JSFTqZWUuZ"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Into Your Head",
         "url": "https://open.spotify.com/album/2mhAyi89acxMmBxj8hdWj4"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/5VY9wxhKgJJula88AQVOei"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Als Je Me Loslaat",
         "url": "https://open.spotify.com/album/19zvB5ueqojjM90lILpZ9M"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/1Tml6FZEX7iOYZAn6Qc3Wl"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "I Found",
         "url": "https://open.spotify.com/album/450H51CyucEN9AHiIrTUHp"
@@ -669,7 +689,7 @@
       "url": "https://open.spotify.com/track/7BqGd98KWC3b5GGx1wEQ2V"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Longing",
         "url": "https://open.spotify.com/album/5sqMOHMgo59ybNc2XXuoM8"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/2U7WtnPe5yrL8Om5Ml6P3v"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Woman Life Freedom",
         "url": "https://open.spotify.com/album/4GB69MswlOepsu21T0NqUF"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/4pbNBY48GTfZ16X4jJxba5"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Lone Wolf",
         "url": "https://open.spotify.com/album/7aZrOpAP0SwCCIdcuOiqHI"
@@ -721,7 +741,7 @@
       "url": "https://open.spotify.com/track/1l6NJ79m7VMHl1RQobwsmk"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Afstand",
         "url": "https://open.spotify.com/album/6huHJqUrttdNj15htCDjp9"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/45RziHZ3kb4hZvu15keuPx"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Honeycomb Shades",
         "url": "https://open.spotify.com/album/7omXNhCNZQn5DFs0kSjoY9"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/43Bumpxqzt5AsQjSZWcp8A"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/4e2ipO4RcYGGHXf0eBgAnR"
@@ -769,7 +789,7 @@
       "url": "https://open.spotify.com/track/3rh3cFQpZzkK61kupGoY2C"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Under Wishing Stars",
         "url": "https://open.spotify.com/album/2TbvOuz2VmxIw4B5Td6MK1"
@@ -785,7 +805,7 @@
       "url": "https://open.spotify.com/track/2Kb0J8N4AG9Nn6Ew5bcEXv"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/1Dqh45Fe2oprowuhSOFSmb"
@@ -809,7 +829,7 @@
       "url": "https://open.spotify.com/track/2aAdRmDXH07MGLmyd37xIp"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Director in the Dark",
         "url": "https://open.spotify.com/album/7xGrjVZEtkqUNEg0uZyknt"
@@ -825,7 +845,7 @@
       "url": "https://open.spotify.com/track/2iOtTIQJOuGzr9Go2rPDNp"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "UI",
         "url": "https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL"
@@ -841,7 +861,7 @@
       "url": "https://open.spotify.com/track/50tVoG8Nxgm306HKSiwYZV"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Step by Step",
         "url": "https://open.spotify.com/album/3H3mpuzo9kD19lsgg7MfBV"
@@ -857,7 +877,7 @@
       "url": "https://open.spotify.com/track/6VqudE83bSLJyorHfESAEw"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Click Work Drop (Ineffekt Remix)",
         "url": "https://open.spotify.com/album/5TrmHegiihRyXcd3i8O4ah"
@@ -877,7 +897,7 @@
       "url": "https://open.spotify.com/track/2CAzwfDMr6Vxi7tOHa4j5X"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Pelechian",
         "url": "https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g"
@@ -893,7 +913,7 @@
       "url": "https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Paranoid Sleeping",
         "url": "https://open.spotify.com/album/2g9SWINLRnk2vH0cIJEkqt"
@@ -909,7 +929,7 @@
       "url": "https://open.spotify.com/track/1asK6lxYBYVJwzavweery9"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Where Nothing Lives",
         "url": "https://open.spotify.com/album/4hftnqNfW3ZwZKoGpgehEV"
@@ -925,7 +945,7 @@
       "url": "https://open.spotify.com/track/6ofdXDYZi0FlGADmT8GXLM"
     },
     {
-      "added_at": "2023-09-22 08:43:00",
+      "added_at": "2023-09-29 10:15:29",
       "album": {
         "name": "Little Girl",
         "url": "https://open.spotify.com/album/1RYifRrTMcLIrGKOxTyt6N"
@@ -939,22 +959,6 @@
       "duration_ms": 169484,
       "name": "Little Girl",
       "url": "https://open.spotify.com/track/78JPkgiUKtPk16rgVwzwId"
-    },
-    {
-      "added_at": "2023-09-22 08:43:00",
-      "album": {
-        "name": "Crowning Gods",
-        "url": "https://open.spotify.com/album/3kC8B6AG2U2xrKNJYfj7f5"
-      },
-      "artists": [
-        {
-          "name": "XILLAN",
-          "url": "https://open.spotify.com/artist/4NTqnS8zPIpfzdNBcqK8Ly"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Our Time Is Here",
-      "url": "https://open.spotify.com/track/3sDLHJgIDP1q2IYnEQjMWq"
     }
   ],
   "unique_name": "karakter.",

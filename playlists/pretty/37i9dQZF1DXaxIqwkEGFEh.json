@@ -1,28 +1,28 @@
 {
-  "description": "Strictly for the streets. Cover: Gunna",
-  "num_followers": 1189661,
+  "description": "Strictly for the streets. Cover: Lil Durk",
+  "num_followers": 1189793,
   "original_name": "Out The Mud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWRhNjcwMDIzZTc3Njc5MThmMDBiNDU0ODNlY2IyZjZlNjJlMTIy",
+  "snapshot_id": "MCxiZjNhYThmNmJjOWJjYjQ5MzM2YTgzNWNlNzQ4ZmJmMzBmMGQ0MTFl",
   "tracks": [
     {
-      "added_at": "2023-06-16 04:00:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+        "name": "F*ck U Thought",
+        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+      "duration_ms": 198000,
+      "name": "F*ck U Thought",
+      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
     },
     {
       "added_at": "2023-07-28 04:25:24",
@@ -45,6 +45,42 @@
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
     },
     {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-09-29 18:55:39",
+      "album": {
+        "name": "SHAQ & KOBE",
+        "url": "https://open.spotify.com/album/4oekX6V7nkvYhjnbNSO7uA"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 219617,
+      "name": "SHAQ & KOBE",
+      "url": "https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6"
+    },
+    {
       "added_at": "2023-06-30 04:01:00",
       "album": {
         "name": "First Day Out (Freestyle)",
@@ -61,38 +97,6 @@
       "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "F*ck U Thought",
-        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "F*ck U Thought",
-      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "FAN",
-        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "FAN",
-      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "No Fake Love",
@@ -107,26 +111,6 @@
       "duration_ms": 146976,
       "name": "No Fake Love",
       "url": "https://open.spotify.com/track/7cUTJwL4pZiD3oTr5bKQSg"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "EL TORO 2",
-        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
-        }
-      ],
-      "duration_ms": 129593,
-      "name": "A MOMENT WITH GOTTI (FEAT. YO GOTTI)",
-      "url": "https://open.spotify.com/track/58Oj2g9GDO4xYKrtgDNeUv"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -149,48 +133,64 @@
       "url": "https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw"
     },
     {
-      "added_at": "2023-09-15 04:01:00",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Hellcats SRTs 2 (with Lil Durk)",
-        "url": "https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0"
+        "name": "Turn Yo Clic Up (feat. Future)",
+        "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 165863,
-      "name": "Hellcats SRTs 2 (with Lil Durk)",
-      "url": "https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc"
+      "duration_ms": 230835,
+      "name": "Turn Yo Clic Up (feat. Future)",
+      "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-09-29 18:55:39",
       "album": {
-        "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
-        "url": "https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34"
+        "name": "ISSA PARTY (feat. BabyDrill)",
+        "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
       },
       "artists": [
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         },
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "ISSA PARTY (feat. BabyDrill)",
+      "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
+    },
+    {
+      "added_at": "2023-09-29 18:55:39",
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         },
         {
           "name": "CMG The Label",
           "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
         }
       ],
-      "duration_ms": 151272,
-      "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
-      "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
+      "duration_ms": 156387,
+      "name": "Bae (42 Dugg)",
+      "url": "https://open.spotify.com/track/391Fi42HNOsMuQPnpfVNfm"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -213,6 +213,94 @@
       "url": "https://open.spotify.com/track/5u8m1YQAVoyu5k81b5DWvr"
     },
     {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "EL TORO 2",
+        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "duration_ms": 129593,
+      "name": "A MOMENT WITH GOTTI (FEAT. YO GOTTI)",
+      "url": "https://open.spotify.com/track/58Oj2g9GDO4xYKrtgDNeUv"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Got Me Hot",
+        "url": "https://open.spotify.com/album/39yoVq03KDoIDijiyMHZ3j"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "duration_ms": 170748,
+      "name": "Got Me Hot",
+      "url": "https://open.spotify.com/track/5KGRNJjSz2SFRz2tAZRbxB"
+    },
+    {
+      "added_at": "2023-09-29 18:55:39",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5vZ7xRju0A737ghh0n10cZ"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "duration_ms": 132220,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/1fFg0KgrMwxTdIsO4bTd9S"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "FAN",
+        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "FAN",
+      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Hellcats SRTs 2 (with Lil Durk)",
+        "url": "https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 165863,
+      "name": "Hellcats SRTs 2 (with Lil Durk)",
+      "url": "https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc"
+    },
+    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "Bonecrusher (feat. Key Glock)",
@@ -233,6 +321,34 @@
       "url": "https://open.spotify.com/track/3DmurtaoUILQC8e4XMPW4K"
     },
     {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Bent",
+        "url": "https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "duration_ms": 170267,
+      "name": "Bent",
+      "url": "https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w"
+    },
+    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "Welcome To Bubba Land",
@@ -247,22 +363,6 @@
       "duration_ms": 148645,
       "name": "Bubba Man",
       "url": "https://open.spotify.com/track/03Z1yhSewsReSk6a5GBZOh"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Got Me Hot",
-        "url": "https://open.spotify.com/album/39yoVq03KDoIDijiyMHZ3j"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        }
-      ],
-      "duration_ms": 170748,
-      "name": "Got Me Hot",
-      "url": "https://open.spotify.com/track/5KGRNJjSz2SFRz2tAZRbxB"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -289,24 +389,20 @@
       "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Turn Yo Clic Up (feat. Future)",
-        "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/2C3DJlTvAPNU20L0HhUug7"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
         }
       ],
-      "duration_ms": 230835,
-      "name": "Turn Yo Clic Up (feat. Future)",
-      "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
+      "duration_ms": 116755,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/4xWMEQ524bQkqVcI5ZC3HS"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -333,58 +429,6 @@
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
     },
     {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "No Amiris",
-        "url": "https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi"
-      },
-      "artists": [
-        {
-          "name": "Peezy",
-          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 146623,
-      "name": "No Amiris",
-      "url": "https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Gangsta Lean",
-        "url": "https://open.spotify.com/album/0dy9A6nscVVldqXuWDgREB"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        }
-      ],
-      "duration_ms": 129160,
-      "name": "Gangsta Lean",
-      "url": "https://open.spotify.com/track/0EFY0o5DqcD8n7JKDtfgf9"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Snowman",
-        "url": "https://open.spotify.com/album/2C3DJlTvAPNU20L0HhUug7"
-      },
-      "artists": [
-        {
-          "name": "Icewear Vezzo",
-          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
-        }
-      ],
-      "duration_ms": 116755,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/4xWMEQ524bQkqVcI5ZC3HS"
-    },
-    {
       "added_at": "2023-06-10 21:00:28",
       "album": {
         "name": "Johnny Dang (with Paul Wall & DRODi)",
@@ -407,6 +451,78 @@
       "duration_ms": 192000,
       "name": "Johnny Dang (with Paul Wall & DRODi)",
       "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "BEEZY",
+        "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "TRY & SEE (feat. G Herbo & Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh"
+    },
+    {
+      "added_at": "2023-09-29 18:55:39",
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Overstood (GloRilla)",
+      "url": "https://open.spotify.com/track/3Kvlx0keyt38EpBFlJkNv5"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Mama (with Skilla Baby & Tay B)",
+        "url": "https://open.spotify.com/album/1XwVNB9mqxR00Wbj34mnn3"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "Mama (with Skilla Baby & Tay B)",
+      "url": "https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -449,24 +565,84 @@
       "url": "https://open.spotify.com/track/3Mlcjjz7jwTyNcb1mP7qsI"
     },
     {
-      "added_at": "2023-09-15 04:01:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "BRRR B (feat. Gucci Mane)",
-        "url": "https://open.spotify.com/album/1pSmiBc3J2Ty2HKvn3QGPq"
+        "name": "No Amiris",
+        "url": "https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi"
       },
       "artists": [
         {
-          "name": "Brezden",
-          "url": "https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt"
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
         },
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
         }
       ],
-      "duration_ms": 204050,
-      "name": "BRRR B (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/0h4RTOJWacHhYBXBzPbL2q"
+      "duration_ms": 146623,
+      "name": "No Amiris",
+      "url": "https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Gangsta Lean",
+        "url": "https://open.spotify.com/album/0dy9A6nscVVldqXuWDgREB"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "duration_ms": 129160,
+      "name": "Gangsta Lean",
+      "url": "https://open.spotify.com/track/0EFY0o5DqcD8n7JKDtfgf9"
+    },
+    {
+      "added_at": "2023-09-29 18:55:39",
+      "album": {
+        "name": "Can\u2019t Go To Jail (feat. Sett, YTB Fatt)",
+        "url": "https://open.spotify.com/album/2Uy1P0pcu8zJ9ftouq4NWf"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "Sett",
+          "url": "https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "duration_ms": 145203,
+      "name": "Can\u2019t Go To Jail (feat. Sett, YTB Fatt)",
+      "url": "https://open.spotify.com/track/092AkJoxUPmg2OH5TyjGKn"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Been One",
+        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 203679,
+      "name": "Real Type (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/0iy3qv2NVOglVSz3w95QfT"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -483,6 +659,46 @@
       "duration_ms": 148706,
       "name": "Presidential Rolex",
       "url": "https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe"
+    },
+    {
+      "added_at": "2023-09-29 18:55:39",
+      "album": {
+        "name": "Whatchamacallit (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4OWtS7Ahtsh2foaV4gDMZZ"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 158412,
+      "name": "Whatchamacallit (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/2MjhK44oBBWTwCEyKGFny3"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -557,6 +773,26 @@
       "url": "https://open.spotify.com/track/1UuEqB02onXOpwc3jK5LFU"
     },
     {
+      "added_at": "2023-09-29 18:55:39",
+      "album": {
+        "name": "Only Problem (feat. 03 Greedo)",
+        "url": "https://open.spotify.com/album/7LJ6WRQDtiDVmFhHzuAju6"
+      },
+      "artists": [
+        {
+          "name": "R3 DA Chilliman",
+          "url": "https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "duration_ms": 219888,
+      "name": "Only Problem (feat. 03 Greedo)",
+      "url": "https://open.spotify.com/track/6EVKc55QmVwABXU7cnH7DL"
+    },
+    {
       "added_at": "2023-08-25 04:01:00",
       "album": {
         "name": "There I Go (feat. J. Cole & Mike WiLL Made-It)",
@@ -601,6 +837,22 @@
       "url": "https://open.spotify.com/track/7vlvtegZco6Jr9oKTLkVt2"
     },
     {
+      "added_at": "2023-09-29 18:55:39",
+      "album": {
+        "name": "I'm Alright",
+        "url": "https://open.spotify.com/album/7GgLBFfOfLWWAfc2JHuqiM"
+      },
+      "artists": [
+        {
+          "name": "Dee Watkins",
+          "url": "https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3"
+        }
+      ],
+      "duration_ms": 156212,
+      "name": "I'm Alright",
+      "url": "https://open.spotify.com/track/04ozGXjtrjK6cvnzuA0juQ"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Gang Time",
@@ -619,22 +871,6 @@
       "duration_ms": 134666,
       "name": "Gang Time",
       "url": "https://open.spotify.com/track/6oOO3Kok03oEsXRrWcKff3"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Can\u2019t Go To Jail",
-        "url": "https://open.spotify.com/album/45sHVXRiTHH5o4KkIGiQld"
-      },
-      "artists": [
-        {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
-        }
-      ],
-      "duration_ms": 118904,
-      "name": "Can\u2019t Go To Jail",
-      "url": "https://open.spotify.com/track/1Xq5iwsvGxJ7SOaX5LdQc3"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -669,52 +905,52 @@
       "url": "https://open.spotify.com/track/6LkUoldwZphq2VaNRHUq5N"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "BEEZY",
-        "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
+        "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+        "url": "https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34"
       },
       "artists": [
         {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         },
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         },
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
         }
       ],
-      "duration_ms": 187880,
-      "name": "TRY & SEE (feat. G Herbo & Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh"
+      "duration_ms": 151272,
+      "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
+      "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
     },
     {
-      "added_at": "2023-06-30 04:01:00",
+      "added_at": "2023-07-28 04:25:24",
       "album": {
-        "name": "Been One",
-        "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 203679,
-      "name": "Real Type (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/0iy3qv2NVOglVSz3w95QfT"
+      "duration_ms": 223173,
+      "name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
+      "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -868,6 +1104,10 @@
           "url": "https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq"
         },
         {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        },
+        {
           "name": "K Carbon",
           "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
         },
@@ -883,30 +1123,6 @@
       "duration_ms": 177000,
       "name": "Wrong One (with Gloss Up & Slimeroni feat. K Carbon, Aleza, Tay Keith)",
       "url": "https://open.spotify.com/track/52WoZbGVLrEW0w6AGT9wNS"
-    },
-    {
-      "added_at": "2023-07-28 04:25:24",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
-      "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1037,6 +1253,26 @@
       "url": "https://open.spotify.com/track/4TvpN52tawjwsilh1WA6jf"
     },
     {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "BRRR B (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/1pSmiBc3J2Ty2HKvn3QGPq"
+      },
+      "artists": [
+        {
+          "name": "Brezden",
+          "url": "https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 204050,
+      "name": "BRRR B (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/0h4RTOJWacHhYBXBzPbL2q"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Smooth",
@@ -1105,22 +1341,6 @@
       "url": "https://open.spotify.com/track/06TbA8MtNeWZ7HKZlToTqw"
     },
     {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Day I Got Shot",
-        "url": "https://open.spotify.com/album/0lz246QSLrOp5EAE7wfbNG"
-      },
-      "artists": [
-        {
-          "name": "Lil Nuu",
-          "url": "https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE"
-        }
-      ],
-      "duration_ms": 168925,
-      "name": "Day I Got Shot",
-      "url": "https://open.spotify.com/track/5tSNezeNAkfObxNhlTqhXd"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "I Can't Lie (with Kodak Black) [Versions]",
@@ -1143,30 +1363,6 @@
       "duration_ms": 186453,
       "name": "I Can't Lie (with Kodak Black)",
       "url": "https://open.spotify.com/track/3VLsdzHOFM9pyn79QTjiGJ"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Mama (with Skilla Baby & Tay B)",
-        "url": "https://open.spotify.com/album/1XwVNB9mqxR00Wbj34mnn3"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        },
-        {
-          "name": "Tay B",
-          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "Mama (with Skilla Baby & Tay B)",
-      "url": "https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1295,26 +1491,6 @@
       "duration_ms": 173347,
       "name": "Knowing (feat. BigWalkDog)",
       "url": "https://open.spotify.com/track/6tZkiw9Uw6kYQyINbsUCZV"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "All My Life (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 223878,
-      "name": "All My Life (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1565,34 +1741,6 @@
       "url": "https://open.spotify.com/track/6QK16yNsHLslPQLVHKVowM"
     },
     {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Bent",
-        "url": "https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL"
-      },
-      "artists": [
-        {
-          "name": "41",
-          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
-        },
-        {
-          "name": "Kyle Richh",
-          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
-        },
-        {
-          "name": "Jenn Carter",
-          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
-        },
-        {
-          "name": "TaTa",
-          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
-        }
-      ],
-      "duration_ms": 170267,
-      "name": "Bent",
-      "url": "https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w"
-    },
-    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Point Me 2 (with Cardi B)",
@@ -1649,22 +1797,6 @@
       "url": "https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc"
     },
     {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "I Promise",
-        "url": "https://open.spotify.com/album/2vGN8oGhj3VhW1Yl6MQkSZ"
-      },
-      "artists": [
-        {
-          "name": "BigWalkDog",
-          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
-        }
-      ],
-      "duration_ms": 146116,
-      "name": "I Promise",
-      "url": "https://open.spotify.com/track/03mlV0Vwgj3VsSCwOkdkrX"
-    },
-    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Heartless",
@@ -1683,22 +1815,6 @@
       "duration_ms": 166032,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/3NMpB1bl2kVyZSqMUN9F3I"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 137716,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/3TmwzKk7dOnMka3Q7NvGht"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1753,22 +1869,6 @@
       "url": "https://open.spotify.com/track/2nFrlrdIJG0mRi1rTWTLIx"
     },
     {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Cruise Control",
-        "url": "https://open.spotify.com/album/6SkmYSEQ3cVfg0GUWb8DcJ"
-      },
-      "artists": [
-        {
-          "name": "BiC Fizzle",
-          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Cruise Control",
-      "url": "https://open.spotify.com/track/0GonJIgkJpbneL2Ykeen0x"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "My Image",
@@ -1817,30 +1917,6 @@
       "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
     },
     {
-      "added_at": "2023-05-05 17:48:54",
-      "album": {
-        "name": "Off The Court (with Polo G & Einer Bankz)",
-        "url": "https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Einer Bankz",
-          "url": "https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR"
-        }
-      ],
-      "duration_ms": 193937,
-      "name": "Off The Court (with Polo G & Einer Bankz)",
-      "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
-    },
-    {
       "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Raw ASL",
@@ -1855,62 +1931,6 @@
       "duration_ms": 146075,
       "name": "Raw ASL",
       "url": "https://open.spotify.com/track/5lCXJ1n0JQPJM4SgSp054k"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 142437,
-      "name": "Motion God",
-      "url": "https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Pistolz & Pearlz",
-        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Lil Crix",
-          "url": "https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk"
-        }
-      ],
-      "duration_ms": 233597,
-      "name": "Dirt McGerk (feat. EST Gee & Lil Crix)",
-      "url": "https://open.spotify.com/track/2fVsxlNzZlTDmj0xQzooOb"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Glockoma 2",
-        "url": "https://open.spotify.com/album/6CStfhn3zZbyMbJ2o8CkkX"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 151080,
-      "name": "Chromosomes",
-      "url": "https://open.spotify.com/track/2Elyauqg6bZmGr0fr48nbQ"
     },
     {
       "added_at": "2023-06-09 04:00:00",

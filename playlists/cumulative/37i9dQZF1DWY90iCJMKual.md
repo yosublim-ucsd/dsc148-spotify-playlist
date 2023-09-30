@@ -4,7 +4,7 @@
 
 > vibe out w some 🇵🇭 R&B Cover: Denise Julia, Haven
 
-154 songs - 9 hr 5 min
+155 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Routine](https://open.spotify.com/track/36KV0cYK3Yp2RCs4bhrm3h) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Routine](https://open.spotify.com/album/5Ulkl1psrp9cElqaRNF5dB) | 3:26 | 2022-10-12 | 2023-07-29 |
 | [Runnin' Around](https://open.spotify.com/track/70kWaRixZM83Nh5zazGZHq) | [Austin Reine](https://open.spotify.com/artist/2jVVFmvJih0Myvu6FxQkvp), [LTD](https://open.spotify.com/artist/5sqYnMZWGPsvTH8pqzZ4SD), [CM Rosal](https://open.spotify.com/artist/4cTNBFExS8XBaznA30LRqr) | [Runnin' Around](https://open.spotify.com/album/6TVpWDZWHYVn0DSlW0T5V2) | 2:30 | 2022-10-12 | 2023-07-29 |
 | [Sa Iyo \- Diwata](https://open.spotify.com/track/4jqKGlGuRDxV1Eyah6Brw3) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF) | [Sa Iyo \(Diwata\)](https://open.spotify.com/album/0AsdvGRMxu6mbVzGHgb7jy) | 4:12 | 2022-10-12 | 2023-07-29 |
+| [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 | 2023-09-29 |  |
 | [Sabik](https://open.spotify.com/track/0NCkmYgdIkUd3iimgMHtfB) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Liwanag](https://open.spotify.com/album/3TvO2eqaYYjgzackJSY5rX) | 3:29 | 2022-10-12 | 2023-07-29 |
 | [SABLAY](https://open.spotify.com/track/2ch6UhuJXbSTIpFBZgsU66) | [No Boys Please](https://open.spotify.com/artist/457xF0tijqFkLW4d4hxqrC) | [SABLAY](https://open.spotify.com/album/7cKaus2PC0X7Rp1zY3p83M) | 3:49 | 2023-02-23 | 2023-07-29 |
 | [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 | 2023-08-30 |  |
@@ -150,7 +151,7 @@
 | [syf](https://open.spotify.com/track/65BmvLsQxNwcIlWyIDuHFe) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE) | [syf](https://open.spotify.com/album/1DQFkQPkf9cLxiIA7fnYAl) | 3:30 | 2023-04-06 |  |
 | [T\-Break](https://open.spotify.com/track/516epRJ6ppt3JwEuLPnAo1) | [Yzkk](https://open.spotify.com/artist/25KaeIB4BrH1WpOG5dIV0n) | [T\-Break](https://open.spotify.com/album/6V7gUiVauT1wRvfg6akvHc) | 4:33 | 2023-09-25 |  |
 | [Takaw Tingin](https://open.spotify.com/track/4N8ScJCglGFgpTnD39KFQF) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Takaw Tingin](https://open.spotify.com/album/2AAnmzyeMl25pWn3SHElA9) | 3:09 | 2023-06-13 |  |
-| [TALK](https://open.spotify.com/track/2F5Qkb1wJNnmQFQ3Edrzfb) | [dulai](https://open.spotify.com/artist/1DwP6HIWrPItZ3hmJkKxQ1), [leeza](https://open.spotify.com/artist/7KmrzNyuaqGPAVVXd9A0Nx) | [TALK](https://open.spotify.com/album/41cjmYpOgI1BKgiGLwJM44) | 2:24 | 2023-09-20 |  |
+| [TALK](https://open.spotify.com/track/2F5Qkb1wJNnmQFQ3Edrzfb) | [dulai](https://open.spotify.com/artist/1DwP6HIWrPItZ3hmJkKxQ1), [leeza](https://open.spotify.com/artist/7KmrzNyuaqGPAVVXd9A0Nx) | [TALK](https://open.spotify.com/album/41cjmYpOgI1BKgiGLwJM44) | 2:24 | 2023-09-20 | 2023-09-30 |
 | [This Time](https://open.spotify.com/track/388tsCjEc8Qd8zfDdkXMB6) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [a.v.d.i](https://open.spotify.com/artist/5PWqgLVse2O4ANi7UDk3nV) | [This Time](https://open.spotify.com/album/4N57PO4kgbTw8ndDQ2bf1L) | 3:33 | 2022-10-12 | 2023-07-29 |
 | [This Time](https://open.spotify.com/track/5L5AWDc2l60ERMyHcVEDvj) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [This Time](https://open.spotify.com/album/1XHoPyg3Dd7vjCMBmeNFnI) | 3:35 | 2023-09-25 |  |
 | [Thought Of U \- slowed & reverb](https://open.spotify.com/track/5fLQYQqxU84ZYuCz7h66vr) | [ApMontyy](https://open.spotify.com/artist/4Fme6fUX56OGZvgE55ph5E), [joey roque](https://open.spotify.com/artist/11MBKb57L3HI0dQneBD4In) | [Thought Of U \(slowed & reverb\)](https://open.spotify.com/album/2VTDr7UcQc1Xm0e2dXkohN) | 3:20 | 2022-10-12 | 2023-07-29 |

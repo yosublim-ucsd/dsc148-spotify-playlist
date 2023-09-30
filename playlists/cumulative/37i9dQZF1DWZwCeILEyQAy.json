@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Real Rap. All Pressure. Cover: BIA",
+  "description": "Real Rap. All Pressure. Cover: Glorilla",
   "name": "Pressure",
   "tracks": [
     {
@@ -330,6 +330,24 @@
       "duration_ms": 135866,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/6Ve9MNsl8OFg6rHd227bYh"
+    },
+    {
+      "album": {
+        "name": "ANYCIA",
+        "url": "https://open.spotify.com/album/6okuA3J3nELszcvyGYJxC9"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113609,
+      "name": "ANYCIA",
+      "url": "https://open.spotify.com/track/4yYtvbpIlsBujDgvzS5nA6"
     },
     {
       "album": {
@@ -1141,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3wTOyUsrPYyyByd6kMkZRn"
+      },
+      "artists": [
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167490,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/5t8FBhJKbpBCskmOaMRxQW"
+    },
+    {
+      "album": {
         "name": "Body Bag",
         "url": "https://open.spotify.com/album/7l4b8ZdtlttBwy38EMMwFS"
       },
@@ -1687,6 +1723,28 @@
     },
     {
       "album": {
+        "name": "Cheeeeks!",
+        "url": "https://open.spotify.com/album/587DhJBTkv14AzCKZgROF1"
+      },
+      "artists": [
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        },
+        {
+          "name": "Kenzo B",
+          "url": "https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "Cheeeeks!",
+      "url": "https://open.spotify.com/track/5apRfd6GUxvql93R74dDux"
+    },
+    {
+      "album": {
         "name": "Choosey",
         "url": "https://open.spotify.com/album/5TuXEia8HdUU3I1CIK5ldq"
       },
@@ -1934,7 +1992,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 238893,
       "name": "Coulda Been",
       "url": "https://open.spotify.com/track/4ol33zicTUvhVeJHEJiM9c"
@@ -2187,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Don't Deserve",
+        "url": "https://open.spotify.com/album/7qxkb6P8rBSqLQCSeXx3CP"
+      },
+      "artists": [
+        {
+          "name": "Kayla B",
+          "url": "https://open.spotify.com/artist/5yvTe64rt7c77FUaskqaCZ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Don't Deserve",
+      "url": "https://open.spotify.com/track/7xHL6p6qopTBWiS7ezvxLA"
+    },
+    {
+      "album": {
         "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
         "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
       },
@@ -2402,7 +2478,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 141125,
       "name": "Don\u2019t Like Me",
       "url": "https://open.spotify.com/track/6ULzrOfL5CveQ6U6duTPNm"
@@ -3532,7 +3608,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 153666,
       "name": "Hellcats SRTs",
       "url": "https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd"
@@ -4718,7 +4794,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 121573,
       "name": "Mama Freestyle",
       "url": "https://open.spotify.com/track/3K7hTeW53lBXo98JvXfzMs"
@@ -5412,7 +5488,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 169409,
       "name": "NOPE SHEMIX",
       "url": "https://open.spotify.com/track/66gLL5P1nkh31HXVwOYmuH"
@@ -5538,7 +5614,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 130560,
       "name": "Not Yours",
       "url": "https://open.spotify.com/track/5iW0mglqXLIZxvjZlONAmR"
@@ -6157,6 +6233,32 @@
     },
     {
       "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Pop It (GloRilla, Mike WiLL Made-It)",
+      "url": "https://open.spotify.com/track/0j1rvfvR1StaYrOaBLtj0a"
+    },
+    {
+      "album": {
         "name": "Pose",
         "url": "https://open.spotify.com/album/3jlbP9E8t5Wit8c3J7W79e"
       },
@@ -6620,7 +6722,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 177500,
       "name": "Repo",
       "url": "https://open.spotify.com/track/1ytLDMnOdihealBZwHtzGj"
@@ -8619,6 +8721,24 @@
     },
     {
       "album": {
+        "name": "Way Up!",
+        "url": "https://open.spotify.com/album/6c36BqvLIyeL5NEGt4o0EP"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146905,
+      "name": "Way Up!",
+      "url": "https://open.spotify.com/track/7mj1prKBTEisjBlahW1PSK"
+    },
+    {
+      "album": {
         "name": "We Not Humping",
         "url": "https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B"
       },
@@ -8964,6 +9084,28 @@
       "duration_ms": 137552,
       "name": "Wig Splitter",
       "url": "https://open.spotify.com/track/2VUZU4RAaSdIjnpKaWOVCW"
+    },
+    {
+      "album": {
+        "name": "Yea Yea",
+        "url": "https://open.spotify.com/album/2o8jRK4gRgKFnJKpRpKrMv"
+      },
+      "artists": [
+        {
+          "name": "Lady London",
+          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
+        },
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183834,
+      "name": "Yea Yea (with Dreezy)",
+      "url": "https://open.spotify.com/track/5vDaxi6wSFM79RSI8AWJFS"
     },
     {
       "album": {

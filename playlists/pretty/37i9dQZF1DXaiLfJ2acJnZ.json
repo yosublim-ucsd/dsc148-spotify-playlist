@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 41860,
+  "num_followers": 41889,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDM1OGE2YTk0YzZlNWEyYzY0NjU2ZDNiZGNkY2M4ZGE4ODY3YjE0",
+  "snapshot_id": "MCw0ZTllYWM5ZWZiNGYxZDgyZGI3NGVkM2MxNDZiYmJkNjhjYjQ2MTM2",
   "tracks": [
     {
       "added_at": "2023-09-12 15:27:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "That's Just The Way It Is, Babe",
         "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 208253,
       "name": "That\u2019s Just The Way It Is, Babe",
       "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Mountain",
-        "url": "https://open.spotify.com/album/3iRiuWFQaB6J31fqTl0oiw"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 169479,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/0uIjaOUqCKav7yJU4Lj2hB"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "MAMA'S EYES",
         "url": "https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 200199,
       "name": "MAMA'S EYES",
       "url": "https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "Mountain",
+        "url": "https://open.spotify.com/album/3iRiuWFQaB6J31fqTl0oiw"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 169479,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/0uIjaOUqCKav7yJU4Lj2hB"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 159490,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "I Just Came To Dance",
         "url": "https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 144950,
       "name": "I Just Came To Dance",
       "url": "https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 159490,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
-        "name": "Self-Portrait",
-        "url": "https://open.spotify.com/album/6knL6sodlU2l6vZKbD33e0"
-      },
-      "artists": [
-        {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
-        }
-      ],
-      "duration_ms": 141648,
-      "name": "Self-Portrait",
-      "url": "https://open.spotify.com/track/0vcCSUW0GskE8uN2xdj60f"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 155970,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
+        "name": "Self-Portrait",
+        "url": "https://open.spotify.com/album/6knL6sodlU2l6vZKbD33e0"
+      },
+      "artists": [
+        {
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
+        }
+      ],
+      "duration_ms": 141648,
+      "name": "Self-Portrait",
+      "url": "https://open.spotify.com/track/0vcCSUW0GskE8uN2xdj60f"
     },
     {
       "added_at": "2023-09-12 15:27:53",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-09-12 15:27:53",
       "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 229444,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
+    },
+    {
+      "added_at": "2023-09-12 15:27:53",
+      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 131793,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe"
-    },
-    {
-      "added_at": "2023-09-12 15:27:53",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 229444,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
     },
     {
       "added_at": "2023-09-12 15:27:53",

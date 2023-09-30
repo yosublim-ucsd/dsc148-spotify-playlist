@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-88 songs - 5 hr 21 min
+89 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [I'm Gonna Make Her Love Me](https://open.spotify.com/track/3r1NKEbMsxNuXhnODlHri5) | [Jim Ford](https://open.spotify.com/artist/24caHjJclAtCI8Ld7Az8l1) | [Harlan County](https://open.spotify.com/album/0IMnOYHqwO4SLT9Pe6U8PG) | 3:06 | 2021-02-17 |  |
 | [In the Night](https://open.spotify.com/track/0UYz2MYHwUSSquqdDIJc0j) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [In the Night](https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh) | 3:56 | 2021-02-17 |  |
 | [Long Way to Go](https://open.spotify.com/track/4Tb1Yf1e6tgimjLKPQhhOd) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Change the Whole Thing \(Deluxe Edition\)](https://open.spotify.com/album/4dUldCEXkgAezE5GYMeJMW) | 4:04 | 2021-02-17 |  |
-| [Me & Mr\. Hohner](https://open.spotify.com/track/0k9VIAEEjQqgZvM2s5mIpf) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Songs From Big Sur](https://open.spotify.com/album/5RbuMvlyR93a0t8yCNstn4) | 3:17 | 2021-02-17 |  |
+| [Me & Mr\. Hohner](https://open.spotify.com/track/0k9VIAEEjQqgZvM2s5mIpf) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Songs From Big Sur](https://open.spotify.com/album/5RbuMvlyR93a0t8yCNstn4) | 3:17 | 2021-02-17 | 2023-09-30 |
+| [Me & Mr\. Hohner](https://open.spotify.com/track/0aBjyU314IjwkRQcoOIuyH) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Songs From Big Sur](https://open.spotify.com/album/0WUR7j5vHwxr2FYPF9Z3qZ) | 3:19 | 2023-05-26 |  |
 | [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 4:39 | 2021-02-17 |  |
 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 | 2021-02-17 |  |
 | [My Love Will Not Change](https://open.spotify.com/track/0UIIgCWdaWgw7MnvHjyWgB) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [My Love Will Not Change](https://open.spotify.com/album/4UzPpqEh0vxcbDNF644Z5u) | 3:35 | 2021-02-17 |  |

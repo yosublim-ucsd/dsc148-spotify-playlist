@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,528 songs - 4 day 9 hr 13 min
+1,529 songs - 4 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [Gamelan Sunrise](https://open.spotify.com/track/4L4zKKS9t3IPSBC1xXdCLD) | [Frankie Shakes](https://open.spotify.com/artist/2mW6KkiUUZ5zYZEym6pYjd) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:07 | 2020-03-20 | 2022-04-20 |
 | [Garden Of 3Den \- Edit](https://open.spotify.com/track/1GuU6PQkEwhS6slsbuIKGz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Rowee](https://open.spotify.com/artist/1s7HL44LNzG6PoXFft90mx) | [Garden Of 3Den](https://open.spotify.com/album/5KiQODx1crAQYvlpbB6TJj) | 3:50 | 2021-01-11 | 2022-10-28 |
 | [gatelangs](https://open.spotify.com/track/5Z0XbrTSBsaWbuMovfOndY) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [gatelangs](https://open.spotify.com/album/4kIBVa3tKxLywE8IirmaT9) | 3:02 | 2020-03-16 | 2022-04-21 |
+| [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-29 |  |
 | [Gengis \- Edit](https://open.spotify.com/track/1pYSFtyZaRyP4bwazfm5cy) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Gengis](https://open.spotify.com/album/7lTn1zyy0duOEeypiqzmcr) | 3:51 | 2020-02-29\* | 2020-03-16 |
 | [Get Free \- Chrome Sparks Remix](https://open.spotify.com/track/2hINIqIvhaJ11bvcnS5v3d) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Get Free \(Chrome Sparks Remix\)](https://open.spotify.com/album/1kSZAR9Rgz73ovtAce4Wx5) | 4:20 | 2020-03-20 | 2020-10-09 |
 | [GG \- Monstergetdown Remix](https://open.spotify.com/track/5ItsigUl8EZKgECyY13DnK) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Monstergetdown](https://open.spotify.com/artist/1D3UqPAp0iBjhlFN2aBuYH) | [mau5ville: Level 2](https://open.spotify.com/album/1avRid1zaRK4UDSrwduIPX) | 6:31 | 2020-05-18 | 2020-07-18 |
@@ -541,7 +542,7 @@
 | [Gratitude](https://open.spotify.com/track/1UbHeLRVJMD6QEoEqscQWe) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Gratitude](https://open.spotify.com/album/0M9HU37Cgb23PgVh72o3ld) | 4:14 | 2022-09-09 | 2022-12-29 |
 | [Gratitude](https://open.spotify.com/track/3fY7n6r6Ky1OuFyf0qgE1O) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Gratitude](https://open.spotify.com/album/5Lff84RX5y2zZ6eIvv75vF) | 4:14 | 2021-03-27 | 2022-10-15 |
 | [Gratitude \- Sébastien Léger Remix \(Edit\)](https://open.spotify.com/track/0m1YhId2LT8OMqQ7CnkzD6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Marty Longstaff](https://open.spotify.com/artist/0JtMH7U9d7Z8pOSBz2U8Wn), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Gratitude \(Sébastien Léger Remix\)](https://open.spotify.com/album/4KoMuCqirpAf8ZY0ak8xB5) | 3:54 | 2022-08-05 | 2022-12-29 |
-| [Gravity](https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:29 | 2023-08-11 |  |
+| [Gravity](https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:29 | 2023-08-11 | 2023-09-30 |
 | [Gravity](https://open.spotify.com/track/5lDCOzLzBfCOj3y5w1NdOo) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Gravity](https://open.spotify.com/album/2kZN7G2OX9dEeQUIrPFxO8) | 4:29 | 2023-06-09 | 2023-08-12 |
 | [Green](https://open.spotify.com/track/3gv9RvcysirGAiaMWKZGmN) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Dreamhouse](https://open.spotify.com/album/5WyV1PmHey2iBiug9LWRb1) | 3:57 | 2020-05-18 | 2020-07-03 |
 | [Grid Search](https://open.spotify.com/track/16SVKYypol1hEicjvvg71Y) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:26 | 2021-09-24 | 2022-07-14 |

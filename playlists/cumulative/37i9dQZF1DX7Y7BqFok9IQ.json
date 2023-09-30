@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 171645,
       "name": "Fits Me Good",
       "url": "https://open.spotify.com/track/7KwwKbVp34XpxjRnnwBy0h"
@@ -2690,6 +2690,24 @@
       "duration_ms": 208909,
       "name": "Off the Shelf",
       "url": "https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN"
+    },
+    {
+      "album": {
+        "name": "Oh! That Bitches Brew",
+        "url": "https://open.spotify.com/album/1y3oh4duwhS5ZuWqc9hh6g"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209908,
+      "name": "Oh! That Bitches Brew",
+      "url": "https://open.spotify.com/track/61IrEhpwtItIV48ieuEOlN"
     },
     {
       "album": {

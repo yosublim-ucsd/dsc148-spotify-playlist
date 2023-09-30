@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-785 songs - 1 day 18 hr 38 min
+786 songs - 1 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Kasol](https://open.spotify.com/track/6NIFNHQ9wvzbgoNRXw9EHh) | [Pathan](https://open.spotify.com/artist/0EXLH9y04aZOr8xBYA57n7) | [Kasol](https://open.spotify.com/album/6PZtImBI5XPwGYhhO5wDDj) | 3:54 | 2022-02-28 | 2022-03-11 |
 | [Kathputli](https://open.spotify.com/track/2qzVqEem02pIQ1Ve8NaYRt) | [Bilas](https://open.spotify.com/artist/5mUpZHSWyK1sWIhS8CmpIU), [Ranjit Punia](https://open.spotify.com/artist/1RGC9rUEW1lMXV6RffwgD3), [Kaur Angle](https://open.spotify.com/artist/596dATWsc3F23ehSGUTcny) | [Kathputli](https://open.spotify.com/album/7iZjcF3srladjB42B9An84) | 4:04 | 2022-03-31 | 2022-04-06 |
 | [Keh Len De](https://open.spotify.com/track/3CHZhkihLupVrfYIyg869S) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Himanshi Khurana](https://open.spotify.com/artist/6JZPJPlOcGSQaVLQKJ1qQ3) | [Keh Len De](https://open.spotify.com/album/5XAtOSRyn0dDnrZBcjVQoi) | 2:30 | 2021-12-02 | 2022-04-06 |
+| [Kehkashan](https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:00 | 2023-09-29 |  |
 | [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-05 | 2022-09-16 |
 | [Khabbi Seat](https://open.spotify.com/track/4aK30RcFKxsiF1gjLlH5Gt) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Khabbi Seat](https://open.spotify.com/album/0Q0QRo49mBz9zs7KKdZYrG) | 3:24 | 2021-12-02 | 2022-04-29 |
 | [Khayaal](https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Khayaal](https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG) | 2:42 | 2023-05-11 |  |

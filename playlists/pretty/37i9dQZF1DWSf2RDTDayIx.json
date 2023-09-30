@@ -1,12 +1,12 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2290478,
+  "num_followers": 2291314,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTY1YThjMzYxNTA0ODQ3YzcyMTMxZTFhOGY4NWNkMWViMmU5MjI3",
+  "snapshot_id": "MCwwZTlmMzgwMzNmM2IxMGQ1OGNkZDlkYjBmZGNmY2U5OTdiYTM0NTU5",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 192614,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "The Music Began To Play",
         "url": "https://open.spotify.com/album/1RPFQ2LTLiHL7hxRwL8RZc"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 145984,
       "name": "The Music Began To Play",
       "url": "https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 192614,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Good Feeling (feat. Rhys Lewis)",
-        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 214942,
-      "name": "Good Feeling (feat. Rhys Lewis)",
-      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Shades Of Love (feat. The Joy)",
         "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 203520,
       "name": "Shades Of Love (feat. The Joy)",
       "url": "https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Good Feeling (feat. Rhys Lewis)",
+        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 214942,
+      "name": "Good Feeling (feat. Rhys Lewis)",
+      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Night Feels",
+        "url": "https://open.spotify.com/album/0TEbNZTuLr9F1rNvdchStD"
+      },
+      "artists": [
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 171448,
+      "name": "Night Feels",
+      "url": "https://open.spotify.com/track/6oELcspL4BONtElLhJfBPI"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Wake Up! (feat. Kaleta)",
         "url": "https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 232745,
       "name": "Wake Up! (feat. Kaleta)",
       "url": "https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Night Feels",
-        "url": "https://open.spotify.com/album/0TEbNZTuLr9F1rNvdchStD"
-      },
-      "artists": [
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 171448,
-      "name": "Night Feels",
-      "url": "https://open.spotify.com/track/6oELcspL4BONtElLhJfBPI"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Pyramids",
-        "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        },
-        {
-          "name": "Alex Aris",
-          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
-        }
-      ],
-      "duration_ms": 232682,
-      "name": "Pyramids",
-      "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Life's Too Short",
         "url": "https://open.spotify.com/album/7y2ZooIMvgEpB51V3R2qCm"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 211010,
       "name": "Life's Too Short",
       "url": "https://open.spotify.com/track/326yOKaTPs91elL1KW794F"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Pyramids",
+        "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        },
+        {
+          "name": "Alex Aris",
+          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
+        }
+      ],
+      "duration_ms": 232682,
+      "name": "Pyramids",
+      "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "In My Zone",
-        "url": "https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 161035,
-      "name": "In My Zone",
-      "url": "https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Pretty People (feat. INJI)",
         "url": "https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 149771,
       "name": "Pretty People (feat. INJI)",
       "url": "https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "In My Zone",
+        "url": "https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 161035,
+      "name": "In My Zone",
+      "url": "https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "I Knew It Was You",
-        "url": "https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        },
-        {
-          "name": "Lovespeake",
-          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
-        }
-      ],
-      "duration_ms": 175928,
-      "name": "I Knew It Was You",
-      "url": "https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
       },
@@ -2211,6 +2191,46 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/4RNoGz6yD2rrJpJ6Ze6Pa1"
+      },
+      "artists": [
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        }
+      ],
+      "duration_ms": 152068,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/5ugYo7xM632grP29JqjxZa"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "I Knew It Was You",
+        "url": "https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "duration_ms": 175928,
+      "name": "I Knew It Was You",
+      "url": "https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC"
       },
@@ -2231,26 +2251,6 @@
       "duration_ms": 239736,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/4RNoGz6yD2rrJpJ6Ze6Pa1"
-      },
-      "artists": [
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        },
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        }
-      ],
-      "duration_ms": 152068,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/5ugYo7xM632grP29JqjxZa"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Love You Back",
-        "url": "https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        }
-      ],
-      "duration_ms": 214103,
-      "name": "Love You Back",
-      "url": "https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Journey (Take Me Where You Wanna)",
         "url": "https://open.spotify.com/album/5bJKqcAVWifLUvDeJJOCju"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 193548,
       "name": "Journey (Take Me Where You Wanna)",
       "url": "https://open.spotify.com/track/19awxNpyrGWGkM6wT6ULEi"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Love You Back",
+        "url": "https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 214103,
+      "name": "Love You Back",
+      "url": "https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2451,26 +2451,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Loving You (feat. Katy Alex)",
-        "url": "https://open.spotify.com/album/4ZGda5kisgrlc4oRinvGTA"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        },
-        {
-          "name": "Katy Alex",
-          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
-        }
-      ],
-      "duration_ms": 180943,
-      "name": "Loving You (feat. Katy Alex)",
-      "url": "https://open.spotify.com/track/0pIlTYYCiY7FcTunLkEjUb"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Forever And A Day (Diplo Remix)",
         "url": "https://open.spotify.com/album/119iHl8DWQZweWR0vPEscK"
       },
@@ -2495,6 +2475,26 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Loving You (feat. Katy Alex)",
+        "url": "https://open.spotify.com/album/4ZGda5kisgrlc4oRinvGTA"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Katy Alex",
+          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
+        }
+      ],
+      "duration_ms": 180943,
+      "name": "Loving You (feat. Katy Alex)",
+      "url": "https://open.spotify.com/track/0pIlTYYCiY7FcTunLkEjUb"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "You've Got To Let Go If You Want To Be Free",
         "url": "https://open.spotify.com/album/7nJFzH65HZDY5qeRwdo421"
       },
@@ -2511,26 +2511,6 @@
       "duration_ms": 253786,
       "name": "You've Got To Let Go If You Want To Be Free",
       "url": "https://open.spotify.com/track/5kVXjAxYDkN57tZQi0JKya"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Long Summer Nights",
-        "url": "https://open.spotify.com/album/141USp9NDZaX6aICT4r4JV"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1"
-        },
-        {
-          "name": "Lilla Vargen",
-          "url": "https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j"
-        }
-      ],
-      "duration_ms": 174019,
-      "name": "Long Summer Nights",
-      "url": "https://open.spotify.com/track/0ccnGefiTLZYOdHTB7ut1D"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2559,6 +2539,26 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Long Summer Nights",
+        "url": "https://open.spotify.com/album/141USp9NDZaX6aICT4r4JV"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1"
+        },
+        {
+          "name": "Lilla Vargen",
+          "url": "https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j"
+        }
+      ],
+      "duration_ms": 174019,
+      "name": "Long Summer Nights",
+      "url": "https://open.spotify.com/track/0ccnGefiTLZYOdHTB7ut1D"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Feels EP",
         "url": "https://open.spotify.com/album/2SGuIvWlWhB2M7xKXbFm8F"
       },
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Turn Back Time",
-        "url": "https://open.spotify.com/album/6ISAjoZeji9okRE4icKBmB"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 181904,
-      "name": "Turn Back Time",
-      "url": "https://open.spotify.com/track/1AhiOzObMBqfonJDKtirj9"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "If We\u2019ll Ever Be Remembered",
         "url": "https://open.spotify.com/album/39oISAQPcYRNjQqKvYroME"
       },
@@ -2615,6 +2599,22 @@
       "duration_ms": 210505,
       "name": "If We\u2019ll Ever Be Remembered",
       "url": "https://open.spotify.com/track/6wnzt59p7i8cAyuWl1avwr"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Turn Back Time",
+        "url": "https://open.spotify.com/album/6ISAjoZeji9okRE4icKBmB"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 181904,
+      "name": "Turn Back Time",
+      "url": "https://open.spotify.com/track/1AhiOzObMBqfonJDKtirj9"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2655,30 +2655,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Wounded",
-        "url": "https://open.spotify.com/album/7xZ0s3f04T77DRVHJFtfjP"
-      },
-      "artists": [
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        },
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "Cara Mel\u00edn",
-          "url": "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
-        }
-      ],
-      "duration_ms": 191718,
-      "name": "Wounded",
-      "url": "https://open.spotify.com/track/3NQ2JBHK5OAzblu8z5KUVj"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Radio Active",
         "url": "https://open.spotify.com/album/0Bhfg7rjglzOrtRRxQRk79"
       },
@@ -2703,6 +2679,30 @@
       "duration_ms": 210440,
       "name": "Suenos Bravos",
       "url": "https://open.spotify.com/track/2tMIzKu3vXQzvbDShxjbmu"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Wounded",
+        "url": "https://open.spotify.com/album/7xZ0s3f04T77DRVHJFtfjP"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "Cara Mel\u00edn",
+          "url": "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
+        }
+      ],
+      "duration_ms": 191718,
+      "name": "Wounded",
+      "url": "https://open.spotify.com/track/3NQ2JBHK5OAzblu8z5KUVj"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2851,30 +2851,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Your Love Keeps Lifting Me Higher",
-        "url": "https://open.spotify.com/album/2b19uYnO6jSwzTrT221lyA"
-      },
-      "artists": [
-        {
-          "name": "Revival",
-          "url": "https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk"
-        },
-        {
-          "name": "Kathy Brown",
-          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
-        },
-        {
-          "name": "GeO Gospel Choir",
-          "url": "https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Your Love Keeps Lifting Me Higher",
-      "url": "https://open.spotify.com/track/7hLqii5dbwnwn3IiHt7k4D"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/6SQac4E5xZni4e9fWUhvUS"
       },
@@ -2895,6 +2871,30 @@
       "duration_ms": 190080,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/60BJPxGFaIFgZ47838KPVY"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Your Love Keeps Lifting Me Higher",
+        "url": "https://open.spotify.com/album/2b19uYnO6jSwzTrT221lyA"
+      },
+      "artists": [
+        {
+          "name": "Revival",
+          "url": "https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk"
+        },
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        },
+        {
+          "name": "GeO Gospel Choir",
+          "url": "https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Your Love Keeps Lifting Me Higher",
+      "url": "https://open.spotify.com/track/7hLqii5dbwnwn3IiHt7k4D"
     },
     {
       "added_at": "2023-08-25 04:00:00",

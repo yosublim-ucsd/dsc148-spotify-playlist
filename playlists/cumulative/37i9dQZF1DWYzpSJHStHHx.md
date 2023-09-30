@@ -4,7 +4,7 @@
 
 > All new surf rock.
 
-313 songs - 17 hr 40 min
+315 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 | 2021-04-13 | 2023-07-14 |
 | [Freaking Out The Neighborhood](https://open.spotify.com/track/0MgOsVty0YR1kas7x16yoS) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/0Skv3s5A99n7dstiJOs0aA) | 2:53 | 2021-02-05 | 2022-07-29 |
 | [Freaking Out the Neighborhood](https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 2:53 | 2022-07-22 |  |
-| [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2022-04-11 |  |
+| [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2022-04-11 | 2023-09-30 |
 | [French Press](https://open.spotify.com/track/3xuTjTxGkMVtxnHCAntxTs) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The French Press](https://open.spotify.com/album/0Jw4EgPOvlImh3GQ9ohxqn) | 5:26 | 2021-02-05 | 2022-07-29 |
 | [French Press](https://open.spotify.com/track/77RHNGjtLP4UlIb7FW1uOu) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The French Press](https://open.spotify.com/album/5k0144ExDJZEx03Pp7VeNn) | 5:26 | 2022-07-22 | 2023-03-02 |
 | [Friend of the Devil](https://open.spotify.com/track/5ZLzl6T8JwqMTMdoE0nCbU) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty](https://open.spotify.com/album/7rqgm1BnAZ8I4d6hukpkdg) | 3:21 | 2023-03-01 | 2023-07-14 |
@@ -191,6 +191,7 @@
 | [Not but for You, Bunny](https://open.spotify.com/track/2J2kGyvyVyOKEJgBCPE1oO) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg) | 4:02 | 2021-02-05 | 2022-07-29 |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2023-03-01 | 2023-07-14 |
 | [Nova Scotia 500](https://open.spotify.com/track/4r6nfH8MlWFLGXRpaNmfcv) | [Boyscott](https://open.spotify.com/artist/3WPt7OfKDirWGEDH9kHahw) | [Goose Bumps](https://open.spotify.com/album/3H46xs3eb7Ly4jQqZbQTJM) | 3:12 | 2023-05-22 |  |
+| [Obsession](https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Mushroom](https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu) | 3:25 | 2023-09-29 |  |
 | [On The Boulevard](https://open.spotify.com/track/7lWEi7r4v3XSwfUuDpIPFv) | [Ruby Cannon](https://open.spotify.com/artist/5Bm2GkImt8KBnUsXBwnco9) | [On The Boulevard](https://open.spotify.com/album/2cG3aIM9i7oEhEE8SawuuS) | 3:00 | 2023-07-13 |  |
 | [One Another](https://open.spotify.com/track/4xF9zRaPdnrLU7QmVMKOzR) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR) | 2:46 | 2021-02-05 | 2022-07-17 |
 | [One Another](https://open.spotify.com/track/5gC8P6NwgqxcTYnwml5q5j) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 2:46 | 2022-07-22 | 2023-03-02 |
@@ -294,6 +295,7 @@
 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 | 2021-02-05 | 2022-06-24 |
 | [unwind](https://open.spotify.com/track/69XCORenfXQeypvDU6dRYW) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [unwind](https://open.spotify.com/album/5TZGkQC8aNOoC6Y2jMQnkq) | 2:08 | 2023-05-26 | 2023-06-19 |
 | [Used To Surf](https://open.spotify.com/track/7CPhsiq8jRBePhgCWLcW5S) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Used To Surf](https://open.spotify.com/album/4RqKJoagzQi2jOvYl3S0FA) | 3:09 | 2023-08-18 |  |
+| [Valley Girl](https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh) | [The Burkharts](https://open.spotify.com/artist/0zvND4IqnGShzA7X47MIkp) | [Valley Girl](https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH) | 3:31 | 2023-09-29 |  |
 | [Valleys \(My Love\)](https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ) | 3:56 | 2023-05-22 | 2023-06-06 |
 | [Veni Vidi Vici](https://open.spotify.com/track/5Z5YEyR5i8V8Ui2e5jGAAm) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/5xyf2bbQjF0yONbosNl53M) | 2:28 | 2021-02-05 | 2022-04-21 |
 | [Waiting on Summer](https://open.spotify.com/track/4OhTbBrGmuUzMImkJrzGjC) | [Stuck in Vacation](https://open.spotify.com/artist/5EHeaLUHACalZ0bNp1MCQD) | [Waiting on Summer](https://open.spotify.com/album/7LKQyGMMUkgQfzysQxQd0Z) | 2:45 | 2021-08-27 | 2022-04-20 |

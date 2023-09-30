@@ -1,13 +1,45 @@
 {
-  "description": "Underground indie rock gems. Cover: zzzahara",
-  "num_followers": 289846,
+  "description": "Underground indie rock gems. Cover: Cherry Glazzerr ",
+  "num_followers": 289928,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWE3ZWEzMjg2ZDgwODZkZDUzZGRlMDk4Mjg0Yjc2ODI1MDhjZWIw",
+  "snapshot_id": "MCw0OTE4ZmIzZTcwNWE4MjJkZjU3OGVjMzhkMGRlMDQ5NjA1M2E4MWZi",
   "tracks": [
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "I Don't Want You Anymore",
+        "url": "https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/3O7ij6i8NmdxxmOrpHDVJV"
+    },
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
@@ -25,6 +57,22 @@
       "url": "https://open.spotify.com/track/61tq7exFoWDrsBsmPWehFg"
     },
     {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Pitbull",
+        "url": "https://open.spotify.com/album/7uYegA5tZ2wvo7GfDsgmbf"
+      },
+      "artists": [
+        {
+          "name": "Hana Eid",
+          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Pitbull",
+      "url": "https://open.spotify.com/track/7GerEWizPhfbNmWJgQOU5b"
+    },
+    {
       "added_at": "2023-09-15 04:01:00",
       "album": {
         "name": "Emergency Contact",
@@ -39,6 +87,22 @@
       "duration_ms": 302400,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/10vpOZNrtL8SF9CY1nJchQ"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/34V75CfwJ7raA6wjQDpKPb"
+      },
+      "artists": [
+        {
+          "name": "Mali Velasquez",
+          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
+        }
+      ],
+      "duration_ms": 289761,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/4sINCbrGzO8ycv5qkzxe7d"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -73,6 +137,22 @@
       "url": "https://open.spotify.com/track/4BlydDDroXNIgkbhrtuw3d"
     },
     {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "duration_ms": 156722,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "towncryer",
@@ -87,6 +167,22 @@
       "duration_ms": 396000,
       "name": "oblique butterfly",
       "url": "https://open.spotify.com/track/5dd9ebFTVkmdf0QH5DA6i9"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "shoelaces",
+        "url": "https://open.spotify.com/album/1iHBSEzbep9OWbgZaawGqh"
+      },
+      "artists": [
+        {
+          "name": "joey maxwell",
+          "url": "https://open.spotify.com/artist/24HpqK3rYuuJgdh2WkNtTq"
+        }
+      ],
+      "duration_ms": 179780,
+      "name": "shoelaces",
+      "url": "https://open.spotify.com/track/2cPndAZPxgZgXHPAT20xUE"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -119,22 +215,6 @@
       "duration_ms": 191277,
       "name": "Death Drive",
       "url": "https://open.spotify.com/track/3gtxS59vfzWAOne1AIonXw"
-    },
-    {
-      "added_at": "2023-08-25 00:32:05",
-      "album": {
-        "name": "Weird",
-        "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
-      },
-      "artists": [
-        {
-          "name": "Hana Eid",
-          "url": "https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr"
-        }
-      ],
-      "duration_ms": 216234,
-      "name": "Weird",
-      "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -171,22 +251,6 @@
     {
       "added_at": "2023-08-24 23:15:14",
       "album": {
-        "name": "Slugs",
-        "url": "https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Slugs",
-      "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
-    },
-    {
-      "added_at": "2023-08-24 23:15:14",
-      "album": {
         "name": "Pale Blue",
         "url": "https://open.spotify.com/album/21tRaGSWiv8i1d5PSQkBEr"
       },
@@ -215,6 +279,22 @@
       "duration_ms": 192000,
       "name": "natural devotion 2",
       "url": "https://open.spotify.com/track/126S4GL29vBOGJBcgIIvBu"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "With Me",
+        "url": "https://open.spotify.com/album/3ItpOcDRCMne7N7KFotDCQ"
+      },
+      "artists": [
+        {
+          "name": "Varsity",
+          "url": "https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/19oJeztertAs96nTXrkTNM"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -281,6 +361,22 @@
       "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
     },
     {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "PHD",
+        "url": "https://open.spotify.com/album/3clusQ6T8jI8LenvmGB15O"
+      },
+      "artists": [
+        {
+          "name": "Malice K",
+          "url": "https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI"
+        }
+      ],
+      "duration_ms": 117511,
+      "name": "PHD",
+      "url": "https://open.spotify.com/track/0MzNvq7rOR7zYfJcRf7Yzz"
+    },
+    {
       "added_at": "2023-09-15 04:01:00",
       "album": {
         "name": "SUICIDE SOCIAL",
@@ -343,6 +439,22 @@
       "duration_ms": 201579,
       "name": "Summer Windows",
       "url": "https://open.spotify.com/track/1KGQwsicpxAnfNmOvubfAP"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Hang Up the Lights",
+        "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "duration_ms": 160437,
+      "name": "Hang Up The Lights",
+      "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -475,22 +587,6 @@
       "duration_ms": 171428,
       "name": "BOTTOM FEEDER",
       "url": "https://open.spotify.com/track/4XBr4XoYKUe1ayGgnNtLyh"
-    },
-    {
-      "added_at": "2023-08-24 23:15:14",
-      "album": {
-        "name": "Happiness Is An 8 Ball",
-        "url": "https://open.spotify.com/album/7i1hMwr3Y3tYKMqajGbnWR"
-      },
-      "artists": [
-        {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
-        }
-      ],
-      "duration_ms": 151483,
-      "name": "Happiness Is An 8 Ball",
-      "url": "https://open.spotify.com/track/6uEQDaJJr9I7C0nM1iKseQ"
     },
     {
       "added_at": "2023-08-24 23:15:14",
@@ -915,22 +1011,6 @@
     {
       "added_at": "2023-08-24 23:15:14",
       "album": {
-        "name": "Screaming In The Rain Again",
-        "url": "https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 187686,
-      "name": "Screaming In The Rain Again",
-      "url": "https://open.spotify.com/track/0jsh4swhkkj6L4MAnwGWqS"
-    },
-    {
-      "added_at": "2023-08-24 23:15:14",
-      "album": {
         "name": "The Rainbow Wheel of Death",
         "url": "https://open.spotify.com/album/5HSwTNvgYwVtmma4mnTRXL"
       },
@@ -943,22 +1023,6 @@
       "duration_ms": 250253,
       "name": "High School Gym",
       "url": "https://open.spotify.com/track/087RIqgZWehk36IdWeAmxe"
-    },
-    {
-      "added_at": "2023-08-24 23:15:14",
-      "album": {
-        "name": "Mind Palace Music",
-        "url": "https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 146750,
-      "name": "Letters",
-      "url": "https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m"
     },
     {
       "added_at": "2023-08-24 23:15:14",
@@ -1007,22 +1071,6 @@
       "duration_ms": 173599,
       "name": "everything\u2019s been going so well",
       "url": "https://open.spotify.com/track/0jUES9RowBPL93yFO5jCWb"
-    },
-    {
-      "added_at": "2023-08-24 23:15:14",
-      "album": {
-        "name": "i think there's something wrong with joshy",
-        "url": "https://open.spotify.com/album/1iero6O9P7g7IFkY96TGU4"
-      },
-      "artists": [
-        {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
-        }
-      ],
-      "duration_ms": 108413,
-      "name": "new drugs",
-      "url": "https://open.spotify.com/track/3PkNZj1fGr6iUWMui8VjCi"
     },
     {
       "added_at": "2023-08-24 23:15:14",
@@ -1091,22 +1139,6 @@
       "duration_ms": 171493,
       "name": "Cramps",
       "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
-    },
-    {
-      "added_at": "2023-08-24 23:15:14",
-      "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 226660,
-      "name": "Sepsis",
-      "url": "https://open.spotify.com/track/5hSH7K2BAcdkDo4VRVreTo"
     },
     {
       "added_at": "2023-08-24 23:15:14",
@@ -1191,22 +1223,6 @@
     {
       "added_at": "2023-08-24 23:15:14",
       "album": {
-        "name": "Dream Woman",
-        "url": "https://open.spotify.com/album/57gpMvYPqs5ERNHqXb4C0X"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Cohen",
-          "url": "https://open.spotify.com/artist/1akKMgG2tm6Wgx83VmBSMy"
-        }
-      ],
-      "duration_ms": 261327,
-      "name": "Dream Woman",
-      "url": "https://open.spotify.com/track/7nmtN2pXRz86ooiPmZxztQ"
-    },
-    {
-      "added_at": "2023-08-24 23:15:14",
-      "album": {
         "name": "If We Keep Hangin Out",
         "url": "https://open.spotify.com/album/6mYRjhHUGo14Iy9GJhOvyr"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 139642,
       "name": "Antonio - Audiotree Live",
       "url": "https://open.spotify.com/track/0WSmQgW58Urx3P7TMg2A8h"
-    },
-    {
-      "added_at": "2023-08-24 23:15:14",
-      "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/1zbfbCs5iZhBMo2wP3L8vv"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        }
-      ],
-      "duration_ms": 173194,
-      "name": "Lip Service",
-      "url": "https://open.spotify.com/track/2rWPsijkCV8r3FfE3qinNJ"
     },
     {
       "added_at": "2023-08-24 23:15:14",

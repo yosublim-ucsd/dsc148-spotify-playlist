@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Lucky Brown & Jere Klein.",
+  "description": "Este Flow tiene otro Flow. Foto: Jere Klein.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -118,6 +118,28 @@
       "duration_ms": 200109,
       "name": "28",
       "url": "https://open.spotify.com/track/5jfDBp9jmQ9rfviQZSEGSW"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/6KDLws7nb97FLIZw1VHisk"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165318,
+      "name": "333",
+      "url": "https://open.spotify.com/track/5NlRqUTd4tv8AegeU7RW5x"
     },
     {
       "album": {
@@ -515,6 +537,28 @@
     },
     {
       "album": {
+        "name": "ANDO",
+        "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Gittobeatz",
+          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172774,
+      "name": "ANDO",
+      "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
+    },
+    {
+      "album": {
         "name": "Ando a Lo Matatan",
         "url": "https://open.spotify.com/album/1zd24VmmCrfG9B55UxGmnQ"
       },
@@ -692,7 +736,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 225319,
       "name": "ARROM\u00c1NTICA",
       "url": "https://open.spotify.com/track/6Nh3BBGqYkRtnWLsjrVKxk"
@@ -2658,7 +2702,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 187538,
       "name": "D\u00edmelo",
       "url": "https://open.spotify.com/track/0Xs6LkhnKfeE6mAB54kWNy"
@@ -2785,6 +2829,32 @@
     },
     {
       "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183373,
+      "name": "el \u00fanico tema del ferxxo",
+      "url": "https://open.spotify.com/track/0bqGzuG6lVVkrbLS04vJ6c"
+    },
+    {
+      "album": {
         "name": "Ella Me Llama",
         "url": "https://open.spotify.com/album/6CwNKcqOoJhZHYNsNXpcZn"
       },
@@ -2884,6 +2954,28 @@
       "duration_ms": 204334,
       "name": "En la Calle Haciendo Plata",
       "url": "https://open.spotify.com/track/1h1zUKvXzhr9xUQPYPzXaa"
+    },
+    {
+      "album": {
+        "name": "En Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/6PAk7gN1RevuoJJePiv9jW"
+      },
+      "artists": [
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "Chiko Mateo",
+          "url": "https://open.spotify.com/artist/04FQdhqGT65qQxFBetyTay"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "En Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5OYkT5TKoTkGJNYLG9WmIe"
     },
     {
       "album": {
@@ -3662,7 +3754,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 193927,
       "name": "Galactica",
       "url": "https://open.spotify.com/track/7xZWttBRQ4uQ9kit9Ue4KA"
@@ -4534,7 +4626,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 252244,
       "name": "La Bandida (Experimento 05)",
       "url": "https://open.spotify.com/track/6AVUQ0y15EwIE5ZiT28CcH"
@@ -5358,7 +5450,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 168792,
       "name": "Mala Fama",
       "url": "https://open.spotify.com/track/3sI2hA72K2mvoKIOvogbIq"
@@ -6252,6 +6344,28 @@
       "duration_ms": 218006,
       "name": "Mi Waxita",
       "url": "https://open.spotify.com/track/6phCM48H3WCQfy7MCYwy0A"
+    },
+    {
+      "album": {
+        "name": "Miles",
+        "url": "https://open.spotify.com/album/14AYMPUjDyrcCW1OHjUDT8"
+      },
+      "artists": [
+        {
+          "name": "Danger860",
+          "url": "https://open.spotify.com/artist/2RfIqXUvTGOi0cvQNQtMpO"
+        },
+        {
+          "name": "Gabo El Chamaquito",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173265,
+      "name": "Miles",
+      "url": "https://open.spotify.com/track/7tk7tCxZP6pxIh0500jtyD"
     },
     {
       "album": {
@@ -7614,7 +7728,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 243260,
       "name": "PA' FUMAR",
       "url": "https://open.spotify.com/track/1UEBUArwjaVPmzPgK2E1J2"
@@ -10029,6 +10143,28 @@
     },
     {
       "album": {
+        "name": "Sue\u00f1o con Besarte",
+        "url": "https://open.spotify.com/album/4DsPPCwF1IVScy8xf6oil6"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192534,
+      "name": "Sue\u00f1o con Besarte",
+      "url": "https://open.spotify.com/track/2hEHY9Sk7Ih3WzqylhIrIg"
+    },
+    {
+      "album": {
         "name": "S\u00edntomas de Soltera",
         "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
       },
@@ -10548,6 +10684,24 @@
       "duration_ms": 155275,
       "name": "Toda Guapa",
       "url": "https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF"
+    },
+    {
+      "album": {
+        "name": "Todo Tiene Fin",
+        "url": "https://open.spotify.com/album/4M4CqKnuWm0l1ALuMygvSs"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191461,
+      "name": "Todo Tiene Fin",
+      "url": "https://open.spotify.com/track/4UlmAhkTq74gDc5CU9qPqI"
     },
     {
       "album": {
@@ -11118,7 +11272,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 274974,
       "name": "Un Beso Tuyo",
       "url": "https://open.spotify.com/track/2ZLusQxisKJoUdfn6q2agZ"

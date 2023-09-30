@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,796 likes - 105 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,800 likes - 105 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [不如我們](https://open.spotify.com/track/628jSEIhSEkXJXRo5gRpOG) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [不如我們](https://open.spotify.com/album/2O1NsQRVTbSOlyHMsiDC4j) | 3:42 |
 | 105 | [Bounce \(Prod\. by KIRE\)](https://open.spotify.com/track/3dWU2Q8k2cvtxxDXfAx8r4) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Bounce](https://open.spotify.com/album/2bHgJr8qGWQigQFNitJVdm) | 2:47 |
 
-Snapshot ID: `MCxiOWFlZWEzNTg3ZWY2NjJlMzc3ZWFlNGU2ZjI5NTkxZDVkYTdkNTUx`
+Snapshot ID: `MCw5ZDgxYmYxYWRhZjhiNzZkMDNjOWNkYzczOGE5MWE5MjA0MDNmNjcz`

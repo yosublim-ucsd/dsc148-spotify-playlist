@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 190909,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/5tv7mnf7It0QSeAcQqCx7I"
@@ -3706,7 +3706,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 208937,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk"
@@ -3914,7 +3914,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 172444,
       "name": "Minerva",
       "url": "https://open.spotify.com/track/7D9NidXOJwb3ZAPJ7LOkoD"
@@ -4544,7 +4544,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 195671,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/2Nj5bzavjYmAxZOJm4xtHL"
@@ -5813,6 +5813,28 @@
     },
     {
       "album": {
+        "name": "Shotgun (It Ain't Over)",
+        "url": "https://open.spotify.com/album/5JFAjoXxZkVw35HA8PvWgE"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155909,
+      "name": "Shotgun (It Ain't Over)",
+      "url": "https://open.spotify.com/track/3ZWElZZvOyyZ745FLyHp1T"
+    },
+    {
+      "album": {
         "name": "SICK",
         "url": "https://open.spotify.com/album/25uoj4CZuISGnHNDQoNCjc"
       },
@@ -6300,7 +6322,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 205217,
       "name": "Take Me Away Again",
       "url": "https://open.spotify.com/track/2meQ2wSIBU8OQDKlJcJk5j"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Charles Wesley Godwin",
+  "description": "A new shade of Country. Cover: Faye Webster",
   "name": "Indigo",
   "tracks": [
     {
@@ -386,7 +386,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 213213,
       "name": "Alcohallelujah",
       "url": "https://open.spotify.com/track/0K6dmuthM56bETaZY10pbk"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 216225,
       "name": "Break My Heart (feat. Ruston Kelly)",
       "url": "https://open.spotify.com/track/1cc7aIBaKIsqc3qtev7OqR"
@@ -1144,6 +1144,24 @@
       "duration_ms": 170206,
       "name": "Breaking Point",
       "url": "https://open.spotify.com/track/0oP1BhXWDnjhpLXoZmMkBU"
+    },
+    {
+      "album": {
+        "name": "Broadview",
+        "url": "https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "Broadview",
+      "url": "https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe"
     },
     {
       "album": {
@@ -4268,7 +4286,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 190619,
       "name": "If I May Be So Bold",
       "url": "https://open.spotify.com/track/6tVvfvsV7aIhTwKGy6c9R7"
@@ -4870,7 +4888,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 228066,
       "name": "Life Ain't Fair",
       "url": "https://open.spotify.com/track/2FppkjDbrBZE8AxsJGcWho"
@@ -5561,6 +5579,28 @@
     },
     {
       "album": {
+        "name": "Mornings With You (with Kaitlin Butts)",
+        "url": "https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223764,
+      "name": "Mornings With You (with Kaitlin Butts)",
+      "url": "https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8"
+    },
+    {
+      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -5612,6 +5652,24 @@
       "duration_ms": 227498,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side A
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,324 likes - 76 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,388 likes - 76 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 7 | [Summane Naga Bahudhe Hudugi \(from "Jigar"\)](https://open.spotify.com/track/60LKP71JQ3BM1k8zc7GV5b) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Ritvik Muralidhar](https://open.spotify.com/artist/6WCsxUetmUxK3BinjpKIDH) | [Summane Naga Bahudhe Hudugi \(from "Jigar"\)](https://open.spotify.com/album/4YFMc1jJta1o2JugCPcWeN) | 3:46 |
 | 8 | [Vivarane \(From "Hi Nanna"\)](https://open.spotify.com/track/2Xc0jsOBqPWhyuS29dQnvz) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Vivarane \(From "Hi Nanna"\)](https://open.spotify.com/album/2f3RV99CfM3He6gL1ZT47Y) | 3:24 |
 | 9 | [Choo Mantar Title Track \(from "Choo Mantar"\)](https://open.spotify.com/track/6hiAkSbSDFKBMDCHz1lbTH) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk), [Vijay Eshwar](https://open.spotify.com/artist/6c2Mv4SRDP0ftR8VuleaLP) | [Choo Mantar Title Track \(from "Choo Mantar"\)](https://open.spotify.com/album/512jtv3gcR2FTc08HBRrJ3) | 3:46 |
-| 10 | [Show Me The Way \- From "Chithha"](https://open.spotify.com/track/6zhXNooUvN5U92HM2gWhWt) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Poorvi](https://open.spotify.com/artist/1p6wzhk9wb6HEoe7kjYYTx) | [Chikku \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2srywFK4e1aWMg1jRrzaMc) | 1:14 |
+| 10 | [Show Me The Way](https://open.spotify.com/track/6zhXNooUvN5U92HM2gWhWt) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Poorvi](https://open.spotify.com/artist/1p6wzhk9wb6HEoe7kjYYTx) | [Chikku \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2srywFK4e1aWMg1jRrzaMc) | 1:14 |
 | 11 | [Nannaki BGM](https://open.spotify.com/track/4Hvgw6uTUBbDjv96XWQuye) | [Anil CJ](https://open.spotify.com/artist/06MUYjay1afxal0kI4n4nD), [Mallu Jamkhandi](https://open.spotify.com/artist/64CsJXPVhevCqZs6s1oTFL) | [Nannaki BGM](https://open.spotify.com/album/5MF79cjBjmFJ2IVpqUMYpq) | 1:54 |
 | 12 | [Aaradhipe \(From "Toby"\)](https://open.spotify.com/track/77wUMQppODRuIMXZrnoD27) | [Midhun Mukundan](https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp), [Raj B Shetty](https://open.spotify.com/artist/3iL3sjwDBgvwFfCpCguV6L), [Prithvi Antha](https://open.spotify.com/artist/1VZqZOwtCKmOw0XUAMbjUN), [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc) | [Aaradhipe \(From "Toby"\)](https://open.spotify.com/album/3dRZ2ZFqD9VnzO5S52ueME) | 3:50 |
 | 13 | [O Maaye \(From "Dvandva"\)](https://open.spotify.com/track/6Lp1E4RRJKlqfhR5MZYXYm) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk), [Akash Parva](https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6), [Prathap s](https://open.spotify.com/artist/2Hbu16ngEZhHp5c7IIU4Pm) | [O Maaye \(From "Dvandva"\)](https://open.spotify.com/album/5Kli99ED9NGZYrZhXB4fNS) | 4:17 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 75 | [Neenene Beku \- From "Bengaluru Boys"](https://open.spotify.com/track/0oOEJ4rrnvkeFo1tEym6U9) | [Dharma Vish](https://open.spotify.com/artist/6miwTHZ03xmcPUtShuAGgS), [Pranava Karanth](https://open.spotify.com/artist/7KmDXsv3wTs7h53HmD3pHc), [Nagarjuna Sharma](https://open.spotify.com/artist/5afoIXDDGpV9nDsc4OHVxL) | [Neenene Beku \(From "Bengaluru Boys"\)](https://open.spotify.com/album/4wEwg17NYf5zONIN6234m4) | 3:26 |
 | 76 | [Yaaro Yaaro \(From "Yadha Yadha Hi"\)](https://open.spotify.com/track/1ASDt2sOPKNGdb4m84fQMS) | [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG), [Ravi Prakash Chodimalla](https://open.spotify.com/artist/1J5d9DMAj9oYk7yKswHj8U), [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Yaaro Yaaro \(From "Yadha Yadha Hi"\)](https://open.spotify.com/album/6UQHF0v6t3opBWTiwgECKY) | 2:54 |
 
-Snapshot ID: `MCxmMjk2Mzc1MTI1MzhjNzkyY2IxZGM2ZjRkM2Y0N2RhMWY0MTNhN2M5`
+Snapshot ID: `MCwyMTFkY2JkNTUyMGQxMWQ4ZDljZDgzMzI2ZmFjNDhmMTVlZDFlODhk`

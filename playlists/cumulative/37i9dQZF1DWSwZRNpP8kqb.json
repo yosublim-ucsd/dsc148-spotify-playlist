@@ -965,20 +965,24 @@
     },
     {
       "album": {
-        "name": "Rosa De Los Vientos",
+        "name": "Rosa de los Vientos",
         "url": "https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy"
       },
       "artists": [
         {
           "name": "Suna Rocha",
           "url": "https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
         }
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 286627,
-      "name": "El seclante\u00f1o",
+      "name": "El Seclante\u00f1o",
       "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
     },
     {

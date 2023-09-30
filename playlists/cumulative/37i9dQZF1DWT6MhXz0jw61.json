@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Larry June",
+  "description": "Chillout hip-hop vibes. Cover: Earthgang",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 196647,
       "name": "$outhside Story ft. Common",
       "url": "https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs"
@@ -104,6 +104,24 @@
       "duration_ms": 182833,
       "name": "14GRAMS",
       "url": "https://open.spotify.com/track/4sbcTN5D20TF4ouF0zPXXY"
+    },
+    {
+      "album": {
+        "name": "Debbie's Son",
+        "url": "https://open.spotify.com/album/35zJDntIjPdSyFfWk2lW6W"
+      },
+      "artists": [
+        {
+          "name": "Maxo",
+          "url": "https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198268,
+      "name": "2 for $10",
+      "url": "https://open.spotify.com/track/71Y9YpsEOTTayD6ZcyMfXe"
     },
     {
       "album": {
@@ -238,6 +256,24 @@
       "duration_ms": 187000,
       "name": "42",
       "url": "https://open.spotify.com/track/5NKs8f3O7Xemhd6aYXqho2"
+    },
+    {
+      "album": {
+        "name": "Rose Gold",
+        "url": "https://open.spotify.com/album/7FJQ3bXOk6ysZRHYekFPXL"
+      },
+      "artists": [
+        {
+          "name": "Hudi",
+          "url": "https://open.spotify.com/artist/6yeLse5F06fsz7hzqDIn5y"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126502,
+      "name": "42\u2019s and Babushkas",
+      "url": "https://open.spotify.com/track/6mc7OCqOWNzBDBqVC35ida"
     },
     {
       "album": {
@@ -792,7 +828,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 188672,
       "name": "Am I",
       "url": "https://open.spotify.com/track/3pOab2mn8V21KivRGzxPlG"
@@ -1869,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "Debbie's Son",
+        "url": "https://open.spotify.com/album/35zJDntIjPdSyFfWk2lW6W"
+      },
+      "artists": [
+        {
+          "name": "Maxo",
+          "url": "https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132651,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/4BHgG8QMgDIuVOIzQBxMDj"
+    },
+    {
+      "album": {
         "name": "Born In A Crash",
         "url": "https://open.spotify.com/album/0OlUwiZrc1uFlFT0UkQ83H"
       },
@@ -2388,7 +2442,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 226588,
       "name": "CHANNEL No3",
       "url": "https://open.spotify.com/track/6UIMNszTQOvYchYqswBR17"
@@ -3626,7 +3680,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 203906,
       "name": "Don't Remind Me",
       "url": "https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh"
@@ -4104,6 +4158,24 @@
       "duration_ms": 183915,
       "name": "Everybody Loves You",
       "url": "https://open.spotify.com/track/2Wp2IjSLARq1XaoIMaDgCp"
+    },
+    {
+      "album": {
+        "name": "Free Samples, Vol. 2",
+        "url": "https://open.spotify.com/album/1WCxL49gWJL2TxE2sPVhL8"
+      },
+      "artists": [
+        {
+          "name": "femdot.",
+          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211242,
+      "name": "Everything We Did",
+      "url": "https://open.spotify.com/track/7jbc6jkT3r6POZgNIcypPZ"
     },
     {
       "album": {
@@ -4690,7 +4762,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 182201,
       "name": "Flowers (feat. MAVI)",
       "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
@@ -6689,6 +6761,28 @@
     },
     {
       "album": {
+        "name": "Kall Me (feat. Kevin Sinatra)",
+        "url": "https://open.spotify.com/album/2d7tmlgAIX6H9Y0tSH0MMB"
+      },
+      "artists": [
+        {
+          "name": "Azizi Gibson",
+          "url": "https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP"
+        },
+        {
+          "name": "Kevin Sinatra",
+          "url": "https://open.spotify.com/artist/1tygnJwaoR37rfqe9DHcUf"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Kall Me (feat. Kevin Sinatra)",
+      "url": "https://open.spotify.com/track/0LyY4duXgJro8ySx8Uh1FC"
+    },
+    {
+      "album": {
         "name": "Keep Calling",
         "url": "https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs"
       },
@@ -8616,7 +8710,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 214701,
       "name": "on the street (with J. Cole)",
       "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
@@ -8972,6 +9066,24 @@
       "duration_ms": 197687,
       "name": "Outsidigan's Anthem",
       "url": "https://open.spotify.com/track/2n5jf9TOsdm51oCbTLBzbC"
+    },
+    {
+      "album": {
+        "name": "Where There's Smoke...",
+        "url": "https://open.spotify.com/album/0waujGlOQqsfvPpNzuVG3Y"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145386,
+      "name": "P's & Q's",
+      "url": "https://open.spotify.com/track/2fRCVz0YnXdYomxDNzWBNp"
     },
     {
       "album": {
@@ -9369,6 +9481,28 @@
     },
     {
       "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/4hK6GXrRsNajwG0KIPE2vn"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        },
+        {
+          "name": "YOG$",
+          "url": "https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/6e3pgQU3ejuK8sqRSHo6su"
+    },
+    {
+      "album": {
         "name": "Pour the Wine (feat. Peso Gordon & Chuck Strangers)",
         "url": "https://open.spotify.com/album/5JeUjX56YwpnqOgCPzq7LQ"
       },
@@ -9713,6 +9847,24 @@
     },
     {
       "album": {
+        "name": "Rap Game Dead",
+        "url": "https://open.spotify.com/album/0WAtfFhLs7okYM50r51RIv"
+      },
+      "artists": [
+        {
+          "name": "ShaqIsDope",
+          "url": "https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Rap Game Dead",
+      "url": "https://open.spotify.com/track/0XHuPRrqUSjup0cyPc1kSF"
+    },
+    {
+      "album": {
         "name": "Rather Be Myself",
         "url": "https://open.spotify.com/album/0ffkK86WkytCNghaaRJ2wP"
       },
@@ -9794,7 +9946,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 118436,
       "name": "Rebuke",
       "url": "https://open.spotify.com/track/4XE1StBll9KcNa8nHa3nXG"
@@ -10831,6 +10983,24 @@
     },
     {
       "album": {
+        "name": "Someone I Knew",
+        "url": "https://open.spotify.com/album/2WpilJ7vktkFimmAKuuAay"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268626,
+      "name": "Someone I Knew",
+      "url": "https://open.spotify.com/track/1fbgXK7wcdKu42CI5l0dTP"
+    },
+    {
+      "album": {
         "name": "Somethin Wrong In Heaven",
         "url": "https://open.spotify.com/album/6Djy7fu8P0MmGnoDlqYovw"
       },
@@ -11074,6 +11244,24 @@
       "duration_ms": 205897,
       "name": "STILL HUMBLE",
       "url": "https://open.spotify.com/track/3GKQZZoHZ2MrfvQtipT5f9"
+    },
+    {
+      "album": {
+        "name": "Where There's Smoke...",
+        "url": "https://open.spotify.com/album/0waujGlOQqsfvPpNzuVG3Y"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248240,
+      "name": "Stomping Grounds",
+      "url": "https://open.spotify.com/track/6RBK6VpX71AsqaH5h9VCbc"
     },
     {
       "album": {
@@ -11526,7 +11714,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 202981,
       "name": "The Basement",
       "url": "https://open.spotify.com/track/5AiS9AoF7ONfTcNdXjWPNi"
@@ -12076,7 +12264,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 161573,
       "name": "Thug Anthem",
       "url": "https://open.spotify.com/track/2zLoydVm0kYoaIkra0XmzE"
@@ -12716,7 +12904,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 164870,
       "name": "Up The Score (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/7ciuPxjrJjnABMykZOJtDE"

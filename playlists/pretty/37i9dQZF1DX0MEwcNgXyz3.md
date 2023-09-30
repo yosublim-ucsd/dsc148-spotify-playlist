@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,929 likes - 58 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,934 likes - 58 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 20 | [James Dean](https://open.spotify.com/track/6i0KUmOdDvYjl4eNTEoMVO) | [Boye & Sigvardt](https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR), [Electrick Village](https://open.spotify.com/artist/6oY0rvFRUyykIvmVTwcAGb) | [Night Addicts](https://open.spotify.com/album/43omyUGNwcR2bVYiByAqQt) | 3:01 |
 | 21 | [Ginger](https://open.spotify.com/track/7mtHQxn7gie9dFH1bs21hE) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Ginger](https://open.spotify.com/album/7lCa8DnB02s8GHy26QqvOw) | 2:39 |
 | 22 | [Ganja Fiyah](https://open.spotify.com/track/5WNo1F19N93sAysXCpI3cV) | [Boye & Sigvardt](https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR) | [Night Addicts](https://open.spotify.com/album/43omyUGNwcR2bVYiByAqQt) | 3:26 |
-| 23 | [My Awe Sustains](https://open.spotify.com/track/2Hh8sSdW6fA9BnbBRxXwP8) | [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [For Evig](https://open.spotify.com/album/1WD76mtxpubTxXkuC7lN7o) | 4:26 |
+| 23 | [My Awe Sustains](https://open.spotify.com/track/77y5U9D66qEWC3NsDLtcql) | [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [For Evig](https://open.spotify.com/album/4YCexpkKQSaWBnM5ibxEnp) | 4:26 |
 | 24 | [Run Boy Run](https://open.spotify.com/track/26jIBBZgevyNUpPU2G2ru5) | [Snake City](https://open.spotify.com/artist/7sSkoIWGzQXQC3Pvex07KM) | [Run Boy Run](https://open.spotify.com/album/23xRDRYiptqM73T2t0lVX4) | 3:22 |
 | 25 | [Mirror](https://open.spotify.com/track/1eqzV7D24h0bLF5rJyO8It) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 4:05 |
 | 26 | [Holy](https://open.spotify.com/track/7CnQZYzZpSrw8RnOPJI9vg) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Holy, Endlessly Sad, Love](https://open.spotify.com/album/2b4iVeqxFtBpyfMBUiqPaM) | 3:19 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 57 | [Sunday](https://open.spotify.com/track/4CbvazWOFKIIHZkETS0k6G) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 3:27 |
 | 58 | [Drama End](https://open.spotify.com/track/2357fNm3oeHHTLxo5lXRGd) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:44 |
 
-Snapshot ID: `MCxhNjc5NWYzZjk5ZTc5NjYwNGQwMjVmMmY1YzQ2YjY2M2JkZTAzODA0`
+Snapshot ID: `MCwwYjYyNjg5ZDMzMDgzNGRlNjI5ZDYzNjViZmI2NTdiYTBmMjA3ZTQ0`

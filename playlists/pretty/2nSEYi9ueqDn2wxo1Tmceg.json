@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78587,
+  "num_followers": 78584,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "Mzc4NyxjNjcyZDE4OWE1YmZjYTVkNjFmOWZhOTcyODRjOTZjNjIyMTQyYjdm",
+  "snapshot_id": "Mzc4OCwxZDA3MzQwYzgwMjIyNWUzMzhlNWIwYTY2YjFmYWI3NjA2MjU4MGNl",
   "tracks": [
+    {
+      "added_at": "2023-09-29 16:18:34",
+      "album": {
+        "name": "Isn\u2019t It Now?",
+        "url": "https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "Broke Zodiac",
+      "url": "https://open.spotify.com/track/13VBnTHnLmgst3J4dF0zpH"
+    },
     {
       "added_at": "2023-09-27 14:15:56",
       "album": {

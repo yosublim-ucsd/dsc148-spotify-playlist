@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Safia Nolin",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Roxane Bruneau, Souldia",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -956,7 +956,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 209849,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9"
@@ -5888,7 +5888,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 139509,
       "name": "Cette vie",
       "url": "https://open.spotify.com/track/2COzs35KuKto9iRL9RIZRg"
@@ -7932,6 +7932,28 @@
       "duration_ms": 189000,
       "name": "C\u00c9SARIO",
       "url": "https://open.spotify.com/track/3nrjgf2W4A1U9mypG2WwGC"
+    },
+    {
+      "album": {
+        "name": "C\u00f4t\u00e9 passager",
+        "url": "https://open.spotify.com/album/4FWxAiJKbG63FCND0gXgiR"
+      },
+      "artists": [
+        {
+          "name": "Roxane Bruneau",
+          "url": "https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174142,
+      "name": "C\u00f4t\u00e9 passager",
+      "url": "https://open.spotify.com/track/6h954Sej1qwhpPpgli8I2v"
     },
     {
       "album": {
@@ -10178,7 +10200,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 202266,
       "name": "D\u00e9nouement heureux",
       "url": "https://open.spotify.com/track/5zbKy1U5QmtMldEVvhuQpe"
@@ -11440,6 +11462,24 @@
       "duration_ms": 164853,
       "name": "Et si je me mens",
       "url": "https://open.spotify.com/track/4tXQIKGPPrZvNBAtEQCpNQ"
+    },
+    {
+      "album": {
+        "name": "ET SI, DE/main l'oiseau",
+        "url": "https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa"
+      },
+      "artists": [
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193943,
+      "name": "ET SI, DE",
+      "url": "https://open.spotify.com/track/0asoN1Hr01zsTgQVKn1k0y"
     },
     {
       "album": {
@@ -12941,6 +12981,28 @@
     },
     {
       "album": {
+        "name": "Au bon endroit (Deluxe)",
+        "url": "https://open.spotify.com/album/1GGOY5jNb309UbiXqVONLi"
+      },
+      "artists": [
+        {
+          "name": "47ter",
+          "url": "https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi"
+        },
+        {
+          "name": "Seth Gueko",
+          "url": "https://open.spotify.com/artist/5SZayIKDZvxXaJrxLfnIRN"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Focus (feat. Seth Gueko)",
+      "url": "https://open.spotify.com/track/47SMrT8uLv7ar8g8cstkee"
+    },
+    {
+      "album": {
         "name": "Formation",
         "url": "https://open.spotify.com/album/2at8w1O9MMsF2kj6ZH9BAi"
       },
@@ -13272,6 +13334,24 @@
       "duration_ms": 202500,
       "name": "Fruit d\u00e9fendu",
       "url": "https://open.spotify.com/track/4dS3ZuMB8PBN0y5nOdQRKN"
+    },
+    {
+      "album": {
+        "name": "FTG",
+        "url": "https://open.spotify.com/album/1glTvN8B0pM2VY33CJnT9v"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183443,
+      "name": "FTG",
+      "url": "https://open.spotify.com/track/5j5ar3YNnHXZlYLfVPLcHT"
     },
     {
       "album": {
@@ -14070,7 +14150,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 257200,
       "name": "Ha ha ha",
       "url": "https://open.spotify.com/track/7zOy88Gz28RDcmjuvYvpww"
@@ -15797,6 +15877,28 @@
     },
     {
       "album": {
+        "name": "J'ai si peur",
+        "url": "https://open.spotify.com/album/1NmVsbmegt0pKXbVIxcI4x"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        },
+        {
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208170,
+      "name": "J'ai si peur",
+      "url": "https://open.spotify.com/track/4a9dS0IEMxDdF77loEaTRN"
+    },
+    {
+      "album": {
         "name": "J\u2019ai trouv\u00e9 une maison",
         "url": "https://open.spotify.com/album/3ZYELekc9V1oP1NoMELc80"
       },
@@ -17302,7 +17404,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 232927,
       "name": "Jn'attendrai plus",
       "url": "https://open.spotify.com/track/6UOGItOYXOpnqCORE9VP9t"
@@ -17440,6 +17542,24 @@
       "duration_ms": 202663,
       "name": "JPPDT",
       "url": "https://open.spotify.com/track/0LUPI4xVSIP6mcxlkppQkZ"
+    },
+    {
+      "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158613,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/7wOiVecTrFnimS9bpnWJcS"
     },
     {
       "album": {
@@ -18192,7 +18312,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 178720,
       "name": "L'Habitude",
       "url": "https://open.spotify.com/track/3bNgr5gy1gY3yoGRuVo5Wk"
@@ -19234,7 +19354,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 135500,
       "name": "La protagoniste",
       "url": "https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA"
@@ -21844,7 +21964,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 171754,
       "name": "Localis\u00e9",
       "url": "https://open.spotify.com/track/1jJHvMdaI0B3tmiCgFNpeK"
@@ -22962,7 +23082,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 206468,
       "name": "main l\u2019oiseau",
       "url": "https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa"
@@ -23614,6 +23734,24 @@
     {
       "album": {
         "name": "Mauvais r\u00eave",
+        "url": "https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170413,
+      "name": "Mauvais r\u00eave",
+      "url": "https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5"
+    },
+    {
+      "album": {
+        "name": "Mauvais r\u00eave",
         "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
       },
       "artists": [
@@ -23628,6 +23766,24 @@
       "duration_ms": 239546,
       "name": "Mauvais r\u00eave",
       "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
+    },
+    {
+      "album": {
+        "name": "Au bar des espoirs",
+        "url": "https://open.spotify.com/album/41s9no7Ky1PqMXyML8szae"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Bilodeau",
+          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167506,
+      "name": "Mauvais temps",
+      "url": "https://open.spotify.com/track/0LAaXA4qn91sYwHWIB0tlA"
     },
     {
       "album": {
@@ -23850,7 +24006,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 245526,
       "name": "Mercure",
       "url": "https://open.spotify.com/track/6jbD5Xd7blUaYkLqoiuVDB"
@@ -26964,7 +27120,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 203359,
       "name": "Ouvrir les yeux",
       "url": "https://open.spotify.com/track/5d069i6qYWZBBZMRy6cRaz"
@@ -35272,7 +35428,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 182757,
       "name": "The Top",
       "url": "https://open.spotify.com/track/0CGDrIdIsKucUtnkUFSK7b"
@@ -36238,6 +36394,24 @@
       "duration_ms": 178266,
       "name": "TP",
       "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
+    },
+    {
+      "album": {
+        "name": "Tracer des lignes",
+        "url": "https://open.spotify.com/album/7xty3TrdI151JCmI6tO35v"
+      },
+      "artists": [
+        {
+          "name": "oui merci",
+          "url": "https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189510,
+      "name": "Tracer des lignes",
+      "url": "https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB"
     },
     {
       "album": {
@@ -37374,7 +37548,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 221160,
       "name": "UN SAMEDI SOIR QU\u00c9B\u00c9COIS",
       "url": "https://open.spotify.com/track/7tuu5DcwXp5ki161lreEYK"
@@ -38442,7 +38616,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 213072,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/4JlKX9yCxV95GxEWxCwT72"
@@ -38958,7 +39132,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 145620,
       "name": "Y Dor",
       "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"

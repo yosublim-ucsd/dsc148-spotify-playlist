@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-759 songs - 1 day 14 hr 9 min
+760 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Baba Yak](https://open.spotify.com/track/0JBXoHRZdgMlOUrnALDs1y) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Baba Yak](https://open.spotify.com/album/0OAVYU8t5hsj92eYATU0IZ) | 2:18 | 2021-09-05 | 2021-09-08 |
 | [Baba Yak](https://open.spotify.com/track/7usrRc80h2SFbDC5BU4Txp) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Baba Yak](https://open.spotify.com/album/44DZc6AFt0yYhm225b29HB) | 2:18 | 2021-09-08 | 2021-10-24 |
 | [Baby Naber?](https://open.spotify.com/track/26BtOe3Dyvbe0Uavxj60ST) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Baby Naber?](https://open.spotify.com/album/11FT97nMjQ7wgtPvFtdLIk) | 1:58 | 2023-08-12 | 2023-08-14 |
-| [Bahçemin En Zor Gülü](https://open.spotify.com/track/6rRwSZRESAriAagC5CmWMS) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:30 | 2023-09-26 |  |
+| [Bahçemin En Zor Gülü](https://open.spotify.com/track/6rRwSZRESAriAagC5CmWMS) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:30 | 2023-09-26 | 2023-09-30 |
 | [BAKSANA BİLADER \- Saz Mi Caz Mi](https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [BAKSANA BİLADER \(Saz Mi Caz Mi\)](https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og) | 2:56 | 2023-07-15 | 2023-07-17 |
 | [BANA GAYRET](https://open.spotify.com/track/0y07MvJpFBuMEtsa0bIeJj) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:25 | 2022-01-22 | 2022-01-29 |
 | [Bana Sorma](https://open.spotify.com/track/2QxaqKlNW0XZIjppSQJahw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Bana Sorma](https://open.spotify.com/album/5qmPZh2dhkvsXrVRZCXwV7) | 2:45 | 2021-04-04 | 2021-04-15 |
@@ -106,6 +106,7 @@
 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 | 2023-03-18 |  |
 | [BAYBAY](https://open.spotify.com/track/2QYc9Z0vdqsDgcRKHvg9qR) | [revient](https://open.spotify.com/artist/518ZNbTEeb6RifRfWNQ224), [JSON](https://open.spotify.com/artist/5AQ95bS3im8uXwX56pGVC2) | [BAYBAY](https://open.spotify.com/album/39ijDsCEuVWnVSi8Rnb8U3) | 3:11 | 2023-03-19 | 2023-03-21 |
 | [Başa Sar](https://open.spotify.com/track/0oTjuMN99JNRIj2CUdT3g7) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Başa Sar](https://open.spotify.com/album/7reVX131NVuP74udQg1LPs) | 2:41 | 2021-04-13 | 2021-05-08 |
+| [Başıma Belasın](https://open.spotify.com/track/0Yyy5dSNK3cgknZ86Cto9g) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Başıma Belasın](https://open.spotify.com/album/6X7ylEnN9qu3zdK3GsTgYZ) | 2:24 | 2023-09-29 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-13 | 2021-10-20 |
 | [Beklenen Gemi](https://open.spotify.com/track/1yjz7O1MxIpaShmSBiCjfD) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Beklenen Gemi](https://open.spotify.com/album/0HyEvN6FLJzN5D3i9sKoPC) | 2:46 | 2022-02-12 | 2022-03-18 |
 | [Bela](https://open.spotify.com/track/0pIa1YAqWLOP7gFpDKzqlo) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Bela](https://open.spotify.com/album/6BOm2PuwEBpXsYBB8CVT7A) | 3:02 | 2022-10-01 | 2022-10-03 |
@@ -270,7 +271,7 @@
 | [GAZ PEDAL](https://open.spotify.com/track/0TbeXCwQz1oSK5eZVLnEIn) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [GAZ PEDAL](https://open.spotify.com/album/71HKIz40EJPU0BKrCtO0rg) | 2:25 | 2023-03-18 | 2023-07-26 |
 | [Gece Gündüz](https://open.spotify.com/track/032ncNwownsax2RsiC5iCN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Gece Gündüz](https://open.spotify.com/album/1QGVemNszLYbrqYqsdcqRH) | 3:02 | 2021-04-04 | 2021-08-01 |
 | [Gece Gündüz](https://open.spotify.com/track/4jq1WK3fiUU2SOhZ0iaMP1) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Gece Gündüz](https://open.spotify.com/album/1SjloVgg3bj1Khi6l8U1ls) | 3:02 | 2021-03-27\* | 2021-04-04 |
-| [Geceler](https://open.spotify.com/track/4H2KhOR9QOHHv4ttjV5Lhz) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Mine Koşan](https://open.spotify.com/artist/2ditOd9fNYAscQhUmYhfXh) | [Geceler](https://open.spotify.com/album/3FDarLcv4ob7ETiDyH58za) | 4:36 | 2023-09-23 |  |
+| [Geceler](https://open.spotify.com/track/4H2KhOR9QOHHv4ttjV5Lhz) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Mine Koşan](https://open.spotify.com/artist/2ditOd9fNYAscQhUmYhfXh) | [Geceler](https://open.spotify.com/album/3FDarLcv4ob7ETiDyH58za) | 4:36 | 2023-09-23 | 2023-09-30 |
 | [GECELERİN DERDİ](https://open.spotify.com/track/4Y19WBq90SiLFQc6wK3LDJ) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [BEGEFENDİ](https://open.spotify.com/album/4uzkcFaD6X2zpojuI0Y1IT) | 2:37 | 2022-01-26 | 2022-02-27 |
 | [GECELERİN DERDİ](https://open.spotify.com/track/5L9oweGjkwBg0Mt9ZU9OhW) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [BEGEFENDİ](https://open.spotify.com/album/5uNcIKJl8eyNoVoqqT5744) | 2:37 | 2021-07-30 | 2022-01-27 |
 | [Geceyi Anlatmış](https://open.spotify.com/track/0ni7a9ONGdNoUvDvSCgLoJ) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau) | [Geceyi Anlatmış](https://open.spotify.com/album/2QXcT3QNxgJP2m5MBvzY5B) | 4:00 | 2022-03-14 | 2022-04-08 |
@@ -503,7 +504,7 @@
 | [Ne Ay Geceden](https://open.spotify.com/track/4tJa4Vbru9vnEj1IV9aaX1) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Ne Ay Geceden](https://open.spotify.com/album/4XNoVKD5AJ746I5UyoBNuG) | 3:19 | 2022-02-14 | 2022-04-24 |
 | [Ne Zamandır Sendeyim](https://open.spotify.com/track/7L45rxBLaeRsyVZWCC6CXs) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/1tOfXoKAd5AcUpq2MCge2W) | 3:21 | 2021-04-11 | 2021-06-27 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-08-01 | 2021-10-12 |
-| [Nefes](https://open.spotify.com/track/1Lt5VeNJK63RPHt7dRFB0Q) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Nefes](https://open.spotify.com/album/7HJ1EmY24dwXLBZQj1UrLS) | 2:32 | 2023-09-13 | 2023-09-28 |
+| [Nefes](https://open.spotify.com/track/1Lt5VeNJK63RPHt7dRFB0Q) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Nefes](https://open.spotify.com/album/7HJ1EmY24dwXLBZQj1UrLS) | 2:32 | 2023-09-13 |  |
 | [NEGATIF](https://open.spotify.com/track/1j6eyZEaIOPOqKer0hsAyF) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:48 | 2022-09-10 | 2022-09-24 |
 | [Nerdesin](https://open.spotify.com/track/2SwQShWjZsxoGviEyaEMOX) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Nerdesin](https://open.spotify.com/album/56FIQvpIezTtGm1j8yjX9q) | 2:56 | 2022-07-23 | 2023-02-05 |
 | [NERDESİN](https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:45 | 2021-06-13 | 2021-06-14 |

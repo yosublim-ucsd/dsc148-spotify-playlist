@@ -4,7 +4,7 @@
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: LUDMILLA
 
-237 songs - 10 hr 55 min
+238 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Gueto](https://open.spotify.com/track/2AzBHIVlSYb0fx8zHWQIgl) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Gueto](https://open.spotify.com/album/3LdpXPZAvjcjVg3Iy4CoyB) | 2:48 | 2022-01-14 | 2022-08-06 |
 | [Horizonte](https://open.spotify.com/track/2BxoVrrBkNMSHDv3IMJSw6) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Mazili](https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4) | [Horizonte](https://open.spotify.com/album/2yfBvpXbJ15VXJSKU6YTJH) | 3:14 | 2022-12-23 | 2023-03-25 |
 | [Hotel Caro](https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Hotel Caro](https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU) | 3:41 | 2022-06-13 |  |
+| [I'm Good \(Blue\) \[feat\. Bebe Rexha, Ludmilla and LIT killah\] \- 2023 Version](https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\) \[feat\. Bebe Rexha, Ludmilla and LIT killah\] \[2023 Version\]](https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI) | 2:40 | 2023-09-29 |  |
 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 | 2022-01-14 | 2022-10-01 |
 | [INTERE$$EIRA](https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:10 | 2022-01-14 | 2022-06-13 |
 | [INÍCIO DO FIM](https://open.spotify.com/track/2wszTVLEPouQfwuabpIfg5) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [INÍCIO DO FIM](https://open.spotify.com/album/10hzraymFy8wdeZIBShEJ2) | 3:06 | 2022-09-30 | 2023-04-15 |
@@ -242,7 +243,7 @@
 | [Vixe \(Ao Vivo na Prainha da Claudinha\)](https://open.spotify.com/track/6QIsQQa0iOiHXsT507DsXk) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Prainha da Claudinha \(Ao Vivo\)](https://open.spotify.com/album/5L7cyBdm7XIXby9rdJk025) | 3:17 | 2022-08-19 | 2022-09-21 |
 | [Você Aprendeu A Amar? \(feat\. Emicida\)](https://open.spotify.com/track/6mwF2kTs8wiJqqgHwbYqxl) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Você Aprendeu A Amar? \(feat\. Emicida\)](https://open.spotify.com/album/2hlozdNQv4uEOxtXLWEuci) | 3:40 | 2022-06-24 | 2022-08-06 |
 | [Você nasceu para mudar](https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Você nasceu para mudar](https://open.spotify.com/album/3qWkbSgJ4yK7ZiWpjNaoAt) | 3:31 | 2022-12-16 | 2023-01-28 |
-| [Yo No Se \(feat\. L7NNON & Maffio\)](https://open.spotify.com/track/2K176iGMIBESoxbTzyoFsH) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:01 | 2022-08-26 |  |
+| [Yo No Se \(feat\. L7NNON & Maffio\)](https://open.spotify.com/track/2K176iGMIBESoxbTzyoFsH) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:01 | 2022-08-26 | 2023-09-30 |
 | [Zangadinha](https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Zangadinha](https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC) | 2:36 | 2023-05-26 |  |
 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 | 2022-01-14 | 2022-02-05 |
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Sleep Token on top of the biggest Metal playlist.",
+  "description": "Code Orange on top of the biggest Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -2301,6 +2301,28 @@
     },
     {
       "album": {
+        "name": "DROP (feat. Randy Blythe)",
+        "url": "https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Randy Blythe",
+          "url": "https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191208,
+      "name": "DROP (feat. Randy Blythe)",
+      "url": "https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33"
+    },
+    {
+      "album": {
         "name": "The Moment You Find Your Flame",
         "url": "https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v"
       },
@@ -3494,7 +3516,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 221200,
       "name": "Hate Me (feat. Loveless)",
       "url": "https://open.spotify.com/track/70RYhIYRYeL1YNJcAIBjjm"
@@ -3699,6 +3721,28 @@
     },
     {
       "album": {
+        "name": "EndEx",
+        "url": "https://open.spotify.com/album/7wHoOSWfxWuHcZrLeZHj1B"
+      },
+      "artists": [
+        {
+          "name": "3TEETH",
+          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
+        },
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259850,
+      "name": "Higher Than Death",
+      "url": "https://open.spotify.com/track/1uSnbsUf7odODC8r6qPPPx"
+    },
+    {
+      "album": {
         "name": "Hostage",
         "url": "https://open.spotify.com/album/4nElAmQfKidEz20r1DFuRT"
       },
@@ -3818,7 +3862,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 255771,
       "name": "I am the Beast",
       "url": "https://open.spotify.com/track/46xrzJkwWM6s8tb3nVU4mQ"
@@ -6418,7 +6462,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 371880,
       "name": "Shadows Follow",
       "url": "https://open.spotify.com/track/1XcRSCO0AbSIX4f6z29MFn"
@@ -7271,6 +7315,24 @@
     },
     {
       "album": {
+        "name": "Chaos Horrific",
+        "url": "https://open.spotify.com/album/2OsBHxwlW8kJx2YCnhH7rI"
+      },
+      "artists": [
+        {
+          "name": "Cannibal Corpse",
+          "url": "https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245124,
+      "name": "Summoned for Sacrifice",
+      "url": "https://open.spotify.com/track/3UKHl5blhmofaIl8aFHAN1"
+    },
+    {
+      "album": {
         "name": "Pain Remains",
         "url": "https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI"
       },
@@ -7376,10 +7438,32 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 204226,
       "name": "Take Shape (feat. Billy Corgan)",
       "url": "https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4"
+    },
+    {
+      "album": {
+        "name": "The Above",
+        "url": "https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        },
+        {
+          "name": "Billy Corgan",
+          "url": "https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204226,
+      "name": "Take Shape (feat. Billy Corgan)",
+      "url": "https://open.spotify.com/track/6uBtqwcoaMTcTewEXX9e7T"
     },
     {
       "album": {
@@ -8301,6 +8385,24 @@
     },
     {
       "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273693,
+      "name": "Too Far Gone?",
+      "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
+    },
+    {
+      "album": {
         "name": "Torn From Your Silhouette",
         "url": "https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4"
       },
@@ -8970,7 +9072,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 256741,
       "name": "Welcome To The Circus",
       "url": "https://open.spotify.com/track/1linrfCmITmQHs4enAxTUY"

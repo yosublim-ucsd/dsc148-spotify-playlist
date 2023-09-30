@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-130 songs - 16 hr 58 min
+131 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Impressions \- Live At The Village Vanguard / 1961](https://open.spotify.com/track/0YCTmedyF6ztGlNkugYo8W) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Complete 1961 Village Vanguard Recordings](https://open.spotify.com/album/544roYIZZDLFtbAxE8Ti6y) | 14:52 | 2020-08-25 | 2022-07-28 |
 | [Impressions \- Live At The Village Vanguard, New York/1961](https://open.spotify.com/track/2vZmel3XUHwyP7wPDtnGZ9) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Live At The Village Vanguard \- The Master Takes](https://open.spotify.com/album/0UIAuRGMsdQcR5q8aqSnZq) | 14:53 | 2020-08-25 | 2022-11-13 |
 | [Impressions \- Live At The Village Vanguard, New York/1961](https://open.spotify.com/track/0CB88iJNRCNLTxIRGlkYJA) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Impressions](https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj) | 15:01 | 2020-08-25 |  |
+| [In the Beginning](https://open.spotify.com/track/1lsAgWb8bSBTyU8kh2WsgU) | [New Age Doom](https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni), [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [In the Beginning](https://open.spotify.com/album/587gr5QhKHOifSJjLkbRPF) | 11:00 | 2023-09-29 |  |
 | [Interface D](https://open.spotify.com/track/7alX7NDwQPzPXlxHH0tHNp) | [Steve Lehman Quartet](https://open.spotify.com/artist/0U3iCjzKIZWtd8hSozERF4) | [Manifold](https://open.spotify.com/album/21qB7JBTgNEE5mExwOxgBo) | 5:38 | 2020-08-25 |  |
 | [it say, no sé](https://open.spotify.com/track/2VqEeQ1BvCK1VfYH3ww4I0) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Akira Ishii](https://open.spotify.com/artist/4aXZZMEzjJD8LbpsfNl6W0), [Hideaki Kanazawa](https://open.spotify.com/artist/7a99ADzo7A5wdnxqFz5X7i), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Nothing Unspoken Under The Sun](https://open.spotify.com/album/76TaVfdJHRwxj33pGlvf6u) | 4:38 | 2020-12-04 |  |
 | [Joe Btfsplk](https://open.spotify.com/track/2USetQp7MV5k6yWzvXDKsK) | [Don Byron](https://open.spotify.com/artist/2xJ2HMpwwLY36bkjT6sJkD), [Aruan Ortiz](https://open.spotify.com/artist/7hUIvu0Ug9wqqjtaoCtv1o) | [Random Dances & \(A\)Tonalities](https://open.spotify.com/album/0gvblXLr6kRVAJuyPEfEVw) | 5:44 | 2020-08-25 | 2022-07-29 |

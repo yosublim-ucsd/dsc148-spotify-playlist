@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65640,
+  "num_followers": 65638,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTRlZDBhYzYwMDAyZGJhOTc1MjNmNjczNDI4ZTRkZThkNzViNmI4",
+  "snapshot_id": "MCw4NjhkYmY1YzZkOGZmNWFjNjFkMjMyMjUyNGQzNzhlNDE5ZmI5YjA4",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "The New Seekers",
-        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
-      },
-      "artists": [
-        {
-          "name": "The New Seekers",
-          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Beg, Steal Or Borrow",
-      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 173812,
       "name": "Replay",
       "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "The New Seekers",
+        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
+      },
+      "artists": [
+        {
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
     },
     {
       "added_at": "2023-05-05 17:20:54",

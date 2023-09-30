@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-184 songs - 16 hr 52 min
+185 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Hosanna](https://open.spotify.com/track/7rvB5RRZFsbj4mjTNJfOG5) | [Karabo](https://open.spotify.com/artist/0mCZlZDqg0tTXWmcjzpI8c) | [Hosanna](https://open.spotify.com/album/2rC7XoJ937wxoDUjfh5Ev7) | 4:05 | 2023-02-21 |  |
 | [I Am](https://open.spotify.com/track/3cCn4kCzhQst0vNHpSxDzt) | [Tanner Wareham](https://open.spotify.com/artist/0PjEfAc4kotv7fU7OiNj9L) | [I Am](https://open.spotify.com/album/3NOvXdoNlWfXipNrdWW3fE) | 4:48 | 2023-09-29 |  |
 | [I Love The Cross \- Radio Edit](https://open.spotify.com/track/6j8RopDLVla75gRzuam9So) | [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [I Love The Cross \(Radio Edit\)](https://open.spotify.com/album/6bjN3En1KZDZXxOluuy8O6) | 3:47 | 2023-08-18 |  |
+| [I Need Thee \(Live\)](https://open.spotify.com/track/0k72g6s6faEERwGTSENvB2) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Legendary in His Presence \(Live\)](https://open.spotify.com/album/2P7NaOnVBSjHgmrbAFUM4G) | 2:16 | 2023-09-29 |  |
 | [I Need You Now](https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Need You Now](https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF) | 4:11 | 2023-09-26 |  |
 | [I'm Getting Ready](https://open.spotify.com/track/1p4M16Qe079LFw4HeobdKk) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Black History Month: Gospel](https://open.spotify.com/album/6skBirPP2i1IJawDIUWcc3) | 8:26 | 2018-09-23 | 2022-11-14 |
 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 | 2018-09-23 |  |

@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-143 songs - 6 hr 46 min
+145 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Climbing](https://open.spotify.com/track/1x7zBpMIdrySvhENuSY5JV) | [Barbena](https://open.spotify.com/artist/0DorMBZ5PrujJquR3bbTdL) | [Climbing](https://open.spotify.com/album/1O1JvywjelQdazDkPI9Lei) | 2:35 | 2022-10-12 | 2023-04-22 |
 | [Cloud Dance](https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Cloud Dance](https://open.spotify.com/album/4vcFJNkXXMDI4VgUnhfVk7) | 2:36 | 2022-10-12 |  |
 | [Confidence](https://open.spotify.com/track/61LzaoAvJFI2N1qZKjWEfG) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Confidence](https://open.spotify.com/album/5Bhi1WTuw3gm08KC3iwi3v) | 2:42 | 2022-10-12 |  |
+| [Consider](https://open.spotify.com/track/47KiJwkuSOnFeL5WvLBFvP) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Consider](https://open.spotify.com/album/7cpmL0bFhUkvuBM8cpGWeg) | 2:43 | 2023-09-29 |  |
 | [Crystal Grid, Pt\. 1](https://open.spotify.com/track/0tRgzV9zTGDG51NWCDI9li) | [Nu Meditation Music](https://open.spotify.com/artist/66K6bDotWhnNf557BCkfIH) | [Reiki Healing](https://open.spotify.com/album/53nBbgsW6vWkFgfEKlriyu) | 3:24 | 2022-10-12 | 2023-02-18 |
 | [Cuidada](https://open.spotify.com/track/0DjPkjHwrelEO2WEfoaxOM) | [Lucinda Pasillas](https://open.spotify.com/artist/1VIx3IfD02xy9yWri9U0Ac) | [Cuidada](https://open.spotify.com/album/2q0u4ZvLivxNchLRUJ6Su9) | 2:52 | 2022-10-12 | 2022-11-23 |
 | [Dans Mes Rèves](https://open.spotify.com/track/5rnWDfjlHA2OVtes6J2RF7) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Dans Mes Rèves](https://open.spotify.com/album/1FEBGcOFl7kr7zf1GOK0rH) | 2:32 | 2022-10-12 |  |
@@ -71,7 +72,7 @@
 | [Ich gebe dir die Sterne](https://open.spotify.com/track/1SlhemtZDfN3Nf6YbOM3Gj) | [Velpo Sonols](https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM) | [Ich gebe dir die Sterne](https://open.spotify.com/album/5vhVIsOM70HC2ZpWHfG6iq) | 2:47 | 2023-06-09 | 2023-06-23 |
 | [Into the light](https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Into the light](https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id) | 2:26 | 2022-10-12 |  |
 | [Ionosphere](https://open.spotify.com/track/4TItjggHGUClo9prDawdHq) | [Elias Mía](https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY) | [Ionosphere](https://open.spotify.com/album/7rXZ4i0NK8uIuKna8DUtBx) | 3:19 | 2022-10-12 |  |
-| [Jane 2](https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 4:56 | 2022-10-12 |  |
+| [Jane 2](https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 4:56 | 2022-10-12 | 2023-09-30 |
 | [Jane 9](https://open.spotify.com/track/4Qp5A3JbBBtMhW9WYGKlHA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 2:27 | 2022-10-12 | 2022-11-23 |
 | [La Rivière](https://open.spotify.com/track/3Hogl67zIDB7K6bEcrICw1) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [La Rivière](https://open.spotify.com/album/11xUB3vwqMUv0frZJ8tXhQ) | 2:12 | 2022-10-12 | 2023-06-17 |
 | [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 | 2022-11-22 |  |
@@ -102,6 +103,7 @@
 | [One And The Same](https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [One And The Same](https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2) | 2:37 | 2022-10-12 |  |
 | [Only in the Dark](https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity](https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s) | 3:29 | 2022-10-12 | 2023-02-10 |
 | [Orphic](https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Orphic](https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA) | 3:00 | 2022-10-12 | 2023-02-09 |
+| [Patiently](https://open.spotify.com/track/4ksohd9Ti6zViNRYe80JEW) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Patiently](https://open.spotify.com/album/768bX4s0q9wTXd1Nxt5mo4) | 2:58 | 2023-09-29 |  |
 | [Peaceful Patterns](https://open.spotify.com/track/0EGpuh2uzSDi5mnMIvgFui) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Peaceful Patterns](https://open.spotify.com/album/2Mrq6DXobLAj2feyv0h59J) | 2:49 | 2022-10-12 |  |
 | [Per Me](https://open.spotify.com/track/6km83BJ2tedUp9R0RDTz9N) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Per Me](https://open.spotify.com/album/1kg1n715SGQCmmS741iP7F) | 3:17 | 2022-10-12 | 2023-01-21 |
 | [Places Beyond](https://open.spotify.com/track/4kh3Hjy1RPkAbKZpHi5k17) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Liminal](https://open.spotify.com/album/1DN3N3sPQIZlpjMcvWkc9N) | 1:49 | 2022-10-12 | 2023-07-29 |

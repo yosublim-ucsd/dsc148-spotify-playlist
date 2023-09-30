@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "April - Single",
+        "url": "https://open.spotify.com/album/2zittikcejcyLsFIk5mSik"
+      },
+      "artists": [
+        {
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298392,
+      "name": "April",
+      "url": "https://open.spotify.com/track/1HcNxQxyvT4Jg2c1A9FxjS"
+    },
+    {
+      "album": {
         "name": "Glitch Mode - The 2nd Album",
         "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
       },
@@ -8212,7 +8230,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 208210,
       "name": "THE WAY TO (VOCAL Unit)",
       "url": "https://open.spotify.com/track/2c42MAkCp7pFbGgJ7xg7xi"

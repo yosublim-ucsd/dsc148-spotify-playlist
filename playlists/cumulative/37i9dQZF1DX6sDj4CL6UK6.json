@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Top English songs from Asia. Cover: Farhan, When Chai Met Toast",
+  "description": "Top English songs from Asia. Cover: AB!, Kayan",
   "name": "IndiEnglish",
   "tracks": [
     {
@@ -644,7 +644,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 207876,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/7nVOpausgMrJCk0DXZSTs0"
@@ -724,6 +724,24 @@
       "duration_ms": 201724,
       "name": "Cold Cold Night",
       "url": "https://open.spotify.com/track/7yHpjfYiFCKs0pFSUndEuI"
+    },
+    {
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/1uH12t5IkBn95cmGf3GalY"
+      },
+      "artists": [
+        {
+          "name": "The Newcomers",
+          "url": "https://open.spotify.com/artist/4WVuFszLNESVSXEDRokgMG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193264,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/2CA8KfuUyfM6JTqqPkpbZx"
     },
     {
       "album": {
@@ -1222,6 +1240,24 @@
       "duration_ms": 288333,
       "name": "Faces of The Moon",
       "url": "https://open.spotify.com/track/3ojKMFsQjJC2vx9h5c3RNB"
+    },
+    {
+      "album": {
+        "name": "Fake it! Shake it! Make it!",
+        "url": "https://open.spotify.com/album/7zuWznUYivQbTphmSXeXOZ"
+      },
+      "artists": [
+        {
+          "name": "The Lightyears Explode",
+          "url": "https://open.spotify.com/artist/3QYtl7ACJpE5liUDmDfNzm"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "Fake it! Shake it! Make it!",
+      "url": "https://open.spotify.com/track/6k9UgOQGWGIv04YeobGoSe"
     },
     {
       "album": {
@@ -1758,6 +1794,28 @@
       "duration_ms": 278874,
       "name": "I Can't Go Back To Sleep",
       "url": "https://open.spotify.com/track/6Ni5Bvv11v0KvqFddmUJC9"
+    },
+    {
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/5I5gTNJIPewsRTPoGNZyIW"
+      },
+      "artists": [
+        {
+          "name": "Sparsh Dangwal",
+          "url": "https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS"
+        },
+        {
+          "name": "Jaden Maskie",
+          "url": "https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158624,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/10hVVaeNjS5WqDfUgp6Fha"
     },
     {
       "album": {
@@ -2989,6 +3047,28 @@
     },
     {
       "album": {
+        "name": "OH HI!",
+        "url": "https://open.spotify.com/album/1QJKVfRNGYi1O4XWdqNaWR"
+      },
+      "artists": [
+        {
+          "name": "AB!",
+          "url": "https://open.spotify.com/artist/2yphmQ5UUwp5IUCssQe9z5"
+        },
+        {
+          "name": "Kayan",
+          "url": "https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "OH HI!",
+      "url": "https://open.spotify.com/track/3A52BQhCsK3jpf9TvhnXoL"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/3IpkOKy7xlKRyJ8TNZGOz0"
       },
@@ -3202,7 +3282,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 242400,
       "name": "Perfect Life",
       "url": "https://open.spotify.com/track/61ayAzvFPbItOznMjWBZwu"
@@ -3286,6 +3366,24 @@
       "duration_ms": 184872,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/4bnHwImy2mOklzIUIrgt18"
+    },
+    {
+      "album": {
+        "name": "NEW DNA",
+        "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "PUPPET SHOW",
+      "url": "https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp"
     },
     {
       "album": {
@@ -3548,7 +3646,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 178339,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/57mB16Xs06a7xpmtazYuLi"
@@ -4367,6 +4465,32 @@
     },
     {
       "album": {
+        "name": "Until You See",
+        "url": "https://open.spotify.com/album/4PgsGuOKhE9SPSnkaaDZqX"
+      },
+      "artists": [
+        {
+          "name": "Donn Bhat",
+          "url": "https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ"
+        },
+        {
+          "name": "Toymob",
+          "url": "https://open.spotify.com/artist/2vT6u1co9tQidx18xISF2k"
+        },
+        {
+          "name": "Blackstratblues",
+          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219656,
+      "name": "Until You See",
+      "url": "https://open.spotify.com/track/76ia9MkfsFl8ZEdAph4O36"
+    },
+    {
+      "album": {
         "name": "VANILLA VILLA",
         "url": "https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7"
       },
@@ -4514,7 +4638,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 242993,
       "name": "Watch Out",
       "url": "https://open.spotify.com/track/16H86xNadfBh4Iyt7u3idn"
@@ -4744,7 +4868,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 208617,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/0B8P0iWpmpbOB8BuUagGZZ"
@@ -4784,7 +4908,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 314250,
       "name": "You",
       "url": "https://open.spotify.com/track/4d9qYngDaRv7Dnij09bdY6"

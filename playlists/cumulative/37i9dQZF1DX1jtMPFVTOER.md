@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Robert Glasper
 
-495 songs - 1 day 5 hr 31 min
+496 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Humble](https://open.spotify.com/track/684Emdg5WsDqirI7XQPQkE) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [Somebody's Gotta Do It](https://open.spotify.com/album/2WFzXFDjr6IVRaUTC8jgrH) | 3:39 | 2022-10-21 | 2023-04-30 |
 | [Hybrid](https://open.spotify.com/track/6zxpIfvQumUZatd79TlI2q) | [a l l i e](https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re), [Matthew Progress](https://open.spotify.com/artist/68BrcwaCZg1OQGSPEBIucW), [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Tabula Rasa](https://open.spotify.com/album/2zRT3RmIBeoFVuAOA2TnKL) | 2:53 | 2021-11-12 | 2022-05-14 |
 | [I Can Say To You \[Feat\. Vanisha Gould\] \- Single Edit](https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [I Can Say To You \[Feat\. Vanisha Gould\]](https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC) | 3:37 | 2023-06-16 |  |
-| [i can see you're online](https://open.spotify.com/track/5eJAtLcl5sGHf1rs4rB7D1) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [i can see you're online](https://open.spotify.com/album/1xh1mtVTSZk9GmJyTGqBZA) | 2:29 | 2023-08-04 |  |
+| [i can see you're online](https://open.spotify.com/track/5eJAtLcl5sGHf1rs4rB7D1) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [i can see you're online](https://open.spotify.com/album/1xh1mtVTSZk9GmJyTGqBZA) | 2:29 | 2023-08-04 | 2023-09-30 |
 | [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 | 2023-02-10 | 2023-06-17 |
 | [I Love You](https://open.spotify.com/track/1VYvWpbuOfXKSm4jpuJblj) | [George White Group](https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j) | [I Love You](https://open.spotify.com/album/75cbd4HClkJ6V7JO5iEbFo) | 3:08 | 2022-09-23 | 2023-07-29 |
 | [I Want More \- Telemakus Fast\-Jazz Mix](https://open.spotify.com/track/6m2wT9y9iX3HmkHMG4AbkP) | [Sons Of The James](https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM), [Rob Milton](https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK), [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6) | [I Want More \(Telemakus Fast\-Jazz Mix\)](https://open.spotify.com/album/3XsRvmztd7YsLXGCUXm24F) | 3:24 | 2023-08-04 | 2023-09-23 |
@@ -270,6 +270,7 @@
 | [Love, Surround Me In Everything I Do](https://open.spotify.com/track/7ishyqC45Wi3Fe3fXoAYeE) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Love, Surround Me In Everything I Do](https://open.spotify.com/album/6REkZRczH1l0zCrE7GmUte) | 4:00 | 2023-04-21 | 2023-07-01 |
 | [Lucid](https://open.spotify.com/track/26IwxWynDBbYeH1LQBbBuf) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Any Otherville](https://open.spotify.com/album/7MdPZgfEzckjFLDMdfvj1v) | 2:58 | 2022-06-03 | 2022-12-03 |
 | [Lucid](https://open.spotify.com/track/2m2waNWjpMs86VezrND2CJ) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Any Otherville](https://open.spotify.com/album/2pX3p5DMtffPVvoj8WI3hD) | 2:58 | 2022-06-03 | 2022-10-15 |
+| [Makin Love](https://open.spotify.com/track/385L8vLvQHhPlEn2Plrk2C) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Makin Love](https://open.spotify.com/album/1lRuXmfbAfI4EpVXIT8ncA) | 2:58 | 2023-09-29 |  |
 | [Mama \- Don't Let Me](https://open.spotify.com/track/2aWxSPv2CXOwia5ee0J252) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM) | [Mama \(Don't Let Me\)](https://open.spotify.com/album/5uzIuZQ86pFr1HxpV2UDl8) | 4:40 | 2021-11-12 | 2022-03-12 |
 | [Man Invisible](https://open.spotify.com/track/0AMfoVsFl0tR9wgEzlJWBf) | [Elise Trouw](https://open.spotify.com/artist/6jeroC7T0j4Dvz9y3gtofR) | [Man Invisible](https://open.spotify.com/album/6vwSRp65WbKvCTQhg2EKIz) | 2:22 | 2022-08-26 | 2023-07-22 |
 | [Mathuniversal](https://open.spotify.com/track/3sUjM8QS6Xy13d85nAriep) | [Mathematik](https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H), [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [Mathuniversal](https://open.spotify.com/album/7DCFak49YvfDHzDz5XIXGd) | 1:54 | 2023-09-22 |  |

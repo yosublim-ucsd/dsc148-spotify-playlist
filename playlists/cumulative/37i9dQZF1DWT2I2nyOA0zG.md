@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-242 songs - 13 hr 53 min
+243 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Different](https://open.spotify.com/track/0lDhpQ8KUBcX8w4ilY1UPs) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 2:44 | 2023-06-09 | 2023-09-22 |
 | [Do For Me \(feat\. YKB & Alana Maria\)](https://open.spotify.com/track/25NrAXAOBj1KOuTpJYs11g) | [KaniBeatz](https://open.spotify.com/artist/5Y0tEjj93Yl493o4pyx2Yc), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [Do For Me \(feat\. YKB & Alana Maria\)](https://open.spotify.com/album/35NxKefzUejvCXEKAYUDG3) | 2:36 | 2022-08-12 | 2023-01-28 |
 | [Down](https://open.spotify.com/track/3XEljAMl2IduqseMFYpfoz) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Home Run \- EP](https://open.spotify.com/album/6LySZ3EOrnNCceaWkkt3EX) | 3:22 | 2021-12-09 | 2022-02-25 |
+| [Down](https://open.spotify.com/track/5PcO9uuhPX9PcdPC0SMDmz) | [Zinah](https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw), [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1) | [Tulipa](https://open.spotify.com/album/68I937NYViFxtNEAZyc6b9) | 3:11 | 2023-09-29 |  |
 | [Down by the River](https://open.spotify.com/track/4B7sxQLWCgQ6GvZac3Dazz) | [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Down by the River](https://open.spotify.com/album/2HgoVUGoxyJLVl7efSYneM) | 2:34 | 2022-02-17 | 2022-03-11 |
 | [Earth Song](https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo) | 3:03 | 2023-05-11 |  |
 | [Earth Song](https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP) | 3:03 | 2023-02-10 | 2023-06-03 |
@@ -247,7 +248,7 @@
 | [Ye](https://open.spotify.com/track/2lEl1iNGpz9r2B7R5BqXSD) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/5SCK5p3Rqgg0FwTmAurrcp) | 3:51 | 2021-10-11 | 2022-07-29 |
 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 | 2021-10-11 | 2023-04-21 |
 | [Yes I Do](https://open.spotify.com/track/1ggByUxl4VQJFOaDYWEMf7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Arabi](https://open.spotify.com/artist/6VrXIP3nJGtGwRL8jcdTyu) | [Made For Love](https://open.spotify.com/album/5QERzxJ3zro4qe4zQ3zbqp) | 3:23 | 2021-10-11 |  |
-| [Yimpi Lena](https://open.spotify.com/track/1GNEGb0wifyx2ohbjbBOyU) | [Gaba Cannal](https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo), [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Kwa Ntliziyo Ngise](https://open.spotify.com/album/47gLMWlhmz42dBBAnJ6PfN) | 8:48 | 2023-09-21 |  |
+| [Yimpi Lena](https://open.spotify.com/track/1GNEGb0wifyx2ohbjbBOyU) | [Gaba Cannal](https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo), [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Kwa Ntliziyo Ngise](https://open.spotify.com/album/47gLMWlhmz42dBBAnJ6PfN) | 8:48 | 2023-09-21 | 2023-09-30 |
 | [Your Dream](https://open.spotify.com/track/5adGSGSECey89gMxhbm1tZ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Your Dream](https://open.spotify.com/album/0Gpl5YL9YKbvGbDe3xuGks) | 3:38 | 2022-04-21 | 2022-07-01 |
 | [Zelu](https://open.spotify.com/track/0YHwlHB1vvx6ZUU8yIWmmm) | [Ifé](https://open.spotify.com/artist/5bwayITcleftVQyaj7TnSa) | [Zelu](https://open.spotify.com/album/5pz54lXusItFlSda2jkGzk) | 2:14 | 2021-10-28 | 2022-02-18 |
 

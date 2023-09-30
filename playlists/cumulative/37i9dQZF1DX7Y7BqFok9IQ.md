@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-250 songs - 15 hr 50 min
+251 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Easy Come, Easy Go](https://open.spotify.com/track/34EEk7jTq2e0ZJCR7ZFFfV) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Jared James Nichols](https://open.spotify.com/album/5YCXm7ojCh4KEclmUVhYCL) | 4:17 | 2023-01-13 |  |
 | [Easy To Leave](https://open.spotify.com/track/05axZYhIeoRSCY1raNZYYi) | [Lance Lopez](https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm) | [Trouble Is Good](https://open.spotify.com/album/47tKN7zgsxZi57p46kbDOY) | 4:32 | 2023-07-14 |  |
 | [Feels Like Home](https://open.spotify.com/track/4Yi0zzUGqcf4fF1hmyGfKI) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Sinner \- Songwriter](https://open.spotify.com/album/28Iwpy0TFmrnoEi7gLjiBB) | 2:33 | 2021-11-05 |  |
-| [Fits Me Good](https://open.spotify.com/track/7KwwKbVp34XpxjRnnwBy0h) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Fits Me Good](https://open.spotify.com/album/4DTcA2RFWd5N6FAbIoujnw) | 2:51 | 2020-10-16 |  |
+| [Fits Me Good](https://open.spotify.com/track/7KwwKbVp34XpxjRnnwBy0h) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Fits Me Good](https://open.spotify.com/album/4DTcA2RFWd5N6FAbIoujnw) | 2:51 | 2020-10-16 | 2023-09-30 |
 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 | 2020-10-16 | 2023-05-27 |
 | [Freedom](https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:36 | 2020-10-16 |  |
 | [Freedom](https://open.spotify.com/track/4bwrku78zobaXo2V9vPW6J) | [Jason Lee McKinney Band](https://open.spotify.com/artist/4jKq5mpInUqZWJ8v3R92ap) | [One Last Thing](https://open.spotify.com/album/63XFht5dOCm0P15cxEm2pv) | 3:39 | 2022-03-25 |  |
@@ -156,6 +156,7 @@
 | [Nothing Left To Lose](https://open.spotify.com/track/20jcu0GEUol1uArAwIZDvX) | [LoveSick Radio](https://open.spotify.com/artist/7zca83vBdFEDg0119J8thJ) | [Nothing Left To Lose](https://open.spotify.com/album/3iCNJpwYv9jKHkL3VOpn2x) | 3:24 | 2021-04-09 |  |
 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 | 2020-10-16 |  |
 | [Off the Shelf](https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Love Luck](https://open.spotify.com/album/2Rohycq7EGBbuJbYp3Z0G5) | 3:28 | 2020-10-16 |  |
+| [Oh! That Bitches Brew](https://open.spotify.com/track/61IrEhpwtItIV48ieuEOlN) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Oh! That Bitches Brew](https://open.spotify.com/album/1y3oh4duwhS5ZuWqc9hh6g) | 3:29 | 2023-09-29 |  |
 | [On My Hands](https://open.spotify.com/track/5In3Mo6cEy9gCVzpcCTolv) | [King Vaudeville](https://open.spotify.com/artist/1oZXZvudWk8Iej1P0VWzwS) | [On My Hands](https://open.spotify.com/album/2nWs7LzcrLUwSnjoX2bvdK) | 3:25 | 2023-09-15 |  |
 | [One More Time](https://open.spotify.com/track/4xJ65J4IJYtxV7A9Uz9BX4) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Choke Cherry Tree](https://open.spotify.com/album/2H6mfUMvRacDoPtgbcbqkR) | 3:24 | 2020-10-16 |  |
 | [One Of A Kind](https://open.spotify.com/track/58EZbAbfLjnsfS5gBFVgnF) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [One Of A Kind](https://open.spotify.com/album/28VUOeKPDCNxr4I1vxDz2h) | 3:13 | 2023-03-10 |  |

@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: CODY JON\. Artwork: Isu Kim
 
-2,728 songs - 6 day 5 hr 40 min
+2,729 songs - 6 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,7 +654,7 @@
 | [Don't](https://open.spotify.com/track/4uyvV9Krm5UrxOFl4o2Pnj) | [Tori Pepper](https://open.spotify.com/artist/09u9fSAUSjEhFmzEAukWxF) | [Don't](https://open.spotify.com/album/2lBL9RvtvguuDXTjH0WsJo) | 2:32 | 2023-01-25 | 2023-02-16 |
 | [don't bother me!!!](https://open.spotify.com/track/5aToRhEcNYAZbUt99vSDCL) | [Atlas in Motion](https://open.spotify.com/artist/1N9JxmOPJqhMCw219uoEi8), [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z) | [don't bother me!!!](https://open.spotify.com/album/1UK4uh5DuMuXvnnuXuTVUN) | 3:08 | 2023-02-22 | 2023-03-16 |
 | [Don't Call Me](https://open.spotify.com/track/2FsBT8Vvb4DGVKyEFxFEO8) | [EJ Sharpe](https://open.spotify.com/artist/09k6oXNF36s8d26sViQfQF) | [Don't Call Me](https://open.spotify.com/album/2diIN0DnkxbCJeW9MllRqx) | 3:06 | 2022-09-07 | 2022-09-29 |
-| [Don't Give It Away](https://open.spotify.com/track/47jjxsQPnV9MKduK3Q9ztP) | [Shavaun Marie](https://open.spotify.com/artist/4cWfaEBJ4w8CeJWNPkKUHY) | [Don't Give It Away](https://open.spotify.com/album/3Y6fgads4c3aR7QGRbJDlI) | 2:21 | 2023-09-27 |  |
+| [Don't Give It Away](https://open.spotify.com/track/47jjxsQPnV9MKduK3Q9ztP) | [Shavaun Marie](https://open.spotify.com/artist/4cWfaEBJ4w8CeJWNPkKUHY) | [Don't Give It Away](https://open.spotify.com/album/3Y6fgads4c3aR7QGRbJDlI) | 2:21 | 2023-09-27 | 2023-09-30 |
 | [DON'T GO](https://open.spotify.com/track/27yUP9TuKvq79adnq0jjAL) | [Kayps](https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R) | [DON'T GO](https://open.spotify.com/album/3tOS1tlJPl6F539lKeslAq) | 1:58 | 2023-03-22 | 2023-04-05 |
 | [Don't Know Why](https://open.spotify.com/track/5UErcw2Sb736E1C9dEgl01) | [MUTO](https://open.spotify.com/artist/4899wIU2stpjOmoq2mgyeW), [H\. Kenneth](https://open.spotify.com/artist/5Nc1ukGfwNnaT3B56gGc4c) | [Hourglass](https://open.spotify.com/album/6FYDRoGiB1myyRBNAjQQZj) | 3:04 | 2023-06-22 | 2023-07-13 |
 | [Don't Leave](https://open.spotify.com/track/6QGT8XutPisjY0xAOaBDmk) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Don't Leave](https://open.spotify.com/album/4JGp5u1LlZCyYw77HFeQY1) | 2:24 | 2023-03-08 | 2023-03-29 |
@@ -665,6 +665,7 @@
 | [Don't Speak](https://open.spotify.com/track/5lH2EChSyHjd8oB5wXIuG6) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Don't Speak](https://open.spotify.com/album/2nmYJgDcmugXNbCKVbr5Fc) | 3:18 | 2022-05-25 | 2022-06-23 |
 | [Don't U Say](https://open.spotify.com/track/3wqPgkAfOJqZroOTdfXmO3) | [The Montreals](https://open.spotify.com/artist/49nf3L9hZc9iAhz9lZVDAM) | [Don't U Say](https://open.spotify.com/album/5YoDGtKSEqrXJxgfyGZONK) | 2:23 | 2022-09-28 | 2022-11-17 |
 | [Don't Wanna See You Down](https://open.spotify.com/track/0dRT0xytWgkjufsBxavQQH) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Don't Wanna See You Down](https://open.spotify.com/album/61apFO26VhHNA0RadiFgls) | 2:28 | 2022-08-16 | 2022-09-15 |
+| [Dont Give It Away](https://open.spotify.com/track/5SkGGs56WHqQFx078ljebo) | [Shavaun Marie](https://open.spotify.com/artist/4cWfaEBJ4w8CeJWNPkKUHY) | [Don't Give It Away](https://open.spotify.com/album/5TH1v6tGVmLebSQ0SQFw8e) | 2:21 | 2023-09-27 |  |
 | [DONT U WANT IT ALL](https://open.spotify.com/track/2vdBeGKS5UlNPq9AbIeewn) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [DONT U WANT IT ALL](https://open.spotify.com/album/54M0ciUGyFPoe5NAewIYmb) | 3:02 | 2023-08-16 | 2023-08-31 |
 | [DOOFENSHMIRTZ](https://open.spotify.com/track/4b5B39LSjxA8N4dnuxeKiI) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Tawanda](https://open.spotify.com/artist/1ynh2pGQAk8Y5odVMGbKnn), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [DOOFENSHMIRTZ](https://open.spotify.com/album/5u1jaLPQomx8TGH1RiN0zm) | 2:56 | 2023-08-02 | 2023-08-24 |
 | [Dopamine](https://open.spotify.com/track/7LAU56lBUUlqubJRNyPg8r) | [Josh Cashman](https://open.spotify.com/artist/62wsyfgYMWrbayHMZixc8m) | [Dopamine](https://open.spotify.com/album/55iJaDSyfPrrqsrlpbxhFQ) | 3:05 | 2022-03-01 | 2022-03-16 |

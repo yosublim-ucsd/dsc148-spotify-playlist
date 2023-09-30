@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-10",
-  "description": "Salute's got the juice",
+  "description": "ATRIP's got the juice",
   "name": "juice",
   "tracks": [
     {
@@ -1336,10 +1336,32 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 151603,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/5DQyoa8ZzJoM9hqfrln4Wd"
+    },
+    {
+      "album": {
+        "name": "My Friends EP",
+        "url": "https://open.spotify.com/album/4YqagaNtz10JMCRFdLmkFI"
+      },
+      "artists": [
+        {
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
+        },
+        {
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151603,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/6KqwymhNktMbr0yGYe2L6f"
     },
     {
       "album": {

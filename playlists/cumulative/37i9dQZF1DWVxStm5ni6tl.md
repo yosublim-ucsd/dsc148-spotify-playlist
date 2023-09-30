@@ -4,7 +4,7 @@
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Antoniya, Artwork by: Isu Kim
 
-334 songs - 17 hr 3 min
+335 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [No Evil](https://open.spotify.com/track/2idCxFUGXvdJQpZNFmBHnX) | [Shawnee Kish](https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ) | [No Evil](https://open.spotify.com/album/4LK3gSCgSPfwzzJb56iGEm) | 2:46 | 2023-08-09 | 2023-08-24 |
 | [No Facade](https://open.spotify.com/track/1MhNr2xa9X4UF2ZuA9AMUq) | [Hundo](https://open.spotify.com/artist/09mOEVjWNtwX3lcHqZewBW), [LB SPIFFY](https://open.spotify.com/artist/1f9suOMh8g32gAfMAHoNCI) | [No Facade](https://open.spotify.com/album/4bKxmm4jnWS65HATsiSRtO) | 1:38 | 2023-08-30 | 2023-09-07 |
 | [No Goodbyes](https://open.spotify.com/track/5E7WSEcWIFoo5lbdQBw9hX) | [Semiah](https://open.spotify.com/artist/3A49ypDX1xiexcxLr4tY1I) | [After the Night Ends](https://open.spotify.com/album/0TkqR0BprDV509mCbhoz4J) | 3:38 | 2023-07-26 | 2023-08-17 |
-| [No Patience After Dark](https://open.spotify.com/track/09btjfUjME8icG0dSUoYan) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [HIDEAWAY Vol\. II](https://open.spotify.com/album/7ry4nLf7jor5tbVhFfmWND) | 2:24 | 2023-09-27 |  |
+| [No Patience After Dark](https://open.spotify.com/track/09btjfUjME8icG0dSUoYan) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [HIDEAWAY Vol\. II](https://open.spotify.com/album/7ry4nLf7jor5tbVhFfmWND) | 2:24 | 2023-09-27 | 2023-09-30 |
+| [No Patience After Dark](https://open.spotify.com/track/2CaWCoKWHQREwlTRTr7jNd) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [HIDEAWAY Vol\. II](https://open.spotify.com/album/5XDg1uKmCjPSNfKXY95mB2) | 2:24 | 2023-09-27 |  |
 | [nothing but the best](https://open.spotify.com/track/4GokiQ2fvDBKcDFcY0Oa8w) | [Gäelle](https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T) | [nothing but the best](https://open.spotify.com/album/6agho5mzuin38scgISUKXK) | 2:51 | 2023-07-26 | 2023-08-17 |
 | [Notice It](https://open.spotify.com/track/1dYKS6bOekZjU3d1TLwyIr) | [Mighloe](https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov) | [Notice It](https://open.spotify.com/album/0CwyOwZPnaxCfZv7jEW3di) | 3:16 | 2023-08-02 | 2023-08-24 |
 | [Nuage](https://open.spotify.com/track/5659agwFgsOCjRyL0bSsst) | [Legare](https://open.spotify.com/artist/3XSbtklTD6FUU1BkQEMRr2) | [Nuage](https://open.spotify.com/album/6jnGL1HEzHEwulbrB0XBt8) | 6:17 | 2023-09-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,991 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,082 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Heer](https://open.spotify.com/track/1CapGmE3jqZpEATdujksnX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Jab Tak Hai Jaan](https://open.spotify.com/album/3G0diKadKaufyFybV3TzuP) | 5:14 |
 | 50 | [Rozana](https://open.spotify.com/track/1mYcukuz7uow0wc7DmPXHU) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Rozana \(From "Naam Shabana"\)](https://open.spotify.com/album/6QsWVJu3QawRgoAgUH9QX5) | 4:34 |
 
-Snapshot ID: `MCwzZGQwZDg0MmY2ZDBjZDgxMzJkYjE0ZjRmMDgxZWU2ZTc0OGM2OGZh`
+Snapshot ID: `MCwzZmM1ODIxN2VlMGYwMjU0OGIyNTliN2IyMGEyNjExYjUzN2NkOGI5`

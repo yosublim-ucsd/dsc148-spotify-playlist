@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 347520,
       "name": "Le coeur grenadine",
       "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
@@ -1284,6 +1284,28 @@
       "duration_ms": 281213,
       "name": "Savoir aimer",
       "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
+    },
+    {
+      "album": {
+        "name": "Best Of - Morceaux d\u2019amour",
+        "url": "https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce"
+      },
+      "artists": [
+        {
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        },
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220386,
+      "name": "Toi mon amour",
+      "url": "https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg"
     },
     {
       "album": {

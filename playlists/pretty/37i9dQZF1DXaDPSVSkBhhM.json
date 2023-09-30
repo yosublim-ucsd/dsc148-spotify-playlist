@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 64762,
+  "num_followers": 64791,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTQzNDdkZTAzZDAzODQ0MjQ5ZDIxODdiMTk1OWFmNmQyZDJkZmE1",
+  "snapshot_id": "MCwzZThiYmM2OGRhNGRlMjBkMDk5NjhiZmI0MjllYjdiY2M2NzY0Zjcw",
   "tracks": [
     {
       "added_at": "2023-09-22 06:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Ella Miente",
-        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
-      },
-      "artists": [
-        {
-          "name": "Helian Evans",
-          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
-        }
-      ],
-      "duration_ms": 139700,
-      "name": "Ella Miente",
-      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Historias De La Calle",
         "url": "https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 210337,
       "name": "Eso Es Todo Lo Que Soy",
       "url": "https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Ella Miente",
+        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+      },
+      "artists": [
+        {
+          "name": "Helian Evans",
+          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+        }
+      ],
+      "duration_ms": 139700,
+      "name": "Ella Miente",
+      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Mientras quede aliento",
-        "url": "https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG"
-      },
-      "artists": [
-        {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
-        }
-      ],
-      "duration_ms": 193086,
-      "name": "Mientras quede aliento",
-      "url": "https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Delux",
         "url": "https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 168840,
       "name": "M\u00e1s de Lo Que Te Imaginas",
       "url": "https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Mientras quede aliento",
+        "url": "https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG"
+      },
+      "artists": [
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        }
+      ],
+      "duration_ms": 193086,
+      "name": "Mientras quede aliento",
+      "url": "https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
+        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
+        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
+      },
+      "artists": [
+        {
+          "name": "Camiches",
+          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "Espero Nadie Ocupe Mi Lugar",
+      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
         "name": "Entre La Guerra Y El Amor",
         "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "J\u00e4ula",
-        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
-      },
-      "artists": [
-        {
-          "name": "Mi Mascota Leila",
-          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
-        }
-      ],
-      "duration_ms": 226063,
-      "name": "Cc (Como Compas)",
-      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Nadie Me Entiende",
         "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
       },
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
-        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
+        "name": "J\u00e4ula",
+        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
       },
       "artists": [
         {
-          "name": "Camiches",
-          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
+          "name": "Mi Mascota Leila",
+          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
         }
       ],
-      "duration_ms": 214592,
-      "name": "Espero Nadie Ocupe Mi Lugar",
-      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
+      "duration_ms": 226063,
+      "name": "Cc (Como Compas)",
+      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "UNODOCE",
-        "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
-      },
-      "artists": [
-        {
-          "name": "ALOISIO",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
-        }
-      ],
-      "duration_ms": 73533,
-      "name": "UNODOCE",
-      "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Fantasmas",
         "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
+        "name": "UNODOCE",
+        "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
+      },
+      "artists": [
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 73533,
+      "name": "UNODOCE",
+      "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
         "name": "Bacard\u00ed",
         "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 151572,
       "name": "Bacard\u00ed",
       "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
-        "name": "Ciencia Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG"
-      },
-      "artists": [
-        {
-          "name": "Buen Viaje",
-          "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
-        }
-      ],
-      "duration_ms": 224735,
-      "name": "Ciencia Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -643,6 +627,22 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
+        "name": "Ciencia Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG"
+      },
+      "artists": [
+        {
+          "name": "Buen Viaje",
+          "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
+        }
+      ],
+      "duration_ms": 224735,
+      "name": "Ciencia Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
         "name": "La teor\u00eda de los septenios",
         "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
       },
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "La Insoportable Levedad del Final",
-        "url": "https://open.spotify.com/album/6qNHPl2FTO7hgeNOO39E4s"
-      },
-      "artists": [
-        {
-          "name": "THE SUPUESTOS",
-          "url": "https://open.spotify.com/artist/6nrVwZIURyY5RIPp3eXPra"
-        }
-      ],
-      "duration_ms": 237633,
-      "name": "La Insoportable Levedad del Final",
-      "url": "https://open.spotify.com/track/1LMFuo0XbZS3xQHIKtwTle"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Un A\u00f1o",
         "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
       },
@@ -687,6 +671,38 @@
       "duration_ms": 166540,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Un X100To (Cover)",
+        "url": "https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 166265,
+      "name": "Un X100To - Cover",
+      "url": "https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "La Insoportable Levedad del Final",
+        "url": "https://open.spotify.com/album/6qNHPl2FTO7hgeNOO39E4s"
+      },
+      "artists": [
+        {
+          "name": "THE SUPUESTOS",
+          "url": "https://open.spotify.com/artist/6nrVwZIURyY5RIPp3eXPra"
+        }
+      ],
+      "duration_ms": 237633,
+      "name": "La Insoportable Levedad del Final",
+      "url": "https://open.spotify.com/track/1LMFuo0XbZS3xQHIKtwTle"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -719,42 +735,6 @@
       "duration_ms": 130909,
       "name": "15 de Junio",
       "url": "https://open.spotify.com/track/1P9AQNoaDW3F5SThfJ7dUZ"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
-        "name": "Un X100To (Cover)",
-        "url": "https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 166265,
-      "name": "Un X100To - Cover",
-      "url": "https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
-        "name": "Autodestrucci\u00f3n",
-        "url": "https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR"
-      },
-      "artists": [
-        {
-          "name": "Buen Viaje",
-          "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
-        },
-        {
-          "name": "Fear Allison",
-          "url": "https://open.spotify.com/artist/75t1ar10ekAij353mysCMK"
-        }
-      ],
-      "duration_ms": 234437,
-      "name": "Conversaciones Con Mi Almohada",
-      "url": "https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -803,6 +783,26 @@
       "duration_ms": 161226,
       "name": "Cereal",
       "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Autodestrucci\u00f3n",
+        "url": "https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR"
+      },
+      "artists": [
+        {
+          "name": "Buen Viaje",
+          "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
+        },
+        {
+          "name": "Fear Allison",
+          "url": "https://open.spotify.com/artist/75t1ar10ekAij353mysCMK"
+        }
+      ],
+      "duration_ms": 234437,
+      "name": "Conversaciones Con Mi Almohada",
+      "url": "https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P"
     },
     {
       "added_at": "2023-09-22 06:00:00",

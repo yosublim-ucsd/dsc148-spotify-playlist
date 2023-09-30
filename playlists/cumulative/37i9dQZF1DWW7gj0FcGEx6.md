@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-284 songs - 14 hr 18 min
+286 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Marital Dance](https://open.spotify.com/track/10DKh4aJ2sPPOVZnBwjruG) | [Evgueni Galperine](https://open.spotify.com/artist/6wUwrf6CPtVdxhMX8TejqM), [Sacha Galperine](https://open.spotify.com/artist/4rhbbNkUATyvGiYxGMmx7H) | [Scenes from a Marriage \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/5SG4qxHwgSHsIQHF045MjC) | 2:10 | 2021-12-20 | 2022-07-09 |
 | [Maya’s Adoption Party](https://open.spotify.com/track/1QQGVmtL3AC8ECUWDNDOIH) | [Starr Parodi](https://open.spotify.com/artist/4wMTcGiDCOJ5XkpbeyMU3m), [Jeff Eden Fair](https://open.spotify.com/artist/05BkDv6lrBLduTzqJABTqB) | [The Storied Life of A.J\. Fikry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ewjDDOWk0vXaUiJjIkjun) | 2:21 | 2022-12-09 |  |
 | [Minamata Piano Theme](https://open.spotify.com/track/4SuctdNPUY8Cl6NL5dasGN) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Minamata Piano Theme](https://open.spotify.com/album/2uGicSh9qaQyj7oRQsolTi) | 2:50 | 2021-12-20 | 2022-07-09 |
+| [Missile Launch](https://open.spotify.com/track/2s5clj5ey4v257HOAxBIPD) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Creator \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/69GMDH8pkopRkQRwdff0Jp) | 3:01 | 2023-09-29 |  |
 | [Mo Ergaste Forn](https://open.spotify.com/track/6PRHXNZzRrsP5RppsMXTkq) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:31 | 2023-05-05 |  |
 | [Moments of Melancholy](https://open.spotify.com/track/35ryyVuqtEUVBTnu5dRlAt) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Landscape With Invisible Hand \(Original Motion Picture Score\)](https://open.spotify.com/album/3fWOUH6Q5TaPfI8P1f97xR) | 1:39 | 2023-08-18 |  |
 | [Monarch Butterfly](https://open.spotify.com/track/0MoNYYWAsCs5DjJrDvql9h) | [Jasha Klebe](https://open.spotify.com/artist/7owBDVkVmRAeJINp1Ou9N3) | [A Year On Planet Earth \(Original Television Soundtrack\)](https://open.spotify.com/album/0LUY6DKJaFhoL0coG7rZ3k) | 5:08 | 2023-07-14 |  |
@@ -206,7 +207,8 @@
 | [Spider\-Man 2099 \(Miguel O'Hara\)](https://open.spotify.com/track/6iD9kcWB4h25t7OX8Xk6wT) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Spider\-Man: Across the Spider\-Verse \(Original Score\)](https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO) | 1:02 | 2023-06-09 |  |
 | [Spiral](https://open.spotify.com/track/1dUJRgcJtUxNfTWVEkshUb) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Way Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4TJtPWRuD0m4brMRz8wi5P) | 2:53 | 2021-12-20 | 2022-07-09 |
 | [Star Trek: Strange New Worlds \(Main Title Theme\)](https://open.spotify.com/track/474E7jGAWAeCIKIO4Dz3wL) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Star Trek: Strange New Worlds \(Original Series Soundtrack\)](https://open.spotify.com/album/2P5KuodhuREeyUQ45YB1OS) | 1:51 | 2023-04-28 |  |
-| [Stephen Trains Alessia](https://open.spotify.com/track/1E3nN6LhvpqizoguRFfVhs) | [Nainita Desai](https://open.spotify.com/artist/6yyzlTFjuZqptozK4Q9wHO) | [The Deepest Breath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68fL0XFt0lru115Ro4TGwD) | 3:55 | 2023-09-01 |  |
+| [Stephen Trains Alessia](https://open.spotify.com/track/07RExMA8WI7Xl5yLPZ3Hnf) | [Nainita Desai](https://open.spotify.com/artist/6yyzlTFjuZqptozK4Q9wHO) | [The Deepest Breath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6EeKcbMlEqF276x17JZKUr) | 3:55 | 2023-09-29 |  |
+| [Stephen Trains Alessia](https://open.spotify.com/track/1E3nN6LhvpqizoguRFfVhs) | [Nainita Desai](https://open.spotify.com/artist/6yyzlTFjuZqptozK4Q9wHO) | [The Deepest Breath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68fL0XFt0lru115Ro4TGwD) | 3:55 | 2023-09-01 | 2023-09-30 |
 | [Stop Right Now](https://open.spotify.com/track/4KvN5TDHEndfgy1EX7Bipj) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Good House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hTXpOtf4EgnyR7ZeqNpy1) | 2:05 | 2022-09-30 |  |
 | [Strange \(feat\. Hillary Smith\)](https://open.spotify.com/track/2bPWLtJe3v33z1j40sWB8a) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Hillary Smith](https://open.spotify.com/artist/1Yy8TYDcutF60eKqdmaYv0) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:18 | 2021-12-20 | 2022-07-09 |
 | [Succession \(Main Title Theme\)](https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession: Season 1 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj) | 1:42 | 2023-04-21 |  |

@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Pendulum \\m/
 
-327 songs - 18 hr 44 min
+328 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Signal](https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Signal](https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj) | 3:14 | 2023-05-19 |  |
 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 | 2022-06-10 |  |
 | [Skull n Bones](https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK) | [Stileto](https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i) | [Skull n Bones](https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK) | 2:25 | 2023-04-28 |  |
-| [Sleep \(with Calcium\)](https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Sleep \(with Calcium\)](https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6) | 3:34 | 2022-06-24 |  |
+| [Sleep \(with Calcium\)](https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Sleep \(with Calcium\)](https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6) | 3:34 | 2022-06-24 | 2023-09-30 |
 | [Snow Globe \(Autograf vs\. Waterparks\)](https://open.spotify.com/track/7sOneFgIctEkJJd6gXV7nj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Snow Globe \(Autograf vs\. Waterparks\)](https://open.spotify.com/album/1RNw8fPG9pT28Eqjlesqcr) | 2:34 | 2021-12-10 | 2022-07-29 |
 | [Somebody Else](https://open.spotify.com/track/4d8cOyzUS9pOwLr259T0WW) | [DVRKCLOUD](https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE), [PatFromLastYear](https://open.spotify.com/artist/0WqLTgwIxVGym0LlUwiHro), [Livingston Crain](https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn) | [Somebody Else](https://open.spotify.com/album/5oSJfTqlsA91P6bZoc6SPV) | 2:49 | 2022-04-29 |  |
 | [Somebody's Idiot](https://open.spotify.com/track/4QinVyD0wdHBxyszMR9Ryn) | [Stash Konig](https://open.spotify.com/artist/2BhSSiFfl7HHN969F0uEa6), [Manickin](https://open.spotify.com/artist/3aNqySgEKWTf3VdQ1XeS04) | [Somebody's Idiot](https://open.spotify.com/album/7hleomcmKTPzfc6VZxejfG) | 2:54 | 2021-12-10 | 2022-04-02 |
@@ -334,6 +334,7 @@
 | [Won't Make A Sound](https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Won't Make A Sound](https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg) | 4:36 | 2022-05-24 |  |
 | [Wouldn’t Change A Thing](https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Wouldn’t Change A Thing](https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb) | 3:07 | 2021-12-10 |  |
 | [Years](https://open.spotify.com/track/2hwgLB5lv2AZrxAj9Q4Ywl) | [Crystal Lake](https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l), [Matty McDonald](https://open.spotify.com/artist/6alaCEzPwrS1kaxQ07vtyw) | [Years](https://open.spotify.com/album/0UqEIFa92Mrjr3BT1ShIDL) | 3:19 | 2021-12-10 | 2022-05-25 |
+| [You Can't Break Me \(feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [You Can't Break Me \(feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/album/6k7ASb40R8wBiQymSSwwh0) | 3:50 | 2023-09-29 |  |
 | [you’ve changed, i’ve changed](https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [you’ve changed, i’ve changed](https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu) | 5:11 | 2021-12-10 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

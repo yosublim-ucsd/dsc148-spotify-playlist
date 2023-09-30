@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "AUTUMNAL",
+        "url": "https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe"
+      },
+      "artists": [
+        {
+          "name": "Alex Melton",
+          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189583,
+      "name": "Autumnal",
+      "url": "https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj"
+    },
+    {
+      "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/1CEYuQJHqjqNPYX9v1SjRz"
       },
@@ -17294,7 +17312,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 199385,
       "name": "too young.",
       "url": "https://open.spotify.com/track/3odZxZFIrKMcYxH86UonVn"

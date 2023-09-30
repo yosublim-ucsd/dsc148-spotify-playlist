@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 164589,
       "name": "Dikiri",
       "url": "https://open.spotify.com/track/3vjQnRK6rw78narY1Q6Rpu"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 182710,
       "name": "EL DUE\u00d1O DE LO CROKY",
       "url": "https://open.spotify.com/track/2J1uiNac11AmKR3cyOX3iC"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 194272,
       "name": "Gugle",
       "url": "https://open.spotify.com/track/2Nf1D46vyEZYNbuCx0Y4iD"
@@ -3331,6 +3331,36 @@
     },
     {
       "album": {
+        "name": "Lola",
+        "url": "https://open.spotify.com/album/6GmeJiUw8He3doBKBXkCRT"
+      },
+      "artists": [
+        {
+          "name": "Aleica",
+          "url": "https://open.spotify.com/artist/0JyS4TI8NZcjQJl1Y5jscE"
+        },
+        {
+          "name": "Zunna",
+          "url": "https://open.spotify.com/artist/7kezrkuYBnE989Mv0gmIZ6"
+        },
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        },
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Lola",
+      "url": "https://open.spotify.com/track/5roKfFHOmRVrwgQczq8XKL"
+    },
+    {
+      "album": {
         "name": "LOS APARATOS",
         "url": "https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi"
       },
@@ -4268,7 +4298,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 125338,
       "name": "Molly Crippy",
       "url": "https://open.spotify.com/track/4lI10mVIrbJh5TAMf2F1QP"
@@ -5546,7 +5576,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 151052,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/36Fw3U0xey9zKEVbHtIky6"
@@ -5590,7 +5620,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 132004,
       "name": "San Juan",
       "url": "https://open.spotify.com/track/3BCDbyPWOa5ZDStKlDORW4"
@@ -5769,6 +5799,28 @@
     },
     {
       "album": {
+        "name": "Sigue Ahi",
+        "url": "https://open.spotify.com/album/3HcINwMFf7V5Bk2IfqnK27"
+      },
+      "artists": [
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167592,
+      "name": "Sigue Ahi",
+      "url": "https://open.spotify.com/track/1A5qU4uUp9st8eSiqCg9O9"
+    },
+    {
+      "album": {
         "name": "Silicon",
         "url": "https://open.spotify.com/album/7BANEK4CH67RhkmjmpZlAO"
       },
@@ -5784,6 +5836,28 @@
       "duration_ms": 161000,
       "name": "Silicon",
       "url": "https://open.spotify.com/track/77tueUB7hmKpszzIaxhyft"
+    },
+    {
+      "album": {
+        "name": "Sin fotos",
+        "url": "https://open.spotify.com/album/38IImT4rCRWNXUwHRP9s39"
+      },
+      "artists": [
+        {
+          "name": "Polojoa",
+          "url": "https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt"
+        },
+        {
+          "name": "Sombra el de lo palo",
+          "url": "https://open.spotify.com/artist/2dq1UXs9bXSEIrfxKvETi2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143256,
+      "name": "Sin fotos",
+      "url": "https://open.spotify.com/track/7rAdp3TgcTFEZnG8KgMLSv"
     },
     {
       "album": {
@@ -6639,6 +6713,24 @@
     },
     {
       "album": {
+        "name": "TROLA",
+        "url": "https://open.spotify.com/album/01VU9xUNvh4ebcqZoKGgpA"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115846,
+      "name": "TROLA",
+      "url": "https://open.spotify.com/track/0JwgWnxbxmNA13dZaQJeZo"
+    },
+    {
+      "album": {
         "name": "Tukuntazo",
         "url": "https://open.spotify.com/album/1YffA4MCsDxDIPCDwnzAcZ"
       },
@@ -6662,6 +6754,28 @@
       "duration_ms": 197763,
       "name": "Tukuntazo",
       "url": "https://open.spotify.com/track/0EaBXOqo6TNIIhHctCbQPi"
+    },
+    {
+      "album": {
+        "name": "Tuky Tuky",
+        "url": "https://open.spotify.com/album/0IqcOwV9JrmKJCjZ6umqia"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134040,
+      "name": "Tuky Tuky",
+      "url": "https://open.spotify.com/track/5paSUPI37gBuTvz7H7Dty0"
     },
     {
       "album": {
@@ -6888,6 +7002,24 @@
       "duration_ms": 309818,
       "name": "Vamo Pal Bronx - Remix",
       "url": "https://open.spotify.com/track/2TqVjbeByxcIk3bXrksRQq"
+    },
+    {
+      "album": {
+        "name": "Van por el",
+        "url": "https://open.spotify.com/album/2doEnGO6DSDhToPaSUMkCt"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "Van por el",
+      "url": "https://open.spotify.com/track/6i6XI3LUgJUPco4MXZQ3eJ"
     },
     {
       "album": {

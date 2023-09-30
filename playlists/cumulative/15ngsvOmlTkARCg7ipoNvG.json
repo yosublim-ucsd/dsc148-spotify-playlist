@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Another Dreamscape Arr. For Cello And Harp",
+        "url": "https://open.spotify.com/album/70BIDhduIwEbEdptd5Imt2"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60444,
+      "name": "Another Dreamscape Arr. For Cello And Harp",
+      "url": "https://open.spotify.com/track/7qlyAeQbInDYFW4SWcHYpk"
+    },
+    {
+      "album": {
         "name": "Another Dreamscape Arr. For Strings",
         "url": "https://open.spotify.com/album/0w8G9BdMDxPzSWlbG2sQVq"
       },
@@ -13624,7 +13642,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 140059,
       "name": "Salvador",
       "url": "https://open.spotify.com/track/0k1PA8kqHD51C49Owjcx5S"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: JP",
+  "description": "Novidades e destaques do indie nacional. Foto: Jaloo",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -6249,6 +6249,24 @@
     },
     {
       "album": {
+        "name": "Poca",
+        "url": "https://open.spotify.com/album/2NpkzNY0YGGoVxClxtphQu"
+      },
+      "artists": [
+        {
+          "name": "Tangolo Mangos",
+          "url": "https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238807,
+      "name": "Poca",
+      "url": "https://open.spotify.com/track/3QV57sbqvd8ekL3qhvuUkp"
+    },
+    {
+      "album": {
         "name": "Parte do Que Vem",
         "url": "https://open.spotify.com/album/7s4EA9tZu5gK98FOSBL1ZS"
       },
@@ -6759,6 +6777,24 @@
     },
     {
       "album": {
+        "name": "Quero te ver gozar",
+        "url": "https://open.spotify.com/album/58y3yjaCfF8Z3lCoAxqcog"
+      },
+      "artists": [
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181951,
+      "name": "Quero te ver gozar",
+      "url": "https://open.spotify.com/track/25AI0OE0Dl2le4omEsIwyW"
+    },
+    {
+      "album": {
         "name": "Radinho de Pilha",
         "url": "https://open.spotify.com/album/7KXfbdTrKFgsSkNGRqKCzG"
       },
@@ -6948,6 +6984,24 @@
       "duration_ms": 221968,
       "name": "Rotina",
       "url": "https://open.spotify.com/track/4H44feb7oHzkqzNQJnBv98"
+    },
+    {
+      "album": {
+        "name": "Rua da Lua Cheia",
+        "url": "https://open.spotify.com/album/60vjflVrXOLjbjmfuKEIti"
+      },
+      "artists": [
+        {
+          "name": "Exclusive Os Cabides",
+          "url": "https://open.spotify.com/artist/0SE1q0DtRWvOcjt78ZZ4ZF"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Rua da Lua Cheia",
+      "url": "https://open.spotify.com/track/0URryycDasqNVVqiX1aV01"
     },
     {
       "album": {

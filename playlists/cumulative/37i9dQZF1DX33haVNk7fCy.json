@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Aadhe Waade",
+        "url": "https://open.spotify.com/album/3rzWT5DEabAiiD3Dq221cl"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Aadhe Waade",
+      "url": "https://open.spotify.com/track/5pCRRKwA796gdrNkCmJ9vt"
+    },
+    {
+      "album": {
         "name": "Ek Main Aur Ekk Tu",
         "url": "https://open.spotify.com/album/3EAMYk4XshI4q0OMxrAXRq"
       },
@@ -1504,6 +1522,36 @@
       "duration_ms": 334100,
       "name": "Tu Hoti Toh",
       "url": "https://open.spotify.com/track/57VPW07ksriiQIFUzLDvBJ"
+    },
+    {
+      "album": {
+        "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/7BE0KM7dc0f4MX6Kc6kCuN"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/00ake6KfnzbZ2MaRLGqsyX"
     },
     {
       "album": {

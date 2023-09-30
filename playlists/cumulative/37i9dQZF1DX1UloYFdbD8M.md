@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Thaikkudam Bridge
 
-116 songs - 8 hr 8 min
+117 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 | 2022-12-22 |  |
 | [FLYHIGH](https://open.spotify.com/track/7ityoGyYiTmp1kx67xKpFa) | [Arjun Vijay](https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB) | [FLYHIGH \- Malayalam](https://open.spotify.com/album/2RcxDrHSWRep3bFlpkXd2D) | 3:55 | 2023-07-01 | 2023-07-28 |
 | [Giddh](https://open.spotify.com/track/3QSD8pMN4h5W7Q1uXf2llP) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Giddh](https://open.spotify.com/album/3xfYCwy48NZw4dKdmDURiO) | 4:18 | 2023-08-30 |  |
+| [Gopa Trance](https://open.spotify.com/track/2U2YHuFB8kYdmYzOp2FHg5) | [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Gopa Trance](https://open.spotify.com/album/3nSlJ9VWwpcX66QgFjSZNe) | 2:42 | 2023-09-29 |  |
 | [Green Bean](https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi) | [Jatayu](https://open.spotify.com/artist/4FRg3iQY9IQNzFiEs29WtK) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 2:31 | 2023-08-05 |  |
 | [GVQ](https://open.spotify.com/track/5ujiob8B2fy0UiLvJWr1cK) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:50 | 2022-12-22 |  |
 | [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/track/2hs0eVQRkBiGw8nLPN2rIu) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [I.O.Y.A \(Ayyo Vayye\)](https://open.spotify.com/album/3oKCeBPVdQrbrIU28yml2n) | 3:45 | 2023-07-28 |  |

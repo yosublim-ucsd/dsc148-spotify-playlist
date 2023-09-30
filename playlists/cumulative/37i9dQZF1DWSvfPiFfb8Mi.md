@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-222 songs - 15 hr 19 min
+223 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Electric Drama](https://open.spotify.com/track/3zF3pigJ8LTQQtjsYrDmUI) | [Lovers](https://open.spotify.com/artist/3WDMaTckX5c9kOGLU7N6uz) | [Electric Drama](https://open.spotify.com/album/1ZEjjhIQqQPPW1SydR08SU) | 6:18 | 2021-07-24 | 2023-06-10 |
 | [Emotion](https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 3:04 | 2021-07-24 |  |
 | [Every Night](https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:05 | 2023-08-11 |  |
+| [Everyday People](https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Everyday People](https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP) | 2:45 | 2023-09-29 |  |
 | [Fanfa](https://open.spotify.com/track/0CdXVtDuGEHSqwkeeNRvlg) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Fanfa](https://open.spotify.com/album/13eR8aMR7Fy9Ob3MDp3zR1) | 4:50 | 2021-07-24 | 2022-07-29 |
 | [Fanfa](https://open.spotify.com/track/6p9xq106787GkZzDdYdye5) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Vesta](https://open.spotify.com/album/7DUPPTMSGbmyRGCmZWssLZ) | 4:50 | 2022-06-20 | 2023-05-20 |
 | [Fashion](https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Fashion](https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY) | 3:03 | 2023-05-23 | 2023-08-13 |
@@ -149,7 +150,7 @@
 | [Move Out the Way \- Radio Edit](https://open.spotify.com/track/4q5O14RoZXNF8hTZxKpsd9) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Coffee in the Morning EP](https://open.spotify.com/album/5THT3dLSH2Wb5o4bpJ1ZtS) | 3:49 | 2021-07-24 | 2023-03-09 |
 | [Move Out the Way \- Radio Edit](https://open.spotify.com/track/6bFf1hwv13VHkPm95s24dB) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Coffee in the Morning](https://open.spotify.com/album/6q0LCCmAkCPnma67fi12Vk) | 3:49 | 2022-06-20 | 2023-05-20 |
 | [Music Saved My Life](https://open.spotify.com/track/2XPixA82xnIiju7E0bgt4e) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [Music Saved My Life](https://open.spotify.com/album/5MZqeTw9XvDNq8TgYq0AsO) | 3:44 | 2021-07-24 | 2023-08-07 |
-| [My All](https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [My All](https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH) | 4:00 | 2023-07-28 |  |
+| [My All](https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [My All](https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH) | 4:00 | 2023-07-28 | 2023-09-30 |
 | [Nektar](https://open.spotify.com/track/1of7gEdQHr4ZXUxYr8ougw) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Lisa Toh](https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO) | [Moon II](https://open.spotify.com/album/3xRV4gGRWtSkRpHJqvo6vL) | 3:18 | 2021-07-24 | 2023-05-20 |
 | [Never Let It Go](https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP) | [Final Djs](https://open.spotify.com/artist/591Lye06icbAJuSGpZ9hBa) | [Never Let It Go](https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q) | 2:38 | 2023-05-19 |  |
 | [NYC Dirty Talks](https://open.spotify.com/track/0y7OfSu7FZSJViYvRKigzl) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [JAH Love](https://open.spotify.com/album/24n2ljrMMv2UHYVlibcInw) | 6:23 | 2021-07-24 | 2022-07-29 |

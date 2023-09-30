@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: Layto
 
-268 songs - 14 hr 3 min
+269 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Coke Nose](https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled Vol\. 1](https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a) | 2:44 | 2022-06-17 | 2023-04-09 |
 | [Coke Nose](https://open.spotify.com/track/6Y9ZB2eeYmbEYm7XifqTcg) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Coke Nose](https://open.spotify.com/album/5oWj59uOrqYDxfChyrlRM6) | 2:44 | 2021-05-21 | 2022-07-29 |
 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 | 2021-04-23 |  |
-| [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx) | 3:00 | 2022-04-15 |  |
+| [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx) | 3:00 | 2022-04-15 | 2023-09-30 |
 | [Crown](https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh) | 2:51 | 2022-05-30 | 2023-08-09 |
 | [Crown](https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ) | 2:51 | 2023-08-18 |  |
 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 | 2022-11-25 |  |
@@ -260,6 +260,7 @@
 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 | 2022-03-15 | 2023-09-21 |
 | [Waterproof](https://open.spotify.com/track/6lFdL2AaWZ70APkyCUf19r) | [Hirsch](https://open.spotify.com/artist/5L0UU9wI651RERYSEddxsa) | [Waterproof](https://open.spotify.com/album/5YSVFYYju0F0POQlkCT5db) | 3:39 | 2021-11-12 | 2022-06-13 |
 | [Wave](https://open.spotify.com/track/3hlFUleIxYLQyOt44DTqRX) | [Roseburg](https://open.spotify.com/artist/6aYFM3YVoyI9q7DuTRY9nY) | [Moving Away!](https://open.spotify.com/album/3dUSS5kdtz9m4wiQjnZfC5) | 3:06 | 2020-08-17 | 2022-06-06 |
+| [We Are Who We Are](https://open.spotify.com/track/5DP2aoo37wHvurr9FeNM1W) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [VILLAIN](https://open.spotify.com/album/45DgFMUv8WhXWkWjtI03qN) | 3:33 | 2023-08-18 |  |
 | [We Are Who We Are](https://open.spotify.com/track/5iiQBSPpoo0lIgKeskmLqe) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [VILLAIN](https://open.spotify.com/album/3tRgsk5EB57gjYzb1c90TF) | 3:33 | 2022-10-14 | 2023-03-06 |
 | [Weak In Your Light](https://open.spotify.com/track/4odb2UIgc0u22MNV7p4iQq) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Strange Disciple](https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK) | 4:15 | 2023-08-18 |  |
 | [Weak In Your Light](https://open.spotify.com/track/59NJzV28kIjaPVqnkEX55V) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Weak In Your Light](https://open.spotify.com/album/7jEMFyVOSHEDt307mMeOM1) | 4:15 | 2023-04-21 | 2023-09-27 |

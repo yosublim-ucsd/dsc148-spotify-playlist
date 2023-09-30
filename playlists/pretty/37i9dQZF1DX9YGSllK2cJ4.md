@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,690 likes - 192 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,750 likes - 192 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 141 | [Moonlight](https://open.spotify.com/track/13b7swHOlTGpZoDgtTWFIc) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Moonlight](https://open.spotify.com/album/1bRqYfdj4ipHdK3JXuhxQz) | 2:20 |
 | 142 | [Mmmm Mmmm Mmmm Mmmm](https://open.spotify.com/track/18mZP4bRr7X32gy0YoD4oe) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Mmmm Mmmm Mmmm Mmmm](https://open.spotify.com/album/6UIEYLhTfMIHcKjlisFbZw) | 3:12 |
 | 143 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
-| 144 | [Au loin](https://open.spotify.com/track/7JR2FbKiAkUfCw0pe4F9Ob) | [Bon Coeur](https://open.spotify.com/artist/3uvirEQnNIIz4wsyCPEper) | [Au loin](https://open.spotify.com/album/6434rqJKVGoPvcn2rlZbx2) | 2:47 |
+| 144 | [Au loin](https://open.spotify.com/track/684T86icudUoR4RjT7exYS) | [Bon Coeur](https://open.spotify.com/artist/3uvirEQnNIIz4wsyCPEper) | [Au loin](https://open.spotify.com/album/75xfThp43Rx8tSNXBphZXf) | 2:47 |
 | 145 | [The Room Upstairs](https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [The Room Upstairs](https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1) | 2:20 |
 | 146 | [Waltz, Interrupted](https://open.spotify.com/track/4iMQEdNXGMVlAbqsJGhvxx) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waltz, Interrupted](https://open.spotify.com/album/0Y9TvMNJVcoc6uFmHAEpF5) | 2:11 |
 | 147 | [Evenfall](https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Evenfall](https://open.spotify.com/album/5nSQeRUNCJrPoy412qtL6i) | 2:26 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 191 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 |
 | 192 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 |
 
-Snapshot ID: `MCxjZjk3ZDE4NGZjMDJlOGQwMmNhZmVkMmQ4YTZhYzJhZDA3MzI2NTMz`
+Snapshot ID: `MCw4ZjAzNGY1OTA1NzhkYmZkOTJiMTc4YjdmNTYzMzY5YTk3YmM5NWM0`

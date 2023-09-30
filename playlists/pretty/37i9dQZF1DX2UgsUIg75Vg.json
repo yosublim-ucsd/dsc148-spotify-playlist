@@ -1,13 +1,33 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Cleo Sol",
-  "num_followers": 2363434,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Kenyon Dixon",
+  "num_followers": 2363662,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzhhZTAwY2MzYjI3OTE1YjZkMjMxMjVmYTRiZmYyN2YyMGRjMTc2",
+  "snapshot_id": "MCw3ZDcxNzc3YTc2YmU3OWE1OGExMjRhNjRhMzkwYmJlZmE4YTcwMTVl",
   "tracks": [
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The R&B You Love",
+        "url": "https://open.spotify.com/album/1IGcLVZl44MScNh7QFf9Xr"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 219913,
+      "name": "& Then Some",
+      "url": "https://open.spotify.com/track/2875XTVzJUuYQEEhy8NJGw"
+    },
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
@@ -63,6 +83,26 @@
       "duration_ms": 355081,
       "name": "Space (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/7ghoNKAbiTdM9aov6cNQbI"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/3ZhbexGbcNVqoviFmpYVXu"
+        },
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 152610,
+      "name": "Shame (with Elmiene)",
+      "url": "https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -149,6 +189,26 @@
       "url": "https://open.spotify.com/track/4VfjUbKtTaZsQriNud6Iz2"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Switching Sides (feat. Dee Gatti)",
+        "url": "https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr"
+      },
+      "artists": [
+        {
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        },
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "duration_ms": 139794,
+      "name": "Switching Sides (feat. Dee Gatti)",
+      "url": "https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863"
+    },
+    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "Masego\u2019s Interlude",
@@ -167,6 +227,42 @@
       "duration_ms": 126682,
       "name": "Masego\u2019s Interlude",
       "url": "https://open.spotify.com/track/6CiOWFRE5AaF3H1yQHWeyq"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Day by Day - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7vggzM9Ag5clwyHjXuZU8F"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 230823,
+      "name": "Day by Day - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0Da3eqAgSgLp4UiVdCjJJ1"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Greatest Gift (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -261,6 +357,22 @@
       "url": "https://open.spotify.com/track/3d4ATyPyoh5waQRY8DiXcf"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 293979,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
+    },
+    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "Forever",
@@ -315,6 +427,30 @@
       "duration_ms": 218794,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Question",
+        "url": "https://open.spotify.com/album/3zoXmuTK3jJTXVe0EdIwQm"
+      },
+      "artists": [
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
+        },
+        {
+          "name": "Jussi Halme",
+          "url": "https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Question",
+      "url": "https://open.spotify.com/track/5tkygnHoO2NhFkYPoNd1LL"
     },
     {
       "added_at": "2023-09-16 15:44:45",
@@ -383,22 +519,6 @@
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Midnight Microdose, Vol. 2",
-        "url": "https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 86363,
-      "name": "New Lows",
-      "url": "https://open.spotify.com/track/3AcEznRWD9ySaNvW6TUxcc"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -703,22 +823,6 @@
       "duration_ms": 155761,
       "name": "Good Ex",
       "url": "https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Girls Like You",
-        "url": "https://open.spotify.com/album/3DqlptGG7VBb3CXxIxHbtz"
-      },
-      "artists": [
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 173223,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/2Q2VlgK3KJcuZJUCyX5miq"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1999,30 +2103,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Soak Garri",
-        "url": "https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 211807,
-      "name": "Soak Garri",
-      "url": "https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Caught Me Running",
         "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
       },
@@ -2059,22 +2139,6 @@
       "duration_ms": 174551,
       "name": "Addicted (Kenyon Dixon and Nana Remix)",
       "url": "https://open.spotify.com/track/12cx1i4EjULK0YWyOrXiuw"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Crash & Burn",
-        "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Crash & Burn",
-      "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2471,22 +2535,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Show & Prove",
-        "url": "https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Show & Prove",
-      "url": "https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "PHILEO Deluxe",
         "url": "https://open.spotify.com/album/1k6aTE36jvyDr7QJLtgwKM"
       },
@@ -2623,26 +2671,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Best Feature (feat. Devin Morrison)",
-        "url": "https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3"
-      },
-      "artists": [
-        {
-          "name": "CUBE",
-          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
-        },
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Best Feature",
-      "url": "https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -2667,22 +2695,6 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 167115,
-      "name": "NOBODY KNOWS",
-      "url": "https://open.spotify.com/track/3OJ1TK767oRsv44iHeiCV9"
     },
     {
       "added_at": "2023-09-15 04:00:00",

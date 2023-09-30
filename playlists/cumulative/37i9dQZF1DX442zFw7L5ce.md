@@ -4,7 +4,7 @@
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-117 songs - 8 hr 28 min
+118 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Ninnila](https://open.spotify.com/track/2DDOQBKGmkv7bPoYF1bELz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Tholi Prema](https://open.spotify.com/album/2wRphkgnlcGKkJIjZpxNvb) | 3:54 | 2021-10-21 | 2022-10-14 |
 | [Ninnu Chudagaane](https://open.spotify.com/track/1E5zyR7GT3PKjH3cqhVXVf) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Attarrintiki Daaredi](https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk) | 5:31 | 2022-10-13 |  |
 | [Ninnu Chuse Anandamlo \(From "Gang Leader"\)](https://open.spotify.com/track/7FMvOZMzbhKWBvwNCOByvc) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ninnu Chuse Anandamlo \(From "Gang Leader"\)](https://open.spotify.com/album/6LsiFF3CU5YKaHmNg60pWB) | 4:53 | 2021-10-21 | 2022-10-14 |
+| [Ohho Puththadi Bommaa](https://open.spotify.com/track/3WaggvoQP7BjMXTeIQp8mV) | [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Thika Maka Thanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hsMB3LBXnEB9yHTvN0Qa2) | 3:35 | 2023-09-29 |  |
 | [Okey Oka Lokam](https://open.spotify.com/track/0CHCU726JnK7AIdbqrzN9Y) | [Arun Chiluveru](https://open.spotify.com/artist/5V2HiLnG5lasODb0y5iwVf), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sashi](https://open.spotify.com/album/2Tt1DJbkA80r9q79P6M2BJ) | 3:28 | 2021-10-21 | 2022-10-14 |
 | [Oohale](https://open.spotify.com/track/5zTODldZW1JPE8kpDqnNW6) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0J2JNWnIZ9ZwX2iwXtaqF9) | 4:58 | 2021-10-21 | 2022-10-14 |
 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 | 2022-10-13 |  |

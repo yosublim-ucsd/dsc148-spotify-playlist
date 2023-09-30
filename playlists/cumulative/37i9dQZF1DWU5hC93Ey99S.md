@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-267 songs - 14 hr 48 min
+268 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [I Know](https://open.spotify.com/track/1q5BcbGvoE0AhCk9CR9HeX) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT) | [Rollercoaster](https://open.spotify.com/album/4ePx0TFE05UMh5YCAo8niw) | 2:19 | 2023-06-08 |  |
 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 | 2023-04-13 |  |
 | [I Want You](https://open.spotify.com/track/4EJsOlrrfO2dA9Hy3rwNvn) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [I Want You](https://open.spotify.com/album/7sOHb747Acn8nM3P56vdOn) | 2:55 | 2023-09-21 |  |
-| [I Will](https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 5:08 | 2023-04-13 |  |
+| [I Will](https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 5:08 | 2023-04-13 | 2023-09-30 |
+| [I Will](https://open.spotify.com/track/4LO0iMEDBw0YeW4lP3NeLO) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/2kqtuCdf3VdcIX93cyc5go) | 5:08 | 2023-09-28 |  |
 | [I'm All In](https://open.spotify.com/track/32sVl6OPnToHW3csfoVPWD) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [I'm All In](https://open.spotify.com/album/4Ab2C4bPcDAVpAN0zqGNQe) | 2:59 | 2023-05-04 |  |
 | [In The Summer](https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 3:57 | 2023-07-28 |  |
 | [Insomnia](https://open.spotify.com/track/3GE9ogfnPuuc2YkdCHsqHF) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Insomnia](https://open.spotify.com/album/6WYfJKnEghNhELzi7bhenR) | 3:06 | 2023-04-13 | 2023-07-22 |

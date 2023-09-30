@@ -4,7 +4,7 @@
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-254 songs - 13 hr 18 min
+256 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [El Ranchero Chido](https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Super Exitos](https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0) | 2:43 | 2021-10-22 |  |
 | [El Teterete](https://open.spotify.com/track/4hwq3Fwh2YotxDBndS8cKk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:56 | 2021-10-22 | 2022-07-29 |
 | [El Teterete](https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:57 | 2021-10-22 | 2023-09-27 |
-| [El Teterete](https://open.spotify.com/track/13ij1Ky8BF3w0vClKmeqHz) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/7GmPWgPhUzQUVZXz6VCpTG) | 2:57 | 2023-08-08 |  |
+| [El Teterete](https://open.spotify.com/track/13ij1Ky8BF3w0vClKmeqHz) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/7GmPWgPhUzQUVZXz6VCpTG) | 2:57 | 2023-08-08 | 2023-09-30 |
+| [El Teterete](https://open.spotify.com/track/5Ix3JHCbepRUkc83JCvXmi) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/2uL2olKIqN1qw8lFXwh6by) | 2:57 | 2023-08-08 |  |
 | [El Viejo Joven](https://open.spotify.com/track/5aFGy07yrBpBPnsWlypKUM) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 3: Con Tambora](https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2) | 2:37 | 2021-10-22 | 2022-11-14 |
 | [El Viejo Joven](https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian con Tambora](https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi) | 2:37 | 2021-10-22 |  |
 | [En La Barra](https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Para Vivir Contigo](https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe) | 2:35 | 2022-12-30 |  |
@@ -103,7 +104,8 @@
 | [Esta Tristeza Mía](https://open.spotify.com/track/0LyxlSgDPmm9nCstkWgZmp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar con Tambora](https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM) | 3:29 | 2023-08-08 |  |
 | [Estrellita Marinera](https://open.spotify.com/track/0NatF9wNvUjWVOVGaYKDuf) | [Jorge Luis Cabrera con Banda Tierra Blanca](https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr) | [Música Romántica](https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD) | 2:14 | 2023-08-08 |  |
 | [Eva Maria](https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:47 | 2021-10-22 | 2023-09-27 |
-| [Eva Maria](https://open.spotify.com/track/21Np2DZB42OmfZEOkK1GuR) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/7GmPWgPhUzQUVZXz6VCpTG) | 2:47 | 2023-08-08 |  |
+| [Eva Maria](https://open.spotify.com/track/21Np2DZB42OmfZEOkK1GuR) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/7GmPWgPhUzQUVZXz6VCpTG) | 2:47 | 2023-08-08 | 2023-09-30 |
+| [Eva Maria](https://open.spotify.com/track/4h6Xz72D75YPWxBVqogIFA) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/2uL2olKIqN1qw8lFXwh6by) | 2:47 | 2023-08-08 |  |
 | [Eva María](https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:47 | 2021-10-22 | 2022-07-29 |
 | [Feliz Feliz](https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:37 | 2021-10-22 |  |
 | [Feliz Feliz](https://open.spotify.com/track/2nSbVFNo6FdvZ7ZCuZytYH) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Puro Fuego \- Quebraditas](https://open.spotify.com/album/7ET9TEPdwGtMF9PYroaJ8I) | 3:37 | 2021-10-22 | 2022-11-13 |

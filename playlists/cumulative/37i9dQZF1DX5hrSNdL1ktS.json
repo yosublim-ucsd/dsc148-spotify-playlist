@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 206865,
       "name": "BLINDADO",
       "url": "https://open.spotify.com/track/7kDmN12XizlAvWraA6F08X"
@@ -953,6 +953,28 @@
     },
     {
       "album": {
+        "name": "Carajo Beba",
+        "url": "https://open.spotify.com/album/6QVy8xZy1Say9Eju92A1Sv"
+      },
+      "artists": [
+        {
+          "name": "Romel Flow",
+          "url": "https://open.spotify.com/artist/3E7ZWhX9ASfbGGp7Cd8sDv"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154971,
+      "name": "Carajo Beba",
+      "url": "https://open.spotify.com/track/6PaF7s99cL2s12b1bzzRVz"
+    },
+    {
+      "album": {
         "name": "Causa y Efecto",
         "url": "https://open.spotify.com/album/0i3LDfdEG9hLKrNs8RsALQ"
       },
@@ -998,6 +1020,32 @@
       "duration_ms": 220000,
       "name": "Ceniza",
       "url": "https://open.spotify.com/track/1COvCOGGV38hOhUoGoNYTG"
+    },
+    {
+      "album": {
+        "name": "Chakaleo",
+        "url": "https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz"
+      },
+      "artists": [
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        },
+        {
+          "name": "Alberto Producer",
+          "url": "https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183331,
+      "name": "Chakaleo",
+      "url": "https://open.spotify.com/track/6cfFlDz8iGUVedHJLZjbXI"
     },
     {
       "album": {
@@ -1126,7 +1174,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 178571,
       "name": "como la brisa",
       "url": "https://open.spotify.com/track/5ioimDn2KLDx7lGqDo8fLw"
@@ -1485,6 +1533,28 @@
     },
     {
       "album": {
+        "name": "Del Calent\u00f3n",
+        "url": "https://open.spotify.com/album/7F06bRtzV1MXHU7vW3bjqn"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197351,
+      "name": "Del Calent\u00f3n",
+      "url": "https://open.spotify.com/track/31eIRKr5BbbugXOKNnpPXK"
+    },
+    {
+      "album": {
         "name": "Desamor Feliz (Remix)",
         "url": "https://open.spotify.com/album/06IFSa0PSph2dZSLuZKmpA"
       },
@@ -1606,6 +1676,24 @@
     {
       "album": {
         "name": "Dime",
+        "url": "https://open.spotify.com/album/4MNwzBtCuu8DnEYRCf7XGc"
+      },
+      "artists": [
+        {
+          "name": "Los Domblas",
+          "url": "https://open.spotify.com/artist/0WINk6xD44J14kJGjyt02P"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192142,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/02jGuqnuB3qTII9eNoQBfq"
+    },
+    {
+      "album": {
+        "name": "Dime",
         "url": "https://open.spotify.com/album/7AqEjgf07HPFdnsC9mxNIz"
       },
       "artists": [
@@ -1672,6 +1760,28 @@
       "duration_ms": 173738,
       "name": "Discotequera",
       "url": "https://open.spotify.com/track/5nUbVeL78iikt7qEnNSij5"
+    },
+    {
+      "album": {
+        "name": "Diva Virtual",
+        "url": "https://open.spotify.com/album/2hqyXqnD3YM7oqrRGixHeO"
+      },
+      "artists": [
+        {
+          "name": "Babyohikari",
+          "url": "https://open.spotify.com/artist/0aA4FvF6ISR0lA1Asn3aRW"
+        },
+        {
+          "name": "aikia",
+          "url": "https://open.spotify.com/artist/2jwiOzaFsHAPOJF4RKWB7I"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162677,
+      "name": "Diva Virtual",
+      "url": "https://open.spotify.com/track/5KnZVA8XeShypT4WZAyxHe"
     },
     {
       "album": {
@@ -1950,7 +2060,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 184000,
       "name": "EN EL GHETTO #2 (Perriando)",
       "url": "https://open.spotify.com/track/2nPK7MNs9kYzurlsbJ17vk"
@@ -1976,6 +2086,32 @@
       "duration_ms": 215000,
       "name": "EN EL GHETTO #3 (Par de cosas)",
       "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
+    },
+    {
+      "album": {
+        "name": "EN EL GHETTO #4 (Mamasota)",
+        "url": "https://open.spotify.com/album/4BrIxQMFaO62q9fmDaCpkn"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171521,
+      "name": "EN EL GHETTO #4 (Mamasota)",
+      "url": "https://open.spotify.com/track/0DxcodexgP3zyY8jnNhBiW"
     },
     {
       "album": {
@@ -2702,7 +2838,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 150600,
       "name": "Il\u00f3gico",
       "url": "https://open.spotify.com/track/6a2PRnRqeXkzIaX0a3oLY2"
@@ -2938,7 +3074,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 158297,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ"
@@ -2964,6 +3100,32 @@
       "duration_ms": 148571,
       "name": "Kbron",
       "url": "https://open.spotify.com/track/6kf91uP80iUuYgM4Hmnq6B"
+    },
+    {
+      "album": {
+        "name": "KE IMPORTA",
+        "url": "https://open.spotify.com/album/6gcfi5E4pkaftDW6Mji8dI"
+      },
+      "artists": [
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        },
+        {
+          "name": "DJ Antena",
+          "url": "https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW"
+        },
+        {
+          "name": "Brand Randall",
+          "url": "https://open.spotify.com/artist/1uqGYfkBwPzgYzZ7mVylcl"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154901,
+      "name": "KE IMPORTA",
+      "url": "https://open.spotify.com/track/6dnMsrOKQPJFlFXWwQTyJL"
     },
     {
       "album": {
@@ -4414,7 +4576,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 186350,
       "name": "Nada Es Para Siempre (feat. Nico Valdi)",
       "url": "https://open.spotify.com/track/016pZdvJvzQ5RNZy48haxB"
@@ -4738,6 +4900,28 @@
       "duration_ms": 257657,
       "name": "Nos Matamos",
       "url": "https://open.spotify.com/track/7mo1AfuiwZaPxoD6UX7P3A"
+    },
+    {
+      "album": {
+        "name": "MILLAS",
+        "url": "https://open.spotify.com/album/71ANhRl5U4jM8vBUTvQTsZ"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119533,
+      "name": "Nota",
+      "url": "https://open.spotify.com/track/5bC850rBpoHkvF0Nx4t2YM"
     },
     {
       "album": {
@@ -5550,7 +5734,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 173793,
       "name": "Prende y Fuma",
       "url": "https://open.spotify.com/track/2l1gClWNT7axdvdHiHCBy1"
@@ -5788,7 +5972,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 198120,
       "name": "REGGAETON SAD",
       "url": "https://open.spotify.com/track/6MUdaMmlboGccKv9Fm5Ze3"
@@ -5978,7 +6162,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 202594,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
@@ -6118,6 +6302,32 @@
       "duration_ms": 172648,
       "name": "Sata",
       "url": "https://open.spotify.com/track/3sPVufhKMJxNqH4OVLBUT1"
+    },
+    {
+      "album": {
+        "name": "Sateo",
+        "url": "https://open.spotify.com/album/1mMhRD2nVHKclStIgS1OCC"
+      },
+      "artists": [
+        {
+          "name": "Chris Hermosillo",
+          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
+        },
+        {
+          "name": "Xteve",
+          "url": "https://open.spotify.com/artist/1SUmXJPNNZZRzs11DJvGcE"
+        },
+        {
+          "name": "Sammy G",
+          "url": "https://open.spotify.com/artist/6n4jWB2SCDA59vsUlp8Mc1"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Sateo",
+      "url": "https://open.spotify.com/track/1PFDTC4pDagLY7bSy0Htzp"
     },
     {
       "album": {
@@ -7820,7 +8030,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 161194,
       "name": "\u00d1ero Session 4",
       "url": "https://open.spotify.com/track/28LzTKSNoR7a0kcTdFgpmS"
@@ -7850,6 +8060,28 @@
       "duration_ms": 147633,
       "name": "\u00d1ero Session 5",
       "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
+    },
+    {
+      "album": {
+        "name": "\u00d1ero Session 7",
+        "url": "https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183012,
+      "name": "\u00d1ero Session 7",
+      "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
     },
     {
       "album": {

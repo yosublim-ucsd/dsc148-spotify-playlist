@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2058386,
+  "num_followers": 2058433,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTM5ODIsODY0NzU5NjBlMGY3ODU5ZWZhYTI5MzEyYWNlY2YzYWU1ZTk5MmY2Nw==",
+  "snapshot_id": "MTM5OTQsZjcyMmJlNzk0N2JhMTIzNWM3MGFkOTA1NjYxN2QzNmVkZDU0NDk3OQ==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -633,6 +633,26 @@
       "url": "https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp"
     },
     {
+      "added_at": "2023-09-29 20:11:41",
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/3PVnEPRSacSJZ4plVjLm7S"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "2Hounds",
+          "url": "https://open.spotify.com/artist/0qeQAOjEYyeV2opWZdRcU9"
+        }
+      ],
+      "duration_ms": 180076,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/439JiYk1AGzECwkEiJm6WX"
+    },
+    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "Nothing's Perfect (TWISTED + Tearz Remix)(feat. Oliver Tree)",
@@ -715,26 +735,6 @@
       "duration_ms": 210638,
       "name": "Perfect For A Moment",
       "url": "https://open.spotify.com/track/6dO4rJJj8anImxP6wONHMy"
-    },
-    {
-      "added_at": "2023-09-15 19:55:09",
-      "album": {
-        "name": "Existence",
-        "url": "https://open.spotify.com/album/76ryfgoc14jxLSmk7bjmnU"
-      },
-      "artists": [
-        {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        },
-        {
-          "name": "Fifty Grand",
-          "url": "https://open.spotify.com/artist/6XVOloBtqazlT9fufDyyZV"
-        }
-      ],
-      "duration_ms": 161006,
-      "name": "Existence",
-      "url": "https://open.spotify.com/track/16hPKxLT8rxloIGI4EU4ak"
     },
     {
       "added_at": "2023-09-06 04:03:55",
@@ -1477,6 +1477,26 @@
       "url": "https://open.spotify.com/track/5PgFn6trSKC5lHcXHYCRQI"
     },
     {
+      "added_at": "2023-09-15 19:55:09",
+      "album": {
+        "name": "Existence",
+        "url": "https://open.spotify.com/album/76ryfgoc14jxLSmk7bjmnU"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Fifty Grand",
+          "url": "https://open.spotify.com/artist/6XVOloBtqazlT9fufDyyZV"
+        }
+      ],
+      "duration_ms": 161006,
+      "name": "Existence",
+      "url": "https://open.spotify.com/track/16hPKxLT8rxloIGI4EU4ak"
+    },
+    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "Dead Friends",
@@ -1803,6 +1823,26 @@
       "duration_ms": 205333,
       "name": "Savage (feat. Flux Pavilion & MAX)",
       "url": "https://open.spotify.com/track/0kD586ste6xyDRqUYhVlCh"
+    },
+    {
+      "added_at": "2023-09-29 17:32:58",
+      "album": {
+        "name": "VAMOS DAN\u00c7AR",
+        "url": "https://open.spotify.com/album/1frYkIZSlYpHJauO1t6FIN"
+      },
+      "artists": [
+        {
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        },
+        {
+          "name": "808iuli",
+          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
+        }
+      ],
+      "duration_ms": 61000,
+      "name": "VAMOS DAN\u00c7AR",
+      "url": "https://open.spotify.com/track/0m27jaB75GPulsmIUMQzj1"
     },
     {
       "added_at": "2023-09-08 05:08:15",
@@ -2301,6 +2341,26 @@
       "url": "https://open.spotify.com/track/1iA7DyrJbukpd4X2EcT9Xd"
     },
     {
+      "added_at": "2023-09-29 17:21:27",
+      "album": {
+        "name": "retro electrique fever",
+        "url": "https://open.spotify.com/album/2y6UGYRHMrQQ1IJZ4vWYbb"
+      },
+      "artists": [
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        },
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "retro electrique fever",
+      "url": "https://open.spotify.com/track/0DRZRfXOWgj2VNJNRRqNnR"
+    },
+    {
       "added_at": "2023-09-06 04:03:55",
       "album": {
         "name": "On The Coast!",
@@ -2471,6 +2531,42 @@
       "duration_ms": 254896,
       "name": "Limelight (NGHTMRE Remix)",
       "url": "https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank"
+    },
+    {
+      "added_at": "2023-09-29 17:09:45",
+      "album": {
+        "name": "END OF TIME",
+        "url": "https://open.spotify.com/album/2z2xFQpt4PIcXqYZsNQwDc"
+      },
+      "artists": [
+        {
+          "name": "37R",
+          "url": "https://open.spotify.com/artist/0oXTmSgYfCqL4sbxxOwXDP"
+        },
+        {
+          "name": "dxnkwer",
+          "url": "https://open.spotify.com/artist/7AmkqDnifFxuz6KuDccmps"
+        }
+      ],
+      "duration_ms": 154909,
+      "name": "END OF TIME",
+      "url": "https://open.spotify.com/track/1LVfILfhXn4xww580RWVa0"
+    },
+    {
+      "added_at": "2023-09-29 17:13:29",
+      "album": {
+        "name": "SINTA O MEDO",
+        "url": "https://open.spotify.com/album/6okmpdQcjJ4dTQ1ctrmPw7"
+      },
+      "artists": [
+        {
+          "name": "STXRZ",
+          "url": "https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4"
+        }
+      ],
+      "duration_ms": 104571,
+      "name": "SINTA O MEDO",
+      "url": "https://open.spotify.com/track/0xNf5EN6cosxt5YZmR1F3Z"
     },
     {
       "added_at": "2023-09-22 05:50:42",

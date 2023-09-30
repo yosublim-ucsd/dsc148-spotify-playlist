@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Not NOT pop. Cover: underscores",
+  "description": "Not NOT pop. Cover: ericdoa",
   "name": "anti pop",
   "tracks": [
     {
@@ -5708,7 +5708,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 182146,
       "name": "Crying In My Car (with Teezo Touchdown)",
       "url": "https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl"
@@ -6548,7 +6548,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 251175,
       "name": "DnD (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
@@ -18952,7 +18952,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 186957,
       "name": "PETTY (feat. TiaCorine)",
       "url": "https://open.spotify.com/track/4WAwwhUc54CHYksDvVP8Zt"
@@ -25107,6 +25107,36 @@
     },
     {
       "album": {
+        "name": "The Gods Must Be Crazy",
+        "url": "https://open.spotify.com/album/5isDMdPrvufHyLyO8E4Hr1"
+      },
+      "artists": [
+        {
+          "name": "Armand Hammer",
+          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "E L U C I D",
+          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180772,
+      "name": "The Gods Must Be Crazy",
+      "url": "https://open.spotify.com/track/62ir3CludVLlbrXk6AOlGg"
+    },
+    {
+      "album": {
         "name": "The Joke",
         "url": "https://open.spotify.com/album/1o8K4bT1jZ8ayWT8uc0cyf"
       },
@@ -27245,6 +27275,24 @@
     },
     {
       "album": {
+        "name": "VIDEO GAME",
+        "url": "https://open.spotify.com/album/5byaS0rosm6QwgVwtRPoeb"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128720,
+      "name": "VIDEO GAME",
+      "url": "https://open.spotify.com/track/2dPgrDsNTN2tTUQMn3vWW5"
+    },
+    {
+      "album": {
         "name": "VII. Bourbon",
         "url": "https://open.spotify.com/album/1qjiEbsRurvmj3kb4ZMFyJ"
       },
@@ -28466,6 +28514,24 @@
       "duration_ms": 150620,
       "name": "Wurli",
       "url": "https://open.spotify.com/track/1BgN9D0eR6ziZ4P9Sme9S6"
+    },
+    {
+      "album": {
+        "name": "www she hot",
+        "url": "https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "www she hot",
+      "url": "https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH"
     },
     {
       "album": {

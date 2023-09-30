@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: 2018
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,013 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,187 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 13 | [Jil Jil Jil](https://open.spotify.com/track/3DTtRxqlIhnWKW9WjRQnGj) | [Varsha Renjith](https://open.spotify.com/artist/2CJl46UZja5lOhOegAkQRb), [Meera Prakash](https://open.spotify.com/artist/7j6IFEqEjhyCZ7orLZDP8Y) | [Sulaikha Manzil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KEn6h4Pr8FJ3vHyS3DfvH) | 5:36 |
 | 14 | [Aethu Kari Raavilum \- From "Bangalore Days"](https://open.spotify.com/track/7zxHiMmVLt4LGWpOMqOpUh) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6) | [Bangalore Days](https://open.spotify.com/album/2ZRSQZ15TIIsvC1nMbQreN) | 5:25 |
 | 15 | [Jeevamshamayi \(From "Theevandi"\)](https://open.spotify.com/track/59oAJRA0zzLzl9AXa1R6zh) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61) | [Jeevamshamayi \(From "Theevandi"\)](https://open.spotify.com/album/1rMlUn5HViYHGwMrFYCca1) | 5:23 |
-| 16 | [Aaro Nenjil](https://open.spotify.com/track/6YINoRUOzEFYOnGwOafdEI) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Godha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fK4A4OH1dG8XNCQ2KtpZQ) | 4:27 |
-| 17 | [Ee Kaattu](https://open.spotify.com/track/2uddWiAVaH4owVLOHZgjGp) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Deepak Dev](https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3) | [Adam Joan](https://open.spotify.com/album/1c0bWXAeQ4tNpIB7Ok3pSo) | 5:28 |
+| 16 | [Ee Kaattu](https://open.spotify.com/track/2uddWiAVaH4owVLOHZgjGp) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Deepak Dev](https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3) | [Adam Joan](https://open.spotify.com/album/1c0bWXAeQ4tNpIB7Ok3pSo) | 5:28 |
+| 17 | [Aaro Nenjil](https://open.spotify.com/track/6YINoRUOzEFYOnGwOafdEI) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Godha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fK4A4OH1dG8XNCQ2KtpZQ) | 4:27 |
 | 18 | [Nee Himamazhayayi \- From "Edakkad Battalion 06"](https://open.spotify.com/track/0BCaEJQFk94ushm4Jc97Vo) | [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P) | [Nee Himamazhayayi \(From "Edakkad Battalion 06"\)](https://open.spotify.com/album/6k4bzogIhV1Xl2Trbiuq9k) | 5:04 |
 | 19 | [Etho Mazhayil](https://open.spotify.com/track/2Psbt9MZfVJNuHXFgG7DHh) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Prince George](https://open.spotify.com/artist/3Xh6eQ2RZtdSvsbpLHFKu0) | [Vijay Superum Pournamiyum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2o5ujHPcWrrRmR8UF1Jj6V) | 3:38 |
 | 20 | [Mehabooba](https://open.spotify.com/track/3Hl8IV6SLR8h40GiJquKDU) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/6nmEkCuRxNz0SvM34IgVIh) | 3:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 59 | [Devadoothar Paadi \- From "Nna Thaan Case Kodu"](https://open.spotify.com/track/4Zi74O1mr960YTHwcTVOej) | [Biju Narayanan](https://open.spotify.com/artist/039dmmH0fdQTlvXC0zGlQx), [Ouseppachan](https://open.spotify.com/artist/5wq0asvXF4jyJs8ydPPFzR) | [Devadoothar Paadi \(From "Nna Thaan Case Kodu"\)](https://open.spotify.com/album/7ycVSsCV5hOlMQstQqeZeA) | 5:44 |
 | 60 | [Ollulleru](https://open.spotify.com/track/5zOOJsiH10rUhnm3ZhGTJU) | [Praseetha Chalakudy](https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu) | [Ajagajantharam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ATmRWQ99XQiT5ctaCFT1q) | 3:22 |
 
-Snapshot ID: `MCxiYTYxYTU1YmMyOGFiMDM5OTc2YjNhOWJhYjgzNjhiOWYxZjQwYjcz`
+Snapshot ID: `MCw4Zjg5MzdkMDM2MTAyNTdkNDllMTQwY2MxZmFlNjUzYmNmMjE2MWRh`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Todo el sonido indie de Chile. Foto: D\u00ebnver ",
+  "description": "Todo el sonido indie de Chile. Foto: Marineros",
   "name": "Indie Chile",
   "tracks": [
     {
@@ -2057,6 +2057,28 @@
     },
     {
       "album": {
+        "name": "Remezclas Salvajes",
+        "url": "https://open.spotify.com/album/7h8ip62LdSASky4mRSYu5e"
+      },
+      "artists": [
+        {
+          "name": "La Playa",
+          "url": "https://open.spotify.com/artist/3mRz1jPyfOO3MD4BnkQPiO"
+        },
+        {
+          "name": "Sweet Pomelo",
+          "url": "https://open.spotify.com/artist/1kRzlG27oPe0i3Ll09llgM"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169764,
+      "name": "El Deportista - Remix",
+      "url": "https://open.spotify.com/track/5rglXd6m61Yw0kAnujwBPo"
+    },
+    {
+      "album": {
         "name": "Independencia",
         "url": "https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p"
       },
@@ -3232,7 +3254,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 174014,
       "name": "Intermodal",
       "url": "https://open.spotify.com/track/36x4VsTSnzLdX2V2lAfis3"
@@ -3901,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "Lunachena",
+        "url": "https://open.spotify.com/album/2qTJJyW8DpSmZAzCOzsv3d"
+      },
+      "artists": [
+        {
+          "name": "Tu Temple",
+          "url": "https://open.spotify.com/artist/5s3HMKPs4Jn0nWvkXXASuF"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257040,
+      "name": "Lunachena",
+      "url": "https://open.spotify.com/track/3IrwrEJzH75G8Iitfkrzhw"
+    },
+    {
+      "album": {
         "name": "Madre M\u00eda",
         "url": "https://open.spotify.com/album/71oVyBiwTfXKZJ4vd7Cg0W"
       },
@@ -3934,7 +3974,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 168152,
       "name": "Magnetismo",
       "url": "https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I"
@@ -5112,7 +5152,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 236004,
       "name": "Patio de Adelante",
       "url": "https://open.spotify.com/track/0qlmzGHRC7pBs1bikI23oa"
@@ -5681,6 +5721,24 @@
     },
     {
       "album": {
+        "name": "Provincia",
+        "url": "https://open.spotify.com/album/3e7zM7BE3POOfq1lGY7OL9"
+      },
+      "artists": [
+        {
+          "name": "Nico Carre\u00f1o",
+          "url": "https://open.spotify.com/artist/1r5S8uRE70Zeacs0wSIIjl"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Provincia",
+      "url": "https://open.spotify.com/track/582VsBLMS0DkFoyf62jofJ"
+    },
+    {
+      "album": {
         "name": "Que no se corte la cadena",
         "url": "https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu"
       },
@@ -6112,6 +6170,24 @@
       "duration_ms": 152517,
       "name": "Sal - Reversi\u00f3n",
       "url": "https://open.spotify.com/track/3ftpY64u6Vgv6KzerJJs8U"
+    },
+    {
+      "album": {
+        "name": "Al calor de un sol que acaba de morir",
+        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187105,
+      "name": "Salvaje y tierno",
+      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
     },
     {
       "album": {
@@ -6644,7 +6720,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 220081,
       "name": "Sur",
       "url": "https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx"
@@ -7518,7 +7594,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 229010,
       "name": "Venenos",
       "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
@@ -7696,7 +7772,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 242869,
       "name": "Vivo imaginando cosas",
       "url": "https://open.spotify.com/track/1zojNwm9ZUOIRQc74WQuND"

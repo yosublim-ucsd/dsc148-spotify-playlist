@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-263 songs - 15 hr 41 min
+264 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Artifice](https://open.spotify.com/track/02MDFQ1vsB01uvmxrptDMY) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Artifice](https://open.spotify.com/album/3qt3IxM9Xgd25BwqScDDzw) | 3:17 | 2020-11-04\* | 2021-10-20 |
 | [Artifice](https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Tremors](https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp) | 3:17 | 2022-04-29 |  |
 | [Atmosphere](https://open.spotify.com/track/35Q2DPpgCjiDJlkruwfTWe) | [Stalgia](https://open.spotify.com/artist/3rGhySBeli7RDNfKZjvvkr) | [Atmosphere](https://open.spotify.com/album/4AVvgfBcoPROiIEOe6Swht) | 2:15 | 2021-03-26 | 2022-11-14 |
-| [Avery](https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Avery](https://open.spotify.com/album/643Gnd42azlZukIkuTucy6) | 3:14 | 2022-04-29 |  |
+| [Avery](https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Avery](https://open.spotify.com/album/643Gnd42azlZukIkuTucy6) | 3:14 | 2022-04-29 | 2023-09-30 |
 | [Avery](https://open.spotify.com/track/3d93pRHHPjkrDE5Jn4G7Yl) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Avery](https://open.spotify.com/album/2sD6iY7aOhjFC2Dxqt4h1Q) | 3:14 | 2020-12-18 | 2022-07-19 |
 | [Awaken \(Feel Alive\)](https://open.spotify.com/track/1p6AQlMFpnH4hmhrSfoQ3k) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Awaken \(Feel Alive\)](https://open.spotify.com/album/3G2IDH5CJxDMVaX8mQ9kVp) | 3:00 | 2021-10-19 |  |
 | [Back Pedal](https://open.spotify.com/track/1QruitU3xFHKx0dO68avih) | [Amber Maya](https://open.spotify.com/artist/3jPSmQEwdBu8xw5WoiFmEU), [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Back Pedal](https://open.spotify.com/album/53L9UQ6pj2zhSC1N4Gfc1L) | 3:18 | 2020-11-04\* | 2021-10-20 |
@@ -91,6 +91,7 @@
 | [focus \(with Tim Atlas\)](https://open.spotify.com/track/24np6zeKNIU28oY3CAvQCh) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [are we?](https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze) | 3:27 | 2022-04-29 | 2022-11-13 |
 | [focus \(with Tim Atlas\)](https://open.spotify.com/track/47fF4J7xnRhR7KYRgyuosa) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [focus \(with Tim Atlas\)](https://open.spotify.com/album/2hAl8t8EYwqZPnluSOlYn4) | 3:27 | 2021-03-14 | 2022-07-29 |
 | [Forevermore](https://open.spotify.com/track/0ZOkSl1fZHaDYmgSKBDOyB) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forevermore](https://open.spotify.com/album/1xyfMKTdotUdGmnC5B5lUD) | 3:53 | 2020-11-04\* | 2021-10-20 |
+| [Four Winds](https://open.spotify.com/track/18ZlXU6zRcjPcxdGwr8gC9) | [Opia](https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh) | [Beverly Blues](https://open.spotify.com/album/35YyNe6AI5txgMjdHrhl4Y) | 3:43 | 2023-01-11 |  |
 | [Four Winds](https://open.spotify.com/track/3NPiANHZYahLZhUT00GwTw) | [Opia](https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh) | [Four Winds](https://open.spotify.com/album/3WgtvCNabRAok46pCZJyMt) | 3:43 | 2020-11-04\* | 2023-09-21 |
 | [Frail State Of Mind](https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Frail State Of Mind](https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn) | 3:54 | 2020-11-04\* |  |
 | [Francesca](https://open.spotify.com/track/4SKt118N7T1TKhodbTPNw9) | [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ), [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Francesca / Weekends](https://open.spotify.com/album/7mJkDAmNIiSWCRZHBuiuwS) | 3:39 | 2020-12-04 | 2022-07-29 |

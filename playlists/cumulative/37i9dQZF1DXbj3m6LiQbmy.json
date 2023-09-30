@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Bloody Mary",
+        "url": "https://open.spotify.com/album/0nwNGmFOJkmEy5zI9rFwVr"
+      },
+      "artists": [
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135512,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/6dfus00rufybawdDBasdG8"
+    },
+    {
+      "album": {
         "name": "Devoid Of Dimension, Pt.1",
         "url": "https://open.spotify.com/album/4zokk2khHfb9tEuBBnYI5Y"
       },
@@ -622,6 +640,24 @@
       "duration_ms": 275000,
       "name": "Blush Beat (RIVA Remix)",
       "url": "https://open.spotify.com/track/1hWX30XcjA9AxOQpbI8Vmy"
+    },
+    {
+      "album": {
+        "name": "BODY",
+        "url": "https://open.spotify.com/album/1fVxaKD3wlxlGLnSN0BWUF"
+      },
+      "artists": [
+        {
+          "name": "Fucksia",
+          "url": "https://open.spotify.com/artist/78zGiRnNQVpLCK3Fz29J0P"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208894,
+      "name": "BODY",
+      "url": "https://open.spotify.com/track/1AVxwEGZupwnrxX9KjnovY"
     },
     {
       "album": {
@@ -1216,7 +1252,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 258821,
       "name": "Consense",
       "url": "https://open.spotify.com/track/6EZoj6tAYQqQ90EJf1e8ec"
@@ -3144,7 +3180,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 138500,
       "name": "Ma che Hit",
       "url": "https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH"

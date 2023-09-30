@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Kossisko
 
-351 songs - 20 hr 43 min
+352 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Banana Song \- London Session](https://open.spotify.com/track/2vF0e9iDV7B3WSAzxzWW5p) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY), [The Swingles](https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU) | [Banana Song \(London Session\)](https://open.spotify.com/album/1AKH3J9C87k1jMKgUFEqR8) | 5:34 | 2022-08-12 | 2023-03-25 |
 | [Be Life](https://open.spotify.com/track/6tzlSbv5DXJUbQNR7ohFC9) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Years](https://open.spotify.com/album/4iucJnSKmWG79eEsu0GxyB) | 4:43 | 2021-12-03 | 2022-05-07 |
 | [Better Off](https://open.spotify.com/track/0ucPJRg36w8HDRwi1GzYlQ) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Better Off](https://open.spotify.com/album/2Fl0KLMRuSOjCsUMKACIKJ) | 2:54 | 2022-11-25 | 2023-03-04 |
+| [BLACK JAMES DEAN](https://open.spotify.com/track/16WZ9KBCv48ChvdyuSpZcH) | [Gerard Alain](https://open.spotify.com/artist/2M1iqciaWLU8JSGJgFvhKx) | [BLACK JAMES DEAN](https://open.spotify.com/album/4YzlTpKfVP21MWqv9MBEp6) | 2:33 | 2023-09-29 |  |
 | [Blast Off](https://open.spotify.com/track/0szDyQC4IcwNJZVwgagtrm) | [Brandon Coleman](https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs) | [Blast Off](https://open.spotify.com/album/4H3PVX3Zks7zFo7fj252J0) | 1:48 | 2022-04-22 | 2023-04-29 |
 | [Bloom](https://open.spotify.com/track/6fpIcWxRGGqa681gUHJonh) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Horizons](https://open.spotify.com/album/3wmbsIFbLZ5FLT55iqB9KL) | 3:03 | 2020-11-20 | 2022-04-09 |
 | [Body Language](https://open.spotify.com/track/6M4HWfNEezmFNO91YYWnwf) | [Mojoflo](https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED) | [Body Language](https://open.spotify.com/album/2xHWcsmlFfTPf0v1QoDEDi) | 4:08 | 2021-04-02 | 2022-06-18 |
@@ -170,7 +171,7 @@
 | [I Did It For You](https://open.spotify.com/track/4xWLo3R0jjTVOdmtjC5MKI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:01 | 2020-11-20 | 2022-04-09 |
 | [I Don't Wanna Be In Love, But I Don't Wanna Be Alone](https://open.spotify.com/track/0Cy1cXdjWDZogM5YVk0EDI) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [I Don't Wanna Be In Love, But I Don't Wanna Be Alone](https://open.spotify.com/album/78nImjHu9SijmNwWEccFQn) | 2:50 | 2023-09-01 |  |
 | [I Found You \(feat\. Benjamin Ingrosso\) \- Dimitri From Paris Remix](https://open.spotify.com/track/08Cws0E0tiHfm18dQINYvZ) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [I Found You \(feat\. Benjamin Ingrosso\) \[Dimitri From Paris Remix\]](https://open.spotify.com/album/4QWCCbdhcZkFc8627LOVXX) | 2:43 | 2021-09-17 | 2022-09-17 |
-| [I GOT IT](https://open.spotify.com/track/6ddW4TWSSIuQpJiNf2DN5I) | [Gerard Alain](https://open.spotify.com/artist/2M1iqciaWLU8JSGJgFvhKx) | [I GOT IT](https://open.spotify.com/album/7Ittuxr5x2Z1mM8wxag9zS) | 3:03 | 2023-06-23 |  |
+| [I GOT IT](https://open.spotify.com/track/6ddW4TWSSIuQpJiNf2DN5I) | [Gerard Alain](https://open.spotify.com/artist/2M1iqciaWLU8JSGJgFvhKx) | [I GOT IT](https://open.spotify.com/album/7Ittuxr5x2Z1mM8wxag9zS) | 3:03 | 2023-06-23 | 2023-09-30 |
 | [I Won't Do U Like That](https://open.spotify.com/track/7DKnkvTDOyFfKXCF8QY4we) | [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Call Collect 8](https://open.spotify.com/album/5WKe6hq1b2Ywo2wpn1o2fD) | 2:35 | 2021-09-03 | 2022-10-29 |
 | [Ice & Fire](https://open.spotify.com/track/440ldYsqevrNXmwwj9DD2B) | [King Canyon](https://open.spotify.com/artist/78mhiIF6AMT9bmfDp1P9NV), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Ice & Fire](https://open.spotify.com/album/1xauUnaLc4Baj0MmUbEggs) | 4:04 | 2022-12-02 |  |
 | [In My Bones](https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv) | [DJ Who](https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [In My Bones](https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp) | 3:37 | 2023-07-14 |  |

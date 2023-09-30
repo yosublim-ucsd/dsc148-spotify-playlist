@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 277335,
+  "num_followers": 277339,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODI5NmI2MDRkYmQwZTk4ZDJmN2NiODcyYzgzZWYwNzVjMjMzYzkz",
+  "snapshot_id": "MCxlOTRjZDEzZGMyMWRiMTg3YTkzNWUzZWI1NzI3NWFmNzdkNGMyYWE0",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -187,6 +187,26 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Scared to Be Lonely (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6YGs9QbzBuoXWWeJ2rcSBY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 257357,
+      "name": "Scared to Be Lonely - Acoustic Version",
+      "url": "https://open.spotify.com/track/29CjkGjZnDVdJsfbRoNOGJ"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) [Acoustic]",
         "url": "https://open.spotify.com/album/5Q41hlQpul1txWWurdTHtY"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 212692,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - Acoustic",
       "url": "https://open.spotify.com/track/0qynC1yRTNWI7JEsKV9dwg"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Scared to Be Lonely (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6YGs9QbzBuoXWWeJ2rcSBY"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 257357,
-      "name": "Scared to Be Lonely - Acoustic Version",
-      "url": "https://open.spotify.com/track/29CjkGjZnDVdJsfbRoNOGJ"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Tell Me You Love Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "No Promises - Acoustic",
-      "url": "https://open.spotify.com/track/4gd5QOwPhztB74FW28S93P"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Into You (The Remixes)",
         "url": "https://open.spotify.com/album/4FhqSHksxRJL2JuDKtj3pF"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 176917,
       "name": "Into You - Acoustic Version",
       "url": "https://open.spotify.com/track/4pgX15KGFNTHQFZg7GL3n8"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Tell Me You Love Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "No Promises - Acoustic",
+      "url": "https://open.spotify.com/track/4gd5QOwPhztB74FW28S93P"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -971,6 +971,26 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Happier (Stripped)",
+        "url": "https://open.spotify.com/album/45mLpZJlL5jNHxK2hk0BS8"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "Happier - Stripped",
+      "url": "https://open.spotify.com/track/0Gz1nOeTeNoMnKzb9vflds"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Smoke Filled Room (Acoustic Session)",
         "url": "https://open.spotify.com/album/4XTi91nigdbuWtOGjimn9D"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 191327,
       "name": "By Your Side (feat. Tom Grennan) - Acoustic",
       "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Happier (Stripped)",
-        "url": "https://open.spotify.com/album/45mLpZJlL5jNHxK2hk0BS8"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "Happier - Stripped",
-      "url": "https://open.spotify.com/track/0Gz1nOeTeNoMnKzb9vflds"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Stay The Night (Acoustic)",
-        "url": "https://open.spotify.com/album/723Y2fykArGgggQKPmvW0v"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Stay The Night - Acoustic",
-      "url": "https://open.spotify.com/track/4beQ74mY5EVRwXgBJ7wFf6"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Feel Good (feat. Daya) [Acoustic]",
         "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 239772,
       "name": "Feel Good (feat. Daya) - Acoustic",
       "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Stay The Night (Acoustic)",
+        "url": "https://open.spotify.com/album/723Y2fykArGgggQKPmvW0v"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "Stay The Night - Acoustic",
+      "url": "https://open.spotify.com/track/4beQ74mY5EVRwXgBJ7wFf6"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1383,26 +1383,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
-        "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
+        "name": "You Were Loved (with OneRepublic) [Acoustic]",
+        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
-        },
-        {
-          "name": "John Ewbank",
-          "url": "https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 192724,
-      "name": "This Is What It Feels Like - John Ewbank Classical Remix",
-      "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
+      "duration_ms": 211967,
+      "name": "You Were Loved (with OneRepublic) - Acoustic",
+      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1427,6 +1423,30 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
+        "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        },
+        {
+          "name": "John Ewbank",
+          "url": "https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG"
+        }
+      ],
+      "duration_ms": 192724,
+      "name": "This Is What It Feels Like - John Ewbank Classical Remix",
+      "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Old Friend / Capricorn (Live Acoustic)",
         "url": "https://open.spotify.com/album/7tylMldS4qydgtd5PTJQsN"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 172756,
       "name": "Old Friend - Live Acoustic",
       "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "You Were Loved (with OneRepublic) [Acoustic]",
-        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 211967,
-      "name": "You Were Loved (with OneRepublic) - Acoustic",
-      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1787,26 +1787,18 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Looking For Me (Remixes)",
-        "url": "https://open.spotify.com/album/0IR8DIvSzJAGlSGqypZsNE"
+        "name": "Violin Covers Pt. II",
+        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
       },
       "artists": [
         {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+          "name": "Daniel Jang",
+          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
         }
       ],
-      "duration_ms": 163562,
-      "name": "Looking For Me - Acoustic",
-      "url": "https://open.spotify.com/track/5lyamXh1WgObdOl7Cmsgol"
+      "duration_ms": 186754,
+      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
+      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1831,6 +1823,30 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Looking For Me (Remixes)",
+        "url": "https://open.spotify.com/album/0IR8DIvSzJAGlSGqypZsNE"
+      },
+      "artists": [
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 163562,
+      "name": "Looking For Me - Acoustic",
+      "url": "https://open.spotify.com/track/5lyamXh1WgObdOl7Cmsgol"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Watch the World",
         "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 201748,
       "name": "Fears - Acoustic Version",
       "url": "https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Violin Covers Pt. II",
-        "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
-      },
-      "artists": [
-        {
-          "name": "Daniel Jang",
-          "url": "https://open.spotify.com/artist/3MVrehTlNNnn06iUlj4axN"
-        }
-      ],
-      "duration_ms": 186754,
-      "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
-      "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"
     },
     {
       "added_at": "2023-03-20 20:19:53",

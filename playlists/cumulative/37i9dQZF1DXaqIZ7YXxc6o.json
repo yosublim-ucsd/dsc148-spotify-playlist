@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 156322,
       "name": "BAGS",
       "url": "https://open.spotify.com/track/15SqfVDeINiOECY9juEzVo"
@@ -2594,7 +2594,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 195000,
       "name": "Better Left Unsaid",
       "url": "https://open.spotify.com/track/084Bexeea6EEoUVBWz9AGB"
@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 197258,
       "name": "Borderline (feat. EMELINE)",
       "url": "https://open.spotify.com/track/5c27MdKM2FFQMW8eEJy63e"
@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 188000,
       "name": "BOTH",
       "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
@@ -5308,7 +5308,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 224009,
       "name": "Colourfast",
       "url": "https://open.spotify.com/track/2MoWNYaX0UT7TKbCCx2DsP"
@@ -12490,7 +12490,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 198260,
       "name": "I built a fort",
       "url": "https://open.spotify.com/track/0GOhobC9juiVNIS0kWI1oR"
@@ -14728,7 +14728,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 178615,
       "name": "let\u2019s end it",
       "url": "https://open.spotify.com/track/52tlJzalr0InyauY1TGBfV"
@@ -15152,7 +15152,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 143414,
       "name": "Live A Little",
       "url": "https://open.spotify.com/track/3rt0adJ3a0nkVwClSQPpzy"
@@ -15532,7 +15532,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 238729,
       "name": "Love Focus",
       "url": "https://open.spotify.com/track/6ysLchNczIS4xLwU1xLTkU"
@@ -15688,6 +15688,24 @@
       "duration_ms": 176220,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/68hh4dfRImeafyik0zKP02"
+    },
+    {
+      "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163786,
+      "name": "LUCES DE TECNO",
+      "url": "https://open.spotify.com/track/3DBtvrhv3SAgK7s6zBGgbe"
     },
     {
       "album": {
@@ -17008,10 +17026,32 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 151603,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/5DQyoa8ZzJoM9hqfrln4Wd"
+    },
+    {
+      "album": {
+        "name": "My Friends EP",
+        "url": "https://open.spotify.com/album/4YqagaNtz10JMCRFdLmkFI"
+      },
+      "artists": [
+        {
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
+        },
+        {
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151603,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/6KqwymhNktMbr0yGYe2L6f"
     },
     {
       "album": {
@@ -18138,7 +18178,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 131803,
       "name": "Oblivion Is Bliss",
       "url": "https://open.spotify.com/track/0EDZZavyZyH83xRxP9A34p"
@@ -19198,7 +19238,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 242822,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/1cn5pv4piEsW871xQj43Ur"
@@ -19696,7 +19736,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 227567,
       "name": "People In Love",
       "url": "https://open.spotify.com/track/1EFL1oH3QHioVYyCX2UfDY"
@@ -20168,7 +20208,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 149492,
       "name": "Power",
       "url": "https://open.spotify.com/track/4ir8ovRSVCitzSoBU4nkHg"
@@ -25566,7 +25606,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 165391,
       "name": "Take You Back",
       "url": "https://open.spotify.com/track/3z3xd2EGeoShxJFqt51PzS"
@@ -28402,7 +28442,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 189112,
       "name": "We Could Be Love",
       "url": "https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O"

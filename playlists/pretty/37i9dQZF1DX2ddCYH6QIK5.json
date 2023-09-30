@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: soffie, Artwork: Isu Kim.\n",
-  "num_followers": 25910,
+  "num_followers": 25920,
   "original_name": "Fresh Finds GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2Y4MjU5YzJkNjI1N2YyOTY4OWQ0ZTMzNDY0ODAyMzJlZTIyYWYz",
+  "snapshot_id": "MCwwYWYzYzYyOGZiMTY2NWZiNGY2MDU5NjBhZmFiNjFkM2Q1YTMxMmZm",
   "tracks": [
     {
       "added_at": "2023-09-27 10:00:00",
@@ -490,6 +490,10 @@
         {
           "name": "Pete Gel\u00e9e",
           "url": "https://open.spotify.com/artist/3hnWBzPHPTCjeWKsMcsFTW"
+        },
+        {
+          "name": "Gel\u00e9e",
+          "url": "https://open.spotify.com/artist/20Aw9gD1C3jArExAqKkTmX"
         }
       ],
       "duration_ms": 228853,

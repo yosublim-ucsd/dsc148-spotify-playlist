@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 277106,
       "name": "20ms",
       "url": "https://open.spotify.com/track/2tMJnfs9ZcmNLweduzrvBv"
@@ -1073,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "Cyclone",
+        "url": "https://open.spotify.com/album/3p6ApFGk2tCfPK3wgmZ69n"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407513,
+      "name": "Cyclone",
+      "url": "https://open.spotify.com/track/1Bpy7cuahSRV7I7UkUneEt"
+    },
+    {
+      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/3OOU0i7XGbvVYWVjfb7Blx"
       },
@@ -1660,7 +1678,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 452125,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/29bvDzVtefT0PDoC4BDUpQ"
@@ -3200,6 +3218,24 @@
       "duration_ms": 234333,
       "name": "Liquid Fantasy - Edit",
       "url": "https://open.spotify.com/track/6fBTtzHK8itlE1mqgDTLmH"
+    },
+    {
+      "album": {
+        "name": "Liquid Gold",
+        "url": "https://open.spotify.com/album/2K6e07SwGsxM7pTm3AbPCm"
+      },
+      "artists": [
+        {
+          "name": "AN21",
+          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214237,
+      "name": "Liquid Gold",
+      "url": "https://open.spotify.com/track/5ePsIL5oYErKR9zvEFjtIr"
     },
     {
       "album": {
@@ -6248,7 +6284,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 279543,
       "name": "Traces",
       "url": "https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se"
@@ -6842,6 +6878,28 @@
       "duration_ms": 245280,
       "name": "Welcome To The Opera (with Grimes)",
       "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329318,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"
     },
     {
       "album": {

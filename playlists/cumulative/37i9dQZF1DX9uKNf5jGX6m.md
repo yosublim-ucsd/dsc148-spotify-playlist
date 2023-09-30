@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-727 songs - 1 day 12 hr 23 min
+730 songs - 1 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [My Better Half](https://open.spotify.com/track/2pvqbFiWVpWSsky68vLn1G) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [With Every Breath I Breathe](https://open.spotify.com/album/0tB9FyhrB5N3lusDO1yBKf) | 3:07 | 2022-10-15 |  |
 | [Myriads](https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Myriads](https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr) | 2:55 | 2021-12-21 | 2022-10-04 |
 | [Nara](https://open.spotify.com/track/4F8zNOrvP78IJAdrdZCo1z) | [Miu Hayashi](https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS) | [Nara](https://open.spotify.com/album/2Z75wCkfd974jIQ5BwRjzz) | 3:03 | 2022-11-25 | 2023-01-04 |
+| [Nattord](https://open.spotify.com/track/5Vab4sH6FYCTPHEZHFlIhQ) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Nattord](https://open.spotify.com/album/5YlgpGdRTaSuCCUC9bdMuf) | 2:49 | 2023-09-29 |  |
 | [Natural Beauty](https://open.spotify.com/track/0YqMuFuT9EWKMFQnZeDlYL) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Natural Beauty](https://open.spotify.com/album/26ZL2DE2ENhMPEJBqbkdxq) | 2:16 | 2022-10-15 |  |
 | [Natural Connection](https://open.spotify.com/track/79xizJgR2yV6BfP7Y4q40k) | [Certificate 16](https://open.spotify.com/artist/6RJ9f6LmApkHiTkaAfghlA) | [Vigilance](https://open.spotify.com/album/3KWwjvH1tXPkrKFOhfhTgQ) | 3:28 | 2023-06-20 |  |
 | [Nefelibata](https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Nefelibata](https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn) | 3:00 | 2021-12-21 | 2022-08-12 |
@@ -477,6 +478,7 @@
 | [Perpetuality](https://open.spotify.com/track/6Kt4t76FWnzPESRiKYPdSx) | [Parker Woods](https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX) | [Perpetuality](https://open.spotify.com/album/4Q6TErWBcAFskWp665tW4D) | 2:43 | 2022-11-25 | 2023-08-11 |
 | [Phantoms](https://open.spotify.com/track/6hy4E7w34T5hAEtYQlYMXG) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Quest for Peace](https://open.spotify.com/album/6VXYvrJOtOrDp8ypj6nnmd) | 3:23 | 2021-12-21 | 2022-11-26 |
 | [Phases](https://open.spotify.com/track/2O44kT3re6Pc8ENnA6gJYy) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Phases](https://open.spotify.com/album/4tn1fS67Ezx2RXO6pBiH8s) | 2:51 | 2022-10-03 |  |
+| [Placidus](https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [Placidus](https://open.spotify.com/album/6PoCmbDRnMT0gR02kQk2ra) | 3:15 | 2023-09-29 |  |
 | [Planet Calm](https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx) | [Rebootist](https://open.spotify.com/artist/6kwfEowXeDA4ixlHvGmZpb) | [Talking Souls](https://open.spotify.com/album/5P7CUCHWkRwhFQT2iJ4e2B) | 3:10 | 2023-06-20 |  |
 | [Plein De Vie](https://open.spotify.com/track/7h3fcy1pUvEGtF2Nxmf4wo) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Plein De Vie](https://open.spotify.com/album/2cXCpvru1xID8Y4tWfP4oN) | 2:55 | 2023-08-11 |  |
 | [Pojď se mnou](https://open.spotify.com/track/1s8Nw1IcBENpU7pIGOH8Uk) | [Václav Slezák](https://open.spotify.com/artist/3VHBfS16hX93D0BLGwraUz) | [Pojď se mnou](https://open.spotify.com/album/5fTi5LgFPvSVBBEMAJRL6s) | 3:05 | 2022-09-01 | 2023-01-21 |
@@ -673,6 +675,7 @@
 | [Through The Air](https://open.spotify.com/track/0JNKQdqJplR2mAwsiRsGTl) | [Silbo Gomera](https://open.spotify.com/artist/1tqEUIzDhdbZW3EC7Cz97W) | [Through The Air](https://open.spotify.com/album/4PczZZbjoJtQgKhtkxNTwy) | 2:38 | 2022-11-25 |  |
 | [Through The Looking Glass](https://open.spotify.com/track/1Ayup32NuK2rBsIjcAS4wb) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Through The Looking Glass](https://open.spotify.com/album/2pGYl3Iy7lQlHZ0LlQj0Ff) | 2:45 | 2022-09-22 | 2022-12-15 |
 | [Through The Self](https://open.spotify.com/track/2uUsM8gmp9HHToPcehe9Zl) | [Nima Noi](https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy) | [Through The Self](https://open.spotify.com/album/4QUK3vdURh2byRlf6YSXQV) | 3:19 | 2022-11-25 | 2023-06-21 |
+| [Tidal Energy](https://open.spotify.com/track/7KuG4E1I7cNDaHo31R8Lzm) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Tidal Energy](https://open.spotify.com/album/01LVspS9Zhj3RDVsLcZqyP) | 2:46 | 2023-09-29 |  |
 | [Tillbakalutande](https://open.spotify.com/track/4oAVmszDgIihib6QBxqjEh) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Tillbakalutande](https://open.spotify.com/album/6tJFLs7M0pE7ZTuCllaBDk) | 2:43 | 2022-12-14 |  |
 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 | 2021-12-21 | 2022-07-29 |
 | [Time's Mystery](https://open.spotify.com/track/5UH3kw1qs5V3xHLHlgELvW) | [Levandau](https://open.spotify.com/artist/4i8dFLIE5uXyj0y8mX8Ngo) | [Time's Mystery](https://open.spotify.com/album/6uZYWA2lh5aiiWQEbVOOop) | 3:35 | 2023-01-03 | 2023-08-30 |

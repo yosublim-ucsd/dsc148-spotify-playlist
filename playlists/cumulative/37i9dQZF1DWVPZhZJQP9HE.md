@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-442 songs - 1 day 2 hr 14 min
+444 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Amma Ponnu Rambha \- 1 Min Music](https://open.spotify.com/track/6G7k6xe58N8JefYH5ORnj7) | [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Amma Ponnu Rambha \- 1 Min Music](https://open.spotify.com/album/2rkjcrUFSFPX4YX2ISUCoz) | 0:59 | 2022-06-30 | 2022-07-15 |
 | [Ammadi](https://open.spotify.com/track/7oktIeahxdxDxLiZE3qYkh) | [Pravin Mani](https://open.spotify.com/artist/2ccgDZHHVlcOssv1y8AkOc) | [Ammadi](https://open.spotify.com/album/0bf0E8d15xhl2aXPbCmItD) | 4:04 | 2022-12-23 | 2023-04-01 |
 | [Ammamma](https://open.spotify.com/track/05eDUk3qxGqsIYGvt02bpD) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B), [Nithyashree Venkataramanan](https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP) | [Ammamma](https://open.spotify.com/album/1L8YDOUkzNY8QheUxpV2R5) | 4:28 | 2023-07-31 |  |
+| [Amoodhamooru](https://open.spotify.com/track/79qzGfN6cSXk8Z0LsXP1KQ) | [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP) | [Amoodhamooru](https://open.spotify.com/album/7vpKN8xmvyysQE0APIw8XA) | 3:50 | 2023-09-29 |  |
 | [Amour](https://open.spotify.com/track/7kXPJDaooCMfvpkneNGisa) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Amour \- Single](https://open.spotify.com/album/4Bn40LxjQ00XGFhFCJhAmR) | 3:27 | 2022-03-09 | 2022-11-17 |
 | [Amour](https://open.spotify.com/track/54sUHoLaeNSeqTWpWk8P9t) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Pranav Aditya](https://open.spotify.com/artist/1qyOT6qSiiFN2MUwYyfXes), [Sanjay Prashadh K R](https://open.spotify.com/artist/0nb7PRowrE2W3tF5lZDtol) | [Amour](https://open.spotify.com/album/2B83vX1IlmxDTC5iTSTSGf) | 3:27 | 2022-03-09 | 2022-07-29 |
 | [Amudhae \- Eternal Love](https://open.spotify.com/track/5lob9QUiS21imG5m41ZVu1) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM) | [Amudhae \(Eternal Love\)](https://open.spotify.com/album/61I7qlS2REZqipLhFKFjNU) | 3:09 | 2023-03-22 | 2023-04-01 |
@@ -148,6 +149,7 @@
 | [Kaathadi](https://open.spotify.com/track/5FlpkXMsHB5C8bjOErpQuy) | [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Kaathadi](https://open.spotify.com/album/36coKWgWqWR62SkpXeyl4a) | 3:23 | 2021-12-18 | 2022-12-20 |
 | [Kaatrile](https://open.spotify.com/track/3ozRf60fIEOFABQB5r792F) | [Sperience](https://open.spotify.com/artist/6hM2eMbTUUKLLDIeRBLClE), [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Kaatrile](https://open.spotify.com/album/4fBs9f1HRGZYbwM7ghvy3W) | 2:49 | 2023-03-06 | 2023-03-18 |
 | [Kaatrodu](https://open.spotify.com/track/5yIC1ldpXfRyVL7LpjrZLp) | [KiAM](https://open.spotify.com/artist/4A2DY9zCCEKzombAIsbhOo), [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Kaatrodu](https://open.spotify.com/album/5EUmFeHta6LpGNhgqj6Med) | 5:44 | 2022-09-23 | 2023-02-09 |
+| [Kadal Alai](https://open.spotify.com/track/1hGfjnEdTOrNIWNOvD9mmK) | [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi) | [Kadal Alai](https://open.spotify.com/album/4bnki9Z6qFFuTkvBejr1jV) | 3:18 | 2023-09-29 |  |
 | [Kadan \- Naatpadu Theral \- 2](https://open.spotify.com/track/7GcvJKhW4fnVLDd4xo5nUo) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Ramesh Vinayakam](https://open.spotify.com/artist/6inHsxIYCalnwN5AcdWtjL) | [Kadan \(Naatpadu Theral \- 2\)](https://open.spotify.com/album/3XNd7WczhkD3LZ0A1sp1aB) | 5:59 | 2022-05-31 | 2022-06-16 |
 | [Kadavul Thandha Azhagiyae](https://open.spotify.com/track/0iXBFNZwScIvOg1RRrpaoF) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 3:22 | 2022-07-27 | 2022-11-22 |
 | [Kadha Sollava](https://open.spotify.com/track/1zAobZROnbDbk2MMAWawlv) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Kadha Sollava](https://open.spotify.com/album/3HwA1iOHHKW55oDd6ns9Qt) | 2:48 | 2023-01-24 | 2023-05-14 |

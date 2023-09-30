@@ -4,7 +4,7 @@
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Bipo Montana, McKlopedia y Nanpa Básico en portada.
 
-227 songs - 12 hr 58 min
+228 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Alzypher Vol\. 10](https://open.spotify.com/track/1gnsY2TnziUSPAdTwScTtl) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alzypher Vol\. 10](https://open.spotify.com/album/6pJJBc9UIOhABBSVWJ1eCd) | 3:02 | 2023-03-03 |  |
 | [Alzypher Vol\. 12](https://open.spotify.com/track/0hJ1WnpQNJwaLioiG8kc4N) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 12](https://open.spotify.com/album/1WjW44rJhg4ZShTGwqT8oH) | 2:20 | 2023-05-29 |  |
 | [Alzypher Vol\. 9](https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Alzypher Vol\. 9](https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H) | 3:27 | 2022-06-24 |  |
-| [Ambición](https://open.spotify.com/track/3qUrm7bzZbweXp3PhjnT39) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Ambición](https://open.spotify.com/album/0cMNuOwFj3ymoxZsO3OxDX) | 3:44 | 2023-06-16 |  |
+| [Ambición](https://open.spotify.com/track/3qUrm7bzZbweXp3PhjnT39) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Ambición](https://open.spotify.com/album/0cMNuOwFj3ymoxZsO3OxDX) | 3:44 | 2023-06-16 | 2023-09-30 |
 | [Amnesia](https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a) | 3:08 | 2022-06-24 |  |
 | [Amnesia](https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu) | 3:08 | 2021-12-30 | 2022-07-29 |
 | [Ansiedad](https://open.spotify.com/track/69vGl5T8eNegQYemljEFWX) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Ansiedad](https://open.spotify.com/album/6F8ccFAxXnQ9RPiQo0aPn9) | 3:21 | 2023-06-23 |  |
@@ -78,6 +78,7 @@
 | [DREAM TEAM](https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [DREAM TEAM](https://open.spotify.com/album/300OH5pDtCASI7RNgZaCZ1) | 2:16 | 2023-03-31 |  |
 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 | 2022-11-17 |  |
 | [El Ayer](https://open.spotify.com/track/3vxpy2vOzLtCjx82CoWte6) | [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [El Ayer](https://open.spotify.com/album/3wb8JOh65W2vQ2Ubv7B4Ms) | 3:10 | 2023-09-08 |  |
+| [El Canton Norte](https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El 17](https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj) | 2:45 | 2023-09-29 |  |
 | [El Mundo Es Mío](https://open.spotify.com/track/6xpBiLizBvv1F54QT14er9) | [Sr\. Wilson](https://open.spotify.com/artist/7GIl95Mqt4DmPOiVghXffy), [Griffi](https://open.spotify.com/artist/3qqRmPv82dU1KrGy21ZSQD) | [El Mundo Es Mío](https://open.spotify.com/album/7hTv5dTeDCWavviOKakPrT) | 3:36 | 2023-06-02 |  |
 | [El Mundo Es Tuyo](https://open.spotify.com/track/2XMLQxLX3FQZ7veKYIKumh) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/7CWLoC8Yw64f8vMJFV1AVh) | 3:02 | 2021-12-30 | 2022-07-29 |
 | [El Mundo Es Tuyo](https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:02 | 2022-06-24 |  |

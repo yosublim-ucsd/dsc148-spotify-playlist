@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-247 songs - 17 hr 4 min
+248 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Chemical Plant Zone](https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Chemical Plant Zone](https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ) | 4:21 | 2021-04-02 |  |
 | [Chili Wa Man](https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S) | [John Tropea](https://open.spotify.com/artist/0WPM7cWlRjCwho6G09x2S2) | [Gotcha Rhythm Right Here](https://open.spotify.com/album/5Ru54rs8Wr4ojekCyKHsz0) | 5:52 | 2020-11-13 |  |
 | [Cinnamon Babka](https://open.spotify.com/track/0uumBUb47WpPMNovu2YfvV) | [Brothers Of My Uncle](https://open.spotify.com/artist/4bVktS3aLOw3TDNe320GxO), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [David James](https://open.spotify.com/artist/4KgrOkFtGl8MNhI3kFZSVX), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Cinnamon Babka](https://open.spotify.com/album/3dNivSmjjYv09S7Iei4KKT) | 3:46 | 2021-10-15 | 2022-07-29 |
+| [Clydesdale](https://open.spotify.com/track/2P2EjjN0iqptFNLjOaMPAN) | [Polyrhythmics](https://open.spotify.com/artist/43pamwJj22NKepRqNeS412) | [Filter System](https://open.spotify.com/album/1pzmwIXLmqfeDkYP4J1Aaj) | 3:57 | 2023-09-29 |  |
 | [Colonel Panic](https://open.spotify.com/track/1TllJ3vB5l9NL3IgAvC684) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds.](https://open.spotify.com/album/2dNlfSEAakmsqr7pXtKsDt) | 2:32 | 2020-11-13 | 2022-07-29 |
 | [Colonel Panic](https://open.spotify.com/track/28HHPAwdeLxYcmXAnihqcx) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:32 | 2020-11-13 | 2023-08-05 |
 | [Confidence Game](https://open.spotify.com/track/3xz8R8cnKGkbuaaxlDY3I2) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj) | [Good Soul](https://open.spotify.com/album/2bQ5Y3cltP19QjFBAb1rBT) | 2:16 | 2020-11-13 |  |
@@ -88,7 +89,7 @@
 | [Flatfoot](https://open.spotify.com/track/0RHr2hG0bIODmOjaex4oyT) | [Fusik](https://open.spotify.com/artist/4EDtxm2WLicV4I1B9E8kl2) | [Flatfoot](https://open.spotify.com/album/1qXOH9z8qIVELOkM3HZCAm) | 4:33 | 2020-11-13 |  |
 | [Float On](https://open.spotify.com/track/68vr9Tp7AuN4CdVXHZBLyE) | [E\. Live](https://open.spotify.com/artist/0HB3DYw6dUNqE9wFm6edkT) | [Cloud Vibes](https://open.spotify.com/album/2wHAj2b9Bv32JbqeRlNbJB) | 4:00 | 2022-08-05 |  |
 | [Flying Home](https://open.spotify.com/track/5St8RhYDg6dyF43aFod1YM) | [Felix Magnus Grossmann](https://open.spotify.com/artist/7uWwYPKXHTU6JXRm8VVLtH) | [Big Band Around the World](https://open.spotify.com/album/2fgBvjukx0OLHEmTOK4Cb8) | 2:45 | 2020-11-13 |  |
-| [Fried Soul](https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Fried Soul](https://open.spotify.com/album/77jIlQfM7IPgXdxEXaDm9O) | 3:36 | 2022-02-25 |  |
+| [Fried Soul](https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Fried Soul](https://open.spotify.com/album/77jIlQfM7IPgXdxEXaDm9O) | 3:36 | 2022-02-25 | 2023-09-30 |
 | [Funkafized](https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0) | [Boston Horns](https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd) | [Funkafized Plus](https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f) | 4:59 | 2020-11-13 |  |
 | [Funkedemia](https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z) | [Mac James](https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3) | [Funkedemia](https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb) | 2:13 | 2020-11-13 |  |
 | [Funky D](https://open.spotify.com/track/5UPd95cVd4mIh8psFTniGL) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Bob Franceschini](https://open.spotify.com/artist/60wazyFfOCbXXrJCC0I3O4) | [TRYPNOTYX](https://open.spotify.com/album/5YiTpi7O0xx1yXTNXCTHFb) | 5:44 | 2020-11-13 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! Cover: OutKast",
+  "description": "Taking it way back! Cover: Ludacris",
   "name": "Gold School",
   "tracks": [
     {
@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Trap Muzik",
+        "url": "https://open.spotify.com/album/1SloKtrz48mjFA3QIDg7Vl"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282906,
+      "name": "24's (Vocals Only)",
+      "url": "https://open.spotify.com/track/33j4CLU9UyRjO63ry5J61Q"
+    },
+    {
+      "album": {
         "name": "93 'til Infinity",
         "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
       },
@@ -96,7 +114,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 286440,
       "name": "93 'Til Infinity",
       "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
@@ -174,7 +192,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 246400,
       "name": "Ain\u2019t No Fun (If The Homies Can\u2019t Have None)",
       "url": "https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ"
@@ -1083,6 +1101,28 @@
     },
     {
       "album": {
+        "name": "From Me To U",
+        "url": "https://open.spotify.com/album/6pHsHaI4pDb995jzl1J5z1"
+      },
+      "artists": [
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        },
+        {
+          "name": "Cam'ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Dipset (Santana's Town)",
+      "url": "https://open.spotify.com/track/0xBp653LGFv2kW4p4bcrZJ"
+    },
+    {
+      "album": {
         "name": "Diplomatic Immunity",
         "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
       },
@@ -1112,7 +1152,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 244640,
       "name": "Don't Let It Go To Your Head",
       "url": "https://open.spotify.com/track/5wwLfjdiSHsgKyEO6V5rDe"
@@ -1666,7 +1706,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 211866,
       "name": "Gin and Juice",
       "url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
@@ -3136,7 +3176,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 286133,
       "name": "Money, Cash, Hoes",
       "url": "https://open.spotify.com/track/1FkgoPdajl8gwC1hlyvHtC"
@@ -3546,6 +3586,32 @@
       "duration_ms": 233360,
       "name": "Overnight Celebrity",
       "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
+    },
+    {
+      "album": {
+        "name": "Chicken - N - Beer",
+        "url": "https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Shawnna",
+          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
+        },
+        {
+          "name": "Lil Fate",
+          "url": "https://open.spotify.com/artist/6JUnsP7jmvYmdhbg7lTMQj"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289266,
+      "name": "P-Poppin'",
+      "url": "https://open.spotify.com/track/6yOghbMYTTUdOGiExT0rIF"
     },
     {
       "album": {
@@ -4291,6 +4357,24 @@
     },
     {
       "album": {
+        "name": "Chicken - N - Beer",
+        "url": "https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290760,
+      "name": "Splash Waterfalls",
+      "url": "https://open.spotify.com/track/2T8hXV9LUZMDBKR5RALGEa"
+    },
+    {
+      "album": {
         "name": "Stakes Is High",
         "url": "https://open.spotify.com/album/0jIXYQfUtkvn1BYYUOBEmE"
       },
@@ -4346,6 +4430,28 @@
       "duration_ms": 404106,
       "name": "Stan",
       "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
+    },
+    {
+      "album": {
+        "name": "Chicken - N - Beer",
+        "url": "https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Shawnna",
+          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e"
     },
     {
       "album": {
@@ -5200,7 +5306,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 246200,
       "name": "Who Am I (What\u2019s My Name)?",
       "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
@@ -5222,6 +5328,24 @@
       "duration_ms": 231800,
       "name": "Who Dat",
       "url": "https://open.spotify.com/track/2rbb3lOMI71NIMbJCS1wQQ"
+    },
+    {
+      "album": {
+        "name": "Enta Da Stage",
+        "url": "https://open.spotify.com/album/5Di7sTCL8zU5rHMl98qliQ"
+      },
+      "artists": [
+        {
+          "name": "Black Moon",
+          "url": "https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Who Got Da Props",
+      "url": "https://open.spotify.com/track/5CRM9TgBcwRbK3LyHUJhrQ"
     },
     {
       "album": {

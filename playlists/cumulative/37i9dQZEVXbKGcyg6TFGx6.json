@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 211250,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
@@ -2478,6 +2478,24 @@
       "duration_ms": 226973,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe"
+    },
+    {
+      "album": {
+        "name": "Bad Business",
+        "url": "https://open.spotify.com/album/11ZnGW0CxRZmZTZyIzFGtf"
+      },
+      "artists": [
+        {
+          "name": "Bobby of the Teemates",
+          "url": "https://open.spotify.com/artist/7IAORcqiUP4DiUjfYLYok2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170700,
+      "name": "Bad Business - GR Mix",
+      "url": "https://open.spotify.com/track/1mQkRQP3IL8NrMjDDctrbB"
     },
     {
       "album": {
@@ -4248,7 +4266,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 380000,
       "name": "Butterfly Nebula",
       "url": "https://open.spotify.com/track/0oyyoFopF05tsnphR43pJq"
@@ -4680,7 +4698,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -5473,6 +5491,24 @@
     },
     {
       "album": {
+        "name": "Southpaw",
+        "url": "https://open.spotify.com/album/0OrXX7cXo0QhAMUR0qwqFB"
+      },
+      "artists": [
+        {
+          "name": "Southpaw",
+          "url": "https://open.spotify.com/artist/7MLTF8ay8qcfsMDEL0goPs"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Coast To Coast",
+      "url": "https://open.spotify.com/track/0OifEjevqbyy87xK7xin8G"
+    },
+    {
+      "album": {
         "name": "Friday the 14th",
         "url": "https://open.spotify.com/album/7tHwsZnrOIG3jfbDAcxHIa"
       },
@@ -5714,7 +5750,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 135922,
       "name": "Confusing Thoughts",
       "url": "https://open.spotify.com/track/71QeIU9rqDpyyHq406uyrm"
@@ -6916,7 +6952,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 139080,
       "name": "Demon",
       "url": "https://open.spotify.com/track/3tHqq6OkppBKkzqBaxD2D4"
@@ -7356,7 +7392,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 237750,
       "name": "Dime D\u00f3nde Est\u00e1s",
       "url": "https://open.spotify.com/track/6K67Ddgi5ISucJlC0O5sn6"
@@ -9722,7 +9758,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 171757,
       "name": "For You",
       "url": "https://open.spotify.com/track/0ycXEADE6ra6nW7cJgX5Qm"
@@ -12863,6 +12899,24 @@
     },
     {
       "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130996,
+      "name": "Interlude : Dive",
+      "url": "https://open.spotify.com/track/2qg2jy3v50RwfV5FAqG3a2"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
       },
@@ -14228,6 +14282,24 @@
       "duration_ms": 247962,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0"
+    },
+    {
+      "album": {
+        "name": "LAISSE MOI",
+        "url": "https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168620,
+      "name": "LAISSE MOI",
+      "url": "https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD"
     },
     {
       "album": {
@@ -16740,7 +16812,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 152546,
       "name": "Meuda",
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
@@ -17170,6 +17242,28 @@
       "duration_ms": 240390,
       "name": "Mon pays",
       "url": "https://open.spotify.com/track/1s2yxqfPiLzYTEaTUFSd2q"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/7lgkAggzGHs6XowX22srSm"
+      },
+      "artists": [
+        {
+          "name": "B. Austin",
+          "url": "https://open.spotify.com/artist/42JZ0WPz5nnLLEe9H3Ijgi"
+        },
+        {
+          "name": "Trey Magic",
+          "url": "https://open.spotify.com/artist/7DMdGcevL8AXaoJ397pvn7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323368,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7fuwDe14x6leY9ZevLCHgn"
     },
     {
       "album": {
@@ -19558,7 +19652,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 173126,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/2sRqokzme0ZAZPA7aLWipR"
@@ -21290,7 +21384,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 137419,
       "name": "Rock My Body",
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
@@ -22436,7 +22530,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
@@ -22476,7 +22570,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
@@ -24706,7 +24800,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 241487,
       "name": "Take me to your heart",
       "url": "https://open.spotify.com/track/0cOh5HUkrPonHJ4okUkBnC"
@@ -27403,6 +27497,24 @@
     },
     {
       "album": {
+        "name": "We'll Never Get Too Much Rock n Roll",
+        "url": "https://open.spotify.com/album/0VV2Ma9vIme75RT46CFdkQ"
+      },
+      "artists": [
+        {
+          "name": "Rabbit",
+          "url": "https://open.spotify.com/artist/5P3rqe1AiUEe19cQdcz9OH"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204982,
+      "name": "We'll Never Get Too Much Rock n Roll",
+      "url": "https://open.spotify.com/track/6urv18EK4E28QCFKghvCUp"
+    },
+    {
+      "album": {
         "name": "side effects of being human",
         "url": "https://open.spotify.com/album/7Api824sEAaKjtdrbNsncZ"
       },
@@ -28306,7 +28418,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 211765,
       "name": "You are the reason - Cover",
       "url": "https://open.spotify.com/track/6eKH5xNRoVuOfVcuCrsebr"

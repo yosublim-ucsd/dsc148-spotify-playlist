@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,290 likes - 89 songs - 5 hr 17 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,289 likes - 89 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 7 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
 | 8 | [Pablo's Cathedral](https://open.spotify.com/track/3cv1agqSmxNsS3O3lbxCK1) | [Iceboy Violet](https://open.spotify.com/artist/2MWAoLoDTgex9peOU2Uc4C) | [Not a Dream But a Controlled Explosion](https://open.spotify.com/album/5uvivxzouY63yfvY7I4Iqg) | 3:23 |
 | 9 | [Now Or Never](https://open.spotify.com/track/1yB3sZNrVjnIKCFr0Q4lxe) | [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [Now Or Never](https://open.spotify.com/album/2AnvT3mLawbY7YWgZTJJun) | 3:17 |
-| 10 | [MY TYPE!](https://open.spotify.com/track/6rSlhcRXLNjtAOyp7DC8ho) | [Manso̶u̶r̶](https://open.spotify.com/artist/7v35h8e1RtPkx7IfAqf6iM), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [MY TYPE!](https://open.spotify.com/album/3mYIMAIoDmYCRHGCcSotON) | 2:08 |
+| 10 | [MY TYPE!](https://open.spotify.com/track/6rSlhcRXLNjtAOyp7DC8ho) | [MANSO̶U̶R̶](https://open.spotify.com/artist/7v35h8e1RtPkx7IfAqf6iM), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [MY TYPE!](https://open.spotify.com/album/3mYIMAIoDmYCRHGCcSotON) | 2:08 |
 | 11 | [Elixir](https://open.spotify.com/track/4p5QTMGRzKYKxf8P1X88ve) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Elixir](https://open.spotify.com/album/6K816lpo5jh0WnnLXHE2uC) | 3:55 |
 | 12 | [J'adore](https://open.spotify.com/track/3ZspQSOFcZZfRZhNoYDPLs) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [J'adore](https://open.spotify.com/album/1WUIUtEcyOdIjnjosifXK0) | 3:02 |
 | 13 | [Subliminal](https://open.spotify.com/track/3WoxM5hRv3lkLDoowGCJKu) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Sammy](https://open.spotify.com/artist/2K2ulcqPr7kB2ZwzLmx3vp) | [Subliminal](https://open.spotify.com/album/78S20bvtAt6N8vPO3Mnl50) | 3:22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The highest quality alternative blend ft. The National",
+  "description": "The highest quality alternative blend ft. Wilco",
   "name": "Grade A",
   "tracks": [
     {
@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 230174,
       "name": "Ace Up My Sleeve",
       "url": "https://open.spotify.com/track/5YbANMVRXvKTVsFXcuGxzP"
@@ -2187,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "I Want It All Right Now",
+        "url": "https://open.spotify.com/album/1oo5SXe74thWKkBPGrkYoG"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192960,
+      "name": "Cheese",
+      "url": "https://open.spotify.com/track/5GCSN4N9KzycSf5FD0wtWF"
+    },
+    {
+      "album": {
         "name": "And In The Darkness, Hearts Aglow",
         "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
@@ -2432,7 +2450,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 250640,
       "name": "Cousin",
       "url": "https://open.spotify.com/track/1XwnEWNCxd7HujfC9ZHPQ2"
@@ -3822,10 +3840,28 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 209760,
       "name": "Evicted",
       "url": "https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ"
+    },
+    {
+      "album": {
+        "name": "Cousin",
+        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Evicted",
+      "url": "https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5"
     },
     {
       "album": {
@@ -5564,7 +5600,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 203853,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
@@ -11167,6 +11203,24 @@
     },
     {
       "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
+    },
+    {
+      "album": {
         "name": "Reconcile",
         "url": "https://open.spotify.com/album/1iC2prfgUGLnEHdoxS5yyq"
       },
@@ -15456,7 +15510,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 265500,
       "name": "When Eden Was My Girl (feat. Marcus King)",
       "url": "https://open.spotify.com/track/3o34F9z7g0SDeIAKWir4PR"

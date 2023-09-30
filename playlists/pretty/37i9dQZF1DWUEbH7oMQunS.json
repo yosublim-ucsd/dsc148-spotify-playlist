@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 53250,
+  "num_followers": 53325,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2",
+  "snapshot_id": "MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Hymns for Eventide (Eventide Mix)",
+        "url": "https://open.spotify.com/album/6rGvmBwpvhMxiZNPovW2oY"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 213370,
+      "name": "Nearer My God to Thee - Eventide Mix",
+      "url": "https://open.spotify.com/track/7nDGSAjfHIM0dgHvEfriCy"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Things We Did at First",
         "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
       },
@@ -419,18 +435,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Hymns for Eventide (Eventide Mix)",
-        "url": "https://open.spotify.com/album/6rGvmBwpvhMxiZNPovW2oY"
+        "name": "Field Recordings",
+        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
       },
       "artists": [
         {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+          "name": "The Echelon Effect",
+          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
         }
       ],
-      "duration_ms": 213370,
-      "name": "Nearer My God to Thee - Eventide Mix",
-      "url": "https://open.spotify.com/track/7nDGSAjfHIM0dgHvEfriCy"
+      "duration_ms": 468927,
+      "name": "Tracking Aeroplanes",
+      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -447,22 +463,6 @@
       "duration_ms": 241400,
       "name": "For The One - Instrumental",
       "url": "https://open.spotify.com/track/7ph250c2s06TIsL18QceuA"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Field Recordings",
-        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
-      },
-      "artists": [
-        {
-          "name": "The Echelon Effect",
-          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
-        }
-      ],
-      "duration_ms": 468927,
-      "name": "Tracking Aeroplanes",
-      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -583,50 +583,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "After All These Years (Instrumental)",
-        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
+        "name": "Attention (a Devotional Project)",
+        "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
         }
       ],
-      "duration_ms": 336853,
-      "name": "Greater Than All Other Names - Instrumental",
-      "url": "https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "The Albatross EP",
-        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
-      },
-      "artists": [
-        {
-          "name": "Port Blue",
-          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
-        }
-      ],
-      "duration_ms": 142173,
-      "name": "Into The Sea",
-      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Asaph",
-        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 342453,
-      "name": "(73) the Nearness of You",
-      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
+      "duration_ms": 222613,
+      "name": "Rest with Me",
+      "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -651,18 +619,50 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Attention (a Devotional Project)",
-        "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
+        "name": "After All These Years (Instrumental)",
+        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
       },
       "artists": [
         {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         }
       ],
-      "duration_ms": 222613,
-      "name": "Rest with Me",
-      "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
+      "duration_ms": 336853,
+      "name": "Greater Than All Other Names - Instrumental",
+      "url": "https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Asaph",
+        "url": "https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 342453,
+      "name": "(73) the Nearness of You",
+      "url": "https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Albatross EP",
+        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
+      },
+      "artists": [
+        {
+          "name": "Port Blue",
+          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "Into The Sea",
+      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I'm Healing",
-        "url": "https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        }
-      ],
-      "duration_ms": 282734,
-      "name": "5am",
-      "url": "https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Jesus Is___. Music Project",
         "url": "https://open.spotify.com/album/05hvkkM29nIor7aT515II2"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
+        "name": "I'm Healing",
+        "url": "https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0"
       },
       "artists": [
         {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
         }
       ],
-      "duration_ms": 208000,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
+      "duration_ms": 282734,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -843,18 +827,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Contemporary Worship Hits",
-        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
       },
       "artists": [
         {
-          "name": "Holy Communion Instrumental Duo",
-          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
         }
       ],
-      "duration_ms": 179678,
-      "name": "Lord I need You",
-      "url": "https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4"
+      "duration_ms": 208000,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -879,18 +863,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Spacies",
-        "url": "https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp"
+        "name": "Contemporary Worship Hits",
+        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
       },
       "artists": [
         {
-          "name": "The Spacies",
-          "url": "https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn"
+          "name": "Holy Communion Instrumental Duo",
+          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
         }
       ],
-      "duration_ms": 261500,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
+      "duration_ms": 179678,
+      "name": "Lord I need You",
+      "url": "https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -911,6 +895,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "The Spacies",
+        "url": "https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp"
+      },
+      "artists": [
+        {
+          "name": "The Spacies",
+          "url": "https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "those lil god songs i posted on ig",
         "url": "https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4"
       },
@@ -923,6 +923,22 @@
       "duration_ms": 216000,
       "name": "make stuff up & sing things",
       "url": "https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "duration_ms": 230284,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Start Again",
-        "url": "https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k"
-      },
-      "artists": [
-        {
-          "name": "James Paek",
-          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
-        }
-      ],
-      "duration_ms": 230284,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Spirit Of God",
         "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 290813,
       "name": "Something About The Name - Live",
       "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Contemporary Worship Hits",
-        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
-      },
-      "artists": [
-        {
-          "name": "Holy Communion Instrumental Duo",
-          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
-        }
-      ],
-      "duration_ms": 143453,
-      "name": "10,000 Reasons (Bless the Lord)",
-      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1023,6 +1007,22 @@
       "duration_ms": 198504,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Contemporary Worship Hits",
+        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
+      },
+      "artists": [
+        {
+          "name": "Holy Communion Instrumental Duo",
+          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
+        }
+      ],
+      "duration_ms": 143453,
+      "name": "10,000 Reasons (Bless the Lord)",
+      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "You & I Again",
-        "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 160264,
-      "name": "You & I Again",
-      "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 237466,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "You & I Again",
+        "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 160264,
+      "name": "You & I Again",
+      "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Freedom Fighter (Jimmy James Remix)",
-        "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
+        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
+        "url": "https://open.spotify.com/album/1MmYwTLBBXB1tScSdPUucb"
       },
       "artists": [
         {
-          "name": "NIRVA",
-          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
-        },
-        {
-          "name": "Jimmy James",
-          "url": "https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D"
+          "name": "SpiritFit Music",
+          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
         }
       ],
-      "duration_ms": 210461,
-      "name": "Freedom Fighter (Jimmy James Remix)",
-      "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
+      "duration_ms": 346773,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/1oh3kBFeCK4HGCHQwM5JKH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1287,18 +1283,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
-        "url": "https://open.spotify.com/album/1MmYwTLBBXB1tScSdPUucb"
+        "name": "Freedom Fighter (Jimmy James Remix)",
+        "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
       },
       "artists": [
         {
-          "name": "SpiritFit Music",
-          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
+          "name": "NIRVA",
+          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
+        },
+        {
+          "name": "Jimmy James",
+          "url": "https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D"
         }
       ],
-      "duration_ms": 346773,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/1oh3kBFeCK4HGCHQwM5JKH"
+      "duration_ms": 210461,
+      "name": "Freedom Fighter (Jimmy James Remix)",
+      "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
     },
     {
       "added_at": "2023-07-28 04:02:00",

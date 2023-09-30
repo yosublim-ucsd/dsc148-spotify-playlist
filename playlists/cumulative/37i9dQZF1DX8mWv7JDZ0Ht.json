@@ -650,7 +650,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 112023,
       "name": "Andando pela Orla",
       "url": "https://open.spotify.com/track/23MOQX2Zz1NUwV9W4l3GrE"
@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 199911,
       "name": "Cofre",
       "url": "https://open.spotify.com/track/4p9aBRtgLpwtrfXRNubECr"
@@ -2223,6 +2223,28 @@
     },
     {
       "album": {
+        "name": "Desejos",
+        "url": "https://open.spotify.com/album/28wJ7QldQ5pIVzaHxTWOu9"
+      },
+      "artists": [
+        {
+          "name": "Bufal\u00f4",
+          "url": "https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Desejos",
+      "url": "https://open.spotify.com/track/6g3feIh4V5h3UMvuAifb4h"
+    },
+    {
+      "album": {
         "name": "desficava",
         "url": "https://open.spotify.com/album/2uwvJFTttwIKSleeqtK2JX"
       },
@@ -2394,6 +2416,28 @@
       "duration_ms": 171000,
       "name": "Dona de Mim",
       "url": "https://open.spotify.com/track/1Uoy9jGX9JcYnMQk15HYvT"
+    },
+    {
+      "album": {
+        "name": "Durar (Uma vida com voc\u00ea) [with TIAGO IORC]",
+        "url": "https://open.spotify.com/album/430iYZPfCsaNzNMxihU9cT"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199618,
+      "name": "Durar (Uma vida com voc\u00ea) [with TIAGO IORC]",
+      "url": "https://open.spotify.com/track/3Ywf2aS3WBZOmND8yrE0ZF"
     },
     {
       "album": {
@@ -3589,6 +3633,32 @@
     },
     {
       "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
+    },
+    {
+      "album": {
         "name": "Idiota Raiz (Deixa Ir)",
         "url": "https://open.spotify.com/album/3nYq2i21JSw8TL5rdlBQcM"
       },
@@ -3648,6 +3718,24 @@
       "duration_ms": 182112,
       "name": "Incendiar",
       "url": "https://open.spotify.com/track/5vps3IXPOK33NIYkUzvCgM"
+    },
+    {
+      "album": {
+        "name": "Ideias Sobre Voc\u00ea",
+        "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
+      },
+      "artists": [
+        {
+          "name": "Helena Novais",
+          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152346,
+      "name": "Incompar\u00e1vel",
+      "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
     },
     {
       "album": {
@@ -4618,7 +4706,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 154269,
       "name": "Mulher de f\u00e9",
       "url": "https://open.spotify.com/track/3nzOzTsaXDsQDjbeNLhjSu"
@@ -5046,7 +5134,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 166874,
       "name": "n\u00f3s",
       "url": "https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH"
@@ -5068,6 +5156,24 @@
       "duration_ms": 176030,
       "name": "N\u00f3s Dois",
       "url": "https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng"
+    },
+    {
+      "album": {
+        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 1",
+        "url": "https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204246,
+      "name": "O Dia De Amanh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0JBGw4tc3YPt2zsTUoW8yX"
     },
     {
       "album": {
@@ -5656,7 +5762,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 160629,
       "name": "pele - ao vivo",
       "url": "https://open.spotify.com/track/6Obz4fjPvcQJUyH2kqd3vS"
@@ -5834,7 +5940,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 187500,
       "name": "Ponto De Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/7ocDnpT7chORH9eE1pPzG4"
@@ -7210,7 +7316,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 147600,
       "name": "Sustentar",
       "url": "https://open.spotify.com/track/3T0qWI1v8N7ZuxA61MTH4i"
@@ -8057,6 +8163,24 @@
     },
     {
       "album": {
+        "name": "T\u00f4 Pela Cidade",
+        "url": "https://open.spotify.com/album/5fRiRRiaMhpIaDHoWUdrGS"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155048,
+      "name": "T\u00f4 Pela Cidade",
+      "url": "https://open.spotify.com/track/4dNiBuEiRa37oXOpklE67Q"
+    },
+    {
+      "album": {
         "name": "T\u00f4 te olhando",
         "url": "https://open.spotify.com/album/1dA5DEFhICKQiv9rwFRV7Z"
       },
@@ -8218,6 +8342,24 @@
       "duration_ms": 202500,
       "name": "VEJA BABY - Vers\u00e3o Alternativa",
       "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
+    },
+    {
+      "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "album": {

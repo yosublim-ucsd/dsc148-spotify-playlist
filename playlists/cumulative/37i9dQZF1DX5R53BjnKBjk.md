@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-280 songs - 14 hr 31 min
+281 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Culpa do Verão](https://open.spotify.com/track/0qTetrLWuQP3C5d0eYHxuk) | [Bella Mattar](https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3) | [A Rua e Seus Encantos](https://open.spotify.com/album/2xEbKA5WQBAxVZnWH0KXic) | 2:46 | 2022-08-26 | 2022-12-10 |
 | [Céu e Mar](https://open.spotify.com/track/2QAWqrdJaqgphSCjpCw5wJ) | [Matheus Bala](https://open.spotify.com/artist/73KUS3ICvdkM4spMDQKYYC) | [Céu e Mar](https://open.spotify.com/album/5CZBlQZa5Iw3dwHJ7Tabxw) | 2:12 | 2022-12-02 | 2023-03-18 |
 | [Da Vida](https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6) | [Márcio Lugó](https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM), [Hugo Branquinho](https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs) | [Da Vida](https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb) | 3:00 | 2022-07-22 | 2022-10-29 |
+| [De repente você](https://open.spotify.com/track/1uNPYO9ZaIO91uHjvhYhxN) | [Marta Maria](https://open.spotify.com/artist/6bksEANPlDvhAocqR44x7H) | [De repente você](https://open.spotify.com/album/2DeoeyTAwykibd8ERHw3VC) | 2:40 | 2023-09-29 |  |
 | [Deixa Pra Lá](https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ) | [Verdan](https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y) | [Deixa Pra Lá](https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt) | 2:32 | 2022-09-30 |  |
 | [Delírio](https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG) | [INAHUGO](https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR) | [Estou Aqui](https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr) | 3:47 | 2022-12-02 | 2023-01-28 |
 | [DEPRIMIDA](https://open.spotify.com/track/6zaz7b82CZhMzhAnWG127g) | [Julia Joia](https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ) | [DEPRIMIDA](https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp) | 2:35 | 2022-07-29 | 2022-11-26 |
@@ -106,7 +107,7 @@
 | [foda que ela era linda](https://open.spotify.com/track/1pGKEGUMYsHhEdKnE6itcZ) | [Pelados](https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU) | [Foi Mal](https://open.spotify.com/album/1IjwOJro5gMK3gNIhbBTXD) | 3:11 | 2022-11-18 |  |
 | [Fuga](https://open.spotify.com/track/2fsUMYtYOVfZbTqMw0bpOC) | [Karla](https://open.spotify.com/artist/3aM66YTgWf67QaT8HVg3ck) | [Fuga](https://open.spotify.com/album/5DWzUkiahHCRG1X1GsWNA1) | 3:36 | 2022-01-14 | 2022-09-24 |
 | [Fugir da Miragem](https://open.spotify.com/track/1pwYWr1LQ1D3l5Y9Xmgy3I) | [zebidart](https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw), [Magno Brito](https://open.spotify.com/artist/6PBnyjnpLiQIhicjCOV8dX), [Raíssa Leal](https://open.spotify.com/artist/72ig3Ygi4pm50DjZXJm0tY) | [Fugir da Miragem](https://open.spotify.com/album/12V2fGjtCL440oPef3NBDv) | 3:26 | 2022-01-07 | 2022-07-23 |
-| [Fugitivos](https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Fugitivos](https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9) | 3:29 | 2022-12-09 | 2023-09-17 |
+| [Fugitivos](https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Fugitivos](https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9) | 3:29 | 2022-12-09 |  |
 | [Fundo Azul](https://open.spotify.com/track/6hJ5xJA0c5P6C3wrdeqDvP) | [Guilherme Simon](https://open.spotify.com/artist/3Tp96mCSKhM8Uf6DsDLadW) | [Fundo Azul](https://open.spotify.com/album/4iIlN7xm4zlqxq10wX716A) | 3:05 | 2022-01-07 | 2022-02-19 |
 | [Fênix](https://open.spotify.com/track/36kCYix5428TjxrCQkxqYV) | [Amanda Cadore](https://open.spotify.com/artist/1QzbQKoB7I3Z9GP4BlfZNA), [Dandara Manoela](https://open.spotify.com/artist/1lh8s7gXcq7nXaidv3OMt3), [Joana Castanheira](https://open.spotify.com/artist/4oeqovhGT9Bj4wbDeaTqXn) | [Fênix](https://open.spotify.com/album/3q7IXJZeH9uhFVlrmgGLYR) | 3:46 | 2022-08-12 | 2022-11-26 |
 | [Goleada](https://open.spotify.com/track/7a3aJIjePAAOwR7sSyb3kQ) | [Lukas Motta](https://open.spotify.com/artist/6HyIMetsnAda0NtVs0rGzH) | [Goleada](https://open.spotify.com/album/7tHt4NCu03XILmJB2I6TS9) | 2:04 | 2022-10-28 | 2022-11-18 |
@@ -145,7 +146,7 @@
 | [Medo de Mim](https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0) | [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Futurea](https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K) | 2:46 | 2022-10-07 |  |
 | [Menina Erê](https://open.spotify.com/track/2XSwUili6c6hRKkGaq541V) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK) | [Menina Erê](https://open.spotify.com/album/2Pl5B2KkwSPn6yyYkFfPaN) | 4:12 | 2022-02-18 | 2022-05-17 |
 | [MENINO](https://open.spotify.com/track/5WYr2jBHdaHYGqiX77CMxM) | [RROCHA](https://open.spotify.com/artist/6Dtjq6vMmraShujDGCgbya), [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q) | [Conterrâneos Estrangeiros](https://open.spotify.com/album/6aXcddKHHP4dcie5R6UPgg) | 3:59 | 2022-01-07 | 2022-08-20 |
-| [Menino Bom](https://open.spotify.com/track/7Cj4srkuBIVpIiBaVxl6B4) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [Menino Bom](https://open.spotify.com/album/0lGSIguWZPGBJ6HsljM9MC) | 3:23 | 2022-11-18 |  |
+| [Menino Bom](https://open.spotify.com/track/7Cj4srkuBIVpIiBaVxl6B4) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [Menino Bom](https://open.spotify.com/album/0lGSIguWZPGBJ6HsljM9MC) | 3:23 | 2022-11-18 | 2023-09-30 |
 | [Mercúrio Retrógrado](https://open.spotify.com/track/4XdyMF2j8WnpxyNLjInCBe) | [Savio di Maio](https://open.spotify.com/artist/1Fgox5usMtSTd34RHVEO3e) | [Mercúrio Retrógrado](https://open.spotify.com/album/66ET2V80fqLXnWSHd5rAS6) | 2:36 | 2022-10-14 | 2022-12-10 |
 | [Mestre Jandaraí](https://open.spotify.com/track/4nO4BI5Z4V38AaLxPSAALf) | [Numa Gama](https://open.spotify.com/artist/3ysogI5DJYxHA5oU5Rjkjh) | [Memórias de Oneyda](https://open.spotify.com/album/3pCYN8unhawhhsRFOVqmiA) | 2:47 | 2022-01-07 | 2022-05-17 |
 | [Mete o Pé](https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Mete o Pé](https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n) | 2:22 | 2022-11-25 |  |
@@ -160,7 +161,7 @@
 | [Muito Além](https://open.spotify.com/track/33Ph1S0NLdwMmL02fqaYbo) | [Gabriela Lery](https://open.spotify.com/artist/273Al938zyiMfS04Mh6lNr), [tiagobello](https://open.spotify.com/artist/35QrpCpY1Tn5bKk8Uxz3YE) | [Muito Além](https://open.spotify.com/album/79oYYVtlbJwuOnYAToJqcp) | 3:14 | 2022-08-12 | 2022-12-03 |
 | [Mulher](https://open.spotify.com/track/46uBprY5NXWwAt1A2N88VI) | [Renife](https://open.spotify.com/artist/4TFGb89oFmLWuW5nRqJPOG) | [Mulher](https://open.spotify.com/album/4maHeiiGiCaiJ19zytMbaB) | 3:21 | 2022-01-07 | 2022-08-20 |
 | [Máfia](https://open.spotify.com/track/2ATyqTOa2IROqjP1laQGle) | [Lil Keef](https://open.spotify.com/artist/4W3yMfi6HUVxWEq2qVt7Nt) | [Máfia](https://open.spotify.com/album/63wxSYDicTNV3n5ueRtaU5) | 2:04 | 2023-01-27 | 2023-02-14 |
-| [Música](https://open.spotify.com/track/0qq96gDe8UkoBds0hqYSdl) | [Julico](https://open.spotify.com/artist/1mx6ZZzrHECoq21qvqfQoY) | [Música](https://open.spotify.com/album/7ys1C6UdAQiZ3RTexrUlE8) | 3:56 | 2023-09-15 |  |
+| [Música](https://open.spotify.com/track/0qq96gDe8UkoBds0hqYSdl) | [Julico](https://open.spotify.com/artist/1mx6ZZzrHECoq21qvqfQoY) | [Música](https://open.spotify.com/album/7ys1C6UdAQiZ3RTexrUlE8) | 3:56 | 2023-09-15 | 2023-09-30 |
 | [NA CIDADE](https://open.spotify.com/track/48SRrE5cEEHH0DASXzOnKv) | [felino](https://open.spotify.com/artist/2uGXjH16PSBfrZ56uoKdNq), [Mariana Ramos](https://open.spotify.com/artist/7dbcgDHRj6hl6VMSrIyHCM) | [NA CIDADE](https://open.spotify.com/album/1mfz9gaY8BNO6biqJ3NyUC) | 2:36 | 2022-01-07 | 2022-01-22 |
 | [Nada \(Além de Você\)](https://open.spotify.com/track/0G14NxlIvaxlCszVZOimOc) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6eh8PdDo6Wv9lTLiGqO1JH) | 2:09 | 2023-02-13 | 2023-07-26 |
 | [Nada \(Além de Você\)](https://open.spotify.com/track/1Mf03EauuFA4HQBDqFjmiD) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6yZfMNvZ0O1V97ilVkGkiy) | 2:09 | 2022-12-09 | 2023-02-15 |

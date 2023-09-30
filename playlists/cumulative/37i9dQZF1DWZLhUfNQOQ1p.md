@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un Negroni in mano\. 🍹
 
-291 songs - 19 hr 6 min
+292 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 | 2023-05-30 |  |
 | [California \- TRU Concept Remix](https://open.spotify.com/track/6jXW2nHRS53cJmlED5PsGC) | [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8), [TRU Concept](https://open.spotify.com/artist/0i8byW08EV6y7Dv9gDPUCF) | [California \(TRU Concept Remix\)](https://open.spotify.com/album/5CcqCvkGG0mNtq736gT79s) | 3:20 | 2021-08-05 | 2022-07-25 |
 | [Call Me Up \- Sebastien Remix](https://open.spotify.com/track/4RCMsYncj7cNtb2OPObVXG) | [Patrick Baker](https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT), [Sebastien](https://open.spotify.com/artist/173M6tvnbPT1Wp5ucD0uAS) | [Call Me Up \(Sebastien Remix\)](https://open.spotify.com/album/5tFrkHgSBIFxZNcvszjQqk) | 3:08 | 2021-08-05 | 2022-07-06 |
+| [Calla](https://open.spotify.com/track/55U8TrpDMrrLUsAIETCVQ4) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Clap! Clap!](https://open.spotify.com/artist/1kvoVygySqbDgyY22qirrv) | [Pantea](https://open.spotify.com/album/7tjjFuEY18RaR8b5BgLxNa) | 4:11 | 2023-09-29 |  |
 | [Calmly](https://open.spotify.com/track/1ROmNAVxMVmTDwXIQcnWIZ) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Sail](https://open.spotify.com/album/3mfmjgtgtGl9f4hUg5CGed) | 4:14 | 2021-08-05 | 2022-06-01 |
 | [Can You Feel Me](https://open.spotify.com/track/35H95rUd08Fwm0DeDifwZM) | [Love Beans](https://open.spotify.com/artist/252cgVmlHfU9jkUArZ8gDm) | [Can You Feel Me](https://open.spotify.com/album/1uHej97mZJH7VVqluMqbRn) | 3:16 | 2021-08-05 | 2022-05-23 |
 | [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 | 2023-05-30 | 2023-09-16 |
@@ -200,7 +201,7 @@
 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 | 2023-05-30 |  |
 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 | 2023-05-30 |  |
 | [Pictures \- Joshua Ellis Remix](https://open.spotify.com/track/2ZLaVJQTHsC51XFzZvyk4d) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Hier](https://open.spotify.com/artist/0vkKvzSb0uPJTFH7HUcEsV), [Joshua Ellis](https://open.spotify.com/artist/31ZMJ2c1wran3TQRURkbyo) | [Pictures \(Joshua Ellis Remix\)](https://open.spotify.com/album/2k992BmvPXzEcIeRWqcL9C) | 2:37 | 2021-08-05 | 2022-07-29 |
-| [Please Stay](https://open.spotify.com/track/1vND8c6S9qev3vgXcVAWFD) | [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Osaze](https://open.spotify.com/artist/6ZWL7h66dJRqstIFa3OO0E), [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Rebirth Of The Drum](https://open.spotify.com/album/7fyL5hklp9dqJEAiIsl1iZ) | 5:15 | 2023-09-01 |  |
+| [Please Stay](https://open.spotify.com/track/1vND8c6S9qev3vgXcVAWFD) | [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Osaze](https://open.spotify.com/artist/6ZWL7h66dJRqstIFa3OO0E), [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Rebirth Of The Drum](https://open.spotify.com/album/7fyL5hklp9dqJEAiIsl1iZ) | 5:15 | 2023-09-01 | 2023-09-30 |
 | [Pleasure & Pain](https://open.spotify.com/track/3aQbews2UsaZk2wEbsCvrE) | [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL) | [Pleasure & Pain](https://open.spotify.com/album/0UZ4WyDGLVaJC97q8W9oA8) | 3:34 | 2021-08-05 | 2022-10-10 |
 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 | 2023-05-30 |  |
 | [Portofino](https://open.spotify.com/track/5pAdgRrEDtLAGU83fpkiD6) | [Lola Le Lann](https://open.spotify.com/artist/3xH7GdfxfMJyUIZESCKDuY) | [Glaz](https://open.spotify.com/album/2kjYDEGJsmcp5249XdZta3) | 2:55 | 2023-05-14 | 2023-05-30 |

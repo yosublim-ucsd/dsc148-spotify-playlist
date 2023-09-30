@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,836 likes - 60 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,020 likes - 60 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 13 | [Tayer 3la jalha Rouho golouhalh](https://open.spotify.com/track/59h6C78HlXp830a2rkxfoC) | [Cheb Faycel Chole](https://open.spotify.com/artist/3bBht8a9t2kDWV9mDnVECf) | [Tayer 3la jalha Rouho golouhalh](https://open.spotify.com/album/5lbUeFQ4SWlAHmDTiI2P6O) | 12:49 |
 | 14 | [Ghazali Habitou](https://open.spotify.com/track/6hhhkowroGbSLNlnuNM8fF) | [Okba Djomati](https://open.spotify.com/artist/2b2xFFEXTFqLRI7sdNpuln), [Cheba Yamina](https://open.spotify.com/artist/16xaDylgpAhxXn1nfWxsU6), [Nasreddine Hora](https://open.spotify.com/artist/5v9r8rYVvqOHnJzVUhA9hQ) | [Ghazali Habitou](https://open.spotify.com/album/4T3ywwlgzvYGC5Q0NZgePj) | 5:12 |
 | 15 | [زهري وميموني](https://open.spotify.com/track/58waEmZ6y9DR4Un90peUBg) | [Cheb Mustapha](https://open.spotify.com/artist/6mWYICO5NsvtzQ7VEwvOf1), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [زهري وميموني](https://open.spotify.com/album/3hkW0KlNQCAQUnqyZVlxSh) | 4:18 |
-| 16 | [هدا غي عشق وفايت](https://open.spotify.com/track/3joJoAR6B8308tfIlisTx2) | [Abbas Kahla](https://open.spotify.com/artist/2v4kCfsNFrNNBAwAs4GZrV) | [هدا غي عشق وفايت](https://open.spotify.com/album/78Jky16Q6UjmNj4Kh5I5Re) | 4:14 |
+| 16 | [هدا غي عشق وفايت Abbas Kahla](https://open.spotify.com/track/2XccMlUe2DuW4YLrjFghki) | [Abbas Kahla](https://open.spotify.com/artist/2v4kCfsNFrNNBAwAs4GZrV) | [هدا غي عشق وفايت Abbas Kahla](https://open.spotify.com/album/5Zyjk5uDs9yYlQFMSR5MvU) | 4:14 |
 | 17 | [Cheb Rochdi Djazira \(Khayna\)](https://open.spotify.com/track/60w5cYkVfK2Z12g9ybDiNG) | [Dz Prod](https://open.spotify.com/artist/2SclQHGM4mHnck8kkeMWlf) | [Cheb Rochdi Djazira \(Khayna\)](https://open.spotify.com/album/1xDohBxeJ05Iq0a6RkQkxS) | 3:13 |
 | 18 | [Ghazali](https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [Ghazali](https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57) | 5:04 |
 | 19 | [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/track/4Oo5q4LjJWrnj7Z0prl5cu) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Ghaltat 3omri](https://open.spotify.com/album/4ekNCdLuNvIgzYncykwPlg) | 5:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 |
 | 60 | [Fi Hawmtek Tayah](https://open.spotify.com/track/49EW3aFH5ORawt7n24NYKm) | [Studio Ganfouda](https://open.spotify.com/artist/6MjJRyqsG53a9FreiOOsxa), [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Fi Hawmtek Tayah](https://open.spotify.com/album/1cmcB8p4CvvbbDJR8rrpfY) | 5:25 |
 
-Snapshot ID: `MCw0ZDJkNmYwZWIyMDY4YTI1Nzc5ZTYwOTYzYjNiYmFmOTEzZjVkNDk1`
+Snapshot ID: `MCxlYzU3NjZmN2FmZmJmZWEwMGQ2YmYzMjhkNmE3YTU2NzMxZjc2MjI5`

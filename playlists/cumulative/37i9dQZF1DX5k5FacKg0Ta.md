@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-136 songs - 12 hr 1 min
+137 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Duke](https://open.spotify.com/track/412Ze3X4P5Bndx4XnWAJwG) | [Soft Power](https://open.spotify.com/artist/3DlOpL8UHL8my5Dl8twYxA) | [Duke](https://open.spotify.com/album/5Ypwfjq7GbjGHXYiKeLxeN) | 4:44 | 2023-04-28 |  |
 | [Dägä Dägä](https://open.spotify.com/track/1ClFUVHYgThdnktoMhcDVE) | [Pope Puolitaival](https://open.spotify.com/artist/2S6F5kcokdkRZaS31KaYsx) | [Dägä Dägä](https://open.spotify.com/album/5ZhvBUKPpFqFrNAAQaTIfi) | 2:54 | 2022-09-02 | 2023-09-15 |
 | [Déjà Vu](https://open.spotify.com/track/4euYzAGkmIbdykP4wYxAQq) | [Sylvain Rifflet](https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [Déjà Vu](https://open.spotify.com/album/3qOl5KWXYlKBZTJhI4Lz9j) | 3:35 | 2022-09-02 | 2023-09-09 |
+| [Earthbeat \- Single Edit](https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4) | [Tuomas Paukku Scription](https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1) | [Earthbeat](https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO) | 5:56 | 2023-09-29 |  |
 | [Elastic Energy](https://open.spotify.com/track/43p6GKAUMfmhdlmAC6PN8i) | [Atte Aho](https://open.spotify.com/artist/4KroGS9rbUIFxtTNtsdsYA) | [Atte Aho](https://open.spotify.com/album/2sy1yT0aK3Bg3UV8xyuqbp) | 5:53 | 2022-09-02 | 2023-09-15 |
 | [Emboldened](https://open.spotify.com/track/3zpPZeYSb7QxEI3iLsRJbv) | [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o), [5tet](https://open.spotify.com/artist/5Qm3npTJ6kO8wV8ZySNUbg), [Max Zenger](https://open.spotify.com/artist/4BQaIjXZ3I0j8rDThV7C2b), [Ilkka Uksila](https://open.spotify.com/artist/2azcrbqMkn574vuVytB2Zg), [Vesa Ojaniemi](https://open.spotify.com/artist/4MwN0AjsejfkObw8iYyN3F), [Jonatan Sarikoski](https://open.spotify.com/artist/7HCk3qB64bbz5SeEeXsKn9) | [Light & Shade](https://open.spotify.com/album/7LthduKkAjzwK762Ez97QP) | 8:07 | 2022-09-02 | 2023-08-26 |
 | [Equilibrium](https://open.spotify.com/track/5encxpCxzvb2FbnKCzYHqe) | [North of Kallio Ensemble](https://open.spotify.com/artist/7sB7k5nRT61iJ4HDliQRtQ) | [Equilibrium](https://open.spotify.com/album/0Q0Swg25g1QDGqRhvikXNl) | 4:45 | 2023-01-27 | 2023-03-04 |

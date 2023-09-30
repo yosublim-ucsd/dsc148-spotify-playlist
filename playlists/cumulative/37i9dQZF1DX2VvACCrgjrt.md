@@ -2,9 +2,9 @@
 
 ### [Nasty Bits](https://open.spotify.com/playlist/37i9dQZF1DX2VvACCrgjrt)
 
-> Real nasty house\. Cover: AC Slater & Chris Lorenzo \(Fly With Us\)
+> Real nasty house\. Cover: Ookay & JSTJR
 
-547 songs - 1 day 4 hr 53 min
+549 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [ALIEN](https://open.spotify.com/track/4fci3f54oN8iJl75OZLm7r) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [ALIEN](https://open.spotify.com/album/3NEiRqKazY4kENtQhKOw4q) | 2:46 | 2022-08-12 | 2022-10-06 |
 | [All About U](https://open.spotify.com/track/1xoUL5CDpAB66vB8qZzMXY) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All About U](https://open.spotify.com/album/4BoLtiThigu3dTXSRCDsW9) | 2:51 | 2021-10-29 | 2021-12-30 |
 | [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 | 2022-09-30 |  |
+| [All I Wanna Do](https://open.spotify.com/track/1ExWt42DF0GzaPIBfaX6qp) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [All I Wanna Do](https://open.spotify.com/album/3X8cM72cVFMPwRDZjDQLDF) | 2:59 | 2023-09-29 |  |
 | [Another Level](https://open.spotify.com/track/5fYnx6xU6bThE37aN1F4vH) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Another Level](https://open.spotify.com/album/4DM2CQxwKHr0JngDDJHPbs) | 3:08 | 2022-11-11 | 2023-03-18 |
 | [Anything \- Malaa Remix](https://open.spotify.com/track/2LVMVLS3QG6zDhETZrMqoK) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Anything \(Malaa Remix\)](https://open.spotify.com/album/2pio6W2gqGJ6zbxuCnPFUG) | 4:13 | 2021-10-29 | 2022-05-28 |
 | [Armageddon](https://open.spotify.com/track/6t0sQM20nfzukV8mzsFEWe) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Armageddon](https://open.spotify.com/album/6aDDd2jtcs4rPodWsAdliA) | 3:04 | 2021-10-29 | 2022-08-13 |
@@ -125,7 +126,7 @@
 | [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 | 2022-05-06 | 2023-03-13 |
 | [Dancerteria](https://open.spotify.com/track/0LVOxIv7HB4y9llCuUUObS) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Kickin Back](https://open.spotify.com/album/7sJhrdrW2NLgsZIemINUKa) | 3:54 | 2021-10-29 | 2022-01-07 |
 | [Danger](https://open.spotify.com/track/5Ztlpo0tihmvazlFYTL3fQ) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Cipher One](https://open.spotify.com/album/0sXeA5zcpIua5syJn7RqIg) | 3:03 | 2021-10-29 | 2022-05-28 |
-| [Dark Side](https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Dark Side](https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya) | 2:37 | 2022-12-16 |  |
+| [Dark Side](https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Dark Side](https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya) | 2:37 | 2022-12-16 | 2023-09-30 |
 | [dashstar\*](https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\*](https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG) | 3:18 | 2021-10-29 | 2022-07-30 |
 | [dashstar\* \- VIP](https://open.spotify.com/track/0zXiTthYKCfvfwixJdn92o) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\* \(VIP\)](https://open.spotify.com/album/1evGUMi2rIAvUewPRHm3sl) | 2:20 | 2022-07-29 | 2023-01-07 |
 | [dashstar\* \- VIP](https://open.spotify.com/track/4FKRT4uPFx2L4exy9DCs1o) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\* \(VIP\)](https://open.spotify.com/album/014iFORUzGJCv81enXjJMg) | 2:20 | 2022-07-29 |  |
@@ -217,7 +218,7 @@
 | [Glimpse](https://open.spotify.com/track/5AbJc4S4TOtSKQL6NLzBIm) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Glimpse](https://open.spotify.com/album/07dEI97wIBVVH9KGpacP0m) | 2:49 | 2023-02-17 | 2023-08-20 |
 | [Go Back](https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Go Back](https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf) | 2:26 | 2023-06-02 |  |
 | [Godspeed](https://open.spotify.com/track/4NnLO3LzdT7vKxY1b6KTdK) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Godspeed](https://open.spotify.com/album/11fKSzXY7mhLxUjm6TfGTY) | 4:11 | 2021-10-29 | 2022-01-05 |
-| [Going Gone](https://open.spotify.com/track/0GNG26sQnxZi6VRYcpAkf0) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY) | [Going Gone](https://open.spotify.com/album/5ObWvyQ58oqDosg7iZ5gkd) | 2:37 | 2023-07-21 |  |
+| [Going Gone](https://open.spotify.com/track/0GNG26sQnxZi6VRYcpAkf0) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY) | [Going Gone](https://open.spotify.com/album/5ObWvyQ58oqDosg7iZ5gkd) | 2:37 | 2023-07-21 | 2023-09-30 |
 | [Gold](https://open.spotify.com/track/2AZo3hWWkaJjfSLcHRxG41) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Gold](https://open.spotify.com/album/2a854nNydyqb4hkHeKqWEh) | 3:35 | 2022-02-18 | 2022-04-21 |
 | [Gold On My Crown \(feat\. Born I\)](https://open.spotify.com/track/19T0zMPlfewq1NL7FVuxii) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM) | [Gold On My Crown \(feat\. Born I\)](https://open.spotify.com/album/09mT14hpl7yACg6W6J1iB9) | 2:43 | 2021-10-29 | 2022-01-21 |
 | [Gonna Make That Money](https://open.spotify.com/track/6jsVScFFlOaGUlomNve4El) | [R Rivera Grooves](https://open.spotify.com/artist/1HvC3OeF8fb9INjQy6DO6z), [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Tyzn](https://open.spotify.com/artist/4RtLJ6ksxpaktS32qE6kxo) | [Gonna Make That Money](https://open.spotify.com/album/4B0fm5p2ltBYtQVHyAB0Ie) | 2:49 | 2022-03-18 | 2022-04-21 |
@@ -429,6 +430,7 @@
 | [Rush](https://open.spotify.com/track/6wL3KiaYImEVwWWmO5InbZ) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 3:52 | 2023-07-28 |  |
 | [Scars](https://open.spotify.com/track/5t0EAqNTV7MmQI6tvlrqmk) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Scars](https://open.spotify.com/album/4sdbYcP9fXjLopjsWjawiy) | 3:02 | 2022-01-07 | 2023-04-01 |
 | [Se Acabo \(feat\. Method Man\) \- 4B Remix](https://open.spotify.com/track/6BRlY9uFQOfYhDY1B7vMJC) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Se Acabo \(feat\. Method Man\) \[4B Remix\]](https://open.spotify.com/album/1r0qOyGLiM9eGU0GC8sWPI) | 2:21 | 2023-01-13 | 2023-09-08 |
+| [Seismic](https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Fly With Us](https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL) | [Seismic](https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ) | 3:28 | 2023-09-29 |  |
 | [Selecta](https://open.spotify.com/track/5l42EXVy40wtLv8FjUUYxl) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Selecta](https://open.spotify.com/album/4U8HP1Uacm4oRiGxkJERO4) | 2:36 | 2022-01-28 | 2022-05-27 |
 | [Sequence 999](https://open.spotify.com/track/5PVDrXJ2N6bpKrxLyyFa4Y) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs) | [Sequence 999](https://open.spotify.com/album/7EMZiKTAUDQ69EsbeoX4uQ) | 2:59 | 2021-10-29 | 2022-01-14 |
 | [Set Me Free](https://open.spotify.com/track/5SVv1fiaB8maWIQxVYC9PI) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU) | [Set Me Free](https://open.spotify.com/album/5Mu6N2Oep0WOSgXVRp1LVo) | 3:07 | 2023-03-17 | 2023-08-09 |

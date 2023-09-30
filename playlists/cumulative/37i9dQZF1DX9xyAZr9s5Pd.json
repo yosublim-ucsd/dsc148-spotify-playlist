@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 190912,
       "name": "Br\u00fajula",
       "url": "https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv"
@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Marchito",
+        "url": "https://open.spotify.com/album/7KNK4fSGZlkMJ3ItyrM06H"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236707,
+      "name": "Marchito",
+      "url": "https://open.spotify.com/track/7EYVt3gOAG8bOq3D5sqXLb"
+    },
+    {
+      "album": {
         "name": "Me Olvido / Te Sigo",
         "url": "https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP"
       },
@@ -838,7 +856,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 176500,
       "name": "Puquio",
       "url": "https://open.spotify.com/track/7AU74ElllykOv422FjsU1E"
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 245227,
       "name": "Suficiente",
       "url": "https://open.spotify.com/track/1tHIfjP3YPkoTLLTmW0BUP"
@@ -1089,6 +1107,28 @@
     },
     {
       "album": {
+        "name": "ARMN",
+        "url": "https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Tenerlo Todo",
+      "url": "https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5"
+    },
+    {
+      "album": {
         "name": "Tobog\u00e1n Amarillo",
         "url": "https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26"
       },
@@ -1126,6 +1166,28 @@
       "duration_ms": 203527,
       "name": "Todo Est\u00e1 Mejor",
       "url": "https://open.spotify.com/track/135CDJyX7CNJ55vBEsK1bZ"
+    },
+    {
+      "album": {
+        "name": "Tutorial Para Olvidarme de Ti",
+        "url": "https://open.spotify.com/album/0rFXbUb5ZLQs4xPBNKUprC"
+      },
+      "artists": [
+        {
+          "name": "Inzul",
+          "url": "https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp"
+        },
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196220,
+      "name": "Tutorial Para Olvidarme de Ti",
+      "url": "https://open.spotify.com/track/0S5tLL40N5MtaxbYLEfjkT"
     },
     {
       "album": {

@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 206997,
       "name": "BORED",
       "url": "https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1"
@@ -2172,6 +2172,24 @@
       "duration_ms": 185240,
       "name": "Donnybrook",
       "url": "https://open.spotify.com/track/6g4avUTyT6Xoafkoat4Zb1"
+    },
+    {
+      "album": {
+        "name": "Down, Down",
+        "url": "https://open.spotify.com/album/370vppY6IUYVcPirKxqVEe"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Down, Down",
+      "url": "https://open.spotify.com/track/0miXex5MBdN0ddRL79GX4I"
     },
     {
       "album": {
@@ -4320,7 +4338,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 302828,
       "name": "Make or Break",
       "url": "https://open.spotify.com/track/1zE6P0V7FX36pdFblWVbUL"
@@ -5642,7 +5660,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 221346,
       "name": "Raining In July",
       "url": "https://open.spotify.com/track/2bOOCOl4ZMHKWfaItzY9aj"
@@ -6189,6 +6207,24 @@
     },
     {
       "album": {
+        "name": "Silver Sun",
+        "url": "https://open.spotify.com/album/4Xqd51xOQGyyj5QgNittz0"
+      },
+      "artists": [
+        {
+          "name": "Jaws the Shark",
+          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215735,
+      "name": "Silver Sun",
+      "url": "https://open.spotify.com/track/7g2paPF2JQLYBuEwLswKkH"
+    },
+    {
+      "album": {
         "name": "Sink Or Swim",
         "url": "https://open.spotify.com/album/26ILhXwTj9xe8PamSGQbal"
       },
@@ -6222,6 +6258,24 @@
       "duration_ms": 135682,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/773VTGnDzSNTZaCGfZuX45"
+    },
+    {
+      "album": {
+        "name": "Slow Death",
+        "url": "https://open.spotify.com/album/79IZOdWrcaiUOQrpjwwKle"
+      },
+      "artists": [
+        {
+          "name": "Big Spring",
+          "url": "https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238891,
+      "name": "Slow Death",
+      "url": "https://open.spotify.com/track/45VA3UoPgC89TWIwOdwxav"
     },
     {
       "album": {
@@ -6405,6 +6459,24 @@
     },
     {
       "album": {
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229555,
+      "name": "Starchild",
+      "url": "https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH"
+    },
+    {
+      "album": {
         "name": "Stay Sane",
         "url": "https://open.spotify.com/album/1bV5jcaO8VJ1axYqK77MTE"
       },
@@ -6554,6 +6626,24 @@
       "duration_ms": 226701,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/5hkgZ6ihtsF6IZr0KaYeMd"
+    },
+    {
+      "album": {
+        "name": "Stuck In a Car With You",
+        "url": "https://open.spotify.com/album/24Vd6jQWV2gf3MbIxAOc8t"
+      },
+      "artists": [
+        {
+          "name": "Twin Atlantic",
+          "url": "https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239877,
+      "name": "Stuck In a Car With You",
+      "url": "https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp"
     },
     {
       "album": {
@@ -6990,6 +7080,24 @@
       "duration_ms": 155978,
       "name": "Taste the Money",
       "url": "https://open.spotify.com/track/44x9fOlJM1CNDIBpOOEJIq"
+    },
+    {
+      "album": {
+        "name": "Taste The Sun",
+        "url": "https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243927,
+      "name": "Taste The Sun",
+      "url": "https://open.spotify.com/track/2DSMg1St3kwmv7uvrRBJZv"
     },
     {
       "album": {
@@ -7502,7 +7610,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 127151,
       "name": "Turn Me Up",
       "url": "https://open.spotify.com/track/6d5YLQel1T5HgdRgeTtz1O"
@@ -7718,7 +7826,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 225653,
       "name": "Wait",
       "url": "https://open.spotify.com/track/4A20nSO6BYi3DJJ4LyaEWJ"

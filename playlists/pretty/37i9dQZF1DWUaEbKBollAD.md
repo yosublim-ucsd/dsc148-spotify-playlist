@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,171 likes - 55 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,187 likes - 55 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 24 | [Killer Machine](https://open.spotify.com/track/6Y0s43nhtwwjhkbkMFOgE6) | [Indra](https://open.spotify.com/artist/3sH57C4p0KSpzkh5uY0bK6) | [Killer Machine](https://open.spotify.com/album/5tbyLz98nz0uYmfgdSZnwu) | 6:30 |
 | 25 | [Green Rework](https://open.spotify.com/track/6dDHMXEY5Vm2yXakvnwALO) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Green Rework](https://open.spotify.com/album/1qtJVVV0QmXTWzIv0FCif4) | 7:13 |
 | 26 | [Romba](https://open.spotify.com/track/6Yb1HE6Da4Z9UMhgVYXRbh) | [Laroz](https://open.spotify.com/artist/37VopouYOyLqeH34jEZ7W9), [Matara](https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Nidze](https://open.spotify.com/album/6FvRbxYYNGhiFaduk88vhi) | 7:15 |
-| 27 | [A Course In Miracles \- Rodriguez Jr\. Remix](https://open.spotify.com/track/0PCQXXAz2vnh7BoPzZVGe8) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [The Interior Journey Remixes \- Part 2](https://open.spotify.com/album/62DW4TKnxSyAG6jlnYQ9Ma) | 6:11 |
+| 27 | [A Course In Miracles \- Rodriguez Jr\. Remix](https://open.spotify.com/track/5Zrda3NOcXsl3AgU1sf1gd) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [The Interior Journey Remixes, Pt\. 2](https://open.spotify.com/album/1cH0l3yujm3KzKDHRvQ09U) | 6:11 |
 | 28 | [Warp Drive](https://open.spotify.com/track/6zdJnikLSW14nk8lrHcde5) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Senso Sounds Level 11](https://open.spotify.com/album/4jeU0bEaImdBYqYUhmrQRw) | 5:35 |
 | 29 | [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 |
 | 30 | [Libertas](https://open.spotify.com/track/1iAa5CqBdlaoexOHjXxLjt) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Libertas EP](https://open.spotify.com/album/55zffYkCjgLJxzPOLSUhWM) | 7:03 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 54 | [The Feeling](https://open.spotify.com/track/2ex7NzlDpZ7uIqVd6sQIX4) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [The Feeling](https://open.spotify.com/album/6pEhtURKta65mrPTSKBn7e) | 8:32 |
 | 55 | [Shiva Manas Puja](https://open.spotify.com/track/7spGN3NecAk8fm5CARxL0X) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 5:58 |
 
-Snapshot ID: `MCw0NGRmZjY2ZjcyYTg1M2JiZjgwMGM0ZGVjNzRjOTliN2YyMjZmYTQ1`
+Snapshot ID: `MCw0NTAxYjk5ZGM1MGY4ZWM5ZmU3ZGJmNWYwNmUyOGZmNzg5YjJhYmM0`

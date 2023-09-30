@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 224400,
       "name": "Ambici\u00f3n",
       "url": "https://open.spotify.com/track/3qUrm7bzZbweXp3PhjnT39"
@@ -1542,6 +1542,24 @@
       "duration_ms": 190000,
       "name": "El Ayer",
       "url": "https://open.spotify.com/track/3vxpy2vOzLtCjx82CoWte6"
+    },
+    {
+      "album": {
+        "name": "El 17",
+        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165168,
+      "name": "El Canton Norte",
+      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
     },
     {
       "album": {

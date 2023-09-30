@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Amoodhamooru",
+        "url": "https://open.spotify.com/album/7vpKN8xmvyysQE0APIw8XA"
+      },
+      "artists": [
+        {
+          "name": "Maalavika Sundar",
+          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230976,
+      "name": "Amoodhamooru",
+      "url": "https://open.spotify.com/track/79qzGfN6cSXk8Z0LsXP1KQ"
+    },
+    {
+      "album": {
         "name": "Amour - Single",
         "url": "https://open.spotify.com/album/4Bn40LxjQ00XGFhFCJhAmR"
       },
@@ -3078,6 +3096,28 @@
       "duration_ms": 344347,
       "name": "Kaatrodu",
       "url": "https://open.spotify.com/track/5yIC1ldpXfRyVL7LpjrZLp"
+    },
+    {
+      "album": {
+        "name": "Kadal Alai",
+        "url": "https://open.spotify.com/album/4bnki9Z6qFFuTkvBejr1jV"
+      },
+      "artists": [
+        {
+          "name": "Shriram Iyer",
+          "url": "https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw"
+        },
+        {
+          "name": "Mahesh Raghvan",
+          "url": "https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198172,
+      "name": "Kadal Alai",
+      "url": "https://open.spotify.com/track/1hGfjnEdTOrNIWNOvD9mmK"
     },
     {
       "album": {

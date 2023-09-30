@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
@@ -3316,6 +3316,24 @@
       "duration_ms": 192542,
       "name": "Nova Scotia 500",
       "url": "https://open.spotify.com/track/4r6nfH8MlWFLGXRpaNmfcv"
+    },
+    {
+      "album": {
+        "name": "Mushroom",
+        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205974,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
     },
     {
       "album": {
@@ -5174,6 +5192,24 @@
       "duration_ms": 189600,
       "name": "Used To Surf",
       "url": "https://open.spotify.com/track/7CPhsiq8jRBePhgCWLcW5S"
+    },
+    {
+      "album": {
+        "name": "Valley Girl",
+        "url": "https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH"
+      },
+      "artists": [
+        {
+          "name": "The Burkharts",
+          "url": "https://open.spotify.com/artist/0zvND4IqnGShzA7X47MIkp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211829,
+      "name": "Valley Girl",
+      "url": "https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh"
     },
     {
       "album": {

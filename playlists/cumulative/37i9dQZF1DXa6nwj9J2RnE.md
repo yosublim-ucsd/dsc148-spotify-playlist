@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Ray Fuego
 
-101 songs - 5 hr 39 min
+102 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [De Ergste Dag](https://open.spotify.com/track/0xKKs27xVmFug8P9bHYyFy) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:21 | 2023-02-23 |  |
 | [De Leven](https://open.spotify.com/track/1RA3cTcU9xGnT5GNi6y7dO) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Leven](https://open.spotify.com/album/2d0wssa9SabKowuZXc0gKn) | 4:04 | 2023-02-23 | 2023-09-01 |
 | [Dit Is Alles](https://open.spotify.com/track/5au9uaIhhA51N27U68JXve) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Dit Is Alles](https://open.spotify.com/album/2MwKnMone5os6yTkqCWxXG) | 3:35 | 2023-02-23 | 2023-05-06 |
+| [ENERGIE](https://open.spotify.com/track/3GeYpZcJMoSraXaiKG4yqq) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN), [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [ENERGIE](https://open.spotify.com/album/4DAAPsmrW61T7EuhrQHzpl) | 4:01 | 2023-09-29 |  |
 | [excuses](https://open.spotify.com/track/1rB3CxWVX9GlNIfLoIuLXb) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [excuses](https://open.spotify.com/album/3WS0r3RjStJi2DIYioq6QW) | 5:46 | 2023-04-27 |  |
 | [Fair Play](https://open.spotify.com/track/0PVLMa9RI4EFDE4NXsglvM) | [Veya](https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU) | [Fair Play](https://open.spotify.com/album/3j48ZkBE3HqHByil4s4xQE) | 3:04 | 2023-02-23 | 2023-09-01 |
 | [For Good](https://open.spotify.com/track/2yjaGTM6j1aOW3OXmEbvsy) | [ALLY](https://open.spotify.com/artist/5j43yWfooo7jnxBQqBgDIY) | [With You In The Room](https://open.spotify.com/album/2aN4RGXYEXSAtC92ePD7JD) | 3:04 | 2023-02-23 | 2023-04-01 |
@@ -63,7 +64,7 @@
 | [Nog Steeds Dezelfde](https://open.spotify.com/track/0F4hPNXDZHw79Vxxxklcl6) | [Willem Ardui](https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Nog Steeds Dezelfde](https://open.spotify.com/album/2BJ4ZpdRnUagLr4xRfNgmQ) | 3:39 | 2023-09-22 |  |
 | [Onbegrepen](https://open.spotify.com/track/2a2p471YjXXiCvpQtl8IHV) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Onbegrepen](https://open.spotify.com/album/0WNtBZDPbvqQue2UyLoTrL) | 2:29 | 2023-02-23 | 2023-06-09 |
 | [Onbezonnen](https://open.spotify.com/track/4dxWDDEkFq9VqsAcIM0IpT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Licht En Donker](https://open.spotify.com/album/0YwrM4igfHYVfNLiIHfiLG) | 2:47 | 2023-02-23 | 2023-04-01 |
-| [Our Time Is Here](https://open.spotify.com/track/3sDLHJgIDP1q2IYnEQjMWq) | [XILLAN](https://open.spotify.com/artist/4NTqnS8zPIpfzdNBcqK8Ly) | [Crowning Gods](https://open.spotify.com/album/3kC8B6AG2U2xrKNJYfj7f5) | 3:25 | 2023-02-23 |  |
+| [Our Time Is Here](https://open.spotify.com/track/3sDLHJgIDP1q2IYnEQjMWq) | [XILLAN](https://open.spotify.com/artist/4NTqnS8zPIpfzdNBcqK8Ly) | [Crowning Gods](https://open.spotify.com/album/3kC8B6AG2U2xrKNJYfj7f5) | 3:25 | 2023-02-23 | 2023-09-30 |
 | [Paranoid Sleeping \- Single Edit](https://open.spotify.com/track/1asK6lxYBYVJwzavweery9) | [Julia Sole](https://open.spotify.com/artist/12XTlzUHaKvvpxuUcKcWr3) | [Paranoid Sleeping](https://open.spotify.com/album/2g9SWINLRnk2vH0cIJEkqt) | 2:09 | 2023-02-23 |  |
 | [Peachy Free](https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Peachy Free](https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94) | 2:34 | 2023-09-22 |  |
 | [Pelechian](https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian](https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g) | 2:34 | 2023-02-23 |  |

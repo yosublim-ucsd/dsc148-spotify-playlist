@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,038 songs - 23 hr 9 min
+1,039 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Ancient Love](https://open.spotify.com/track/5fsGqXrJnldzBkSXynAjlh) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:22 | 2022-01-24 |  |
 | [Angels](https://open.spotify.com/track/2tcPVLQnj1u5WER7yqcQCm) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Lost in Dreams](https://open.spotify.com/album/1KSrjyIcjFmL5JQO8yousZ) | 1:43 | 2022-01-20 |  |
 | [Another Dreamscape \- Ambient Cello Version](https://open.spotify.com/track/3B34t3IAuFFDLlKu3bisN8) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Another Dreamscape \(Ambient Cello Version\)](https://open.spotify.com/album/5ZiCYPAiJp3Tuo59dItpW3) | 1:00 | 2023-09-28 |  |
+| [Another Dreamscape Arr\. For Cello And Harp](https://open.spotify.com/track/7qlyAeQbInDYFW4SWcHYpk) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Another Dreamscape Arr\. For Cello And Harp](https://open.spotify.com/album/70BIDhduIwEbEdptd5Imt2) | 1:00 | 2023-09-29 |  |
 | [Another Dreamscape Arr\. For Strings](https://open.spotify.com/track/1C7zEeLzMTRERkTpmIir0M) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Another Dreamscape Arr\. For Strings](https://open.spotify.com/album/0w8G9BdMDxPzSWlbG2sQVq) | 1:00 | 2023-09-27 |  |
 | [Another Time](https://open.spotify.com/track/2jnEuCFpYvctFuR2qNmRrw) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Relaxing Cello and Piano](https://open.spotify.com/album/2dSaURPj5XAURyvb5nvO4U) | 1:15 | 2022-01-20 |  |
 | [Answers](https://open.spotify.com/track/2JOl4PZ6DdmJCgwkASMn5p) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Answers](https://open.spotify.com/album/3HL8GQCFn44QkAMYVXpFlJ) | 1:01 | 2022-06-18 |  |
@@ -760,7 +761,7 @@
 | [Sacred Space Lullaby](https://open.spotify.com/track/52D4wc1iiCyhDeqGpvyHWg) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Piano Sleep Music](https://open.spotify.com/album/6AyyuaLstiPUOMvGOfpvjy) | 1:02 | 2022-12-28 |  |
 | [Sacred Space Lullaby Arr\. For Cello And Piano](https://open.spotify.com/track/6iTl2zoNsfaTmY5CQqg57b) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Sacred Space Lullaby Arr\. For Cello And Piano](https://open.spotify.com/album/48F4E8KioglUDbGjRUh5yN) | 1:01 | 2023-04-19 |  |
 | [Sadness Appears \- Piano Version](https://open.spotify.com/track/7cMtHtIQpuFRfQUSwWxobH) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Sadness Appears](https://open.spotify.com/album/35N17nElBBi47YLVmI2cOX) | 1:27 | 2022-01-12 |  |
-| [Salvador](https://open.spotify.com/track/0k1PA8kqHD51C49Owjcx5S) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Bagatelles](https://open.spotify.com/album/5NtMEqU7lDZX8d7ODiP4LE) | 2:20 | 2022-01-12 |  |
+| [Salvador](https://open.spotify.com/track/0k1PA8kqHD51C49Owjcx5S) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Bagatelles](https://open.spotify.com/album/5NtMEqU7lDZX8d7ODiP4LE) | 2:20 | 2022-01-12 | 2023-09-30 |
 | [Saman](https://open.spotify.com/track/2ljwAMOpgxhX0961LmvIm7) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Saman](https://open.spotify.com/album/5TaS5BXeovddAbmeNOcVoG) | 2:15 | 2022-01-12 | 2023-04-09 |
 | [Sand Arr\. For Cello And Felt Piano](https://open.spotify.com/track/14ii5C03mrEyYoOFlVsOcL) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Sand Arr\. For Cello And Felt Piano](https://open.spotify.com/album/3CVFHbJXPmIXtvQd5BvQCn) | 1:01 | 2023-04-19 |  |
 | [Sand Castles](https://open.spotify.com/track/1zpQvJV1pWZAWgUrGHbxIA) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Near](https://open.spotify.com/album/4gEyJJ0yLUrkTz0WAz1TkO) | 1:22 | 2022-01-15 |  |

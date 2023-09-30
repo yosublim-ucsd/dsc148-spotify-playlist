@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,226 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,263 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rap dos Hokages: A Vontade do Fogo \(Nerd Hits\)](https://open.spotify.com/track/6xcQRc6H2UdTX425C2YzNY) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap dos Hokages: A Vontade do Fogo \(Nerd Hits\)](https://open.spotify.com/album/0epgFUtxp0mQwVWiGHbqzE) | 9:21 |
-| 2 | [Homem Aranha 2099](https://open.spotify.com/track/7oXLXGVe9NCtKTLLt1m74F) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Homem Aranha 2099](https://open.spotify.com/album/4nqeJtuIcFncsXgIdb9gIg) | 4:04 |
-| 3 | [Rap do Itachi: Essa Dor Que Causei..\. \(NERD HITS\)](https://open.spotify.com/track/1AiQsM4HVi0A3xxrXKvdxu) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Itachi: Essa Dor Que Causei..\. \(NERD HITS\)](https://open.spotify.com/album/51waJCCTeUhh893IsA9AeS) | 3:12 |
-| 4 | [Chainsaw Man](https://open.spotify.com/track/3AF9WkqyCw1U6Vlalt3pQ5) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Chainsaw Man](https://open.spotify.com/album/5c5TZZCOaiwyBO479W12a2) | 3:19 |
-| 5 | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/track/0AH0eFTZaQ6V7Qzj3ap7QY) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/album/5p1E1MImo4ZitXfCRDv7p0) | 2:31 |
-| 6 | [Ira do Imperador](https://open.spotify.com/track/3mIDmzWZ0j6YCTmfx9HeZv) | [WLO Raps](https://open.spotify.com/artist/5mK0ia4fsBwPubjA05Zg4p) | [Ira do Imperador](https://open.spotify.com/album/17fPIDlmeA81BVhfy2PJeT) | 4:49 |
+| 2 | [Eu tô viajando](https://open.spotify.com/track/1TNHMVG6nuM1ZkmpsUT3rq) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [Eu tô viajando](https://open.spotify.com/album/5arN4faBxWMvV9RroZAh8l) | 2:48 |
+| 3 | [Homem Aranha 2099](https://open.spotify.com/track/7oXLXGVe9NCtKTLLt1m74F) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Homem Aranha 2099](https://open.spotify.com/album/4nqeJtuIcFncsXgIdb9gIg) | 4:04 |
+| 4 | [Rap do Itachi: Essa Dor Que Causei..\. \(NERD HITS\)](https://open.spotify.com/track/1AiQsM4HVi0A3xxrXKvdxu) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Itachi: Essa Dor Que Causei..\. \(NERD HITS\)](https://open.spotify.com/album/51waJCCTeUhh893IsA9AeS) | 3:12 |
+| 5 | [Chainsaw Man](https://open.spotify.com/track/3AF9WkqyCw1U6Vlalt3pQ5) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Chainsaw Man](https://open.spotify.com/album/5c5TZZCOaiwyBO479W12a2) | 3:19 |
+| 6 | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/track/0AH0eFTZaQ6V7Qzj3ap7QY) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/album/5p1E1MImo4ZitXfCRDv7p0) | 2:31 |
 | 7 | [Putz Animes \- Vibe Zabuza 2](https://open.spotify.com/track/6MTfh45Ywrgu1jS27Zd1kn) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Putz Animes \- Vibe Zabuza 2](https://open.spotify.com/album/4gQBNib1VzNA7K3zST5ZUu) | 3:41 |
 | 8 | [Tipo Tobi](https://open.spotify.com/track/45vigZiVUySqgsMXqxhtvp) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Tobi](https://open.spotify.com/album/5ufXwSFcC7e6DcromjzEBc) | 3:24 |
 | 9 | [Tipo Merus](https://open.spotify.com/track/1mGOmr1USqOYEkGKymzmIQ) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Merus](https://open.spotify.com/album/75LVPBkmocAq32tQhXqG7k) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 49 | [Se Ajoelhe](https://open.spotify.com/track/1xVzfXASMOg5zoBGRoe7in) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Se Ajoelhe](https://open.spotify.com/album/79oJSsNswdXJ1wAH2JB929) | 3:47 |
 | 50 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 
-Snapshot ID: `MCxmMGZkYTc0ZDYyNTczOTIwOGE4ODA3MjgwZTYzZmMyMWE2NDZhNjYy`
+Snapshot ID: `MCwxY2U3ZjNkMjI0Njg5NDJkMWNmNjZmZjEyYTRmMGY1M2ViMWUwMTZk`

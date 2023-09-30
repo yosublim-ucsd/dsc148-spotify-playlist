@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music each and every Friday.   Cover:  <a href=\"spotify:artist:7vNNmjV14SKQzlQAEg0BXP\">Jean Dawson</a> and <a href=\"spotify:artist:7tYKF4w9nC0nq9CsPZTHyP\">SZA</a>",
+  "description": "New music each and every Friday.   Cover: <a href=\"spotify:artist:78rUTD7y6Cy67W1RVzYs7t\">PinkPantheress</a>",
   "name": "This is Frequency",
   "tracks": [
     {
@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 191808,
       "name": "Amplify",
       "url": "https://open.spotify.com/track/7JCUFszcuSHwvcj2ZjQ0T9"
@@ -4829,6 +4829,24 @@
     },
     {
       "album": {
+        "name": "Bigger Than The Song",
+        "url": "https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189156,
+      "name": "Bigger Than The Song",
+      "url": "https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8"
+    },
+    {
+      "album": {
         "name": "Bikini Bottom",
         "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
       },
@@ -6593,6 +6611,24 @@
     },
     {
       "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132213,
+      "name": "Broken is the man",
+      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
+    },
+    {
+      "album": {
         "name": "ONLY ONE",
         "url": "https://open.spotify.com/album/5qocotft3C4USMvQA7Jgge"
       },
@@ -7118,7 +7154,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 219453,
       "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
@@ -7466,7 +7502,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 211293,
       "name": "capture my soul (feat. Joeboy)",
       "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
@@ -9950,7 +9986,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 182146,
       "name": "Crying In My Car (with Teezo Touchdown)",
       "url": "https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl"
@@ -13420,7 +13456,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 224210,
       "name": "enknee1",
       "url": "https://open.spotify.com/track/69RiJ3z34tsKkRjeVSjdvL"
@@ -19557,6 +19593,28 @@
     },
     {
       "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181902,
+      "name": "Homicide (with Jessie Reyez)",
+      "url": "https://open.spotify.com/track/2vVUevSgxbWBub5zW7rQPO"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
       },
@@ -20164,7 +20222,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 100666,
       "name": "hue_man nature",
       "url": "https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN"
@@ -20392,6 +20450,28 @@
       "duration_ms": 153360,
       "name": "I Don't Smoke Kendre, Pt. 2",
       "url": "https://open.spotify.com/track/6jXwVU3YzUN4FGute5p5Uy"
+    },
+    {
+      "album": {
+        "name": "Existential Crisis Boy (Part 1)",
+        "url": "https://open.spotify.com/album/5TVQXYqzF5t6HQMHKZVWUQ"
+      },
+      "artists": [
+        {
+          "name": "Tyler Cole",
+          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187400,
+      "name": "I Don't Wanna Dance (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/77v0c1CYJ04g9IteCB4Hfu"
     },
     {
       "album": {
@@ -22072,7 +22152,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 142041,
       "name": "Is It A Crime?",
       "url": "https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk"
@@ -27859,6 +27939,24 @@
     },
     {
       "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146240,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
+    },
+    {
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/4gQHDKTolva19r36snfw8T"
       },
@@ -33466,7 +33564,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -33514,6 +33612,24 @@
       "duration_ms": 167264,
       "name": "Portfolio",
       "url": "https://open.spotify.com/track/5tN1tWxAk6OeM2kkmQuv0d"
+    },
+    {
+      "album": {
+        "name": "going...going...GONE!",
+        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185666,
+      "name": "pos",
+      "url": "https://open.spotify.com/track/5EwIo2Vc50Blvpk00ynRQP"
     },
     {
       "album": {
@@ -37497,6 +37613,24 @@
     },
     {
       "album": {
+        "name": "Shake Yo Dreads",
+        "url": "https://open.spotify.com/album/2xQmFSVYsk6qOvFCwVXqgh"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177902,
+      "name": "Shake Yo Dreads",
+      "url": "https://open.spotify.com/track/5n2V631qeQri7jI6Kvbm4j"
+    },
+    {
+      "album": {
         "name": "She Da Baddest",
         "url": "https://open.spotify.com/album/4NIIPHjJ3EJA3XMgtddTAq"
       },
@@ -37841,6 +37975,24 @@
     },
     {
       "album": {
+        "name": "EMOTION SICKNESS",
+        "url": "https://open.spotify.com/album/7qpJHu4q1taE6JOFvdm6YA"
+      },
+      "artists": [
+        {
+          "name": "Fefe Dobson",
+          "url": "https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163760,
+      "name": "SHUT UP AND KISS ME",
+      "url": "https://open.spotify.com/track/69XM2hnoX1hVwqDGnnGZSq"
+    },
+    {
+      "album": {
         "name": "sick of all these uglies falling out the sky",
         "url": "https://open.spotify.com/album/3HIeVaZ8g0siu6WUgd1yL0"
       },
@@ -38174,6 +38326,24 @@
       "duration_ms": 102548,
       "name": "sipping my tea",
       "url": "https://open.spotify.com/track/5f4NTBzhDSX8d8eT0HsZEL"
+    },
+    {
+      "album": {
+        "name": "Sister Wives",
+        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198842,
+      "name": "Sister Wives",
+      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
     },
     {
       "album": {
@@ -39801,6 +39971,24 @@
     },
     {
       "album": {
+        "name": "Spicy EP",
+        "url": "https://open.spotify.com/album/0udQAFBK4sp46uxle2mcv9"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168136,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/5jsXDTkZnlbFT4aSTCOn1y"
+    },
+    {
+      "album": {
         "name": "PRE5L",
         "url": "https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4"
       },
@@ -39942,7 +40130,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -45606,7 +45794,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 190200,
       "name": "UPSIDE DOWN",
       "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"

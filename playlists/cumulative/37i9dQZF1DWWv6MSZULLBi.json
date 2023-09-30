@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 265453,
       "name": "4runner",
       "url": "https://open.spotify.com/track/3sIKldlKWC5TICO2Tcz7uu"
@@ -2155,6 +2155,24 @@
     },
     {
       "album": {
+        "name": "Don't Act",
+        "url": "https://open.spotify.com/album/1jx2k2AVWxx4bhrW6O7OBC"
+      },
+      "artists": [
+        {
+          "name": "Angus Maude",
+          "url": "https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244838,
+      "name": "Don't Act",
+      "url": "https://open.spotify.com/track/0r8dEC7jKC7NvYgckACsOO"
+    },
+    {
+      "album": {
         "name": "Don't Fade",
         "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
       },
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 192750,
       "name": "Guide You Home",
       "url": "https://open.spotify.com/track/2XBZcpbkqHquUtI1RphNlj"
@@ -4286,7 +4304,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 214500,
       "name": "I Give Up",
       "url": "https://open.spotify.com/track/0SwDAICvoyzFT8Q20ubjSo"
@@ -5964,7 +5982,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 149946,
       "name": "More Change",
       "url": "https://open.spotify.com/track/6T8jm94wSS3fbgM4VAEITF"
@@ -6699,6 +6717,24 @@
     },
     {
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/6wFPfkPzE0X3P4fJ7rSP7f"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214401,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/2YnQOjgsA22lfNhGocdoKL"
+    },
+    {
+      "album": {
         "name": "One More Day",
         "url": "https://open.spotify.com/album/4R8AVU5NAVYV8ACgxL7zPC"
       },
@@ -7414,6 +7450,24 @@
       "duration_ms": 225691,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6cglXxd6F4eWXr6nVXE2Ac"
+    },
+    {
+      "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
     },
     {
       "album": {
@@ -10818,6 +10872,24 @@
       "duration_ms": 205040,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/3TPQJ4fzrDgG8SChcHhtO8"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229222,
+      "name": "Young - Spotify Singles",
+      "url": "https://open.spotify.com/track/764lmcFd4PTTZtxcksPLDR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Arco.",
-  "num_followers": 568413,
+  "num_followers": 568522,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjdjMDhiYWVlMzJkYTcyOTc3MTYwYTliN2YyMDBmODhlOGFkYjYx",
+  "snapshot_id": "MCwzZDMxOGY2NjBjMGMzZTg3ODI2ZGYwNDcxNmNhMDA0NjhmNGYzMDhi",
   "tracks": [
     {
       "added_at": "2023-09-28 21:59:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-09-28 21:59:00",
       "album": {
-        "name": "Rock & Roll Star - 30 a\u00f1os",
-        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
-      },
-      "artists": [
-        {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Cadillac solitario",
-      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
-    },
-    {
-      "added_at": "2023-09-28 21:59:00",
-      "album": {
         "name": "Poes\u00eda B\u00e1sica",
         "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 232000,
       "name": "Rojitas",
       "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
+    },
+    {
+      "added_at": "2023-09-28 21:59:00",
+      "album": {
+        "name": "Rock & Roll Star - 30 a\u00f1os",
+        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Cadillac solitario",
+      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
     },
     {
       "added_at": "2023-09-28 21:59:00",
@@ -1483,6 +1483,30 @@
     {
       "added_at": "2023-09-28 21:59:00",
       "album": {
+        "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
+        "url": "https://open.spotify.com/album/4qByfq5tS7o8pQXyz3QzI0"
+      },
+      "artists": [
+        {
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        },
+        {
+          "name": "Funambulista",
+          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
+        },
+        {
+          "name": "Shinova",
+          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
+        }
+      ],
+      "duration_ms": 227319,
+      "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
+      "url": "https://open.spotify.com/track/6VwFAPGWOfHirpRLMVj7Go"
+    },
+    {
+      "added_at": "2023-09-28 21:59:00",
+      "album": {
         "name": "Ur\u00f3boros",
         "url": "https://open.spotify.com/album/3VYt0Dcj9hPc9ztby9ykl9"
       },
@@ -1535,30 +1559,6 @@
       "duration_ms": 263506,
       "name": "Tu frialdad",
       "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
-    },
-    {
-      "added_at": "2023-09-28 21:59:00",
-      "album": {
-        "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
-        "url": "https://open.spotify.com/album/4qByfq5tS7o8pQXyz3QzI0"
-      },
-      "artists": [
-        {
-          "name": "Despistaos",
-          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
-        },
-        {
-          "name": "Funambulista",
-          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
-        },
-        {
-          "name": "Shinova",
-          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
-        }
-      ],
-      "duration_ms": 227319,
-      "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
-      "url": "https://open.spotify.com/track/6VwFAPGWOfHirpRLMVj7Go"
     },
     {
       "added_at": "2023-09-28 21:59:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-09-28 21:59:00",
       "album": {
-        "name": "Destrozares, Canciones para el Final de los Tiempos",
-        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 429000,
-      "name": "Del Tiempo Perdido",
-      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
-    },
-    {
-      "added_at": "2023-09-28 21:59:00",
-      "album": {
         "name": "Otra noche sin dormir",
         "url": "https://open.spotify.com/album/753WFdgyz5M1h3ZQnSSQDL"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
+    },
+    {
+      "added_at": "2023-09-28 21:59:00",
+      "album": {
+        "name": "Destrozares, Canciones para el Final de los Tiempos",
+        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 429000,
+      "name": "Del Tiempo Perdido",
+      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
     },
     {
       "added_at": "2023-09-28 21:59:00",

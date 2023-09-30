@@ -3839,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "My Doudou",
+        "url": "https://open.spotify.com/album/3Yu0D13xgIcR974AFxFN85"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "My Doudou",
+      "url": "https://open.spotify.com/track/1eSE9S5Z58BDnwafWr8Akw"
+    },
+    {
+      "album": {
         "name": "My Moto",
         "url": "https://open.spotify.com/album/3gIFu0CH2CiaLeOBcrP3Hq"
       },

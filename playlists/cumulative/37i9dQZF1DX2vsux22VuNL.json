@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: R\u00f4 Rosa",
+  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Nilo",
   "name": "brisa",
   "tracks": [
     {
@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 282690,
       "name": "Cachimbo da Paz 2",
       "url": "https://open.spotify.com/track/2ZeG4NqS9tRoUa6LGjAP2I"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 169850,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 158625,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK"
@@ -1844,6 +1844,32 @@
       "duration_ms": 168500,
       "name": "Enquanto O Dia N\u00e3o Acabou",
       "url": "https://open.spotify.com/track/1FrXmfE6yDBU0O5wqxE8DW"
+    },
+    {
+      "album": {
+        "name": "espelho",
+        "url": "https://open.spotify.com/album/2pnyK2SIEd3MWksx7pDdaW"
+      },
+      "artists": [
+        {
+          "name": "SEST",
+          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
+        },
+        {
+          "name": "Zarastruta",
+          "url": "https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM"
+        },
+        {
+          "name": "Felipe Artioli",
+          "url": "https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223103,
+      "name": "espelho",
+      "url": "https://open.spotify.com/track/2bHRHxeElocbyFNMZRil2h"
     },
     {
       "album": {
@@ -2218,6 +2244,32 @@
     {
       "album": {
         "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "DoisP",
+          "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
+        },
+        {
+          "name": "BORIS FARIAS",
+          "url": "https://open.spotify.com/artist/6Cp5dpCP8rgtVSEYewU6xF"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163030,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
+    },
+    {
+      "album": {
+        "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/3QrfrubXNF6xRzCAV6DvB7"
       },
       "artists": [
@@ -2332,7 +2384,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 185118,
       "name": "Flutuar",
       "url": "https://open.spotify.com/track/2uS6Yw6w31YXagFu0lBmOj"
@@ -2588,6 +2640,32 @@
       "duration_ms": 204000,
       "name": "Golpe Baixo",
       "url": "https://open.spotify.com/track/0tikP9agfqFyjJS4NLJHxp"
+    },
+    {
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
     },
     {
       "album": {
@@ -2866,7 +2944,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 240000,
       "name": "Lili",
       "url": "https://open.spotify.com/track/50xFGBuVecb9LQ6a5evQJg"
@@ -2978,6 +3056,28 @@
       "duration_ms": 228693,
       "name": "L\u00e1 Vem A Noite",
       "url": "https://open.spotify.com/track/1Yg5rkFc2XVM6h950xtmsN"
+    },
+    {
+      "album": {
+        "name": "L\u00e1bia",
+        "url": "https://open.spotify.com/album/3wEHJr1DqFpzRNbFk4o5hC"
+      },
+      "artists": [
+        {
+          "name": "RAMON",
+          "url": "https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl"
+        },
+        {
+          "name": "Two Records",
+          "url": "https://open.spotify.com/artist/4SfxAv3Xdu1gD1HBs6BYSn"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177997,
+      "name": "L\u00e1bia",
+      "url": "https://open.spotify.com/track/3jiSDYClzVY31izbE8lxGQ"
     },
     {
       "album": {
@@ -3396,7 +3496,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 208725,
       "name": "Meu Fechamento",
       "url": "https://open.spotify.com/track/1Qh2N24WF6Vm0hJsWixrGr"
@@ -4054,7 +4154,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 253354,
       "name": "Onde Voc\u00ea Mora",
       "url": "https://open.spotify.com/track/7qpSEfTO2686bD0th4KEEM"
@@ -4338,10 +4438,36 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 171513,
       "name": "Penelope",
       "url": "https://open.spotify.com/track/66qOxO7krWQpQWZPi1IzQo"
+    },
+    {
+      "album": {
+        "name": "Pensamento",
+        "url": "https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Pensamento",
+      "url": "https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z"
     },
     {
       "album": {
@@ -4433,6 +4559,24 @@
     },
     {
       "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
+    },
+    {
+      "album": {
         "name": "Pimenta",
         "url": "https://open.spotify.com/album/4uNMPFLGmrvLhMWGgT8fT7"
       },
@@ -4516,7 +4660,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 315652,
       "name": "Poesia Ac\u00fastica - Lisboa",
       "url": "https://open.spotify.com/track/0xYOVTHZVSvZBUQgCybH9b"
@@ -4712,7 +4856,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 150280,
       "name": "Positiva",
       "url": "https://open.spotify.com/track/33U3Gmoy3PzawWRSXujlrk"
@@ -5108,7 +5252,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 109260,
       "name": "R\u00e1dio do Caribe",
       "url": "https://open.spotify.com/track/19g8PZ080d83ibFIDdqu3k"
@@ -6235,6 +6379,24 @@
     },
     {
       "album": {
+        "name": "(EX) POSTO",
+        "url": "https://open.spotify.com/album/5YlxSyxPJBFQeJelrmwCVd"
+      },
+      "artists": [
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167090,
+      "name": "Toda estranha",
+      "url": "https://open.spotify.com/track/2meJca6wSL6dDbe2SM0uI6"
+    },
+    {
+      "album": {
         "name": "Toda Mal\u00e9vola",
         "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
@@ -6302,7 +6464,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 158467,
       "name": "Um Dois",
       "url": "https://open.spotify.com/track/5iSYwmatz4QkD60IiZGMQA"

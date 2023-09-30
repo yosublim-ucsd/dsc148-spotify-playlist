@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE?si=WqKJk6IgSLq3ymoTb4T59Q\">Miel San Marcos</a> y <a href=\"https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m?si=EJdRgFjpQo6stbxUb9cvkQ\">Chris Tomlin</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"spotify:artist:2miffAnnUvKSyB9ykA2su9\">Living</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -624,7 +624,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 357785,
       "name": "Aleluya (Gloria al Rey) - Live",
       "url": "https://open.spotify.com/track/4L7IkK1GvTd36H4tOBkIIT"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 643485,
       "name": "Beso Tus Pies",
       "url": "https://open.spotify.com/track/7k3Y4nFrqjBD4gzJpHGAL1"
@@ -2875,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "DIOS HA SIDO BUENO",
+        "url": "https://open.spotify.com/album/13L1JYQNlTfmBYWrvB6yEq"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174757,
+      "name": "DIOS HA SIDO BUENO",
+      "url": "https://open.spotify.com/track/7sEy4iTAuRNq3aPxWlDwFT"
+    },
+    {
+      "album": {
         "name": "Dios No Ha Terminado Contigo",
         "url": "https://open.spotify.com/album/7nX6ZExMSeiCviItKuku22"
       },
@@ -3748,6 +3766,36 @@
       "duration_ms": 215217,
       "name": "Es Su Amor",
       "url": "https://open.spotify.com/track/61B2w9KqtI9xgmax05YvVs"
+    },
+    {
+      "album": {
+        "name": "Esa Es La Raz\u00f3n (Live)",
+        "url": "https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395757,
+      "name": "Esa Es La Raz\u00f3n - Live",
+      "url": "https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq"
     },
     {
       "album": {
@@ -5247,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "lo que crees de m\u00ed / ESFERA CELESTE",
+        "url": "https://open.spotify.com/album/0Yao852MgDyr0yKwtICPIr"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189887,
+      "name": "lo que crees de m\u00ed",
+      "url": "https://open.spotify.com/track/6SHBIYT7Woz5wAF0J3Vgq0"
+    },
+    {
+      "album": {
         "name": "Lo Que Has Comenzado",
         "url": "https://open.spotify.com/album/2brSHsXD0E1UIBeqDuhZIs"
       },
@@ -6082,7 +6148,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 277552,
       "name": "Mil Veces - En Vivo Desde Santa Elena",
       "url": "https://open.spotify.com/track/1fODdlEcY6vxTCkcxxeVJl"
@@ -6464,7 +6530,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 204381,
       "name": "No Existe",
       "url": "https://open.spotify.com/track/2rNeTNpb0GhpCZWuXelW3h"
@@ -10152,6 +10218,32 @@
       "duration_ms": 515314,
       "name": "Yo Soy Tu Amado",
       "url": "https://open.spotify.com/track/2C9fMUl9vXTU8aEwmFwGrI"
+    },
+    {
+      "album": {
+        "name": "Tribo & Na\u00e7\u00e3o Vol.1",
+        "url": "https://open.spotify.com/album/2y4OVWwz1MMFceZMFpjKGC"
+      },
+      "artists": [
+        {
+          "name": "Som Do Reino",
+          "url": "https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515314,
+      "name": "Yo Soy Tu Amado",
+      "url": "https://open.spotify.com/track/30NS04CDhzMIsn44oKPthN"
     },
     {
       "album": {

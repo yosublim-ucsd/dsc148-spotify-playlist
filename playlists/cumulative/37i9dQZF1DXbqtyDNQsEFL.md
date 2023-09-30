@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-206 songs - 23 hr 10 min
+207 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,10 +163,11 @@
 | [Spontaneous Worship 1 \- Live](https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [Heal Our Land \(Live\)](https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC) | 7:41 | 2022-06-09 | 2023-06-13 |
 | [Strong Tower](https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:56 | 2022-06-09 | 2023-06-14 |
 | [Suo Mé](https://open.spotify.com/track/4ItJnL2F1kAyk1GFiyB8kS) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Suo Mé](https://open.spotify.com/album/3UrYNFLEvCSXX1JAJFLxcv) | 3:14 | 2023-09-01 | 2023-09-08 |
-| [Surrender](https://open.spotify.com/track/1FP3EFM7Ktu4THDKl1HxP5) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Surrender](https://open.spotify.com/album/7gWyosA6T2BtuHil6La76X) | 3:27 | 2023-08-25 |  |
+| [Surrender](https://open.spotify.com/track/1FP3EFM7Ktu4THDKl1HxP5) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Surrender](https://open.spotify.com/album/7gWyosA6T2BtuHil6La76X) | 3:27 | 2023-08-25 | 2023-09-30 |
 | [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 | 2022-06-09 |  |
 | [Taking care \- Live at Bliss Experience](https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Taking care \(Live at Bliss Experience\)](https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k) | 5:10 | 2022-06-09 | 2023-06-16 |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-09-08 |  |
+| [Tate](https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi) | [Saint Realest](https://open.spotify.com/artist/0s1xpeEP8VX2sytVILCDBs), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Ah Yami](https://open.spotify.com/album/7tQV02VyNXreMnwXiG8Qxy) | 3:13 | 2023-09-29 |  |
 | [Thank You Jesus](https://open.spotify.com/track/0ckaJapxvZXRheLq71K2bC) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak) | [Songs of the Spirit](https://open.spotify.com/album/4VT477X1Zs9XZkevo0dVEf) | 5:11 | 2022-10-14 | 2022-11-05 |
 | [That's The Power \- Live](https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [These Same Skies \(Live\)](https://open.spotify.com/album/08skyG33WqHITgFg6S09LR) | 4:34 | 2022-06-09 |  |
 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 | 2022-08-12 |  |

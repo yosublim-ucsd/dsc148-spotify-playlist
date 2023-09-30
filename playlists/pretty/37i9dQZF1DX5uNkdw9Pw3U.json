@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 74299,
+  "num_followers": 74521,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzZjMDEwZWY5ZTRjZDdlNWYxMzI0NzBjM2I1ZWRmOTA0MzdjODgy",
+  "snapshot_id": "MCw0ODVlMTM3MTc4NzExMWYyOWY5YTRkYmUzNmVmNTg2ODU4MDBkMTNj",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 155298,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Mixer",
         "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 192823,
       "name": "Mixer",
       "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 155298,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Do To Me",
-        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 225103,
-      "name": "Do To Me",
-      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Fair",
         "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 184012,
       "name": "Fair",
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Do To Me",
+        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 225103,
+      "name": "Do To Me",
+      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "A Real Romantic",
-        "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
-      },
-      "artists": [
-        {
-          "name": "ELIZA",
-          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
-        }
-      ],
-      "duration_ms": 236662,
-      "name": "Wasn't Looking",
-      "url": "https://open.spotify.com/track/4VP3WbWh2BZ8xNEp6tLr6P"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "None Of Your Concern",
         "url": "https://open.spotify.com/album/2pq9ByHGHMflMY3qy20BMW"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 262213,
       "name": "None Of Your Concern",
       "url": "https://open.spotify.com/track/1nal3Tf1OCV53KigMZXsZ7"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "A Real Romantic",
+        "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
+      },
+      "artists": [
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        }
+      ],
+      "duration_ms": 236662,
+      "name": "Wasn't Looking",
+      "url": "https://open.spotify.com/track/4VP3WbWh2BZ8xNEp6tLr6P"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "And Then Life Was Beautiful",
-        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Who Do You Pray To?",
         "url": "https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 189092,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "And Then Life Was Beautiful",
+        "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
     }
   ],
   "unique_name": "Laid Back Beats",

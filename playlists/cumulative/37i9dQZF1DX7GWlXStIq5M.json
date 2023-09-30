@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Lexa, Thiago Pantale\u00e3o",
+  "description": "Os hits j\u00e1 consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: Marina Sena, Fleezus",
   "name": "Palco POP",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 176000,
       "name": "43 Licor",
       "url": "https://open.spotify.com/track/35cfiw0V40lXLP2LKljJY0"
@@ -204,6 +204,32 @@
       "duration_ms": 147789,
       "name": "A.N.A.N.D.A.",
       "url": "https://open.spotify.com/track/19N3cwfpPVn61lTNLPlG8X"
+    },
+    {
+      "album": {
+        "name": "Abelha",
+        "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Abelha",
+      "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
     },
     {
       "album": {
@@ -1544,7 +1570,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 158000,
       "name": "BICHO SOLTO!!!",
       "url": "https://open.spotify.com/track/2WRe2rOyy3SuKVyL7btTAB"
@@ -1900,7 +1926,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 168266,
       "name": "Cadeado",
       "url": "https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I"
@@ -2934,7 +2960,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 217440,
       "name": "Dia de Paz",
       "url": "https://open.spotify.com/track/6RwAnu45njj1fG1ml9aRaG"
@@ -3972,7 +3998,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 187596,
       "name": "Fora do Ar",
       "url": "https://open.spotify.com/track/2ElgZPvCR3R7SZFFzhzP8w"
@@ -4146,7 +4172,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 152866,
       "name": "Gamadona",
       "url": "https://open.spotify.com/track/6LiFJolwT0NIa0YMRrmRgG"
@@ -4723,6 +4749,36 @@
     },
     {
       "album": {
+        "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] [2023 Version]",
+        "url": "https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160961,
+      "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
+      "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
+    },
+    {
+      "album": {
         "name": "Ilus\u00e3o",
         "url": "https://open.spotify.com/album/3ZUF5lnauyxYQmoBRCAFi9"
       },
@@ -4890,7 +4946,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 135625,
       "name": "Inten\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
@@ -5122,7 +5178,7 @@
           "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
         },
         {
-          "name": "King",
+          "name": "KING Saints",
           "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
         }
       ],
@@ -5542,6 +5598,24 @@
       "duration_ms": 205913,
       "name": "LSD",
       "url": "https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh"
+    },
+    {
+      "album": {
+        "name": "Lua Cheia",
+        "url": "https://open.spotify.com/album/6aRPIPyZQKpSQi3W2p7o4Y"
+      },
+      "artists": [
+        {
+          "name": "Wanessa Camargo",
+          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181436,
+      "name": "Lua Cheia",
+      "url": "https://open.spotify.com/track/0MpBrNgNg9ihjLNHW7O6pU"
     },
     {
       "album": {
@@ -7096,7 +7170,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 166470,
       "name": "N\u00e3o Devo Nada",
       "url": "https://open.spotify.com/track/7Mhe1VdenqiiRAqsSIyxHo"
@@ -7326,7 +7400,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 174478,
       "name": "O Tempo N\u00e3o P\u00e1ra",
       "url": "https://open.spotify.com/track/6WQLbzNkOgCuRd5jCZ2qfv"
@@ -8799,6 +8873,24 @@
     },
     {
       "album": {
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/2RhFlihoWqgcvGEO3ZSb4v"
+      },
+      "artists": [
+        {
+          "name": "GIOLI",
+          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150044,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/0yFsqGPEdoMM9UjdzNpnJY"
+    },
+    {
+      "album": {
         "name": "Pro Dia Nascer Feliz",
         "url": "https://open.spotify.com/album/5dePvauWlTrFFIwPsA3EHB"
       },
@@ -9134,6 +9226,24 @@
       "duration_ms": 163200,
       "name": "Quer Dan\u00e7ar Comigo?",
       "url": "https://open.spotify.com/track/6t5Su8EZf1C0HNSD7asjKp"
+    },
+    {
+      "album": {
+        "name": "Quero te ver gozar",
+        "url": "https://open.spotify.com/album/58y3yjaCfF8Z3lCoAxqcog"
+      },
+      "artists": [
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181951,
+      "name": "Quero te ver gozar",
+      "url": "https://open.spotify.com/track/25AI0OE0Dl2le4omEsIwyW"
     },
     {
       "album": {
@@ -10447,6 +10557,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/6Ra6EkKXpxMzlj9LDzAb4H"
+      },
+      "artists": [
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171536,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5MWedCrdHFDo0LA9CA6Giz"
+    },
+    {
+      "album": {
         "name": "para-raio",
         "url": "https://open.spotify.com/album/6iZPdkQAcuvcc4sYlfqGDw"
       },
@@ -10670,6 +10798,28 @@
       "duration_ms": 148915,
       "name": "Telepatia",
       "url": "https://open.spotify.com/track/4mYq9GLiRglw3V6lztdV4e"
+    },
+    {
+      "album": {
+        "name": "Tenemos que hablar (Real Magic)",
+        "url": "https://open.spotify.com/album/3vZUh3inLziRn9Zpa1cMAC"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195066,
+      "name": "Tenemos que hablar - Real Magic",
+      "url": "https://open.spotify.com/track/4wjURqSdOtZKt4qlQeioFJ"
     },
     {
       "album": {
@@ -11186,7 +11336,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 193411,
       "name": "TUA BITCH",
       "url": "https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL"
@@ -11636,7 +11786,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 162221,
       "name": "Vai Vendo",
       "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
@@ -12078,7 +12228,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 141966,
       "name": "wet dreams",
       "url": "https://open.spotify.com/track/0k9wOEjffXnwzbypcgLt1a"

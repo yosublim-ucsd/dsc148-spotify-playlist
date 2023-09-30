@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 21184,
+  "num_followers": 21197,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzZmNTU3MDE3ODM2YTYxNGE0YzM3NGNiMmQ0NWFhNmM2MmIyNDYz",
+  "snapshot_id": "MCxhZjE5NzVjMDljMDM4ZjE5ODA4YjQwMjVhOGZjNDc1YjFkYWYwNDFh",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -219,18 +219,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
-        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+        "name": "Puro \u00c9xitos: Las Chicas Rolands",
+        "url": "https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud"
       },
       "artists": [
         {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+          "name": "Las Chicas Rolands",
+          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
         }
       ],
-      "duration_ms": 401600,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH"
+      "duration_ms": 203160,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/4o4I53Z5NypMoz5MTsY3Ij"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -251,18 +251,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Puro \u00c9xitos: Las Chicas Rolands",
-        "url": "https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud"
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
       },
       "artists": [
         {
-          "name": "Las Chicas Rolands",
-          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
         }
       ],
-      "duration_ms": 203160,
-      "name": "Pai",
-      "url": "https://open.spotify.com/track/4o4I53Z5NypMoz5MTsY3Ij"
+      "duration_ms": 401600,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH"
     },
     {
       "added_at": "2020-05-26 15:53:13",

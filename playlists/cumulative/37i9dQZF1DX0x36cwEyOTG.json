@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "End Of The Day (music from the film Anonymous Club)",
+        "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344235,
+      "name": "Get On With It",
+      "url": "https://open.spotify.com/track/7kkHmLA9r54mm2N35wMyvS"
+    },
+    {
+      "album": {
         "name": "Giving Up Is Not The Easiest Way Out",
         "url": "https://open.spotify.com/album/7CvKDSfsSZvV3LvvRnlSLK"
       },
@@ -4096,7 +4114,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 250850,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg"

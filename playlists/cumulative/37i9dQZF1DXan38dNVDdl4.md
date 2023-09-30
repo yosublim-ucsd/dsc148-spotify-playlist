@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Miami Carnival 2023, curated by Silent Addy
 
-379 songs - 18 hr 58 min
+380 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Extra Lesson](https://open.spotify.com/track/3cZVPn99tKQBMM5f2bjy6O) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Extra Lesson](https://open.spotify.com/album/4nQA6Tou22zA2nwpgPDzNh) | 3:35 | 2023-07-10 | 2023-08-08 |
 | [Faith](https://open.spotify.com/track/4mi15dxptB29V7pP7syITW) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Faith](https://open.spotify.com/album/1J4qgzKzD6OWx4QVbpdA08) | 3:07 | 2023-01-31 | 2023-07-11 |
 | [Family](https://open.spotify.com/track/6kRU5OQ3xw8RfraMzQT7TZ) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Against All Odds Riddim](https://open.spotify.com/album/6ZouuMWelwDXJlFbLcWMwr) | 2:44 | 2022-07-29 | 2022-09-10 |
-| [Feel Right](https://open.spotify.com/track/3PNVG2HOa38upqAvF9bRYx) | [Silent Matic](https://open.spotify.com/artist/1IP0ki1FBQzBSFZD3aNPHw), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Creep Chromatic](https://open.spotify.com/artist/4amanKcOowjZUItQWoKGXK), [Projexx](https://open.spotify.com/artist/5P8ybav4ElNzBQBQg3ohJE) | [Block Party Riddim](https://open.spotify.com/album/4kL1Vsq7LrFTo5A5Atstn5) | 2:09 | 2023-09-24 |  |
+| [Feel Right](https://open.spotify.com/track/3PNVG2HOa38upqAvF9bRYx) | [Silent Matic](https://open.spotify.com/artist/1IP0ki1FBQzBSFZD3aNPHw), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Creep Chromatic](https://open.spotify.com/artist/4amanKcOowjZUItQWoKGXK), [Projexx](https://open.spotify.com/artist/00d6vygLEKVVBRMn584VdB) | [Block Party Riddim](https://open.spotify.com/album/4kL1Vsq7LrFTo5A5Atstn5) | 2:09 | 2023-09-24 |  |
 | [Feel So Good](https://open.spotify.com/track/3vwYqbNjlCe50NwH6dSQuf) | [Tifa](https://open.spotify.com/artist/0SC0umMk5cSHBN8zAVc4TA) | [Feel So Good](https://open.spotify.com/album/5HyzTnYiTAy0P7rf8lWOhl) | 2:49 | 2023-09-24 |  |
 | [Feelings](https://open.spotify.com/track/2KzIR1FI5GLsF5UK2HF73L) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Feelings](https://open.spotify.com/album/2pW2gzJ33UZYvkBurZaF1r) | 3:22 | 2022-03-02 | 2023-07-11 |
 | [Feelings](https://open.spotify.com/track/6qB7EBjM6CTOPPEVsXenQL) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Feelings](https://open.spotify.com/album/1jtt9i4POLOx0kWuPmhdL5) | 2:35 | 2023-03-03 | 2023-07-11 |
@@ -197,7 +197,8 @@
 | [Lockdown](https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Lockdown](https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6) | 2:59 | 2021-12-20 | 2022-03-03 |
 | [London](https://open.spotify.com/track/69GzHJZKbGZnYaEpHYaC4n) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [London](https://open.spotify.com/album/616VWAHOKzHETulvW0RJNA) | 2:31 | 2022-07-29 | 2022-09-10 |
 | [Love Story](https://open.spotify.com/track/76mqZXlySKItIJw9norTJy) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Love Story](https://open.spotify.com/album/3TREWdAbsavg6OAsXjVU2R) | 3:01 | 2021-12-20 | 2022-03-22 |
-| [Mad Out](https://open.spotify.com/track/3sKFGFRXf9vLhO0f36FPIH) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Mad Out](https://open.spotify.com/album/6Ed8djOFTsUOlWNEAb6fVu) | 2:33 | 2023-09-24 |  |
+| [Mad Out](https://open.spotify.com/track/3sKFGFRXf9vLhO0f36FPIH) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Mad Out](https://open.spotify.com/album/6Ed8djOFTsUOlWNEAb6fVu) | 2:33 | 2023-09-24 | 2023-09-30 |
+| [Mad Out](https://open.spotify.com/track/66fDqCrza2Q0LkwBMu0RVC) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Big Bunx Riddim](https://open.spotify.com/album/4DkQnfDRm6b8i7Eit2tBdM) | 2:33 | 2023-09-24 |  |
 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 | 2023-07-10 | 2023-08-08 |
 | [Maniac](https://open.spotify.com/track/1tCcOw0WZuKRkW5xl9EhMm) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/3y09mvRbBlkfCJHmlpQnc7) | 2:58 | 2021-12-20 | 2022-03-22 |
 | [Mek Money](https://open.spotify.com/track/3MVbaHUhFefg7RKjTXMoa9) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Mek Money](https://open.spotify.com/album/5Evsbapiw54PEtMa7tpSGe) | 2:13 | 2021-12-20 |  |

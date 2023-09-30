@@ -965,6 +965,28 @@
     },
     {
       "album": {
+        "name": "Zodiac Suite",
+        "url": "https://open.spotify.com/album/6xMuaOboivwaqgRZnJ6DYg"
+      },
+      "artists": [
+        {
+          "name": "Aaron Diehl",
+          "url": "https://open.spotify.com/artist/2FnwobtceU4Gt0REt02z2W"
+        },
+        {
+          "name": "The Knights",
+          "url": "https://open.spotify.com/artist/3pZzcGCvhNTv3yoWmrXGNm"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Libra",
+      "url": "https://open.spotify.com/track/2dEimLdpOJLBDPHJqSTWvy"
+    },
+    {
+      "album": {
         "name": "Marzamemi",
         "url": "https://open.spotify.com/album/3DAQwOi0le2C5l9RgbCiry"
       },

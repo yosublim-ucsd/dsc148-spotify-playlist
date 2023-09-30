@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Capo Plaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,450 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,855 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Formentera](https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Formentera](https://open.spotify.com/album/4iUG3rZBWlkeCgfVAmIA65) | 2:58 |
 | 50 | [YALLA \(feat\. Guè & Marracash\)](https://open.spotify.com/track/6VTxXLLqkJw1GoKlKrwsvQ) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 3:17 |
 
-Snapshot ID: `MCxiNzg2Njc0OGM2NjEyYzFhNGJhMDlmMTMyZmI5Yzk5MzVjZmE3Yzcw`
+Snapshot ID: `MCwxMGQwNzAyMTRjMmQ0YzQyMzIzMDIwZWZiYWM3ZTdmMDYzNWI1ZGVh`

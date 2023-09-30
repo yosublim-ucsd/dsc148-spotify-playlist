@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,779 likes - 96 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,819 likes - 96 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 21 | [Texas Flood \- Live at Ripley's Music Hall, Philadelphia, PA, Oct\. 20, 1983](https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 10:00 |
 | 22 | [Damn Right I've Got The Blues \- Live](https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live! The Real Deal](https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O) | 7:41 |
 | 23 | [Soulshine](https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Live...With A Little Help From Our Friends](https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE) | 9:09 |
-| 24 | [Rattlesnake Shake \(with Steven Tyler & Billy Gibbons\) \- Live from The London Palladium](https://open.spotify.com/track/2QyLRyrciztL0CQ7CeXK2p) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Billy Gibbons](https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD), [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 4:49 |
+| 24 | [Rattlesnake Shake \(with Steven Tyler & Billy Gibbons\) \- Live from The London Palladium](https://open.spotify.com/track/2QyLRyrciztL0CQ7CeXK2p) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw), [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 4:49 |
 | 25 | [Stop Breakin' Down \- Live](https://open.spotify.com/track/6dB8978aNpxv00JwIY3gui) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Live At Montreux 1999](https://open.spotify.com/album/1dP8l4ixSJsI0T4au2j6ln) | 6:50 |
 | 26 | [Open Hearted Woman \- Live](https://open.spotify.com/track/3Phzwv994YsLZSSU7B2Q6P) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Live at DBA: New Orleans Bootleg](https://open.spotify.com/album/0XQbbMvll706Gfsk4ymE2T) | 7:57 |
 | 27 | [Weatherman](https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY) | [Tasha Taylor](https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq) | [Ina Forsman, Layla Zoe, Tasha Taylor](https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3) | 3:38 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 95 | [Do You Wanna \- Live](https://open.spotify.com/track/4dHpgdH4HNPTDxOrTFKnhy) | [Vanja Sky](https://open.spotify.com/artist/11qCism35wezz8ve5s5hBq) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 3:35 |
 | 96 | [Backwater Blues \- Live](https://open.spotify.com/track/4ScrL9E0Ifv2dL1liFqnf7) | [Cedric Burnside Project](https://open.spotify.com/artist/0U8rq1DeTRYsLCHFm8aB0W) | [Backwater Blues \(Live\)](https://open.spotify.com/album/1acsrcWZZlLtWnzhHykdrU) | 4:37 |
 
-Snapshot ID: `MCxkZWYxNDlmYmNjMWMzMjUxYjliNjBjZTEzNDVmNDNmNTdhMjdkOTI0`
+Snapshot ID: `MCwxMGEzZmYyODQ4NzU3MTlmZWI0YjQ0OWEyNWZiNzEyY2Q5OTNkMjYx`

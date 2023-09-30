@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-247 songs - 15 hr 17 min
+248 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Colors](https://open.spotify.com/track/7opwYU8nShC7yZ6Ct4O5LD) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6), [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7) | 4:29 | 2023-01-11 | 2023-07-16 |
 | [Come On Up To The House \(feat\. X Ambassadors\) \- Spotify Singles](https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Spotify Singles](https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy) | 4:17 | 2023-01-11 |  |
 | [Complicated \- Spotify Singles](https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Spotify Singles](https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio) | 3:58 | 2023-01-11 |  |
-| [Consideration \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Spotify Singles](https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq) | 2:22 | 2021-10-27 |  |
+| [Consideration \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7AHRfGlH26yolPQK0IOlQa) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Spotify Singles](https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq) | 2:22 | 2021-10-27 | 2023-09-30 |
 | [Convincing \- Spotify Singles](https://open.spotify.com/track/0R7lOFuxYUlXUd76mrGMHt) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:58 | 2023-01-11 |  |
 | [Cornflake Girl \- Recorded At RAK Studios, London](https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Spotify Singles](https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO) | 4:41 | 2021-10-27 |  |
 | [Cute \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/0FwYn79fyv1lKn8bfPQWuw) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Spotify Singles](https://open.spotify.com/album/5rFq8b1sAIjmCCdS4rjFYt) | 3:40 | 2022-03-30 |  |
@@ -247,6 +247,7 @@
 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 | 2021-10-27 |  |
 | [Welcome to Your Life \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2cN7H31DES22HCjYitKggF) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:45 | 2021-10-27 | 2023-01-12 |
 | [When the Night is Over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2omW4OJrifRkLNb1byj0e6) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:10 | 2021-10-27 |  |
+| [White Noise \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/01LXrAtadc5KLDmINlg1yt) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Spotify Singles](https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli) | 2:48 | 2023-01-11 |  |
 | [Whole Wide World \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Spotify Singles](https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI) | 3:41 | 2021-10-27 |  |
 | [Why Did You Run? \- Live](https://open.spotify.com/track/4QTUnhkVcgGOWlQgcpKXK8) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Judah & The Lion \(Live\)](https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy) | 6:03 | 2022-10-26 | 2023-01-12 |
 | [Why Did You Run? \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3oJRLetXV9sNjdT3zrHHDm) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Spotify Singles](https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN) | 6:03 | 2021-10-27 | 2022-12-09 |

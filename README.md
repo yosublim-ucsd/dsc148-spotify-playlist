@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6793\)
+## Playlists \(6797\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1059,7 +1059,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Casal Mandrake](/playlists/pretty/37i9dQZF1DX0prPGsXNyt4.md)
 - [Cat Calming Music](/playlists/pretty/37i9dQZF1DX5cXGtVmblSB.md)
 - [Catz 'n Dogz' track IDs](/playlists/pretty/37i9dQZF1DX6h7s1SXA0eN.md)
-- [Cautious Clay Digs Jazz](/playlists/pretty/37i9dQZF1DWTtzPKJEaTC4.md)
 - [Celtic Punk](/playlists/pretty/37i9dQZF1DXb1IUaS6F7Z8.md)
 - [Cena con Amigos](/playlists/pretty/37i9dQZF1DWWLmaNnR9HlL.md)
 - [Cena con Guitarras](/playlists/pretty/37i9dQZF1DXd0RRszxFFrw.md)
@@ -1388,6 +1387,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Cuerdas Calmantes Para Bebés](/playlists/pretty/37i9dQZF1DX3dC34O2dxyM.md)
 - [Culture Tubes](/playlists/pretty/37i9dQZF1DXd0Y4aXXQXWv.md)
 - [Cumbia 420](/playlists/pretty/37i9dQZF1DWSLzWG0oani3.md)
+- [Cumbia Covers](/playlists/pretty/37i9dQZF1DWXDtaPlsmvZ7.md)
 - [Cumbia Norteña](/playlists/pretty/37i9dQZF1DX7V3ptrxki0a.md)
 - [Cumbia Santafesina](/playlists/pretty/37i9dQZF1DXciANtXsejm4.md)
 - [Cumbia Sonidera](/playlists/pretty/37i9dQZF1DWTmGGCbcoQhY.md)
@@ -1400,6 +1400,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Cumbias de Oro](/playlists/pretty/37i9dQZF1DX1fWwsbVMoI6.md)
 - [Cumbias, Huapangos & Zapateados](/playlists/pretty/37i9dQZF1DWXXHuDNowP2z.md)
 - [Cumbieras](/playlists/pretty/37i9dQZF1DX3JGBBuBxYKW.md)
+- [Cyberpunk 2077 Official Playlist](/playlists/pretty/37i9dQZF1DWYMokBiQj5qF.md)
 - [Cyberpunk Synthwave](/playlists/pretty/5hnjEy2ZXUZcEcy8jT0Wiw.md)
 - [DEADNOISE.FM](/playlists/pretty/79vrB5Ei5Gk7BctdZesJJA.md)
 - [DEAS' track IDs](/playlists/pretty/37i9dQZF1DWUBSyNvqfKld.md)
@@ -1592,6 +1593,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Douceur Pop](/playlists/pretty/37i9dQZF1DX9LNmKG8TiZU.md)
 - [Douceurs acoustiques](/playlists/pretty/37i9dQZF1DX1V8OzNxefxu.md)
 - [Down In The Dumps](/playlists/pretty/0HPgJ9rOXECphJIqfkrzoS.md)
+- [Dr.STONE](/playlists/pretty/37i9dQZF1DWXv0oqj7VoL4.md)
 - [Dramatic Classical](/playlists/pretty/37i9dQZF1DX2aCk0vzzaZQ.md)
 - [Dreamcatcher](/playlists/pretty/37i9dQZF1DXb6LkIGouseT.md)
 - [Dreampop](/playlists/pretty/37i9dQZF1DX6uhsAfngvaD.md)
@@ -1621,6 +1623,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Día de Muertos](/playlists/pretty/37i9dQZF1DX9O1Gd7qCBx1.md)
 - [Día de Shakira](/playlists/pretty/37i9dQZF1DX2aEQIkO99yg.md)
 - [Días Lluviosos](/playlists/pretty/37i9dQZF1DWTIpAoUPaStF.md)
+- [EA NHL 24 Official Playlist](/playlists/pretty/37i9dQZF1DWWP0WY5aV2Xz.md)
 - [EA SPORTS FC 24 Official Soundtrack](/playlists/pretty/37i9dQZF1DX3rXtgePifMs.md)
 - [EA SPORTS FIFA Mix](/playlists/pretty/37i9dQZF1DXdDfBvFXqzpv.md)
 - [ECHO : Fascinating Flute](/playlists/pretty/37i9dQZF1DX4x2OUqt1eGO.md)
@@ -2816,6 +2819,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Kids Music](/playlists/pretty/0Gy1TwCxPFTMCiwxGLVkc1.md)
 - [Kids Workout](/playlists/pretty/37i9dQZF1DWWdHnKrQaItY.md)
 - [Kidz Bop Party](/playlists/pretty/37i9dQZF1DWZGe3coPVOS4.md)
+- [Kiefer Digs Jazz](/playlists/pretty/37i9dQZF1DWTtzPKJEaTC4.md)
 - [Kilig Pa More](/playlists/pretty/37i9dQZF1DX4cx0q5Jn2vp.md)
 - [Killing It](/playlists/pretty/37i9dQZF1DXea2M7iVhM3V.md)
 - [KimBops!](/playlists/pretty/37i9dQZF1DX0018ciYu6bM.md)

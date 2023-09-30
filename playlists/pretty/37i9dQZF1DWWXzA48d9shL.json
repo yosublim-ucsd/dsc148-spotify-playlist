@@ -1,12 +1,12 @@
 {
   "description": "Rap from hell. Cover: City Morgue",
-  "num_followers": 532623,
+  "num_followers": 533120,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmIzZjEyMDU0ZmE4ODNkNDg1M2M5MGY5ODY2NjdlZmVjZGFmZDkz",
+  "snapshot_id": "MCxjY2IzYzQ2ZDI4MTg2ODA0ODM1MWI5YjVmZTI5MTJkYzhiODUyNTQ4",
   "tracks": [
     {
       "added_at": "2023-08-29 17:56:43",
@@ -1587,6 +1587,26 @@
       "duration_ms": 177230,
       "name": "KNIGHT CRAWLER (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w"
+    },
+    {
+      "added_at": "2022-09-02 06:10:00",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
       "added_at": "2023-04-14 04:01:00",

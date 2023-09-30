@@ -64,7 +64,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 168393,
       "name": "2 FUNKY",
       "url": "https://open.spotify.com/track/5YC5hyGD9Mp7GY1Exqufp7"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 133717,
       "name": "Ancient Delta",
       "url": "https://open.spotify.com/track/38pZmgMFuF9Xgvd8djMbYS"
@@ -1651,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Between Planets",
+        "url": "https://open.spotify.com/album/1HXAyDt5jwwKPyi0tlH5WQ"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93648,
+      "name": "Crumbs",
+      "url": "https://open.spotify.com/track/7fsFSCGoDfOfBE5gco8NAM"
+    },
+    {
+      "album": {
         "name": "Cryogen",
         "url": "https://open.spotify.com/album/7HCgZIwVVZn7AQvslT5Wq9"
       },
@@ -2120,6 +2138,28 @@
       "duration_ms": 210572,
       "name": "Dribble",
       "url": "https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp"
+    },
+    {
+      "album": {
+        "name": "DRILLTRONICA",
+        "url": "https://open.spotify.com/album/3yYKfRTzyRQsUWJvBLe85Y"
+      },
+      "artists": [
+        {
+          "name": "E-SWERVE",
+          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
+        },
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "DRILLTRONICA",
+      "url": "https://open.spotify.com/track/1WdBJ4uehsp1O7GfdZiHq7"
     },
     {
       "album": {

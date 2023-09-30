@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 295184,
+  "num_followers": 295315,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWE5MjM2MTZmMzM0NGE0MWQ2N2ZhNjM2ZjE0NzBjMzIyNzYwOGI1",
+  "snapshot_id": "MCw1YWE0YzVhOTQ0MzE0MWFiNjM5ZWI1NWMyYzE1Y2Q4OTczNjhhMjU2",
   "tracks": [
     {
       "added_at": "2020-10-06 12:32:47",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Inner City Life",
-        "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
-      },
-      "artists": [
-        {
-          "name": "Goldie",
-          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
-        }
-      ],
-      "duration_ms": 231973,
-      "name": "Inner City Life - Radio Edit",
-      "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 294533,
       "name": "Clear - Jose \u201cAnimal\u201d Diaz Remix",
       "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Inner City Life",
+        "url": "https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "Inner City Life - Radio Edit",
+      "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Such A Good Feeling",
-        "url": "https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp"
-      },
-      "artists": [
-        {
-          "name": "Brothers In Rhythm",
-          "url": "https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Such A Good Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Experience",
         "url": "https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 331266,
       "name": "Your Love - Remix",
       "url": "https://open.spotify.com/track/6vsy0Bg3BeAyq7INPGEA2o"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Such A Good Feeling",
+        "url": "https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp"
+      },
+      "artists": [
+        {
+          "name": "Brothers In Rhythm",
+          "url": "https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Such A Good Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2"
     },
     {
       "added_at": "2020-10-06 12:32:47",

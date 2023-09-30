@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld",
-  "num_followers": 125197,
+  "num_followers": 127485,
   "original_name": "sigilkore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGRlNGMxNzYxMjY4YzhkODQxNTQ4NTc5YTNmMWM3ZDRjYmNhNzk4",
+  "snapshot_id": "MCwxYWM5NWYzMGY2NzY0MmQ4MDQ1ZTIxZmQxMmRjNzI1OGQ5MGU3Mzlk",
   "tracks": [
     {
       "added_at": "2023-09-26 15:59:33",
@@ -43,18 +43,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "XIII SORROWS",
-        "url": "https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB"
+        "name": "GMFU (w/ 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
       },
       "artists": [
         {
           "name": "Odetari",
           "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
         }
       ],
-      "duration_ms": 128738,
-      "name": "HYPNOTIC DATA",
-      "url": "https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc"
+      "duration_ms": 127741,
+      "name": "GMFU (w/ 6arelyhuman)",
+      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
     },
     {
       "added_at": "2023-09-28 20:23:55",
@@ -99,6 +103,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "LET ME SEE YA MOVE!",
+        "url": "https://open.spotify.com/album/3264fH7RgsN1aubvVgT0ny"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "duration_ms": 121734,
+      "name": "LET ME SEE YA MOVE!",
+      "url": "https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "XOXO (Kisses Hugs)",
         "url": "https://open.spotify.com/album/7ypr8nw5re15S7r5XR8Q28"
       },
@@ -119,6 +143,30 @@
       "duration_ms": 130785,
       "name": "XOXO (Kisses Hugs)",
       "url": "https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg"
+    },
+    {
+      "added_at": "2023-09-29 14:52:24",
+      "album": {
+        "name": "Ketamine Girl",
+        "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
+      },
+      "artists": [
+        {
+          "name": "akiaura",
+          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -159,22 +207,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "GMFU (w/ 6arelyhuman)",
-        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
+        "name": "XIII SORROWS",
+        "url": "https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB"
       },
       "artists": [
         {
           "name": "Odetari",
           "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
         }
       ],
-      "duration_ms": 127741,
-      "name": "GMFU (w/ 6arelyhuman)",
-      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+      "duration_ms": 128738,
+      "name": "HYPNOTIC DATA",
+      "url": "https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -199,26 +243,6 @@
       "duration_ms": 139680,
       "name": "REPL4CE!",
       "url": "https://open.spotify.com/track/3oXlxZ4teZ1iLon3NmN0bn"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "LET ME SEE YA MOVE!",
-        "url": "https://open.spotify.com/album/3264fH7RgsN1aubvVgT0ny"
-      },
-      "artists": [
-        {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        },
-        {
-          "name": "cade clair",
-          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
-        }
-      ],
-      "duration_ms": 121734,
-      "name": "LET ME SEE YA MOVE!",
-      "url": "https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP"
     },
     {
       "added_at": "2023-09-26 15:59:33",
@@ -247,34 +271,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "THROW IT UP!",
-        "url": "https://open.spotify.com/album/79Oj6d3wKiZkmRc9t3mg61"
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
       },
       "artists": [
         {
-          "name": "jnhygs",
-          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
-        }
-      ],
-      "duration_ms": 118718,
-      "name": "THROW IT UP!",
-      "url": "https://open.spotify.com/track/7z20FEdw9dC6PLt3oTtesz"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "NALGOTICA!",
-        "url": "https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc"
-      },
-      "artists": [
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
         {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
         }
       ],
-      "duration_ms": 114703,
-      "name": "NALGOTICA!",
-      "url": "https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr"
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -299,30 +311,6 @@
       "duration_ms": 125861,
       "name": "party addict",
       "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "BABY I'M HOME (w/ Kanii & 9lives)",
-        "url": "https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        }
-      ],
-      "duration_ms": 208938,
-      "name": "BABY I'M HOME (w/ Kanii & 9lives)",
-      "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -383,26 +371,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "3x3",
-        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        }
-      ],
-      "duration_ms": 126600,
-      "name": "I LOVE YOU HOE (w/ 9lives)",
-      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "rock that body shawty",
         "url": "https://open.spotify.com/album/376Gm1ANMn5oFVF6ZYs5Nz"
       },
@@ -427,6 +395,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "NALGOTICA!",
+        "url": "https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "duration_ms": 114703,
+      "name": "NALGOTICA!",
+      "url": "https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "SHAKE THAT SHIT!",
         "url": "https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs"
       },
@@ -447,6 +431,30 @@
       "duration_ms": 155028,
       "name": "SHAKE THAT SHIT!",
       "url": "https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "BABY I'M HOME (w/ Kanii & 9lives)",
+        "url": "https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 208938,
+      "name": "BABY I'M HOME (w/ Kanii & 9lives)",
+      "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -547,30 +555,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Sleepwalker (Ultra Slowed & Reverb)",
-        "url": "https://open.spotify.com/album/74fiQju6Hajz6CMfCv7Z8i"
-      },
-      "artists": [
-        {
-          "name": "akiaura",
-          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
-        },
-        {
-          "name": "LONOWN",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        },
-        {
-          "name": "STM",
-          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
-        }
-      ],
-      "duration_ms": 317562,
-      "name": "Sleepwalker - Ultra Slowed & Reverb",
-      "url": "https://open.spotify.com/track/00nDbhlvByugZmIG21JYSK"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "LOOK DON\u2019T TOUCH (w/ cade clair)",
         "url": "https://open.spotify.com/album/5MkgYSsxCsItpmkgkhDl0P"
       },
@@ -631,30 +615,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "go_hard",
-        "url": "https://open.spotify.com/album/6PKcqeS05kyd5MjawZcV1q"
-      },
-      "artists": [
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        },
-        {
-          "name": "WASTY",
-          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
-        }
-      ],
-      "duration_ms": 126766,
-      "name": "go_hard",
-      "url": "https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "So Fast",
         "url": "https://open.spotify.com/album/5G8vICzPb4gk5KzS8N7ci4"
       },
@@ -711,22 +671,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Kurxxed Emeraldz",
-        "url": "https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy"
-      },
-      "artists": [
-        {
-          "name": "Luci4",
-          "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
-        }
-      ],
-      "duration_ms": 61250,
-      "name": "Kurxxed Emeraldz",
-      "url": "https://open.spotify.com/track/01aBUgzGC5798sm3oPqhVs"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "SMOKE IT OFF!",
         "url": "https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99"
       },
@@ -767,42 +711,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "HOSTAGE",
-        "url": "https://open.spotify.com/album/2iETy4VvjZT3I6smiL21Zh"
-      },
-      "artists": [
-        {
-          "name": "Kayla G",
-          "url": "https://open.spotify.com/artist/70a2f8eEAvvtz3uLxq35CL"
-        }
-      ],
-      "duration_ms": 107719,
-      "name": "HOSTAGE",
-      "url": "https://open.spotify.com/track/4TlKDSXQtHkDJIa5v6gB8A"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "let's get paid!",
-        "url": "https://open.spotify.com/album/3DT2GwPBHlcdQMTgHkqbyw"
-      },
-      "artists": [
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "WASTY",
-          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
-        }
-      ],
-      "duration_ms": 102860,
-      "name": "let's get paid!",
-      "url": "https://open.spotify.com/track/3uMDzjC36gRF3zWbxAc705"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "masquerade",
         "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
       },
@@ -815,34 +723,6 @@
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Melody and bars (Remix)",
-        "url": "https://open.spotify.com/album/1UG6ymTSsOPFM0pwH4yxYV"
-      },
-      "artists": [
-        {
-          "name": "iluvern!",
-          "url": "https://open.spotify.com/artist/5B1esX3IbuEZQqcx95bMzS"
-        },
-        {
-          "name": "Ezerkel",
-          "url": "https://open.spotify.com/artist/02RtI2MmZwPgDqbFp6cC23"
-        },
-        {
-          "name": "6inxk",
-          "url": "https://open.spotify.com/artist/5Cb3fZehN0o8sKUJcZL82S"
-        },
-        {
-          "name": "Khnife",
-          "url": "https://open.spotify.com/artist/53SmayiyXKMINPttpyiRp1"
-        }
-      ],
-      "duration_ms": 187009,
-      "name": "Melody and bars - Remix",
-      "url": "https://open.spotify.com/track/0RcIgGcoomCgXRK7nvGZLn"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -871,8 +751,48 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "BodyPartz",
-        "url": "https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7"
+        "name": "NARCISSISTIC PERSONALITY DISORDER",
+        "url": "https://open.spotify.com/album/10o52EY3moL562KKhd3Cet"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 110416,
+      "name": "NARCISSISTIC PERSONALITY DISORDER",
+      "url": "https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "go_hard",
+        "url": "https://open.spotify.com/album/6PKcqeS05kyd5MjawZcV1q"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "WASTY",
+          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+        }
+      ],
+      "duration_ms": 126766,
+      "name": "go_hard",
+      "url": "https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Kurxxed Emeraldz",
+        "url": "https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy"
       },
       "artists": [
         {
@@ -880,9 +800,9 @@
           "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
         }
       ],
-      "duration_ms": 79129,
-      "name": "BodyPartz",
-      "url": "https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz"
+      "duration_ms": 61250,
+      "name": "Kurxxed Emeraldz",
+      "url": "https://open.spotify.com/track/01aBUgzGC5798sm3oPqhVs"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -907,22 +827,6 @@
       "duration_ms": 111085,
       "name": "do tonight",
       "url": "https://open.spotify.com/track/6uwVzUJ2WyoGb9iSqj1vvH"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "NARCISSISTIC PERSONALITY DISORDER",
-        "url": "https://open.spotify.com/album/10o52EY3moL562KKhd3Cet"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 110416,
-      "name": "NARCISSISTIC PERSONALITY DISORDER",
-      "url": "https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1015,6 +919,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "BodyPartz",
+        "url": "https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7"
+      },
+      "artists": [
+        {
+          "name": "Luci4",
+          "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
+        }
+      ],
+      "duration_ms": 79129,
+      "name": "BodyPartz",
+      "url": "https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "TURN BACK P3",
         "url": "https://open.spotify.com/album/63LHq3Lga7YpGkybxU8dXZ"
       },
@@ -1027,6 +947,22 @@
       "duration_ms": 61991,
       "name": "TURN BACK P3",
       "url": "https://open.spotify.com/track/039D36IMlhimlh3C3491hc"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "HOSTAGE",
+        "url": "https://open.spotify.com/album/2iETy4VvjZT3I6smiL21Zh"
+      },
+      "artists": [
+        {
+          "name": "Kayla G",
+          "url": "https://open.spotify.com/artist/70a2f8eEAvvtz3uLxq35CL"
+        }
+      ],
+      "duration_ms": 107719,
+      "name": "HOSTAGE",
+      "url": "https://open.spotify.com/track/4TlKDSXQtHkDJIa5v6gB8A"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1091,22 +1027,6 @@
       "duration_ms": 185624,
       "name": "Thot K",
       "url": "https://open.spotify.com/track/5VPbUZPVASN9scsXak9kDB"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Dead n Gone",
-        "url": "https://open.spotify.com/album/7wfrRI6BAK3b973nWm8mza"
-      },
-      "artists": [
-        {
-          "name": "Luci4",
-          "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
-        }
-      ],
-      "duration_ms": 66803,
-      "name": "Dead n Gone",
-      "url": "https://open.spotify.com/track/2vyAxGW8KhJV1C4rGRCwco"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1195,22 +1115,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "I <3 LATINAS",
-        "url": "https://open.spotify.com/album/1MtzbdSdDZZBopNu7IcskV"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 93709,
-      "name": "I <3 LATINAS",
-      "url": "https://open.spotify.com/track/5ZYc494Yhj18o8nbG777LV"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "33.1FM",
         "url": "https://open.spotify.com/album/49XVwHNdaXCLgGkxSk5bcZ"
       },
@@ -1279,6 +1183,22 @@
       "duration_ms": 130565,
       "name": "INVINCIBLE",
       "url": "https://open.spotify.com/track/4Uz07xPAEDFQcjY9vXZmXn"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Dead n Gone",
+        "url": "https://open.spotify.com/album/7wfrRI6BAK3b973nWm8mza"
+      },
+      "artists": [
+        {
+          "name": "Luci4",
+          "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
+        }
+      ],
+      "duration_ms": 66803,
+      "name": "Dead n Gone",
+      "url": "https://open.spotify.com/track/2vyAxGW8KhJV1C4rGRCwco"
     }
   ],
   "unique_name": "sigilkore",

@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW!  BERCHANDYA! Cover: VIDI",
-  "num_followers": 16056,
+  "num_followers": 16082,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmZkY2M4ODQ3Y2Y2MzY5YjhiNzBlZGNhM2VjYjk4OWE2YmU1OTcy",
+  "snapshot_id": "MCxkYjJhZjNjYTcwZjVjNjM2ZGQwMzc2NGFhOGNiZmRkOWNjNmZhNWI5",
   "tracks": [
     {
       "added_at": "2023-09-28 17:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-09-28 17:00:00",
       "album": {
+        "name": "Mengudara",
+        "url": "https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "duration_ms": 285071,
+      "name": "Satu-Satu",
+      "url": "https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG"
+    },
+    {
+      "added_at": "2023-09-28 17:00:00",
+      "album": {
         "name": "Kembali Pulang",
         "url": "https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 207898,
       "name": "Kembali Pulang",
       "url": "https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR"
-    },
-    {
-      "added_at": "2023-09-28 17:00:00",
-      "album": {
-        "name": "Mengudara",
-        "url": "https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY"
-      },
-      "artists": [
-        {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
-        }
-      ],
-      "duration_ms": 285071,
-      "name": "Satu-Satu",
-      "url": "https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG"
     },
     {
       "added_at": "2023-09-28 17:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-09-28 17:00:00",
       "album": {
+        "name": "Tawa",
+        "url": "https://open.spotify.com/album/04uwdQzsYFw7yRsCj0u3DT"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 255375,
+      "name": "Tawa",
+      "url": "https://open.spotify.com/track/2cUtg4hpCug4Gc9aibZIYV"
+    },
+    {
+      "added_at": "2023-09-28 17:00:00",
+      "album": {
         "name": "Aku Memilihmu",
         "url": "https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 231700,
       "name": "Aku Memilihmu",
       "url": "https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4"
-    },
-    {
-      "added_at": "2023-09-28 17:00:00",
-      "album": {
-        "name": "Tawa",
-        "url": "https://open.spotify.com/album/04uwdQzsYFw7yRsCj0u3DT"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 255375,
-      "name": "Tawa",
-      "url": "https://open.spotify.com/track/2cUtg4hpCug4Gc9aibZIYV"
     },
     {
       "added_at": "2023-09-28 17:00:00",

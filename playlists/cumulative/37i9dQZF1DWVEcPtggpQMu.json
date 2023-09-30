@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW?si=-IQQXnf-QHm2NhCpCMz9qA\">Kiddo CSA</a>, <a href=\"https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT?si=mR_f-W0UQLKpSDBpKwKRzA\">Lucasraps</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD?si=HGAkgRbkSnS8F-Mu7gTW4g\">J-Smash</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 244800,
       "name": "Company",
       "url": "https://open.spotify.com/track/1bNCUFkAMRwPN0LvH2EdUO"
@@ -3260,6 +3260,32 @@
       "duration_ms": 196414,
       "name": "Episode Blues",
       "url": "https://open.spotify.com/track/2kK0ZSBxx3U3hvXFXCz97a"
+    },
+    {
+      "album": {
+        "name": "clean job / eshibobo",
+        "url": "https://open.spotify.com/album/6qust2cwK0UtzMGq0dKTK0"
+      },
+      "artists": [
+        {
+          "name": "GREEK.",
+          "url": "https://open.spotify.com/artist/3vCcedoc2PrcQzmQDNfXyq"
+        },
+        {
+          "name": "K.Keed",
+          "url": "https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e"
+        },
+        {
+          "name": "Orish",
+          "url": "https://open.spotify.com/artist/3OyqEFF59dNAYg90KTw2qi"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257364,
+      "name": "eshibobo",
+      "url": "https://open.spotify.com/track/4o5gXiHkrGunfoW0Rio2lU"
     },
     {
       "album": {
@@ -4378,6 +4404,32 @@
       "duration_ms": 232571,
       "name": "Grateful (feat. 25K)",
       "url": "https://open.spotify.com/track/7GYURd48860hGVj86oyxRz"
+    },
+    {
+      "album": {
+        "name": "GREEN",
+        "url": "https://open.spotify.com/album/6qTsPZso9mbCFVTHiSTeHt"
+      },
+      "artists": [
+        {
+          "name": "Teddy James III",
+          "url": "https://open.spotify.com/artist/2f5cPI3KZyp7IR3rGl3sIu"
+        },
+        {
+          "name": "J Molley",
+          "url": "https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T"
+        },
+        {
+          "name": "MO\u00cbTT",
+          "url": "https://open.spotify.com/artist/0iyiD7Z1iDyjQs4oVRz3b4"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147453,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/3J6y0QAqf1MKClK9mGbEPk"
     },
     {
       "album": {
@@ -6538,7 +6590,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 120888,
       "name": "MAD MAX",
       "url": "https://open.spotify.com/track/0bxcA0KgvBCH3GC0EoYco2"
@@ -7805,6 +7857,32 @@
     },
     {
       "album": {
+        "name": "Ntja'ka",
+        "url": "https://open.spotify.com/album/5dOXzra9baPyj14cP7JNwB"
+      },
+      "artists": [
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261120,
+      "name": "Ntja'ka",
+      "url": "https://open.spotify.com/track/2IO1qCsafE2xApON7VDokz"
+    },
+    {
+      "album": {
         "name": "Ntoni Na (feat. Blxckie & 25K)",
         "url": "https://open.spotify.com/album/4gsIqNZkg3NIXtgIesyoBk"
       },
@@ -8138,6 +8216,24 @@
       "duration_ms": 193450,
       "name": "P$",
       "url": "https://open.spotify.com/track/6XFRmX37cjCcdt5momc25W"
+    },
+    {
+      "album": {
+        "name": "Paralyzed You (Freestyle)",
+        "url": "https://open.spotify.com/album/2m0QUSdap7lqjERuTVk81G"
+      },
+      "artists": [
+        {
+          "name": "Yanga Chief",
+          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Paralyzed You (Freestyle)",
+      "url": "https://open.spotify.com/track/4wAf5NY0jmmJuM3mezQ6UT"
     },
     {
       "album": {
@@ -11839,6 +11935,28 @@
     },
     {
       "album": {
+        "name": "ZOO",
+        "url": "https://open.spotify.com/album/5YkgQsuHSisnaPlKx3Y6Aa"
+      },
+      "artists": [
+        {
+          "name": "NOTBENJAMIN",
+          "url": "https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN"
+        },
+        {
+          "name": "VegasXCesar",
+          "url": "https://open.spotify.com/artist/2WWAFBZmTE2YEyVe7lpek4"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "TUFF",
+      "url": "https://open.spotify.com/track/6rA4mnF55VIaMGrZjH25wL"
+    },
+    {
+      "album": {
         "name": "Twice",
         "url": "https://open.spotify.com/album/5aSWvBpM2OVXGaT5ATSBWF"
       },
@@ -12880,7 +12998,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 240359,
       "name": "Ya Costa",
       "url": "https://open.spotify.com/track/4JYITrghft32zlpjuYhYDA"
@@ -13118,7 +13236,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 210265,
       "name": "Zwani Nani",
       "url": "https://open.spotify.com/track/4yrz6HdbMOE7bWrH3EiIxF"

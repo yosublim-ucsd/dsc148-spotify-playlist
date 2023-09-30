@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Let the songs speak. Cover: K. Michelle",
+  "description": "Let the songs speak. Cover: Byron Juane",
   "name": "Some Kinda Way",
   "tracks": [
     {
@@ -5211,6 +5211,24 @@
     },
     {
       "album": {
+        "name": "Down Bad (Volume 1)",
+        "url": "https://open.spotify.com/album/5SljQ2lXfT5yeOTj5xeJWF"
+      },
+      "artists": [
+        {
+          "name": "Erin Kaith",
+          "url": "https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176823,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/4p4iMKcQBy8HOdxhMdLd1x"
+    },
+    {
+      "album": {
         "name": "Hues",
         "url": "https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0"
       },
@@ -5793,6 +5811,24 @@
     },
     {
       "album": {
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/5jCuQK89wKW59l2XWIb6VD"
+      },
+      "artists": [
+        {
+          "name": "Allyn",
+          "url": "https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112566,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/7zpO4ypZZXfYj4UsBt0Rfu"
+    },
+    {
+      "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
@@ -6249,6 +6285,24 @@
     },
     {
       "album": {
+        "name": "Needs & Wants",
+        "url": "https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185719,
+      "name": "Needs & Wants",
+      "url": "https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3"
+    },
+    {
+      "album": {
         "name": "Thanks 4 Nothing",
         "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
       },
@@ -6260,7 +6314,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 149020,
       "name": "New Nigga",
       "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
@@ -7824,7 +7878,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 139760,
       "name": "RollBack",
       "url": "https://open.spotify.com/track/5CeVK0aXJyPKr5O9tlyCs9"
@@ -10102,7 +10156,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 147792,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"

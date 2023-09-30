@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,496 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,542 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 41 | [Justice 2020](https://open.spotify.com/track/20Cq38WdpKCscYtTPTZy0J) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Chali 2na](https://open.spotify.com/artist/1ZJlXFkFDBsjSuYyjVcMkk), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 4:53 |
 | 42 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 | 43 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 |
-| 44 | [Too Much Girl 4 Me \(feat\. Billy Gibbons\)](https://open.spotify.com/track/734WIZHSCzLUpxAjeE0J7K) | [Morris Day](https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe), [Billy Gibbons](https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD) | [Too Much Girl 4 Me \(feat\. Billy Gibbons\)](https://open.spotify.com/album/4l1PiVwpjTQTruBUTcnfBR) | 2:27 |
+| 44 | [Too Much Girl 4 Me \(feat\. Billy Gibbons\)](https://open.spotify.com/track/734WIZHSCzLUpxAjeE0J7K) | [Morris Day](https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Too Much Girl 4 Me \(feat\. Billy Gibbons\)](https://open.spotify.com/album/4l1PiVwpjTQTruBUTcnfBR) | 2:27 |
 | 45 | [Tunnel Vision](https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:19 |
 | 46 | [Fire](https://open.spotify.com/track/19pM2X8hdrLb8YW0WegADR) | [Mother's Finest](https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H) | [Mother's Finest](https://open.spotify.com/album/2u7SLLZRvtRIPcKnYjMj0H) | 4:07 |
 | 47 | [Lock It In The Pocket](https://open.spotify.com/track/2uSTcrVUckp3k6FuMaEfiq) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Mas Borracho](https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 99 | [The Rougarou](https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [The Rougarou](https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA) | 3:17 |
 | 100 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 |
 
-Snapshot ID: `MCxhMDU1Njg4YzY3ZWVmMjczMmY3ZTc1YjYxNWFjNjhiMDJjMWNlZGI0`
+Snapshot ID: `MCw5OTAxNTJhZTY4NjFlMTA4YzBmYzBiZGU0ZDk5YjRjMjc3NGRmZDY4`

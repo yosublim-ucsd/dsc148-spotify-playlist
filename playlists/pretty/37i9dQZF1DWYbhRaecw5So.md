@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,955 likes - 89 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,973 likes - 89 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 34 | [Since I Fell For You](https://open.spotify.com/track/2OCDgzHWQQfRDWxDL5RxwV) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Since I Fell For You](https://open.spotify.com/album/4Ux5BJDBmvdF4JCGZ5FGVH) | 4:57 |
 | 35 | [Lepiej nie mówmy nikomu](https://open.spotify.com/track/6Bw5TLTJbwONfD2li10UBb) | [Jeszcze](https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb) | [Lepiej nie mówmy nikomu](https://open.spotify.com/album/659TQGieS3UFvTK6UyvEBz) | 5:45 |
 | 36 | [Silius](https://open.spotify.com/track/5PdaqgXOchBgbHd4KzgQAo) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Silius EP](https://open.spotify.com/album/1kvDBa5nOhlshFg5rwaItu) | 8:38 |
-| 37 | [Mondo \- AFFKT Remix](https://open.spotify.com/track/1He0DGWOadQSqw9nsClg16) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Modeplex](https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU), [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF) | [Mondo EP](https://open.spotify.com/album/1PRy8kSzt2KyGu82mdhzhC) | 6:14 |
+| 37 | [Mondo \- AFFKT Remix](https://open.spotify.com/track/2v7ijraLzXCgG9Q5yMZCkL) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Modeplex](https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU), [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF) | [Mondo EP](https://open.spotify.com/album/0KG6VN8hpNvQxvDGKLMRkJ) | 6:14 |
 | 38 | [Pollinator \- Gary Beck Remix](https://open.spotify.com/track/5uwHkb5Ong0kxJBYQK0EX6) | [Miki Litvak](https://open.spotify.com/artist/6QRdqy21TUEV3fh1DKa8Jw), [Gary Beck](https://open.spotify.com/artist/1mUVjZFnDM8mHpi4fR2bPC) | [Pollinator](https://open.spotify.com/album/235uXSHoXGzwhsKMcTngsK) | 7:07 |
 | 39 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 |
 | 40 | [Santorini](https://open.spotify.com/track/79wivvlyBV0y6l9Hrv2w6r) | [Fingerprint](https://open.spotify.com/artist/2qddMUtDt4KIemOFTRVwMz), [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [Anjunadeep Explorations 17](https://open.spotify.com/album/1CYu5Rs0VbvUHEyzI4wLbi) | 7:06 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 88 | [nCTRL](https://open.spotify.com/track/5XfojfN07IcOskzRjQgCrT) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [nCTRL](https://open.spotify.com/album/4y97dGnwLXUHyPtSPJPCfz) | 4:10 |
 | 89 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 |
 
-Snapshot ID: `MCxiNWE1ZGVhZGNiYmYyMWFkMmY3NWY3MjNiYjNhYTU2NjY5YzNkYmQ1`
+Snapshot ID: `MCxmNDU4NjljMmE4MGNmZDk4ZDM5NTVjZWY0MjFkZDEyMDRkZDY2OWYw`

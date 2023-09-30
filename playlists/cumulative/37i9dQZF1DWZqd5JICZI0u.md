@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-492 songs - 1 day 1 hr 27 min
+494 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Aerofoil](https://open.spotify.com/track/0nqtOf7OZfOIKgv2ejTb6P) | [Ammachi](https://open.spotify.com/artist/6OsvGWU797S5XC4lF9LNxj) | [Aerofoil](https://open.spotify.com/album/3tQSbtuExjx2FLk0iNq7Dw) | 3:19 | 2020-10-27 | 2022-08-13 |
 | [Aevitas](https://open.spotify.com/track/5Y3ePUhdXzPDI8nSCIe7bb) | [Echoes Of Time](https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM) | [Neoterikoi](https://open.spotify.com/album/4VWwAEVZ3wnjDt9yy12o5h) | 2:20 | 2022-01-28 |  |
 | [Affection](https://open.spotify.com/track/3B4B5r2IFmxVxE0fl7wQ6a) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Affection](https://open.spotify.com/album/6LpNCVlqshM81DVYhRktLd) | 3:22 | 2021-05-05 |  |
+| [After Momentum](https://open.spotify.com/track/5tMn4xcTABTh3jLR3l29Ok) | [Alleviation](https://open.spotify.com/artist/35tzlkReXUs4XX5hXtaPpw), [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Buneba](https://open.spotify.com/artist/4kckQx25UOWOjUMposE6ek) | [After Momentum](https://open.spotify.com/album/64V0wTmkNLiFl318Lv8E96) | 2:09 | 2023-09-29 |  |
 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 | 2020-09-30\* | 2022-03-25 |
 | [Allow Me To Dream](https://open.spotify.com/track/5o9SpNcnJqJV4Cj9tpnKEo) | [Judithe Abelsen](https://open.spotify.com/artist/2n4kqHsrCGaOvVa90vBlXK) | [Allow Me To Dream](https://open.spotify.com/album/2Y7wT3pAlOKNvk9d2vcPyA) | 3:37 | 2020-09-30\* | 2021-09-14 |
 | [Altitude](https://open.spotify.com/track/5VpRhHsT7DhWRyzLq40dRw) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Altitude](https://open.spotify.com/album/4Wv2qeeio7rqXy3jPZuHuf) | 3:45 | 2022-12-30 |  |
@@ -470,6 +471,7 @@
 | [Violin Chant](https://open.spotify.com/track/3qI2j1likgm0mxUfyq1x2i) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Violin Chant](https://open.spotify.com/album/3MyMoLStXeNHxBtjn1xO6v) | 3:34 | 2020-09-30\* | 2021-09-14 |
 | [Visio](https://open.spotify.com/track/60k5vyaPD39R4N7LHSe7TP) | [Mario Venu](https://open.spotify.com/artist/42Zzzfde9xBQfxrUaLG4cB) | [Visio](https://open.spotify.com/album/77edfzqILArvP2fkoxJCGF) | 3:01 | 2022-02-09 |  |
 | [Visions of Sleep and Beyond](https://open.spotify.com/track/3TT0S61x8x2IFUn8lnqjq9) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Visions of Sleep and Beyond](https://open.spotify.com/album/3kCPg1GdYtz8ZdD3NILoTr) | 3:01 | 2020-09-30\* | 2021-10-21 |
+| [Vista](https://open.spotify.com/track/14sRXDn38uhpfk65uVeJsW) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Vista](https://open.spotify.com/album/1ACHAOwX1u1vLhQI7LFK7q) | 2:32 | 2023-09-29 |  |
 | [Víðsýni](https://open.spotify.com/track/00Q952UnckMdqLHYn7duKD) | [Traum Fanger](https://open.spotify.com/artist/0yyAswmbegMXrWvdxTEIkF) | [Víðsýni](https://open.spotify.com/album/5XSm8RCqT1LqvbcYubwIfT) | 2:49 | 2021-06-16 | 2023-07-15 |
 | [Volare](https://open.spotify.com/track/0eLjghxjAToU8mKhUqx4LX) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Volare](https://open.spotify.com/album/2VxTB9hSRKD4tCZbTbePvi) | 2:52 | 2021-01-18 | 2023-03-10 |
 | [Voordat Je Gaat](https://open.spotify.com/track/7pRq9fPCrfEGbjPE5ENqWw) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Voordat Je Gaat](https://open.spotify.com/album/35gk0IOuEfg0d2pmuiZoN8) | 3:08 | 2021-07-14 | 2021-11-26 |

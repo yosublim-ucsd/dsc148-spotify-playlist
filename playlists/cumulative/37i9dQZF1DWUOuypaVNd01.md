@@ -4,7 +4,7 @@
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Big Bllakk
 
-152 songs - 7 hr 11 min
+153 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [BALA PERDIDA](https://open.spotify.com/track/1Nol8JPZjObuRPP2qMr3T3) | [FULÔ](https://open.spotify.com/artist/4fOtHhHtNoLH690LpQa8Bj), [Malik](https://open.spotify.com/artist/0ifpZXmFP8xcOmukbS5udK), [el pot](https://open.spotify.com/artist/04APv6Lh2nU8pxHRxEAsqf) | [BALA PERDIDA](https://open.spotify.com/album/7tftyEKOQ7UAVRU0xOXLO7) | 3:00 | 2022-04-15 | 2022-04-29 |
 | [Bandidas Amam Mc Marcelly](https://open.spotify.com/track/2QO4r7oo203Wb0Y4Y6RprZ) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Bandidas Amam Mc Marcelly](https://open.spotify.com/album/06i2iP2VgBM9S0CsWYOzpN) | 3:05 | 2022-03-11 | 2022-11-12 |
 | [BlackNoir](https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [BlackNoir](https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE) | 2:44 | 2022-09-30 | 2023-07-29 |
+| [Bonde da Rock \- Remix](https://open.spotify.com/track/2mJlNVUnUYkIZBzewrgTuY) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:12 | 2023-09-29 |  |
 | [BRAZIL](https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [DJ Ery](https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS) | [BRAZIL](https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd) | 2:04 | 2022-11-25 |  |
 | [Cachorro Louco](https://open.spotify.com/track/5ER1Z4RboJCxdEfSi2rHeu) | [BUEN0](https://open.spotify.com/artist/06t8HNDt9pfkBdR3334IO4), [DJ Gui](https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK) | [Cachorro Louco](https://open.spotify.com/album/3m0SHGfKxgSLF9LVszvWR4) | 2:12 | 2022-03-11 | 2022-04-29 |
 | [Campeões](https://open.spotify.com/track/1aqGp66Nt1ghQA2hJ1I5vH) | [Tonyyymon](https://open.spotify.com/artist/59BG9lcmyGg7VWC9V5fTuD), [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Campeões](https://open.spotify.com/album/7mj1cfsJT5aP5GBFTe1cR3) | 2:53 | 2023-04-21 | 2023-07-01 |
@@ -154,7 +155,7 @@
 | [Toque no Radinho](https://open.spotify.com/track/4KCz6JYsOCIJ90O7Zw19Ul) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Toque no Radinho](https://open.spotify.com/album/0jUF2y324k3JkjotbjyM8Z) | 1:54 | 2022-11-11 | 2023-01-10 |
 | [Tudo Normal](https://open.spotify.com/track/4sz8h0kSMFmZ9NLQi74sL0) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [$aint GR](https://open.spotify.com/artist/4efJxp2bt5eBfZAvUeFANX) | [Tudo Normal](https://open.spotify.com/album/0cKG3KX7J1dav336uX2rG2) | 2:45 | 2023-01-27 | 2023-04-29 |
 | [um quebrada inteligente!](https://open.spotify.com/track/6uBfSJZQ27gCDVne6xhDmO) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [UM Quebrada Inteligente](https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y) | 1:56 | 2023-07-14 |  |
-| [Uma Fase](https://open.spotify.com/track/6xkKyZinrWXX4FVUuuBeSD) | [Afree](https://open.spotify.com/artist/218HbunxGqD47MTClAmg6s), [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl) | [Uma Fase](https://open.spotify.com/album/1B56BdIqTZvCMk0UOhkDbY) | 3:18 | 2023-08-18 |  |
+| [Uma Fase](https://open.spotify.com/track/6xkKyZinrWXX4FVUuuBeSD) | [Afree](https://open.spotify.com/artist/218HbunxGqD47MTClAmg6s), [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl) | [Uma Fase](https://open.spotify.com/album/1B56BdIqTZvCMk0UOhkDbY) | 3:18 | 2023-08-18 | 2023-09-30 |
 | [Underdog](https://open.spotify.com/track/7wtPXyuaLkcYJDGYy9MrME) | [Well](https://open.spotify.com/artist/2JCYooigSy6wfahpfssCCp) | [Underdog](https://open.spotify.com/album/5I8gLJU4MAPWmc6hazfd27) | 2:04 | 2022-03-11 | 2022-04-02 |
 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 | 2022-11-04 |  |
 | [Vilão / Kmila Cdd](https://open.spotify.com/track/59axndxpWFGRG6Hee9isUL) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD), [MC Martina](https://open.spotify.com/artist/5Zdd7OXYYhoqgGlF6dKxde) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:16 | 2022-11-11 | 2023-07-15 |

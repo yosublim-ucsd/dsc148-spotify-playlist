@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 143190,
       "name": "Altbau",
       "url": "https://open.spotify.com/track/1W5KxkvjtMKkDEjQcC0ZvV"
@@ -1396,6 +1396,14 @@
         {
           "name": "Videoclub",
           "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        },
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Matthyeux",
+          "url": "https://open.spotify.com/artist/6oE1rW4wI9y4lISZ5NvyDp"
         }
       ],
       "date_added": "2023-09-28",
@@ -11804,6 +11812,28 @@
       "duration_ms": 135847,
       "name": "Keine Zeit",
       "url": "https://open.spotify.com/track/6iefKfSK9HhdlmWYmlDYxd"
+    },
+    {
+      "album": {
+        "name": "KETA UND KRAWALL",
+        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125492,
+      "name": "KETA UND KRAWALL",
+      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
     },
     {
       "album": {

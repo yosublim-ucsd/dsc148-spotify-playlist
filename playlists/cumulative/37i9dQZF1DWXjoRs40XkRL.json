@@ -1832,6 +1832,32 @@
     {
       "album": {
         "name": "Kuhu Kuhu",
+        "url": "https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg"
+      },
+      "artists": [
+        {
+          "name": "Khatija Rahman",
+          "url": "https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP"
+        },
+        {
+          "name": "Firdaus Orchestra",
+          "url": "https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB"
+        },
+        {
+          "name": "Sarthak Kalyani",
+          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355870,
+      "name": "Kuhu Kuhu Bole Koyalia",
+      "url": "https://open.spotify.com/track/0XiwdXAtiAnKPUnCK72N5w"
+    },
+    {
+      "album": {
+        "name": "Kuhu Kuhu",
         "url": "https://open.spotify.com/album/4WXQQBBQsr1sKMp2I3IPGB"
       },
       "artists": [
@@ -1854,7 +1880,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 355870,
       "name": "Kuhu Kuhu Bole Koyalia",
       "url": "https://open.spotify.com/track/46Azji1QvCJqgSPBkcwLFv"
@@ -2650,6 +2676,28 @@
     {
       "album": {
         "name": "Kuhu Kuhu",
+        "url": "https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg"
+      },
+      "artists": [
+        {
+          "name": "Khatija Rahman",
+          "url": "https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP"
+        },
+        {
+          "name": "Firdaus Orchestra",
+          "url": "https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215348,
+      "name": "O Sajana Barkha Bahar",
+      "url": "https://open.spotify.com/track/4ZNtTyyJ8lpqHZmKRsCmBt"
+    },
+    {
+      "album": {
+        "name": "Kuhu Kuhu",
         "url": "https://open.spotify.com/album/4WXQQBBQsr1sKMp2I3IPGB"
       },
       "artists": [
@@ -2668,7 +2716,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 215348,
       "name": "O Sajana Barkha Bahar",
       "url": "https://open.spotify.com/track/2uOiaNaETsfYGnJbesEAYp"

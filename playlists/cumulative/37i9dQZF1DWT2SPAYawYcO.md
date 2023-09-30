@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Ed Sheeran
 
-1,476 songs - 3 day 7 hr 46 min
+1,479 songs - 3 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [2019](https://open.spotify.com/track/5gQlHUydL3EVsM4cjDck2A) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C) | [2019](https://open.spotify.com/album/7CAn7LZRhCrJJ5GtIE7SBP) | 1:56 | 2023-06-29 | 2023-07-07 |
 | [2good](https://open.spotify.com/track/1Pvl3qpCb2UzGwNLHpQ0MU) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [2good](https://open.spotify.com/album/3RTiRcNDXcKfjDbD5xFZNw) | 3:33 | 2023-06-29 | 2023-07-07 |
 | [2special](https://open.spotify.com/track/7pFzuCKW91X6vYAoQx2A0x) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [2special](https://open.spotify.com/album/72eL8kWXS0TxMGu8puh5yn) | 2:47 | 2023-08-24 | 2023-09-01 |
+| [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-28 |  |
 | [405](https://open.spotify.com/track/10aiqU1b6yK8zm4jOnQsA7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 3:01 | 2023-06-15 | 2023-06-23 |
 | [5 Star](https://open.spotify.com/track/2aDbC4CAVEMEVVmEjXOmP4) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [5 Star](https://open.spotify.com/album/1nrw868ik7UqmqxtnIJLxR) | 2:18 | 2023-07-20 | 2023-07-28 |
 | [5 Things I Can Taste](https://open.spotify.com/track/2M3NmJ4ukVKxPsuPV7JM3k) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [5 Things I Can Taste](https://open.spotify.com/album/71IBPfv1DLKTIPiq8jzZfW) | 3:56 | 2023-09-21 | 2023-09-29 |
@@ -46,7 +47,8 @@
 | [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 | 2023-09-07 | 2023-09-15 |
 | [Abraham](https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Abraham](https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF) | 4:10 | 2023-08-17 | 2023-08-25 |
 | [Adam](https://open.spotify.com/track/40RVEzCRBmQpMQFL6KxNnV) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [Adam](https://open.spotify.com/album/75zWtv9nKbJ4EgEh0yCpHZ) | 3:16 | 2023-09-14 | 2023-09-22 |
-| [Addicted to Romance](https://open.spotify.com/track/3Mjr9GT1iobk4qK8tg1wzH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [She Came to Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7LlDxqhvGPlyGeDzUBC86Q) | 3:05 | 2023-09-28 |  |
+| [Addicted to Romance](https://open.spotify.com/track/3Mjr9GT1iobk4qK8tg1wzH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [She Came to Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7LlDxqhvGPlyGeDzUBC86Q) | 3:05 | 2023-09-28 | 2023-09-30 |
+| [Addicted to Romance \- from the film 'She Came to Me'](https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj) | [Addicted to Romance \(from the film 'She Came to Me'\)](https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd) | 3:05 | 2023-09-28 |  |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-10 | 2023-08-18 |
 | [Adored](https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Adored](https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW) | 2:40 | 2023-07-20 | 2023-07-28 |
 | [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 | 2023-08-31 | 2023-09-08 |
@@ -216,7 +218,8 @@
 | [BRING WET CUNT](https://open.spotify.com/track/79vmq3eR63V6V4uGYuvxqa) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [BRING WET CUNT / HAMMERHEAD](https://open.spotify.com/album/0h7kNFyQeqjU7no81ZAFnp) | 2:18 | 2023-08-10 | 2023-08-18 |
 | [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 | 2023-08-24 | 2023-08-31 |
 | [Broke My Heart \(feat\. Mallrat & Jelani Blackman\)](https://open.spotify.com/track/0uup3xjHX0c7hY5h29o7j9) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Broke My Heart \(feat\. Mallrat & Jelani Blackman\)](https://open.spotify.com/album/1tPbgJGPfKz9O4QkaIxXdU) | 3:06 | 2023-09-28 |  |
-| [Broken is the man](https://open.spotify.com/track/1RESSkMgG8z9IEPHdBZb43) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Broken is the man](https://open.spotify.com/album/4170VVyEuynNaB1J8ShIgP) | 2:12 | 2023-09-28 |  |
+| [Broken is the man](https://open.spotify.com/track/1RESSkMgG8z9IEPHdBZb43) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Broken is the man](https://open.spotify.com/album/4170VVyEuynNaB1J8ShIgP) | 2:12 | 2023-09-28 | 2023-09-30 |
+| [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 | 2023-09-28 |  |
 | [Brown Eyes](https://open.spotify.com/track/0ylj5hykySOxR5SDvxITjd) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [BROWN EYES](https://open.spotify.com/album/3SiWlORpHZtvnvcu1H9OVr) | 2:52 | 2023-08-10 | 2023-08-18 |
 | [Bubblegum](https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 4:39 | 2023-07-20 | 2023-07-28 |
 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-27 | 2023-08-04 |

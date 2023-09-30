@@ -4,7 +4,7 @@
 
 > Cherish the day with these low\-key favorites.
 
-222 songs - 13 hr 5 min
+223 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,11 +14,12 @@
 | [Acoustic](https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 2:52 | 2022-03-23 |  |
 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 | 2022-03-23 | 2023-02-24 |
 | [All Alone](https://open.spotify.com/track/4fTjzZ3IkS5tYw1VlgJs4Q) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All Alone](https://open.spotify.com/album/2gtSZRxZMNsxXhBphBdhPO) | 2:52 | 2022-03-23 | 2022-07-29 |
-| [All Alone](https://open.spotify.com/track/6vxgKI4X5bOOXv996rz2Vf) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Foreign Sea](https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt) | 2:52 | 2023-03-31 | 2023-06-13 |
+| [All Alone](https://open.spotify.com/track/6vxgKI4X5bOOXv996rz2Vf) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Foreign Sea](https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt) | 2:52 | 2023-03-31 |  |
 | [All I Need](https://open.spotify.com/track/2mPOJSHkjAbUxnOcbLI6oK) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [High Tide](https://open.spotify.com/album/4KizRi22Ekbl4vebGS9mhe) | 3:44 | 2022-03-23 | 2022-07-27 |
 | [All The Time](https://open.spotify.com/track/521A5RngWc34nHMDR7oFGq) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Vinter](https://open.spotify.com/album/7h8RxiFul6fOlooCGfLFwv) | 2:56 | 2022-03-23 | 2022-07-29 |
 | [Already Gone](https://open.spotify.com/track/1Smn50EpTK7SQgQrb8msPt) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Already Gone](https://open.spotify.com/album/1Xo0VJzbpi2lbGywKOPfDs) | 2:53 | 2022-03-23 | 2022-04-20 |
 | [Always Be My Baby \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Spotify Singles](https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie) | 4:14 | 2022-03-23 |  |
+| [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2023-09-29 |  |
 | [angel](https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:19 | 2022-03-23 |  |
 | [Another Way](https://open.spotify.com/track/0BfPVt9Rgngm70OTpy1TPE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Both Ways](https://open.spotify.com/album/0P5Gw1os7s0rzcDWwrE7hx) | 4:11 | 2022-03-23 | 2022-07-29 |
 | [Another Way](https://open.spotify.com/track/6xU24c00m15ZxjFqmVs0hN) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Both Ways](https://open.spotify.com/album/1lCMPLXpxu11jKDngB9w8L) | 4:11 | 2022-03-23 | 2023-05-09 |
@@ -48,7 +49,7 @@
 | [Disposable](https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Disposable](https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH) | 3:37 | 2022-03-23 | 2022-04-21 |
 | [Don't Let Me Get Me](https://open.spotify.com/track/2ZYVlxenokw8vF5Mnf4B7K) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Don't Let Me Get Me](https://open.spotify.com/album/2SMwfICFrkBcqcwZZTwUsi) | 3:20 | 2022-03-23 | 2022-04-19 |
 | [Don't Matter Now \- Acoustic Version](https://open.spotify.com/track/1Z5onEoRrlZuj53i7F6klF) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Don't Matter Now \(Acoustic Version\)](https://open.spotify.com/album/4R4UPnVma96OwnKBqGDwXu) | 2:47 | 2022-03-23 | 2022-07-22 |
-| [Don't Matter Now \- Acoustic Version](https://open.spotify.com/track/6D1RVzXY3lv11b7bNeivkL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's \(Acoustic Tracks and Demo Versions\)](https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ) | 2:48 | 2023-05-05 |  |
+| [Don't Matter Now \- Acoustic Version](https://open.spotify.com/track/6D1RVzXY3lv11b7bNeivkL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's \(Acoustic Tracks and Demo Versions\)](https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ) | 2:48 | 2023-05-05 | 2023-09-30 |
 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 | 2022-03-23 | 2022-07-29 |
 | [Dyan](https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 2:38 | 2023-05-05 |  |
 | [Dyan](https://open.spotify.com/track/24VL42SyykfEQGYIdyAg1H) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Dyan](https://open.spotify.com/album/5rgmHYbqXbu6pJsQp1uRlv) | 2:38 | 2022-03-23 | 2023-07-01 |
@@ -168,7 +169,7 @@
 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 | 2022-03-23 |  |
 | [Praying \- Acoustic](https://open.spotify.com/track/7L01vA18HcM4TXwMVra1wB) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Praying \(Acoustic\)](https://open.spotify.com/album/1cgXzGxuXqUrGLTWLGpLPU) | 3:01 | 2022-03-23 | 2022-04-21 |
 | [Praying for Love](https://open.spotify.com/track/4KETfxD7dbHBR2z52z6vKl) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Praying for Love](https://open.spotify.com/album/0GLHwOs7kfsOMaF5EDqG4L) | 3:02 | 2022-03-23 | 2022-04-20 |
-| [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 | 2022-03-23 |  |
+| [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 | 2022-03-23 | 2023-09-30 |
 | [Pretty Words](https://open.spotify.com/track/1trYM6Evd3SQHcXYWzbVTe) | [Crissi Cochrane](https://open.spotify.com/artist/1sKPIw7teK8qWo58pKKzRz) | [Little Sway](https://open.spotify.com/album/6I0LeQIdlJMEwfjwXixeg6) | 4:57 | 2022-03-23 | 2022-04-21 |
 | [Puppy and a Truck](https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:11 | 2023-05-05 |  |
 | [Puppy and a Truck](https://open.spotify.com/track/6nrfecLjwsQngv4LbOMrRe) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/2udBN6XsNrbgLOFzrqEBVt) | 3:11 | 2023-03-31 | 2023-06-12 |

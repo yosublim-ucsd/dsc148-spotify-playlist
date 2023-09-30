@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Shemekia Copeland
 
-317 songs - 21 hr 17 min
+319 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [New Way of Walking](https://open.spotify.com/track/6pdn2fxWKwdRHrwqA3u4HV) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [New Way of Walking](https://open.spotify.com/album/0Agtzdkxg9yg1BhVO4Lbwd) | 5:15 | 2022-02-04 | 2022-02-26 |
 | [Nibbadip](https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:47 | 2022-06-03 | 2022-07-16 |
 | [No More Worlds to Conquer](https://open.spotify.com/track/2AHYMvycHP8KlxZjv11Hnm) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [No More Worlds to Conquer](https://open.spotify.com/album/3kMKDFdC0FV6s8rwPmRRrR) | 3:54 | 2022-02-18 | 2022-04-23 |
+| [Nobody Wants To Be Lonely](https://open.spotify.com/track/04AyFkLrP4bbrDjcXGPhfz) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Nobody Wants To Be Lonely](https://open.spotify.com/album/4VQuUtKFBB9BjBjFvqWXJl) | 3:13 | 2023-09-29 |  |
 | [Nobody's Fool](https://open.spotify.com/track/1s2I2P6bXRdQyePO016Os9) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Nobody's Fool](https://open.spotify.com/album/6zs5N5LbUBgVQRESHqB4LV) | 3:36 | 2022-10-14 | 2023-09-16 |
 | [Oh Betty](https://open.spotify.com/track/6ciaC5vY31PR1fZJqZwAJ0) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Oh Betty](https://open.spotify.com/album/0K9R41oPagcN9NoH8dLq1o) | 3:56 | 2022-03-11 | 2022-06-04 |
 | [Oh Miss Carolina](https://open.spotify.com/track/2ebAPmQjP4GkGULOtisl5x) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Last Light on the Highway](https://open.spotify.com/album/4vEdVmsibS4TDTvdJ07Xae) | 4:12 | 2020-12-14 | 2022-02-26 |
@@ -214,7 +215,7 @@
 | [Ride](https://open.spotify.com/track/3XZy0i9dxqoecuRa6zUv5C) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/0SeZT8cV0i9mhHFD0rjVla) | 4:56 | 2022-05-27 | 2022-06-25 |
 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 | 2022-02-25 | 2023-08-26 |
 | [Right Down The Drain](https://open.spotify.com/track/7uFtKBQLQFwkuS6BxzW1lQ) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 4:59 | 2022-01-21 |  |
-| [Righteous Loving](https://open.spotify.com/track/2NKWAmzIFidQ7rYkS78Yv9) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Heart and Soul](https://open.spotify.com/album/0t9Y8U95Pt5ATKeHlnuVPa) | 3:37 | 2022-03-18 |  |
+| [Righteous Loving](https://open.spotify.com/track/2NKWAmzIFidQ7rYkS78Yv9) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Heart and Soul](https://open.spotify.com/album/0t9Y8U95Pt5ATKeHlnuVPa) | 3:37 | 2022-03-18 | 2023-09-30 |
 | [Rise](https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Rise](https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5) | 2:52 | 2023-06-16 | 2023-09-09 |
 | [Risin' Up](https://open.spotify.com/track/3SwzJIkMEbLjAK97hEaaLV) | [Jimmy Hall](https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi) | [Ready Now](https://open.spotify.com/album/6kpBj0DkFrvabc4ffDjm3U) | 5:02 | 2022-09-16 |  |
 | [Root City](https://open.spotify.com/track/047ghmBqV2962LxO24aUm9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Root City](https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob) | 2:52 | 2021-04-30 | 2022-02-26 |
@@ -299,6 +300,7 @@
 | [Waiting For The Dawn](https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Waiting For The Dawn](https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV) | 5:50 | 2022-06-24 | 2022-08-20 |
 | [Warm Me Up](https://open.spotify.com/track/5FfUJfRvU5qQ7xxjzJJjQ6) | [Mike Clark & the Sugar Sounds](https://open.spotify.com/artist/01RocYhqTJzt3gzdpVM2MJ) | [Warm Me Up](https://open.spotify.com/album/4SHFOYqlrh2RPH8BOeV8zM) | 3:47 | 2022-02-18 |  |
 | [Waste Time With Me](https://open.spotify.com/track/6P9dpTcBhEWHkEQyvo5CGc) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Waste Time With Me](https://open.spotify.com/album/3ObYcqtUkxQkxjSxCla997) | 2:57 | 2021-10-22 | 2022-05-28 |
+| [Way Too Long](https://open.spotify.com/track/3NLCu7XL8dRLRtgObLWa5z) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Way Too Long](https://open.spotify.com/album/4On5stWO7yBkRUdOZKejzN) | 3:32 | 2023-09-29 |  |
 | [We Get By](https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Get By](https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G) | 3:35 | 2020-12-14 | 2022-02-26 |
 | [We Go Back \(feat\. Mavis Staples\)](https://open.spotify.com/track/3BPogMgZeF4e3l71x2ax4w) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [We Go Back \(feat\. Mavis Staples\)](https://open.spotify.com/album/00mf4w80NkJ3G01W3LK7ex) | 4:39 | 2022-09-02 | 2022-10-01 |
 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 | 2020-12-14 | 2022-02-26 |
@@ -316,7 +318,7 @@
 | [Work Until My Days Are Done](https://open.spotify.com/track/2xMgZIxBuHiD7VLVFZVnsH) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Work Until My Days Are Done](https://open.spotify.com/album/2Yd9AicKdULZkAOZzGF8Gx) | 3:31 | 2023-07-21 |  |
 | [You Don't Know The Blues](https://open.spotify.com/track/3uYWtoQd5lPBrE8OhBP2Wg) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [You Don't Know The Blues](https://open.spotify.com/album/0aC5fduz5FiAQiuKrsQhjM) | 4:34 | 2021-12-10 | 2022-07-29 |
 | [You Don't Know the Blues](https://open.spotify.com/track/4omYnAPibSJVlUrc0vg9dN) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:34 | 2021-12-10 |  |
-| [You Got It \(And I Need It\)](https://open.spotify.com/track/71bUNFk68LUA5Y0HURe94Y) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [You Got It \(And I Need It\)](https://open.spotify.com/album/1WpFHd5j9wvcV0mMZnhz0o) | 3:19 | 2023-09-01 |  |
+| [You Got It \(And I Need It\)](https://open.spotify.com/track/71bUNFk68LUA5Y0HURe94Y) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [You Got It \(And I Need It\)](https://open.spotify.com/album/1WpFHd5j9wvcV0mMZnhz0o) | 3:19 | 2023-09-01 | 2023-09-30 |
 | [You Got To Move](https://open.spotify.com/track/2oP62DDj7RLqdQI3cmdvK1) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [You Got To Move](https://open.spotify.com/album/0CuehB0whg0SkLEqF8dDNa) | 2:41 | 2022-03-18 | 2022-05-28 |
 | [You Know My Love](https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 4:18 | 2022-04-05 |  |
 | [You're Gonna Be Sorry](https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis) | 2:46 | 2023-03-31 | 2023-04-30 |

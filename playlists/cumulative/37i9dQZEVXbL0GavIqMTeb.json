@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 160961,
       "name": "+ Q LA XUXA",
       "url": "https://open.spotify.com/track/16uLbwxv5QmVjueCO0mG50"
@@ -994,6 +994,24 @@
       "duration_ms": 202886,
       "name": "ANDA SOLITA",
       "url": "https://open.spotify.com/track/3BjIQyc3DOAdrn7QVNh4yx"
+    },
+    {
+      "album": {
+        "name": "Ando",
+        "url": "https://open.spotify.com/album/0gjfG9UvUMn3BcyOIpdeJx"
+      },
+      "artists": [
+        {
+          "name": "Adrian Perez",
+          "url": "https://open.spotify.com/artist/5Jaxi1BuI2yOOeF3miuo7M"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165279,
+      "name": "Ando",
+      "url": "https://open.spotify.com/track/3hzz8hqpKp5xopGFu3tXk0"
     },
     {
       "album": {
@@ -11728,7 +11746,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 118986,
       "name": "Privado",
       "url": "https://open.spotify.com/track/68fkJE1oYWKIrMcMy8O0sO"
@@ -13832,7 +13850,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 188826,
       "name": "Solos",
       "url": "https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy"

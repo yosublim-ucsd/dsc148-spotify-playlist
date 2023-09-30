@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JHS1FmL6SE.md) - [plain]
 
 > Encuentra la calma escuchando música clásica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,177 likes - 96 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,194 likes - 96 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JHS1FmL6SE.md) - [plain]
 | 95 | [Nocturnes, Op\. 9: No\. 2 in E\-Flat Major \(Andante\)](https://open.spotify.com/track/08C3b80qJjovyNXqOkuVzw) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alexis Weissenberg](https://open.spotify.com/artist/2fxWL96h0S44PhEa9e6mtm) | [Bedtime Piano](https://open.spotify.com/album/5eXykBlot5CtbznpVUDFBX) | 4:40 |
 | 96 | [Awakening](https://open.spotify.com/track/67t8oxxVA0TB5LrKTY0vtq) | [Charlie J Perry](https://open.spotify.com/artist/1VWajIIypSGHx88czR0Ji2) | [Awakening](https://open.spotify.com/album/2NNBYuVGaDThPTkQBvsmqo) | 5:01 |
 
-Snapshot ID: `MCwwOTk3YjE2YmQxNmExYjE3ZjkwZmVkNGY5MjA4ODNhZjc2NTE4YmEz`
+Snapshot ID: `MCxiNTcyNDc2NzNjZmJjYWNhYTViNjg3MDAzZjA4OWFkYjk0YzNhN2Q4`

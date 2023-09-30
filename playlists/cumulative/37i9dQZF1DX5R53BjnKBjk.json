@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "De repente voc\u00ea",
+        "url": "https://open.spotify.com/album/2DeoeyTAwykibd8ERHw3VC"
+      },
+      "artists": [
+        {
+          "name": "Marta Maria",
+          "url": "https://open.spotify.com/artist/6bksEANPlDvhAocqR44x7H"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "De repente voc\u00ea",
+      "url": "https://open.spotify.com/track/1uNPYO9ZaIO91uHjvhYhxN"
+    },
+    {
+      "album": {
         "name": "Deixa Pra L\u00e1",
         "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
       },
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 209486,
       "name": "Fugitivos",
       "url": "https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk"
@@ -2630,7 +2648,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 203006,
       "name": "Menino Bom",
       "url": "https://open.spotify.com/track/7Cj4srkuBIVpIiBaVxl6B4"
@@ -2908,7 +2926,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 236494,
       "name": "M\u00fasica",
       "url": "https://open.spotify.com/track/0qq96gDe8UkoBds0hqYSdl"

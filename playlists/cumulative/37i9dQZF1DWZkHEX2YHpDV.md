@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Games We Play
 
-1,027 songs - 2 day 6 hr 16 min
+1,028 songs - 2 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Atlas Fugged](https://open.spotify.com/track/3WVssczpA2XWM5CtC0XYfm) | [Bony Macaroni](https://open.spotify.com/artist/5RsdlcuYtj4bWyGPVJCuet) | [Atlas Fugged](https://open.spotify.com/album/5YCuaFGWUM5GF1jSVjZbpW) | 3:11 | 2022-03-25 | 2022-04-15 |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-08-05 | 2023-04-12 |
 | [Audrey](https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:47 | 2022-04-08 | 2022-04-27 |
+| [Autumnal](https://open.spotify.com/track/4JW7fbtsAqxImfLHticNVj) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [AUTUMNAL](https://open.spotify.com/album/0I1nxkEyVyGhBwE1ZI6SXe) | 3:09 | 2023-09-22 |  |
 | [Ave Maria](https://open.spotify.com/track/7IinPt4vvhVk1UzvTq32Ov) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Ave Maria](https://open.spotify.com/album/1CEYuQJHqjqNPYX9v1SjRz) | 3:12 | 2021-12-10 | 2022-07-05 |
 | [Awful Truth](https://open.spotify.com/track/6f5XzjOhGFDILR4O65Uw6E) | [Woes](https://open.spotify.com/artist/75l6n3i5Hmn8vCUZeMIM6F) | [Awful Truth](https://open.spotify.com/album/1MDn09AnqSFyuecD4MUn4L) | 3:14 | 2022-03-25 | 2022-04-07 |
 | [Baby Blue](https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Nella Vita](https://open.spotify.com/album/5j86yI68MjgZLKaYsL6Sd7) | 3:09 | 2021-12-10 | 2022-05-20 |
@@ -921,7 +922,7 @@
 | [Tonight \(feat\. iann dior\)](https://open.spotify.com/track/6Tsro9u5bnTJxFjuzuNA7R) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Tonight \(feat\. iann dior\)](https://open.spotify.com/album/53jX1nt0x4HeHwOGRbQWQR) | 2:15 | 2021-12-10 | 2022-06-03 |
 | [Too Far Gone](https://open.spotify.com/track/565Q8A8Gl8n4EhgVhpEBBx) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Too Far Gone](https://open.spotify.com/album/6V7FXy0ikYJQqziP4JLLaB) | 2:56 | 2022-01-14 | 2022-04-11 |
 | [TOO MUCH](https://open.spotify.com/track/4K9CC7VFiolZH2F1f4Pz3s) | [Eli Hurts](https://open.spotify.com/artist/2SPTuVsyrbhH0kvnxQgwDa) | [TOO MUCH](https://open.spotify.com/album/5T8HPGHikCk9RFeDNK3CKN) | 2:29 | 2021-12-10 | 2022-07-28 |
-| [too young.](https://open.spotify.com/track/3odZxZFIrKMcYxH86UonVn) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [too young.](https://open.spotify.com/album/6M3vNH4T111GlOh17AYKFB) | 3:19 | 2023-09-15 |  |
+| [too young.](https://open.spotify.com/track/3odZxZFIrKMcYxH86UonVn) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [too young.](https://open.spotify.com/album/6M3vNH4T111GlOh17AYKFB) | 3:19 | 2023-09-15 | 2023-09-30 |
 | [toothfairy](https://open.spotify.com/track/4mG5tpeiYVHiy8gRKNCVcn) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [toothfairy](https://open.spotify.com/album/3h7BdSI3zOT1c4WhAGOEHd) | 2:20 | 2023-05-12 | 2023-05-15 |
 | [Tops](https://open.spotify.com/track/4KrNpmOQkRX5cay2KZiwsA) | [West Thebarton](https://open.spotify.com/artist/6ZQNx5JnPy6CmVur8jRPrv) | [Tops](https://open.spotify.com/album/1dIh4ab5vIKV8R3XOVZ88i) | 3:27 | 2022-03-25 | 2022-04-15 |
 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:11 | 2022-08-26 |  |

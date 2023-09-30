@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2000s. Cover: Switchfoot",
-  "num_followers": 178407,
+  "num_followers": 178550,
   "original_name": "00s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzhhNTY0MTk0YmJlMGM0YjdlY2ZkYTRhMWUwNjZkN2E3NjEzYmFh",
+  "snapshot_id": "MCw1OTMyMzY3ZGNkZTVmYjljMGI5MGRjZWNlOTc5NGZlMDM4M2Y0MWMz",
   "tracks": [
     {
       "added_at": "2023-01-18 22:25:58",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Control - Acoustic Version",
-      "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
-    },
-    {
-      "added_at": "2023-01-18 22:25:58",
-      "album": {
         "name": "blink-182",
         "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Control - Acoustic Version",
+      "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
+    },
+    {
+      "added_at": "2023-01-18 22:25:58",
+      "album": {
         "name": "Odyssey Number Five",
         "url": "https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "Backspacer",
-        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
         }
       ],
-      "duration_ms": 177400,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/0PkOdIbNj8L3e0p1JGIfLO"
+      "duration_ms": 298893,
+      "name": "Getaway Car",
+      "url": "https://open.spotify.com/track/3xOAzRgOEDn0zc4zPIBRsE"
     },
     {
       "added_at": "2023-01-18 22:25:58",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+        "name": "Backspacer",
+        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
       },
       "artists": [
         {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 298893,
-      "name": "Getaway Car",
-      "url": "https://open.spotify.com/track/3xOAzRgOEDn0zc4zPIBRsE"
+      "duration_ms": 177400,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/0PkOdIbNj8L3e0p1JGIfLO"
     },
     {
       "added_at": "2023-01-18 22:25:58",

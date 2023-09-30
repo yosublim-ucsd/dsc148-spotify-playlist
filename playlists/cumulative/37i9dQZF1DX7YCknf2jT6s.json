@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Kiefer",
+  "description": "New jazz for open minds. Cover: Lonnie Liston Smith,  Ali Shaheed Muhammad & Adrian Younge",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 524413,
       "name": "A Monk In Ascending And Descending",
       "url": "https://open.spotify.com/track/6zl6yzOjSebyndp1FwzHWV"
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 422506,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64"
@@ -4405,6 +4405,32 @@
     },
     {
       "album": {
+        "name": "Instrumentals JID019",
+        "url": "https://open.spotify.com/album/3naPexauBSI1rjOU0jsmEq"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Lonnie Liston Smith",
+          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227613,
+      "name": "Cosmic Changes",
+      "url": "https://open.spotify.com/track/6dD48wXYlHT5sX11wHr4eO"
+    },
+    {
+      "album": {
         "name": "Cosmic Changes",
         "url": "https://open.spotify.com/album/5tHLgERGdcXf9mQANy8c0t"
       },
@@ -5458,6 +5484,24 @@
       "duration_ms": 231520,
       "name": "Do You Know a Place Called Flekkeroy?",
       "url": "https://open.spotify.com/track/60E2LKHaqjJiLMnrljiCne"
+    },
+    {
+      "album": {
+        "name": "Stings",
+        "url": "https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "Dogtown",
+      "url": "https://open.spotify.com/track/5ktCZMdlQ5jf1o6vqKFSso"
     },
     {
       "album": {
@@ -7078,6 +7122,32 @@
       "duration_ms": 273388,
       "name": "Flying Chicken (feat. Thiago Rabello & Salom\u00e3o Soares)",
       "url": "https://open.spotify.com/track/0783JQsaIA3eZ4UwMhcIpX"
+    },
+    {
+      "album": {
+        "name": "Dance of the Elders",
+        "url": "https://open.spotify.com/album/4sSWjcH8lSwrBXOGdDRbA9"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297293,
+      "name": "Folksong",
+      "url": "https://open.spotify.com/track/1SraTU38cGcQdi0nQngQkO"
     },
     {
       "album": {
@@ -12334,7 +12404,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 292384,
       "name": "Manunae",
       "url": "https://open.spotify.com/track/7rQbINkpTf8wkm7Rz7EmL2"
@@ -12748,6 +12818,32 @@
       "duration_ms": 225245,
       "name": "Minding My Business",
       "url": "https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q"
+    },
+    {
+      "album": {
+        "name": "Ministry of Love",
+        "url": "https://open.spotify.com/album/1qPQDwM5yVaXv8iJgKZcqZ"
+      },
+      "artists": [
+        {
+          "name": "Will Vinson",
+          "url": "https://open.spotify.com/artist/39xJEa28eWbVz5f3FSZLp5"
+        },
+        {
+          "name": "Gilad Hekselman",
+          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
+        },
+        {
+          "name": "Nate Wood",
+          "url": "https://open.spotify.com/artist/7naYSK1hW7hTZJtrhCrLvR"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309340,
+      "name": "Ministry of Love",
+      "url": "https://open.spotify.com/track/6cbX2oMafEsIZZBTsq1cEp"
     },
     {
       "album": {
@@ -14163,6 +14259,36 @@
     },
     {
       "album": {
+        "name": "Oahoo",
+        "url": "https://open.spotify.com/album/7MIDBznMAeL0vvk00Jhrem"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Lindsey Webster",
+          "url": "https://open.spotify.com/artist/3lBD383C0a92MbCRj9dEHZ"
+        },
+        {
+          "name": "Davonte \u201cDeuce\u201d Harris",
+          "url": "https://open.spotify.com/artist/2YTkwM1CWU90CML5QuZQTW"
+        },
+        {
+          "name": "Ledaris \"LJ\" Jones",
+          "url": "https://open.spotify.com/artist/24fKdc1YoPQlaqiGZ0F6Wx"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191948,
+      "name": "Oahoo",
+      "url": "https://open.spotify.com/track/6hLK1q43Yi67HXNumAVQ1t"
+    },
+    {
+      "album": {
         "name": "Right Now Move (2022 Remaster)",
         "url": "https://open.spotify.com/album/5hQYuQG9mExprIdDSAjOkF"
       },
@@ -14314,7 +14440,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 350606,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/1pfckgGedZWa6JGNhAWdOI"
@@ -14631,6 +14757,28 @@
     },
     {
       "album": {
+        "name": "Open-Handed Reach",
+        "url": "https://open.spotify.com/album/3g7i56Kl3xDdzhTJ8nQpeH"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Geri Allen",
+          "url": "https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595460,
+      "name": "Open-Handed Reach",
+      "url": "https://open.spotify.com/track/0kMVgShEStOZHMS8TdyL6u"
+    },
+    {
+      "album": {
         "name": "Orange Sun",
         "url": "https://open.spotify.com/album/59Z98PTU6f39rMDwQM0KGW"
       },
@@ -14716,7 +14864,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 255530,
       "name": "Oropendola",
       "url": "https://open.spotify.com/track/6NfjC2ToSc0hq1EdOB4sJK"
@@ -16990,7 +17138,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 156853,
       "name": "S&M",
       "url": "https://open.spotify.com/track/5YYGEPO30V2reRnC1xo6Ao"
@@ -18709,6 +18857,24 @@
     },
     {
       "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/5StfsAUtkJv3CqG4uNNzJb"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269994,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/3YuChPkMnt1T6Qeujs8D8d"
+    },
+    {
+      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/5FvPuFpUndULeIq6M3Mukq"
       },
@@ -18900,7 +19066,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 290000,
       "name": "Stings",
       "url": "https://open.spotify.com/track/7zdBfReMVQKgxO5Pa5O3Hf"
@@ -20412,6 +20578,44 @@
       "duration_ms": 362813,
       "name": "The Gardens",
       "url": "https://open.spotify.com/track/5zcL9e7Dw1DgzUCqGD846y"
+    },
+    {
+      "album": {
+        "name": "The Girl by the Window",
+        "url": "https://open.spotify.com/album/0thUHXP5VZ4uyrdtqTmZmE"
+      },
+      "artists": [
+        {
+          "name": "Mareike Wiening",
+          "url": "https://open.spotify.com/artist/5n2ZOxo4Dw6CcurZPIYlG9"
+        },
+        {
+          "name": "Dave Douglas",
+          "url": "https://open.spotify.com/artist/3SQrLX0O6RbBjmSIkwCgJb"
+        },
+        {
+          "name": "Rich Perry",
+          "url": "https://open.spotify.com/artist/1TaMCGjRuinPW6jdc5sguu"
+        },
+        {
+          "name": "Glenn Zaleski",
+          "url": "https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W"
+        },
+        {
+          "name": "Alex Goodman",
+          "url": "https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3"
+        },
+        {
+          "name": "Johannes Felscher",
+          "url": "https://open.spotify.com/artist/2RYXsAepfcxTMiShkD42pd"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378213,
+      "name": "The Girl by the Window",
+      "url": "https://open.spotify.com/track/3J4inyMzzUK6XVJmAOUm1a"
     },
     {
       "album": {
@@ -22388,7 +22592,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 301095,
       "name": "Uncertainties",
       "url": "https://open.spotify.com/track/0UpbT3Joops0jxblkZVhZL"

@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 108951,
+  "num_followers": 108985,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTBkY2VjYmI0YTQ1OTM1Yzc5NDZiZTdjNjUwMTM0ODE2OTU5ODM4",
+  "snapshot_id": "MCxkNzc3ODE2ZjBhNWRmZWRjOGM2NGQ1YzBkYzMxN2Y2ZTFkYjEwNGUw",
   "tracks": [
     {
       "added_at": "2023-08-17 21:53:42",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Pendant",
-        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 235832,
-      "name": "Pendant",
-      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "La Cantera",
         "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 191846,
       "name": "Ya mi mama me dec\u00eda",
       "url": "https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Canciones Tristes",
-        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
+        "name": "no estabas cerca",
+        "url": "https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Alba Mbengue",
+          "url": "https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW"
         }
       ],
-      "duration_ms": 186266,
-      "name": "Canciones Tristes",
-      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
+      "duration_ms": 70465,
+      "name": "no estabas cerca",
+      "url": "https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
+        "name": "Canciones Tristes",
+        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 186266,
+      "name": "Canciones Tristes",
+      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
         "name": "Nada de Nada",
         "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 217500,
       "name": "Nada de Nada",
       "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
-        "name": "no estabas cerca",
-        "url": "https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto"
-      },
-      "artists": [
-        {
-          "name": "Alba Mbengue",
-          "url": "https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW"
-        }
-      ],
-      "duration_ms": 70465,
-      "name": "no estabas cerca",
-      "url": "https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "viernes 13 ii",
-        "url": "https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 197818,
-      "name": "viernes 13 ii",
-      "url": "https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "Yin Yang",
         "url": "https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 207248,
       "name": "Serenata",
       "url": "https://open.spotify.com/track/073lF1ripsgcxAY8BKzWrl"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "viernes 13 ii",
+        "url": "https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 197818,
+      "name": "viernes 13 ii",
+      "url": "https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
-        "name": "Bolsas - C. Tangana",
-        "url": "https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5"
-      },
-      "artists": [
-        {
-          "name": "Valdivia",
-          "url": "https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q"
-        }
-      ],
-      "duration_ms": 236605,
-      "name": "Bolsas - C. Tangana",
-      "url": "https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
         "name": "Mundo De Dos",
         "url": "https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 197793,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/64evbvaNb4twXgBPV42jlG"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
+        "name": "Bolsas - C. Tangana",
+        "url": "https://open.spotify.com/album/6Cg69S5BKiWGtk66BD8Fl5"
+      },
+      "artists": [
+        {
+          "name": "Valdivia",
+          "url": "https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q"
+        }
+      ],
+      "duration_ms": 236605,
+      "name": "Bolsas - C. Tangana",
+      "url": "https://open.spotify.com/track/28rRswMxvXAoN5ZPXHYFbk"
     },
     {
       "added_at": "2023-08-17 21:53:42",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2023-08-17 21:53:42",
       "album": {
+        "name": "Directo en mi habitacion <3 (En directo)",
+        "url": "https://open.spotify.com/album/5AijlOnw4oJZ79S24j0acY"
+      },
+      "artists": [
+        {
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        },
+        {
+          "name": "Juan Azul",
+          "url": "https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw"
+        }
+      ],
+      "duration_ms": 346000,
+      "name": "Corazon partio (feat. Juan Azul) - En directo",
+      "url": "https://open.spotify.com/track/3rba2fObaZaOsBTAq74Qi6"
+    },
+    {
+      "added_at": "2023-08-17 21:53:42",
+      "album": {
         "name": "La Banqueta",
         "url": "https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 251640,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR"
-    },
-    {
-      "added_at": "2023-08-17 21:53:42",
-      "album": {
-        "name": "Directo en mi habitacion <3 (En directo)",
-        "url": "https://open.spotify.com/album/5AijlOnw4oJZ79S24j0acY"
-      },
-      "artists": [
-        {
-          "name": "Rebe",
-          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
-        },
-        {
-          "name": "Juan Azul",
-          "url": "https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw"
-        }
-      ],
-      "duration_ms": 346000,
-      "name": "Corazon partio (feat. Juan Azul) - En directo",
-      "url": "https://open.spotify.com/track/3rba2fObaZaOsBTAq74Qi6"
     },
     {
       "added_at": "2023-08-17 21:53:42",

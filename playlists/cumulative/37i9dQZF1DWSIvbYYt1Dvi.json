@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "don l \u00e9 AULAS ",
+  "description": "ogi \u00e9 AULAS ",
   "name": "AULAS",
   "tracks": [
     {
@@ -409,6 +409,28 @@
     },
     {
       "album": {
+        "name": "Antes do baile",
+        "url": "https://open.spotify.com/album/3Spa7un8tuyjiHOpAB4pPZ"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Antes do baile",
+      "url": "https://open.spotify.com/track/4siwpjEBypNdJzlaf4zZGv"
+    },
+    {
+      "album": {
         "name": "Aparte",
         "url": "https://open.spotify.com/album/4CTWa1yv9vPeEUbidGDqQO"
       },
@@ -514,6 +536,32 @@
       "duration_ms": 172592,
       "name": "Areia Azul",
       "url": "https://open.spotify.com/track/5cJPetbFkt9FWHgCcXXbBn"
+    },
+    {
+      "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168448,
+      "name": "Ascens\u00e3o do Cisne Negro",
+      "url": "https://open.spotify.com/track/7IcoaHpCLutnfMmZQuqzbx"
     },
     {
       "album": {
@@ -684,7 +732,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 209109,
       "name": "Big D!!!!!",
       "url": "https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph"
@@ -1233,6 +1281,28 @@
     },
     {
       "album": {
+        "name": "Aleatoriamente",
+        "url": "https://open.spotify.com/album/7mYQl9N5akPjstOuWUxS47"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Ogi",
+          "url": "https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ"
+        },
+        {
+          "name": "Thiago Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177207,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/1IXqkHnMK7fQCmZw4rrnN8"
+    },
+    {
+      "album": {
         "name": "Original Marginal Rap",
         "url": "https://open.spotify.com/album/0rOxZJE47FdZnRSL63jpoT"
       },
@@ -1292,7 +1362,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 164122,
       "name": "De volta ao B\u00e1sico",
       "url": "https://open.spotify.com/track/3xoMdEwMLpgpwi1CiNX8up"
@@ -1558,7 +1628,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 268000,
       "name": "DRAKE DA CAPITAL",
       "url": "https://open.spotify.com/track/1zQY9PHUacBGt5tPnh41n0"

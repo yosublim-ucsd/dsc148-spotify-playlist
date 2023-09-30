@@ -2,7 +2,7 @@
 
 ### [Bollywood Butter](https://open.spotify.com/playlist/37i9dQZF1DWXtlo6ENS92N)
 
-> B bole toh biggest blockbusters, right here! Koi Shaq? 😎 Cover \- Rocky Aur Rani Kii Prem Kahaani
+> B bole toh biggest blockbusters, right here! Koi Shaq? 😎 Cover \- Jawan
 
 118 songs - 7 hr 51 min
 

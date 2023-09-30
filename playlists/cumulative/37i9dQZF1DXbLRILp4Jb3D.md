@@ -4,7 +4,7 @@
 
 > Usar la imaginación es la solución de un mundo ideal, ¡Vivan lxs niñxs!
 
-122 songs - 6 hr 0 min
+123 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 | 2023-04-27 |  |
 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2020-07-16 |  |
 | [I Am Moana \(Song of the Ancestors\)](https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8) | [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:42 | 2020-07-16 | 2023-04-28 |
-| [Is This Love](https://open.spotify.com/track/1THS6PJOgGmjoL9ynjyHXH) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Bob Marley For Babies](https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr) | 3:07 | 2020-07-16 |  |
+| [Is This Love](https://open.spotify.com/track/1THS6PJOgGmjoL9ynjyHXH) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Bob Marley For Babies](https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr) | 3:07 | 2020-07-16 | 2023-09-30 |
 | [Jamming](https://open.spotify.com/track/1C3myqXSGq5ulhe1eqGsiB) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Bob Marley For Babies](https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr) | 2:41 | 2020-07-16 | 2023-04-11 |
 | [Katafixia \- Remastered 2023](https://open.spotify.com/track/1fLR9sRYDGvgNUajtPTJhQ) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Katafixia \(Remastered 2023\)](https://open.spotify.com/album/5Gr7cGgmpMGL8F1nrE3WA6) | 2:42 | 2023-04-27 | 2023-06-30 |
 | [Know Who You Are](https://open.spotify.com/track/2wCRJwiL1WSrW0Dwfco7Nj) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Vai Mahina](https://open.spotify.com/artist/4I9DOo7pz3fn9yjxTktmX9), [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50), [Opetaia Foa'i](https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH), [Matthew Ineleo](https://open.spotify.com/artist/31tOVgwE9y1Kuz7qcWaLJD) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 1:12 | 2020-07-16 | 2023-04-28 |
@@ -114,6 +114,7 @@
 | [Sin Miedo](https://open.spotify.com/track/0csMjiZHkLjzktpBNtTlEe) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg), [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Agüita De Limón Con Chía](https://open.spotify.com/album/3HEmQgo0sLd9vp1bXAD0Yl) | 2:34 | 2020-07-16 | 2023-04-28 |
 | [Sin Miedo](https://open.spotify.com/track/3pKJorxzBf2Mad3wfm8iGY) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg), [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Agüita de Limón Con Chía](https://open.spotify.com/album/5hd7XnjV5mYGkZZlMFrpWx) | 2:34 | 2020-07-16 | 2022-07-29 |
 | [Somewhere Over The Rainbow\_What A Wonderful World](https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:08 | 2020-07-16 |  |
+| [SÚPER ULTRA MEGA \- REMIX](https://open.spotify.com/track/1PSibdWCcgiYKDBxzY1tw1) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [SÚPER ULTRA MEGA \(REMIX\)](https://open.spotify.com/album/4OyvI0yMs7TZhs9Iaqc9xu) | 3:08 | 2023-09-29 |  |
 | [The Bath Song](https://open.spotify.com/track/290sqGHEc7pIDzUPzSPYhQ) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/5NCGJqs3KjGNEvSFwsfmYn) | 2:01 | 2020-07-16 | 2022-07-29 |
 | [The Bath Song](https://open.spotify.com/track/6t5tUvTg4BY4syBRFYATxD) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp) | 2:01 | 2020-07-16 | 2023-04-28 |
 | [The Moon Song](https://open.spotify.com/track/3dFGpnWAmh6RiSJsmp24Qu) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [The Moon Song](https://open.spotify.com/album/7l5wKDS7GIpiLLF7TUHKPq) | 2:08 | 2020-07-16 | 2022-07-29 |

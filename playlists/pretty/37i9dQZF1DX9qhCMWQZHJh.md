@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,840 likes - 64 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,857 likes - 64 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 | 6 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 |
 | 7 | [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Losing You](https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng) | 4:20 |
 | 8 | [Talk Down](https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 2:31 |
-| 9 | [Good 2 Yourself](https://open.spotify.com/track/14BJVFg03Ep2iytTOSCEy1) | [Life in Sweatpants](https://open.spotify.com/artist/1gz7b6h7Jmh8Ixn8byJmCQ) | [Good 2 Yourself](https://open.spotify.com/album/3Crx0tSFjXYhJVERZJ5hXl) | 3:50 |
+| 9 | [Good 2 Yourself](https://open.spotify.com/track/14BJVFg03Ep2iytTOSCEy1) | [LISP](https://open.spotify.com/artist/6xA7T8KlOWbWzuOfsZZDYN) | [Good 2 Yourself](https://open.spotify.com/album/3Crx0tSFjXYhJVERZJ5hXl) | 3:50 |
 | 10 | [Essentially](https://open.spotify.com/track/7MI12qNsacindN65MWoMYR) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Essentially](https://open.spotify.com/album/77DrlB8DpvYIo2pSyw5z5s) | 3:16 |
 | 11 | [PUNISH](https://open.spotify.com/track/1fOYFkUgtbPG2oK2j6SRcK) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PUNISH](https://open.spotify.com/album/0Tndqp61XJ31Ht6o7IC5JN) | 2:50 |
 | 12 | [Fast Slow Disco](https://open.spotify.com/track/6Xk5AaN4n4SnW71473GI7A) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Fast Slow Disco](https://open.spotify.com/album/1uuB4aCSbe5h5ga0wKUi3q) | 3:17 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 | 63 | [Choices \(Interlude\)](https://open.spotify.com/track/7yBpSyKmbZYLS8Rgz6ZD0B) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Blackheart](https://open.spotify.com/album/2IPKoEWJgWuM83zZOq3vkW) | 2:58 |
 | 64 | [Traveling Blind](https://open.spotify.com/track/5DlqIjt7z45BDTRVdvlqpI) | [Faces on TV](https://open.spotify.com/artist/3lLMK7bxYJxcaeThcvL8NJ) | [Traveling Blind](https://open.spotify.com/album/76XJq3lpUPoIJsvDxBGIif) | 3:35 |
 
-Snapshot ID: `MCwwZTMwNmQ1NzhmZTliZmUxNWQ2NzUzNTZjMzZmMzkxMzRlNWNhZmMy`
+Snapshot ID: `MCxlMjU0YjI3YjE0MGY3MjA4Mzk5YjE4ZmM3ZTEwYTRiMDg2YTYyODg3`

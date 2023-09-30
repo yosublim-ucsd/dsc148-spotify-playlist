@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-286 songs - 18 hr 30 min
+287 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 | 2021-11-19 |  |
 | [Finally](https://open.spotify.com/track/0PYLjTrb7ChZTfWG9TFAPe) | [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y) | [Finally](https://open.spotify.com/album/0JPsZ8SJLB3tfVJTFjdCo8) | 3:39 | 2021-11-19 |  |
 | [Fly Again](https://open.spotify.com/track/6Z5aIVVWy31Wjm0GPoyoWT) | [Tom Petrone](https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb) | [Fly Again](https://open.spotify.com/album/0TqXtMckPVwNzBkxExOJyk) | 3:21 | 2021-11-19 |  |
-| [Follow](https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD) | 3:52 | 2022-07-14 |  |
+| [Follow](https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD) | 3:52 | 2022-07-14 | 2023-09-30 |
 | [Follow](https://open.spotify.com/track/54klJfQfIJY2CrU1VOJHxk) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/2wPswblTpxjufCoGGyilYs) | 3:52 | 2021-11-19 | 2022-07-29 |
 | [Forever Now](https://open.spotify.com/track/46zJ3FTTeK48LESza15wbQ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:40 | 2021-11-19 |  |
 | [Fragile](https://open.spotify.com/track/4QyG5ATNtJcpTUNkmsyggh) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Dear Soulmate](https://open.spotify.com/album/5VFaoS9iAQKQruM5V3VEYH) | 4:01 | 2022-08-11 | 2022-10-14 |
@@ -126,6 +126,7 @@
 | [I Like You](https://open.spotify.com/track/2Tjx2DINx4qil9xunhu5cO) | [Brazil XXI](https://open.spotify.com/artist/5r1OHaNjhzMOn1J4lPi1SR), [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [I Like You](https://open.spotify.com/album/7zfyRI2P40FLVcTG9eeOG7) | 4:02 | 2021-11-19 |  |
 | [I Love You](https://open.spotify.com/track/0F5TXI0TbKGRyAI5D0RYJF) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [I Love You](https://open.spotify.com/album/4XSKCBsJw2D2fd3v6Agoc8) | 4:15 | 2022-05-20 | 2023-05-06 |
 | [I Miss You](https://open.spotify.com/track/091sKVcByJjBQVc8uZHZtK) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [I Miss You](https://open.spotify.com/album/3E90onjkC4uR0HdGOOOGLu) | 5:02 | 2023-01-25 | 2023-05-06 |
+| [I Need Your Love](https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [I Need Your Love](https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav) | 4:20 | 2023-09-22 |  |
 | [I Never Can Say Goodbye](https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv) | [Tiny Little Bigband](https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ) | [I Never Can Say Goodbye](https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU) | 4:13 | 2021-11-19 |  |
 | [I Ran \(So Far Away\)](https://open.spotify.com/track/37JRb6cexDkgxVPqcuFivc) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [I Ran \(So Far Away\)](https://open.spotify.com/album/7qhixjUIoIgMYA2Q3yjJi0) | 4:02 | 2021-11-19 |  |
 | [I Touch Myself](https://open.spotify.com/track/5Lk2DCQqa0peKaqLCv5uyW) | [Anekka](https://open.spotify.com/artist/2GWp5uc48WTM1nnqqUbJQd), [Brazilian Jazz Cuts](https://open.spotify.com/artist/4KVWjWPXzulIkmjlk8P05o) | [I Touch Myself](https://open.spotify.com/album/5vgUrCbyURSaDhnJXlmSDu) | 3:20 | 2021-11-19 |  |

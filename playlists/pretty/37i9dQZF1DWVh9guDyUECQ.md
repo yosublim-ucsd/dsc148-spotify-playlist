@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,021 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,078 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 42 | [El Diseñador](https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [El Diseñador](https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC) | 3:45 |
 | 43 | [Irremplazable](https://open.spotify.com/track/6Gafrb0iWf2L8lYKinhvNy) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Irremplazable](https://open.spotify.com/album/02ZRieI3zzi4LiMhJHP1hA) | 3:55 |
 | 44 | [Energía \- Remix](https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Energía \(Remix\)](https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx) | 4:26 |
-| 45 | [La Música](https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [La Música](https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M) | 4:14 |
-| 46 | [Palpitaciones \(Remix\)](https://open.spotify.com/track/5Lg5iLWcrkuL0EYwvroDqS) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Palpitaciones \(Remix\)](https://open.spotify.com/album/7arSsVZ5zYOxQakXbw73cv) | 3:56 |
+| 45 | [Palpitaciones \(Remix\)](https://open.spotify.com/track/5Lg5iLWcrkuL0EYwvroDqS) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Palpitaciones \(Remix\)](https://open.spotify.com/album/7arSsVZ5zYOxQakXbw73cv) | 3:56 |
+| 46 | [La Música](https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [La Música](https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M) | 4:14 |
 | 47 | [Sin Ti](https://open.spotify.com/track/3WDHbrD3rJ8nKJPEQxPLNK) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [On \(Deluxe\)](https://open.spotify.com/album/4dzcicWJ4Hb9nhEY0Toz9H) | 3:26 |
 | 48 | [Que Es La Que Hay](https://open.spotify.com/track/1LdAVtyVt2lbc6fpBpoP6I) | [Yowcend la Igriega](https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Mateo 10:16](https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd) | 4:04 |
 | 49 | [Color de Alegría](https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV) | [Andy Alemany](https://open.spotify.com/artist/40dnXSgTz12SdzNYNGTb8Q), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv) | [Color de Alegría](https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9) | 2:41 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 93 | [Flow Cristiano](https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Flow Cristiano](https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv) | 3:30 |
 | 94 | [Yo Te Mire](https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Yo Te Miré](https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu) | 4:06 |
 | 95 | [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 |
-| 96 | [Humillado](https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Relevantes](https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF) | 3:30 |
+| 96 | [Solita](https://open.spotify.com/track/5OMj7i9Eeuh2kolJAvlZLQ) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6), [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Solita](https://open.spotify.com/album/009mTdnGfMQGaPYZq3UFfl) | 3:38 |
 | 97 | [Más Como Tú – Remix](https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Más Como Tú – Remix](https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ) | 3:26 |
-| 98 | [Solita](https://open.spotify.com/track/5OMj7i9Eeuh2kolJAvlZLQ) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6), [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Solita](https://open.spotify.com/album/009mTdnGfMQGaPYZq3UFfl) | 3:38 |
+| 98 | [Humillado](https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Relevantes](https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF) | 3:30 |
 | 99 | [No Tiene Sentido](https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP) | [Esencia Pr](https://open.spotify.com/artist/5OyUXzH1TSSG8e9ETUMieM), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [No Tiene Sentido](https://open.spotify.com/album/1o7jXsTfe2SrhI4HEPoaKO) | 4:13 |
 | 100 | [Un Call](https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Un Call](https://open.spotify.com/album/41skV30829DyjovTu9BPas) | 3:34 |
 
-Snapshot ID: `MCw5ZjdlNjQ5NmU1ZWE1M2UwOGJmZjY1YWE1MGQ2ZDY4ZGYwZGM3NGZj`
+Snapshot ID: `MCw5ZjVmMjA4ZmNlNWI5ZWZiYmU4ZGIwNTY3OWZmNGVmNjc0ZTExMGU0`

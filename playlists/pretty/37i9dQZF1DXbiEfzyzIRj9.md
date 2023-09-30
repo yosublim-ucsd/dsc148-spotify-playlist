@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Joy Orbison
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,735 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,750 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 13 | [Take You There](https://open.spotify.com/track/322CEeh6aukWbZkqJU8lhI) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Take You There](https://open.spotify.com/album/7eyBGIi1aKKeSpEaDJGlWf) | 3:43 |
 | 14 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 |
 | 15 | [End Of The Line](https://open.spotify.com/track/3nqHSUDl2iZX0SHndCn0sT) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [HTJ001](https://open.spotify.com/album/0XpjP49C89TpWqvxUc3PXC) | 6:43 |
-| 16 | [Aglio e olio](https://open.spotify.com/track/0cw4jePLv2q20Lz9ZdqcvX) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/5dQPDTfYpbdXOatmVjTaNi) | 2:42 |
+| 16 | [Aglio e olio](https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT) | 2:45 |
 | 17 | [Let Yourself Go!](https://open.spotify.com/track/7f2cK2TS5SL2yqsJgqMwV1) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Dreams Of A Dancefloor EP](https://open.spotify.com/album/5nQWnGTyv8hPti6XkHKdZ4) | 4:43 |
 | 18 | [In Blood](https://open.spotify.com/track/1JsxABoXgub295UsXgKKeN) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Delusions of Grandeur \(D.O.G.\) EP](https://open.spotify.com/album/13YQx2lhJQgb9BnrjEXJ6h) | 2:24 |
 | 19 | [Everything](https://open.spotify.com/track/5qK203gDYDkCqRf80DE3f6) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Everything](https://open.spotify.com/album/0L1fZgjQTboP65QTburanO) | 5:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Intelligent Bad Bwoy](https://open.spotify.com/track/1gw7vCvbE2z6lwGDOxkW4M) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Daigos](https://open.spotify.com/artist/2E1k7NNNu4SJcMKrGPVVLO) | [Intelligent Bad Bwoy](https://open.spotify.com/album/3izQI59ta8LnH8wIvgXFU9) | 4:28 |
 | 100 | [Futaiten \- Original Mix](https://open.spotify.com/track/6sq4MZc6rH3IvpWBTeDOpG) | [Nobuharu Morimoto](https://open.spotify.com/artist/65alvKZhr7c6vuOZGb9CSa) | [Futaiten EP](https://open.spotify.com/album/6Mpkxa0xGGZCZ5dL4Nrpmo) | 5:33 |
 
-Snapshot ID: `MCwwMzk0ZTZiZWIyMDQzZDYxNGVhMGEyZTZmYmUyY2IyMWY2YmM5NDRi`
+Snapshot ID: `MCxlOGYxYWQ2YjkwZmIyMWM2YzU1MGIwZGE1Y2Q3OWY3MjdkZmFjNzUz`

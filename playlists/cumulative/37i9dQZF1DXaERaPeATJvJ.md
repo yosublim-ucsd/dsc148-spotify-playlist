@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Rock N Roll Mafia
+> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
 
-119 songs - 8 hr 7 min
+121 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Penggalan Kisah Lama](https://open.spotify.com/track/6CgS033Lai60cUo17xKNUV) | [La Luna](https://open.spotify.com/artist/70vCC614T0CWhPaIjDo9Na) | [Kilas Balik](https://open.spotify.com/album/4dAo8QjTz9yvUGPgUUBn8p) | 3:46 | 2022-04-14 |  |
 | [Pergi Ke Bulan](https://open.spotify.com/track/5ucDkQKPniJlwTVMCQOvj1) | [Klarinet](https://open.spotify.com/artist/5W8Z7MYHJ3JML7lWVUHcY2) | [Klarinet](https://open.spotify.com/album/4ui8LbRdGOFtZu0T7NHbQM) | 2:52 | 2021-11-25 |  |
 | [Pig Paranoia](https://open.spotify.com/track/4ynxHnSWd8VGoocpWpSvTT) | [Zeke Khaseli](https://open.spotify.com/artist/3XBY4eyiy1tI1SKwkvWokU) | [Salacca Zalacca \(10TH Anniversary Edition\)](https://open.spotify.com/album/37vmU4bxRfyjWokSMH5rWW) | 2:32 | 2021-11-25 |  |
+| [Please Say Yes](https://open.spotify.com/track/1qs68Q2hSHRfsAsGtwL94n) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Reminisce 189](https://open.spotify.com/album/7Aw6H2i0Ksex2n8Qb9LwJG) | 3:55 | 2023-09-29 |  |
 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 | 2021-11-25 |  |
 | [Pop Kinetik](https://open.spotify.com/track/5g2V3uYWkLJJYFDPsny0La) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [1+2](https://open.spotify.com/album/5XepVOJPD8w4yF9SaKduLG) | 3:41 | 2021-11-25 |  |
 | [Pulang](https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [No\-Dream Land](https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX) | 3:17 | 2021-11-25 |  |
@@ -107,6 +108,7 @@
 | [She Pretends](https://open.spotify.com/track/7EBjzSq8dyhwZvNsDtdOjY) | [cscd](https://open.spotify.com/artist/7bKRgEFmYuAzF3xSbI5ftZ) | [Pieces Of The World](https://open.spotify.com/album/6tDKVE1hkmrXUD87JJe0F7) | 4:23 | 2021-11-25 |  |
 | [Sinar](https://open.spotify.com/track/3cMF1tldglDmE2udf39mDe) | [Piknik](https://open.spotify.com/artist/74AhmSuxlU6ydRZwlyr9we) | [Sinar](https://open.spotify.com/album/1MvTs8cmhLpF22hsYkUjqs) | 4:20 | 2022-05-12 |  |
 | [Something Like Your Smile](https://open.spotify.com/track/2DX71CNkwE5WssGevAbbxZ) | [Blossom Diary](https://open.spotify.com/artist/4wHBQaI9R90O4bhl71Sppp) | [About The Poor Boy](https://open.spotify.com/album/3p3u7UdtVzii1F5HfX1q3w) | 4:39 | 2022-06-03 |  |
+| [Sought & Found](https://open.spotify.com/track/6krdciVFX7XxEHZhl8quai) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Reminisce 189](https://open.spotify.com/album/7Aw6H2i0Ksex2n8Qb9LwJG) | 4:58 | 2023-09-29 |  |
 | [Spoken](https://open.spotify.com/track/208KDxFGSAbH5ZYA1ktBuk) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 5:17 | 2021-11-25 |  |
 | [Strange Is the Song in Our Conversation](https://open.spotify.com/track/10s8XK7vzEIfDP1fSIVzst) | [Monkey to Millionaire](https://open.spotify.com/artist/3CvmuoTHGPRoQLO4N64C98), [Marsha Suryawinata](https://open.spotify.com/artist/74ImuWk6U363Ktn4QbQjsL) | [Lantai Merah](https://open.spotify.com/album/51pYHM3rQTWuN1wvIyknsi) | 4:48 | 2022-05-04 |  |
 | [Suburban Love](https://open.spotify.com/track/5idywMLoczcnF9P3w26bTq) | [Lipstik Lipsing](https://open.spotify.com/artist/4TjOT7gITmHkn7X0NUEPhc) | [Room for Outside](https://open.spotify.com/album/6Zt1SG67JijuskYbTSwxDs) | 5:10 | 2022-04-14 | 2022-07-29 |

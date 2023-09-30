@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,683 likes - 248 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,833 likes - 248 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 137 | [The Perfect Two](https://open.spotify.com/track/6ybvlo7BzMqEChtAwWoAew) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [The Perfect Two](https://open.spotify.com/album/2WE9WtMlbnh12kSbdJWA09) | 2:09 |
 | 138 | [Toys around](https://open.spotify.com/track/0E6dS91D3AYdAKRKTCB5YI) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Toys around](https://open.spotify.com/album/2J6h1TwztBf2EgC7lknGFa) | 2:17 |
 | 139 | [Les passions](https://open.spotify.com/track/5eVSECRwlo8dpiAVWZImDs) | [Gianfranco Abate](https://open.spotify.com/artist/0LY1eNeWoYUJ9kwockmS2t) | [Les passions](https://open.spotify.com/album/1kLAGCQCV2Zn75wEKDl9eh) | 2:34 |
-| 140 | [Les murmures](https://open.spotify.com/track/5fe40JdDz3qqDB1vAQOaRr) | [Bon Coeur](https://open.spotify.com/artist/3uvirEQnNIIz4wsyCPEper) | [Les murmures](https://open.spotify.com/album/4oYNPdNy3Zisu3oeUjLHGa) | 2:32 |
+| 140 | [Les murmures](https://open.spotify.com/track/3LAXZYdt54FXx09a8DRaFB) | [Bon Coeur](https://open.spotify.com/artist/3uvirEQnNIIz4wsyCPEper) | [Les murmures](https://open.spotify.com/album/16o2AEiuG2uh2zNzQsCotn) | 2:32 |
 | 141 | [Into The Wild](https://open.spotify.com/track/218oB0WObOdE8kYYVvrPpU) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Into The Wild](https://open.spotify.com/album/3RTuxds03kAxRjXfc2VyFR) | 3:11 |
 | 142 | [For Chris](https://open.spotify.com/track/2rAeRLkoePtmTFsBpmEN92) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm) | [For Chris](https://open.spotify.com/album/2jQxj8JfpJk39kqrqMBsfU) | 5:08 |
 | 143 | [Over and over again](https://open.spotify.com/track/3xsVn4oDC1yAvquezhsGwr) | [NOIR](https://open.spotify.com/artist/1jd7mfHRsQszG278XirWDC) | [Over and over again](https://open.spotify.com/album/19EkqaFNdzEhPyF9YaGDG7) | 2:12 |
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 247 | [Sea Change](https://open.spotify.com/track/3pJnfyKoVePwVmljB6Wun1) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Sea Change](https://open.spotify.com/album/1jqlahQiSw1r4Leg6IQp3S) | 2:51 |
 | 248 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 |
 
-Snapshot ID: `MCwxNzczNjE0ODU5ZDY2ZmRjYmY4MDA0MzhlYzYyZjA5YjBlOWU5ZTU1`
+Snapshot ID: `MCw1ZjZkYjc5YjI3ZTI2OGFlNGZlZDgzZWI5NzVhM2RiY2I1NzRhZmI3`

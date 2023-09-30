@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5eitAUlYmlha3LLWg7aBn5">Kelly Lee Owens</a>'s favorite tracks\. Updated regularly\. Curated by Kelly Lee Owens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-46 songs - 4 hr 50 min
+49 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Justa](https://open.spotify.com/track/7BLtFk0E20UwCauvmuB4Eg) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Soft Waahls EP](https://open.spotify.com/album/2lcbMTGj7uupRHLBPEwwhq) | 4:42 | 2022-07-29 |  |
 | [Light](https://open.spotify.com/track/3bGC6jB6jWGa5hzSZzhHzs) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles \(Deluxe\)](https://open.spotify.com/album/1bx7sNUpVB9fQ7QhcVZsUV) | 4:56 | 2022-07-29 |  |
 | [Marble](https://open.spotify.com/track/6OzTX1zXFE8IrDyjAQXAac) | [BärtauB](https://open.spotify.com/artist/00XZzhWdfAeoQgICzw6bB9) | [Marble](https://open.spotify.com/album/7tmoo17EOW3aY6d3pcAUQg) | 7:43 | 2022-07-29 |  |
-| [Melt](https://open.spotify.com/track/7uTM6KlRKwsW4y3toURryB) | [Ntel](https://open.spotify.com/artist/6YCrEpjF7yPneriLyFP3Ds) | [The Dilution Effect](https://open.spotify.com/album/78URtQ4zmGCSHOexqMjuWM) | 6:16 | 2022-07-29 |  |
+| [Melt](https://open.spotify.com/track/6POm649tX29rxFUJBce1vw) | [Ntel](https://open.spotify.com/artist/6YCrEpjF7yPneriLyFP3Ds) | [The Dilution Effect](https://open.spotify.com/album/4Yk4MZlppSerT2PQaGyw9p) | 6:16 | 2022-07-29 |  |
+| [Melt](https://open.spotify.com/track/7uTM6KlRKwsW4y3toURryB) | [Ntel](https://open.spotify.com/artist/6YCrEpjF7yPneriLyFP3Ds) | [The Dilution Effect](https://open.spotify.com/album/78URtQ4zmGCSHOexqMjuWM) | 6:16 | 2022-07-29 | 2023-09-30 |
 | [Monte](https://open.spotify.com/track/7n6fcHNTkkrolUZI9akKnM) | [Sergie Rezza](https://open.spotify.com/artist/3DpLMkE35jlHbtZhIFPN3v) | [Re\-Introduction](https://open.spotify.com/album/2po6etqKDAexXR6lsy2uwC) | 5:14 | 2022-07-29 |  |
 | [Naive Response](https://open.spotify.com/track/4yGVlUUhN0PAHnuM8m2KZD) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone Logic](https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92) | 5:23 | 2022-07-29 |  |
 | [Pkd](https://open.spotify.com/track/0Pu0xDnLH0es3Fie9FxmNj) | [Arctor](https://open.spotify.com/artist/73YzpscGUNw70CUjwnh1zA) | [Memory Gene](https://open.spotify.com/album/0OIdy1tA3Cp135ZBTGhFTl) | 7:40 | 2022-07-29 |  |
@@ -45,11 +46,13 @@
 | [SCN 2](https://open.spotify.com/track/4U8LEx7zjRAjbJ7PiBInUY) | [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [SCN EP](https://open.spotify.com/album/4IydOYX0CmNvUV6IN34y1v) | 6:15 | 2022-07-29 |  |
 | [Soft Rain](https://open.spotify.com/track/5avorVnwCa3lw0J9ERIWzt) | [CiM](https://open.spotify.com/artist/60xFVf2oS4VWKoKY9gogWU) | [Series Two](https://open.spotify.com/album/7zNo8iYIbr2Gil46FGV14w) | 4:53 | 2022-07-29 |  |
 | [Starground](https://open.spotify.com/track/2UkoavcOeQfsWmgTfYM54k) | [Mike Dehnert](https://open.spotify.com/artist/6QLOlk9sB4Wca7i7dwVNC4) | [Providing Home](https://open.spotify.com/album/6DSDhXT5MdVd4DBxgQvbDf) | 6:07 | 2022-07-29 |  |
-| [Swarm \- Scanner Mix](https://open.spotify.com/track/4w2hys2VbrSkiY73kL1mL1) | [Ntel](https://open.spotify.com/artist/6YCrEpjF7yPneriLyFP3Ds) | [The Dilution Effect](https://open.spotify.com/album/78URtQ4zmGCSHOexqMjuWM) | 6:14 | 2022-07-29 |  |
+| [Swarm \- Scanner Mix](https://open.spotify.com/track/4w2hys2VbrSkiY73kL1mL1) | [Ntel](https://open.spotify.com/artist/6YCrEpjF7yPneriLyFP3Ds) | [The Dilution Effect](https://open.spotify.com/album/78URtQ4zmGCSHOexqMjuWM) | 6:14 | 2022-07-29 | 2023-09-30 |
+| [Swarm \- Scanner Version](https://open.spotify.com/track/4oNNtUa4nwQWsbKPaakZpy) | [Ntel](https://open.spotify.com/artist/6YCrEpjF7yPneriLyFP3Ds) | [The Dilution Effect](https://open.spotify.com/album/4Yk4MZlppSerT2PQaGyw9p) | 6:14 | 2022-07-29 |  |
 | [Tape 17](https://open.spotify.com/track/2j5SKNmfMPEjK930kbf1ro) | [Arkajo](https://open.spotify.com/artist/48LueEh5dkeoyRiqH6krhh) | [Arkajo 1](https://open.spotify.com/album/5xYN5ECwpMZgNvsg0RamoU) | 5:54 | 2022-07-29 |  |
 | [The Depth](https://open.spotify.com/track/7AFaRQ0QbsM7OzhiCxu5CD) | [Posthuman](https://open.spotify.com/artist/274XKvuYk5OFrvf3wl3xGe) | [The Depth](https://open.spotify.com/album/02wixguai7H3ZJIE6xN1EV) | 7:27 | 2022-07-29 |  |
 | [The Rains Will Pass](https://open.spotify.com/track/6jqyuWejkya56sRJym7WMd) | [Beyun](https://open.spotify.com/artist/79NNi4NiLrc8abuv6XnfaL) | [A Path of One](https://open.spotify.com/album/5xFgxOaQXcxnVy8d9wCKNL) | 5:58 | 2022-07-29 |  |
-| [TV Science](https://open.spotify.com/track/3s9vrGTbpW1fUGALUKwEdh) | [ANF](https://open.spotify.com/artist/0yEUBlEOtPhU1vEUVintkf), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [Dust\-e\-1](https://open.spotify.com/artist/6kpa0OfAlmtLnGykwMJWVu) | [TV Science](https://open.spotify.com/album/1Xc0wGRptZmeGdiLvxYYE1) | 8:03 | 2022-07-29 |  |
+| [TV Science](https://open.spotify.com/track/2bpTlguXMH8p6pvgNLvsi9) | [ANF](https://open.spotify.com/artist/0yEUBlEOtPhU1vEUVintkf), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [Dust\-e\-1](https://open.spotify.com/artist/6kpa0OfAlmtLnGykwMJWVu) | [TV Science](https://open.spotify.com/album/44oU77zzrfedgENOgU1XUB) | 8:03 | 2022-07-29 |  |
+| [TV Science](https://open.spotify.com/track/3s9vrGTbpW1fUGALUKwEdh) | [ANF](https://open.spotify.com/artist/0yEUBlEOtPhU1vEUVintkf), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [Dust\-e\-1](https://open.spotify.com/artist/6kpa0OfAlmtLnGykwMJWVu) | [TV Science](https://open.spotify.com/album/1Xc0wGRptZmeGdiLvxYYE1) | 8:03 | 2022-07-29 | 2023-09-30 |
 | [Void Pyramid \- B](https://open.spotify.com/track/7DK9hMt2IOTRpxTvvCJvpo) | [Arkajo](https://open.spotify.com/artist/48LueEh5dkeoyRiqH6krhh), [Dorisburg](https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6) | [Arkajo 2](https://open.spotify.com/album/4o2wMIlzpabKiqR5wwJUev) | 7:37 | 2022-07-29 |  |
 | [Wait](https://open.spotify.com/track/0AUSYJwgnasQovY2toGHg0) | [WK7](https://open.spotify.com/artist/1mYm4Pf6wKtOxySSzKOhoS) | [Wait](https://open.spotify.com/album/4MW5LcziBrXtriMjYjs068) | 5:52 | 2022-07-29 |  |
 | [Wasteland Breaks](https://open.spotify.com/track/2ddK9PtyAbiqWmSfY2kiQc) | [Kareem El Morr](https://open.spotify.com/artist/7cLebqP6JTUYMtC6ihOW1w) | [Wasteland Breaks](https://open.spotify.com/album/2pNffcPhjZXbcR9YoCnO0o) | 6:49 | 2022-07-29 |  |

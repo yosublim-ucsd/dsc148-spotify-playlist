@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: sad alex
 
-487 songs - 22 hr 25 min
+492 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Boy Of The Month](https://open.spotify.com/track/4RSIROjp4W39qUAyMHjf13) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Boy Of The Month](https://open.spotify.com/album/2GyPTomdJSp77TGz658Ziu) | 1:46 | 2023-06-16 | 2023-09-09 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-11 | 2022-07-02 |
 | [boyfriend](https://open.spotify.com/track/7I5Nx5XlEAolrnQEnDcblx) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [boyfriend](https://open.spotify.com/album/32IYSWV4RkXN5bqWPS486t) | 2:48 | 2023-04-28 | 2023-06-24 |
+| [Breadcrumbs](https://open.spotify.com/track/5QiWXgX8ANHg5v8jE1eaQh) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Breadcrumbs](https://open.spotify.com/album/4aOr6Lkc0jJBTppl95v2xS) | 2:51 | 2023-09-29 |  |
 | [BREAKDOWN](https://open.spotify.com/track/5ab5TaUCeTXEyEopmq4pjM) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [BREAKDOWN](https://open.spotify.com/album/43TWpeulOdWVBsL8vpMdZi) | 3:38 | 2022-05-27 | 2022-07-23 |
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-06-24 | 2022-10-29 |
 | [Breakup Sex](https://open.spotify.com/track/5qy7Tp0aeBNEuAbV3mo3Xq) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Breakup Sex](https://open.spotify.com/album/2Tjdq0ZoX7pIoTbfsRxbyb) | 2:33 | 2022-07-22 | 2022-09-24 |
@@ -150,6 +151,7 @@
 | [EXTRA EXTRA](https://open.spotify.com/track/6hTudL1V7CHBhxwV8k9oIo) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [EXTRA EXTRA](https://open.spotify.com/album/7gJ1BUgV6kkyaFzKE5LizN) | 3:25 | 2023-07-21 | 2023-09-02 |
 | [F U Anthem \(Fuck You Anthem\)](https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Just Happened?](https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J) | 2:35 | 2021-10-01 | 2022-03-26 |
 | [F U It's Over](https://open.spotify.com/track/3U2vi9J7dN7X2ZqYSfOIht) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [F U It's Over](https://open.spotify.com/album/0yRCPYnNJya1rAoZ4m0axM) | 2:45 | 2023-05-05 | 2023-08-05 |
+| [f.u.n!](https://open.spotify.com/track/28IiEPTbV34Y9rFUsKekOC) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [f.u.n!](https://open.spotify.com/album/47BYh86KOmBvNfFmjsHpVh) | 2:34 | 2023-09-29 |  |
 | [F2F](https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:05 | 2022-12-09 | 2023-01-06 |
 | [Faking My Death](https://open.spotify.com/track/44YHoy9N6uI61OREMY8Ax4) | [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Double Take / Faking My Death](https://open.spotify.com/album/78XiZKS2bbWsdqlZBd9pbd) | 2:45 | 2022-03-11 | 2022-04-23 |
 | [Fall Fall Fall](https://open.spotify.com/track/1Nok3E21YSs8TifkIJgbFv) | [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc) | [Fall Fall Fall](https://open.spotify.com/album/38elTodexdZEjJ4ODbiaHG) | 3:44 | 2022-03-18 | 2022-03-26 |
@@ -364,6 +366,7 @@
 | [SACRILEGIOUS \(with TOKYO'S REVENGE\)](https://open.spotify.com/track/47mzGm0Jp2OzKOuK1T7mYI) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [SACRILEGIOUS \(with TOKYO'S REVENGE\)](https://open.spotify.com/album/6NcKtumpdHtY6Mbcmb4nci) | 2:42 | 2022-02-11 | 2022-02-19 |
 | [SAD B!TCH](https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [SAD B!TCH](https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ) | 2:12 | 2023-02-03 | 2023-09-23 |
 | [Sad Ghost](https://open.spotify.com/track/45fNZIKK6NYTLq5nNvTTyx) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Sad Ghost](https://open.spotify.com/album/0BKbLRyigNvoZIBcCw1fcH) | 3:07 | 2022-10-21 | 2023-04-01 |
+| [SAINT](https://open.spotify.com/track/3L3EW1iUnEZN7Ejs4FuXYz) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [SAINT](https://open.spotify.com/album/1r41TREkXcOeKfFbDhwUsU) | 3:15 | 2023-09-29 |  |
 | [Salt and Vinegar](https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Salt and Vinegar](https://open.spotify.com/album/3WvRrly2MB7uk6oEFzcA9E) | 3:15 | 2022-02-04 | 2022-03-18 |
 | [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 | 2022-02-07 | 2022-02-26 |
 | [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 | 2023-02-03 | 2023-03-04 |
@@ -380,6 +383,7 @@
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-02-04 | 2022-07-02 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-04 | 2022-03-18 |
 | [SHUT UP](https://open.spotify.com/track/0EdZVIPG9yl7D796fiFiw1) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [SHUT UP](https://open.spotify.com/album/3wcpkLbPP7w7ciwuYcI7aV) | 2:33 | 2022-11-25 | 2023-06-10 |
+| [SHUT UP AND KISS ME](https://open.spotify.com/track/69XM2hnoX1hVwqDGnnGZSq) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [EMOTION SICKNESS](https://open.spotify.com/album/7qpJHu4q1taE6JOFvdm6YA) | 2:43 | 2023-09-29 |  |
 | [Shut Up and Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up and Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 | 2022-07-08 | 2022-09-17 |
 | [sickly sweet](https://open.spotify.com/track/23v6BY613BSU5UaRhQ7mYB) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/4WsRz4GfzTr5f4FtCSp8a8) | 2:14 | 2023-04-28 | 2023-08-05 |
 | [sickly sweet](https://open.spotify.com/track/5VmWAuIo8jMKef4DcPy6S5) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/5BlMzd8siEvlbtsCV5rGJD) | 2:14 | 2023-04-28 | 2023-05-24 |
@@ -454,6 +458,7 @@
 | [Unfinished Business](https://open.spotify.com/track/4YluI2KiR4ZWxqGAvNWsD1) | [Fae](https://open.spotify.com/artist/7gcUMQcBkw833YqXciq0WB) | [Unfinished Business](https://open.spotify.com/album/4fHanSBBo7YvqXhYUQgZ8N) | 2:56 | 2023-08-18 |  |
 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 | 2023-07-14 | 2023-09-09 |
 | [Unholy \(feat\. Kim Petras\) \- Nova Twins Remix](https://open.spotify.com/track/1G2tlG3tA7uBH5izFZpaGX) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Unholy \(feat\. Kim Petras\) \[Nova Twins Remix\]](https://open.spotify.com/album/1Zq6e7bJTNwtf4IcZr4YaB) | 2:57 | 2022-12-09 | 2023-04-09 |
+| [Unsubstantial](https://open.spotify.com/track/7u9gUIq2jVEnIgUXAVXnBb) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Unsubstantial](https://open.spotify.com/album/6kzXo1uFPopE5YEGgxImau) | 1:40 | 2023-09-29 |  |
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-01-21 | 2022-05-28 |
 | [UR SO FULL OF IT](https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT](https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS) | 2:14 | 2023-05-12 | 2023-06-03 |
 | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu) | 2:18 | 2022-05-27 | 2022-06-11 |

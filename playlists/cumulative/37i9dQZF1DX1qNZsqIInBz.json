@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "Broken Trust",
+        "url": "https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH"
+      },
+      "artists": [
+        {
+          "name": "SAY3AM",
+          "url": "https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "Broken Trust",
+      "url": "https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte"
+    },
+    {
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/1Agg5sCbo8mvH4GBDjTpb7"
       },
@@ -1108,7 +1130,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 196572,
       "name": "flashback",
       "url": "https://open.spotify.com/track/6LK0dja7B2ibVgwZhVDvTw"
@@ -1511,6 +1533,32 @@
     },
     {
       "album": {
+        "name": "infinite universe",
+        "url": "https://open.spotify.com/album/47k1YcVtWladbWe4EUjSfj"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        },
+        {
+          "name": "glichery",
+          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125029,
+      "name": "infinite universe",
+      "url": "https://open.spotify.com/track/2U155vVDxWPXEaKy2QvK99"
+    },
+    {
+      "album": {
         "name": "IRON KNIGHT",
         "url": "https://open.spotify.com/album/1akEiLit7yPHOyZxtAxbsT"
       },
@@ -1820,7 +1868,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 185996,
       "name": "make em suffer",
       "url": "https://open.spotify.com/track/5Q4a8tCHipcpbRbaR7AIx6"
@@ -1838,7 +1886,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 148149,
       "name": "MEANING OF LIFE",
       "url": "https://open.spotify.com/track/0JeAofgLJ7A0wnO8ecBm23"
@@ -2034,6 +2082,28 @@
       "duration_ms": 169846,
       "name": "MUSIC DEALER",
       "url": "https://open.spotify.com/track/2P3AH23KTwpzusIFlPYqT1"
+    },
+    {
+      "album": {
+        "name": "MY LIFE",
+        "url": "https://open.spotify.com/album/5G2cyv4KGkZ1z033AbZjOV"
+      },
+      "artists": [
+        {
+          "name": "KIIXSHI",
+          "url": "https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh"
+        },
+        {
+          "name": "phonk.me",
+          "url": "https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112692,
+      "name": "MY LIFE",
+      "url": "https://open.spotify.com/track/053gZ2j8c8cVK9ec5nPJbZ"
     },
     {
       "album": {
@@ -2504,6 +2574,28 @@
     {
       "album": {
         "name": "OBLIVION",
+        "url": "https://open.spotify.com/album/1MEJ7sywm587nG2n1sTjED"
+      },
+      "artists": [
+        {
+          "name": "SHADXWBXRN",
+          "url": "https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx"
+        },
+        {
+          "name": "leah julia",
+          "url": "https://open.spotify.com/artist/2anFRwD3jRc3N8iTNaz41D"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137704,
+      "name": "OBLIVION",
+      "url": "https://open.spotify.com/track/74G8HtUQ1RRZa6xQANMb0t"
+    },
+    {
+      "album": {
+        "name": "OBLIVION",
         "url": "https://open.spotify.com/album/2n2VcwvJsChKhBL1zX75Cj"
       },
       "artists": [
@@ -2750,7 +2842,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 151630,
       "name": "SEE U IN WINTER",
       "url": "https://open.spotify.com/track/38s6G7066hE4dTvrTsSqoL"
@@ -2976,7 +3068,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 120560,
       "name": "Space",
       "url": "https://open.spotify.com/track/5ZTwRO2Yy2ardUblJsVSAA"
@@ -3148,6 +3240,28 @@
       "duration_ms": 180000,
       "name": "TEARDROP",
       "url": "https://open.spotify.com/track/0HPsP6pwUJHKHySEXLST0u"
+    },
+    {
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/3PVnEPRSacSJZ4plVjLm7S"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "2Hounds",
+          "url": "https://open.spotify.com/artist/0qeQAOjEYyeV2opWZdRcU9"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180076,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/439JiYk1AGzECwkEiJm6WX"
     },
     {
       "album": {

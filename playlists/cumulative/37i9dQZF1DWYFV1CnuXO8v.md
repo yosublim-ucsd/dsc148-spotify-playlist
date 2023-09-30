@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️<br/> كوفر: <a href="https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg?si=SaDgQlWvTb2aXAi94J\-UOA"> انغام </a>
 
-257 songs - 16 hr 11 min
+258 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Diplomacy](https://open.spotify.com/track/6lUgUYvwmJSzXBR1drpxKh) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Diplomacy](https://open.spotify.com/album/3Wvg3cSabfpRxclOh26mDL) | 3:22 | 2023-02-13 | 2023-04-02 |
 | [Diplomacy](https://open.spotify.com/track/6xDtL9ZKpRX9HXGwmIB34k) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Diplomacy](https://open.spotify.com/album/5Ad8EqhfY3Xqd0hOalAWzj) | 3:22 | 2023-02-23 | 2023-05-23 |
 | [Diva](https://open.spotify.com/track/0ECT1q8mtxBE7cCRIeCXO2) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Diva](https://open.spotify.com/album/0WRvr1ZggOBKzYMSpCUZ1r) | 2:52 | 2023-02-16 | 2023-05-23 |
-| [Ediny Forsa](https://open.spotify.com/track/0upAh0hDpgOStY7FBzAG1f) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Asl El Ehsas](https://open.spotify.com/album/0XXg30QU75wrbEi6H93p9u) | 3:36 | 2023-09-08 |  |
+| [Ediny Forsa](https://open.spotify.com/track/0upAh0hDpgOStY7FBzAG1f) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Asl El Ehsas](https://open.spotify.com/album/0XXg30QU75wrbEi6H93p9u) | 3:36 | 2023-09-08 | 2023-09-30 |
 | [El Dalo3a](https://open.spotify.com/track/2K4ieVCCeraEIXiTCgPAXW) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [El Dalo3a](https://open.spotify.com/album/6bTn0ckB0jj1huHBq4AXvZ) | 3:00 | 2023-09-08 | 2023-09-15 |
 | [El Hob Dayaani](https://open.spotify.com/track/1d8a7PXLEjkTtEuz5hWuv2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [El Hob Dayaani](https://open.spotify.com/album/4GQkyZMC7NjgtfMwdIkWrs) | 3:10 | 2023-02-13 | 2023-05-23 |
 | [El Hob El Ha'ei'y](https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [El Hob El Ha'ei'y](https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75) | 5:44 | 2023-02-13 |  |
@@ -162,6 +162,7 @@
 | [Piece Of My Heart](https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Piece Of My Heart](https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x) | 3:09 | 2023-02-13 |  |
 | [Qalby Ertah](https://open.spotify.com/track/4wo3x8RiCShFhuABw71uxE) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Qalby Ertah](https://open.spotify.com/album/3vsZQu0Z4fOa3FrzQToHmA) | 3:45 | 2023-09-08 | 2023-09-15 |
 | [Rabe3 Fengan Ahwa](https://open.spotify.com/track/7arsxgfPgULHOa5rsENcZI) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Rabe3 Fengan Ahwa](https://open.spotify.com/album/0KpM26FhOZpln9EQeJ4OBm) | 3:30 | 2023-02-13 | 2023-09-15 |
+| [Rawa2any](https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Rawa2any](https://open.spotify.com/album/2BV4pv95yaJFhewrpPKrHS) | 3:11 | 2023-09-29 |  |
 | [Roh El Roh](https://open.spotify.com/track/2d1YGwEyCdZWSNUq8RdNOF) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Roh El Roh](https://open.spotify.com/album/3CLCOTwffwGNxTr3mPjWup) | 2:46 | 2023-02-13 | 2023-05-23 |
 | [Saaba Leh](https://open.spotify.com/track/5LYP0e4du4F6gw9m7SOQI5) | [Nesma Herky](https://open.spotify.com/artist/20KfKaHWko8qNRRhoXTByX), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [Saaba Leh](https://open.spotify.com/album/0cYUB7gHc0pL0AwJuT7m2e) | 4:02 | 2023-07-27 | 2023-09-09 |
 | [Sad Khana](https://open.spotify.com/track/1AIQIDVTAbmlOSNdhOjUlc) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Sad Khana](https://open.spotify.com/album/1Ejmq4KPVN6jDkZmWfTIFt) | 3:52 | 2023-02-16 | 2023-05-23 |

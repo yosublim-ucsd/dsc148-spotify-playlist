@@ -494,7 +494,7 @@
     {
       "album": {
         "name": "The Dilution Effect",
-        "url": "https://open.spotify.com/album/78URtQ4zmGCSHOexqMjuWM"
+        "url": "https://open.spotify.com/album/4Yk4MZlppSerT2PQaGyw9p"
       },
       "artists": [
         {
@@ -505,6 +505,24 @@
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 376119,
+      "name": "Melt",
+      "url": "https://open.spotify.com/track/6POm649tX29rxFUJBce1vw"
+    },
+    {
+      "album": {
+        "name": "The Dilution Effect",
+        "url": "https://open.spotify.com/album/78URtQ4zmGCSHOexqMjuWM"
+      },
+      "artists": [
+        {
+          "name": "Ntel",
+          "url": "https://open.spotify.com/artist/6YCrEpjF7yPneriLyFP3Ds"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
       "duration_ms": 376119,
       "name": "Melt",
       "url": "https://open.spotify.com/track/7uTM6KlRKwsW4y3toURryB"
@@ -710,10 +728,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 374117,
       "name": "Swarm - Scanner Mix",
       "url": "https://open.spotify.com/track/4w2hys2VbrSkiY73kL1mL1"
+    },
+    {
+      "album": {
+        "name": "The Dilution Effect",
+        "url": "https://open.spotify.com/album/4Yk4MZlppSerT2PQaGyw9p"
+      },
+      "artists": [
+        {
+          "name": "Ntel",
+          "url": "https://open.spotify.com/artist/6YCrEpjF7yPneriLyFP3Ds"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374117,
+      "name": "Swarm - Scanner Version",
+      "url": "https://open.spotify.com/track/4oNNtUa4nwQWsbKPaakZpy"
     },
     {
       "album": {
@@ -772,7 +808,7 @@
     {
       "album": {
         "name": "TV Science",
-        "url": "https://open.spotify.com/album/1Xc0wGRptZmeGdiLvxYYE1"
+        "url": "https://open.spotify.com/album/44oU77zzrfedgENOgU1XUB"
       },
       "artists": [
         {
@@ -791,6 +827,32 @@
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 483621,
+      "name": "TV Science",
+      "url": "https://open.spotify.com/track/2bpTlguXMH8p6pvgNLvsi9"
+    },
+    {
+      "album": {
+        "name": "TV Science",
+        "url": "https://open.spotify.com/album/1Xc0wGRptZmeGdiLvxYYE1"
+      },
+      "artists": [
+        {
+          "name": "ANF",
+          "url": "https://open.spotify.com/artist/0yEUBlEOtPhU1vEUVintkf"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        },
+        {
+          "name": "Dust-e-1",
+          "url": "https://open.spotify.com/artist/6kpa0OfAlmtLnGykwMJWVu"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
       "duration_ms": 483621,
       "name": "TV Science",
       "url": "https://open.spotify.com/track/3s9vrGTbpW1fUGALUKwEdh"

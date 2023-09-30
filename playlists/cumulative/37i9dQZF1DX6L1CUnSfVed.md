@@ -4,7 +4,7 @@
 
 > Les plus grands standards du rock français\. Photo : Téléphone
 
-50 songs - 3 hr 10 min
+51 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Ces Gens\-Là](https://open.spotify.com/track/09FwlQaygrzPpAGUBgdllP) | [Ange](https://open.spotify.com/artist/2pUqkhG7JEwHtk3hvD4qZL) | [Le Cimetiere Des Arlequins](https://open.spotify.com/album/5KnZloSevoATYhQeX7t0e0) | 4:41 | 2023-01-17 |  |
 | [Cherchez le garçon](https://open.spotify.com/track/0MJLw7QGn79f346Sbu6rA2) | [Taxi Girl](https://open.spotify.com/artist/4ztbfel6DJq0lL4wmTJN9Y) | [Chercher Le Garçon](https://open.spotify.com/album/5K2bMo0BeIF1HYztZ51X8k) | 4:11 | 2023-01-17 |  |
 | [Daniela](https://open.spotify.com/track/1QDP18NQ3dOAFYZiusw9Y4) | [Elmer Food Beat](https://open.spotify.com/artist/1scwxd2WrAOSgUDm89YMVi) | [30 cm](https://open.spotify.com/album/5a7wnB7Cq2OHDDXrJ15Lzh) | 2:32 | 2023-01-17 |  |
-| [Dans La Salle Du Bar\-Tabac De La Rue Des Martyrs](https://open.spotify.com/track/6SOuIgfdDRAiSgQ7F8Eaje) | [Pigalle](https://open.spotify.com/artist/7xw0r7NBG7o1ns6AAQ7Qz7) | [Pigalle](https://open.spotify.com/album/3HyMTGgkfBfqWOt4lY2Bgu) | 3:02 | 2023-01-17 |  |
+| [Dans La Salle Du Bar\-Tabac De La Rue Des Martyrs](https://open.spotify.com/track/6SOuIgfdDRAiSgQ7F8Eaje) | [Pigalle](https://open.spotify.com/artist/7xw0r7NBG7o1ns6AAQ7Qz7) | [Pigalle](https://open.spotify.com/album/3HyMTGgkfBfqWOt4lY2Bgu) | 3:02 | 2023-01-17 | 2023-09-30 |
+| [Dans La Salle Du Bar\-Tabac De La Rue Des Martyrs](https://open.spotify.com/track/2TsYRdkND1FkmN2bZXPWFz) | [Pigalle](https://open.spotify.com/artist/7xw0r7NBG7o1ns6AAQ7Qz7) | [Neuf Et Occasion](https://open.spotify.com/album/6rK6hnCAYV4poFHyu5QSSD) | 3:04 | 2023-01-17 |  |
 | [Du rhum des femmes](https://open.spotify.com/track/2NshBYcvc4uYYsBj4vHZfh) | [Soldat Louis](https://open.spotify.com/artist/1xrlEiFyB2fhqJATbGDULK) | [Première Bordée](https://open.spotify.com/album/0CU38fbBLIOt5e1guJWCfA) | 2:59 | 2023-01-17 |  |
 | [Elle me voit pas](https://open.spotify.com/track/7uTjj2fiGwxt0SuyipGT7v) | [Stocks](https://open.spotify.com/artist/2eD6rqWtKeSSt7hJjgnAf8) | [Éclats de Rock](https://open.spotify.com/album/5Gyh4RhshQzieUPSSPMFn8) | 3:45 | 2023-01-17 |  |
 | [Eteins la lumière](https://open.spotify.com/track/2lTP9MLEBIymMfedEF8y04) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd) | [Sentinelles](https://open.spotify.com/album/7x6iQbTVrdwg91PKjgHCnp) | 4:18 | 2023-01-17 |  |

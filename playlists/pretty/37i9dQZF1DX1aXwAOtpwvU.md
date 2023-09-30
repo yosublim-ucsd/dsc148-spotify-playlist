@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5kH7ZateqBrrUv6u6snhnp">ta Ukrainka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,750 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,757 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 59 | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/track/76jCSzHssCZuaQ1rEyi8Df) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs) | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/album/6baYZ2q3O6NqAjB6FZ0lhX) | 2:13 |
 | 60 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `MCwyZjZiYzY5MGY0MWQ1NTI5NjA1MTU1YjliNjUzZjJiZDhiOTQyZjAw`
+Snapshot ID: `MCw5NDAwNzc3ZDliNDA4ZWFjYjkxMGNjZDAwMDRjNGMyYzFmYWNlN2My`

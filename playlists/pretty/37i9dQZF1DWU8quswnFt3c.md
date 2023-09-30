@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,747 likes - 69 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,719 likes - 69 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 19 | [MARIA PRZED OŁTARZEM](https://open.spotify.com/track/5sobLosz9Iylv99EoX6759) | [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx) | [MARIA PRZED OŁTARZEM](https://open.spotify.com/album/0UyyV7i0FJmHgD06VwtYAR) | 3:00 |
 | 20 | [Sushi en Lata](https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:07 |
 | 21 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
-| 22 | [imposter syndrome](https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [befriending my tears](https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn) | 3:15 |
-| 23 | [I Like Boys](https://open.spotify.com/track/51M1VWU6EMuNBGPfce03sZ) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [I Like Boys](https://open.spotify.com/album/5VUDQzV5sQED97pVSlGDdi) | 3:09 |
+| 22 | [I Like Boys](https://open.spotify.com/track/51M1VWU6EMuNBGPfce03sZ) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [I Like Boys](https://open.spotify.com/album/5VUDQzV5sQED97pVSlGDdi) | 3:09 |
+| 23 | [imposter syndrome](https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [befriending my tears](https://open.spotify.com/album/4pnIWjnhk1gg73KghffqGn) | 3:15 |
 | 24 | [DELİ](https://open.spotify.com/track/3dqetJY7RPBoXOC1nv8cX0) | [Elanur](https://open.spotify.com/artist/33FCgXF01vOfBtjoul6ne1) | [DELİ](https://open.spotify.com/album/6UUYyNcEYx5zaSgjEgqIr9) | 1:48 |
 | 25 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 |
 | 26 | [Energy](https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf) | 2:37 |
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 42 | [Venus \(projekt Babie Lato\)](https://open.spotify.com/track/5LIGOOM1dU9ukpF8smMF1x) | [Natalia Kukulska](https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ), [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Venus \(projekt Babie Lato\)](https://open.spotify.com/album/6rwgYL02gjRo6m7T6GyMha) | 4:40 |
 | 43 | [Sweet Memories](https://open.spotify.com/track/1xgI05DNppXfcLxCAQkwUB) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Sweet Memories](https://open.spotify.com/album/4f9dQRwzon9EU1MNBZpu0f) | 3:04 |
 | 44 | [One Nation Under Love](https://open.spotify.com/track/2AoHZl4LY1AppFWiVGtYEO) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 |
-| 45 | [Ahora Vienes A Llorar](https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Ahora Vienes A Llorar](https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2) | 3:02 |
-| 46 | [Mon Coeur](https://open.spotify.com/track/6MYE1Mmja8v0l2QhB3VMDN) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Mon Coeur](https://open.spotify.com/album/1ryq3HSnSHPVRdJfBArDUF) | 2:44 |
-| 47 | [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 |
+| 45 | [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 |
+| 46 | [Ahora Vienes A Llorar](https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Ahora Vienes A Llorar](https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2) | 3:02 |
+| 47 | [Mon Coeur](https://open.spotify.com/track/6MYE1Mmja8v0l2QhB3VMDN) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Mon Coeur](https://open.spotify.com/album/1ryq3HSnSHPVRdJfBArDUF) | 2:44 |
 | 48 | [Aeri Sakhi](https://open.spotify.com/track/5pIoYxBjHCaO0M0gl1KOmP) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:39 |
-| 49 | [Manwa Bhaagey](https://open.spotify.com/track/5sVlW4pj3NDIYKNftGwRlZ) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL) | [Manwa Bhaagey](https://open.spotify.com/album/13X5ctGRnJaAvO3WyXsoF6) | 4:17 |
-| 50 | [Belize](https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:41 |
+| 49 | [Belize](https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Amores Pasajeros](https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe) | 2:41 |
+| 50 | [Manwa Bhaagey](https://open.spotify.com/track/5sVlW4pj3NDIYKNftGwRlZ) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL) | [Manwa Bhaagey](https://open.spotify.com/album/13X5ctGRnJaAvO3WyXsoF6) | 4:17 |
 | 51 | [Luna En Venus](https://open.spotify.com/track/50QAlu1w0VfErjyQjDEgBC) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:36 |
 | 52 | [El Regalito](https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [El Regalito](https://open.spotify.com/album/1Nf4UdcDH5Dn1U5aqTovUl) | 2:31 |
 | 53 | [Fred](https://open.spotify.com/track/4VoPD81pxeb9OyZRW2iXRm) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Fred](https://open.spotify.com/album/79w4GV92g3rM9bSyjW1sE5) | 3:21 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 68 | [know me well](https://open.spotify.com/track/4SYMqB8nRaBzfuulzFTUC4) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [know me well](https://open.spotify.com/album/1iXjbMK0vZ6bVtQ2F98xuP) | 2:58 |
 | 69 | [Silsilay Tor Gaya](https://open.spotify.com/track/1zHxHrICgqYDfyrYJIDFrw) | [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd) | [Silsilay Tor Gaya](https://open.spotify.com/album/6eLCSTvN2jg7x1lHTrgkXJ) | 4:17 |
 
-Snapshot ID: `MCw3MGMxMDM1NWEyNjVmMzc4ZjM0MjVkZGM4NmJhNGM1MjVlMmU5YWU0`
+Snapshot ID: `MCxjZjg0Mjk3ZThmNjNlMmNhOGI3NTlmNTZmMDA2YjdmMTIxMGI4ODk0`

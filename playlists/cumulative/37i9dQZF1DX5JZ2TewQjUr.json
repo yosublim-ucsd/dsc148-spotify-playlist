@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "be friend ok?",
+        "url": "https://open.spotify.com/album/1ln31LYy6uCIRh8iyPWACq"
+      },
+      "artists": [
+        {
+          "name": "sica",
+          "url": "https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185173,
+      "name": "be friend ok?",
+      "url": "https://open.spotify.com/track/0QAjTuquM5uEkmJmsw8Uyf"
+    },
+    {
+      "album": {
         "name": "2nd PRE EVOLUTION",
         "url": "https://open.spotify.com/album/2enwJuwD3Tygke0CHEGcS9"
       },

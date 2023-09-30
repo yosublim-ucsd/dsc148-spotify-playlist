@@ -223,6 +223,28 @@
     },
     {
       "album": {
+        "name": "Baghi Ntoub",
+        "url": "https://open.spotify.com/album/4Qy0HAqDOh20b7ss1YWbJI"
+      },
+      "artists": [
+        {
+          "name": "777YM",
+          "url": "https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1"
+        },
+        {
+          "name": "OUENZA",
+          "url": "https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "Baghi Ntoub",
+      "url": "https://open.spotify.com/track/4ZqfS1PEQlNmfKNUqPXmYr"
+    },
+    {
+      "album": {
         "name": "BASSIR",
         "url": "https://open.spotify.com/album/5TE2KUnFdyyiSua2e5Z3hC"
       },
@@ -2150,7 +2172,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 151575,
       "name": "POUFA",
       "url": "https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B"
@@ -2422,7 +2444,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 182961,
       "name": "SME3NI",
       "url": "https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP"
@@ -3114,6 +3136,24 @@
       "duration_ms": 200599,
       "name": "Zahri",
       "url": "https://open.spotify.com/track/7epBNl7bl4Gi5UwA5tdmyN"
+    },
+    {
+      "album": {
+        "name": "ZIGZAG",
+        "url": "https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168042,
+      "name": "ZIGZAG",
+      "url": "https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn"
     },
     {
       "album": {

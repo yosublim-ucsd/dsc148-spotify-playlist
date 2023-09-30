@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joyce Blessing ",
-  "num_followers": 4861,
+  "num_followers": 4907,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmY3NTA1MjJkYzY2ZjQ2NjIyYTdmNjg5ZDBjNzU0NWY5ZmMyYWI3",
+  "snapshot_id": "MCxkMzVkOTJmNjE5MTE4MzJkYjgzMjJmYzhiOWI0YjIwZjdjZDBhNTk2",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ"
-      },
-      "artists": [
-        {
-          "name": "Manuel Bless",
-          "url": "https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "W'agye Me (He Has Saved Me)",
         "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 324440,
       "name": "W' asue Me",
       "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ"
+      },
+      "artists": [
+        {
+          "name": "Manuel Bless",
+          "url": "https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "VICTORY",
+        "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
+      },
+      "artists": [
+        {
+          "name": "Joyce Blessing",
+          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+        }
+      ],
+      "duration_ms": 236769,
+      "name": "VICTORY",
+      "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "Fawohodie(Twi Medley)",
         "url": "https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 594921,
       "name": "Fawohodie(Twi Medley)",
       "url": "https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Golden Oil",
-        "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
-      },
-      "artists": [
-        {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
-        }
-      ],
-      "duration_ms": 274599,
-      "name": "Se Mekume Ho",
-      "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "VICTORY",
-        "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
+        "name": "Golden Oil",
+        "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
       },
       "artists": [
         {
-          "name": "Joyce Blessing",
-          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
         }
       ],
-      "duration_ms": 236769,
-      "name": "VICTORY",
-      "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
+      "duration_ms": 274599,
+      "name": "Se Mekume Ho",
+      "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Nyansabuakwa Nyame",
-        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Nyansabuakwa Nyame",
-      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Efiri Nyame",
         "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 275706,
       "name": "Me Ko M'Anim",
       "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Prayer for deliverance",
-        "url": "https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth"
-      },
-      "artists": [
-        {
-          "name": "Broda Harrison",
-          "url": "https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t"
-        }
-      ],
-      "duration_ms": 94111,
-      "name": "Prayer for deliverance",
-      "url": "https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 321881,
       "name": "More",
       "url": "https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Prayer for deliverance",
+        "url": "https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth"
+      },
+      "artists": [
+        {
+          "name": "Broda Harrison",
+          "url": "https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t"
+        }
+      ],
+      "duration_ms": 94111,
+      "name": "Prayer for deliverance",
+      "url": "https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9"
     }
   ],
   "unique_name": "Aseda",

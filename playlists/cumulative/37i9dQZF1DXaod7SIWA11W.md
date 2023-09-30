@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="https://www.thestellarawards.com/index.html">Stellar Award</a> winning artist <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e">Pastor Mike Jr.</a>.
 
-251 songs - 15 hr 35 min
+252 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [New](https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [New](https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE) | 3:15 | 2022-06-01 |  |
 | [New Me](https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [New Me](https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj) | 2:46 | 2022-06-01 | 2023-05-15 |
 | [New Me](https://open.spotify.com/track/6brsm8V6sd9YhiWs8NqzoD) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Vibes&Glory](https://open.spotify.com/artist/4qqnQnjZRTML3p1WeuUYsR) | [New Me](https://open.spotify.com/album/3HxJp2yggz9PmJAMV7kem2) | 2:46 | 2023-02-02 |  |
+| [Nicely](https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Nicely](https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC) | 2:50 | 2023-07-13 |  |
 | [Nights In Atlanta](https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Nights In Atlanta](https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE) | 2:25 | 2022-12-16 | 2023-07-28 |
 | [No Longer Slaves \- 2023 Short Edit / Live](https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 6:58 | 2023-06-10 |  |
 | [NO WORRIES](https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [NO WORRIES](https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ) | 3:32 | 2022-07-17 |  |
@@ -231,7 +232,7 @@
 | [Wade In The Water \- Live](https://open.spotify.com/track/1xcC0GKNgEWDjWxawt29Nl) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Wade In The Water](https://open.spotify.com/album/41ulKBEAa83QkPZC29LBnb) | 3:19 | 2022-02-18 | 2023-07-14 |
 | [Wake Up](https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Wake Up](https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe) | 3:57 | 2022-02-18 | 2022-06-01 |
 | [Way Home](https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6) | [Grace Tena](https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT) | [Way Home](https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm) | 4:44 | 2022-12-16 |  |
-| [We Agree With Heaven \(with Todd Dulaney\) \- Live](https://open.spotify.com/track/0z5k7HmMCq1NhVcesqslXX) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [We Agree With Heaven \(with Todd Dulaney\) \[Live\]](https://open.spotify.com/album/7bIZXr5Xd2JZKJYgT5kN09) | 7:55 | 2023-06-10 |  |
+| [We Agree With Heaven \(with Todd Dulaney\) \- Live](https://open.spotify.com/track/0z5k7HmMCq1NhVcesqslXX) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [We Agree With Heaven \(with Todd Dulaney\) \[Live\]](https://open.spotify.com/album/7bIZXr5Xd2JZKJYgT5kN09) | 7:55 | 2023-06-10 | 2023-09-30 |
 | [We Can All Be Free](https://open.spotify.com/track/3z5BLeXOBSomYHCK0RXA7P) | [Gabriel Day](https://open.spotify.com/artist/03QHwCv3kjVYnwkoizE86a) | [Stripped](https://open.spotify.com/album/7MnaZrnMBKSP2VJdPAV0ed) | 3:51 | 2022-06-01 | 2022-12-17 |
 | [We Go On](https://open.spotify.com/track/6QgOkpZuQeXir9VuZ1XQpS) | [JohnO](https://open.spotify.com/artist/54UStWacHNCX7BuP0mcd0f), [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [Solomon Headen](https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv), [Ashley Merrell](https://open.spotify.com/artist/0oCCluoBZH1RG3WOp64SGa) | [We Go On](https://open.spotify.com/album/39IS2G3B2dc1zzeTZ2oWNT) | 3:32 | 2022-06-01 | 2022-07-18 |
 | [We Gon’ Be Alright](https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [We Gon’ Be Alright](https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb) | 3:34 | 2022-02-18 | 2022-10-01 |

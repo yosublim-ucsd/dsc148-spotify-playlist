@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM?si=MOgR62VNTEu5pyGtF_nfMA\">Citizen Deep</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7?si=Rxd-PmdDS1uewUM6xyLcRw\">GoldFish</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -261,6 +261,32 @@
     },
     {
       "album": {
+        "name": "Abafazi",
+        "url": "https://open.spotify.com/album/1BsnofvoKFpvurJF87s45E"
+      },
+      "artists": [
+        {
+          "name": "Thandi Draai",
+          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
+        },
+        {
+          "name": "Sam Lehoko",
+          "url": "https://open.spotify.com/artist/2wjnMDe17EKW4cq4IdNtaS"
+        },
+        {
+          "name": "TAU (BW)",
+          "url": "https://open.spotify.com/artist/4M43WLHD3zKA8Pe9XMpRPk"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259057,
+      "name": "Abafazi - Radio Edit",
+      "url": "https://open.spotify.com/track/5APA5la8r82qF7aXndb2bL"
+    },
+    {
+      "album": {
         "name": "Abalam'Bam",
         "url": "https://open.spotify.com/album/0lt9JjcMpjupNX32cNWRQy"
       },
@@ -431,6 +457,28 @@
     },
     {
       "album": {
+        "name": "If Summer Was A Sound",
+        "url": "https://open.spotify.com/album/3XfgIeHgOAfAeQz5qBXIzh"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Sakhile Moleshe",
+          "url": "https://open.spotify.com/artist/6pldHWtyWbWZUi5lBqrZpB"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180733,
+      "name": "About The Weekend",
+      "url": "https://open.spotify.com/track/3lEoFMhMMRYuRUkU24HiOM"
+    },
+    {
+      "album": {
         "name": "Deep in Africa",
         "url": "https://open.spotify.com/album/66CnqKJugbDIa3qURLV97f"
       },
@@ -590,7 +638,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 231578,
       "name": "African Prayer - Radio Edit",
       "url": "https://open.spotify.com/track/3OC5eq62b3qYY64XxzYqAZ"
@@ -1040,7 +1088,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 339166,
       "name": "All I Need - DESIREE Remix",
       "url": "https://open.spotify.com/track/6q9RvlTvMSZSQfI6v0dKE4"
@@ -3938,7 +3986,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 519630,
       "name": "Continental Drift",
       "url": "https://open.spotify.com/track/3wYbhN3fEAm26QAp6RjeDU"
@@ -5190,7 +5238,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 239500,
       "name": "eMtunzini",
       "url": "https://open.spotify.com/track/2vfYHOPVzeUejsFTPhp226"
@@ -8512,6 +8560,32 @@
       "duration_ms": 401316,
       "name": "Iphathi - Kususa Remix",
       "url": "https://open.spotify.com/track/5z8O1miIlA7AyxjEV0YpR6"
+    },
+    {
+      "album": {
+        "name": "Permanent Music 3",
+        "url": "https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Zaba",
+          "url": "https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/5EjeN8ChFDW6lRHfrdnW2W"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410847,
+      "name": "iPlan",
+      "url": "https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg"
     },
     {
       "album": {
@@ -13480,7 +13554,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 389001,
       "name": "Penga - Madmotormiquel & Anna Almani Remix",
       "url": "https://open.spotify.com/track/07bla4VXjkqnbRXOUfwJyE"
@@ -14482,7 +14556,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 439512,
       "name": "Samkela",
       "url": "https://open.spotify.com/track/1Zx5djlNZWs57cuw5pa0sk"
@@ -17198,6 +17272,28 @@
       "duration_ms": 481393,
       "name": "The Way We Are",
       "url": "https://open.spotify.com/track/1cxbu45614VsARNJijxHBK"
+    },
+    {
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/4FFglwDcPqBxGt23rRmlQY"
+      },
+      "artists": [
+        {
+          "name": "Ben Tov",
+          "url": "https://open.spotify.com/artist/5YXYUBkgA0rDRZ0qwX1hF3"
+        },
+        {
+          "name": "Ofir Tako",
+          "url": "https://open.spotify.com/artist/1I6e5HDvtuZNU6c0nlKC6r"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269262,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/7aUO6vjQGh3lvQ29z6xn3o"
     },
     {
       "album": {

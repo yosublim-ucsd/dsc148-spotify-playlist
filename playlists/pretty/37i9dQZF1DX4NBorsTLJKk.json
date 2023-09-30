@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 32094,
+  "num_followers": 32109,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzcyOTE3Mzc4YWQ3OGYwY2ZkNTRjNWJlMWNiNGNmZTEzNjFkOTMy",
+  "snapshot_id": "MCwxOGE1NmViN2FhMjhmZDhkNjExN2ZkYzM5OTkxMzA0MDBmZWQwYjg4",
   "tracks": [
     {
       "added_at": "2023-09-20 01:51:29",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u771f\u611b \u65b0\u66f2 + \u771f\u6b63\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/2yt1DMuGmxNqy1D5uuwmwW"
-      },
-      "artists": [
-        {
-          "name": "Jacky Cheung",
-          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
-        }
-      ],
-      "duration_ms": 256826,
-      "name": "\u85cd\u96e8",
-      "url": "https://open.spotify.com/track/6xJggWssdiq6VaFK13MXYB"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u4e00\u842c\u5c0f\u6642",
         "url": "https://open.spotify.com/album/571Mh6oowokeW1RIfqCmaz"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 286440,
       "name": "\u5169\u4eba\u96e8\u5929",
       "url": "https://open.spotify.com/track/3Y7mPzWHKsEKZNdqe4wjtu"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u771f\u611b \u65b0\u66f2 + \u771f\u6b63\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/2yt1DMuGmxNqy1D5uuwmwW"
+      },
+      "artists": [
+        {
+          "name": "Jacky Cheung",
+          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
+        }
+      ],
+      "duration_ms": 256826,
+      "name": "\u85cd\u96e8",
+      "url": "https://open.spotify.com/track/6xJggWssdiq6VaFK13MXYB"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
-      },
-      "artists": [
-        {
-          "name": "Jacky Cheung",
-          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
-        }
-      ],
-      "duration_ms": 288760,
-      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
-      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/28obHlyyrD8mHa4PLlccXD"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 231779,
       "name": "\u5927\u96e8\u5c07\u81f3(\u300a\u5973\u91ab\u660e\u5983\u50b3\u300b\u96fb\u8996\u5287\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/4RT4R9nSSDSYj7lwMVqrDb"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
+      },
+      "artists": [
+        {
+          "name": "Jacky Cheung",
+          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
+      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u4e0b\u96e8\u5929",
-        "url": "https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI"
-      },
-      "artists": [
-        {
-          "name": "Moon Chew",
-          "url": "https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "\u4e0b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u56f0\u5728\u4f60\u7684\u96e8\u5b63",
         "url": "https://open.spotify.com/album/5rS5GxnBfGh0FvxFzhviRC"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 219487,
       "name": "\u53ca\u6642\u96e8",
       "url": "https://open.spotify.com/track/4NWujfXKRiGLv3fPRr4YQo"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u4e0b\u96e8\u5929",
+        "url": "https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI"
+      },
+      "artists": [
+        {
+          "name": "Moon Chew",
+          "url": "https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "\u4e0b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1rE6znC1DlxxgHUyqsDLYe"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u7537\u5b69\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "\u6700\u611b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/3yUnqU8SLFOdraGY5lCueD"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
         "name": "\u96e8\u4e0b\u8d77\u4f86",
         "url": "https://open.spotify.com/album/1toG5wOsZALZ1PQVcz036n"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 195917,
       "name": "\u96e8\u4e0b\u8d77\u4f86",
       "url": "https://open.spotify.com/track/5FFfaHUcnIjmm7hx6KY4Wf"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1rE6znC1DlxxgHUyqsDLYe"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u7537\u5b69\u6a02\u5718",
-          "url": "https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "\u6700\u611b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/3yUnqU8SLFOdraGY5lCueD"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
-        "url": "https://open.spotify.com/album/5nEFRdFxPGdN5M2nSYSznd"
-      },
-      "artists": [
-        {
-          "name": "\u767d\u983b\u7387 White Frequency",
-          "url": "https://open.spotify.com/artist/4tREKMNVSLyiI0K6IhgHVc"
-        }
-      ],
-      "duration_ms": 308170,
-      "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
-      "url": "https://open.spotify.com/track/6ZIoEvPsWnyun3w3QXBeJN"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "When I Leave Taipei",
         "url": "https://open.spotify.com/album/4Q7lWTYxppgchu3kJ3lcwp"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 274212,
       "name": "Rain in Taipei",
       "url": "https://open.spotify.com/track/2lrNjDXlD2GKjGR93U26ZN"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
+        "url": "https://open.spotify.com/album/5nEFRdFxPGdN5M2nSYSznd"
+      },
+      "artists": [
+        {
+          "name": "\u767d\u983b\u7387 White Frequency",
+          "url": "https://open.spotify.com/artist/4tREKMNVSLyiI0K6IhgHVc"
+        }
+      ],
+      "duration_ms": 308170,
+      "name": "\u5982\u679c\u4f60\u80fd\u5230\u6211\u7684\u96e8\u88e1\u9762",
+      "url": "https://open.spotify.com/track/6ZIoEvPsWnyun3w3QXBeJN"
     },
     {
       "added_at": "2023-09-20 01:51:29",

@@ -4,7 +4,7 @@
 
 > The new wave of rock from the UK & Ireland\. Cover: HotWax
 
-235 songs - 12 hr 35 min
+237 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Fever](https://open.spotify.com/track/2OyBO7x26a0J92gicUgie5) | [TOVA](https://open.spotify.com/artist/6xjivjGafHAQaOLI463ZpC) | [Fever](https://open.spotify.com/album/7AIA9j3BcSt4uI3n7uZuQa) | 3:53 | 2023-01-13 | 2023-07-14 |
 | [For You](https://open.spotify.com/track/0yUymvlfxHWxE62ys8VtbM) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Euphoria, Where Were You?](https://open.spotify.com/album/5F3s345rSD0UJe8IWo3imC) | 4:28 | 2023-01-13 | 2023-06-09 |
 | [foreverend](https://open.spotify.com/track/5gJ8xmfZ3yzMh9pjY0hszN) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ), [Rebekah Kirk](https://open.spotify.com/artist/4sXZl444aSiekh4f2TPCbU), [Sixth Wonder](https://open.spotify.com/artist/44UPyJOf07339zZv2Imz2m) | [foreverend](https://open.spotify.com/album/2dkKkirYZB5GXBr52Z08j5) | 3:10 | 2023-05-18 |  |
-| [Freaks Like Us](https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3) | 4:54 | 2023-07-28 |  |
+| [Freaks Like Us](https://open.spotify.com/track/0chJDuzoUhpvfLJiSP4cEe) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/6aaFOSMUUxYBAJ3fcxZmBo) | 4:54 | 2023-09-21 |  |
+| [Freaks Like Us](https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3) | 4:54 | 2023-07-28 | 2023-09-30 |
 | [Freakshow](https://open.spotify.com/track/4qG7VJzZS75eZVv6LFnLbM) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Freakshow](https://open.spotify.com/album/2DzI2RSNz6HxgmHJCzwCK6) | 2:24 | 2023-01-13 | 2023-03-11 |
 | [fuzz](https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [fuzz](https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR) | 2:46 | 2023-03-03 | 2023-06-09 |
 | [Gaslighter](https://open.spotify.com/track/0CvJWXoFSiPHYpLiQK1PBf) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Commander Trainwreck](https://open.spotify.com/album/3pgkvZHrpEawDd8GKrG1xu) | 3:44 | 2023-01-13 | 2023-03-25 |
@@ -223,7 +224,8 @@
 | [Tsunami \(11:11\)](https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Tsunami \(11:11\)](https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE) | 3:08 | 2023-01-13 | 2023-04-22 |
 | [Unchained](https://open.spotify.com/track/2CBvjn9Nqxb2zjhKFz6cEV) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Unchained](https://open.spotify.com/album/0BelpsRp8VUFESM1zUbq6c) | 3:29 | 2023-01-13 | 2023-02-17 |
 | [Voice in Your Head](https://open.spotify.com/track/7z60kiKN6OTVTCXinnnXUD) | [Shit Present](https://open.spotify.com/artist/29HZSUDm7U6n2QNMKQY73k) | [Voice in Your Head](https://open.spotify.com/album/0vnaNn4Yw8gTH8nwhUOreU) | 3:33 | 2023-03-03 | 2023-08-11 |
-| [Wait For It](https://open.spotify.com/track/3tICVwJq5VrYOOALfA63zT) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Wait For It](https://open.spotify.com/album/1KcsDags2CnbjBWYtSQwaK) | 3:59 | 2023-09-21 |  |
+| [Wait For It](https://open.spotify.com/track/3tICVwJq5VrYOOALfA63zT) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Wait For It](https://open.spotify.com/album/1KcsDags2CnbjBWYtSQwaK) | 3:59 | 2023-09-21 | 2023-09-30 |
+| [Wait For It](https://open.spotify.com/track/4wOgS5cp5cKU7u82Wibtbq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/6aaFOSMUUxYBAJ3fcxZmBo) | 3:59 | 2023-09-21 |  |
 | [wait what](https://open.spotify.com/track/39YEqg7dtit80pcOWB6mBw) | [Gia Lily](https://open.spotify.com/artist/5d7p9yDO6NSYQVbI9YNcHB) | [wait what](https://open.spotify.com/album/0jpYTCHCGg3f2NzN90DRYA) | 2:43 | 2023-02-03 | 2023-03-11 |
 | [Waiting](https://open.spotify.com/track/2KMefBHwUJBmP9w2XZKnoa) | [FLOWVERS](https://open.spotify.com/artist/3XoX4Dj24vKTKVNRvlFksP) | [Waiting](https://open.spotify.com/album/2avlwtPBYNGSb08LXQrI9S) | 2:53 | 2023-01-13 | 2023-06-09 |
 | [Waiting for Something](https://open.spotify.com/track/4WiTO0yNWAmDM1IFhobDYa) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Waiting for Something](https://open.spotify.com/album/2ntLhXUBkrbVLWDegwUz98) | 4:02 | 2023-08-10 |  |

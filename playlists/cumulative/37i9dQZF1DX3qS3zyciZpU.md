@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-168 songs - 9 hr 55 min
+169 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 | 2022-05-20 |  |
 | [Steady Heart \- Wedding Version](https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart \(Wedding Version\)](https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp) | 3:30 | 2022-02-18 |  |
 | [Stealing Cinderella](https://open.spotify.com/track/6aOdhGqD0xuFM0OauOedNl) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Starting Now](https://open.spotify.com/album/3WyCVkjnQvHnS29LogStFV) | 4:02 | 2021-09-17 |  |
-| [Take My Life](https://open.spotify.com/track/6mJTy9XoiJIHXzVLMXwTYj) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Take My Life](https://open.spotify.com/album/4WRZE2BUfEylXIHFskmg85) | 3:20 | 2022-05-23 |  |
+| [Take My Life](https://open.spotify.com/track/2tAbNHINMXPfiBaTcs20aB) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Take My Life](https://open.spotify.com/album/3oek5wCPEQa5cuNGjstEC8) | 3:20 | 2023-09-08 |  |
+| [Take My Life](https://open.spotify.com/track/6mJTy9XoiJIHXzVLMXwTYj) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Take My Life](https://open.spotify.com/album/4WRZE2BUfEylXIHFskmg85) | 3:20 | 2022-05-23 | 2023-09-30 |
 | [Take My Name](https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 2:37 | 2022-05-23 |  |
 | [Take My Name](https://open.spotify.com/track/50fXFVykkwS6Om9eqjTK44) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Songs from 'For You'](https://open.spotify.com/album/01z0MEI8EPxiAl1GvgRovl) | 2:37 | 2021-11-05 | 2022-07-29 |
 | [Take My Name \- Wedding Version](https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Take My Name \(Wedding Version\)](https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z) | 2:54 | 2022-05-20 |  |
@@ -169,10 +170,10 @@
 | [You Were Right \- Nat's Song](https://open.spotify.com/track/1v6gRTiLJGgFHtdqi532SU) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [You Were Right \(Nat's Song\)](https://open.spotify.com/album/1Nee1osu3gHB9OcYrfGvVR) | 3:49 | 2023-05-19 |  |
 | [You'll Always Be My Baby \(Written for Daughters' Weddings\)](https://open.spotify.com/track/4ayrjXvDcj4zCwqm0nfJFC) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [You'll Always Be My Baby \(Written For Daughters' Weddings\)](https://open.spotify.com/album/2Hkmg4CKcrtkFQ9c4hKbzK) | 3:46 | 2021-09-17 |  |
 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 | 2022-05-23 | 2023-08-28 |
-| [You're Still The One](https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:32 | 2023-05-19 | 2023-09-28 |
+| [You're Still The One](https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:32 | 2023-05-19 |  |
 | [You're Still The One](https://open.spotify.com/track/3fOEldPK2dTA6C12PzrDtT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Cleaning At Home \- Pop Edition](https://open.spotify.com/album/6APP9HoLEQFYYySdwgxC1G) | 3:32 | 2022-10-21 | 2022-11-13 |
 | [You're Still The One](https://open.spotify.com/track/7wCH9DbgRs7ujHeqNy6oAS) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:32 | 2021-09-17 | 2022-07-29 |
-| [You're Still The One \- International Mix](https://open.spotify.com/track/0KANgTW49bVyG7IcI7HIia) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:31 | 2023-05-19 |  |
+| [You're Still The One \- International Mix](https://open.spotify.com/track/0KANgTW49bVyG7IcI7HIia) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:31 | 2023-05-19 | 2023-09-30 |
 | [Your Man](https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:31 | 2021-09-17 |  |
 | [Yours \- Wedding Edition](https://open.spotify.com/track/30AECxqqjI4oU91fOhAi8I) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:36 | 2022-05-23 |  |
 | [Yours \- Wedding Edition](https://open.spotify.com/track/0xvajNclhBU53u2dgwUcwP) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours \- EP](https://open.spotify.com/album/1B6iXA14exgSuBrdHoNqrB) | 3:36 | 2021-09-17 | 2022-07-29 |

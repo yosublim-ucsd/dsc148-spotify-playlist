@@ -504,7 +504,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 220822,
       "name": "Babel",
       "url": "https://open.spotify.com/track/4PO19uhmdFzNJIoYk0JVEm"
@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Buenas Noches",
+        "url": "https://open.spotify.com/album/4KwTOLVtWGRWXNJfEdcEY9"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195586,
+      "name": "Buenas Noches",
+      "url": "https://open.spotify.com/track/2LAOTPxQ3xrfuewC4g6Mwo"
+    },
+    {
+      "album": {
         "name": "Busca Ayuda",
         "url": "https://open.spotify.com/album/4sPthmuHoRguvoxG4KkOMi"
       },
@@ -642,7 +660,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 221831,
       "name": "Cabras",
       "url": "https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at"
@@ -754,7 +772,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 216525,
       "name": "Campamento Krusty",
       "url": "https://open.spotify.com/track/6kMXaluhWHgeZgLWw61dEP"
@@ -826,7 +844,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 195008,
       "name": "CED\u00c9",
       "url": "https://open.spotify.com/track/2TUkfggKtjI2m477a4tR5U"
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 188400,
       "name": "Cool & Casual",
       "url": "https://open.spotify.com/track/6wPZXjtuTS5qUiJuMXGrrv"
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 200664,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/6asMMsmhA6YXxu7YrYI8vr"
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 203517,
       "name": "INVESTIDO",
       "url": "https://open.spotify.com/track/0gX9K4YtmMaODBFtPTU4mI"
@@ -3170,6 +3188,24 @@
       "duration_ms": 207573,
       "name": "Lluvia de Fuego",
       "url": "https://open.spotify.com/track/0xcGGpruM3gbxMtZjyWp1E"
+    },
+    {
+      "album": {
+        "name": "Rizoma",
+        "url": "https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382522,
+      "name": "Lo Bonito de la Muerte",
+      "url": "https://open.spotify.com/track/2nAIfmQAygqNH6SV01bNsD"
     },
     {
       "album": {
@@ -5061,6 +5097,28 @@
     },
     {
       "album": {
+        "name": "Que fue lo que Pas\u00f3",
+        "url": "https://open.spotify.com/album/52lw9gZ6CxwOj0KLt5aJEW"
+      },
+      "artists": [
+        {
+          "name": "Genitallica",
+          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "Que fue lo que Pas\u00f3",
+      "url": "https://open.spotify.com/track/6e705fkOBUYIBAe7MVczDD"
+    },
+    {
+      "album": {
         "name": "Quer\u00eda Olvidarte",
         "url": "https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w"
       },
@@ -5120,6 +5178,24 @@
       "duration_ms": 188560,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "album": {
+        "name": "After Destruction",
+        "url": "https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX"
+      },
+      "artists": [
+        {
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205900,
+      "name": "Raindrops Of Poison",
+      "url": "https://open.spotify.com/track/5E3XLPrhHu6HbwoqYfFrth"
     },
     {
       "album": {
@@ -5210,7 +5286,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 174441,
       "name": "Rock r\u00e1pido",
       "url": "https://open.spotify.com/track/0yCnKUP85AQ91lu93B3wTb"
@@ -5626,10 +5702,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 287189,
       "name": "Su Nombre Es el Tuyo",
       "url": "https://open.spotify.com/track/21bbADKE5VtWFDe3xhW7fi"
+    },
+    {
+      "album": {
+        "name": "Su Nombre Es el Tuyo",
+        "url": "https://open.spotify.com/album/2JNSg5A2vNrOp145sYxcJR"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287189,
+      "name": "Su Nombre Es el Tuyo",
+      "url": "https://open.spotify.com/track/7ku1ivhaXvoDYKuQ4Bm16q"
     },
     {
       "album": {
@@ -5934,6 +6028,24 @@
       "duration_ms": 228880,
       "name": "Todo Se Detiene Aqu\u00ed",
       "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
+    },
+    {
+      "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/2XbAH4JRlR941sejnT2suC"
+      },
+      "artists": [
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH"
     },
     {
       "album": {
@@ -6488,6 +6600,24 @@
       "duration_ms": 270007,
       "name": "ya no puedo m\u00e1s",
       "url": "https://open.spotify.com/track/6Bq6MB7zpKO9OrvgTHipi5"
+    },
+    {
+      "album": {
+        "name": "Ya No Te Esperar\u00e9",
+        "url": "https://open.spotify.com/album/6CpwgrssmzTfRoL1QHEjmy"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208298,
+      "name": "Ya No Te Esperar\u00e9",
+      "url": "https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0"
     },
     {
       "album": {

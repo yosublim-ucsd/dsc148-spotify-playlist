@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Mar\u00eda Becerra en portada.",
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Feid en portada.",
   "name": "sentimiento.",
   "tracks": [
     {
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 219574,
       "name": "De Nuevo",
       "url": "https://open.spotify.com/track/3oFu4gyDBi52uPzTJsAvSf"
@@ -1948,6 +1948,28 @@
       "duration_ms": 208587,
       "name": "PARA SIEMPRE",
       "url": "https://open.spotify.com/track/0xvaM53zDst3zcIpcNc37M"
+    },
+    {
+      "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185840,
+      "name": "PRIVILEGIOS",
+      "url": "https://open.spotify.com/track/2zonJr6k1OKs41TctoNU8Q"
     },
     {
       "album": {

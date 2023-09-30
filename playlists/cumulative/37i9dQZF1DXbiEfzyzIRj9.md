@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Joy Orbison
 
-408 songs - 1 day 6 hr 3 min
+409 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [ABM](https://open.spotify.com/track/5oMuydZhXTmKj3LD6EzAmp) | [BUSHMIND](https://open.spotify.com/artist/3XlCKGT80f7QQJ9X4iMdFY) | [The Drop EP](https://open.spotify.com/album/4Sq83NCbE302V4LuvBR1IN) | 6:55 | 2023-06-09 | 2023-07-21 |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-11 |  |
 | [again, but colder](https://open.spotify.com/track/3XpROG821mTe8QLA8FSueT) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [again, but colder](https://open.spotify.com/album/3qWsjSFljhSeeqQoUgkx01) | 4:38 | 2023-03-16 | 2023-04-09 |
-| [Aglio e olio](https://open.spotify.com/track/0cw4jePLv2q20Lz9ZdqcvX) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/5dQPDTfYpbdXOatmVjTaNi) | 2:42 | 2023-09-28 |  |
+| [Aglio e olio](https://open.spotify.com/track/0cw4jePLv2q20Lz9ZdqcvX) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/5dQPDTfYpbdXOatmVjTaNi) | 2:42 | 2023-09-28 | 2023-09-30 |
+| [Aglio e olio](https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT) | 2:45 | 2023-09-28 |  |
 | [All Comes Back To You](https://open.spotify.com/track/3VOVozgyKMXN148Q2LEi9G) | [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor), [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV) | [All Comes Back To You](https://open.spotify.com/album/7idL8lIGQ59148yy4NVJHK) | 3:16 | 2023-03-16 | 2023-03-31 |
 | [all i can do is miss you](https://open.spotify.com/track/7j6B7MBoV6JOcWFL0VYNFT) | [Mosey](https://open.spotify.com/artist/3HzwQ0PpRbsyKSzFMXobLJ), [Lowgo](https://open.spotify.com/artist/3KqP7d4TwVfuAZIeRMxen4) | [all i can do is miss you](https://open.spotify.com/album/4tNxWMShCxtaPR1ELqjOLJ) | 3:00 | 2023-03-16 | 2023-05-19 |
 | [All I Need \- DESIREE Remix](https://open.spotify.com/track/6q9RvlTvMSZSQfI6v0dKE4) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Light Places Remixes](https://open.spotify.com/album/397G1LdjSwnHKWa6PdkYgS) | 5:39 | 2023-07-20 | 2023-09-29 |

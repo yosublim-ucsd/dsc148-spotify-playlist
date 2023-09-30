@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Everyday People",
+        "url": "https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165494,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy"
+    },
+    {
+      "album": {
         "name": "Fanfa",
         "url": "https://open.spotify.com/album/13eR8aMR7Fy9Ob3MDp3zR1"
       },
@@ -2966,7 +2984,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 240691,
       "name": "My All",
       "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"

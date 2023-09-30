@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 222985,
+  "num_followers": 223569,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzM5OWViYzcxM2I5MGI1YzVjYTI2NDA4MjY3NTQ1YjgxYWM2OTFj",
+  "snapshot_id": "MCwwNDdmMjMxZGE4OGEwZjBlNjg4YTI5MWVmOWMxYWEyNWNmYWVmNDQz",
   "tracks": [
     {
       "added_at": "2023-09-08 12:01:16",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
+    },
+    {
+      "added_at": "2023-09-08 12:01:16",
+      "album": {
         "name": "Mirror Mirror",
         "url": "https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 247272,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
-    },
-    {
-      "added_at": "2023-09-08 12:01:16",
-      "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
-      },
-      "artists": [
-        {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2023-09-08 12:01:16",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
-        "name": "A-Sides, Vol. 6",
-        "url": "https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 393740,
-      "name": "In Silence",
-      "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
-    },
-    {
-      "added_at": "2023-09-08 12:01:16",
-      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 268235,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU"
+    },
+    {
+      "added_at": "2023-09-08 12:01:16",
+      "album": {
+        "name": "A-Sides, Vol. 6",
+        "url": "https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 393740,
+      "name": "In Silence",
+      "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
     },
     {
       "added_at": "2023-09-08 12:01:16",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
-        "name": "Veritas",
-        "url": "https://open.spotify.com/album/7fKwFEf1MWzZN6kpuCBPGj"
-      },
-      "artists": [
-        {
-          "name": "Jay Lumen",
-          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
-        }
-      ],
-      "duration_ms": 426000,
-      "name": "Veritas",
-      "url": "https://open.spotify.com/track/6KVUpPL8NJSDHt6OYAi2A8"
-    },
-    {
-      "added_at": "2023-09-08 12:01:16",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 400172,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
+    },
+    {
+      "added_at": "2023-09-08 12:01:16",
+      "album": {
+        "name": "Veritas",
+        "url": "https://open.spotify.com/album/7fKwFEf1MWzZN6kpuCBPGj"
+      },
+      "artists": [
+        {
+          "name": "Jay Lumen",
+          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+        }
+      ],
+      "duration_ms": 426000,
+      "name": "Veritas",
+      "url": "https://open.spotify.com/track/6KVUpPL8NJSDHt6OYAi2A8"
     },
     {
       "added_at": "2023-09-08 12:01:16",
@@ -747,18 +747,22 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
-        "name": "Roll the Dice",
-        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/2uDgmgef8WIKFJuzR1RnDg"
       },
       "artists": [
         {
-          "name": "Bart Skils",
-          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        },
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
         }
       ],
-      "duration_ms": 276357,
-      "name": "Roll the Dice",
-      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
+      "duration_ms": 212000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/20QjNItuQEZvwXnIy5Va37"
     },
     {
       "added_at": "2023-09-08 12:01:16",
@@ -779,6 +783,22 @@
     {
       "added_at": "2023-09-08 12:01:16",
       "album": {
+        "name": "Roll the Dice",
+        "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        }
+      ],
+      "duration_ms": 276357,
+      "name": "Roll the Dice",
+      "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
+    },
+    {
+      "added_at": "2023-09-08 12:01:16",
+      "album": {
         "name": "Zulu",
         "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 298181,
       "name": "Zulu",
       "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
-    },
-    {
-      "added_at": "2023-09-08 12:01:16",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/2uDgmgef8WIKFJuzR1RnDg"
-      },
-      "artists": [
-        {
-          "name": "Patrick Scuro",
-          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
-        },
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/20QjNItuQEZvwXnIy5Va37"
     },
     {
       "added_at": "2023-09-08 12:01:16",

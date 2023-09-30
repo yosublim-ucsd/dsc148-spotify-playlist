@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-139 songs - 10 hr 3 min
+140 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Petricor](https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Petricor](https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG) | 3:24 | 2022-09-15 |  |
 | [Pro’s & Con’s \- Kraak & Smaak Remix](https://open.spotify.com/track/17BrcbqJAd1VT7rZHZEGyU) | [Ishi](https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Nia Brock](https://open.spotify.com/artist/3dcSf5pZ3LaQFZu7UeWg3k) | [Pro's & Con's \(Kraak & Smaak Remix\)](https://open.spotify.com/album/2tRojFBP52p93DUFiSZ9Lv) | 5:04 | 2022-09-15 |  |
 | [Pull Up](https://open.spotify.com/track/0uRM8HOFdHPHqCoLd8vgE1) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Pull Up](https://open.spotify.com/album/5WiPDSMPC7kSi0UxssC9qQ) | 3:25 | 2022-09-15 | 2023-05-12 |
+| [Reconnect](https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Reconnect](https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7) | 4:12 | 2023-09-29 |  |
 | [Religar \- Chancha Via Circuito Remix](https://open.spotify.com/track/0jlscRIgKn35uudF8MP17p) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Astro Reescrituras](https://open.spotify.com/album/29sunXe011nEVfz7Yzo7zN) | 4:17 | 2022-09-15 |  |
 | [Resilience](https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE) | [Swann Decamme](https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA), [Oktave](https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM) | [Resilience](https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg) | 6:55 | 2022-09-15 |  |
 | [Riptide \- Edit](https://open.spotify.com/track/542iecX5VYzhAbqJgbHFQ1) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [Riptide](https://open.spotify.com/album/3E7TWzpSvp0tGEUd6UNbJR) | 2:43 | 2022-09-15 | 2023-03-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,555 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,641 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 62 | [Vejo o Teu Amor](https://open.spotify.com/track/4BVlnHrTr3l58riMroKcT3) | [Drade Bass Music](https://open.spotify.com/artist/5uFFkr6QDRc2toIDDVCqop), [Pedro Caciano](https://open.spotify.com/artist/48Xgv6vVN4CQGgIWaQtbrN), [Léo Negrelli](https://open.spotify.com/artist/05UjSySbfIVMmDJvpcq0zo) | [Vejo o Teu Amor](https://open.spotify.com/album/1s57AU2OPwk6TvZukEe5RL) | 2:30 |
 | 63 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
 | 64 | [Graça](https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Jeovana Menezes](https://open.spotify.com/artist/5NaPoQ3RKd5KoEAVeO5zqA) | [Graça](https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr) | 2:36 |
-| 65 | [Me Resgatou \- Remix](https://open.spotify.com/track/7Lp0ewXTeZBzflHnhX9mp7) | [Projeto Vida Nova de Irajá](https://open.spotify.com/artist/0ZmABAt0Sl0CzkOqnmoMMP), [Eduardo Silva](https://open.spotify.com/artist/4wLaYXR6MZi4poYDrMrptV), [Carlos Eduardo da Silva de Assis](https://open.spotify.com/artist/6gONuTEizkTtY3YgYdt7mp) | [Me Resgatou \(Remix\)](https://open.spotify.com/album/6TU6bUWANhJ9zpJ3tTApVM) | 3:51 |
-| 66 | [Fogo de Deus](https://open.spotify.com/track/4Ir1Kc6Re3iZRh2oLF5sTU) | [DJ MP7](https://open.spotify.com/artist/4aul0cD22Afw1rdQZzJizF), [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Fogo de Deus](https://open.spotify.com/album/2xrNzxLH7tyqjKtDiimLf0) | 3:46 |
+| 65 | [Fogo de Deus](https://open.spotify.com/track/4Ir1Kc6Re3iZRh2oLF5sTU) | [DJ MP7](https://open.spotify.com/artist/4aul0cD22Afw1rdQZzJizF), [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Fogo de Deus](https://open.spotify.com/album/2xrNzxLH7tyqjKtDiimLf0) | 3:46 |
+| 66 | [Me Resgatou \- Remix](https://open.spotify.com/track/7Lp0ewXTeZBzflHnhX9mp7) | [Projeto Vida Nova de Irajá](https://open.spotify.com/artist/0ZmABAt0Sl0CzkOqnmoMMP), [Eduardo Silva](https://open.spotify.com/artist/4wLaYXR6MZi4poYDrMrptV), [Carlos Eduardo da Silva de Assis](https://open.spotify.com/artist/6gONuTEizkTtY3YgYdt7mp) | [Me Resgatou \(Remix\)](https://open.spotify.com/album/6TU6bUWANhJ9zpJ3tTApVM) | 3:51 |
 | 67 | [Das Trevas para Luz \- VIP Version](https://open.spotify.com/track/1n2UbPR7xxkUrALmYchBp2) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Viviane Franco](https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0) | [Renascido das Cinzas](https://open.spotify.com/album/0v6aMoDSt4IvoFYHoBqmH8) | 3:24 |
 | 68 | [Me Encontrou \(DJ Vitor Capoia Remix\)](https://open.spotify.com/track/2BZMBpOPJ1537isDKVrfSX) | [Cleverton Marques](https://open.spotify.com/artist/7IVkIqTy51csgU0TdHFhey), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp) | [Me Encontrou Remix](https://open.spotify.com/album/0W3OfqzLQ5GIWYFXMZD50p) | 3:10 |
 | 69 | [Hora de Adorar](https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [DJ Albery](https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Hora de Adorar](https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 | 75 | [Não Sou Merecedor \- Remix](https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Não Sou Merecedor \(Remix\)](https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8) | 2:55 |
 
-Snapshot ID: `MCw1MzNiMzQ4ZDc5YWE5NDZhMDc5M2RiYjc0ZWY2NmI3MTkwNGUxYWVk`
+Snapshot ID: `MCxkZDM3ZTFmNDBjZDFhOGFhYmViMjBmNGY4YTYxZTE4OTA2YmI1ZWNh`

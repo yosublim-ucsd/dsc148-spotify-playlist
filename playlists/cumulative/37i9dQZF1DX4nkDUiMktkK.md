@@ -2,9 +2,9 @@
 
 ### [juice](https://open.spotify.com/playlist/37i9dQZF1DX4nkDUiMktkK)
 
-> Salute's got the juice
+> ATRIP's got the juice
 
-129 songs - 8 hr 20 min
+130 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2023-06-08 |  |
 | [Looking For Love](https://open.spotify.com/track/08z1Wf8QxqDcVcxux3DvGx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:50 | 2023-08-03 |  |
 | [Love Me Back](https://open.spotify.com/track/7o1K0RtnM5cdvZrmgnta98) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Love Me Back](https://open.spotify.com/album/4W0FcfxQA688pFBQHfjcqY) | 3:15 | 2023-08-03 |  |
-| [Movin' On](https://open.spotify.com/track/5DQyoa8ZzJoM9hqfrln4Wd) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [My Friends](https://open.spotify.com/album/644q1QpzcCF4Ias6NUIqSR) | 2:31 | 2023-09-28 |  |
+| [Movin' On](https://open.spotify.com/track/5DQyoa8ZzJoM9hqfrln4Wd) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [My Friends](https://open.spotify.com/album/644q1QpzcCF4Ias6NUIqSR) | 2:31 | 2023-09-28 | 2023-09-30 |
+| [Movin' On](https://open.spotify.com/track/6KqwymhNktMbr0yGYe2L6f) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [My Friends EP](https://open.spotify.com/album/4YqagaNtz10JMCRFdLmkFI) | 2:31 | 2023-09-28 |  |
 | [Must Be Love \(feat\. Electric Fields\) \- jamesjamesjames Remix](https://open.spotify.com/track/5sjzYhFFK90kjuFFZxSUHn) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Must Be Love \(feat\. Electric Fields\) \[jamesjamesjames Remix\]](https://open.spotify.com/album/4AEC1lieDBlS4vBvY6EQT0) | 3:54 | 2023-06-08 |  |
 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 | 2023-06-08 |  |
 | [Night Light](https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Night Light](https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ) | 3:40 | 2023-06-08 |  |

@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 196533,
       "name": "Agachadita",
       "url": "https://open.spotify.com/track/6WGndzqaxnqYfAXbSq6RhG"
@@ -378,6 +378,24 @@
       "duration_ms": 113867,
       "name": "El Gato Volador",
       "url": "https://open.spotify.com/track/3K9h28l1trUlOMkiAh09Pb"
+    },
+    {
+      "album": {
+        "name": "Legal Alien - Top Secrets",
+        "url": "https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414380,
+      "name": "El Gran Varon",
+      "url": "https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP"
     },
     {
       "album": {

@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Eu t\u00f4 viajando",
+        "url": "https://open.spotify.com/album/5arN4faBxWMvV9RroZAh8l"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168413,
+      "name": "Eu t\u00f4 viajando",
+      "url": "https://open.spotify.com/track/1TNHMVG6nuM1ZkmpsUT3rq"
+    },
+    {
+      "album": {
         "name": "Homem Aranha 2099",
         "url": "https://open.spotify.com/album/4nqeJtuIcFncsXgIdb9gIg"
       },
@@ -460,7 +478,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 289598,
       "name": "Ira do Imperador",
       "url": "https://open.spotify.com/track/3mIDmzWZ0j6YCTmfx9HeZv"

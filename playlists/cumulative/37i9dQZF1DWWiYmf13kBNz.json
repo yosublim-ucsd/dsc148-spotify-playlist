@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Laufey curates the perfect playlist for a charming '50s-style romance movie. Cover: Laufey",
+  "description": "Feels like falling in love in the 50s ",
   "name": "Black & White Film",
   "tracks": [
     {
@@ -74,9 +74,9 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 167906,
-      "name": "Again (with The Mellomen)",
+      "name": "Again",
       "url": "https://open.spotify.com/track/0qB213IfGN0JXXm9aRjldF"
     },
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 178573,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 155333,
       "name": "Danke Schoen",
       "url": "https://open.spotify.com/track/3H8Sn0mYsZMPPlMCbebOJ5"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 179426,
       "name": "Earth Angel (Will You Be Mine)",
       "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 190146,
       "name": "I'll Never Smile Again",
       "url": "https://open.spotify.com/track/6foCVw9BzZrRSc7Dasw7xA"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 178066,
       "name": "If I Loved You",
       "url": "https://open.spotify.com/track/1nXPo6VAPRZezrfqdXqwgj"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 168346,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/726OIMOZ6uDlvGsdUbbazS"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 187666,
       "name": "In The Still of the Night",
       "url": "https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 162840,
       "name": "Love Is Here To Stay - Remastered 1998",
       "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 226360,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/7ls9IFeCDuAdOcBKosMxyK"
@@ -956,6 +956,24 @@
       "duration_ms": 259706,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
+    },
+    {
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/5oEJyOsT68BDRwLoQQJl6W"
     },
     {
       "album": {
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 182640,
       "name": "Misty",
       "url": "https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC"
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 123160,
       "name": "Moon River (From Breakfast at Tiffany's) [Remastered]",
       "url": "https://open.spotify.com/track/1XwAKjAZ1xDZOcuyZoqce4"
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 177160,
       "name": "Serenade Of The Bells",
       "url": "https://open.spotify.com/track/1iqKnFk7HVq9QFVWMC4cJy"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 181800,
       "name": "She's Got You - Single Version",
       "url": "https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e"
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 187616,
       "name": "Sleepy Lagoon",
       "url": "https://open.spotify.com/track/7bNIYeSqCLZRUsbuYISilH"
@@ -1468,7 +1486,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 182973,
       "name": "The Things We Did Last Summer - Remastered 1991",
       "url": "https://open.spotify.com/track/4s6DpXuVpOg5sxhELsISAf"
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 145533,
       "name": "There's A Small Hotel",
       "url": "https://open.spotify.com/track/6ctmewiz1BjFUNu4GgbZAz"
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 151973,
       "name": "Till There Was You - Remastered",
       "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 171253,
       "name": "What Love Will Do to You",
       "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
@@ -1812,7 +1830,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 200600,
       "name": "Where Or When",
       "url": "https://open.spotify.com/track/2AFLjcssAvJq62eeHZ0Q4q"
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 174866,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,896 likes - 65 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,962 likes - 65 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 64 | [Mutant Future](https://open.spotify.com/track/5a5FOSEEq8NKxS9umr8S0q) | [D.Dan](https://open.spotify.com/artist/7kocSfpPxPoSIRa1yNIQvB) | [Mutant Future](https://open.spotify.com/album/4aCVRkj9c61qEsXlm0yR3o) | 5:36 |
 | 65 | [Smile You're On Acid](https://open.spotify.com/track/1ZrdzMcvmR1s1X0iBa8fxK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Smile You're on Acid](https://open.spotify.com/album/1jDKf465NUOHtFt8QH7hvN) | 3:54 |
 
-Snapshot ID: `MCw0MzVlNzFmMDliNDU5ZWJkZWE0NDhlNzRmMWE2YmY3ZmYwZWRjMTkw`
+Snapshot ID: `MCxiZDU4NjI0YzJkNmU5NDQ3MzM0MTgzMDIzNmYxYTVmNTk5OGY4YjE2`

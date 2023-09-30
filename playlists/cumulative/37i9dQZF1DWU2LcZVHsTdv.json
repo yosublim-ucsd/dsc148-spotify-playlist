@@ -1251,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Hardest Prayer I Pray",
+        "url": "https://open.spotify.com/album/1jRkuiTgbpxJOaUT3ccxAv"
+      },
+      "artists": [
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Hardest Prayer I Pray",
+      "url": "https://open.spotify.com/track/3q4DXtTVqzak1TlWXW30Ex"
+    },
+    {
+      "album": {
         "name": "He Got a Hold of Me",
         "url": "https://open.spotify.com/album/5IWDeyHcJ6CR6Y0bQxuRdN"
       },

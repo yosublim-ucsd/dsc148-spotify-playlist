@@ -4639,6 +4639,28 @@
     },
     {
       "album": {
+        "name": "ILLENIUM (Remixes)",
+        "url": "https://open.spotify.com/album/6Ugig0sDdLrKGBW7j1skPO"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236619,
+      "name": "I Want You 2 (Stay) - Slow Magic Remix",
+      "url": "https://open.spotify.com/track/45VQ9bNqtFe99XJb2NyTPq"
+    },
+    {
+      "album": {
         "name": "I Will / Beloved",
         "url": "https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8"
       },
@@ -6656,6 +6678,28 @@
       "duration_ms": 150400,
       "name": "On 2 Me",
       "url": "https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL"
+    },
+    {
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/3Uzdtm2leQXh3Udy1WJ8XN"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/1bDVpNtcMmMfvqo1hIYWlw"
     },
     {
       "album": {
@@ -9902,6 +9946,28 @@
       "duration_ms": 175441,
       "name": "Wanted More",
       "url": "https://open.spotify.com/track/0ooVZc9MsUtiHKy9QtnbH3"
+    },
+    {
+      "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/7vtYc3w0egjBboxXiKArmD"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157265,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC"
     },
     {
       "album": {

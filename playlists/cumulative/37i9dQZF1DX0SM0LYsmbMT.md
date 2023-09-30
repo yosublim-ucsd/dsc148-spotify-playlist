@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,662 songs - 5 day 20 hr 20 min
+3,663 songs - 5 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -813,6 +813,7 @@
 | [Doppelte Curry To Go](https://open.spotify.com/track/3HBjJ1dT5x9uQ0Fcv4tZzr) | [V.Raeter](https://open.spotify.com/artist/4xeIXkA9fl2gegj9YIfJtQ) | [Alltimers](https://open.spotify.com/album/72S0Zk4Ec2j5ZGb3s45QXz) | 1:41 | 2020-05-12 | 2020-07-18 |
 | [Dormant](https://open.spotify.com/track/4vemXZiDRkDjww3D3iQlAB) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [Dormant](https://open.spotify.com/album/2bAp7WdPFJj1cBPng7KCmP) | 2:14 | 2019-09-06 | 2020-02-22 |
 | [Dos Uvas](https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Dos Uvas](https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf) | 3:29 | 2021-09-10 | 2021-09-17 |
+| [Double Scoop](https://open.spotify.com/track/2kfuSaLpF8f7JHDgrO73YG) | [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Double Scoop](https://open.spotify.com/album/2NlLnpQv3caQArs3iXLJL0) | 2:40 | 2023-09-28 |  |
 | [Double Vision](https://open.spotify.com/track/3xNzXkt2hXUpsdsqYQJkDe) | [quietpoet](https://open.spotify.com/artist/2q5pvwsLdqcBwUZGcqrZkF) | [Double Vision](https://open.spotify.com/album/2jvBMWfdZqE5Dy0Iphp6GG) | 1:56 | 2020-02-21 | 2020-05-19 |
 | [Down Time](https://open.spotify.com/track/2XZAGXogEKEGNONTauaoCS) | [Grasime](https://open.spotify.com/artist/12LwWHm2MAmyjOTrQ1HU8t) | [Anchor Point](https://open.spotify.com/album/3vMSSy71dTXkQBpEWGG43n) | 2:35 | 2019-10-18 | 2020-03-13 |
 | [Down with the Smoothness](https://open.spotify.com/track/2AAlu95FlvSVEUC4F51zOh) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Down with the Smoothness](https://open.spotify.com/album/2w2tFlS1I6aQQsJvaVLz7y) | 1:48 | 2020-05-15 | 2020-07-24 |
@@ -883,7 +884,7 @@
 | [Easy n Dizzy](https://open.spotify.com/track/7xAgwh4EEpebPn75bca378) | [a boy with a balloon](https://open.spotify.com/artist/2RU6buhw0TjkxXj5oIyDX8) | [Sunny Dreams](https://open.spotify.com/album/3YVZuyfJR72CYj5l6OqQVg) | 2:23 | 2020-10-03 | 2021-05-14 |
 | [Ebony](https://open.spotify.com/track/197x2einuu4SBFlykVQAXS) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU), [Rzuma](https://open.spotify.com/artist/0qOz7pDm5732P4fdEjHrI8) | [Ebony](https://open.spotify.com/album/6bbGjDvLvrCQNPnTg66fjb) | 1:52 | 2021-12-17 | 2022-10-01 |
 | [Ebony](https://open.spotify.com/track/2T6WXP8JYho3407VP4jcZk) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU), [Rzuma](https://open.spotify.com/artist/0qOz7pDm5732P4fdEjHrI8) | [All in blues](https://open.spotify.com/album/59r4dhSdO2IZdKDfwkCwim) | 1:52 | 2022-11-17 | 2022-11-26 |
-| [Echoes](https://open.spotify.com/track/40UK1Zl6X8GmezVlI6AZWg) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Echoes](https://open.spotify.com/album/11CYpa0oCkneUiM0uvsVcd) | 1:58 | 2023-09-14 |  |
+| [Echoes](https://open.spotify.com/track/40UK1Zl6X8GmezVlI6AZWg) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Echoes](https://open.spotify.com/album/11CYpa0oCkneUiM0uvsVcd) | 1:58 | 2023-09-14 | 2023-09-30 |
 | [Echoes](https://open.spotify.com/track/1kO9lPKPpB8fgYvhdw8wDS) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx), [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi) | [Echoes](https://open.spotify.com/album/2vWCcp2OWtjUPtqaFJaOE1) | 2:26 | 2021-05-03 | 2021-08-13 |
 | [Echos](https://open.spotify.com/track/7ruubQWd9pge9BwU2kPWpT) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Echos](https://open.spotify.com/album/5K1VkXxDRwgLZY5ocWbxlB) | 2:15 | 2023-06-01 |  |
 | [Eclipse](https://open.spotify.com/track/4s5nu8lzFgEPe5Uuwm5daz) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Eclipse](https://open.spotify.com/album/5m1Byct2bKL4mIVqQvvRP6) | 3:10 | 2021-05-03 | 2021-09-03 |

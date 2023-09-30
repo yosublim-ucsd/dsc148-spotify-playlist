@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6L1CUnSfVed.md) - [plain]
 
 > Les plus grands standards du rock français\. Photo : Téléphone
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,598 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,635 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6L1CUnSfVed.md) - [plain]
 | 29 | [Cherchez le garçon](https://open.spotify.com/track/0MJLw7QGn79f346Sbu6rA2) | [Taxi Girl](https://open.spotify.com/artist/4ztbfel6DJq0lL4wmTJN9Y) | [Chercher Le Garçon](https://open.spotify.com/album/5K2bMo0BeIF1HYztZ51X8k) | 4:11 |
 | 30 | [Marcia Baïla](https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Rita Mitsouko](https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k) | 5:35 |
 | 31 | [Oh Les Filles !](https://open.spotify.com/track/6eQ4VCIr7pASC4fqsOMvEm) | [Au Bonheur Des Dames](https://open.spotify.com/artist/6tAjae92mA43fTB7ahR5ns) | [Jour De Fête](https://open.spotify.com/album/5Tw5daLzzWF1b2t4l0n8Ue) | 4:07 |
-| 32 | [Dans La Salle Du Bar\-Tabac De La Rue Des Martyrs](https://open.spotify.com/track/6SOuIgfdDRAiSgQ7F8Eaje) | [Pigalle](https://open.spotify.com/artist/7xw0r7NBG7o1ns6AAQ7Qz7) | [Pigalle](https://open.spotify.com/album/3HyMTGgkfBfqWOt4lY2Bgu) | 3:02 |
+| 32 | [Dans La Salle Du Bar\-Tabac De La Rue Des Martyrs](https://open.spotify.com/track/2TsYRdkND1FkmN2bZXPWFz) | [Pigalle](https://open.spotify.com/artist/7xw0r7NBG7o1ns6AAQ7Qz7) | [Neuf Et Occasion](https://open.spotify.com/album/6rK6hnCAYV4poFHyu5QSSD) | 3:04 |
 | 33 | [Marylène](https://open.spotify.com/track/2aMpRZgpJytzriarWi5vGM) | [Martin Circus](https://open.spotify.com/artist/0pNjQDSNKLgvRkFO99TNHC) | [Story](https://open.spotify.com/album/3PbUcUMUeBOGQmJxXtTVZr) | 2:42 |
 | 34 | [Trois nuits par semaine](https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [3](https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu) | 5:12 |
 | 35 | [La Fille Du Père Noël](https://open.spotify.com/track/0TQY0BnDjUBW9NddZpH3wo) | [Bijou](https://open.spotify.com/artist/3cNIn4o65yBImKGe9lVuRr) | [Pic A Glace](https://open.spotify.com/album/5dPE9TQcvO6oWHy6rqeaQh) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6L1CUnSfVed.md) - [plain]
 | 49 | [Rock à la radio](https://open.spotify.com/track/41KB3u2LyXKQTv5JJutmii) | [Bijou](https://open.spotify.com/artist/3cNIn4o65yBImKGe9lVuRr) | [Tubes pour danser \- Années 80](https://open.spotify.com/album/6O4zNGoa9rPG3l8mQwLY8k) | 2:21 |
 | 50 | [365 jours ouvrables](https://open.spotify.com/track/6fTpKaifOtbqIG1mKQQLbQ) | [Diabologum](https://open.spotify.com/artist/2yctAUiUiOBP52UC77cToq) | [\#3 \(Ce n'est pas perdu pour tout le monde\)](https://open.spotify.com/album/6NlZIFySnMC6ZYXHGt97ZQ) | 3:18 |
 
-Snapshot ID: `MCw5YzdmNGUwZGYyMzIwZTIwZjM2NmE0NDgwOWY0MjA5Yzk4ZTRlZjA0`
+Snapshot ID: `MCxhNjhiZTk5ODE5Y2Y1NTI4Njg0NjBhN2JmNTg1MTQ4YWI1NzM4MzVl`

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Juanchito",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: La Fiera de Ojinaga",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
+    {
+      "album": {
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232795,
+      "name": "2NDO CHANCE",
+      "url": "https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx"
+    },
     {
       "album": {
         "name": "INSURGENTE",
@@ -248,6 +270,24 @@
       "duration_ms": 200040,
       "name": "Antes De Usted",
       "url": "https://open.spotify.com/track/3ZFei3vxIdWxG6nrOnhCA4"
+    },
+    {
+      "album": {
+        "name": "Apadrinado",
+        "url": "https://open.spotify.com/album/7KvMBCC3HVeMeF0wL3oTEn"
+      },
+      "artists": [
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165898,
+      "name": "Apadrinado",
+      "url": "https://open.spotify.com/track/3KDXFR0c319qfXwaDN9ynh"
     },
     {
       "album": {
@@ -772,6 +812,24 @@
       "duration_ms": 190000,
       "name": "De Piedra a Papel",
       "url": "https://open.spotify.com/track/7EFcjtnKPD2qy7I5Fx2b2J"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche Live Sessions (En Vivo)",
+        "url": "https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200907,
+      "name": "De Piedra a Papel - En Vivo",
+      "url": "https://open.spotify.com/track/12oaIspuQ2mGvxHA8e38Yy"
     },
     {
       "album": {
@@ -2117,6 +2175,28 @@
     },
     {
       "album": {
+        "name": "Apadrinado",
+        "url": "https://open.spotify.com/album/7KvMBCC3HVeMeF0wL3oTEn"
+      },
+      "artists": [
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        },
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165734,
+      "name": "Lada de Culiacan",
+      "url": "https://open.spotify.com/track/11eGg38zvZS3flsVB4Vbxn"
+    },
+    {
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6"
       },
@@ -2382,6 +2462,24 @@
       "duration_ms": 165013,
       "name": "Los Pasajes Del Sera",
       "url": "https://open.spotify.com/track/4dDXH4yw3zDjI0CNyHy426"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche Live Sessions (En Vivo)",
+        "url": "https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218357,
+      "name": "Love Like This - En Vivo",
+      "url": "https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH"
     },
     {
       "album": {
@@ -2693,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Estado Melanc\u00f3lico",
+        "url": "https://open.spotify.com/album/3yuOCmv69DsI71xCg9ZADq"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222968,
+      "name": "Mi Vida Sin Ti",
+      "url": "https://open.spotify.com/track/7aDq8oxYo6nOdNrhmBTBXi"
+    },
+    {
+      "album": {
         "name": "Se Alinearon Los Planetas",
         "url": "https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ"
       },
@@ -2805,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Trilog\u00eda, Vol. 2",
+        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168078,
+      "name": "M\u00e1s Te Recuerdo",
+      "url": "https://open.spotify.com/track/0W6FqL1J0oxiDxzZQS7zkM"
+    },
+    {
+      "album": {
         "name": "Segunda Temporada",
         "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
       },
@@ -2820,6 +2954,24 @@
       "duration_ms": 168333,
       "name": "M\u00eda, M\u00eda, M\u00eda",
       "url": "https://open.spotify.com/track/3TdSdPw3WsKeATJTASUWsq"
+    },
+    {
+      "album": {
+        "name": "Colmillo De Leche Live Sessions (En Vivo)",
+        "url": "https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225282,
+      "name": "M\u00fasica De Fondo - En Vivo",
+      "url": "https://open.spotify.com/track/2k3LkhgXozsZwHxbJpsbbS"
     },
     {
       "album": {
@@ -3011,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "Apadrinado",
+        "url": "https://open.spotify.com/album/7KvMBCC3HVeMeF0wL3oTEn"
+      },
+      "artists": [
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200676,
+      "name": "No Me Cree",
+      "url": "https://open.spotify.com/track/0qBywtCUGYAlKDdcALQkjx"
+    },
+    {
+      "album": {
         "name": "Vali\u00f3 La Pena Con Mariachi",
         "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
       },
@@ -3177,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "Tributo Al Amo De La Banda",
+        "url": "https://open.spotify.com/album/1sluShk7MxxjFsfo2y0Bfk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176586,
+      "name": "Pa' Qu\u00e9 Me Sirve La Vida",
+      "url": "https://open.spotify.com/track/42Qp5ubm72JjQotRFF1pBo"
+    },
+    {
+      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
       },
@@ -3240,6 +3428,28 @@
       "duration_ms": 163875,
       "name": "Paso A Pasito",
       "url": "https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR"
+    },
+    {
+      "album": {
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171334,
+      "name": "PATRAS",
+      "url": "https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9"
     },
     {
       "album": {
@@ -3609,6 +3819,24 @@
     },
     {
       "album": {
+        "name": "Tributo Al Amo De La Banda",
+        "url": "https://open.spotify.com/album/1sluShk7MxxjFsfo2y0Bfk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125226,
+      "name": "Rifar\u00e9 Mi Suerte",
+      "url": "https://open.spotify.com/track/17zWeibS0aKgYC5fpagQe4"
+    },
+    {
+      "album": {
         "name": "Obsessed Pt. 2",
         "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
       },
@@ -3686,6 +3914,24 @@
       "duration_ms": 204768,
       "name": "Se Me Cierra El Mundo",
       "url": "https://open.spotify.com/track/7pRMreaLJIyxUbyxFanqmD"
+    },
+    {
+      "album": {
+        "name": "Estado Melanc\u00f3lico",
+        "url": "https://open.spotify.com/album/3yuOCmv69DsI71xCg9ZADq"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "Sentencia De Olvido",
+      "url": "https://open.spotify.com/track/0bXeQ3TkIMEsBl0vPzDpti"
     },
     {
       "album": {
@@ -3967,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "Estado Melanc\u00f3lico",
+        "url": "https://open.spotify.com/album/3yuOCmv69DsI71xCg9ZADq"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141060,
+      "name": "Tuve Que Marcar",
+      "url": "https://open.spotify.com/track/2Xo9PICBQWOS5DnemG2IN9"
+    },
+    {
+      "album": {
         "name": "C\u00e1psulas",
         "url": "https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg"
       },
@@ -3989,6 +4253,42 @@
     },
     {
       "album": {
+        "name": "Trilog\u00eda, Vol. 2",
+        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157645,
+      "name": "Un Amor Bonito",
+      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
+    },
+    {
+      "album": {
+        "name": "Trilog\u00eda, Vol. 2",
+        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213805,
+      "name": "Un Hombre Enamorado",
+      "url": "https://open.spotify.com/track/7F1R7CxuHhaCZaYb0pLdjn"
+    },
+    {
+      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -4004,6 +4304,24 @@
       "duration_ms": 209109,
       "name": "Un Mal Vicio",
       "url": "https://open.spotify.com/track/5ZGoDLmsLIwUJG06ieQZoD"
+    },
+    {
+      "album": {
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208201,
+      "name": "UN PU\u00d1O DE TIERRA",
+      "url": "https://open.spotify.com/track/5a1qwudJggw1SyPydJdEu1"
     },
     {
       "album": {
@@ -4316,6 +4634,24 @@
       "duration_ms": 164600,
       "name": "\u00bfQui\u00e9n Te Crees Para Olvidarme?",
       "url": "https://open.spotify.com/track/55fh0qyQ7wQxlWhMNja8C0"
+    },
+    {
+      "album": {
+        "name": "Tributo Al Amo De La Banda",
+        "url": "https://open.spotify.com/album/1sluShk7MxxjFsfo2y0Bfk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173040,
+      "name": "\u00c1rboles De La Barranca",
+      "url": "https://open.spotify.com/track/7EsXfyXqRK6MokdSlQNCug"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXbC1ZOkTuut"

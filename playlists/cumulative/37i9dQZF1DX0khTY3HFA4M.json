@@ -1157,7 +1157,7 @@
       "artists": [
         {
           "name": "Slipp",
-          "url": "https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M"
+          "url": "https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e"
         }
       ],
       "date_added": "2023-09-22",
@@ -1610,6 +1610,24 @@
       "duration_ms": 142286,
       "name": "Cash Plants Everywhere Around Me",
       "url": "https://open.spotify.com/track/1TKRQhnQkTU9CCRCQF6mst"
+    },
+    {
+      "album": {
+        "name": "cashmere",
+        "url": "https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y"
+      },
+      "artists": [
+        {
+          "name": "Zatsuma",
+          "url": "https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "cashmere",
+      "url": "https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ"
     },
     {
       "album": {

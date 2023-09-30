@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-163 songs - 8 hr 58 min
+164 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Watching You](https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:55 | 2021-12-03 |  |
 | [We Are Tonight](https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 3:52 | 2021-12-03 |  |
 | [We Danced](https://open.spotify.com/track/4HHtqzri9jrmAGFyucxkLG) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 3:45 | 2021-12-03 |  |
-| [Wet Dream](https://open.spotify.com/track/6y6lk4rc1xsuBYWJwB8QYv) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Wet Dream](https://open.spotify.com/album/4pWVl2KvovZgRWvMcOpRC9) | 3:10 | 2021-12-03 |  |
+| [Wet Dream](https://open.spotify.com/track/3S8GtlosdFNEjcNlkTHmr7) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Wet Dream](https://open.spotify.com/album/6aQMxRD6XVSNa6AFHRVCMB) | 3:10 | 2023-08-18 |  |
+| [Wet Dream](https://open.spotify.com/track/6y6lk4rc1xsuBYWJwB8QYv) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Wet Dream](https://open.spotify.com/album/4pWVl2KvovZgRWvMcOpRC9) | 3:10 | 2021-12-03 | 2023-09-30 |
 | [Wildfire](https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire](https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd) | 3:10 | 2021-12-03 | 2022-07-16 |
 | [Wish You'd Miss Me](https://open.spotify.com/track/01CDpoz4YozPMx7X6R7eYn) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs) | 3:21 | 2022-07-25 | 2022-09-11 |
 | [Wish You'd Miss Me](https://open.spotify.com/track/6bg3oASoWVKvtOSGnixIwh) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Wish You'd Miss Me](https://open.spotify.com/album/7jMROrwdWbvVjmrOrk4rdv) | 3:21 | 2021-12-03 | 2022-07-29 |

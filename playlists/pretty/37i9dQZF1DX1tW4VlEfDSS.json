@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 348418,
+  "num_followers": 348448,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmZlYWZkZDUzZDcyYTY1MDllNGEwMGIwN2EyZWMxYWE5N2ZiZDg5",
+  "snapshot_id": "MCw5YjNlODM1MWU3MWY2N2Q3ODY2ODgyYWRhMzU5MThmMDg3Yjc5OGM2",
   "tracks": [
     {
       "added_at": "2023-08-25 14:04:15",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
+        "name": "Say Mama",
+        "url": "https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU"
+      },
+      "artists": [
+        {
+          "name": "Alex Preston",
+          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Say Mama",
+      "url": "https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
         "name": "Disco Hearts",
         "url": "https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 181500,
       "name": "Disco Hearts",
       "url": "https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
-        "name": "Say Mama",
-        "url": "https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU"
-      },
-      "artists": [
-        {
-          "name": "Alex Preston",
-          "url": "https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Say Mama",
-      "url": "https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -1103,18 +1103,26 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Back Tae Ayr",
-        "url": "https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27"
+        "name": "It\u2019s Alright",
+        "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
       },
       "artists": [
         {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "George Smeddles",
+          "url": "https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2"
+        },
+        {
+          "name": "Paris Brightledge",
+          "url": "https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul"
         }
       ],
-      "duration_ms": 332931,
-      "name": "Back Tae Ayr",
-      "url": "https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF"
+      "duration_ms": 210181,
+      "name": "It\u2019s Alright",
+      "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
     }
   ],
   "unique_name": "Groove Theory",

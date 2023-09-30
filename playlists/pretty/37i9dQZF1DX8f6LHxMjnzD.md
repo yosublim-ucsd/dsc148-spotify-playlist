@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,017 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,023 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Hotter Now](https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Hotter Now](https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh) | 3:01 |
 | 40 | [For You](https://open.spotify.com/track/6jG0kTVLlfdKtZMUjoyMAI) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [For You](https://open.spotify.com/album/638CFejoj2iCGprTXdt4ha) | 2:44 |
 
-Snapshot ID: `MCw0YmRlZDhkOTZhZWE2NjcxZDU3OGQzMzJjN2IzNDJmNzE4NDY5M2U5`
+Snapshot ID: `MCwyNTc2MjUxNTllYTJmMDY1YjFiNzc0ZDAxOGM0NTgxOGRjMTBmZmRl`

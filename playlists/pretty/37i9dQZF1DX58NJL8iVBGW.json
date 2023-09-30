@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 582597,
+  "num_followers": 582744,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmM2MmU3MzY0OTI5NmRmZWM5MWVhYzQwOGMwZGUyNzNlNDExOTI0",
+  "snapshot_id": "MCwwNGZhODU3YzhjY2Q1Mzc1ZTM2YWZiNWIzYmVmNTBlMTg0ZjU2OTg2",
   "tracks": [
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Fire in the Empire",
-      "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Bastard Children",
         "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 220626,
       "name": "Psalms",
       "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Fire in the Empire",
+      "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Quiet Flame",
-        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 242153,
-      "name": "Pull the Moon",
-      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "By The Rule",
         "url": "https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 190946,
       "name": "Get What You Give",
       "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Quiet Flame",
+        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 242153,
+      "name": "Pull the Moon",
+      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "The Ghost Who Walks",
-        "url": "https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1"
-      },
-      "artists": [
-        {
-          "name": "Karen Elson",
-          "url": "https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Stolen Roses",
-      "url": "https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "My Church Is Black",
         "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 178080,
       "name": "My Church Is Black",
       "url": "https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "The Ghost Who Walks",
+        "url": "https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1"
+      },
+      "artists": [
+        {
+          "name": "Karen Elson",
+          "url": "https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Stolen Roses",
+      "url": "https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR"
     },
     {
       "added_at": "2023-07-17 18:15:29",

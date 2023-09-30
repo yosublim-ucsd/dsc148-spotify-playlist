@@ -2,7 +2,7 @@
 
 ### [Swag ](https://open.spotify.com/playlist/37i9dQZF1DWWWY77P1fdhS)
 
-> When your dad says no cap\. Cover: Kevin James
+> It’s early 2010s, you’ve got sillybandz on your wrist, a mustache tattoo on your finger, and angry birds on your iphone\. Cover: LMFAO & Lil Jon
 
 81 songs - 4 hr 56 min
 

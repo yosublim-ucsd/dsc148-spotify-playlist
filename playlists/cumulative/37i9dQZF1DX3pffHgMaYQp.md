@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Vondré en portada.
 
-131 songs - 7 hr 6 min
+134 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [La Pausa del Mundo](https://open.spotify.com/track/7cyO9d1l0jbytDniOqjtt9) | [El Universo](https://open.spotify.com/artist/2xGTBCrbaFoUdXGCqqJm8i) | [La Pausa del Mundo](https://open.spotify.com/album/2br0xYm6FKv8DQtXEhLQTl) | 4:50 | 2022-03-25 | 2023-09-24 |
 | [La Vida De Alguien Más](https://open.spotify.com/track/1MzCR1UMQOgc3yYAcZdIlK) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/62yeYHE8CMTNQ4LgXNae2U) | 4:02 | 2022-03-25 | 2023-08-21 |
 | [La Vida De Alguien Más](https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:02 | 2023-07-28 |  |
+| [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-09-29 |  |
 | [Lejos Estoy](https://open.spotify.com/track/7p9hMuHlKpiJoeoBWT1jic) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Ciro Pertusi](https://open.spotify.com/artist/1WfuDfBxYtT6FmhKaLKFJc) | [Lejos Estoy](https://open.spotify.com/album/6eBMJM8ZcUFxeP7rXMVgL8) | 3:32 | 2023-09-23 |  |
 | [Les Llevaré Mi Cruz](https://open.spotify.com/track/5c9m8pzmD62mWHuLmCn8Gn) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [El Gatopardo](https://open.spotify.com/album/421p099D6MeWdeTPy4Y6Ct) | 3:28 | 2023-09-23 |  |
 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 | 2022-03-25 |  |
@@ -108,8 +109,10 @@
 | [Plan Z.E.N.](https://open.spotify.com/track/6meYT2oiVwCKHAB1NJCi7w) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Plan Z.E.N.](https://open.spotify.com/album/7avi7XMW0Q1wEcUsBWcVvP) | 3:13 | 2023-06-09 |  |
 | [Por Mi Culpa \(Una Canción Punk Que Salvara el Mundo\)](https://open.spotify.com/track/0zgbf52Epwji5epCpvDEWk) | [Carrion Kids](https://open.spotify.com/artist/3BaXYCo5ZPoXCQ4MW93ulu) | [Por Mi Culpa \(Una Canción Punk Que Salvara el Mundo\)](https://open.spotify.com/album/4BFYE0jc2qL7uVSNha6Qnu) | 2:47 | 2022-03-25 |  |
 | [Por Que](https://open.spotify.com/track/7mi455N9KTLTKfxEjXwgAw) | [Mujeres Podridas](https://open.spotify.com/artist/2zy61vaLJYK5I9zcoZWOEt) | [Muerte en Paraíso](https://open.spotify.com/album/0x2HFQ4eCRCCYmXvzg6uOE) | 1:58 | 2022-03-25 |  |
+| [Raindrops Of Poison](https://open.spotify.com/track/5E3XLPrhHu6HbwoqYfFrth) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [After Destruction](https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX) | 3:25 | 2023-09-29 |  |
 | [Real Thing](https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 | 2023-09-23 |  |
 | [Rest Assured](https://open.spotify.com/track/0EWhAlXHKrwWIJjX9Gg56R) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Come on Feel The Lemonheads](https://open.spotify.com/album/1mA5CUUztAKf53GDuypfAT) | 2:28 | 2023-09-23 |  |
+| [Retrofuturo](https://open.spotify.com/track/77KgPizQ8zRT0GSe8AfG61) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7) | [Retrofuturo](https://open.spotify.com/album/2b2G2zi3bSi3qw0fBkP2DL) | 3:23 | 2023-09-29 |  |
 | [Revolución en 32 versos](https://open.spotify.com/track/2IpIhUpVuQTsIseaQ4z7G0) | [Chico Jorge](https://open.spotify.com/artist/5RlSgVslS8qQuHh3a1GQNd) | [Revolución en 32 versos](https://open.spotify.com/album/6hIwZvUQkppY4xBoxjwXWs) | 2:47 | 2022-03-25 |  |
 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 | 2023-06-23 |  |
 | [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 | 2023-06-23 |  |

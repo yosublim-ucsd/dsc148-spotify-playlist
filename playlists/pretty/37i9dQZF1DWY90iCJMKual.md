@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > vibe out w some 🇵🇭 R&B Cover: Denise Julia, Haven
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,474 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,646 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 |
-| 2 | [This Time](https://open.spotify.com/track/5L5AWDc2l60ERMyHcVEDvj) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [This Time](https://open.spotify.com/album/1XHoPyg3Dd7vjCMBmeNFnI) | 3:35 |
-| 3 | [T\-Break](https://open.spotify.com/track/516epRJ6ppt3JwEuLPnAo1) | [Yzkk](https://open.spotify.com/artist/25KaeIB4BrH1WpOG5dIV0n) | [T\-Break](https://open.spotify.com/album/6V7gUiVauT1wRvfg6akvHc) | 4:33 |
-| 4 | [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 |
-| 5 | [TALK](https://open.spotify.com/track/2F5Qkb1wJNnmQFQ3Edrzfb) | [dulai](https://open.spotify.com/artist/1DwP6HIWrPItZ3hmJkKxQ1), [leeza](https://open.spotify.com/artist/7KmrzNyuaqGPAVVXd9A0Nx) | [TALK](https://open.spotify.com/album/41cjmYpOgI1BKgiGLwJM44) | 2:24 |
+| 1 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 |
+| 2 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 |
+| 3 | [This Time](https://open.spotify.com/track/5L5AWDc2l60ERMyHcVEDvj) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [This Time](https://open.spotify.com/album/1XHoPyg3Dd7vjCMBmeNFnI) | 3:35 |
+| 4 | [T\-Break](https://open.spotify.com/track/516epRJ6ppt3JwEuLPnAo1) | [Yzkk](https://open.spotify.com/artist/25KaeIB4BrH1WpOG5dIV0n) | [T\-Break](https://open.spotify.com/album/6V7gUiVauT1wRvfg6akvHc) | 4:33 |
+| 5 | [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 |
 | 6 | [4:AM](https://open.spotify.com/track/4OaVpRQJWIgMTecpLSmhnn) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [4:AM](https://open.spotify.com/album/2KbChrlOoIu1vhxwCiNpXo) | 3:48 |
 | 7 | [3 AM](https://open.spotify.com/track/7CrpqsFrk3PdqMFSW7nlDV) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [3 AM](https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY) | 2:56 |
 | 8 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 | 49 | [better for you](https://open.spotify.com/track/2fxoRz7eUFbo5RoHSvXqQh) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [better for you](https://open.spotify.com/album/19YZ17zw3p3FBz4B1eoGCm) | 4:49 |
 | 50 | [Co\-Pilot](https://open.spotify.com/track/3q2Sp5xZP5nvBbmIQTxvYA) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [JOLO](https://open.spotify.com/artist/1r5cXPqjg3R4Q1FpKG1UJs), [Rjay Ty](https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx) | [Flight School Era](https://open.spotify.com/album/0DL6JoUUC5rYlexcZFACeN) | 4:10 |
 
-Snapshot ID: `MCw0MGExMmQ0ODNhNTZhYWQ5ZTFlN2NiODJhNmMxMDRhYmUzNWIyODdj`
+Snapshot ID: `MCwxOTE1MTkxYWZlMTNjNDViNDEwYmI1MmQxMTI0MjI3ODA5OTc1NTc3`

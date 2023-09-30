@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-529 songs - 1 day 10 hr 15 min
+530 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Chelsea Dagger](https://open.spotify.com/track/0txisWocI2H8yPRjYxLo83) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6YYhMNDgi37WNGtCDis6PT) | 3:35 | 2022-01-05 | 2022-07-29 |
 | [Chemistry](https://open.spotify.com/track/6JZYxCV6Fu5edOZYeptlck) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [All About Chemistry](https://open.spotify.com/album/76cYzaSTDXhd0UTipRCVZF) | 4:08 | 2022-01-05 | 2022-07-29 |
 | [Chocolate](https://open.spotify.com/track/3Kh58CfPsfIl8XkCEKWbNf) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Final Straw](https://open.spotify.com/album/6rnHGj9PUHcEQCp4xdjbeJ) | 3:01 | 2022-01-05 | 2023-04-02 |
+| [City Of Blinding Lights](https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:45 | 2023-01-18 |  |
 | [City Of Blinding Lights](https://open.spotify.com/track/4ao9bdN6ozxdlQ9j2rGDFy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT) | 5:47 | 2022-01-05 | 2022-07-29 |
 | [Closer To The Edge](https://open.spotify.com/track/0UZwcRQAk4QR09HtGRZhYC) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War](https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx) | 4:33 | 2022-01-05 |  |
 | [Closure](https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:11 | 2022-01-05 | 2023-02-01 |
@@ -255,7 +256,7 @@
 | [Kissing Families](https://open.spotify.com/track/7KBGSSpk34PRiBjM10YWwF) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Pikul](https://open.spotify.com/album/6EOWhMWEkVk3SEAoYmDK3S) | 4:50 | 2022-01-05 | 2022-07-29 |
 | [Kristy, Are You Doing Okay?](https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:42 | 2022-01-05 | 2022-07-23 |
 | [L.S.F.](https://open.spotify.com/track/0w21XZhGlmIexgtDpmtnzT) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian/Empire](https://open.spotify.com/album/4RVNd8UwGiAqzfPjbgv0O3) | 3:16 | 2022-01-05 | 2022-07-29 |
-| [L.S.F.](https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:17 | 2022-01-05 |  |
+| [L.S.F.](https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:17 | 2022-01-05 | 2023-09-30 |
 | [Ladies And Gentlemen](https://open.spotify.com/track/48ncRBVLgiu8MY7O70VVw5) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Blood Stained Love Story](https://open.spotify.com/album/1JA2ZEDY4s6N08dbLCrbAz) | 3:37 | 2022-01-05 |  |
 | [Lasso](https://open.spotify.com/track/29ceu4GvNpnHSfLeBL4O7W) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 2:47 | 2023-01-18 |  |
 | [Lasso](https://open.spotify.com/track/5bYQM8TrQ6ur1SuEieE3pK) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW) | 2:47 | 2022-01-05 | 2022-07-29 |

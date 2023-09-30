@@ -2410,7 +2410,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 224800,
       "name": "Christie Rd. - Outtake",
       "url": "https://open.spotify.com/track/4AjDdThsTlHF90gZTYVZzR"
@@ -4277,6 +4277,24 @@
     },
     {
       "album": {
+        "name": "Revenge Anthems",
+        "url": "https://open.spotify.com/album/4B0IKIdJOa4NxIiCF2losG"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135868,
+      "name": "F.T.B.",
+      "url": "https://open.spotify.com/track/7L2Dk4bZUzm7FLGDgqEhMs"
+    },
+    {
+      "album": {
         "name": "Australia Stops",
         "url": "https://open.spotify.com/album/6GtcJTPQEKWoFDtXLrgWbh"
       },
@@ -4446,6 +4464,32 @@
       "duration_ms": 221560,
       "name": "Feeling For You",
       "url": "https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9"
+    },
+    {
+      "album": {
+        "name": "FIESTA",
+        "url": "https://open.spotify.com/album/6BJZICoGKwAp2QKx6FhDEz"
+      },
+      "artists": [
+        {
+          "name": "Advik Singh",
+          "url": "https://open.spotify.com/artist/44h6HbtmEnmiSrkY4RtWFi"
+        },
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/48juEfmXe0vq0FT5GRecCi"
     },
     {
       "album": {
@@ -4668,6 +4712,32 @@
       "duration_ms": 274564,
       "name": "Flowers (Metal Version)",
       "url": "https://open.spotify.com/track/5h8k6b7a85OqTqWfAEqSde"
+    },
+    {
+      "album": {
+        "name": "FMF (feat. GoldLink & Audrey Mika)",
+        "url": "https://open.spotify.com/album/6vAI3r50JOdTnFdFQPE9mq"
+      },
+      "artists": [
+        {
+          "name": "Diamond Pistols",
+          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141647,
+      "name": "FMF (feat. GoldLink & Audrey Mika)",
+      "url": "https://open.spotify.com/track/5W7F1XmizXlIo4nambCREY"
     },
     {
       "album": {
@@ -5697,6 +5767,28 @@
     },
     {
       "album": {
+        "name": "Have You Seen This Movie",
+        "url": "https://open.spotify.com/album/4RCjDPhqY9W4JE0tVGtAvl"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555414,
+      "name": "Have You Seen This Movie",
+      "url": "https://open.spotify.com/track/2LUiRhU7rSaGqPAvaQ5Zik"
+    },
+    {
+      "album": {
         "name": "Heidrun",
         "url": "https://open.spotify.com/album/46SLNuMmAJD0lYog885M8a"
       },
@@ -6448,6 +6540,28 @@
       "duration_ms": 229203,
       "name": "Impurities",
       "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
+    },
+    {
+      "album": {
+        "name": "In a sentimental mood",
+        "url": "https://open.spotify.com/album/1Io8ZCinPYklU5J3KBTU4k"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Carla Marcotulli",
+          "url": "https://open.spotify.com/artist/5g7Xx9k207AzA2qJVdZTR0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404375,
+      "name": "In a sentimental mood",
+      "url": "https://open.spotify.com/track/6uasGTRvjhX99lF921NDx0"
     },
     {
       "album": {
@@ -7216,10 +7330,32 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 141314,
       "name": "Koala - Galantis & Misha K VIP Mix",
       "url": "https://open.spotify.com/track/4oppIqY7Cx7VA7EoCNfG3L"
+    },
+    {
+      "album": {
+        "name": "Koala (secs on the beach Remix)",
+        "url": "https://open.spotify.com/album/3s5BeXQUZh7bZrdCjLNd0Y"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "secs on the beach",
+          "url": "https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131535,
+      "name": "Koala - secs on the beach Remix",
+      "url": "https://open.spotify.com/track/3Olln7bxVKHnfR1hePHYqH"
     },
     {
       "album": {
@@ -9417,6 +9553,28 @@
     },
     {
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/2aVhrxNZrwE8sB3fqvyZys"
+      },
+      "artists": [
+        {
+          "name": "King Reign",
+          "url": "https://open.spotify.com/artist/2NBqojWIwPlNQC5yKru1OJ"
+        },
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206653,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/17zGPlvmZ8cWkmMXTUFSrf"
+    },
+    {
+      "album": {
         "name": "one of one (feat. PawPaw Rod)",
         "url": "https://open.spotify.com/album/0JEX5oLdEBXZEEszBXmXdF"
       },
@@ -9502,6 +9660,32 @@
       "duration_ms": 297624,
       "name": "Origin Story",
       "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
+    },
+    {
+      "album": {
+        "name": "Our Time",
+        "url": "https://open.spotify.com/album/5u5XHO2brM8KxhP0ESUh1z"
+      },
+      "artists": [
+        {
+          "name": "Norenot",
+          "url": "https://open.spotify.com/artist/5JJ7m73uymUpamsCJHzH8I"
+        },
+        {
+          "name": "Robohands",
+          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200961,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/27LzPy4zTQYQzJMQrVbue8"
     },
     {
       "album": {
@@ -10591,6 +10775,24 @@
     },
     {
       "album": {
+        "name": "Ruska (Live In Helsinki St. John's Church)",
+        "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231573,
+      "name": "Ruska - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
+    },
+    {
+      "album": {
         "name": "Rust (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0"
       },
@@ -11307,6 +11509,32 @@
     },
     {
       "album": {
+        "name": "Sondela",
+        "url": "https://open.spotify.com/album/0XXLvIOKk0PJMCSozQpRAc"
+      },
+      "artists": [
+        {
+          "name": "PUNIST",
+          "url": "https://open.spotify.com/artist/54wYhYIpRfgFDAp4FAJNYl"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "MABHATHU",
+          "url": "https://open.spotify.com/artist/6CNzpv64tVN5KGv00prLJw"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280737,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/14suPeoNNh1CSWJsOIOzMj"
+    },
+    {
+      "album": {
         "name": "Lost Not Forgotten Archives: Distance Over Time Demos (2018)",
         "url": "https://open.spotify.com/album/3813UgywzpXjMYQiWyb859"
       },
@@ -11999,6 +12227,28 @@
     },
     {
       "album": {
+        "name": "Sweet Sounds Of Heaven",
+        "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442667,
+      "name": "Sweet Sounds Of Heaven (feat. Lady Gaga & Stevie Wonder)",
+      "url": "https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be"
+    },
+    {
+      "album": {
         "name": "Sweet Southern Comfort",
         "url": "https://open.spotify.com/album/4omLcMWjPidak2J4cZtK22"
       },
@@ -12281,6 +12531,32 @@
     },
     {
       "album": {
+        "name": "Tech N9ne Presents: NNUTTHOWZE - The Siqnal",
+        "url": "https://open.spotify.com/album/5B6i2xqAaKsquOzw7WYPIM"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Zkeircrow",
+          "url": "https://open.spotify.com/artist/0EBQs3FuhHrwUixSsKI2Dn"
+        },
+        {
+          "name": "Phlaque The Grimstress",
+          "url": "https://open.spotify.com/artist/4uUHXzdIW2IXKy362FjGMB"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "Tech N9ne Presents: NNUTTHOWZE - The Siqnal",
+      "url": "https://open.spotify.com/track/02TKQCqn07U3oCpsqFzk7f"
+    },
+    {
+      "album": {
         "name": "Tell Everyone",
         "url": "https://open.spotify.com/album/4op8ISB7KalhZCs511oydO"
       },
@@ -12478,7 +12754,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 230720,
       "name": "The Caliphate (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"
@@ -14420,7 +14696,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 139142,
       "name": "What Is Consciousness?",
       "url": "https://open.spotify.com/track/3QxRWTE24zEgFAqDCmtEDA"
@@ -14478,6 +14754,24 @@
       "duration_ms": 121441,
       "name": "When I Come Around - 4-track demo",
       "url": "https://open.spotify.com/track/1AQZlSq7fPI6RlErGe8YSa"
+    },
+    {
+      "album": {
+        "name": "Dookie (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47l8TkJCLzHaekHImz1e9g"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179623,
+      "name": "When I Come Around - Cassette demo",
+      "url": "https://open.spotify.com/track/4ECOhAff9rCHTgddtPO1Wa"
     },
     {
       "album": {

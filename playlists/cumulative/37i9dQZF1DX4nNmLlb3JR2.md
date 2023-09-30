@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-204 songs - 8 hr 10 min
+205 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [so sick](https://open.spotify.com/track/04P0VWJ6oo8Hh7pmyrQIuW) | [flowtide](https://open.spotify.com/artist/1krCmhhTo8H7k8YxKoKpbv) | [so sick](https://open.spotify.com/album/4Vv9Xe8EXex4XS0EAoJ4Vt) | 2:01 | 2023-01-06 |  |
 | [somebody else](https://open.spotify.com/track/4SwdZqpbUSk66Ml3LtV1JA) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [somebody else](https://open.spotify.com/album/2Xge9gAY63AG4CL9vp27e9) | 1:39 | 2023-03-01 |  |
 | [somebody that i used to know](https://open.spotify.com/track/5zpP3Fwp1sxvzKihtrwYIp) | [Mushhi](https://open.spotify.com/artist/1NtM12STZroHO6boHGnnAk) | [somebody that i used to know](https://open.spotify.com/album/5MXi1CS3sQxi2TtX8WhY46) | 2:30 | 2023-06-09 | 2023-09-08 |
-| [Stay \(lofi remix\)](https://open.spotify.com/track/6OBjTQlEcdIrHzqaqzLRI2) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [LoFi Remixes of Famous TikTok Songs \(songs stuck in your head\)](https://open.spotify.com/album/5PtYr6slAFyJ0afCDPlkgK) | 1:50 | 2022-09-02 |  |
+| [Stay \(lofi remix\)](https://open.spotify.com/track/6OBjTQlEcdIrHzqaqzLRI2) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [LoFi Remixes of Famous TikTok Songs \(songs stuck in your head\)](https://open.spotify.com/album/5PtYr6slAFyJ0afCDPlkgK) | 1:50 | 2022-09-02 | 2023-09-30 |
+| [Stay \(lofi version\)](https://open.spotify.com/track/4qPbSwK3qgX9skfXYtBP1j) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [Sad Edits & LoFi Covers of Famous Songs](https://open.spotify.com/album/4cSwggpE9uS3zM6Zkkxln5) | 1:58 | 2023-09-29 |  |
 | [Stay High](https://open.spotify.com/track/4zkSqnyv3re6lZhLRYghY8) | [Miro Mas](https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL) | [I've Seen You Somewhere Before](https://open.spotify.com/album/68dG80XL5iTYGxjlfmG8tx) | 3:11 | 2022-09-02 |  |
 | [stay with me](https://open.spotify.com/track/5DTBkfXH6YJV42PD3NxQVx) | [Reggie Lume](https://open.spotify.com/artist/6wQTCO5DGk8vkOA0p514km) | [stay with me](https://open.spotify.com/album/1wIME3lWJVOGJWHvLdjYUF) | 2:14 | 2022-12-16 |  |
 | [Stayin' Alive](https://open.spotify.com/track/5bgVt8KSOMsB3f0SUUd92n) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Avocuddle](https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Stayin' Alive](https://open.spotify.com/album/5GmwBcAg9KA6ChJkBb9Geq) | 1:35 | 2022-09-02 |  |

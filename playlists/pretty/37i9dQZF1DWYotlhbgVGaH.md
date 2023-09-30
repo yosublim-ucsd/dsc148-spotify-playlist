@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,446 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,507 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 37 | [Knockin' At Your Door](https://open.spotify.com/track/7GFHztqce85FfPw6da1q5M) | [Morty Okin](https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6), [Vise Grip](https://open.spotify.com/artist/5vdxG8lIVgeuQAooxpcRPN), [Connie Champagne](https://open.spotify.com/artist/70QwxuyNp0LtvRDWaQoRF1), [David Murotake](https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0), [David Rubin](https://open.spotify.com/artist/1xWWglzQnxLVVPNGgUgJSa), [John Quam](https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E), [Tom Beyer](https://open.spotify.com/artist/36PVk81h0GlEbiG3ABwafM), [Tom Griesser](https://open.spotify.com/artist/4MFYRlA6OSe6jWYscM6VSF), [Van Hughes](https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3), [Whitney Wilson](https://open.spotify.com/artist/6OD4sZsyjT7T7PW3ZynaM7) | [Mortyfied!](https://open.spotify.com/album/3xsxAd9Nkl5uBw3qZe0A5e) | 2:49 |
 | 38 | [Mildred, Won't You Behave?](https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M) | [Bill Elliott Swing Orchestra](https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn) | [Calling All Jitterbugs!](https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI) | 3:43 |
 | 39 | [Honey Pie](https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [Everybody's Talkin' 'Bout Miss Thing!](https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR) | 4:10 |
-| 40 | [Solid Gold Cadillac](https://open.spotify.com/track/1oztW0EFjpj4WSHEf6Jt0b) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Solid Gold Cadillac](https://open.spotify.com/album/6JfB7Xb4Qk8D2Ioas6TYNO) | 3:02 |
-| 41 | [Dirty Dog](https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [The Romper Room](https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4) | 3:28 |
+| 40 | [Dirty Dog](https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [The Romper Room](https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4) | 3:28 |
+| 41 | [Solid Gold Cadillac](https://open.spotify.com/track/1oztW0EFjpj4WSHEf6Jt0b) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Solid Gold Cadillac](https://open.spotify.com/album/6JfB7Xb4Qk8D2Ioas6TYNO) | 3:02 |
 | 42 | [Pink Elephant](https://open.spotify.com/track/09ixyQNF20bjWpzg4zytga) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [Rapid City Muscle Car](https://open.spotify.com/album/3xyaJb0xyyQDeAfPPhotOR) | 3:44 |
 | 43 | [Oak Tree](https://open.spotify.com/track/6vpZcGzUsskAQg6ZerKDu9) | [Alien Fashion Show](https://open.spotify.com/artist/7ib7KxeL61amtEbPFGPk5P) | [Cool Thing](https://open.spotify.com/album/15CTW9TXXjTAKHutxmWXJg) | 4:28 |
 | 44 | [Yama Yama Pretty Mama](https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [Sugar High](https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [Superhero Swinger Undercover](https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN) | 3:58 |
 | 50 | [Swingin' At The Savoy](https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Jump For Joy](https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7) | 3:37 |
 
-Snapshot ID: `MCw5YmE1NzFiNTE1YzAwOGQ0MjlkZjc0YzI2YjJlNmZlZmY5NWI3ZTlh`
+Snapshot ID: `MCw5MzEwNWYwYTZjYzFlZjVhZjJlYjhlZDY5N2QyMDkxNGQwZDExMzEz`

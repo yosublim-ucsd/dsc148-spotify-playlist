@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > For your pre\-games, afters, spurts of manic cleaning, and everything in between\. Curated by the Portola Festival Department of Science and Research.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,296 likes - 66 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,949 likes - 66 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 | 65 | [Last Dance \- Single Version](https://open.spotify.com/track/29RcVe2M9l8rHyWHffBmjf) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Walk Away \- Collector's Edition The Best Of 1977\-1980](https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7) | 3:19 |
 | 66 | [Blow Out](https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Blow Out](https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1) | 3:36 |
 
-Snapshot ID: `MCxlNzBhYjJmOGRkNDU3MWUxOGIzMTMwNWNjMjg0MzFlOWNiZTA1Y2U5`
+Snapshot ID: `MCw2ZTk2M2JlZTc4YTkzZjkyMDg4MWJiOTk1ZGFhMTU4ODIxYmMwODg1`

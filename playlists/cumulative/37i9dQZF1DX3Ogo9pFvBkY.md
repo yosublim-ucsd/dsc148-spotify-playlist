@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-763 songs - 1 day 16 hr 3 min
+764 songs - 1 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,6 +452,7 @@
 | [Moving Through Clouds](https://open.spotify.com/track/0UQw1kJHE2gSO09fpFmuNu) | [Alisa Bergman](https://open.spotify.com/artist/78kBvRbqaSQ4tfv2fAbzHf) | [Moving Through Clouds](https://open.spotify.com/album/1ZHf1bZ7LUFzaeAtAgY0TP) | 2:49 | 2021-10-27 |  |
 | [My Heart](https://open.spotify.com/track/4cAGCkkLv77F0VWFPkQxUG) | [Bella Mie](https://open.spotify.com/artist/1aqj4NItjznvMP8uHTeCLR) | [My Heart](https://open.spotify.com/album/4a77dNUR7QMqW1ltyaDhIT) | 2:57 | 2022-02-15 |  |
 | [Near Peripheral](https://open.spotify.com/track/16W5ZMsSFv44WifqCaSHy8) | [Oscar Collin](https://open.spotify.com/artist/1M3HY17BN4sCRnBaph6tF3) | [If You Will](https://open.spotify.com/album/7yiHvwPTrgzxzaCcteQOMl) | 2:27 | 2019-05-26\* | 2020-01-03 |
+| [Nebbia](https://open.spotify.com/track/16d6iAPkHT69gtd9dksGuz) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Nebbia](https://open.spotify.com/album/2hHwQHgFG9yUVxsddb1YBH) | 2:53 | 2023-09-29 |  |
 | [Neblina](https://open.spotify.com/track/36JZbTsvp44NkViBfn5o0o) | [Valentinah Garcia](https://open.spotify.com/artist/2H7P5YeImYP9Z6RdOSPyQN) | [Neblina](https://open.spotify.com/album/5MHWq6pCwzDE3niX3dCZ4b) | 2:23 | 2022-04-14 |  |
 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 | 2021-10-06 |  |
 | [Nebula](https://open.spotify.com/track/0gfu11MNbGR6ljDPp69yq1) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Light Year](https://open.spotify.com/album/2uEPdEPr1HkwxgHqJwecAn) | 5:20 | 2019-12-07 | 2021-07-23 |

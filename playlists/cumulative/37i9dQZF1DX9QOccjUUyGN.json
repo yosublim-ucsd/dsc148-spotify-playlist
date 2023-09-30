@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 150000,
       "name": "Baralho",
       "url": "https://open.spotify.com/track/7ErQJtGIqLKCcQ0XqIIOmO"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 141929,
       "name": "Camale\u00e3o",
       "url": "https://open.spotify.com/track/3qeWrfX8zmDMPqCPEH27gV"
@@ -3003,6 +3003,32 @@
     },
     {
       "album": {
+        "name": "Diferente de V\u00e1rios",
+        "url": "https://open.spotify.com/album/2ihdGuyTAT8CugfbSgmdqi"
+      },
+      "artists": [
+        {
+          "name": "HTreze",
+          "url": "https://open.spotify.com/artist/0cAR1YpbfgXZnTYTL3PG3w"
+        },
+        {
+          "name": "Felipe Poeta",
+          "url": "https://open.spotify.com/artist/3gZcF1tlgvrjYOaMOUW8Px"
+        },
+        {
+          "name": "Laundry Records",
+          "url": "https://open.spotify.com/artist/2V3I6RpWfNn1Y5cQzdu4zY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124342,
+      "name": "Diferente de V\u00e1rios",
+      "url": "https://open.spotify.com/track/4ECsk9biT0PILIy3TW4Vqd"
+    },
+    {
+      "album": {
         "name": "Disfar\u00e7a",
         "url": "https://open.spotify.com/album/3jG7kKxQkJ0NB3rXfQSLUQ"
       },
@@ -3613,6 +3639,28 @@
     },
     {
       "album": {
+        "name": "Engano",
+        "url": "https://open.spotify.com/album/7aoqwYZyqDjZehaVU25QWb"
+      },
+      "artists": [
+        {
+          "name": "Zares",
+          "url": "https://open.spotify.com/artist/1yXn7j84tP9bcA0k4OgIaF"
+        },
+        {
+          "name": "Vice-Versa",
+          "url": "https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136513,
+      "name": "Engano",
+      "url": "https://open.spotify.com/track/0bVpusqcvnDWoymFgsLNtw"
+    },
+    {
+      "album": {
         "name": "Era do Ch\u00e1",
         "url": "https://open.spotify.com/album/2YkOH17DyQszV5dgcQYC5a"
       },
@@ -4088,6 +4136,24 @@
       "duration_ms": 197147,
       "name": "Fatos Reais",
       "url": "https://open.spotify.com/track/1Gdsh7Y72CqCy3as4hbnu3"
+    },
+    {
+      "album": {
+        "name": "Fauna e Flora",
+        "url": "https://open.spotify.com/album/5OEyOvloQ7nHauiurMqq00"
+      },
+      "artists": [
+        {
+          "name": "Barcellos",
+          "url": "https://open.spotify.com/artist/3P7RXjD1Ak6IETrHzuRk8P"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129326,
+      "name": "Fauna e Flora",
+      "url": "https://open.spotify.com/track/71tcKNNAxaAnkxvkwNYszB"
     },
     {
       "album": {
@@ -5074,7 +5140,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 206632,
       "name": "Ins\u00f4nia",
       "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
@@ -6534,7 +6600,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 160000,
       "name": "Mira Laser",
       "url": "https://open.spotify.com/track/6T6ffiFG97deyMcgcBYu9k"
@@ -7318,7 +7384,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 170434,
       "name": "N\u00e3o Foi Em V\u00e3o",
       "url": "https://open.spotify.com/track/0gGhzkV3HePnt92jHCLMda"
@@ -9674,7 +9740,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 165389,
       "name": "SEM ROTEIRO",
       "url": "https://open.spotify.com/track/2L22S6sgS9rTIrLV0m6eav"
@@ -10956,6 +11022,66 @@
       "duration_ms": 144260,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/62wVOtLsX8RK8Fz1hlDORZ"
+    },
+    {
+      "album": {
+        "name": "Verdade$ Secreta$",
+        "url": "https://open.spotify.com/album/1BdV7PnLKg2n9p8CgkAQdM"
+      },
+      "artists": [
+        {
+          "name": "Dom R",
+          "url": "https://open.spotify.com/artist/0ucf3N9AACArceQVOowiD1"
+        },
+        {
+          "name": "Pedro Medz",
+          "url": "https://open.spotify.com/artist/4qPshkDVlRqhZKRkz6tzmv"
+        },
+        {
+          "name": "Gore",
+          "url": "https://open.spotify.com/artist/4fcl3ckPxlHPIkviwDMtAU"
+        },
+        {
+          "name": "Ibrahits",
+          "url": "https://open.spotify.com/artist/6HboNi5lIZPz7BetCfCTgu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "Verdade$ Secreta$",
+      "url": "https://open.spotify.com/track/3ZMfLLmOexYB6f0XIgSLML"
+    },
+    {
+      "album": {
+        "name": "Vermelho Campari",
+        "url": "https://open.spotify.com/album/5fUpKhFaOUJXLqCetLATxf"
+      },
+      "artists": [
+        {
+          "name": "Fresh Mind Co.",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        },
+        {
+          "name": "Manocchio",
+          "url": "https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214216,
+      "name": "Vermelho Campari",
+      "url": "https://open.spotify.com/track/6AGNVdcVyZTyNsy1BN1ER6"
     },
     {
       "album": {

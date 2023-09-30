@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Consider",
+        "url": "https://open.spotify.com/album/7cpmL0bFhUkvuBM8cpGWeg"
+      },
+      "artists": [
+        {
+          "name": "Decan\u00f5e",
+          "url": "https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163838,
+      "name": "Consider",
+      "url": "https://open.spotify.com/track/47KiJwkuSOnFeL5WvLBFvP"
+    },
+    {
+      "album": {
         "name": "Reiki Healing",
         "url": "https://open.spotify.com/album/53nBbgsW6vWkFgfEKlriyu"
       },
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 296800,
       "name": "Jane 2",
       "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
@@ -1702,6 +1720,24 @@
       "duration_ms": 180909,
       "name": "Orphic",
       "url": "https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk"
+    },
+    {
+      "album": {
+        "name": "Patiently",
+        "url": "https://open.spotify.com/album/768bX4s0q9wTXd1Nxt5mo4"
+      },
+      "artists": [
+        {
+          "name": "Theodore Brim",
+          "url": "https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178166,
+      "name": "Patiently",
+      "url": "https://open.spotify.com/track/4ksohd9Ti6zViNRYe80JEW"
     },
     {
       "album": {

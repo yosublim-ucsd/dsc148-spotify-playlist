@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-515 songs - 1 day 4 hr 52 min
+518 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 | 2022-10-05 | 2023-06-23 |
 | [i luv ur smile](https://open.spotify.com/track/4rX8Np5NElrnKeCd4KDNbD) | [Harrisun](https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A) | [i luv ur smile](https://open.spotify.com/album/19ADS40GUeLlNCa7Rbk2gP) | 4:07 | 2023-08-11 |  |
 | [I See You \(with Marc E\. Bassy\)](https://open.spotify.com/track/2Z8PrOwTgFVP6kJNtPTkMq) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [I See You \(with Marc E\. Bassy\)](https://open.spotify.com/album/0R5neGxstfsw1hZpjFSHcm) | 2:53 | 2022-03-09 | 2022-03-31 |
+| [I Want You 2 \(Stay\) \- Slow Magic Remix](https://open.spotify.com/track/45VQ9bNqtFe99XJb2NyTPq) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [ILLENIUM \(Remixes\)](https://open.spotify.com/album/6Ugig0sDdLrKGBW7j1skPO) | 3:56 | 2023-09-29 |  |
 | [I Will](https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 5:08 | 2022-08-12 | 2023-01-30 |
 | [i'll be there](https://open.spotify.com/track/2oRO0TDoMyhowADpRKqexD) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [i'll be there](https://open.spotify.com/album/591MuZEfnrMQfVtIv270WE) | 2:37 | 2022-12-12 |  |
 | [I'm a Mess](https://open.spotify.com/track/1cfoP2ZOuwM5mcFUsZ1UH9) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [I'm a Mess](https://open.spotify.com/album/2mqY2v3uVMRYNFTERP3812) | 2:16 | 2022-02-15 | 2022-03-10 |
@@ -335,6 +336,7 @@
 | [Octavia](https://open.spotify.com/track/5jvIE049KDxFEGJdbKOA7Q) | [Rossy](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [Octavia](https://open.spotify.com/album/7pLF40nSHudOnKd0i4m30m) | 3:30 | 2021-11-12 | 2022-01-08 |
 | [Oh Naur](https://open.spotify.com/track/3cqbmqA6fbgPINJzWbgsad) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Oh Naur](https://open.spotify.com/album/22puJMyQXeGW1mgiE1vw1I) | 1:18 | 2022-07-19 | 2023-01-20 |
 | [On 2 Me](https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [On 2 Me](https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP) | 2:30 | 2022-03-18 | 2022-04-19 |
+| [On My Own](https://open.spotify.com/track/1bDVpNtcMmMfvqo1hIYWlw) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [On My Own](https://open.spotify.com/album/3Uzdtm2leQXh3Udy1WJ8XN) | 4:07 | 2023-09-29 |  |
 | [on the hill](https://open.spotify.com/track/33uIddmYbMTtXea5qTfwLT) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG), [Finn Sigil](https://open.spotify.com/artist/4hUoSB0GFnGjmwUouW4Z2O) | [Mage 1](https://open.spotify.com/album/0WzFWjxpn9M2vQJS1jxcGR) | 4:40 | 2022-07-01 | 2022-09-19 |
 | [Once Upon a Time](https://open.spotify.com/track/1PhU0beKROIDBxxwf0B7lr) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Once Upon a Time](https://open.spotify.com/album/3jBewN7LtSKeaKoKY7zlKF) | 3:39 | 2023-06-15 | 2023-06-23 |
 | [One More Time \- AOBeats Remix](https://open.spotify.com/track/7c9l2jlh2XHyRmDC6Cz5CX) | [Luka Kloser](https://open.spotify.com/artist/3IOjE9iyEPAWA1MnoeKjfQ), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [One More Time \(AOBeats Remix\)](https://open.spotify.com/album/2KIgLWdFH0EF6H5RFvR9qW) | 2:38 | 2022-03-04 |  |
@@ -494,6 +496,7 @@
 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 | 2023-03-22 |  |
 | [want u](https://open.spotify.com/track/6nw4IaIhMiSsAiC0Wcij3U) | [SENZA](https://open.spotify.com/artist/6WjBgaTm4K1hVJ7KOfIs76) | [want u](https://open.spotify.com/album/7njdUxRgzPxUlUBHTYLR3r) | 2:35 | 2023-09-18 |  |
 | [Wanted More](https://open.spotify.com/track/0ooVZc9MsUtiHKy9QtnbH3) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN) | [Wanted More](https://open.spotify.com/album/1grxrDJUvkQgAY7PZMXWZj) | 2:55 | 2023-01-19 | 2023-06-23 |
+| [WAR](https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [WAR](https://open.spotify.com/album/7vtYc3w0egjBboxXiKArmD) | 2:37 | 2023-09-29 |  |
 | [WAV3S](https://open.spotify.com/track/3WHg0730YWLaPSEnUaZ0E0) | [33col3](https://open.spotify.com/artist/3X6o8V3Hm7FIcPBfVMoNPt) | [WAV3S](https://open.spotify.com/album/1X3uxRaDKh4AChDmlpQqBF) | 3:08 | 2022-02-28 | 2022-03-31 |
 | [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 | 2022-07-23 |  |
 | [We Like To Wuki](https://open.spotify.com/track/61EyDcgpYujFLrvd60da0l) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj), [Yo Majesty](https://open.spotify.com/artist/02QcKlcRiv2tXgI669XopZ) | [We Like To Wuki](https://open.spotify.com/album/5gVIZpWenjQfrJXV7XZi5B) | 2:41 | 2022-08-12 | 2022-09-17 |

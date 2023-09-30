@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-646 songs - 1 day 1 hr 20 min
+647 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Blossom](https://open.spotify.com/track/3HSulWqe4jfbXxfGzC0toF) | [Esoterak](https://open.spotify.com/artist/1GCwB469xHamTI5nnHjD8F) | [Blossom](https://open.spotify.com/album/78JlQLKwFrVgJ386stGMnP) | 2:00 | 2023-01-13 |  |
 | [Blue](https://open.spotify.com/track/0J5KBZKxy0kQAq81KNtExp) | [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY), [Swilled](https://open.spotify.com/artist/3U86ENktrj7XqYyRPDS4t3), [Broken Holiday](https://open.spotify.com/artist/0O76plZlrqmubSLOZHDOmI) | [Blue](https://open.spotify.com/album/2Xl4OsqpLXOyBRlpR50AfG) | 2:30 | 2023-01-13 | 2023-09-29 |
 | [Blue Amethyst](https://open.spotify.com/track/4ZJp39ATL2kwnWu65OETfz) | [Electrotastica](https://open.spotify.com/artist/5q5uMW70FwqROgeYo3ojb8) | [Blue Amethyst](https://open.spotify.com/album/6qnYKezz4MSP7fKD5zAGhv) | 2:10 | 2023-01-13 | 2023-09-29 |
-| [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
+| [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Blush](https://open.spotify.com/track/6smVZWU1IXU6HCGR5DN61g) | [Kyoto Dreams](https://open.spotify.com/artist/4iEdyYO8Va1fewpUAi6Mt2) | [Blush](https://open.spotify.com/album/6jWdLsVGwOaMVZlU5WIQ3V) | 2:37 | 2023-01-13 | 2023-09-16 |
 | [Bowl of mine](https://open.spotify.com/track/7C1yeWtYHbwCKdS8NfCh4a) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Bowl of mine](https://open.spotify.com/album/2HCALXup9uK0gtiFdSEKnx) | 1:57 | 2023-01-13 |  |
 | [Bowlin'](https://open.spotify.com/track/5KuUlaG43mZBJA9dLoOFCT) | [Titus Martinu](https://open.spotify.com/artist/5xgzUVEK9ndCxbJQIoZjlA) | [Bowlin'](https://open.spotify.com/album/41uIyry18CaMvOBd6pA6pe) | 2:25 | 2023-09-08 | 2023-09-16 |
@@ -92,6 +92,7 @@
 | [Cape Judge](https://open.spotify.com/track/5GtIpEXs7ZBOz49Y4Tekpb) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Cape Judge](https://open.spotify.com/album/0qBw9ryoN9AhxwkxgPJIrB) | 2:57 | 2023-01-13 |  |
 | [Cartoons & Cereal](https://open.spotify.com/track/3NA3j32GZcVlLHE5ouertM) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:55 | 2023-01-13 |  |
 | [Cash Plants Everywhere Around Me](https://open.spotify.com/track/1TKRQhnQkTU9CCRCQF6mst) | [Diggy Mac Dirt](https://open.spotify.com/artist/4QRxmPoNahr4QIDkGXhZRI) | [KEATS 14](https://open.spotify.com/album/3TAHdCE2XDJXyhHkVJJnYY) | 2:22 | 2023-09-08 | 2023-09-22 |
+| [cashmere](https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [cashmere](https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y) | 2:22 | 2023-09-29 |  |
 | [caviar](https://open.spotify.com/track/3y6KYivzMqOZDscUH2Cn9N) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [laugh at the balance](https://open.spotify.com/album/6VrZDk65XkMRuk9IW4tudW) | 2:08 | 2023-01-13 |  |
 | [Chapman](https://open.spotify.com/track/16N0uGSoGeW41PrPCEnh8T) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Chapman](https://open.spotify.com/album/6dP2OierGgAWvXtfjRpWtZ) | 2:09 | 2023-01-13 |  |
 | [charm me](https://open.spotify.com/track/6wnYzqq1yJIPLjO2JcXxup) | [flax flame](https://open.spotify.com/artist/2UZjBwBEki9gEeOYinkKMs) | [charm me](https://open.spotify.com/album/2Z13blqHM97m9zeBjxjfxz) | 2:31 | 2023-01-13 | 2023-07-20 |

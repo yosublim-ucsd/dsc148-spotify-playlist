@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,278 likes - 241 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,434 likes - 241 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 60 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 |
 | 61 | [ghost \(feat\. HUMAN\)](https://open.spotify.com/track/1FBe5ufpstCna9qm0Y6q9U) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [HUMAN](https://open.spotify.com/artist/4rje1ago7T6xEn8SABCTIY) | [ghost \(feat\. HUMAN\)](https://open.spotify.com/album/3wIh99BbkbZ5DGOGxJ2bPR) | 3:56 |
 | 62 | [You've Got The Love \- Sistek Remix](https://open.spotify.com/track/6xRhFcqq4FX9b0PFZU1j43) | [Ethan Hodges](https://open.spotify.com/artist/2MJuujOU75c34aWr7TZsGD), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [You've Got The Love \(Sistek Remix\)](https://open.spotify.com/album/2FFJIAcV3ApoKyN2YyRXj3) | 3:31 |
-| 63 | [I Will](https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 5:08 |
+| 63 | [I Will](https://open.spotify.com/track/4LO0iMEDBw0YeW4lP3NeLO) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/2kqtuCdf3VdcIX93cyc5go) | 5:08 |
 | 64 | [Keep You As A Memory \- Disco Lines Remix](https://open.spotify.com/track/6DJw57OGSrunErUHTurP0K) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Keep You As A Memory \(Disco Lines Remix\)](https://open.spotify.com/album/3KIo8fRmpODr82I90l3XcC) | 3:58 |
 | 65 | [Say It To Me](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Say It To Me](https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW) | 4:02 |
 | 66 | [Lavendel](https://open.spotify.com/track/0lbjpK5PxeMycGZaZ1idNf) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:25 |
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 240 | [So Long](https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:47 |
 | 241 | [So Good](https://open.spotify.com/track/7p4dZT5LxcWxyvpJRW2eVw) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [So Good](https://open.spotify.com/album/6sDBmrhOFwAgqs9HK3STCd) | 2:43 |
 
-Snapshot ID: `MCw2NzIyZDQzNzA4YWFkZGRhMjM4ZmU2Y2JkYTkzMDhlNzIwMDE5Zjg0`
+Snapshot ID: `MCxkMTk0MGQ0MTU1MzQ1NDBlN2NmMmZiY2QyOWRiYTZjMDU0NDcyNzRi`

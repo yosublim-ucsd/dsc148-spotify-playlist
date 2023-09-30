@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-86 songs - 7 hr 42 min
+87 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Jesu, Joy of Man's Desiring](https://open.spotify.com/track/2nnlowBc8ZESp1UUTEOiIx) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Classical Jazz: Swingin' Jazz Interpretations of the Classics](https://open.spotify.com/album/5eiHbQCWmPTa9IqO8A3Xsn) | 5:12 | 2021-12-02 |  |
 | [Lascia ch’io pianga](https://open.spotify.com/track/1mb90qwNLNgOTtGBwkTVi1) | [Filip Jers](https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl), [Henrik Hallberg](https://open.spotify.com/artist/3pu695ZYqRFY0Gy1aZXdPE), [Vilhelm Bromander](https://open.spotify.com/artist/7Ji05Hs29f7TP7DctMkm1d), [Wille Alin](https://open.spotify.com/artist/1t4ttLG6j0jzMppEYnCGzg) | [Lascia ch’io pianga](https://open.spotify.com/album/1kDOPnnHOo6jKtRRMdvsd4) | 4:12 | 2022-11-24 |  |
 | [Le Père Lachaise \- 24 Preludes, Op\. 28: No\. 4 in E Minor](https://open.spotify.com/track/2rgufOrTopmbEea9g0UJmR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Félicien Brut](https://open.spotify.com/artist/0eDrryGufj7n7Jou377AGU), [Edgar Moreau](https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0), [Edouard Macarez](https://open.spotify.com/artist/7uvOmP5c9TEmFoHmmpQ5BH) | [The Paris Album: Le Père Lachaise \- 24 Preludes, Op\. 28: No\. 4 in E Minor](https://open.spotify.com/album/4rPrVoTfSehLZmKYm9NLu8) | 4:36 | 2022-10-14 |  |
+| [Libra](https://open.spotify.com/track/2dEimLdpOJLBDPHJqSTWvy) | [Aaron Diehl](https://open.spotify.com/artist/2FnwobtceU4Gt0REt02z2W), [The Knights](https://open.spotify.com/artist/3pZzcGCvhNTv3yoWmrXGNm) | [Zodiac Suite](https://open.spotify.com/album/6xMuaOboivwaqgRZnJ6DYg) | 3:54 | 2023-09-29 |  |
 | [Marzamemi](https://open.spotify.com/track/5ziXsLz1pXCBbvdzUvlNRx) | [Michel Bisceglia](https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC), [Marc Lehan](https://open.spotify.com/artist/0QMgOp0gF1fxA5egCXg96G), [Werner Lauscher](https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U) | [Marzamemi](https://open.spotify.com/album/3DAQwOi0le2C5l9RgbCiry) | 6:15 | 2023-02-03 |  |
 | [Mazurka No\. 1](https://open.spotify.com/track/0smHgnEPwiaUbeITveQEcg) | [European Jazz Trio](https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI) | [Classics](https://open.spotify.com/album/2Jsl2o6t5fxE90CTunCX91) | 4:14 | 2021-12-02 |  |
 | [Moonlight Sonata](https://open.spotify.com/track/0yERcLFHXV0kbdZZktZMqZ) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Classical Jazz: Swingin' Jazz Interpretations of the Classics](https://open.spotify.com/album/5eiHbQCWmPTa9IqO8A3Xsn) | 6:45 | 2022-07-07 |  |

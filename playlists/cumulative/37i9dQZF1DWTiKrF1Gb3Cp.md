@@ -4,7 +4,7 @@
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-127 songs - 7 hr 41 min
+128 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Activados y Prendidos](https://open.spotify.com/track/4AvpUGiEn0d9HQEPuvC7gt) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG) | [Activados y Prendidos](https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj) | 2:55 | 2023-02-23 | 2023-08-17 |
 | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr) | 3:12 | 2023-06-16 |  |
 | [Ahora Preguntan](https://open.spotify.com/track/4h4aLuUdPJQehnMCGyefCu) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ahora Preguntan](https://open.spotify.com/album/0otZ6JXJ84JYCXbjAQh8lK) | 3:08 | 2023-02-23 |  |
-| [Al Millón](https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z) | [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT), [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n), [Alann Mora](https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb) | [Al Millón](https://open.spotify.com/album/4P9XxgcqLfqBrNLHn1RTL0) | 2:18 | 2023-05-05 |  |
+| [Al Millón](https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z) | [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT), [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n), [Alann Mora](https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb) | [Al Millón](https://open.spotify.com/album/4P9XxgcqLfqBrNLHn1RTL0) | 2:18 | 2023-05-05 | 2023-09-30 |
 | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8) | 2:54 | 2023-02-23 |  |
 | [aPoLLo13](https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [aPoLLo13](https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE) | 2:40 | 2023-05-05 |  |
 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 | 2023-03-31 |  |
@@ -129,6 +129,7 @@
 | [Un Par De Balas](https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Clasificacion C Vol.1](https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ) | 3:48 | 2023-02-23 |  |
 | [Vamos a Beber](https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Vamos a Beber](https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN) | 3:10 | 2023-02-23 | 2023-07-07 |
 | [Vaya Vaya](https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vaya Vaya](https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE) | 3:05 | 2023-02-23 |  |
+| [Verdes Llegan](https://open.spotify.com/track/1Cdz9y4RXpxRPfVplgvGsE) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV) | [Viviendo La Movie](https://open.spotify.com/album/5Z49oQH31camlbDq0mHNsL) | 2:57 | 2023-09-29 |  |
 | [VRGCRA](https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [VRGCRA](https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx) | 3:58 | 2023-07-28 |  |
 | [WARZONE FREESTYLE](https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [WARZONE FREESTYLE](https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P) | 3:16 | 2023-02-23 | 2023-09-16 |
 | [Ya Ni Modo](https://open.spotify.com/track/3bj0evIVd1Tbbnn8h6WSl3) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL) | 5:15 | 2023-02-23 |  |

@@ -2,9 +2,9 @@
 
 ### [Bambai Bantai](https://open.spotify.com/playlist/37i9dQZF1DXbSaMQIHweTw)
 
-> Rapping into your hearts from the alleys of Mumbai\. Cover\- Sammohit and MC Altaf
+> Rapping into your hearts from the alleys of Mumbai\. Cover\- Loka
 
-107 songs - 5 hr 47 min
+108 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aaina](https://open.spotify.com/track/7rMJ1krFie8nKq5cWUAQsx) | [Mohak](https://open.spotify.com/artist/4P7MLqhC62ywWaE2iHiW8p), [Prithvi Shetty](https://open.spotify.com/artist/7yIyJiv9hpogI5BWjUXMNd) | [Aaina](https://open.spotify.com/album/3oCS4F4IVlOvjhYZRX5tzi) | 3:16 | 2023-03-17 | 2023-04-25 |
 | [Aasman](https://open.spotify.com/track/2yjTCFakcjqnglgYKUIg59) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [DEB](https://open.spotify.com/artist/1kRqyOs7RYeov3V6b9T86c) | [Aasman](https://open.spotify.com/album/5v11jzytJxoinU1wAdrZMu) | 2:44 | 2023-03-17 | 2023-04-25 |
 | [ALAG BT](https://open.spotify.com/track/6UWlAw7SRidFHyYgiqlqX0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [ALAG BT](https://open.spotify.com/album/0w17qtUDmxXdh5fsHynOCm) | 3:20 | 2023-03-17 |  |
+| [Arthur Road](https://open.spotify.com/track/2VX9Q3uMmTH5S8dt8PzMmX) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Arthur Road](https://open.spotify.com/album/7xbOLjtp1MXCnBOTc9YbmQ) | 2:55 | 2023-09-29 |  |
 | [AS\-SALAM WALEKUM](https://open.spotify.com/track/58mMBQGiA8I8ROLvIFZxB2) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [AS\-SALAM WALEKUM](https://open.spotify.com/album/51NQPN3maAr1O8Z6ZLMOyx) | 4:14 | 2023-03-17 | 2023-04-25 |
 | [Aur Karo](https://open.spotify.com/track/1kl7RMYQA3jIN182UyscqG) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Spitfire](https://open.spotify.com/artist/54QveaJeGQsf0783I52FzJ), [Rākhis](https://open.spotify.com/artist/45kuS1r5gugHQMXs54HOp6) | [Aur Karo](https://open.spotify.com/album/3D4e4A9zuxKEf9tiAAZwkb) | 2:58 | 2023-03-17 | 2023-09-02 |
 | [Baatcheet](https://open.spotify.com/track/4dq90wNvpnKAHaxMx3oJp8) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO) | [Robin Hood](https://open.spotify.com/album/6sVYed41ypnAPwcoHOXzWu) | 2:34 | 2023-09-15 |  |

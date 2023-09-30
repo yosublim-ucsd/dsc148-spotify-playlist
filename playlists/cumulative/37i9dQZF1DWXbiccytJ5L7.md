@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-110 songs - 6 hr 7 min
+112 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Country Made](https://open.spotify.com/track/0kvkHlDvoALmZU8pzkXTur) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Still The King](https://open.spotify.com/album/203wsuneFV8jM0aYimR0TR) | 3:29 | 2023-04-21 |  |
 | [Country Made](https://open.spotify.com/track/2dzQTTYxfcKpH8PncC3SkE) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Still The King](https://open.spotify.com/album/58yc5Wx0ShmeAsJjParire) | 3:29 | 2023-03-17 | 2023-05-18 |
 | [Country Slide](https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22) | [Was it Worth the Wait](https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm) | 2:50 | 2023-03-17 | 2023-05-27 |
+| [Cowboy Capone](https://open.spotify.com/track/57pR0VkO0rLLUZCsyhpg8k) | [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Cowboy Capone](https://open.spotify.com/album/0Cy64A0Me95BhPop86hQFl) | 3:11 | 2023-09-29 |  |
 | [Crocodile Hunter](https://open.spotify.com/track/3DLobnxKerFxxuKCK5VAIG) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq) | [Crocodile Hunter](https://open.spotify.com/album/2zVNTo9y6TcUqlCqnljvpe) | 2:18 | 2023-08-04 |  |
 | [Diesel Gang](https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Diesel Gang](https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb) | 2:18 | 2023-03-17 |  |
 | [Dirt Road](https://open.spotify.com/track/24LyKCgvEia1eAPUbuISlk) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Dirt Road](https://open.spotify.com/album/2rVX2YE6zvgkTVsWmk7OP5) | 2:30 | 2023-03-17 |  |
@@ -93,6 +94,7 @@
 | [Ride 4 Me](https://open.spotify.com/track/7yyEXTDz5p8BrN60dmYOJ3) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Ride 4 Me](https://open.spotify.com/album/0GikiFDQpTLKZ6ytl4zms0) | 3:12 | 2023-03-17 | 2023-05-18 |
 | [River Rat](https://open.spotify.com/track/6LMLpHHp0OWOjAioVwrV2Z) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [River Rat](https://open.spotify.com/album/7JD03Rcjz7mmnJWXwJaTBo) | 3:28 | 2023-06-16 |  |
 | [Roll With Me](https://open.spotify.com/track/1A8bSRTIaWjOjtt1y8gmZO) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Country Boy City Slick](https://open.spotify.com/album/58rS611GRSt8OEG1Wb1fRu) | 3:55 | 2023-03-17 |  |
+| [Runaway Train](https://open.spotify.com/track/39T5oAenSW23lsJT41u8VP) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Runaway Train](https://open.spotify.com/album/00GNobeHKDEOYXXkXxGwl5) | 3:15 | 2023-09-29 |  |
 | [Shot Me Alive](https://open.spotify.com/track/0p4i3IVz9DMiSs2yq4LiQP) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Shot Me Alive](https://open.spotify.com/album/0JeH0Zusi2x59hwWik9Za9) | 3:06 | 2023-03-17 |  |
 | [Sinner Like Me](https://open.spotify.com/track/01sSGVKLUffTpikbdvjEwl) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Certified Savage](https://open.spotify.com/album/0bM7pyWrF2NRJmqppf09hY) | 2:28 | 2023-03-17 |  |
 | [Son Of The Dirty South](https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [So Help Me God](https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL) | 2:59 | 2023-03-17 |  |

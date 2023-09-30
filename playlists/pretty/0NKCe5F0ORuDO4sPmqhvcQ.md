@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,946 likes - 129 songs - 7 hr 14 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,944 likes - 132 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,5 +137,8 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 127 | [Closer To You](https://open.spotify.com/track/64UCdNSBP51U28Uduj1KiI) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Closer To You / Make Yourself At Home](https://open.spotify.com/album/6g2yAFcr82CEv9ONmcfntZ) | 2:34 |
 | 128 | [The One You Call](https://open.spotify.com/track/6a3FrmdRlDvSOUH1I2caev) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [WILL MAC](https://open.spotify.com/artist/5jH1Szsgrub3R1WQHlzByy), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [The One You Call](https://open.spotify.com/album/1r53rl1GB5DQ2Xuw99dreK) | 3:48 |
 | 129 | [evergreen](https://open.spotify.com/track/7LhF0VgzR4fuN7SdChVRnp) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [evergreen](https://open.spotify.com/album/7CWHFWCJnFiDTCtyDbrVOK) | 2:55 |
+| 130 | [WAR](https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [WAR](https://open.spotify.com/album/7vtYc3w0egjBboxXiKArmD) | 2:37 |
+| 131 | [On My Own](https://open.spotify.com/track/1bDVpNtcMmMfvqo1hIYWlw) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [On My Own](https://open.spotify.com/album/3Uzdtm2leQXh3Udy1WJ8XN) | 4:07 |
+| 132 | [I Want You 2 \(Stay\) \- Slow Magic Remix](https://open.spotify.com/track/45VQ9bNqtFe99XJb2NyTPq) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [ILLENIUM \(Remixes\)](https://open.spotify.com/album/6Ugig0sDdLrKGBW7j1skPO) | 3:56 |
 
-Snapshot ID: `MTA0ODMsNDMyOWIxMGM4MmM2YzM2ZmYzNGQyZWRkZmYyZTQzNDdmYTIxM2I1MQ==`
+Snapshot ID: `MTA0ODYsYjJkNmUxZDgyZmFmZGE1NWUzMzFiNzc2MWNmNDU3ZDE0ZDIxMDJhYg==`

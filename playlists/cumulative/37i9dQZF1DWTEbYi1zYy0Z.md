@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-381 songs - 1 day 2 hr 52 min
+383 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Release](https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Release](https://open.spotify.com/album/7xjP0qV8h62UHwown45INg) | 4:52 | 2021-05-28 | 2022-03-17 |
 | [Relentless](https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [Red Tiger](https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV) | 4:09 | 2022-04-15 | 2023-03-18 |
 | [Ride It](https://open.spotify.com/track/2aojkARgqmwIon4lC9DIWK) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ), [Jamie Jones](https://open.spotify.com/artist/0SlFgjwSXtwK2TVAOJPV4l) | [Ride It \(feat\. Jamie Jones\)](https://open.spotify.com/album/0YdvvDVmj41emEwWnqj6hY) | 2:59 | 2021-10-22 | 2022-07-28 |
+| [Ride the Vibes](https://open.spotify.com/track/2lJzoaHbYNzkvJdG2uSSqv) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Ride the Vibes](https://open.spotify.com/album/6KkYYjSl0cr57tiLlfT7HR) | 3:55 | 2023-09-29 |  |
 | [Right on Time](https://open.spotify.com/track/02lpgkBHgom6jlrs39rGDY) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Right on Time](https://open.spotify.com/album/5iSnIAhinFlHf96YvI912l) | 3:40 | 2023-07-07 |  |
 | [Rise](https://open.spotify.com/track/0ELVxgxkHiSitm14XNxAv2) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF), [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Sing My Song](https://open.spotify.com/album/1iEWhG6JL4RCs16xxrStfC) | 6:00 | 2020-10-30 | 2022-03-18 |
 | [Risin' Up](https://open.spotify.com/track/4zSQTxz4zeplcTGeJHDueh) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Risin' Up](https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t) | 4:03 | 2021-09-10 | 2022-09-17 |
@@ -288,6 +289,7 @@
 | [Shake It Off](https://open.spotify.com/track/0XvTGAT6FGTb7zGTtBBH6Y) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl), [Elan Trotman](https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww) | [Evolution](https://open.spotify.com/album/0JSndWAAAsz0G6Nfb0indM) | 3:50 | 2021-04-30 | 2022-03-18 |
 | [Shine a Light](https://open.spotify.com/track/5tL6TAf1qxRZu5wfMCGQhQ) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Shine a Light](https://open.spotify.com/album/3B3k8AASfqJTK7TXlJkhTT) | 6:46 | 2023-02-10 | 2023-04-15 |
 | [SHINE!](https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [SHINE!](https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt) | 4:21 | 2022-01-21 | 2023-03-25 |
+| [Shore Thing](https://open.spotify.com/track/4bSWGX8MISGps0O6u6RWXJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [The Collaborations](https://open.spotify.com/album/7M0tYO1VeOg9TjIUDe5Ik6) | 4:02 | 2023-09-29 |  |
 | [Side by Side Radio Edit](https://open.spotify.com/track/0mWrMcMOWIB5w5ilmWKkwB) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Side by Side Radio Edit](https://open.spotify.com/album/74R005FKgC9qS7AniLVX0C) | 4:01 | 2020-10-30 | 2022-03-18 |
 | [Skyway](https://open.spotify.com/track/1FGGYZhdSmyCNuu4jFPljf) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Skyway](https://open.spotify.com/album/5rlf26FLZWrcLBZWzxT6Z6) | 3:41 | 2023-04-28 |  |
 | [Slick \- radio single](https://open.spotify.com/track/1v6OP1ljBqa2EGWL8FgDlL) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Slick](https://open.spotify.com/album/3keeHfxRE4zD6YahhiyEY8) | 4:11 | 2022-04-15 | 2023-08-12 |
@@ -373,7 +375,7 @@
 | [Walk It Like You Talk It \(feat\. Roberto Vally\)](https://open.spotify.com/track/0azw9XnJpvH2O852E8hzun) | [Rob Tardik](https://open.spotify.com/artist/2N4cj5HueGaJfIIHeBzz4D), [Roberto Vally](https://open.spotify.com/artist/2SgF3vAKj9RTljwNRWtCKh) | [Diversity, Vol\. 2: Contemporary Funky Jazz](https://open.spotify.com/album/1c2ZmpfoQSV2jyBZJSVO60) | 3:49 | 2021-03-12 | 2022-01-23 |
 | [Way Maker](https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol) | [Uriel Vega](https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg) | [Simply Worship](https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9) | 4:09 | 2022-02-25 | 2023-04-29 |
 | [Wayman](https://open.spotify.com/track/5IbV5J5utEcAspeG0qzHxI) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Wayman](https://open.spotify.com/album/3rpM2guIq3eFlQJirasyu9) | 3:29 | 2021-05-21 | 2022-03-17 |
-| [Weekend Groove](https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT) | [Jesse Thompson](https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [The Inauguration of Jtjazz \(Jesse Thompson the Man Behind the Keys\)](https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a) | 4:53 | 2022-05-06 |  |
+| [Weekend Groove](https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT) | [Jesse Thompson](https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [The Inauguration of Jtjazz \(Jesse Thompson the Man Behind the Keys\)](https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a) | 4:53 | 2022-05-06 | 2023-09-30 |
 | [West Coast Soul](https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH) | [Chris Godber](https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53) | [West Coast Soul](https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V) | 4:19 | 2021-08-13 | 2022-09-17 |
 | [What You Do To Me](https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do To Me](https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV) | 4:57 | 2022-03-11 | 2023-05-15 |
 | [What You Do To Me](https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [What You Do to Me](https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1) | 4:57 | 2022-03-11 | 2022-07-29 |

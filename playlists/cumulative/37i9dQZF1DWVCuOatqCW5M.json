@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Tony Kakkar",
+  "description": "New music from popular Hindi artists. Cover- King",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -192,6 +192,32 @@
       "duration_ms": 181348,
       "name": "Aaj Phir",
       "url": "https://open.spotify.com/track/2Sw1TG2ZgeHwSU5hL0YH4Z"
+    },
+    {
+      "album": {
+        "name": "Aaja Baija Tu (from \"Brand Bollywood Downunder\")",
+        "url": "https://open.spotify.com/album/5oE93LulpFrlhUJqCGq9HX"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "EPR Iyer",
+          "url": "https://open.spotify.com/artist/5meHdLKS90AVzsKa0PKyRF"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179955,
+      "name": "Aaja Baija Tu (from \"Brand Bollywood Downunder\")",
+      "url": "https://open.spotify.com/track/7n2su2GYTS1jNLSWtJ9sKp"
     },
     {
       "album": {
@@ -624,6 +650,24 @@
       "duration_ms": 317091,
       "name": "Achha Sila Diya",
       "url": "https://open.spotify.com/track/0WVMcPw0MpCyckkjdGt0p4"
+    },
+    {
+      "album": {
+        "name": "Adhoora Reh Jaunga",
+        "url": "https://open.spotify.com/album/7HdwbLbgkMHzpBlls5Nn47"
+      },
+      "artists": [
+        {
+          "name": "Yashraj Kapil",
+          "url": "https://open.spotify.com/artist/5FVGmxlFLT1qhfFnpCsvvn"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239228,
+      "name": "Adhoora Reh Jaunga",
+      "url": "https://open.spotify.com/track/4V66yc5oIr2LGBv9QR7m50"
     },
     {
       "album": {
@@ -1728,7 +1772,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 261958,
       "name": "Barbaad Kar Diya Tere Pyaar Ne",
       "url": "https://open.spotify.com/track/71JppswenQSDBxsGw7H0DX"
@@ -2145,6 +2189,32 @@
     },
     {
       "album": {
+        "name": "Achha Sila Diya",
+        "url": "https://open.spotify.com/album/2uodXwPtgPs131krAW6QIV"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Nikhil Vinay",
+          "url": "https://open.spotify.com/artist/0HsUQSehtJfQENJxgxQwg5"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259347,
+      "name": "Bitter Betrayals (From \"T-Series Solos\")",
+      "url": "https://open.spotify.com/track/2qqFgR22eDiTcCTQUaSshU"
+    },
+    {
+      "album": {
         "name": "Bole De - Bhoy Peona",
         "url": "https://open.spotify.com/album/64NXQX11JvRNS1c40WQJSM"
       },
@@ -2440,7 +2510,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 195491,
       "name": "Chaanv Hai",
       "url": "https://open.spotify.com/track/6et8mGYy2VE7ZMU6PpyU9x"
@@ -4820,7 +4890,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 351346,
       "name": "Hai Yeh Shaam Aayi",
       "url": "https://open.spotify.com/track/0Il5fioly2NdcbwOJ0yVXn"
@@ -5390,6 +5460,28 @@
       "duration_ms": 195865,
       "name": "Ik Vaari",
       "url": "https://open.spotify.com/track/6Z1QUcx0B1VlxMOAd0wIC1"
+    },
+    {
+      "album": {
+        "name": "In Your Eyes Only",
+        "url": "https://open.spotify.com/album/3mQHgUq5EfYtc7qt5TKDxJ"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189839,
+      "name": "In Your Eyes Only",
+      "url": "https://open.spotify.com/track/1cA2wsnn1o82tcAEHokxiJ"
     },
     {
       "album": {
@@ -6122,7 +6214,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 175958,
       "name": "Jamna Paar",
       "url": "https://open.spotify.com/track/4yyrTmodNhNdk8Et0HRX97"
@@ -7388,7 +7480,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 198046,
       "name": "Khayaal Rakhna [(Care Give Share) (feat. Salim Merchant, Sunidhi Chauhan, Vijay Prakash & Pawandeep Rajan)]",
       "url": "https://open.spotify.com/track/0KhXSC1fvcVwh2O3vugHPl"
@@ -8299,6 +8391,32 @@
     },
     {
       "album": {
+        "name": "Let It Flow",
+        "url": "https://open.spotify.com/album/3J0WTo95gwbiSP1iJo2SQW"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Sharvi Yadav",
+          "url": "https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Let It Flow",
+      "url": "https://open.spotify.com/track/1pReOtBB2BrF7X8BCzDyDO"
+    },
+    {
+      "album": {
         "name": "Lil Bunty",
         "url": "https://open.spotify.com/album/6XdkAvpVluO8BFG2RkOC1p"
       },
@@ -8701,6 +8819,28 @@
     },
     {
       "album": {
+        "name": "Malaal (From \"Leela\")",
+        "url": "https://open.spotify.com/album/0zMrH5YOg870C4zI8sCy7s"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Deedar Kaur",
+          "url": "https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249264,
+      "name": "Malaal - From \"Leela\"",
+      "url": "https://open.spotify.com/track/2jahgs9k5E2EXvDc836S0M"
+    },
+    {
+      "album": {
         "name": "Mallaah",
         "url": "https://open.spotify.com/album/0DN9YMptQlUeVEgHMCUgWQ"
       },
@@ -8768,6 +8908,24 @@
       "duration_ms": 177016,
       "name": "Mane Na",
       "url": "https://open.spotify.com/track/1b1l5KS5PmoHX51z5VNvLc"
+    },
+    {
+      "album": {
+        "name": "Manmaani",
+        "url": "https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT"
+      },
+      "artists": [
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234444,
+      "name": "Manmaani",
+      "url": "https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc"
     },
     {
       "album": {
@@ -9032,6 +9190,24 @@
       "duration_ms": 212054,
       "name": "Mazaak",
       "url": "https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0"
+    },
+    {
+      "album": {
+        "name": "Mazaakiyan",
+        "url": "https://open.spotify.com/album/4K8RsN4S41LAP7XAIpuMSM"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148639,
+      "name": "Mazaakiyan",
+      "url": "https://open.spotify.com/track/6k7NmvQ4K4v2b9ZqOZ9GYz"
     },
     {
       "album": {
@@ -10098,7 +10274,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 255319,
       "name": "Nazdeekiyaan",
       "url": "https://open.spotify.com/track/1uaNjFnOhNRIGeOsugMTyh"
@@ -11132,7 +11308,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 169459,
       "name": "Pyar Dobara",
       "url": "https://open.spotify.com/track/2oBl3gEVJJl813uzIL2EmE"
@@ -11867,6 +12043,36 @@
     },
     {
       "album": {
+        "name": "Sab Rab",
+        "url": "https://open.spotify.com/album/6d31ZraM2g9FyRvsmbxSGp"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Sab Rab",
+      "url": "https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ"
+    },
+    {
+      "album": {
         "name": "Sabr Aur Shukr",
         "url": "https://open.spotify.com/album/0yawEf3kAa8rwQCuK2MG34"
       },
@@ -11930,7 +12136,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 184931,
       "name": "Sachiyaan Mohobattan",
       "url": "https://open.spotify.com/track/2WuNFpMEaly2JhEVLIpgSM"
@@ -12220,6 +12426,24 @@
       "duration_ms": 214102,
       "name": "Sargoshiyan",
       "url": "https://open.spotify.com/track/7xTWkH8LXyFQoqQpTFhT7P"
+    },
+    {
+      "album": {
+        "name": "Sarkaare",
+        "url": "https://open.spotify.com/album/2oBdxfXQn21DfBWfu8krYT"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163319,
+      "name": "Sarkaare",
+      "url": "https://open.spotify.com/track/3hbzNavvxCQBf28PwTUALJ"
     },
     {
       "album": {
@@ -14264,7 +14488,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 155566,
       "name": "Tu Saath Hai",
       "url": "https://open.spotify.com/track/7h1SEjAxpBPPstLExfj8C3"

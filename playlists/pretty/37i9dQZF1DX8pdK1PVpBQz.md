@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: CODY JON\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,365 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,386 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 35 | [Struck](https://open.spotify.com/track/1QlwgL89GH4WNF6JOjwB9j) | [Porpoise Spit](https://open.spotify.com/artist/6WGOUJ693ivV5Dfkb9Ld4c) | [Struck](https://open.spotify.com/album/5GCcUnXwzkjbNfDU6swf59) | 4:39 |
 | 36 | [She Said](https://open.spotify.com/track/4Img7o1XpFYqHcS62c30pK) | [Pretty Uglys](https://open.spotify.com/artist/3cquBoepXVGq5SchQmDsz9) | [She Said](https://open.spotify.com/album/2LVMxRPBvWvaO09TMIABHu) | 2:08 |
 | 37 | [Everybody Else](https://open.spotify.com/track/4AOsnDTdsJ9IhRtDNV5XEX) | [Cellarr](https://open.spotify.com/artist/40hdxU4tcrbRkopSgr0arC) | [Everybody Else](https://open.spotify.com/album/116pYV6nJqFZuksO3QoT7t) | 3:15 |
-| 38 | [Don't Give It Away](https://open.spotify.com/track/47jjxsQPnV9MKduK3Q9ztP) | [Shavaun Marie](https://open.spotify.com/artist/4cWfaEBJ4w8CeJWNPkKUHY) | [Don't Give It Away](https://open.spotify.com/album/3Y6fgads4c3aR7QGRbJDlI) | 2:21 |
+| 38 | [Dont Give It Away](https://open.spotify.com/track/5SkGGs56WHqQFx078ljebo) | [Shavaun Marie](https://open.spotify.com/artist/4cWfaEBJ4w8CeJWNPkKUHY) | [Don't Give It Away](https://open.spotify.com/album/5TH1v6tGVmLebSQ0SQFw8e) | 2:21 |
 | 39 | [Get Away](https://open.spotify.com/track/0WBeX0QxuxtbddcZfscrDZ) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Get Away](https://open.spotify.com/album/1d4Y8PyWApZJgC7DdZY8CI) | 2:07 |
 | 40 | [Baited](https://open.spotify.com/track/41lowvypEqMPKvKBKXRQV3) | [Driftwood.](https://open.spotify.com/artist/2QQ0v1cmktl5dR4cKXjpEB) | [Baited](https://open.spotify.com/album/3wZeuz1AUxZkfdJXo9k0NM) | 2:13 |
 | 41 | [Sister](https://open.spotify.com/track/0xFC7Tr60qWg2EJwL8I7a3) | [Mermaidens](https://open.spotify.com/artist/5R7higOEVGXOdv9Uqbn8M8) | [Sister](https://open.spotify.com/album/3DhH97GPXkKpQ69jpEDSFa) | 3:43 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 100 | [Cold With You](https://open.spotify.com/track/3HBIJJQ4wkODiXRipwb5n5) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Cold With You](https://open.spotify.com/album/3uPqde1GYQssM6A6hNnwNv) | 2:51 |
 | 101 | [Knife](https://open.spotify.com/track/0lclpP00mSr3FqRBOotyKG) | [Smurgy](https://open.spotify.com/artist/4IJtsS4EBmY1niiX7sWpu8) | [Knife](https://open.spotify.com/album/1KmyZpqTGeXun4O6uimed8) | 1:58 |
 
-Snapshot ID: `MCwzM2IyMGYxMDI5YjM4NzMwM2E3MTc1MWVhMzhhNDgwYWQ5Y2Y0NDIx`
+Snapshot ID: `MCw0NDFhY2JiYWEwNGYxODFlNTRlNTI5YTY3NzI5YTkyMDI3YjcyODNk`

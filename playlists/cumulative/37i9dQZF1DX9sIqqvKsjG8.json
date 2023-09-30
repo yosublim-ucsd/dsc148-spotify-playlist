@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 137349,
       "name": "A Step Too Far",
       "url": "https://open.spotify.com/track/3y8fPWZI9Ds74cPq0GfhgT"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 148416,
       "name": "Across Long Lakes",
       "url": "https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 128330,
       "name": "Amalfi",
       "url": "https://open.spotify.com/track/2SlARTbg8VmWVF4cG7imB8"
@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Blinded by the light",
+        "url": "https://open.spotify.com/album/2C8D0P6qH28RM0icHOaWI2"
+      },
+      "artists": [
+        {
+          "name": "Yuko Kimura",
+          "url": "https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175684,
+      "name": "Blinded by the light",
+      "url": "https://open.spotify.com/track/5ZADutZI6cNNyeYcSAiGbb"
+    },
+    {
+      "album": {
         "name": "Madrigal",
         "url": "https://open.spotify.com/album/3T4PBqvtzGDoVuD6wXmzu8"
       },
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 166000,
       "name": "Blund",
       "url": "https://open.spotify.com/track/0duYOyKFVmUrJpDhmKaIyW"
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 133250,
       "name": "Children's Waltz",
       "url": "https://open.spotify.com/track/4rw3ixKqjEzKUajMD0z3mA"
@@ -2688,6 +2706,24 @@
       "duration_ms": 146874,
       "name": "Danse avec moi",
       "url": "https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur"
+    },
+    {
+      "album": {
+        "name": "Danse tout la nuit",
+        "url": "https://open.spotify.com/album/1rmNlzudVpC7TrS89E6m5a"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kees",
+          "url": "https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Danse tout la nuit",
+      "url": "https://open.spotify.com/track/3ja48XMPsI7C2TxHxS0UZQ"
     },
     {
       "album": {
@@ -3603,6 +3639,42 @@
     },
     {
       "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/5pgeHYd16IazzjwyxLLpEg"
+      },
+      "artists": [
+        {
+          "name": "Michel Couture",
+          "url": "https://open.spotify.com/artist/6qKPv4O4fkzGQhybUN1Vug"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127661,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/4C9kR80niObXQuXV2xb430"
+    },
+    {
+      "album": {
+        "name": "Faded Portrait",
+        "url": "https://open.spotify.com/album/3yOB2diMaxo8A1mrKa198M"
+      },
+      "artists": [
+        {
+          "name": "Auguste Blanc",
+          "url": "https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125374,
+      "name": "Faded Portrait",
+      "url": "https://open.spotify.com/track/3z4hK6i9TGy2s7kmP6h2qO"
+    },
+    {
+      "album": {
         "name": "Faire le pont",
         "url": "https://open.spotify.com/album/7GYy9vKElgUbrFGzrPkWJ3"
       },
@@ -4436,7 +4508,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 158291,
       "name": "Grains of Time",
       "url": "https://open.spotify.com/track/19gF5KNJTpdA3mLoSl5CY4"
@@ -4605,6 +4677,24 @@
     },
     {
       "album": {
+        "name": "Harsa",
+        "url": "https://open.spotify.com/album/52TFBADvgZIXGoLIoTs4z6"
+      },
+      "artists": [
+        {
+          "name": "Blake Hollow",
+          "url": "https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124474,
+      "name": "Harsa",
+      "url": "https://open.spotify.com/track/4ynhellTDGYbADxBswSGAS"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/5pJdfWzU0VX6DcnTGgxduG"
       },
@@ -4616,7 +4706,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 156624,
       "name": "Haymarket",
       "url": "https://open.spotify.com/track/2o2I7unuwwVPjhB3ivHrTi"
@@ -5185,6 +5275,24 @@
     },
     {
       "album": {
+        "name": "Il Gondoliere",
+        "url": "https://open.spotify.com/album/1W6dRLL6nw8Gf1DlXI8yY3"
+      },
+      "artists": [
+        {
+          "name": "Luisa Leonetti",
+          "url": "https://open.spotify.com/artist/5qpXgVpKpeKe5j4ENTQOwq"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140250,
+      "name": "Il Gondoliere",
+      "url": "https://open.spotify.com/track/4Js006shgozGVBa03rr3Wg"
+    },
+    {
+      "album": {
         "name": "Oetztal",
         "url": "https://open.spotify.com/album/1zlu9qu9ly6elFZPROt9CX"
       },
@@ -5268,7 +5376,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 155360,
       "name": "Impromptu",
       "url": "https://open.spotify.com/track/7fgqEIEV6kpswoBsgru92Z"
@@ -5578,7 +5686,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 138704,
       "name": "Inward Road - Piano Version",
       "url": "https://open.spotify.com/track/0ZOecPZY6kihcSn4BWwite"
@@ -6316,7 +6424,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 124205,
       "name": "Leaving Mainland",
       "url": "https://open.spotify.com/track/3kwBfw1R7uC80ycRbkch6W"
@@ -7943,6 +8051,24 @@
     },
     {
       "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/4DTOQtOqK3fHZqspFvhSFC"
+      },
+      "artists": [
+        {
+          "name": "Eric Ville de Soins",
+          "url": "https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "Norma",
+      "url": "https://open.spotify.com/track/0haQKlwgcSVo1tVJR6TX90"
+    },
+    {
+      "album": {
         "name": "Normandy",
         "url": "https://open.spotify.com/album/6ViCKz30p0TBntZVTR7WPr"
       },
@@ -9059,6 +9185,24 @@
     },
     {
       "album": {
+        "name": "Ravello",
+        "url": "https://open.spotify.com/album/5aiv12mtWb7NJFpkPnmRP9"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134649,
+      "name": "Ravello",
+      "url": "https://open.spotify.com/track/669Eej0mplxG7OhOxgNVl9"
+    },
+    {
+      "album": {
         "name": "Teesta",
         "url": "https://open.spotify.com/album/0qufLQ0kHyKenooeC8KK3T"
       },
@@ -10039,6 +10183,24 @@
     },
     {
       "album": {
+        "name": "Serafina",
+        "url": "https://open.spotify.com/album/6SPtE6Eogg28YiE6SgTQcR"
+      },
+      "artists": [
+        {
+          "name": "Stella Acorsi",
+          "url": "https://open.spotify.com/artist/5cOxvGawKcmi9tVZ1CgYDc"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "Serafina",
+      "url": "https://open.spotify.com/track/7eT3bmYGTxsRlXFqKf0bk5"
+    },
+    {
+      "album": {
         "name": "Sera\u0301n",
         "url": "https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS"
       },
@@ -10140,7 +10302,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 151261,
       "name": "Shu's Sonata",
       "url": "https://open.spotify.com/track/2KOxgVJN5IGm8Of4IARigO"
@@ -10482,7 +10644,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 158165,
       "name": "Song For Edsilia",
       "url": "https://open.spotify.com/track/7JYF2mEZ8QOMGKnhKtfBxt"
@@ -10846,7 +11008,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 191533,
       "name": "Stories of Hope",
       "url": "https://open.spotify.com/track/2pPaKO126yniarJuGFKj0j"
@@ -11070,7 +11232,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 162921,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC"
@@ -11250,7 +11412,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 129901,
       "name": "Tendrement",
       "url": "https://open.spotify.com/track/4WFF3LgLuK0qGqY1YUdzD6"
@@ -11560,7 +11722,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 172264,
       "name": "The hills",
       "url": "https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u"
@@ -11693,6 +11855,24 @@
     },
     {
       "album": {
+        "name": "The Portrait",
+        "url": "https://open.spotify.com/album/3Gf8cw74M2kiaAhc4Y9iVx"
+      },
+      "artists": [
+        {
+          "name": "Nora Gray",
+          "url": "https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122873,
+      "name": "The Portrait",
+      "url": "https://open.spotify.com/track/6gzx7vC8xDp7jawrF0OIIJ"
+    },
+    {
+      "album": {
         "name": "Testimony (EP)",
         "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
       },
@@ -11812,7 +11992,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 210250,
       "name": "The What If",
       "url": "https://open.spotify.com/track/3qgA4uyqdQLpYLCeTtouQS"

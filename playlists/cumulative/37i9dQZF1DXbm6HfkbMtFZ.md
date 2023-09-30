@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-528 songs - 1 day 7 hr 46 min
+529 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Keeping Me Under](https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu) | 3:38 | 2022-07-26 | 2023-02-14 |
 | [Kelly](https://open.spotify.com/track/3Mj5wXVgnFs0HhBI4iYHCd) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [Sky City](https://open.spotify.com/album/2lYmxilk8cXJlxxXmns1IU) | 3:38 | 2022-03-30 | 2022-04-21 |
 | [Kids Fallin' In Love](https://open.spotify.com/track/4LPiZEE28GPCQPES6Xxy5A) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kids Fallin' In Love](https://open.spotify.com/album/4Q9CZw1r0QCbFH7AdtYE3g) | 3:47 | 2021-12-16 | 2023-05-12 |
-| [King Prawn The 1st](https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Boys, B\-Sides & Rarities](https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U) | 2:36 | 2023-02-10 |  |
+| [King Prawn The 1st](https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Boys, B\-Sides & Rarities](https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U) | 2:36 | 2023-02-10 | 2023-09-30 |
 | [King Prawn The 1st](https://open.spotify.com/track/0ybcE5T4NKLJSMIZUHSRlD) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Boys, B\-Sides & Rarities](https://open.spotify.com/album/4g5owqOYwBR805mYofw5cg) | 2:36 | 2022-03-30 | 2022-07-29 |
 | [LA.BELLE.JOURNÉE 1971](https://open.spotify.com/track/0jcmvJs02muGldvkNrkejV) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [A.M.I.E.S.A.M.O.U.R](https://open.spotify.com/album/4qwd82AW4N0n7ijigpNTmX) | 5:05 | 2022-02-18 | 2022-07-29 |
 | [Lady Luck](https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Atlantic Ocean](https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO) | 4:18 | 2022-07-26 | 2023-06-27 |
@@ -428,6 +428,7 @@
 | [Sun Go Down](https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Lazy Days](https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5) | 3:42 | 2021-12-16 | 2023-03-25 |
 | [Sunday](https://open.spotify.com/track/5Ml003Ymb2JnhRR9tGA5Bf) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/61IYIFWT85NBAwQXuNRMzg) | 3:00 | 2021-12-16 | 2022-07-24 |
 | [Sunday](https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 3:00 | 2022-07-26 | 2022-10-04 |
+| [Sunny Afternoon](https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 2:51 | 2023-09-29 |  |
 | [Sunrise](https://open.spotify.com/track/3mUlAwwsBTupCdVYRQ20qR) | [Jack Page](https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs) | [Sunrise](https://open.spotify.com/album/1HzzYbhLEtoNJO4bljtOSw) | 3:31 | 2022-04-19 | 2022-07-28 |
 | [Supernatural Thing, Pt\. 1](https://open.spotify.com/track/62dhSmROhppvuWyeCeC730) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Supernatural Thing](https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD) | 4:11 | 2022-03-30 | 2023-02-14 |
 | [Sure Don't Miss You](https://open.spotify.com/track/5SUhvsoXryK7M4OhQXXKVV) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sure Don't Miss You](https://open.spotify.com/album/650kATa4wiGNPX25qf6ddb) | 2:54 | 2021-12-16 | 2022-07-29 |

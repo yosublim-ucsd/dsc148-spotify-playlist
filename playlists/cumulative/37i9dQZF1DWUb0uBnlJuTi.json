@@ -100,7 +100,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 563200,
       "name": "Afrodesia",
       "url": "https://open.spotify.com/track/2h10K0zxg9tgIoSWbPNRUS"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 198000,
       "name": "Blood Chief - Live in Studio",
       "url": "https://open.spotify.com/track/4cV7k8bph31wVkk74TbRCv"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 261226,
       "name": "Cheeks",
       "url": "https://open.spotify.com/track/6ROXNf5f4tpcezPJKs3LH2"
@@ -1539,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Dinky Doinky",
+        "url": "https://open.spotify.com/album/3ua0yfjr5aZfh7kOaEHja7"
+      },
+      "artists": [
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228230,
+      "name": "Dinky Doinky",
+      "url": "https://open.spotify.com/track/201ZmH4WWYflWBpg2CJ8uc"
+    },
+    {
+      "album": {
         "name": "Dirty Sunday",
         "url": "https://open.spotify.com/album/1oo2NZgtfmfnja68GzEVDe"
       },
@@ -1810,6 +1828,24 @@
       "duration_ms": 222168,
       "name": "F'Uncstown",
       "url": "https://open.spotify.com/track/13IirgDjn1v1gZMMVrWQEA"
+    },
+    {
+      "album": {
+        "name": "Fast Life",
+        "url": "https://open.spotify.com/album/29SzjciN1hhMafVQcZizOV"
+      },
+      "artists": [
+        {
+          "name": "Kinga Glyk",
+          "url": "https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238830,
+      "name": "Fast Life",
+      "url": "https://open.spotify.com/track/4Qlyf2WcL6uq11MNP3BjqH"
     },
     {
       "album": {
@@ -5512,6 +5548,24 @@
       "duration_ms": 230000,
       "name": "Squid Exit Music - 7\" radio edit",
       "url": "https://open.spotify.com/track/6uUeilqbWR0fYWFtE8IbSg"
+    },
+    {
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/5StfsAUtkJv3CqG4uNNzJb"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269994,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/3YuChPkMnt1T6Qeujs8D8d"
     },
     {
       "album": {

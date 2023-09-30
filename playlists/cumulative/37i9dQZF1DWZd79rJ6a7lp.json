@@ -3325,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "Curved",
+        "url": "https://open.spotify.com/album/65DVyRqrCUhyHlGExoKBQ0"
+      },
+      "artists": [
+        {
+          "name": "Lugar",
+          "url": "https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137647,
+      "name": "Curved",
+      "url": "https://open.spotify.com/track/2n3Nzq9Mv1CUXzac82tw4M"
+    },
+    {
+      "album": {
         "name": "Curves",
         "url": "https://open.spotify.com/album/3hWEeTtdq80mcLvCt73koZ"
       },
@@ -4024,6 +4042,24 @@
       "duration_ms": 186781,
       "name": "Dream Reality",
       "url": "https://open.spotify.com/track/1aRSdvKuD2ZAkkNxWX8WSK"
+    },
+    {
+      "album": {
+        "name": "Dream Reflection",
+        "url": "https://open.spotify.com/album/2smhGM1NVKdGDEdqzMj1zT"
+      },
+      "artists": [
+        {
+          "name": "Fabio Secci",
+          "url": "https://open.spotify.com/artist/1hYkH9ClWy5ZfmmTTntt2K"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Dream Reflection",
+      "url": "https://open.spotify.com/track/7iCh93sK4It7gBOBgs8gml"
     },
     {
       "album": {
@@ -5310,6 +5346,24 @@
       "duration_ms": 192168,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/5zafrD1Ovmh2XiuoX3IuUa"
+    },
+    {
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/7AJa4cvgpRjliDkdkC5nNH"
+      },
+      "artists": [
+        {
+          "name": "Avieone",
+          "url": "https://open.spotify.com/artist/1xCASyEEWKBXSyHdRq9JOJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155930,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/73pTsX2kyxBo5NYHSQq5CP"
     },
     {
       "album": {
@@ -7923,6 +7977,24 @@
     },
     {
       "album": {
+        "name": "Lo\u00b4s Magma",
+        "url": "https://open.spotify.com/album/01rQAOOlWABpfJ2CcPOIAb"
+      },
+      "artists": [
+        {
+          "name": "Robi Dixie",
+          "url": "https://open.spotify.com/artist/5NlnY2fSvi51YebjxNah6F"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Lo\u00b4s Magma",
+      "url": "https://open.spotify.com/track/6qSypfhInkt0jQC5aRcrTV"
+    },
+    {
+      "album": {
         "name": "Lucent",
         "url": "https://open.spotify.com/album/3VICx82chKr8SCGA4AsyRg"
       },
@@ -9453,6 +9525,24 @@
     },
     {
       "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/7AJa4cvgpRjliDkdkC5nNH"
+      },
+      "artists": [
+        {
+          "name": "Avieone",
+          "url": "https://open.spotify.com/artist/1xCASyEEWKBXSyHdRq9JOJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166985,
+      "name": "Noticed",
+      "url": "https://open.spotify.com/track/4vU3FDQiL394Dl21OYfNbg"
+    },
+    {
+      "album": {
         "name": "Nox",
         "url": "https://open.spotify.com/album/7H7xsgmAr1XitXSeiP6ADc"
       },
@@ -9944,6 +10034,24 @@
       "duration_ms": 237861,
       "name": "Parts Unknown",
       "url": "https://open.spotify.com/track/7zoNjIq4DZadcFOxwKvrlC"
+    },
+    {
+      "album": {
+        "name": "Passages",
+        "url": "https://open.spotify.com/album/4XZCuM5CJRMMAvV1apBvXH"
+      },
+      "artists": [
+        {
+          "name": "Kim Nalah",
+          "url": "https://open.spotify.com/artist/3EY39ZsyVU9c2Uw17ILmcJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181026,
+      "name": "Passages",
+      "url": "https://open.spotify.com/track/5VzaFU0O3pTmG3fnjs0Ff0"
     },
     {
       "album": {
@@ -10498,7 +10606,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 172374,
       "name": "Quand la neige tombe",
       "url": "https://open.spotify.com/track/1qVYn3HKHjga2franlJdU1"
@@ -13238,6 +13346,24 @@
       "duration_ms": 168000,
       "name": "Swallows at Dawn",
       "url": "https://open.spotify.com/track/1kBCGoGY3CSDCECitxm8an"
+    },
+    {
+      "album": {
+        "name": "Sweven",
+        "url": "https://open.spotify.com/album/6aPBOmzFKenNESeDVjOn9k"
+      },
+      "artists": [
+        {
+          "name": "Corbin Tellier",
+          "url": "https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Sweven",
+      "url": "https://open.spotify.com/track/4prgJBJailmHXaefkOyK9e"
     },
     {
       "album": {

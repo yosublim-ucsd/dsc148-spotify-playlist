@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese female rock icons\. Cover: クレナズム \(Culenasm\)
 
-1,149 songs - 3 day 0 hr 28 min
+1,150 songs - 3 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [daylight](https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [daylight](https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA) | 4:03 | 2022-12-02 | 2023-09-09 |
 | [debbie](https://open.spotify.com/track/1L3KhykfkDwn8e0thZQCl1) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [debbie](https://open.spotify.com/album/3hbyV1y0FBu458IiNEu7o8) | 3:44 | 2022-05-31 | 2022-07-28 |
 | [Depression \- No Joy Remix](https://open.spotify.com/track/4Mv4PAsS2Q2bv8CJsTM9se) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Depression \(No Joy Remix\)](https://open.spotify.com/album/5akrcqcTzwHEJoB3OFGY9R) | 2:57 | 2023-02-28 | 2023-04-05 |
+| [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-28 |  |
 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Divine Attack \- Shingeki \-](https://open.spotify.com/album/6QZX14rv2DloXGEXcYMmSR) | 3:38 | 2022-10-20 | 2023-03-27 |
 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/77rj86ejZIot8ctbOFIBz5) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:38 | 2023-03-23 | 2023-06-14 |
 | [Dogs and Ducks](https://open.spotify.com/track/6XANNQ4GfMK8fubNkEcYzI) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [Dogs and Ducks](https://open.spotify.com/album/3Gn1YUG8g4AxV7PCeZquTz) | 2:41 | 2022-06-07 | 2022-06-12 |
@@ -747,7 +748,7 @@
 | [ツキヨツキヨ](https://open.spotify.com/track/3EOPIafs4IzuhrP4Ssxa3i) | [田中未希](https://open.spotify.com/artist/4W742xSzpjksYS36OfM52u) | [ツキヨツキヨ](https://open.spotify.com/album/6wP4YJLQ2kYEIx55Spc4z9) | 2:50 | 2022-06-28 | 2022-07-06 |
 | [テンダーランド](https://open.spotify.com/track/5NoAhvPMNd3y2LaNVueted) | [Scenarioart](https://open.spotify.com/artist/4yHLkC0Z5EYVyinSP2AHvV) | [Blue Smell](https://open.spotify.com/album/78g76Sk7DVhByaj4kpJOw4) | 3:57 | 2022-06-21 | 2022-06-23 |
 | [ディストラクション・ガール](https://open.spotify.com/track/1s1dOI20xSJ54jFBrrtudY) | [湯冷めラジオ](https://open.spotify.com/artist/1Pjvr24b1tkJjyMRcyzF92) | [ディストラクション・ガール](https://open.spotify.com/album/3iSInBHMggTPtpEr6TKxdp) | 4:15 | 2023-09-05 | 2023-09-13 |
-| [ディストラクション・シスターズ](https://open.spotify.com/track/7Lr7JP6qEkoDMGFHtyrJHa) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/4t2okOrlqsIZ15pZfdhtuZ) | 2:30 | 2023-09-28 |  |
+| [ディストラクション・シスターズ](https://open.spotify.com/track/7Lr7JP6qEkoDMGFHtyrJHa) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/4t2okOrlqsIZ15pZfdhtuZ) | 2:30 | 2023-09-28 | 2023-09-30 |
 | [デウス・エクス・マキナ](https://open.spotify.com/track/7oxLHXummz6DfPF9Mw5Tie) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [デウス・エクス・マキナ](https://open.spotify.com/album/2wzemivJXWInOdmjfojngk) | 4:34 | 2022-05-26 | 2022-07-24 |
 | [デネブ](https://open.spotify.com/track/48dnJZeiiCuVubh5U7kecr) | [Bamboo](https://open.spotify.com/artist/22PWmS35Xwsu1mC16PCNef) | [デネブ](https://open.spotify.com/album/3jlhboMP8HSb4j9CeiJd5j) | 4:44 | 2022-10-12 | 2022-10-19 |
 | [トウメイヒーロー](https://open.spotify.com/track/0KmbF3zYBIZ21W9NarpOw6) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [トウメイヒーロー](https://open.spotify.com/album/7Ev69ntYYEuBQ5KDOEG9hU) | 3:13 | 2022-06-02 | 2022-06-06 |

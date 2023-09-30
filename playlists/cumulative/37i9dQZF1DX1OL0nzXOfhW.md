@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: Jeffrey Ngai 魏浚笙
+> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: DEREK DALI
 
-144 songs - 8 hr 17 min
+145 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [The Bright Side](https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [The Bright Side](https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ) | 4:10 | 2023-01-12 |  |
 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 | 2023-04-13 |  |
 | [Time Is Running](https://open.spotify.com/track/1nKZqPS4cg1gbZAdqxQEcN) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Time Is Running](https://open.spotify.com/album/3Tk9l82FUZyP6W6du57tXD) | 2:19 | 2023-07-13 |  |
+| [TRIPPIN](https://open.spotify.com/track/3w45N7JMqsnYqko8VmQ9DS) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [TRIPPIN](https://open.spotify.com/album/0r9CWKeNllgadGS079yej4) | 3:17 | 2023-09-29 |  |
 | [twentyone](https://open.spotify.com/track/3CuSZNQMOfutttNqxeUunT) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [twentyone](https://open.spotify.com/album/4aSaLC8d1BhE18tLtfLs5c) | 3:31 | 2022-08-18 | 2023-04-14 |
 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 | 2023-02-23 | 2023-04-14 |
 | [where we go is home](https://open.spotify.com/track/5JedCIfnYpIgAilKiTcwaY) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [where we go is home](https://open.spotify.com/album/5Jah63TSuIbHS52XXQVSKj) | 4:12 | 2023-02-16 | 2023-04-14 |

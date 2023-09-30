@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Margo Cilker
 
-192 songs - 11 hr 43 min
+195 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Hush](https://open.spotify.com/track/2A4439ueegEvIHcJKi7020) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 2:35 | 2022-01-28 |  |
 | [Hush](https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Hush](https://open.spotify.com/album/3xX7LI0JGsHRXcSycsWBAi) | 2:35 | 2022-01-28 | 2022-07-29 |
 | [I C U](https://open.spotify.com/track/2pID9O9VLbiE8lsiPb5Q5I) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [I C U](https://open.spotify.com/album/42RgJSuBu51ERWMlxUvbmW) | 3:39 | 2023-05-26 |  |
-| [I Remember Carolina](https://open.spotify.com/track/3NweAkFEsegJXcIR8AfZUN) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/17z8sPbkBdJy9ih9spZNFT) | 4:54 | 2023-09-15 |  |
+| [I Remember Carolina](https://open.spotify.com/track/3NweAkFEsegJXcIR8AfZUN) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/17z8sPbkBdJy9ih9spZNFT) | 4:54 | 2023-09-15 | 2023-09-30 |
+| [I Remember Carolina](https://open.spotify.com/track/6MhVZANIUROF3ZiKYBh6eN) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/5DgZp7DBIP4yyUmBkbKDAb) | 4:54 | 2023-09-15 |  |
 | [I Still Believe in You](https://open.spotify.com/track/0i2UyVsm0XZJNZl2q9yrA8) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC) | [A Horrible Beautiful Dream](https://open.spotify.com/album/4n7eKMhBd6yezgg46xeosc) | 3:31 | 2022-01-28 |  |
 | [idk shit about cars](https://open.spotify.com/track/4C6boDSLUz2ZzxglzSIVyk) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [idk shit about cars](https://open.spotify.com/album/3wT1VGWLJoxTYbeX8uyTZ7) | 2:38 | 2023-06-30 |  |
 | [If You Look Hard Enough](https://open.spotify.com/track/0hoPD9npxJurbrUPS3baxB) | [Fort Frances](https://open.spotify.com/artist/1b2FE6oSOgzJ9dwNZi0Pqn) | [If You Look Hard Enough](https://open.spotify.com/album/44V9nDnRNQ0mznXzbJCqQa) | 3:25 | 2022-02-25 |  |
@@ -103,7 +104,8 @@
 | [Just Like Leaving](https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe) | 3:26 | 2022-01-28 | 2023-04-01 |
 | [Just Like Leaving](https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw) | 3:26 | 2022-01-28 | 2022-07-29 |
 | [KD and Lunch Meat](https://open.spotify.com/track/6e9MVekzR3Gku26kBwGezo) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Church of Better Daze](https://open.spotify.com/album/3nvWKBg5uzny3jko5ezHJJ) | 4:20 | 2022-01-28 | 2023-06-17 |
-| [Keep It on A Burner](https://open.spotify.com/track/0qvgdi9NtjLT10yHs4C7R3) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Keep It on A Burner](https://open.spotify.com/album/11VmUQZHxtybCMWKQ1oiJO) | 4:27 | 2023-06-30 |  |
+| [Keep It on A Burner](https://open.spotify.com/track/0qvgdi9NtjLT10yHs4C7R3) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Keep It on A Burner](https://open.spotify.com/album/11VmUQZHxtybCMWKQ1oiJO) | 4:27 | 2023-06-30 | 2023-09-30 |
+| [Keep It on A Burner](https://open.spotify.com/track/1GixDrbWFCowHvto3zVGpJ) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/5DgZp7DBIP4yyUmBkbKDAb) | 4:27 | 2023-09-15 |  |
 | [Learn to Love You Better](https://open.spotify.com/track/1pWfVPTZXjRMSQDDz0fPNg) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Learn to Love You Better](https://open.spotify.com/album/0HfN0dvsXuFL316in0EoPu) | 3:34 | 2022-01-28 |  |
 | [Little Birds](https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:25 | 2022-01-28 |  |
 | [Long Journey Home](https://open.spotify.com/track/4BEoefxFSU1b8C2SM7UtIQ) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Long Journey Home](https://open.spotify.com/album/5UmtuR2exwkKpcUR5oNiGN) | 3:05 | 2022-01-28 |  |
@@ -193,7 +195,8 @@
 | [Where Will I Go](https://open.spotify.com/track/4SKZBSVEJq6oSUr6HhBCnN) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Where Will I Go](https://open.spotify.com/album/74LQjfjqdiTdubRld7e1Jx) | 5:19 | 2023-06-16 | 2023-09-09 |
 | [Whooped If You Will](https://open.spotify.com/track/1uaCFn8AsypTLu9Y0wkS0T) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Whooped If You Will](https://open.spotify.com/album/0ni9VCUqBbFV1RJjpltgHa) | 4:00 | 2023-06-16 | 2023-07-29 |
 | [Wild\-Eyed George Bailey Heebie Jeebies](https://open.spotify.com/track/7fP24BONHPihA1ZIdwZYIU) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Wild\-Eyed George Bailey Heebie Jeebies](https://open.spotify.com/album/2nOrFKbiS8gUo3XCNTCiDr) | 4:11 | 2022-02-25 |  |
-| [With The Middle](https://open.spotify.com/track/3nZFZk0k3OWFhWXpUxbMGm) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [With The Middle](https://open.spotify.com/album/7eleyfxkS29PSKx0AEpMPe) | 3:27 | 2023-08-11 |  |
+| [With The Middle](https://open.spotify.com/track/3nZFZk0k3OWFhWXpUxbMGm) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [With The Middle](https://open.spotify.com/album/7eleyfxkS29PSKx0AEpMPe) | 3:27 | 2023-08-11 | 2023-09-30 |
+| [With The Middle](https://open.spotify.com/track/5RldswTCXt8XY5S8yrEHPq) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/5DgZp7DBIP4yyUmBkbKDAb) | 3:27 | 2023-09-15 |  |
 | [Won't Fence Us In](https://open.spotify.com/track/37y1NnmxdPUm2DbkY77ReI) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Won't Fence Us In](https://open.spotify.com/album/4OfaqQaBlT5KNUlpnRDeSQ) | 2:34 | 2023-07-28 |  |
 | [Work All Day](https://open.spotify.com/track/0slIQGY3lFc3hA8QjGD4DT) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Wildhorse](https://open.spotify.com/album/2NQbvpUKnlLflLe2OJx0ii) | 4:17 | 2023-03-24 |  |
 | [Work All Day](https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Work All Day](https://open.spotify.com/album/1VWeukpfBJ6LVJ68zXXhBP) | 4:17 | 2022-01-28 | 2023-03-25 |

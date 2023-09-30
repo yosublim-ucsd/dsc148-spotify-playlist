@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soundtrack to the internet. Cover: 310babii",
+  "description": "The soundtrack to the internet. Cover: Cash Cobain",
   "name": "Internet People",
   "tracks": [
     {
@@ -1825,6 +1825,28 @@
     },
     {
       "album": {
+        "name": "BING BONG (Remix) [feat. Sexyy Red]",
+        "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "BING BONG (Remix) [feat. Sexyy Red]",
+      "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
+    },
+    {
+      "album": {
         "name": "bitch im joe biden",
         "url": "https://open.spotify.com/album/1Kqk8PBnJOv7FgfCer68nH"
       },
@@ -2076,7 +2098,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 117677,
       "name": "Boy Oh Boy",
       "url": "https://open.spotify.com/track/4hOBpBqVXqk1lkwKCM5QGF"
@@ -2138,6 +2160,24 @@
       "duration_ms": 178416,
       "name": "BRAND NEW BIH",
       "url": "https://open.spotify.com/track/2RMhLBsc1NT5QVe6r3R0s2"
+    },
+    {
+      "album": {
+        "name": "BRB",
+        "url": "https://open.spotify.com/album/11tIOLXTlQRg1ZJeJrIBJ6"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107586,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/4sZJgYizP3YR9MkQ7SaRjX"
     },
     {
       "album": {
@@ -3297,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "Me, Myself & I",
+        "url": "https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236251,
+      "name": "Darkest Before Dawn",
+      "url": "https://open.spotify.com/track/4RIdKsqdglJ5JqTG8kTvw7"
+    },
+    {
+      "album": {
         "name": "Daytona",
         "url": "https://open.spotify.com/album/0vk3ZQ5tBSo0kjj6BAniWa"
       },
@@ -3316,6 +3374,28 @@
       "duration_ms": 188500,
       "name": "Dat Way",
       "url": "https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo"
+    },
+    {
+      "album": {
+        "name": "Dead Homies (feat. Veeze)",
+        "url": "https://open.spotify.com/album/3YHEVzAB8Ozwfzt12vHuga"
+      },
+      "artists": [
+        {
+          "name": "Desto Dubb",
+          "url": "https://open.spotify.com/artist/5GQH7cRNQe10gvlxzdQzAL"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134373,
+      "name": "Dead Homies (feat. Veeze)",
+      "url": "https://open.spotify.com/track/2B6sniX8LKlpUkiXLEyenF"
     },
     {
       "album": {
@@ -4536,7 +4616,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 141888,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP"
@@ -7940,7 +8020,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 144072,
       "name": "Kosher Certified (feat. BLP KOSHER)",
       "url": "https://open.spotify.com/track/6MGu2IEwvttpvXD4z65W7L"
@@ -8140,7 +8220,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 175937,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/2ZZ2oXSD8ogObbJ1ydOHHJ"
@@ -9406,7 +9486,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 124000,
       "name": "molli",
       "url": "https://open.spotify.com/track/1g7f2YPMMf97XlFHRQeoQC"
@@ -10450,7 +10530,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 216417,
       "name": "One Margarita (Margarita Song) [with Sexyy Red, FendiDa Rappa & Flo Milli] - Ladies Remix",
       "url": "https://open.spotify.com/track/0S6OAcbPuDmpDDbdNBqISD"
@@ -12233,6 +12313,28 @@
     },
     {
       "album": {
+        "name": "Pretty Girls Love Slizzy",
+        "url": "https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169736,
+      "name": "Rump (feat. Chow Lee)",
+      "url": "https://open.spotify.com/track/29gijYs6GkiKaGDrEC1l4T"
+    },
+    {
+      "album": {
         "name": "Rump (feat. Chow Lee)",
         "url": "https://open.spotify.com/album/6UuDdz6UNlBFSxpOACU3mm"
       },
@@ -12346,7 +12448,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 158571,
       "name": "S3 X",
       "url": "https://open.spotify.com/track/0Gm3lagTye1zcIJkF8wh7c"
@@ -12452,6 +12554,24 @@
       "duration_ms": 105534,
       "name": "see u there",
       "url": "https://open.spotify.com/track/0MqYDyMfzBj0YFWTLHVhag"
+    },
+    {
+      "album": {
+        "name": "UNGHETTO WORLD",
+        "url": "https://open.spotify.com/album/6jHh5VXQZmkIPJ2p5VNmuk"
+      },
+      "artists": [
+        {
+          "name": "Unghetto",
+          "url": "https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "SEEN",
+      "url": "https://open.spotify.com/track/0IrecfudrvKZUjLdPgEu7W"
     },
     {
       "album": {
@@ -15044,6 +15164,24 @@
       "duration_ms": 177479,
       "name": "waY bacK wheN",
       "url": "https://open.spotify.com/track/6P0XCZPe8OZZtasJ5xG3Uz"
+    },
+    {
+      "album": {
+        "name": "Way Up!",
+        "url": "https://open.spotify.com/album/6c36BqvLIyeL5NEGt4o0EP"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146905,
+      "name": "Way Up!",
+      "url": "https://open.spotify.com/track/7mj1prKBTEisjBlahW1PSK"
     },
     {
       "album": {

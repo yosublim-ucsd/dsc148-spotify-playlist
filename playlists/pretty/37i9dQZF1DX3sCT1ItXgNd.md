@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Ana Mena
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,473 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,667 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 42 | [Si Supieran](https://open.spotify.com/track/0wpMKiXORO28u3C439Qj5C) | [Serko](https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq), [Dilas](https://open.spotify.com/artist/28UGYcxxUBg3GeQdTvi5t4) | [Si Supieran](https://open.spotify.com/album/0T8lt5lLQi5bB9s7yLQiFW) | 3:40 |
 | 43 | [Nunca Volverás](https://open.spotify.com/track/1b9sYsa4aFiBv7mqOKvwsM) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nunca Volverás](https://open.spotify.com/album/70OIgcMqyr0fKYwZCvdVY9) | 2:51 |
 | 44 | [Un Momento](https://open.spotify.com/track/5Gp3koyDVex3ocaWA78Dni) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Un Momento](https://open.spotify.com/album/4tssRvycB6QesAFRpzMS0a) | 2:21 |
-| 45 | [Me Siento Vivo](https://open.spotify.com/track/0uXCMVywxTkzSL2PU8JZx7) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Me Siento Vivo](https://open.spotify.com/album/6ApKdCJZ8OeDoBDLHhvFkD) | 3:42 |
+| 45 | [Paranoia](https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Paranoia](https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq) | 3:00 |
 | 46 | [PELICULA](https://open.spotify.com/track/1xyTbXRzdFsFYGF2xA3Rs0) | [ZABDIEL](https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [PELICULA](https://open.spotify.com/album/6YcKaIbQw3sMtbhSXQZ6CZ) | 2:58 |
-| 47 | [2NDO CHANCE](https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:52 |
-| 48 | [Paranoia](https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Paranoia](https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq) | 3:00 |
+| 47 | [Me Siento Vivo](https://open.spotify.com/track/0uXCMVywxTkzSL2PU8JZx7) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Me Siento Vivo](https://open.spotify.com/album/6ApKdCJZ8OeDoBDLHhvFkD) | 3:42 |
+| 48 | [2NDO CHANCE](https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:52 |
 
-Snapshot ID: `MCw3ZmUwNDVmNzY1YTIyYWI2OGUyMTEyNzdjNGQwOTcxZTY5ZjI5MGQ2`
+Snapshot ID: `MCxmMzI5MmQ4YTg1YjBkZWU5Y2IyZGQ4YmVhNDY2NjdmNzc2YWU4YTA5`

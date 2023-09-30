@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Skindred.
+> nü\-metal revival is happening here and now with Taproot
 
-57 songs - 3 hr 23 min
+60 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,11 +14,12 @@
 | [Am I The Only One](https://open.spotify.com/track/1KCOGedEDjeSdukGRKJZYI) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Am I The Only One](https://open.spotify.com/album/2mtJTmxgDYVqF2BsS9T8Wb) | 3:20 | 2023-09-13 |  |
 | [Animal](https://open.spotify.com/track/1BO5Y7G9ukdTRVw1ER0HuC) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Animal](https://open.spotify.com/album/45tUpXXzTSNp1QZ6Z1ENvX) | 3:38 | 2023-09-13 |  |
 | [Antagonist](https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 3:06 | 2023-09-13 |  |
-| [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/track/1B9aS3j55UpRVfU9qYl91t) | [Omerta](https://open.spotify.com/artist/0OYajuHduapwq21Xh1WLwo), [JOHNNASCUS](https://open.spotify.com/artist/1Kvu06TxgDMSFkoYQEj6Rv) | [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/album/38uAebsempzVHfIVX7EVKs) | 3:23 | 2023-09-13 |  |
+| [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/track/1B9aS3j55UpRVfU9qYl91t) | [Omerta](https://open.spotify.com/artist/0OYajuHduapwq21Xh1WLwo), [JOHNNASCUS](https://open.spotify.com/artist/1Kvu06TxgDMSFkoYQEj6Rv) | [Antiamorous \(feat\. JOHNNASCUS\)](https://open.spotify.com/album/38uAebsempzVHfIVX7EVKs) | 3:23 | 2023-09-13 | 2023-09-30 |
 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 | 2023-09-13 |  |
 | [BLACK\_WAVE](https://open.spotify.com/track/5rYoxMOnrq09FDTgkS1dMU) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [YOUR LIGHT FADES AWAY](https://open.spotify.com/album/5lVjXfwzpCEldp3eNDFWCj) | 3:06 | 2023-09-13 |  |
 | [Come Back Stronger](https://open.spotify.com/track/5PlNqAEj4tSnSC2RR6ja5Z) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Come Back Stronger](https://open.spotify.com/album/5UaFYlMCmEpHhXEL5dv2DT) | 3:35 | 2023-09-13 |  |
 | [Confessions Of The Fallen](https://open.spotify.com/track/3wLuYl3hBaAceRUzi6XN4t) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/7DOyUfUOWH3myPk79r8Js9) | 3:50 | 2023-09-22 |  |
+| [CROWNLESS](https://open.spotify.com/track/6y5zUqiBOaCurKUFiDUEvu) | [.bHP](https://open.spotify.com/artist/2bHod84ma4lUUDwiToxWEE) | [.bHP](https://open.spotify.com/album/3laPdouBLWJl03QEnPR4HB) | 3:33 | 2023-09-29 |  |
 | [Cycle Of Hurting](https://open.spotify.com/track/5YYICTJqdW3m32yaAYGN2d) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [In This Condition](https://open.spotify.com/album/3sKQj82cnByXwXNuwVEe5m) | 3:49 | 2023-09-13 | 2023-09-23 |
 | [Dead World](https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Dead World](https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF) | 4:01 | 2023-09-13 |  |
 | [DEADZONE](https://open.spotify.com/track/6SvhGaXpd2pkUaAGyMJ3Uw) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [DEADZONE](https://open.spotify.com/album/2VE9zs72iNOeoXZHyAMRF7) | 2:50 | 2023-09-13 |  |
@@ -29,6 +30,7 @@
 | [Everything](https://open.spotify.com/track/0aBFPOcQfWPQZvdLx2jWmq) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Truth Killer](https://open.spotify.com/album/6YKRSUJ7jo99IYvHeOx5aT) | 4:18 | 2023-09-13 |  |
 | [Everything She Wants](https://open.spotify.com/track/01pR1krOFbSYfTbSaxYHq0) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Everything She Wants](https://open.spotify.com/album/5fCJH4JORE9qWixhlniKem) | 3:41 | 2023-09-13 |  |
 | [Evil](https://open.spotify.com/track/5mJ7uYK3uqOOoinTsVPBLT) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia \(Deluxe Version\)](https://open.spotify.com/album/08mukWlu8RaDICE3GvqO3l) | 2:43 | 2023-09-13 |  |
+| [Fallout](https://open.spotify.com/track/2RrDkTF6bgjgYsYN5HaaFB) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Paper Hearts](https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb) | 3:17 | 2023-09-29 |  |
 | [FAVOURITE SONG](https://open.spotify.com/track/2LoB1NRjAo8EPqwEn6fjDm) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA), [Elias Soriano](https://open.spotify.com/artist/2KBA0T3p9wkQ7nAHCVHavd) | [FAVOURITE SONG](https://open.spotify.com/album/2rbpMLrrlCMxAuGetCxq7K) | 3:34 | 2023-09-13 |  |
 | [Feeling Fine](https://open.spotify.com/track/4dfaO9NHF8bqZKftENZssf) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [The DREGGmusic Mixtape](https://open.spotify.com/album/6Bdic8kP9fHguB8nEpeEpm) | 3:32 | 2023-09-13 | 2023-09-23 |
 | [For the Beaten](https://open.spotify.com/track/33QuKSmC3xJISItWeGuPWc) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [The Algorithm](https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg) | 3:38 | 2023-09-13 |  |
@@ -42,11 +44,12 @@
 | [Look Alive \(Netic\)](https://open.spotify.com/track/5NGlVLen8xMEJ6TnwGTCtI) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Look Alive \(Netic\)](https://open.spotify.com/album/5Emtf7kVxU2hgZqDquGux1) | 3:13 | 2023-09-13 | 2023-09-23 |
 | [Lost](https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:19 | 2023-09-13 |  |
 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 | 2023-09-13 |  |
+| [No One Else To Blame](https://open.spotify.com/track/1LAUa3m7ncdsdzC6e0WtJ1) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [SC\\SSRS](https://open.spotify.com/album/3KtkgdjSTdTzkHdYQ0cglt) | 4:40 | 2023-09-29 |  |
 | [Overture or Obituary](https://open.spotify.com/track/3PgK8DK9jZSYR17OEUDjJb) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untitled \(Deluxe\)](https://open.spotify.com/album/5gizwaBQyfZYTEb8zdL7Z6) | 3:02 | 2023-09-13 | 2023-09-23 |
-| [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-22 |  |
+| [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-22 | 2023-09-30 |
 | [Radio](https://open.spotify.com/track/6NYptQ5KJyMEz8Mm5IpI6W) | [Julien\-K](https://open.spotify.com/artist/6a82pdlhS6SsAq7HDUSZKN) | [Radio](https://open.spotify.com/album/02MYjSgDrcWxZknZAujBUq) | 4:44 | 2023-09-13 |  |
 | [RED](https://open.spotify.com/track/6fv8sI48halTMxJBLqUEmv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [KiSS OF DEATH](https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg) | 3:54 | 2023-09-13 |  |
-| [Saviourself](https://open.spotify.com/track/2V7dPhw5Ui4SpQ80USGIFL) | [BUTTERFLY SCISSORS](https://open.spotify.com/artist/3M9AoSedl5prEHAvhWeQiD), [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [Saviourself](https://open.spotify.com/album/2mzZt1rYEWLCKPgo8tp1ck) | 2:50 | 2023-09-22 |  |
+| [Saviourself](https://open.spotify.com/track/2V7dPhw5Ui4SpQ80USGIFL) | [BUTTERFLY SCISSORS](https://open.spotify.com/artist/3M9AoSedl5prEHAvhWeQiD), [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [Saviourself](https://open.spotify.com/album/2mzZt1rYEWLCKPgo8tp1ck) | 2:50 | 2023-09-22 | 2023-09-30 |
 | [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 | 2023-09-13 |  |
 | [Showdown](https://open.spotify.com/track/0dMlUGAmgBLLLjiufG5R18) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Showdown](https://open.spotify.com/album/0hynTwx1tRcpaCMf2t2YXv) | 4:11 | 2023-09-13 |  |
 | [Soaking Nerves](https://open.spotify.com/track/16obiBx0cUuFG2ib5QRTfX) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Soaking Nerves](https://open.spotify.com/album/28LaJRDcI0PPmkylQH0vsn) | 2:57 | 2023-09-13 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Ride the bassline. Cover: Ti\u00ebsto, 21 Savage, BIA",
+  "description": "Ride the bassline. Cover: Nostalgix & Rico Nasty",
   "name": "Bangers",
   "tracks": [
     {
@@ -4922,6 +4922,28 @@
     {
       "album": {
         "name": "Human",
+        "url": "https://open.spotify.com/album/1jRulCRI6kVDGpQ5OC9uN6"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/04zVcQYcV9iPQVsQVVDkKD"
+    },
+    {
+      "album": {
+        "name": "Human",
         "url": "https://open.spotify.com/album/7brW7G3kHHkhr3eu838HhH"
       },
       "artists": [
@@ -7771,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "Counting EP",
+        "url": "https://open.spotify.com/album/5dcBbK62PiNQNKoY9Tl3Jd"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252023,
+      "name": "One Strobe",
+      "url": "https://open.spotify.com/track/2hqJXTvK0uU4VeUhxVg6Sp"
+    },
+    {
+      "album": {
         "name": "One Three Nine",
         "url": "https://open.spotify.com/album/1NZ4fJ0HxdQ4L4X418SpLi"
       },
@@ -8850,7 +8890,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 169523,
       "name": "Relations",
       "url": "https://open.spotify.com/track/5O0vOpDt91Rw20NYKO6XQq"
@@ -9708,7 +9748,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 239062,
       "name": "Shrine Banger",
       "url": "https://open.spotify.com/track/3a3YhO3gL4WaiQCkLVAY01"
@@ -11689,6 +11729,28 @@
     },
     {
       "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/7vtYc3w0egjBboxXiKArmD"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157265,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC"
+    },
+    {
+      "album": {
         "name": "GORILLA WARFARE",
         "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
       },
@@ -12012,7 +12074,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 214332,
       "name": "You Are My Guide",
       "url": "https://open.spotify.com/track/5u6AIMfldHGa1Fii7puEw0"

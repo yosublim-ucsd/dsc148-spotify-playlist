@@ -2777,6 +2777,24 @@
     },
     {
       "album": {
+        "name": "Transformation of Acceptance",
+        "url": "https://open.spotify.com/album/6nz16qot0RzvvUKlik0wwp"
+      },
+      "artists": [
+        {
+          "name": "The Irrepressibles",
+          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246212,
+      "name": "The Transformation of Acceptance",
+      "url": "https://open.spotify.com/track/2T3Ju3gvOsAcYXgZ8qrX4P"
+    },
+    {
+      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },

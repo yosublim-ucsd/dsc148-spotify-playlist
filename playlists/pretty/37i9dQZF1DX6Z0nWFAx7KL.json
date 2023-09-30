@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 38858,
+  "num_followers": 38999,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDQ0ZGUwMDAyNTU1ODA1ZWM2MWI4ZTMzMGE0MDQ4OTE2MjFlY2Iz",
+  "snapshot_id": "MCwwMDc0ZGEzODVlZDcyNWM3MDIxYzVkYWJhYjZlOWVkODUxNjA5MGQw",
   "tracks": [
     {
       "added_at": "2023-09-28 15:22:08",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-09-28 15:22:08",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
-    },
-    {
-      "added_at": "2023-09-28 15:22:08",
-      "album": {
         "name": "LIFTED",
         "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 183460,
       "name": "Lights Go Down (with SIDEPIECE)",
       "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
+    },
+    {
+      "added_at": "2023-09-28 15:22:08",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2023-09-28 15:22:08",
@@ -611,26 +611,6 @@
     {
       "added_at": "2023-09-28 15:22:08",
       "album": {
-        "name": "Forgot How to Love",
-        "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Moss Kena",
-          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
-        }
-      ],
-      "duration_ms": 149055,
-      "name": "Forgot How to Love",
-      "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
-    },
-    {
-      "added_at": "2023-09-28 15:22:08",
-      "album": {
         "name": "Like The River",
         "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 166991,
       "name": "Like The River",
       "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
+    },
+    {
+      "added_at": "2023-09-28 15:22:08",
+      "album": {
+        "name": "Forgot How to Love",
+        "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        }
+      ],
+      "duration_ms": 149055,
+      "name": "Forgot How to Love",
+      "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
     },
     {
       "added_at": "2023-09-28 15:22:08",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-09-28 15:22:08",
       "album": {
-        "name": "Juno Love",
-        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
-      },
-      "artists": [
-        {
-          "name": "Nico Morano",
-          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
-        },
-        {
-          "name": "Mewhy",
-          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
-        }
-      ],
-      "duration_ms": 446585,
-      "name": "Juno Love",
-      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
-    },
-    {
-      "added_at": "2023-09-28 15:22:08",
-      "album": {
         "name": "The Boys Of Summer",
         "url": "https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 137142,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW"
+    },
+    {
+      "added_at": "2023-09-28 15:22:08",
+      "album": {
+        "name": "Juno Love",
+        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
+      },
+      "artists": [
+        {
+          "name": "Nico Morano",
+          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
+        },
+        {
+          "name": "Mewhy",
+          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
+        }
+      ],
+      "duration_ms": 446585,
+      "name": "Juno Love",
+      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
     },
     {
       "added_at": "2023-09-28 15:22:08",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2023-09-28 15:22:08",
       "album": {
-        "name": "Dollar For A Dime",
-        "url": "https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko"
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
       },
       "artists": [
         {
-          "name": "Olly Wall",
-          "url": "https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV"
-        },
-        {
-          "name": "DT James",
-          "url": "https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX"
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
         }
       ],
-      "duration_ms": 148965,
-      "name": "Dollar For A Dime",
-      "url": "https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r"
+      "duration_ms": 162833,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P"
     },
     {
       "added_at": "2023-09-28 15:22:08",
@@ -1163,6 +1159,26 @@
     {
       "added_at": "2023-09-28 15:22:08",
       "album": {
+        "name": "Dollar For A Dime",
+        "url": "https://open.spotify.com/album/1mU5hNit7ZSklzvUjEkZko"
+      },
+      "artists": [
+        {
+          "name": "Olly Wall",
+          "url": "https://open.spotify.com/artist/0dECg8f7i71ZYbIpsE0HRV"
+        },
+        {
+          "name": "DT James",
+          "url": "https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Dollar For A Dime",
+      "url": "https://open.spotify.com/track/11O5rC66Yk7sszOrQ7tB4r"
+    },
+    {
+      "added_at": "2023-09-28 15:22:08",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 189421,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
-    },
-    {
-      "added_at": "2023-09-28 15:22:08",
-      "album": {
-        "name": "Dancing With Your Ghost",
-        "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 162833,
-      "name": "Dancing With Your Ghost",
-      "url": "https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P"
     },
     {
       "added_at": "2023-09-28 15:22:08",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-09-28 15:22:08",
       "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
-    },
-    {
-      "added_at": "2023-09-28 15:22:08",
-      "album": {
         "name": "Feeling Lost Tonight",
         "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 106315,
       "name": "Feeling Lost Tonight",
       "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
+    },
+    {
+      "added_at": "2023-09-28 15:22:08",
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
     },
     {
       "added_at": "2023-09-28 15:22:08",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-09-28 15:22:08",
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
-    },
-    {
-      "added_at": "2023-09-28 15:22:08",
-      "album": {
         "name": "Nightcall",
         "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 126147,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
+    },
+    {
+      "added_at": "2023-09-28 15:22:08",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0NV4fZKQw1B6nGVLR131E4"
+      },
+      "artists": [
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/03FBFDhutbAtbAQN4qlp2A"
     },
     {
       "added_at": "2023-09-28 15:22:08",

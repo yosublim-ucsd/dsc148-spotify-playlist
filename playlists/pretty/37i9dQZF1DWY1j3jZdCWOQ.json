@@ -1,12 +1,12 @@
 {
   "description": "Spain without the S ",
-  "num_followers": 440617,
+  "num_followers": 441058,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmI1YTVhMjM4MDQ5ZjBiMjk0YzYyYzEzZjI0NDNkMzU3OWFjN2Jj",
+  "snapshot_id": "MCw3MTcwMmJmMTNhZWU2MTlhOGMzY2E1MDg1NjBkYTRhNjdkNGFlYTE3",
   "tracks": [
     {
       "added_at": "2023-09-08 20:51:31",
@@ -803,22 +803,18 @@
     {
       "added_at": "2023-09-08 20:51:31",
       "album": {
-        "name": "Cinematics (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6"
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
       },
       "artists": [
         {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        },
-        {
-          "name": "Ash Costello",
-          "url": "https://open.spotify.com/artist/0PlJKkYgy1TSV15E2cHefn"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 211026,
-      "name": "Partners in Crime (feat. Ash Costello)",
-      "url": "https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH"
+      "duration_ms": 209093,
+      "name": "The Downfall Of Us All",
+      "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
     }
   ],
   "unique_name": "teen angst",

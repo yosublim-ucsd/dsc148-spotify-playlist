@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 325864,
+  "num_followers": 326284,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmUzZDFlMWQwNGYxZTExYTY5ODQwY2M2ZTg5YjJkOWMyZGNkOTM4",
+  "snapshot_id": "MCwyZTQ5MDA2NjJkZGNjMWNkYWQ1MWYzMTYzZjEwOTU4MjNhZmQzMTU2",
   "tracks": [
     {
       "added_at": "2023-09-28 22:00:00",
@@ -284,7 +284,7 @@
       "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "I Can Feel",
-        "url": "https://open.spotify.com/album/2zSO8RqfAatj24OjXWG94d"
+        "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
       },
       "artists": [
         {
@@ -302,7 +302,7 @@
       ],
       "duration_ms": 173360,
       "name": "I Can Feel",
-      "url": "https://open.spotify.com/track/02Pow05DYnolKiYTbrr6yU"
+      "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "The Best Part of Life (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 198979,
-      "name": "The Best Part of Life (Imanbek Remix)",
-      "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 165335,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "The Best Part of Life (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 198979,
+      "name": "The Best Part of Life (Imanbek Remix)",
+      "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -803,30 +803,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "dropitlikeitshot!",
-        "url": "https://open.spotify.com/album/1vBHM5ULJcCmVBbgxSSuR6"
-      },
-      "artists": [
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        },
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "Crazy Mano",
-          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
-        }
-      ],
-      "duration_ms": 105486,
-      "name": "dropitlikeitshot!",
-      "url": "https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X"
       },
@@ -847,6 +823,30 @@
       "duration_ms": 166285,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "dropitlikeitshot!",
+        "url": "https://open.spotify.com/album/1vBHM5ULJcCmVBbgxSSuR6"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        },
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "duration_ms": 105486,
+      "name": "dropitlikeitshot!",
+      "url": "https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -931,6 +931,26 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
         "name": "Dance Tonight",
         "url": "https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 177000,
       "name": "Dance Tonight",
       "url": "https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "REBELS NEVER DIE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
-      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -1055,46 +1055,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/7brW7G3kHHkhr3eu838HhH"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Machine Made",
-          "url": "https://open.spotify.com/artist/56J7OPV77W9hMJQIRtvaBB"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/5i9khhoOkeogB49q54KOIz"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "Ecstasy Of Soul",
-        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Ecstasy Of Soul",
-      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "Blow It Up",
         "url": "https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9"
       },
@@ -1119,22 +1079,42 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Because The Night",
-        "url": "https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G"
+        "name": "Ecstasy Of Soul",
+        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 201330,
-      "name": "Because The Night",
-      "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
+      "duration_ms": 238400,
+      "name": "Ecstasy Of Soul",
+      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/7brW7G3kHHkhr3eu838HhH"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Machine Made",
+          "url": "https://open.spotify.com/artist/56J7OPV77W9hMJQIRtvaBB"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/5i9khhoOkeogB49q54KOIz"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
+        "name": "Because The Night",
+        "url": "https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 201330,
+      "name": "Because The Night",
+      "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
         "name": "Annihilate",
         "url": "https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk"
       },
@@ -1167,26 +1167,6 @@
       "duration_ms": 165000,
       "name": "Annihilate",
       "url": "https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 248471,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -1211,6 +1191,46 @@
       "duration_ms": 266668,
       "name": "Lambada (Your Love)",
       "url": "https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Vivaldi",
+        "url": "https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "duration_ms": 160222,
+      "name": "Vivaldi",
+      "url": "https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -1275,26 +1295,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Vivaldi",
-        "url": "https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        }
-      ],
-      "duration_ms": 160222,
-      "name": "Vivaldi",
-      "url": "https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "Space Case",
         "url": "https://open.spotify.com/album/61OEWqooBSWvgvqPxRvc9L"
       },
@@ -1307,42 +1307,6 @@
       "duration_ms": 212252,
       "name": "Space Case",
       "url": "https://open.spotify.com/track/1VSbfnWlHajs3Wz9LhucLB"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "She Knows (with Akon) [3 Are Legend x MANDY Remix]",
-        "url": "https://open.spotify.com/album/5LZqYANVnxVQjjV1d9KE0W"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "3 Are Legend",
-          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
-        },
-        {
-          "name": "MANDY",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
-        }
-      ],
-      "duration_ms": 182598,
-      "name": "She Knows (with Akon) - 3 Are Legend x MANDY Remix",
-      "url": "https://open.spotify.com/track/4nzwusPHj8TosWlr3J1EZ5"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -1399,6 +1363,42 @@
       "duration_ms": 227272,
       "name": "Pray 4 Party",
       "url": "https://open.spotify.com/track/5PzIVypjkmW2oJ9arHKa0D"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "She Knows (with Akon) [3 Are Legend x MANDY Remix]",
+        "url": "https://open.spotify.com/album/5LZqYANVnxVQjjV1d9KE0W"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+        }
+      ],
+      "duration_ms": 182598,
+      "name": "She Knows (with Akon) - 3 Are Legend x MANDY Remix",
+      "url": "https://open.spotify.com/track/4nzwusPHj8TosWlr3J1EZ5"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Hyper Hyper",
-        "url": "https://open.spotify.com/album/01tSVhXAQ3kBCWzkGeBTqi"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        },
-        {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Hyper Hyper",
-      "url": "https://open.spotify.com/track/7yDqQyCeTV2xXQP7tccX2D"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Hyper Hyper",
+        "url": "https://open.spotify.com/album/01tSVhXAQ3kBCWzkGeBTqi"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        },
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Hyper Hyper",
+      "url": "https://open.spotify.com/track/7yDqQyCeTV2xXQP7tccX2D"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Hardcore Vibes",
-        "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Hardcore Vibes - Radio Edit",
-      "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "Take Me Up",
         "url": "https://open.spotify.com/album/0ZMTslSR9ktXlBVOIXXoI8"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 205919,
       "name": "Take Me Up",
       "url": "https://open.spotify.com/track/0AJD30r5ExP6Dy0frAruiT"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Hardcore Vibes",
+        "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Hardcore Vibes - Radio Edit",
+      "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "BANG!",
-        "url": "https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 168775,
-      "name": "BANG!",
-      "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/7tYL9vmWTgy5l6XN2yMnYc"
       },
@@ -1691,22 +1675,18 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Stamp On The Ground",
-        "url": "https://open.spotify.com/album/2it6wVltq5zEsSf21OhnrV"
+        "name": "BANG!",
+        "url": "https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa"
       },
       "artists": [
         {
-          "name": "Jim Yosef",
-          "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
-        },
-        {
-          "name": "Scarlett",
-          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         }
       ],
-      "duration_ms": 136503,
-      "name": "Stamp On The Ground",
-      "url": "https://open.spotify.com/track/5QdWSor8wZmWyWWEOaJ4Fz"
+      "duration_ms": 168775,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -1727,6 +1707,26 @@
       "duration_ms": 304500,
       "name": "Donkers",
       "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Stamp On The Ground",
+        "url": "https://open.spotify.com/album/2it6wVltq5zEsSf21OhnrV"
+      },
+      "artists": [
+        {
+          "name": "Jim Yosef",
+          "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
+        },
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+        }
+      ],
+      "duration_ms": 136503,
+      "name": "Stamp On The Ground",
+      "url": "https://open.spotify.com/track/5QdWSor8wZmWyWWEOaJ4Fz"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -1871,22 +1871,42 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Million Miles (Da Tweekaz Remix)",
-        "url": "https://open.spotify.com/album/6nu1jhSY2ti1dOYCFgsjLc"
+        "name": "Ray Of Solar (Anfisa Letyago Remix)",
+        "url": "https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2"
       },
       "artists": [
         {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
         }
       ],
-      "duration_ms": 215780,
-      "name": "Million Miles - Da Tweekaz Remix",
-      "url": "https://open.spotify.com/track/40PYb7mtEgpptSbzzxDrKw"
+      "duration_ms": 207919,
+      "name": "Ray Of Solar - Anfisa Letyago Remix",
+      "url": "https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/0npNLby7U2chGnsBha4XZM"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        },
+        {
+          "name": "S3RL",
+          "url": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/28JBNdOB8oCOcZpKgu39Dv"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -1911,6 +1931,42 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
+        "name": "Survivors",
+        "url": "https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Survivors",
+      "url": "https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Million Miles (Da Tweekaz Remix)",
+        "url": "https://open.spotify.com/album/6nu1jhSY2ti1dOYCFgsjLc"
+      },
+      "artists": [
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 215780,
+      "name": "Million Miles - Da Tweekaz Remix",
+      "url": "https://open.spotify.com/track/40PYb7mtEgpptSbzzxDrKw"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
         "name": "ARCEUS",
         "url": "https://open.spotify.com/album/0ZidtUuoVFsM2SUbXqWcFr"
       },
@@ -1931,22 +1987,6 @@
       "duration_ms": 199500,
       "name": "ARCEUS",
       "url": "https://open.spotify.com/track/1EUKFavDiIvi2J6Cd35Tmd"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "Survivors",
-        "url": "https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Survivors",
-      "url": "https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -1991,46 +2031,6 @@
       "duration_ms": 262299,
       "name": "Crave",
       "url": "https://open.spotify.com/track/1VNThqTH5v8gi02dplXrSw"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "Ray Of Solar (Anfisa Letyago Remix)",
-        "url": "https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Anfisa Letyago",
-          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
-        }
-      ],
-      "duration_ms": 207919,
-      "name": "Ray Of Solar - Anfisa Letyago Remix",
-      "url": "https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/0npNLby7U2chGnsBha4XZM"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        },
-        {
-          "name": "S3RL",
-          "url": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/28JBNdOB8oCOcZpKgu39Dv"
     },
     {
       "added_at": "2023-09-28 22:00:00",

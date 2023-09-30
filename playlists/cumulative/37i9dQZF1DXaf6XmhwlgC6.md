@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-243 songs - 12 hr 43 min
+246 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Far Away](https://open.spotify.com/track/2JkeLbjmFANt3dc8BkkdSU) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Far Away](https://open.spotify.com/album/3XZrGL2liR5HeZorqFolGy) | 1:52 | 2022-11-11 |  |
 | [farewells](https://open.spotify.com/track/1EoaRggXd8RBKp4uFYB6PW) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Under the Weather](https://open.spotify.com/album/22nxXrvNWalmBOHUQkE85D) | 2:22 | 2023-04-21 |  |
 | [Fate's Sword](https://open.spotify.com/track/7nmRKnJshjGfQ9NFrpNcq9) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Fitted Friends](https://open.spotify.com/album/0zDp9XOVPWLVz3V0ZlEy0H) | 2:43 | 2023-05-26 |  |
+| [Felicity](https://open.spotify.com/track/5USaqddxsxfD9BAr3z3zlv) | [Naómi Sun](https://open.spotify.com/artist/4KWsYCRBojWuRg9TWP7Vqu) | [Felicity](https://open.spotify.com/album/31kL107vcAXopddhFfyId6) | 2:00 | 2023-09-29 |  |
 | [Fidelity](https://open.spotify.com/track/7aVZPC2jGVBNQ67laOUowW) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Fidelity](https://open.spotify.com/album/1JepRozB8KitEG6WdBLzdT) | 3:04 | 2022-08-05 |  |
 | [Finally You Needed Me](https://open.spotify.com/track/402eCegPnC05HLdbx6Ds3r) | [Ageena](https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2) | [Finally You Needed Me](https://open.spotify.com/album/1tQxz4vN24K3C3xoV9M6kN) | 3:46 | 2022-03-30 |  |
 | [finished falling](https://open.spotify.com/track/16UwPw97aFFsprUZrjoU3I) | [Riley Power](https://open.spotify.com/artist/16li8cbi4fTA6Fyztk1Bz1) | [finished falling](https://open.spotify.com/album/7hrcaCivMZsdEEpiBBK9s6) | 3:25 | 2022-03-30 |  |
@@ -104,7 +105,7 @@
 | [january](https://open.spotify.com/track/6MGqNuoVTYl4LfuhCTCg0S) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [may](https://open.spotify.com/album/26CRNQIefnR8zIAR9aQKWw) | 5:05 | 2023-04-28 | 2023-06-18 |
 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 | 2022-03-30 |  |
 | [Just An Unkind Time](https://open.spotify.com/track/7cmSGCMt0V9C3junM4m29v) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [Hold You Up](https://open.spotify.com/album/6Dd9ZLCztKoulxoSTGXBn4) | 5:02 | 2022-03-30 | 2023-03-18 |
-| [Kindly Refrain](https://open.spotify.com/track/6Jk0CC8q4pwt6NGjOOxuPZ) | [Abstract Rose](https://open.spotify.com/artist/4rZFgAj9MDm0tr1vTChIVI) | [Kindly Refrain](https://open.spotify.com/album/4xRnIHpHuM0FEiWdyUyOcL) | 2:28 | 2022-03-30 |  |
+| [Kindly Refrain](https://open.spotify.com/track/6Jk0CC8q4pwt6NGjOOxuPZ) | [Abstract Rose](https://open.spotify.com/artist/4rZFgAj9MDm0tr1vTChIVI) | [Kindly Refrain](https://open.spotify.com/album/4xRnIHpHuM0FEiWdyUyOcL) | 2:28 | 2022-03-30 | 2023-09-30 |
 | [Klarälven](https://open.spotify.com/track/6wnqcyatMNMyK2mQSVjMfv) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Klarälven](https://open.spotify.com/album/5wwzf8mRgo4yhc0uS3ETuP) | 2:09 | 2023-03-03 |  |
 | [Knowledge](https://open.spotify.com/track/32jPQvbPz02F2jhlDdM3SU) | [Endless Voyager](https://open.spotify.com/artist/15TXDkpu2tSyiy77G5ckRa) | [Knowledge](https://open.spotify.com/album/1Fl3JnASxezylSjI0YZgVt) | 2:37 | 2023-06-30 |  |
 | [koime](https://open.spotify.com/track/2yJ8wsGlt6CGMH05mPecu9) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Syukujitu](https://open.spotify.com/album/0UrFBt7UW7R9J7CG2L481e) | 3:02 | 2023-03-23 |  |
@@ -152,6 +153,7 @@
 | [ouma](https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS) | [Fall Ball](https://open.spotify.com/artist/4fuQaoYKyoJhGu6Vabhrv3) | [ouma](https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ) | 2:57 | 2022-03-30 | 2022-08-06 |
 | [Parallels](https://open.spotify.com/track/4ujZScjhNsCcDdK5iriHhU) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Parallels](https://open.spotify.com/album/1WEeuWUxTIuVUc3i1lKwFn) | 2:54 | 2022-06-24 |  |
 | [Past the Pasture and Beyond The Hill](https://open.spotify.com/track/4NZoI2toESyiMrobse6WSK) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [Lifenotes](https://open.spotify.com/album/4YJIgx2MTliPfREF342MD4) | 2:11 | 2022-03-30 |  |
+| [Path Lit](https://open.spotify.com/track/5Koc9TQ8BgOxoBgq9FXNav) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Path Lit](https://open.spotify.com/album/0yZrB7JbQMGwkVKObFGjQY) | 2:04 | 2023-09-29 |  |
 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 | 2022-03-30 |  |
 | [Perceptive](https://open.spotify.com/track/7Mi5eCOPGZI4jwlpzb0xSC) | [Ravndala](https://open.spotify.com/artist/40OmNBDYoyRn43AjGjJzlH) | [Perceptive](https://open.spotify.com/album/60jpACFvJmrcVpXft0PKH4) | 3:32 | 2023-05-19 |  |
 | [pound for pound](https://open.spotify.com/track/6QqlgQ6xSc4SrsP0vWlmpa) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [pound for pound](https://open.spotify.com/album/7uFbEtssmk8DYTKqMwjAil) | 2:50 | 2022-11-11 |  |
@@ -189,6 +191,7 @@
 | [Spectrum](https://open.spotify.com/track/1IehfNuo7INDcML5BpB8XF) | [Serenity Within](https://open.spotify.com/artist/6FAxdDhWeswbCrRh4Peerp) | [Spectrum](https://open.spotify.com/album/0ICUzYINjeIcXtmOV0kZI6) | 2:47 | 2023-02-17 |  |
 | [Standing Room](https://open.spotify.com/track/40dPFLNBFzPMb2j12d1npV) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Standing Room](https://open.spotify.com/album/1eCvGwYCYkqFxQ0iAyf2Of) | 2:18 | 2023-08-18 |  |
 | [Stargazing](https://open.spotify.com/track/3vry2ev8DYAUt2ggdaXrUk) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Stargazing](https://open.spotify.com/album/0gHxoEdJVI683mr9khLjS3) | 2:16 | 2022-06-16 |  |
+| [Stars Aligned](https://open.spotify.com/track/174Qm1we2PpksdAwRftfts) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Stars Aligned](https://open.spotify.com/album/2iZmpvPnSUy2HiUcUsjAkx) | 3:09 | 2023-09-29 |  |
 | [Steadfast](https://open.spotify.com/track/2qTBy6oygbjPTEpitegxXE) | [Yokocho Chords](https://open.spotify.com/artist/03lwJjylwMLizTFvD1sDEC) | [Steadfast](https://open.spotify.com/album/5gDummFOXZRMs6CYc70iDO) | 2:43 | 2023-03-03 |  |
 | [Still Here](https://open.spotify.com/track/4HFsdkbBXreHBwhfdn1SuK) | [Francis Flo](https://open.spotify.com/artist/1WNWDUJZnaNuOhfcoug5hJ) | [Still Here](https://open.spotify.com/album/0K9P90uTgLYvq8D41LCcbY) | 2:08 | 2023-03-23 |  |
 | [Still In Orbit](https://open.spotify.com/track/7IlYLp9sTZ0PIesayFaVPW) | [Holzer](https://open.spotify.com/artist/546jtwCtpev5TPsZBz3oJy) | [Still In Orbit](https://open.spotify.com/album/1wfeLC1EIMoAPsgGS23UN5) | 2:36 | 2023-03-10 |  |

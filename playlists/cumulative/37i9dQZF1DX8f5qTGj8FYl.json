@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Filter System",
+        "url": "https://open.spotify.com/album/1pzmwIXLmqfeDkYP4J1Aaj"
+      },
+      "artists": [
+        {
+          "name": "Polyrhythmics",
+          "url": "https://open.spotify.com/artist/43pamwJj22NKepRqNeS412"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237417,
+      "name": "Clydesdale",
+      "url": "https://open.spotify.com/track/2P2EjjN0iqptFNLjOaMPAN"
+    },
+    {
+      "album": {
         "name": "Tailwinds.",
         "url": "https://open.spotify.com/album/2dNlfSEAakmsqr7pXtKsDt"
       },
@@ -1516,7 +1534,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 216699,
       "name": "Fried Soul",
       "url": "https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd"

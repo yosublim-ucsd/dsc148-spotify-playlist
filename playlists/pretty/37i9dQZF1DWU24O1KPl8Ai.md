@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 
 > Celebrate APIHM with music from Asian and Pacific Islander artists for the whole family\. Cover: Falu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,705 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,711 likes - 36 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 |
-| 2 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 |
+| 2 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 |
 | 3 | [Happy](https://open.spotify.com/track/5V3T4m5Ak4wjfON9SekdYE) | [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1) | [A Colorful World](https://open.spotify.com/album/3rjX6PHBw0KW8aqhxxQXfc) | 3:02 |
-| 4 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 |
+| 4 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 |
 | 5 | [Speechless \(Full\)](https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:28 |
 | 6 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 |
 | 7 | [A Whole New World \(End Title\)](https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 4:02 |
 | 8 | [Reflection \- From "Mulan" / Soundtrack Version](https://open.spotify.com/track/4ASPjY65S7crmZBHML0L8d) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney's Greatest Volume 1](https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY) | 2:26 |
 | 9 | [パプリカ](https://open.spotify.com/track/60t5lev16eczZXurTNf56k) | [Foorin](https://open.spotify.com/artist/3h95Ve9m3Q07d8VG6V9hEU) | [パプリカ](https://open.spotify.com/album/2cBaztI22TPEULZE6nfYUm) | 3:28 |
 | 10 | [Ultraluminary \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/5Yx7Cl7QZx80fx3hvESVB2) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:20 |
-| 11 | [Terukir Di Bintang](https://open.spotify.com/track/0tiFAoHT0dBr3kk7owGL7q) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Terukir Di Bintang](https://open.spotify.com/album/7aB1a1ifJVpp2bfbTQkCLa) | 3:02 |
-| 12 | [The Rose Song \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Rose Song \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m) | 2:54 |
+| 11 | [The Rose Song \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Rose Song \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m) | 2:54 |
+| 12 | [Terukir Di Bintang](https://open.spotify.com/track/0tiFAoHT0dBr3kk7owGL7q) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Terukir Di Bintang](https://open.spotify.com/album/7aB1a1ifJVpp2bfbTQkCLa) | 3:02 |
 | 13 | [Oh!](https://open.spotify.com/track/1Wn0A9wVEQXj2JVbdsclpi) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 2:35 |
 | 14 | [PPAP\(Pen\-Pineapple\-Apple\-Pen\) \- Long ver.](https://open.spotify.com/track/5qRj5I58zuHkVilcqVWN3P) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2) | [I have a PPAP](https://open.spotify.com/album/2c8W1S31BgpyrAm0txBFTc) | 2:02 |
 | 15 | [Who I Am](https://open.spotify.com/track/0b7KwwNxPh1VtxGBLRMmR9) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Tom Lord\-Alge](https://open.spotify.com/artist/32ckuKo8LrZhQMyCehYKkt) | [Who I Am](https://open.spotify.com/album/7z9WTkLdk9fseQpe7aBsGT) | 3:23 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 | 35 | [Akatombo](https://open.spotify.com/track/5adXOZrM20D1AENYn3LKCy) | [Elena Moon Park](https://open.spotify.com/artist/4Okanr8CZ6f2oGudDIyv77) | [Rabbit Days and Dumplings](https://open.spotify.com/album/4YhjCfn1LfDFEzlu6JFxjy) | 3:24 |
 | 36 | [Small but Mighty](https://open.spotify.com/track/2tSaIsNOHPULivFVlHejoG) | [Ginalina](https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP) | [Small but Mighty](https://open.spotify.com/album/02oEsC2mLDX2DcK13w23hI) | 2:54 |
 
-Snapshot ID: `MCwxZWExMzI3YzY3M2IxZjNjMjU1MWFlMDZmMWYwNTk3YTVhOWZmZmM3`
+Snapshot ID: `MCw2YmQ1OTlmNzBhMjFhMTU3MDQxYTYwYjhkYjRkMDg4ZTc4NGMyMzIx`

@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Isn\u2019t It Now?",
+        "url": "https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165067,
+      "name": "Broke Zodiac",
+      "url": "https://open.spotify.com/track/13VBnTHnLmgst3J4dF0zpH"
+    },
+    {
+      "album": {
         "name": "Freakout/Release",
         "url": "https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN"
       },

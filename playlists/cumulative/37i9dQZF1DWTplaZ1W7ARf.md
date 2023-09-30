@@ -2,9 +2,9 @@
 
 ### [Street Soul](https://open.spotify.com/playlist/37i9dQZF1DWTplaZ1W7ARf)
 
-> Neighborhood Storytellers\. Cover: DeeBaby
+> Neighborhood Storytellers\. Cover: Rod Wave
 
-223 songs - 11 hr 12 min
+225 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,10 +57,10 @@
 | [DNA](https://open.spotify.com/track/0f4Q3Akc01C02qHpqzAA2Q) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [DNA](https://open.spotify.com/album/1fDgOfcw9Ljo9yXVYcXEFR) | 4:02 | 2022-11-19 | 2022-12-17 |
 | [Doctor \(feat\. Lil Tjay\)](https://open.spotify.com/track/5Xks4meWbkd8vjWsxqYeNF) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Doctor \(feat\. Lil Tjay\)](https://open.spotify.com/album/566YUUlXUHUdv98SJKo0Os) | 2:47 | 2021-11-05 | 2022-04-16 |
 | [Eastside \(with Lil Tjay\) \- Remix](https://open.spotify.com/track/7zOoDCREaLK0mFa478jmlH) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [LaZy, but i have goals \(Banned From Vermont\)](https://open.spotify.com/album/4Sfiv5MRybl90Z4iloexTy) | 2:37 | 2022-11-04 | 2023-07-15 |
-| [End of the Road](https://open.spotify.com/track/7lYdjmBDdJWmtkIUJAjQs9) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 3:10 | 2023-06-30 |  |
+| [End of the Road](https://open.spotify.com/track/7lYdjmBDdJWmtkIUJAjQs9) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 3:10 | 2023-06-30 | 2023-09-30 |
 | [Equal Dirt](https://open.spotify.com/track/1XoANQIq3IKd0YsZTDd4RR) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 3:01 | 2023-07-28 |  |
 | [Evil](https://open.spotify.com/track/5zG5U3PGRdzzGcpUKP3W1J) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Evil](https://open.spotify.com/album/5X8WNJ9F7SmfCXjC19I2e0) | 2:19 | 2022-02-04 | 2022-08-27 |
-| [Exhausted \(feat\. Kevin Gates\)](https://open.spotify.com/track/0tqyIjrOmExO9gami8xcu1) | [FL Dusa](https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Exhausted \(feat\. Kevin Gates\)](https://open.spotify.com/album/4gTqOoZiGwduER0dqgPdJo) | 2:37 | 2023-02-03 |  |
+| [Exhausted \(feat\. Kevin Gates\)](https://open.spotify.com/track/0tqyIjrOmExO9gami8xcu1) | [FL Dusa](https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Exhausted \(feat\. Kevin Gates\)](https://open.spotify.com/album/4gTqOoZiGwduER0dqgPdJo) | 2:37 | 2023-02-03 | 2023-09-30 |
 | [Eyes Open \(feat\. Lil Baby & Young Thug\)](https://open.spotify.com/track/0va4UcIcxAOf4yVpxGQWSa) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2 Get You Thru The Rain](https://open.spotify.com/album/5AWE3CWvvlvpBBqKIjTrji) | 3:22 | 2021-12-10 | 2022-06-04 |
 | [Fake Shit](https://open.spotify.com/track/69xF6AQX3SZ4GHuANZO5WX) | [Anthony Q.](https://open.spotify.com/artist/2pae36JwIwwS5a9G0qqI82), [Prestige](https://open.spotify.com/artist/2WrKFd7wtMKWBrwa9AOHlB) | [Fake Shit](https://open.spotify.com/album/40wbty0uARaSWDJ2NaMEmm) | 2:59 | 2023-08-25 |  |
 | [Federal Nightmares](https://open.spotify.com/track/4W730PJT4aw79pZ9D8BLhl) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:31 | 2022-03-11 | 2022-10-01 |
@@ -101,6 +101,7 @@
 | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/album/28Fjbqnkqv9LmOGLehRIVT) | 2:33 | 2022-05-20 | 2023-02-25 |
 | [I THINK \(FEAT\. LIL BABY\)](https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:25 | 2023-08-18 |  |
 | [i was just thinking](https://open.spotify.com/track/5QG0l8nybp5rLMo7saQHl2) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:12 | 2023-06-23 |  |
+| [I'm Alright](https://open.spotify.com/track/04ozGXjtrjK6cvnzuA0juQ) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3) | [I'm Alright](https://open.spotify.com/album/7GgLBFfOfLWWAfc2JHuqiM) | 2:36 | 2023-09-29 |  |
 | [I'm Not Alright, Not Okay](https://open.spotify.com/track/0dXzE7cxTv4EkL6MD8r9MD) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [I'm Not Alright, Not Okay](https://open.spotify.com/album/5EHTlMp1OfFZiNILRYFDfW) | 3:10 | 2023-08-11 |  |
 | [IF I STOP NOW](https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [IF I STOP NOW](https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8) | 2:57 | 2023-01-27 | 2023-06-24 |
 | [IF I STOP NOW](https://open.spotify.com/track/49bxVin0H4zcbOPTnAPdD9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:57 | 2023-06-23 | 2023-07-29 |
@@ -194,6 +195,7 @@
 | [Slizzard & Geekin](https://open.spotify.com/track/7IKzgb2jU2PB5MCxNt9OxA) | [Calvary Kylan](https://open.spotify.com/artist/3GJruOCHZYChqnOxMcGipy) | [Slizzard & Geekin](https://open.spotify.com/album/4akuE86sMxCbYwvSwlfaM5) | 3:24 | 2022-05-20 | 2022-07-16 |
 | [Slums](https://open.spotify.com/track/71gCSQlGoGC2N9BOGAjbk5) | [100k Track](https://open.spotify.com/artist/1egKFNqREi1l3EsTwRrvVR), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Slums](https://open.spotify.com/album/4p498ruZiGZNe5q1AzNpP3) | 3:12 | 2022-02-25 | 2022-09-17 |
 | [Small Town Hero](https://open.spotify.com/track/1uJlJyphY1YXiFWzsTo8qe) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Small Town Hero](https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J) | 2:57 | 2022-07-15 | 2022-08-13 |
+| [Soldier \(Yo Gotti, EST Gee, BIG30\)](https://open.spotify.com/track/1UMBmIdPvOmnBlpgc0J9Tf) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 3:33 | 2023-09-29 |  |
 | [Soul Bleed](https://open.spotify.com/track/4jHz6x0LTLdRsAnWWlVx5w) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Soul Bleed](https://open.spotify.com/album/74S4OzUeGxO911OCx638cM) | 2:51 | 2022-02-18 | 2022-09-17 |
 | [Soul Ties \(feat\. Derez De'Shon\)](https://open.spotify.com/track/10HzSWF46MUNO25LkqJjaW) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Derez De’Shon](https://open.spotify.com/artist/1C5vXvYnmVVTKw4GVCKGzM) | [Shottaz 4Eva \(Deluxe\)](https://open.spotify.com/album/3cLu28v4PpkegWYw9CxhdU) | 3:10 | 2021-08-27 | 2022-02-12 |
 | [Static Rain \(feat\. Birdy\)](https://open.spotify.com/track/0IJjdH8S6f1hcctRtXKaUZ) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Static Rain \(feat\. Birdy\)](https://open.spotify.com/album/21j9EyGoFPhmq5sYrajjLT) | 2:55 | 2022-04-22 | 2022-12-03 |

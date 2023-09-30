@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-225 songs - 11 hr 33 min
+226 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Doble Ipa](https://open.spotify.com/track/79R83OrWPJhzOhyjcfQAwN) | [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R) | [Leal](https://open.spotify.com/album/78mCf8tXP7zoxxUmiTDF1P) | 3:45 | 2022-06-10 | 2022-11-19 |
 | [Domingo 18](https://open.spotify.com/track/0AFQVgU1fJzte2elv5fehr) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21) | [Bad Week](https://open.spotify.com/album/4njk6awCFJyapgmgL4Qm4R) | 3:14 | 2022-02-18 | 2022-10-28 |
 | [El Camino](https://open.spotify.com/track/6tKHO7Y06ZmJmYbcc1YS6q) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [El Gordo S aka Sony](https://open.spotify.com/artist/7DRN60ZXkjx3xn8rxOEvLU) | [El Camino](https://open.spotify.com/album/5m2bgCZPJoriDgvMZ4EWdn) | 5:15 | 2021-11-26 | 2023-03-03 |
+| [El Canton Norte](https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El 17](https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj) | 2:45 | 2023-09-29 |  |
 | [El Mundo Es Tuyo](https://open.spotify.com/track/2XMLQxLX3FQZ7veKYIKumh) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/7CWLoC8Yw64f8vMJFV1AVh) | 3:02 | 2021-11-26 | 2022-07-29 |
 | [El Mundo Es Tuyo](https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:02 | 2022-06-10 |  |
 | [Es Como](https://open.spotify.com/track/4GiBS17fllxgugGEUw1iVW) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Fiucher](https://open.spotify.com/artist/6txlBT165HMOl0ADNhT8zj), [Yaco Levy](https://open.spotify.com/artist/3sBrIlDXIRiWFEXrxClwSs), [Marte](https://open.spotify.com/artist/0UH4V62ZAz2stunho99Ven) | [Es Como](https://open.spotify.com/album/63tHVFdnWdxVAWJ7vPUBSk) | 4:03 | 2021-11-26 | 2022-11-19 |
@@ -112,7 +113,7 @@
 | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/track/4HFzNSCfkNssUid9hoy2Ls) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [HOMER EL MERO MERO: Bzrp Music Sessions, Vol\. 30](https://open.spotify.com/album/2hKEYwv7oSNI0xc4nsIFcs) | 3:01 | 2022-09-22 |  |
 | [HOOP HOOP](https://open.spotify.com/track/3dD1H5ick5Txfngx7hje7X) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Pedro Peligro](https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:37 | 2022-05-12 |  |
 | [HORAS EXTRAS](https://open.spotify.com/track/527EqWFnLQBSFozXNF9aPF) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R) | [HORAS EXTRAS](https://open.spotify.com/album/4ZSdLAEwyl3psz69BYK0gN) | 4:15 | 2022-11-11 |  |
-| [I'm Sexy](https://open.spotify.com/track/6EehCI47rrOjaDHwrpTO7q) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [I'm Sexy](https://open.spotify.com/album/1IawKxLc0kQANfv3T7Wgbs) | 3:13 | 2022-06-10 |  |
+| [I'm Sexy](https://open.spotify.com/track/6EehCI47rrOjaDHwrpTO7q) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [I'm Sexy](https://open.spotify.com/album/1IawKxLc0kQANfv3T7Wgbs) | 3:13 | 2022-06-10 | 2023-09-30 |
 | [I'm Sexy](https://open.spotify.com/track/7a5JG6ll35Hz12TmDeMhsJ) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [I'm Sexy](https://open.spotify.com/album/27kcEjGB3vMMNLVkjMjzKF) | 3:13 | 2021-11-26 | 2022-07-29 |
 | [Ideas En Mi Cabeza](https://open.spotify.com/track/5Vh2tE1Bx8UoYLBgL4n07V) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [ILL](https://open.spotify.com/album/7zr7be3J7DNFsZPw1m1BtY) | 2:53 | 2023-09-01 |  |
 | [Imposible](https://open.spotify.com/track/0et5kHSyE7vNPbysINU6vy) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [Imposible](https://open.spotify.com/album/0WHVZ4w8mOWhbBDOi3DSks) | 2:49 | 2023-09-01 |  |
@@ -164,7 +165,7 @@
 | [Olivia](https://open.spotify.com/track/1RYwya4oEKfNlrST9pCp9B) | [Frane](https://open.spotify.com/artist/6nS9ouoHJP473M7180H9tP), [Lucía Boffo](https://open.spotify.com/artist/4okRwzOTkHW7n6373ZvZOV) | [Olivia](https://open.spotify.com/album/3PIu16baoLJCSCrYBVF5CD) | 4:34 | 2021-11-26 | 2022-04-12 |
 | [Otro Color](https://open.spotify.com/track/4UG9b7rz7OhhfRVyvqavDi) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Otro Color](https://open.spotify.com/album/4a4xwIYPYTKAFwObd1dnG2) | 2:24 | 2022-04-11 |  |
 | [Pa Morir Se Nace](https://open.spotify.com/track/5LM38gYHNnfUpOJorx79Yf) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Pa Morir Se Nace](https://open.spotify.com/album/7o5b0dMIzT4kT5KnSX7fiF) | 2:05 | 2023-07-07 |  |
-| [Pantera](https://open.spotify.com/track/7i1wr4Fzh4cOuhiRIIX3sD) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Pantera](https://open.spotify.com/album/1EFkCCNdP5occ9EDKPiNi5) | 2:46 | 2021-11-26 |  |
+| [Pantera](https://open.spotify.com/track/7i1wr4Fzh4cOuhiRIIX3sD) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Pantera](https://open.spotify.com/album/1EFkCCNdP5occ9EDKPiNi5) | 2:46 | 2021-11-26 | 2023-09-30 |
 | [Paquetes](https://open.spotify.com/track/63iJSDSeiTbJhDbo60jVOe) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Paquetes](https://open.spotify.com/album/2yPAPnynCHDjYi69UF1UUI) | 2:51 | 2023-03-03 | 2023-07-22 |
 | [Peatonal de Sombras](https://open.spotify.com/track/28kvGxsxkaqMfpLumZ5ygj) | [Sub](https://open.spotify.com/artist/0J1AbzNzCjcNrGW7KUABe1) | [Peatonal de Sombras](https://open.spotify.com/album/09AbzqLcZRYYzb8nYE35Cp) | 3:38 | 2021-11-26 | 2023-04-09 |
 | [PELOTUDA](https://open.spotify.com/track/5jq68GFT3eBI341pgT5Zwh) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [PELOTUDA](https://open.spotify.com/album/7ttTUSFx4HqlALyCqqOxDP) | 3:05 | 2021-11-26 |  |

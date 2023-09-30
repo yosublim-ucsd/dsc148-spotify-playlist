@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Lil Tjay",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Fridayy",
   "name": "B.A.E.",
   "tracks": [
     {
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 195096,
       "name": "Braggin' Rights",
       "url": "https://open.spotify.com/track/7bt22ryCORJbWP6YqHm4Z2"
@@ -1819,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "Do The Most",
+        "url": "https://open.spotify.com/album/7umiUkssxpb76qm8AT8Uq0"
+      },
+      "artists": [
+        {
+          "name": "Dustystaytrue",
+          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192009,
+      "name": "Do The Most",
+      "url": "https://open.spotify.com/track/1yg9VKFZ4nAtylknE3lUHo"
+    },
+    {
+      "album": {
         "name": "Sixtape 3",
         "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
       },
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 121283,
       "name": "Fell In Love",
       "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
@@ -2556,6 +2574,32 @@
       "duration_ms": 219773,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/2Ss2x0xjGRsOXZiYslCKQE"
+    },
+    {
+      "album": {
+        "name": "Guitar In My Room",
+        "url": "https://open.spotify.com/album/2BgCZFN0tmSrb2deTawr5h"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227647,
+      "name": "Guitar In My Room (with Lil Durk & Kid Cudi)",
+      "url": "https://open.spotify.com/track/4LPIwB4gtPzuB0YKHjOldj"
     },
     {
       "album": {
@@ -4550,7 +4594,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 99960,
       "name": "No Enhancers",
       "url": "https://open.spotify.com/track/2nK3bNHjO0IAMarcoN27UK"
@@ -5515,6 +5559,28 @@
     },
     {
       "album": {
+        "name": "Room 303",
+        "url": "https://open.spotify.com/album/1jx67HtjGM7CS6COG17WXs"
+      },
+      "artists": [
+        {
+          "name": "Toure",
+          "url": "https://open.spotify.com/artist/1OXhvSQDWPFqq6v2bhY17X"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188280,
+      "name": "Room 303",
+      "url": "https://open.spotify.com/track/3k1rYlaTNoqaUdXS743hWZ"
+    },
+    {
+      "album": {
         "name": "Round & Round",
         "url": "https://open.spotify.com/album/1TdRRrPUGr61rj3UIRI9TO"
       },
@@ -5878,6 +5944,24 @@
       "duration_ms": 190224,
       "name": "Single & Happy (feat. Wale & Eric Bellinger)",
       "url": "https://open.spotify.com/track/6n9G36q0JwCS12oQRXCeMi"
+    },
+    {
+      "album": {
+        "name": "SLIDE ON ME",
+        "url": "https://open.spotify.com/album/06mThvptWT55fFKy5UZtas"
+      },
+      "artists": [
+        {
+          "name": "Chris Patrick",
+          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "SLIDE ON ME",
+      "url": "https://open.spotify.com/track/4kRdEglPliBDy42SpYwLTH"
     },
     {
       "album": {
@@ -6340,7 +6424,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 132786,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC"

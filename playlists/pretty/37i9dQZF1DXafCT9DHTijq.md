@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,724 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,831 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 | 49 | [Don Giovanni, K.527 / Act 2: "Don Giovanni, a cenar teco m'invitasti"](https://open.spotify.com/track/6Gwe5OirRoZKyWANGWG90D) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Robert Lloyd](https://open.spotify.com/artist/50QMTmQ1XZm05UovMrGL4o), [Thomas Allen](https://open.spotify.com/artist/2SFBZgfO2H1nVSgjxzJLUy), [Simone Alaimo](https://open.spotify.com/artist/7LDy5jDmVcCgvqz6NqUupK), [Ambrosian Opera Chorus](https://open.spotify.com/artist/5qBpXwutwmD9MBTNXkT4JZ), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) | [Mozart: Don Giovanni \(Highlights\)](https://open.spotify.com/album/1VCTLunPX4oRqRIa6sWWlq) | 6:37 |
 | 50 | [I Colori Di Dicembere \- Laura's Theme: The Last Farewell](https://open.spotify.com/track/4vD4lTkTfUgF8XdLbwfy8A) | [Pino Donaggio](https://open.spotify.com/artist/1M5wLoT4Yub4wWOZAcj7z0) | [Don't Look Now \(Original Film Soundtrack\)](https://open.spotify.com/album/5p9XwaEDdSReJ6QCJRJwJ9) | 3:26 |
 
-Snapshot ID: `MCwyZWI1NjQzYWRiMWM3NjMzNzA2YmFiYWZmZTljZjQzMDI0YzBlZTUy`
+Snapshot ID: `MCxmNDcyN2I1NjM5YWMzNTEwYjBjZDlkZDBmNjE5MDE2YzU4MjAxOTA2`

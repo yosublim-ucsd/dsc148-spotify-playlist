@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 
 ### [juice](https://open.spotify.com/playlist/37i9dQZF1DX4nkDUiMktkK)
 
-> Salute's got the juice
+> ATRIP's got the juice
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,951 likes - 125 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,975 likes - 125 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 23 | [Ring The Alarm](https://open.spotify.com/track/6EACtpp2xlqbs2rViFRXDO) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Ring The Alarm](https://open.spotify.com/album/7dLyeT8MWlaGoG0v1yxSLA) | 3:04 |
 | 24 | [Show Me](https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Show Me](https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M) | 3:28 |
 | 25 | [Talk On The Phone](https://open.spotify.com/track/2nohMn7cW43qSt69glqwXj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:26 |
-| 26 | [Movin' On](https://open.spotify.com/track/5DQyoa8ZzJoM9hqfrln4Wd) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [My Friends](https://open.spotify.com/album/644q1QpzcCF4Ias6NUIqSR) | 2:31 |
+| 26 | [Movin' On](https://open.spotify.com/track/6KqwymhNktMbr0yGYe2L6f) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [My Friends EP](https://open.spotify.com/album/4YqagaNtz10JMCRFdLmkFI) | 2:31 |
 | 27 | [die young \- 33 Below Remix](https://open.spotify.com/track/7v7eF1koFUNnRFMvky3RDM) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [die young \(33 Below Remix\)](https://open.spotify.com/album/4CuHqQsLcaHoiveB3Evl6v) | 3:43 |
 | 28 | [To be honest \- SG Lewis Remix](https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [To be honest \(SG Lewis Remix\)](https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en) | 3:58 |
 | 29 | [Get Me](https://open.spotify.com/track/0xk6tzMw32Bmfv51BOXcVA) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Get Me](https://open.spotify.com/album/5Jt0mOia9MNnM4oW7e58u1) | 4:20 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 124 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
 | 125 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 
-Snapshot ID: `MCw2OGRlOTc2MzlkZmY3MGUwZDBiMWYxNTRlOGRhMGQyY2I0ZTc0YTBj`
+Snapshot ID: `MCxmZTE0NGIyMmZlZDljMTVmYjdhNThiMTRkYWZmY2IzY2Q2YWZmNWIw`

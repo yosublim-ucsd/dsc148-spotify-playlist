@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Lil Tecca",
+  "description": "Up and down I-95. Cover: Sleepy Hallow",
   "name": "State of Mind",
   "tracks": [
     {
@@ -2621,6 +2621,32 @@
     },
     {
       "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211006,
+      "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
+      "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
+    },
+    {
+      "album": {
         "name": "Chaa Chaa Chaa (feat. HoodCelebrityy)",
         "url": "https://open.spotify.com/album/4tXiLGssJW4PCETKkVmW5v"
       },
@@ -2684,6 +2710,28 @@
       "duration_ms": 145057,
       "name": "Cheating Freestyle",
       "url": "https://open.spotify.com/track/3NNPdTY3gy65ziwmLoaq1u"
+    },
+    {
+      "album": {
+        "name": "Cheeeeks!",
+        "url": "https://open.spotify.com/album/587DhJBTkv14AzCKZgROF1"
+      },
+      "artists": [
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        },
+        {
+          "name": "Kenzo B",
+          "url": "https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "Cheeeeks!",
+      "url": "https://open.spotify.com/track/5apRfd6GUxvql93R74dDux"
     },
     {
       "album": {
@@ -3608,6 +3656,24 @@
       "duration_ms": 207045,
       "name": "Do Not Disturb ft. NAV and Yung Bleu",
       "url": "https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh"
+    },
+    {
+      "album": {
+        "name": "Do The Most",
+        "url": "https://open.spotify.com/album/7umiUkssxpb76qm8AT8Uq0"
+      },
+      "artists": [
+        {
+          "name": "Dustystaytrue",
+          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192009,
+      "name": "Do The Most",
+      "url": "https://open.spotify.com/track/1yg9VKFZ4nAtylknE3lUHo"
     },
     {
       "album": {
@@ -4849,6 +4915,28 @@
     },
     {
       "album": {
+        "name": "Fire At Ya Idle Mind",
+        "url": "https://open.spotify.com/album/72KO53EPvkf6htRsk2qjCJ"
+      },
+      "artists": [
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200693,
+      "name": "Fire At Ya Idle Mind",
+      "url": "https://open.spotify.com/track/5LokWrVZtDH1UZvpeVfp8D"
+    },
+    {
+      "album": {
         "name": "Flamerz 6",
         "url": "https://open.spotify.com/album/0REes2g3elezmkW6DcvXNT"
       },
@@ -4988,7 +5076,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 209371,
       "name": "For My City",
       "url": "https://open.spotify.com/track/6YVr9PZYHNkoU61fqeBKVX"
@@ -7877,6 +7965,24 @@
     },
     {
       "album": {
+        "name": "Last One Left",
+        "url": "https://open.spotify.com/album/1SH0SWEZWW9fKuQR77Ths2"
+      },
+      "artists": [
+        {
+          "name": "Sha EK",
+          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102625,
+      "name": "Last One Left",
+      "url": "https://open.spotify.com/track/30mAI17v7imZwWVT9mKA0d"
+    },
+    {
+      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
       },
@@ -9126,7 +9232,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 172974,
       "name": "MILLIONS",
       "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
@@ -9748,7 +9854,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 138946,
       "name": "Need Me",
       "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
@@ -10214,7 +10320,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 111428,
       "name": "No Secrets",
       "url": "https://open.spotify.com/track/1QJmDEhYFLTM9PQMSzeVe3"
@@ -10458,7 +10564,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 159063,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/28a9Ref1xn9MvMHCFg8bIM"
@@ -10480,7 +10586,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 184296,
       "name": "Off Top",
       "url": "https://open.spotify.com/track/4B9W5xGHs5cJp47xOUBqeN"
@@ -11985,6 +12091,24 @@
     },
     {
       "album": {
+        "name": "REALLY HER (INTL DELUXE)",
+        "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143999,
+      "name": "RAISE THE STAKES",
+      "url": "https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8"
+    },
+    {
+      "album": {
         "name": "Raised Me",
         "url": "https://open.spotify.com/album/49Unv1AAYHoePvJe0vJPqN"
       },
@@ -13008,7 +13132,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 174853,
       "name": "Say Less (feat. Lil Durk & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/6D4n6TkbC3Dce3c03FzrDM"
@@ -13262,6 +13386,28 @@
       "duration_ms": 118249,
       "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
       "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
+    },
+    {
+      "album": {
+        "name": "SHAQ & KOBE",
+        "url": "https://open.spotify.com/album/4oekX6V7nkvYhjnbNSO7uA"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219617,
+      "name": "SHAQ & KOBE",
+      "url": "https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6"
     },
     {
       "album": {
@@ -13570,6 +13716,24 @@
       "duration_ms": 161230,
       "name": "Slide",
       "url": "https://open.spotify.com/track/0eN3LYdvUOq7Z1WOpd48g3"
+    },
+    {
+      "album": {
+        "name": "SLIDE ON ME",
+        "url": "https://open.spotify.com/album/06mThvptWT55fFKy5UZtas"
+      },
+      "artists": [
+        {
+          "name": "Chris Patrick",
+          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "SLIDE ON ME",
+      "url": "https://open.spotify.com/track/4kRdEglPliBDy42SpYwLTH"
     },
     {
       "album": {
@@ -14192,7 +14356,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 172315,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/5ZT3hjMMoYkgF0fLCZid4l"
@@ -16460,7 +16624,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 152582,
       "name": "Why",
       "url": "https://open.spotify.com/track/5EjqYGHpzhuoNGGb4ovuXT"
@@ -16712,6 +16876,28 @@
       "duration_ms": 226758,
       "name": "Ye Not Crazy",
       "url": "https://open.spotify.com/track/70jjParnrP2X3mOVkoljGE"
+    },
+    {
+      "album": {
+        "name": "Yea Yea",
+        "url": "https://open.spotify.com/album/2o8jRK4gRgKFnJKpRpKrMv"
+      },
+      "artists": [
+        {
+          "name": "Lady London",
+          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
+        },
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183834,
+      "name": "Yea Yea (with Dreezy)",
+      "url": "https://open.spotify.com/track/5vDaxi6wSFM79RSI8AWJFS"
     },
     {
       "album": {

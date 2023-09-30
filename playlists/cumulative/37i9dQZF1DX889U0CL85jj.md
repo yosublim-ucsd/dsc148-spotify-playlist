@@ -4,7 +4,7 @@
 
 > Just chill, and potentially disassociate.
 
-565 songs - 1 day 8 hr 41 min
+566 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Feel These Heavy Times](https://open.spotify.com/track/7Gu3Wb76kCzZKJWr6wd8sG) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Out Of My Mind](https://open.spotify.com/album/2lx0CfU8V4rhDOCWI9sx5L) | 3:49 | 2022-06-10 | 2022-08-06 |
 | [Figment Of My Mind](https://open.spotify.com/track/04Uu1ZEM2WtDV7yBZA2jYi) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Figment Of My Mind](https://open.spotify.com/album/6ZB64rGLoKtqza4PmWFGf3) | 3:35 | 2020-06-12 | 2022-07-29 |
 | [Figment Of My Mind](https://open.spotify.com/track/3eZS4TyX2KMvD621AD9MqY) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:35 | 2022-06-10 | 2022-09-03 |
-| [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 | 2023-01-13 |  |
+| [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 | 2023-01-13 | 2023-09-30 |
 | [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-13 | 2023-02-19 |
 | [Flavour](https://open.spotify.com/track/1rD65i5JVAK5xOthYiPXok) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Flavour](https://open.spotify.com/album/3iaJaxFS5BF00zRD1AIzCD) | 3:14 | 2022-09-16 | 2022-11-08 |
 | [Flaws](https://open.spotify.com/track/2fORroOyzQE1tlljfDYzwI) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Flaws](https://open.spotify.com/album/1fjLGWXbaN4icCvBD7McNo) | 2:57 | 2020-04-14 | 2022-01-22 |
@@ -370,6 +370,7 @@
 | [peppermint](https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC) | 2:12 | 2020-08-03 | 2023-02-04 |
 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-06-17 | 2023-09-08 |
 | [Phantom City](https://open.spotify.com/track/5jrgvMkg6ex5wKsxvFf8uh) | [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY), [Black + Creme](https://open.spotify.com/artist/61s8JbLZTkxIQ9DH7vXmz4) | [Phantom City](https://open.spotify.com/album/4bnXwSCn4y1hsaETrCPzQ6) | 3:54 | 2020-04-14 | 2022-01-22 |
+| [Phlegm](https://open.spotify.com/track/2iuvXuZBXHjonFFqMWMb0m) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Spiritual Puberty](https://open.spotify.com/album/3mkibgkzkk6ewJaVSjpPTx) | 2:44 | 2023-09-29 |  |
 | [Picking Petals](https://open.spotify.com/track/6W8bH31M5N17teVILkTlfP) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Picking Petals](https://open.spotify.com/album/0rlOme34khDPN9Qvdk2ckg) | 3:49 | 2022-03-25 | 2022-10-08 |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2020-11-02 | 2023-04-29 |
 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2022-11-25 | 2023-08-12 |

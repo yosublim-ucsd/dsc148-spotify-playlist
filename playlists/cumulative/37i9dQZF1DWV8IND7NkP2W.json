@@ -472,7 +472,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 127595,
       "name": "afternoon shower",
       "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
@@ -2948,7 +2948,7 @@
     {
       "album": {
         "name": "Downtown Vibes",
-        "url": "https://open.spotify.com/album/1MHQ6JN3onSFTQGtVDHwZc"
+        "url": "https://open.spotify.com/album/0aHpRiEB26fd1TBvKXWrZZ"
       },
       "artists": [
         {
@@ -2959,6 +2959,24 @@
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 108501,
+      "name": "Downtown Vibes",
+      "url": "https://open.spotify.com/track/4YTZrZX3gc2fEhdjruFbOk"
+    },
+    {
+      "album": {
+        "name": "Downtown Vibes",
+        "url": "https://open.spotify.com/album/1MHQ6JN3onSFTQGtVDHwZc"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
       "duration_ms": 108501,
       "name": "Downtown Vibes",
       "url": "https://open.spotify.com/track/7tjY5ycGCBEdjKTgY6r8Xg"
@@ -4052,7 +4070,7 @@
     {
       "album": {
         "name": "Glassy Wave",
-        "url": "https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu"
+        "url": "https://open.spotify.com/album/7uwNE4i944rSd3hVlEPUap"
       },
       "artists": [
         {
@@ -4063,6 +4081,24 @@
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 120097,
+      "name": "Glassy Wave",
+      "url": "https://open.spotify.com/track/497tQqdZm2EXvOvRim673I"
+    },
+    {
+      "album": {
+        "name": "Glassy Wave",
+        "url": "https://open.spotify.com/album/2q2qJglLy235pyi3SuNPOu"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
       "duration_ms": 120097,
       "name": "Glassy Wave",
       "url": "https://open.spotify.com/track/5vb6yRMsWYwwggXq6hv2yE"
@@ -6258,10 +6294,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 106153,
       "name": "lone flower",
       "url": "https://open.spotify.com/track/2rqZes0QBKISckUdaDjSIu"
+    },
+    {
+      "album": {
+        "name": "lone flower",
+        "url": "https://open.spotify.com/album/3aKlMgXMYadkXqtjcVcVQN"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106153,
+      "name": "lone flower",
+      "url": "https://open.spotify.com/track/6NsPMaIFOHVCLtmFcB3QJc"
     },
     {
       "album": {
@@ -11494,10 +11548,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 88307,
       "name": "touch",
       "url": "https://open.spotify.com/track/1tZt5VNrrJBjld65OiZGKc"
+    },
+    {
+      "album": {
+        "name": "touch",
+        "url": "https://open.spotify.com/album/0Y8r76clygH0KolOk3ohpR"
+      },
+      "artists": [
+        {
+          "name": "Bayek",
+          "url": "https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88307,
+      "name": "touch",
+      "url": "https://open.spotify.com/track/4N9k6Nklzns7QzslAABaTq"
     },
     {
       "album": {
@@ -12270,7 +12342,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 181490,
       "name": "Whispers in the Night",
       "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"

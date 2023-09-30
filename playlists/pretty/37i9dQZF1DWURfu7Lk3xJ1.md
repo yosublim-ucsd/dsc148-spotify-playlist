@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,589 likes - 219 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,717 likes - 219 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 147 | [Come Down, for Now](https://open.spotify.com/track/07U50Pzu6ZmqXOCWgIXUIb) | [Angel's Pulse](https://open.spotify.com/artist/5wg3xOzYEtJriJs7OFp3Fb) | [Come Down, for Now](https://open.spotify.com/album/1hlxYWIwgjJg8Msq24UB95) | 2:46 |
 | 148 | [the day before yesterday](https://open.spotify.com/track/34sygkJSBdYrLfe8GWYDFm) | [Fool Parsley](https://open.spotify.com/artist/53YSV4G2czMnVwx5s6bmIZ) | [the day before yesterday](https://open.spotify.com/album/1biIfLil6eY0B7qvo6hYUD) | 1:52 |
 | 149 | [One Last Time](https://open.spotify.com/track/0FRgXeGLC5k0kOqEpnBUWn) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [One Last Time](https://open.spotify.com/album/0LRN7uZKp3N1QRhIwTnl5C) | 2:34 |
-| 150 | [Matraz](https://open.spotify.com/track/0EExX0iMNhZmHM4rqDOrJU) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9) | [Matraz](https://open.spotify.com/album/2txrxySHANr9oGVC4w6i3X) | 1:49 |
+| 150 | [Matraz](https://open.spotify.com/track/0EExX0iMNhZmHM4rqDOrJU) | [lov sum](https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs) | [Matraz](https://open.spotify.com/album/2txrxySHANr9oGVC4w6i3X) | 1:49 |
 | 151 | [Reasons](https://open.spotify.com/track/2KyN9XxbvyP1UurbDocnUn) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC), [marbre](https://open.spotify.com/artist/2blo5YYX36yUbDlleqNSA7) | [Reasons](https://open.spotify.com/album/7zJdDoFIxqO0bbkg7vuasC) | 2:13 |
 | 152 | [Overflowing](https://open.spotify.com/track/6ArvQ8SOgYdRjAwGWmnuUN) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Quiet Thoughts](https://open.spotify.com/album/33TE42Ct64dIGmRY0hV7ZI) | 2:34 |
 | 153 | [Solace](https://open.spotify.com/track/49Hnp0Qy1tw1MQcVhsHyW4) | [Hazue](https://open.spotify.com/artist/3YnVojTjzOoV0xMr7Am0EU) | [Solace](https://open.spotify.com/album/1EL8C0k9O7eK0LtAq7K2Xz) | 2:15 |
@@ -217,7 +217,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 207 | [Imagination](https://open.spotify.com/track/6V49Dzt6wfNy5To3BVGU2F) | [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME), [kairos](https://open.spotify.com/artist/6YHuTrPW5JY4DcamHp2vAa), [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa) | [Imagination](https://open.spotify.com/album/5GxE4JZhHVUGjEK0XmXZ5b) | 2:12 |
 | 208 | [Aquamarine](https://open.spotify.com/track/56wMtsglhlddfHVEHH2kYc) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Mavi](https://open.spotify.com/album/592PD7BO3MG7TLFV30sImZ) | 2:50 |
 | 209 | [Anew](https://open.spotify.com/track/5zn6bwh2p6QQXIarMriSQj) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47) | [Anew](https://open.spotify.com/album/00owKIDoAG3kKEUKCzM73r) | 1:50 |
-| 210 | [Sendero](https://open.spotify.com/track/0M8jlQ7jlmf21LSV7PmB2S) | [lov lofi](https://open.spotify.com/artist/15fMojo8Cll6nbSpkxSUJ9) | [Sollozo](https://open.spotify.com/album/4u8LBEZLY2N5nQob5Qdpn3) | 1:54 |
+| 210 | [Sendero](https://open.spotify.com/track/0M8jlQ7jlmf21LSV7PmB2S) | [lov sum](https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs) | [Sollozo](https://open.spotify.com/album/4u8LBEZLY2N5nQob5Qdpn3) | 1:54 |
 | 211 | [Lost](https://open.spotify.com/track/6DWGAoRPr5AIkUtqa347hK) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [Healing](https://open.spotify.com/album/46CZaAwaqaymtYDUCe95H3) | 3:13 |
 | 212 | [Maple Tree](https://open.spotify.com/track/5aqpLbtOqGbAlpCWJrbIYF) | [Plant Guy](https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH) | [Maple Tree](https://open.spotify.com/album/6GOznOKn0MZqtrBSASuzDn) | 1:44 |
 | 213 | [There's Hope](https://open.spotify.com/track/0NS09dmjwfXUDu1JyyDInT) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Falling In A Dream](https://open.spotify.com/album/4b7gcWyTn5FHKRaArGPopW) | 2:22 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 218 | [Waterfall](https://open.spotify.com/track/1grYJu7GMZMXIGIAir2Evd) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm) | [Waterfall](https://open.spotify.com/album/4E9ewJZgeQ4zO4wEh40N0s) | 2:22 |
 | 219 | [Gentle](https://open.spotify.com/track/6SCNLaxZas2Hqalh4zeAGr) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Gentle](https://open.spotify.com/album/5lx736CiAjCBRgrqgqF5dt) | 3:30 |
 
-Snapshot ID: `MCxjNGFjMjAwNWU1OWQ1MDhmZWVmYzZlZmExMjcyZDhkOTVjODgxNThi`
+Snapshot ID: `MCw4ODM5OGVhOWYyOWQ2NGRlNGQwNzlhOTVmZTIxNzFhNTdhZDczYmNh`

@@ -1085,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Legendary in His Presence (Live)",
+        "url": "https://open.spotify.com/album/2P7NaOnVBSjHgmrbAFUM4G"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136125,
+      "name": "I Need Thee (Live)",
+      "url": "https://open.spotify.com/track/0k72g6s6faEERwGTSENvB2"
+    },
+    {
+      "album": {
         "name": "I Need You Now",
         "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
       },

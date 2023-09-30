@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Kim Loaiza y Pailita en portada.",
-  "num_followers": 74482,
+  "num_followers": 74589,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmUyNDI3NWJjMjg2OTUyNDJlNTAyZTFhZmU2MDMzOWNmZjlmMjE0",
+  "snapshot_id": "MCwyN2NmYzU1ZTM1NjI4MGI3YTk2N2I3NTI2NDc1OWQ5MDEwYjQ3ZDk1",
   "tracks": [
     {
       "added_at": "2023-09-25 22:55:53",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2023-09-25 22:55:53",
       "album": {
-        "name": "Tan Viva",
-        "url": "https://open.spotify.com/album/6odmoJINNoQa4pRrfcRwEs"
+        "name": "Qui\u00e9n lo dir\u00eda",
+        "url": "https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX"
       },
       "artists": [
         {
-          "name": "JNS",
-          "url": "https://open.spotify.com/artist/36VEEgbtrb7tx601gvlzli"
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         }
       ],
-      "duration_ms": 205524,
-      "name": "Tan Viva",
-      "url": "https://open.spotify.com/track/3q9urLw4ksYMKJHBqIu4kb"
+      "duration_ms": 159497,
+      "name": "Qui\u00e9n lo dir\u00eda",
+      "url": "https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR"
     }
   ],
   "unique_name": "Oye Pop",

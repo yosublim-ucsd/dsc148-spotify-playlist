@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 
 > Indian flute and nature sounds transport you to a hidden sacred place deep in the woods..\. Escape to your inner sanctuary to find recovery, healing and tranquility.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,391 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,549 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 | 74 | [Serenity's Song](https://open.spotify.com/track/0qg3uSI3ZG7MrS9U5j0yol) | [Eliza Tench](https://open.spotify.com/artist/5O9PTsfaoZj1yPtLBATqxG) | [Serenity's Song](https://open.spotify.com/album/3tlLoLYPqDlqwBVu1UiDUc) | 2:01 |
 | 75 | [Pads of Tranquility](https://open.spotify.com/track/3pv62N3Wub3yW6OJybgJ8X) | [Ajla Birak](https://open.spotify.com/artist/5twf3oUVCKE2cmSpWhjRuH) | [Sounds of Tranquility](https://open.spotify.com/album/2LWkP0NkebzpYLpm0cCBdk) | 2:20 |
 
-Snapshot ID: `MCxlNGU3ZjIyZThlNzVhZTdiNWU5ODBmNmMzY2QxNjY3MzQyMTMzZDVh`
+Snapshot ID: `MCw1NWM1Y2E1YmU4MTJjMWUxMDI0OTliNzk2NWI0MTYzZTIxN2MzZDc5`

@@ -1553,6 +1553,28 @@
     },
     {
       "album": {
+        "name": "In the Beginning",
+        "url": "https://open.spotify.com/album/587gr5QhKHOifSJjLkbRPF"
+      },
+      "artists": [
+        {
+          "name": "New Age Doom",
+          "url": "https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni"
+        },
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 660992,
+      "name": "In the Beginning",
+      "url": "https://open.spotify.com/track/1lsAgWb8bSBTyU8kh2WsgU"
+    },
+    {
+      "album": {
         "name": "Manifold",
         "url": "https://open.spotify.com/album/21qB7JBTgNEE5mExwOxgBo"
       },

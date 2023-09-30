@@ -1991,6 +1991,24 @@
     },
     {
       "album": {
+        "name": "Fair-weather",
+        "url": "https://open.spotify.com/album/5PMMoVoU9NFlXv129gaCTe"
+      },
+      "artists": [
+        {
+          "name": "Russell Louder",
+          "url": "https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192138,
+      "name": "Movie Queen",
+      "url": "https://open.spotify.com/track/43NhQ8fXYbpz3IWx0qnvwU"
+    },
+    {
+      "album": {
         "name": "Mr Loverman (feat. chloe moriondo)",
         "url": "https://open.spotify.com/album/7ugpe4Tp9D5kU1UbHwmu7p"
       },
@@ -3190,10 +3208,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 225266,
       "name": "There It Goes",
       "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
+    },
+    {
+      "album": {
+        "name": "There It Goes (Acoustic)",
+        "url": "https://open.spotify.com/album/3seUdV947SymGb26zyRt3k"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217620,
+      "name": "There It Goes - Acoustic",
+      "url": "https://open.spotify.com/track/0mRM8KuaZ62AKyNS00MRBn"
     },
     {
       "album": {
@@ -3252,6 +3288,24 @@
       "duration_ms": 193800,
       "name": "To the Mountains",
       "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
+    },
+    {
+      "album": {
+        "name": "Rick",
+        "url": "https://open.spotify.com/album/7y2Hg6YdBs0VOq7F29Ct1T"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154287,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/7wiIJWvHNaHPpZ35O5IOrv"
     },
     {
       "album": {
@@ -3338,10 +3392,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "album": {
+        "name": "Vertigo (Alternative Version)",
+        "url": "https://open.spotify.com/album/28bB9CGpc0xfWJQayMJQZB"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183695,
+      "name": "Vertigo - Alternative Version",
+      "url": "https://open.spotify.com/track/6Kcvb3wu4PtfWNdTn4yQUK"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 337331,
+  "num_followers": 337365,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTMxMDAyZjhjZjBjOWIxYTA3Mjc4NzY5NzRhYTYwMjNhODM4NzQ5",
+  "snapshot_id": "MCw2OTczNDk2YzE0Mzc1OGI4ZDg2YTViZDY4MjZlZjk4MzBlYTIyZGYw",
   "tracks": [
     {
       "added_at": "2023-09-26 13:28:39",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "Sound Of Mind",
-        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
+        "name": "Kastepiisk",
+        "url": "https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm"
       },
       "artists": [
         {
-          "name": "Macan Moreira",
-          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
+          "name": "Jan Thiel",
+          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
         }
       ],
-      "duration_ms": 122998,
-      "name": "Sound Of Mind",
-      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
+      "duration_ms": 201159,
+      "name": "Kastepiisk",
+      "url": "https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "Kastepiisk",
-        "url": "https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm"
+        "name": "Sound Of Mind",
+        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
       },
       "artists": [
         {
-          "name": "Jan Thiel",
-          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
+          "name": "Macan Moreira",
+          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
         }
       ],
-      "duration_ms": 201159,
-      "name": "Kastepiisk",
-      "url": "https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em"
+      "duration_ms": 122998,
+      "name": "Sound Of Mind",
+      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "Deja",
-        "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
-      },
-      "artists": [
-        {
-          "name": "Taganema",
-          "url": "https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d"
-        }
-      ],
-      "duration_ms": 145529,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "Passeggiata Serale",
         "url": "https://open.spotify.com/album/7HJ5djt5vdO9xH8B9XJKNS"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 132930,
       "name": "Passeggiata Serale",
       "url": "https://open.spotify.com/track/6cq7PaFrHOyOVzNyFBTCoX"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "Deja",
+        "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
+      },
+      "artists": [
+        {
+          "name": "Taganema",
+          "url": "https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d"
+        }
+      ],
+      "duration_ms": 145529,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
+        "name": "To Bring Rest",
+        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Austin",
+          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
+        }
+      ],
+      "duration_ms": 137749,
+      "name": "To Bring Rest",
+      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
         "name": "Chanson d\u2019\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp"
       },
@@ -443,18 +459,34 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "To Bring Rest",
-        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
+        "name": "Jean Paul errant",
+        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
       },
       "artists": [
         {
-          "name": "Sabrina Austin",
-          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
         }
       ],
-      "duration_ms": 137749,
-      "name": "To Bring Rest",
-      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
+      "duration_ms": 140823,
+      "name": "Jean Paul errant",
+      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "Wreszcie",
+        "url": "https://open.spotify.com/album/68AlPgfClESbRVI28gvegI"
+      },
+      "artists": [
+        {
+          "name": "Zuzana Kudov\u00e1",
+          "url": "https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc"
+        }
+      ],
+      "duration_ms": 175825,
+      "name": "Wreszcie",
+      "url": "https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -491,34 +523,18 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "Wreszcie",
-        "url": "https://open.spotify.com/album/68AlPgfClESbRVI28gvegI"
+        "name": "A Midnight Sun",
+        "url": "https://open.spotify.com/album/5j5ZhmEGBX5jMDsRTXb8fh"
       },
       "artists": [
         {
-          "name": "Zuzana Kudov\u00e1",
-          "url": "https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc"
+          "name": "Cassandra Nestico",
+          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
         }
       ],
-      "duration_ms": 175825,
-      "name": "Wreszcie",
-      "url": "https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
-        "name": "Jean Paul errant",
-        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
-      },
-      "artists": [
-        {
-          "name": "Temperance Lloyd",
-          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
-        }
-      ],
-      "duration_ms": 140823,
-      "name": "Jean Paul errant",
-      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
+      "duration_ms": 154962,
+      "name": "A Midnight Sun",
+      "url": "https://open.spotify.com/track/6FLe5vn84JPgAAiKz6ofkX"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -535,22 +551,6 @@
       "duration_ms": 112802,
       "name": "Whatever Will Be",
       "url": "https://open.spotify.com/track/6adM0QgyKfIaCnPos6OXX6"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
-        "name": "A Midnight Sun",
-        "url": "https://open.spotify.com/album/5j5ZhmEGBX5jMDsRTXb8fh"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Nestico",
-          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
-        }
-      ],
-      "duration_ms": 154962,
-      "name": "A Midnight Sun",
-      "url": "https://open.spotify.com/track/6FLe5vn84JPgAAiKz6ofkX"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "The New Life",
-        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
-      },
-      "artists": [
-        {
-          "name": "Lemos",
-          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
-        }
-      ],
-      "duration_ms": 138598,
-      "name": "The New Life",
-      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "Finding The Heavens",
         "url": "https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 120202,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1cTCSy4aSPecGDDx3wqUjD"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "The New Life",
+        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
+      },
+      "artists": [
+        {
+          "name": "Lemos",
+          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
+        }
+      ],
+      "duration_ms": 138598,
+      "name": "The New Life",
+      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "In The End",
-        "url": "https://open.spotify.com/album/0LiQNUF6t6gTO3PTaD7XDb"
-      },
-      "artists": [
-        {
-          "name": "Regn\u00f8r",
-          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
-        }
-      ],
-      "duration_ms": 166320,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/23FvAAvnx3NzbTmMiod5nf"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "Schatze",
         "url": "https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 133340,
       "name": "A Gentle Place",
       "url": "https://open.spotify.com/track/2kgwWNOn9IUCoQuJIReVUH"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "In The End",
+        "url": "https://open.spotify.com/album/0LiQNUF6t6gTO3PTaD7XDb"
+      },
+      "artists": [
+        {
+          "name": "Regn\u00f8r",
+          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/23FvAAvnx3NzbTmMiod5nf"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "Nebula",
-        "url": "https://open.spotify.com/album/3Pijzoi6qxxNYE8Nc1iLub"
-      },
-      "artists": [
-        {
-          "name": "Luca Bissette",
-          "url": "https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL"
-        }
-      ],
-      "duration_ms": 161117,
-      "name": "Nebula",
-      "url": "https://open.spotify.com/track/5qta8Dii3ZWGxZDA6LZmYb"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "Black coal of dream",
         "url": "https://open.spotify.com/album/6Qr73LPNXy4GOM7t4SsfO4"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 125160,
       "name": "Black coal of dream",
       "url": "https://open.spotify.com/track/4QTsrZ1o0SRgx6FhdonuCi"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/3Pijzoi6qxxNYE8Nc1iLub"
+      },
+      "artists": [
+        {
+          "name": "Luca Bissette",
+          "url": "https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL"
+        }
+      ],
+      "duration_ms": 161117,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/5qta8Dii3ZWGxZDA6LZmYb"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "Felt Improv No. 31",
-        "url": "https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC"
-      },
-      "artists": [
-        {
-          "name": "Niall Byrne",
-          "url": "https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ"
-        }
-      ],
-      "duration_ms": 144042,
-      "name": "Felt Improv No. 31",
-      "url": "https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 174000,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "Felt Improv No. 31",
+        "url": "https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC"
+      },
+      "artists": [
+        {
+          "name": "Niall Byrne",
+          "url": "https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ"
+        }
+      ],
+      "duration_ms": 144042,
+      "name": "Felt Improv No. 31",
+      "url": "https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "Lionheart",
-        "url": "https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 313973,
-      "name": "Le Jardin de Monsieur Monet",
-      "url": "https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "Tala",
         "url": "https://open.spotify.com/album/6fXcGN9Oj6OVDKTnIkGUhT"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "The Scent Of New Days",
-        "url": "https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD"
+        "name": "Lionheart",
+        "url": "https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX"
       },
       "artists": [
         {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
         }
       ],
-      "duration_ms": 142625,
-      "name": "The Scent Of New Days",
-      "url": "https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT"
+      "duration_ms": 313973,
+      "name": "Le Jardin de Monsieur Monet",
+      "url": "https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
+        "name": "The Scent Of New Days",
+        "url": "https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "duration_ms": 142625,
+      "name": "The Scent Of New Days",
+      "url": "https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
         "name": "Open Window",
         "url": "https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 126000,
       "name": "Open Window",
       "url": "https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
-        "name": "pt. 1 Owl Light",
-        "url": "https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "pt. 1 Owl Light",
-      "url": "https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -1287,6 +1271,22 @@
       "duration_ms": 153500,
       "name": "Beneath the Crystal Veil",
       "url": "https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "pt. 1 Owl Light",
+        "url": "https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 189906,
+      "name": "pt. 1 Owl Light",
+      "url": "https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO"
     }
   ],
   "unique_name": "Soft Piano",

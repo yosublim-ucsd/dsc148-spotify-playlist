@@ -5064,7 +5064,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 212000,
       "name": "Novi Sad",
       "url": "https://open.spotify.com/track/7Kd9aRamqqlKwB5PtT4lSf"
@@ -5359,6 +5359,24 @@
     },
     {
       "album": {
+        "name": "Passages",
+        "url": "https://open.spotify.com/album/4XZCuM5CJRMMAvV1apBvXH"
+      },
+      "artists": [
+        {
+          "name": "Kim Nalah",
+          "url": "https://open.spotify.com/artist/3EY39ZsyVU9c2Uw17ILmcJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181026,
+      "name": "Passages",
+      "url": "https://open.spotify.com/track/5VzaFU0O3pTmG3fnjs0Ff0"
+    },
+    {
+      "album": {
         "name": "Millons of Trees",
         "url": "https://open.spotify.com/album/4RPxiQwUYBFwoXjLrpkNwl"
       },
@@ -5446,6 +5464,24 @@
       "duration_ms": 154769,
       "name": "Peaceful Sundown",
       "url": "https://open.spotify.com/track/03o9SRxgQAu7lpmvqePASW"
+    },
+    {
+      "album": {
+        "name": "Peak",
+        "url": "https://open.spotify.com/album/1SQaQKEWXa4eI9CcIrpLyt"
+      },
+      "artists": [
+        {
+          "name": "santini perotti",
+          "url": "https://open.spotify.com/artist/2C3LjNILc7hBqMcLczxi2L"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166050,
+      "name": "Peak",
+      "url": "https://open.spotify.com/track/7F2Y6sGghpGmjNTFygQO4h"
     },
     {
       "album": {
@@ -6670,6 +6706,24 @@
       "duration_ms": 166285,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/29618YxnLp1lxnonnxjI46"
+    },
+    {
+      "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/33WqLEqPxoOwdF2ZnE6YTx"
+      },
+      "artists": [
+        {
+          "name": "Madna E\u00fara",
+          "url": "https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172565,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/6HR82S6IU4a7Lq0Gg8fx8U"
     },
     {
       "album": {
@@ -7948,6 +8002,24 @@
       "duration_ms": 207236,
       "name": "Wild Flowers",
       "url": "https://open.spotify.com/track/5QxJpxP8HG9UpHgAXt9NcL"
+    },
+    {
+      "album": {
+        "name": "Windless",
+        "url": "https://open.spotify.com/album/51cG2g2BWyn46uehhxAgMp"
+      },
+      "artists": [
+        {
+          "name": "Apech",
+          "url": "https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Windless",
+      "url": "https://open.spotify.com/track/6ag3FxxSmUZu8PoTNfgPEx"
     },
     {
       "album": {

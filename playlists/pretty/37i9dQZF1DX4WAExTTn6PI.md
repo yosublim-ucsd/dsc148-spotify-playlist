@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Margo Cilker
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,323 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,396 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Remember Carolina](https://open.spotify.com/track/3NweAkFEsegJXcIR8AfZUN) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/17z8sPbkBdJy9ih9spZNFT) | 4:54 |
+| 1 | [I Remember Carolina](https://open.spotify.com/track/6MhVZANIUROF3ZiKYBh6eN) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/5DgZp7DBIP4yyUmBkbKDAb) | 4:54 |
 | 2 | [Basements](https://open.spotify.com/track/3LoD8YTXOM87GUWU7IhesV) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Basements](https://open.spotify.com/album/7f2B4dwq8gyPtytN6zFcNs) | 3:43 |
 | 3 | [Higher Ground](https://open.spotify.com/track/3IPkN2bQT15rbDzw6nEdwY) | [Colby T\. Helms](https://open.spotify.com/artist/41SWovnnP8qo3g7e7TTtmO) | [Higher Ground](https://open.spotify.com/album/5phrODBYV3rPkxO3qVB7oY) | 3:42 |
 | 4 | [Some Misty Morning \[Feat\. Erin Rae\]](https://open.spotify.com/track/4uLLyixpzZjyvZRFDdIPEa) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Golden State](https://open.spotify.com/album/1wKjZTg1gPmXWmcO79GVwn) | 4:25 |
 | 5 | [Summer](https://open.spotify.com/track/3qbWCni1577NA2kQdQHHKR) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Whiplash](https://open.spotify.com/album/7JcEn5RIPlyhPNUtbht9mc) | 3:56 |
 | 6 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 |
-| 7 | [With The Middle](https://open.spotify.com/track/3nZFZk0k3OWFhWXpUxbMGm) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [With The Middle](https://open.spotify.com/album/7eleyfxkS29PSKx0AEpMPe) | 3:27 |
+| 7 | [With The Middle](https://open.spotify.com/track/5RldswTCXt8XY5S8yrEHPq) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/5DgZp7DBIP4yyUmBkbKDAb) | 3:27 |
 | 8 | [Aint Gotta Dollar](https://open.spotify.com/track/2USW8uFqLToqFKSVXDOEN8) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Aint Gotta Dollar](https://open.spotify.com/album/6e9ii4qzptMYO7BdbybG2p) | 2:04 |
 | 9 | [The Wild](https://open.spotify.com/track/67DcJLjYcJdAA2LMXFtob3) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/66w66TUwHavAnh3f0cOQdj) | 4:23 |
 | 10 | [idk shit about cars](https://open.spotify.com/track/4C6boDSLUz2ZzxglzSIVyk) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [idk shit about cars](https://open.spotify.com/album/3wT1VGWLJoxTYbeX8uyTZ7) | 2:38 |
 | 11 | [Boy and a Bird Dog](https://open.spotify.com/track/4gDbSuC9bn0bl6ZGE8yaSy) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Boy and a Bird Dog](https://open.spotify.com/album/0ZzYKjU7Iamiu2Y3kpCwPV) | 3:04 |
 | 12 | [God in Everything](https://open.spotify.com/track/4WQ62VYzVa7oEllqXE8vse) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:07 |
-| 13 | [Keep It on A Burner](https://open.spotify.com/track/0qvgdi9NtjLT10yHs4C7R3) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Keep It on A Burner](https://open.spotify.com/album/11VmUQZHxtybCMWKQ1oiJO) | 4:27 |
+| 13 | [Keep It on A Burner](https://open.spotify.com/track/1GixDrbWFCowHvto3zVGpJ) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/5DgZp7DBIP4yyUmBkbKDAb) | 4:27 |
 | 14 | [Won't Fence Us In](https://open.spotify.com/track/37y1NnmxdPUm2DbkY77ReI) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Won't Fence Us In](https://open.spotify.com/album/4OfaqQaBlT5KNUlpnRDeSQ) | 2:34 |
 | 15 | [This Far South](https://open.spotify.com/track/7aoLqFjMmh86wl4qRXunaP) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [This Far South](https://open.spotify.com/album/078Nefie7KQPI2LW8gIHDP) | 3:15 |
 | 16 | [Wagon Girl](https://open.spotify.com/track/0mnCjKJKC5chMQFlwOh8tW) | [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [Wagon Girl](https://open.spotify.com/album/6uRS7tx5lIoaBXsVhqijiS) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Stolen Love](https://open.spotify.com/track/6PHlD7DXAfcCW2Rvp0K3OW) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Stolen Love](https://open.spotify.com/album/4SUHzoDXhSbdakZP4Fr635) | 3:43 |
 | 100 | [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 |
 
-Snapshot ID: `MCwyNjY3ZjYzMTRlOTY0ZjhlYzJhZTgwMzc2ODBkMDM3MDMzYjcwMmQ1`
+Snapshot ID: `MCw4YWEwMGU2ZmJlZDRhNmVmNmIxOGI1NWM2NDZjODM0NmZhYmM1OGMw`

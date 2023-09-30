@@ -2,9 +2,9 @@
 
 ### [emo right now](https://open.spotify.com/playlist/37i9dQZF1DX5KAyJZfh4Qa)
 
-> it's just one of those days with Sincere Engineer.
+> it's just one of those days w/ <a href="https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa?si=9cd8ab93c60b4919"> Sweet Pill</a>.
 
-143 songs - 7 hr 57 min
+148 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,18 +13,20 @@
 | [7AM](https://open.spotify.com/track/3X2dZ76DtGta0pukBGzUxd) | [CURB](https://open.spotify.com/artist/16be15Aitv731NGEMWwt9V) | [Hope You're Doing Well, Michaela](https://open.spotify.com/album/79xK4wzVxVFRDZi5ohUZQO) | 3:06 | 2022-11-25 |  |
 | [Anthem](https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Anthem](https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q) | 1:42 | 2023-08-21 |  |
 | [Arm's Length](https://open.spotify.com/track/2k3SHrWJROuEVFkJwbI94Z) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids](https://open.spotify.com/album/5WKGQhrvySygwE72Ny9nMb) | 4:18 | 2022-11-25 | 2023-08-26 |
+| [Armageddon Now](https://open.spotify.com/track/20RXFLahFPS56tMEqDWVb7) | [Teenage Halloween](https://open.spotify.com/artist/5Hur60D1LUeU6P2AEHuX5B) | [Armageddon Now](https://open.spotify.com/album/3z3ygyiwpv16JxxGmQFW0z) | 2:58 | 2023-09-29 |  |
+| [Autonomy Shop](https://open.spotify.com/track/1SQcpGtOW3xiInjzf63I3l) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [Autonomy Shop](https://open.spotify.com/album/61qL8SJF5jDZmzlO23obrc) | 2:21 | 2023-09-29 |  |
 | [Bad Feeling](https://open.spotify.com/track/0BJNlz7pjV3dQd45kg7f71) | [Shallowdiver](https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z) | [Bad Feeling](https://open.spotify.com/album/0cly03wDPER5OsILwogxAQ) | 3:43 | 2023-02-11 | 2023-06-17 |
 | [Barely](https://open.spotify.com/track/0jHXUaYjDylMafkZskw6Rm) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/2vbyKCjxxPaiGMDWGXe3IF) | 2:17 | 2023-05-19 | 2023-09-23 |
 | [Black Earth, WI](https://open.spotify.com/track/2brPDOuzBeCoL3vsuWiY0g) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [The Window](https://open.spotify.com/album/07h9Qsx40cCp1h0ykxuqU1) | 8:34 | 2023-08-25 |  |
 | [Black Earth, WI](https://open.spotify.com/track/5WJPG2pNcg1oDMbtxl5ysR) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Black Earth, WI](https://open.spotify.com/album/2ouMdMNouSbVpzDbE3SNjW) | 8:34 | 2023-03-17 | 2023-05-01 |
 | [Black Earth, WI](https://open.spotify.com/track/6ok81KVFTGvFZP2q6R4mFV) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Black Earth, WI](https://open.spotify.com/album/3xIJNC6JzTE6ovBX5TPaEm) | 8:34 | 2023-04-14 | 2023-08-28 |
-| [Blood](https://open.spotify.com/track/4ImZ8dmqmUncas43Lb3bJg) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Where the Heart Is](https://open.spotify.com/album/0Z8rkubmchdF0dfSUL3Pg0) | 2:19 | 2023-04-14 |  |
+| [Blood](https://open.spotify.com/track/4ImZ8dmqmUncas43Lb3bJg) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Where the Heart Is](https://open.spotify.com/album/0Z8rkubmchdF0dfSUL3Pg0) | 2:19 | 2023-04-14 | 2023-09-30 |
 | [Blood](https://open.spotify.com/track/6vAvj6cLEUFOIJQgTfJz5u) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Where the Heart Is](https://open.spotify.com/album/1SmAUgSjmVihnEuTZoALSO) | 2:19 | 2022-11-25 | 2023-04-29 |
 | [Blood for the Blood God](https://open.spotify.com/track/5ykzMyjf4Mfi45iy5pyTAG) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [I’m Scared That’s All There Is](https://open.spotify.com/album/6qvYtT5gSuBLAGLdoSPmb3) | 3:31 | 2022-11-25 |  |
 | [Burt Reynolds, Burnt Candles](https://open.spotify.com/track/3aI5gBXahNlCOJsFmTKE1R) | [Plainclothes](https://open.spotify.com/artist/313z2zL8t1mV5ohmAW7j5M) | [Dog Logic](https://open.spotify.com/album/7I9yqOPKYHqfYmIVIvXZIa) | 2:12 | 2022-12-20 |  |
 | [cadence](https://open.spotify.com/track/4KXgaRo9FlOOkmQ5TD5A5h) | [Flight Patterns](https://open.spotify.com/artist/4fIqhR5AalmEBaUDNmGhb9) | [cadence](https://open.spotify.com/album/5W3HQVjsF1UCmsaehz5eiX) | 2:12 | 2022-11-25 | 2023-08-26 |
 | [caffeine cops](https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S) | [Khaki Cuffs](https://open.spotify.com/artist/3lTbmnZS3UoiK7124LWjba) | [khaki cuffs](https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb) | 2:47 | 2022-11-25 |  |
-| [Call From You](https://open.spotify.com/track/5yNbprUaJXG7SPppQeNEMR) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Little Green House](https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj) | 3:01 | 2022-12-20 |  |
+| [Call From You](https://open.spotify.com/track/5yNbprUaJXG7SPppQeNEMR) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Little Green House](https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj) | 3:01 | 2022-12-20 | 2023-09-30 |
 | [Callin Me](https://open.spotify.com/track/1u6DEiPt9CI214nVfF09Uu) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 2:52 | 2022-11-25 | 2022-12-02 |
 | [Callin Me](https://open.spotify.com/track/274U15M8V7uahnK8OfEWz4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 2:52 | 2022-11-25 |  |
 | [Chessie](https://open.spotify.com/track/0WIQLsu3mwen4hXLFEaAlh) | [twentythreenineteen](https://open.spotify.com/artist/3phLzwJCbHic9zg954ocXE) | [Chessie](https://open.spotify.com/album/2OxC56M17RF8VFlOm9vMJO) | 2:53 | 2023-09-22 |  |
@@ -45,6 +47,7 @@
 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 | 2022-12-09 |  |
 | [Don't Lick The Swingset](https://open.spotify.com/track/2ux59Zvg7EDCJGfxD1pJF9) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Don't Lick The Swingset](https://open.spotify.com/album/1uD9U6SoTuuMuAiVFA8XiQ) | 3:35 | 2023-02-11 |  |
 | [Don't Try](https://open.spotify.com/track/2TePq5MmzqGyRfFPAL4CgS) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:40 | 2022-11-25 | 2023-01-26 |
+| [Down, Down](https://open.spotify.com/track/0miXex5MBdN0ddRL79GX4I) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Down, Down](https://open.spotify.com/album/370vppY6IUYVcPirKxqVEe) | 3:05 | 2023-09-29 |  |
 | [Drink Milk and Run](https://open.spotify.com/track/3ZKGPsRTyFBnZETepLrDVl) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Drink Milk and Run](https://open.spotify.com/album/5DCxVycZRkODZCbWyGBZFG) | 2:50 | 2022-11-25 | 2023-03-18 |
 | [Echoes](https://open.spotify.com/track/2fZqHbDbCkQZVBv9DrGsao) | [LIES](https://open.spotify.com/artist/2hxqbp5J0oHXcXMMGpx8U8) | [Lies](https://open.spotify.com/album/2BTekyCKf74Wi5QAyzvQNs) | 6:15 | 2023-04-03 | 2023-07-27 |
 | [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 | 2023-04-14 | 2023-09-23 |
@@ -79,7 +82,7 @@
 | [King Bee](https://open.spotify.com/track/7zIHAwiZvJZIQQ3AKximtT) | [Prairie Fire](https://open.spotify.com/artist/5LiZglQ0vLYvvEqa7oCXfd) | [King Bee](https://open.spotify.com/album/2Jo9Gu7tQloGevEX8NhGmL) | 2:43 | 2023-05-19 |  |
 | [Kiss the Ladder](https://open.spotify.com/track/41QBT1Al5RQ9u9UIHOuXnj) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 1:17 | 2022-11-25 | 2023-09-23 |
 | [KO](https://open.spotify.com/track/468kQ0vnRFF9uS6XhCy4Ee) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [KO](https://open.spotify.com/album/5C2nV2SPIEmNxEC2PMTjGd) | 3:22 | 2023-09-22 |  |
-| [Lefty](https://open.spotify.com/track/7sjrz7oVPOncAQib1yjMrd) | [Seahaven](https://open.spotify.com/artist/0jLpeMAu3aYRlvbjZd65np) | [Lefty](https://open.spotify.com/album/48kSmY1m45ylHWli72bgdQ) | 3:33 | 2023-06-16 |  |
+| [Lefty](https://open.spotify.com/track/7sjrz7oVPOncAQib1yjMrd) | [Seahaven](https://open.spotify.com/artist/0jLpeMAu3aYRlvbjZd65np) | [Lefty](https://open.spotify.com/album/48kSmY1m45ylHWli72bgdQ) | 3:33 | 2023-06-16 | 2023-09-30 |
 | [Lifers](https://open.spotify.com/track/3Ooa1FETAj6ShTc2bHXd1M) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [No Joy](https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP) | 3:34 | 2023-08-25 |  |
 | [live from the ufo](https://open.spotify.com/track/4LYWWt5bpBdTj0e29Wsctx) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [re: turn](https://open.spotify.com/album/1iA09V577wlsPIUfhj8RN0) | 2:30 | 2022-11-25 | 2023-09-23 |
 | [Long Distance Conjoined Twins](https://open.spotify.com/track/3R4hAu10uPzLS3NUsFlRoj) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [I Became Birds](https://open.spotify.com/album/7thkO48qqydnsDj7vSw4mX) | 3:27 | 2022-11-25 | 2023-08-02 |
@@ -102,6 +105,7 @@
 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 | 2023-04-03 |  |
 | [Perfect Timing](https://open.spotify.com/track/7wXQGcvxWxRNudVjWYAs9t) | [Kerosene Heights](https://open.spotify.com/artist/0D4NkuZAkjfdm5clMtYYrz) | [Southeast of Somewhere](https://open.spotify.com/album/37BQtdBN3a84zmgvepx64v) | 3:10 | 2023-08-21 |  |
 | [Permanent Resolution](https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Permanent Resolution](https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp) | 3:21 | 2022-11-25 |  |
+| [Pinky Swear](https://open.spotify.com/track/0FKsASgAPAKTSzW1WfPHIw) | [Into It\. Over It.](https://open.spotify.com/artist/1ecdmsD235x2zHCKfdL3cF) | [15 Years](https://open.spotify.com/album/6RBPZ93MI5aLMPxTExZRA5) | 3:12 | 2023-09-29 |  |
 | [Pomegranate](https://open.spotify.com/track/2WGNtRebR51HiBhW2fNIni) | [Gwuak!](https://open.spotify.com/artist/6x2H0yh7QKr6lYeFb8ieyE) | [Summertime Concrete](https://open.spotify.com/album/6CaZXFPkzaKVOkpyuLpqPD) | 3:40 | 2023-07-26 |  |
 | [Pursuit](https://open.spotify.com/track/0fvw7sVHFeK4KJ2sVtnhkM) | [Camp Trash](https://open.spotify.com/artist/217Q1QeePZbm3dMpwPgXK9) | [Pursuit](https://open.spotify.com/album/0SpkDAB9r9amnfcWaY9RSd) | 2:48 | 2022-11-25 |  |
 | [Pyramid](https://open.spotify.com/track/3EeM9ImuhVIkPMfKofSENY) | [Guitar Fight from Fooly Cooly](https://open.spotify.com/artist/6mJuP6zvtXUAVL9xjxZiDL) | [Drought](https://open.spotify.com/album/3OeQC3qI4aHJSb9acJvniZ) | 2:25 | 2023-02-11 |  |
@@ -122,6 +126,7 @@
 | [Speaking in Tongues](https://open.spotify.com/track/16sWPx7xLq8iyVTHATLULA) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Keepsakes & Reminders \(Deluxe\)](https://open.spotify.com/album/56EAwWQtYqwtVfHznqfdvj) | 3:08 | 2022-11-25 |  |
 | [Spinning Wheel](https://open.spotify.com/track/5lSIRNDJWXiAV1cUijH2ak) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [In My Car](https://open.spotify.com/album/7w7nkpoJyo9V8dGOYXxY4o) | 3:35 | 2023-04-14 |  |
 | [Spinning Wheel](https://open.spotify.com/track/7lH6ykUui2IHTzPmvKoJdl) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [In My Car](https://open.spotify.com/album/0CT2GXBcqAfzAtMsg7WGrN) | 3:35 | 2022-11-25 | 2023-04-30 |
+| [Starchild](https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY) | 3:49 | 2023-09-29 |  |
 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 | 2022-11-25 |  |
 | [Stupid](https://open.spotify.com/track/7hJp3RopLaJZBj6SEqxkHx) | [I Love Your Lifestyle](https://open.spotify.com/artist/2gHsHeJxm4bTuS94fKQgB5) | [No Driver](https://open.spotify.com/album/7nWOIJtPFYFxVVPpSXzRQk) | 5:04 | 2022-11-25 |  |
 | [Sullenboy](https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Sullenboy](https://open.spotify.com/album/6bAhgr0TCyU7BqggO1a9L6) | 3:19 | 2023-07-26 |  |
@@ -133,9 +138,9 @@
 | [tarot cards](https://open.spotify.com/track/4EhF4mbfEYPkdKJqEI0zB1) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [always cloudy](https://open.spotify.com/album/6zy7i3xqaQ45OJjJ73lP6Q) | 3:01 | 2023-04-14 |  |
 | [Thank You, New Jersey](https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Thank You, New Jersey](https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC) | 2:39 | 2023-04-14 |  |
 | [Thanks For Asking](https://open.spotify.com/track/6zyTFxXRoQQDg6gXVagobF) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Thanks For Asking](https://open.spotify.com/album/2GQJz8Czxzui5aVpQ5dnjC) | 3:24 | 2023-09-22 |  |
-| [The Cool Kids](https://open.spotify.com/track/3sgSxMPHAfNhEwDWKJlJGR) | [Mat Kerekes](https://open.spotify.com/artist/5rOjuB5uYAoDMHgZM6CFBB) | [Nova](https://open.spotify.com/album/4ppxTvpqPEY7QGWlBxTHXE) | 3:49 | 2022-11-25 |  |
+| [The Cool Kids](https://open.spotify.com/track/3sgSxMPHAfNhEwDWKJlJGR) | [Mat Kerekes](https://open.spotify.com/artist/5rOjuB5uYAoDMHgZM6CFBB) | [Nova](https://open.spotify.com/album/4ppxTvpqPEY7QGWlBxTHXE) | 3:49 | 2022-11-25 | 2023-09-30 |
 | [The Way I Feel](https://open.spotify.com/track/5HlZUTzAsbtQLo4VceKjlT) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [Don't Know What I Am](https://open.spotify.com/album/1CoOf0yJ07K9GGKhGCsW0p) | 3:49 | 2022-11-25 | 2023-03-11 |
-| [This \# Is No Longer in Service](https://open.spotify.com/track/4Q88FcWu5xTOACoyCvfGwq) | [Swiss Army Wife](https://open.spotify.com/artist/6oO6omp7KVcpUx8cHov0uI) | [Medium Gnarly](https://open.spotify.com/album/79oAFuiihRnGlHXq7f3LAL) | 1:35 | 2023-01-25 |  |
+| [This \# Is No Longer in Service](https://open.spotify.com/track/4Q88FcWu5xTOACoyCvfGwq) | [Swiss Army Wife](https://open.spotify.com/artist/6oO6omp7KVcpUx8cHov0uI) | [Medium Gnarly](https://open.spotify.com/album/79oAFuiihRnGlHXq7f3LAL) | 1:35 | 2023-01-25 | 2023-09-30 |
 | [Tommy's Car](https://open.spotify.com/track/5uDuc1fGIpT8I8tCOu8WS4) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [For Nasal Use Only](https://open.spotify.com/album/3mPS4bR33MhYjjYnGxK48o) | 3:23 | 2022-11-25 | 2023-04-04 |
 | [Totally Cool](https://open.spotify.com/track/3SftY180mtXw6xQmAcmdU7) | [Magazine Beach](https://open.spotify.com/artist/1TgjkaIsJUDAINCbgLQIio) | [Constant Springtime](https://open.spotify.com/album/4r8ok6hGk7Uqvd6A498Xkb) | 2:39 | 2023-05-19 |  |
 | [Two Beers In](https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Those Days Are Gone](https://open.spotify.com/album/0yhwDk0EqhcbTE5k0cqs1K) | 2:15 | 2022-11-25 |  |

@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: La Franela
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Indio Solari y Los Fundamentalistas del Aire Acondicionado
 
-215 songs - 13 hr 27 min
+216 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 | 2022-06-24 |  |
 | [Conmigo](https://open.spotify.com/track/54wyNTp0qU0qJ9xBk3brnN) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Conmigo](https://open.spotify.com/album/2YBbMqoVXGVWZEutpP5ous) | 4:24 | 2023-09-01 |  |
 | [Consuelo Eterno](https://open.spotify.com/track/77macJENdb7DleZ3TzeRsF) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Consuelo Eterno](https://open.spotify.com/album/7gdS0noL8pkq65xl9qIcqo) | 4:01 | 2023-05-05 | 2023-07-29 |
-| [Contra el Viento](https://open.spotify.com/track/57iYWAcYUV7IMrgR7N8wNX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Discopático](https://open.spotify.com/album/0tjbeQCarEUtbhlyyCRp0r) | 3:23 | 2022-06-24 |  |
+| [Contra el Viento](https://open.spotify.com/track/57iYWAcYUV7IMrgR7N8wNX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Discopático](https://open.spotify.com/album/0tjbeQCarEUtbhlyyCRp0r) | 3:23 | 2022-06-24 | 2023-09-30 |
 | [Contradicción](https://open.spotify.com/track/6IMOlshlqaBsYulRzzMMXc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Cachin Invernizzi](https://open.spotify.com/artist/0WTGRQKJ0bNZ9cedlfE3hw) | [Contradicción](https://open.spotify.com/album/4qc0pC1BmPkTNdEs0N9tbj) | 4:29 | 2022-06-24 | 2023-09-27 |
 | [Corazón](https://open.spotify.com/track/0fykSvqczR1CXD6PWnusOW) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Corazón](https://open.spotify.com/album/4bdbHQc0l5NHBH4Mjh4TRU) | 3:27 | 2023-08-18 |  |
 | [Corazón de Neón](https://open.spotify.com/track/5u8h1l8Qz9MX7tvjVV2FRz) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [El Último Que Apague la Luz](https://open.spotify.com/album/22iLqw9H1hoozfw6CmLrTX) | 4:32 | 2022-06-24 | 2022-12-10 |
@@ -214,6 +214,7 @@
 | [Veneno](https://open.spotify.com/track/1oEiPMu3QKXsFNvNE8EU2R) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Veneno](https://open.spotify.com/album/40QUXWbQyuTJ98c0B1wJc8) | 2:41 | 2022-06-24 | 2023-09-27 |
 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2022-06-24 |  |
 | [Vida de Topos](https://open.spotify.com/track/3lL9MHVJizb451IfV7h6pj) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Experiencia 432 \(Bulín Finoli\)](https://open.spotify.com/album/6giDhT2UzrxXWmDDALFskA) | 4:09 | 2022-06-24 | 2023-09-27 |
+| [VIno Tinto](https://open.spotify.com/track/5c4lchIbTBbrn3J6WBNH2z) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vino Tinto](https://open.spotify.com/album/4mfzTGo7zQpJ51ZxpGsISt) | 4:15 | 2023-09-29 |  |
 | [VOID](https://open.spotify.com/track/7ezLEpE3Q50zpVARzgA00f) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:19 | 2023-06-02 |  |
 | [Volver a Nacer](https://open.spotify.com/track/2IzKyyYTVmh5h6shdsawT1) | [Corvex](https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy) | [Volver a Nacer](https://open.spotify.com/album/3b4LialsppSQBwax8zMLVz) | 4:24 | 2022-06-24 | 2022-07-02 |
 | [Vuelos](https://open.spotify.com/track/4UCKDmolB8SrPVGNAdeSTk) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Vuelos](https://open.spotify.com/album/6Iq6olWskzadve5s35Sdiq) | 5:46 | 2023-03-31 | 2023-06-03 |

@@ -4,7 +4,7 @@
 
 > La nueva ola del Afrobeats con un toque latino\. Feid en portada
 
-130 songs - 6 hr 39 min
+133 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 | 2023-06-30 |  |
 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 | 2023-06-30 |  |
 | [Duduke](https://open.spotify.com/track/1Dugqy9EGYV66nkp7yLiA4) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Duduke](https://open.spotify.com/album/5LfTq81m11TP8TqTGV2aHk) | 2:52 | 2023-07-21 | 2023-08-05 |
+| [DUELE](https://open.spotify.com/track/3JSjDE9xXPRoPMeKLjgVc1) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [DUELE](https://open.spotify.com/album/6byDphEOVBMU4rIeaIVJWv) | 3:10 | 2023-09-29 |  |
 | [Dull](https://open.spotify.com/track/46gfN72BxmLvACx6Pve4XU) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 1:40 | 2023-07-21 | 2023-08-05 |
 | [EASY \(Easy Riddim\)](https://open.spotify.com/track/3PSptzNhR0yClpwCVLo9pj) | [Krazy Tracks](https://open.spotify.com/artist/2CaJm4RZACw9bhzXH0xWV6), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij) | [EASY \(Easy Riddim\)](https://open.spotify.com/album/3XkJUjryWlnvMr4hEbUVjk) | 3:28 | 2023-06-30 |  |
 | [El Precio del Dinero](https://open.spotify.com/track/5RMmQlh8YUPBa2fEEVLFC2) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [El Precio del Dinero](https://open.spotify.com/album/0cYqxztEpVQTlJnPP5o7hl) | 3:16 | 2023-07-21 | 2023-08-05 |
@@ -71,11 +72,13 @@
 | [Maria Elegante \(feat\. Afro B\)](https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:06 | 2023-06-30 |  |
 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 | 2023-06-30 |  |
 | [Mercedes](https://open.spotify.com/track/7nEcDt1fVVc6eA061D9GxX) | [DMT LEVEL](https://open.spotify.com/artist/1kqwCCNjx1fb5GgRGxaG2g), [Haznar](https://open.spotify.com/artist/4sXdCzE0VCnzM6OkEA0iOQ) | [Mercedes](https://open.spotify.com/album/1jP2LBxP5JmlpEdBgX45XO) | 2:12 | 2023-06-30 |  |
+| [Mi Condena](https://open.spotify.com/track/0ibMX6sBEHryBE17hseJwf) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Mi Condena](https://open.spotify.com/album/06AKqQkJHOAqgBRdyXYccG) | 3:38 | 2023-09-29 |  |
 | [Mi HAP \- Prod\. by Dj Cham](https://open.spotify.com/track/0qIn9pb1WADuL8aFdySMjG) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Mi HAP](https://open.spotify.com/album/0vdgHDEHIe5jglHQcCamuF) | 3:27 | 2023-06-30 |  |
 | [Mi Luz \(ft\. Rels B\)](https://open.spotify.com/track/0TkIQ2I48rz4kpk1XpfyHq) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [NASTU](https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk) | 2:48 | 2023-07-21 | 2023-08-05 |
 | [Mi Mala](https://open.spotify.com/track/3pUnOa5Vqd7W8vFel93QVt) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Mi Mala](https://open.spotify.com/album/4S1XnkbSUkgzGZszgkSGYS) | 2:29 | 2023-06-30 |  |
 | [Moon Light](https://open.spotify.com/track/2Ha6T85CLVfyoDPaF2JSw0) | [Lil Haiti](https://open.spotify.com/artist/4E9dumwOMLlTyXUp1i2WdI) | [Moon Light](https://open.spotify.com/album/3a5WOva6WeZWtRDHXiVRv2) | 3:59 | 2023-07-21 | 2023-08-05 |
 | [Muchacha](https://open.spotify.com/track/2fKTCzpuxcvW8l4cP5J85F) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [Tostao](https://open.spotify.com/artist/5TncuIF5Ud9VOx2NYY4qfT), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Muchacha](https://open.spotify.com/album/1m4htGCBmlM2TzVk3IonWP) | 3:31 | 2023-06-30 |  |
+| [Mucho](https://open.spotify.com/track/6ce1I3MTJWzQEIvCZ4zKvW) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0), [Tugstar](https://open.spotify.com/artist/3uVSsj0dsZdV18CWW46Ouf) | [Mucho](https://open.spotify.com/album/45nXAgJaQSPdLglaf2ZDeQ) | 3:14 | 2023-09-29 |  |
 | [Mágico](https://open.spotify.com/track/48ZHLNNlTsQN3a8QYfhGV6) | [Yeieme](https://open.spotify.com/artist/4kgqEEUm1KUt6IYJmwq4OZ), [Amalfitan](https://open.spotify.com/artist/2BnLHLbvzwOsSVFLnfpxKh) | [Mágico](https://open.spotify.com/album/6qNM5xsXnMyHFWDN085fkW) | 3:06 | 2023-06-30 |  |
 | [N'y pense plus](https://open.spotify.com/track/3qe7VcbqjYNvFwhP0sFItH) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide](https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU) | 3:32 | 2023-07-21 | 2023-08-05 |
 | [Nack](https://open.spotify.com/track/2o8AVV8YssDJKN6zqG20p1) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2) | [Nack](https://open.spotify.com/album/6AVdBuT0CI9wSTJhGBRO6d) | 2:49 | 2023-07-21 | 2023-08-05 |

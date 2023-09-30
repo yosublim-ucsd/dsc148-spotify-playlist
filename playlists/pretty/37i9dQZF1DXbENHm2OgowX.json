@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 126130,
+  "num_followers": 126396,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODgyZDAwZjBjNDRjOTc5OTM3ZWVmYmNmZDgxMjQ3YzVmOGJjMDJi",
+  "snapshot_id": "MCxmOTY0NGM5ZGY1ZGQ1MzU0MmM0OGNkOTBlM2UyNzk0ZmY5N2MwOWRj",
   "tracks": [
     {
       "added_at": "2023-09-22 12:14:33",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "a mother's daughter",
+        "url": "https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS"
+      },
+      "artists": [
+        {
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "a mother's daughter",
+      "url": "https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "where is life?",
         "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 318786,
       "name": "The Marble Eye",
       "url": "https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "a mother's daughter",
-        "url": "https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS"
-      },
-      "artists": [
-        {
-          "name": "Mieke",
-          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
-        }
-      ],
-      "duration_ms": 168250,
-      "name": "a mother's daughter",
-      "url": "https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
-      },
-      "artists": [
-        {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
         "name": "Set the Weather Fair: Seasons",
         "url": "https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+      },
+      "artists": [
+        {
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Vintage Well",
         "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
       },
@@ -907,6 +907,38 @@
       "duration_ms": 170878,
       "name": "Close",
       "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "...Is Doomed",
+        "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
+      },
+      "artists": [
+        {
+          "name": "Black Wing",
+          "url": "https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo"
+        }
+      ],
+      "duration_ms": 505249,
+      "name": "If I Let Him In",
+      "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "As Bright as the Night",
+      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -931,38 +963,6 @@
       "duration_ms": 437322,
       "name": "I filled my Lungs with the Necessary Air, and yelled! - Ben Lukas Boysen Rework",
       "url": "https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "As Bright as the Night",
-      "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "...Is Doomed",
-        "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
-      },
-      "artists": [
-        {
-          "name": "Black Wing",
-          "url": "https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo"
-        }
-      ],
-      "duration_ms": 505249,
-      "name": "If I Let Him In",
-      "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
     },
     {
       "added_at": "2023-09-22 12:14:33",

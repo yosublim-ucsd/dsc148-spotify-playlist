@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: Jeff Rosenstock
 
-257 songs - 13 hr 33 min
+258 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Beer](https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Everything Sucks](https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF) | 3:40 | 2021-09-02 |  |
 | [Bodycams Off](https://open.spotify.com/track/7GeAKKIpnMG0Io4Yrln39Q) | [Corrupt Vision](https://open.spotify.com/artist/44j7MhDPFjIWudduCD2Rcv) | [These Hands of Mine](https://open.spotify.com/album/3EC5JRbeCFfWLMa7x14eCS) | 1:36 | 2022-04-14 | 2022-04-21 |
 | [Break The Glass](https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 3:08 | 2021-09-02 |  |
+| [C'est La Vie](https://open.spotify.com/track/6a82z5ikHjwFQv4AxAF2mu) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/2XS7GlLtan2DkXnoUxAbww) | 3:10 | 2023-09-29 |  |
 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 3:43 | 2021-09-02 |  |
 | [Can't Stop](https://open.spotify.com/track/1G0sX22yArZuXOQV2O5Qyr) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Can't Stop](https://open.spotify.com/album/6yhJV1xf20YS1IyZVcCMLE) | 2:08 | 2021-09-02 | 2022-07-29 |
 | [Cattle Life](https://open.spotify.com/track/7udyYiY9yq9InvAqiJYjo7) | [Abraskadabra](https://open.spotify.com/artist/0YYh1MN3VtMPwamadN4xp2) | [Cattle Life](https://open.spotify.com/album/3Zvigxl3r86W0lkMtMx8FJ) | 3:02 | 2021-09-02 | 2022-06-17 |
@@ -236,7 +237,7 @@
 | [University](https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [University](https://open.spotify.com/album/0Ljrx55mzrcgccJD6KSSmi) | 3:34 | 2022-04-14 | 2022-06-14 |
 | [Unstoppable](https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Unstoppable](https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS) | 3:08 | 2021-09-02 |  |
 | [Upside Down](https://open.spotify.com/track/56SbrhQBAmYHEQWT5bNmxj) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [Work Hard, Play Hard, See You in the Graveyard](https://open.spotify.com/album/7gQDqeLcyp8Xfxs7YZFZmz) | 2:39 | 2021-09-02 | 2022-10-23 |
-| [Utakatarattara](https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Utakatarattara](https://open.spotify.com/album/1qLUmDx6t3YzB37ok2rFhK) | 3:08 | 2023-09-15 |  |
+| [Utakatarattara](https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Utakatarattara](https://open.spotify.com/album/1qLUmDx6t3YzB37ok2rFhK) | 3:08 | 2023-09-15 | 2023-09-30 |
 | [Wake Up](https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX) | [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [A Poets Life](https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI) | 3:01 | 2021-09-02 |  |
 | [Wake Up, The Monster Said](https://open.spotify.com/track/3LyhwdYWw11L7evg7EliIl) | [Call Me Malcolm](https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU) | [Wake Up, The Monster Said](https://open.spotify.com/album/7L3FX3c3lj2aEeJqMnKeWT) | 3:08 | 2021-09-02 | 2022-07-21 |
 | [Wallflower](https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Never Look Back](https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6) | 2:23 | 2021-09-02 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 143460,
+  "num_followers": 143604,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjE0ZDdkNDYzNGIyNjRjMzg2NTNjOTRmMzE4NDdlNjgxYmI4NDU3",
+  "snapshot_id": "MCxjYmNjMGIzODI3MDI3MGVhY2JlNGIwNzJmODMyNWFkNzYxYjhjZmQz",
   "tracks": [
     {
       "added_at": "2023-09-28 15:18:20",
@@ -171,8 +171,8 @@
     {
       "added_at": "2023-09-28 15:18:20",
       "album": {
-        "name": "Eimosezu/Good Luck",
-        "url": "https://open.spotify.com/album/4WCNqpJ3itK3YZULcavlrz"
+        "name": "Two Moon",
+        "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
       },
       "artists": [
         {
@@ -182,7 +182,7 @@
       ],
       "duration_ms": 222303,
       "name": "Eimosezu",
-      "url": "https://open.spotify.com/track/4o47Z4005opCggGLCAYmgS"
+      "url": "https://open.spotify.com/track/4dM1oqZxJ2tU7ALY9S0YcD"
     },
     {
       "added_at": "2023-09-28 15:18:20",
@@ -411,8 +411,8 @@
     {
       "added_at": "2023-09-28 15:18:20",
       "album": {
-        "name": "HONEY BOY",
-        "url": "https://open.spotify.com/album/5YHxyTKE3DGpuLzCDXOQQo"
+        "name": "Two Moon",
+        "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
         }
       ],
-      "duration_ms": 239462,
-      "name": "HONEY BOY",
-      "url": "https://open.spotify.com/track/5j6xw8EzxPriAeHk7Z5Sdk"
+      "duration_ms": 240305,
+      "name": "Honey Boy",
+      "url": "https://open.spotify.com/track/3B6GDjpl3NyK2jzaJhHN6m"
     },
     {
       "added_at": "2023-09-28 15:18:20",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-09-28 15:18:20",
       "album": {
-        "name": "\u30ea\u30f3\u30b8\u30e5\u30fc\u30fb\u30e9\u30f4",
-        "url": "https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU"
-      },
-      "artists": [
-        {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
-        }
-      ],
-      "duration_ms": 185945,
-      "name": "\u30ea\u30f3\u30b8\u30e5\u30fc\u30fb\u30e9\u30f4",
-      "url": "https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX"
-    },
-    {
-      "added_at": "2023-09-28 15:18:20",
-      "album": {
         "name": "\u30a4\u30f3\u30c7\u30a3\u30b4\u5730\u5e73\u7dda",
         "url": "https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 259933,
       "name": "\u30c1\u30a7\u30ea\u30fc",
       "url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z"
+    },
+    {
+      "added_at": "2023-09-28 15:18:20",
+      "album": {
+        "name": "\u30ea\u30f3\u30b8\u30e5\u30fc\u30fb\u30e9\u30f4",
+        "url": "https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "duration_ms": 185945,
+      "name": "\u30ea\u30f3\u30b8\u30e5\u30fc\u30fb\u30e9\u30f4",
+      "url": "https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX"
     },
     {
       "added_at": "2023-09-28 15:18:20",
@@ -791,8 +791,8 @@
     {
       "added_at": "2023-09-28 15:18:20",
       "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/54OkOlGIXztDx8OzcRiPh4"
+        "name": "Two Moon",
+        "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
         }
       ],
-      "duration_ms": 202413,
+      "duration_ms": 202042,
       "name": "Ginger",
-      "url": "https://open.spotify.com/track/28pvMnRZKNiqz6xgBBMkr2"
+      "url": "https://open.spotify.com/track/6GrdwAWFl91NXRxOZCgeRE"
     },
     {
       "added_at": "2023-09-28 15:18:20",

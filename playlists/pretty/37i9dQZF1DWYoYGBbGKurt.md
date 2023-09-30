@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,127 likes - 385 songs - 14 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,133 likes - 385 songs - 14 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -394,4 +394,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 384 | [Garden Estate](https://open.spotify.com/track/4thVlPkQsED0AJLURZwWN5) | [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [Mila Coolness](https://open.spotify.com/artist/3gdyXwWMfOPBIZrIDMg40u) | [Garden Estate](https://open.spotify.com/album/6r46NMLyZFoObmHaadcsk1) | 2:33 |
 | 385 | [loom](https://open.spotify.com/track/1cUr5w8OFEz6JlbIzNFQmg) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [loom](https://open.spotify.com/album/5pXCcRvfBRYg0pNtoUz8V8) | 2:11 |
 
-Snapshot ID: `MCw3Mjg0ZTI3ZGQ5MGQ1OWE5NGQ1ZDY3NzJiYTM2YzFkOTEyNzgxZDBl`
+Snapshot ID: `MCw1NjA2ZWM4ZWFlNzFiODJmZWY0OGRhMDFlZDVjZDM1ZTQ4NzM2OWVk`

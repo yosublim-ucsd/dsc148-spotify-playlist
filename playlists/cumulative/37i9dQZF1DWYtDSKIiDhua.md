@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: YAØ
 
-536 songs - 1 day 4 hr 56 min
+537 songs - 1 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(Not Your\) Cup Of Tea](https://open.spotify.com/track/5z8xhGNPcxNdvhjX09VlYP) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [\(Not Your\) Cup Of Tea](https://open.spotify.com/album/5XVaigQJ7rvGGOQybRF85h) | 3:16 | 2023-05-18 | 2023-05-26 |
 | [101](https://open.spotify.com/track/6DqaDchUydHe8upf4F59os) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Playlist 2](https://open.spotify.com/album/5hNnV6eRN7XatL7GgPRTHw) | 2:40 | 2022-12-30 |  |
 | [18](https://open.spotify.com/track/0qSmFeAKOrdob7yZIhaoVq) | [Annie Lux](https://open.spotify.com/artist/54vSGePBrdJojNSXh13DwN) | [18](https://open.spotify.com/album/4WNMp8vCsp7ZIZYy71j79M) | 2:48 | 2022-06-16 | 2022-06-24 |
+| [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-28 |  |
 | [404 love not found](https://open.spotify.com/track/6fBpp9AQcfeB94qneZzncx) | [Sabrina Soetomo](https://open.spotify.com/artist/3EveEev3WbVFqsjRDoeJAH) | [404 love not found](https://open.spotify.com/album/3X4p8q3KMcmp1Z5Tos43EK) | 3:15 | 2023-05-11 | 2023-05-26 |
 | [@me](https://open.spotify.com/track/6skug6ULgAufRG35n6SgIi) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [@me](https://open.spotify.com/album/5DS8PrqGptm1Fes5NX7wrs) | 1:45 | 2022-12-16 | 2023-01-14 |
 | [A Friend](https://open.spotify.com/track/6nlR5KZygfAXcwUH96kONw) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [A Friend](https://open.spotify.com/album/6vJJQBcmrKG3hX5iU8Idaq) | 3:20 | 2022-11-17 |  |

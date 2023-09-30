@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! \u00bfA qui\u00e9n no te vas a perder? ",
-  "num_followers": 11841,
+  "num_followers": 11845,
   "original_name": "Carnaval de Bahidor\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzMyY2NkMzkwNDUyNmI4N2QxZDcyMzBhMTI2NjQ4M2I5MjQ0MDFm",
+  "snapshot_id": "MCw2YTIzZmNkMzE0ODZiZTMwNmQxMDJjOTRiYjA4YzUzZGI0YzkzMGIz",
   "tracks": [
     {
       "added_at": "2023-02-03 06:30:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/4YP2J5XSLVWWaztTV4PmW3"
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/2YuHj1L5CPyZaFYrBfgbu6"
       },
       "artists": [
         {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Cu\u00e1nto M\u00e1s",
-      "url": "https://open.spotify.com/track/1JtUWtyTkuqPtzOpA5A6l0"
+      "duration_ms": 289280,
+      "name": "Zwango Zop",
+      "url": "https://open.spotify.com/track/6MhQIRqZhXXjQYgyXewTmv"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Phase",
-        "url": "https://open.spotify.com/album/2YuHj1L5CPyZaFYrBfgbu6"
-      },
-      "artists": [
-        {
-          "name": "Mildlife",
-          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
-        }
-      ],
-      "duration_ms": 289280,
-      "name": "Zwango Zop",
-      "url": "https://open.spotify.com/track/6MhQIRqZhXXjQYgyXewTmv"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "AMARILLO MI CORAZ\u00d3N",
         "url": "https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 186964,
       "name": "AMARILLO MI CORAZ\u00d3N",
       "url": "https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/4YP2J5XSLVWWaztTV4PmW3"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Cu\u00e1nto M\u00e1s",
+      "url": "https://open.spotify.com/track/1JtUWtyTkuqPtzOpA5A6l0"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -615,54 +615,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/4gOjvaMgNOZ2u3ip4P3hSk"
-      },
-      "artists": [
-        {
-          "name": "Sama\u2019 Abdulhadi",
-          "url": "https://open.spotify.com/artist/52qyXsgOeHZZxHRRxyO8xm"
-        }
-      ],
-      "duration_ms": 397500,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/4XwKweWkOkGrXAJks0B7j2"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Deepsoul",
-        "url": "https://open.spotify.com/album/740mAq1Crswiib49Zn9JwM"
-      },
-      "artists": [
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/1JXgpyoUNXqGb6aLy3zhRK"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/4l8HTiPwY1GrY3WNUNOZ8q"
-      },
-      "artists": [
-        {
-          "name": "Mildlife",
-          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
-        }
-      ],
-      "duration_ms": 401626,
-      "name": "Memory Palace",
-      "url": "https://open.spotify.com/track/1FnxDnuiG7WJAFmtFTlejT"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "SHUT UP",
         "url": "https://open.spotify.com/album/7llnim2vHi8vZJAsshGC34"
       },
@@ -683,6 +635,54 @@
       "duration_ms": 168107,
       "name": "SHUT UP",
       "url": "https://open.spotify.com/track/3uuohe7EVxzW8UqnSIAAuc"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/4gOjvaMgNOZ2u3ip4P3hSk"
+      },
+      "artists": [
+        {
+          "name": "Sama\u2019 Abdulhadi",
+          "url": "https://open.spotify.com/artist/52qyXsgOeHZZxHRRxyO8xm"
+        }
+      ],
+      "duration_ms": 397500,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4XwKweWkOkGrXAJks0B7j2"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/4l8HTiPwY1GrY3WNUNOZ8q"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "duration_ms": 401626,
+      "name": "Memory Palace",
+      "url": "https://open.spotify.com/track/1FnxDnuiG7WJAFmtFTlejT"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Deepsoul",
+        "url": "https://open.spotify.com/album/740mAq1Crswiib49Zn9JwM"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/1JXgpyoUNXqGb6aLy3zhRK"
     },
     {
       "added_at": "2023-02-03 06:30:00",

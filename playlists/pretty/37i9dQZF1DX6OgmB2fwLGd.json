@@ -1,28 +1,48 @@
 {
-  "description": "The soundtrack to the internet. Cover: 310babii",
-  "num_followers": 1395605,
+  "description": "The soundtrack to the internet. Cover: Cash Cobain",
+  "num_followers": 1395592,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjcyY2ZmZDAyYjJiZTc2M2E1YjBhMDQ2NzBhOWExNDg1OTEyMzhh",
+  "snapshot_id": "MCw1NGEzYzhiMTk1ODdiNTJlMzRjOTkzMTMwNjk3NGRlZDY5YTA0MDBm",
   "tracks": [
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "CRUEL WORLD",
-        "url": "https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC"
+        "name": "Pretty Girls Love Slizzy",
+        "url": "https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO"
       },
       "artists": [
         {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
         }
       ],
-      "duration_ms": 147692,
-      "name": "CRUEL WORLD",
-      "url": "https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX"
+      "duration_ms": 169736,
+      "name": "Rump (feat. Chow Lee)",
+      "url": "https://open.spotify.com/track/29gijYs6GkiKaGDrEC1l4T"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Me, Myself & I",
+        "url": "https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        }
+      ],
+      "duration_ms": 236251,
+      "name": "Darkest Before Dawn",
+      "url": "https://open.spotify.com/track/4RIdKsqdglJ5JqTG8kTvw7"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -55,6 +75,22 @@
       "duration_ms": 187893,
       "name": "LANCEY OR LANCEY",
       "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "CRUEL WORLD",
+        "url": "https://open.spotify.com/album/3WKwtwwX4Vxd5bh4TjLFeC"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "CRUEL WORLD",
+      "url": "https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -109,6 +145,22 @@
       "url": "https://open.spotify.com/track/5NOOxxawp4MU1remSX2eJQ"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/5gyHraOxWm3iG92twv1HrL"
+      },
+      "artists": [
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        }
+      ],
+      "duration_ms": 99193,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/6URtrmPQlWDbCy3Ke1VSNz"
+    },
+    {
       "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "RICH SCHOLAR",
@@ -145,24 +197,24 @@
       "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "FUNERAL (Deluxe)",
-        "url": "https://open.spotify.com/album/5BSaZIlEflaYkCJSUDMoyj"
+        "name": "BING BONG (Remix) [feat. Sexyy Red]",
+        "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
       },
       "artists": [
         {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
         },
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 212266,
-      "name": "OUT OF MY BODY",
-      "url": "https://open.spotify.com/track/2rplRMLE3Ig1qtSb06LyOM"
+      "duration_ms": 166956,
+      "name": "BING BONG (Remix) [feat. Sexyy Red]",
+      "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -211,6 +263,38 @@
       "duration_ms": 211253,
       "name": "Nun id change",
       "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Way Up!",
+        "url": "https://open.spotify.com/album/6c36BqvLIyeL5NEGt4o0EP"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "duration_ms": 146905,
+      "name": "Way Up!",
+      "url": "https://open.spotify.com/track/7mj1prKBTEisjBlahW1PSK"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "BRB",
+        "url": "https://open.spotify.com/album/11tIOLXTlQRg1ZJeJrIBJ6"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "duration_ms": 107586,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/4sZJgYizP3YR9MkQ7SaRjX"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -327,6 +411,26 @@
       "duration_ms": 148125,
       "name": "Rare Story Pt. 2",
       "url": "https://open.spotify.com/track/5pA5DmqA3tNd9F8KMNrd1C"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "FUNERAL (Deluxe)",
+        "url": "https://open.spotify.com/album/5BSaZIlEflaYkCJSUDMoyj"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "OUT OF MY BODY",
+      "url": "https://open.spotify.com/track/2rplRMLE3Ig1qtSb06LyOM"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -497,22 +601,6 @@
       "url": "https://open.spotify.com/track/7oaDmhGFSRcGxiYDVhJsk1"
     },
     {
-      "added_at": "2023-08-25 15:42:48",
-      "album": {
-        "name": "Last Laugh",
-        "url": "https://open.spotify.com/album/0MImvHEJbrK7myhmRyv60X"
-      },
-      "artists": [
-        {
-          "name": "Slinqeh",
-          "url": "https://open.spotify.com/artist/6ETwp3PoT1YZ8b4yloyylU"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "Last Laugh",
-      "url": "https://open.spotify.com/track/2ZZ2oXSD8ogObbJ1ydOHHJ"
-    },
-    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "marry me",
@@ -565,6 +653,22 @@
       "url": "https://open.spotify.com/track/6Wo5QX4i3imhftyKOYUZjI"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "UNGHETTO WORLD",
+        "url": "https://open.spotify.com/album/6jHh5VXQZmkIPJ2p5VNmuk"
+      },
+      "artists": [
+        {
+          "name": "Unghetto",
+          "url": "https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "SEEN",
+      "url": "https://open.spotify.com/track/0IrecfudrvKZUjLdPgEu7W"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "NEED IT",
@@ -581,20 +685,24 @@
       "url": "https://open.spotify.com/track/6T1dDWfxHxjHkIIhKANk49"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/5gyHraOxWm3iG92twv1HrL"
+        "name": "Dead Homies (feat. Veeze)",
+        "url": "https://open.spotify.com/album/3YHEVzAB8Ozwfzt12vHuga"
       },
       "artists": [
         {
-          "name": "yvngxchris",
-          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+          "name": "Desto Dubb",
+          "url": "https://open.spotify.com/artist/5GQH7cRNQe10gvlxzdQzAL"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
         }
       ],
-      "duration_ms": 99193,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/6URtrmPQlWDbCy3Ke1VSNz"
+      "duration_ms": 134373,
+      "name": "Dead Homies (feat. Veeze)",
+      "url": "https://open.spotify.com/track/2B6sniX8LKlpUkiXLEyenF"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1185,22 +1293,6 @@
       "url": "https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Boy Oh Boy",
-        "url": "https://open.spotify.com/album/3AKtlxNCe8MHDRKvlJF6M1"
-      },
-      "artists": [
-        {
-          "name": "Chinese Kitty",
-          "url": "https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9"
-        }
-      ],
-      "duration_ms": 117677,
-      "name": "Boy Oh Boy",
-      "url": "https://open.spotify.com/track/4hOBpBqVXqk1lkwKCM5QGF"
-    },
-    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Just Like Me",
@@ -1265,22 +1357,6 @@
       "url": "https://open.spotify.com/track/5ntzWMwkB9bwCKKOtE2aJ8"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "molli",
-        "url": "https://open.spotify.com/album/3UWV4LP7JeD4kHDnZ7xscc"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "molli",
-      "url": "https://open.spotify.com/track/1g7f2YPMMf97XlFHRQeoQC"
-    },
-    {
       "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "NODA",
@@ -1315,42 +1391,6 @@
       "duration_ms": 126600,
       "name": "I LOVE YOU HOE (w/ 9lives)",
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
-    },
-    {
-      "added_at": "2023-08-11 17:51:19",
-      "album": {
-        "name": "One Margarita (Margarita Song) [with Sexyy Red, FendiDa Rappa & Flo Milli] [Ladies Remix]",
-        "url": "https://open.spotify.com/album/6BnsDzHgSov2AiCsVa4hTZ"
-      },
-      "artists": [
-        {
-          "name": "That Chick Angel",
-          "url": "https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "FendiDa Rappa",
-          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Casa Di",
-          "url": "https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp"
-        },
-        {
-          "name": "Steve Terrell",
-          "url": "https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p"
-        }
-      ],
-      "duration_ms": 216417,
-      "name": "One Margarita (Margarita Song) [with Sexyy Red, FendiDa Rappa & Flo Milli] - Ladies Remix",
-      "url": "https://open.spotify.com/track/0S6OAcbPuDmpDDbdNBqISD"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1667,26 +1707,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Kosher Certified (feat. BLP KOSHER)",
-        "url": "https://open.spotify.com/album/5votJ1LnPrD68Nei5nISbH"
-      },
-      "artists": [
-        {
-          "name": "Certified Trapper",
-          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
-        },
-        {
-          "name": "BLP KOSHER",
-          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
-        }
-      ],
-      "duration_ms": 144072,
-      "name": "Kosher Certified (feat. BLP KOSHER)",
-      "url": "https://open.spotify.com/track/6MGu2IEwvttpvXD4z65W7L"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "REASSURE ME (w/ 9lives)",
         "url": "https://open.spotify.com/album/6u8o7pMxdxCwupogBFKYZh"
       },
@@ -1807,42 +1827,6 @@
       "duration_ms": 126897,
       "name": "XTAYALIVE",
       "url": "https://open.spotify.com/track/1JjiTsqfpfMoukoIW9cM5O"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo"
-      },
-      "artists": [
-        {
-          "name": "Dom Corleo",
-          "url": "https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F"
-        },
-        {
-          "name": "Yung Kayo",
-          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "S3 X",
-      "url": "https://open.spotify.com/track/0Gm3lagTye1zcIJkF8wh7c"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Fallin",
-        "url": "https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q"
-      },
-      "artists": [
-        {
-          "name": "Loe Shimmy",
-          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
-        }
-      ],
-      "duration_ms": 141888,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP"
     }
   ],
   "unique_name": "Internet People",

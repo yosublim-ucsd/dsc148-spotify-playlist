@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Michael Warren
 
-166 songs - 8 hr 33 min
+167 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Beer With My Friends \(feat\. Cole Swindell and David Lee Murphy\)](https://open.spotify.com/track/5YsPrfAtcCzMIc4BHTsxP5) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V), [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Beer With My Friends \(feat\. Cole Swindell and David Lee Murphy\)](https://open.spotify.com/album/5YGntXPD5Z5QsZGC1BHLxy) | 2:56 | 2021-12-03 |  |
 | [Best Revenge](https://open.spotify.com/track/22JpCHdmjqmeSmevIz8c32) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Best Revenge](https://open.spotify.com/album/3Lg3SLFfC4iNyOBnPL2XAV) | 3:18 | 2022-03-18 | 2023-02-18 |
 | [Best Shot \- Spotify Singles](https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:10 | 2022-04-01 |  |
+| [Bigger Than The Song](https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song](https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653) | 3:09 | 2023-09-29 |  |
 | [Blessed](https://open.spotify.com/track/3iy3WGBub3OWs2t4GFTGA9) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Blessed](https://open.spotify.com/album/3MbNdzvZq9sYQ0eibEbiol) | 3:18 | 2022-05-13 |  |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-12-03 |  |
 | [Blue Jean Masterpiece](https://open.spotify.com/track/27vFxHgbfyhmyQO0BOEYW4) | [Mike Parker](https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m) | [Blue Jean Masterpiece](https://open.spotify.com/album/4mq8g0JxrnZSzm15qYJgBo) | 2:55 | 2023-09-15 |  |

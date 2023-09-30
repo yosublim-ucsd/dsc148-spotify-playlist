@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Conexi\u00f3n Divina",
-  "num_followers": 503960,
+  "num_followers": 503964,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzkxZmU0YTQ0Zjc4MWY1ZmY5Mzg3NWFlY2ZmNjA3MDAyMjBjMjRk",
+  "snapshot_id": "MCwxN2M1ZTUwYjUyYTcyOWU3MDU3ZDk0MTM5MmQzYWIxNDNjMDNjMjEz",
   "tracks": [
     {
       "added_at": "2023-08-21 17:42:45",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "Te Mereces Un Amor",
-        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Te Mereces Un Amor",
-      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
-    },
-    {
-      "added_at": "2023-08-21 17:42:45",
-      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/2zFaRfokK5hhre6SV3EQEq"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 158000,
       "name": "Se Acabo - En Vivo",
       "url": "https://open.spotify.com/track/34Z1nXTwSX6AF6soXdRHmb"
+    },
+    {
+      "added_at": "2023-08-21 17:42:45",
+      "album": {
+        "name": "Te Mereces Un Amor",
+        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Te Mereces Un Amor",
+      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
     },
     {
       "added_at": "2023-08-21 17:42:45",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "Jodida En Este Bar (En Vivo)",
-        "url": "https://open.spotify.com/album/3DG4q22yxndkW3NH3UsHYw"
+        "name": "Porque tengo ganas",
+        "url": "https://open.spotify.com/album/5HNGVRUvb5ivWwIIGMshw3"
       },
       "artists": [
         {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
         }
       ],
-      "duration_ms": 172483,
-      "name": "Jodida En Este Bar - En Vivo",
-      "url": "https://open.spotify.com/track/6OzW9fvluUQq4Cal5Wiqn3"
+      "duration_ms": 228600,
+      "name": "Porque tengo ganas",
+      "url": "https://open.spotify.com/track/1NhYdNcgFUaM8NxhQIUcr6"
     },
     {
       "added_at": "2023-08-21 17:42:45",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-08-21 17:42:45",
       "album": {
-        "name": "Porque tengo ganas",
-        "url": "https://open.spotify.com/album/5HNGVRUvb5ivWwIIGMshw3"
+        "name": "Jodida En Este Bar (En Vivo)",
+        "url": "https://open.spotify.com/album/3DG4q22yxndkW3NH3UsHYw"
       },
       "artists": [
         {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
         }
       ],
-      "duration_ms": 228600,
-      "name": "Porque tengo ganas",
-      "url": "https://open.spotify.com/track/1NhYdNcgFUaM8NxhQIUcr6"
+      "duration_ms": 172483,
+      "name": "Jodida En Este Bar - En Vivo",
+      "url": "https://open.spotify.com/track/6OzW9fvluUQq4Cal5Wiqn3"
     },
     {
       "added_at": "2023-08-21 17:42:45",

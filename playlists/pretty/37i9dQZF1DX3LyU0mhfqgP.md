@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,336 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,237 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 41 | [i hate being cool](https://open.spotify.com/track/64uMhhVtwbC05h7N0T2fzn) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/6gEyHGNecWqivhWhMn7fFj) | 3:33 |
 | 42 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 |
 | 43 | [More Than Twice](https://open.spotify.com/track/0lD19dqvy2uJliwv1d3mq8) | [Dany](https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32) | [More Than Twice](https://open.spotify.com/album/2JhYyFOM3J8LBlkekoowNg) | 3:16 |
-| 44 | [Can I Talk My Shit?](https://open.spotify.com/track/52qozr06OygMerkZTWPQzL) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Can I Talk My Shit?](https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU) | 3:25 |
+| 44 | [Can I Talk My Shit?](https://open.spotify.com/track/1tXn4yWAAyzFikNsJ3bMow) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 3:25 |
 | 45 | [לה די דה](https://open.spotify.com/track/5WDCSXXvISmMEZCZF1ABU2) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC) | [לה די דה](https://open.spotify.com/album/6WuAOLNrUcu7Hs0NbfzqoZ) | 2:46 |
 | 46 | [Her](https://open.spotify.com/track/3ibzLdcdiPcWzxkUiPxElo) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Her](https://open.spotify.com/album/4o47b3SLYi0ePFfPnaX4vc) | 3:40 |
 | 47 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Let It Rain \(feat\. Bukeka\)](https://open.spotify.com/track/3e7kpLAEfpJXwaGpZ1Ewet) | [The Billionaires](https://open.spotify.com/artist/5gLAgBXxn26YXtBIODWfks), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV) | [Sons of The Soil](https://open.spotify.com/album/7f3e62NaZXt2QXmfGUX1OQ) | 6:41 |
 | 50 | [MASCULINITY](https://open.spotify.com/track/5PDTAN58fQ3lnW8RkxjRKV) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [MASCULINITY](https://open.spotify.com/album/6eNI9ZRsW9nfTL5XsaInpd) | 3:29 |
 
-Snapshot ID: `MCw0YmYyNDYwZjliNDUxMGE4NTg2MzMwZDkxMGYyYTU0Njg1ZjQ0Nzk4`
+Snapshot ID: `MCwzZjhlNDhmMjNkODQ2NWVjN2UyYTgwODllMzFhYmI0N2IwODRkYTBj`

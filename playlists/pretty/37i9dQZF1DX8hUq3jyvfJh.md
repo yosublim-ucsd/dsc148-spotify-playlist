@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Juliette e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,444 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,495 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 31 | [Casa Comigo?](https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Casa Comigo?](https://open.spotify.com/album/3wjR90Q98DFO8exvuwuYLr) | 2:39 |
 | 32 | [cABeçA De VEnTo](https://open.spotify.com/track/7xehHTNvc8fQEbNDfoE16P) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [cABeçA De VEnTo](https://open.spotify.com/album/2giZ7WnTkyie1TJJOoTEPX) | 2:45 |
 | 33 | [Pena Que Acabou](https://open.spotify.com/track/57DTGthLG6wQGuJV1QDJCA) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Pena Que Acabou](https://open.spotify.com/album/79R8Ivfbp5Gz1PpvKoBVjJ) | 2:25 |
-| 34 | [Libera a Pressão](https://open.spotify.com/track/1XbEcV9RjfGy3nUoya9yvA) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Libera a Pressão](https://open.spotify.com/album/3gMEKirJ3O9aHoZCxUSkeK) | 2:00 |
-| 35 | [ainda te busco](https://open.spotify.com/track/2kvGNBQ5Sf1Sh2ojXbwxoX) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [KARUMA](https://open.spotify.com/album/5UBuUGbxBmntnQLvkJNg1i) | 2:25 |
+| 34 | [ainda te busco](https://open.spotify.com/track/2kvGNBQ5Sf1Sh2ojXbwxoX) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [KARUMA](https://open.spotify.com/album/5UBuUGbxBmntnQLvkJNg1i) | 2:25 |
+| 35 | [Libera a Pressão](https://open.spotify.com/track/1XbEcV9RjfGy3nUoya9yvA) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Libera a Pressão](https://open.spotify.com/album/3gMEKirJ3O9aHoZCxUSkeK) | 2:00 |
 | 36 | [que se fosse](https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [que se fosse](https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z) | 2:19 |
-| 37 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
-| 38 | [Fim de Semana](https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ) | [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Fim de Semana](https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys) | 2:34 |
+| 37 | [Fim de Semana](https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ) | [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Fim de Semana](https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys) | 2:34 |
+| 38 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
 | 39 | [Vem Doce](https://open.spotify.com/track/2Jccs1AAfvWAU94yOMiluL) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce \(Deluxe\)](https://open.spotify.com/album/5VMHt7P4UGFaX2grV23vKf) | 3:46 |
 | 40 | [Ex Mai Love \- 1,99 Remix](https://open.spotify.com/track/1BAiq5hAOtdbo9yohjgFn9) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [MGZD](https://open.spotify.com/artist/1cHmaXK1swLBgd3TDo60sh) | [Ex Mai Love \(1,99 Remix\)](https://open.spotify.com/album/1udfuU3yTteLuJeidefa3o) | 2:31 |
 | 41 | [Se Você Não Me Queria](https://open.spotify.com/track/7dtv689PA2U8naN1kUQC5h) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Se Você Não Me Queria](https://open.spotify.com/album/5s8ET4e3AxTXSQDHtVRnHi) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [ATÉ O AMANHECER](https://open.spotify.com/track/65ZF0SDgHrIhSYXLYaZ47S) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [ATÉ O AMANHECER](https://open.spotify.com/album/6i8zv9CCuIszeZZxa3i6Uo) | 3:29 |
 | 50 | [Sem Tédio](https://open.spotify.com/track/6LIOqJseCbEpEVLkMkjp7U) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:00 |
 
-Snapshot ID: `MCw5OGU2N2E4YTkyYjIyZTQ5MWU3NjUxYTM2MDAwMzBjMDVlMjIzMzk5`
+Snapshot ID: `MCwwMzU2MDc5ZGY0ZWU3NTI4ZmNiMDk2NmEyYmY5NWJkYzc0MjJkMDg4`

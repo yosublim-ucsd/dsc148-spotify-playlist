@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 135993,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/7n8mE3JYsbwrcJf0hr6Xo1"
@@ -4454,6 +4454,24 @@
       "duration_ms": 220974,
       "name": "Who's That",
       "url": "https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR"
+    },
+    {
+      "album": {
+        "name": "Wilder Than the West",
+        "url": "https://open.spotify.com/album/03xTki4ce3xfSLnvvtcpnO"
+      },
+      "artists": [
+        {
+          "name": "Renee Blair",
+          "url": "https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154311,
+      "name": "Wilder Than the West",
+      "url": "https://open.spotify.com/track/6R68v7QdeTDEkNuBLbMy37"
     },
     {
       "album": {

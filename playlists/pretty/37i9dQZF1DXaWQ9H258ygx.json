@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 73208,
+  "num_followers": 73409,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTc3ZGY5YjZlNjVhZDQ1NTc1ODYzMzQ0YzU4NmIwNmJkYzA4ZTAy",
+  "snapshot_id": "MCwwMzRiM2I3MDVkYmRhYmNiZTBhNGQ3ODg1NzY0YWVmNDNmZDQ2N2U3",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -863,18 +863,22 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "RAMONA PARK BROKE MY HEART",
-        "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
       },
       "artists": [
         {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 227873,
-      "name": "WHEN SPARKS FLY",
-      "url": "https://open.spotify.com/track/1jhdCONafFj1hzJsPvZx27"
+      "duration_ms": 234284,
+      "name": "Babylon (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6Aj2H0Z0v0JgnSfPEwCgW0"
     }
   ],
   "unique_name": "Keith Power's Taste",

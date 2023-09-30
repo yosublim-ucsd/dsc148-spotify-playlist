@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Gaab
 
-153 songs - 7 hr 51 min
+154 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Delírio](https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG) | [INAHUGO](https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR) | [Estou Aqui](https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr) | 3:47 | 2022-12-02 |  |
 | [Devi](https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE) | [Devi](https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02) | 3:16 | 2023-02-24 | 2023-04-09 |
 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 | 2022-11-18 | 2023-08-12 |
+| [Distante](https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV) | [Milly](https://open.spotify.com/artist/6TvlW0KQY1sJ8LnJdqE9T8), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Distante](https://open.spotify.com/album/4P057UfmWhYcJJzdAvqTp8) | 2:09 | 2023-09-29 |  |
 | [ele diz que me ama s2](https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m), [Perimnobeat](https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG) | [ele diz que me ama s2](https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P) | 4:01 | 2023-08-25 | 2023-09-02 |
 | [Enigma](https://open.spotify.com/track/4esz5K53Soq2bGevWlCSfW) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Enigma](https://open.spotify.com/album/7zbo1VQgkYL3kzmNusNV3N) | 4:00 | 2022-11-18 | 2022-12-24 |
 | [Escolhe](https://open.spotify.com/track/23XhqZ7lPY9eaBkVA2MMYA) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Sinto Muito](https://open.spotify.com/album/2KL9wBrkZmBeElWCKBuAiV) | 2:16 | 2022-11-18 | 2023-04-09 |
@@ -130,7 +131,7 @@
 | [Sei Lá](https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Sei Lá](https://open.spotify.com/album/2FBQJcKKxkdnNQsP4qI1CZ) | 2:24 | 2023-04-21 | 2023-08-26 |
 | [SEM BARULHO](https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [SEM BARULHO](https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh) | 2:42 | 2023-05-12 |  |
 | [Sem Tédio](https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [Sem Tédio](https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc) | 3:00 | 2023-06-23 |  |
-| [Sem Você \(Acústico no Studio F\)](https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Mariah Nala no Studio F \(Acústico\)](https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67) | 2:28 | 2022-12-23 |  |
+| [Sem Você \(Acústico no Studio F\)](https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Mariah Nala no Studio F \(Acústico\)](https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67) | 2:28 | 2022-12-23 | 2023-09-30 |
 | [Sensual](https://open.spotify.com/track/67n8fu0kS4alk55PRvqq70) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [Lotta](https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ) | [Sensual](https://open.spotify.com/album/3P0v9NCQ7sp9mGjc44q42O) | 2:51 | 2023-04-07 | 2023-07-01 |
 | [Seu Bem](https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Seu Bem](https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l) | 3:27 | 2022-11-18 |  |
 | [SHAWTY](https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k) | 2:53 | 2023-03-24 | 2023-04-24 |

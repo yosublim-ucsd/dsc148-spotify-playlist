@@ -4369,6 +4369,24 @@
     },
     {
       "album": {
+        "name": "Patiently",
+        "url": "https://open.spotify.com/album/768bX4s0q9wTXd1Nxt5mo4"
+      },
+      "artists": [
+        {
+          "name": "Theodore Brim",
+          "url": "https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178166,
+      "name": "Patiently",
+      "url": "https://open.spotify.com/track/4ksohd9Ti6zViNRYe80JEW"
+    },
+    {
+      "album": {
         "name": "Perfecta paz",
         "url": "https://open.spotify.com/album/0ASgTzf5KZiF6A8MawqScN"
       },
@@ -5302,6 +5320,24 @@
       "duration_ms": 178000,
       "name": "Snowdonia",
       "url": "https://open.spotify.com/track/6JMuZsTQprhBrbywStSwer"
+    },
+    {
+      "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/33WqLEqPxoOwdF2ZnE6YTx"
+      },
+      "artists": [
+        {
+          "name": "Madna E\u00fara",
+          "url": "https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172565,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/6HR82S6IU4a7Lq0Gg8fx8U"
     },
     {
       "album": {

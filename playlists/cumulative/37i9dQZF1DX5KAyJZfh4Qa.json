@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-28",
-  "description": "it's just one of those days with Sincere Engineer.",
+  "description": "it's just one of those days w/ <a href=\"https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa?si=9cd8ab93c60b4919\"> Sweet Pill</a>.",
   "name": "emo right now",
   "tracks": [
     {
@@ -92,6 +92,42 @@
       "duration_ms": 258812,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/2k3SHrWJROuEVFkJwbI94Z"
+    },
+    {
+      "album": {
+        "name": "Armageddon Now",
+        "url": "https://open.spotify.com/album/3z3ygyiwpv16JxxGmQFW0z"
+      },
+      "artists": [
+        {
+          "name": "Teenage Halloween",
+          "url": "https://open.spotify.com/artist/5Hur60D1LUeU6P2AEHuX5B"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178340,
+      "name": "Armageddon Now",
+      "url": "https://open.spotify.com/track/20RXFLahFPS56tMEqDWVb7"
+    },
+    {
+      "album": {
+        "name": "Autonomy Shop",
+        "url": "https://open.spotify.com/album/61qL8SJF5jDZmzlO23obrc"
+      },
+      "artists": [
+        {
+          "name": "Thank You, I'm Sorry",
+          "url": "https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141924,
+      "name": "Autonomy Shop",
+      "url": "https://open.spotify.com/track/1SQcpGtOW3xiInjzf63I3l"
     },
     {
       "album": {
@@ -196,7 +232,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 139671,
       "name": "Blood",
       "url": "https://open.spotify.com/track/4ImZ8dmqmUncas43Lb3bJg"
@@ -304,7 +340,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 181915,
       "name": "Call From You",
       "url": "https://open.spotify.com/track/5yNbprUaJXG7SPppQeNEMR"
@@ -668,6 +704,24 @@
       "duration_ms": 100162,
       "name": "Don't Try",
       "url": "https://open.spotify.com/track/2TePq5MmzqGyRfFPAL4CgS"
+    },
+    {
+      "album": {
+        "name": "Down, Down",
+        "url": "https://open.spotify.com/album/370vppY6IUYVcPirKxqVEe"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Down, Down",
+      "url": "https://open.spotify.com/track/0miXex5MBdN0ddRL79GX4I"
     },
     {
       "album": {
@@ -1302,7 +1356,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 213243,
       "name": "Lefty",
       "url": "https://open.spotify.com/track/7sjrz7oVPOncAQib1yjMrd"
@@ -1705,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "15 Years",
+        "url": "https://open.spotify.com/album/6RBPZ93MI5aLMPxTExZRA5"
+      },
+      "artists": [
+        {
+          "name": "Into It. Over It.",
+          "url": "https://open.spotify.com/artist/1ecdmsD235x2zHCKfdL3cF"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192635,
+      "name": "Pinky Swear",
+      "url": "https://open.spotify.com/track/0FKsASgAPAKTSzW1WfPHIw"
+    },
+    {
+      "album": {
         "name": "Summertime Concrete",
         "url": "https://open.spotify.com/album/6CaZXFPkzaKVOkpyuLpqPD"
       },
@@ -2065,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229555,
+      "name": "Starchild",
+      "url": "https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH"
+    },
+    {
+      "album": {
         "name": "Stone",
         "url": "https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK"
       },
@@ -2274,7 +2364,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 229041,
       "name": "The Cool Kids",
       "url": "https://open.spotify.com/track/3sgSxMPHAfNhEwDWKJlJGR"
@@ -2310,7 +2400,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 95253,
       "name": "This # Is No Longer in Service",
       "url": "https://open.spotify.com/track/4Q88FcWu5xTOACoyCvfGwq"

@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 269258,
       "name": "Aldniya Ensan - \u0627\u0644\u062f\u0646\u064a\u0627 \u0627\u0646\u0633\u0627\u0646",
       "url": "https://open.spotify.com/track/2Md6cxHaMwtsnB37B4rZHu"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 169811,
       "name": "Aljawu Ahrkah",
       "url": "https://open.spotify.com/track/1QLpo1Uz5zqngmxQ3SrRYW"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 192226,
       "name": "Baatrk Atnfas",
       "url": "https://open.spotify.com/track/2vKRNP5PHsHTa8deqEVLTe"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 227544,
       "name": "Dabrole Dam3a",
       "url": "https://open.spotify.com/track/5k1u7jIpoKQSR90fbiJINY"
@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Eleshrah Elghiha",
+        "url": "https://open.spotify.com/album/586x9WVxxnUSYKk2QZIoOQ"
+      },
+      "artists": [
+        {
+          "name": "Raad And Methaq",
+          "url": "https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230136,
+      "name": "Eleshrah Elghiha",
+      "url": "https://open.spotify.com/track/0URvUqpTQ0LL2912CPBSoc"
+    },
+    {
+      "album": {
         "name": "Enta",
         "url": "https://open.spotify.com/album/4KMVSLQYqrR45A4lCRlkDJ"
       },
@@ -680,7 +698,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 203022,
       "name": "Enta",
       "url": "https://open.spotify.com/track/0vdAd6VLdK6Ln606IuirH6"
@@ -742,6 +760,24 @@
       "duration_ms": 207400,
       "name": "Erjaa Habibi",
       "url": "https://open.spotify.com/track/1xiIRisLA9xvJgEK3w64Ft"
+    },
+    {
+      "album": {
+        "name": "Eshagtak",
+        "url": "https://open.spotify.com/album/1IJ8KRUc9fUJlfEKk8umQT"
+      },
+      "artists": [
+        {
+          "name": "Yasser Abd Alwahab",
+          "url": "https://open.spotify.com/artist/6257KWddv5693NK51w7iXa"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205894,
+      "name": "Eshagtak",
+      "url": "https://open.spotify.com/track/2PaI1Yc8Tt0cGI8NG1wcQe"
     },
     {
       "album": {
@@ -994,7 +1030,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 218181,
       "name": "Hatha Elshog",
       "url": "https://open.spotify.com/track/1lUCqzlZvfi2aFS5EZMwJb"
@@ -1376,7 +1412,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 151918,
       "name": "Mawal Alila",
       "url": "https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a"
@@ -1504,7 +1540,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 207792,
       "name": "Odna Lel Hayah",
       "url": "https://open.spotify.com/track/7rsqhAm8gE0KawfyCzyZ5X"
@@ -1526,7 +1562,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 186352,
       "name": "Qalbi",
       "url": "https://open.spotify.com/track/2MPhoIfjDqqtcIpCoq61j7"
@@ -1584,7 +1620,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 195929,
       "name": "Raah Anam",
       "url": "https://open.spotify.com/track/7zxuNEe1gUJGnCN4p30UMf"
@@ -1602,7 +1638,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 181777,
       "name": "Rakaz Beya",
       "url": "https://open.spotify.com/track/7xFOwWuDpjBv5tsCiptmvS"
@@ -1898,7 +1934,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 145320,
       "name": "Thawab Al Marajil",
       "url": "https://open.spotify.com/track/562C7AOXcdWOSbjKosv0Jy"
@@ -1992,6 +2028,24 @@
       "duration_ms": 213714,
       "name": "Ya Chathab",
       "url": "https://open.spotify.com/track/6Ag4Und6NcTdnQvNMtbDN6"
+    },
+    {
+      "album": {
+        "name": "Ya El Ghashash (\u064a\u0627\u0644\u063a\u0634\u0627\u0634)",
+        "url": "https://open.spotify.com/album/7DbmlwivNtglxYVWxQ807a"
+      },
+      "artists": [
+        {
+          "name": "Dumooa Tahseen",
+          "url": "https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215585,
+      "name": "Ya El Ghashash - \u064a\u0627\u0644\u063a\u0634\u0627\u0634",
+      "url": "https://open.spotify.com/track/69F05yNX2cTsQANGxub8Ph"
     },
     {
       "album": {
@@ -2212,7 +2266,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-30",
       "duration_ms": 210000,
       "name": "\u0639\u0634\u0631\u062a\u064a \u0648\u064a\u0627\u0643",
       "url": "https://open.spotify.com/track/4BPUAyxBRGkmolKuZHz7lW"

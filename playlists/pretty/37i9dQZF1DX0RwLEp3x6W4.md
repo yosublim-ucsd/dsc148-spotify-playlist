@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 ### [Bluegrass Origins](https://open.spotify.com/playlist/37i9dQZF1DX0RwLEp3x6W4)
 
-> Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Jesse McReynolds
+> Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Hazel Dickens and Alice Gerrard
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,910 likes - 59 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,932 likes - 59 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [She Left Me Standing On the Mountain](https://open.spotify.com/track/4hloQEApxIXnB66RSrdtXn) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq) | [Y'all Come: The Essential Jim & Jesse](https://open.spotify.com/album/0L7k1GF5r8pNMv5xXJ4ptD) | 2:09 |
-| 2 | [Blue Moon Of Kentucky](https://open.spotify.com/track/6XHbYnwTB7YoSV4TLeycuB) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Anthology](https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE) | 2:06 |
-| 3 | [Train on the Island](https://open.spotify.com/track/5uI7caUGXYxH6pYhkRxq1z) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Pioneering Women of Bluegrass](https://open.spotify.com/album/47foG5gtaTxSEmEM141ckO) | 1:44 |
-| 4 | [There Ain't Nobody Gonna Miss Me When I'm Gone](https://open.spotify.com/track/0oDtTPB1KWyVSfwfg434TW) | [The Kentucky Colonels](https://open.spotify.com/artist/5aV6tDnBgmezgCSTvL5HnV) | [Long Journey Home](https://open.spotify.com/album/3ld7W37q9JW9grvpSlDdT8) | 2:51 |
-| 5 | [Foggy Mountain Breakdown](https://open.spotify.com/track/29qFlNOssruDfoEN8vN2Uu) | [Flatt & Scruggs](https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1) | [Town and Country](https://open.spotify.com/album/5HVcZRoUGq2WdjAKiIARU5) | 2:20 |
-| 6 | [Here old rattler here / Sent for my fiddle sent for my bow \(Sent for my fiddle sent for my son\) / Georgia Buck](https://open.spotify.com/track/1YTx4scjuDF6L12gH9zsWt) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 3:48 |
-| 7 | [What Would You Give In Exchange](https://open.spotify.com/track/4HW9cnF8pDl6WgK4g9cfij) | [The Monroe Brothers](https://open.spotify.com/artist/4eaGB6IFAhm0pqXElO5MJZ) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 3:09 |
-| 8 | [Sally Gooden](https://open.spotify.com/track/5VdYenFr9hnB0jTBDzs9NC) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [American Epic: The Collection](https://open.spotify.com/album/73iz4oHKG9ivUHYoQWXifI) | 3:10 |
-| 9 | [The East Virginia Blues](https://open.spotify.com/track/57j0NogTl3yHCXx8gGWkFY) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [The Essential Carter Family](https://open.spotify.com/album/3beN6cqvzLYEbwerre1N6b) | 2:45 |
+| 1 | [Blue Moon Of Kentucky](https://open.spotify.com/track/6XHbYnwTB7YoSV4TLeycuB) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Anthology](https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE) | 2:06 |
+| 2 | [Train on the Island](https://open.spotify.com/track/5uI7caUGXYxH6pYhkRxq1z) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Pioneering Women of Bluegrass](https://open.spotify.com/album/47foG5gtaTxSEmEM141ckO) | 1:44 |
+| 3 | [There Ain't Nobody Gonna Miss Me When I'm Gone](https://open.spotify.com/track/0oDtTPB1KWyVSfwfg434TW) | [The Kentucky Colonels](https://open.spotify.com/artist/5aV6tDnBgmezgCSTvL5HnV) | [Long Journey Home](https://open.spotify.com/album/3ld7W37q9JW9grvpSlDdT8) | 2:51 |
+| 4 | [Foggy Mountain Breakdown](https://open.spotify.com/track/29qFlNOssruDfoEN8vN2Uu) | [Flatt & Scruggs](https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1) | [Town and Country](https://open.spotify.com/album/5HVcZRoUGq2WdjAKiIARU5) | 2:20 |
+| 5 | [Here old rattler here / Sent for my fiddle sent for my bow \(Sent for my fiddle sent for my son\) / Georgia Buck](https://open.spotify.com/track/1YTx4scjuDF6L12gH9zsWt) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 3:48 |
+| 6 | [What Would You Give In Exchange](https://open.spotify.com/track/4HW9cnF8pDl6WgK4g9cfij) | [The Monroe Brothers](https://open.spotify.com/artist/4eaGB6IFAhm0pqXElO5MJZ) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 3:09 |
+| 7 | [Sally Gooden](https://open.spotify.com/track/5VdYenFr9hnB0jTBDzs9NC) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [American Epic: The Collection](https://open.spotify.com/album/73iz4oHKG9ivUHYoQWXifI) | 3:10 |
+| 8 | [The East Virginia Blues](https://open.spotify.com/track/57j0NogTl3yHCXx8gGWkFY) | [The Carter Family](https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL) | [The Essential Carter Family](https://open.spotify.com/album/3beN6cqvzLYEbwerre1N6b) | 2:45 |
+| 9 | [She Left Me Standing On the Mountain](https://open.spotify.com/track/4hloQEApxIXnB66RSrdtXn) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq) | [Y'all Come: The Essential Jim & Jesse](https://open.spotify.com/album/0L7k1GF5r8pNMv5xXJ4ptD) | 2:09 |
 | 10 | [Matterhorn](https://open.spotify.com/track/3Ip1Z02mNhxAKQUPfYefc2) | [The Country Gentlemen](https://open.spotify.com/artist/2quHEq7N5G0lU7keIHPJUd) | [Matterhorn](https://open.spotify.com/album/5JQcYPZdtvwPfjrEKGgXMs) | 2:54 |
 | 11 | [Bowling Green](https://open.spotify.com/track/4t1Sxqd7LPwmgmmqZYUC2X) | [The New Lost City Ramblers](https://open.spotify.com/artist/4fqd1tgX1D2YESwxzr2cvd), [Cousin Emmy](https://open.spotify.com/artist/7GcI4qqLnvVY1wlRdRixpx) | [New Lost City Ramblers with Cousin Emmy](https://open.spotify.com/album/0yLszzEelH2VYtBIJd96yY) | 1:50 |
 | 12 | [Rabbit In the Log \(with The Virginia Boys\)](https://open.spotify.com/track/6ASifFs9LjXe5sPOiCMGkW) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq), [The Virginia Boys](https://open.spotify.com/artist/0a7GoDJVPmN1ThQg8Kmh31) | [Y'all Come: The Essential Jim & Jesse](https://open.spotify.com/album/0L7k1GF5r8pNMv5xXJ4ptD) | 2:40 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 58 | [Brilliancy Medley](https://open.spotify.com/track/5dH5JqHaYSZhNsYiJLJ5Ty) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [Old Time Texas Fiddler](https://open.spotify.com/album/1frgWjs8tUTxPiubw9NYRL) | 2:57 |
 | 59 | [Whitehouse Blues](https://open.spotify.com/track/5JxJ1qkfZxbivjdusciKas) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Bluegrass Blues](https://open.spotify.com/album/6LUb06ZNMDASuDgD6sHisX) | 1:39 |
 
-Snapshot ID: `MCw2MjU3YmFhMDMzNjA0NTEyMDBmYzdhNzk1ODMzODI3YmVlMmVhZmM3`
+Snapshot ID: `MCxkZTllNDhjOTI0NDI4MTJkMzRlYzVjY2E3NThjNWViMzIwNTk5MjQy`
