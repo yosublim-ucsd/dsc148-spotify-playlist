@@ -5,6 +5,44 @@
   "tracks": [
     {
       "album": {
+        "name": "#Fuck_Chotas",
+        "url": "https://open.spotify.com/album/3opVItE83Y06HeBJEdnZH0"
+      },
+      "artists": [
+        {
+          "name": "Clowx",
+          "url": "https://open.spotify.com/artist/5MRD5kGSh7YBNAMfPXs1uq"
+        },
+        {
+          "name": "Caws DGP",
+          "url": "https://open.spotify.com/artist/09Pc2WJtZqREapbEbn40xd"
+        },
+        {
+          "name": "Smokk",
+          "url": "https://open.spotify.com/artist/6lcmuIRdh6cglv54iYnhH6"
+        },
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        },
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        },
+        {
+          "name": "Cabas",
+          "url": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161279,
+      "name": "#Fuck_Chotas",
+      "url": "https://open.spotify.com/track/5rSxQxb1uIMunVXQ68FnWS"
+    },
+    {
+      "album": {
         "name": "10K",
         "url": "https://open.spotify.com/album/1ehQq1iS3f3afJsFt916oL"
       },
@@ -1586,7 +1624,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 103509,
       "name": "GODZILLA MODE",
       "url": "https://open.spotify.com/track/7FnIyTBH68sYhfQYy9LnO2"
@@ -1856,7 +1894,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 170967,
       "name": "King Cruz",
       "url": "https://open.spotify.com/track/0nkqlZLqOVHjUzhSihydYK"
@@ -1930,6 +1968,28 @@
       "duration_ms": 264776,
       "name": "La Movie",
       "url": "https://open.spotify.com/track/5vXtCT27kRaDJASx4HNlGO"
+    },
+    {
+      "album": {
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/1zK3TV2luYmgMTBgViW2Jc"
+      },
+      "artists": [
+        {
+          "name": "Krusha G",
+          "url": "https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw"
+        },
+        {
+          "name": "Coko Yamasaki",
+          "url": "https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183733,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/5hSjKz5d9BNFLbVN1dJ0YV"
     },
     {
       "album": {
@@ -2102,6 +2162,24 @@
       "duration_ms": 139200,
       "name": "LV",
       "url": "https://open.spotify.com/track/0zv6SVZ7lrFfNc9zYsHpu7"
+    },
+    {
+      "album": {
+        "name": "Mami Lo 100to",
+        "url": "https://open.spotify.com/album/2eLVVioesszSteeh8kABiO"
+      },
+      "artists": [
+        {
+          "name": "RIKO",
+          "url": "https://open.spotify.com/artist/3bX0TAwah1a1TNlsJgOgP7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168016,
+      "name": "Mami Lo 100to",
+      "url": "https://open.spotify.com/track/155rqRZKSNlfV9nT4f4dig"
     },
     {
       "album": {
@@ -3972,7 +4050,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 176567,
       "name": "Zona Pistola",
       "url": "https://open.spotify.com/track/49B9zwKFTKtLf1FcbNVShf"

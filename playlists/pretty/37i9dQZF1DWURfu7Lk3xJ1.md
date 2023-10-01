@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,717 likes - 219 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,829 likes - 219 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 218 | [Waterfall](https://open.spotify.com/track/1grYJu7GMZMXIGIAir2Evd) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm) | [Waterfall](https://open.spotify.com/album/4E9ewJZgeQ4zO4wEh40N0s) | 2:22 |
 | 219 | [Gentle](https://open.spotify.com/track/6SCNLaxZas2Hqalh4zeAGr) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Gentle](https://open.spotify.com/album/5lx736CiAjCBRgrqgqF5dt) | 3:30 |
 
-Snapshot ID: `MCw4ODM5OGVhOWYyOWQ2NGRlNGQwNzlhOTVmZTIxNzFhNTdhZDczYmNh`
+Snapshot ID: `MCxjNGFjMjAwNWU1OWQ1MDhmZWVmYzZlZmExMjcyZDhkOTVjODgxNThi`

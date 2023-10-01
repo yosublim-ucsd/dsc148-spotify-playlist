@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: MYLINA; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,742 likes - 95 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,759 likes - 95 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 66 | [Lời Chia Tay](https://open.spotify.com/track/2nBMaVcTDMeBvNPPZN9D7m) | [Cà Nâu](https://open.spotify.com/artist/1GaNXOOINBcBKwdd58rMbW) | [Lời Chia Tay](https://open.spotify.com/album/5KOH26O71H916UUymEgTjS) | 4:07 |
 | 67 | [Tình cờ yêu em](https://open.spotify.com/track/0gzpqwLf1jhNjnSJEyweAX) | [Kuun Đức Nam](https://open.spotify.com/artist/05xxXziuRhVsmlSjTD4Soh), [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq) | [Tình cờ yêu em](https://open.spotify.com/album/633b3JiGJnZoepcvZeu2yo) | 4:18 |
 | 68 | [Ta](https://open.spotify.com/track/1TX6AY62YiXlhKVqJhA3Dk) | [WAVES](https://open.spotify.com/artist/3CrAGTXH12HVzjA337Ajzo), [tnghi](https://open.spotify.com/artist/217CQDuGuHtrk3hbj1Nlaa), [wolfie](https://open.spotify.com/artist/2P5neUjvCjPP2kgdX2OzD9) | [Ta](https://open.spotify.com/album/4W3SsLgpKFCdqRimzxk46n) | 4:03 |
-| 69 | [Quý Cô Thích](https://open.spotify.com/track/4oWDuiRSNm36a8MzoFQhZc) | [Yung](https://open.spotify.com/artist/4WF9GdetrQiLeWDWAISRGa) | [Quý Cô Thích](https://open.spotify.com/album/0l3V4qbfJwpVg5O3zuO5RX) | 3:16 |
+| 69 | [Quý Cô Thích](https://open.spotify.com/track/4oWDuiRSNm36a8MzoFQhZc) | [Shayda](https://open.spotify.com/artist/4WF9GdetrQiLeWDWAISRGa) | [Quý Cô Thích](https://open.spotify.com/album/0l3V4qbfJwpVg5O3zuO5RX) | 3:16 |
 | 70 | [Sinh Nhật Của Mùa Thu](https://open.spotify.com/track/7qJf0rrMBJgpffdwOiojND) | [Nguyenn](https://open.spotify.com/artist/0FflNqUFk4ODtAZuVuqgou) | [Sinh Nhật Của Mùa Thu](https://open.spotify.com/album/1cW6R6IVBHDsIK641zcmWb) | 4:46 |
 | 71 | [Tâm Ý](https://open.spotify.com/track/46ZAg8uD4otBIus3h5rsjG) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ), [Tuyết](https://open.spotify.com/artist/09pDLc11jZN8ECK9dz4r2K), [KayTee](https://open.spotify.com/artist/248WoYEoxyIPtzMbAmtSTF) | [Tâm Ý](https://open.spotify.com/album/3l8niA3XA4zCQMjctxfTwG) | 3:45 |
 | 72 | [Yêu Đương Đâu Giống Ngôn Tình](https://open.spotify.com/track/3ifw7Yf3FAfgzDnGQuSJJE) | [Sing](https://open.spotify.com/artist/79RTt4imwk0NaxS5lCnm29), [AEP SIMON](https://open.spotify.com/artist/69b3wAh06ngvbRYCuz3BLG) | [Yêu Đương Đâu Giống Ngôn Tình](https://open.spotify.com/album/0sCMrGL9fETG2EvhEUWbl7) | 3:46 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 80 | [Ulala \(feat\. T.R.I\)](https://open.spotify.com/track/1RV2oiNHqagcwOAvLN9qeX) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g), [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ulala](https://open.spotify.com/album/6T4E1Vk1gP5LM300KhSW6I) | 3:02 |
 | 81 | [Tinh dep latinh buon](https://open.spotify.com/track/7JeE6PNUGbzaR8eqbxYE1Y) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Tinh dep latinh buon](https://open.spotify.com/album/2ZzqQTlqBiZNsj0JxYsQPh) | 2:31 |
 | 82 | [Là Một Người Tốt](https://open.spotify.com/track/2hXwAUTGhEcLYPaNwf2czD) | [Bon Ma](https://open.spotify.com/artist/7Am0uM7zd9oMI8Qyo5qmZd), [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN) | [Là Một Người Tốt](https://open.spotify.com/album/7GTMKtVMdzV3zlbYGiLRto) | 2:54 |
-| 83 | [Muốn Sao Nữa Thằng Tồi?](https://open.spotify.com/track/2cBqsgX10iLSZXbs7cbs8u) | [Yung](https://open.spotify.com/artist/4WF9GdetrQiLeWDWAISRGa) | [Muốn Sao Nữa Thằng Tồi?](https://open.spotify.com/album/5z0lexfD7gNONqDJuc7w2m) | 3:44 |
+| 83 | [Muốn Sao Nữa Thằng Tồi?](https://open.spotify.com/track/2cBqsgX10iLSZXbs7cbs8u) | [Shayda](https://open.spotify.com/artist/4WF9GdetrQiLeWDWAISRGa) | [Muốn Sao Nữa Thằng Tồi?](https://open.spotify.com/album/5z0lexfD7gNONqDJuc7w2m) | 3:44 |
 | 84 | [Khu vườn](https://open.spotify.com/track/1LnOxCZuBpFAwIt50xvuQf) | [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om) | [Khu vườn](https://open.spotify.com/album/6UvnOCsDd1t4dVqfB265IK) | 2:11 |
 | 85 | [Đừng Chờ Đợi Nữa](https://open.spotify.com/track/0lNRs7CVkTnxyEnCntnAiZ) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [Huyên Thiên](https://open.spotify.com/album/4ee8A6eK5gNBPXI1YtnRxm) | 3:21 |
 | 86 | [Ghé Thăm Nhà Em](https://open.spotify.com/track/10gIkjctItukDCfX1VtiE3) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Xôn Nguyễn](https://open.spotify.com/artist/2KhDttLplSvTjfipdzvOu3), [2Long](https://open.spotify.com/artist/4XeJIxCT07KE8TD8VRucYV) | [Ghé Thăm Nhà Em](https://open.spotify.com/album/5Q1UORrPFUUBLGhW3pJoQ5) | 4:07 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 94 | [Ngọt Như Ly Soda](https://open.spotify.com/track/6fV2oCMzoFe16tWUkjBdL7) | [Nmọc](https://open.spotify.com/artist/0PNaXU7X4EjxSddZur4XJO), [Notcool](https://open.spotify.com/artist/50swyNRwhADokDcp7v7K5O) | [Ngọt Như Ly Soda](https://open.spotify.com/album/4ocQLORzCDkRr9FzLRCr3k) | 1:21 |
 | 95 | [em lai di dau day?](https://open.spotify.com/track/1JZUgjMN8onMfdCAQxb0xb) | [Cáu](https://open.spotify.com/artist/79RDZmnftJOANOKbYtEo5e) | [em lai di dau day?](https://open.spotify.com/album/1mXPFMkwnS8WP19cgIO0oy) | 2:51 |
 
-Snapshot ID: `MCxjMTY1N2MxMTZmY2IyOTYyN2ZjYWY4MGNhYzMwZmUyNzFmZDI0NTE5`
+Snapshot ID: `MCw1ZjcwMmNkMTc3ZDlmNjU2NTMyY2QxNjI5MTU1NGUzNTczOTlkYzZi`

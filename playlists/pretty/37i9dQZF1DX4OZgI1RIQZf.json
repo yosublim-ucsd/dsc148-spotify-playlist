@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 55035,
+  "num_followers": 55369,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDcxYWUwY2MzYTg5NDFjYzM2MjliZDRlNGRkODMwNzA2MWU4OTNj",
+  "snapshot_id": "MCxhZGM0NThjYWFkYjdmZjRlNmEwYjUyMTdjOGYwZTBkYjZkMjQ5NmE2",
   "tracks": [
     {
       "added_at": "2023-09-19 06:59:01",
@@ -59,18 +59,18 @@
     {
       "added_at": "2023-09-19 06:59:01",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
     },
     {
       "added_at": "2023-09-19 06:59:01",
@@ -91,34 +91,18 @@
     {
       "added_at": "2023-09-19 06:59:01",
       "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
-    },
-    {
-      "added_at": "2023-09-19 06:59:01",
-      "album": {
-        "name": "Cannot Be, Whatsoever",
-        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 154773,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr"
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
       "added_at": "2023-09-19 06:59:01",
@@ -135,6 +119,22 @@
       "duration_ms": 215826,
       "name": "Evil",
       "url": "https://open.spotify.com/track/4absiGHMelB8eH976ytjBj"
+    },
+    {
+      "added_at": "2023-09-19 06:59:01",
+      "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 154773,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr"
     },
     {
       "added_at": "2023-09-19 06:59:01",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-09-19 06:59:01",
       "album": {
-        "name": "GHOSTS ON TAPE",
-        "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
-        }
-      ],
-      "duration_ms": 226622,
-      "name": "MORBID FASCINATION",
-      "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
-    },
-    {
-      "added_at": "2023-09-19 06:59:01",
-      "album": {
         "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
         "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 215179,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
+    },
+    {
+      "added_at": "2023-09-19 06:59:01",
+      "album": {
+        "name": "GHOSTS ON TAPE",
+        "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+        }
+      ],
+      "duration_ms": 226622,
+      "name": "MORBID FASCINATION",
+      "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
     },
     {
       "added_at": "2023-09-19 06:59:01",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-09-19 06:59:01",
       "album": {
-        "name": "Introducing The Sonics",
-        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
-    },
-    {
-      "added_at": "2023-09-19 06:59:01",
-      "album": {
         "name": "A Quick One (Expanded Edition)",
         "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 149533,
       "name": "Boris The Spider - Mono Version",
       "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
+    },
+    {
+      "added_at": "2023-09-19 06:59:01",
+      "album": {
+        "name": "Introducing The Sonics",
+        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
+      },
+      "artists": [
+        {
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
     },
     {
       "added_at": "2023-09-19 06:59:01",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-19 06:59:01",
       "album": {
-        "name": "Evil Urges",
-        "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Highly Suspicious",
-      "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
-    },
-    {
-      "added_at": "2023-09-19 06:59:01",
-      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 213333,
       "name": "Halloween Parade",
       "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
+    },
+    {
+      "added_at": "2023-09-19 06:59:01",
+      "album": {
+        "name": "Evil Urges",
+        "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Highly Suspicious",
+      "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
     },
     {
       "added_at": "2023-09-19 06:59:01",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-19 06:59:01",
       "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
-      },
-      "artists": [
-        {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
-    },
-    {
-      "added_at": "2023-09-19 06:59:01",
-      "album": {
         "name": "Come Of Age",
         "url": "https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 140906,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/347OA86TbdeTydHhy90blH"
+    },
+    {
+      "added_at": "2023-09-19 06:59:01",
+      "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
     },
     {
       "added_at": "2023-09-19 06:59:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Sum 41, Ed Sheeran, PinkPantheress, William Prince and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,498 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,528 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Rose City](https://open.spotify.com/track/5JoFmBsA6J1FJumA0BJKX1) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Rose City / Rise Up With Fists](https://open.spotify.com/album/0pYtOyHubrt0sHOg7fhPzS) | 2:46 |
 | 100 | [Next Time I'll Choose Love](https://open.spotify.com/track/54FrC1f6uQPlC4ldAyKWpH) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [Finish What You Started](https://open.spotify.com/album/4aqeFt0XhI5uqPTnVCfAHk) | 2:56 |
 
-Snapshot ID: `MCxjZTJjZjBjNjMxOGNlMWQxMDY5YjdlZWM5ZDFiNjVmMzliMGQyYmMw`
+Snapshot ID: `MCwyYmRiMTU5ZGEzYjFiMTljZWZiNmQ0M2IzZmExM2M3OWQzY2QwYmE3`

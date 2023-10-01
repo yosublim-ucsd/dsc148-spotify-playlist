@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 396142,
       "name": "Sur la pointe des pieds",
       "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
@@ -2316,6 +2316,24 @@
       "duration_ms": 241966,
       "name": "whatwasthatwine",
       "url": "https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H"
+    },
+    {
+      "album": {
+        "name": "whatwasthatwine",
+        "url": "https://open.spotify.com/album/2gggdOGcGb8orDwBnoZOUQ"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241966,
+      "name": "whatwasthatwine",
+      "url": "https://open.spotify.com/track/7L9jN9F0tAueWTIksHQqEY"
     },
     {
       "album": {

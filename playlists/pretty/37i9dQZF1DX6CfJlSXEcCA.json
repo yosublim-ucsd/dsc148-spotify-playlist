@@ -1,12 +1,12 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 31062,
+  "num_followers": 31113,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTM2MTE5NjVmYzgxNGNmMDZmZTZiYmFhOTFjOTJlMmE2MmJlZTFl",
+  "snapshot_id": "MCw3ZjExMDNlZDExMDc0Mzk4NTM0NzE1MjJkZjA4MDk5NDc2NmJiNjNi",
   "tracks": [
     {
       "added_at": "2021-06-30 15:18:23",
@@ -63,22 +63,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6XX",
-        "url": "https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8"
-      },
-      "artists": [
-        {
-          "name": "\u88cf\u8c37\u73b2\u592e",
-          "url": "https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "\u9280\u7ffc\u306e\u51f6\u661f \u301c \u30d0\u30eb\u30d5\u30a1\u30eb\u30af",
-      "url": "https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "Crimson Cloud",
         "url": "https://open.spotify.com/album/2V1hViF311H8XX1104K3i4"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 289095,
       "name": "Crimson Cloud",
       "url": "https://open.spotify.com/track/0Uiqplbhwnvl9txEppdWJv"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6XX",
+        "url": "https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8"
+      },
+      "artists": [
+        {
+          "name": "\u88cf\u8c37\u73b2\u592e",
+          "url": "https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "\u9280\u7ffc\u306e\u51f6\u661f \u301c \u30d0\u30eb\u30d5\u30a1\u30eb\u30af",
+      "url": "https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -135,22 +135,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "DEVIL MAY CRY 5 Original SoundTrack",
-        "url": "https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe"
+        "name": "RESIDENT EVIL 7 biohazard Original Soundtrack",
+        "url": "https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL"
       },
       "artists": [
         {
-          "name": "Yoshiya Terayama",
-          "url": "https://open.spotify.com/artist/6QqEt1hkxnHA0sYiVrU0Dq"
+          "name": "Michael A. Levine",
+          "url": "https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND"
         },
         {
-          "name": "Casey Edwards",
-          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
+          "name": "Jordan Reyne",
+          "url": "https://open.spotify.com/artist/2yafXsdiWqzr4iDmqVZ2le"
         }
       ],
-      "duration_ms": 147698,
-      "name": "Devil Trigger - Opening Remix",
-      "url": "https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS"
+      "duration_ms": 174998,
+      "name": "Go Tell Aunt Rhody -Resident Evil- - Full Version",
+      "url": "https://open.spotify.com/track/6eHVQKLIHMF7mei6j1gbBM"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -171,22 +171,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "RESIDENT EVIL 7 biohazard Original Soundtrack",
-        "url": "https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL"
+        "name": "DEVIL MAY CRY 5 Original SoundTrack",
+        "url": "https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe"
       },
       "artists": [
         {
-          "name": "Michael A. Levine",
-          "url": "https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND"
+          "name": "Yoshiya Terayama",
+          "url": "https://open.spotify.com/artist/6QqEt1hkxnHA0sYiVrU0Dq"
         },
         {
-          "name": "Jordan Reyne",
-          "url": "https://open.spotify.com/artist/2yafXsdiWqzr4iDmqVZ2le"
+          "name": "Casey Edwards",
+          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
         }
       ],
-      "duration_ms": 174998,
-      "name": "Go Tell Aunt Rhody -Resident Evil- - Full Version",
-      "url": "https://open.spotify.com/track/6eHVQKLIHMF7mei6j1gbBM"
+      "duration_ms": 147698,
+      "name": "Devil Trigger - Opening Remix",
+      "url": "https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -291,18 +291,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "STREET FIGHTER V ARCADE EDITION ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/4wx1coZnnXhhoCGBicDWFa"
+        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
       },
       "artists": [
         {
-          "name": "Masahiro Aoki",
-          "url": "https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki"
+          "name": "Masakazu Sugimori",
+          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
         }
       ],
-      "duration_ms": 252133,
-      "name": "Theme of Guile",
-      "url": "https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO"
+      "duration_ms": 161133,
+      "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
+      "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -323,18 +323,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq"
+        "name": "STREET FIGHTER V ARCADE EDITION ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/4wx1coZnnXhhoCGBicDWFa"
       },
       "artists": [
         {
-          "name": "Masakazu Sugimori",
-          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
+          "name": "Masahiro Aoki",
+          "url": "https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki"
         }
       ],
-      "duration_ms": 161133,
-      "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
-      "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
+      "duration_ms": 252133,
+      "name": "Theme of Guile",
+      "url": "https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -643,6 +643,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "duration_ms": 345666,
+      "name": "Staff & Credits",
+      "url": "https://open.spotify.com/track/0glg0lhZFpn5oPz5YDtf83"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "Ghosts 'n Goblins Resurrection Original Soundtrack",
         "url": "https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 102607,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/3Rv6dMArRUGv7X2JzpGgbe"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "Resident Evil 3 Special Soundtrack",
-        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
-      },
-      "artists": [
-        {
-          "name": "Masami Ueda",
-          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
-        }
-      ],
-      "duration_ms": 345666,
-      "name": "Staff & Credits",
-      "url": "https://open.spotify.com/track/0glg0lhZFpn5oPz5YDtf83"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -763,6 +763,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "duration_ms": 338026,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/6EKwFfps4FEnXfqjAednwm"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
         "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 102588,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/4WLG39EfWheywWdmo4exqh"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "Resident Evil 3 Special Soundtrack",
-        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
-      },
-      "artists": [
-        {
-          "name": "Masami Ueda",
-          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
-        }
-      ],
-      "duration_ms": 338026,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/6EKwFfps4FEnXfqjAednwm"
     },
     {
       "added_at": "2021-06-30 15:18:23",

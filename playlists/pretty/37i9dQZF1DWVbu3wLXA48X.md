@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Del Water Gap
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,323 likes - 88 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,332 likes - 88 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 87 | [Space Invader](https://open.spotify.com/track/7eP181rqgdCB0q9HD4BzMK) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Space Invader](https://open.spotify.com/album/3NYiaVQ8wD0rx56fMcAaFG) | 6:58 |
 | 88 | [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 |
 
-Snapshot ID: `MCxkMmU3NmI5NWVjNGY2Yzg0ZmM0MGE0NTZmYTE3ZmVlZDJlYmQwMTcz`
+Snapshot ID: `MCw4M2UwNmZhYzMxZGEzMzNhNTI0NzVhOWZkMjZlYWZiMjc4ZmYxNWNj`

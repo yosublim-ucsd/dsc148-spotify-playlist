@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-528 songs - 1 day 4 hr 59 min
+529 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,8 @@
 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 | 2023-03-03 |  |
 | [In Your Eyes](https://open.spotify.com/track/46aSz462xUFxA5X4O6WlB0) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/68HLpLmCtvFKUqwQpUCqwn) | 4:07 | 2021-12-15 | 2022-07-29 |
 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 | 2022-06-30 | 2023-03-25 |
-| [Insecure](https://open.spotify.com/track/7EUuhh62g6QUoLh1etEBfS) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Daydreams & Endless Nights](https://open.spotify.com/album/5a1zVo7jV6ctwLQt2vqAFb) | 4:01 | 2023-06-16 |  |
+| [In Your Own Home](https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:08 | 2023-09-29 |  |
+| [Insecure](https://open.spotify.com/track/7EUuhh62g6QUoLh1etEBfS) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Daydreams & Endless Nights](https://open.spotify.com/album/5a1zVo7jV6ctwLQt2vqAFb) | 4:01 | 2023-06-16 | 2023-10-01 |
 | [Inside Out](https://open.spotify.com/track/5K0kxnRaObm0I8ocGBE0pA) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Inside Out](https://open.spotify.com/album/1vt7X7XyjmXidzZqmL8Sz2) | 2:33 | 2023-08-11 |  |
 | [Intense](https://open.spotify.com/track/5UGuFkPQl7p6dmhZuPPaT9) | [Cero Ismael](https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo) | [Blue Man](https://open.spotify.com/album/3CP4mtGs1g4EuhVaaHtFnE) | 2:21 | 2021-12-15 | 2022-07-29 |
 | [Intimate](https://open.spotify.com/track/3xuPUpjqfUsrninuhRhs5K) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Intimate](https://open.spotify.com/album/3B2c2NCZnXAOivUJyIUMTn) | 4:32 | 2023-07-14 | 2023-08-05 |

@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 125987,
+  "num_followers": 126010,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODk0NzUwNDlhYTNlNGJjMmM3MmIzNmYzOWZiOTgyZmIwMTkxYjRm",
+  "snapshot_id": "MCxkZWE3NmQwNWFjOGE3ZWQ3OTJiN2E5OTQyNTBkMjMwMmIwNDllZGEw",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Le top des Andes (Les plus grands th\u00e8mes \u00e0 la fl\u00fbte des Andes)",
-        "url": "https://open.spotify.com/album/5SKiECHgu0Zs1cqIR8HJls"
-      },
-      "artists": [
-        {
-          "name": "Los Koyas",
-          "url": "https://open.spotify.com/artist/24zoa2n32fPZwVJoGOr9xC"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "El Canto del Cuculi",
-      "url": "https://open.spotify.com/track/4bg6qNjRS1WaD1GrPV6zZm"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 228026,
       "name": "Relato",
       "url": "https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Le top des Andes (Les plus grands th\u00e8mes \u00e0 la fl\u00fbte des Andes)",
+        "url": "https://open.spotify.com/album/5SKiECHgu0Zs1cqIR8HJls"
+      },
+      "artists": [
+        {
+          "name": "Los Koyas",
+          "url": "https://open.spotify.com/artist/24zoa2n32fPZwVJoGOr9xC"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "El Canto del Cuculi",
+      "url": "https://open.spotify.com/track/4bg6qNjRS1WaD1GrPV6zZm"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Flutes Indiennes",
-        "url": "https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF"
-      },
-      "artists": [
-        {
-          "name": "Los Incas",
-          "url": "https://open.spotify.com/artist/0XgSqpsOieBTVS8WooknPG"
-        }
-      ],
-      "duration_ms": 125346,
-      "name": "Recuerdos de Calahuayo (Peru)",
-      "url": "https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Ch'usay",
         "url": "https://open.spotify.com/album/5KNsxBQPRUBeAG0WVdHXNG"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Morena Esperanza (Remasterizado)",
-        "url": "https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY"
+        "name": "Flutes Indiennes",
+        "url": "https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF"
       },
       "artists": [
         {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+          "name": "Los Incas",
+          "url": "https://open.spotify.com/artist/0XgSqpsOieBTVS8WooknPG"
         }
       ],
-      "duration_ms": 266080,
-      "name": "Isla Negra",
-      "url": "https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn"
+      "duration_ms": 125346,
+      "name": "Recuerdos de Calahuayo (Peru)",
+      "url": "https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -599,6 +583,22 @@
       "duration_ms": 218752,
       "name": "Gemas",
       "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Morena Esperanza (Remasterizado)",
+        "url": "https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY"
+      },
+      "artists": [
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "Isla Negra",
+      "url": "https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Encuentros (Meetings)",
+        "url": "https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL"
+      },
+      "artists": [
+        {
+          "name": "Sukay",
+          "url": "https://open.spotify.com/artist/45MEz7t5DAOmX0o8fFKA3B"
+        }
+      ],
+      "duration_ms": 272840,
+      "name": "Baila Caporal",
+      "url": "https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "No Vuelvo a Amar (feat. Yuri Ortu\u00f1o Le\u00f3n, Rafael Arias Paz, Orlando Jim\u00e9nez, Ra\u00fal Muriel) [Bolivia y Su Folklore]",
         "url": "https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Encuentros (Meetings)",
-        "url": "https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL"
-      },
-      "artists": [
-        {
-          "name": "Sukay",
-          "url": "https://open.spotify.com/artist/45MEz7t5DAOmX0o8fFKA3B"
-        }
-      ],
-      "duration_ms": 272840,
-      "name": "Baila Caporal",
-      "url": "https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "A Journey To The Andes",
         "url": "https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 296560,
       "name": "Cacharpaya Del Indio",
       "url": "https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Viento en los Andes",
-        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
-      },
-      "artists": [
-        {
-          "name": "Inkaquenas",
-          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "V\u00edrgenes del Sol",
-      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -771,6 +755,22 @@
       "duration_ms": 208170,
       "name": "Arriba Quemando el Sol",
       "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Viento en los Andes",
+        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
+      },
+      "artists": [
+        {
+          "name": "Inkaquenas",
+          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "V\u00edrgenes del Sol",
+      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
     },
     {
       "added_at": "2023-09-29 18:58:26",

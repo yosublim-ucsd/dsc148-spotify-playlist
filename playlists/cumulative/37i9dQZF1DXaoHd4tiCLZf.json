@@ -240,10 +240,32 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 230350,
       "name": "Beach Break - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/2T9JWHvTNoonWl7TCGsz1R"
+    },
+    {
+      "album": {
+        "name": "Smooth Sailing (Remixes)",
+        "url": "https://open.spotify.com/album/1OXFXiNZkQTXJLtIpghhHG"
+      },
+      "artists": [
+        {
+          "name": "Julietta",
+          "url": "https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230350,
+      "name": "Beach Break - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/6u7jxf89VKJ3VfrNojSHJ8"
     },
     {
       "album": {

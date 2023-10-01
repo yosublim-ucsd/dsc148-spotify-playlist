@@ -1,12 +1,12 @@
 {
   "description": "Time for some anger management? Let's get it out!",
-  "num_followers": 285589,
+  "num_followers": 285839,
   "original_name": "life sucks...i need some rock!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTA2MTQxODg0ZmQ0OWY4NzNjNTlkN2NjMjczOWYxMzQyMjljNTdl",
+  "snapshot_id": "MCwwN2Q0ZDU4ODFhOTVlNDBiNzJhY2UzOWQ3ZDYxZmUxNDhkNGRiZTYx",
   "tracks": [
     {
       "added_at": "2023-09-28 07:33:18",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "Wretched and Divine: The Story Of The Wild Ones",
-        "url": "https://open.spotify.com/album/0wcIOEo1iicfaxxCRgULOO"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 228280,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/1RTYixE1DD3g3upEpmCJpa"
-    },
-    {
-      "added_at": "2023-09-28 07:33:18",
-      "album": {
         "name": "Greatest Hits: God's Favorite Band",
         "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 232680,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/4VgEM12OeaN3GyBV487Me7"
+    },
+    {
+      "added_at": "2023-09-28 07:33:18",
+      "album": {
+        "name": "Wretched and Divine: The Story Of The Wild Ones",
+        "url": "https://open.spotify.com/album/0wcIOEo1iicfaxxCRgULOO"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/1RTYixE1DD3g3upEpmCJpa"
     },
     {
       "added_at": "2023-09-28 07:33:18",

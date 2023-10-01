@@ -1,12 +1,12 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 6573,
+  "num_followers": 6579,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzQ4NmE0MTgzMjc5NWFkZWZjMDY1NDhiZTJlMWU1ZWQwNThkZjU2",
+  "snapshot_id": "MCxjNzEwNjAxNDgxNjgyNzBkYTJiYzZjMDZmNzYyMGI0OTMyMGI2YzFj",
   "tracks": [
     {
       "added_at": "2022-07-11 22:00:28",
@@ -691,18 +691,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To"
+        "name": "Yo Soy Franky (M\u00fasica Original de la Serie)",
+        "url": "https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F"
       },
       "artists": [
         {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+          "name": "Maria Gabriela de Faria",
+          "url": "https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv"
         }
       ],
-      "duration_ms": 69870,
-      "name": "\u00a1Qu\u00e9 empiece ya!",
-      "url": "https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP"
+      "duration_ms": 193109,
+      "name": "Ritmo Rob\u00f3tico",
+      "url": "https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -723,18 +723,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Yo Soy Franky (M\u00fasica Original de la Serie)",
-        "url": "https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F"
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To"
       },
       "artists": [
         {
-          "name": "Maria Gabriela de Faria",
-          "url": "https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv"
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
         }
       ],
-      "duration_ms": 193109,
-      "name": "Ritmo Rob\u00f3tico",
-      "url": "https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV"
+      "duration_ms": 69870,
+      "name": "\u00a1Qu\u00e9 empiece ya!",
+      "url": "https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -879,22 +879,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Vacaciones \u00a1Tope guay!",
-        "url": "https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb"
-      },
-      "artists": [
-        {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Mi mam\u00e1",
-      "url": "https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "La Casita de Patylu",
         "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
       },
@@ -927,6 +911,38 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "\u00a1Fantastico!",
+        "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
+      },
+      "artists": [
+        {
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Los Numeros",
+      "url": "https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Vacaciones \u00a1Tope guay!",
+        "url": "https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Mi mam\u00e1",
+      "url": "https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Rondas y Cl\u00e1sicos Infantiles 2",
         "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 98226,
       "name": "Feliz En Tu D\u00eda",
       "url": "https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "24 Horas",
-        "url": "https://open.spotify.com/album/3dPdREEhxWnXBcVDcl90Ea"
-      },
-      "artists": [
-        {
-          "name": "Chiquititas",
-          "url": "https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ"
-        }
-      ],
-      "duration_ms": 158986,
-      "name": "Mal\u00edsima",
-      "url": "https://open.spotify.com/track/1wmcsShYTSot5sc8tC0xA9"
     }
   ],
   "unique_name": "Cantando con tus Favoritos",

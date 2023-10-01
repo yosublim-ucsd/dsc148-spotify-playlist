@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 570534,
+  "num_followers": 570721,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTZkZDVkYmY5ZTljMTFmOTgyZjIzNDdhNTQ1NTNmYzkwMWJmZmNm",
+  "snapshot_id": "MCw0OTI2YzFhZTVmMTUwNDhjNDgwODg1MmIzNGE2ZWY4YmQ0YzQ2MTk5",
   "tracks": [
     {
       "added_at": "2023-09-20 04:45:11",
@@ -1083,6 +1083,30 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
+        "name": "Ini Bukan Nosstress",
+        "url": "https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy"
+      },
+      "artists": [
+        {
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        },
+        {
+          "name": "Dadang Sh Pranoto",
+          "url": "https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3"
+        },
+        {
+          "name": "Deny Surya",
+          "url": "https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf"
+        }
+      ],
+      "duration_ms": 213240,
+      "name": "Semoga, Ya",
+      "url": "https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN"
+    },
+    {
+      "added_at": "2023-09-20 04:45:11",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/4BrYZTc42JRwe1QuHIPapy"
       },
@@ -1115,30 +1139,6 @@
       "duration_ms": 245400,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
-    },
-    {
-      "added_at": "2023-09-20 04:45:11",
-      "album": {
-        "name": "Ini Bukan Nosstress",
-        "url": "https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy"
-      },
-      "artists": [
-        {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
-        },
-        {
-          "name": "Dadang Sh Pranoto",
-          "url": "https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3"
-        },
-        {
-          "name": "Deny Surya",
-          "url": "https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf"
-        }
-      ],
-      "duration_ms": 213240,
-      "name": "Semoga, Ya",
-      "url": "https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN"
     },
     {
       "added_at": "2023-09-20 04:45:11",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
+        "name": "Perspektif Bodoh, Vol. 2",
+        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
+      },
+      "artists": [
+        {
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        }
+      ],
+      "duration_ms": 308349,
+      "name": "Pegang Tanganku",
+      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
+    },
+    {
+      "added_at": "2023-09-20 04:45:11",
+      "album": {
         "name": "Ego & Fungsi Otak",
         "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
       },
@@ -1235,26 +1251,6 @@
       "duration_ms": 234914,
       "name": "Pupus",
       "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"
-    },
-    {
-      "added_at": "2023-09-20 04:45:11",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
-      },
-      "artists": [
-        {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
-        },
-        {
-          "name": "Monita Tahalea",
-          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Bicara (feat. Monita Tahalea)",
-      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
     }
   ],
   "unique_name": "Kopikustik",

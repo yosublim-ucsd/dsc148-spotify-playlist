@@ -1552,10 +1552,32 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 339692,
       "name": "KGF Monster",
       "url": "https://open.spotify.com/track/0QsxHp0eiG7gtF6FojQkLO"
+    },
+    {
+      "album": {
+        "name": "KGF Monster (Feat. Hyde Karty)",
+        "url": "https://open.spotify.com/album/1aw8cbgv7QmfhlNhidMSW7"
+      },
+      "artists": [
+        {
+          "name": "Hustler Bhai",
+          "url": "https://open.spotify.com/artist/6nTrUONhTLf2LgPZ8iukC2"
+        },
+        {
+          "name": "Hyde Karty",
+          "url": "https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339692,
+      "name": "KGF Monster (Feat. Hyde Karty)",
+      "url": "https://open.spotify.com/track/6WYgkpEj8lN6jnqrFD3Y83"
     },
     {
       "album": {
@@ -2572,6 +2594,28 @@
       "duration_ms": 128052,
       "name": "Out Of Control",
       "url": "https://open.spotify.com/track/2ElFXmhQvdpLChh7uv3HgB"
+    },
+    {
+      "album": {
+        "name": "PAGADI",
+        "url": "https://open.spotify.com/album/0FWY2AQIQueLWGpOrmjUzf"
+      },
+      "artists": [
+        {
+          "name": "Prabath G.",
+          "url": "https://open.spotify.com/artist/0AFm8YfBJDCBkKaQD7pkWd"
+        },
+        {
+          "name": "Matt Jay",
+          "url": "https://open.spotify.com/artist/2wGYgm6CpO9bElcikcDTvh"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184620,
+      "name": "PAGADI",
+      "url": "https://open.spotify.com/track/7LxIAVGEQSi2tcytd7xyJu"
     },
     {
       "album": {

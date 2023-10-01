@@ -368,7 +368,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 292691,
       "name": "Back Once",
       "url": "https://open.spotify.com/track/1Gp13Xovwsy9de6qZDynOv"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 335569,
       "name": "Cross Polarity",
       "url": "https://open.spotify.com/track/2XRCWJ4ETKWRaWTTb9C3XH"
@@ -2640,6 +2640,24 @@
       "duration_ms": 211862,
       "name": "False Angel",
       "url": "https://open.spotify.com/track/5yvNQcSjq21zPFBUaQvJvh"
+    },
+    {
+      "album": {
+        "name": "HEART",
+        "url": "https://open.spotify.com/album/1wuT5qplvTKGVzHNGaCFiU"
+      },
+      "artists": [
+        {
+          "name": "Ravenscoon",
+          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/2tA7U8NrJwkZsReqx9OSBD"
     },
     {
       "album": {
@@ -3880,6 +3898,24 @@
       "duration_ms": 290575,
       "name": "Instinct",
       "url": "https://open.spotify.com/track/16GjRPeu5rITWoEPcJqm5S"
+    },
+    {
+      "album": {
+        "name": "Internet G",
+        "url": "https://open.spotify.com/album/3qKhqPPWMjqi8x8N6C2PXk"
+      },
+      "artists": [
+        {
+          "name": "Infekt",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177103,
+      "name": "Internet G",
+      "url": "https://open.spotify.com/track/0WfQUDK0wxEjecrAzQL84y"
     },
     {
       "album": {
@@ -6371,6 +6407,28 @@
     },
     {
       "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/78tirUQlTQeqiZpTyXdXkO"
+      },
+      "artists": [
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        },
+        {
+          "name": "FLY",
+          "url": "https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/5g7gJzOgSt8iujy6DORM50"
+    },
+    {
+      "album": {
         "name": "Purple City / Re-Up",
         "url": "https://open.spotify.com/album/4sgN1XtBJLaE06fcqo5SoV"
       },
@@ -6898,7 +6956,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 260000,
       "name": "Ride Out",
       "url": "https://open.spotify.com/track/5NjFTKQe08qkzfYIYg2hMf"

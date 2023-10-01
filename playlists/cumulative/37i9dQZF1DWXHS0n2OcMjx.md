@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-493 songs - 18 hr 39 min
+495 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Camden](https://open.spotify.com/track/0lqhcmKE55QRrNhiioofSU) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [Camden](https://open.spotify.com/album/3VzmyFeQ23wtK1hSM3Fdlq) | 2:53 | 2023-09-22 |  |
 | [Candlestick Oasis](https://open.spotify.com/track/4dN47mXIJJOj4b7qRJ1zQf) | [Convoy Gold](https://open.spotify.com/artist/5ZEKAN1x3N50gFfs6VXTXC) | [Under the Leaden Sky](https://open.spotify.com/album/0f8gMNOxgUraGCPFeuWzFm) | 3:14 | 2022-04-08 | 2023-09-23 |
 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 | 2022-04-08 | 2023-09-23 |
+| [cashmere](https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [cashmere](https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y) | 2:22 | 2023-09-29 |  |
 | [Change Ain't Bad](https://open.spotify.com/track/1GLHd8HvaMTaul0CR0YlYo) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Lagom](https://open.spotify.com/album/4k7Eh3WH907ikJlxC5B0C4) | 2:06 | 2022-04-08 | 2023-09-23 |
 | [Chasing Clouds](https://open.spotify.com/track/1BzbkoI0867xFsfy1tBwFm) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Tour Bus](https://open.spotify.com/album/3c4bZOR7st6OBpOVvyT4n0) | 2:54 | 2022-04-08 | 2023-09-23 |
 | [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2023-09-22 |  |
@@ -192,7 +193,7 @@
 | [Hello, Beautiful](https://open.spotify.com/track/0EZBeSP6JhQ9tiZRkm45wE) | [Nostalgique](https://open.spotify.com/artist/0vQZ3ouldVTGqaF2RJCr6O) | [Hello, Beautiful](https://open.spotify.com/album/2visBkenZRm39wKPaCd5kh) | 1:16 | 2022-04-08 | 2023-09-23 |
 | [Highway to Shell](https://open.spotify.com/track/1h9AZqUiuQWbnpbUiR3olP) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Highway to Shell](https://open.spotify.com/album/61ClakUBMQ1Efqa4wolbNs) | 2:20 | 2023-09-22 |  |
 | [Hollow Park](https://open.spotify.com/track/05ULKBGbXdbVpqqokRTkEp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Hollow Park](https://open.spotify.com/album/0O0bs1ShYyAYFuJaqIuNur) | 2:06 | 2022-04-08 | 2023-09-09 |
-| [hologram](https://open.spotify.com/track/2Qnhb9gXqGZduGAlrygUQq) | [Purple Yard](https://open.spotify.com/artist/2MzcjX0qbx7Q41aerLazxm) | [hologram](https://open.spotify.com/album/5aBqi2jCXOrBx3XMAUdzcc) | 2:25 | 2023-09-22 |  |
+| [hologram](https://open.spotify.com/track/2Qnhb9gXqGZduGAlrygUQq) | [Purple Yard](https://open.spotify.com/artist/2MzcjX0qbx7Q41aerLazxm) | [hologram](https://open.spotify.com/album/5aBqi2jCXOrBx3XMAUdzcc) | 2:25 | 2023-09-22 | 2023-10-01 |
 | [Hong Kong Minute](https://open.spotify.com/track/3M0fRULm8Js8oHwiO9Cjod) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Hong Kong Minute](https://open.spotify.com/album/3DLhD7vymFXPYWscCRM7yW) | 2:17 | 2022-04-08 | 2023-09-09 |
 | [Horizon Butterfly](https://open.spotify.com/track/0vdB56ot3Tp0xHxnU7kyCy) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [HoriZon Butterfly](https://open.spotify.com/album/1eMCCzTeBEiYL5cInuxSmp) | 2:00 | 2023-09-22 |  |
 | [Horizon mind](https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Horizon mind](https://open.spotify.com/album/4DPxwX7Ixo2SMiIQdUSXwE) | 3:16 | 2022-04-08 | 2023-09-23 |
@@ -300,6 +301,7 @@
 | [no worriezz](https://open.spotify.com/track/1cOQS9uGWr6LzyeL9f1J4T) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [no worriezz](https://open.spotify.com/album/1EqH35TFaYcbVsqicNh55p) | 2:30 | 2023-09-22 |  |
 | [November Moon](https://open.spotify.com/track/0uHyGjgAYXgJ20JRf4XWv8) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [November Moon](https://open.spotify.com/album/15KPuUA4hdzpfckOaOWdHL) | 1:48 | 2023-09-22 |  |
 | [Nutmeg](https://open.spotify.com/track/5FdgWHIy3LsIoRzCOJ4jg1) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [flavors](https://open.spotify.com/album/37KIKJXw7K7YQP4LE8CbTd) | 2:04 | 2022-04-08 | 2023-09-23 |
+| [Oasis](https://open.spotify.com/track/0H5Ev0vFWpqqLlWAwfUpOC) | [Kival](https://open.spotify.com/artist/4mYPgSEfNEHOG0QfdJuMwp) | [Oasis](https://open.spotify.com/album/6nQNTDHsAzKwD63yJ8znXV) | 2:44 | 2023-09-29 |  |
 | [ocean bottoms](https://open.spotify.com/track/03BLHbz3ewlSoQ9zCRUAwT) | [downstairs lantern](https://open.spotify.com/artist/2GgvGeqAhfmu6alzb4ZlTY) | [ocean bottoms](https://open.spotify.com/album/6G8lHNQtrS9cLDNt9gGRrt) | 1:56 | 2022-04-08 | 2023-09-23 |
 | [Ocean Lotion](https://open.spotify.com/track/4VBvjfvn2KBvbxxwjRgGPX) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Studsa](https://open.spotify.com/album/07B3Ofbtg46ept8DpOSaYL) | 2:16 | 2022-04-08 | 2023-09-23 |
 | [odd bob](https://open.spotify.com/track/4INF4AAXXTFJooaSr9PZep) | [Embassay](https://open.spotify.com/artist/7inQZsZhHZBxBN9CGZ3YXt) | [odd bob](https://open.spotify.com/album/7rTkxxIb1FPCBHwz4u0hkz) | 1:30 | 2022-04-08 | 2023-09-23 |
@@ -320,7 +322,7 @@
 | [Parallax](https://open.spotify.com/track/2wtAveNu0CDS788jUw9vT1) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Parallax](https://open.spotify.com/album/2REZP9taA539SwDMnWd8TZ) | 2:57 | 2023-09-22 |  |
 | [Paths](https://open.spotify.com/track/6WnOk6l8nfYrGKWwO2JHuz) | [N.Musicbeatz](https://open.spotify.com/artist/2M86Cziok8vbyZdioTtLtw) | [Paths](https://open.spotify.com/album/5VksEj9dhemS3fRLqs27Mz) | 2:47 | 2022-04-08 | 2022-04-22 |
 | [patience](https://open.spotify.com/track/581rS6GEc0dfjRtCZVWuIt) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [patience](https://open.spotify.com/album/1xTdPMruyTcfBsp53Ot5ch) | 2:05 | 2023-09-22 |  |
-| [Patio](https://open.spotify.com/track/0OaFl9EiO0GTPE7FCqFJAa) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [Patio](https://open.spotify.com/album/2ti0MLxyo7TrDZi5r1mheh) | 1:33 | 2023-09-22 |  |
+| [Patio](https://open.spotify.com/track/0OaFl9EiO0GTPE7FCqFJAa) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [Patio](https://open.spotify.com/album/2ti0MLxyo7TrDZi5r1mheh) | 1:33 | 2023-09-22 | 2023-10-01 |
 | [pato blanco](https://open.spotify.com/track/4qADdUyjAppU2XT7yKfBcg) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [pato blanco](https://open.spotify.com/album/6cHb1vrthw4soBUxtTGDH5) | 2:24 | 2023-09-22 |  |
 | [Paulie Walnut](https://open.spotify.com/track/6RInRXWilsEVQrob1Tunl9) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Paulie Walnut](https://open.spotify.com/album/3MbL1zYnCVR3SP5VetBQ07) | 2:10 | 2023-09-22 |  |
 | [Peaceful Ghost](https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY) | [Peaceful Ghost](https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx) | 2:21 | 2023-09-22 |  |

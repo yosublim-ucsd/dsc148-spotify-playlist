@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Pass It On Down",
+        "url": "https://open.spotify.com/album/6VLp6e4Bxv03KOfrDQ7IsM"
+      },
+      "artists": [
+        {
+          "name": "Chris Beard",
+          "url": "https://open.spotify.com/artist/6pDY9BEQMQQrLdfY6zvrSR"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313447,
+      "name": "Son I Never Knew",
+      "url": "https://open.spotify.com/track/3Wjk0hGlJVw2lnEL3ZC0x8"
+    },
+    {
+      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -1976,7 +1994,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 320133,
       "name": "Wrong Kind of Lovin",
       "url": "https://open.spotify.com/track/1X7Dw4CtOV3nJcmPvrX2af"

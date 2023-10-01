@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x Dash Berlin x Vikkstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,402 likes - 77 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,501 likes - 77 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 76 | [LIGHT ONLY \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/3GBtth3plMGZNSjHDmDCIk) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [EXISTENTIAL DANCE MUSIC](https://open.spotify.com/album/08B5vetD5dOlXKwFSDF4xz) | 4:01 |
 | 77 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 
-Snapshot ID: `MCwxYmZmYjVmODEzZjg2YmRkMTI2MTI3MjJjMTAxYmRiYjc1ZDM1YTJj`
+Snapshot ID: `MCwxNzU3ODk1N2I0NjI1NGE0OTlhY2JiNzZiNTc0MTAzNDA0MjQ3ODZm`

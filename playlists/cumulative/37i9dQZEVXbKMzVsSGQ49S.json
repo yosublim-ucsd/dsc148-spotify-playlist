@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 211250,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
@@ -5264,7 +5264,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 150857,
       "name": "Deseydin Anlard\u0131m",
       "url": "https://open.spotify.com/track/4hEOOThHrSHJrpkIXn1Ab2"
@@ -5502,7 +5502,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 105222,
       "name": "Dimension Change",
       "url": "https://open.spotify.com/track/5tbE97IP6NpkgFMFyGsGjG"
@@ -6230,7 +6230,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 199120,
       "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
       "url": "https://open.spotify.com/track/2TZPzARd9RFm1MXAeRkHvY"
@@ -6780,7 +6780,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 273473,
       "name": "El Final - Remix",
       "url": "https://open.spotify.com/track/2JBdEfaJGjKAkkGGZn1Iad"
@@ -7394,7 +7394,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 432613,
       "name": "E\u00f0a?",
       "url": "https://open.spotify.com/track/1shnvybhQIlWY5A2VcPBcE"
@@ -7518,7 +7518,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 229627,
       "name": "Face-off",
       "url": "https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy"
@@ -7850,7 +7850,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -10516,7 +10516,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
@@ -12668,7 +12668,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 130996,
       "name": "Interlude : Dive",
       "url": "https://open.spotify.com/track/2qg2jy3v50RwfV5FAqG3a2"
@@ -13682,6 +13682,24 @@
       "duration_ms": 330000,
       "name": "Kenndu m\u00e9r",
       "url": "https://open.spotify.com/track/2qhJLCNX4mfW5HmPEwz1oq"
+    },
+    {
+      "album": {
+        "name": "KENNI SJ\u00c1LFUM M\u00c9R UM",
+        "url": "https://open.spotify.com/album/3t3aQv2tirGBfURLRkx1N4"
+      },
+      "artists": [
+        {
+          "name": "Izleifur",
+          "url": "https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138701,
+      "name": "KENNI SJ\u00c1LFUM M\u00c9R UM",
+      "url": "https://open.spotify.com/track/48Yz4NPkO21S5DOawoXFTA"
     },
     {
       "album": {
@@ -14888,7 +14906,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -14906,7 +14924,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
@@ -23973,6 +23991,24 @@
     },
     {
       "album": {
+        "name": "Stingi\u00f0 henni \u00ed steininn",
+        "url": "https://open.spotify.com/album/3OqkmInmQMPZKHsvV0jNE2"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191927,
+      "name": "Stingi\u00f0 henni \u00ed steininn",
+      "url": "https://open.spotify.com/track/4FO7upk8MhVmHTs4GQ4Wdg"
+    },
+    {
+      "album": {
         "name": "Stj\u00f6rnul\u00edfi\u00f0",
         "url": "https://open.spotify.com/album/0jEfYrVeezQTikNmZTHzQE"
       },
@@ -27056,7 +27092,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 194127,
       "name": "Vinn Vi\u00f0 \u00dea\u00f0",
       "url": "https://open.spotify.com/track/0yecDQdx8NxpvcswRJM6uh"
@@ -30046,7 +30082,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 220783,
       "name": "\u00de\u00fasund hj\u00f6rtu",
       "url": "https://open.spotify.com/track/1W6mzbheNeBCNWv2KjcaVe"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Yago Oproprio
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,632 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,688 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 5 | [Já É Tarde](https://open.spotify.com/track/2Et0DMAf1syfTEazKYcA7d) | [Supperbiro](https://open.spotify.com/artist/2LY4vuWOg5mNDMGjN2Byjt), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [ALLANA](https://open.spotify.com/artist/6HDbz8r8C8Rr5XQO1uHslV) | [Fitas Perdidas](https://open.spotify.com/album/0Q7DsXc72gYQHUgxGuU7JF) | 4:03 |
 | 6 | [Jazz de Favela](https://open.spotify.com/track/3X6QpopA34zcqsW5DWeKOZ) | [Coronel](https://open.spotify.com/artist/7C6lpxEHiYsZX2013VmXXe) | [Jazz de Favela](https://open.spotify.com/album/6hvR5yED5kQXqXS8N6FrSc) | 2:37 |
 | 7 | [RUMO](https://open.spotify.com/track/3ZbpXNjqqnval0JHQjZflU) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [REAL PS](https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I) | [Las Delicias de La Abuela de Lucas](https://open.spotify.com/album/1fW9AwbqWNwcRLTSlkYw2E) | 2:51 |
-| 8 | [Sal](https://open.spotify.com/track/1M3Us9lbRcrWidPuO812ew) | [chamat](https://open.spotify.com/artist/0q1c6x3yJ4bZ8gFs6jmeCG) | [Sal](https://open.spotify.com/album/5TrDaGivu36WxNvbBZJr3b) | 3:25 |
+| 8 | [Sal](https://open.spotify.com/track/1M3Us9lbRcrWidPuO812ew) | [chamat](https://open.spotify.com/artist/0q1c6x3yJ4bZ8gFs6jmeCG), [akdesacato](https://open.spotify.com/artist/4896myaVw90gVS7eTSrjPV) | [Sal](https://open.spotify.com/album/5TrDaGivu36WxNvbBZJr3b) | 3:25 |
 | 9 | [Derrubando Mitos](https://open.spotify.com/track/778sAqxvkuDcradPcXkMq9) | [Cabes](https://open.spotify.com/artist/00RYM1fJO6kr6Z2jOuD9BW), [Dj Novset](https://open.spotify.com/artist/0AcSEwWPQ2CwRkP2XjHOTD) | [Derrubando Mitos](https://open.spotify.com/album/46RozmpoySOwGPlZQvqis5) | 3:10 |
 | 10 | [PQ?](https://open.spotify.com/track/3kTBFHVkQFY12Rx8Ao2AC1) | [Rodrigo Ogi](https://open.spotify.com/artist/74DmeplOsb1zShj5BqqkbQ) | [Aleatoriamente](https://open.spotify.com/album/7mYQl9N5akPjstOuWUxS47) | 2:18 |
 | 11 | [22](https://open.spotify.com/track/5dUBA8qXLPcw3TqDoINuMg) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 3:00 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 75 | [Sobre mim](https://open.spotify.com/track/4qaOtwB4LjQv2U3UAJN5a1) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Sobre mim](https://open.spotify.com/album/6JTFaHvi9gXwJchaSRP9BK) | 3:28 |
 | 76 | [Carta pra Lucas](https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 3:01 |
 
-Snapshot ID: `MCw5MWY3NTRkN2Q1MDNjYzU4NjFlNTFhMzYxMjUzM2I3NTM1N2ZmN2M4`
+Snapshot ID: `MCwyMjkzOTRmZThjMThhMmI0ZGMwOTA3NzFiMjU4MGYzYjQyNjI5MzMy`

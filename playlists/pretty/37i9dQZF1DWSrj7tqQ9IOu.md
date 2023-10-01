@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Jeanne Bonjour
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,901 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,947 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [bb l'eau salée <3](https://open.spotify.com/track/6qMeuBJkaGj9rGDkw550pV) | [BARON.E](https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE) | [bb l'eau salée <3](https://open.spotify.com/album/7vZ6cKjPGMmx8BIlWifr0n) | 3:24 |
 | 50 | [Le plus beau spectacle](https://open.spotify.com/track/6haDeFzU2VjvjR8XRLln1F) | [Claire days](https://open.spotify.com/artist/51Vw9YWwshaKc9xqtHnNES) | [Le plus beau spectacle](https://open.spotify.com/album/7kZbRxL3VXbGOLagL7LihD) | 3:44 |
 
-Snapshot ID: `MCw0MzY2MmQ3ZTg5OWM5NWE1MzdiMGQxNzQ2YjgxYmEyZmQzZWZiNTFk`
+Snapshot ID: `MCxkMjc2NTNmMTNiY2I5M2YzZDY5Y2M1NmVhYjhjYmVlMTVhYjQ3NDgx`

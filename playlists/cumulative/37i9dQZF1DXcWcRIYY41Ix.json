@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del Siglo XXI. En portada: Gato e\u2019 Monte.",
+  "description": "La nueva ola de trovadores del Siglo XXI. En portada: Rupatrupa.",
   "name": "Cancionistas",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 402936,
       "name": "Ale",
       "url": "https://open.spotify.com/track/1yDi6XDgOuhQxE5M2q7i9Z"
@@ -1082,6 +1082,24 @@
       "duration_ms": 227166,
       "name": "Buena Suerte",
       "url": "https://open.spotify.com/track/71iaqPqdztdnNjOtbp7cd6"
+    },
+    {
+      "album": {
+        "name": "busco",
+        "url": "https://open.spotify.com/album/52gCH61zIwOUaE4XzzXJTp"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178378,
+      "name": "busco",
+      "url": "https://open.spotify.com/track/1dBasjgtFj2VtDLWDmgQQB"
     },
     {
       "album": {
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 264053,
       "name": "Cu\u00eddame",
       "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
@@ -2810,7 +2828,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 233685,
       "name": "El Incendio",
       "url": "https://open.spotify.com/track/3zS5XBRjrShQHdNEm1VBbi"
@@ -2988,6 +3006,28 @@
       "duration_ms": 181798,
       "name": "El Tiempo Est\u00e1 Despu\u00e9s",
       "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
+    },
+    {
+      "album": {
+        "name": "El Verano Que Vivimos",
+        "url": "https://open.spotify.com/album/0WNi05EyoAFBDvKdqtVmYk"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/4DzEtZMxJdNGHsIvzGILfb"
+        },
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231074,
+      "name": "El Verano Que Vivimos",
+      "url": "https://open.spotify.com/track/1LTaLoBeGVgQ9CXNhr6aXL"
     },
     {
       "album": {
@@ -3264,7 +3304,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 162373,
       "name": "Febril Pantalla",
       "url": "https://open.spotify.com/track/2CV0p6hJkxfTtYt94ukPBk"
@@ -3804,7 +3844,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 89174,
       "name": "Interludio para mi Julita",
       "url": "https://open.spotify.com/track/7HStg28f1GBPvMY1WkPVTY"
@@ -5070,7 +5110,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 244636,
       "name": "Me mudo de casa",
       "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
@@ -5110,7 +5150,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 240576,
       "name": "Me Voy a Valpara\u00edso",
       "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
@@ -7276,7 +7316,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 208509,
       "name": "San Juan",
       "url": "https://open.spotify.com/track/7CpSbpb0Rq5Yq5yMtUGLRX"
@@ -7740,7 +7780,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 232357,
       "name": "Tabaibas",
       "url": "https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ"
@@ -8236,7 +8276,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 182256,
       "name": "TRIGAL",
       "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
@@ -8598,6 +8638,24 @@
       "duration_ms": 209346,
       "name": "Uno Que Tropieza Y Cae Al Mar",
       "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
+    },
+    {
+      "album": {
+        "name": "Vals de la Luna",
+        "url": "https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190416,
+      "name": "Vals de la Luna",
+      "url": "https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t"
     },
     {
       "album": {
@@ -9104,6 +9162,24 @@
       "duration_ms": 232719,
       "name": "\u00c1mbar y el Mar",
       "url": "https://open.spotify.com/track/2htIgCfBPCV3dktlvtSSa9"
+    },
+    {
+      "album": {
+        "name": "\u00cdcaro (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/75vWmeMVI6mIJZSMAGxKSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "\u00cdcaro - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/4M0NSb0yhgjdLnUIBnMlhE"
     },
     {
       "album": {

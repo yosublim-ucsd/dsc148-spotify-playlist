@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Austin Snell
 
-324 songs - 20 hr 18 min
+325 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [From Here to the Moon and Back](https://open.spotify.com/track/4uMtJHTvF9voh8OVTeiVRd) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7), [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [From Here to the Moon and Back](https://open.spotify.com/album/55bQqkdzq925IPD7A489nN) | 4:16 | 2022-07-08 | 2022-08-02 |
 | [From Now On](https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [From Now On](https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p) | 4:02 | 2023-02-17 |  |
 | [Gentle On My Mind](https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s) | 4:05 | 2022-01-21 | 2022-07-27 |
-| [Gentle On My Mind](https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Glen Campbell I'll Be Me Soundtrack](https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa) | 3:09 | 2021-12-10 |  |
+| [Gentle On My Mind](https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Glen Campbell I'll Be Me Soundtrack](https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa) | 3:09 | 2021-12-10 | 2023-10-01 |
 | [Georgia On My Mind](https://open.spotify.com/track/0DlpK5WlWkRC4Twzzouijh) | [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC) | [Georgia On My Mind](https://open.spotify.com/album/4YQ5hWyTOmmFZzlq2ywsgM) | 3:23 | 2022-03-25 | 2022-04-21 |
 | [Ghost](https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [2022](https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC) | 2:26 | 2023-01-27 |  |
 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 | 2022-03-25 |  |
@@ -281,6 +281,7 @@
 | [The Joker](https://open.spotify.com/track/0vu6Z3bep8kpcy9O2YExzg) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 4:55 | 2021-12-10 | 2022-07-25 |
 | [The Race Is On](https://open.spotify.com/track/3kg4W7OIAVSNTLjXArK0Kn) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [The Boys Are Back](https://open.spotify.com/album/0kTRamepqCsedBSwPvaWJz) | 2:56 | 2021-12-10 | 2023-01-06 |
 | [The Ride](https://open.spotify.com/track/0i0xwuj7qKUHGotzfVckHd) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [The Ride](https://open.spotify.com/album/6brTMXkyux9WZLIdW4x40C) | 3:42 | 2023-08-18 | 2023-09-23 |
+| [The Way You Look Tonight \- Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016](https://open.spotify.com/track/0xN5D4yc3mJyU42fUzU6hC) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Way You Look Tonight \(Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016\)](https://open.spotify.com/album/2WuFm7aAOlcyGhDC4BDkLt) | 3:24 | 2023-09-29 |  |
 | [Then You Can Tell Me Goodbye \- Remastered Version](https://open.spotify.com/track/49wpeXdqjeI3rvNcVPD6jr) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [Greatest Hits](https://open.spotify.com/album/7zbPztRhDnCJfShVXL2F8C) | 3:15 | 2021-12-10 | 2022-07-29 |
 | [Things a Man Oughta Know \(Stripped\)](https://open.spotify.com/track/07WRv6TnAaqcI0UyxbljbO) | [Jason Nix](https://open.spotify.com/artist/168GW0NjbTxHxlDnY4B798) | [Things a Man Oughta Know \(Stripped\)](https://open.spotify.com/album/0bhlGclh3uEiFE6LwrmekC) | 3:44 | 2022-03-25 | 2022-06-13 |
 | [This Is How We Roll](https://open.spotify.com/track/3skFJXP6IJK5VCHudwJFoB) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Down Home Sessions IV](https://open.spotify.com/album/63rAymY7yBFTCXWamkAO7U) | 3:36 | 2022-03-11 | 2022-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="spotify:artist:5DXiy58vu9lP6cW5eKDeBg">Ivan Theva</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,025 likes - 99 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,149 likes - 99 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Buy You Flowers](https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Buy You Flowers](https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa) | 2:22 |
 | 99 | [Patient & Kind](https://open.spotify.com/track/4XUHPTauQpSLCeGIzRGIR3) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Patient & Kind](https://open.spotify.com/album/1ibfHJeOfj4wBtSBgy5JuG) | 4:57 |
 
-Snapshot ID: `MCwyNWFhYzVjNzQ0MDk5MTlmOTZkZjIwZTA4MjFhYjA0ODYwMzczZTdj`
+Snapshot ID: `MCxhMGRiYzM1Yzk3ZjUxYjMyMzA3OWVlNDQzN2Y4MWMzMTQ3NmUzZWRh`

@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "cashmere",
+        "url": "https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y"
+      },
+      "artists": [
+        {
+          "name": "Zatsuma",
+          "url": "https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "cashmere",
+      "url": "https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ"
+    },
+    {
+      "album": {
         "name": "Lagom",
         "url": "https://open.spotify.com/album/4k7Eh3WH907ikJlxC5B0C4"
       },
@@ -3432,7 +3450,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 145430,
       "name": "hologram",
       "url": "https://open.spotify.com/track/2Qnhb9gXqGZduGAlrygUQq"
@@ -5421,6 +5439,24 @@
     },
     {
       "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/6nQNTDHsAzKwD63yJ8znXV"
+      },
+      "artists": [
+        {
+          "name": "Kival",
+          "url": "https://open.spotify.com/artist/4mYPgSEfNEHOG0QfdJuMwp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164620,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/0H5Ev0vFWpqqLlWAwfUpOC"
+    },
+    {
+      "album": {
         "name": "ocean bottoms",
         "url": "https://open.spotify.com/album/6G8lHNQtrS9cLDNt9gGRrt"
       },
@@ -5808,7 +5844,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 93333,
       "name": "Patio",
       "url": "https://open.spotify.com/track/0OaFl9EiO0GTPE7FCqFJAa"

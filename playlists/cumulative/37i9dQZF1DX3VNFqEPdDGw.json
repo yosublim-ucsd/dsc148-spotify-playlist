@@ -1505,6 +1505,28 @@
     },
     {
       "album": {
+        "name": "Red Bottom",
+        "url": "https://open.spotify.com/album/1ZBrAjDZ9o6hsuiNKTEIMW"
+      },
+      "artists": [
+        {
+          "name": "Jk Dhillon",
+          "url": "https://open.spotify.com/artist/4Qd0RqDCeIhqaWMLyRe8ba"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Red Bottom",
+      "url": "https://open.spotify.com/track/4Rk9xAIYkkCq34H9XhrY3C"
+    },
+    {
+      "album": {
         "name": "Salute",
         "url": "https://open.spotify.com/album/1QXDxsneMDb6sD2995j8FM"
       },

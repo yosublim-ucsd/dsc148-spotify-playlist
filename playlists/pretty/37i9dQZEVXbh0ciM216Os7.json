@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNjYwMDAsMDAwMDAwMDA2ZDY3Y2Q3NTFiYmQ5MWE2NDUyM2JmNTMxMDFkYjgwZg==",
+  "snapshot_id": "MjgyNjYwMDAsMDAwMDAwMDBiYjE0NGI4OTg3MzJiYTQyZThiNDNjMTIzZTNlZDZmYQ==",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -51,6 +51,26 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Sweet Sounds Of Heaven",
+        "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 442667,
+      "name": "Sweet Sounds Of Heaven (feat. Lady Gaga & Stevie Wonder)",
+      "url": "https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Revenge Anthems",
         "url": "https://open.spotify.com/album/4B0IKIdJOa4NxIiCF2losG"
       },
@@ -63,6 +83,26 @@
       "duration_ms": 135868,
       "name": "F.T.B.",
       "url": "https://open.spotify.com/track/7L2Dk4bZUzm7FLGDgqEhMs"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/2aVhrxNZrwE8sB3fqvyZys"
+      },
+      "artists": [
+        {
+          "name": "King Reign",
+          "url": "https://open.spotify.com/artist/2NBqojWIwPlNQC5yKru1OJ"
+        },
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/17zGPlvmZ8cWkmMXTUFSrf"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -91,70 +131,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/2aVhrxNZrwE8sB3fqvyZys"
-      },
-      "artists": [
-        {
-          "name": "King Reign",
-          "url": "https://open.spotify.com/artist/2NBqojWIwPlNQC5yKru1OJ"
-        },
-        {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
-        }
-      ],
-      "duration_ms": 206653,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/17zGPlvmZ8cWkmMXTUFSrf"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Our Time",
-        "url": "https://open.spotify.com/album/5u5XHO2brM8KxhP0ESUh1z"
-      },
-      "artists": [
-        {
-          "name": "Norenot",
-          "url": "https://open.spotify.com/artist/5JJ7m73uymUpamsCJHzH8I"
-        },
-        {
-          "name": "Robohands",
-          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
-        },
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 200961,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/27LzPy4zTQYQzJMQrVbue8"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Koala (secs on the beach Remix)",
-        "url": "https://open.spotify.com/album/3s5BeXQUZh7bZrdCjLNd0Y"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "secs on the beach",
-          "url": "https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM"
-        }
-      ],
-      "duration_ms": 131535,
-      "name": "Koala - secs on the beach Remix",
-      "url": "https://open.spotify.com/track/3Olln7bxVKHnfR1hePHYqH"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "FIESTA",
         "url": "https://open.spotify.com/album/6BJZICoGKwAp2QKx6FhDEz"
       },
@@ -179,26 +155,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Sweet Sounds Of Heaven",
-        "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 442667,
-      "name": "Sweet Sounds Of Heaven (feat. Lady Gaga & Stevie Wonder)",
-      "url": "https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "In a sentimental mood",
         "url": "https://open.spotify.com/album/1Io8ZCinPYklU5J3KBTU4k"
       },
@@ -215,22 +171,6 @@
       "duration_ms": 404375,
       "name": "In a sentimental mood",
       "url": "https://open.spotify.com/track/6uasGTRvjhX99lF921NDx0"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Ruska (Live In Helsinki St. John's Church)",
-        "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Ruska - Live In Helsinki St. John's Church",
-      "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -279,6 +219,66 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Ruska (Live In Helsinki St. John's Church)",
+        "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Ruska - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Koala (secs on the beach Remix)",
+        "url": "https://open.spotify.com/album/3s5BeXQUZh7bZrdCjLNd0Y"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "secs on the beach",
+          "url": "https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM"
+        }
+      ],
+      "duration_ms": 131535,
+      "name": "Koala - secs on the beach Remix",
+      "url": "https://open.spotify.com/track/3Olln7bxVKHnfR1hePHYqH"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Our Time",
+        "url": "https://open.spotify.com/album/5u5XHO2brM8KxhP0ESUh1z"
+      },
+      "artists": [
+        {
+          "name": "Norenot",
+          "url": "https://open.spotify.com/artist/5JJ7m73uymUpamsCJHzH8I"
+        },
+        {
+          "name": "Robohands",
+          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 200961,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/27LzPy4zTQYQzJMQrVbue8"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Here Comes Sunshine (Demo)",
         "url": "https://open.spotify.com/album/3qbrhr54cpon3Wx7pKQZit"
       },
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Bushwick Cowboy",
-        "url": "https://open.spotify.com/album/3pCrRQfCSaR4gIpcUewNsx"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 243980,
-      "name": "Bushwick Cowboy",
-      "url": "https://open.spotify.com/track/3LppKZzfb7NLNmxe3rKRk9"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
         "url": "https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 155003,
       "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
       "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Bushwick Cowboy",
+        "url": "https://open.spotify.com/album/3pCrRQfCSaR4gIpcUewNsx"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 243980,
+      "name": "Bushwick Cowboy",
+      "url": "https://open.spotify.com/track/3LppKZzfb7NLNmxe3rKRk9"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
         }
       ],
-      "duration_ms": 260495,
-      "name": "Dirty Diana (Metal Version)",
-      "url": "https://open.spotify.com/track/5lQQGw4qIhNpHP6pmViE4i"
+      "duration_ms": 287446,
+      "name": "Skyfall (Metal Version)",
+      "url": "https://open.spotify.com/track/0Z8mp3OV0TLQ26Em637U0K"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -399,26 +399,6 @@
       "duration_ms": 221000,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0nDzTiBd4yfZkywYaNGmr1"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Come Fly with Me",
-        "url": "https://open.spotify.com/album/3MFgyPfraw1DJqjNFrTkMa"
-      },
-      "artists": [
-        {
-          "name": "Gangman",
-          "url": "https://open.spotify.com/artist/5ggH1sWqm8IFkr1df1QXQB"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Come Fly with Me",
-      "url": "https://open.spotify.com/track/2lPSrt9dSVInIwuMiYkS7H"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -443,6 +423,26 @@
       "duration_ms": 201556,
       "name": "Victory (feat. Inspectah Deck)",
       "url": "https://open.spotify.com/track/5wkaGvO8nNomCL7UCzknw6"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Come Fly with Me",
+        "url": "https://open.spotify.com/album/3MFgyPfraw1DJqjNFrTkMa"
+      },
+      "artists": [
+        {
+          "name": "Gangman",
+          "url": "https://open.spotify.com/artist/5ggH1sWqm8IFkr1df1QXQB"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Come Fly with Me",
+      "url": "https://open.spotify.com/track/2lPSrt9dSVInIwuMiYkS7H"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "should sleep",
-        "url": "https://open.spotify.com/album/3h2UC5oK5JXSpzliYZJiY8"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "J.P. Bimeni",
-          "url": "https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx"
-        }
-      ],
-      "duration_ms": 269907,
-      "name": "should sleep",
-      "url": "https://open.spotify.com/track/6zpMH3MUT8qINonUWks3rW"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 218794,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "should sleep",
+        "url": "https://open.spotify.com/album/3h2UC5oK5JXSpzliYZJiY8"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "J.P. Bimeni",
+          "url": "https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx"
+        }
+      ],
+      "duration_ms": 269907,
+      "name": "should sleep",
+      "url": "https://open.spotify.com/track/6zpMH3MUT8qINonUWks3rW"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
         }
       ],
-      "duration_ms": 278333,
-      "name": "Je danse le mia - Live Studio",
-      "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"
+      "duration_ms": 560973,
+      "name": "Demain c'est loin - Live Studio",
+      "url": "https://open.spotify.com/track/5DVC4v4D2XvU9fBZWHrdeT"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -663,42 +663,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Good Brother",
-        "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
-      },
-      "artists": [
-        {
-          "name": "Justus West",
-          "url": "https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 193390,
-      "name": "Good Brother",
-      "url": "https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Reveal",
-        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
-      },
-      "artists": [
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 612361,
-      "name": "Eros",
-      "url": "https://open.spotify.com/track/2UtnVhNJlUc8mdQ4GoSQgx"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "She Listen To Trap",
         "url": "https://open.spotify.com/album/02Fde3nEdXojU5KqJn5Di3"
       },
@@ -723,6 +687,42 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 612361,
+      "name": "Eros",
+      "url": "https://open.spotify.com/track/2UtnVhNJlUc8mdQ4GoSQgx"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Good Brother",
+        "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
+      },
+      "artists": [
+        {
+          "name": "Justus West",
+          "url": "https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 193390,
+      "name": "Good Brother",
+      "url": "https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Le d\u00e9part",
         "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
       },
@@ -739,26 +739,6 @@
       "duration_ms": 175020,
       "name": "Le d\u00e9part",
       "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Nature at Play: J.S. Bach's Cello Suite No. 1 (Live from the Great Smoky Mountains)",
-        "url": "https://open.spotify.com/album/3NGKzPTT6anTfj7qb9QtYq"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 153360,
-      "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: I. Pr\u00e9lude",
-      "url": "https://open.spotify.com/track/3t0yleDo23gh9vEjAfDbgX"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

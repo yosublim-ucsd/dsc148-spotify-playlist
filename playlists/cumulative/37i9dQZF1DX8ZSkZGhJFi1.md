@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-593 songs - 1 day 0 hr 16 min
+594 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 |  |
 | [Frosty Dream](https://open.spotify.com/track/5D8QxnbmmXyPnniROQJU83) | [Axavex](https://open.spotify.com/artist/5WvBaMDSgK2VYklEpiASej) | [Frosty Dream](https://open.spotify.com/album/1SU8RKCQpX6uYlws5IwRJz) | 3:09 | 2022-06-24 | 2022-09-17 |
 | [Frosty Dream](https://open.spotify.com/track/5SWVDDmeXJQcyf2zofak5H) | [Axavex](https://open.spotify.com/artist/5WvBaMDSgK2VYklEpiASej) | [Frosty Dream](https://open.spotify.com/album/5JsosZwYnxktNKaW6oaTtS) | 3:09 | 2022-02-17 | 2022-07-29 |
+| [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 | 2023-09-29 |  |
 | [Games](https://open.spotify.com/track/0ushiWGxHH5atvLnODuINq) | [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Fri](https://open.spotify.com/artist/5laFIPE0PAzSuNXTNUuXyu) | [Games](https://open.spotify.com/album/2F495sG8fO4YTW8Fh2czBY) | 1:41 | 2022-02-17 | 2023-01-20 |
 | [Gary](https://open.spotify.com/track/1q1UZUT8oCqhuoaUtOQyk7) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Gary](https://open.spotify.com/album/1wyBKnUiA3N4Rqe8WPvvFd) | 2:02 | 2023-09-08 |  |
 | [GIN BASIL SMASH](https://open.spotify.com/track/4Zq8GBwC9oZZNo15i8P5ne) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [GIN BASIL SMASH](https://open.spotify.com/album/0A5jQiXL9zaGXsO4zSGY6R) | 2:18 | 2023-09-08 |  |
@@ -293,7 +294,7 @@
 | [Mad World](https://open.spotify.com/track/3xwrhWMrYlSv1YkMaOa9KV) | [Rascal](https://open.spotify.com/artist/3fWAVycjEzJH9BxxrfyCDA) | [Mad World](https://open.spotify.com/album/56bhW3j6Ti2w1Drf7qEUXv) | 1:28 | 2023-09-08 |  |
 | [Maharani Ardiga](https://open.spotify.com/track/2jruslhpwLSNiqinVoumWD) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Freefall](https://open.spotify.com/album/1RrbJ0k3FCQIzXUBe51yNf) | 1:35 | 2022-02-17 | 2023-09-09 |
 | [Mangos](https://open.spotify.com/track/19Lkk1hRKKOwE4qTOL36nf) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Mangos](https://open.spotify.com/album/7GISc4x59WUJlbOapq2IHK) | 3:38 | 2023-09-08 |  |
-| [Maple Road](https://open.spotify.com/track/4FoEEJ5oiENSiLkYFStz88) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Maple Road](https://open.spotify.com/album/4ZZnP0rWjdjFzOtLWVsrJa) | 2:20 | 2023-09-08 |  |
+| [Maple Road](https://open.spotify.com/track/4FoEEJ5oiENSiLkYFStz88) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Maple Road](https://open.spotify.com/album/4ZZnP0rWjdjFzOtLWVsrJa) | 2:20 | 2023-09-08 | 2023-10-01 |
 | [Marathon](https://open.spotify.com/track/7fs8fhf8E1KefxhgJ2lOCJ) | [wallyPDF](https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk) | [Marathon](https://open.spotify.com/album/1eCjtC5oxQIrNjbHp6TUUm) | 1:56 | 2023-09-08 |  |
 | [Maroon Leaves](https://open.spotify.com/track/4MiM622Brc1FuwxiieUyXz) | [LilJuice](https://open.spotify.com/artist/5lD2lVGn3KXsfYFOcfa8fG), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Maroon Leaves](https://open.spotify.com/album/3diKoUdvFcD9uSZ6u3zRnI) | 1:51 | 2023-09-08 |  |
 | [Meet Me At Midnight](https://open.spotify.com/track/197RHWh4nfc8XSl4V8mw4b) | [Naute](https://open.spotify.com/artist/2LfwnXXH6HdeP825h4u7lt), [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Meet Me At Midnight](https://open.spotify.com/album/7jMyHXdOb1jSDrdxiSCa7G) | 2:29 | 2023-09-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Alok",
-  "num_followers": 1237134,
+  "num_followers": 1237288,
   "original_name": "Dance Paradise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjIxOGQ4MWMxMmVlNDUyNWMwODlkYjllZmY2ZTBlM2QyZTM1MGU0",
+  "snapshot_id": "MCxlMjcyMWZhM2UzMzI1NGQyNmQyZTA5NDY4OTQwNzIxNTU5NzZkYzM1",
   "tracks": [
     {
       "added_at": "2023-09-29 19:54:23",
@@ -284,12 +284,12 @@
       },
       "artists": [
         {
-          "name": "Massivedrum",
-          "url": "https://open.spotify.com/artist/46aYPGlJtmYZe8Q7Ijkyk5"
-        },
-        {
           "name": "Diego Miranda",
           "url": "https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6"
+        },
+        {
+          "name": "Massivedrum",
+          "url": "https://open.spotify.com/artist/46aYPGlJtmYZe8Q7Ijkyk5"
         }
       ],
       "duration_ms": 174374,

@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Chupasangre",
+        "url": "https://open.spotify.com/album/6QuNQyIrZQGzzzx072piNU"
+      },
+      "artists": [
+        {
+          "name": "Tomo Como Rey",
+          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196070,
+      "name": "Chupasangre",
+      "url": "https://open.spotify.com/track/30AQGfDqWCrN6KwHnNIFdv"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas y Risas",
         "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
       },
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 264354,
       "name": "Fuera de Ritmo",
       "url": "https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7"
@@ -4196,7 +4214,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 169491,
       "name": "Saboreando La Felicidad",
       "url": "https://open.spotify.com/track/0ihOIdDAeHWBAEtnKDinid"
@@ -4949,6 +4967,24 @@
     },
     {
       "album": {
+        "name": "Sonia",
+        "url": "https://open.spotify.com/album/6tu85sTYKVtl7fAOuQB2xB"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pucho",
+          "url": "https://open.spotify.com/artist/1UEvN2UU9EiUi4CVQ2eP0p"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170196,
+      "name": "Sonia",
+      "url": "https://open.spotify.com/track/7EV6gXmbN5bzsR7Z3s3LpD"
+    },
+    {
+      "album": {
         "name": "Sound System",
         "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
       },
@@ -5184,7 +5220,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 197500,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
@@ -5582,6 +5618,24 @@
       "duration_ms": 166159,
       "name": "Vicio",
       "url": "https://open.spotify.com/track/6g9hULFpG1pEyEH6HRMHaE"
+    },
+    {
+      "album": {
+        "name": "Vira-Lata",
+        "url": "https://open.spotify.com/album/4Wy6qLOygnSQ6MGKHqNC0Z"
+      },
+      "artists": [
+        {
+          "name": "Buena Onda Reggae Club",
+          "url": "https://open.spotify.com/artist/2fuv23bY4oSgxNKH7TdUZz"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210069,
+      "name": "Vira-Lata",
+      "url": "https://open.spotify.com/track/0qrWq5QicfLTefnLMuxUPz"
     },
     {
       "album": {

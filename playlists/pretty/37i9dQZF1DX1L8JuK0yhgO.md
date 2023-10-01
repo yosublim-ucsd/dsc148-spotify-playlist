@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,833 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,840 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 5 | [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 |
 | 6 | [COLORS](https://open.spotify.com/track/6R4fObJ9nCUnVj1e3BDLyg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [IN WONDER \- EP](https://open.spotify.com/album/3qInZr8LBwGHnz851luc80) | 3:57 |
 | 7 | [Shiny and New](https://open.spotify.com/track/71VnmWirWkHf6XAloWH5TO) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Shiny and New](https://open.spotify.com/album/00rDINWPKuv6v4uPEmReYG) | 3:30 |
-| 8 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 |
+| 8 | [Hell N Back \(feat\. Summer Walker\) \[BONUS TRACK\]](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 |
 | 9 | [Kamehameha](https://open.spotify.com/track/0CVmXeT4XO6O1tZWYG78Od) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Kamehameha](https://open.spotify.com/album/4xYgACa3hPO6NGmbKszBvW) | 3:39 |
 | 10 | [B.O.T.B.](https://open.spotify.com/track/4vfURYHZJEmlSYqZtFGdFn) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [B.O.T.B.](https://open.spotify.com/album/0pUJmYE4ea0TElFKq2ocBv) | 3:36 |
 | 11 | [Summer Digest Part.2](https://open.spotify.com/track/0DXCd5VOfArWzaRvF6Qx2x) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [CBS](https://open.spotify.com/artist/7AHhB1P3XhzSw4oPT2unag) | [Summer Digest Part.2](https://open.spotify.com/album/5JRyvugmXthxqcfb9sDfAn) | 4:14 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 20 | [Speed Up（全速前进）](https://open.spotify.com/track/6WVFhuh0ePggzTG40UmlOj) | [J.Mag](https://open.spotify.com/artist/0oLugBpbkaTY5deDOMKYyH), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [Speed Up（全速前进）](https://open.spotify.com/album/6p7uibF2OeapN1rxT7Cc0Z) | 2:55 |
 | 21 | [MOMENT](https://open.spotify.com/track/4Pnb0qA8DLwFxB2yU95uWl) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R) | [MOMENT](https://open.spotify.com/album/30B59RcwXiGlk4CH6asZy2) | 2:12 |
 | 22 | [ショートショート \- ウ山あまねRemix](https://open.spotify.com/track/1KxV8iq860PX565GdaQc9L) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4), [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa) | [ショートショート \(ウ山あまねRemix\)](https://open.spotify.com/album/0jFI7n7OkqMtdO6qUHHXhj) | 2:19 |
-| 23 | [mcdonald'snocoffe](https://open.spotify.com/track/1F8AuzoFUXGFWTQIWSHqsS) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [mcdonald'snocoffe](https://open.spotify.com/album/4M3ngfQqV6Ic26QynJddEF) | 3:14 |
+| 23 | [McDonald no coffee](https://open.spotify.com/track/1F8AuzoFUXGFWTQIWSHqsS) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [McDonald no coffee](https://open.spotify.com/album/4M3ngfQqV6Ic26QynJddEF) | 3:14 |
 | 24 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 |
 | 25 | [Maru.](https://open.spotify.com/track/2cVwEd1q3yRKBDnEj5ADd2) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Maru.](https://open.spotify.com/album/3LzijJcXsx2EBIskP9jtVW) | 2:56 |
 | 26 | [晴れたらいいのに](https://open.spotify.com/track/3EezqIHiYHPvz8YAS1TMzT) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [晴れたらいいのに](https://open.spotify.com/album/4E5sFh5YG22nmVE1t8NAxF) | 4:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [View](https://open.spotify.com/track/1SL78CgHakGfPKxS976MIX) | [リョウコ2000](https://open.spotify.com/artist/0gkebBA1I3f7BTYqaDDK48) | [Unknown Things](https://open.spotify.com/album/1DcXSJpJUNw8nUa016KZoH) | 3:51 |
 | 60 | [We Could Be Falling In Love \- Edit](https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [We Could Be Falling In Love](https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L) | 2:59 |
 
-Snapshot ID: `MCw2NDEyYzc4ODI0NTBmZDc4YzdhZWRlZWIxYTdiNDZmYjg3MmQ2OWUw`
+Snapshot ID: `MCxiMTI1YTE3YmYwMjU5YjBhY2M1MDJmZTAzMmQ1MjlmZTRkYWMwODVl`

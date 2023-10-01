@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Dudu, Ryu, the Runner
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,955 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,013 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 13 | [Sem Paciência](https://open.spotify.com/track/3YUVRprnVfl4qSpx682ZhU) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Sem Paciência](https://open.spotify.com/album/1KG02ileJtzBTTh4Um87No) | 1:57 |
 | 14 | [Cruzeiro do Ney](https://open.spotify.com/track/3FN25B7rk6JlKNFiPsP74t) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:55 |
 | 15 | [Sessão de Cria 2: Beroba Freestyle](https://open.spotify.com/track/1Y8kuDt5jXMJWnswUbmBHh) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [PAKO BEATZ](https://open.spotify.com/artist/7tJV2B9ErlFQE9oXyYg0qA) | [Sessão de Cria 2: Beroba Freestyle](https://open.spotify.com/album/5aww5rg45n1D4IFxBFdDX0) | 3:08 |
-| 16 | [Pensamento](https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Pensamento](https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO) | 2:19 |
+| 16 | [Pensamento \(feat\. Vulgo FK\)](https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Pensamento \(feat\. Vulgo FK\)](https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO) | 2:19 |
 | 17 | [Só por Essa Noite](https://open.spotify.com/track/2VD1sXwbJEWsfJX4ZRSHYA) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Nandela](https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI) | [Só por Essa Noite](https://open.spotify.com/album/6TbQKxOD27HGaPDd0PXClr) | 2:51 |
 | 18 | [Foda\-Se Seu Ex](https://open.spotify.com/track/3gHTnqd9ePkOmOtqOOp4id) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Paz Terrível](https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90) | 3:48 |
 | 19 | [Avisa Minha Mãe](https://open.spotify.com/track/3ImhKE2Io4Em1iVpq7zw5D) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Pugli](https://open.spotify.com/artist/2IXnOvK1O0L4PzfyYanJkM) | [Avisa Minha Mãe](https://open.spotify.com/album/3LfpZaOWk43gVhPFDzORym) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Minha Vida é um Filme](https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Minha Vida é um Filme](https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj) | 3:06 |
 | 75 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
 
-Snapshot ID: `MCxmMjdkMDFhNjZmZDRkNzI4NDhjOTkzMjFjMTY2Y2ViOWY4NGM3YzJj`
+Snapshot ID: `MCw1ZWI1MmE5OTA4Zjc3MmNlZjFiMTFjNGU0MmZhMDE5ZmM3ODg0Yzlj`

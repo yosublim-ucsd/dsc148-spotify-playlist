@@ -4292,7 +4292,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 127433,
       "name": "C\u2019est la vie",
       "url": "https://open.spotify.com/track/3VfS2nr9RhZTIPw4vbHQPc"
@@ -9592,7 +9592,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 119722,
       "name": "Jsem Optimista",
       "url": "https://open.spotify.com/track/1K0njELsVmFeAZhDZNZmhJ"
@@ -14885,6 +14885,24 @@
     },
     {
       "album": {
+        "name": "No Security",
+        "url": "https://open.spotify.com/album/41n69Qa4q7mGeXMbXhKNbp"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146597,
+      "name": "No Security",
+      "url": "https://open.spotify.com/track/7IPoVK58DtnDuuscaIG1PX"
+    },
+    {
+      "album": {
         "name": "No Time To Die",
         "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
       },
@@ -17374,7 +17392,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -19116,7 +19134,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -19192,7 +19210,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -22181,6 +22199,28 @@
     },
     {
       "album": {
+        "name": "VZH\u016eRU CELOU NOC",
+        "url": "https://open.spotify.com/album/088S7V41MbnBbgM3lK3cIr"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "VZH\u016eRU CELOU NOC",
+      "url": "https://open.spotify.com/track/6GWIcN6mNgvZThlqq3peBk"
+    },
+    {
+      "album": {
         "name": "ZP\u00c1TKY NA SVOJ\u00cd PLANETU",
         "url": "https://open.spotify.com/album/45MXq2Tan2W8vHbUTpYWaS"
       },
@@ -22710,7 +22750,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Whip",
       "url": "https://open.spotify.com/track/7rOUkuZOT4BnGNz7YbUORD"

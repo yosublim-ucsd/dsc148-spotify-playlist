@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy muziek met een rand uit eigen land\. cover: Ray Fuego
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,882 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,886 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 15 | [Lila](https://open.spotify.com/track/7KEYsxeFYN0ruMY6sGNdtf) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4), [VAAGUE](https://open.spotify.com/artist/4P0mtkvvIWdZn9mNsKXTDs) | [Mirrors](https://open.spotify.com/album/7L161NHfeg5E3dHOvr5GZ0) | 4:17 |
 | 16 | [The Observer](https://open.spotify.com/track/6f6qL5EOxhStjbxy4mSbfQ) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [The Observer](https://open.spotify.com/album/0F4ukdM899G7C49k0SBWL2) | 4:43 |
 | 17 | [Time for Love](https://open.spotify.com/track/4wCYpfVP2qRSYB4OO5q8FC) | [Kafka](https://open.spotify.com/artist/4jDwckX5APMXI8oCH60Jqa), [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5) | [Time for Love](https://open.spotify.com/album/5la69AsSpd40RNEmgojJ3p) | 3:41 |
-| 18 | [Silent Treatment](https://open.spotify.com/track/3Kfm28drfcq4sugyWsvIyd) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA) | [Silent Treatment](https://open.spotify.com/album/5LO6ze68qvFSZA9G8X5HVX) | 2:48 |
+| 18 | [Silent Treatment](https://open.spotify.com/track/3i3nMFxiEu4AfFMUOUv6dw) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA) | [Silent Treatment](https://open.spotify.com/album/0rFtXWLjCfpC6teIiE1i6l) | 2:48 |
 | 19 | [I Don't Care Tonight](https://open.spotify.com/track/6kZwi3zqzCwVejpjYfIaOa) | [Misha Wong](https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0) | [I Don't Care Tonight](https://open.spotify.com/album/4WZaOHiKK6GLGimpLPHZC3) | 3:48 |
 | 20 | [excuses](https://open.spotify.com/track/1rB3CxWVX9GlNIfLoIuLXb) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [excuses](https://open.spotify.com/album/3WS0r3RjStJi2DIYioq6QW) | 5:46 |
 | 21 | [VERFBOMMENVERF](https://open.spotify.com/track/5a8XU0IawHs3qtkET6LiK0) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [VERFBOMMENVERF](https://open.spotify.com/album/7aKZV7ORfgsplHnJfchgTf) | 2:30 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 | 54 | [Where Nothing Lives](https://open.spotify.com/track/6ofdXDYZi0FlGADmT8GXLM) | [Ariana Popal](https://open.spotify.com/artist/2KtR4fuIjdVu1h8slsENsD) | [Where Nothing Lives](https://open.spotify.com/album/4hftnqNfW3ZwZKoGpgehEV) | 3:28 |
 | 55 | [Little Girl](https://open.spotify.com/track/78JPkgiUKtPk16rgVwzwId) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Little Girl](https://open.spotify.com/album/1RYifRrTMcLIrGKOxTyt6N) | 2:49 |
 
-Snapshot ID: `MCw3OTM2MmJhMTRiY2Y2M2U4MTAzOTI5MTUzMGYzYzdjNGY1NzRiMWEz`
+Snapshot ID: `MCw1OTk0OGY4OTFlMDUyNDVkZTRiNjUxZGQwY2QxMzY1ODM0ZWZhOGI2`

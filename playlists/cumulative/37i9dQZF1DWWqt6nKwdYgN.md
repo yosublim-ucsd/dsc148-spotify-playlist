@@ -4,7 +4,7 @@
 
 > ¡Lo más fresco del hip\-hop en español! Chales Ans y Sharif en portada.
 
-279 songs - 15 hr 44 min
+280 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [El Canton Norte](https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El 17](https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj) | 2:45 | 2023-09-29 |  |
 | [El Mundo Es Mío](https://open.spotify.com/track/6xpBiLizBvv1F54QT14er9) | [Sr\. Wilson](https://open.spotify.com/artist/7GIl95Mqt4DmPOiVghXffy), [Griffi](https://open.spotify.com/artist/3qqRmPv82dU1KrGy21ZSQD) | [El Mundo Es Mío](https://open.spotify.com/album/7hTv5dTeDCWavviOKakPrT) | 3:36 | 2023-06-13 | 2023-07-08 |
 | [El Orfanato](https://open.spotify.com/track/2qz8xEfDz2RARPMZdgk4FV) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [El Orfanato](https://open.spotify.com/album/7CtW9Y0W2Sxo8BX8GY5gxo) | 5:25 | 2023-09-01 |  |
+| [EL SECRETO](https://open.spotify.com/track/5wO182BXNDV6E5XKRTQQ0m) | [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Oldtape](https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf) | [EL SECRETO](https://open.spotify.com/album/5TAdRy1D4JefUxWHn2YNef) | 2:42 | 2023-09-29 |  |
 | [El Termostato](https://open.spotify.com/track/0LOpk0vOE9igpObJLFd1t8) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0), [Bhajan](https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Ruta Mexicolombia](https://open.spotify.com/album/6c2d10wfbQZuV7zCCfqLCy) | 4:06 | 2023-09-01 |  |
 | [El Trono Del Rap](https://open.spotify.com/track/3sxlEWTe3Dr5Kx9rQlUwCP) | [Marto](https://open.spotify.com/artist/4LRWJYTQRWcOO913St1duY) | [El Trono Del Rap](https://open.spotify.com/album/4vuNCESTNZ72yd6bYZgcDL) | 2:51 | 2023-07-28 | 2023-09-30 |
 | [En Abril](https://open.spotify.com/track/1nyP1aYcgxrpCPXg09DP0W) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo) | [En Abril](https://open.spotify.com/album/4oyJfVyRMFrXc6DPFlDoiB) | 3:21 | 2023-07-28 |  |
@@ -241,7 +242,7 @@
 | [Quién Mató al Alcalde?](https://open.spotify.com/track/0XpoiS2ctPWAmQ2JCM5ZTa) | [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2) | [Quién Mató al Alcalde?](https://open.spotify.com/album/3hVJhCpEprcHgzqBa1iIRr) | 6:11 | 2023-07-28 |  |
 | [Qué Más Da](https://open.spotify.com/track/2hlfF82K7N4Faivl5spUYR) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9), [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Qué Más Da](https://open.spotify.com/album/1uwybis0C2LleyWdZDc2KA) | 3:17 | 2023-06-23 | 2023-09-09 |
 | [Rap y Calle No\. 14](https://open.spotify.com/track/41QHY6HvR3ChL3rfrevxPo) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Ziferk Rap Wasay](https://open.spotify.com/artist/0jSOHCemmrJvrmEfYpbkI5), [Joes Yawar Cru](https://open.spotify.com/artist/1g3olTTEwu0Dn2kVBpZ6oK), [Tatiana Gomez Rap](https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI) | [Rap y Calle No\. 14](https://open.spotify.com/album/0dskqXcaAzwq8R3uVcobcU) | 3:51 | 2023-06-30 | 2023-09-16 |
-| [Recuerdos](https://open.spotify.com/track/1Vwl39a2bOCFTQ3k4R749W) | [Ghetto Living](https://open.spotify.com/artist/0UpALfYoIQmSdTuRkI2HJR) | [Oveja Negra](https://open.spotify.com/album/6GZxXyWOVa9hQfJTJYQzqz) | 3:38 | 2023-09-01 |  |
+| [Recuerdos](https://open.spotify.com/track/1Vwl39a2bOCFTQ3k4R749W) | [Ghetto Living](https://open.spotify.com/artist/0UpALfYoIQmSdTuRkI2HJR) | [Oveja Negra](https://open.spotify.com/album/6GZxXyWOVa9hQfJTJYQzqz) | 3:38 | 2023-09-01 | 2023-10-01 |
 | [Red Hot Chile Papers](https://open.spotify.com/track/6e5OMnekNGplphCr01YK7q) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Don Cupón](https://open.spotify.com/artist/2xU1khcfqErVoih679pYM1) | [Red Hot Chile Papers](https://open.spotify.com/album/6l1q4am1kKUk0AihwVDKca) | 4:46 | 2023-07-14 | 2023-07-22 |
 | [Regar](https://open.spotify.com/track/7HInwQabVqKucZomXgeQe5) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Regar](https://open.spotify.com/album/0asM9LNFjIzieexFwxzMAi) | 1:31 | 2023-09-01 |  |
 | [REPRE$ENT](https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [Don\-J HH](https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3), [Der Enyel](https://open.spotify.com/artist/64lfjA638IlbxVaKfZVQgC) | [REPRE$ENT](https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA) | 4:05 | 2023-06-13 |  |

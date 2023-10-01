@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Kyrie \(アイナ・ジ・エンド\) \*👉 <a href="https://spice.eplus.jp/articles/322418?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,642 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,729 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 80 | [Version of You](https://open.spotify.com/track/1OtRQsttoCQ03P95TCz6ho) | [Kinami](https://open.spotify.com/artist/5Zm3vMvLFPUji0Y2txuRdt) | [Version of You](https://open.spotify.com/album/6ppDsGwiugL0WJHX2Fv4Tf) | 2:31 |
 | 81 | [蜃気楼](https://open.spotify.com/track/4TJ679LbRBE9FarL99fOEB) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [蜃気楼](https://open.spotify.com/album/72cMGzadVVPSjQzVFZroc3) | 6:33 |
 
-Snapshot ID: `MCwzYzMzMTAxMDkyMTJkN2U4OWU1OWZhMjRmMzIyMjJjMTg1NTMzZmY0`
+Snapshot ID: `MCxhNTczMDg4MGQyMjNmZGM3OWIyODZlM2M2MWVlZjc5OTI2NjY1ZThl`

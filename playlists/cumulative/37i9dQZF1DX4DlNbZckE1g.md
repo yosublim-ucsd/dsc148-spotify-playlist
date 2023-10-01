@@ -4,7 +4,7 @@
 
 > Lose yourself in the summer daze...
 
-141 songs - 7 hr 53 min
+142 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Made For Silence](https://open.spotify.com/track/7hRuYSwzGm8OifBoos0nG9) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Made For Silence](https://open.spotify.com/album/4RT10f0M4YO3Ps7ds49vWS) | 2:50 | 2022-02-10 |  |
 | [Make of It](https://open.spotify.com/track/1JhAUdnlUyUqZocC2mvpwH) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Make of It](https://open.spotify.com/album/3XUQkz7PDrkyWbxgUSFgYO) | 2:35 | 2022-02-10 |  |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2022-02-10 |  |
-| [Mr Pants](https://open.spotify.com/track/4rNjVrfVpfnA0Snbi17Kyh) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Mr Pants](https://open.spotify.com/album/6Jyz1DKSKTUid7yitT8fHX) | 2:50 | 2022-02-10 |  |
+| [Mr Pants](https://open.spotify.com/track/4qnFaOxVsjo1wbc2UX3KtN) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Mr Pants](https://open.spotify.com/album/3iNXhdZUasqIbP9PTZuZhY) | 2:50 | 2022-02-10 |  |
+| [Mr Pants](https://open.spotify.com/track/4rNjVrfVpfnA0Snbi17Kyh) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Mr Pants](https://open.spotify.com/album/6Jyz1DKSKTUid7yitT8fHX) | 2:50 | 2022-02-10 | 2023-10-01 |
 | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 | 2022-02-10 |  |
 | [My Love](https://open.spotify.com/track/1e5qdP89kr2sMDF4G3hIv3) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Time Flies](https://open.spotify.com/album/4xZ5W6EMfV20gngUDviDb6) | 3:29 | 2022-02-10 |  |
 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 | 2022-02-10 |  |

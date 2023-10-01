@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Thomas Rhett and Morgan Wallen, Riley Green and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,536 likes - 96 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,753 likes - 96 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 80 | [Silverado](https://open.spotify.com/track/50nw2ssVK7RWU8fKWHEnee) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Silverado / Good at Being Bad](https://open.spotify.com/album/2LybeJgnZWPkyLJWtAKCvx) | 3:31 |
 | 81 | [It's Raining](https://open.spotify.com/track/3vRlEtO3gnfovtN2CwIBHq) | [Tyler Chambers](https://open.spotify.com/artist/4LGyAJCeFMnZMhcjjRsaRb) | [It's Raining](https://open.spotify.com/album/0xpl8jvJWsmJGaMVeHIhmC) | 4:00 |
 | 82 | [Red Off My Neck](https://open.spotify.com/track/2N3E0BqhDZGAYZ52dvw2o8) | [Wyatt McCubbin](https://open.spotify.com/artist/4HxnSRFjP0vKzW7z21kuPf) | [Red Off My Neck](https://open.spotify.com/album/6biIbiXEMLDH8xzyeNj5dj) | 2:51 |
-| 83 | [Could Have Been A Cowgirl](https://open.spotify.com/track/0x0DWP1VRlIper18ji6Wgr) | [Zoe Cummins](https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh) | [Could've Been A Cowgirl](https://open.spotify.com/album/3MsSyc7W7HwhASWEMM1IPZ) | 3:54 |
+| 83 | [Could've Been A Cowgirl](https://open.spotify.com/track/0x0DWP1VRlIper18ji6Wgr) | [Zoe Cummins](https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh) | [Could've Been A Cowgirl](https://open.spotify.com/album/3MsSyc7W7HwhASWEMM1IPZ) | 3:54 |
 | 84 | [That Was Then, This Is Now](https://open.spotify.com/track/4bmcDl7xgy1qdO7RnmbKzW) | [Ben Chase](https://open.spotify.com/artist/2bMHWpoZglVsTnIvnQ1RI0) | [That Was Then, This Is Now](https://open.spotify.com/album/0gRSS75VxkWuBYjAH05mgg) | 2:41 |
 | 85 | [Stronger](https://open.spotify.com/track/7omL77giPW28kmRZtOO9nU) | [Brooke Schubert](https://open.spotify.com/artist/37AhJFVvcLzRvWWHaHOrlq) | [Stronger](https://open.spotify.com/album/17topUiRhUH8Y5IVU73ua5) | 3:45 |
 | 86 | [Stop Making Trucks](https://open.spotify.com/track/6qZ586loZkKaipMiDEy0BW) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe) | [Stop Making Trucks](https://open.spotify.com/album/3t2xOIyal5cj0JEV9Hqp2a) | 3:08 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 95 | [Hurts the Best](https://open.spotify.com/track/1abnvxVAa8EEPS51JjuV9Q) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [Hurts the Best](https://open.spotify.com/album/2BBS4o7myEVNl21JAzLXAk) | 2:50 |
 | 96 | [Whatcha Doin' Tonight](https://open.spotify.com/track/1HoYxDcG7qzcipg8BwWw48) | [Jay Kutcher](https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz), [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo) | [Whatcha Doin' Tonight](https://open.spotify.com/album/6pzN1JVUTHmy6Gjs57cTmR) | 3:03 |
 
-Snapshot ID: `MCxmYTU2YzQ5MGJiZTA3MjJmNzgyOGU1N2NhNmFmMzMwZjlkZGVhZmFm`
+Snapshot ID: `MCxlM2Y2MzJlYWViNDRlY2ViMzZhMjM0ZTAyZjc4ZjI4ZThiYTQ3MjFm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,744 likes - 99 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,787 likes - 99 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 98 | [What About Hiding](https://open.spotify.com/track/4ZeyxFIpDLHBBxxPjQY4YU) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [What About Hiding](https://open.spotify.com/album/5fWyG8LpMszwr1wqMiO0wC) | 2:50 |
 | 99 | [Dance With Myself](https://open.spotify.com/track/3Ozg0uLdo0xQGb2w0kWUad) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Dance With Myself](https://open.spotify.com/album/42L2UX912IQEKg84KcO2SY) | 2:51 |
 
-Snapshot ID: `MCxiZTA3YTFkN2UwYmYzZjBiNmUzY2U3YmVlOGRhYWZjZmVhMGYzYzBm`
+Snapshot ID: `MCxmMzBkYmJiN2Q5OTljYTFmYzBmNWFiYTU4ODA2NjBhZjA3NzNiMGEy`

@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home!",
-  "num_followers": 54639,
+  "num_followers": 54661,
   "original_name": "Drill Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2M4MzVjMjI1ZGE1MDRjN2ExZTE3OWQ5NDVlZDA5YTJjMzY4ZDg1",
+  "snapshot_id": "MCxhOGUyNjljODc0MDdhYWQ5ZDVjOGFiYzM4ZWY5YTMzNzA4ZGZmY2I4",
   "tracks": [
     {
       "added_at": "2022-10-23 18:38:51",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Pisces",
-        "url": "https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "Krept & Konan",
-          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Pisces",
-      "url": "https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "M24 x Fumez the Engineer - Plugged In",
         "url": "https://open.spotify.com/album/4XVOMAV4svBJPsSYI3SE5u"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 152432,
       "name": "M24 x Fumez the Engineer - Plugged In",
       "url": "https://open.spotify.com/track/6mZ1eBLOPHltSDFZn4SfwU"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
+        "name": "Pisces",
+        "url": "https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Pisces",
+      "url": "https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Talk To Me Nice",
-        "url": "https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Talk To Me Nice",
-      "url": "https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j"
-    },
-    {
-      "added_at": "2022-10-23 18:38:51",
-      "album": {
         "name": "Bad One",
         "url": "https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
+        "name": "WW2",
+        "url": "https://open.spotify.com/album/3dvyDylacbSogoCzyIJn52"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "duration_ms": 201982,
+      "name": "WW2",
+      "url": "https://open.spotify.com/track/51ryhYwXfP7vv3A9RORmQ9"
+    },
+    {
+      "added_at": "2022-10-23 18:38:51",
+      "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "WW2",
-        "url": "https://open.spotify.com/album/3dvyDylacbSogoCzyIJn52"
+        "name": "Talk To Me Nice",
+        "url": "https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z"
       },
       "artists": [
         {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
         }
       ],
-      "duration_ms": 201982,
-      "name": "WW2",
-      "url": "https://open.spotify.com/track/51ryhYwXfP7vv3A9RORmQ9"
+      "duration_ms": 148000,
+      "name": "Talk To Me Nice",
+      "url": "https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j"
     },
     {
       "added_at": "2022-10-23 18:38:51",

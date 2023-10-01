@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 131015,
+  "num_followers": 131030,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWIzZDliYjJjNzZhODlkYTgxMzE4NTY0MTZlMDBlNzk2OGFkZGFk",
+  "snapshot_id": "MCxlOTQ1MDI4NDM1Y2NkMWUxMTAyMmExODJhZjA3YzEyMTVmMmU4MzI5",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Transit",
-        "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
+        "name": "View",
+        "url": "https://open.spotify.com/album/6U8tCwy6JKrPmBwT4rb2CD"
       },
       "artists": [
         {
-          "name": "Third Attempt",
-          "url": "https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR"
+          "name": "Himmel",
+          "url": "https://open.spotify.com/artist/2SaSegJV3zAzlLOiQTFXKm"
         }
       ],
-      "duration_ms": 150870,
-      "name": "Transit - Radio Edit",
-      "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
+      "duration_ms": 244856,
+      "name": "View",
+      "url": "https://open.spotify.com/track/0eiVc8xmZgqy2V92ye6eHU"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "View",
-        "url": "https://open.spotify.com/album/6U8tCwy6JKrPmBwT4rb2CD"
+        "name": "Transit",
+        "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
       },
       "artists": [
         {
-          "name": "Himmel",
-          "url": "https://open.spotify.com/artist/2SaSegJV3zAzlLOiQTFXKm"
+          "name": "Third Attempt",
+          "url": "https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR"
         }
       ],
-      "duration_ms": 244856,
-      "name": "View",
-      "url": "https://open.spotify.com/track/0eiVc8xmZgqy2V92ye6eHU"
+      "duration_ms": 150870,
+      "name": "Transit - Radio Edit",
+      "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Motown",
-        "url": "https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l"
-      },
-      "artists": [
-        {
-          "name": "Ost & Kjex",
-          "url": "https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61"
-        },
-        {
-          "name": "Tracee Meyn",
-          "url": "https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly"
-        }
-      ],
-      "duration_ms": 388272,
-      "name": "Motown",
-      "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
-    },
-    {
-      "added_at": "2023-08-02 08:46:27",
-      "album": {
         "name": "Moving Points",
         "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 127524,
       "name": "Low",
       "url": "https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue"
+    },
+    {
+      "added_at": "2023-08-02 08:46:27",
+      "album": {
+        "name": "Motown",
+        "url": "https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l"
+      },
+      "artists": [
+        {
+          "name": "Ost & Kjex",
+          "url": "https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61"
+        },
+        {
+          "name": "Tracee Meyn",
+          "url": "https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly"
+        }
+      ],
+      "duration_ms": 388272,
+      "name": "Motown",
+      "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
     },
     {
       "added_at": "2023-08-02 08:46:27",

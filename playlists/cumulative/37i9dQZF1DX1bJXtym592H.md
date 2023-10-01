@@ -4,7 +4,7 @@
 
 > n3xt l3v3l gaming beats.
 
-188 songs - 7 hr 42 min
+190 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Crunchy](https://open.spotify.com/track/29Vnq6QaHQZnc0y0rPSQSe) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Crunchy](https://open.spotify.com/album/6EjrJfPvnHoJRS15xWXmKJ) | 2:45 | 2022-04-22 |  |
 | [Daydream Thing](https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Daydream Thing](https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX) | 2:08 | 2023-09-08 |  |
 | [Deep Pockets](https://open.spotify.com/track/6ivtpwLd3ZJW6J9THJP2JP) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Deep Pockets](https://open.spotify.com/album/0hgL3GX8NBVHG26sV0lPmG) | 2:46 | 2022-04-22 |  |
-| [deep waters](https://open.spotify.com/track/1JkZ7GfXv9mFkGuN60pcex) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [deep waters](https://open.spotify.com/album/6ZwghYV71Nhxc2ko5VZ5k2) | 2:10 | 2023-09-29 |  |
+| [deep waters](https://open.spotify.com/track/1JkZ7GfXv9mFkGuN60pcex) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [deep waters](https://open.spotify.com/album/6ZwghYV71Nhxc2ko5VZ5k2) | 2:10 | 2023-09-29 | 2023-10-01 |
 | [Do It Again](https://open.spotify.com/track/0jLLFyVz52mRyhHxZztxf0) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Do It Again](https://open.spotify.com/album/3ofJPttUwGpEpwkcPypb8D) | 2:07 | 2023-09-29 |  |
 | [Dream Sailling](https://open.spotify.com/track/1CLQSFom2hv8us4rXiJxGm) | [Billy Nova](https://open.spotify.com/artist/04umGdIV4JxSdiFyoEiaFj) | [Blame the Winds](https://open.spotify.com/album/3A26hgmcTnVx5BcsfYS7rl) | 2:49 | 2022-04-22 |  |
 | [Drifting](https://open.spotify.com/track/1wr8Q5WOf1VHvIW2XlJ6WS) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Drifting](https://open.spotify.com/album/5f5B4R0ddtk11JjCNpWPeY) | 2:02 | 2023-09-29 |  |
@@ -94,6 +94,7 @@
 | [Like You](https://open.spotify.com/track/0wycCZ0b3g2NoqZV9OtCaM) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Like You / Meant To Be](https://open.spotify.com/album/6itlc8l0JwpO0z4wvShTTt) | 3:00 | 2022-04-22 |  |
 | [Lil XX](https://open.spotify.com/track/4mnFc26yXNij0kq4PmxWE5) | [Chip&Pinn](https://open.spotify.com/artist/4m5L8s0CeXq6t7L1s2YR5A) | [Green Thumbs](https://open.spotify.com/album/1uztEtocC4GYKSQhLky95u) | 3:28 | 2022-04-22 |  |
 | [Liquorice](https://open.spotify.com/track/34gmdxjVoCAQIDixBNhYda) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Supreme](https://open.spotify.com/album/1aq0krXC5rXL0SoOPOBkIC) | 1:54 | 2022-04-22 |  |
+| [Lizards and Lattes](https://open.spotify.com/track/3WF6J4P4ozwQ1hbQMzGtID) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Lizards and Lattes](https://open.spotify.com/album/6MFXbVjc0gexy3Qvv3WuLb) | 1:59 | 2023-09-29 |  |
 | [Look After Yourself](https://open.spotify.com/track/1SL75FDChNKsexXzKgDb5P) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [Look After Yourself](https://open.spotify.com/album/4ZhHQLB6hZCFU3k3qzx6wL) | 3:07 | 2022-04-22 |  |
 | [Love Snip](https://open.spotify.com/track/5TfqA1PGQJRZyng0480Zre) | [Gibun](https://open.spotify.com/artist/2UjKSDLr7jx5VWshKXQ0bT) | [Love Snip](https://open.spotify.com/album/1VL10DhdUCPKdNjbIkQwsY) | 1:32 | 2022-04-22 | 2023-09-09 |
 | [Marathon](https://open.spotify.com/track/5ZhlX046B47UxpliilbqA4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Marathon](https://open.spotify.com/album/23wibxrF7lAmBOCf5T6SOe) | 3:43 | 2023-09-29 |  |
@@ -103,7 +104,7 @@
 | [millions](https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt) | [heading\_\_](https://open.spotify.com/artist/3aE2ahDVUX4Pd0KKkWOfmS) | [outwards](https://open.spotify.com/album/00mqlceXIbKhc7ukOv5VOk) | 1:48 | 2022-04-22 |  |
 | [minnen](https://open.spotify.com/track/09EA7muQkLpLQRFUcEBtK1) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [minnen](https://open.spotify.com/album/66Hlh8PrfWYt81ZZsZoL3N) | 2:38 | 2022-04-22 |  |
 | [Miscellaneous](https://open.spotify.com/track/5hA8bjM7r4SyiNzngr2Edv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197), [Floris van der Vlugt](https://open.spotify.com/artist/2s0GB9h7qb9UAum2R2Z06O) | [Miscellaneous](https://open.spotify.com/album/08zV9UWheKMDLzLAqi1oIJ) | 3:22 | 2022-04-22 |  |
-| [Mollusk](https://open.spotify.com/track/3ayZLIPnbKmirM9XKPpw5z) | [Mello Cotton](https://open.spotify.com/artist/1inhmE1btx8aeNDB9QiDPx) | [Mollusk](https://open.spotify.com/album/39xIOYAisIUGBygeBWoE2Y) | 2:22 | 2023-09-29 |  |
+| [Mollusk](https://open.spotify.com/track/3ayZLIPnbKmirM9XKPpw5z) | [Mello Cotton](https://open.spotify.com/artist/1inhmE1btx8aeNDB9QiDPx) | [Mollusk](https://open.spotify.com/album/39xIOYAisIUGBygeBWoE2Y) | 2:22 | 2023-09-29 | 2023-10-01 |
 | [morning coffe](https://open.spotify.com/track/1H86TtgCH7wlztTQjIJCXo) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [morning coffe](https://open.spotify.com/album/1RajhsnKrQOlMAZkJkItg2) | 2:09 | 2023-09-29 |  |
 | [Morning Vibes](https://open.spotify.com/track/0Dwo6odrEUVCNcm8IJFd5g) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/7qVtOLDgRzWmoI1bMW9SXl) | 2:35 | 2022-09-16 |  |
 | [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2022-04-22 | 2022-11-20 |
@@ -117,6 +118,7 @@
 | [New York Moonlight](https://open.spotify.com/track/1I3c85KVlj1VgjnVf6bQ20) | [Joe Lee Noire](https://open.spotify.com/artist/5c9fBAFhEu0crejR4zKumg) | [New York Moonlight](https://open.spotify.com/album/4wHaNXifn7ItMoWWXjp4d8) | 1:59 | 2022-04-22 |  |
 | [Night Ride](https://open.spotify.com/track/2iOoOLkA4AQSdNwxPJlBxH) | [Ganther](https://open.spotify.com/artist/2XP4QAz4wvP1pOO7NprFbJ) | [Night Ride](https://open.spotify.com/album/0NVIX55zaGhZV7GlpMQPQe) | 3:17 | 2022-04-22 |  |
 | [No New Friends](https://open.spotify.com/track/7DZdYHRUXHDfabjkHKoLpf) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [No New Friends](https://open.spotify.com/album/5mzHrv24KXDI1ZYuOm5kNg) | 2:52 | 2023-01-06 | 2023-09-09 |
+| [Nostalgic Noodles](https://open.spotify.com/track/639IKfmKDbCl4mVt02t1Wa) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Nostalgic Noodles](https://open.spotify.com/album/7wcmvwXKitFGIE9yIPm5Cj) | 1:59 | 2023-09-29 |  |
 | [Not Like This](https://open.spotify.com/track/7HY7caGt2kKJAtu756UcB8) | [Prince Enigma](https://open.spotify.com/artist/25Koobl2J39h8hlZzsT30t) | [Not Like This](https://open.spotify.com/album/7eWBzYLHIvD6Tj1JeG8NUX) | 2:43 | 2023-09-29 |  |
 | [oasis](https://open.spotify.com/track/7GIBH22qY9MFfnoZZtBn4P) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [oasis](https://open.spotify.com/album/0quVUjufhVdhBPiggdCl3k) | 2:10 | 2023-09-29 |  |
 | [Office Hours](https://open.spotify.com/track/1wT08JjKyu3iUj52fAQAZz) | [Assistant Manager](https://open.spotify.com/artist/15sr5wzsH17p3tFje4h9Tl) | [Office Hours](https://open.spotify.com/album/5sqwRtt3nAnfnlAKITRF1c) | 1:58 | 2022-04-22 |  |

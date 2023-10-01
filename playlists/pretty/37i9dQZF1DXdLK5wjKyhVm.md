@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,315 likes - 179 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,281 likes - 179 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 36 | [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 |
 | 37 | [Lush](https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Lush](https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P) | 2:27 |
 | 38 | [Brooklyn Fridge](https://open.spotify.com/track/33SAwLjkk4KKkzc6rlR4Vb) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Brooklyn Fridge](https://open.spotify.com/album/3X8dq5MIueZuj1oUBWcSOB) | 1:33 |
-| 39 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 |
+| 39 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 |
 | 40 | [adjustment](https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln) | [Ryder 003](https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz) | [adjustment](https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz) | 2:13 |
 | 41 | [Panini](https://open.spotify.com/track/5W88jaxH2UoN0FNvPPp9yr) | [Pinetops Winston](https://open.spotify.com/artist/3Ypfonvr3ggb1Fe3OaYpEd) | [Panini](https://open.spotify.com/album/5oLRoaRNQPEPwb33HQeWKr) | 2:15 |
 | 42 | [Cross Eyed](https://open.spotify.com/track/3DFAKid92nSb9wHyjeIlrj) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Awakening](https://open.spotify.com/album/6LijB7iYkzY7aO1qdHRXY8) | 2:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,028 likes - 176 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,247 likes - 176 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 124 | [You Oughta Know](https://open.spotify.com/track/1wy11OtTLB78IcBoDrPP9W) | [Yoga Beats](https://open.spotify.com/artist/0YgFSc6eJJRhhgDnTdifyt), [Cameron Ford](https://open.spotify.com/artist/2Epdw19iNTn6Wv4YV29h9y) | [Jagged Little Chill](https://open.spotify.com/album/4WcB9SSwOI0DgKp2OJ6oFz) | 3:33 |
 | 125 | [Easy On Me](https://open.spotify.com/track/4p8GeNxLZQTNWcgySydMsZ) | [Mount Eminest](https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y), [Schrubi](https://open.spotify.com/artist/7mV0Ig1YMYRc97fz3PlwZp), [lofi.dealer](https://open.spotify.com/artist/3A6LBlFVLooS63BpoSWIat) | [Easy On Me](https://open.spotify.com/album/582mmW0PmH58ARhZo0xH7E) | 2:44 |
 | 126 | [7 Years](https://open.spotify.com/track/250hVR0oKXTid5AzOM4t5c) | [Chill With Lofi](https://open.spotify.com/artist/7CHCHpUzDDPRElNiZYmcbI) | [7 Years](https://open.spotify.com/album/7kuqvi4sgPk63wYPYGg4BH) | 1:30 |
-| 127 | [Stay \(lofi version\)](https://open.spotify.com/track/4qPbSwK3qgX9skfXYtBP1j) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [Sad Edits & LoFi Covers of Famous Songs](https://open.spotify.com/album/4cSwggpE9uS3zM6Zkkxln5) | 1:58 |
+| 127 | [Stay \(lofi remix\)](https://open.spotify.com/track/6OBjTQlEcdIrHzqaqzLRI2) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [LoFi Remixes of Famous TikTok Songs \(songs stuck in your head\)](https://open.spotify.com/album/5PtYr6slAFyJ0afCDPlkgK) | 1:50 |
 | 128 | [Slow Dancing in the Dark](https://open.spotify.com/track/7LcUhhWSUSzzVO0FGrMUyc) | [STUDIO BEYOND](https://open.spotify.com/artist/5O6N5WthVbUXGXyvZ16MCo), [JSON](https://open.spotify.com/artist/5AQ95bS3im8uXwX56pGVC2) | [The Covers, Json](https://open.spotify.com/album/4Y7upisR167IkiC82ZU6dw) | 6:00 |
 | 129 | [sunday morning](https://open.spotify.com/track/2Kqb9yoRNsSiHZT26dg2zs) | [Billy Hammer](https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N) | [sunday morning](https://open.spotify.com/album/3WvUvyo7aNjOGlpFZE7nqg) | 3:43 |
 | 130 | [Roxanne](https://open.spotify.com/track/5hBtuwob3QCkTzp0LPZRf1) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD) | [Roxanne](https://open.spotify.com/album/2h6KJl2aUMLIV57CkZuB00) | 1:38 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 175 | [Sunny](https://open.spotify.com/track/1LG2brYleAjyAbOgYDAjG8) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [Sunny](https://open.spotify.com/album/1a8VE2Tf2qQoEXldyBBDJz) | 2:29 |
 | 176 | [Jimmy Cooks \- Lofi Cover](https://open.spotify.com/track/0QtpzHpNX7piC7zuMFEHEK) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl), [Wild Issues](https://open.spotify.com/artist/1m3Su2QS1BPQuE4SdHjb2S) | [Lo\-Fi Rap Caviar, Vol\. 4](https://open.spotify.com/album/6d59AcN0nULql52ea9ViNJ) | 1:09 |
 
-Snapshot ID: `MCxlNDRmM2NjMDJmYjk4MTUzZTc2NmFlMzZkOTVmMmI0ZGE5Y2Q3Nzlk`
+Snapshot ID: `MCwxMmI2Mjk0ZGM1NDRlOGVjMmM4YzQxMjYwMzRjYjg1MzMyODc4MGU4`

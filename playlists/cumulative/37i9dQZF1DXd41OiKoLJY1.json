@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Fresh releases from your future favorite artists. Cover: Leona  Artwork: Isu Kim\n",
+  "description": "Fresh releases from your future favorite artists. Cover: Hero  Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -2904,6 +2904,24 @@
       "duration_ms": 181239,
       "name": "Ayoko ng Ulitin",
       "url": "https://open.spotify.com/track/62Rop4kC6xArEDwYKV2O4Z"
+    },
+    {
+      "album": {
+        "name": "Ayos Lang \u2018Yan",
+        "url": "https://open.spotify.com/album/2pBLiHZ28ZbC3gC6MOIp1H"
+      },
+      "artists": [
+        {
+          "name": "Hero",
+          "url": "https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203609,
+      "name": "Ayos Lang \u2018Yan",
+      "url": "https://open.spotify.com/track/4SsdGsUCb6RWorUQ58bueg"
     },
     {
       "album": {

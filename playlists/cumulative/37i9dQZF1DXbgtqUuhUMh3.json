@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to Arab women, at full volume. Cover: Zena Emad\n\n\n",
+  "description": "Listen to Arab women, at full volume. Cover: Numidia\n\n\n",
   "name": "EQUAL Arabia ",
   "tracks": [
     {
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 268872,
       "name": "Admantak",
       "url": "https://open.spotify.com/track/0tPxzBIbh3cPuwP56D2aiF"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 198000,
       "name": "Ayzak Ala Enferad",
       "url": "https://open.spotify.com/track/7GvJaBiQmrzLP5FNz61p47"
@@ -3537,6 +3537,24 @@
     },
     {
       "album": {
+        "name": "Hay aliya",
+        "url": "https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR"
+      },
+      "artists": [
+        {
+          "name": "Numidia Lezoul",
+          "url": "https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Hay aliya",
+      "url": "https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3"
+    },
+    {
+      "album": {
         "name": "Dream 23",
         "url": "https://open.spotify.com/album/45zDr1B6qUmDcsH3clyp2O"
       },
@@ -4234,7 +4252,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 163405,
       "name": "kawabes",
       "url": "https://open.spotify.com/track/1cJ8RNwEcWs2XgN9RNgHgg"
@@ -4526,7 +4544,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Ktab Maftoh",
       "url": "https://open.spotify.com/track/2HznblRR4j5w8QkSH1e8El"
@@ -5378,6 +5396,24 @@
       "duration_ms": 224745,
       "name": "Mawaqif",
       "url": "https://open.spotify.com/track/3LOqtToly651USdV4pOdXt"
+    },
+    {
+      "album": {
+        "name": "Maystahelsh",
+        "url": "https://open.spotify.com/album/50A9VCNn74bi8oyj8SOTic"
+      },
+      "artists": [
+        {
+          "name": "Hanan Redha",
+          "url": "https://open.spotify.com/artist/5AFPjqv26lWXQt2UR5BuGV"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216122,
+      "name": "Maystahelsh",
+      "url": "https://open.spotify.com/track/3io0IKZUAuHS11n9iAKSMx"
     },
     {
       "album": {
@@ -6942,7 +6978,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 209454,
       "name": "Siahak Tarab",
       "url": "https://open.spotify.com/track/7ludZiL5pdp3QKDjEEmMt0"
@@ -7634,7 +7670,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 207058,
       "name": "Wesh El Sobh",
       "url": "https://open.spotify.com/track/07XdJBtcMX89IbRmVyMQ7Q"
@@ -9134,7 +9170,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 234358,
       "name": "\u0634\u063a\u0651\u0644 \u0645\u0648\u0633\u064a\u0642\u0649",
       "url": "https://open.spotify.com/track/2mf2n0TebeVbejaizJQkD6"

@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con Jacob Forever en portada.",
-  "num_followers": 2613,
+  "num_followers": 2649,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjkzMjIwNjU5ZmNiYmJjMjQ4NjhhMDMyZGVhNTI4YWZiMjJhOGVh",
+  "snapshot_id": "MCxmNWI1M2JiNWU3YzlkNjUwNjY0OGQxYmYzMjk3OTVlYWQ0YTUwM2Iy",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/2sQCPEQ0fuyLyCmbBbcaX8"
-      },
-      "artists": [
-        {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 175735,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/1E5TcIHAZXbcepOW9T8fy5"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 203273,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/2sQCPEQ0fuyLyCmbBbcaX8"
+      },
+      "artists": [
+        {
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "duration_ms": 175735,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/1E5TcIHAZXbcepOW9T8fy5"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "M\u00fasica de Reyes",
-        "url": "https://open.spotify.com/album/5gWr4Q8XrBrvxJiAMxLgvo"
-      },
-      "artists": [
-        {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
-        }
-      ],
-      "duration_ms": 220384,
-      "name": "No Vas",
-      "url": "https://open.spotify.com/track/5ZYqftcWxl6AOiE2HLToDc"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Epicentro",
         "url": "https://open.spotify.com/album/61q0ScDkIeFdYXnrpEpfRf"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "M\u00fasica de Reyes",
+        "url": "https://open.spotify.com/album/5gWr4Q8XrBrvxJiAMxLgvo"
+      },
+      "artists": [
+        {
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        }
+      ],
+      "duration_ms": 220384,
+      "name": "No Vas",
+      "url": "https://open.spotify.com/track/5ZYqftcWxl6AOiE2HLToDc"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Te Quiero Pa' Mi",
         "url": "https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP"
       },
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Eso Es Bola (Deluxe Edition) [El Principe y Damian The Lion]",
+        "url": "https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms"
+      },
+      "artists": [
+        {
+          "name": "Los Desiguales",
+          "url": "https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm"
+        }
+      ],
+      "duration_ms": 263263,
+      "name": "Eso Es Bola",
+      "url": "https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Todo Est\u00e1 Ok Remix",
         "url": "https://open.spotify.com/album/3xSgXDady9EgpjHkZ8rIf2"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 213600,
       "name": "Todo Est\u00e1 Ok Remix - Prod. by Dj Cham",
       "url": "https://open.spotify.com/track/2nVhTUCK9KQ2Wq9Zyfy0iW"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Eso Es Bola (Deluxe Edition) [El Principe y Damian The Lion]",
-        "url": "https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms"
-      },
-      "artists": [
-        {
-          "name": "Los Desiguales",
-          "url": "https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm"
-        }
-      ],
-      "duration_ms": 263263,
-      "name": "Eso Es Bola",
-      "url": "https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -971,30 +971,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Dicelo",
-        "url": "https://open.spotify.com/album/65akUfK8vk8Nc4i6IM4igH"
-      },
-      "artists": [
-        {
-          "name": "Lianet Rivero",
-          "url": "https://open.spotify.com/artist/3j8PyngjyNhnbOUlWX7Naf"
-        },
-        {
-          "name": "Lia",
-          "url": "https://open.spotify.com/artist/3AWuifXTvl9lTa9lyjB94Z"
-        },
-        {
-          "name": "Gatillo",
-          "url": "https://open.spotify.com/artist/299LR5yQ0wDij37IEsG1LT"
-        }
-      ],
-      "duration_ms": 153563,
-      "name": "Dicelo",
-      "url": "https://open.spotify.com/track/5asyOj4gG21a2pKzqBIMOk"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "No Mas Mentiras (Remix)",
         "url": "https://open.spotify.com/album/30vjNDLhlQGEKeKzeFvvb8"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 253714,
       "name": "Calentando la Habana",
       "url": "https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Dicelo",
+        "url": "https://open.spotify.com/album/65akUfK8vk8Nc4i6IM4igH"
+      },
+      "artists": [
+        {
+          "name": "Lianet Rivero",
+          "url": "https://open.spotify.com/artist/3j8PyngjyNhnbOUlWX7Naf"
+        },
+        {
+          "name": "Lia",
+          "url": "https://open.spotify.com/artist/3AWuifXTvl9lTa9lyjB94Z"
+        },
+        {
+          "name": "Gatillo",
+          "url": "https://open.spotify.com/artist/299LR5yQ0wDij37IEsG1LT"
+        }
+      ],
+      "duration_ms": 153563,
+      "name": "Dicelo",
+      "url": "https://open.spotify.com/track/5asyOj4gG21a2pKzqBIMOk"
     },
     {
       "added_at": "2023-09-08 04:00:00",

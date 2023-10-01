@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Alex Hall
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,221 likes - 204 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,300 likes - 204 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 203 | [I Hate Country Music](https://open.spotify.com/track/1XuE2WdIRlAbiiosWKBL5K) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [I Hate Country Music](https://open.spotify.com/album/698btcPmaoZILZISEys2EE) | 3:07 |
 | 204 | [4x4](https://open.spotify.com/track/4DNjrQWwZc6nvqTr245wiX) | [Kelsey Hart](https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb) | [4x4](https://open.spotify.com/album/42KYjbEIhMkHHwB2sbJ0cy) | 3:19 |
 
-Snapshot ID: `MCw4OTFlNzNmMDA2MWZhMjAwMmRlZDlmZDBmZDBjZDNkMmJiMTM2ZDUy`
+Snapshot ID: `MCwzNjdkMTZiZmFmZjU1MmU0MGVhODRmYjZjNjQzNjRlYjY3YzBlNjFk`

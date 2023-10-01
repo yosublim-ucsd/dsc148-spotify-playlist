@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Ivandro e Bispo entram na zona. ",
+  "description": "Plutonio e Vulgo FK entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -205,10 +205,6 @@
         "url": "https://open.spotify.com/album/5ZyIbH4gXlax3F8g4KK8kC"
       },
       "artists": [
-        {
-          "name": "Van Sophie",
-          "url": "https://open.spotify.com/artist/7kj0eH1FPO3YJP1pTTsrkG"
-        },
         {
           "name": "Don G",
           "url": "https://open.spotify.com/artist/1sXcSpEYLDVaQSdKG4VWlb"
@@ -774,6 +770,24 @@
       "duration_ms": 213634,
       "name": "Aulas e Cursos",
       "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
+    },
+    {
+      "album": {
+        "name": "AUTO:BOOM",
+        "url": "https://open.spotify.com/album/1dKwTZI06OghdpzpysBFC5"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "AUTO:BOOM",
+      "url": "https://open.spotify.com/track/34d9T0MSSsle5yPUr1lwsf"
     },
     {
       "album": {
@@ -1411,6 +1425,28 @@
     },
     {
       "album": {
+        "name": "Chamadas",
+        "url": "https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156672,
+      "name": "Chamadas",
+      "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
+    },
+    {
+      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/0iSgo1smaFKzYKguM5Kws9"
       },
@@ -1811,6 +1847,28 @@
     },
     {
       "album": {
+        "name": "Coment\u00e1rio",
+        "url": "https://open.spotify.com/album/4eI4p2PWOh7EO5vQJvd3Bh"
+      },
+      "artists": [
+        {
+          "name": "Uzzy",
+          "url": "https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi"
+        },
+        {
+          "name": "Real Punch",
+          "url": "https://open.spotify.com/artist/2Cjyfjlqv9jMyaNP2HZc9c"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Coment\u00e1rio",
+      "url": "https://open.spotify.com/track/2WyVgaeftsSxbp6lCGzp5O"
+    },
+    {
+      "album": {
         "name": "SAY GOODNIGHT TO THE BAD GUYS",
         "url": "https://open.spotify.com/album/3iNvV3UvpZnhVWuoNgrKzT"
       },
@@ -1906,6 +1964,24 @@
       "duration_ms": 282960,
       "name": "Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1dmgHNSeYDyqb6TwLatTfc"
+    },
+    {
+      "album": {
+        "name": "CorDaPele",
+        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178815,
+      "name": "CorDaPele",
+      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
     },
     {
       "album": {
@@ -2256,7 +2332,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 211984,
       "name": "DONDE",
       "url": "https://open.spotify.com/track/4EiZlZ37Q8EnQIU7e2aD2y"
@@ -2350,6 +2426,24 @@
       "duration_ms": 164000,
       "name": "Drunk in Love",
       "url": "https://open.spotify.com/track/2fmGyS46jsnGAkwAKjLev7"
+    },
+    {
+      "album": {
+        "name": "EASPORTSFC 24",
+        "url": "https://open.spotify.com/album/4Kpjwyi1aIoW3t10FI75Ul"
+      },
+      "artists": [
+        {
+          "name": "Wine TKK",
+          "url": "https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "EASPORTSFC 24",
+      "url": "https://open.spotify.com/track/4SCS2z4mG5Jl6LRzD4H1Pk"
     },
     {
       "album": {
@@ -2462,7 +2556,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 221074,
       "name": "Eram Amigos & Bazaram",
       "url": "https://open.spotify.com/track/05BR4nevn67Jy156yIgWDF"
@@ -2590,7 +2684,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 154698,
       "name": "Estou Aqui",
       "url": "https://open.spotify.com/track/0dMz9KfuMSOppuCFFrCTDX"
@@ -3194,7 +3288,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 192143,
       "name": "Gosta",
       "url": "https://open.spotify.com/track/2X10SwvnLgiESulxlxczHz"
@@ -3460,7 +3554,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 172940,
       "name": "Ilustre Desconhecido",
       "url": "https://open.spotify.com/track/1Pe2d0QHU38GivyFJnZDCO"
@@ -4668,7 +4762,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 187826,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/09882XP1lt5VQwc2I9i9Pf"
@@ -5431,6 +5525,32 @@
     },
     {
       "album": {
+        "name": "Pecado",
+        "url": "https://open.spotify.com/album/5OjeVy0AAmKk5I8dNa8TKV"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Prod\u00edgio",
+          "url": "https://open.spotify.com/artist/6BEwA8tWhsWd3pDLUSr26E"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185471,
+      "name": "Pecado",
+      "url": "https://open.spotify.com/track/3ODPKhAqR0QHIkuzl7NU2V"
+    },
+    {
+      "album": {
         "name": "Peitto Feitto",
         "url": "https://open.spotify.com/album/2QijrWoTINhxq40VL8TQj5"
       },
@@ -5454,6 +5574,32 @@
       "duration_ms": 218181,
       "name": "Peitto Feitto",
       "url": "https://open.spotify.com/track/7MuaeiBSGXeQQt4skDjdNU"
+    },
+    {
+      "album": {
+        "name": "Pensamento (feat. Vulgo FK)",
+        "url": "https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Pensamento (feat. Vulgo FK)",
+      "url": "https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z"
     },
     {
       "album": {
@@ -6466,7 +6612,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 219480,
       "name": "Sonhos & Ins\u00f3nias",
       "url": "https://open.spotify.com/track/2UTZP10Hplfqi7xVM7Q3eW"
@@ -6524,7 +6670,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 236557,
       "name": "Soube a Pouco",
       "url": "https://open.spotify.com/track/6f6jz2h9wo7QUvowAXUr86"

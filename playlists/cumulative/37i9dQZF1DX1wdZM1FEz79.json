@@ -4524,7 +4524,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 266146,
       "name": "My Ultimate First Love",
       "url": "https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua"
@@ -6318,6 +6318,24 @@
       "duration_ms": 273333,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd"
+    },
+    {
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/62JssOJCHZampb4T15GkP8"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273333,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/6gxVNoinjJVVpGryxillDN"
     },
     {
       "album": {

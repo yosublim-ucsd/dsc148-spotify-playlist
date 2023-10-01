@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNjU5NDAsMDAwMDAwMDBjZTI3ZTk0NWNhYTU4ZTUwNTA5ZWQyN2FhM2ZlMmNjMA==",
+  "snapshot_id": "MjgyNjU5NDAsMDAwMDAwMDAwMGJkNGRlMDgxODEzNGJiNDBiNzJjZGRlODc5ZTJjZg==",
   "tracks": [
     {
       "added_at": "2023-09-29 03:00:00",
@@ -191,6 +191,70 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "1982 (Remix)",
+        "url": "https://open.spotify.com/album/5ZoZ6gKFGJ8E4oiU7fMfMR"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "1982 - Remix",
+      "url": "https://open.spotify.com/track/0EG54WPNcosMeybB8AdgOP"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "R\u00f6kFl\u00f6te (Alternative Mixes)",
+        "url": "https://open.spotify.com/album/3uXkihtnfUMEe8zsP2RpFU"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 298184,
+      "name": "Wolf Unchained - Alternative Mix",
+      "url": "https://open.spotify.com/track/79ZzFRDXRNaOL3qGn7pffa"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Promised You A Miracle (Live From Paisley Abbey)",
+        "url": "https://open.spotify.com/album/50XXzEskcTuyXfkzZu6f8C"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 260413,
+      "name": "Promised You A Miracle - Live From Paisley Abbey",
+      "url": "https://open.spotify.com/track/6ziBfNAKx2dHDSFL5QA1FR"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Love Is All That Matters",
+        "url": "https://open.spotify.com/album/3WFzLbp8lKYQ74Cmhl1CKw"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 467960,
+      "name": "Love Is All That Matters - Extended Version",
+      "url": "https://open.spotify.com/track/2bW4qGjnmJ5kqHPMdQrPj4"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Amphetamine Smiles",
         "url": "https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY"
       },
@@ -223,22 +287,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "1982 (Remix)",
-        "url": "https://open.spotify.com/album/5ZoZ6gKFGJ8E4oiU7fMfMR"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "1982 - Remix",
-      "url": "https://open.spotify.com/track/0EG54WPNcosMeybB8AdgOP"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Addicted to Romance (from the film 'She Came to Me')",
         "url": "https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd"
       },
@@ -259,22 +307,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Love Is All That Matters",
-        "url": "https://open.spotify.com/album/3WFzLbp8lKYQ74Cmhl1CKw"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "Love Is All That Matters - Accapella Version",
-      "url": "https://open.spotify.com/track/1t2NrAgLwZxfpcwwV20SxH"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/6vYuWSS8nLKm64kTiX24MF"
       },
@@ -291,22 +323,58 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "En Pausa",
+        "url": "https://open.spotify.com/album/4VN1tnk43WT1FZp8pL5h4q"
+      },
+      "artists": [
+        {
+          "name": "Como Asesinar a Felipes",
+          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
+        }
+      ],
+      "duration_ms": 263483,
+      "name": "En Pausa",
+      "url": "https://open.spotify.com/track/4Bgpxhi150I9e2eOw1mGv4"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Vida Cotidiana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/157buz5Int6IECXF2hKYak"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "La Versi\u00f3n En Mi Cabeza",
+      "url": "https://open.spotify.com/track/70iA1uzud3bwrJzQQZ5D6i"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Barcarolle. Piano Evocations from the Golden Age (Extended Edition)",
         "url": "https://open.spotify.com/album/6npRp5KpCP1q938piBKwOE"
       },
       "artists": [
         {
-          "name": "Vassily Sapellnikoff",
-          "url": "https://open.spotify.com/artist/2mPsrlJthLsbakd4CJjJUY"
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
           "name": "Peter Phillips",
           "url": "https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp"
+        },
+        {
+          "name": "Alfred Gr\u00fcnfeld",
+          "url": "https://open.spotify.com/artist/5hJuoB5gBpZNiiwRh4Ktnz"
         }
       ],
-      "duration_ms": 186430,
-      "name": "Valse, Op. 1 in E-Flat Major - Welte-Mignon 942",
-      "url": "https://open.spotify.com/track/1I19k20k1pYpua4H8OsSnf"
+      "duration_ms": 648267,
+      "name": "Andante with Variations in F Minor, H.XVII:6 - Duca 516",
+      "url": "https://open.spotify.com/track/6J2pJKriat9L0TNuzpU9aZ"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -324,25 +392,9 @@
           "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
         }
       ],
-      "duration_ms": 294857,
-      "name": "Embrace Your End",
-      "url": "https://open.spotify.com/track/2FU9gU2m2oNRGBiAGmASUD"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "En Pausa",
-        "url": "https://open.spotify.com/album/4VN1tnk43WT1FZp8pL5h4q"
-      },
-      "artists": [
-        {
-          "name": "Como Asesinar a Felipes",
-          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
-        }
-      ],
-      "duration_ms": 263483,
-      "name": "En Pausa",
-      "url": "https://open.spotify.com/track/4Bgpxhi150I9e2eOw1mGv4"
+      "duration_ms": 260571,
+      "name": "Doom",
+      "url": "https://open.spotify.com/track/7fGPMnxUXxnbP8Rfkn1eea"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -367,54 +419,6 @@
       "duration_ms": 230400,
       "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
       "url": "https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Promised You A Miracle (Live From Paisley Abbey)",
-        "url": "https://open.spotify.com/album/50XXzEskcTuyXfkzZu6f8C"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 260413,
-      "name": "Promised You A Miracle - Live From Paisley Abbey",
-      "url": "https://open.spotify.com/track/6ziBfNAKx2dHDSFL5QA1FR"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Vida Cotidiana (Deluxe Version)",
-        "url": "https://open.spotify.com/album/157buz5Int6IECXF2hKYak"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "La Versi\u00f3n En Mi Cabeza",
-      "url": "https://open.spotify.com/track/70iA1uzud3bwrJzQQZ5D6i"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "R\u00f6kFl\u00f6te (Alternative Mixes)",
-        "url": "https://open.spotify.com/album/3uXkihtnfUMEe8zsP2RpFU"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 298184,
-      "name": "Wolf Unchained - Alternative Mix",
-      "url": "https://open.spotify.com/track/79ZzFRDXRNaOL3qGn7pffa"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -875,54 +879,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Stay Alive",
-        "url": "https://open.spotify.com/album/4UHvt8BH9vbtB2ZhVKT8mR"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 226734,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/66Qgii6ORyeqooYBgEwOjM"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/5qG5KHu6FlMIpKYle1X2um"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 313549,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/2yZgauFsW3ofMyqpKK7IZy"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "P\u00e1jaros de fuego (Banda Sonora Original del documental \"Hawker Hunter: El ruido del silencio\")",
-        "url": "https://open.spotify.com/album/3Xc48Ap1RROgCr5OTr8w7C"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 276545,
-      "name": "P\u00e1jaros de fuego - Banda Sonora Original del documental \"Hawker Hunter: El ruido del silencio\"",
-      "url": "https://open.spotify.com/track/4qsgzEP6xq3jYHdj7eocub"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Scoring The End Of The World (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy"
       },
@@ -939,58 +895,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Bad Bitch Supreme",
-        "url": "https://open.spotify.com/album/6qgVfNQpi4hKok5r85P7pE"
-      },
-      "artists": [
-        {
-          "name": "Fit For Rivals",
-          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
-        },
-        {
-          "name": "GRLwood",
-          "url": "https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe"
-        }
-      ],
-      "duration_ms": 182900,
-      "name": "Bad Bitch Supreme",
-      "url": "https://open.spotify.com/track/6dwFMBSMb7YBnAaZg76IoH"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Oler A Ti",
-        "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "Oler A Ti",
-      "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "The Man in Me (Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978)",
-        "url": "https://open.spotify.com/album/6eMXx9YBoLXZsdxddviSaz"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 231960,
-      "name": "The Man in Me - Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978",
-      "url": "https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "are we 3ven?",
         "url": "https://open.spotify.com/album/0t5Pldrap7jIMxe3ajmfRg"
       },
@@ -1003,70 +907,6 @@
       "duration_ms": 232320,
       "name": "are we 3ven?",
       "url": "https://open.spotify.com/track/05WkUDENwFYIlGrQMXGN9K"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Enfermos del Rap 2023",
-        "url": "https://open.spotify.com/album/1fGuJ2VdDscDPKBtVB6HMM"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        },
-        {
-          "name": "Chystemc",
-          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
-        },
-        {
-          "name": "Portavoz",
-          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
-        },
-        {
-          "name": "Rick Santino",
-          "url": "https://open.spotify.com/artist/1gGMjvifr56fICpI15zMLd"
-        },
-        {
-          "name": "Sativanderground",
-          "url": "https://open.spotify.com/artist/5Gk7kZkr62Q4rPz6swYJse"
-        },
-        {
-          "name": "Jet Castillo",
-          "url": "https://open.spotify.com/artist/6g4U5PTD4FoAEcjDaISZAT"
-        },
-        {
-          "name": "Ambar Luna",
-          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
-        },
-        {
-          "name": "Grafy",
-          "url": "https://open.spotify.com/artist/57gT8Cq7OyTpCNhOVYrrWR"
-        },
-        {
-          "name": "Sabotage",
-          "url": "https://open.spotify.com/artist/5YIqrIoaYZGmDHvxa6jzwD"
-        },
-        {
-          "name": "Zimagen",
-          "url": "https://open.spotify.com/artist/2BqMV9eii5ILqyPN0ZhiuX"
-        },
-        {
-          "name": "Semillah Skillz",
-          "url": "https://open.spotify.com/artist/2uFdkDzuib4OBkfNECkc59"
-        },
-        {
-          "name": "Aerstame",
-          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
-        },
-        {
-          "name": "Stailok",
-          "url": "https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi"
-        }
-      ],
-      "duration_ms": 331333,
-      "name": "Enfermos del Rap 2023",
-      "url": "https://open.spotify.com/track/1Lc6s4kn38YPwPRfCoBqpg"
     },
     {
       "added_at": "2023-09-29 03:00:00",

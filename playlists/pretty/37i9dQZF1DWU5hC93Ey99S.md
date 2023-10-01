@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,434 likes - 241 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,567 likes - 241 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 129 | [Why Does My Heart](https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Why Does My Heart](https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd) | 2:52 |
 | 130 | [something we would dance to](https://open.spotify.com/track/3SCxgfMHjQsyQ7fSHw5c9K) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [rakkaus](https://open.spotify.com/album/1YgHQC8MHFGfoBXTkiSOFV) | 3:09 |
 | 131 | [KIDS](https://open.spotify.com/track/6NQbvueqSRWgHOailFx7th) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [KIDS](https://open.spotify.com/album/2hLLfjFvg3ya7scVAfQjrE) | 3:05 |
-| 132 | [Isolate \- Jacana People Remix](https://open.spotify.com/track/4gaVbud6ZqzIgse5t5kzYw) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Isolate \(Jacana People Remix\)](https://open.spotify.com/album/1De74ejTitVpfGKijS6SIP) | 4:04 |
+| 132 | [Isolate \(Jacana People Remix\)](https://open.spotify.com/track/1URB1hDZSJhfcIrT4Z2dNS) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Isolate](https://open.spotify.com/album/30OA856joXbx7jpYJ9VANy) | 4:04 |
 | 133 | [No Sympathy](https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [No Sympathy](https://open.spotify.com/album/48140dThJ2fdFQpcvO0x5B) | 4:18 |
 | 134 | [Something Stronger](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Something Stronger](https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB) | 2:07 |
 | 135 | [Gold](https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Gold](https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq) | 2:03 |
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 240 | [So Long](https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:47 |
 | 241 | [So Good](https://open.spotify.com/track/7p4dZT5LxcWxyvpJRW2eVw) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [So Good](https://open.spotify.com/album/6sDBmrhOFwAgqs9HK3STCd) | 2:43 |
 
-Snapshot ID: `MCxkMTk0MGQ0MTU1MzQ1NDBlN2NmMmZiY2QyOWRiYTZjMDU0NDcyNzRi`
+Snapshot ID: `MCw2NzIyZDQzNzA4YWFkZGRhMjM4ZmU2Y2JkYTkzMDhlNzIwMDE5Zjg0`

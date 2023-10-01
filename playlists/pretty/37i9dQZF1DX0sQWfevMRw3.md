@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DANSAR DOM I HIMMELEN??
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,785 likes - 95 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,887 likes - 95 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 94 | [Dynamit](https://open.spotify.com/track/0kQ0nR6UWBVZvRRLpGSX3w) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [Dynamit](https://open.spotify.com/album/2JEyGskhrHPavF0s17Vfwc) | 1:52 |
 | 95 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 |
 
-Snapshot ID: `MCxiMDdiZGQwMjQ0NzQxYjRiOTlmZTJiN2VmYjdiMDNiNWZmODYwMzEy`
+Snapshot ID: `MCw1NDhmY2NlYzM5MGQwY2ViNDhmNjE4ZDBiMTVjNWFkNTRjNGVlMjEw`

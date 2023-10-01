@@ -2,7 +2,7 @@
 
 ### [80s Love Songs](https://open.spotify.com/playlist/37i9dQZF1DXc3KygMa1OE7)
 
-> Las canciones de amor inolvidables de los 80.
+> The most unforgettable love songs from the 80s.
 
 106 songs - 7 hr 26 min
 

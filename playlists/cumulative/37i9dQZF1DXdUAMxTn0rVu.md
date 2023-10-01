@@ -2,9 +2,9 @@
 
 ### [I Love My Underground Classics](https://open.spotify.com/playlist/37i9dQZF1DXdUAMxTn0rVu)
 
-> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Black Star
+> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Madlib
 
-138 songs - 9 hr 16 min
+139 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [The Look of Love, Pt\. 1](https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [J\-88](https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta) | 3:38 | 2021-07-29 |  |
 | [The Official](https://open.spotify.com/track/4hKn3UprlDFgjOZ1CtufBr) | [Jaylib](https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Champion Sound](https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa) | 3:31 | 2023-04-28 |  |
 | [The Official](https://open.spotify.com/track/5JUEfEsVmgEGI6SMbFH3gq) | [Jaylib](https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Champion Sound](https://open.spotify.com/album/2dYpI1jDvEswqGoA3oMzrG) | 3:31 | 2021-03-26 | 2022-07-28 |
-| [The Platform](https://open.spotify.com/track/1BbYPTXP9VwBWm44MqLyHK) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [The Platform](https://open.spotify.com/album/4FLIb7KILAeKlllF1SeRTy) | 4:37 | 2023-07-10 |  |
+| [The Platform](https://open.spotify.com/track/1BbYPTXP9VwBWm44MqLyHK) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [The Platform](https://open.spotify.com/album/4FLIb7KILAeKlllF1SeRTy) | 4:37 | 2023-07-10 | 2023-10-01 |
+| [The Red](https://open.spotify.com/track/39DqjGQSh3UvzQxueQSauA) | [Jaylib](https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Champion Sound](https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa) | 3:22 | 2023-09-29 |  |
 | [The Sun God](https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:34 | 2020-09-25 |  |
 | [The Sun God](https://open.spotify.com/track/2IUCmiYLRuQohsIyiE3RaG) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [Hi\-Teknology](https://open.spotify.com/album/0VWDxRqfRmC5O6rW6Fq3ND) | 4:34 | 2020-09-25 | 2022-07-29 |
 | [The Way You Do It](https://open.spotify.com/track/0G3uLnfuwt3PLxw6QgDIZr) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [The Way You Do It/The Get Up](https://open.spotify.com/album/1FoizIaKBYPv4c0RbKf7mm) | 3:56 | 2020-09-25 | 2022-02-09 |

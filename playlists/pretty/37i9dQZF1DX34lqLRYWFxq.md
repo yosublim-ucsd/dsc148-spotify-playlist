@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: Fefe Dobson 💋
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,659 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,728 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 24 | [Hold On, Let It Go](https://open.spotify.com/track/4tBDNyaCVh2eI6Uhga7GTR) | [Fast Romantics](https://open.spotify.com/artist/2A0s0vRWHl5XyWpdzM36RT) | [Happiness + Euphoria](https://open.spotify.com/album/2xbutxshXGr0Z5ZFuKVuwb) | 3:51 |
 | 25 | [Pretty Lady](https://open.spotify.com/track/1kG1Cs2fV5twgwRTe9wHm7) | [Trans\-Canada Highwaymen](https://open.spotify.com/artist/5Aq588mj6kj9ua5OaYQrOT), [Steven Page](https://open.spotify.com/artist/160fRY4TZO7VQmKFQWNBV4), [Craig Northey](https://open.spotify.com/artist/32leSbSq6jJw5lBugt7m0m) | [Pretty Lady](https://open.spotify.com/album/0v7BtTPecIeXPDjOxDSUUE) | 3:47 |
 | 26 | [Beginner's Mind](https://open.spotify.com/track/2rWl4zpMQIvZ1O4CNOlYAB) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Laundry Pile](https://open.spotify.com/album/1QlYhaYb8Tfd47iuoUKaaz) | 4:38 |
-| 27 | [To My Heart](https://open.spotify.com/track/5lB3jWo6QMwVaLlcxqNEdb) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [To My Heart](https://open.spotify.com/album/7wi6Ppz76KRU5airdpcGCW) | 3:06 |
+| 27 | [To My Heart](https://open.spotify.com/track/5lB3jWo6QMwVaLlcxqNEdb) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [To My Heart](https://open.spotify.com/album/7wi6Ppz76KRU5airdpcGCW) | 3:05 |
 | 28 | [Into the Blue](https://open.spotify.com/track/6Fga1QG8juRGVr5NFKMctW) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Eternal Embers](https://open.spotify.com/album/35DFjJWsfg355dxH6p1ZfA) | 3:31 |
 | 29 | [Confessions Of The Fallen](https://open.spotify.com/track/3wLuYl3hBaAceRUzi6XN4t) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/7DOyUfUOWH3myPk79r8Js9) | 3:50 |
 | 30 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/18qLKmBYHFZpJdqdOVCeoM) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6EIeFIxDn5mM9Z2AEYfh9t) | 3:19 |
 | 100 | [40th Floor](https://open.spotify.com/track/2JDbDplDb8mhqfffR0Ml10) | [Blue J](https://open.spotify.com/artist/1Y5uGcgo7QMWxMtWIXtZCH) | [Deep in the Fade](https://open.spotify.com/album/0mI4x2DuWE71kRUPC4SNvy) | 3:28 |
 
-Snapshot ID: `MCxkZWZkZTBjZmYxZjM3NWI3Y2ZiY2Q4OWVhZmM4NzUxZDEwMGYxZDUx`
+Snapshot ID: `MCw4ZGFmMDQ0YjA1ZWJhMmM2YTE2NGUxNWQ3NjE1NzljOWQzYWFjNGEw`

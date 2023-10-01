@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Rebūke
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,831 likes - 70 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,876 likes - 70 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 60 | [When Together](https://open.spotify.com/track/26Ueac9pnDqYTCX04Y9LKK) | [Zaltsman](https://open.spotify.com/artist/64P9QlhICY8oF9DFPHHPco) | [When Together](https://open.spotify.com/album/4WQxdIVOs3LEwHpoR3FWUQ) | 5:40 |
 | 61 | [Echo Chamber](https://open.spotify.com/track/2E1ijRRSltbxCervdfmWVI) | [Mount Palomar](https://open.spotify.com/artist/3MF81jbkfVMeJdxo56JCz6) | [Echo Chamber](https://open.spotify.com/album/6yWWXwR7sxdL94rdikCdFR) | 4:26 |
 | 62 | [Sometimes The Nights Last For Months](https://open.spotify.com/track/0jhUKXv10QyXRK1x2JAYGE) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Sometimes The Nights Last For Months](https://open.spotify.com/album/5sy9G2eYwYz7WPaqRVGIqe) | 6:49 |
-| 63 | [Spread Love](https://open.spotify.com/track/0ejrSEMYTaKg8ui2uCAzaQ) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spread Love](https://open.spotify.com/album/0Tx4Knu8JDLJNXmScBf0KN) | 2:52 |
+| 63 | [Spread Love](https://open.spotify.com/track/4u1yf0ZJudECfkdCqNEngD) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spread Love](https://open.spotify.com/album/2ma3J81ldd9ObkhhGQtjVB) | 2:52 |
 | 64 | [CreM](https://open.spotify.com/track/23kgh3nWUAAikuLRgxNLnk) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [CreM](https://open.spotify.com/album/7tiJtcAnAunUcAwAlhVgLE) | 5:02 |
 | 65 | [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 |
 | 66 | [Not That Girl Anymore](https://open.spotify.com/track/5OkODjxGxTkn6KVhDYZ8Zl) | [Beyond Ü](https://open.spotify.com/artist/4OkP7Wq8IUGr1FvwVsQ3dm) | [Not That Girl Anymore](https://open.spotify.com/album/6ca0yKkyrn5cN6vi3vbjoV) | 4:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 69 | [Cruising In My Herse](https://open.spotify.com/track/5NoVq4jZJkdVMvRlWFCEMk) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Cruising In My Herse](https://open.spotify.com/album/7pzQwVl5jIciRHLLg9hmeQ) | 5:35 |
 | 70 | [Eternity Of Echoes](https://open.spotify.com/track/0NXejdY0rXJfMkocRP1osb) | [Shiken Hanzo](https://open.spotify.com/artist/3lttA5nBNjUeWtLqvOnncr) | [Eternity Of Echoes](https://open.spotify.com/album/4b41tw2qshMUH0F5H6m485) | 5:18 |
 
-Snapshot ID: `MCxmMzJmNGIyYjk4MzNmNTU3YmFlZTZhOTBkMWRiM2QyMmRmYmM0Yzlh`
+Snapshot ID: `MCwwZTcwNjczYWRkZjZjNWRiZTc3NjU1MzAwN2NjM2EyYWRiODE5NmJj`

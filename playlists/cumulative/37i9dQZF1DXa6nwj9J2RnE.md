@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Ray Fuego
 
-102 songs - 5 hr 43 min
+103 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2023-02-23 | 2023-06-09 |
 | [Sepia](https://open.spotify.com/track/4OnJJB3lwl1fnPGrDQlbzy) | [Chagall](https://open.spotify.com/artist/2C03b65xMyNtDDbyBnuPGH) | [Unlocked](https://open.spotify.com/album/3saGtz3MzM4dWtHT2t11uj) | 3:27 | 2023-09-22 |  |
 | [Shostakovich](https://open.spotify.com/track/347pgBmeEtrEiKrzXhmwJu) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [Shostakovich](https://open.spotify.com/album/5iQwFbzozKjzM2GMpMwJ43) | 3:37 | 2023-02-23 | 2023-05-26 |
-| [Silent Treatment](https://open.spotify.com/track/3Kfm28drfcq4sugyWsvIyd) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA) | [Silent Treatment](https://open.spotify.com/album/5LO6ze68qvFSZA9G8X5HVX) | 2:48 | 2023-05-25 |  |
+| [Silent Treatment](https://open.spotify.com/track/3Kfm28drfcq4sugyWsvIyd) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA) | [Silent Treatment](https://open.spotify.com/album/5LO6ze68qvFSZA9G8X5HVX) | 2:48 | 2023-05-25 | 2023-10-01 |
+| [Silent Treatment](https://open.spotify.com/track/3i3nMFxiEu4AfFMUOUv6dw) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA) | [Silent Treatment](https://open.spotify.com/album/0rFtXWLjCfpC6teIiE1i6l) | 2:48 | 2023-09-29 |  |
 | [simpel leven](https://open.spotify.com/track/09wSw0pOVBJWW7Q7nuXvAB) | [Dashaeno](https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE), [Anishagf](https://open.spotify.com/artist/4jDEZRMVdx1wl08tjO4PFr) | [Simpel Leven](https://open.spotify.com/album/32Xek93X7KcaeoMN81bY24) | 2:43 | 2023-02-23 |  |
 | [Simpele Ziel](https://open.spotify.com/track/3cYnOvrNiOWyK9Iyx6VtxT) | [Tyrone Marcio](https://open.spotify.com/artist/5LNaytroUJTMebyCMO39AI) | [Simpele Ziel](https://open.spotify.com/album/23qubUacCRribg37QwTt1W) | 3:10 | 2023-02-23 | 2023-04-01 |
 | [Sitting Here](https://open.spotify.com/track/1l6NJ79m7VMHl1RQobwsmk) | [Delic](https://open.spotify.com/artist/2vnJ6YXTxKiWKpARdtAD99), [Huda](https://open.spotify.com/artist/0YLcSj2Krk1kNAhvXq9VQ8) | [Lone Wolf](https://open.spotify.com/album/7aZrOpAP0SwCCIdcuOiqHI) | 4:33 | 2023-02-23 |  |

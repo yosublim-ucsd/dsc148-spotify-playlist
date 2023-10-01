@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-302 songs - 1 day 4 hr 55 min
+303 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bosses Hang, Pt\. I](https://open.spotify.com/track/1JYml5HzXGCOQDfCJCRjTa) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/2eOMttZbB9lBc9LLMj56xj) | 4:39 | 2021-11-30 | 2022-07-17 |
 | [Bosses Hang, Pt\. I](https://open.spotify.com/track/4vXuXPEZZpMXLW1pzRNCy2) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 4:39 | 2022-04-28 | 2023-03-23 |
 | [Bright Dawn of the Soul](https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E) | [The Egocentrics](https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh) | [Love Fear Choices and Astronauts](https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d) | 10:51 | 2021-11-30 | 2022-06-25 |
+| [Bright Lights](https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [6](https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4) | 3:53 | 2023-09-29 |  |
 | [Burning Planet](https://open.spotify.com/track/1q7nVW28Sj9UzLbsQ8moCp) | [Lord Vapour](https://open.spotify.com/artist/4k2Remoagbeqqoh5C5MDuz) | [Semuta](https://open.spotify.com/album/2dJ5HeNcfd7Xgl98EWYnaP) | 5:49 | 2022-01-14 | 2022-02-19 |
 | [Bury Me in Smoke](https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 7:04 | 2023-03-22 |  |
 | [Cabin Fever](https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Cabin Fever](https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s) | 5:17 | 2023-07-21 |  |
@@ -79,7 +80,7 @@
 | [Desert God](https://open.spotify.com/track/61zZe6nTfoyRsuIwMg3DR8) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Fever](https://open.spotify.com/album/4p0VY8aORNcSS8i7sXZUkE) | 5:16 | 2021-11-30 | 2022-07-27 |
 | [Desert God](https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Fever](https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH) | 5:16 | 2023-03-10 |  |
 | [Devil At Your Heels](https://open.spotify.com/track/55sRqwQUnHzq3olWwNj6kO) | [Plainride](https://open.spotify.com/artist/2NDj8i2isAwlLIRGlNWsCh) | [Return Of The Jackalope](https://open.spotify.com/album/4JUtyjs4vGEjIhhiUfLpaN) | 6:29 | 2021-11-30 | 2022-01-17 |
-| [Diablerie](https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh) | [Windhand](https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv) | [Diablerie](https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5) | 5:20 | 2021-11-30 |  |
+| [Diablerie](https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh) | [Windhand](https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv) | [Diablerie](https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5) | 5:20 | 2021-11-30 | 2023-10-01 |
 | [Diabolical Dopenosis](https://open.spotify.com/track/22M0PiZ3USkjxGvprJWj1g) | [Belzebong](https://open.spotify.com/artist/3MffQ9fJsgtOEqW8GvzJW8) | [Greenferno](https://open.spotify.com/album/7tgGRcUIjdyILQf7bZL2rH) | 8:48 | 2021-11-30 | 2022-02-15 |
 | [Die of Thirst](https://open.spotify.com/track/3PrPbuCs02pv3jZtWieaFa) | [Gorilla Pulp](https://open.spotify.com/artist/5YrEyL1qzrGlLosqAbPQC4) | [Peyote Queen](https://open.spotify.com/album/6VcJVeS8r48qPQnk2M6Tvj) | 2:22 | 2021-11-30 | 2022-01-31 |
 | [Dopesmoker \- 2022 Remastered Version](https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 1:03:29 | 2023-05-19 |  |

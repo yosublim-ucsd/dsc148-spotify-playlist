@@ -1239,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
+    },
+    {
+      "album": {
         "name": "Angelito",
         "url": "https://open.spotify.com/album/5ppxmUR9iGaKld3k4ZLISH"
       },
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 258286,
       "name": "Auringon suutelema",
       "url": "https://open.spotify.com/track/3Dt81r6GeFor2IBIDf5nhc"
@@ -5232,7 +5250,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 156434,
       "name": "Egokatastrofi",
       "url": "https://open.spotify.com/track/0xwmAb39Hug31IWR9499lH"
@@ -6218,7 +6236,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 200364,
       "name": "Eth\u00e4n tarkoittanut sit\u00e4",
       "url": "https://open.spotify.com/track/0p2BEjIUTCL2Zke7mxTTFE"
@@ -12723,6 +12741,28 @@
     },
     {
       "album": {
+        "name": "Kiireinen nainen (feat. ibe)",
+        "url": "https://open.spotify.com/album/1rCAQxlXHja56iaCpyBLkb"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184647,
+      "name": "Kiireinen nainen (feat. ibe)",
+      "url": "https://open.spotify.com/track/4haz2w5fIZagLEIOig3FGK"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
       },
@@ -13270,7 +13310,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 187175,
       "name": "Kolmatta linjaa",
       "url": "https://open.spotify.com/track/5Qs9ffkKJ2ydaUx9S9cKcq"
@@ -17245,6 +17285,24 @@
     },
     {
       "album": {
+        "name": "Mun totuus",
+        "url": "https://open.spotify.com/album/6WR1kuoqysjwfpZFwSlJNA"
+      },
+      "artists": [
+        {
+          "name": "Tuure Boelius",
+          "url": "https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181955,
+      "name": "Min\u00e4 j\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/33j1ZMPVfSZM5dJWPurhb8"
+    },
+    {
+      "album": {
         "name": "Min\u00e4 Sinua",
         "url": "https://open.spotify.com/album/3a2JwdZrcnJnBtNaKCUPBK"
       },
@@ -17486,7 +17544,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 159545,
       "name": "Missio",
       "url": "https://open.spotify.com/track/1mhmASpuZz5ideIXmL3cvC"
@@ -17694,6 +17752,28 @@
       "duration_ms": 213340,
       "name": "MiT\u00e4 S\u00e4 S\u00e4\u00e4D\u00e4T",
       "url": "https://open.spotify.com/track/0SFZyfuQCuIJmoCPF52skS"
+    },
+    {
+      "album": {
+        "name": "MMM (feat. Fabe)",
+        "url": "https://open.spotify.com/album/5jKLbI1oC5hVhwiqK0EhxZ"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        },
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127880,
+      "name": "MMM (feat. Fabe)",
+      "url": "https://open.spotify.com/track/0Hc5xVRukKIIAzjM5m3O1p"
     },
     {
       "album": {
@@ -23818,6 +23898,24 @@
       "duration_ms": 179439,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9"
+    },
+    {
+      "album": {
+        "name": "Seuraavassa el\u00e4m\u00e4ss\u00e4",
+        "url": "https://open.spotify.com/album/2zlQatXqYrlQmaLf4jEKPb"
+      },
+      "artists": [
+        {
+          "name": "Suvi Ter\u00e4sniska",
+          "url": "https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176632,
+      "name": "Seuraavassa el\u00e4m\u00e4ss\u00e4",
+      "url": "https://open.spotify.com/track/1hbUAI1nftaeGUMrcGFYkW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-750 songs - 1 day 21 hr 36 min
+751 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Offshore \- Evolution Mix](https://open.spotify.com/track/2O0HETfHUQNumACQ7Yg6sm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Far From The Maddening Crowds \(Evolution Mixes\)](https://open.spotify.com/album/5CR6luLHeshWtx2pgH7tAn) | 3:46 | 2022-07-08 | 2022-10-08 |
 | [On My Mind](https://open.spotify.com/track/4fbqwJ0bZTMerQtLKdMK9v) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [Cristina Soto](https://open.spotify.com/artist/5BKXCIdVnAwBQKUoGNqfZj) | [On My Mind](https://open.spotify.com/album/0Q111xnolEwzNORK2QWy6w) | 4:58 | 2022-05-06 | 2023-04-09 |
 | [One Last Dance \- Farius Remix](https://open.spotify.com/track/4RvECaSz84jyRFhOfXuahJ) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ), [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [One Last Dance \(Farius Remix\)](https://open.spotify.com/album/4MTSJjAoJdaaPFUjtm6n9g) | 4:09 | 2022-03-11 | 2023-04-09 |
+| [One More Memory](https://open.spotify.com/track/2CoXv3uyBOwXMJOKHY0iQy) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [One More Memory](https://open.spotify.com/album/4Do03K1iGcRHwLgtr5uVcJ) | 3:28 | 2023-09-29 |  |
 | [Only You](https://open.spotify.com/track/4mKV2PUwOBunCjDEAKGmjO) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Open Up The Night](https://open.spotify.com/album/7ciSmK610YFDPfw3hl4QCb) | 3:39 | 2023-09-29 |  |
 | [Open Your Eyes](https://open.spotify.com/track/0fXF7HLNe5JzlvqA2lDQbf) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH) | [Open Your Eyes](https://open.spotify.com/album/1iM33sKoAHsCaGU8ty4XPb) | 2:34 | 2023-08-25 |  |
 | [Open Your Eyes](https://open.spotify.com/track/0xCdgF66ktkaVpiFXoXlp0) | [Inrayzex](https://open.spotify.com/artist/2OQGGn8Wi28QOTks6NroWf) | [Suanda Music Radio Top 20 \(May 2022\)](https://open.spotify.com/album/2qRknvwmzLJAl0TF18dTMv) | 3:23 | 2022-05-20 | 2022-07-29 |
@@ -587,7 +588,7 @@
 | [Sink Or Swim](https://open.spotify.com/track/0Xnj524QeZdv6TL1lgSUie) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Sink Or Swim](https://open.spotify.com/album/5H4VTWlTP69pgYHergGye6) | 3:47 | 2021-12-17 | 2022-07-29 |
 | [Sink Or Swim](https://open.spotify.com/track/54hlq4fexO9qKO85nnlbCD) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [\#aparttogether](https://open.spotify.com/album/0QNvH5B30qLksTcfsqbRXI) | 3:47 | 2022-07-22 | 2023-01-24 |
 | [Sirius](https://open.spotify.com/track/3GYH6TqF2fIihKps1Sedxc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Sirius](https://open.spotify.com/album/0nLhLoUl7b4chfPNPF10I0) | 3:46 | 2021-12-17 | 2022-03-12 |
-| [Sleepwalking](https://open.spotify.com/track/0h4DDybPcSxK6yI5L2PIaZ) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Sleepwalking](https://open.spotify.com/album/0sg3xcua3C94UM2QjK3Pr2) | 3:44 | 2023-01-08 |  |
+| [Sleepwalking](https://open.spotify.com/track/0h4DDybPcSxK6yI5L2PIaZ) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Sleepwalking](https://open.spotify.com/album/0sg3xcua3C94UM2QjK3Pr2) | 3:44 | 2023-01-08 | 2023-10-01 |
 | [Solar Express](https://open.spotify.com/track/6ttxvrDLx2B9v38AFZt9aE) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR) | [Solar Express](https://open.spotify.com/album/3XrL5H1EgXKnRsGcn38Z34) | 3:57 | 2023-06-23 |  |
 | [Someday](https://open.spotify.com/track/2PpIuWoPkilQBubfjZJerY) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF) | [Someday](https://open.spotify.com/album/4lifylA3syQNEDcMBBnLXc) | 2:50 | 2023-02-03 |  |
 | [Someone Like You](https://open.spotify.com/track/5BhOXlQmuNX30x9G1jSOrS) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi) | [Someone Like You](https://open.spotify.com/album/72ekjOThzXa4FIGEC12QQE) | 3:16 | 2023-08-04 |  |

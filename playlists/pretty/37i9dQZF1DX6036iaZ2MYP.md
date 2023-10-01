@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Yemi Alade
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,811 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,863 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [TRUST IN YOU](https://open.spotify.com/track/7nhcKRuwkTvksKE6RZ48F5) | [Jayboogz](https://open.spotify.com/artist/5tTHX8CPiN6VMR8YEWecSS) | [TRUST IN YOU](https://open.spotify.com/album/6YDatD62XMNPZaszOAUz6N) | 2:35 |
 | 50 | [Waiting](https://open.spotify.com/track/01wKrQDWcFwdWgwFR3Lpyy) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Beauty & Bliss](https://open.spotify.com/album/5BI0Q6nFg6TkkMUzlg62dL) | 3:26 |
 
-Snapshot ID: `MCw2ZWIzNGI2M2EwODI5NWZkYmI2MzlmZjllMDQ2OTQ2ZDMwYTUyMTE1`
+Snapshot ID: `MCxlY2I3YTdlMGY3ODUzZTJlNzFmYWE5MTgwNGQwODI2MDA4NTc0MThh`

@@ -458,7 +458,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 118687,
       "name": "Ana Wingii",
       "url": "https://open.spotify.com/track/776sud6Dt8OnUuRcQnmKe8"
@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Haaland",
+        "url": "https://open.spotify.com/album/7FymPbSAQXe9Pd4aumoHzy"
+      },
+      "artists": [
+        {
+          "name": "Dzel Uzi",
+          "url": "https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231690,
+      "name": "Haaland",
+      "url": "https://open.spotify.com/track/2ZP3tRbY6NrdVlTiaEgX8L"
+    },
+    {
+      "album": {
         "name": "Habebi",
         "url": "https://open.spotify.com/album/3h2E9FqNEQYYr759vIgd0m"
       },
@@ -1930,6 +1948,32 @@
       "duration_ms": 150857,
       "name": "KATAFAST",
       "url": "https://open.spotify.com/track/5cDdk7f8IS3AJPVMOdTlIm"
+    },
+    {
+      "album": {
+        "name": "Kawabes",
+        "url": "https://open.spotify.com/album/4vZdWRsfMefNuI1YPGsyEW"
+      },
+      "artists": [
+        {
+          "name": "Dareen",
+          "url": "https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj"
+        },
+        {
+          "name": "S13",
+          "url": "https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC"
+        },
+        {
+          "name": "uncl",
+          "url": "https://open.spotify.com/artist/1MXxWX8lps82eJc3w1L7Q6"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163405,
+      "name": "kawabes",
+      "url": "https://open.spotify.com/track/1cJ8RNwEcWs2XgN9RNgHgg"
     },
     {
       "album": {
@@ -2246,7 +2290,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 240346,
       "name": "MAGANEEN",
       "url": "https://open.spotify.com/track/128stPZbUIBhJU6cYiyNrU"
@@ -3556,7 +3600,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 181400,
       "name": "Star W Mayhemosh (Freedom Music)",
       "url": "https://open.spotify.com/track/0kK6Ew7B4FiS2LUrO9Uw1D"
@@ -4508,6 +4552,28 @@
       "duration_ms": 197250,
       "name": "\u0633\u062d\u0645\u062f",
       "url": "https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt"
+    },
+    {
+      "album": {
+        "name": "\u0635\u062d \u0635\u062d \u0644\u0644\u0643\u0644\u0627\u0645",
+        "url": "https://open.spotify.com/album/6JJjjiKFYr7fUOCBOZGODr"
+      },
+      "artists": [
+        {
+          "name": "E Evil",
+          "url": "https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky"
+        },
+        {
+          "name": "Wezza Montaser",
+          "url": "https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189714,
+      "name": "\u0635\u062d \u0635\u062d \u0644\u0644\u0643\u0644\u0627\u0645",
+      "url": "https://open.spotify.com/track/58IDmCrPSh18wKXv1mirGt"
     },
     {
       "album": {

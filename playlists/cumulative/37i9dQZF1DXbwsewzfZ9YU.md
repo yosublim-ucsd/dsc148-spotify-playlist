@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Soul Glo
 
-155 songs - 6 hr 29 min
+156 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [The Portrait, Now Perceived](https://open.spotify.com/track/1gx45zvC0tdRawEPVIT8W7) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Deliberate Revolver](https://open.spotify.com/album/29pnd8Su99YAqNbXzk2bdg) | 3:51 | 2023-02-24 |  |
 | [The Sin of Human Frailty](https://open.spotify.com/track/5JZnn0DbRP9ZrpNfut6nCx) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/259zMZ6YBj39MehGYMR80C) | 2:11 | 2023-09-22 |  |
 | [The Whole World Is Going Insane](https://open.spotify.com/track/0vg20pb8LtH1g8aqPIDK6J) | [Roughed Up](https://open.spotify.com/artist/4OhXYJWzSlb33F7UtmRTgb) | [King and Council](https://open.spotify.com/album/3skHBTTM1EPjztnxNelXCe) | 2:54 | 2023-02-24 |  |
+| [Theatre Of Cruelty](https://open.spotify.com/track/5Axsl42T0DhsvSOTKVjPf3) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:58 | 2023-09-29 |  |
 | [Theory of Mind](https://open.spotify.com/track/2Xi6LZpHWcMHIV6ISd3cHU) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Theory of Mind](https://open.spotify.com/album/7gZ9pMj6MrqrAZz4ilZ7qg) | 3:51 | 2023-05-08 |  |
 | [This Falls On You](https://open.spotify.com/track/4zl1DK1kMeVwEu66Wtj5Yv) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Bad Seed](https://open.spotify.com/artist/6OQNQ3pUsbWuVhVXVCJRKO) | [Not Through Blood](https://open.spotify.com/album/72qCyvqc1Spr8Vwx97NTTA) | 2:09 | 2023-09-22 |  |
 | [Tied Up](https://open.spotify.com/track/72Y7Da2yCVrY7ebbxOTMBZ) | [Capra](https://open.spotify.com/artist/4jfu3bxtFywqyCRuTcsve4) | [Tied Up](https://open.spotify.com/album/49bMv7dEai2wLw7E2WTiIM) | 2:21 | 2023-07-21 |  |

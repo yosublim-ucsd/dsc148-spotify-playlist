@@ -4,7 +4,7 @@
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-168 songs - 13 hr 51 min
+169 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Me Tengo Que Ir](https://open.spotify.com/track/3kNQh1pLaQbZZoh6GDzHGp) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Rumba Latina](https://open.spotify.com/album/0CYwB19rEYpoBO6kvLh2Mu) | 4:39 | 2021-11-25 | 2022-07-29 |
 | [Me Tengo Que Ir](https://open.spotify.com/track/6bum69IXoiGcZCb83ZtfGA) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Salsa Classics, Vol\. 1](https://open.spotify.com/album/41WgoKq8UltJA2tL7msFdt) | 4:43 | 2021-11-25 | 2022-07-24 |
 | [Mi Desengano](https://open.spotify.com/track/48wG3mItFYR0FOaQegzMvp) | [Roberto Roena](https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB) | [Greatest Hits](https://open.spotify.com/album/23po9Kl1InCpPoNTpMtTxV) | 5:35 | 2021-11-25 | 2022-07-22 |
-| [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 | 2021-11-25 |  |
+| [Mi Media Mitad](https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:52 | 2021-11-25 | 2023-10-01 |
+| [Mi Media Mitad](https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [20th Anniversary](https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW) | 4:52 | 2021-11-25 |  |
 | [Mi Media Mitad](https://open.spotify.com/track/6NVDOYsx5KMYBSRbL4MYFN) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Salsa Mix](https://open.spotify.com/album/0oMUtcD0Of7qI2Fzj1PXgu) | 4:54 | 2021-11-25 | 2022-07-28 |
 | [Mia](https://open.spotify.com/track/3x4oECarDKCZxecqOYis52) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:43 | 2021-11-25 | 2022-11-13 |
 | [Micaela](https://open.spotify.com/track/5wO7Rhzideqoc4YZbThhDw) | [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor), [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [La Salsa Metálica Volvió Con Todos los Hierros](https://open.spotify.com/album/2r8ublqFKDjMBKCd7PjPGh) | 4:44 | 2021-11-25 | 2022-07-23 |

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 994667,
+  "num_followers": 994850,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzI5MmQ4YTg1YjBkZWU5Y2IyZGQ4YmVhNDY2NjdmNzc2YWU4YTA5",
+  "snapshot_id": "MCw3ZmUwNDVmNzY1YTIyYWI2OGUyMTEyNzdjNGQwOTcxZTY5ZjI5MGQ2",
   "tracks": [
     {
       "added_at": "2023-09-28 22:01:00",
@@ -487,6 +487,26 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
         "name": "El Principio de algo",
         "url": "https://open.spotify.com/album/0bpAz9oL8eRTGaOxS7PCkw"
       },
@@ -555,6 +575,26 @@
       "duration_ms": 176747,
       "name": "Estoy aqu\u00ed (feat. La Pegatina)",
       "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 232795,
+      "name": "2NDO CHANCE",
+      "url": "https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -671,22 +711,6 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
-        "name": "PIDE UN DESEO",
-        "url": "https://open.spotify.com/album/62ClhtV0bdAzAJkvBGKx26"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 190434,
-      "name": "PIDE UN DESEO",
-      "url": "https://open.spotify.com/track/1GBf0EYr9qC7KAPbrOHaf8"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
         "name": "cuando salto me duele",
         "url": "https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR"
       },
@@ -699,6 +723,22 @@
       "duration_ms": 189913,
       "name": "cuando salto me duele",
       "url": "https://open.spotify.com/track/5Z7mpQCwr8Ydr5WNQgO8Dd"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
+        "name": "PIDE UN DESEO",
+        "url": "https://open.spotify.com/album/62ClhtV0bdAzAJkvBGKx26"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 190434,
+      "name": "PIDE UN DESEO",
+      "url": "https://open.spotify.com/track/1GBf0EYr9qC7KAPbrOHaf8"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -767,6 +807,22 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
+        "name": "Nunca Volver\u00e1s",
+        "url": "https://open.spotify.com/album/70OIgcMqyr0fKYwZCvdVY9"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "duration_ms": 171440,
+      "name": "Nunca Volver\u00e1s",
+      "url": "https://open.spotify.com/track/1b9sYsa4aFiBv7mqOKvwsM"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
         "name": "Si Supieran",
         "url": "https://open.spotify.com/album/0T8lt5lLQi5bB9s7yLQiFW"
       },
@@ -787,22 +843,6 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
-        "name": "Nunca Volver\u00e1s",
-        "url": "https://open.spotify.com/album/70OIgcMqyr0fKYwZCvdVY9"
-      },
-      "artists": [
-        {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
-        }
-      ],
-      "duration_ms": 171440,
-      "name": "Nunca Volver\u00e1s",
-      "url": "https://open.spotify.com/track/1b9sYsa4aFiBv7mqOKvwsM"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
         "name": "Un Momento",
         "url": "https://open.spotify.com/album/4tssRvycB6QesAFRpzMS0a"
       },
@@ -819,22 +859,18 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
-        "name": "Paranoia",
-        "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
+        "name": "Me Siento Vivo",
+        "url": "https://open.spotify.com/album/6ApKdCJZ8OeDoBDLHhvFkD"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
+      "duration_ms": 222955,
+      "name": "Me Siento Vivo",
+      "url": "https://open.spotify.com/track/0uXCMVywxTkzSL2PU8JZx7"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -859,42 +895,6 @@
       "duration_ms": 178261,
       "name": "PELICULA",
       "url": "https://open.spotify.com/track/1xyTbXRzdFsFYGF2xA3Rs0"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
-        "name": "Me Siento Vivo",
-        "url": "https://open.spotify.com/album/6ApKdCJZ8OeDoBDLHhvFkD"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 222955,
-      "name": "Me Siento Vivo",
-      "url": "https://open.spotify.com/track/0uXCMVywxTkzSL2PU8JZx7"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
-        "name": "ESQUINAS",
-        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 232795,
-      "name": "2NDO CHANCE",
-      "url": "https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx"
     }
   ],
   "unique_name": "Pop con \u00d1",

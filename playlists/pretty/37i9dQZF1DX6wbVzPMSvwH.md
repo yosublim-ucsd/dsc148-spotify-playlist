@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,299 likes - 69 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,335 likes - 69 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 13 | [Kehilangan](https://open.spotify.com/track/7IgGkjE5Ceph27pn47pAmr) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Kehilangan](https://open.spotify.com/album/5eW6letl2iRvCaFXkSgZVF) | 4:13 |
 | 14 | [O.\. Ya](https://open.spotify.com/track/4nGfDDgOFVIqMajwVaWNgb) | [K3S](https://open.spotify.com/artist/7CBWAW33Sq5axOZmxrmfIk) | [O..Ya ?](https://open.spotify.com/album/3VM7RnhgmmCfmcVBzuRwWc) | 3:07 |
 | 15 | [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 |
-| 16 | [switch](https://open.spotify.com/track/6A4XsPmI6glgApuoxfPwth) | [Rinni Wulandari](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [switch](https://open.spotify.com/album/2Zb4aAsyr1zjhladO2rQfW) | 3:25 |
+| 16 | [switch](https://open.spotify.com/track/6A4XsPmI6glgApuoxfPwth) | [RINNI](https://open.spotify.com/artist/586wqf9BkWqW2kA01xxPsg) | [switch](https://open.spotify.com/album/2Zb4aAsyr1zjhladO2rQfW) | 3:25 |
 | 17 | [Parasite](https://open.spotify.com/track/4zEXOewY4f3ITJd43MZ76u) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Eva Celia](https://open.spotify.com/album/5ytIY5JSaLVxOwYWaY7xYx) | 3:20 |
 | 18 | [Aku Rindu \(feat\. Oslo Ibrahim\)](https://open.spotify.com/track/3CatYmaiD3I6II8w57RQEg) | [B.O.H FM](https://open.spotify.com/artist/0MabmxJ5QFG0o5R2ZSMl6x), [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Aku Rindu \(feat\. Oslo Ibrahim\)](https://open.spotify.com/album/0po3vBU4rl0fTEwWr9qYOy) | 3:32 |
 | 19 | [Heaven](https://open.spotify.com/track/0vtnYQ2A6o2fuEWim7DRYy) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk), [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Heaven](https://open.spotify.com/album/3ZlxavMQWzOa0dfcRrCUpi) | 3:44 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 68 | [Cintaku](https://open.spotify.com/track/41S84NxXxO4IkYRp4WHr1d) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Badai Pasti Berlalu](https://open.spotify.com/album/5xBOU4ZYI4GZ1QnRj3bUMp) | 4:38 |
 | 69 | [All Good](https://open.spotify.com/track/3s8ik4CUIZXXGDBgD0EAZ5) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [All Good](https://open.spotify.com/album/5b5nv0yq43oHzu1HcuY3ZI) | 3:13 |
 
-Snapshot ID: `MCw5NTA3OWE3ZGJhYjUxYTk4MDliZDBiZDA2ZTIyMjY3MTM4YzdjZjNj`
+Snapshot ID: `MCxjMjc2NWE4YWFlNmU0NWFjODg2OWY4ZDY3YjIwNDRiZTU0Nzc3OWI3`

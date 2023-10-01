@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Tyla
 
-344 songs - 17 hr 50 min
+348 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Falling in Love](https://open.spotify.com/track/4YZdQqnGxSI7tShUxDJBau) | [Morgan, G & Machines](https://open.spotify.com/artist/1B3PvJlIgpMRmJxCqkv0oS) | [Falling in Love](https://open.spotify.com/album/4pHUXRXJiI0B5vcLD8HsUB) | 2:06 | 2023-06-01 |  |
 | [Falling Up \(with Pharrell Williams & Nile Rodgers\)](https://open.spotify.com/track/3zc7EnOlA5beOhw46BKPb1) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 3:19 | 2023-07-27 |  |
 | [FARDA](https://open.spotify.com/track/5CAri3YPxIQAPO2cvl0x9t) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [FARDA](https://open.spotify.com/album/41RFpDDBV3XIWfUN8JLCEJ) | 2:45 | 2023-07-27 |  |
+| [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 | 2023-09-28 |  |
 | [FELL IN LOVE](https://open.spotify.com/track/1UpnuuaN0ZUEOiprBsHTJF) | [Jesswar](https://open.spotify.com/artist/0A3iezHvtPZ8HxHn4RMmtl) | [FELL IN LOVE](https://open.spotify.com/album/1VIEhfTTMa9qRuriE8Nvx2) | 2:14 | 2022-07-21 | 2023-03-18 |
 | [Fine Wine](https://open.spotify.com/track/1D7jWrYO8n5FUbwKfuauQK) | [Daniel Bukuru](https://open.spotify.com/artist/64vfsqk9SccdA5Eqr8XPP7), [Lil Nafy](https://open.spotify.com/artist/1dwSEaXiwO5ggqNXQuReTS) | [Fine Wine](https://open.spotify.com/album/2iTQdKYKL3X9lKwTKweBhf) | 2:47 | 2023-04-13 |  |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-08-25 | 2022-09-09 |
@@ -131,6 +132,7 @@
 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-13 |  |
 | [Island Girl](https://open.spotify.com/track/1BuuMJmzEHBJjgt18lefwg) | [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5), [Donell Lewis](https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz), [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK) | [Island Girl](https://open.spotify.com/album/3j05CspKz9eP75AYsvM0ji) | 2:57 | 2023-09-21 |  |
 | [ISoft Life](https://open.spotify.com/track/1KMdsn40pcqhQcDmWW8rUg) | [Kristelle](https://open.spotify.com/artist/1mSLccW06KhvdQfhRj1gQu), [Temgazi](https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA) | [ISoft Life](https://open.spotify.com/album/2z6E4fBqrkgUSxECpYyx9T) | 5:48 | 2022-08-19 | 2022-10-28 |
+| [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 | 2023-09-28 |  |
 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 | 2023-06-15 |  |
 | [JE LE MI EDO](https://open.spotify.com/track/54wphs5eiAUUzQ7nfJGTk5) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [JE LE MI EDO](https://open.spotify.com/album/1ftiuOqfEVrqDxbrGqbqzw) | 3:22 | 2022-10-20 | 2023-03-25 |
 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-11 |  |
@@ -339,6 +341,7 @@
 | [Wet](https://open.spotify.com/track/4UYvRJDzEIKvyHRMA8LPNC) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Wet](https://open.spotify.com/album/5ResSYzjEMB3SbKvC8XmxQ) | 2:58 | 2022-07-28 | 2023-03-18 |
 | [Where You Been?](https://open.spotify.com/track/4HUMystaJMh6u6Voe2l1eQ) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Where You Been?](https://open.spotify.com/album/0BmWKhB9B89Vt12ETbXLmw) | 2:40 | 2022-07-18 | 2023-02-24 |
 | [Who Knows Tomorrow](https://open.spotify.com/track/2eWUSvBfYbiMU4Ihk4yKrj) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Who Knows Tomorrow](https://open.spotify.com/album/7JfSTfghTIKpBgb8TBVTw1) | 3:01 | 2023-05-04 | 2023-08-18 |
+| [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 | 2023-09-28 |  |
 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 | 2023-06-08 | 2023-07-14 |
 | [woman](https://open.spotify.com/track/3AUW4YqukPw4YfBV1ZkkNe) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [woman](https://open.spotify.com/album/3PLwZChArK9UempZmyhGul) | 2:48 | 2022-07-18 | 2022-10-28 |
 | [Work Don't Stop](https://open.spotify.com/track/2oykIE78Z7BSDrq4VEsMy7) | [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu) | [Work Don't Stop](https://open.spotify.com/album/137773lEIYB4FGzzQ00xgp) | 3:20 | 2022-11-24 | 2023-04-21 |
@@ -352,5 +355,6 @@
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-09-08 | 2022-10-01 |
 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-09-08 | 2023-01-13 |
 | [You Got the Juice](https://open.spotify.com/track/4HCeA8zmtEmmlNKJHWRUii) | [TALI](https://open.spotify.com/artist/518ZodQRWmIB3NXK21p1fY) | [You Got the Juice](https://open.spotify.com/album/32KTjG5evKYUB48QmGA1W9) | 2:35 | 2022-07-18 | 2022-12-02 |
+| [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 | 2023-09-28 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

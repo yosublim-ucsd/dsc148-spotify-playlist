@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-282 songs - 1 day 1 hr 29 min
+283 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Arthur Go](https://open.spotify.com/track/1sfMzwPc6P8VGi3osLXQFV) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [The Moon and I](https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4) | 4:27 | 2022-05-25 |  |
 | [Ask Me Now](https://open.spotify.com/track/2BgD1WUT45SDvAqyNAzR3S) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Jazz Is Now](https://open.spotify.com/album/2ziOps71q2ClRrGC3QEpiG) | 5:31 | 2022-04-28 | 2022-11-25 |
 | [At That Moment](https://open.spotify.com/track/4XZhdl2OpQUDgNqQlhlg03) | [Joonas Tuuri Quartet](https://open.spotify.com/artist/08lFbKtGGbgsoek6jEKWyx) | [Dimensions](https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8) | 4:39 | 2022-03-17 |  |
-| [Autumn Serenade](https://open.spotify.com/track/1PssJJCY05yMFjetc1VIEF) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:33 | 2023-09-22 |  |
+| [Autumn Serenade](https://open.spotify.com/track/1PssJJCY05yMFjetc1VIEF) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:33 | 2023-09-22 | 2023-10-01 |
 | [Azalea](https://open.spotify.com/track/02Z7LG6DNTuVTJiGdvTwDu) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Great Reunion](https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz) | 5:03 | 2020-03-31 | 2022-04-28 |
 | [Baby Plays Around](https://open.spotify.com/track/4yOHkrkJHqE7sruMEgDJBb) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 10:07 | 2022-02-18 | 2022-11-12 |
 | [Back on the beat](https://open.spotify.com/track/52q5MqCCKzUjYE06orhDxX) | [Laurent De Wilde](https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj) | [Back on the beat](https://open.spotify.com/album/2IOOiVxPT2N3fOYQJlubz1) | 5:10 | 2023-03-15 | 2023-08-25 |
@@ -290,5 +290,6 @@
 | [You Know I Care](https://open.spotify.com/track/4G7ZRlytbt8445h0kb8rIy) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [You Know I Care](https://open.spotify.com/album/3i3aDOkhNYMC4PuBJ8Qu0k) | 4:30 | 2022-02-18 | 2022-07-29 |
 | [You Know I Care](https://open.spotify.com/track/2gkTommmniENieOmT4vvYb) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [European Quartet: Introspection](https://open.spotify.com/album/7FQXxckwupKgu1XuqBTPhM) | 4:30 | 2022-07-28 |  |
 | [You've Come Home](https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:40 | 2023-06-08 |  |
+| [너와 걷는 길 Walking With You](https://open.spotify.com/track/1zPqOaGCVvnZB8O9mw2YRh) | [Hanbeen Park](https://open.spotify.com/artist/3XZBufPlf8pHAt9g6Rkx5f) | [Scratch](https://open.spotify.com/album/76Ieb6gkCmXE1sDLTZCVm3) | 5:49 | 2023-09-22 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

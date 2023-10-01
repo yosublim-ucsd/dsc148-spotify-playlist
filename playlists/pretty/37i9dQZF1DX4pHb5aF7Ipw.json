@@ -1,12 +1,12 @@
 {
   "description": "Fresh Punjabi Rap. Cover:  Prem Dhillon & Straight Bank",
-  "num_followers": 35698,
+  "num_followers": 35741,
   "original_name": "Burrh Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjEzMzgwNmY4NTFhYTAxMWY5OGNlOTc5YTgwNDA0YTQwMzY4OWU2",
+  "snapshot_id": "MCwwODcxMzYxZjNjNjMyYTU2ZmJjMTM0OGQ2Y2EwMGQyZGU2ZTdkZjZk",
   "tracks": [
     {
       "added_at": "2023-09-20 06:35:19",
@@ -142,6 +142,10 @@
         {
           "name": "Karan Aujla",
           "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
         }
       ],
       "duration_ms": 214024,
@@ -883,26 +887,18 @@
     {
       "added_at": "2023-09-20 06:35:19",
       "album": {
-        "name": "FRIEND ZONE",
-        "url": "https://open.spotify.com/album/7lMOtrXJNjngIeAJqNE4WN"
+        "name": "Friend Zone",
+        "url": "https://open.spotify.com/album/2WAsoRMaYtwcDwCofTMupE"
       },
       "artists": [
         {
           "name": "Jass Bajwa",
           "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
-        },
-        {
-          "name": "Mandeep Maavi",
-          "url": "https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1"
-        },
-        {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
         }
       ],
-      "duration_ms": 161357,
-      "name": "FRIEND ZONE",
-      "url": "https://open.spotify.com/track/3aTutDkFpZHOZ6roijWEjv"
+      "duration_ms": 161933,
+      "name": "Friend Zone",
+      "url": "https://open.spotify.com/track/35alWvmJmu77GoW3Y57cuT"
     },
     {
       "added_at": "2023-09-20 06:35:19",

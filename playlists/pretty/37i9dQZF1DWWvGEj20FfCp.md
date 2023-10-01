@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Two worlds walk side by side on the runway with Luar’s SS24 Collection for NYFW, Soundtrack by Raul Lopez
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,406 likes - 56 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,401 likes - 56 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 55 | [La Noche es de la Gatita](https://open.spotify.com/track/5UfuSz1yCd7CGnXha3pUVn) | [Jonnah Ruiz](https://open.spotify.com/artist/6vWAbhsR69J9F4TqXDI6I6) | [La Noche es de la Gatita](https://open.spotify.com/album/6KIPQqSHDQ3YjEcP8dJJMd) | 4:36 |
 | 56 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 |
 
-Snapshot ID: `MCwxNjU0NzJkYzg4YjEzZDljZTkxODViMzhhOTE2MGE3ZDFkMjlhZDk4`
+Snapshot ID: `MCxlOTdjY2I1ZWEyOGFhMjczYzJhZmQxM2Q1MDYwNzA0ZDM0ZmE1YzNj`

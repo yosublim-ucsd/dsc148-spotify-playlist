@@ -4,7 +4,7 @@
 
 > What are your <a href="https://spotify.com/top5">Top 5: BTS Songs</a>? Share your favorite member and tracks with the universe\. \(spotify.com/top5\)
 
-481 songs - 1 day 4 hr 40 min
+482 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [21st Century Girl](https://open.spotify.com/track/6GxNA9J3P70amAXKUPghid) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:12 | 2022-05-27 |  |
 | [21st Century Girl](https://open.spotify.com/track/3ROFgxvjni5xjdOLUSTLlq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [WINGS](https://open.spotify.com/album/6CqQEpTYDf64ku45E3ry7d) | 3:12 | 2022-06-10 | 2022-06-18 |
 | [24/7=Heaven](https://open.spotify.com/track/17SBD4aDKo9ZeahcQJ6j72) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 3:46 | 2022-05-27 |  |
+| [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-30 |  |
 | [A Brand New Day \(BTS World Original Soundtrack\) \(Pt\. 2\)](https://open.spotify.com/track/3amNzwQ9muL0ZwDCbe9gWy) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [A Brand New Day \(BTS World Original Soundtrack\) \(Pt\. 2\)](https://open.spotify.com/album/7AksZp2xptzhgOaiwJxjkh) | 3:25 | 2023-07-14 |  |
 | [A Brand New Day \(BTS World Original Soundtrack\) \[Pt\. 2\]](https://open.spotify.com/track/4g4ME9bHxuhzZMfNHlHlb5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [BTS WORLD \(Original Soundtrack\)](https://open.spotify.com/album/3LgNJmZ4QPkSvdt9JB8Tb8) | 3:25 | 2022-06-23 | 2023-07-24 |
 | [A Brand New Day \(BTS World Original Soundtrack\) \[Pt\. 2\]](https://open.spotify.com/track/5XkyZyKMdFungjDb9cUKc3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [A Brand New Day \(BTS World Original Soundtrack\) \[Pt\. 2\]](https://open.spotify.com/album/0rjtptJthJcLrK7uYcDH2Z) | 3:25 | 2022-06-10 | 2022-06-18 |

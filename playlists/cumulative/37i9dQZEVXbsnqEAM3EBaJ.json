@@ -1013,6 +1013,32 @@
     },
     {
       "album": {
+        "name": "Barcarolle. Piano Evocations from the Golden Age (Extended Edition)",
+        "url": "https://open.spotify.com/album/6npRp5KpCP1q938piBKwOE"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Peter Phillips",
+          "url": "https://open.spotify.com/artist/2aWlsaSemY3u7rGARqX1xp"
+        },
+        {
+          "name": "Alfred Gr\u00fcnfeld",
+          "url": "https://open.spotify.com/artist/5hJuoB5gBpZNiiwRh4Ktnz"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648267,
+      "name": "Andante with Variations in F Minor, H.XVII:6 - Duca 516",
+      "url": "https://open.spotify.com/track/6J2pJKriat9L0TNuzpU9aZ"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/0Rw2R5N7WyLBar5x5KPsNh"
       },
@@ -1434,7 +1460,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 182900,
       "name": "Bad Bitch Supreme",
       "url": "https://open.spotify.com/track/6dwFMBSMb7YBnAaZg76IoH"
@@ -3791,6 +3817,28 @@
     },
     {
       "album": {
+        "name": "Doom Protectors",
+        "url": "https://open.spotify.com/album/40tr1n8XT3EX4Vj4r13Yi4"
+      },
+      "artists": [
+        {
+          "name": "VEIN",
+          "url": "https://open.spotify.com/artist/5UpoEonoqVkfRlySIcEU64"
+        },
+        {
+          "name": "Death",
+          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "Doom",
+      "url": "https://open.spotify.com/track/7fGPMnxUXxnbP8Rfkn1eea"
+    },
+    {
+      "album": {
         "name": "Live 1978 - 1992",
         "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
       },
@@ -4298,7 +4346,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 294857,
       "name": "Embrace Your End",
       "url": "https://open.spotify.com/track/2FU9gU2m2oNRGBiAGmASUD"
@@ -4474,7 +4522,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 331333,
       "name": "Enfermos del Rap 2023",
       "url": "https://open.spotify.com/track/1Lc6s4kn38YPwPRfCoBqpg"
@@ -5066,7 +5114,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 313549,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/2yZgauFsW3ofMyqpKK7IZy"
@@ -8998,10 +9046,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 167946,
       "name": "Love Is All That Matters - Accapella Version",
       "url": "https://open.spotify.com/track/1t2NrAgLwZxfpcwwV20SxH"
+    },
+    {
+      "album": {
+        "name": "Love Is All That Matters",
+        "url": "https://open.spotify.com/album/3WFzLbp8lKYQ74Cmhl1CKw"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467960,
+      "name": "Love Is All That Matters - Extended Version",
+      "url": "https://open.spotify.com/track/2bW4qGjnmJ5kqHPMdQrPj4"
     },
     {
       "album": {
@@ -10504,7 +10570,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 225013,
       "name": "Oler A Ti",
       "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
@@ -11596,7 +11662,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 276545,
       "name": "P\u00e1jaros de fuego - Banda Sonora Original del documental \"Hawker Hunter: El ruido del silencio\"",
       "url": "https://open.spotify.com/track/4qsgzEP6xq3jYHdj7eocub"
@@ -13782,7 +13848,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 226734,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/66Qgii6ORyeqooYBgEwOjM"
@@ -14692,7 +14758,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 231960,
       "name": "The Man in Me - Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978",
       "url": "https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM"
@@ -16076,7 +16142,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 186430,
       "name": "Valse, Op. 1 in E-Flat Major - Welte-Mignon 942",
       "url": "https://open.spotify.com/track/1I19k20k1pYpua4H8OsSnf"

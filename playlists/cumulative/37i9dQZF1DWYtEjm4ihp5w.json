@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Bo9al",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Dollypran",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -426,10 +426,28 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 175000,
       "name": "B\u00c9N\u00c9F",
       "url": "https://open.spotify.com/track/2p3hMCV4KnpS5w19gaeOR5"
+    },
+    {
+      "album": {
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/1bZcXMltsvN7OaGVdXqPZO"
+      },
+      "artists": [
+        {
+          "name": "ONZY",
+          "url": "https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Cabeza",
+      "url": "https://open.spotify.com/track/6HncaaVulbe96New1KaT6C"
     },
     {
       "album": {
@@ -528,7 +546,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 243687,
       "name": "Chno Raytra",
       "url": "https://open.spotify.com/track/3rXQbN6yonMWT3jdwULWPB"
@@ -1643,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Lmossiba (\u0627\u0644\u0645\u0635\u064a\u0628\u0629)",
+        "url": "https://open.spotify.com/album/0KIu6uf8aHHY4yebS9Zj0t"
+      },
+      "artists": [
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228075,
+      "name": "Lmossiba (\u0627\u0644\u0645\u0635\u064a\u0628\u0629)",
+      "url": "https://open.spotify.com/track/0epZr5EAVHCi1VLSb227ky"
+    },
+    {
+      "album": {
         "name": "Lost Chapter - A COLORS SHOW",
         "url": "https://open.spotify.com/album/2yySEOcOZ3rzcwMGyoZSN1"
       },
@@ -2354,7 +2390,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 195744,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX"

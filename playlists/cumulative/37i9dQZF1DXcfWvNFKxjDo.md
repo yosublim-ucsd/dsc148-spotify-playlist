@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Jax Jones, D.O.D, Ina Wroldsen
 
-195 songs - 9 hr 10 min
+197 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-09-07 | 2023-09-22 |
 | [Hold On To Now](https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 3:57 | 2023-09-21 |  |
 | [Holding My Hand](https://open.spotify.com/track/4eZhVWpUNcuZgyFGuOQo8J) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp) | [Holding My Hand](https://open.spotify.com/album/4mIdBi8oGfU4zseVLliswm) | 2:11 | 2023-09-28 |  |
-| [I Can Feel](https://open.spotify.com/track/02Pow05DYnolKiYTbrr6yU) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [I Can Feel](https://open.spotify.com/album/2zSO8RqfAatj24OjXWG94d) | 2:53 | 2023-09-28 |  |
+| [I Can Feel](https://open.spotify.com/track/02Pow05DYnolKiYTbrr6yU) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [I Can Feel](https://open.spotify.com/album/2zSO8RqfAatj24OjXWG94d) | 2:53 | 2023-09-28 | 2023-10-01 |
+| [I Can Feel](https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [I Can Feel](https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7) | 2:53 | 2023-09-29 |  |
 | [I Don't Wanna Work](https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [I Don't Wanna Work](https://open.spotify.com/album/0T0cj4HTUWr5RJ2cpZ11eQ) | 2:35 | 2023-09-28 |  |
 | [I Follow Rivers](https://open.spotify.com/track/2hBG8hwCNBzwNOOTa4elCG) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [I Follow Rivers](https://open.spotify.com/album/0yABlHaS4pa0AuNkNFoXEI) | 2:30 | 2023-09-21 |  |
 | [I Got A Dream](https://open.spotify.com/track/3H64JosDQh4IUdA9tHPLYD) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Forgot How You Dance](https://open.spotify.com/album/5koofcSVEbwLCxlvrZeOXX) | 2:31 | 2023-08-31 | 2023-09-22 |
@@ -197,6 +198,7 @@
 | [Want My Love](https://open.spotify.com/track/5xJOVWiVKSx5tCrjkVIAEv) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Want My Love](https://open.spotify.com/album/2OVkH4EP3i35f0lQDmSAHt) | 2:56 | 2023-09-14 | 2023-09-29 |
 | [Waste Your Love](https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Waste Your Love](https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd) | 2:47 | 2023-08-31 | 2023-09-15 |
 | [Wasting Youth](https://open.spotify.com/track/5SL2J25JUoQZHJVbR2biXm) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Robin White](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R) | [Wasting Youth](https://open.spotify.com/album/4X4Tu5rgFpKwk89wkSdCbZ) | 2:15 | 2023-08-31 | 2023-09-08 |
+| [What We Know \(feat\. Conor Byrne\)](https://open.spotify.com/track/0qODLyd99ldgvBHMVsScye) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB) | [What We Know \(feat\. Conor Byrne\)](https://open.spotify.com/album/1OeHZucueiMEy970AN5vHd) | 2:48 | 2023-09-29 |  |
 | [When You're Lonely](https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [When You're Lonely](https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW) | 2:39 | 2023-09-21 |  |
 | [Where Do We Go](https://open.spotify.com/track/1M2NNUv8UV5smjMVGyTrmz) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/4DDBDbyg0A15tQuClSvcqg) | 2:51 | 2023-08-31 | 2023-09-15 |
 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 | 2023-09-28 |  |

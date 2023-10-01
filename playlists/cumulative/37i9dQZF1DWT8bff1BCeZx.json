@@ -77,6 +77,32 @@
     },
     {
       "album": {
+        "name": "Akuzike",
+        "url": "https://open.spotify.com/album/5rApc4mQ4yHIJxSlkBPSuL"
+      },
+      "artists": [
+        {
+          "name": "Mic Mash",
+          "url": "https://open.spotify.com/artist/7hzFig3OAPKqQZQqwxpUEy"
+        },
+        {
+          "name": "Beracah",
+          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
+        },
+        {
+          "name": "Siggy Kim",
+          "url": "https://open.spotify.com/artist/0StpXhIqIldjrDZvh6tted"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200282,
+      "name": "Akuzike",
+      "url": "https://open.spotify.com/track/6HvdB8sn4XF6VmpBxtxjmn"
+    },
+    {
+      "album": {
         "name": "Already Blessed",
         "url": "https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5"
       },
@@ -504,7 +530,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 431445,
       "name": "Ebenezer - Live",
       "url": "https://open.spotify.com/track/0ssKyRqsf6GmSXtBHObYAP"

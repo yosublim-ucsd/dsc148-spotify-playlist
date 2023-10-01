@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,559 likes - 108 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,633 likes - 108 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 57 | [Himalaya](https://open.spotify.com/track/5bx1gFT0aKeBgKnDSEzvwo) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Himalaya](https://open.spotify.com/album/7aL5MzV1V51hQ7lNdNBRXj) | 3:34 |
 | 58 | [Rivers Of Flutes](https://open.spotify.com/track/6DewZxWwJwOTWeyIXsntrH) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Rivers Of Flutes](https://open.spotify.com/album/2b62YJsJ8REP4fGZKh9Qv7) | 7:25 |
 | 59 | [Harmonious](https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Harmonious](https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx) | 6:44 |
-| 60 | [Parampara](https://open.spotify.com/track/0tfRLoSRwVus8SqmfUOfjW) | [Bandhu](https://open.spotify.com/artist/4pacc1LOfFOBcJtKxiJEmL) | [Parampara](https://open.spotify.com/album/2VFgUxZ1W3aOxb8W0PylMN) | 3:08 |
+| 60 | [Parampara](https://open.spotify.com/track/0tfRLoSRwVus8SqmfUOfjW) | [Bandhu Haz](https://open.spotify.com/artist/5FrfR8B0zttdMqmWaDH2Zk) | [Parampara](https://open.spotify.com/album/2VFgUxZ1W3aOxb8W0PylMN) | 3:08 |
 | 61 | [Angelic Reiki](https://open.spotify.com/track/68OOxuLvwLFPj78cKciaL3) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Angelic Reiki](https://open.spotify.com/album/6dy2c18h4b2It784yk9uuE) | 3:08 |
 | 62 | [Dunagiri](https://open.spotify.com/track/7f6Qq4dxlcIhvkZFa4HL5o) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [Dunagiri](https://open.spotify.com/album/5Um8qhDnnbS8AVUcowu02b) | 3:08 |
 | 63 | [Sayam](https://open.spotify.com/track/6JgLsdhyec01b0xfFCLkJh) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Sayam](https://open.spotify.com/album/1xvXrzInGCTQbr7JXf9SzV) | 2:55 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 107 | [The Child Within \- The 'Seb Meets Astropilot' Ambient Mix](https://open.spotify.com/track/4PDnVvoXjz4MTMHehCWxgF) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV), [Pooja Tiwari](https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf), [Fatou Gozlan](https://open.spotify.com/artist/5uE7jx3Z4cbh2OzuG6aLw6), [Seb Taylor](https://open.spotify.com/artist/2OvXxjn0r118YKl6bR43ty), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [The Child Within \(the 'Seb Meets Astropilot' Ambient Mix\)](https://open.spotify.com/album/2HAHOMAASHby5AM4HbCCyv) | 4:40 |
 | 108 | [Beyond sand](https://open.spotify.com/track/6acWuuAAdgHHOFc30KHURk) | [Tetouze](https://open.spotify.com/artist/4L2vZe0dcqomV8OAhWNmQy), [Jehanne Drai](https://open.spotify.com/artist/0GCwjBKMBF9vSKb8YbxkmF) | [Beyond sand](https://open.spotify.com/album/1U5sg1ejtfqOh4FAEzmODB) | 7:18 |
 
-Snapshot ID: `MCxhYTc1YjVlYzQ3Yjc5NmU5OTY5ZTc1MzNjYTFjYjU0OGFjMjI1NTA0`
+Snapshot ID: `MCw4MjBjMTgyYmZjM2VlYWE5M2JkYjRmMTJjZTFjZTlmMjQzMjczYzNh`

@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that ROCKS! Cover: Lakeview
+> Country Music that ROCKS! Cover: The Cadillac Three
 
 298 songs - 17 hr 6 min
 

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: hemlocke springs
 
-1,681 songs - 3 day 16 hr 33 min
+1,682 songs - 3 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -912,7 +912,7 @@
 | [London Is Lonely \- Edit](https://open.spotify.com/track/06Tr79i53ihD4KUKYIyyjq) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:27 | 2022-01-21 | 2022-07-29 |
 | [Lonely Star](https://open.spotify.com/track/5v7R1oGmAtsUFHJg66awep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Lonely Star](https://open.spotify.com/album/1qmgvWOYMWHW5jLcV6rZzr) | 3:57 | 2020-10-20 | 2021-05-28 |
 | [Lonesome](https://open.spotify.com/track/0TNTtsXvVKRzF4A76D5RHu) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Lonesome](https://open.spotify.com/album/3sNkrh8cyDTH9Vavr9RXBt) | 3:08 | 2020-10-24 | 2020-11-15 |
-| [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 | 2023-08-14 |  |
+| [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 | 2023-08-14 | 2023-10-01 |
 | [Looking For Somebody \(To Love\)](https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:58 | 2022-11-07 | 2023-09-30 |
 | [Lose Your Head](https://open.spotify.com/track/1CA6nEpwJvpraGPVXV6kg0) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Lose Your Head](https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3) | 3:19 | 2021-02-25 | 2021-05-28 |
 | [Losing You](https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Losing You](https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t) | 3:02 | 2023-08-18 | 2023-09-30 |
@@ -1121,6 +1121,7 @@
 | [One Woman](https://open.spotify.com/track/3WZ1LW2FwEWVLI3nf59WZb) | [STACEY](https://open.spotify.com/artist/1rfYzEJpmnmhVM1V6LUHTQ) | [One Woman](https://open.spotify.com/album/2Ff611A1b4z7EtP3ohtz6s) | 3:40 | 2020-10-13\* | 2021-05-11 |
 | [Online Dating](https://open.spotify.com/track/7IcTNzulv3RLQUZV5sIT66) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Medicine](https://open.spotify.com/album/1T8VdjuxLqYJVJQ1WNFVqK) | 3:58 | 2020-11-13 | 2021-01-15 |
 | [Only Time Makes It Human](https://open.spotify.com/track/1VpkwLKRFjxIw2elI7m1Oz) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Only Time Makes It Human](https://open.spotify.com/album/2ajgq2MfGz9zFMdtjZ5r0M) | 3:24 | 2020-10-20 | 2021-06-01 |
+| [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 | 2023-09-29 |  |
 | [Orpheus](https://open.spotify.com/track/3nDlV6GuRRKqT3nK3nSwtM) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Orpheus](https://open.spotify.com/album/10sEnr5iBhFt3WXYJEaKG1) | 3:37 | 2022-08-26 | 2022-10-13 |
 | [Orpheus](https://open.spotify.com/track/5jhplymMubt3XgOkEKfAJF) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Orpheus](https://open.spotify.com/album/6hyunqfV9PzG6N4SsPyYKF) | 3:37 | 2022-09-30 | 2023-07-29 |
 | [Otherside](https://open.spotify.com/track/4f76nMYcvzFX8gi9GnPcid) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Otherside](https://open.spotify.com/album/7Im56HLW1i84DkU4Zu2EZq) | 3:01 | 2020-11-13 | 2021-03-21 |

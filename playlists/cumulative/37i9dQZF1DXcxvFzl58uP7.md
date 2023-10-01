@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Emma from Men I trust.
 
-898 songs - 1 day 22 hr 41 min
+900 songs - 1 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Black Coffee](https://open.spotify.com/track/67aZdAS6doqinEJfperUnH) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Black Coffee](https://open.spotify.com/album/2HJ6fPTZHFuiSxWDGPTKo3) | 2:24 | 2021-05-09 | 2021-08-28 |
 | [Blame](https://open.spotify.com/track/0dlpkHAazQr4WtOTirzRnT) | [Mikalyn](https://open.spotify.com/artist/1uFSMxmIM7eRPSPlHBep7Y) | [Blame](https://open.spotify.com/album/7vfT5KiIrwzJR6oSsa3ahN) | 3:25 | 2021-10-08 | 2022-04-10 |
 | [blank slate](https://open.spotify.com/track/7EIiQFUmU8e6KFAid9L411) | [spookyghostboy](https://open.spotify.com/artist/3pHAJqPZhCGNoFShXcqD9k) | [blank slate](https://open.spotify.com/album/5dBn4IzCllX9kFAU70SGnB) | 4:49 | 2021-04-12 | 2021-08-27 |
-| [BLOOD DIAMOND RING](https://open.spotify.com/track/0ucjBqEJzF3qCsxzyALaxH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [BLOOD DIAMOND RING](https://open.spotify.com/album/4j0nubT1thDDL0CpeZjtZq) | 2:25 | 2023-09-22 |  |
+| [BLOOD DIAMOND RING](https://open.spotify.com/track/0ucjBqEJzF3qCsxzyALaxH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [BLOOD DIAMOND RING](https://open.spotify.com/album/4j0nubT1thDDL0CpeZjtZq) | 2:25 | 2023-09-22 | 2023-10-01 |
 | [BLOOD DIAMOND RING](https://open.spotify.com/track/2I7rgaoo5F5ZAZIg6cIPVu) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [BLOOD DIAMOND RING](https://open.spotify.com/album/4hRVeQYXDUEiwhtfwcBObt) | 2:25 | 2023-09-22 | 2023-09-27 |
 | [Blue Sea](https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Blue Sea](https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz) | 3:15 | 2023-04-28 |  |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-08-13 | 2022-12-01 |
@@ -227,7 +227,7 @@
 | [downfall](https://open.spotify.com/track/5BxDaJAYPJ3KybJDzLHnvr) | [Witchbaby](https://open.spotify.com/artist/6lxG5CbaXQNqU2RpsZOTWS) | [downfall](https://open.spotify.com/album/5Yj0d1A1qUsFM9ufdPbAao) | 1:39 | 2021-03-14 | 2021-08-27 |
 | [Dream Forever](https://open.spotify.com/track/3ZDJo7mhP9gp10Pr27F3Ow) | [Bumblebees](https://open.spotify.com/artist/6juzgav0YiNeXJWC0NZAn8) | [Dancing Dots in the Dark](https://open.spotify.com/album/40GjPcX2JIOeXf2mjzaSnR) | 4:09 | 2019-07-30\* | 2019-08-10 |
 | [Dream Girl](https://open.spotify.com/track/3Z6cltU0OfbUdSZtZlzKPL) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Dream Girl](https://open.spotify.com/album/2BVQCnH3Sj7lcBGAP9wPh1) | 2:59 | 2022-02-10 | 2022-12-15 |
-| [Dream Of You](https://open.spotify.com/track/06uENf9tmUXYLk9d8DiPAo) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Dream Of You](https://open.spotify.com/album/1EzZrR8TUOI2YSN0LSGxrQ) | 3:03 | 2023-08-18 |  |
+| [Dream Of You](https://open.spotify.com/track/06uENf9tmUXYLk9d8DiPAo) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Dream Of You](https://open.spotify.com/album/1EzZrR8TUOI2YSN0LSGxrQ) | 3:03 | 2023-08-18 | 2023-10-01 |
 | [Dreamers](https://open.spotify.com/track/2eVzRsZ1qLjw3TJSk5Cqym) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Dreamers](https://open.spotify.com/album/0UUW8lGiDr1NnJSb9gNGq1) | 4:00 | 2019-08-09 | 2021-05-28 |
 | [Dreamin](https://open.spotify.com/track/3Qa1FZN158eJiz6PFnU1SG) | [Lofi Legs](https://open.spotify.com/artist/2D7kfjhkgz3y3LBheDXtFu) | [Dreamin](https://open.spotify.com/album/1HsV7eZunkhwcrVQsfjG29) | 2:19 | 2019-07-31 | 2021-05-25 |
 | [Drive](https://open.spotify.com/track/6QIw7F84ukZy4onuTVZVLd) | [FLOOR CRY](https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx) | [Drive](https://open.spotify.com/album/22ojz9iEWcGbCLgoKVR5So) | 3:26 | 2019-07-30\* | 2021-07-24 |
@@ -530,6 +530,7 @@
 | [Moneymaker](https://open.spotify.com/track/5tLXBOJvOu48PjpW76VStm) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Moneymaker](https://open.spotify.com/album/5XDL6RZGrCHqt8vX49KeZU) | 3:00 | 2021-03-20 | 2021-07-26 |
 | [More To You](https://open.spotify.com/track/3kpXsXVUkPus5T7Qld833K) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [More To You](https://open.spotify.com/album/5wOG2cUteiFYJ9u19jHkzL) | 3:54 | 2021-05-01 | 2022-04-20 |
 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 | 2019-07-30\* | 2022-12-15 |
+| [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 | 2023-09-29 |  |
 | [Mushroom](https://open.spotify.com/track/6bF20uauKV4HUXp5mKdx82) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [Mushroom](https://open.spotify.com/album/2VVDnRJ9hsMcH8qLfPL4rf) | 2:46 | 2019-07-30\* | 2021-05-27 |
 | [My Jinji](https://open.spotify.com/track/7wmFsS43fO8vAg0vcr776N) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Jinji Kikko](https://open.spotify.com/album/23fJtVCer8xdqYluyK8Rh9) | 6:40 | 2020-10-08 | 2022-12-15 |
 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 | 2021-02-27 | 2022-10-13 |
@@ -578,6 +579,7 @@
 | [On Your Journey](https://open.spotify.com/track/3jjE958MLus6IZaJK7k08x) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [On Your Journey](https://open.spotify.com/album/2tunt1ak3tuPd924f4t5Ld) | 2:58 | 2021-09-10 | 2022-04-15 |
 | [Only in the West](https://open.spotify.com/track/4A3yBa4C3Zy6UAGxIyv1XD) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Only in the West](https://open.spotify.com/album/5KeSEPeI8r6FHGWmFNOsCt) | 3:01 | 2019-07-30\* | 2021-05-25 |
 | [oops](https://open.spotify.com/track/0qd44jugFi3s8CC8N8l3Bc) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/7CRLVLjGplbDfqJqTpOZ07) | 3:03 | 2021-10-25 | 2022-06-11 |
+| [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 | 2023-09-29 |  |
 | [Orange Hoodie](https://open.spotify.com/track/7zznnb4017w7BwU5tMiBi9) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Orange Hoodie](https://open.spotify.com/album/7kjDSALwRw5EjnkNzTyc5t) | 2:59 | 2021-04-30 | 2021-08-11 |
 | [Ordinary](https://open.spotify.com/track/0YHZxqd9rn62GpafQZiskw) | [Besphrenz](https://open.spotify.com/artist/0VVJ5bIx1zXlBLi1GiP4yX) | [Ordinary](https://open.spotify.com/album/0fJSVr6fPr5ga4NavwCgoI) | 4:25 | 2021-02-28 | 2021-08-25 |
 | [Organon](https://open.spotify.com/track/7uKoqhOj7sfF1GowMuAc6I) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:30 | 2021-11-17 | 2022-12-15 |

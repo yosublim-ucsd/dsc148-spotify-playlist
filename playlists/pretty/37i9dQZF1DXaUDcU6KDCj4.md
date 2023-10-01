@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Helena Deland
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,179 likes - 150 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,298 likes - 150 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Hold On](https://open.spotify.com/track/4wYCasaUMf0fz0ZNgrehHr) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y), [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Hold On](https://open.spotify.com/album/2aBkncK675ajfbL7AkRjiH) | 3:04 |
 | 150 | [We Lost Sight of the Shoreline](https://open.spotify.com/track/1kO8dewzOeYP9NLlkAtKSW) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [We Lost Sight of the Shoreline](https://open.spotify.com/album/3X53agMtMfTfZ1VnNdGBWc) | 4:32 |
 
-Snapshot ID: `MCxhNmQ3YzM4MTA4NDI0NWYyODM5OGI5ODFjZjBlYjFhNmIyZDZjMzAz`
+Snapshot ID: `MCwyM2Q2OTZiZGI0M2YzMmMxN2M2NWJiZDlkN2JmMDIxMTU5N2QzNmU3`

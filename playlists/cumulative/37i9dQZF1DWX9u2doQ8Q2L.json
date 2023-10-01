@@ -5896,7 +5896,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 227800,
       "name": "I Refuse",
       "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
@@ -6613,7 +6613,7 @@
     },
     {
       "album": {
-        "name": "kaitensuruinosensu",
+        "name": "Kaiten suru innocence",
         "url": "https://open.spotify.com/album/2G2vADCkpaVtF1HlNxaoc3"
       },
       "artists": [
@@ -6626,7 +6626,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241918,
-      "name": "kaitensuruinosensu",
+      "name": "Kaiten suru innocence",
       "url": "https://open.spotify.com/track/6kOlOApwUtfjqmSCQx9DCT"
     },
     {
@@ -14734,7 +14734,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 157924,
       "name": "Unmellow",
       "url": "https://open.spotify.com/track/0QBMxVVIXqVNp2Yce45nBQ"

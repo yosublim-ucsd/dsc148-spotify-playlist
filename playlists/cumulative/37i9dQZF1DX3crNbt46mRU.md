@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Ed Sheeran
 
-8,863 songs - 18 day 13 hr 46 min
+8,864 songs - 18 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1017,7 +1017,8 @@
 | [Blame It On A Dream](https://open.spotify.com/track/1iCPS2iNPBcZe267jWnbf1) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s), [AIYANA](https://open.spotify.com/artist/7kszFp5zWV6pZauLkmxxcE) | [Blame It On A Dream](https://open.spotify.com/album/6xQq2OcHJ3e5K9HuOidKhP) | 2:29 | 2023-06-15 | 2023-06-23 |
 | [Blame It On Me](https://open.spotify.com/track/3wzb6Yh4KpuGsj2TLEpGEC) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blame It On Me](https://open.spotify.com/album/7CiVi0qi3v6TlfGDemsFZX) | 2:34 | 2023-05-11 | 2023-05-19 |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2022-12-08 | 2022-12-16 |
-| [blass](https://open.spotify.com/track/2PtpuTuPfzMBKSkq8TexS7) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Arkan45](https://open.spotify.com/artist/6CinPTkdtHGlOJvP4MzGT9) | [blass](https://open.spotify.com/album/1TXvdvAQPHEpPDeAx4YSwi) | 2:35 | 2023-09-28 |  |
+| [blass](https://open.spotify.com/track/2PtpuTuPfzMBKSkq8TexS7) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Arkan45](https://open.spotify.com/artist/6CinPTkdtHGlOJvP4MzGT9) | [blass](https://open.spotify.com/album/1TXvdvAQPHEpPDeAx4YSwi) | 2:35 | 2023-09-28 | 2023-10-01 |
+| [blass](https://open.spotify.com/track/4BAFvnTPYz6HFw5q12eJ4f) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Arkan45](https://open.spotify.com/artist/6CinPTkdtHGlOJvP4MzGT9) | [blass](https://open.spotify.com/album/072fq4bCpBCKFhgy6zQIrq) | 2:35 | 2023-09-28 |  |
 | [Blau](https://open.spotify.com/track/0lxkCY9FTzfwx6Lyl3OzO4) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Blau](https://open.spotify.com/album/2FZ0x4upZxTC3FuCM0IKBX) | 2:52 | 2022-12-01 | 2022-12-09 |
 | [Blau](https://open.spotify.com/track/0aoDXGbQp9cd5QQ3KPxFvl) | [GINI](https://open.spotify.com/artist/6TBAZHXDXBywvVgYyQ8aCQ) | [Blau](https://open.spotify.com/album/39oB4dVpCweoiPCs4MEa8k) | 3:07 | 2023-08-17 | 2023-08-25 |
 | [Blau](https://open.spotify.com/track/6BcgFkMhsE8ybTgQZXCj5h) | [OMG](https://open.spotify.com/artist/2gSIgsQWEHbWvOiFvhvx3g), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Blau](https://open.spotify.com/album/037jVpRWntGpBS7EwsFWkq) | 1:49 | 2022-07-07 | 2022-07-15 |

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-533 songs - 1 day 9 hr 5 min
+534 songs - 1 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,8 @@
 | [Love You Now](https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Love You Now](https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6) | 2:49 | 2023-01-13 |  |
 | [Lover's Game](https://open.spotify.com/track/1SFK3eoJqXkmGvcfmdzWC1) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/0uQFwLloIMk8kEMh5yfbbz) | 2:49 | 2022-09-30 | 2023-04-01 |
 | [Low Dog Blues](https://open.spotify.com/track/07Xkk56uB6HfGekcA5N8wn) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 3:47 | 2022-08-05 | 2023-06-10 |
-| [Lowland Trail](https://open.spotify.com/track/7y2QBn2C3LiQ0NBrreutRs) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Lowland Trail](https://open.spotify.com/album/74gyHiDd8nPsUX9P9qlQk0) | 2:24 | 2023-05-12 |  |
+| [Lowland Trail](https://open.spotify.com/track/6MlCY2smbnEbF2cgrNK2oQ) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Valley Of Heart's Delight](https://open.spotify.com/album/5DgZp7DBIP4yyUmBkbKDAb) | 2:24 | 2023-09-29 |  |
+| [Lowland Trail](https://open.spotify.com/track/7y2QBn2C3LiQ0NBrreutRs) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Lowland Trail](https://open.spotify.com/album/74gyHiDd8nPsUX9P9qlQk0) | 2:24 | 2023-05-12 | 2023-10-01 |
 | [Lucky](https://open.spotify.com/track/4ME9Sqka3OLycPfUkLFAgP) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Lucky](https://open.spotify.com/album/65O5v9lS0MPGkEEO2EPqya) | 4:24 | 2023-04-21 | 2023-05-06 |
 | [Lyin' low](https://open.spotify.com/track/2dXGmRWNxNwSakbBPxAbiH) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/7jo6e3KUvEk7DqwfI9eS6w) | 4:18 | 2021-12-17 | 2022-02-23 |
 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 | 2022-02-25 | 2022-09-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,079 likes - 128 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,096 likes - 128 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 99 | [Sex On The Beach](https://open.spotify.com/track/4nqwwhBN3jWBPh1PDPtrdj) | [Mike Singer](https://open.spotify.com/artist/1LRpAVWq5z6VZMG3tTdZKU) | [Sex On The Beach](https://open.spotify.com/album/39KgTbods71RmClFdHabKm) | 2:04 |
 | 100 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 |
 | 101 | [DRONE DAMAGGGE \(feat\. Destroy Lonely\)](https://open.spotify.com/track/4Xi44R2itmSqfLBwjz1JoC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [DRONE DAMAGGGE \(feat\. Destroy Lonely\)](https://open.spotify.com/album/3zDYSh69NCCkWlZJn1tST8) | 2:07 |
-| 102 | [blass](https://open.spotify.com/track/2PtpuTuPfzMBKSkq8TexS7) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Arkan45](https://open.spotify.com/artist/6CinPTkdtHGlOJvP4MzGT9) | [blass](https://open.spotify.com/album/1TXvdvAQPHEpPDeAx4YSwi) | 2:35 |
+| 102 | [blass](https://open.spotify.com/track/4BAFvnTPYz6HFw5q12eJ4f) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Arkan45](https://open.spotify.com/artist/6CinPTkdtHGlOJvP4MzGT9) | [blass](https://open.spotify.com/album/072fq4bCpBCKFhgy6zQIrq) | 2:35 |
 | 103 | [Immer wieder](https://open.spotify.com/track/5mSGvNHrwpFbA2YUb32ZMj) | [Kalazh44](https://open.spotify.com/artist/5sRQkVexJlax2iISuqL8cV), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Immer wieder](https://open.spotify.com/album/0zUNlrIAKCmlspdg1JuEUJ) | 2:49 |
 | 104 | [Conceited](https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Conceited](https://open.spotify.com/album/4QdyZdZcC8MYKBmOsCnIbp) | 3:59 |
 | 105 | [Einfache Leute \(feat\. Sebastian Madsen\)](https://open.spotify.com/track/4SWlRrP3b5OWBjk8iorGRy) | [Enno Bunger](https://open.spotify.com/artist/0aiAgFPJcZggIkSUGDFdkD), [Sebastian Madsen](https://open.spotify.com/artist/1ZVt5fKPhBawIplgxu5VwC) | [Einfache Leute](https://open.spotify.com/album/1Blapb2P2AXagKPeArDjVZ) | 4:43 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 127 | [4 to 5 \(With Future\)](https://open.spotify.com/track/30UAaS7gWwNTcO1axpAB5g) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [4 to 5 \(With Future\)](https://open.spotify.com/album/3EmtxZ9WCjoNZmhQVwSlvS) | 3:19 |
 | 128 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 |
 
-Snapshot ID: `MCxlNzZkMTUzNjQ1ZDlmNzgxYjY1MjY0OTgxY2U1MDRlNmQwNDJkZTQw`
+Snapshot ID: `MCw4MGNjZTg4NzZjODQ0MGE1OTI5NGNlOWFhNmQ3ZjgyZGZkMDQ0MGVh`

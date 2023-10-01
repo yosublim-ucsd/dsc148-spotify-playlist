@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Mali Velasquez\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,490 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,583 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 98 | [Like Dat](https://open.spotify.com/track/5qQr7kvjOkQiUzfHPnGWma) | [Adamn Killa](https://open.spotify.com/artist/2AwAtRmbmsuIr40rJFIWlv), [Adamn](https://open.spotify.com/artist/020yomReKdGJBT01BXBDUj), [LOU FRE$H](https://open.spotify.com/artist/57uDLvB9OultBUM7mkjzyQ) | [Like Dat](https://open.spotify.com/album/1fKTPy4ybhAiaoqllfiDTi) | 2:12 |
 | 99 | [Deuces & Waves](https://open.spotify.com/track/4GOR0WrtX09731VDluR93a) | [Vi City](https://open.spotify.com/artist/6kt9ndgnZizh8uhMBtKm7b), [Vega Heartbreak](https://open.spotify.com/artist/6ZcX2gJ5PoAb1P91EYoNRe) | [Hotels and Heartbreaks](https://open.spotify.com/album/4UWmBSfwWRdzCpsRYNCzQB) | 2:24 |
 
-Snapshot ID: `MCxmNzJkZDA3ODYzYWFmZDI4MDQ4MTczZDE0Y2ZiMmI5ODc3MTJmZGY4`
+Snapshot ID: `MCw2ZmQyZDkxODUyNjgyZWI3NGM4MjMxOGU3NTUyMDQwYjM5ZWI3NzMw`

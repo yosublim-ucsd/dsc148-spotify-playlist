@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 251859,
+  "num_followers": 252260,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "La Suerte",
-        "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 176497,
-      "name": "Por Enamorarme",
-      "url": "https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "No Eres La Oficial",
         "url": "https://open.spotify.com/album/7AjLQs5QZBduKDXxb8lYwh"
       },
@@ -503,18 +487,34 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
+        "name": "La Suerte",
+        "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Tatuajes - Deluxe",
-      "url": "https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu"
+      "duration_ms": 176497,
+      "name": "Por Enamorarme",
+      "url": "https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Desde El Rancho",
+        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Siempre Te Voy A Querer",
+      "url": "https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Desde El Rancho",
-        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
+        "name": "Da\u00f1ado (Deluxe)",
+        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 234360,
-      "name": "Siempre Te Voy A Querer",
-      "url": "https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K"
+      "duration_ms": 198000,
+      "name": "Tatuajes - Deluxe",
+      "url": "https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 175720,
-      "name": "Como Tu Quieras",
-      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
+      "duration_ms": 199960,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1372,9 +1372,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 199960,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
+      "duration_ms": 175720,
+      "name": "Como Tu Quieras",
+      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Superando...y Mas",
-        "url": "https://open.spotify.com/album/3cCdWCPNIsGDvuAT5pp0D7"
+        "name": "A\u00f1o Nuevo",
+        "url": "https://open.spotify.com/album/0FAyOaoGk5lvBjzjkE075P"
       },
       "artists": [
         {
-          "name": "Angel Arevalo",
-          "url": "https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV"
+          "name": "juanitoo2x",
+          "url": "https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf"
         }
       ],
-      "duration_ms": 260364,
-      "name": "Superando",
-      "url": "https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB"
+      "duration_ms": 173985,
+      "name": "A\u00f1o Nuevo",
+      "url": "https://open.spotify.com/track/6s2YmUFyj2krxfHcXevEH7"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "A\u00f1o Nuevo",
-        "url": "https://open.spotify.com/album/0FAyOaoGk5lvBjzjkE075P"
+        "name": "Superando...y Mas",
+        "url": "https://open.spotify.com/album/3cCdWCPNIsGDvuAT5pp0D7"
       },
       "artists": [
         {
-          "name": "juanitoo2x",
-          "url": "https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf"
+          "name": "Angel Arevalo",
+          "url": "https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV"
         }
       ],
-      "duration_ms": 173985,
-      "name": "A\u00f1o Nuevo",
-      "url": "https://open.spotify.com/track/6s2YmUFyj2krxfHcXevEH7"
+      "duration_ms": 260364,
+      "name": "Superando",
+      "url": "https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1567,22 +1567,6 @@
       "duration_ms": 220645,
       "name": "Tony",
       "url": "https://open.spotify.com/track/1X3oULnfRY6dvZxRQLftaE"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3Qoz6D1Wow3kfNLe75xHws"
-      },
-      "artists": [
-        {
-          "name": "Alejandroo",
-          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
-        }
-      ],
-      "duration_ms": 191005,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/3Q1E7EfAN0lXgsoxkhROdR"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1679,6 +1663,26 @@
       "duration_ms": 231324,
       "name": "Que Paso",
       "url": "https://open.spotify.com/track/4fYQuUPuF4qICpqX7YJ8tR"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Si\u00e9ntelo a Tu Modo",
+        "url": "https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD"
+      },
+      "artists": [
+        {
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+        },
+        {
+          "name": "Gabino Montalvo",
+          "url": "https://open.spotify.com/artist/0ZoDVZuncNiNIsyPkxmvZ6"
+        }
+      ],
+      "duration_ms": 224738,
+      "name": "La \u00danica",
+      "url": "https://open.spotify.com/track/2VlYtG8JEpe0KcfTK5xuOg"
     }
   ],
   "unique_name": "#SadCuhHours \ud83d\udc94",

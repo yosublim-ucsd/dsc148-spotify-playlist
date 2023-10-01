@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,134 likes - 76 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237,288 likes - 76 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 11 | [Please Press Play \- Radio Edit](https://open.spotify.com/track/37JCQAFq3xloM2QraYGUUk) | [Agguiar](https://open.spotify.com/artist/6TapvGfMBXqnvHSQCAuouV) | [Please Press Play](https://open.spotify.com/album/7F7lLV1T0hqmR3GOSiENan) | 2:40 |
 | 12 | [When I See It \(feat\. The Vic\)](https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [When I See It \(feat\. The Vic\)](https://open.spotify.com/album/0fzfB2d2fwXPjqhoKhbME1) | 3:15 |
 | 13 | [Tudo Bem, Tudo Bom \- Radio Edit](https://open.spotify.com/track/6qcPNJ9UGyBNxEc6r9Aiki) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Tudo Bem, Tudo Bom](https://open.spotify.com/album/5DDC66giRO5VgBOVypxxkn) | 2:58 |
-| 14 | [Hardcore Acid \- Radio Edit](https://open.spotify.com/track/5MevIegYSDg6tDSaHHFhid) | [Massivedrum](https://open.spotify.com/artist/46aYPGlJtmYZe8Q7Ijkyk5), [Diego Miranda](https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6) | [Hardcore Acid \(Radio Edit\)](https://open.spotify.com/album/3nPx2LNhlaYO8z0v5WiMpI) | 2:54 |
+| 14 | [Hardcore Acid \- Radio Edit](https://open.spotify.com/track/5MevIegYSDg6tDSaHHFhid) | [Diego Miranda](https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6), [Massivedrum](https://open.spotify.com/artist/46aYPGlJtmYZe8Q7Ijkyk5) | [Hardcore Acid \(Radio Edit\)](https://open.spotify.com/album/3nPx2LNhlaYO8z0v5WiMpI) | 2:54 |
 | 15 | [Back To The Old School](https://open.spotify.com/track/4F7LB2F4E2kAeYKLEoWc61) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Back To The Old School](https://open.spotify.com/album/1V2G2gyVO26ICgez5XZtXp) | 3:13 |
 | 16 | [Chaos 32](https://open.spotify.com/track/1FkbT2goO7NBjyJzrV6b9K) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [Chaos 32](https://open.spotify.com/album/17appExbNIbdc4aPRcAZ6E) | 1:50 |
 | 17 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 75 | [Heat](https://open.spotify.com/track/6uffqxl4bVeg3rPGDqctxq) | [Duske](https://open.spotify.com/artist/6VfL0NK2Mqt7OWXP6j2YZi), [Faithman](https://open.spotify.com/artist/67TlEACho22Dbu27Q3upti) | [Heat](https://open.spotify.com/album/5S1h4L00DB6P9IIRwjVfO9) | 3:23 |
 | 76 | [Bron Bron](https://open.spotify.com/track/2BcdzkJwckG25nk6PAYlqu) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Bron Bron](https://open.spotify.com/album/0RarRuW8t6Q3oRPZYFapDt) | 2:37 |
 
-Snapshot ID: `MCw1NjIxOGQ4MWMxMmVlNDUyNWMwODlkYjllZmY2ZTBlM2QyZTM1MGU0`
+Snapshot ID: `MCxlMjcyMWZhM2UzMzI1NGQyNmQyZTA5NDY4OTQwNzIxNTU5NzZkYzM1`

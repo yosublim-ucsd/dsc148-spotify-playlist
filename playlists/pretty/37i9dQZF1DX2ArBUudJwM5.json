@@ -1,12 +1,12 @@
 {
   "description": "Estamos listas para un festival \u00fanico. \n",
-  "num_followers": 39228,
+  "num_followers": 39243,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDZhZGNmNDM1MzdjMjE0NzhjODU0MjllZjlkYjdhNzQ3MjUzMmY1",
+  "snapshot_id": "MCw1ZTA2MDMzZjQ3ZjA1ZTU1MjYyYjhlYzM1OGYwNjQ1MDM5NjdjNjRi",
   "tracks": [
     {
       "added_at": "2023-09-20 19:09:49",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "MILENA",
-        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
-      },
-      "artists": [
-        {
-          "name": "Milena Salamanca",
-          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
-        }
-      ],
-      "duration_ms": 126146,
-      "name": "Pal Tiempo Del Carnaval",
-      "url": "https://open.spotify.com/track/2omFHhCN1dqCXqhfwPDnFm"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "Esta podr\u00eda ser la se\u00f1al",
         "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 77890,
       "name": "Timba",
       "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "MILENA",
+        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
+      },
+      "artists": [
+        {
+          "name": "Milena Salamanca",
+          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
+        }
+      ],
+      "duration_ms": 126146,
+      "name": "Pal Tiempo Del Carnaval",
+      "url": "https://open.spotify.com/track/2omFHhCN1dqCXqhfwPDnFm"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Mariposa Azul",
-        "url": "https://open.spotify.com/album/0u5EXmZWkofaUccSvKyx2f"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 201382,
-      "name": "Mariposa Azul",
-      "url": "https://open.spotify.com/track/30A9i0eGYhLESSFRQBHuX9"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "No Me Gustan los Grises",
         "url": "https://open.spotify.com/album/2JzCk4SJDCnYXlP5RT6v4x"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 217761,
       "name": "No Me Gustan los Grises",
       "url": "https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "Mariposa Azul",
+        "url": "https://open.spotify.com/album/0u5EXmZWkofaUccSvKyx2f"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 201382,
+      "name": "Mariposa Azul",
+      "url": "https://open.spotify.com/track/30A9i0eGYhLESSFRQBHuX9"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -863,6 +863,22 @@
       "duration_ms": 153877,
       "name": "R\u00e1pido y Furioso",
       "url": "https://open.spotify.com/track/0FTsEdWPw91sgfvuRgXkJr"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "Tu Casa",
+        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Tu Casa",
+      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -915,22 +931,6 @@
       "duration_ms": 296914,
       "name": "La Batalla",
       "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
-        "name": "Tu Casa",
-        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Tu Casa",
-      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Tu Mejor Plan",
-        "url": "https://open.spotify.com/album/2lQjC0dJQ6Ez3mFTSx6NaI"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 183034,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/415KSDXNeBLBGMgsu5aIWV"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "Deshice De Mi",
         "url": "https://open.spotify.com/album/4cOImL3d6M0F2hhzbiBmRa"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "LXS INFERNALES (Del Valle Encantado)",
-        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+        "name": "Tu Mejor Plan",
+        "url": "https://open.spotify.com/album/2lQjC0dJQ6Ez3mFTSx6NaI"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
         }
       ],
-      "duration_ms": 182256,
-      "name": "TRIGAL",
-      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
+      "duration_ms": 183034,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/415KSDXNeBLBGMgsu5aIWV"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -1119,6 +1103,22 @@
       "duration_ms": 218470,
       "name": "Menos Mierda",
       "url": "https://open.spotify.com/track/6I4RfnGgotxBNN5ucshR0Z"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 182256,
+      "name": "TRIGAL",
+      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "SIT DOWN",
-        "url": "https://open.spotify.com/album/6jFvLTVNJvNhPCCW6BRTzH"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 165308,
-      "name": "SIT DOWN",
-      "url": "https://open.spotify.com/track/1BWWFhvabH2hquJrzV0uxf"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "Lo Que Tenias Conmigo",
         "url": "https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 198542,
       "name": "Lo Que Tenias Conmigo",
       "url": "https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "SIT DOWN",
+        "url": "https://open.spotify.com/album/6jFvLTVNJvNhPCCW6BRTzH"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 165308,
+      "name": "SIT DOWN",
+      "url": "https://open.spotify.com/track/1BWWFhvabH2hquJrzV0uxf"
     },
     {
       "added_at": "2023-09-20 19:09:49",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/3od0Nq1bL9ooT7wDzyJl9r"
-      },
-      "artists": [
-        {
-          "name": "ERNES",
-          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
-        }
-      ],
-      "duration_ms": 222058,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/2mym9sPryRlsZxftEtY6MZ"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/3od0Nq1bL9ooT7wDzyJl9r"
+      },
+      "artists": [
+        {
+          "name": "ERNES",
+          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
+        }
+      ],
+      "duration_ms": 222058,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/2mym9sPryRlsZxftEtY6MZ"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
         "name": "Temporal",
         "url": "https://open.spotify.com/album/4Gssh5r2TUnZMvMJTJCLNS"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-09-20 19:09:49",
       "album": {
-        "name": "Adonde No Me Llaman",
-        "url": "https://open.spotify.com/album/0BBLEDpkYzFNGt6dYd6iNB"
-      },
-      "artists": [
-        {
-          "name": "Vane Butera",
-          "url": "https://open.spotify.com/artist/6jzYBjh67umefK49gTrsmY"
-        }
-      ],
-      "duration_ms": 256416,
-      "name": "Gusto de Vos",
-      "url": "https://open.spotify.com/track/0xNGtFaZtXnA3crnTZ78gj"
-    },
-    {
-      "added_at": "2023-09-20 19:09:49",
-      "album": {
         "name": "Resisto/Existo",
         "url": "https://open.spotify.com/album/4NoFgd1F0LhrpRe1Ej2saH"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 192335,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/6lb3IdGu3LiSCPuMJyHSVV"
+    },
+    {
+      "added_at": "2023-09-20 19:09:49",
+      "album": {
+        "name": "Adonde No Me Llaman",
+        "url": "https://open.spotify.com/album/0BBLEDpkYzFNGt6dYd6iNB"
+      },
+      "artists": [
+        {
+          "name": "Vane Butera",
+          "url": "https://open.spotify.com/artist/6jzYBjh67umefK49gTrsmY"
+        }
+      ],
+      "duration_ms": 256416,
+      "name": "Gusto de Vos",
+      "url": "https://open.spotify.com/track/0xNGtFaZtXnA3crnTZ78gj"
     },
     {
       "added_at": "2023-09-20 19:09:49",

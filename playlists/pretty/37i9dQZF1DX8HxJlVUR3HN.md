@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Shaka Ponk
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,827 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,837 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Satin Fields](https://open.spotify.com/track/2QGEFaga6yyx981dA0dnYG) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [Satin Fields](https://open.spotify.com/album/36jIxj7kbRayVs0hL6fUIS) | 4:09 |
 | 50 | [Real Countdown](https://open.spotify.com/track/3UDDYFwQpb073iwaO7oDa4) | [Ponta Preta](https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e) | [Way out West!](https://open.spotify.com/album/3kjpB1Aze30GpLmJtVpdSd) | 4:54 |
 
-Snapshot ID: `MCxlOWFkMzU1ZDc4YzBjNTRlMzBlNmM2MTJlZjc5MDdlM2E0MDU4NzFj`
+Snapshot ID: `MCw3NzllMWY2ZDk0Mzk4MTBjMzAzYjNmMTVmYzlmZmFmMTQ4NTViNTk1`

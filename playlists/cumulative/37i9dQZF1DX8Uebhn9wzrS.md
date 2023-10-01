@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,587 songs - 2 day 12 hr 18 min
+1,589 songs - 2 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [clever ground](https://open.spotify.com/track/4s6r8g1LcwUOco4eNsQMWQ) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [clever ground](https://open.spotify.com/album/7cP1C9c0nqyySrFWtFURYW) | 1:49 | 2022-04-15 | 2022-12-03 |
 | [Climbing](https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Climbing](https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K) | 2:12 | 2023-09-08 |  |
 | [Clipped Cherries](https://open.spotify.com/track/0GmewNIPe0cm0o4KfP7DE5) | [The Five Murmurs](https://open.spotify.com/artist/7fQvkOKc3LyOkwVF4TGDRP) | [Cyberprose](https://open.spotify.com/album/3cFyb8vpypV0INiWoGRMRl) | 3:00 | 2022-06-03 | 2022-11-19 |
+| [Close Your Eyes](https://open.spotify.com/track/0DC95ThOGhL8F1jIhcXmrp) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Close Your Eyes](https://open.spotify.com/album/6EYYGetEziBvVnSK5TbiPh) | 2:54 | 2023-09-29 |  |
 | [Closure](https://open.spotify.com/track/7KB7RLhbzmqStS1SEo2NSW) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Closure](https://open.spotify.com/album/3LRewjQy7glNhpdgzl3VS3) | 1:51 | 2023-03-20 |  |
 | [Cloud Castle](https://open.spotify.com/track/3qJTcQgiZq1Yzg8kYwHpfC) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Cloud Castle](https://open.spotify.com/album/7eybFEsy8rVO9v80GTULtK) | 2:16 | 2023-04-20 |  |
 | [Cloud Choke](https://open.spotify.com/track/0CFkFI1YrAMTd63Uv2vlJy) | [Liam Huston](https://open.spotify.com/artist/42kGyvHgadMRxO36dX8vuy) | [Cloud Choke](https://open.spotify.com/album/04AHkQOMeQVIN3gI4dByqr) | 1:47 | 2022-04-15 | 2022-05-27 |
@@ -671,6 +672,7 @@
 | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/track/7wUevqE8Kpl6p6xZKAi7gl) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/album/5qRXYnq5sYYvSfrR77bnQN) | 2:42 | 2023-04-03 |  |
 | [Imagination](https://open.spotify.com/track/4Iep4ODqp0YyxZq95DFGHB) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Imagination](https://open.spotify.com/album/0wbZQsx17Lg2TCUjDAubdl) | 2:35 | 2022-08-19 | 2022-12-24 |
 | [imenü](https://open.spotify.com/track/2yFwy1qCr4kiyHEZAwiw2p) | [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Doctor Phono](https://open.spotify.com/artist/26vuhTy5mAWVFKOJMJ5PRP) | [imenü](https://open.spotify.com/album/08J2uAEhntycYO7Zz6z9J7) | 2:27 | 2023-08-17 |  |
+| [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 | 2023-09-29 |  |
 | [Imprints](https://open.spotify.com/track/1AjpbQ4hxw2LNy7QOJKxZh) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Tailored Times / Imprints](https://open.spotify.com/album/2N1V0jS8ZBNI8BjYvmXGtr) | 2:12 | 2022-11-11 |  |
 | [in a..\. mood](https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [in a..\. mood](https://open.spotify.com/album/5H1jIhE1wBYqDkWpEnTCsc) | 2:31 | 2023-01-06 |  |
 | [In Dreams](https://open.spotify.com/track/6ZZ4QZuEgjKueuPKixfPC8) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [In Dreams](https://open.spotify.com/album/6JvmEOeIs3HOm2m8mRG5eZ) | 2:40 | 2023-02-13 | 2023-04-04 |
@@ -687,7 +689,7 @@
 | [Insouciance](https://open.spotify.com/track/0YNVsowpOPrBvgvcu8lQtO) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu) | [Insouciance](https://open.spotify.com/album/7thZLq5RVtYhHFqRmfijgd) | 2:07 | 2022-07-22 | 2022-08-12 |
 | [Inspiration](https://open.spotify.com/track/7tlfSeR24SK1zh9hd32fcw) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Inspiration](https://open.spotify.com/album/3H2cPlfyCa0ahwUXnUpfmz) | 2:12 | 2022-11-11 | 2023-09-16 |
 | [Inspiration Sign](https://open.spotify.com/track/4MpKdXBjzGUvJr4dY6Klyd) | [Boozoo Bajou](https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3), [Hellmann](https://open.spotify.com/artist/5KnMQpvFLFj2bCJKAe10sB), [Bembo.wav](https://open.spotify.com/artist/5Bdfkiu2iPkIxqWE3Kxcvb) | [Inspiration Sign](https://open.spotify.com/album/0CqSkcSkYAQqOHLXqZ8Q8A) | 2:37 | 2023-08-31 |  |
-| [Inspired](https://open.spotify.com/track/7FtklceBvMCY4Fju8qATUH) | [Flying Fruits](https://open.spotify.com/artist/6sVtAx9fJjuO2RSlJlN7fq) | [Inspired](https://open.spotify.com/album/2TTKmkQ72n4DRtLJWx9kZm) | 1:40 | 2022-10-28 |  |
+| [Inspired](https://open.spotify.com/track/7FtklceBvMCY4Fju8qATUH) | [Flying Fruits](https://open.spotify.com/artist/6sVtAx9fJjuO2RSlJlN7fq) | [Inspired](https://open.spotify.com/album/2TTKmkQ72n4DRtLJWx9kZm) | 1:40 | 2022-10-28 | 2023-10-01 |
 | [intentions](https://open.spotify.com/track/7an4nPcSCnHX3BZBPJsMON) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [intentions](https://open.spotify.com/album/4k2f1pwo3sQrePxO8LSP3v) | 2:18 | 2022-04-15 | 2022-10-14 |
 | [Interlace](https://open.spotify.com/track/7LV01OBynmYstauhU7HeTC) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Interlace](https://open.spotify.com/album/770bOOrgLvY5Sn7Crrhh2U) | 2:36 | 2022-04-15 | 2022-09-09 |
 | [Interrupt](https://open.spotify.com/track/4yCfAzDbOFFc5Wd54vIaV6) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [Interrupt](https://open.spotify.com/album/3maY7Y2WbVcFWHTWkeEqki) | 1:33 | 2022-05-13 | 2022-11-12 |
@@ -1086,7 +1088,7 @@
 | [Pepper & Salt](https://open.spotify.com/track/36IEz2n1LIpsJF40eNYsz2) | [Blac Bamboo](https://open.spotify.com/artist/4ypPDohUBzURhyETVv552h) | [L0vesick / Pepper & Salt](https://open.spotify.com/album/7aUkxRDRbuwhLi6GCTqIIR) | 4:10 | 2022-04-22 | 2023-03-25 |
 | [Perfect Blend](https://open.spotify.com/track/480VxcEsJioWswoAM8JjEB) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Perfect Blend](https://open.spotify.com/album/7vzCciW1icsE9aVbbeCJjG) | 2:04 | 2022-12-09 | 2023-09-16 |
 | [Perfect Tonight](https://open.spotify.com/track/524rHs2pC8DmYZar2qJD7v) | [Rapido\_](https://open.spotify.com/artist/6lOeB8MEOAX0dqRJEFrQV6) | [Perfect Tonight](https://open.spotify.com/album/0qP01fvaJRELe91ZVoxgJR) | 1:32 | 2022-04-15 | 2023-08-18 |
-| [Periodical](https://open.spotify.com/track/1lAJMJ01FU1RibQigO6RQ1) | [GoldFuzion](https://open.spotify.com/artist/4PLfIjxmgFV3L62gIpMjvd) | [Periodical](https://open.spotify.com/album/4Ba1rWftGBXNSj4ZXLY4H6) | 2:08 | 2023-01-06 |  |
+| [Periodical](https://open.spotify.com/track/1lAJMJ01FU1RibQigO6RQ1) | [GoldFuzion](https://open.spotify.com/artist/4PLfIjxmgFV3L62gIpMjvd) | [Periodical](https://open.spotify.com/album/4Ba1rWftGBXNSj4ZXLY4H6) | 2:08 | 2023-01-06 | 2023-10-01 |
 | [perpetually tired](https://open.spotify.com/track/69d9hCmlb6V3Q3JA71yG3i) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [perpetually tired](https://open.spotify.com/album/5KAuZBJzU73lG7fnsEB78c) | 2:08 | 2022-12-23 |  |
 | [petal](https://open.spotify.com/track/3dkGPR1S8xKvV9RwmII3Mp) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [petal](https://open.spotify.com/album/4n6F9v7ajeO9Fp6lmFeLnH) | 2:01 | 2023-08-03 |  |
 | [Peter Ran](https://open.spotify.com/track/0WLk5AGaZMeiQSRInu129w) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Peter Ran](https://open.spotify.com/album/6PBbVsmxuTSPiSb9urnRXp) | 2:21 | 2022-10-01 |  |

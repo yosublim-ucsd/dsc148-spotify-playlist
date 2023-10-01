@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Sam Gellaitry
 
-948 songs - 2 day 13 hr 25 min
+949 songs - 2 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-16 | 2023-04-09 |
 | [Dark Rain](https://open.spotify.com/track/6nFeqs4DACn0ldbumEshsg) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dark Rain](https://open.spotify.com/album/0qAXFwj59i4PcQyyYMiPP5) | 3:01 | 2021-10-22 | 2022-02-12 |
 | [Day Dreams](https://open.spotify.com/track/03DGwbY8WataLlPkklkXKL) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Day Dreams](https://open.spotify.com/album/2bb8gN0xF2BGAGrolED9zU) | 3:45 | 2023-08-04 |  |
+| [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 | 2023-09-29 |  |
 | [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 | 2023-04-07 |  |
 | [Days Like This](https://open.spotify.com/track/6y3ZGJ2zecaZHYsRJ7fg0I) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz) | [Soulonica](https://open.spotify.com/album/2hMO585Rgwx9e2Y1oIFnQV) | 8:02 | 2023-02-24 | 2023-03-04 |
 | [De Tecidos](https://open.spotify.com/track/5VN37zj6J0yQfTLzKGyFsQ) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [self\-care](https://open.spotify.com/album/3xTy5AFpBDL2qzWoZrNtgz) | 3:05 | 2021-08-20 | 2022-07-19 |
@@ -697,7 +698,7 @@
 | [RIDE](https://open.spotify.com/track/1ufJxWpoWSy7qh6gBIubKX) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [RIDE](https://open.spotify.com/album/76XK5M33WP6djGOg7V21i6) | 2:40 | 2021-12-03 | 2022-01-27 |
 | [Right on time](https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:44 | 2022-02-18 | 2023-07-29 |
 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 | 2022-10-05 | 2023-07-29 |
-| [RISE \- Darius Remix](https://open.spotify.com/track/0zyDQF49c8BZObY8Figpew) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [RISE \(Darius Remix\)](https://open.spotify.com/album/11H0eAX1PYOz4XENIBHmRL) | 7:31 | 2023-04-21 |  |
+| [RISE \- Darius Remix](https://open.spotify.com/track/0zyDQF49c8BZObY8Figpew) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [RISE \(Darius Remix\)](https://open.spotify.com/album/11H0eAX1PYOz4XENIBHmRL) | 7:31 | 2023-04-21 | 2023-10-01 |
 | [Rising](https://open.spotify.com/track/7xN80kFvkkSMtDu57pZ29w) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Rising](https://open.spotify.com/album/7lvWOiTh8oMtOldgbB4EWi) | 4:13 | 2023-08-18 | 2023-08-26 |
 | [River \(feat\. Parson James\)](https://open.spotify.com/track/6OOkLUhFFnaj6l9LcPHzHN) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [River \(feat\. Parson James\)](https://open.spotify.com/album/79KK6T8sXDlYgXWk8bi6VE) | 3:30 | 2021-10-22 | 2022-02-11 |
 | [River \(feat\. Parson James\) \[The Magician Remix\]](https://open.spotify.com/track/6GF8u7oem3HFXCtvAyJTWp) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [River \(feat\. Parson James\) \[The Magician Remix\]](https://open.spotify.com/album/5X5T4SqMFpi3GMLO1cA0FU) | 3:36 | 2021-11-12 | 2022-07-03 |

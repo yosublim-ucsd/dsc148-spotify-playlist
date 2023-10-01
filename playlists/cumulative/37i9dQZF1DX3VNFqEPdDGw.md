@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Intense & G.Sidhu
 
-97 songs - 5 hr 7 min
+98 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [On the Mic](https://open.spotify.com/track/07OsxsRgbSD9SED12pqlxx) | [JK](https://open.spotify.com/artist/30A8pUI01O6H41x7rvQpSt), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [On the Mic](https://open.spotify.com/album/2MHfkQX1Goi9T15jUEGR53) | 3:46 | 2021-12-18 | 2022-01-11 |
 | [Putt Patela Da](https://open.spotify.com/track/30iRn3jvkspezDnngzLt7V) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Putt Patela Da](https://open.spotify.com/album/7ktFMBLCpBHdsXP5PLROM2) | 2:50 | 2022-07-05 | 2023-05-26 |
 | [Pyar Bolda](https://open.spotify.com/track/3RtR0XXNGtBHJkFgY6OvTQ) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Pyar Bolda](https://open.spotify.com/album/3ZcDbMWG4m26hPhQXFLFc8) | 2:42 | 2021-12-18 |  |
+| [Red Bottom](https://open.spotify.com/track/4Rk9xAIYkkCq34H9XhrY3C) | [Jk Dhillon](https://open.spotify.com/artist/4Qd0RqDCeIhqaWMLyRe8ba), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Red Bottom](https://open.spotify.com/album/1ZBrAjDZ9o6hsuiNKTEIMW) | 3:35 | 2023-09-30 |  |
 | [Salute](https://open.spotify.com/track/0w2wUGseVPOTjYVp3ZbBlf) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Salute](https://open.spotify.com/album/1QXDxsneMDb6sD2995j8FM) | 3:23 | 2023-07-26 |  |
 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 | 2022-05-06 |  |
 | [Signed to God](https://open.spotify.com/track/3lRzVvMNG1QJcHlhLXM0lA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 2:27 | 2021-12-18 | 2022-01-11 |

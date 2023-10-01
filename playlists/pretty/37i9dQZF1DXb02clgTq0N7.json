@@ -1,12 +1,12 @@
 {
   "description": "Y que retumbe la bandona con puros corridos de 24k. La Arrolladora Banda El Lim\u00f3n en portada.",
-  "num_followers": 116717,
+  "num_followers": 116787,
   "original_name": "Corridos con Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTdhOGYwZjgyN2NkOWZmOWM2MzZlZWE2MGI0OTBkZGE3N2M1NzNl",
+  "snapshot_id": "MCwxNjcxZTRlZTA0MzE4YjQ2MWE4YTJjZDQ5MDlhNGI3NWU3NDU3YWMz",
   "tracks": [
     {
       "added_at": "2023-06-16 06:00:00",
@@ -667,22 +667,18 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Aqui Ando En El Caloron (En Vivo)",
-        "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
+        "name": "Corridos Famosos Al Estilo De...",
+        "url": "https://open.spotify.com/album/5ZDjSIPKk4NCxbepk6Qvcm"
       },
       "artists": [
         {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        },
-        {
-          "name": "Grupo Descarga Del 3030",
-          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
         }
       ],
-      "duration_ms": 232820,
-      "name": "Aqui Ando En El Caloron - En Vivo",
-      "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
+      "duration_ms": 165666,
+      "name": "Est\u00e1 De Parranda El Jefe - Corrido",
+      "url": "https://open.spotify.com/track/6vjrC6SFwlhMDcXp19IBIL"
     },
     {
       "added_at": "2023-06-16 06:00:00",
@@ -723,18 +719,22 @@
     {
       "added_at": "2023-06-16 06:00:00",
       "album": {
-        "name": "Corridos Famosos Al Estilo De...",
-        "url": "https://open.spotify.com/album/5ZDjSIPKk4NCxbepk6Qvcm"
+        "name": "Aqui Ando En El Caloron (En Vivo)",
+        "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        },
+        {
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
         }
       ],
-      "duration_ms": 165666,
-      "name": "Est\u00e1 De Parranda El Jefe - Corrido",
-      "url": "https://open.spotify.com/track/6vjrC6SFwlhMDcXp19IBIL"
+      "duration_ms": 232820,
+      "name": "Aqui Ando En El Caloron - En Vivo",
+      "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
     },
     {
       "added_at": "2023-06-16 06:00:00",

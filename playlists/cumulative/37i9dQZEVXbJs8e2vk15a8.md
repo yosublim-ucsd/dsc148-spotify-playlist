@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,370 songs - 3 day 2 hr 37 min
+1,371 songs - 3 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [AMIGA DATE CUENTA](https://open.spotify.com/track/44gzTwIFpKyyRPOTRBUbKX) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [AMIGA DATE CUENTA](https://open.spotify.com/album/15e00RGSgvmgPfovIgtCAa) | 2:17 | 2022-10-04 | 2022-10-13 |
 | [Amiri Jeans](https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [King Fly](https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc) | [La Luz Es Única](https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB) | 2:16 | 2023-05-12 | 2023-08-07 |
 | [Amor & Paz](https://open.spotify.com/track/5nmEvov5z4ZcARslZ7ClTV) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Amor & Paz](https://open.spotify.com/album/7ftOnZH1J9RUU5kAuEtMN7) | 3:15 | 2023-07-25 | 2023-07-27 |
+| [Amour plastique](https://open.spotify.com/track/0HDO6JFfplYPrSWuufUosZ) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Matthyeux](https://open.spotify.com/artist/6oE1rW4wI9y4lISZ5NvyDp) | [Euphories](https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg) | 3:47 | 2023-09-30 |  |
 | [Anda sola \- Remix](https://open.spotify.com/track/7sETGc6JqtbQxz7rF1D0AX) | [DJ RUGG](https://open.spotify.com/artist/6K7PNZlKTdxYSYPVbgt52p) | [Anda sola \(Remix\)](https://open.spotify.com/album/4VC0zUN0ZzTZbD26s8gNSI) | 3:09 | 2023-07-11 | 2023-07-18 |
 | [ANDA SOLITA](https://open.spotify.com/track/3BjIQyc3DOAdrn7QVNh4yx) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [ANDA SOLITA](https://open.spotify.com/album/7vY06mGae6JK615cQSvD5F) | 3:22 | 2023-09-06 |  |
 | [Andando](https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:21 | 2023-06-06 | 2023-06-23 |
@@ -428,7 +429,7 @@
 | [Flashbacks](https://open.spotify.com/track/5ToIncnJsCF0HbgqUZIYxl) | [Baby J & Young Weapon](https://open.spotify.com/artist/4IRrYqHes6JTQwU5lePXNx) | [Flashbacks](https://open.spotify.com/album/0b16ekeB67exivDLk5xj2u) | 2:51 | 2022-06-07 | 2023-09-05 |
 | [FLECHAZO EN EL CENTRO](https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [TU DUO FAVORITO](https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ) | 3:05 | 2023-09-26 |  |
 | [Flores Amarillas](https://open.spotify.com/track/4PUmVspCOFioja8MFM653t) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta](https://open.spotify.com/album/2X3U1Ra8bYgf0wXMjYJ1rN) | 3:43 | 2022-09-26 | 2023-03-30 |
-| [Flores Amarillas](https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta](https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9) | 3:43 | 2023-09-22 |  |
+| [Flores Amarillas](https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta](https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9) | 3:43 | 2023-09-22 | 2023-10-01 |
 | [Flotao](https://open.spotify.com/track/0HsI8dYRVnVGpzppNThv1e) | [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Yishark](https://open.spotify.com/artist/2hp2lUfm32mmW4mMlhMQnW), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD), [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Benji La Maldita Escritura De Oro](https://open.spotify.com/artist/2H5XfIuAQCXmaIDm7vcViA) | [Flotao](https://open.spotify.com/album/426a5rPIXnkvHG9il06TPO) | 5:37 | 2022-05-24 | 2022-06-30 |
 | [Flow Violento \- Remix](https://open.spotify.com/track/66j4P6CdkPZQW5q0Lv3Vn8) | [YoSoyPlex](https://open.spotify.com/artist/4x6RfZKryEo441M8BscIJ0), [Ruven](https://open.spotify.com/artist/28alLwceRIxNti9r9M9sPf) | [Flow Violento \(Remix\)](https://open.spotify.com/album/6iWto0Hn1ZEAbOjym7ZTEL) | 2:46 | 2023-04-25 | 2023-05-24 |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-04-25 | 2023-05-09 |

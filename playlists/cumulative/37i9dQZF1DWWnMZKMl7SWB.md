@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,167 songs - 2 day 4 hr 18 min
+1,169 songs - 2 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Climbing](https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Climbing](https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K) | 2:12 | 2023-09-22 |  |
 | [Close Your Eyes](https://open.spotify.com/track/0DC95ThOGhL8F1jIhcXmrp) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Close Your Eyes](https://open.spotify.com/album/6EYYGetEziBvVnSK5TbiPh) | 2:54 | 2023-09-29 |  |
 | [Closure](https://open.spotify.com/track/7KB7RLhbzmqStS1SEo2NSW) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Closure](https://open.spotify.com/album/3LRewjQy7glNhpdgzl3VS3) | 1:51 | 2023-09-22 |  |
-| [Cloud Base](https://open.spotify.com/track/3l4Sut89BnuWk7Ndn250DM) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:37 | 2023-09-08 |  |
+| [Cloud Base](https://open.spotify.com/track/3l4Sut89BnuWk7Ndn250DM) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:37 | 2023-09-08 | 2023-10-01 |
 | [Cloud Castle](https://open.spotify.com/track/3qJTcQgiZq1Yzg8kYwHpfC) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Cloud Castle](https://open.spotify.com/album/7eybFEsy8rVO9v80GTULtK) | 2:16 | 2023-09-22 | 2023-09-29 |
 | [Cloudy days](https://open.spotify.com/track/2XZZi9nIXtmEhCQoXbheUz) | [LOFI LAND](https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe) | [Cloudy days](https://open.spotify.com/album/4RZlj3U0bB74lg8QFDD2Oi) | 1:54 | 2023-09-22 | 2023-09-29 |
 | [cloudyhead](https://open.spotify.com/track/34Ypo4hhKwo8IQRGJHGWr9) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [cloudyhead](https://open.spotify.com/album/2MbXVSmzStW4mUMFiUEHdJ) | 2:29 | 2023-09-08 | 2023-09-23 |
@@ -404,6 +404,7 @@
 | [Friendly](https://open.spotify.com/track/4X40ngLEFkHOJ8FZyFnYCB) | [Cargo Ship](https://open.spotify.com/artist/1WrXHKCzXwcYewHIHKKn9e) | [Friendly](https://open.spotify.com/album/3zv6QMU7sUtIFtqTo2kZJU) | 1:36 | 2023-09-22 |  |
 | [Frog\-School Beat](https://open.spotify.com/track/5WYyLP0tXdtamiUJ6jRODo) | [Lime Nyorobon](https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq) | [Frog\-School Beat](https://open.spotify.com/album/6mun3bQHHwNajiuse9fcqi) | 1:57 | 2023-09-22 |  |
 | [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 |  |
+| [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 | 2023-09-29 |  |
 | [Fuji Vibes](https://open.spotify.com/track/7cD8vjgwrgwewmHUqAZ2LT) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Fuji Vibes](https://open.spotify.com/album/6GgE6elHCZotSn5dFW1JPv) | 2:25 | 2023-09-22 |  |
 | [full sail ahead](https://open.spotify.com/track/0NkI38RjrMyLaboKWpxA86) | [Summeriez](https://open.spotify.com/artist/2aVml0FoztVW45SVjA0FsW) | [full sail ahead](https://open.spotify.com/album/7zksuVzQD8iJXqVe09y96k) | 2:14 | 2023-09-08 |  |
 | [Future Lovers](https://open.spotify.com/track/3SORHgn6Gj7qBzQuZLv7N7) | [Nice Gii](https://open.spotify.com/artist/4y04SK9f1oYHAZ8WDHy9wi) | [Move It Slower](https://open.spotify.com/album/5HRAg8TbMGIpE1yJXBLQAL) | 2:28 | 2023-09-22 |  |
@@ -498,6 +499,7 @@
 | [Idyllic](https://open.spotify.com/track/5AveowMyJKst81mznnDn3q) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Idyllic](https://open.spotify.com/album/64uSGFrQ3szLAWUBe4KfyR) | 1:58 | 2023-09-22 |  |
 | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/track/7wUevqE8Kpl6p6xZKAi7gl) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/album/5qRXYnq5sYYvSfrR77bnQN) | 2:42 | 2023-09-22 |  |
 | [imenü](https://open.spotify.com/track/2yFwy1qCr4kiyHEZAwiw2p) | [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Doctor Phono](https://open.spotify.com/artist/26vuhTy5mAWVFKOJMJ5PRP) | [imenü](https://open.spotify.com/album/08J2uAEhntycYO7Zz6z9J7) | 2:27 | 2023-09-22 |  |
+| [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 | 2023-09-29 |  |
 | [Imprints](https://open.spotify.com/track/1AjpbQ4hxw2LNy7QOJKxZh) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Tailored Times / Imprints](https://open.spotify.com/album/2N1V0jS8ZBNI8BjYvmXGtr) | 2:12 | 2023-09-22 |  |
 | [in a..\. mood](https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [in a..\. mood](https://open.spotify.com/album/5H1jIhE1wBYqDkWpEnTCsc) | 2:31 | 2023-09-22 |  |
 | [In My Lifetime](https://open.spotify.com/track/4xnUnOJbzbWZEVY4Ktublu) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [In My Lifetime](https://open.spotify.com/album/4I8emTVXQz9SwQJ4n0sDio) | 1:49 | 2023-09-08 |  |
@@ -1023,7 +1025,7 @@
 | [The Frog's Ritual](https://open.spotify.com/track/6WHfx1QdlgzjM5vYs4Ty2K) | [Felix Johansson Carne](https://open.spotify.com/artist/5tb6pZdgWLr5oHOlSgtiqk) | [The Frog's Ritual](https://open.spotify.com/album/6BWc7WW6Bh6CIqkP46GB1I) | 5:37 | 2022-04-12 | 2023-09-09 |
 | [The Next Stop Is](https://open.spotify.com/track/476oazZv3c5b3I8vwJAGZ5) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [The Next Stop Is](https://open.spotify.com/album/0EFrr0p72DDQyWqxbnH26m) | 2:31 | 2023-09-22 |  |
 | [The Night Cruise](https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [The Night Cruise](https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo) | 2:17 | 2023-09-22 |  |
-| [The Protagonist](https://open.spotify.com/track/3191qXOHGBMGKCoBIjUz3A) | [TheDewk](https://open.spotify.com/artist/5gnerJQeC6DOhWziTjPITZ) | [The Protagonist](https://open.spotify.com/album/565aGEAex9BexExocJJMt4) | 1:37 | 2023-09-08 |  |
+| [The Protagonist](https://open.spotify.com/track/3191qXOHGBMGKCoBIjUz3A) | [TheDewk](https://open.spotify.com/artist/5gnerJQeC6DOhWziTjPITZ) | [The Protagonist](https://open.spotify.com/album/565aGEAex9BexExocJJMt4) | 1:37 | 2023-09-08 | 2023-10-01 |
 | [The Ride](https://open.spotify.com/track/7KoGkvRdCQIqrsSIOQh4bW) | [KAASI](https://open.spotify.com/artist/0rCjhB7bSAgpshTquzm1I6) | [Time Like the Past](https://open.spotify.com/album/5T9BbHP1jDElSucgqllAg4) | 4:38 | 2022-04-12 | 2023-09-09 |
 | [The Simple Life](https://open.spotify.com/track/5YO3Vqve61SxDVy9kynuas) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [The Simple Life](https://open.spotify.com/album/6gGfQHr7DT0Z52DXDFosgq) | 1:56 | 2023-09-08 |  |
 | [The Sky and What Is Under It](https://open.spotify.com/track/3NxK9CxOfeBxgr1DIVAzOv) | [Brookii](https://open.spotify.com/artist/52qnChybMeZVRp2wkEkJEx) | [Yellow Canary](https://open.spotify.com/album/4gotqRZ4J2wD9AZDyrGQOr) | 4:05 | 2022-04-12 | 2023-09-09 |

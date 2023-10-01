@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: ITZY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,198 likes - 20 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,193 likes - 20 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 19 | [We Disappear](https://open.spotify.com/track/07Jp78AgohesnVw8yG70Od) | [JEMMA](https://open.spotify.com/artist/3keZ1fbgJDFYLaY9rwxTW5) | [Behind you touch OST Part 4](https://open.spotify.com/album/5gspr3TUkkF0ZrNu4x47VV) | 3:32 |
 | 20 | [Writer′s Block](https://open.spotify.com/track/3YRQSxSShn0n5R9SFVBhwf) | [JEMMA](https://open.spotify.com/artist/3keZ1fbgJDFYLaY9rwxTW5) | [Writer′s Block](https://open.spotify.com/album/1LPUEWmPqm8QBIW0vjtfTX) | 3:29 |
 
-Snapshot ID: `MCwyOTYwNDhlZGVlOTdlNmY1MDc2NzYxNzMzMDFiMWZjNTVhY2YxNDMz`
+Snapshot ID: `MCwwYjFmNjgxYmZmY2M3YWM0N2U5NTA3NmQ5YjllNjMyNDIyNWE0YzE0`

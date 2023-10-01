@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Black Star",
+  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Madlib",
   "name": "I Love My Underground Classics",
   "tracks": [
     {
@@ -2242,10 +2242,36 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 277200,
       "name": "The Platform",
       "url": "https://open.spotify.com/track/1BbYPTXP9VwBWm44MqLyHK"
+    },
+    {
+      "album": {
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa"
+      },
+      "artists": [
+        {
+          "name": "Jaylib",
+          "url": "https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "The Red",
+      "url": "https://open.spotify.com/track/39DqjGQSh3UvzQxueQSauA"
     },
     {
       "album": {

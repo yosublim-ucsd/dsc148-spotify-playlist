@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-92 songs - 6 hr 14 min
+93 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 | 2023-02-03 |  |
 | [It's Only Me \- Studio Version](https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's Only Me \(Studio Version\)](https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4) | 3:23 | 2023-02-03 |  |
 | [Jadi Kekasihku Saja](https://open.spotify.com/track/1lCv3fOI9bqBypLpgUfA4T) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Jadi Kekasihku Saja](https://open.spotify.com/album/2V8QU3LQZjb5yF3qq14KE7) | 2:50 | 2023-03-30 |  |
-| [Janji Kita](https://open.spotify.com/track/0GDxF5uQIqaKhc7qTDlqXZ) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Janji Kita](https://open.spotify.com/album/2XQoSX8gA4iBkgbF0GHkuD) | 4:39 | 2023-02-03 |  |
+| [Janji Kita](https://open.spotify.com/track/0GDxF5uQIqaKhc7qTDlqXZ) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Janji Kita](https://open.spotify.com/album/2XQoSX8gA4iBkgbF0GHkuD) | 4:39 | 2023-02-03 | 2023-10-01 |
+| [Janji Kita](https://open.spotify.com/track/6ZEChRRRAQECMkEXXDVQTC) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Journey of Love](https://open.spotify.com/album/53cOSsrFmKTIWSBiBB81vf) | 4:39 | 2023-09-20 |  |
 | [Janji Suci](https://open.spotify.com/track/6eekwSXpB57v26oEzcAhcf) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:18 | 2023-02-03 |  |
 | [Jatuh Cinta \- Keluarga Cemara 2 Original Soundtrack](https://open.spotify.com/track/1bqkmiujAzPU2YOvCB3Mxj) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Jatuh Cinta \(Keluarga Cemara 2 Original Soundtrack\)](https://open.spotify.com/album/2ZCF3Bul4PckNko2bqSfRO) | 3:27 | 2023-02-03 | 2023-05-04 |
 | [Jatuh Suka](https://open.spotify.com/track/6PqWdGIYq5xdLaa4zCZfRp) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:55 | 2023-02-03 |  |

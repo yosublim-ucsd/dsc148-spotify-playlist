@@ -433,6 +433,28 @@
     },
     {
       "album": {
+        "name": "3D (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
+    },
+    {
+      "album": {
         "name": "BANDANA I",
         "url": "https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu"
       },
@@ -2663,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "Dihya",
+        "url": "https://open.spotify.com/album/1xVBC5iVfHtX0M8McRXoj6"
+      },
+      "artists": [
+        {
+          "name": "Tony Kay",
+          "url": "https://open.spotify.com/artist/4lg922umJxzRwpp3son1NJ"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369375,
+      "name": "Dihya",
+      "url": "https://open.spotify.com/track/13RoVEQquSDaim7PishOig"
+    },
+    {
+      "album": {
         "name": "MILLION DOLLAR: BUSINESS",
         "url": "https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY"
       },
@@ -4380,6 +4420,24 @@
       "duration_ms": 177000,
       "name": "Gra Gra",
       "url": "https://open.spotify.com/track/1Xun1Rspd2RVnXZrdu0JbY"
+    },
+    {
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "album": {
@@ -12020,7 +12078,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
@@ -14356,7 +14414,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 151000,
       "name": "\u0413\u0410\u0414\u0414\u0415\u041c\u0406\u0422",
       "url": "https://open.spotify.com/track/4OX375hbVOIIYYOVKqGWKO"
@@ -17578,7 +17636,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 169500,
       "name": "\u041b\u044e\u0434\u0438",
       "url": "https://open.spotify.com/track/3mMPorZSb7rycKSyo0lLuB"
@@ -21967,6 +22025,28 @@
     },
     {
       "album": {
+        "name": "\u0422\u0440\u0438 \u0431\u0443\u043a\u0432\u044b",
+        "url": "https://open.spotify.com/album/7anP8n0Lk4j6GmPBMumlAw"
+      },
+      "artists": [
+        {
+          "name": "LIL KRYSTALLL",
+          "url": "https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA"
+        },
+        {
+          "name": "\u041f\u043b\u0430\u0442\u0438\u043d\u0430",
+          "url": "https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175774,
+      "name": "\u0422\u0440\u0438 \u0431\u0443\u043a\u0432\u044b",
+      "url": "https://open.spotify.com/track/1kkcd0I9xMcGiu9nT2dGZA"
+    },
+    {
+      "album": {
         "name": "\u0416\u0438\u0432\u0430 \u0432\u043e\u0434\u0430",
         "url": "https://open.spotify.com/album/0UEmRsiN0iedteTpO4EMd9"
       },
@@ -23734,7 +23814,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 144923,
       "name": "\u042f \u0443\u0451\u0431\u044b\u0432\u0430\u044e \u0432 \u0434\u0436\u0430\u0437",
       "url": "https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex"

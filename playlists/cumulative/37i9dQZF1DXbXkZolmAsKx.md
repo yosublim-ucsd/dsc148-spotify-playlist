@@ -4,7 +4,7 @@
 
 > The best Ambient tracks from 2010 to 2019.
 
-114 songs - 9 hr 58 min
+115 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Limerence](https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 5:29 | 2022-08-11 |  |
 | [Live Room Out](https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Virgins](https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx) | 2:37 | 2022-08-11 |  |
 | [Living Lens](https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Centralia](https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG) | 4:56 | 2022-08-11 |  |
-| [Low Sudden](https://open.spotify.com/track/5chILOuzYBXDLLcZTjJ1ti) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690), [Rocco DeLuca](https://open.spotify.com/artist/1iqmDIQe1As4Lr35neuZrh) | [Goodbye To Language](https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a) | 2:38 | 2022-08-11 |  |
+| [Low Sudden](https://open.spotify.com/track/3kptDtRlM4b7et3gUzhilp) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Goodbye To Language](https://open.spotify.com/album/10bvLR2PyyfhP9xzU9feBu) | 2:38 | 2023-06-07 |  |
+| [Low Sudden](https://open.spotify.com/track/5chILOuzYBXDLLcZTjJ1ti) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690), [Rocco DeLuca](https://open.spotify.com/artist/1iqmDIQe1As4Lr35neuZrh) | [Goodbye To Language](https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a) | 2:38 | 2022-08-11 | 2023-10-01 |
 | [Luotasi](https://open.spotify.com/track/5AvyV92PXzkpQ6k1ggKME7) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [vantaa](https://open.spotify.com/album/6Sa8QE7vYI9imRgQz8IVzB) | 8:10 | 2022-08-11 | 2022-11-26 |
 | [Luotasi](https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Vantaa](https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP) | 8:10 | 2022-09-20 |  |
 | [LUX 1.4](https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LUX 1](https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg) | 3:32 | 2023-01-27 |  |

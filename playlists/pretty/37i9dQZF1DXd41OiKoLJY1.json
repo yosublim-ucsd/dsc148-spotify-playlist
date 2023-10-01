@@ -1,13 +1,29 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: Leona  Artwork: Isu Kim\n",
-  "num_followers": 57239,
+  "description": "Fresh releases from your future favorite artists. Cover: Hero  Artwork: Isu Kim\n",
+  "num_followers": 57279,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDNmY2E5MDU0NWYxNTNjOTg5NzJiM2IzMjhhYmVlZDgwMTRiMWVh",
+  "snapshot_id": "MCxlNzkyYjIzNmFhN2MxYTFjNmM3OWVkZWM0ZDAwZWI4NmMxMDc4MmI4",
   "tracks": [
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Ayos Lang \u2018Yan",
+        "url": "https://open.spotify.com/album/2pBLiHZ28ZbC3gC6MOIp1H"
+      },
+      "artists": [
+        {
+          "name": "Hero",
+          "url": "https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm"
+        }
+      ],
+      "duration_ms": 203609,
+      "name": "Ayos Lang \u2018Yan",
+      "url": "https://open.spotify.com/track/4SsdGsUCb6RWorUQ58bueg"
+    },
     {
       "added_at": "2023-09-28 16:00:00",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,058,433 likes - 140 songs - 7 hr 18 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,058,468 likes - 140 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 136 | [SAVAGE](https://open.spotify.com/track/4JBRECHBQgv9NEfbM3L3Ze) | [37R](https://open.spotify.com/artist/0oXTmSgYfCqL4sbxxOwXDP), [FORBIDDEN](https://open.spotify.com/artist/38WHLDUHNVqfTTSYsz0hoO) | [SAVAGE](https://open.spotify.com/album/0uh3F7FWBO4dXDB1osclxE) | 2:04 |
 | 137 | [Burn](https://open.spotify.com/track/6a0XyDhUU6jfOavzXOik7j) | [Yonexx](https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm), [lunar](https://open.spotify.com/artist/6ba0gaC9S69uLIwRyRvdMr), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Burn](https://open.spotify.com/album/1yTxpadK6ibPHYR0moDfxM) | 2:21 |
 | 138 | [Astral \- remix](https://open.spotify.com/track/1AoAM8db8Po78Q0jxgLlJv) | [Shinigami Tenshi](https://open.spotify.com/artist/0bxtJGTaXfnmliU3lOBKGv), [stereøverse](https://open.spotify.com/artist/43gTfnfPEADGlnYd8PBatp) | [Astral \(remix\)](https://open.spotify.com/album/73nkDWYSEZS5jctcM0G5I9) | 2:20 |
-| 139 | [NOVINHA](https://open.spotify.com/track/3FTlbsFazH2mP4oBxuyzAI) | [Nulteex](https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj), [CHXSE WAVE](https://open.spotify.com/artist/6wmMB4J3qcm8KdKsjWXlWT) | [NOVINHA](https://open.spotify.com/album/0sKfW7CQViUMFjTb8XUCgt) | 1:19 |
+| 139 | [VIVINHA](https://open.spotify.com/track/3FTlbsFazH2mP4oBxuyzAI) | [Nulteex](https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj), [CHXSE WAVE](https://open.spotify.com/artist/6wmMB4J3qcm8KdKsjWXlWT) | [VIVINHA](https://open.spotify.com/album/0sKfW7CQViUMFjTb8XUCgt) | 1:19 |
 | 140 | [ADRENALINE](https://open.spotify.com/track/1cKLruLixxtrtQfqFIYzAS) | [SAOTOMAMORE](https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM) | [ADRENALINE](https://open.spotify.com/album/4Qxc7pJHI1Vhv9KC4gVR00) | 1:52 |
 
 Snapshot ID: `MTM5OTQsZjcyMmJlNzk0N2JhMTIzNWM3MGFkOTA1NjYxN2QzNmVkZDU0NDk3OQ==`

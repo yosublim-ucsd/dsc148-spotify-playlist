@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Dilu Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,824 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,866 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 89 | [Pihatuwak Se](https://open.spotify.com/track/4nu9jFGxqTbGmcgeYDLku5) | [Ramidu](https://open.spotify.com/artist/79N9HpBbkLyan8X1jTYe6d), [Themiya Thejan](https://open.spotify.com/artist/7KOQwe1vcolnuIBhMmvZo9) | [Pihatuwak Se](https://open.spotify.com/album/2kRwJFHCzVFxi6i1Q5ZIFZ) | 3:06 |
 | 90 | [Dathin Allan](https://open.spotify.com/track/70lg79zjqjMZq1TrFPHt2n) | [Lashan Herath](https://open.spotify.com/artist/2GKt5532rbjOVlrGyvVHcC) | [Dathin Allan](https://open.spotify.com/album/0SSVG7pg9ojBWkYV0GzyC5) | 4:01 |
 
-Snapshot ID: `MCwyMTE0MzY0NzI1M2NkOWZjNWIzNmRlNGUzMjNiZWQ4NGY3YzlkMzgx`
+Snapshot ID: `MCwwZTZjNmE1OTVhYmIzNjIyNGNiMzQ4OTAyNzIzN2RmMDYwYTM4NTc3`

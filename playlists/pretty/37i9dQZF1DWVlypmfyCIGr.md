@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,503 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,531 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Noidleap](https://open.spotify.com/track/6Frb0urydHcSQB8qGkp731) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [noidleap](https://open.spotify.com/album/5KYaSgNi77IKgGkxuqrp7R) | 3:23 |
 | 2 | [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 |
 | 3 | [Road movie](https://open.spotify.com/track/779owa177K4gQnVZjVuhXL) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [Road movie](https://open.spotify.com/album/5m8I9h0VJjBCux9gMfoEO9) | 3:12 |
-| 4 | [mcdonald'snocoffe](https://open.spotify.com/track/1F8AuzoFUXGFWTQIWSHqsS) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [mcdonald'snocoffe](https://open.spotify.com/album/4M3ngfQqV6Ic26QynJddEF) | 3:14 |
+| 4 | [McDonald no coffee](https://open.spotify.com/track/1F8AuzoFUXGFWTQIWSHqsS) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [McDonald no coffee](https://open.spotify.com/album/4M3ngfQqV6Ic26QynJddEF) | 3:14 |
 | 5 | [Fragrance](https://open.spotify.com/track/3fiCK41IesZkgccQbmV7cB) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [Fragrance](https://open.spotify.com/album/1I2kuxPs09qF1fL99Erygu) | 3:15 |
 | 6 | [BABABADCYCLE](https://open.spotify.com/track/6stDqhqS78x099BO56OIkV) | [MisiiN](https://open.spotify.com/artist/1AWaERDm3O1qwyVa3NpmXC) | [BABABADCYCLE](https://open.spotify.com/album/4I6rs8XwSb4rPrsBxvQtjO) | 2:38 |
 | 7 | [Silhouette \(feat\. Milk Talk\)](https://open.spotify.com/track/3geVGPVgAH9SNk0YBG6Y3E) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ), [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Silhouette \(feat\. Milk Talk\)](https://open.spotify.com/album/08c3E23gMG3zgyx4Chxs3q) | 4:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [絡繰](https://open.spotify.com/track/6Ec0UbdX4ukEn1TwXl924b) | [青井幹太](https://open.spotify.com/artist/5KFbFhQOjhcwFexjMVnjgZ) | [GLORIA](https://open.spotify.com/album/74450PpLf4GN6SgjRu27wV) | 3:42 |
 | 80 | [Crystal Halo](https://open.spotify.com/track/1tLHYPzxOewrRSH4RtKsGO) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Rainbowtime](https://open.spotify.com/album/1YouKxHqFDqFV1MqadLB8G) | 2:38 |
 
-Snapshot ID: `MCwxYzY2ZDdkYmQ3NjkwNWI5NGEzYjI2YTkwODUyZjQwZWEzN2ZlOWU0`
+Snapshot ID: `MCxhZDIyMzZlMTdmYzI1ODc3MTY0MDdjMGIzNGY5ZWVjMDE3ZTZkZGIx`

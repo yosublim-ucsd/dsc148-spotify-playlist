@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Oki
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,506 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,675 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [w aucie noc i 90bpm](https://open.spotify.com/track/4PG1vjjSiKQBdykSyqAHWG) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Baltik Beatz](https://open.spotify.com/artist/5P2MqlvPHysck4DS90dBaW), [Phunk'ill](https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM) | [w aucie noc i 90bpm](https://open.spotify.com/album/2XptoJZXg4ep4gAn91OQET) | 2:26 |
 | 50 | [NA ZAWSZE](https://open.spotify.com/track/4l2ugyJ52D0ErwcS0gB7da) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 2:15 |
 
-Snapshot ID: `MCw4YjFiMTgxNzI3MzUwODFjY2YzNWE3MzIzYmZiMWI5ZDcxN2IxOGIx`
+Snapshot ID: `MCwzMWU4NDEyOGFkOTI4YmUwMmU2ZjFlNTAxN2U5ODE1NGZlOTBmMGYx`

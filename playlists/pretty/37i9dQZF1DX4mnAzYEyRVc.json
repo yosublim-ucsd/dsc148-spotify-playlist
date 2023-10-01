@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: Out Of Control Army",
-  "num_followers": 40705,
+  "num_followers": 40755,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWJjMDhiMWM2NDY3ZDBlMDJhMjY0MTU0MTc3Y2ZkOWE1YTU3MWZk",
+  "snapshot_id": "MCxjOTk0ZjljNDg1NDlhODFiN2IzM2M1YjUxYzViMzIzOTc4YWE0MDRj",
   "tracks": [
     {
       "added_at": "2023-09-29 06:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "The Specials (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "A Message to You Rudy - 2015 Remaster",
-      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 144585,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "A Message to You Rudy - 2015 Remaster",
+      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "A Poets Life",
+        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
+      },
+      "artists": [
+        {
+          "name": "Tim Armstrong",
+          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "Into Action",
+      "url": "https://open.spotify.com/track/0gz2UpeIgaeqOb9FXQp06s"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 197586,
       "name": "No Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/05oVLw37812S2eoTVetosi"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "A Poets Life",
-        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
-      },
-      "artists": [
-        {
-          "name": "Tim Armstrong",
-          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "Into Action",
-      "url": "https://open.spotify.com/track/0gz2UpeIgaeqOb9FXQp06s"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Where Did All My Friends Go?",
-        "url": "https://open.spotify.com/album/5jLxoBgeVzZNrQeFWnJNBd"
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
       },
       "artists": [
         {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
         }
       ],
-      "duration_ms": 230014,
-      "name": "Where Did All My Friends Go?",
-      "url": "https://open.spotify.com/track/1m0O9m6wakF6sC7pbiLBMp"
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
+        "name": "Where Did All My Friends Go?",
+        "url": "https://open.spotify.com/album/5jLxoBgeVzZNrQeFWnJNBd"
       },
       "artists": [
         {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
         }
       ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+      "duration_ms": 230014,
+      "name": "Where Did All My Friends Go?",
+      "url": "https://open.spotify.com/track/1m0O9m6wakF6sC7pbiLBMp"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Doin' What We Do",
-        "url": "https://open.spotify.com/album/2bsry5FfdfgiABYGw77YHf"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 184803,
-      "name": "Doin' What We Do",
-      "url": "https://open.spotify.com/track/1wMxbY2NiEcMtpgExxsyKY"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1503,18 +1487,34 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Utakatarattara",
-        "url": "https://open.spotify.com/album/1qLUmDx6t3YzB37ok2rFhK"
+        "name": "Doin' What We Do",
+        "url": "https://open.spotify.com/album/2bsry5FfdfgiABYGw77YHf"
       },
       "artists": [
         {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Utakatarattara",
-      "url": "https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS"
+      "duration_ms": 184803,
+      "name": "Doin' What We Do",
+      "url": "https://open.spotify.com/track/1wMxbY2NiEcMtpgExxsyKY"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+      },
+      "artists": [
+        {
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "El Ultimo Ska",
+      "url": "https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+        "name": "Utakatarattara",
+        "url": "https://open.spotify.com/album/1qLUmDx6t3YzB37ok2rFhK"
       },
       "artists": [
         {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 235986,
-      "name": "El Ultimo Ska",
-      "url": "https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT"
+      "duration_ms": 188800,
+      "name": "Utakatarattara",
+      "url": "https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "\u30ef\u30e9\u30c3\u30bf\u30e9\u30c3\u30bf",
-        "url": "https://open.spotify.com/album/5r1PybiVxHxq7eu5zAr5Qt"
-      },
-      "artists": [
-        {
-          "name": "HY",
-          "url": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
-        }
-      ],
-      "duration_ms": 255976,
-      "name": "\u30ef\u30e9\u30c3\u30bf\u30e9\u30c3\u30bf",
-      "url": "https://open.spotify.com/track/1pjpRz8aEWtx65Y4HvqFYt"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 162786,
       "name": "No More Sorrow",
       "url": "https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "\u30ef\u30e9\u30c3\u30bf\u30e9\u30c3\u30bf",
+        "url": "https://open.spotify.com/album/5r1PybiVxHxq7eu5zAr5Qt"
+      },
+      "artists": [
+        {
+          "name": "HY",
+          "url": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
+        }
+      ],
+      "duration_ms": 255976,
+      "name": "\u30ef\u30e9\u30c3\u30bf\u30e9\u30c3\u30bf",
+      "url": "https://open.spotify.com/track/1pjpRz8aEWtx65Y4HvqFYt"
     },
     {
       "added_at": "2023-09-29 06:00:00",

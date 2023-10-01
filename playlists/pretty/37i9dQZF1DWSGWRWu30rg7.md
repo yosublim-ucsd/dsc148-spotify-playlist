@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Nadzira Shafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,422 likes - 91 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,423 likes - 91 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 60 | [IS IT LOVE?](https://open.spotify.com/track/7ImhYHYJJMiR10omMJyfpo) | [Wh!msy](https://open.spotify.com/artist/7fiivZ4A5DHXEcs3JJcdeI) | [IS IT LOVE?](https://open.spotify.com/album/0V0OjuamTcxeFlci7A4UtR) | 4:20 |
 | 61 | [Blinded](https://open.spotify.com/track/38Yuh5vbhZ0eUQeZAy8U2W) | [Fahem](https://open.spotify.com/artist/6HUwSlF3uiFxVnrLXaEAx1) | [Blinded](https://open.spotify.com/album/6k9UUXDRmiRC2hb9yhwRxx) | 3:54 |
 | 62 | [Get off of Me](https://open.spotify.com/track/4S23hGvMCB6SNXFGv1pIuM) | [Right Bangs](https://open.spotify.com/artist/52D86KL1fLPygjIDoGPeSA), [Shierly Jane](https://open.spotify.com/artist/3Ps12w6PNzjzrNdtEKVJAs), [New Sound Generation](https://open.spotify.com/artist/6UJlomJYXsgtDqwqpfLHmD) | [Get off of Me](https://open.spotify.com/album/3mWMLBnrXtjViHluWwBBXT) | 2:15 |
-| 63 | [Pain in My Soul](https://open.spotify.com/track/2CFZSY12bsk3EBdxemlzHl) | [irzhal efadh](https://open.spotify.com/artist/4cok0Kl5xGtjJxTLuRtFsv) | [Pain in My Soul](https://open.spotify.com/album/0Qetxwe1Y3DRY6PJMYVnlJ) | 5:12 |
+| 63 | [Pain in My Soul](https://open.spotify.com/track/2CFZSY12bsk3EBdxemlzHl) | [Irzhal Efadh](https://open.spotify.com/artist/4cok0Kl5xGtjJxTLuRtFsv) | [Pain in My Soul](https://open.spotify.com/album/0Qetxwe1Y3DRY6PJMYVnlJ) | 5:12 |
 | 64 | [LETTER](https://open.spotify.com/track/47n68rNEyeG239QOXQEzmK) | [KATHMANDU](https://open.spotify.com/artist/4kxdAg0Ja8nOfjf54kqnHi) | [LETTER](https://open.spotify.com/album/2Y4fwbq1PFMww3TtoYuhyX) | 4:29 |
 | 65 | [Lewat Semesta](https://open.spotify.com/track/5dWF8OWDLa0j73rjkwfPv9) | [Yogie Nandes](https://open.spotify.com/artist/1bymZsHKEEyWGaEuN5rB62) | [Lewat Semesta](https://open.spotify.com/album/6ZUThtgJ64fxwjS8orZi40) | 3:50 |
 | 66 | [Dilema](https://open.spotify.com/track/3UwS62HQ6B1QiwyQFkgWLn) | [Chibi Chibi](https://open.spotify.com/artist/3dD2cIlvBxCpPJHreC8clR) | [Dilema](https://open.spotify.com/album/7900NuJIt1cOL0hgVUxvb9) | 3:44 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 90 | [Gerdalia](https://open.spotify.com/track/4NT8vnGvumlDKCc73GdnNF) | [Niga Gunawan](https://open.spotify.com/artist/1nAbYFUpfK24120Ig3EhiI) | [Gerdalia](https://open.spotify.com/album/4IryBjKtK6wNqvr0WIDWRg) | 3:33 |
 | 91 | [Smile on You](https://open.spotify.com/track/1TdWThcKzP9aoGAacnbqWg) | [The Jasmates](https://open.spotify.com/artist/1aOU8t8z49ZQmt1ZO4Gf0U) | [Smile on You](https://open.spotify.com/album/313JE1LrYa4iIKoqDYQfbx) | 3:11 |
 
-Snapshot ID: `MCxhODA5MmRhYjJlMmE5ODc2NTdmZGE2ZjcwOTQyN2ZiMjIxZjIyYzEy`
+Snapshot ID: `MCw0NTVmZDE4ZTQ3YzEzYTBkZjI3YTRiYjgyYjk0M2U1MjgzZDNmM2I4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Austin TV en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,385 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,408 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 7 | [El Mejor Viaje](https://open.spotify.com/track/667uB3F02jFjBMNDecSy8b) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Carcasutra](https://open.spotify.com/album/7dsQ49JSNYR7ZGKHkmwcuS) | 3:06 |
 | 8 | [Próximo Diciembre](https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Próximo Diciembre](https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1) | 3:44 |
 | 9 | [Mi Mundo Amanece Hoy](https://open.spotify.com/track/60ZtzdmTRnnG71OaBjdgJm) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr), [Pablo Hurtado](https://open.spotify.com/artist/27Ei0laozDcWwT4F9ASW54) | [Mi Mundo Amanece Hoy](https://open.spotify.com/album/5mcC0Ibk2Zf4x6AyPNU92Q) | 4:09 |
-| 10 | [VIno Tinto](https://open.spotify.com/track/5c4lchIbTBbrn3J6WBNH2z) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vino Tinto](https://open.spotify.com/album/4mfzTGo7zQpJ51ZxpGsISt) | 4:15 |
+| 10 | [Vino Tinto](https://open.spotify.com/track/5c4lchIbTBbrn3J6WBNH2z) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vino Tinto](https://open.spotify.com/album/4mfzTGo7zQpJ51ZxpGsISt) | 4:15 |
 | 11 | [Buenas Noches](https://open.spotify.com/track/2LAOTPxQ3xrfuewC4g6Mwo) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [Buenas Noches](https://open.spotify.com/album/4KwTOLVtWGRWXNJfEdcEY9) | 3:15 |
 | 12 | [Las vidas que olvidé](https://open.spotify.com/track/65sXwuOvRgovXFe5m3oKvS) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Las vidas que olvidé](https://open.spotify.com/album/7xonHz50UMJAlKJAE1qHKH) | 3:01 |
 | 13 | [El camino \- En vivo Pocket audio](https://open.spotify.com/track/3UNvKKi8xqR7XGymJsHqxW) | [Alfonso Espriella](https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV) | [El camino \(En vivo Pocket audio\)](https://open.spotify.com/album/13rVYa4KI86BYWE1CDlEzK) | 4:24 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 48 | [Vidas Cruzadas](https://open.spotify.com/track/18oxZCAvQ6pfJUaxtFS09L) | [Nebraska](https://open.spotify.com/artist/408Xlsk3OkET9JXTbU7LxU) | [Vidas Cruzadas](https://open.spotify.com/album/5Bl8AbuXjokUyZDaYrgEMe) | 3:29 |
 | 49 | [am0r\_d\_festival.mp3](https://open.spotify.com/track/50rS9NS9aqIAC76hD3p2QY) | [Damas de españa](https://open.spotify.com/artist/58l5eQOHJ3semSzvk28AyC) | [Guardado en borradores](https://open.spotify.com/album/2Iay60Ih6uFzeTQo1rh8Hk) | 3:27 |
 
-Snapshot ID: `MCw3MDZlZTIwMjhmOGFmNWMwZjExODNhMDYyNDU4YzA2MzAxMTI0YTZl`
+Snapshot ID: `MCxiMGVjNGZjNDRiZTIzMDM3NWFiZWRjMGZlOGYwNTc0N2I3YzIzODJm`

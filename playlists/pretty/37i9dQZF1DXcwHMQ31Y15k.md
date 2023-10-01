@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Hendra Kumbara
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,731 likes - 89 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,058 likes - 89 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

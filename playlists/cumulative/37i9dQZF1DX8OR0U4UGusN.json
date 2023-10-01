@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 186240,
       "name": "bug bite",
       "url": "https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb"
@@ -1932,6 +1932,24 @@
       "duration_ms": 121398,
       "name": "Grin On Me",
       "url": "https://open.spotify.com/track/3rnjpapU250ztdS4N2e3aS"
+    },
+    {
+      "album": {
+        "name": "Alabama Pimpin",
+        "url": "https://open.spotify.com/album/0X4B3EhbmaAFg4bUfEJL2s"
+      },
+      "artists": [
+        {
+          "name": "BirdsFlyStoned",
+          "url": "https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121398,
+      "name": "Grin On Me",
+      "url": "https://open.spotify.com/track/73AOBLPutLJ8DO48j3lCUp"
     },
     {
       "album": {

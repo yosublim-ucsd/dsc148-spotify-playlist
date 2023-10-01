@@ -20894,7 +20894,7 @@
     {
       "album": {
         "name": "GHETTO GOSPEL",
-        "url": "https://open.spotify.com/album/0Zy9f5TbSO8nIIUPTITE7R"
+        "url": "https://open.spotify.com/album/5JlCW3En0Vw3B82kPRKOyg"
       },
       "artists": [
         {
@@ -20909,6 +20909,28 @@
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 125612,
+      "name": "GHETTO GOSPEL",
+      "url": "https://open.spotify.com/track/7llWUC6O8GNQhOJFjrE4so"
+    },
+    {
+      "album": {
+        "name": "GHETTO GOSPEL",
+        "url": "https://open.spotify.com/album/0Zy9f5TbSO8nIIUPTITE7R"
+      },
+      "artists": [
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-01",
       "duration_ms": 128000,
       "name": "GHETTO GOSPEL",
       "url": "https://open.spotify.com/track/0bW3mHWJ6FIdYHzMTmerqC"
@@ -29641,7 +29663,7 @@
         },
         {
           "name": "Lijpe",
-          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+          "url": "https://open.spotify.com/artist/2rt8UCiO0Or3LCHfj96ipU"
         }
       ],
       "date_added": "2023-09-28",
@@ -61521,7 +61543,7 @@
     },
     {
       "album": {
-        "name": "Wina",
+        "name": "Wina (feat. Maline Aura)",
         "url": "https://open.spotify.com/album/472vtNJGLZQzus5YlAeKJ1"
       },
       "artists": [
@@ -61538,7 +61560,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 150422,
-      "name": "Wina",
+      "name": "Wina (feat. Maline Aura)",
       "url": "https://open.spotify.com/track/2JSY6gNn13HFtKtrnNVPL5"
     },
     {

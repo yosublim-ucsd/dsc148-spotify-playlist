@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Sum 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,775 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,976 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [I Keep on Waiting](https://open.spotify.com/track/4HxWAfgwlgBeu7IUaDocaz) | [Empty Head](https://open.spotify.com/artist/6UWKEdxaXbMMQYtIyBWe9X) | [Tales of a Modern Man](https://open.spotify.com/album/6M29GErbqXL5XEFGspXptm) | 4:33 |
 | 50 | [German Dinosaur](https://open.spotify.com/track/5I60ld5Zn6Xu3Aph75oPM8) | [LISATYD](https://open.spotify.com/artist/37U4wd5bf8fxiUBhDYiJZt) | [Life is shit and then you die](https://open.spotify.com/album/6x7e3PXiCWUq5taSpfDMa7) | 4:16 |
 
-Snapshot ID: `MCw4OTM5ZmYwZjc2OTYyMDFiM2EzM2NiMWY4NTVlMWZiMTcyNzc4NThj`
+Snapshot ID: `MCw1ODAwZjE0NzM1MjIwYWI1ZGRhNmYwODIyYzhkNGFlNGQ3YTc5N2E5`

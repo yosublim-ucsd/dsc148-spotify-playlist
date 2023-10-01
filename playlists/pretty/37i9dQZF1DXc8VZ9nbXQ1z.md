@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,841 likes - 158 songs - 15 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,007 likes - 158 songs - 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 6 | [Iphathi \- Kususa Remix](https://open.spotify.com/track/5z8O1miIlA7AyxjEV0YpR6) | [Aytiwan](https://open.spotify.com/artist/1uL2FZKW1ImI6oHVJ5gnn3), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ) | [Iphathi \(Kususa Remix\)](https://open.spotify.com/album/1INlcN0T43IDZ7nXLOCSIx) | 6:41 |
 | 7 | [Burning Bush](https://open.spotify.com/track/6T8RXlW01s055nR9CMIlxj) | [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Ihhashi Elimhlophe](https://open.spotify.com/artist/4eSUGwpQXyQh2Qb09oCs21) | [Burning Bush](https://open.spotify.com/album/4hgjNSdnl4L2bTQXU1LUiV) | 6:08 |
 | 8 | [After Saturday Night](https://open.spotify.com/track/1sxnexfGlCIJI2HrYtc2Ew) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Starving Yet Full](https://open.spotify.com/artist/49ukBTxilLygQEjsB6Gd1a), [Francis Coletta](https://open.spotify.com/artist/6qBX3cp5fWdIsYDfbkHb3S) | [Réciprocité](https://open.spotify.com/album/6AwGQlrNSc9q7WI20Ojb6i) | 3:54 |
-| 9 | [IPlan](https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sykes](https://open.spotify.com/artist/5EjeN8ChFDW6lRHfrdnW2W) | [Permanent Music 3](https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow) | 6:50 |
+| 9 | [iPlan](https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sykes](https://open.spotify.com/artist/5EjeN8ChFDW6lRHfrdnW2W) | [Permanent Music 3](https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow) | 6:50 |
 | 10 | [Through The Dark](https://open.spotify.com/track/37zI7SXeHFm7CCNwmbgaJM) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [NAAK](https://open.spotify.com/artist/5OeP7iwuGFWymmzPfURRwC), [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i) | [Through The Dark](https://open.spotify.com/album/5ZSZ9wYbyoPssimsjH3YfX) | 4:08 |
 | 11 | [Yana Pula](https://open.spotify.com/track/06hBKe9S5y5V0oQSG8Uw9y) | [Dazzie Funk](https://open.spotify.com/artist/2lJ6KTYOfueHtp5i0nmql2), [Hessy](https://open.spotify.com/artist/1Pcfb2k6RMRlyMowDcRSGH) | [Yana Pula](https://open.spotify.com/album/049Cfz2gwqDTo0FT6elOIy) | 4:34 |
 | 12 | [uHambo](https://open.spotify.com/track/0GDX7CnKqm2yiZdQpkK50P) | [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi) | [uHambo](https://open.spotify.com/album/5LgIiLg49gLvR0YmYPoXqp) | 7:20 |

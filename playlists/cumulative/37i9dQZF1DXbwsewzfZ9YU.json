@@ -2311,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "The Above",
+        "url": "https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238395,
+      "name": "Theatre Of Cruelty",
+      "url": "https://open.spotify.com/track/5Axsl42T0DhsvSOTKVjPf3"
+    },
+    {
+      "album": {
         "name": "Theory of Mind",
         "url": "https://open.spotify.com/album/7gZ9pMj6MrqrAZz4ilZ7qg"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cover: Hannah Diamond
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,175 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,266 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 6 | [perky](https://open.spotify.com/track/3ij9bvJRbDU8ZJiYIUkzUV) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [perky](https://open.spotify.com/album/1XBYiyhsR1Z9UQgbVI85gu) | 2:31 |
 | 7 | [Beautiful \(2023 Edit\)](https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Beautiful \(2023 Edit\)](https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS) | 3:04 |
 | 8 | [1](https://open.spotify.com/track/2yO7BD85Awa4LTLN5wLWD2) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [loverboy](https://open.spotify.com/album/5TtFPiJd9qWbh1RxScHo4D) | 2:51 |
-| 9 | [city](https://open.spotify.com/track/415LtDmI04ok5ZlHMBXLGo) | [Jedwill](https://open.spotify.com/artist/6Ed7YwSt3LvYcMDZk5b1Id), [Elxnce](https://open.spotify.com/artist/0LHltERxIChhYu98Yi4ZlD), [Mutual Vampire](https://open.spotify.com/artist/2LdV6lxpB1IpzuUSUIqH5p) | [city](https://open.spotify.com/album/3jUpAPbEXyImKdLatixQee) | 1:57 |
+| 9 | [city](https://open.spotify.com/track/415LtDmI04ok5ZlHMBXLGo) | [Jedwill](https://open.spotify.com/artist/6Ed7YwSt3LvYcMDZk5b1Id), [Elxnce](https://open.spotify.com/artist/0LHltERxIChhYu98Yi4ZlD), [Sydney](https://open.spotify.com/artist/2aPZQFXqrNXp3mj20pqx64) | [city](https://open.spotify.com/album/3jUpAPbEXyImKdLatixQee) | 1:57 |
 | 10 | [Old money bitch](https://open.spotify.com/track/1Ips8oXVyBdcfX4Dpv68FN) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Old money bitch](https://open.spotify.com/album/7lQ4aPxo9J75gfmHeFuS38) | 4:05 |
 | 11 | [Owen Wilson](https://open.spotify.com/track/3arYaPYa23WzDSQ97SL7aZ) | [Tommy Fleece](https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg) | [Hypermasculine](https://open.spotify.com/album/2CVwLKfX4hJXXnNkwHNYDU) | 2:35 |
 | 12 | [Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Under my Bed](https://open.spotify.com/album/1bNIF4ct4CiV8u5SvSYywB) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [Pink flame](https://open.spotify.com/track/37NZqHHBOWPyUy7QeWjY1t) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Pink flame](https://open.spotify.com/album/5lkVw5Cqs1nCqf2T8uFsjQ) | 4:14 |
 | 100 | [better outside](https://open.spotify.com/track/3mRcJdUeBCT3z3toRxnPh4) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [Chris Moon](https://open.spotify.com/artist/4kNKHF5Zxd8Ftq6Zq5iVP9) | [better outside](https://open.spotify.com/album/7vXvuhihgJ2eRcoOx5hocr) | 3:17 |
 
-Snapshot ID: `MCxlNWI0YTlkNDkyOGUzN2I2NGM2ZmY3YTY4ODNiNzAxNjhjODZlNTY5`
+Snapshot ID: `MCw0ZWNjYTIzODgzZDgwZDgwODU2ODY2OGFjMWVkYTEwYTVkOTk3MTQz`

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1980",
+        "url": "https://open.spotify.com/album/39aFTWfO0P1eJzyIdJAsIC"
+      },
+      "artists": [
+        {
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+        },
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297146,
+      "name": "1980",
+      "url": "https://open.spotify.com/track/6EuNxyzQs4CyJop38QPRHr"
+    },
+    {
+      "album": {
         "name": "3 to 1",
         "url": "https://open.spotify.com/album/0UNDxZCKgUOIYajZVsS6Of"
       },
@@ -1742,7 +1764,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 178909,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/5zKRmc6gTge68PS5EqagXG"
@@ -1874,6 +1896,24 @@
       "duration_ms": 432786,
       "name": "Giza",
       "url": "https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf"
+    },
+    {
+      "album": {
+        "name": "Hasat",
+        "url": "https://open.spotify.com/album/192JWsGEt8HNOKHHzuh3ux"
+      },
+      "artists": [
+        {
+          "name": "Hey! Douglas",
+          "url": "https://open.spotify.com/artist/72xb37kgUWGPVJqqBFhGKq"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195164,
+      "name": "Hasat",
+      "url": "https://open.spotify.com/track/2AozWD8d95Q39J740Ba070"
     },
     {
       "album": {
@@ -2716,7 +2756,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"

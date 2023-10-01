@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: David Kushner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,296 likes - 103 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,521 likes - 103 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 102 | [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 |
 | 103 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 |
 
-Snapshot ID: `MCwxODcxYjVlMWI0MGM4ZGVlNTE5ZjA4NDYyZmQ3Mjc1YWEwZWI0YWM4`
+Snapshot ID: `MCxmOWFlNjJlMzU1ZDYxYzQ2MTI4ZTEzYjJiZjQ4N2ZkMDVjZmJhODlh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Jossman\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,822 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,820 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 33 | [Sola](https://open.spotify.com/track/5NvC5Oc2KrGiawS3HteT5j) | [LUASÓ](https://open.spotify.com/artist/1KzX3Ca3tJTAcaj7bbWqM7) | [Sola](https://open.spotify.com/album/5r4BprAjSJysIOeiy4mkOi) | 3:21 |
 | 34 | [Cae la noche](https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Cae la noche](https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB) | 4:04 |
 | 35 | [no somos nada](https://open.spotify.com/track/4QWMTNDHoVabBMu3RhUd3p) | [LEFNES](https://open.spotify.com/artist/4X1ANfUp76AjJlVF6NOUqu) | [no somos nada](https://open.spotify.com/album/1YptOavSSzLGK4LiBqdU27) | 3:59 |
-| 36 | [Pervertida](https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz) | [Pervertida](https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK) | 2:29 |
-| 37 | [SUERTE](https://open.spotify.com/track/7GRB48rAvN77xITeOfsNIO) | [Julián Baglietto](https://open.spotify.com/artist/2jWobXd1SE2fhT0toIz8PR), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [PERDONT](https://open.spotify.com/album/0boZlhvPjJ2kMksU37d3EJ) | 2:52 |
+| 36 | [SUERTE](https://open.spotify.com/track/7GRB48rAvN77xITeOfsNIO) | [Julián Baglietto](https://open.spotify.com/artist/2jWobXd1SE2fhT0toIz8PR), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [PERDONT](https://open.spotify.com/album/0boZlhvPjJ2kMksU37d3EJ) | 2:52 |
+| 37 | [Pervertida](https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz) | [Pervertida](https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK) | 2:29 |
 | 38 | [La Fórmula Secreta](https://open.spotify.com/track/5t1JVeRtaLtNHcGkfWywho) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:13 |
 | 39 | [Llevo un Vino](https://open.spotify.com/track/7yGKZQrS0WYTyjhKGJnxnE) | [Pels](https://open.spotify.com/artist/2ILYFO9yLlXG5SgjtWxMXZ) | [Un Perro Verde](https://open.spotify.com/album/6zYM7YzVGfLZoQMupKMvys) | 3:41 |
 | 40 | [Pulso](https://open.spotify.com/track/4ilsiarphXUoGp2MzK68Tm) | [Laila Farinola](https://open.spotify.com/artist/7nWb2WA5wQLANBcbqGodwW), [Nana Arguen](https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt) | [Pulso](https://open.spotify.com/album/1h6yv9q7OlvXW62MDGEJLS) | 4:21 |
 | 41 | [Sandullako](https://open.spotify.com/track/15hgh8CC8Tj1XYi4JLmdjf) | [Código 2999](https://open.spotify.com/artist/4XQ3TMA2Q3ZGwS9CRU8Zre), [Foráneo](https://open.spotify.com/artist/5RMYEHjH0Eyi4sZsNFWSVM) | [Sandullako](https://open.spotify.com/album/6ZElx5dOb0lUEYzHVbVsxh) | 3:34 |
 | 42 | [En Otra Vida](https://open.spotify.com/track/3i2yzsDIrTloyQJG4aCry0) | [Céres](https://open.spotify.com/artist/6A4zD8ETEX7CqCLEayZ60c) | [Las Cosas No Se Pierden Solo Se Transforman](https://open.spotify.com/album/4wdsTQ1pKvTjEVhD6Yu6wX) | 3:12 |
-| 43 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 |
-| 44 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 |
-| 45 | [AQUA](https://open.spotify.com/track/40R0lDskycJi0p1TQS6CJJ) | [CANNYON](https://open.spotify.com/artist/4uDcbcdxgwIACWrB24vNNx) | [AQUA](https://open.spotify.com/album/1yVq8AGWpGPRkhY2E2pztn) | 4:14 |
+| 43 | [AQUA](https://open.spotify.com/track/40R0lDskycJi0p1TQS6CJJ) | [CANNYON](https://open.spotify.com/artist/4uDcbcdxgwIACWrB24vNNx) | [AQUA](https://open.spotify.com/album/1yVq8AGWpGPRkhY2E2pztn) | 4:14 |
+| 44 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 |
+| 45 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 |
 | 46 | [Desahogándome](https://open.spotify.com/track/3wnAh76ynjSkMdLbOOR1GS) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Desahogándome](https://open.spotify.com/album/4kPZW9e6uQ3eqSaTzTz0iH) | 3:54 |
 | 47 | [Tormenta Perfecta](https://open.spotify.com/track/5wjGbQFWp2EGBlJWzqu36f) | [Dr\. Tritón](https://open.spotify.com/artist/3oQhj5KP8pCIdvVEmvhZKM) | [Tormenta Perfecta](https://open.spotify.com/album/63wBeGYe3dY2rm2lCM5c72) | 3:10 |
 | 48 | [Tanto](https://open.spotify.com/track/6IFhWqaQzokNivDjSiHpc0) | [Malta Caramelo](https://open.spotify.com/artist/4nMH5OWOUdGltvRpXDydPm) | [Tanto](https://open.spotify.com/album/6hOeOUCzqeWwdawU79U6sj) | 4:28 |
 | 49 | [Justrylove](https://open.spotify.com/track/1wVp8m7avqWE0g3AiJbEn5) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Plano](https://open.spotify.com/album/6N1AUqX8zyDN94BuyrB85D) | 3:22 |
 | 50 | [Un Cuarto de Hotel](https://open.spotify.com/track/0Ig4C71dh9XT6yh2Qr3SyL) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Suertes](https://open.spotify.com/album/5s9nae0PG4RBPy2EWteRze) | 3:43 |
 
-Snapshot ID: `MCwzNjZiYzI5YWY3ZDhiMTgyMmM3ZjVhN2YxNGVjNmNlM2ZhZGNiNWNk`
+Snapshot ID: `MCw2ZTA1MDJiMTlkOGZkODRlZmFlZDhmMjNlMDkxZjNmZDYwMzM2MTA4`

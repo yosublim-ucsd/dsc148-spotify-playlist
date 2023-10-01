@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut down Etro's SS24 Runway for Milan Fashion Week, Soundtrack by Creative Director, Marco De Vincenzo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,699 likes - 62 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,879 likes - 62 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,24 +31,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 21 | [Raggio verde](https://open.spotify.com/track/7oqgvXZ20rg8idt6xwdoQt) | [Il Quadro di Troisi](https://open.spotify.com/artist/56aveFmMjth9yuDxLjUoEb) | [Il Quadro di Troisi](https://open.spotify.com/album/4jSXeII5Vv1ODLIbk2ksCZ) | 4:51 |
 | 22 | [Risk It](https://open.spotify.com/track/7JprUmSaMX3riuNvPLn87K) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [HiRUDiN](https://open.spotify.com/album/70dAWY6KDpSriewnxFngXt) | 3:38 |
 | 23 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 |
-| 24 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
-| 25 | [Deadly Valentine](https://open.spotify.com/track/0pfTlQJBOV4LUmF8qqrVy5) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Rest](https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX) | 6:04 |
-| 26 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 |
+| 24 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 |
+| 25 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
+| 26 | [Deadly Valentine](https://open.spotify.com/track/0pfTlQJBOV4LUmF8qqrVy5) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Rest](https://open.spotify.com/album/5nalJu58LJj7AMMyHwtbLX) | 6:04 |
 | 27 | [Pang](https://open.spotify.com/track/5bcJwBywjaz78KTf374PCb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:33 |
 | 28 | [Me in 20 Years](https://open.spotify.com/track/3LuaxVf1C3jAJO6kzQgbIg) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 3:40 |
 | 29 | [Eyes Without a Face](https://open.spotify.com/track/04YObtYkElo3sNcr9hUe1w) | [Marsheaux](https://open.spotify.com/artist/71kSWeYFioviuty6e3aj5k) | [E\-Bay Queen Is Dead](https://open.spotify.com/album/78xdXx85GxYUezK9kGO3yd) | 4:46 |
-| 30 | [Of My Mind](https://open.spotify.com/track/5PRdzrncmga9ieUFVrlE41) | [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [When Love Hurts](https://open.spotify.com/album/4Lz3mEQUvEls8T1YqtGqCP) | 4:12 |
-| 31 | [Open Eye Signal \- Remaster 2023](https://open.spotify.com/track/0c9MTfnssGoNXUgmsaE5XU) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ) | 7:48 |
+| 30 | [Open Eye Signal \- Remaster 2023](https://open.spotify.com/track/0c9MTfnssGoNXUgmsaE5XU) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ) | 7:48 |
+| 31 | [Of My Mind](https://open.spotify.com/track/5PRdzrncmga9ieUFVrlE41) | [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [When Love Hurts](https://open.spotify.com/album/4Lz3mEQUvEls8T1YqtGqCP) | 4:12 |
 | 32 | [I'm on Top](https://open.spotify.com/track/42xl5HtTPAiHNGzUAYC6of) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [I'm on Top](https://open.spotify.com/album/3L1JG5XGlYjZp0IN7y8pMu) | 3:22 |
 | 33 | [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/track/3U12nxwFolQ6hsG6zcyEqc) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [The Other Lover \(Little Dragon & Moses Sumney\)](https://open.spotify.com/album/5aCUZAQz1bDC3txTnqDm5N) | 4:04 |
 | 34 | [Tell Me \(Feat\. Saoirse Ronan\)](https://open.spotify.com/track/0NSSZTpUoEtA8b0j1WtuvY) | [Johnny Jewel](https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR) | [Lost River Original Motion Picture Score](https://open.spotify.com/album/0u5okKZvztQ0ciPxcJ2zLa) | 2:42 |
 | 35 | [Doesn't matter](https://open.spotify.com/track/4UH4lWuTEs9r8W0ZkJ5heS) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chris](https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh) | 4:23 |
 | 36 | [Due West](https://open.spotify.com/track/1EvFahLuLZ0vSVZo8YR3G9) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 4:11 |
 | 37 | [I Go To Sleep](https://open.spotify.com/track/5Vh9M3spmCbDewUZxUmwlH) | [Anika](https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5) | [Anika](https://open.spotify.com/album/2T0Sr4KCGXEuhd0bGhvrdL) | 3:20 |
-| 38 | [Electric Lines](https://open.spotify.com/track/2WLaRlaBmBHL6dqaovdO0m) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 5:57 |
-| 39 | [Modafinil Blues](https://open.spotify.com/track/4No4T12hxjiPsOqUtN5HVU) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto) | [Bunny](https://open.spotify.com/album/6ycHu5HE3kRz1HC2E5gtXo) | 5:00 |
-| 40 | [Casualty](https://open.spotify.com/track/7eKebagU8RXRnPitSnd3hT) | [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [When Love Hurts](https://open.spotify.com/album/4Lz3mEQUvEls8T1YqtGqCP) | 5:07 |
-| 41 | [Épouser la nuit](https://open.spotify.com/track/58CYcQHLke4WHv6usQplh0) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Tempéraments](https://open.spotify.com/album/07oac8ZypPw4d1VtOmxknA) | 3:37 |
+| 38 | [Casualty](https://open.spotify.com/track/7eKebagU8RXRnPitSnd3hT) | [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [When Love Hurts](https://open.spotify.com/album/4Lz3mEQUvEls8T1YqtGqCP) | 5:07 |
+| 39 | [Electric Lines](https://open.spotify.com/track/2WLaRlaBmBHL6dqaovdO0m) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 5:57 |
+| 40 | [Épouser la nuit](https://open.spotify.com/track/58CYcQHLke4WHv6usQplh0) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Tempéraments](https://open.spotify.com/album/07oac8ZypPw4d1VtOmxknA) | 3:37 |
+| 41 | [Modafinil Blues](https://open.spotify.com/track/4No4T12hxjiPsOqUtN5HVU) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto) | [Bunny](https://open.spotify.com/album/6ycHu5HE3kRz1HC2E5gtXo) | 5:00 |
 | 42 | [Butterfly \- Malik Djoudi Remix](https://open.spotify.com/track/1KQtHHc9UQ5qcouSGd8l2i) | [Leonie Pernet](https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC), [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Butterfly \(Remixes\)](https://open.spotify.com/album/3TAsLhBSwjq9iZWvp49jAG) | 3:28 |
 | 43 | [Salt](https://open.spotify.com/track/3jks0Wb2Pnq981bSX3X44x) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 5:24 |
 | 44 | [Ninna Nanna per adulteri \- Remastered](https://open.spotify.com/track/0p6pIexL8DXGPy5qxfc8jF) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Cuore di Mamma \- Mother's Heart \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/354OTWPlr0SbFKnZJsNu8K) | 3:04 |

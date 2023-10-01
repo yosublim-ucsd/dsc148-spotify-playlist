@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,431 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,509 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 102 | [Un jour ou l'autre](https://open.spotify.com/track/1fpji19faOMgQeitY3cTWo) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Un, Deux, Trois bonus](https://open.spotify.com/album/5hm39QHbLnSsRIHrutU3Dc) | 3:43 |
 | 103 | [Tenir droit](https://open.spotify.com/track/1fmLevSes3HHyshFJC3gaE) | [Mélissende](https://open.spotify.com/artist/1WQ43Zwk8Ry5Q6Y46OWJkt) | [Tenir droit](https://open.spotify.com/album/1owRM89pHZPQDgRgxtXpjr) | 3:13 |
 | 104 | [Shut Up \(When You Talk to Me\)](https://open.spotify.com/track/2LK7QKoMfu4yknOj0VV3ge) | [Loui Sixteen](https://open.spotify.com/artist/7t7W4IEufSFVW5BVXaHbeM) | [Baba Cool](https://open.spotify.com/album/4Gfjfd3FyZLRGG3rBnfTjK) | 2:34 |
-| 105 | [Beach Break \- Sofi Tukker Remix](https://open.spotify.com/track/2T9JWHvTNoonWl7TCGsz1R) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Smooth Sailing \(Remixes\)](https://open.spotify.com/album/1VlYJ4R8rxxcYr97yCtc85) | 3:50 |
+| 105 | [Beach Break \- Sofi Tukker Remix](https://open.spotify.com/track/6u7jxf89VKJ3VfrNojSHJ8) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Smooth Sailing \(Remixes\)](https://open.spotify.com/album/1OXFXiNZkQTXJLtIpghhHG) | 3:50 |
 | 106 | [Springfield 61](https://open.spotify.com/track/4vPoqq7JbznVdtmhpPxgRo) | [L'Epee](https://open.spotify.com/artist/4r0FnBMOPmKACPLYhkcBtU) | [Diabolique](https://open.spotify.com/album/42QXQwn8uWTOoDutKMEQLk) | 3:39 |
 | 107 | [Marche nocturne](https://open.spotify.com/track/3j1QgIOC96EwEwc2bk1PM4) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Un air de fête](https://open.spotify.com/album/6aC1mqsvVn1bDIwzCkg6xG) | 4:03 |
 | 108 | [Sans lendemain](https://open.spotify.com/track/74DyanDw6n8OiyiV5iDcoZ) | [La Riviera](https://open.spotify.com/artist/0ZWNl9OR9Z7s4nNt12PxPl) | [Sans lendemain](https://open.spotify.com/album/0bkpzXsHXlQzs0XztMENwB) | 7:34 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MCxhNDE4N2VlM2FkNTFiNWMyNzFmMDViOGY3Y2I5OGY2ZTkxOTNmZWRj`
+Snapshot ID: `MCw0Njk3OTFiMTdjNWQ5ZjdmZjZiNjAwOTU0YjEzOTRhODcwMDdkYzY0`

@@ -1,12 +1,12 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 69288,
+  "num_followers": 69373,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjUwMDQ3NzUzYmQ5YThiMWM1OWQzMTRmOTVkNzBhM2MyNjFlZGI3",
+  "snapshot_id": "MCwwYmQ0Mjg2OTQ4YTIxYWYyZTFmODUwNjBhNmI4YTEyZmY5YWNmMDlm",
   "tracks": [
     {
       "added_at": "2022-09-13 14:22:57",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Law Fina",
-        "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
+        "name": "Ossit Helem",
+        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
       },
       "artists": [
         {
-          "name": "Mais Harb",
-          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
         }
       ],
-      "duration_ms": 371890,
-      "name": "Law Fina",
-      "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
+      "duration_ms": 365226,
+      "name": "Kellon Aanik Sa'alouni (Live)",
+      "url": "https://open.spotify.com/track/27olcVaOORgWUjFNC3OOLd"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Ossit Helem",
-        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
+        "name": "Law Fina",
+        "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
       },
       "artists": [
         {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+          "name": "Mais Harb",
+          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
         }
       ],
-      "duration_ms": 365226,
-      "name": "Kellon Aanik Sa'alouni (Live)",
-      "url": "https://open.spotify.com/track/27olcVaOORgWUjFNC3OOLd"
+      "duration_ms": 371890,
+      "name": "Law Fina",
+      "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Ossit Helem",
+        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 303765,
+      "name": "Debna Aa Ghiyabak (Live)",
+      "url": "https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Tarab Hits",
         "url": "https://open.spotify.com/album/0OgTQ6y9BY3fZ4RaCsM6wJ"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 213786,
       "name": "Ashka We Ghalbana",
       "url": "https://open.spotify.com/track/20hX2SNY7z2Eesit48jH1p"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Ma Tehun",
-        "url": "https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf"
-      },
-      "artists": [
-        {
-          "name": "Yara",
-          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
-        }
-      ],
-      "duration_ms": 297500,
-      "name": "Ma Tehun",
-      "url": "https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Ossit Helem",
-        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
+        "name": "Ma Tehun",
+        "url": "https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf"
       },
       "artists": [
         {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+          "name": "Yara",
+          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
         }
       ],
-      "duration_ms": 303765,
-      "name": "Debna Aa Ghiyabak (Live)",
-      "url": "https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG"
+      "duration_ms": 297500,
+      "name": "Ma Tehun",
+      "url": "https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL"
     },
     {
       "added_at": "2022-09-13 14:22:57",

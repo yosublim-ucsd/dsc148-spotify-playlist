@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-231 songs - 13 hr 43 min
+232 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Bad Dreams](https://open.spotify.com/track/6lHwaw0LVZnYWKxIbWEPA9) | [John & The Volta](https://open.spotify.com/artist/5znsjqhosEm6eS7HwPcoHV) | [Low Life](https://open.spotify.com/album/75ZLGkWPtAjDry9Ebg8L7d) | 2:59 | 2022-05-20 |  |
 | [Banana Socks](https://open.spotify.com/track/7afoQRG04Pk9g2eRMlS2Vz) | [Bosco Rogers](https://open.spotify.com/artist/1oNSfCtInL4cMWKutAdeJK) | [French Kiss \- EP](https://open.spotify.com/album/1kHIDkSGsSmcrVEV4Gi84a) | 2:17 | 2022-05-20 |  |
 | [Beach Ball](https://open.spotify.com/track/5f7fOfoDAF6geSNb4tL5za) | [Bordo](https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6) | [1978](https://open.spotify.com/album/0U4O3WRWTi1vIzcKuvh4nQ) | 3:30 | 2022-05-20 |  |
-| [Beach Break \- Sofi Tukker Remix](https://open.spotify.com/track/2T9JWHvTNoonWl7TCGsz1R) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Smooth Sailing \(Remixes\)](https://open.spotify.com/album/1VlYJ4R8rxxcYr97yCtc85) | 3:50 | 2022-05-20 |  |
+| [Beach Break \- Sofi Tukker Remix](https://open.spotify.com/track/2T9JWHvTNoonWl7TCGsz1R) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Smooth Sailing \(Remixes\)](https://open.spotify.com/album/1VlYJ4R8rxxcYr97yCtc85) | 3:50 | 2022-05-20 | 2023-10-01 |
+| [Beach Break \- Sofi Tukker Remix](https://open.spotify.com/track/6u7jxf89VKJ3VfrNojSHJ8) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Smooth Sailing \(Remixes\)](https://open.spotify.com/album/1OXFXiNZkQTXJLtIpghhHG) | 3:50 | 2022-12-21 |  |
 | [Big Future](https://open.spotify.com/track/28TdbFjX6047oZ5ADLTs2r) | [Obliques](https://open.spotify.com/artist/4EGAoQoOZvUSXt0uzxAGWG) | [Big Future](https://open.spotify.com/album/6SASFuxKdxTIHtkfjBV2Na) | 2:35 | 2022-05-20 |  |
 | [Blondie](https://open.spotify.com/track/1H9VPFNN9LidZcOOBrZx9W) | [Minuit](https://open.spotify.com/artist/3T5VmqTVAlLU7X0HKfCqY5) | [Vertigo](https://open.spotify.com/album/2ZZiUqmOAdG2odHhT3rmlo) | 3:07 | 2022-12-21 |  |
 | [Body to Body](https://open.spotify.com/track/1TWgFA9kZujNztCBHC9YiS) | [Bordo](https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6), [Atëna](https://open.spotify.com/artist/0Y7lUqb3y1mEr8BssHDVCa) | [Body to Body](https://open.spotify.com/album/3rWHPgX9LAJnmHn9C36WO6) | 4:02 | 2022-05-20 |  |

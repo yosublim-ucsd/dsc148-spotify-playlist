@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 111818,
       "name": "A Part of Everything",
       "url": "https://open.spotify.com/track/3sEQ7CcBmtQ2AgWBS33rld"
@@ -4942,6 +4942,28 @@
       "duration_ms": 132000,
       "name": "Ambrosia",
       "url": "https://open.spotify.com/track/1WKqKnhAF8RP3aQ0KQRZEm"
+    },
+    {
+      "album": {
+        "name": "Amethyst Dreams",
+        "url": "https://open.spotify.com/album/4sGrpnFgHjWqqJXNAiq4iu"
+      },
+      "artists": [
+        {
+          "name": "L.Rey",
+          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
+        },
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Amethyst Dreams",
+      "url": "https://open.spotify.com/track/4FGc1lhezCjE9gWx4RXVyC"
     },
     {
       "album": {
@@ -16796,7 +16818,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 146129,
       "name": "carpool lane",
       "url": "https://open.spotify.com/track/4Yr6oYb6llf2yvjJXiDgdb"
@@ -52968,7 +52990,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 183000,
       "name": "Keep It Meta",
       "url": "https://open.spotify.com/track/73fERCJHbwaSTAQCM3qI3M"
@@ -71520,7 +71542,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-01",
       "duration_ms": 160469,
       "name": "Noozy",
       "url": "https://open.spotify.com/track/5QKMn9YhcBQQcgvVznQ9dG"
@@ -85648,7 +85670,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 143657,
       "name": "Sail Slow",
       "url": "https://open.spotify.com/track/5RgT76SQWQY6ACdPaWx1ZW"
@@ -93866,7 +93888,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "space jazz",
       "url": "https://open.spotify.com/track/5JngOFWX3RuNDAhxbofBht"
@@ -104552,7 +104574,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 100738,
       "name": "Todo Tranqui",
       "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"

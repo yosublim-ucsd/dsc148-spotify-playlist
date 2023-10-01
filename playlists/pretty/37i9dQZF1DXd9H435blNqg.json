@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Dan Auerbach",
-  "num_followers": 45064,
+  "num_followers": 45128,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTAzMWJmNjE4YmJlN2Y3Yzc0OTRkZDg5YzkzMDI2YzRlNTVhOWY2",
+  "snapshot_id": "MCwwYWYyYjA0ODA2ZjliNWJjMDA1OWY5Yzk3ZTdjOGVhYjlmN2M2NmQw",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV"
     },
     {
-      "added_at": "2023-09-22 04:01:00",
-      "album": {
-        "name": "I Wish I Was An Angel",
-        "url": "https://open.spotify.com/album/5j0UDDZFEfwb3hxAOSdYX6"
-      },
-      "artists": [
-        {
-          "name": "Beware Of Darkness",
-          "url": "https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU"
-        }
-      ],
-      "duration_ms": 142371,
-      "name": "I Wish I Was An Angel",
-      "url": "https://open.spotify.com/track/0pVOOew4ywu5YFAbPh7Jfy"
-    },
-    {
       "added_at": "2023-09-08 04:01:00",
       "album": {
         "name": "Light Rail Blues (Heart Attack)",
@@ -57,22 +41,6 @@
       "url": "https://open.spotify.com/track/2pspoYRhdCfYleXneEqp9i"
     },
     {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Don't You Touch The Radio",
-        "url": "https://open.spotify.com/album/1LYwctumRpZsbrH1uDl02R"
-      },
-      "artists": [
-        {
-          "name": "The Wanton Bishops",
-          "url": "https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe"
-        }
-      ],
-      "duration_ms": 219585,
-      "name": "Don't You Touch The Radio",
-      "url": "https://open.spotify.com/track/5DBDBwRbdSx2d0GLg3pwzD"
-    },
-    {
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Oh My My",
@@ -87,6 +55,54 @@
       "duration_ms": 219897,
       "name": "Oh My My",
       "url": "https://open.spotify.com/track/3f8WNNyHJMxYBCTAoRTPle"
+    },
+    {
+      "added_at": "2023-09-22 04:01:00",
+      "album": {
+        "name": "I Wish I Was An Angel",
+        "url": "https://open.spotify.com/album/5j0UDDZFEfwb3hxAOSdYX6"
+      },
+      "artists": [
+        {
+          "name": "Beware Of Darkness",
+          "url": "https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU"
+        }
+      ],
+      "duration_ms": 142371,
+      "name": "I Wish I Was An Angel",
+      "url": "https://open.spotify.com/track/0pVOOew4ywu5YFAbPh7Jfy"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Machete Western",
+        "url": "https://open.spotify.com/album/0OMxSOoXck7ZxWjTpRXuLI"
+      },
+      "artists": [
+        {
+          "name": "The Family Rain",
+          "url": "https://open.spotify.com/artist/60HxU5pfO88nduyocuUuYE"
+        }
+      ],
+      "duration_ms": 189813,
+      "name": "Loud And Clear",
+      "url": "https://open.spotify.com/track/2c4ZAjhZluqa2toXdydyxl"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Don't You Touch The Radio",
+        "url": "https://open.spotify.com/album/1LYwctumRpZsbrH1uDl02R"
+      },
+      "artists": [
+        {
+          "name": "The Wanton Bishops",
+          "url": "https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe"
+        }
+      ],
+      "duration_ms": 219585,
+      "name": "Don't You Touch The Radio",
+      "url": "https://open.spotify.com/track/5DBDBwRbdSx2d0GLg3pwzD"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 168752,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J"
-    },
-    {
-      "added_at": "2022-08-31 19:53:08",
-      "album": {
-        "name": "Five Dollars",
-        "url": "https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m"
-      },
-      "artists": [
-        {
-          "name": "Black Joe Lewis & The Honeybears",
-          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Five Dollars",
-      "url": "https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT"
     },
     {
       "added_at": "2022-08-31 19:53:08",

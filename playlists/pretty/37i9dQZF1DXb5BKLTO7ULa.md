@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: KANE
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,915 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,948 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 19 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 |
 | 20 | [Hahaha](https://open.spotify.com/track/0E6mNyZk7aN8XYkZ3rLD9n) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Hahaha](https://open.spotify.com/album/0ymEWOOv24RYfduGFeuAA7) | 3:22 |
 | 21 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 |
-| 22 | [GHETTO GOSPEL](https://open.spotify.com/track/0bW3mHWJ6FIdYHzMTmerqC) | [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [GHETTO GOSPEL](https://open.spotify.com/album/0Zy9f5TbSO8nIIUPTITE7R) | 2:08 |
+| 22 | [GHETTO GOSPEL](https://open.spotify.com/track/7llWUC6O8GNQhOJFjrE4so) | [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [GHETTO GOSPEL](https://open.spotify.com/album/5JlCW3En0Vw3B82kPRKOyg) | 2:05 |
 | 23 | [ENERGIE](https://open.spotify.com/track/3GeYpZcJMoSraXaiKG4yqq) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN), [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [ENERGIE](https://open.spotify.com/album/4DAAPsmrW61T7EuhrQHzpl) | 4:01 |
 | 24 | [Kom Dichterbij](https://open.spotify.com/track/0Dte4Y9MDkF71KiiiLQUga) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Joris](https://open.spotify.com/album/7nqav22eDtbEci6zCr4wQL) | 3:15 |
 | 25 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 |
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 68 | [Als Ik Mezelf Verdelen Kon](https://open.spotify.com/track/3bTMN5CKwJm18Kx5nnq2wU) | [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Als Ik Mezelf Verdelen Kon](https://open.spotify.com/album/3UeJGVaVCk0YocAVPybptk) | 3:10 |
 | 69 | [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 |
 | 70 | [Guiding Light](https://open.spotify.com/track/104jvE25rcVYdxchZ6qggv) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3), [Terence Goodmann](https://open.spotify.com/artist/0ZWaO0a0W87SLoyKmiAekr) | [Guiding Light](https://open.spotify.com/album/5zYvCeBCkkG7uM29LZ2WqZ) | 3:30 |
-| 71 | [Ken Die Tijd](https://open.spotify.com/track/58YQgD7inaRL3YSdHMGFCd) | [R\-D](https://open.spotify.com/artist/1KHhM4HRa5fZ9DJwu2N2Qc), [Yassin D](https://open.spotify.com/artist/1nX9qcTiecotSfGnwjl6EG), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Ken Die Tijd](https://open.spotify.com/album/2UJsidhQ5PytX9X4Aa7aR6) | 3:07 |
+| 71 | [Ken Die Tijd](https://open.spotify.com/track/58YQgD7inaRL3YSdHMGFCd) | [R\-D](https://open.spotify.com/artist/1KHhM4HRa5fZ9DJwu2N2Qc), [Yassin D](https://open.spotify.com/artist/1nX9qcTiecotSfGnwjl6EG), [Lijpe](https://open.spotify.com/artist/2rt8UCiO0Or3LCHfj96ipU) | [Ken Die Tijd](https://open.spotify.com/album/2UJsidhQ5PytX9X4Aa7aR6) | 3:07 |
 | 72 | [Yes I'm A Mess](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Yes I'm A Mess](https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4) | 2:44 |
 | 73 | [a memory is a wild place to go](https://open.spotify.com/track/0ZMFYZA4Zdpji6avhCxpA0) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [a memory is a wild place to go](https://open.spotify.com/album/3Gasb8xS9RE35mErBfbWZ3) | 2:52 |
 | 74 | [MISTAKES](https://open.spotify.com/track/2Nnm3TNxWvv1wc3yqqLVIe) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T) | [MISTAKES](https://open.spotify.com/album/7ko8XDnmspKTTFoeGW08Nz) | 3:45 |
 | 75 | [Homicide \(with Jessie Reyez\)](https://open.spotify.com/track/2vVUevSgxbWBub5zW7rQPO) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Homicide](https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW) | 3:01 |
-| 76 | [Wina](https://open.spotify.com/track/2JSY6gNn13HFtKtrnNVPL5) | [Kronan](https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP) | [Wina](https://open.spotify.com/album/472vtNJGLZQzus5YlAeKJ1) | 2:30 |
+| 76 | [Wina \(feat\. Maline Aura\)](https://open.spotify.com/track/2JSY6gNn13HFtKtrnNVPL5) | [Kronan](https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP) | [Wina \(feat\. Maline Aura\)](https://open.spotify.com/album/472vtNJGLZQzus5YlAeKJ1) | 2:30 |
 | 77 | [Sweet Little Angel](https://open.spotify.com/track/2cbalInhFxgfDCIGRlUuvs) | [Lotte Walda](https://open.spotify.com/artist/0IkirifajdauvWWt6wZkC6) | [Dragonfly](https://open.spotify.com/album/1kHFsCpRQckpaOA8uVFRRh) | 4:05 |
 | 78 | [Running Back](https://open.spotify.com/track/1og4e3afpv32NzuaksqiN8) | [Vinchenzo](https://open.spotify.com/artist/6Jc18GpeJVDe3HWhfrQ0Bu) | [Running Back](https://open.spotify.com/album/6yrsXbSXXTFpNIx2JvUkH0) | 5:00 |
 | 79 | [Trots & Eer](https://open.spotify.com/track/2JQnrjDkacgMGx3RGEsT7n) | [Flo](https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy), [Machario](https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj) | [Trots & Eer](https://open.spotify.com/album/0E98NuIaSF1xtcJuGPIS0l) | 2:33 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 98 | [Joder, te quiero](https://open.spotify.com/track/5F50jObaXmI6a0oyaOje0Q) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [Joder, te quiero](https://open.spotify.com/album/5hfeHP7WUqHz5oOo9RdBSb) | 2:41 |
 | 99 | [You Won.](https://open.spotify.com/track/1YWo8yErOZtAHhxGRHag0L) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [You Won.](https://open.spotify.com/album/0U7bc5n6NRGJxOxUoWBVe3) | 2:37 |
 
-Snapshot ID: `MCwwOGFlZTc3M2FhOTlmNTE0ZDc4YTJiYTkzMDY4OGFjOGY2ZWMwYTdi`
+Snapshot ID: `MCxiNjM2MTEyMjFiMWI3NjJhYzRjMjcwMGJiMWU1ZDMyNzk4NGQyZjc5`

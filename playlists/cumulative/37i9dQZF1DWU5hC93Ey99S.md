@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-268 songs - 14 hr 53 min
+269 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [I'm All In](https://open.spotify.com/track/32sVl6OPnToHW3csfoVPWD) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [I'm All In](https://open.spotify.com/album/4Ab2C4bPcDAVpAN0zqGNQe) | 2:59 | 2023-05-04 |  |
 | [In The Summer](https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 3:57 | 2023-07-28 |  |
 | [Insomnia](https://open.spotify.com/track/3GE9ogfnPuuc2YkdCHsqHF) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Insomnia](https://open.spotify.com/album/6WYfJKnEghNhELzi7bhenR) | 3:06 | 2023-04-13 | 2023-07-22 |
-| [Isolate \- Jacana People Remix](https://open.spotify.com/track/4gaVbud6ZqzIgse5t5kzYw) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Isolate \(Jacana People Remix\)](https://open.spotify.com/album/1De74ejTitVpfGKijS6SIP) | 4:04 | 2023-04-27 |  |
+| [Isolate \(Jacana People Remix\)](https://open.spotify.com/track/1URB1hDZSJhfcIrT4Z2dNS) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Isolate](https://open.spotify.com/album/30OA856joXbx7jpYJ9VANy) | 4:04 | 2023-09-28 |  |
+| [Isolate \- Jacana People Remix](https://open.spotify.com/track/4gaVbud6ZqzIgse5t5kzYw) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Isolate \(Jacana People Remix\)](https://open.spotify.com/album/1De74ejTitVpfGKijS6SIP) | 4:04 | 2023-04-27 | 2023-10-01 |
 | [it's bad](https://open.spotify.com/track/1iWvI2GvqgKmUC5vCFTX7e) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [it's bad](https://open.spotify.com/album/4nK7HgYZcuUQMW4pYHXd4q) | 2:45 | 2023-08-10 |  |
 | [just alone](https://open.spotify.com/track/2TNgS6N47IpQFqPLR24Phy) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [just alone](https://open.spotify.com/album/7gODujaTUC04p5AxjEkyM8) | 2:26 | 2023-05-11 |  |
 | [Just Doin' Me](https://open.spotify.com/track/3k7w2iFmezR29eFEM11AV9) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [MOONBOY](https://open.spotify.com/album/7nbl0sq2qrigt7BGmAcPc7) | 3:39 | 2023-06-22 |  |

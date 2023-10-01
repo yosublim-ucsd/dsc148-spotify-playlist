@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> Fresh releases from your future favorite artists\. Cover: Leona  Artwork: Isu Kim
+> Fresh releases from your future favorite artists\. Cover: Hero  Artwork: Isu Kim
 
-1,715 songs - 4 day 5 hr 47 min
+1,716 songs - 4 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Ayoko Na](https://open.spotify.com/track/3VEfrWoKPXmFZBhr22jd9V) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Ayoko Na](https://open.spotify.com/album/1ys9OnR7NP9E17fLk5cdrT) | 2:53 | 2023-01-19 | 2023-02-17 |
 | [Ayoko Na Umuwi](https://open.spotify.com/track/19voXXQ1fORAEwtN3SZnUX) | [Mazeboiii](https://open.spotify.com/artist/3DFM7ya81iULbYzrxvXzo2), [Mckvicous](https://open.spotify.com/artist/3LmpBDdrBom6TKWedUMayB) | [Ayoko Na Umuwi](https://open.spotify.com/album/3JlPDOEYEHMYqP66cOg3WO) | 2:37 | 2023-03-09 | 2023-03-31 |
 | [Ayoko ng Ulitin](https://open.spotify.com/track/62Rop4kC6xArEDwYKV2O4Z) | [YFJHAY](https://open.spotify.com/artist/6SygNpCWRSxpnGq5LXNt9q) | [Ayoko ng Ulitin](https://open.spotify.com/album/5g0YlOUoLDqqEIh1lMvWOo) | 3:01 | 2023-09-07 | 2023-09-29 |
+| [Ayos Lang ‘Yan](https://open.spotify.com/track/4SsdGsUCb6RWorUQ58bueg) | [Hero](https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm) | [Ayos Lang ‘Yan](https://open.spotify.com/album/2pBLiHZ28ZbC3gC6MOIp1H) | 3:23 | 2023-09-29 |  |
 | [Ayusen](https://open.spotify.com/track/5mexzZniVnBU5HbrTjZuxE) | [Soultary](https://open.spotify.com/artist/4grMV6pfxotpPx6i4KVf49) | [Ayusen](https://open.spotify.com/album/2gczg6mU8jYSWuxCYuG8iH) | 3:44 | 2022-07-28 | 2022-10-14 |
 | [B 4 U](https://open.spotify.com/track/3334CBSyQik86iFo8hyqRe) | [C$Y](https://open.spotify.com/artist/4tM5ely6ggNwY9CN9EvLEi) | [B 4 U](https://open.spotify.com/album/3aXOyPnlCUuUoUrQTcVg0F) | 3:26 | 2022-09-08 | 2022-11-25 |
 | [B.S](https://open.spotify.com/track/7nwFlboEW3EE6MeaYwj7ik) | [NATURAL](https://open.spotify.com/artist/42raJo1NJNgR2cpWit5J0A) | [B.S](https://open.spotify.com/album/41gwvaqmHPrL206rryppTd) | 4:59 | 2022-04-07 | 2022-04-22 |

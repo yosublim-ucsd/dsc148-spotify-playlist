@@ -1,12 +1,12 @@
 {
   "description": "De 50 populairste hits van Nederland. Cover: KATNUF",
-  "num_followers": 894905,
+  "num_followers": 894984,
   "original_name": "Top Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjI2YzY3NDQxODJkYjY1MzdiYjQ1YjI3ZGVjNDIzZWQ0Mzg2MDEw",
+  "snapshot_id": "MCw5ZTljMjAwOTgyZTBjZTEzODJkOTg1NWIxYWNhN2M0ZGE2ZWE0MGY4",
   "tracks": [
     {
       "added_at": "2023-09-29 13:09:27",
@@ -668,17 +668,29 @@
       "added_at": "2023-09-29 13:09:27",
       "album": {
         "name": "Layla",
-        "url": "https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl"
+        "url": "https://open.spotify.com/album/1iwZqyrUQ8UqvW2iIezjVX"
       },
       "artists": [
         {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+          "name": "Phiec",
+          "url": "https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI"
+        },
+        {
+          "name": "CATO1948",
+          "url": "https://open.spotify.com/artist/5UWB8WQR5gxyNqfhmNbXmt"
+        },
+        {
+          "name": "Erenzy",
+          "url": "https://open.spotify.com/artist/3AP6MCvLF9oYJWYfBubRYH"
+        },
+        {
+          "name": "SELMAN ALTUNBA\u015e",
+          "url": "https://open.spotify.com/artist/6cN5reMOX748NGhI2KVO9h"
         }
       ],
       "duration_ms": 163428,
       "name": "Layla",
-      "url": "https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp"
+      "url": "https://open.spotify.com/track/4bFtZ97olZXoCns9zMImDs"
     },
     {
       "added_at": "2023-09-29 13:09:27",

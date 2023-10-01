@@ -2,9 +2,9 @@
 
 ### [EQUAL Anime](https://open.spotify.com/playlist/37i9dQZF1DXblYBkrEcpLK)
 
-> アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: Aimer
+> アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 水樹奈々 \(Nana Mizuki\)
 
-481 songs - 1 day 8 hr 47 min
+482 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [StrangeX](https://open.spotify.com/track/1qwPJiw1QCZHdDtkUxXtm3) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [StrangeX](https://open.spotify.com/album/5Ra9EsYjAtlh7TfzLrhO7L) | 3:32 | 2023-06-29 | 2023-07-05 |
 | [Strobe Memory](https://open.spotify.com/track/67w7LRacfJu0OcQsZb7HK5) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Hikari](https://open.spotify.com/album/7B4RA5lKKIbw5sTj9Sce3B) | 4:44 | 2022-06-12 | 2022-07-24 |
 | [Subversive](https://open.spotify.com/track/6acIbFRfo20buNEmQiOl8K) | [高槻かなこ](https://open.spotify.com/artist/2do49zyzTTvfteT4XSof5k) | [Subversive](https://open.spotify.com/album/2gAqGyDjUcea47yN0KeAo1) | 4:37 | 2022-06-09 | 2022-07-28 |
+| [Sugar Doughnuts](https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Sugar Doughnuts](https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O) | 3:26 | 2023-09-30 |  |
 | [Sugarless Kiss](https://open.spotify.com/track/3UVrd41wMv9ERbwE3IC87l) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [Sugarless Kiss](https://open.spotify.com/album/5awyrxElo4j1ph2UH7nvfl) | 3:34 | 2022-06-14 | 2022-07-25 |
 | [Sun Is Coming Up](https://open.spotify.com/track/3QF909rQu5LgpXxrPL81Nz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Sun Is Coming Up](https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp) | 4:15 | 2022-07-07 | 2022-07-20 |
 | [SURVIVE](https://open.spotify.com/track/1N2ftX938NJAeCZBiBbFiB) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [SURVIVE](https://open.spotify.com/album/7q6pacKSTnoHdyFoVa83DV) | 3:54 | 2023-04-11 | 2023-06-09 |
@@ -380,7 +381,7 @@
 | [不完全ドリーマー](https://open.spotify.com/track/3m6dse2AdzEZ83Fa5OqaeD) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [不完全ドリーマー](https://open.spotify.com/album/4Lo5xGczeAbrU4LZP0QiDa) | 4:47 | 2022-06-14 | 2022-07-29 |
 | [不規則性エントロピー](https://open.spotify.com/track/380LeI6moud4Zlrr8EXSdr) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [不規則性エントロピー \(TVアニメ「ひぐらしのなく頃に 業」新EDテーマ\)](https://open.spotify.com/album/2C6nNaQMeZUg9D9qpcsv3n) | 4:23 | 2022-06-14 | 2022-06-19 |
 | [世界が私を呼ぶから](https://open.spotify.com/track/3ti5HbpOassT7t56Gs5JNH) | [Sachika Misawa](https://open.spotify.com/artist/7cFgscmiwzpnPjOKx1ZZAZ) | [深呼吸](https://open.spotify.com/album/46qejdyZJ6QBJJzSg7ItIv) | 3:00 | 2022-06-24 | 2022-07-27 |
-| [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [Chico](https://open.spotify.com/artist/6jViuZ9wLXyEW3qzOJofLk), [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd) | [世界はｉに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 | 2022-07-28 |  |
+| [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [Chico](https://open.spotify.com/artist/4Q9qjVl2sT6IsEU7Npd5k8), [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd) | [世界はｉに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 | 2022-07-28 |  |
 | [世界は恋に落ちている](https://open.spotify.com/track/3pCc4xUyz0IIOvrwBlGtDW) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界は恋に落ちている](https://open.spotify.com/album/5gfX21tjkgqmlO1IGRYXmp) | 5:11 | 2022-06-12 | 2022-07-05 |
 | [五等分の軌跡](https://open.spotify.com/track/2x8LTwwFltPH8kjOThZaWu) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡](https://open.spotify.com/album/1LwNX4lCrDG1LJpFSMT11Z) | 4:09 | 2022-06-21 | 2022-06-23 |
 | [人芝居](https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [人芝居](https://open.spotify.com/album/7vRJFhwnCxhkQnk9SnSg4U) | 4:07 | 2022-07-07 | 2023-01-11 |
@@ -406,7 +407,7 @@
 | [夢よりも早くこの恋が覚めても](https://open.spotify.com/track/6vUCeKFR6Kb1AGODIT7yYL) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [あじゅじゅと夜と音楽と](https://open.spotify.com/album/2wC9ZGJSE7IwWJZjLd1Tqb) | 3:42 | 2022-06-09 | 2022-07-28 |
 | [夢を信じて / with 塩谷哲](https://open.spotify.com/track/4OH6Ykq4Lp2Bvpa4BVW1V7) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV), [塩谷哲](https://open.spotify.com/artist/1Q2teQhFRl3cL5a590DvKB) | [夢を信じて / with 塩谷哲](https://open.spotify.com/album/3VpNvVmCSeMiR0CBNsO349) | 4:17 | 2023-05-16 | 2023-06-09 |
 | [奇縁ロマンス](https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [奇縁ロマンス](https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT) | 3:41 | 2023-04-11 | 2023-07-05 |
-| [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-06-09 |  |
+| [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-06-09 | 2023-10-01 |
 | [山荷葉](https://open.spotify.com/track/2uqD9HIXiu72KNIy4CCCa9) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [山荷葉](https://open.spotify.com/album/3EsTLK73PrGDlRFNsn8eir) | 4:59 | 2022-06-09 | 2022-07-29 |
 | [希望の花](https://open.spotify.com/track/4HK21Rjm9buHWIF7yBUMfi) | [千菅春香](https://open.spotify.com/artist/0sO4gM73Z5ZDR2cUqSHzjO) | [TRY!](https://open.spotify.com/album/0et1B3mRe2tuZsnh5ELgXW) | 5:15 | 2022-06-14 | 2022-07-28 |
 | [彩色硝子](https://open.spotify.com/track/5EVmlI2bzavJxH6BBgaaM4) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [彩色硝子](https://open.spotify.com/album/5MDwykqDZ5ISh5BQRLsFMS) | 3:56 | 2022-06-24 | 2022-07-26 |

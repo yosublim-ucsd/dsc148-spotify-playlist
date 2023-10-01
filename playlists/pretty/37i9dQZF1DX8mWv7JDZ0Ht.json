@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Silva, Liniker",
-  "num_followers": 432872,
+  "num_followers": 432926,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGU5ZTUxNmFiNDY5MDBkMjdhNWY1ZDA2MTkxYTkxZDY0NjYyMmMw",
+  "snapshot_id": "MCw4NWIyN2RkMjEwODE0YjRkYjNjZWUyZTdjYjEyYzI4NGViNzA0OWNj",
   "tracks": [
     {
       "added_at": "2023-09-29 03:00:00",
@@ -659,22 +659,18 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
-        "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
+        "name": "M\u00faltipla",
+        "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
         }
       ],
-      "duration_ms": 133806,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
+      "duration_ms": 161540,
+      "name": "Nem Eu Me Entendo",
+      "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -695,22 +691,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Tom Jobim",
-        "url": "https://open.spotify.com/album/5HczYawk4wKPp5nXP36s6P"
+        "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
+        "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
       },
       "artists": [
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
         },
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Tom Jobim",
-      "url": "https://open.spotify.com/track/2pk99nZzZMkUBOhEUoMgH4"
+      "duration_ms": 133806,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -731,18 +727,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "M\u00faltipla",
-        "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
+        "name": "Tom Jobim",
+        "url": "https://open.spotify.com/album/5HczYawk4wKPp5nXP36s6P"
       },
       "artists": [
         {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 161540,
-      "name": "Nem Eu Me Entendo",
-      "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
+      "duration_ms": 182857,
+      "name": "Tom Jobim",
+      "url": "https://open.spotify.com/track/2pk99nZzZMkUBOhEUoMgH4"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Me Sinto Com Sorte",
+        "url": "https://open.spotify.com/album/7xnXIInegkDGhIPDOKi8tT"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 178348,
+      "name": "Toda minha saudade",
+      "url": "https://open.spotify.com/track/6uPWvyCWxvF0y4O6XpJy1F"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Melodram\u00e1tico",
         "url": "https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 176869,
       "name": "No Passo da Saudades",
       "url": "https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Me Sinto Com Sorte",
-        "url": "https://open.spotify.com/album/7xnXIInegkDGhIPDOKi8tT"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 178348,
-      "name": "Toda minha saudade",
-      "url": "https://open.spotify.com/track/6uPWvyCWxvF0y4O6XpJy1F"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Sanidade Mental",
-        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 119706,
-      "name": "Sanidade Mental",
-      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Lindo Dom",
         "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 193842,
       "name": "Lindo Dom",
       "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Sanidade Mental",
+        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 119706,
+      "name": "Sanidade Mental",
+      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Com.Fuso",
-        "url": "https://open.spotify.com/album/2ejyIweYIP2MQSjCMDILyN"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 169539,
-      "name": "Terminou Bem",
-      "url": "https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Como Tinha Que Ser",
         "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
       },
@@ -1227,38 +1211,18 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Um Brinde A Vida",
-        "url": "https://open.spotify.com/album/3VigMl5w5d4kIedETAUgw3"
+        "name": "Com.Fuso",
+        "url": "https://open.spotify.com/album/2ejyIweYIP2MQSjCMDILyN"
       },
       "artists": [
         {
-          "name": "N\u00f3s Dois",
-          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
         }
       ],
-      "duration_ms": 182086,
-      "name": "Um Brinde A Vida",
-      "url": "https://open.spotify.com/track/368jIb4IpHgNiYmVG2J4PD"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Sincero",
-        "url": "https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl"
-      },
-      "artists": [
-        {
-          "name": "F\u00ea Costa",
-          "url": "https://open.spotify.com/artist/44iMU2cm99b2s3YahO5TQ1"
-        },
-        {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
-        }
-      ],
-      "duration_ms": 169275,
-      "name": "Sincero",
-      "url": "https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV"
+      "duration_ms": 169539,
+      "name": "Terminou Bem",
+      "url": "https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1283,6 +1247,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Um Brinde A Vida",
+        "url": "https://open.spotify.com/album/3VigMl5w5d4kIedETAUgw3"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s Dois",
+          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
+        }
+      ],
+      "duration_ms": 182086,
+      "name": "Um Brinde A Vida",
+      "url": "https://open.spotify.com/track/368jIb4IpHgNiYmVG2J4PD"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "PLENA TER\u00c7A FEIRA",
         "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 187982,
       "name": "PLENA TER\u00c7A FEIRA",
       "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Sincero",
+        "url": "https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl"
+      },
+      "artists": [
+        {
+          "name": "F\u00ea Costa",
+          "url": "https://open.spotify.com/artist/44iMU2cm99b2s3YahO5TQ1"
+        },
+        {
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
+        }
+      ],
+      "duration_ms": 169275,
+      "name": "Sincero",
+      "url": "https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Ideias Sobre Voc\u00ea",
+        "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
+      },
+      "artists": [
+        {
+          "name": "Helena Novais",
+          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "Incompar\u00e1vel",
+      "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Desejos",
         "url": "https://open.spotify.com/album/28wJ7QldQ5pIVzaHxTWOu9"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 177000,
       "name": "Desejos",
       "url": "https://open.spotify.com/track/6g3feIh4V5h3UMvuAifb4h"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Ideias Sobre Voc\u00ea",
-        "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
-      },
-      "artists": [
-        {
-          "name": "Helena Novais",
-          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "Incompar\u00e1vel",
-      "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
     }
   ],
   "unique_name": "Pop Leve",

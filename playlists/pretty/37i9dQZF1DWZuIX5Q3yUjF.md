@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Davide Shorty
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,445 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,456 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 59 | [Lido](https://open.spotify.com/track/1A2QWvmyc0BXVcjdjKL6Wg) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0) | [Il canto del villaggio \(Atto I \- Atto II \- Atto III\)](https://open.spotify.com/album/3c4I3xCPnt4r1qKmz6uGNM) | 4:19 |
 | 60 | [Janara](https://open.spotify.com/track/6c2To2ELFZ6MEPQCPHZLiq) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Janara](https://open.spotify.com/album/0swEfPxCi3RN3unHRXUMJf) | 2:55 |
 
-Snapshot ID: `MCwzMDA0OTM1NDg0NjI3ZTI4OWUyMzdhYWZkMmM2OGNjNGQ0YjgxOTRk`
+Snapshot ID: `MCwxMjgyMzBiYmU2MGNlNWFhYjE0OWNjYjg4YjQ4OThjZjM3NTAzYTY5`

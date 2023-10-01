@@ -4,7 +4,7 @@
 
 > tunes for walking, driving, running, flying, etc
 
-270 songs - 14 hr 49 min
+271 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Brand New Phone](https://open.spotify.com/track/17zFfPV3PZ3ZDMZyDcXTxV) | [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Recollection Prospective](https://open.spotify.com/album/1thcA2rOLZExgDgcH6K2Bd) | 3:17 | 2022-03-25 | 2023-01-27 |
 | [BREADWINNER](https://open.spotify.com/track/5UOuVrX6D7pAsIsMxSlex0) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [BREADWINNER](https://open.spotify.com/album/7rILI7b42rdmDPoY97xyOa) | 3:18 | 2023-08-09 |  |
 | [BREADWINNER](https://open.spotify.com/track/6JAzDcWwzVHkfAg1ujmist) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [BREADWINNER](https://open.spotify.com/album/3WNp8J85wMADkAlfzUBJEi) | 3:18 | 2023-08-09 | 2023-08-31 |
-| [bug bite](https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb) | [Fantasy Camp](https://open.spotify.com/artist/5EOdFuP5qy3DOB7EQKyo2j) | [long way home](https://open.spotify.com/album/1TZzFg1iyjjJbMJow7lgwG) | 3:06 | 2023-08-09 |  |
+| [bug bite](https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb) | [Fantasy Camp](https://open.spotify.com/artist/5EOdFuP5qy3DOB7EQKyo2j) | [long way home](https://open.spotify.com/album/1TZzFg1iyjjJbMJow7lgwG) | 3:06 | 2023-08-09 | 2023-10-01 |
 | [Buggin](https://open.spotify.com/track/1wjHKZGLuZarl2lY16CQ1H) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon) | [Buggin](https://open.spotify.com/album/3Vd2F2hoxhMSsEW0MlUZIP) | 2:11 | 2021-11-12 | 2022-07-28 |
 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 | 2022-05-03 |  |
 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 | 2022-03-31 | 2022-07-02 |
@@ -111,6 +111,7 @@
 | [Good Buy My Old Life](https://open.spotify.com/track/1nmMm95AnGwZWIbxeJVio9) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Good Buy My Old Life](https://open.spotify.com/album/2X18O3Jbj1xmXlyOKFdWnu) | 3:30 | 2022-06-03 | 2022-07-02 |
 | [Grey Luh](https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Berhana](https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3) | 4:21 | 2021-08-05 | 2022-04-21 |
 | [Grin On Me](https://open.spotify.com/track/3rnjpapU250ztdS4N2e3aS) | [BirdsFlyStoned](https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r) | [Grin On Me](https://open.spotify.com/album/0QGTF5sTLRnnxgXFZeQCYF) | 2:01 | 2021-09-03 | 2022-07-29 |
+| [Grin On Me](https://open.spotify.com/track/73AOBLPutLJ8DO48j3lCUp) | [BirdsFlyStoned](https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r) | [Alabama Pimpin](https://open.spotify.com/album/0X4B3EhbmaAFg4bUfEJL2s) | 2:01 | 2023-08-09 |  |
 | [Hallmarks](https://open.spotify.com/track/1AsVHwEm3TfjPV68DZvswr) | [Your Neighbors](https://open.spotify.com/artist/6mpyU2azr3zfZDY9k8w5GP) | [Love Your Neighbors](https://open.spotify.com/album/2LcHvU3Yzrd7SMMHhZcdfe) | 4:39 | 2023-08-09 |  |
 | [Hannah \(the sun\)](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Hannah \(the sun\)](https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA) | 3:16 | 2021-10-26 |  |
 | [Head In The Clouds](https://open.spotify.com/track/1fAE0TQ3xblvOgnmM7yL1s) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Don't give me problems, give me wine](https://open.spotify.com/album/0zdCctCFiHeLyZ4mzV7aY8) | 2:27 | 2021-08-05 |  |

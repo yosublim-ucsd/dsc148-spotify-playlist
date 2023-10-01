@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nRIP Mohbad",
-  "num_followers": 22318,
+  "num_followers": 22516,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDlhNTg5NDhkZmEzN2FhYzFlMWZlYTY0NjQzYjg0ZDMxMzliNzI1",
+  "snapshot_id": "MCwxNTI2NDM2ZDdmOWIxMDQzMjQ4NDIzMDJlNTE5ZjJiNjgwYmY1NDNj",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -907,18 +907,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Jaboti",
-        "url": "https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i"
+        "name": "Bolanle",
+        "url": "https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL"
       },
       "artists": [
+        {
+          "name": "IVD",
+          "url": "https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m"
+        },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 153341,
-      "name": "Jaboti",
-      "url": "https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX"
+      "duration_ms": 173712,
+      "name": "Bolanle",
+      "url": "https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -939,22 +943,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Bolanle",
-        "url": "https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL"
+        "name": "Jaboti",
+        "url": "https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i"
       },
       "artists": [
-        {
-          "name": "IVD",
-          "url": "https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m"
-        },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 173712,
-      "name": "Bolanle",
-      "url": "https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd"
+      "duration_ms": 153341,
+      "name": "Jaboti",
+      "url": "https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX"
     },
     {
       "added_at": "2023-09-29 00:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 302625,
+  "num_followers": 302663,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDc2MDNiYzA1OWNkZmIyODdkODNjYzczODZhZDgzY2JkNmRlYThl",
+  "snapshot_id": "MCxhN2ZmNGNiYjI0MzAyZTgyY2RiOGM2Mjc5NTkyZDlhMzhmMmQwMzc4",
   "tracks": [
     {
       "added_at": "2023-09-29 15:34:46",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-09-29 15:34:46",
       "album": {
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 166864,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21"
+    },
+    {
+      "added_at": "2023-09-29 15:34:46",
+      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 190758,
       "name": "Irreal",
       "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
-    },
-    {
-      "added_at": "2023-09-29 15:34:46",
-      "album": {
-        "name": "Tara",
-        "url": "https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 166864,
-      "name": "Tara",
-      "url": "https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21"
     },
     {
       "added_at": "2023-09-29 15:34:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ExvoKgjMK2.md) - [plain]
 
 > 마침내 파인애플 섬에서 열리는 '섬머소다 락페스타'! 그 생생한 현장과 함께 뮤지션 쿠키들의 추천곡을 만나보세요! \(Finally, 'Summer Soda Rock Festa' held on Pineapple Island! Meet the recommended songs of musician Cookies along with the vivid scene!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,979 likes - 36 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,995 likes - 36 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ExvoKgjMK2.md) - [plain]
 | 35 | [드라이브 Drive \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/track/7lLDs1B9CBJeRVdDu2ZhsI) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202](https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf) | 4:00 |
 | 36 | [Half Clear](https://open.spotify.com/track/29OarHJDQN4Pm7SE1VmlQf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 4:25 |
 
-Snapshot ID: `MCw5NmE5MzU0YzQyYWVjMjM0NjAxMWE5NmFhZTdiZGNkZjQ5ODYxNGUw`
+Snapshot ID: `MCxkYmI5ZWE2ZWRhMzI5YWZmMjYyZDAwYzVlMzIzZWNjNzc3OWFjNWQ2`

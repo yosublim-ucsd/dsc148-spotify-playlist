@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side A
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,388 likes - 76 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,449 likes - 76 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 75 | [Neenene Beku \- From "Bengaluru Boys"](https://open.spotify.com/track/0oOEJ4rrnvkeFo1tEym6U9) | [Dharma Vish](https://open.spotify.com/artist/6miwTHZ03xmcPUtShuAGgS), [Pranava Karanth](https://open.spotify.com/artist/7KmDXsv3wTs7h53HmD3pHc), [Nagarjuna Sharma](https://open.spotify.com/artist/5afoIXDDGpV9nDsc4OHVxL) | [Neenene Beku \(From "Bengaluru Boys"\)](https://open.spotify.com/album/4wEwg17NYf5zONIN6234m4) | 3:26 |
 | 76 | [Yaaro Yaaro \(From "Yadha Yadha Hi"\)](https://open.spotify.com/track/1ASDt2sOPKNGdb4m84fQMS) | [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG), [Ravi Prakash Chodimalla](https://open.spotify.com/artist/1J5d9DMAj9oYk7yKswHj8U), [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Yaaro Yaaro \(From "Yadha Yadha Hi"\)](https://open.spotify.com/album/6UQHF0v6t3opBWTiwgECKY) | 2:54 |
 
-Snapshot ID: `MCwyMTFkY2JkNTUyMGQxMWQ4ZDljZDgzMzI2ZmFjNDhmMTVlZDFlODhk`
+Snapshot ID: `MCxmMjk2Mzc1MTI1MzhjNzkyY2IxZGM2ZjRkM2Y0N2RhMWY0MTNhN2M5`

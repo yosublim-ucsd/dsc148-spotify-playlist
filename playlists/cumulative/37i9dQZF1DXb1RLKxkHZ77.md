@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Masdo, Aisyah Aziz
 
-303 songs - 19 hr 10 min
+304 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,8 @@
 | [Senyum](https://open.spotify.com/track/42U5uLkqHQ1qCPIB4FPFt1) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [ASTL](https://open.spotify.com/album/0H5bO0U5tIHUbjxquqPh82) | 3:01 | 2023-08-16 | 2023-09-14 |
 | [Sepi Sekuntum Mawar Merah](https://open.spotify.com/track/5ZJmUtcIlpIdxiruIENBO7) | [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Sepi Sekuntum Mawar Merah](https://open.spotify.com/album/1GkBzveJ8lNLXTgnJzHr8W) | 3:45 | 2022-08-10 | 2023-02-16 |
 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 | 2023-02-01 |  |
-| [Sial](https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:03 | 2023-02-08 |  |
+| [Sial](https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:03 | 2023-09-27 |  |
+| [Sial](https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:03 | 2023-02-08 | 2023-10-01 |
 | [SIRNA](https://open.spotify.com/track/5LrxgVd7jazUQd4lb4vRJw) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [SIRNA](https://open.spotify.com/album/7doiwp97qBFd9fN4TJNRor) | 3:56 | 2023-07-05 | 2023-08-03 |
 | [Sisa Rasa](https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sisa Rasa](https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ) | 4:14 | 2022-05-25 | 2023-09-07 |
 | [Suasana Hari Raya](https://open.spotify.com/track/37fHM5hdmn0PGXh7q4EIum) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Suasana Hari Raya](https://open.spotify.com/album/2oCUKhVOJcnliPxBa3QM9V) | 2:34 | 2023-04-12 | 2023-05-04 |

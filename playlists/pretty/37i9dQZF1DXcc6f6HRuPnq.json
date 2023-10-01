@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 102635,
+  "num_followers": 102912,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTJjZGU1YjMyMGI5ZWM3ZTcyZDU4MWUzZjJlNGViODZlODk2ZWU5",
+  "snapshot_id": "MCxkYjE3MzMwOWU5YjY1ZmUyN2Y4ZWE5NDM3YzM1NGNmNjVhNDljY2Zl",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:36",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": "2023-09-15 11:42:36",
-      "album": {
         "name": "Blues Deluxe",
         "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 440200,
       "name": "Blues Deluxe",
       "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
+    },
+    {
+      "added_at": "2023-09-15 11:42:36",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
       "added_at": "2023-09-15 11:42:36",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
+        "name": "Bad Spell (Acoustic)",
+        "url": "https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 194970,
+      "name": "Bad Spell - Acoustic",
+      "url": "https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0"
+    },
+    {
+      "added_at": "2023-09-15 11:42:36",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 249626,
       "name": "Ships On The Ocean",
       "url": "https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x"
-    },
-    {
-      "added_at": "2023-09-15 11:42:36",
-      "album": {
-        "name": "Bad Spell (Acoustic)",
-        "url": "https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 194970,
-      "name": "Bad Spell - Acoustic",
-      "url": "https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0"
     },
     {
       "added_at": "2023-09-15 11:42:36",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
-        "name": "Woman Across The River",
-        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 270600,
-      "name": "Help Me Through The Day",
-      "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
-    },
-    {
-      "added_at": "2023-09-15 11:42:36",
-      "album": {
         "name": "Indianola Mississippi Seeds",
         "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 364906,
       "name": "You're Still My Woman",
       "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
+    },
+    {
+      "added_at": "2023-09-15 11:42:36",
+      "album": {
+        "name": "Woman Across The River",
+        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 270600,
+      "name": "Help Me Through The Day",
+      "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
     },
     {
       "added_at": "2023-09-15 11:42:36",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Reap What You Sow",
-      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
-    },
-    {
-      "added_at": "2023-09-15 11:42:36",
-      "album": {
         "name": "Born Under A Bad Sign",
         "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 361970,
       "name": "Lord I Just Can't Keep from Crying",
       "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
+    },
+    {
+      "added_at": "2023-09-15 11:42:36",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Reap What You Sow",
+      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
     },
     {
       "added_at": "2023-09-15 11:42:36",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
-        "name": "The Motown Years 1972-1976",
-        "url": "https://open.spotify.com/album/5b1RrcADU8Ziwyz6ViTGpW"
-      },
-      "artists": [
-        {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
-        }
-      ],
-      "duration_ms": 380493,
-      "name": "Luther's Blues",
-      "url": "https://open.spotify.com/track/0GvTuG8uhF45s8yT3aYPH4"
-    },
-    {
-      "added_at": "2023-09-15 11:42:36",
-      "album": {
         "name": "Bad Mouthin'",
         "url": "https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 223800,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/04pD7a7jfQjpQDsP3VgYDy"
+    },
+    {
+      "added_at": "2023-09-15 11:42:36",
+      "album": {
+        "name": "The Motown Years 1972-1976",
+        "url": "https://open.spotify.com/album/5b1RrcADU8Ziwyz6ViTGpW"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+        }
+      ],
+      "duration_ms": 380493,
+      "name": "Luther's Blues",
+      "url": "https://open.spotify.com/track/0GvTuG8uhF45s8yT3aYPH4"
     },
     {
       "added_at": "2023-09-15 11:42:36",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
-        "name": "Golden Selection (Remastered)",
-        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
-      },
-      "artists": [
-        {
-          "name": "Sunnyland Slim",
-          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Everytime I Get to Drinkin' - Remastered",
-      "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
-    },
-    {
-      "added_at": "2023-09-15 11:42:36",
-      "album": {
         "name": "Siftin' Thru Ashes",
         "url": "https://open.spotify.com/album/1EEuv8ktFyYOAvg4KdMWF3"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
-        "name": "That's My Story",
-        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+        "name": "Golden Selection (Remastered)",
+        "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Wednesday Evenin' Blues",
-      "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
+      "duration_ms": 165026,
+      "name": "Everytime I Get to Drinkin' - Remastered",
+      "url": "https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da"
     },
     {
       "added_at": "2023-09-15 11:42:36",
@@ -995,6 +979,22 @@
       "duration_ms": 331493,
       "name": "The Dream - Remastered",
       "url": "https://open.spotify.com/track/0yBzzceMXi6VMMXGJDqY9A"
+    },
+    {
+      "added_at": "2023-09-15 11:42:36",
+      "album": {
+        "name": "That's My Story",
+        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Wednesday Evenin' Blues",
+      "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
     },
     {
       "added_at": "2023-09-15 11:42:36",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-15 11:42:36",
       "album": {
-        "name": "Aynsley Dunbar Retaliation",
-        "url": "https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB"
-      },
-      "artists": [
-        {
-          "name": "Aynsley Dunbar Retaliation",
-          "url": "https://open.spotify.com/artist/5PwOYsK8fRoIJcMxXBwdhX"
-        }
-      ],
-      "duration_ms": 229266,
-      "name": "Double Lovin\u00b4",
-      "url": "https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo"
-    },
-    {
-      "added_at": "2023-09-15 11:42:36",
-      "album": {
         "name": "The Blues Is Now",
         "url": "https://open.spotify.com/album/7eIAMxI6NVQuDVwoFGrA3o"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 229973,
       "name": "Sweet Slumber",
       "url": "https://open.spotify.com/track/0jEaukzFANr3SRJC53KkBb"
+    },
+    {
+      "added_at": "2023-09-15 11:42:36",
+      "album": {
+        "name": "Aynsley Dunbar Retaliation",
+        "url": "https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Dunbar Retaliation",
+          "url": "https://open.spotify.com/artist/5PwOYsK8fRoIJcMxXBwdhX"
+        }
+      ],
+      "duration_ms": 229266,
+      "name": "Double Lovin\u00b4",
+      "url": "https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo"
     },
     {
       "added_at": "2023-09-15 11:42:36",
