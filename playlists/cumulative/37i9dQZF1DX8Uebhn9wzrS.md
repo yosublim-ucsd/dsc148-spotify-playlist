@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,589 songs - 2 day 12 hr 24 min
+1,590 songs - 2 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [Frozen Lake](https://open.spotify.com/track/6EO6ElRq0FZo8x6QAoMr2I) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [Beats with Brothers, Vol\. 7](https://open.spotify.com/album/2IBaDCogQmvw5B8cVQqbIt) | 2:28 | 2023-02-13 | 2023-03-25 |
 | [Frozen Trees](https://open.spotify.com/track/5FkZ9xAb6k2XfHrR1zjnee) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [Frozen Trees](https://open.spotify.com/album/5Vj6vsFcWunXh1CbRZbtlQ) | 2:09 | 2022-04-15 | 2022-10-01 |
 | [Fruitee](https://open.spotify.com/track/4cZvUiWkcNEfNgp7bzSzWt) | [Baggers and Losers](https://open.spotify.com/artist/12mqRds6vUdR57FvXbxdzR) | [Strawberry Milk](https://open.spotify.com/album/4XKzb0B67gDo3qqMwYM8eK) | 2:46 | 2022-04-15 | 2022-09-02 |
+| [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 | 2023-09-29 |  |
 | [Fudge](https://open.spotify.com/track/5GmSjNEypkbo1NCsculloA) | [StopLock](https://open.spotify.com/artist/1gkcZxjftNAWnTbfbmnUqQ) | [Fudge](https://open.spotify.com/album/5cRYDjSTpYmsVv4wezkkEH) | 2:09 | 2022-04-15 | 2022-05-13 |
 | [Fuji Vibes](https://open.spotify.com/track/7cD8vjgwrgwewmHUqAZ2LT) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Fuji Vibes](https://open.spotify.com/album/6GgE6elHCZotSn5dFW1JPv) | 2:25 | 2023-02-06 |  |
 | [fullcircle](https://open.spotify.com/track/64sNnWjrj6BKQWTcIvamjX) | [Fool Parsley](https://open.spotify.com/artist/53YSV4G2czMnVwx5s6bmIZ) | [fullcircle](https://open.spotify.com/album/4o8ZfgXhz6fgXGsmTnsWlY) | 1:59 | 2022-06-17 | 2022-08-12 |
@@ -1581,7 +1582,7 @@
 | [Workit](https://open.spotify.com/track/7GmA2dTy4r4MPxenVVDzMy) | [Netta Inn](https://open.spotify.com/artist/7lF2gpQHWssOuxR1kipNsn) | [Workit](https://open.spotify.com/album/1WSr66Wahw1IvFjmystaxW) | 2:45 | 2022-04-15 | 2022-07-01 |
 | [World Is My Pillow](https://open.spotify.com/track/0V2A3Wj3b7wLbEf0kLZAhn) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [World Is My Pillow](https://open.spotify.com/album/4DtC7Dy60nNTJP6vOoCG5q) | 1:44 | 2022-04-15 | 2022-10-14 |
 | [World Wonders](https://open.spotify.com/track/7ECNeHwthaexm4DlKXoB6L) | [Anex Xi Ko](https://open.spotify.com/artist/49aViG8nPbDT9il51JrGD4) | [World Wonders](https://open.spotify.com/album/3WBitz6lZdhmXpW7Nu7FzO) | 1:58 | 2022-10-28 |  |
-| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2022-07-15 |  |
+| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2022-07-15 | 2023-10-02 |
 | [wwwonderful](https://open.spotify.com/track/75EDTSiCdoU7D1fudbsVRj) | [chilliament](https://open.spotify.com/artist/6XpSrMMpim7PcR2s9dMnu7) | [llofi](https://open.spotify.com/album/1jPxjaOPiE04TzQbJiU1ow) | 2:18 | 2022-04-15 | 2023-02-14 |
 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 | 2022-04-15 | 2022-07-15 |
 | [yellow](https://open.spotify.com/track/0lVHOXO4RZVfAog2QnCQ3T) | [ThinkChill](https://open.spotify.com/artist/0UFcspQ3mJJHtvaU43z460), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [yellow](https://open.spotify.com/album/7DVT4nL7IW52rubRdiEfut) | 2:06 | 2022-08-05 | 2022-12-03 |

@@ -40182,7 +40182,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 107081,
       "name": "Glory",
       "url": "https://open.spotify.com/track/3F7VdgQCmDTXscfrvnBdkJ"
@@ -48178,6 +48178,24 @@
       "duration_ms": 125058,
       "name": "Immerse",
       "url": "https://open.spotify.com/track/1wHXneKRmErrHWlom0AsZn"
+    },
+    {
+      "album": {
+        "name": "immersive kaleidoscope",
+        "url": "https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160611,
+      "name": "immersive kaleidoscope",
+      "url": "https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi"
     },
     {
       "album": {
@@ -80233,6 +80251,24 @@
     },
     {
       "album": {
+        "name": "projection",
+        "url": "https://open.spotify.com/album/64wr6u8ng4pFUfCvtLIbJ8"
+      },
+      "artists": [
+        {
+          "name": "love_eight",
+          "url": "https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158222,
+      "name": "projection",
+      "url": "https://open.spotify.com/track/5ot2Nv3COru7DqNd8PaFy5"
+    },
+    {
+      "album": {
         "name": "Promenade",
         "url": "https://open.spotify.com/album/5CVsld8rYgVVUPI03FAlSd"
       },
@@ -85670,7 +85706,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 143657,
       "name": "Sail Slow",
       "url": "https://open.spotify.com/track/5RgT76SQWQY6ACdPaWx1ZW"

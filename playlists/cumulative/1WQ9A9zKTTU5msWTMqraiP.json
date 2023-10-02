@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/2i9pSs1QY4rFJ2ETZoORH0"
+      },
+      "artists": [
+        {
+          "name": "Impuritan",
+          "url": "https://open.spotify.com/artist/6WPUYW0KEbNPqs7Ipxl1jJ"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211546,
+      "name": "Bound in Misery",
+      "url": "https://open.spotify.com/track/6dDqwJT8ILra6LVsNb8qc6"
+    },
+    {
+      "album": {
         "name": "Downer",
         "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
       },
@@ -2269,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "In the Sunken City of R'lyeh",
+        "url": "https://open.spotify.com/album/284kiY1mTW4A7UwqR3gNa5"
+      },
+      "artists": [
+        {
+          "name": "Sphinx",
+          "url": "https://open.spotify.com/artist/3JvCAKTxqFsRY3QtHkDjMp"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266486,
+      "name": "In the Sunken City of R'lyeh",
+      "url": "https://open.spotify.com/track/5VEOHixKs1O0DLAct8j0TW"
+    },
+    {
+      "album": {
         "name": "Infected",
         "url": "https://open.spotify.com/album/24vTJHll2lU0PQMElcOyWC"
       },
@@ -2360,6 +2396,24 @@
       "duration_ms": 238000,
       "name": "Into the Void",
       "url": "https://open.spotify.com/track/5cqtOsBkCVJam8bBcxahB9"
+    },
+    {
+      "album": {
+        "name": "Just A Carcass",
+        "url": "https://open.spotify.com/album/0ggCokd4EKbHqm6hzg1Mqw"
+      },
+      "artists": [
+        {
+          "name": "Anime Torment",
+          "url": "https://open.spotify.com/artist/0PDV1XvYFaf4UwwxYYNyWW"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183657,
+      "name": "Just A Carcass",
+      "url": "https://open.spotify.com/track/198T7V44kLejbvN9mOTnHr"
     },
     {
       "album": {
@@ -3974,6 +4028,24 @@
       "duration_ms": 311582,
       "name": "The Crypt",
       "url": "https://open.spotify.com/track/3dniQqaB9w2UnE444tqC15"
+    },
+    {
+      "album": {
+        "name": "The Curse",
+        "url": "https://open.spotify.com/album/3qZp5YQttKPPljhc0uLWnY"
+      },
+      "artists": [
+        {
+          "name": "It Comes at Night",
+          "url": "https://open.spotify.com/artist/0BmwjZW5Ksdz1uRs70IRLl"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218555,
+      "name": "The Curse",
+      "url": "https://open.spotify.com/track/4nZtrosAnW8gZWZiwClKBr"
     },
     {
       "album": {

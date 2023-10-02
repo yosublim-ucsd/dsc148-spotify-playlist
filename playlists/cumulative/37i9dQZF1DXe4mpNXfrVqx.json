@@ -1637,6 +1637,28 @@
     },
     {
       "album": {
+        "name": "Joias Caras",
+        "url": "https://open.spotify.com/album/6iPNo87W8FkjKyPPwsnhdG"
+      },
+      "artists": [
+        {
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
+        },
+        {
+          "name": "Biazotto",
+          "url": "https://open.spotify.com/artist/6pIhlzAGpJu6YkWsG3fe3b"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118032,
+      "name": "Joias Caras",
+      "url": "https://open.spotify.com/track/6qL6PbTSJYMF9waKQOWdNb"
+    },
+    {
+      "album": {
         "name": "Kali",
         "url": "https://open.spotify.com/album/513Vo5nnWl40hZNpIsD3NL"
       },
@@ -3010,7 +3032,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 121836,
       "name": "Sexy Gangsta",
       "url": "https://open.spotify.com/track/21yVqxCsflyyryXIP28l1t"

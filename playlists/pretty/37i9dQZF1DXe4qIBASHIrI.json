@@ -1,12 +1,12 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 136401,
+  "num_followers": 136973,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjhhNzFjN2U3YTdlYzc5ZGEzOGMyMjhjYmQ4NmNkZWZmOTQ2MGZk",
+  "snapshot_id": "MCwxMzYxYmViMDg5NmY3MThmNTAzYTQ2ZTgxNjA4Mjc2MWEzZDgyZjMx",
   "tracks": [
     {
       "added_at": "2023-09-01 16:42:45",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Viaje Por Lo Eterno",
-        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
+        "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea",
+        "url": "https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG"
       },
       "artists": [
         {
-          "name": "Reyno",
-          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Nunca Me Dejes",
-      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
+      "duration_ms": 248133,
+      "name": "V\u00eda L\u00e1ctea",
+      "url": "https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea",
-        "url": "https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG"
+        "name": "Viaje Por Lo Eterno",
+        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
         }
       ],
-      "duration_ms": 248133,
-      "name": "V\u00eda L\u00e1ctea",
-      "url": "https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj"
+      "duration_ms": 205000,
+      "name": "Nunca Me Dejes",
+      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Dualidad",
-        "url": "https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS"
-      },
-      "artists": [
-        {
-          "name": "Reyno",
-          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "Fluye",
-      "url": "https://open.spotify.com/track/20SMxLSrSzsjE0xr7FEsQu"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Bah\u00eda Santiago",
         "url": "https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 192027,
       "name": "Fuma",
       "url": "https://open.spotify.com/track/1AYFgqbN7PuAFQ9gBf6DFx"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS"
+      },
+      "artists": [
+        {
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "Fluye",
+      "url": "https://open.spotify.com/track/20SMxLSrSzsjE0xr7FEsQu"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Mdyssl",
-        "url": "https://open.spotify.com/album/3FechyjHr69GRejwbQY6AK"
-      },
-      "artists": [
-        {
-          "name": "Maria Daniela Y Su Sonido Lasser",
-          "url": "https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/7btzzrPbkP9hoxa3cUPhSd"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Tiempos Mejores",
         "url": "https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 203320,
       "name": "Amiga - Bonus Track",
       "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Mdyssl",
+        "url": "https://open.spotify.com/album/3FechyjHr69GRejwbQY6AK"
+      },
+      "artists": [
+        {
+          "name": "Maria Daniela Y Su Sonido Lasser",
+          "url": "https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/7btzzrPbkP9hoxa3cUPhSd"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
-        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
       "artists": [
         {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 182786,
-      "name": "Tijuana Sound Machine",
-      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
+      "duration_ms": 218920,
+      "name": "Qui\u00e9reme Mucho",
+      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+        "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
+        "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
       },
       "artists": [
         {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
         }
       ],
-      "duration_ms": 218920,
-      "name": "Qui\u00e9reme Mucho",
-      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
+      "duration_ms": 182786,
+      "name": "Tijuana Sound Machine",
+      "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Si No Vas a Ser T\u00fa",
-        "url": "https://open.spotify.com/album/4gaVr59Phf6qtOHIGe12Bk"
-      },
-      "artists": [
-        {
-          "name": "Young Tender",
-          "url": "https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx"
-        }
-      ],
-      "duration_ms": 229225,
-      "name": "Si No Vas a Ser T\u00fa",
-      "url": "https://open.spotify.com/track/2vLFK4t0KQwNVQvnjGuMb8"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Murasaki",
         "url": "https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 213133,
       "name": "Murasaki",
       "url": "https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Si No Vas a Ser T\u00fa",
+        "url": "https://open.spotify.com/album/4gaVr59Phf6qtOHIGe12Bk"
+      },
+      "artists": [
+        {
+          "name": "Young Tender",
+          "url": "https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx"
+        }
+      ],
+      "duration_ms": 229225,
+      "name": "Si No Vas a Ser T\u00fa",
+      "url": "https://open.spotify.com/track/2vLFK4t0KQwNVQvnjGuMb8"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Tiempo y la Ciudad",
-        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
-      },
-      "artists": [
-        {
-          "name": "Canseco",
-          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Todav\u00eda Te Alcanzo a Ver",
-      "url": "https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Mermaid Sashimi",
         "url": "https://open.spotify.com/album/0f8IDWiMd1xAnmlIxTfmKy"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Elevator",
-        "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
+        "name": "El Tiempo y la Ciudad",
+        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
       },
       "artists": [
         {
-          "name": "Tit\u00e1n",
-          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
+          "name": "Canseco",
+          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
         }
       ],
-      "duration_ms": 277800,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
+      "duration_ms": 193800,
+      "name": "Todav\u00eda Te Alcanzo a Ver",
+      "url": "https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Rey Pila",
-        "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
       },
       "artists": [
         {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+          "name": "Tit\u00e1n",
+          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
         }
       ],
-      "duration_ms": 205346,
-      "name": "No Longer Fun",
-      "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
+      "duration_ms": 277800,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1171,6 +1155,22 @@
       "duration_ms": 229466,
       "name": "I Count the Ways",
       "url": "https://open.spotify.com/track/37AXEkCvxD0rAUSkmjbem8"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Rey Pila",
+        "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
+      },
+      "artists": [
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "No Longer Fun",
+      "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "LeBaron",
+        "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
+      },
+      "artists": [
+        {
+          "name": "LeBaron",
+          "url": "https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "Inm\u00f3vil (Wrong I.D.)",
+      "url": "https://open.spotify.com/track/34sDl5mMIrTKf1uQJuqKuU"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Ya Lo Dijo Rufis Taylor",
         "url": "https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 145306,
       "name": "Es por Ti",
       "url": "https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "LeBaron",
-        "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
-      },
-      "artists": [
-        {
-          "name": "LeBaron",
-          "url": "https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1"
-        }
-      ],
-      "duration_ms": 214280,
-      "name": "Exilio",
-      "url": "https://open.spotify.com/track/1H93RYiJu5nE7YAfGgO3yJ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Meta y Dinero",
-        "url": "https://open.spotify.com/album/5FRhhyIaXmEPloYSFUaYfs"
-      },
-      "artists": [
-        {
-          "name": "Los Blenders",
-          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "Meta y Dinero",
-      "url": "https://open.spotify.com/track/7ujlY5tMc64ZA5Igz2FaYi"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "No Es un Adi\u00f3s",
         "url": "https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 191013,
       "name": "Uno de Esos D\u00edas",
       "url": "https://open.spotify.com/track/14Tb6kzWxf8pLPgSJGWggi"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Meta y Dinero",
+        "url": "https://open.spotify.com/album/5FRhhyIaXmEPloYSFUaYfs"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "Meta y Dinero",
+      "url": "https://open.spotify.com/track/7ujlY5tMc64ZA5Igz2FaYi"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "LeBaron",
+        "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
+      },
+      "artists": [
+        {
+          "name": "LeBaron",
+          "url": "https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1"
+        }
+      ],
+      "duration_ms": 214280,
+      "name": "Exilio",
+      "url": "https://open.spotify.com/track/1H93RYiJu5nE7YAfGgO3yJ"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Mediocre",
         "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 253600,
       "name": "No vuelvo m\u00e1s",
       "url": "https://open.spotify.com/track/2rpLnBl2ktVU7ZtjgCXGVZ"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "LeBaron",
-        "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
-      },
-      "artists": [
-        {
-          "name": "LeBaron",
-          "url": "https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "Inm\u00f3vil (Wrong I.D.)",
-      "url": "https://open.spotify.com/track/34sDl5mMIrTKf1uQJuqKuU"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Vidas Paralelas",
-        "url": "https://open.spotify.com/album/6Vghn6zs5r9r8XFnxRMPZN"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Vidas Paralelas",
-      "url": "https://open.spotify.com/track/3PLbGRy1TcQJd8AGnw9TdD"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Bosque de San Marcos",
         "url": "https://open.spotify.com/album/4XQnB0Go4T6UunJgPTIaSf"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 277626,
       "name": "Minutos de Aire (feat. Jorge Gonzalez)",
       "url": "https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Vidas Paralelas",
+        "url": "https://open.spotify.com/album/6Vghn6zs5r9r8XFnxRMPZN"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Vidas Paralelas",
+      "url": "https://open.spotify.com/track/3PLbGRy1TcQJd8AGnw9TdD"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "El Bar de Peter Pan",
+        "url": "https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII"
+      },
+      "artists": [
+        {
+          "name": "Pau y Amigos",
+          "url": "https://open.spotify.com/artist/46jXSb4Q3RLlT5M1nWCKMD"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "Fiesta Permanente",
+      "url": "https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Plant a Seed",
         "url": "https://open.spotify.com/album/7rYk9RlD0N8b4r5kslGie8"
       },
@@ -1575,34 +1591,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Techo es el Suelo",
-        "url": "https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1"
+        "name": "Corridos Urbanos",
+        "url": "https://open.spotify.com/album/0B3SqGuOGULuzYrzBu0s9g"
       },
       "artists": [
         {
-          "name": "Quiero Club",
-          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
+          "name": "Clorofila",
+          "url": "https://open.spotify.com/artist/5ns1lY8egNoPsITbbNpli6"
         }
       ],
-      "duration_ms": 280083,
-      "name": "Dias Perfectos",
-      "url": "https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "El Bar de Peter Pan",
-        "url": "https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII"
-      },
-      "artists": [
-        {
-          "name": "Pau y Amigos",
-          "url": "https://open.spotify.com/artist/46jXSb4Q3RLlT5M1nWCKMD"
-        }
-      ],
-      "duration_ms": 280853,
-      "name": "Fiesta Permanente",
-      "url": "https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa"
+      "duration_ms": 280106,
+      "name": "\"Babyrock\" Rock",
+      "url": "https://open.spotify.com/track/6ww4rsVsG3tVLyzb8fWgNA"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Corridos Urbanos",
-        "url": "https://open.spotify.com/album/0B3SqGuOGULuzYrzBu0s9g"
+        "name": "El Techo es el Suelo",
+        "url": "https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1"
       },
       "artists": [
         {
-          "name": "Clorofila",
-          "url": "https://open.spotify.com/artist/5ns1lY8egNoPsITbbNpli6"
+          "name": "Quiero Club",
+          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
         }
       ],
-      "duration_ms": 280106,
-      "name": "\"Babyrock\" Rock",
-      "url": "https://open.spotify.com/track/6ww4rsVsG3tVLyzb8fWgNA"
+      "duration_ms": 280083,
+      "name": "Dias Perfectos",
+      "url": "https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ"
     }
   ],
   "unique_name": "Indie Mexicano: Cl\u00e1sicos",

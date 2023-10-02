@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 373603,
+  "num_followers": 373679,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmUwYTYxMjBkMGY1MjRlZTI3MjA2OTRkNzMxOGU0NzI4NzBjOWYx",
+  "snapshot_id": "MCxhNWU1ZmNiN2E5MGEwMDRhMDYzNWM3ZTNhNTMwZDIzOWU5YTg5NDUx",
   "tracks": [
     {
       "added_at": "2023-08-07 11:45:42",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "The Great Adventures Of Slick Rick (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F"
-      },
-      "artists": [
-        {
-          "name": "Slick Rick",
-          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "Children's Story",
-      "url": "https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 METAL",
         "url": "https://open.spotify.com/album/5gt8yJbDX5qt1Fdtfn0NbS"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 338320,
       "name": "Boyz-N-The-Hood",
       "url": "https://open.spotify.com/track/6rwUlhBm0kdavivjZ2b3sT"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "The Great Adventures Of Slick Rick (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F"
+      },
+      "artists": [
+        {
+          "name": "Slick Rick",
+          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "Children's Story",
+      "url": "https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "The Magic Number",
-        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 195883,
-      "name": "The Magic Number",
-      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "It's A Big Daddy Thing",
         "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 284466,
       "name": "Smooth Operator",
       "url": "https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "The Magic Number",
+        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 195883,
+      "name": "The Magic Number",
+      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Youngest in Charge",
-        "url": "https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk"
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
       },
       "artists": [
         {
-          "name": "Special Ed",
-          "url": "https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx"
+          "name": "Worlds Famous Supreme Team",
+          "url": "https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti"
         }
       ],
-      "duration_ms": 221986,
-      "name": "I Got It Made",
-      "url": "https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz"
+      "duration_ms": 206081,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Hey DJ",
-        "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
+        "name": "Youngest in Charge",
+        "url": "https://open.spotify.com/album/3R6qOZ2QsPj6yWism4b7vk"
       },
       "artists": [
         {
-          "name": "Worlds Famous Supreme Team",
-          "url": "https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti"
+          "name": "Special Ed",
+          "url": "https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx"
         }
       ],
-      "duration_ms": 206081,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
+      "duration_ms": 221986,
+      "name": "I Got It Made",
+      "url": "https://open.spotify.com/track/68DGiGtJrVcGBeOf5UNpVz"
     },
     {
       "added_at": "2023-08-07 11:45:42",

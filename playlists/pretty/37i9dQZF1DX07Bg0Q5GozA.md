@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Young Franco
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,695 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,734 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Haus It Going](https://open.spotify.com/track/3rB9sNH5ZKX6h3M9yrB0sx) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Haus It Going](https://open.spotify.com/album/3j5NJ5ntHWfcSv785dd2nx) | 3:21 |
 | 75 | [Seeking Angels \- Radio Edit](https://open.spotify.com/track/5EYQoWdYzVdJNH9pjskz72) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Seeking Angels](https://open.spotify.com/album/1T0uJmNC4M9rYkU7I7f7dC) | 3:19 |
 
-Snapshot ID: `MCw2MDAxZjQyNWZmZmQ2Zjg5ZmRmZjA3NDNhYjM0NjNhMmU0MWQwZDVj`
+Snapshot ID: `MCwxMGIwZWMzNWFkNjFiNTI3ZDE2NzhmNGRhNTI5MDNjMWU1ZTkyYjAw`

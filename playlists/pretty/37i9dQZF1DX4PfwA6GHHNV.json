@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil",
-  "num_followers": 11197,
+  "num_followers": 11278,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTFiZDQ4ZDJjZDQ4N2NjMDM4MTJmYTMwY2I1NjE0ZWQ1NzAyYjY2",
+  "snapshot_id": "MCxlNTQ2ZTBmZDRkNDA1NDBlYzU4YzE2ODFhMjc2MzBlZjI5MTg5NTg4",
   "tracks": [
     {
       "added_at": "2023-09-29 16:02:33",
@@ -175,6 +175,26 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/1hGai4xD4LU7HZzl51lpy6"
+      },
+      "artists": [
+        {
+          "name": "Enzo Bala",
+          "url": "https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 153191,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/7xo06VspucSbdF1tkJjbGZ"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
         "name": "AluSina",
         "url": "https://open.spotify.com/album/3dNOgfJ2zEpqt2ablgMG4C"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 145454,
       "name": "em santa",
       "url": "https://open.spotify.com/track/5TGZX3PqtdyIXKMS3GapxW"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "Cartier",
-        "url": "https://open.spotify.com/album/1hGai4xD4LU7HZzl51lpy6"
-      },
-      "artists": [
-        {
-          "name": "Enzo Bala",
-          "url": "https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 153191,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/7xo06VspucSbdF1tkJjbGZ"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -291,6 +291,30 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
+        "name": "Suite 45",
+        "url": "https://open.spotify.com/album/2Ggkip4YzkulFaN224drEx"
+      },
+      "artists": [
+        {
+          "name": "Enzo Bala",
+          "url": "https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "Suite 45",
+      "url": "https://open.spotify.com/track/1cJWeIZR2dFwCMibjx7zWc"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
         "name": "larissa",
         "url": "https://open.spotify.com/album/22pTsHQr1PEdldt3nqp0Ig"
       },
@@ -327,30 +351,6 @@
       "duration_ms": 213573,
       "name": "Quando Voc\u00ea Me Olha",
       "url": "https://open.spotify.com/track/6Z852WH6is9vPVdllAox6K"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "Suite 45",
-        "url": "https://open.spotify.com/album/2Ggkip4YzkulFaN224drEx"
-      },
-      "artists": [
-        {
-          "name": "Enzo Bala",
-          "url": "https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Azevedo",
-          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "Suite 45",
-      "url": "https://open.spotify.com/track/1cJWeIZR2dFwCMibjx7zWc"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Promessas",
-        "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Promessas",
-      "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
         "name": "J\u00e1 Era",
         "url": "https://open.spotify.com/album/5L5tyAQX0cihzOp4d5q2JZ"
       },
@@ -495,26 +475,6 @@
       "duration_ms": 156000,
       "name": "J\u00e1 Era",
       "url": "https://open.spotify.com/track/3A1tt0SbAa8FJAu3SUDcpw"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "Hipnose",
-        "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 209471,
-      "name": "Hipnose",
-      "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -543,6 +503,46 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
+        "name": "Promessas",
+        "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Promessas",
+      "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Hipnose",
+        "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 209471,
+      "name": "Hipnose",
+      "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
         "name": "VxRxS",
         "url": "https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6"
       },
@@ -555,34 +555,6 @@
       "duration_ms": 90618,
       "name": "Andarilho",
       "url": "https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "Compasso",
-        "url": "https://open.spotify.com/album/4e5ouUNZcjSCA6yIw9q1eX"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Konai",
-          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Shouga",
-          "url": "https://open.spotify.com/artist/27VTmGkdhD5rAMJ7TQ1oql"
-        }
-      ],
-      "duration_ms": 156781,
-      "name": "Compasso",
-      "url": "https://open.spotify.com/track/6NnlPOIrYoKhYfiJzDTNNd"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -639,26 +611,6 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Em Mim",
-        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
-      },
-      "artists": [
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        },
-        {
-          "name": "Guetta FInelly",
-          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
-        }
-      ],
-      "duration_ms": 126143,
-      "name": "Em Mim",
-      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
         "name": "Abelha",
         "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
       },
@@ -679,6 +631,74 @@
       "duration_ms": 138666,
       "name": "Abelha",
       "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Em Mim",
+        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
+      },
+      "artists": [
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+        }
+      ],
+      "duration_ms": 126143,
+      "name": "Em Mim",
+      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Meio",
+        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
+      },
+      "artists": [
+        {
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Meio",
+      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Compasso",
+        "url": "https://open.spotify.com/album/4e5ouUNZcjSCA6yIw9q1eX"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Konai",
+          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Shouga",
+          "url": "https://open.spotify.com/artist/27VTmGkdhD5rAMJ7TQ1oql"
+        }
+      ],
+      "duration_ms": 156781,
+      "name": "Compasso",
+      "url": "https://open.spotify.com/track/6NnlPOIrYoKhYfiJzDTNNd"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -799,22 +819,6 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Deixa Eu Mostrar",
-        "url": "https://open.spotify.com/album/54aMRwjpAThmHSElGPvYQB"
-      },
-      "artists": [
-        {
-          "name": "Danny",
-          "url": "https://open.spotify.com/artist/7hD5x2RknluqTntIyuxzSa"
-        }
-      ],
-      "duration_ms": 138145,
-      "name": "Deixa Eu Mostrar",
-      "url": "https://open.spotify.com/track/28dzpx9Sn1jmAvCNLoKqd8"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
         "name": "Ressaca",
         "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
       },
@@ -831,22 +835,58 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Meio",
-        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
+        "name": "Deixa Eu Mostrar",
+        "url": "https://open.spotify.com/album/54aMRwjpAThmHSElGPvYQB"
       },
       "artists": [
         {
-          "name": "Kult",
-          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/7hD5x2RknluqTntIyuxzSa"
         }
       ],
-      "duration_ms": 170760,
-      "name": "Meio",
-      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
+      "duration_ms": 138145,
+      "name": "Deixa Eu Mostrar",
+      "url": "https://open.spotify.com/track/28dzpx9Sn1jmAvCNLoKqd8"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Incertezas",
+        "url": "https://open.spotify.com/album/3xjeeEaGOriHi8XUMRt3bn"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "John Bxd",
+          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Incertezas",
+      "url": "https://open.spotify.com/track/5Id3vKSAubS0XxJMg1g3xx"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Anos Luz",
+        "url": "https://open.spotify.com/album/3ODbaa0vBZtfyZXaNFGgxy"
+      },
+      "artists": [
+        {
+          "name": "Karen Francis",
+          "url": "https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Pele Prata",
+      "url": "https://open.spotify.com/track/0lUC1F84DG4m4UIdsAsn5T"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -883,46 +923,6 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Anos Luz",
-        "url": "https://open.spotify.com/album/3ODbaa0vBZtfyZXaNFGgxy"
-      },
-      "artists": [
-        {
-          "name": "Karen Francis",
-          "url": "https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Pele Prata",
-      "url": "https://open.spotify.com/track/0lUC1F84DG4m4UIdsAsn5T"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "Incertezas",
-        "url": "https://open.spotify.com/album/3xjeeEaGOriHi8XUMRt3bn"
-      },
-      "artists": [
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "John Bxd",
-          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Incertezas",
-      "url": "https://open.spotify.com/track/5Id3vKSAubS0XxJMg1g3xx"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
         "name": "S\u00f3 Minha",
         "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
       },
@@ -939,6 +939,30 @@
       "duration_ms": 149433,
       "name": "S\u00f3 Minha",
       "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Do Nada",
+        "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
+      },
+      "artists": [
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "Stanley Castro",
+          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
+        }
+      ],
+      "duration_ms": 205531,
+      "name": "Do Nada",
+      "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -975,6 +999,26 @@
       "duration_ms": 198070,
       "name": "Yo Quiero Te Namorar",
       "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Me Deixa",
+        "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 149351,
+      "name": "Me Deixa",
+      "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -1019,30 +1063,6 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Do Nada",
-        "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
-      },
-      "artists": [
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "Stanley Castro",
-          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
-        }
-      ],
-      "duration_ms": 205531,
-      "name": "Do Nada",
-      "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
         "name": "Anel da Pandora",
         "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 199012,
       "name": "Anel da Pandora",
       "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 144522,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
     }
   ],
   "unique_name": "pique afrobeats",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,531 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,558 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [絡繰](https://open.spotify.com/track/6Ec0UbdX4ukEn1TwXl924b) | [青井幹太](https://open.spotify.com/artist/5KFbFhQOjhcwFexjMVnjgZ) | [GLORIA](https://open.spotify.com/album/74450PpLf4GN6SgjRu27wV) | 3:42 |
 | 80 | [Crystal Halo](https://open.spotify.com/track/1tLHYPzxOewrRSH4RtKsGO) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Rainbowtime](https://open.spotify.com/album/1YouKxHqFDqFV1MqadLB8G) | 2:38 |
 
-Snapshot ID: `MCxhZDIyMzZlMTdmYzI1ODc3MTY0MDdjMGIzNGY5ZWVjMDE3ZTZkZGIx`
+Snapshot ID: `MCwxYzY2ZDdkYmQ3NjkwNWI5NGEzYjI2YTkwODUyZjQwZWEzN2ZlOWU0`

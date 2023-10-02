@@ -4,7 +4,7 @@
 
 > Bailando de caballito, aunque se enoje tu mamá\. Mi Banda El Mexicano en portada.
 
-131 songs - 6 hr 43 min
+132 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,9 +44,10 @@
 | [El Quebrador](https://open.spotify.com/track/3S0hJXGu9kWwbiiEzBdZoQ) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Éxitos Regionales Mexicanos, Vol.3](https://open.spotify.com/album/41vizdjsz9zbusZjWvW2xt) | 3:02 | 2023-06-19 |  |
 | [El Ranchero Chido](https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Super Exitos](https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0) | 2:43 | 2022-04-13 |  |
 | [El Teterete](https://open.spotify.com/track/4hwq3Fwh2YotxDBndS8cKk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:56 | 2022-04-13 | 2022-07-29 |
+| [El Teterete](https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj) | 2:56 | 2023-06-19 |  |
 | [El Teterete](https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:57 | 2022-04-13 | 2023-09-27 |
 | [El Teterete](https://open.spotify.com/track/13ij1Ky8BF3w0vClKmeqHz) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/7GmPWgPhUzQUVZXz6VCpTG) | 2:57 | 2023-06-19 | 2023-09-30 |
-| [El Teterete](https://open.spotify.com/track/5Ix3JHCbepRUkc83JCvXmi) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/2uL2olKIqN1qw8lFXwh6by) | 2:57 | 2023-06-19 |  |
+| [El Teterete](https://open.spotify.com/track/5Ix3JHCbepRUkc83JCvXmi) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/2uL2olKIqN1qw8lFXwh6by) | 2:57 | 2023-06-19 | 2023-10-02 |
 | [El Torero Cotorro](https://open.spotify.com/track/1i2AwNOPHkyd0i3BSwX87L) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Vaqueros's Musical 10 Exitos Vol.2](https://open.spotify.com/album/6ZNeLzaVIN4YtfIjmFMUDw) | 2:52 | 2022-04-13 | 2022-07-29 |
 | [El Torero Cotorro](https://open.spotify.com/track/5EPr9Q3f5NaCq3TbcV0bi8) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [16 Éxitos](https://open.spotify.com/album/1H6argCU79lwgTej5HA0WQ) | 2:52 | 2022-04-13 | 2022-11-13 |
 | [El Torero Cotorro](https://open.spotify.com/track/6Btr1VUmPoPsniS5uhaq2Z) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [10 Éxitos, Vol\. 2](https://open.spotify.com/album/6sMOTcEnLdXpTPdHIVbKEc) | 2:52 | 2022-04-13 |  |

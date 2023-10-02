@@ -205,6 +205,36 @@
     },
     {
       "album": {
+        "name": "Cristo, Mes\u00edas",
+        "url": "https://open.spotify.com/album/2CDC8wiDkeLcxu0ROhFV4S"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Daniela Quintero",
+          "url": "https://open.spotify.com/artist/34faznZpOtWgjQPugCRiir"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 604506,
+      "name": "Cristo, Mes\u00edas",
+      "url": "https://open.spotify.com/track/6j1UXgXoGueFsquwGprV0B"
+    },
+    {
+      "album": {
         "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
       },

@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,290 songs - 2 day 22 hr 2 min
+1,291 songs - 2 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,7 +944,8 @@
 | [Ring The Alarm](https://open.spotify.com/track/2D5Fi0jgFCo2kWJ84wAxWb) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Ring The Alarm](https://open.spotify.com/album/18EY8ioAkIjG0n5K6mP0tq) | 2:50 | 2019-07-03 | 2019-11-20 |
 | [Riot](https://open.spotify.com/track/647UGNmkDjdhaL6q75dXLb) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [GEARWORLD VOL\. 1](https://open.spotify.com/album/34lIhKJAiKnbj3lCBxaNBX) | 3:52 | 2019-05-26\* | 2019-10-23 |
 | [Rise Above It](https://open.spotify.com/track/6QyBWey7P8ILuhS5RO7xYe) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:04 | 2019-09-15 | 2021-04-07 |
-| [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-07-25 |  |
+| [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-07-25 | 2023-10-02 |
+| [Ritmo](https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl) | 3:03 | 2023-09-15 |  |
 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 | 2019-11-10 | 2020-06-05 |
 | [rock n rik](https://open.spotify.com/track/3bbLwsSlU5iB5ZZrDntxOv) | [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8) | [rock n rik](https://open.spotify.com/album/2MjHcNMyPirGOAzMRKGtGF) | 2:32 | 2020-05-30 | 2020-09-15 |
 | [Rockin](https://open.spotify.com/track/6fxKDZxDdzxFJiqaNl6DIb) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Rockin](https://open.spotify.com/album/48PJHFdeg5FPVeNfwwODQd) | 4:44 | 2019-08-26 | 2020-11-03 |

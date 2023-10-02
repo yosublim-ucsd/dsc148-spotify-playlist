@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-123 songs - 6 hr 53 min
+124 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [3am Midsummer Birds](https://open.spotify.com/track/4cEsckil1CQNUFuPczf6qg) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:40 | 2021-12-08 |  |
 | [A Chit\-Chat With Nature](https://open.spotify.com/track/5l7eXwfI0dz67heP7I8CfY) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Nature Sounds of Walden Pond: Forest Sounds, Lapping Waves, Soft Winds, Distant Thunder and Soothing Rains](https://open.spotify.com/album/0te5cli7s8MZ7dw0iwdmK9) | 4:10 | 2021-12-08 | 2022-07-05 |
 | [A Forest of Feathers](https://open.spotify.com/track/2DCdLTEL6p5JXqFpEGiVWD) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [The Chirping Zoo](https://open.spotify.com/album/7np01dKDdR0gvslYyj5jmL) | 1:46 | 2023-06-19 |  |
+| [A Symphony of the Sky](https://open.spotify.com/track/7CLBE4V6hnqNyvziTRFxLd) | [Ruidos de la Selva](https://open.spotify.com/artist/02QfOJ9WoHBZ7SOc016zJ0) | [A Symphony of the Sky](https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft) | 1:30 | 2023-06-20 |  |
 | [A Woodland Clearing With Wildlife](https://open.spotify.com/track/4L6Nd6cAxSg6e4qPW3dADt) | [White Noise Research](https://open.spotify.com/artist/2LFckOYhr4hG0PtLqHYWkz) | [Keep Calm With Nature Sounds: Switch Off and Relax With the Soothing Sound of Natural White Noise At It's Relaxing Best](https://open.spotify.com/album/2HntqbsmDmZ6EzFU834b8H) | 9:58 | 2021-12-08 | 2022-07-05 |
 | [Afternoon Forest Birds for Calm and Peaceful](https://open.spotify.com/track/3dajNRGucdNCwn6rpkClh8) | [Birds On Television](https://open.spotify.com/artist/5vBa5eR4bpuGBiYrXDyN8J) | [Birds Sounds 1](https://open.spotify.com/album/3YhXoFHl3TIYaNpE7bwRth) | 3:14 | 2021-12-08 | 2022-07-05 |
 | [Afternoon Forest Birds for Calm and Peaceful](https://open.spotify.com/track/60KDOdj9i2A1v3ABF7rcGL) | [Sounds of Nature Relaxation](https://open.spotify.com/artist/3OcK6BciYu6g7tSvrX5BKO) | [Relaxing Sounds of Nature and Ambient Healing for Mediation, Relaxation, Sound Therapy and Deep Sleep](https://open.spotify.com/album/4R2OiwIzrKNnd6jgBBce1t) | 5:00 | 2021-12-08 | 2022-07-05 |
@@ -30,7 +31,7 @@
 | [Birds & Stream](https://open.spotify.com/track/6SenwdFqWVglPfDRUJhBSl) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [My Forest](https://open.spotify.com/album/1oe0LQiGTDp2tjxgEjpXtc) | 2:52 | 2023-06-20 |  |
 | [Birds & The Bees](https://open.spotify.com/track/4wdgM2i2X3jMCvq5bCnNJ9) | [Zen Master](https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 1:34 | 2021-12-08 |  |
 | [Birds After The Rain](https://open.spotify.com/track/3sgOhjx9zNhxEQIransTTP) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Peaceful Wildlife](https://open.spotify.com/album/0x1729ILqSXzbNEIpHmWjq) | 3:09 | 2021-12-08 | 2022-07-05 |
-| [Birds and Creeks](https://open.spotify.com/track/5pSCU0t63yx1nyKYQKyJT8) | [Ruidos de la Selva](https://open.spotify.com/artist/02QfOJ9WoHBZ7SOc016zJ0) | [A Symphony of the Sky](https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft) | 2:19 | 2023-06-20 |  |
+| [Birds and Creeks](https://open.spotify.com/track/5pSCU0t63yx1nyKYQKyJT8) | [Ruidos de la Selva](https://open.spotify.com/artist/02QfOJ9WoHBZ7SOc016zJ0) | [A Symphony of the Sky](https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft) | 2:19 | 2023-06-20 | 2023-10-02 |
 | [Birds and Nest noise](https://open.spotify.com/track/1cF59CDiXxxasWRe6UTrS4) | [Pájaros De La Mañana](https://open.spotify.com/artist/6O1qgGuqEKfKHjESGbyvxa) | [Birds and Nest Noise](https://open.spotify.com/album/6RCImJPRCPLXJRnZV8AbhY) | 2:15 | 2023-06-19 | 2023-06-30 |
 | [Birds and Rain](https://open.spotify.com/track/0eQgJL7i10K9jDSDwHUcEH) | [The Sound Of The Rain](https://open.spotify.com/artist/6dBj5bCBZzgZdWuo9Gb0eh) | [Volume 2](https://open.spotify.com/album/5NgY5CULUgD79hID4M1XMB) | 3:25 | 2021-12-08 | 2022-02-19 |
 | [Birds Around The Brook](https://open.spotify.com/track/62DNn8FKECcxRXw5Du456T) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Ambient Nature Serenity](https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL) | 3:01 | 2021-12-08 | 2022-07-05 |

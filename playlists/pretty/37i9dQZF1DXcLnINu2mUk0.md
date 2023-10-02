@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Domingues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,715 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,749 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 45 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
 | 46 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
 | 47 | [Linda](https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Linda](https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH) | 2:32 |
-| 48 | [Just Trynna Eat](https://open.spotify.com/track/0Gen7g1boKyiAvxcKkzFC0) | [Bala G](https://open.spotify.com/artist/3tJwY2voapChSVTQ5exFCh) | [Just Trynna Eat](https://open.spotify.com/album/4zZmZ5l2bdEHikQYm7ulYN) | 3:44 |
-| 49 | [Por Aqui](https://open.spotify.com/track/6Pre7MaAvhrV8VgiwTX7KP) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Por Aqui](https://open.spotify.com/album/6GvAx2uva7eI6ir7KOp1CJ) | 2:19 |
+| 48 | [Por Aqui](https://open.spotify.com/track/6Pre7MaAvhrV8VgiwTX7KP) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Por Aqui](https://open.spotify.com/album/6GvAx2uva7eI6ir7KOp1CJ) | 2:19 |
+| 49 | [Just Trynna Eat](https://open.spotify.com/track/0Gen7g1boKyiAvxcKkzFC0) | [Bala G](https://open.spotify.com/artist/3tJwY2voapChSVTQ5exFCh) | [Just Trynna Eat](https://open.spotify.com/album/4zZmZ5l2bdEHikQYm7ulYN) | 3:44 |
 | 50 | [Backstage](https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:16 |
 | 51 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
 | 52 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 58 | [Vem Só](https://open.spotify.com/track/2rpA0HiRKG8bV132SiopRU) | [Maudito](https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR) | [Vem Só](https://open.spotify.com/album/6n6Wocb8xJMU2i1T2EKgGd) | 3:19 |
 | 59 | [Tempo Perdido](https://open.spotify.com/track/3p7AgzNf2zkKQX1tcTvkm4) | [VALE](https://open.spotify.com/artist/1zBe6fC6su0Z6xEwXYDPbk) | [Tempo Perdido](https://open.spotify.com/album/4F6Gt40NFBhX7xsiUNjuv7) | 3:58 |
 | 60 | [FAZ ME FICAR](https://open.spotify.com/track/6H42vwpapfQH1XpihD9OD4) | [Zarco](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [FAZ ME FICAR](https://open.spotify.com/album/2o2rUwESaEF5HxmL8d584q) | 3:56 |
-| 61 | [Oh My God](https://open.spotify.com/track/1qVCh9B4mQuQ5gPPZCJwNh) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Oh My God](https://open.spotify.com/album/73jc5vFY5fpRamIdJNQ97G) | 2:45 |
-| 62 | [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 |
+| 61 | [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 |
+| 62 | [Interfeer](https://open.spotify.com/track/0Sc0LtMt22xo48C8YiojYk) | [Chá Black](https://open.spotify.com/artist/3tiL6mQyAaxxHVa8lMudaI), [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Interfeer](https://open.spotify.com/album/20HDAlAV4WyhRQ8JmgwwvB) | 3:42 |
 | 63 | [Muda](https://open.spotify.com/track/5lTx1aJfs6rqYVqQbSzbve) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Muda](https://open.spotify.com/album/350MDczLAQuFoU07xEjRCB) | 2:57 |
-| 64 | [Interfeer](https://open.spotify.com/track/0Sc0LtMt22xo48C8YiojYk) | [Chá Black](https://open.spotify.com/artist/3tiL6mQyAaxxHVa8lMudaI), [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Interfeer](https://open.spotify.com/album/20HDAlAV4WyhRQ8JmgwwvB) | 3:42 |
+| 64 | [Oh My God](https://open.spotify.com/track/1qVCh9B4mQuQ5gPPZCJwNh) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Oh My God](https://open.spotify.com/album/73jc5vFY5fpRamIdJNQ97G) | 2:45 |
 | 65 | [Deixa Arder](https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blacci](https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB) | [Não Sou Daqui](https://open.spotify.com/album/6F0dv3FpCtzK5HGldys7dX) | 3:26 |
 | 66 | [What i Want, How i Like](https://open.spotify.com/track/5ESYN254hHVlueVCHxMj9A) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [What i Want, How i Like](https://open.spotify.com/album/5tBWVO75zR2LP8WQzdz494) | 3:56 |
 | 67 | [TUDO OU NADA](https://open.spotify.com/track/3FzM5fHg2Wu87fuLxBstDY) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [TRIAGEM](https://open.spotify.com/album/3i1DXVUJpTTBnxbRD8fB0K) | 3:06 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 69 | [À Tona](https://open.spotify.com/track/2pejdDJoyqDBWM706pwC9M) | [Dote](https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP) | [À Tona](https://open.spotify.com/album/6AQ5jQ3Tqm0ygMnBnmWUbe) | 2:14 |
 | 70 | [Aura Diferente](https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Aura Diferente](https://open.spotify.com/album/3CKAXJZxxJz5YInwBjgmXd) | 4:11 |
 
-Snapshot ID: `MCw3MGFlNTQwNmY5M2E2ZmQyYmFkOGU5NzdiM2JkZWY0MGEwNDZhODU1`
+Snapshot ID: `MCw4ODUxOTE0Zjg2YzNhODM0NjE0MTgwODIwZDUzNTlhZTQ3NGJiZmM2`

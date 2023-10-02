@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Tyga, YG\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,901 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,926 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [Yours](https://open.spotify.com/track/1DmZW4bNRPqi7HGzUDOVym) | [Waldi Kyzo](https://open.spotify.com/artist/4znBC67Mci043Ana2BospW) | [Yours](https://open.spotify.com/album/2v1VjA3LpvJGlrDmJoaxPL) | 3:27 |
 | 100 | [Only One I Think About](https://open.spotify.com/track/37FK8Ee0O9gXROMx93GpZC) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Only One I Think About](https://open.spotify.com/album/4IrTOZ8Q6bZATNcKNP2NfQ) | 2:25 |
 
-Snapshot ID: `MCxjNmY2M2E0NWY1OGVjYmIwY2JhNmQ1ZjQyNDcwZGNiYzlhNDI3NjRm`
+Snapshot ID: `MCxmOTFiZWU0Y2JkM2Q2Zjk1NjUwMTFkNTI4MjE1YjVkMjdlMzhmMjVl`

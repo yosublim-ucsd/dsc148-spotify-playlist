@@ -1,28 +1,44 @@
 {
-  "description": "Remi Wolf. ",
-  "num_followers": 1111461,
+  "description": "Remi Wolf x Norah Jones at \"Lorem & Friends\", right after performing \"Don't Know Why\" together. ",
+  "num_followers": 1113252,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWFlMGUxMDY0MWFiNzhkMTU3MjEyYzMyNjZlNjdkZjVhNmRjOGIw",
+  "snapshot_id": "MCxmZjUyYjRmYmVhYjFmYjU3ZGJmODExMzIyOTI0ZTg4MzgwNDgxMTUw",
   "tracks": [
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-09-25 16:30:51",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk"
+        "name": "Shawty",
+        "url": "https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 208426,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO"
+      "duration_ms": 197727,
+      "name": "Shawty",
+      "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
+    },
+    {
+      "added_at": "2023-09-29 18:55:43",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 186251,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
     },
     {
       "added_at": "2023-09-18 14:23:10",
@@ -41,6 +57,54 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
+      "added_at": "2023-09-29 23:30:28",
+      "album": {
+        "name": "HIT ME WHERE IT HURTS",
+        "url": "https://open.spotify.com/album/41SI7xpsMBIipn4HPsWDo1"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 262546,
+      "name": "HIT ME WHERE IT HURTS",
+      "url": "https://open.spotify.com/track/6fAwBpGmBPKKbzEVxr9yQp"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "I Don't Want You Anymore",
+        "url": "https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/3O7ij6i8NmdxxmOrpHDVJV"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO"
+    },
+    {
       "added_at": "2023-09-20 15:21:55",
       "album": {
         "name": "Lethal",
@@ -57,36 +121,20 @@
       "url": "https://open.spotify.com/track/5m1fdy2KdBEqpPCAZQZ2fX"
     },
     {
-      "added_at": "2023-09-20 17:16:10",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Got Me Started",
-        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 198448,
-      "name": "Got Me Started",
-      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
-    },
-    {
-      "added_at": "2023-09-25 16:30:51",
-      "album": {
-        "name": "Shawty",
-        "url": "https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Shawty",
-      "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
+      "duration_ms": 302346,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
     },
     {
       "added_at": "2023-09-12 17:33:50",
@@ -121,6 +169,54 @@
       "url": "https://open.spotify.com/track/3irkFAVOrI6hy6PB0C725w"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Water Pistol",
+        "url": "https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 219582,
+      "name": "Water Pistol",
+      "url": "https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "www she hot",
+        "url": "https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "www she hot",
+      "url": "https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "NFU",
+        "url": "https://open.spotify.com/album/6e5xluOlHaZPnI1ORf483L"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "NFU",
+      "url": "https://open.spotify.com/track/1RG9wGYVd6YyrYDDUqz2LU"
+    },
+    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "Learning",
@@ -135,6 +231,38 @@
       "duration_ms": 136250,
       "name": "Eulogy for Nobody",
       "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Conceited",
+        "url": "https://open.spotify.com/album/4QdyZdZcC8MYKBmOsCnIbp"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 239451,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "going...going...GONE!",
+        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 157546,
+      "name": "going...going...GONE!",
+      "url": "https://open.spotify.com/track/7zsK2vksjaqofrsWZjYlpw"
     },
     {
       "added_at": "2023-09-25 16:30:51",
@@ -153,20 +281,28 @@
       "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
     },
     {
-      "added_at": "2023-07-27 15:31:11",
+      "added_at": "2023-09-26 15:20:18",
       "album": {
-        "name": "Slugs",
-        "url": "https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR"
+        "name": "Sitting (Josh Mac Version)",
+        "url": "https://open.spotify.com/album/612R5bJywe0RJZiESlcOnS"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "Brian Jordan Alvarez",
+          "url": "https://open.spotify.com/artist/0C9MZIb6cOOnUgDtyzYg1B"
+        },
+        {
+          "name": "Josh Mac",
+          "url": "https://open.spotify.com/artist/4ZCUxlob32idKOM4mIP76L"
+        },
+        {
+          "name": "TJ Mack",
+          "url": "https://open.spotify.com/artist/4yTepqBG8SwTqK7DFnklwn"
         }
       ],
-      "duration_ms": 186466,
-      "name": "Slugs",
-      "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
+      "duration_ms": 91885,
+      "name": "Sitting - Josh Mac Version",
+      "url": "https://open.spotify.com/track/2Xq4vmLpbCYHeP9tM86cpB"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -185,8 +321,72 @@
         }
       ],
       "duration_ms": 195147,
-      "name": "Hell N Back (feat. Summer Walker)",
+      "name": "Hell N Back (feat. Summer Walker) [BONUS TRACK]",
       "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Time Shrinks",
+        "url": "https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 216531,
+      "name": "Time Shrinks",
+      "url": "https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV"
+    },
+    {
+      "added_at": "2023-09-20 17:16:10",
+      "album": {
+        "name": "Got Me Started",
+        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "SLOW DOWN",
+        "url": "https://open.spotify.com/album/6nr0gqbSGeWijV20Q5f2jZ"
+      },
+      "artists": [
+        {
+          "name": "Walter The Producer",
+          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
+        }
+      ],
+      "duration_ms": 150854,
+      "name": "SLOW DOWN",
+      "url": "https://open.spotify.com/track/6Lh3fG0DogMGBW5MTlnO7q"
+    },
+    {
+      "added_at": "2023-07-27 15:31:11",
+      "album": {
+        "name": "Slugs",
+        "url": "https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Slugs",
+      "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -380,7 +580,7 @@
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "Nothing Works",
-        "url": "https://open.spotify.com/album/6LkILMcjrr8n9WBKVpCLz5"
+        "url": "https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR"
       },
       "artists": [
         {
@@ -390,7 +590,7 @@
       ],
       "duration_ms": 252797,
       "name": "Nothing Works",
-      "url": "https://open.spotify.com/track/14PqPtYLsUuFaqp6c4urHN"
+      "url": "https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -455,22 +655,6 @@
       "duration_ms": 181792,
       "name": "It's In My Head",
       "url": "https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL"
-    },
-    {
-      "added_at": "2023-08-31 12:00:00",
-      "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 238270,
-      "name": "White Teeth",
-      "url": "https://open.spotify.com/track/3Gqagi4hGvcHyoWznBi4q3"
     },
     {
       "added_at": "2023-08-22 04:00:00",
@@ -721,42 +905,6 @@
       "url": "https://open.spotify.com/track/5u5lUvwZiPBHqVSJuXpxjd"
     },
     {
-      "added_at": "2023-08-21 18:59:26",
-      "album": {
-        "name": "New Heart Designs",
-        "url": "https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 141940,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/0IZonFIeRHblWsP0pFieyS"
-    },
-    {
-      "added_at": "2023-09-01 18:08:04",
-      "album": {
-        "name": "inferno",
-        "url": "https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 139920,
-      "name": "inferno - Edit",
-      "url": "https://open.spotify.com/track/2ACM0DK5xXBJlHZ8JQc9M5"
-    },
-    {
       "added_at": "2023-08-25 04:48:26",
       "album": {
         "name": "Bewitched",
@@ -881,22 +1029,6 @@
       "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
     },
     {
-      "added_at": "2023-06-30 04:05:22",
-      "album": {
-        "name": "All We Ever Do Is Talk",
-        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
-    },
-    {
       "added_at": "2023-08-08 22:13:37",
       "album": {
         "name": "Wasted Summers",
@@ -995,22 +1127,6 @@
     {
       "added_at": "2023-08-25 04:48:26",
       "album": {
-        "name": "Let go",
-        "url": "https://open.spotify.com/album/3uUwqFB6ZyBmS4h9gTv7Rg"
-      },
-      "artists": [
-        {
-          "name": "Mora Michelle",
-          "url": "https://open.spotify.com/artist/1wJSAHWxV34NbL4qAwDuvx"
-        }
-      ],
-      "duration_ms": 263225,
-      "name": "Let go",
-      "url": "https://open.spotify.com/track/7cmNF8uySo6WrjtbjS0ngo"
-    },
-    {
-      "added_at": "2023-08-25 04:48:26",
-      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
@@ -1084,7 +1200,7 @@
       "added_at": "2023-07-07 21:57:45",
       "album": {
         "name": "Roommates",
-        "url": "https://open.spotify.com/album/3r7xGndKL5CJDeTxUm25ZS"
+        "url": "https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP"
       },
       "artists": [
         {
@@ -1092,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 214922,
+      "duration_ms": 214504,
       "name": "Roommates",
-      "url": "https://open.spotify.com/track/1PJe0Vt9p0QaV4ZNHUwml0"
+      "url": "https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2"
     },
     {
       "added_at": "2023-08-25 04:48:26",
@@ -1165,22 +1281,6 @@
       "url": "https://open.spotify.com/track/7MX0wxRiKE9c7dmiLV3NrX"
     },
     {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Robes",
-        "url": "https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy"
-      },
-      "artists": [
-        {
-          "name": "Ricky Gourmet",
-          "url": "https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg"
-        }
-      ],
-      "duration_ms": 187432,
-      "name": "Robes",
-      "url": "https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA"
-    },
-    {
       "added_at": "2023-06-28 19:30:20",
       "album": {
         "name": "we were girls together",
@@ -1227,22 +1327,6 @@
       "duration_ms": 188065,
       "name": "Lovegod",
       "url": "https://open.spotify.com/track/2hKnW3SMsVWhXoSYLXn01G"
-    },
-    {
-      "added_at": "2023-08-08 18:48:35",
-      "album": {
-        "name": "crumbs in my bed",
-        "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
-      },
-      "artists": [
-        {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
-        }
-      ],
-      "duration_ms": 147400,
-      "name": "9 lives",
-      "url": "https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1311,22 +1395,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "This Isn't Me",
-        "url": "https://open.spotify.com/album/7IOGKde0zgOWxGdImhJ0TN"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "This Isn't Me",
-      "url": "https://open.spotify.com/track/2foKNLF3iIbX8cs0NyGMB2"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "waiting alonE",
         "url": "https://open.spotify.com/album/342UvGijO1QgI9wQFXDq9m"
       },
@@ -1359,22 +1427,6 @@
       "duration_ms": 155801,
       "name": "There\u2019s no Other",
       "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
-    },
-    {
-      "added_at": "2023-07-11 18:07:46",
-      "album": {
-        "name": "Sweet Bonita",
-        "url": "https://open.spotify.com/album/3NWL1BcgIHGMj6oWozBLt0"
-      },
-      "artists": [
-        {
-          "name": "Walter The Producer",
-          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
-        }
-      ],
-      "duration_ms": 189882,
-      "name": "Sweet Bonita",
-      "url": "https://open.spotify.com/track/6HeCWexSUG87Uok9hsrE83"
     },
     {
       "added_at": "2023-07-14 01:00:00",
@@ -1423,22 +1475,6 @@
       "duration_ms": 181586,
       "name": "Touching Yourself",
       "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
-    },
-    {
-      "added_at": "2023-06-21 16:01:35",
-      "album": {
-        "name": "But Not Kiss",
-        "url": "https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 222555,
-      "name": "But Not Kiss",
-      "url": "https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l"
     },
     {
       "added_at": "2023-07-26 16:49:48",
@@ -1543,6 +1579,22 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "added_at": "2023-06-21 16:01:35",
+      "album": {
+        "name": "But Not Kiss",
+        "url": "https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 222555,
+      "name": "But Not Kiss",
+      "url": "https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1719,8 +1771,8 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Can I Talk My Shit?",
-        "url": "https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU"
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
       },
       "artists": [
         {
@@ -1730,7 +1782,7 @@
       ],
       "duration_ms": 205173,
       "name": "Can I Talk My Shit?",
-      "url": "https://open.spotify.com/track/52qozr06OygMerkZTWPQzL"
+      "url": "https://open.spotify.com/track/1tXn4yWAAyzFikNsJ3bMow"
     },
     {
       "added_at": "2023-05-26 04:00:00",

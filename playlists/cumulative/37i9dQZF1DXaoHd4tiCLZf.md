@@ -4,7 +4,7 @@
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-232 songs - 13 hr 47 min
+233 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Red Carpet Sand](https://open.spotify.com/track/5qyLtzuxJ7Gev0zYFn0TaN) | [NAYAD](https://open.spotify.com/artist/1ljZUgzfEnBpnaFLzwUnWt) | [Red Carpet Sand](https://open.spotify.com/album/79zwQnFTDLXTUIjJGVwwob) | 3:31 | 2022-05-20 |  |
 | [Redis\-moi](https://open.spotify.com/track/4ugPRKuE5bgLswhjHBJDpg) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [Bye Bye Manchester](https://open.spotify.com/album/3O0l3PvkwfM0QitJRFu06b) | 3:39 | 2022-12-21 |  |
 | [Reine de l'attitude](https://open.spotify.com/track/3spC3JjpCKo7SmmDM8q3hM) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [DOPAMOON](https://open.spotify.com/album/7HyaVaxpfofKNxXKRWWimT) | 4:06 | 2022-12-21 |  |
-| [Rendez Vous](https://open.spotify.com/track/1BrfrYcD9wPze2HEV4QQWd) | [La Plage](https://open.spotify.com/artist/718qvmLQ9ih3HVRiFHVIVg) | [Rendez Vous / Mark](https://open.spotify.com/album/77jhXNxhqM1hqCfmnlX3jb) | 3:20 | 2022-05-20 |  |
+| [Rendez Vous](https://open.spotify.com/track/0TZdKfPAUslDgAVkb9bnQK) | [La Plage](https://open.spotify.com/artist/718qvmLQ9ih3HVRiFHVIVg) | [Rendez Vous / Mark](https://open.spotify.com/album/1vCuBjzH8P7n1Has6wKrdU) | 3:20 | 2022-12-21 |  |
+| [Rendez Vous](https://open.spotify.com/track/1BrfrYcD9wPze2HEV4QQWd) | [La Plage](https://open.spotify.com/artist/718qvmLQ9ih3HVRiFHVIVg) | [Rendez Vous / Mark](https://open.spotify.com/album/77jhXNxhqM1hqCfmnlX3jb) | 3:20 | 2022-05-20 | 2023-10-02 |
 | [Rouge soleil](https://open.spotify.com/track/2BtrTeyutZQSPdpBfZTTxr) | [Ravages](https://open.spotify.com/artist/2CiP8cuzWyheJHIBTooapR) | [Abraxas](https://open.spotify.com/album/7GmFk4xUZLM9VIcNYfHBb4) | 3:41 | 2022-05-20 |  |
 | [Sans lendemain](https://open.spotify.com/track/74DyanDw6n8OiyiV5iDcoZ) | [La Riviera](https://open.spotify.com/artist/0ZWNl9OR9Z7s4nNt12PxPl) | [Sans lendemain](https://open.spotify.com/album/0bkpzXsHXlQzs0XztMENwB) | 7:34 | 2022-05-20 |  |
 | [SAUDADE](https://open.spotify.com/track/514vU3L7reqmF1TbRW4GQD) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [SAUDADE](https://open.spotify.com/album/4XAR0IOxfXxwwd8IzK69j9) | 3:16 | 2022-05-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 
 > Your crush begins here, with the Malaysian pop artist's intimate vocals and the lush production of her most memorable tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,259 likes - 89 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,271 likes - 89 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqOoX6ompfy.md) - [plain]
 | 88 | [Lovely Intermission](https://open.spotify.com/track/22x0bKTXXitdbfuZUdhAAc) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Nocturnal \(Deluxe Edition\)](https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt) | 3:55 |
 | 89 | [Fears And Frustrations](https://open.spotify.com/track/6w9QevT88poB77qNzwy4LN) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/69Pj8F5bXCV5xjz6WnYfw8) | 4:34 |
 
-Snapshot ID: `MCwwMDhjZGEzYWYwZDBmMjk3YzU2MDM0OTYyZjc3ODMxYWY0NWM1YTUw`
+Snapshot ID: `MCw5MWI4MTljODlhYTU0NDNjMDU3NTJkZGI0ZDg5ZDYzNTUwODgyYTM2`

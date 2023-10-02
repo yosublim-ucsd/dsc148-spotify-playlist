@@ -6374,7 +6374,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 170693,
       "name": "GANGSTERS Y PISTOLAS",
       "url": "https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx"
@@ -9135,6 +9135,28 @@
     },
     {
       "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/34pggjaVe5oGjApdGElMLL"
+      },
+      "artists": [
+        {
+          "name": "Siho Villalobos",
+          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
+        },
+        {
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/7s1wij653okZG2DfTPbQbc"
+    },
+    {
+      "album": {
         "name": "Lo Que Perdiste",
         "url": "https://open.spotify.com/album/4yInQL2qUt34nOD4eGEZdF"
       },
@@ -10020,7 +10042,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "Mbappe",
       "url": "https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws"
@@ -14786,7 +14808,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 118693,
       "name": "RITMO DE MEDALLO",
       "url": "https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng"
@@ -15062,7 +15084,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 173005,
       "name": "S91",
       "url": "https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO"
@@ -16084,7 +16106,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -18166,7 +18188,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 186013,
       "name": "VENTE CONMIGO",
       "url": "https://open.spotify.com/track/7nIbwj1xJdJp4Gfxu2BcZ9"
@@ -18358,7 +18380,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 70706,
       "name": "VOL 2",
       "url": "https://open.spotify.com/track/3YZyRP5bddC0iQTeALPQep"

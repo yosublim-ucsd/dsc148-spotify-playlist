@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M?si=DXRQ6FTcTSuPFdlgfyW2yA"> Ko\-Jo Cue </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,255 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,275 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 29 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 |
 | 30 | [Come & Go \- Black Sherif Remix](https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Come & Go \(Black Sherif Remix\)](https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht) | 2:59 |
 | 31 | [Hosanna](https://open.spotify.com/track/1UcrPc3sarXiVaoYelfLbU) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Hosanna](https://open.spotify.com/album/2ue26FOfSdSpiV47IOknYk) | 2:54 |
-| 32 | [Non Profit](https://open.spotify.com/track/1jm90gGyR0lfbCwH5sJJIc) | [Kay\-Ara](https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1), [Yaw P](https://open.spotify.com/artist/7MiNOuMPtp71yoErwjx3yP) | [Non Profit](https://open.spotify.com/album/5RasZr0nIiMergfvTDHcwB) | 4:11 |
+| 32 | [Non Profit](https://open.spotify.com/track/1jm90gGyR0lfbCwH5sJJIc) | [Kay\-Ara](https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1), [Yaw P](https://open.spotify.com/artist/7MiNOuMPtp71yoErwjx3yP) | [Non Profit](https://open.spotify.com/album/5RasZr0nIiMergfvTDHcwB) | 3:10 |
 | 33 | [Don’t Forget To Pray \(DFTP\)](https://open.spotify.com/track/0LWPIywxjDJdJITWmgg484) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Different Type Of Gangster](https://open.spotify.com/album/7iYJJqj2gseddx7iQxj7ij) | 2:29 |
 | 34 | [Pa! \(feat\. Thywill & City Boy\)](https://open.spotify.com/track/3ikS8sT02F9Tiyi8S1AwmI) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Straight Outta Kumerica 2](https://open.spotify.com/album/6C628yJ57EmOF3m06i0dQv) | 2:33 |
 | 35 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/1GjyutvlWkLC5woI2mDrgE) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 59 | [COLD](https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [COLD](https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0) | 2:09 |
 | 60 | [Penny](https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Penny](https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR) | 3:03 |
 
-Snapshot ID: `MCw3NTFlYmNlYzZiNjdmYTc1MDVjM2Y5ODUwZDRhMzc3MGVhOTEyMjFh`
+Snapshot ID: `MCxhNGFjY2QxOWI1NmYwZjZiNzU1MGQxZjIxZGEzNTRmMzQzYjc5ZjA2`

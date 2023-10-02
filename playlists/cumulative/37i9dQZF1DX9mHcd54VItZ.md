@@ -4,7 +4,7 @@
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=GnO1OB\_6S\_6kZLJF\-0n5sQ">Jemma Catherine</a>
 
-349 songs - 20 hr 44 min
+350 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,8 @@
 | [Slow Down](https://open.spotify.com/track/2WJLJtpRXiWgPGuSiV9kY2) | [Gaz](https://open.spotify.com/artist/0YAL8izS16IewZXB4dlLdS) | [Slow Down](https://open.spotify.com/album/4bWs899eJvZvRoxwHa9bBt) | 3:17 | 2023-07-28 | 2023-09-16 |
 | [Small Things](https://open.spotify.com/track/4a4AneoUBYsM121PNivyD1) | [Jonathan Stephen Simons](https://open.spotify.com/artist/2XxdWUIImuXGYIN3E9Uave) | [To Change the Weather](https://open.spotify.com/album/5imGkqzgxOU3dgtEL7uwON) | 3:04 | 2022-08-04 | 2023-02-04 |
 | [Socks On Astroturf](https://open.spotify.com/track/5gtDFsmSgRX9wWYNjVFUer) | [Yndian Mynah](https://open.spotify.com/artist/5vPZcy1yojk3MN9D2g1c0C) | [The Boys Scribbled Like Mad](https://open.spotify.com/album/4Jx4ckh0oER0VRdmrQlJdX) | 7:22 | 2022-11-24 | 2023-04-15 |
-| [Solaris](https://open.spotify.com/track/6f0n4DM4UIaVhChxxv6Ymv) | [Shaun Orlando Berry](https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7) | [Solaris](https://open.spotify.com/album/1x8X3smRPOX8wUxOJeBpFb) | 4:08 | 2023-07-28 |  |
+| [Solaris](https://open.spotify.com/track/5jUykH9QNinvf6LMFN3OFE) | [Shaun Orlando Berry](https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7) | [Solaris](https://open.spotify.com/album/6aUt7I50euvGfFJsIxORgk) | 4:08 | 2023-07-28 |  |
+| [Solaris](https://open.spotify.com/track/6f0n4DM4UIaVhChxxv6Ymv) | [Shaun Orlando Berry](https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7) | [Solaris](https://open.spotify.com/album/1x8X3smRPOX8wUxOJeBpFb) | 4:08 | 2023-07-28 | 2023-10-02 |
 | [Something To Believe In](https://open.spotify.com/track/2RvRa53Ni5Nd5H1IJpjjNl) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Something To Believe In](https://open.spotify.com/album/6JFNJNx2lZRM61wq2Ov4Cp) | 3:21 | 2022-02-10 | 2022-09-23 |
 | [Somewhere Chill \- Radio Edit](https://open.spotify.com/track/0bW4UyOIu9XqLxboQwzdKO) | [John Niel](https://open.spotify.com/artist/4Ad2R0V0nC2N2AmXCmq9NA) | [Somewhere Chill \(Radio Edit\)](https://open.spotify.com/album/2aGoeqEDHNVVSOk2NGwJto) | 3:05 | 2021-12-09 | 2022-08-05 |
 | [Soothing](https://open.spotify.com/track/4t10kSOLO3ZIpztOXqupHy) | [Cal Motto\-Ros](https://open.spotify.com/artist/3nQ3eVNDnBzGUBIIgUTqqg) | [Soothing](https://open.spotify.com/album/1SmWpe54evwGksth7sACJT) | 2:57 | 2023-09-28 |  |

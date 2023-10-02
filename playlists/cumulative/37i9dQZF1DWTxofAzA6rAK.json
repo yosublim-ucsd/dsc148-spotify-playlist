@@ -448,7 +448,7 @@
     {
       "album": {
         "name": "Bufu",
-        "url": "https://open.spotify.com/album/58QMqtTrve7tO4GlSA0Z78"
+        "url": "https://open.spotify.com/album/3POrnMWEQ0nGLTjZqtEwA6"
       },
       "artists": [
         {
@@ -459,6 +459,24 @@
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198716,
+      "name": "Bufu",
+      "url": "https://open.spotify.com/track/1nRg4wYz5qbayok2YFYUrG"
+    },
+    {
+      "album": {
+        "name": "Bufu",
+        "url": "https://open.spotify.com/album/58QMqtTrve7tO4GlSA0Z78"
+      },
+      "artists": [
+        {
+          "name": "Boy Boy",
+          "url": "https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
       "duration_ms": 198716,
       "name": "Bufu",
       "url": "https://open.spotify.com/track/3TRuO4dfXGxF6Jf80uzFH3"

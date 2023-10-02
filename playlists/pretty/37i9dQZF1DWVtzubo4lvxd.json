@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 111419,
+  "num_followers": 111429,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTJjMGQwYThkNTJmZDJkNDI1NmU1ODkxYWM1YTZmYzQxYTk4MjYz",
+  "snapshot_id": "MCxmMWJkYzYwMDBlY2MzYWY3YTc2NzgzNzU0YjQ4OTM2N2IwZDU5NmRi",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -35,6 +35,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "ep seeds",
+        "url": "https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf"
+      },
+      "artists": [
+        {
+          "name": "eevee",
+          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
+        }
+      ],
+      "duration_ms": 118182,
+      "name": "m i s t",
+      "url": "https://open.spotify.com/track/0fi81PMYMsGT8h0FI9tYay"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "oldies",
         "url": "https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1"
       },
@@ -51,18 +67,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "ep seeds",
-        "url": "https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf"
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
       },
       "artists": [
         {
-          "name": "eevee",
-          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
         }
       ],
-      "duration_ms": 118182,
-      "name": "m i s t",
-      "url": "https://open.spotify.com/track/0fi81PMYMsGT8h0FI9tYay"
+      "duration_ms": 122704,
+      "name": "this girl",
+      "url": "https://open.spotify.com/track/6AknQdo6L05nsY2aQsxCFi"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -83,22 +99,6 @@
       "duration_ms": 218666,
       "name": "With U",
       "url": "https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Gentle Boy",
-        "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
-      },
-      "artists": [
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 122704,
-      "name": "this girl",
-      "url": "https://open.spotify.com/track/6AknQdo6L05nsY2aQsxCFi"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "rainy evening",
-        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
-      },
-      "artists": [
-        {
-          "name": "Idealism",
-          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
-        }
-      ],
-      "duration_ms": 109948,
-      "name": "nagashi",
-      "url": "https://open.spotify.com/track/6vmPUsrVk873GWkJwygHKD"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "lovesick",
         "url": "https://open.spotify.com/album/1ZRikNtTTBJMiRQVEerTPG"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 150221,
       "name": "lovesick",
       "url": "https://open.spotify.com/track/6Ws38nb0R9kAHBn7HoGMTy"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "rainy evening",
+        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        }
+      ],
+      "duration_ms": 109948,
+      "name": "nagashi",
+      "url": "https://open.spotify.com/track/6vmPUsrVk873GWkJwygHKD"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 96405,
+      "name": "i love being with you",
+      "url": "https://open.spotify.com/track/3diGMqE8nIltVg7fFdwi9n"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "sunny",
         "url": "https://open.spotify.com/album/0enwhVDrDgNf2QpeleSUSZ"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 139130,
       "name": "sunny",
       "url": "https://open.spotify.com/track/0cZcOtDqLaavK7LowhTBsa"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Gentle Boy",
-        "url": "https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv"
-      },
-      "artists": [
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 96405,
-      "name": "i love being with you",
-      "url": "https://open.spotify.com/track/3diGMqE8nIltVg7fFdwi9n"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "time off",
+        "url": "https://open.spotify.com/album/7aFxwormHMkxMn7gXzHvBs"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 122749,
+      "name": "we used to talk every night",
+      "url": "https://open.spotify.com/track/4FbOZNHWXvvCwuuqRVNkRS"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Kids' Menu",
         "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
       },
@@ -499,26 +515,6 @@
       "duration_ms": 77501,
       "name": "6 out of 600",
       "url": "https://open.spotify.com/track/2bEshJ2C5fbZ81Q3Zlnb7m"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Away with the Fairies",
-        "url": "https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Fish",
-          "url": "https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw"
-        },
-        {
-          "name": "Philanthrope",
-          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Away with the Fairies",
-      "url": "https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -539,18 +535,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "time off",
-        "url": "https://open.spotify.com/album/7aFxwormHMkxMn7gXzHvBs"
+        "name": "Away with the Fairies",
+        "url": "https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2"
       },
       "artists": [
         {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+          "name": "Sleepy Fish",
+          "url": "https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw"
+        },
+        {
+          "name": "Philanthrope",
+          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
         }
       ],
-      "duration_ms": 122749,
-      "name": "we used to talk every night",
-      "url": "https://open.spotify.com/track/4FbOZNHWXvvCwuuqRVNkRS"
+      "duration_ms": 166153,
+      "name": "Away with the Fairies",
+      "url": "https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "v i d r i o",
-        "url": "https://open.spotify.com/album/3hQgn6o9UbwOFtAnU6ADq6"
-      },
-      "artists": [
-        {
-          "name": "Jaeden Camstra",
-          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
-        }
-      ],
-      "duration_ms": 110409,
-      "name": "P a z",
-      "url": "https://open.spotify.com/track/1iOui2AZhEphqH5Yk1ktNz"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "The Blyat Tapes,Vol.1",
         "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 85514,
       "name": "Dont.Be.Afraid.",
       "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/2dYxugKzxoX6phylPQ2I2x"
+      },
+      "artists": [
+        {
+          "name": "leaf beach",
+          "url": "https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh"
+        }
+      ],
+      "duration_ms": 110305,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/6trLPOBjf8nWjMtl5PibbV"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/2dYxugKzxoX6phylPQ2I2x"
+        "name": "v i d r i o",
+        "url": "https://open.spotify.com/album/3hQgn6o9UbwOFtAnU6ADq6"
       },
       "artists": [
         {
-          "name": "leaf beach",
-          "url": "https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh"
+          "name": "Jaeden Camstra",
+          "url": "https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH"
         }
       ],
-      "duration_ms": 110305,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/6trLPOBjf8nWjMtl5PibbV"
+      "duration_ms": 110409,
+      "name": "P a z",
+      "url": "https://open.spotify.com/track/1iOui2AZhEphqH5Yk1ktNz"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Lucid Dreams",
-        "url": "https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0"
-      },
-      "artists": [
-        {
-          "name": "Slumberville",
-          "url": "https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv"
-        }
-      ],
-      "duration_ms": 116417,
-      "name": "Ladybug",
-      "url": "https://open.spotify.com/track/0mPnvBoUK9kNDHufFrh9Vb"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/1vNYKr4KkIcLFug4zMX0rD"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 120000,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/6wh61ZuwyFfS9DD6EJCov4"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/273zbmoNYTJDuyeiaVahl0"
+      },
+      "artists": [
+        {
+          "name": "Slumberville",
+          "url": "https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv"
+        }
+      ],
+      "duration_ms": 116417,
+      "name": "Ladybug",
+      "url": "https://open.spotify.com/track/0mPnvBoUK9kNDHufFrh9Vb"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "hometown",
-        "url": "https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq"
-      },
-      "artists": [
-        {
-          "name": "mommy",
-          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
-        }
-      ],
-      "duration_ms": 116061,
-      "name": "hammock",
-      "url": "https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Cadillac Mountain",
         "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 103255,
       "name": "Secret",
       "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "hometown",
+        "url": "https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq"
+      },
+      "artists": [
+        {
+          "name": "mommy",
+          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
+        }
+      ],
+      "duration_ms": 116061,
+      "name": "hammock",
+      "url": "https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Imaginary",
-        "url": "https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA"
-      },
-      "artists": [
-        {
-          "name": "Kupla",
-          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
-        }
-      ],
-      "duration_ms": 148604,
-      "name": "Afloat",
-      "url": "https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Cats Walking",
         "url": "https://open.spotify.com/album/3E3DuADepz0S6PnlHoKtps"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 136470,
       "name": "Cats Walking",
       "url": "https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Imaginary",
+        "url": "https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA"
+      },
+      "artists": [
+        {
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        }
+      ],
+      "duration_ms": 148604,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP"
     },
     {
       "added_at": "2022-04-15 12:09:52",

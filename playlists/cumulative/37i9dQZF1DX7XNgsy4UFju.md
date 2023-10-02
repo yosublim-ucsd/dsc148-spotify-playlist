@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Mitski
 
-1,313 songs - 3 day 5 hr 48 min
+1,314 songs - 3 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,8 +456,9 @@
 | [God, Love, Prescriptions, and Politics](https://open.spotify.com/track/5l0djzjCuVuPlqGO5lop0Y) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [God, Love, Prescriptions, and Politics](https://open.spotify.com/album/4jg2nTTpZtGojGt3SNciEi) | 3:47 | 2022-11-04 | 2022-11-12 |
 | [Going Home to a Party](https://open.spotify.com/track/67HUaanzX0yFZeYvwcviWF) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [Going Home to a Party](https://open.spotify.com/album/3ifYlOeyOKESM3eiI5VEj4) | 3:09 | 2023-01-06 | 2023-03-18 |
 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 | 2023-03-31 | 2023-07-22 |
-| [Going Under](https://open.spotify.com/track/5JDBGWaittRF3rbVXExDWe) | [Russell Louder](https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG) | [Going Under](https://open.spotify.com/album/0lhTYswfOeJph432W7zU2P) | 3:29 | 2023-09-15 |  |
+| [Going Under](https://open.spotify.com/track/5JDBGWaittRF3rbVXExDWe) | [Russell Louder](https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG) | [Going Under](https://open.spotify.com/album/0lhTYswfOeJph432W7zU2P) | 3:29 | 2023-09-15 | 2023-10-02 |
 | [Going Under](https://open.spotify.com/track/5Qu0vk5db6nygY3B9Aa90H) | [Russell Louder](https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG) | [Going Under](https://open.spotify.com/album/1a914TVEVrPr8HjljjPgGu) | 3:29 | 2023-06-16 | 2023-09-17 |
+| [Going Under](https://open.spotify.com/track/6GT5UTws0ehVaaUnuVzMqx) | [Russell Louder](https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG) | [Fair\-weather](https://open.spotify.com/album/5PMMoVoU9NFlXv129gaCTe) | 3:29 | 2023-09-29 |  |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-09-19 | 2023-01-06 |
 | [Golden Days](https://open.spotify.com/track/0f8cfrDoFjLDgdtaYfPJKh) | [FRANKIIE](https://open.spotify.com/artist/0iZJ9pd8Ld6jzdPYEXegYD) | [Between Dreams](https://open.spotify.com/album/3GTqMCAw41hLRXwZBiCHlr) | 5:37 | 2023-06-02 | 2023-08-05 |
 | [Gone](https://open.spotify.com/track/4sgchJtqhlDKHXI5qfC15k) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Gone](https://open.spotify.com/album/60PbOGMe2c5w7ST3UpH3bU) | 6:58 | 2021-12-31 | 2022-02-05 |

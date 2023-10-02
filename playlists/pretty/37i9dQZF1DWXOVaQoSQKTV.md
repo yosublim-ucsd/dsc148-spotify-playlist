@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,694 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,721 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,7 +158,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 148 | [Big Future](https://open.spotify.com/track/28TdbFjX6047oZ5ADLTs2r) | [Obliques](https://open.spotify.com/artist/4EGAoQoOZvUSXt0uzxAGWG) | [Big Future](https://open.spotify.com/album/6SASFuxKdxTIHtkfjBV2Na) | 2:35 |
 | 149 | [Rubia](https://open.spotify.com/track/0BIoTaYyUriJ5Iqzh9oueB) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Introducing Juan Pablo](https://open.spotify.com/album/17MdZyy1cCwQRyJaH60gOu) | 2:06 |
 | 150 | [So Strange](https://open.spotify.com/track/4ZqjUGXGFvq2rv3c5qPAWZ) | [Superhumanoids](https://open.spotify.com/artist/1Kq3QgOwTlgBo76HDA4TMH) | [Exhibitionists](https://open.spotify.com/album/5uuHYiydXBOTU3MFSsP8As) | 3:13 |
-| 151 | [Composure](https://open.spotify.com/track/339ivDmvy4LAascGvxhgOx) | [Argonaut & Wasp](https://open.spotify.com/artist/5FE0B5zV9y7T5OzkiDkBG8) | [Composure](https://open.spotify.com/album/3u45SKEwwFtHd3Di9Yqmmn) | 3:04 |
+| 151 | [Composure](https://open.spotify.com/track/6dZ1hcMmTSyGubP2Rs1a0b) | [Argonaut & Wasp](https://open.spotify.com/artist/5FE0B5zV9y7T5OzkiDkBG8) | [STARLIGHT 99](https://open.spotify.com/album/5bDVacUvfiwSkZAKfCVQkS) | 3:04 |
 | 152 | [Playing Games](https://open.spotify.com/track/7bt0EnhjElN4bw3K1KwIkU) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 3:23 |
 | 153 | [Dancing on the Limit](https://open.spotify.com/track/5llJtNsexSKi34H5O8uMP2) | [PRIZES](https://open.spotify.com/artist/4dCYXERcuOuRE5ytituLJ7) | [Dancing on the Limit](https://open.spotify.com/album/6iKZFDqwscfyPTPPkSvB24) | 3:57 |
 | 154 | [Tease](https://open.spotify.com/track/2IlA9iGM6wVXj3Eq5CzKAX) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Oom Velt](https://open.spotify.com/album/0SfbuytTzmQDEsN3mj2sM1) | 4:22 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCwxYWY5MDM1M2VmYjg1ZGVkOGM4NDdmZTAyNWMzNTkyYWUzYjczOGVk`
+Snapshot ID: `MCwyNjRkMjI4NjE4Nzg0MjQ1ZDNhN2IwZjIyMzE3NjE3N2Y1YmM5ZjRj`

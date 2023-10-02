@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Bad Bunny, PinkPantheress, Jung Kook & Jack Harlow, Ed Sheeran, Latto and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,180,086 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,180,377 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Pickup, Don't Pickup](https://open.spotify.com/track/4E5P6ztlfq3jE9Df80jtND) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sorry Like You Mean It](https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0) | 4:34 |
 | 100 | [let u in](https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [let u in](https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a) | 2:55 |
 
-Snapshot ID: `MCxmYTVkY2VjMDRjNGM2NDgyNTY4NjE3ZGE4MTRhZDljZjc0M2JhOTFl`
+Snapshot ID: `MCxjZDIzNTA5OGMxNzYyMjQ2YTJhZmZhYjA0OWVjNDI1ODI1OTRmYmQx`

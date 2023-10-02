@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 123022,
+  "num_followers": 123054,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzhiMWVhMWNhMjc4NjAxMWNmMjMyZmVkMmM4ZTMzYzYxNWU3NmYz",
+  "snapshot_id": "MCxhODAxNWFjMDM1ODI3MWY0NDM2NDNiODU0OTFlNjhhNzBmODkyYTlk",
   "tracks": [
     {
       "added_at": "2023-09-28 16:00:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-09-28 16:00:00",
       "album": {
-        "name": "\u767e\u5473\u5c0f\u5eda\u795e \u4e2d\u5143\u5927\u9910 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2gaHcID7JZU541ZenQQGx2"
+        "name": "\u9752\u7a7a\u672a\u4f86",
+        "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
       },
       "artists": [
         {
-          "name": "\u674e\u5343\u5a1c",
-          "url": "https://open.spotify.com/artist/3iGNpRQH6ei188rHVvwytb"
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
         }
       ],
-      "duration_ms": 276642,
-      "name": "\u600e\u9ebc\u4e0d\u4e00\u6a23\u5462 (\u300a\u767e\u5473\u5c0f\u5eda\u795e \u4e2d\u5143\u5927\u9910\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/4FQdAMz8yJH1sAwitVTNWj"
+      "duration_ms": 255438,
+      "name": "\u9752\u7a7a\u672a\u4f86",
+      "url": "https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU"
     },
     {
       "added_at": "2023-09-28 16:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-09-28 16:00:00",
       "album": {
-        "name": "\u9752\u7a7a\u672a\u4f86",
-        "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
-      },
-      "artists": [
-        {
-          "name": "Ashin Chen",
-          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
-        }
-      ],
-      "duration_ms": 255438,
-      "name": "\u9752\u7a7a\u672a\u4f86",
-      "url": "https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU"
-    },
-    {
-      "added_at": "2023-09-28 16:00:00",
-      "album": {
         "name": "\u8f38\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 224653,
       "name": "\u8f38\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
+    },
+    {
+      "added_at": "2023-09-28 16:00:00",
+      "album": {
+        "name": "\u767e\u5473\u5c0f\u5eda\u795e \u4e2d\u5143\u5927\u9910 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2gaHcID7JZU541ZenQQGx2"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u5343\u5a1c",
+          "url": "https://open.spotify.com/artist/3iGNpRQH6ei188rHVvwytb"
+        }
+      ],
+      "duration_ms": 276642,
+      "name": "\u600e\u9ebc\u4e0d\u4e00\u6a23\u5462 (\u300a\u767e\u5473\u5c0f\u5eda\u795e \u4e2d\u5143\u5927\u9910\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/4FQdAMz8yJH1sAwitVTNWj"
     },
     {
       "added_at": "2023-09-28 16:00:00",

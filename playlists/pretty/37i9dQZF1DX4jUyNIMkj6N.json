@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 189415,
+  "num_followers": 189465,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWUwMTcyMGYzYmVkNDc0NjgwODNmOWE5ODhhNGRmNTA4YjNiMDg4",
+  "snapshot_id": "MCw4OTA2NmRjNTExYmI1ZTcyOWY5YWZjNDY5ZTVkYTM4NDAyMGQ1OGU5",
   "tracks": [
     {
       "added_at": "2023-09-28 22:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "v\u00e1r",
-        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
-      },
-      "artists": [
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        }
-      ],
-      "duration_ms": 232392,
-      "name": "v\u00e1r",
-      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "v\u00e1r",
+        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "duration_ms": 232392,
+      "name": "v\u00e1r",
+      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -907,6 +907,38 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
+        "name": "Dad Told Me",
+        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
+      },
+      "artists": [
+        {
+          "name": "Hello Saferide",
+          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
+        }
+      ],
+      "duration_ms": 155213,
+      "name": "Oh God",
+      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH"
+      },
+      "artists": [
+        {
+          "name": "Days of August",
+          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+        }
+      ],
+      "duration_ms": 174553,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
         "name": "Tell Me About It",
         "url": "https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls"
       },
@@ -943,38 +975,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/1sd88SXXNbNQijDo8ngbOq"
-      },
-      "artists": [
-        {
-          "name": "Nina Kinert",
-          "url": "https://open.spotify.com/artist/6uRl4Lp821EvTTEYmboj8O"
-        }
-      ],
-      "duration_ms": 328800,
-      "name": "America",
-      "url": "https://open.spotify.com/track/5l2JI0XPhFKWJwERHOIqkN"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "Dad Told Me",
-        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
-      },
-      "artists": [
-        {
-          "name": "Hello Saferide",
-          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
-        }
-      ],
-      "duration_ms": 155213,
-      "name": "Oh God",
-      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "The Ghost in Your Smile",
         "url": "https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc"
       },
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Postcards",
-        "url": "https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH"
+        "name": "America",
+        "url": "https://open.spotify.com/album/1sd88SXXNbNQijDo8ngbOq"
       },
       "artists": [
         {
-          "name": "Days of August",
-          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+          "name": "Nina Kinert",
+          "url": "https://open.spotify.com/artist/6uRl4Lp821EvTTEYmboj8O"
         }
       ],
-      "duration_ms": 174553,
-      "name": "Van Gogh",
-      "url": "https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0"
+      "duration_ms": 328800,
+      "name": "America",
+      "url": "https://open.spotify.com/track/5l2JI0XPhFKWJwERHOIqkN"
     }
   ],
   "unique_name": "Nordic Folk",

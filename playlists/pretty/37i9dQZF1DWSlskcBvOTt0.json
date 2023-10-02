@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 420004,
+  "num_followers": 420234,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDlmMTQyMDA0MzU5NjA0OGVkMTU0ZTAxNDg4ZTI3ZTgyYjk2OGMw",
+  "snapshot_id": "MCxmNmQwZWE1MTZmNDhhZmYyNDlkZGUyZDNmMTkwZmI5MWQxMGFhNTZi",
   "tracks": [
     {
       "added_at": "2023-09-29 13:14:28",
@@ -699,6 +699,26 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/2ClVRUJPXI9Bd6AEqfD7lK"
+      },
+      "artists": [
+        {
+          "name": "Samantha Loveridge",
+          "url": "https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt"
+        },
+        {
+          "name": "Treetalk",
+          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
+        }
+      ],
+      "duration_ms": 268032,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/7xF4m3N4NhUeLVbMnnwOnk"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
         "name": "The Dream (feat. Martina Camargo)",
         "url": "https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 210156,
       "name": "The Dream (feat. Martina Camargo)",
       "url": "https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/2ClVRUJPXI9Bd6AEqfD7lK"
-      },
-      "artists": [
-        {
-          "name": "Samantha Loveridge",
-          "url": "https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt"
-        },
-        {
-          "name": "Treetalk",
-          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
-        }
-      ],
-      "duration_ms": 268032,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/7xF4m3N4NhUeLVbMnnwOnk"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
+        "name": "Visage 6 (Never Loved)",
+        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        }
+      ],
+      "duration_ms": 253780,
+      "name": "Never Loved",
+      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
         "name": "GOOD TIMES (Sofia Kourtesis Remix)",
         "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 192000,
       "name": "Embrace Me Now - Techno Radio Edit",
       "url": "https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
-        "name": "Visage 6 (Never Loved)",
-        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        }
-      ],
-      "duration_ms": 253780,
-      "name": "Never Loved",
-      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
+        "name": "Temple Of Dreams (Remixes Part 1)",
+        "url": "https://open.spotify.com/album/50foag5P06HSWOkVrnZg33"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Tijuana - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/6XzYPtLcf1pVmjZ1y2k5T0"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
         "name": "Footprints",
         "url": "https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar"
       },
@@ -1363,26 +1383,6 @@
       "duration_ms": 213339,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/6OFJOpzi9xZrm3eEJE1SIG"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
-        "name": "Temple Of Dreams (Remixes Part 1)",
-        "url": "https://open.spotify.com/album/50foag5P06HSWOkVrnZg33"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Tijuana - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/6XzYPtLcf1pVmjZ1y2k5T0"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Unfold Voices EP",
-        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
-      },
-      "artists": [
-        {
-          "name": "JAMIIE",
-          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
-        }
-      ],
-      "duration_ms": 391577,
-      "name": "Unfold Me",
-      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
         "name": "Wespennest",
         "url": "https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz"
       },
@@ -1499,30 +1483,18 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Piano Republik (Remixes)",
-        "url": "https://open.spotify.com/album/0rq3Jg8TCAfln9gJIwBBh8"
+        "name": "Unfold Voices EP",
+        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
         }
       ],
-      "duration_ms": 401064,
-      "name": "Oh Yeah - Ape Drums Remix",
-      "url": "https://open.spotify.com/track/1jk27KIDpTs4L4UHLgu2oJ"
+      "duration_ms": 391577,
+      "name": "Unfold Me",
+      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1595,18 +1567,30 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Metropolis",
-        "url": "https://open.spotify.com/album/08sIlCIFAfna5R07yRrVTj"
+        "name": "Piano Republik (Remixes)",
+        "url": "https://open.spotify.com/album/0rq3Jg8TCAfln9gJIwBBh8"
       },
       "artists": [
         {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
         }
       ],
-      "duration_ms": 273250,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/1vJj7yCeCtimK37DCfDggZ"
+      "duration_ms": 401064,
+      "name": "Oh Yeah - Ape Drums Remix",
+      "url": "https://open.spotify.com/track/1jk27KIDpTs4L4UHLgu2oJ"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1623,6 +1607,22 @@
       "duration_ms": 226497,
       "name": "Marimba",
       "url": "https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/08sIlCIFAfna5R07yRrVTj"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 273250,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/1vJj7yCeCtimK37DCfDggZ"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
         "name": "Disappear (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 435653,
       "name": "Colorblind - WhoMadeWho Remix",
       "url": "https://open.spotify.com/track/1dZybfK5AztMba3tqDvT7O"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1891,6 +1891,26 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
+        "name": "Terra Byte",
+        "url": "https://open.spotify.com/album/4izgio6ZsvHzexZ6YNX9Pi"
+      },
+      "artists": [
+        {
+          "name": "Beatamines",
+          "url": "https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK"
+        },
+        {
+          "name": "Anima",
+          "url": "https://open.spotify.com/artist/4pnuCVOAfp1106hqodoWPA"
+        }
+      ],
+      "duration_ms": 277440,
+      "name": "Terra Byte",
+      "url": "https://open.spotify.com/track/1NjcoMXk0NCgwrJHKG4cam"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
         "name": "Blaze (J.O.P. Remix)",
         "url": "https://open.spotify.com/album/4jmzrmMmTgBydXQCqnPHL9"
       },
@@ -1915,22 +1935,22 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Terra Byte",
-        "url": "https://open.spotify.com/album/4izgio6ZsvHzexZ6YNX9Pi"
+        "name": "Rainchecks In Montreal",
+        "url": "https://open.spotify.com/album/7hyqsbXob3bcwk8Jml4rfP"
       },
       "artists": [
         {
-          "name": "Beatamines",
-          "url": "https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK"
+          "name": "Guy Gerber",
+          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
         },
         {
-          "name": "Anima",
-          "url": "https://open.spotify.com/artist/4pnuCVOAfp1106hqodoWPA"
+          "name": "Roy Rosenfeld",
+          "url": "https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk"
         }
       ],
-      "duration_ms": 277440,
-      "name": "Terra Byte",
-      "url": "https://open.spotify.com/track/1NjcoMXk0NCgwrJHKG4cam"
+      "duration_ms": 480588,
+      "name": "Rainchecks In Montreal - Roy Rosenfeld Remix",
+      "url": "https://open.spotify.com/track/5GkhUSAoSz7Pp4F6VIUbVw"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1947,22 +1967,6 @@
       "duration_ms": 357842,
       "name": "Children Of 95",
       "url": "https://open.spotify.com/track/0W3fiSN6ebq9V3kFb0KGPn"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
-        "name": "Malmedy",
-        "url": "https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 342813,
-      "name": "Malmedy",
-      "url": "https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1991,22 +1995,18 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Rainchecks In Montreal",
-        "url": "https://open.spotify.com/album/7hyqsbXob3bcwk8Jml4rfP"
+        "name": "Malmedy",
+        "url": "https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo"
       },
       "artists": [
         {
-          "name": "Guy Gerber",
-          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
-        },
-        {
-          "name": "Roy Rosenfeld",
-          "url": "https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk"
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
         }
       ],
-      "duration_ms": 480588,
-      "name": "Rainchecks In Montreal - Roy Rosenfeld Remix",
-      "url": "https://open.spotify.com/track/5GkhUSAoSz7Pp4F6VIUbVw"
+      "duration_ms": 342813,
+      "name": "Malmedy",
+      "url": "https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
+        "name": "Atacama (Edit)",
+        "url": "https://open.spotify.com/album/1Q9Y8JAfu1TQzx7BlDgjvX"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 237056,
+      "name": "Atacama - Edit",
+      "url": "https://open.spotify.com/track/5EAyDXIe10FttSvVJOXX3r"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
         "name": "Sinnerman (Henrik Schwarz Remixes)",
         "url": "https://open.spotify.com/album/2gExT3JhznVFoXzH193gPr"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 238494,
       "name": "Reminiscent - HANA Remix",
       "url": "https://open.spotify.com/track/52XOoMMcI3w8xDC0m0j7vW"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
-        "name": "Atacama (Edit)",
-        "url": "https://open.spotify.com/album/1Q9Y8JAfu1TQzx7BlDgjvX"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 237056,
-      "name": "Atacama - Edit",
-      "url": "https://open.spotify.com/track/5EAyDXIe10FttSvVJOXX3r"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Pilgrim",
-        "url": "https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ"
-      },
-      "artists": [
-        {
-          "name": "Gui Boratto",
-          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
-        }
-      ],
-      "duration_ms": 219212,
-      "name": "Pilgrim",
-      "url": "https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
         "name": "Bad Love (Antdot & Maz Remix)",
         "url": "https://open.spotify.com/album/0ZsUU0Sz04c4NtLzvBAWsr"
       },
@@ -2435,18 +2419,18 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Better Left Unsaid",
-        "url": "https://open.spotify.com/album/5IWlPDue4yjlDOWLJ9tNeJ"
+        "name": "Pilgrim",
+        "url": "https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ"
       },
       "artists": [
         {
-          "name": "Kuren",
-          "url": "https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp"
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Better Left Unsaid",
-      "url": "https://open.spotify.com/track/084Bexeea6EEoUVBWz9AGB"
+      "duration_ms": 219212,
+      "name": "Pilgrim",
+      "url": "https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -2487,6 +2471,22 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
+        "name": "Better Left Unsaid",
+        "url": "https://open.spotify.com/album/5IWlPDue4yjlDOWLJ9tNeJ"
+      },
+      "artists": [
+        {
+          "name": "Kuren",
+          "url": "https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Better Left Unsaid",
+      "url": "https://open.spotify.com/track/084Bexeea6EEoUVBWz9AGB"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
         "name": "Stuck In Melodies",
         "url": "https://open.spotify.com/album/0jwW2bXdLRcRadnRYIws3D"
       },
@@ -2523,22 +2523,22 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Light Places Remixes",
-        "url": "https://open.spotify.com/album/397G1LdjSwnHKWa6PdkYgS"
+        "name": "Desert Walk",
+        "url": "https://open.spotify.com/album/2nIeu9OjQBHcIpNDVYb41F"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
         },
         {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
         }
       ],
-      "duration_ms": 339166,
-      "name": "All I Need - DESIREE Remix",
-      "url": "https://open.spotify.com/track/6q9RvlTvMSZSQfI6v0dKE4"
+      "duration_ms": 212000,
+      "name": "Desert Walk",
+      "url": "https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY"
     }
   ],
   "unique_name": "Tantra",

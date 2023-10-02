@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 162545,
       "name": "3D (feat. Jack Harlow) (Alternate Ver.)",
       "url": "https://open.spotify.com/track/2pLZ6tUBapqlngc9lnYz4M"
@@ -8815,6 +8815,24 @@
     },
     {
       "album": {
+        "name": "Hyati",
+        "url": "https://open.spotify.com/album/4YwFCbGREEY27uNJ7nxTEN"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155280,
+      "name": "Hyati",
+      "url": "https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5"
+    },
+    {
+      "album": {
         "name": "R\u00e9elle vie 3.0",
         "url": "https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw"
       },
@@ -12468,7 +12486,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 232727,
       "name": "M3a L3echrane",
       "url": "https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw"
@@ -14282,7 +14300,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 208436,
       "name": "Mriyech",
       "url": "https://open.spotify.com/track/7735rwGeak348luaiQVRNE"
@@ -17488,7 +17506,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 199215,
       "name": "R.I.P",
       "url": "https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J"
@@ -23140,6 +23158,24 @@
       "duration_ms": 181603,
       "name": "Zest",
       "url": "https://open.spotify.com/track/2fx7NwHSBNHXTq4p2SVY0h"
+    },
+    {
+      "album": {
+        "name": "ZIGZAG",
+        "url": "https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168042,
+      "name": "ZIGZAG",
+      "url": "https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn"
     },
     {
       "album": {

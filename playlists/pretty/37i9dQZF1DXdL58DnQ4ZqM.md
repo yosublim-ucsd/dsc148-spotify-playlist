@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,519 likes - 129 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,541 likes - 129 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 128 | [Love](https://open.spotify.com/track/5KcsUi67kYXlPI1JEgWO5q) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Love](https://open.spotify.com/album/2zc01gDvxUzpgHpmImUXeU) | 2:37 |
 | 129 | [bleep](https://open.spotify.com/track/0VutyxcmjtC8Bs0QLcyIhb) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [bleep](https://open.spotify.com/album/2MnmOWac8GbeCedTkbGldw) | 2:07 |
 
-Snapshot ID: `MCwxYzExZTg2N2EzNTYzYmYzY2QzNTlmMzRhYzcxNmM5ZDU0MDE3ZTNj`
+Snapshot ID: `MCwyOTk0NDllMDM5OWE1ZDczNjBkNGMyZDEwNjlmNWY2MGU0ZjlmZTg4`

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-529 songs - 1 day 5 hr 3 min
+530 songs - 1 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,8 +102,9 @@
 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 | 2022-10-19 | 2023-07-15 |
 | [Dance With Me](https://open.spotify.com/track/5TdzPzC6hlBT5cofaaqybi) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:20 | 2023-04-28 | 2023-06-03 |
 | [Dancing](https://open.spotify.com/track/6x1jUK7H6qZVS265OCnlVw) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Endless Summer](https://open.spotify.com/album/1i1hnI5ABCJE0CbbLsuIL1) | 4:05 | 2021-12-15 | 2022-04-08 |
-| [Dancing in My Room](https://open.spotify.com/track/3kRNoUvagaaJF1xCgdNRgH) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [KALENA](https://open.spotify.com/artist/2HMhMpGsN9POmGXvvN1WZB) | [Dancing in My Room](https://open.spotify.com/album/022Ax0SL7UAnIRSvyF220j) | 3:38 | 2023-07-14 |  |
+| [Dancing in My Room](https://open.spotify.com/track/3kRNoUvagaaJF1xCgdNRgH) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [KALENA](https://open.spotify.com/artist/2HMhMpGsN9POmGXvvN1WZB) | [Dancing in My Room](https://open.spotify.com/album/022Ax0SL7UAnIRSvyF220j) | 3:38 | 2023-07-14 | 2023-10-02 |
 | [Dawn Rise](https://open.spotify.com/track/6TOqU9kVOg0Z16EEN3FKOm) | [Colton Bryan](https://open.spotify.com/artist/1x9dy0YY8U7OAbT3opvFjO) | [Dawn Rise](https://open.spotify.com/album/4fRgWwUzS0uadgSBXdRJMH) | 3:30 | 2021-12-15 | 2022-10-19 |
+| [Day by Day \- A COLORS SHOW](https://open.spotify.com/track/0Da3eqAgSgLp4UiVdCjJJ1) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Day by Day \- A COLORS SHOW](https://open.spotify.com/album/7vggzM9Ag5clwyHjXuZU8F) | 3:50 | 2023-09-29 |  |
 | [Daydream](https://open.spotify.com/track/57OukQCxwo81b1v9B7iuhg) | [Cariss Auburn](https://open.spotify.com/artist/2ufvSyz0aDtPdSTzB6a3b1) | [Daydream](https://open.spotify.com/album/5zUC2dAZOqF34yXVNI6g91) | 3:16 | 2021-12-15 | 2022-06-11 |
 | [Definition of Love](https://open.spotify.com/track/7FVSpM0idOhw4etUpkPf8d) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Definition of Love](https://open.spotify.com/album/6ghmLEwlEpTJ6iH0JMxu8i) | 3:15 | 2023-08-25 |  |
 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 | 2023-09-29 |  |

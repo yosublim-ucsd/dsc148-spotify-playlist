@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 293203,
       "name": "Doo Doo Doo Doo Doo (Heartbreaker)",
       "url": "https://open.spotify.com/track/0owGTle1xBp2AZIchl6fp6"
@@ -436,6 +436,28 @@
       "duration_ms": 275266,
       "name": "Feels Like Rain (feat. Bonnie Raitt)",
       "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
+    },
+    {
+      "album": {
+        "name": "Live In Hiroshima 1975",
+        "url": "https://open.spotify.com/album/6PSYBTMCPI4AOL1SqPRgBw"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423213,
+      "name": "First Time I Met The Blues - Live",
+      "url": "https://open.spotify.com/track/3ObCAHZVDlqjJgyYUeFIXz"
     },
     {
       "album": {
@@ -618,7 +640,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 281413,
       "name": "Hold That Plane",
       "url": "https://open.spotify.com/track/5GC65lioZ3LQbbvMM4dwPi"
@@ -1264,7 +1286,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 180772,
       "name": "Sit and Cry (The Blues)",
       "url": "https://open.spotify.com/track/2x0uiOepdvCXYk8Wh8bXIk"
@@ -1477,6 +1499,28 @@
     },
     {
       "album": {
+        "name": "Live In Hiroshima 1975",
+        "url": "https://open.spotify.com/album/6PSYBTMCPI4AOL1SqPRgBw"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322413,
+      "name": "Stone Crazy - Live",
+      "url": "https://open.spotify.com/track/2BIVn25jw2pefM87VA03o8"
+    },
+    {
+      "album": {
         "name": "Stop Breakin' Down (Live)",
         "url": "https://open.spotify.com/album/1PyuulqtP7ArJGOcBE7Tco"
       },
@@ -1590,7 +1634,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 217120,
       "name": "Symptoms of Love (feat. Elvis Costello)",
       "url": "https://open.spotify.com/track/37fex9c3w25yTn7tXRwVkG"
@@ -1722,8 +1766,8 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "Billy Gibbons",
-          "url": "https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD"
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
         }
       ],
       "date_added": "2022-08-05",

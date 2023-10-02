@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: HotWax
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,405 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,419 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Sister, Brother](https://open.spotify.com/track/11X5kvgN18tU3J4EuAkl7L) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Fester](https://open.spotify.com/album/75vIvXpWldf5ypHvHkjH0P) | 4:02 |
 | 80 | [escalate](https://open.spotify.com/track/2hBalflQk2epPYW7GwdQb2) | [pieces](https://open.spotify.com/artist/35uZwCzQKuv1zHalrRkikr) | [escalate](https://open.spotify.com/album/3fpsNJU44c7Jp69qvTqpAM) | 3:22 |
 
-Snapshot ID: `MCwzNmZmZjc4YzJjM2M2ZjljOWI0YjQwOWE1ZTlmMzYxMDBiZjQ5OTE5`
+Snapshot ID: `MCxiYTFhZjM5MDE4MWVlYzVjYTg0MDBmYjllNzQ0Njk5ODkwMTQ1NzVk`

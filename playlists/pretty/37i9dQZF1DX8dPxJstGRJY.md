@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,418 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,666 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Prayer](https://open.spotify.com/track/6zlY4xmlgqvn4LxjzoS2mz) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:28 |
 | 2 | [Amazing Grace \(arr\. Mercurio\)](https://open.spotify.com/track/1OWoYQ9tGoufbJGY0YOdAI) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Believe \(Deluxe\)](https://open.spotify.com/album/1YuRC8Fj5XdgpuoA7yBDnr) | 3:56 |
 | 3 | [Nella Fantasia](https://open.spotify.com/track/41SH0UAo3nbzN4l0U38Wq3) | [Katherine Jenkins](https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl), [Choir of The King's Consort](https://open.spotify.com/artist/1bubEqwBcIyhEsO8ExpnXE), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Nicholas Dodd](https://open.spotify.com/artist/4oKiOJ0qPP6TFCv6ebRFKO) | [Katherine Jenkins / From The Heart](https://open.spotify.com/album/3Zu1qssJCsIlgXtJQskbE5) | 5:11 |
-| 4 | [Time To Say Goodbye](https://open.spotify.com/track/3VAICuY2ax2yCLT7EhNeZE) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Romanza \(Remastered\)](https://open.spotify.com/album/4myEOR9cjLVBiwQuBxL4av) | 4:05 |
+| 4 | [Time To Say Goodbye \- English Version](https://open.spotify.com/track/633Zk0NRe7kuglSgPmUvSG) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [Romanza \(Spanish Version\)](https://open.spotify.com/album/3bqaZBUz92ypc2bCLinACW) | 4:06 |
 | 5 | [To Make You Feel My Love](https://open.spotify.com/track/66z75O6SUOQxZnS7Spbp95) | [The Serenad3](https://open.spotify.com/artist/23r9OdwRI1XKiYES6p68gu) | [Romantic Serenade](https://open.spotify.com/album/4HPSlAA3McPFOUU41U5AfQ) | 3:43 |
 | 6 | [A Thousand Years \(From "The Twilight Saga: Breaking Dawn, Pt\. 1"\)](https://open.spotify.com/track/68CGs1SYzsXs7OMHKWpw0w) | [Collabro](https://open.spotify.com/artist/0l1nmcjqNlk9dQHb6H4sLR) | [Act Two](https://open.spotify.com/album/1LF3HfqmS4DTn4cNabNKzJ) | 4:05 |
 | 7 | [All I Ask of You \(from "The Phantom of the Opera"\) \[with Kelly Clarkson\]](https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stages \(Deluxe\)](https://open.spotify.com/album/7bpNb4BzAwWAVzKOlzJZDU) | 3:59 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 50 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |
 | 51 | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/track/10AfyyXe1IVgrTJP6cCbDO) | [Jonathan Antoine](https://open.spotify.com/artist/2oYXPOHsXljvSD7jDatP22), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/album/3ncrSLsvENjj5VQzuxkTW0) | 4:08 |
 
-Snapshot ID: `MCwzZDcxMWQxOGRiOWU3MTMyNmU1ZTMzZmI5YjI0MjQ2MTUwMzZkZDBj`
+Snapshot ID: `MCw2NTBjYmMwNWRmMjA5ZmM5YTZlZjk3NTZjNmViMzQ1Mzk1OTI1NWNl`

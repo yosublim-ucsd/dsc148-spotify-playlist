@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,344 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,490 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 4 | [Belleza](https://open.spotify.com/track/41sdDRca6UhPB5MLZjpz1L) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Belleza](https://open.spotify.com/album/4ZsbHVMtDZWzZrh4w4Amsb) | 3:34 |
 | 5 | [Verte Cerquita](https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Verte Cerquita](https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv) | 3:52 |
 | 6 | [Deli](https://open.spotify.com/track/0pGSMJUKF5WSkv3biaKscJ) | [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML) | [El Arte de No Estar Ni Ahí 2](https://open.spotify.com/album/6d0VvzDBIto0jdqgVNu195) | 3:49 |
-| 7 | [I Love You a Lo Vío](https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Adosene](https://open.spotify.com/artist/3UHXKNtEt4Tvu4EDYNt4mk) | [Techymuv](https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe) | 5:11 |
-| 8 | [Loba](https://open.spotify.com/track/4MW2HjdMlRBmfkYtykVyFp) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju), [Mantoi](https://open.spotify.com/artist/7mulO6IWsc8VZEC1aSPZ1e), [Sinzer](https://open.spotify.com/artist/66DVekZPewVIPPnYWQulLt) | [Luna](https://open.spotify.com/album/0FwQVJrKK4Cf5Z6wpZTQed) | 4:24 |
+| 7 | [Loba](https://open.spotify.com/track/4MW2HjdMlRBmfkYtykVyFp) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju), [Mantoi](https://open.spotify.com/artist/7mulO6IWsc8VZEC1aSPZ1e), [Sinzer](https://open.spotify.com/artist/66DVekZPewVIPPnYWQulLt) | [Luna](https://open.spotify.com/album/0FwQVJrKK4Cf5Z6wpZTQed) | 4:24 |
+| 8 | [Milagros en el Caos](https://open.spotify.com/track/6gcyAjhtJ6CjYVkXKDv5d1) | [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Tresktorce](https://open.spotify.com/artist/7qqZnLTJGUoq0wyxy46BI4), [D2habiles](https://open.spotify.com/artist/6ZL8v9lb8RZIMRmDOCKvPT) | [Milagros en el Caos](https://open.spotify.com/album/5G6ODkAnqyuXdDhFA0VyUA) | 3:48 |
 | 9 | [Finomeno \#04 A.K.A O.KK.O](https://open.spotify.com/track/5HTiYO8aNI5A0SeAty5Ctb) | [Rolando Fino](https://open.spotify.com/artist/0nWQFQ4H6oSqPvxWubRaIQ), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Suppra](https://open.spotify.com/artist/3WMr1bTsvQEfmjzgzSx98b), [Frainstrumentos](https://open.spotify.com/artist/1XIFZexGu17xwWAjdFBLwI) | [Finomeno \#04 A.K.A O.KK.O](https://open.spotify.com/album/0U5PbvxYk2l1Y3zxGKSzO1) | 3:45 |
 | 10 | [Mil Vidas](https://open.spotify.com/track/0GvZmwNcfP2rigLEIhrg7y) | [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg) | [Magia](https://open.spotify.com/album/1Tx7bQqx88Qi0cnxYqBQy6) | 3:08 |
 | 11 | [Phiesta](https://open.spotify.com/track/0Mm0wQVuoZQRPFDo4hgFW7) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Phiesta](https://open.spotify.com/album/1N8qdQjaioKfCtIwkXcrds) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 99 | [Cuentos](https://open.spotify.com/track/1Qo4WtxrJ11TRLiwnMpxkJ) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Cuentos](https://open.spotify.com/album/7a5a20D7POPe4lKraQkpVf) | 3:12 |
 | 100 | [De Donde Vengo](https://open.spotify.com/track/0B7YG0Rd4Jp3IMwaq6mAJL) | [Rapacortes](https://open.spotify.com/artist/4vpADGNWS3zDDxd2hQrOoM), [Kainos Mc](https://open.spotify.com/artist/24GzJuRlLgJhXKlIivLtFx) | [De Donde Vengo](https://open.spotify.com/album/7rmjij4qA9ZnOzZEPAwvAb) | 3:24 |
 
-Snapshot ID: `MCxjOGY5ZmJlOWExMGYyMmE5ZmVhYWU5NzA3NGM0YjUzMzI1MzFlNTI3`
+Snapshot ID: `MCw0M2M0MmQwYTc4ZDQxODZiODA1ZWRhMDVjNzMzZjIwNGEwYmYxY2Ri`

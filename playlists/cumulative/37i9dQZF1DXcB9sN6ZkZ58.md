@@ -4,7 +4,7 @@
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-136 songs - 5 hr 5 min
+137 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Eat Your Vegetables](https://open.spotify.com/track/7qXhPWK8VR2gJCGZPObT2U) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [My Favorite Rapper Is a Panda](https://open.spotify.com/album/6Qt49bY8iTOfbEbsJjCFzx) | 3:26 | 2022-04-05 |  |
 | [Edamame](https://open.spotify.com/track/36lnAVGACfOfLoOJx7XOkM) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [Music for Tots](https://open.spotify.com/album/1EUb0cGlwTpY36OH65FiO2) | 1:52 | 2022-04-05 |  |
 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 | 2022-04-05 |  |
-| [Fonky Food](https://open.spotify.com/track/17bXyzZutYIOEvwokdLBen) | [Formidable Vegetable](https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT) | [Garbage Guts](https://open.spotify.com/album/6TkleCwedPYt7eeRQe8no9) | 3:06 | 2022-04-05 |  |
+| [Fonky Food](https://open.spotify.com/track/17bXyzZutYIOEvwokdLBen) | [Formidable Vegetable](https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT) | [Garbage Guts](https://open.spotify.com/album/6TkleCwedPYt7eeRQe8no9) | 3:06 | 2022-04-05 | 2023-10-02 |
+| [Fonky Food](https://open.spotify.com/track/3ZUf1XW4tPO6JZySphvteo) | [Formidable Vegetable](https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT) | [Garbage Guts](https://open.spotify.com/album/3rhyPmh2KoHRrepxiygVIk) | 3:06 | 2022-04-05 |  |
 | [Food Songs](https://open.spotify.com/track/6bjWN0h8PH2hso2JUvK7hG) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Go!](https://open.spotify.com/album/6o2B1S43upwy3y1eBDvbSl) | 2:22 | 2022-04-05 |  |
 | [Fruit Has Seeds](https://open.spotify.com/track/0FtNUX33cZaAINdQ1yAEBI) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 2:26 | 2022-04-05 |  |
 | [Fruit Salad](https://open.spotify.com/track/6RxM8CU1h3OJ1p0v8JRLsA) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hot Potatoes! The Best of The Wiggles](https://open.spotify.com/album/4E3YeOlS3XChnyBE1kpgwj) | 2:27 | 2022-04-05 | 2022-07-29 |

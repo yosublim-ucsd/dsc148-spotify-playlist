@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,313 songs - 2 day 1 hr 26 min
+1,314 songs - 2 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [In My Mind](https://open.spotify.com/track/79Qncq9X02HoE3AvSz7HZt) | [Raven Paradox](https://open.spotify.com/artist/6kOg93cYVJ8rQile4irBtc) | [In My Mind](https://open.spotify.com/album/3xrXU507RQMBgeqPo54hha) | 1:38 | 2022-09-09 | 2023-09-16 |
 | [In Parallell](https://open.spotify.com/track/2CV7GxX3vg5GYqBORRdCpR) | [Interscope](https://open.spotify.com/artist/288kcmSAmoRYgLiRKXTeZt) | [In Parallell](https://open.spotify.com/album/0GLUqN8vKfHSPsYsDwcWM1) | 1:46 | 2022-01-27 | 2022-06-10 |
 | [In Stereo](https://open.spotify.com/track/62iBZdo6p0XdcEzEgXtMzb) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [In Stereo](https://open.spotify.com/album/5zIfnaGoXMBTw3ifSBFxeJ) | 1:52 | 2022-10-28 | 2023-09-29 |
+| [In the Mood \- Instrumental](https://open.spotify.com/track/5qNfTRKQtMCWZSMQ4yQHc6) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Chuuwee](https://open.spotify.com/artist/6ZBnvCszokLW4YHZ50uHY8), [Jaz Lund](https://open.spotify.com/artist/76wFPyb3pS7rjiDOJOeS7P) | [Dreaming Hills \(Extras\)](https://open.spotify.com/album/01SxP0WBT6TiJYiTDZnAKr) | 2:52 | 2023-09-29 |  |
 | [In The Mood For Coffee](https://open.spotify.com/track/1f3o2sG628NdG1WnMGfxUp) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [In The Mood For Coffee](https://open.spotify.com/album/6GwK4fEPO8ywjMxs2ftsip) | 2:51 | 2022-11-11 |  |
 | [In The Third Move](https://open.spotify.com/track/5uAhIMnDPNjRNeiH5tDtqy) | [Waveum](https://open.spotify.com/artist/2VZ5HYVxp79hu5qJ4imfTo) | [In The Third Move](https://open.spotify.com/album/5UQAehoNPZ5gpD6wnYg1Xv) | 1:24 | 2022-01-27 | 2022-07-15 |
 | [In Your Slipstream](https://open.spotify.com/track/1wxcBv3bOUfwttkauONOb6) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Slipstreamin'](https://open.spotify.com/album/2zbCqsUvKvnZde2Ak9KXQK) | 2:08 | 2022-09-23 | 2023-09-29 |
@@ -600,7 +601,7 @@
 | [Keep It Movin'](https://open.spotify.com/track/2P67A2C3EQ1GdzYM1LfAJD) | [Hands](https://open.spotify.com/artist/0N1Cn6TEMkmCdlt2YQkK9N) | [Keep It Movin'](https://open.spotify.com/album/3N8YjN6xrLM2E8RC9x9RZX) | 1:32 | 2022-05-13 | 2022-11-26 |
 | [Keeping it Simple](https://open.spotify.com/track/2EroBxY4W8upCJjPw1BLgy) | [ps\-www](https://open.spotify.com/artist/6XVRxs1WvIk0T0h3pdhCyp) | [Keeping it Simple](https://open.spotify.com/album/4Ha7Uno2UwquGMGMoiy70r) | 2:38 | 2022-01-27 | 2022-08-19 |
 | [Khushi](https://open.spotify.com/track/5JqTBl0Dx1lnXiryzSzABE) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Yaatra](https://open.spotify.com/album/2QTCNSD0a6ihWvp0oOo0ck) | 2:21 | 2023-08-03 |  |
-| [Knalltrött](https://open.spotify.com/track/4fmb0XpJ5vytptcBM7tCtz) | [Overklig](https://open.spotify.com/artist/44GjBAdTaRpLUjQi7wJMa2) | [Knalltrött](https://open.spotify.com/album/5MCeV7auQsyWbJoi5axjrN) | 2:30 | 2022-09-23 |  |
+| [Knalltrött](https://open.spotify.com/track/4fmb0XpJ5vytptcBM7tCtz) | [Overklig](https://open.spotify.com/artist/44GjBAdTaRpLUjQi7wJMa2) | [Knalltrött](https://open.spotify.com/album/5MCeV7auQsyWbJoi5axjrN) | 2:30 | 2022-09-23 | 2023-10-02 |
 | [Kodomo](https://open.spotify.com/track/22oZLEhweK52rticJhnJqZ) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Kodomo](https://open.spotify.com/album/0MzVhaUMhAQuB5ZKC8bPf5) | 2:00 | 2023-04-20 |  |
 | [Koonig](https://open.spotify.com/track/40f7OkaDd6iitj9xSsVR27) | [ooxtn](https://open.spotify.com/artist/7yhPoRUBHLBmQCBv5ZPwwD), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Koonig](https://open.spotify.com/album/2McTFxMBgpCO88QiHjD1Rm) | 2:12 | 2022-05-13 | 2022-11-26 |
 | [Koza](https://open.spotify.com/track/3K2kM7sVauIUtxBJP7LvjB) | [Oddability](https://open.spotify.com/artist/2mjU7FFvohRKtvj3xgRkqk), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Koza](https://open.spotify.com/album/18gOvTKXO2qNre4TF86xnW) | 2:22 | 2022-10-15 | 2023-09-05 |

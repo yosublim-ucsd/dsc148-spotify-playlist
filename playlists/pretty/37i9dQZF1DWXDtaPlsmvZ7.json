@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 105765,
+  "num_followers": 105787,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmE0MWI5ZmU1ZmZkODAyNGQ3MTRkMTk1NTkzYjQxZDlmMmViZDc0",
+  "snapshot_id": "MCwyM2JiNTkwYmIyNjM0YWFlZGFlMTc4MGRmN2U5MTY0ZmE2OGY0N2Vk",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Un Poco Locos (Edici\u00f3n De Lujo)",
-        "url": "https://open.spotify.com/album/7e5WnX4OclEABi7QJfLj7v"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Yo Te Pido Amor",
-      "url": "https://open.spotify.com/track/4dbQHs5xcUXdA2ZOF2Cf8M"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 197276,
       "name": "Ji Ji Ji",
       "url": "https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Un Poco Locos (Edici\u00f3n De Lujo)",
+        "url": "https://open.spotify.com/album/7e5WnX4OclEABi7QJfLj7v"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Yo Te Pido Amor",
+      "url": "https://open.spotify.com/track/4dbQHs5xcUXdA2ZOF2Cf8M"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Ya Me Enter\u00e9",
-        "url": "https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Traicionero",
         "url": "https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD"
       },
@@ -803,22 +787,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Fuiste Tu",
-        "url": "https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9"
+        "name": "Ya Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb"
       },
       "artists": [
         {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
-        },
-        {
-          "name": "La Sonora Gigante",
-          "url": "https://open.spotify.com/artist/3Ky0xtfzwZFKcZ5Zs1U8tn"
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
         }
       ],
-      "duration_ms": 230184,
-      "name": "Fuiste Tu",
-      "url": "https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ"
+      "duration_ms": 158493,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -835,6 +815,26 @@
       "duration_ms": 153960,
       "name": "Si una Vez",
       "url": "https://open.spotify.com/track/00bZhYk9fm4ZL5wNfRXocn"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Fuiste Tu",
+        "url": "https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        },
+        {
+          "name": "La Sonora Gigante",
+          "url": "https://open.spotify.com/artist/3Ky0xtfzwZFKcZ5Zs1U8tn"
+        }
+      ],
+      "duration_ms": 230184,
+      "name": "Fuiste Tu",
+      "url": "https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Mil Horas",
-        "url": "https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        }
-      ],
-      "duration_ms": 227943,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Te Robar\u00e9",
         "url": "https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 210050,
       "name": "Te Robare",
       "url": "https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Mil Horas",
+        "url": "https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 227943,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Escapate Conmigo",
-        "url": "https://open.spotify.com/album/3YARinPkMU6eepOcuKnuEJ"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Para Bailar",
-          "url": "https://open.spotify.com/artist/5HJpp04iycnIUsoBcH59Oh"
-        }
-      ],
-      "duration_ms": 139361,
-      "name": "Escapate Conmigo",
-      "url": "https://open.spotify.com/track/6wklxdTR8NZGE0hsvQPKbV"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Los Miticos del Ritmo",
         "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 212746,
       "name": "Otro Muerde el Polvo (Another One Bites the Dust)",
       "url": "https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Escapate Conmigo",
+        "url": "https://open.spotify.com/album/3YARinPkMU6eepOcuKnuEJ"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Para Bailar",
+          "url": "https://open.spotify.com/artist/5HJpp04iycnIUsoBcH59Oh"
+        }
+      ],
+      "duration_ms": 139361,
+      "name": "Escapate Conmigo",
+      "url": "https://open.spotify.com/track/6wklxdTR8NZGE0hsvQPKbV"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Los Miticos del Ritmo",
+        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
+      },
+      "artists": [
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
+      "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Tropitango",
         "url": "https://open.spotify.com/album/4dOlABdZn7dUJwrzJCX4pb"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 180600,
       "name": "Ya No Tiene Novio - Version Cumbia",
       "url": "https://open.spotify.com/track/2akbizyZrFqGzUZzSUQiVq"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Los Miticos del Ritmo",
-        "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
-      },
-      "artists": [
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
-      "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Retro Con",
-        "url": "https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt"
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/7xyMJM00ssoz6JTx21Ugre"
       },
       "artists": [
         {
-          "name": "Musical\u00edsimo Fuego Indio",
-          "url": "https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN"
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
         }
       ],
-      "duration_ms": 205266,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO"
+      "duration_ms": 185200,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/4rHCsdlraJ36u00sqeVlzT"
     }
   ],
   "unique_name": "Cumbia Covers",

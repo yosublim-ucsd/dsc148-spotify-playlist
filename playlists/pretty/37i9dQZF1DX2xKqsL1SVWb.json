@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Dali Mata y Breton en portada.",
-  "num_followers": 96589,
+  "num_followers": 96594,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTBkNDhkZDhmMWQzZjk1MTAzZDdhOWQwY2QwY2ExNTI1NGMxYjU0",
+  "snapshot_id": "MCw0ODllOWQ4MjU3ZTNkMjMxYTllYmY4NjM4NDBmODhkMDljYTRjZjlk",
   "tracks": [
     {
       "added_at": "2023-09-01 16:37:39",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
-        "name": "Amar",
-        "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 179071,
-      "name": "Amar",
-      "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
-    },
-    {
-      "added_at": "2023-09-01 16:37:39",
-      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
+      "added_at": "2023-09-01 16:37:39",
+      "album": {
+        "name": "Amar",
+        "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 179071,
+      "name": "Amar",
+      "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
     },
     {
       "added_at": "2023-09-01 16:37:39",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
-        "name": "Siente Lo Que Siento",
-        "url": "https://open.spotify.com/album/2ANMr0EkMlQJrwqLkBae7h"
-      },
-      "artists": [
-        {
-          "name": "Carolina en Llamas",
-          "url": "https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Siente Lo Que Siento",
-      "url": "https://open.spotify.com/track/1R8V7nKleObC1wq6Mf8qGc"
-    },
-    {
-      "added_at": "2023-09-01 16:37:39",
-      "album": {
         "name": "El Fin",
         "url": "https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 177813,
       "name": "El Fin",
       "url": "https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N"
+    },
+    {
+      "added_at": "2023-09-01 16:37:39",
+      "album": {
+        "name": "Siente Lo Que Siento",
+        "url": "https://open.spotify.com/album/2ANMr0EkMlQJrwqLkBae7h"
+      },
+      "artists": [
+        {
+          "name": "Carolina en Llamas",
+          "url": "https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Siente Lo Que Siento",
+      "url": "https://open.spotify.com/track/1R8V7nKleObC1wq6Mf8qGc"
     },
     {
       "added_at": "2023-09-01 16:37:39",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-09-01 16:37:39",
       "album": {
-        "name": "Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/1k8eERaYIlNo3PI5VOx2Eo"
+        "name": "La Triste Historia de un Cazafantasmas Retirado",
+        "url": "https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus"
       },
       "artists": [
         {
-          "name": "Bella \u00c1lvarez",
-          "url": "https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs"
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
         }
       ],
-      "duration_ms": 211382,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/43p7kAVqa4CYkwQtl0ZBb3"
+      "duration_ms": 214500,
+      "name": "La Triste Historia de un Cazafantasmas Retirado",
+      "url": "https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p"
     }
   ],
   "unique_name": "madera y miel",

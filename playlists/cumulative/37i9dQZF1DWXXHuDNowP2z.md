@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-270 songs - 15 hr 15 min
+271 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,9 +89,10 @@
 | [El Tecolotito](https://open.spotify.com/track/1iMcb6dkCoKbLIp9akziVk) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/4PDZDbLCOpmhn7n47Qulko) | 3:36 | 2022-04-08 | 2022-07-29 |
 | [El Tecolotito](https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF) | 3:36 | 2022-04-08 |  |
 | [El Teterete](https://open.spotify.com/track/4hwq3Fwh2YotxDBndS8cKk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH) | 2:56 | 2022-04-08 | 2022-07-29 |
+| [El Teterete](https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj) | 2:56 | 2023-08-08 |  |
 | [El Teterete](https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:57 | 2022-04-08 | 2023-09-27 |
 | [El Teterete](https://open.spotify.com/track/13ij1Ky8BF3w0vClKmeqHz) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/7GmPWgPhUzQUVZXz6VCpTG) | 2:57 | 2023-08-08 | 2023-09-30 |
-| [El Teterete](https://open.spotify.com/track/5Ix3JHCbepRUkc83JCvXmi) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/2uL2olKIqN1qw8lFXwh6by) | 2:57 | 2023-08-08 |  |
+| [El Teterete](https://open.spotify.com/track/5Ix3JHCbepRUkc83JCvXmi) | [Banda Sonora](https://open.spotify.com/artist/4NfqzDNH8uZrcIIlURQgbg) | [Clásicos de Oro](https://open.spotify.com/album/2uL2olKIqN1qw8lFXwh6by) | 2:57 | 2023-08-08 | 2023-10-02 |
 | [El Toro Pinto](https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Exitos](https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj) | 4:49 | 2022-04-08 |  |
 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 | 2022-04-08 |  |
 | [El Vaquero](https://open.spotify.com/track/7HEISozQwYYU9JGUnQuxA7) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Comenzando Nuestra Historia](https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E) | 2:33 | 2022-04-08 |  |

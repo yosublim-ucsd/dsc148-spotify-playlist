@@ -708,7 +708,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 124455,
       "name": "A Dona Aranha",
       "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 203453,
       "name": "Al\u00f4 Novinha na Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6JP3AqdFKj99jfW3hOwfta"
@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 133546,
       "name": "Barulho Do Foguete - Ao Vivo",
       "url": "https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS"
@@ -7424,7 +7424,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 128653,
       "name": "Como Eu Te Amo, Tricolor",
       "url": "https://open.spotify.com/track/5dwGzWy5SV4wZCRsycsQIS"
@@ -8691,6 +8691,32 @@
     },
     {
       "album": {
+        "name": "BAILE",
+        "url": "https://open.spotify.com/album/0PsH3WANJaTcff9FpPDE6i"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        },
+        {
+          "name": "Djair Voz Cristalina",
+          "url": "https://open.spotify.com/artist/1qzYDddfeFcW5LbpjIvxLz"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162523,
+      "name": "Del\u00edrios",
+      "url": "https://open.spotify.com/track/546KHf7B5TeIifYB1gVZ9E"
+    },
+    {
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py"
       },
@@ -9466,7 +9492,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 315986,
       "name": "Diggy Diggy Hole",
       "url": "https://open.spotify.com/track/0FDY2EHOv32kUoqplU1hdY"
@@ -20997,6 +21023,24 @@
     },
     {
       "album": {
+        "name": "MONTAGEM CORAL",
+        "url": "https://open.spotify.com/album/2OKsctX02r3R3qhyq64mSG"
+      },
+      "artists": [
+        {
+          "name": "somai",
+          "url": "https://open.spotify.com/artist/6q8Xr34whpzJxsu3lax6fh"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145188,
+      "name": "MONTAGEM CORAL",
+      "url": "https://open.spotify.com/track/3XxgfnKzZAc8hZlsjBCOIK"
+    },
+    {
+      "album": {
         "name": "Montagem dos Anos 90",
         "url": "https://open.spotify.com/album/6zwwPB4jVRHZ1BLCmvjoyA"
       },
@@ -31022,6 +31066,24 @@
       "duration_ms": 162909,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/203bhpOhWluOytYjvwQfl7"
+    },
+    {
+      "album": {
+        "name": "Nonsense, Vol. 1",
+        "url": "https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239727,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1UVquahdeg6mRYDTHFKRx0"
     },
     {
       "album": {

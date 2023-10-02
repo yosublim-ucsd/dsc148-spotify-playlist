@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8656,
+  "num_followers": 8655,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTdmYTU4ZWFkY2JlOWQ4YjhkMzc0YjQ1MDJiM2NlYzg4ZjhiMDVl",
+  "snapshot_id": "MCxmOTNiZDhmZmFiODhhZWE1YmIwMjFiZWEwMDU3MDJkODdiZjNiYTg2",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/4eFyjZxTpRbmYDdjYpgWjI"
+      },
+      "artists": [
+        {
+          "name": "Somaya",
+          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
+        }
+      ],
+      "duration_ms": 203997,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/4A4K4HsjZkKJ56qJI2oRhV"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Round and Round (Bright Light Bright Light Remix)",
         "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 216842,
       "name": "Round and Round (Bright Light Bright Light Remix)",
       "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/4eFyjZxTpRbmYDdjYpgWjI"
-      },
-      "artists": [
-        {
-          "name": "Somaya",
-          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
-        }
-      ],
-      "duration_ms": 203997,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/4A4K4HsjZkKJ56qJI2oRhV"
     }
   ],
   "unique_name": "API Pride",

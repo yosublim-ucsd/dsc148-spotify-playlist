@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTZhMjBlYWQ1YzU2NDE1ZjFmZDMxZmNjMjhlNmYxYTE1Yzg4OTZl",
+  "snapshot_id": "MCwzOTM2NGFkM2Y5ZjA4M2E3Y2I1N2VkNGMzM2U5ZDM3MWY5ZDNkYjM1",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -959,18 +959,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "High Visibility",
-        "url": "https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx"
+        "name": "Death Song",
+        "url": "https://open.spotify.com/album/60Ly6kzhlFatwt5VxiiOom"
       },
       "artists": [
         {
-          "name": "The Hellacopters",
-          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
+          "name": "The Black Angels",
+          "url": "https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP"
         }
       ],
-      "duration_ms": 240600,
-      "name": "No Song Unheard",
-      "url": "https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed"
+      "duration_ms": 316533,
+      "name": "Currency",
+      "url": "https://open.spotify.com/track/1rm3aoImJKt5gW1pet7Vat"
     }
   ],
   "unique_name": "Sun & Surf",

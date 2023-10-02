@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3486,
+  "num_followers": 3487,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjVjYzBlNjVmZmNlMjQxOGRjMDM0NTdjN2E3NWFlNzBlNTJiYTEx",
+  "snapshot_id": "MCw2MjUyYTBhNTEwMmE3YzJlM2FmNWJhNjFlOTM3MTYyZjcxYmUzNTZi",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -259,6 +259,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        }
+      ],
+      "duration_ms": 183810,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Puerto Rico",
         "url": "https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G"
       },
@@ -355,26 +371,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Quiribi (Yamil Remix)",
-        "url": "https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL"
-      },
-      "artists": [
-        {
-          "name": "Rosalinda de la Espada",
-          "url": "https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl"
-        },
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 366093,
-      "name": "Quiribi - Yamil Remix",
-      "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Sway (Mucho Mambo)",
         "url": "https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr"
       },
@@ -391,6 +387,26 @@
       "duration_ms": 159360,
       "name": "Sway (Mucho Mambo)",
       "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Quiribi (Yamil Remix)",
+        "url": "https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL"
+      },
+      "artists": [
+        {
+          "name": "Rosalinda de la Espada",
+          "url": "https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl"
+        },
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 366093,
+      "name": "Quiribi - Yamil Remix",
+      "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -467,26 +483,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Si Tu Sabe",
-        "url": "https://open.spotify.com/album/03V2IM59Iri9BtuHB1Vlll"
-      },
-      "artists": [
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        },
-        {
-          "name": "Dipzy",
-          "url": "https://open.spotify.com/artist/5piZAMtqB9RrIxmXSWJ7q9"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Si Tu Sabe",
-      "url": "https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Bailar Riddim",
         "url": "https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx"
       },
@@ -519,6 +515,26 @@
       "duration_ms": 437556,
       "name": "Tribesmen - Original Mix",
       "url": "https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Si Tu Sabe",
+        "url": "https://open.spotify.com/album/03V2IM59Iri9BtuHB1Vlll"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "Dipzy",
+          "url": "https://open.spotify.com/artist/5piZAMtqB9RrIxmXSWJ7q9"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Si Tu Sabe",
+      "url": "https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -575,22 +591,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Dirty Spanish",
-        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
-      },
-      "artists": [
-        {
-          "name": "Sam Blans",
-          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
-        }
-      ],
-      "duration_ms": 274833,
-      "name": "Dirty Spanish",
-      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Brisas Del Mar",
         "url": "https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 196500,
       "name": "Brisas Del Mar",
       "url": "https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Dirty Spanish",
+        "url": "https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf"
+      },
+      "artists": [
+        {
+          "name": "Sam Blans",
+          "url": "https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi"
+        }
+      ],
+      "duration_ms": 274833,
+      "name": "Dirty Spanish",
+      "url": "https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -675,22 +691,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Di Nobo / Shonuff",
-        "url": "https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Di Nobo",
-      "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 149250,
       "name": "Quem\u00e1",
       "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Di Nobo / Shonuff",
+        "url": "https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Di Nobo",
+      "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -931,22 +947,6 @@
       "duration_ms": 355680,
       "name": "Felicidad - Colombian Mix",
       "url": "https://open.spotify.com/track/179w55cexITAFHwisxwRaE"
-    },
-    {
-      "added_at": "2021-11-05 06:05:00",
-      "album": {
-        "name": "Cumbia Tropical",
-        "url": "https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn"
-      },
-      "artists": [
-        {
-          "name": "Ilary Montanari",
-          "url": "https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA"
-        }
-      ],
-      "duration_ms": 381899,
-      "name": "Cumbia Tropical",
-      "url": "https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW"
     }
   ],
   "unique_name": "Alma",

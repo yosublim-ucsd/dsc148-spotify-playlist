@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-182 songs - 9 hr 20 min
+183 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,9 @@
 | [Floating](https://open.spotify.com/track/2hofoCNuOAcfp4X9R4vuxB) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Floating](https://open.spotify.com/album/75kKVn3AHBrFeE0XBKzwyA) | 3:21 | 2019-12-10 | 2022-07-29 |
 | [Floating](https://open.spotify.com/track/5t3FyZsyT4dsI32ZeftWpc) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Floating](https://open.spotify.com/album/5bG3rYE5BjLYnpUiofulkH) | 3:21 | 2019-12-10 |  |
 | [Foreign](https://open.spotify.com/track/0uSDgxhgiCoINznpSytYJB) | [Yung Reece](https://open.spotify.com/artist/6peovfLhgtb7BeiaTUI1Yl) | [Foreign](https://open.spotify.com/album/2Pzupmo7Whwo5fTo2EZMQb) | 2:26 | 2019-12-10 |  |
-| [Fresh Air](https://open.spotify.com/track/1NFNa1nGPnwdmcHO5XQ7Ui) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE), [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Fresh Air](https://open.spotify.com/album/4OP99LS15fHzssETt4q6ce) | 3:30 | 2019-12-10 |  |
+| [Fresh Air](https://open.spotify.com/track/1NFNa1nGPnwdmcHO5XQ7Ui) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE), [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Fresh Air](https://open.spotify.com/album/4OP99LS15fHzssETt4q6ce) | 3:30 | 2019-12-10 | 2023-10-02 |
 | [Fresh Air](https://open.spotify.com/track/3gc6FK8cVsdSb3RIq21C8V) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE), [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Jackie](https://open.spotify.com/album/3GmLZdSugxGxuninHFvvk4) | 3:30 | 2019-12-10 | 2022-07-29 |
+| [Fresh Air](https://open.spotify.com/track/30NAF18yQGvwKrbn1IEMKn) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE), [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Fresh Air](https://open.spotify.com/album/5pF4DFW3sI1lzFNUFqXfRb) | 3:30 | 2019-12-10 |  |
 | [Fuckboy](https://open.spotify.com/track/05XpoWw7JYRohKMRTnaWg9) | [BAUM](https://open.spotify.com/artist/4XUgU65QR7O1xlzuRRCcUQ) | [Fuckboy](https://open.spotify.com/album/2TRiBsR9hLYX1Zesd66AdU) | 3:00 | 2019-12-10 | 2022-11-25 |
 | [Fuckboy](https://open.spotify.com/track/2CEbsTJ0q3Z6ld2lkJ8Q8c) | [BAUM](https://open.spotify.com/artist/4XUgU65QR7O1xlzuRRCcUQ) | [Fuckboy](https://open.spotify.com/album/7a6357TgSeKzQsTU9eLdf9) | 3:00 | 2019-12-10 | 2022-10-13 |
 | [Fuckboy](https://open.spotify.com/track/78qLNsfY3uVO1B40fcQMmA) | [BAUM](https://open.spotify.com/artist/4XUgU65QR7O1xlzuRRCcUQ) | [Fuckboy](https://open.spotify.com/album/5qdP91YC6kTRH0CXGunKxl) | 3:00 | 2019-12-10 |  |

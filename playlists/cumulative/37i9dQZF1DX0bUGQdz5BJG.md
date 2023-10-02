@@ -2,7 +2,7 @@
 
 ### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
-> Music City must\-hears\. Cover: Alex Hall
+> Music City must\-hears\. Cover: John Morgan
 
 1,660 songs - 3 day 16 hr 59 min
 

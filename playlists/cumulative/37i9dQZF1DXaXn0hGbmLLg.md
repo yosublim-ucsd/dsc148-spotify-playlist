@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! <a href="spotify:artist:3SCB3V2d5Loauz5tfo6Y5G">Wende</a> is EQUAL Netherlands ambassador for september
 
-1,155 songs - 2 day 13 hr 3 min
+1,156 songs - 2 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [Daddy Fever](https://open.spotify.com/track/1tljYqOLCvSmR311hO5al2) | [ANNNA](https://open.spotify.com/artist/6paIiBu0X4cvePrfNpD2QY) | [Daddy Fever](https://open.spotify.com/album/5KqVLVd0aPjpQUnuFtbjUZ) | 2:31 | 2023-08-01 | 2023-09-06 |
 | [Dagen](https://open.spotify.com/track/0zYc4My4Biwz4FPJoFmaCV) | [Tamara van Esch](https://open.spotify.com/artist/6I0aljI1BGURKG86BHka5C) | [Dagen](https://open.spotify.com/album/2ApgFeOLZYvEFqm346gFVI) | 3:41 | 2022-05-03 | 2022-06-01 |
 | [Dagmerrie](https://open.spotify.com/track/69GwkNUQgKNMV1Pob0UMOF) | [MINKA](https://open.spotify.com/artist/0HgQY4O4R9rhWUXT5yRL37) | [Link](https://open.spotify.com/album/29rc7WTKDEUaW2o1uThvDt) | 3:25 | 2022-06-01 | 2022-07-06 |
-| [Damage Control](https://open.spotify.com/track/40EWsnJNOACyMFHlroQ9Ai) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA) | [Damage Control](https://open.spotify.com/album/7MbihxG0bfiHJV3tFmu7kH) | 2:49 | 2023-09-05 |  |
+| [Damage Control](https://open.spotify.com/track/40EWsnJNOACyMFHlroQ9Ai) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA) | [Damage Control](https://open.spotify.com/album/7MbihxG0bfiHJV3tFmu7kH) | 2:49 | 2023-09-05 | 2023-10-02 |
+| [Damage Control](https://open.spotify.com/track/4vUZNmV0ipFUf0t0IqT2EQ) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA) | [Silent Treatment](https://open.spotify.com/album/0rFtXWLjCfpC6teIiE1i6l) | 2:49 | 2023-09-05 |  |
 | [Dance Under The Light](https://open.spotify.com/track/65WYRFc35XLGYfQG0QPrJ5) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW) | [Dance Under The Light](https://open.spotify.com/album/4ZpglyhLiLujwjgeLqXg3u) | 2:23 | 2022-11-01 | 2022-11-30 |
 | [Dancefloor](https://open.spotify.com/track/2NFbkKJEiibdgjgzxay01f) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Dancefloor](https://open.spotify.com/album/7wSh70BVmuy7h3sa8CPaSW) | 3:15 | 2023-07-04 | 2023-08-02 |
 | [Dancer](https://open.spotify.com/track/7hvXgrKEl2Yh31AxyR6aTI) | [Pitou](https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va) | [Dancer](https://open.spotify.com/album/5vHZ2R4UawtItTSYPgVM0B) | 3:45 | 2022-11-01 | 2022-11-30 |

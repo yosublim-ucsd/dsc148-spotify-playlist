@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Khatth , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,817 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,845 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Starting Now](https://open.spotify.com/track/2RrrBan1UEgGM3C15RHbpg) | [Postcard17](https://open.spotify.com/artist/7JVLj2aW4SlCtsnCjWunkz) | [Starting Now](https://open.spotify.com/album/54dxanZEoxqukmYhsslk2s) | 4:14 |
 | 100 | [Door Kahin](https://open.spotify.com/track/6Dl5qDXEoErNhUcH0NBDdB) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Door Kahin](https://open.spotify.com/album/3LSrmX5b1H3Y2stUBR8OEs) | 3:24 |
 
-Snapshot ID: `MCw0YWMwZTg3NThhNDNhMmIxODBjNTJmZjc4ZGVjOWY5Y2I1MWU2ZjI0`
+Snapshot ID: `MCw2YWExNjNjYmJkYzUyNzdiNWI4YmRhYjEzOGYwMmE0MGY1YTM5OTZl`

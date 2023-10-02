@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: j.flowers.mp3 & Ralph Taylor
 
-1,293 songs - 2 day 21 hr 15 min
+1,294 songs - 2 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1253,7 +1253,8 @@
 | [Way That You Are](https://open.spotify.com/track/39qxp1ZO3GdRZ7gbM99UFc) | [Daire Patel](https://open.spotify.com/artist/0qEjllyc5VRbiwOINKPR0G) | [Pretty Sweet](https://open.spotify.com/album/2X5m5sYF7GnxP5phSYCiR0) | 3:21 | 2023-01-04 | 2023-03-02 |
 | [We Just Want To Be Loved](https://open.spotify.com/track/4EmejNQ64gnzGIaHFUDdxI) | [Kate Bond](https://open.spotify.com/artist/3CWmhXjbBDZxRyKgmsmuO3) | [We Just Want To Be Loved](https://open.spotify.com/album/03cs0j2o9TwWJJNVMR1riH) | 3:31 | 2022-08-10 | 2022-09-09 |
 | [We'll Be Alreet](https://open.spotify.com/track/5wqlwFwHMCrVo4bKSjM17X) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [We'll Be Alreet](https://open.spotify.com/album/2GzKx7KP1WCpmNp59035C6) | 2:57 | 2023-07-11 | 2023-08-16 |
-| [Weak](https://open.spotify.com/track/1yX7JkdUfI1FG4ztLnMOwA) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK), [Rarelyalways](https://open.spotify.com/artist/3c5Rhv29mDcpjzPxpwxdb9) | [Weak](https://open.spotify.com/album/6NXqG9RAlFQcJAUx0ZYyBy) | 4:08 | 2023-09-19 |  |
+| [Weak](https://open.spotify.com/track/1OBbroydTzjTpLMxTkQKeV) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK), [Rarelyalways](https://open.spotify.com/artist/3c5Rhv29mDcpjzPxpwxdb9) | [Warped Soul](https://open.spotify.com/album/6fmZMYYSkKtMlNpbZPvfVQ) | 4:08 | 2023-09-26 |  |
+| [Weak](https://open.spotify.com/track/1yX7JkdUfI1FG4ztLnMOwA) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK), [Rarelyalways](https://open.spotify.com/artist/3c5Rhv29mDcpjzPxpwxdb9) | [Weak](https://open.spotify.com/album/6NXqG9RAlFQcJAUx0ZYyBy) | 4:08 | 2023-09-19 | 2023-10-02 |
 | [Weekend Girlfriend](https://open.spotify.com/track/4vs0coIt8Co8x5n50tcv00) | [Viddy](https://open.spotify.com/artist/6JUOx3eoJFvYUKLJ01JFIW) | [Weekend Girlfriend](https://open.spotify.com/album/1j1c5aK2d95028Gko9F8iw) | 3:28 | 2023-02-01 | 2023-03-16 |
 | [west end wedding](https://open.spotify.com/track/2mVexm6N0zJQoZo3kJ1AKl) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [west end wedding](https://open.spotify.com/album/72DyXZ8yZTo9IU5EST8ZAm) | 2:43 | 2023-08-01 | 2023-09-06 |
 | [what a day \(to rot away\)](https://open.spotify.com/track/126dfEMHR1sGv6X80HIsTT) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [what a day \(to rot away\)](https://open.spotify.com/album/2oH51ecIbCnrHAKPNpsYri) | 2:35 | 2023-08-01 | 2023-09-06 |

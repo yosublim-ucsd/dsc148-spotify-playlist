@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 51403,
+  "num_followers": 51491,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjA4NGNiNTc0OWM1NTNjNTBlNDE3ODI4YjEwNjM1MGM5NjlhYzc4",
+  "snapshot_id": "MCwwZTIzNjlhYWM0YTYxMTcwZjQwN2VkNzU4MjJjZGUzYTJlMTk3ZThl",
   "tracks": [
     {
       "added_at": "2023-09-18 17:33:17",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "Karen Carpenter",
-        "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
-      },
-      "artists": [
-        {
-          "name": "Karen Carpenter",
-          "url": "https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "My Body Keeps Changing My Mind",
-      "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "Inner Life",
         "url": "https://open.spotify.com/album/7ldc7KAIZ3JmsuCwIHcS2B"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 479600,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/51uChSR8zp4cui4tLqiXb6"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "Karen Carpenter",
+        "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
+      },
+      "artists": [
+        {
+          "name": "Karen Carpenter",
+          "url": "https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "My Body Keeps Changing My Mind",
+      "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
     },
     {
       "added_at": "2023-09-18 17:33:17",

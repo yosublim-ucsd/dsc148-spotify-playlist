@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Baseball star Francisco Alvarez is bringing the heat this week\. 🔥 Listen to all the mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,915,576 likes - 25 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,915,644 likes - 25 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [HORA CERO](https://open.spotify.com/track/5elf7rWt5uFffJvluUfwon) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [HORA CERO](https://open.spotify.com/album/2TmuI8IEYfaR7UFcI6YBnf) | 3:51 |
 | 25 | [25/8](https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:03 |
 
-Snapshot ID: `MCwwOWQxNWY3YTI2Njg5MWNkYTNlZjcwNDhmMGU2M2YzN2NjNmRkYWQz`
+Snapshot ID: `MCxhM2U3Y2E5ZGVjY2FkMzkwOTFiOGRmMjhjMWVjYzQxZDU3YzRjZGNl`

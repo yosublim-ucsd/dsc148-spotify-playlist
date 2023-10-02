@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Natos y Waor, Delaossa, Ill Pekeño
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,033 likes - 45 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,152 likes - 45 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 44 | [Nana](https://open.spotify.com/track/2kZ1CuF4YhcxZfoHyCq6JM) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Nana](https://open.spotify.com/album/78CkLda43EMXmQ20Brjb9D) | 4:56 |
 | 45 | [Platos rotos](https://open.spotify.com/track/6XX87ga7zsm14jRTzspgnM) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Luna llena](https://open.spotify.com/album/7wgNRpq6MqrRHGRKUaUZTu) | 3:42 |
 
-Snapshot ID: `MCw4ZDgwMjc2MTM3ZjE0MWIyZWUxN2E4NjBjZmE4ZjkzNjBjZGVkMTg2`
+Snapshot ID: `MCw4YzNkNTA4YzRhNDk2ZjA3ZDQ1YjZiZTc4ZTg4NDljMmEzYWFhZTAy`

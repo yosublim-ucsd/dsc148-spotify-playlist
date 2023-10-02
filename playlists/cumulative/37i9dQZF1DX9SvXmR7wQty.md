@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Roxane Bruneau, Souldia
 
-2,073 songs - 4 day 14 hr 45 min
+2,074 songs - 4 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1402,7 +1402,7 @@
 | [Ours en cage](https://open.spotify.com/track/2UygN6kuMAaDHFXGywnB4Q) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE), [Gxlden](https://open.spotify.com/artist/7B8bcVe9PQZSS633ZQa9qo) | [Ours en cage](https://open.spotify.com/album/2NbGxEzsahYMFpnp95IPCt) | 2:21 | 2023-03-10 | 2023-03-25 |
 | [Outfit](https://open.spotify.com/track/3rsCRv584vweuDabWrHgRR) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw), [LEDOC](https://open.spotify.com/artist/5bR9oIpu664wSag91FUI9d) | [Outfit](https://open.spotify.com/album/3H1ZDOuNRN8VbTIQNNU31Q) | 2:55 | 2022-04-29 | 2022-05-07 |
 | [Outété](https://open.spotify.com/track/3GZCULuKsRR4FpnrKFkIe0) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Outété](https://open.spotify.com/album/05LPUIOpXEr1aItAeYscFP) | 3:05 | 2022-05-06 | 2022-05-14 |
-| [Ouvrir les yeux](https://open.spotify.com/track/5d069i6qYWZBBZMRy6cRaz) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Ouvrir les yeux](https://open.spotify.com/album/6jWhRZHy0gZieVkWxu35yb) | 3:23 | 2023-09-15 |  |
+| [Ouvrir les yeux](https://open.spotify.com/track/5d069i6qYWZBBZMRy6cRaz) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Ouvrir les yeux](https://open.spotify.com/album/6jWhRZHy0gZieVkWxu35yb) | 3:23 | 2023-09-15 | 2023-10-02 |
 | [Ovni \(C\-132\)](https://open.spotify.com/track/6ATlxhYNWlz0nAUJoeoyry) | [Matt Boudreau](https://open.spotify.com/artist/6r5xvxemxhGGIjDOqmO4wV) | [Ovni \(C\-132\)](https://open.spotify.com/album/40SV2LYDGopKziBbqHPljR) | 3:13 | 2022-01-28 | 2022-02-05 |
 | [Où tu voudras \(feat\. Tayc\)](https://open.spotify.com/track/18sI6BcfZWB5z77dSlQjqK) | [47ter](https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Où tu voudras \(feat\. Tayc\)](https://open.spotify.com/album/5MJy5brDsbiFiVHzc9eDcf) | 3:09 | 2023-04-14 | 2023-05-20 |
 | [P'tit village](https://open.spotify.com/track/7x8dg0DkvyVeU1vNG6HVAw) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [P'tit village](https://open.spotify.com/album/7J4D7KBNSJd23hVlKnGJ2X) | 2:22 | 2023-01-13 | 2023-01-28 |
@@ -1428,6 +1428,7 @@
 | [Parfaite à l'écran](https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Parfaite à l'écran](https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP) | 3:36 | 2023-05-19 | 2023-06-04 |
 | [Paris](https://open.spotify.com/track/381Ol9G2ibkIausZhbr6aX) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Paris](https://open.spotify.com/album/5O1nozJq79ZpHyAjcHEPta) | 3:10 | 2023-08-11 | 2023-08-26 |
 | [Parler au passé](https://open.spotify.com/track/1PbbKVA0yeSpTfyJiqFWiU) | [Francis Bedard](https://open.spotify.com/artist/3h8yd5Ig09beZqG3Gdg0u3) | [Parler au passé](https://open.spotify.com/album/10vvie4cumMML9NoDD2omk) | 3:01 | 2023-01-06 | 2023-01-21 |
+| [Parler de nous](https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Parler de nous](https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds) | 3:13 | 2023-09-29 |  |
 | [Parmi ces âmes](https://open.spotify.com/track/00aV6YbJQmkTMUuNNIj0Zh) | [Adib Alkhalidey](https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L) | [Pour tuer le temps](https://open.spotify.com/album/4n5gKWJsbpOqgXLpt8tMGy) | 4:41 | 2022-11-11 | 2022-12-03 |
 | [Parmi les autres](https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Parmi les autres](https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw) | 3:39 | 2023-03-03 | 2023-03-18 |
 | [Parmi toutes ces lettres](https://open.spotify.com/track/2y34aoUbz62cjyL4oovJBH) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Parmi toutes ces lettres](https://open.spotify.com/album/6oL5B5fpjc9nQmZohxDfWV) | 3:06 | 2022-03-18 | 2022-04-02 |

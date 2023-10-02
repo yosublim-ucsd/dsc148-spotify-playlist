@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,969 likes - 58 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,994 likes - 58 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 37 | [It Takes A Fool To Remain Sane](https://open.spotify.com/track/0o8Z3dm7aYP4J795FCcLRS) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [It Takes A Fool To Remain Sane](https://open.spotify.com/album/2W3VzoA7wMUashRCqURzZf) | 2:57 |
 | 38 | [Club Believer](https://open.spotify.com/track/16GcTUKAsORkkuSUm8AXeO) | [Jeak](https://open.spotify.com/artist/4JUettwlB4WVsbyV4nesPo), [Tiborg](https://open.spotify.com/artist/017LB7BYpa2Bmvzbkg0fHE) | [Electronic Dance Music](https://open.spotify.com/album/0NQ6fkJ9IQp43f1Bw8SoXY) | 3:17 |
 | 39 | [Thunderbolt](https://open.spotify.com/track/5rzNgwE6vlRNtC2H57BRGg) | [Tiborg](https://open.spotify.com/artist/017LB7BYpa2Bmvzbkg0fHE) | [French Indie Club 4](https://open.spotify.com/album/73oOfWbhYhYwouTRPc2R3i) | 3:44 |
-| 40 | [No Sugar In My Coffee](https://open.spotify.com/track/2sgliG5TcHwAiWQn8ecT71) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87) | 3:28 |
+| 40 | [No Sugar In My Coffee](https://open.spotify.com/track/7KbVuShFCBsTKZQd5RIwYE) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/4qEAS3yOfHikRMdRiPI4Dg) | 3:28 |
 | 41 | [Dreams](https://open.spotify.com/track/0fTCmxSBKKxoRZDN5zTQK3) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 0:53 |
 | 42 | [Hands Up High](https://open.spotify.com/track/2dkxx9BNmupg0gzbxvEzFh) | [Adele Roberts](https://open.spotify.com/artist/4AEv9RpfPAr67W04LqWLDb), [Jacob Blair](https://open.spotify.com/artist/2h9etV07SR96Rqt4bnnBAs), [Gabriella Chering](https://open.spotify.com/artist/2OsEN4zzeudHo0ele08NhB), [Charlie Tenku](https://open.spotify.com/artist/5n7I9O1m2Rh5qBE8iVwPv7) | [Punchy Pop](https://open.spotify.com/album/5Q3qG09ss475jkdXPmnlVo) | 2:03 |
 | 43 | [No Tomorrow](https://open.spotify.com/track/4pXInUiIiQsdhJYhSeiYTN) | [Ty Frankel](https://open.spotify.com/artist/4DBLbQhhkjakBkjLK6qKbL), [Stephane Lo Jacomo](https://open.spotify.com/artist/3bnMp3T1YwjA94yYPP0sBn), [Myariah Summers](https://open.spotify.com/artist/5tVWwh2MzuiENd2ufLH6bK) | [Rich Rap Beats](https://open.spotify.com/album/6ZTWmjEPbWS8MHR9yMwwlB) | 2:30 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 57 | [Sunday](https://open.spotify.com/track/4CbvazWOFKIIHZkETS0k6G) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 3:27 |
 | 58 | [Drama End](https://open.spotify.com/track/2357fNm3oeHHTLxo5lXRGd) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:44 |
 
-Snapshot ID: `MCxhNjc5NWYzZjk5ZTc5NjYwNGQwMjVmMmY1YzQ2YjY2M2JkZTAzODA0`
+Snapshot ID: `MCwwYjYyNjg5ZDMzMDgzNGRlNjI5ZDYzNjViZmI2NTdiYTBmMjA3ZTQ0`

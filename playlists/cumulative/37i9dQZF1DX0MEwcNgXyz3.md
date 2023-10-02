@@ -4,7 +4,7 @@
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-68 songs - 3 hr 44 min
+69 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Mirror](https://open.spotify.com/track/1eqzV7D24h0bLF5rJyO8It) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 4:05 | 2022-11-01 |  |
 | [My Awe Sustains](https://open.spotify.com/track/2Hh8sSdW6fA9BnbBRxXwP8) | [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [For Evig](https://open.spotify.com/album/1WD76mtxpubTxXkuC7lN7o) | 4:26 | 2022-11-01 | 2023-09-30 |
 | [My Awe Sustains](https://open.spotify.com/track/77y5U9D66qEWC3NsDLtcql) | [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [For Evig](https://open.spotify.com/album/4YCexpkKQSaWBnM5ibxEnp) | 4:26 | 2022-11-01 |  |
-| [No Sugar In My Coffee](https://open.spotify.com/track/2sgliG5TcHwAiWQn8ecT71) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87) | 3:28 | 2022-11-01 |  |
+| [No Sugar In My Coffee](https://open.spotify.com/track/2sgliG5TcHwAiWQn8ecT71) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87) | 3:28 | 2022-11-01 | 2023-10-02 |
+| [No Sugar In My Coffee](https://open.spotify.com/track/7KbVuShFCBsTKZQd5RIwYE) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/4qEAS3yOfHikRMdRiPI4Dg) | 3:28 | 2022-11-01 |  |
 | [No Tomorrow](https://open.spotify.com/track/4pXInUiIiQsdhJYhSeiYTN) | [Ty Frankel](https://open.spotify.com/artist/4DBLbQhhkjakBkjLK6qKbL), [Stephane Lo Jacomo](https://open.spotify.com/artist/3bnMp3T1YwjA94yYPP0sBn), [Myariah Summers](https://open.spotify.com/artist/5tVWwh2MzuiENd2ufLH6bK) | [Rich Rap Beats](https://open.spotify.com/album/6ZTWmjEPbWS8MHR9yMwwlB) | 2:30 | 2022-11-01 |  |
 | [Overcome](https://open.spotify.com/track/3oeKrn90eVhCFJvsSq6PO0) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Overcome / Evergreen \(Music from the Netflix Series Young Royals\)](https://open.spotify.com/album/56eKOF66c5r2Dhw3pv08ZI) | 3:07 | 2022-11-01 |  |
 | [Overcome \- Safari Riot Remix](https://open.spotify.com/track/5THOIfDsTT1EQBQSlPB8SK) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc), [Safari Riot](https://open.spotify.com/artist/2B1AeLc4tMEDVTcn4XXpjT) | [Overcome / Evergreen \(Music from the Netflix Series Young Royals\)](https://open.spotify.com/album/56eKOF66c5r2Dhw3pv08ZI) | 3:15 | 2022-11-01 |  |

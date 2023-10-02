@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Deep Down Low (Remixes)",
+        "url": "https://open.spotify.com/album/1aZVy48fiWgn4G6KL08C6r"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "Deep Down Low",
+      "url": "https://open.spotify.com/track/2UnjLIBORWFqHmYrmzttg8"
+    },
+    {
+      "album": {
         "name": "Deep Down Low",
         "url": "https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM"
       },
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 260204,
       "name": "U",
       "url": "https://open.spotify.com/track/7ej6hXuIvbHAz5tKRikMi1"

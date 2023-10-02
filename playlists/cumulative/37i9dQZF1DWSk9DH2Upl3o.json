@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "To Live A Making",
+        "url": "https://open.spotify.com/album/7gMrxYFvgxnlquxVUQ0kCp"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417004,
+      "name": "Dare You",
+      "url": "https://open.spotify.com/track/5QOsdIQnOmP9AaKFGgBGio"
+    },
+    {
+      "album": {
         "name": "Dare You",
         "url": "https://open.spotify.com/album/4K4q44abgnpCnxRAx3Zl4C"
       },
@@ -414,7 +432,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 417004,
       "name": "Dare You",
       "url": "https://open.spotify.com/track/70FAStvmG7cqGfgnmZe0c0"

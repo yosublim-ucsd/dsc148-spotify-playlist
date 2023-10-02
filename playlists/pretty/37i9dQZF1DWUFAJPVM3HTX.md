@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU?si=VTlAs\-66TP6SDKypzYnC3A">Anaïs Cardot</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,749 likes - 221 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,827 likes - 221 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 220 | [Love so Sweet](https://open.spotify.com/track/507ZRCsU0kTlDIy6yhud0k) | [Gen Bello](https://open.spotify.com/artist/4ZbEWjblNsCE61flvcbOMs) | [This Again](https://open.spotify.com/album/47Qk48pSUoIIYQNZswyMk8) | 3:48 |
 | 221 | [complicated](https://open.spotify.com/track/4yU9YWG5rNLTfSfGlXMmoO) | [THANKQ](https://open.spotify.com/artist/18V0w2L9TopQYP73r34tE6) | [complicated](https://open.spotify.com/album/144acRFPtkJHcYq8plsV4f) | 2:00 |
 
-Snapshot ID: `MCwzOTIwYTczNDYxYjRhZTk4YmY3ZGIzOTllYTk1MzNlNDUwM2NmYmE2`
+Snapshot ID: `MCxjYTg0ODg5MTdjMTdmMmI4OTVmOGM4Njg0ZGFiMmFiMzdiYmExZjQ3`

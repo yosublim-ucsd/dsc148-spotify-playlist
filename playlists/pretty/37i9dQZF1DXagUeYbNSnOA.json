@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Jossman. Updates every Wednesday.",
-  "num_followers": 172820,
+  "num_followers": 172816,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTA1MDJiMTlkOGZkODRlZmFlZDhmMjNlMDkxZjNmZDYwMzM2MTA4",
+  "snapshot_id": "MCwzNjZiYzI5YWY3ZDhiMTgyMmM3ZjVhN2YxNGVjNmNlM2ZhZGNiNWNk",
   "tracks": [
     {
       "added_at": "2023-09-27 03:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-09-27 03:00:00",
       "album": {
-        "name": "no somos nada",
-        "url": "https://open.spotify.com/album/1YptOavSSzLGK4LiBqdU27"
-      },
-      "artists": [
-        {
-          "name": "LEFNES",
-          "url": "https://open.spotify.com/artist/4X1ANfUp76AjJlVF6NOUqu"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "no somos nada",
-      "url": "https://open.spotify.com/track/4QWMTNDHoVabBMu3RhUd3p"
-    },
-    {
-      "added_at": "2023-09-27 03:00:00",
-      "album": {
         "name": "PERDONT",
         "url": "https://open.spotify.com/album/0boZlhvPjJ2kMksU37d3EJ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 172296,
       "name": "SUERTE",
       "url": "https://open.spotify.com/track/7GRB48rAvN77xITeOfsNIO"
+    },
+    {
+      "added_at": "2023-09-27 03:00:00",
+      "album": {
+        "name": "no somos nada",
+        "url": "https://open.spotify.com/album/1YptOavSSzLGK4LiBqdU27"
+      },
+      "artists": [
+        {
+          "name": "LEFNES",
+          "url": "https://open.spotify.com/artist/4X1ANfUp76AjJlVF6NOUqu"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "no somos nada",
+      "url": "https://open.spotify.com/track/4QWMTNDHoVabBMu3RhUd3p"
     },
     {
       "added_at": "2023-09-27 03:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-09-27 03:00:00",
       "album": {
-        "name": "Fuerte",
-        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
-      },
-      "artists": [
-        {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
-        }
-      ],
-      "duration_ms": 229454,
-      "name": "Fuerte",
-      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
-    },
-    {
-      "added_at": "2023-09-27 03:00:00",
-      "album": {
         "name": "aterrizar",
         "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 178285,
       "name": "aterrizar",
       "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
+    },
+    {
+      "added_at": "2023-09-27 03:00:00",
+      "album": {
+        "name": "Fuerte",
+        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
+      },
+      "artists": [
+        {
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+        }
+      ],
+      "duration_ms": 229454,
+      "name": "Fuerte",
+      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
     },
     {
       "added_at": "2023-09-27 03:00:00",

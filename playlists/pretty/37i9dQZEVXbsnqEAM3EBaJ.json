@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNjU5NDAsMDAwMDAwMDAwMGJkNGRlMDgxODEzNGJiNDBiNzJjZGRlODc5ZTJjZg==",
+  "snapshot_id": "MjgyNjU5NDAsMDAwMDAwMDAxNjVlZjdhNGM1MzJjNjc1ZTE0YWM3ZWU0MjIwNDBkMg==",
   "tracks": [
     {
       "added_at": "2023-09-29 03:00:00",
@@ -191,6 +191,26 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Sweet Sounds Of Heaven",
+        "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 306423,
+      "name": "Sweet Sounds Of Heaven (feat. Lady Gaga & Stevie Wonder) - Edit",
+      "url": "https://open.spotify.com/track/6HCUMOcGa4LyjcBXjl7z0Y"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "1982 (Remix)",
         "url": "https://open.spotify.com/album/5ZoZ6gKFGJ8E4oiU7fMfMR"
       },
@@ -203,6 +223,54 @@
       "duration_ms": 203333,
       "name": "1982 - Remix",
       "url": "https://open.spotify.com/track/0EG54WPNcosMeybB8AdgOP"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/6vYuWSS8nLKm64kTiX24MF"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        }
+      ],
+      "duration_ms": 185507,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/1y0lz1wrwJApCampPjqzP8"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Vida Cotidiana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/157buz5Int6IECXF2hKYak"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "La Versi\u00f3n En Mi Cabeza",
+      "url": "https://open.spotify.com/track/70iA1uzud3bwrJzQQZ5D6i"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "En Pausa",
+        "url": "https://open.spotify.com/album/4VN1tnk43WT1FZp8pL5h4q"
+      },
+      "artists": [
+        {
+          "name": "Como Asesinar a Felipes",
+          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
+        }
+      ],
+      "duration_ms": 263483,
+      "name": "En Pausa",
+      "url": "https://open.spotify.com/track/4Bgpxhi150I9e2eOw1mGv4"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -223,22 +291,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Promised You A Miracle (Live From Paisley Abbey)",
-        "url": "https://open.spotify.com/album/50XXzEskcTuyXfkzZu6f8C"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 260413,
-      "name": "Promised You A Miracle - Live From Paisley Abbey",
-      "url": "https://open.spotify.com/track/6ziBfNAKx2dHDSFL5QA1FR"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Love Is All That Matters",
         "url": "https://open.spotify.com/album/3WFzLbp8lKYQ74Cmhl1CKw"
       },
@@ -255,34 +307,18 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Amphetamine Smiles",
-        "url": "https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY"
+        "name": "Promised You A Miracle (Live From Paisley Abbey)",
+        "url": "https://open.spotify.com/album/50XXzEskcTuyXfkzZu6f8C"
       },
       "artists": [
         {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
         }
       ],
-      "duration_ms": 185653,
-      "name": "Amphetamine Smiles",
-      "url": "https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "El Hilo del Tiempo",
-        "url": "https://open.spotify.com/album/4wGsXVkJVkyl6XttneSkyg"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Donalson",
-          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
-        }
-      ],
-      "duration_ms": 290423,
-      "name": "Todo Se Resuelve",
-      "url": "https://open.spotify.com/track/0bK6a0xIhWj9ZVYTxEZK9A"
+      "duration_ms": 260413,
+      "name": "Promised You A Miracle - Live From Paisley Abbey",
+      "url": "https://open.spotify.com/track/6ziBfNAKx2dHDSFL5QA1FR"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -307,50 +343,58 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/6vYuWSS8nLKm64kTiX24MF"
+        "name": "El Hilo del Tiempo",
+        "url": "https://open.spotify.com/album/4wGsXVkJVkyl6XttneSkyg"
       },
       "artists": [
         {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
         }
       ],
-      "duration_ms": 185507,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/1y0lz1wrwJApCampPjqzP8"
+      "duration_ms": 290423,
+      "name": "Todo Se Resuelve",
+      "url": "https://open.spotify.com/track/0bK6a0xIhWj9ZVYTxEZK9A"
     },
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "En Pausa",
-        "url": "https://open.spotify.com/album/4VN1tnk43WT1FZp8pL5h4q"
+        "name": "Amphetamine Smiles",
+        "url": "https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY"
       },
       "artists": [
         {
-          "name": "Como Asesinar a Felipes",
-          "url": "https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds"
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 263483,
-      "name": "En Pausa",
-      "url": "https://open.spotify.com/track/4Bgpxhi150I9e2eOw1mGv4"
+      "duration_ms": 185653,
+      "name": "Amphetamine Smiles",
+      "url": "https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ"
     },
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Vida Cotidiana (Deluxe Version)",
-        "url": "https://open.spotify.com/album/157buz5Int6IECXF2hKYak"
+        "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
+        "url": "https://open.spotify.com/album/6k7ASb40R8wBiQymSSwwh0"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 193213,
-      "name": "La Versi\u00f3n En Mi Cabeza",
-      "url": "https://open.spotify.com/track/70iA1uzud3bwrJzQQZ5D6i"
+      "duration_ms": 230400,
+      "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
+      "url": "https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -395,30 +439,6 @@
       "duration_ms": 260571,
       "name": "Doom",
       "url": "https://open.spotify.com/track/7fGPMnxUXxnbP8Rfkn1eea"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
-        "url": "https://open.spotify.com/album/6k7ASb40R8wBiQymSSwwh0"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
-      "url": "https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -791,22 +811,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Live 1978 - 1992",
-        "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 406306,
-      "name": "Sultans Of Swing - Live At The Rainbow / Dec 1979",
-      "url": "https://open.spotify.com/track/6rJUHPNJ6dHnqU6mrk3C1O"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Fake As Hell (with Avril Lavigne)",
         "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
@@ -823,6 +827,22 @@
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Live 1978 - 1992",
+        "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 406306,
+      "name": "Sultans Of Swing - Live At The Rainbow / Dec 1979",
+      "url": "https://open.spotify.com/track/6rJUHPNJ6dHnqU6mrk3C1O"
     },
     {
       "added_at": "2023-09-29 03:00:00",

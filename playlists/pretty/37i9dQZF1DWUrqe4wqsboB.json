@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 3416,
+  "num_followers": 3429,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjZlMTBkMjJlYWY3OGM5MWRhNDNkMTMxOTI4M2RmYjI0ZTkxNjZh",
+  "snapshot_id": "MCxlMmRjZmUxNzc0OGQ0YjU4MDQ0NDA1YzAzNGQ5ZjBmODRiZGEyYTIx",
   "tracks": [
     {
       "added_at": "2023-08-29 17:45:03",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Tu Mundo",
-        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 234041,
-      "name": "Tu Mundo",
-      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "Nacarile",
         "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 174080,
       "name": "(Escap\u00e1ndome) de m\u00ed",
       "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "Tu Mundo",
+        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 234041,
+      "name": "Tu Mundo",
+      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        }
-      ],
-      "duration_ms": 170175,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "Lo Que No Te Dije",
         "url": "https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 176236,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "duration_ms": 170175,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "Miss Universos",
         "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 185920,
       "name": "Desastre Comunal",
       "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Pir\u00e1mide",
-        "url": "https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18"
-      },
-      "artists": [
-        {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Pir\u00e1mide",
-      "url": "https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "Me Saben a Miel",
         "url": "https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 223703,
       "name": "Me Saben a Miel",
       "url": "https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "Pir\u00e1mide",
+        "url": "https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18"
+      },
+      "artists": [
+        {
+          "name": "Epilogio",
+          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Pir\u00e1mide",
+      "url": "https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Miel y Mantequilla",
-        "url": "https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b"
-      },
-      "artists": [
-        {
-          "name": "Seba Otero",
-          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
-        }
-      ],
-      "duration_ms": 227319,
-      "name": "Miel y Mantequilla",
-      "url": "https://open.spotify.com/track/2YnlDzQ7jw9LwLhapCOYLU"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "La Rareza",
         "url": "https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "El Hijo de Borik\u00e9n",
-        "url": "https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV"
+        "name": "Miel y Mantequilla",
+        "url": "https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b"
       },
       "artists": [
         {
-          "name": "El Hijo de Borik\u00e9n",
-          "url": "https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG"
+          "name": "Seba Otero",
+          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
         }
       ],
-      "duration_ms": 257091,
-      "name": "Flow Criollo",
-      "url": "https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5"
+      "duration_ms": 227319,
+      "name": "Miel y Mantequilla",
+      "url": "https://open.spotify.com/track/2YnlDzQ7jw9LwLhapCOYLU"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -755,6 +739,22 @@
       "duration_ms": 211169,
       "name": "Mares\u00eda",
       "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "El Hijo de Borik\u00e9n",
+        "url": "https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV"
+      },
+      "artists": [
+        {
+          "name": "El Hijo de Borik\u00e9n",
+          "url": "https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG"
+        }
+      ],
+      "duration_ms": 257091,
+      "name": "Flow Criollo",
+      "url": "https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5"
     },
     {
       "added_at": "2023-08-29 17:45:03",

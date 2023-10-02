@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring John Summit & VLTRA
 
-1,283 songs - 3 day 1 hr 47 min
+1,284 songs - 3 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 | 2023-06-09 | 2023-09-03 |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-05-19 |  |
 | [Good Times](https://open.spotify.com/track/6nvO3c3iVUQNbJaloeK7Xd) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [Good Times](https://open.spotify.com/album/4VmCjK9fPJfGNrMbuUcU4c) | 3:02 | 2023-03-10 | 2023-04-26 |
-| [Goodbye](https://open.spotify.com/track/032mY5wKypQnE3rImwNvh8) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [Goodbye](https://open.spotify.com/album/12U8vTW7jtYAbmEAei5h3B) | 2:45 | 2023-08-11 |  |
+| [Goodbye](https://open.spotify.com/track/032mY5wKypQnE3rImwNvh8) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [Goodbye](https://open.spotify.com/album/12U8vTW7jtYAbmEAei5h3B) | 2:45 | 2023-08-11 | 2023-10-02 |
 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 | 2022-09-05 | 2023-02-11 |
 | [Goodies](https://open.spotify.com/track/68q05Ar0SJHEI1padmFRp9) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Goodies](https://open.spotify.com/album/1C1b1rHuDE9xVal5ybjaz2) | 2:55 | 2022-02-25 | 2022-04-23 |
 | [Gory Love](https://open.spotify.com/track/6M8iLzSQZ3DAe79X0hDlkL) | [AJ Christou](https://open.spotify.com/artist/6dWcGqZzMm3mNuvc4yLVsj) | [Gory Love](https://open.spotify.com/album/2alPuqga9DmG6ojNm26eXM) | 7:24 | 2022-12-28 | 2023-01-06 |
@@ -848,6 +848,7 @@
 | [Paradise](https://open.spotify.com/track/3I3SHcoEiaoLSgfdryn3Om) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Paradise](https://open.spotify.com/album/4nCUEhrKxJnDtDz63uY93h) | 2:43 | 2022-08-19 | 2022-09-24 |
 | [Paralyzed By Your Eyes](https://open.spotify.com/track/5hEet4S4TiD6zw0C9ekzdt) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Paralyzed By Your Eyes](https://open.spotify.com/album/1kpcos1H8BuZHaauZAMMIg) | 2:40 | 2023-03-03 | 2023-05-20 |
 | [Parcera](https://open.spotify.com/track/56oomeTRgamzypt6iObrvA) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Parcera](https://open.spotify.com/album/1zli9BhqCmdNUeLXd2JFQm) | 2:32 | 2023-08-11 | 2023-09-23 |
+| [Paris to Milan](https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP) | [Paris to Milan](https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U) | 1:52 | 2023-09-29 |  |
 | [Party](https://open.spotify.com/track/18u9d0vfvjmDt70wLQueJB) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7) | [Party](https://open.spotify.com/album/0ATOzDtTifokxsXQTT81yN) | 2:19 | 2022-04-01 | 2022-06-11 |
 | [Party Diva](https://open.spotify.com/track/5n7zRKeW16p5o42sasOmah) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Party Diva](https://open.spotify.com/album/4vVbfW76h5gKz396zd5CMR) | 3:12 | 2022-09-23 | 2022-12-10 |
 | [Party People](https://open.spotify.com/track/5EPso1jbkZ87ztEERhraZS) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [Party People](https://open.spotify.com/album/2QnH4p6bRWa0gE276h2Y7o) | 3:19 | 2023-06-16 |  |

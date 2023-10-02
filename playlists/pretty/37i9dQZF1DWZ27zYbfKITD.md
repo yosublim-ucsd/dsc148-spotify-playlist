@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,010 likes - 79 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,113 likes - 79 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 22 | [Jacob and the Stone](https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Minari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5) | 1:38 |
 | 23 | [End Roller](https://open.spotify.com/track/2Cd1F6yd5GSYFU4lPVEwqT) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [A Little Chaos \(Original Soundtrack Album\)](https://open.spotify.com/album/2Ae5IWNhCQvsH4fNF8FFHe) | 3:21 |
 | 24 | [Coming Home](https://open.spotify.com/track/45jrXtFx8ERLW66AF4r53F) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [The Elder Scrolls Blades: Original Game Soundtrack](https://open.spotify.com/album/6zBhT9ZcGURdtZjA0q1JlG) | 3:14 |
-| 25 | [A New Home](https://open.spotify.com/track/3lgvtS5J3tIJqSzLokgKlv) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Lion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC) | 1:54 |
+| 25 | [A New Home](https://open.spotify.com/track/3lgvtS5J3tIJqSzLokgKlv) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [Dustin O'Halloran & Volker Bertelmann](https://open.spotify.com/artist/6BHwRzCgENU0kmJt6yGy4x) | [Lion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC) | 1:54 |
 | 26 | [Frozen Lake \(from "The Human Stain", Arr\. for Piano & Cello\)](https://open.spotify.com/track/6PbvnBmHVFDdjG6pMxag6g) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Frozen Lake \(from "The Human Stain", Arr\. for Piano & Cello\)](https://open.spotify.com/album/4RNyRkhOHbb8BVfzKFqhCP) | 3:25 |
 | 27 | [A Shine Upon Inkwater Marsh](https://open.spotify.com/track/6yvy7IGCod8A2aeyKvMysF) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [Ori and the Will of the Wisps \(Original Soundtrack Recording\)](https://open.spotify.com/album/0BRICN5TGMT1WqFcZkYOaF) | 3:06 |
 | 28 | [Road To Perdition](https://open.spotify.com/track/1ybtJbR4ARqmjl6dD2VtYU) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Road To Perdition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7v9u5bUHm2tpSC7ZL4hZBG) | 3:55 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 78 | [Bella's Lullaby \(From "Twilight"\)](https://open.spotify.com/track/5djt2IiLLsQMeBiLWJQlGB) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV), [See Siang Wong](https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271) | [Bella's Lullaby \(From "Twilight"\)](https://open.spotify.com/album/4ud7m0XCRNhXjnRGfli0LE) | 2:13 |
 | 79 | [Song of Healing](https://open.spotify.com/track/1BjgY1mNtSRniRqrYbP8i1) | [Laurence Manning](https://open.spotify.com/artist/4pS3AwZi3Nd0klW5yEE1Le), [Daphnée Sincennes Richard](https://open.spotify.com/artist/4NCw6JwOxucMAXdCQJATQ0), [Lou Dunand\-Vincent](https://open.spotify.com/artist/3vwfNOzpHeV0s5R4owSQ3E) | [Trio of the Goddesses](https://open.spotify.com/album/6rls52uHTGGcbYRIXcUnfv) | 4:32 |
 
-Snapshot ID: `MCw3NDI2MzM3Y2FjMDViNzg5ZjdjMjcxZWVhNmZjZmE0OTk2N2RjYTI5`
+Snapshot ID: `MCxjMWQ2YjI2OGFjOTdlMzZiOWQxNjI3MjBmOTk4YTU0OTZjZGNhMWY5`

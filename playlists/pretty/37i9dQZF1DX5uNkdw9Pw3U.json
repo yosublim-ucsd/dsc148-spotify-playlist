@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 74729,
+  "num_followers": 74941,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzZjMDEwZWY5ZTRjZDdlNWYxMzI0NzBjM2I1ZWRmOTA0MzdjODgy",
+  "snapshot_id": "MCw0ODVlMTM3MTc4NzExMWYyOWY5YTRkYmUzNmVmNTg2ODU4MDBkMTNj",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -167,6 +167,26 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 219332,
+      "name": "Make It Better (feat. Smokey Robinson)",
+      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -191,26 +211,6 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 219332,
-      "name": "Make It Better (feat. Smokey Robinson)",
-      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Leftovers",
-        "url": "https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 192628,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/0dcuGoAIPAT7OrP5CGSVBA"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 208395,
       "name": "Jet Black (feat. Brandy)",
       "url": "https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Leftovers",
+        "url": "https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 192628,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/0dcuGoAIPAT7OrP5CGSVBA"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Heart Don't Stand a Chance",
+      "url": "https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Life On Earth - EP",
         "url": "https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR"
       },
@@ -503,22 +519,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Do To Me",
         "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
       },
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
       },
       "artists": [
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
         }
       ],
-      "duration_ms": 312360,
-      "name": "Heart Don't Stand a Chance",
-      "url": "https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf"
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -563,6 +563,26 @@
       "duration_ms": 292884,
       "name": "Roll Some Mo",
       "url": "https://open.spotify.com/track/1sQBPGypjSgEgJZvD8u8ty"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 266812,
+      "name": "Come Home (feat. Andr\u00e9 3000)",
+      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -655,22 +675,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
+        "name": "How You Want It?",
+        "url": "https://open.spotify.com/album/3dPk7WASa1GmL7vluAP4ff"
       },
       "artists": [
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
         },
         {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+          "name": "King Combs",
+          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
         }
       ],
-      "duration_ms": 266812,
-      "name": "Come Home (feat. Andr\u00e9 3000)",
-      "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
+      "duration_ms": 222213,
+      "name": "How You Want It?",
+      "url": "https://open.spotify.com/track/0rbnYyj0Zq2pNJSzWqtf4g"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -691,26 +711,6 @@
       "duration_ms": 234866,
       "name": "So Done (feat. Khalid)",
       "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "How You Want It?",
-        "url": "https://open.spotify.com/album/3dPk7WASa1GmL7vluAP4ff"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "King Combs",
-          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "How You Want It?",
-      "url": "https://open.spotify.com/track/0rbnYyj0Zq2pNJSzWqtf4g"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "A Real Romantic",
+        "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
+      },
+      "artists": [
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        }
+      ],
+      "duration_ms": 236662,
+      "name": "Wasn't Looking",
+      "url": "https://open.spotify.com/track/4VP3WbWh2BZ8xNEp6tLr6P"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "None Of Your Concern",
         "url": "https://open.spotify.com/album/2pq9ByHGHMflMY3qy20BMW"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 262213,
       "name": "None Of Your Concern",
       "url": "https://open.spotify.com/track/1nal3Tf1OCV53KigMZXsZ7"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "A Real Romantic",
-        "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
-      },
-      "artists": [
-        {
-          "name": "ELIZA",
-          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
-        }
-      ],
-      "duration_ms": 236662,
-      "name": "Wasn't Looking",
-      "url": "https://open.spotify.com/track/4VP3WbWh2BZ8xNEp6tLr6P"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 204468,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0LWo1USV7wlguM1Y3RePOM"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 204592,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 204468,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0LWo1USV7wlguM1Y3RePOM"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Don't Pretend",
-        "url": "https://open.spotify.com/album/5eKt7MxCNDB7XFqdJBPaJS"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        }
-      ],
-      "duration_ms": 165840,
-      "name": "Don't Pretend",
-      "url": "https://open.spotify.com/track/78P2cNBhbdjXWIRYuEXkV6"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Woman (feat. Lianne La Havas)",
         "url": "https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 191826,
       "name": "Woman (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Don't Pretend",
+        "url": "https://open.spotify.com/album/5eKt7MxCNDB7XFqdJBPaJS"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "duration_ms": 165840,
+      "name": "Don't Pretend",
+      "url": "https://open.spotify.com/track/78P2cNBhbdjXWIRYuEXkV6"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "sukkerspinn & hodepine (Del 2)",
-        "url": "https://open.spotify.com/album/1liGHJczFXltMS2R4kqV8R"
-      },
-      "artists": [
-        {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
-        },
-        {
-          "name": "Magdi",
-          "url": "https://open.spotify.com/artist/37TkImYSoPGZ9LDo0Frf2J"
-        }
-      ],
-      "duration_ms": 163366,
-      "name": "gangster romanse (feat. Magdi)",
-      "url": "https://open.spotify.com/track/1ftdrKxNslW2b60trc2inw"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "The Lay Down with H.E.R. & WATT",
         "url": "https://open.spotify.com/album/7lI5od7f6ljgPBZLEQbjmG"
       },
@@ -1351,22 +1331,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Tamale",
-        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Tamale",
-      "url": "https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "like you",
         "url": "https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo"
       },
@@ -1387,6 +1351,22 @@
       "duration_ms": 194831,
       "name": "like you",
       "url": "https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Tamale",
+        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Tamale",
+      "url": "https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1671,22 +1651,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Swim Home (From 13 Reasons Why - Season 3 Soundtrack)",
-        "url": "https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Swim Home - From 13 Reasons Why - Season 3 Soundtrack",
-      "url": "https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Who Do You Pray To?",
         "url": "https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z"
       },
@@ -1703,6 +1667,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Swim Home (From 13 Reasons Why - Season 3 Soundtrack)",
+        "url": "https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Swim Home - From 13 Reasons Why - Season 3 Soundtrack",
+      "url": "https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "And Then Life Was Beautiful",
         "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 199773,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
+        "url": "https://open.spotify.com/album/5ASnPqVkvU50cwNlC6OoX6"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 377852,
+      "name": "HER Love [Feat. Daniel Caesar with special guest Dwele]",
+      "url": "https://open.spotify.com/track/4ZLVxybMljzL77dCA443Ob"
     }
   ],
   "unique_name": "Laid Back Beats",

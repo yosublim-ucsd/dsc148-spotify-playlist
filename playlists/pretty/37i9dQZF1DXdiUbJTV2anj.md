@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Static Dress
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,550 likes - 55 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,587 likes - 55 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 54 | [Brick](https://open.spotify.com/track/0CLHbBycBGgFUQuRfISbg1) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Brick](https://open.spotify.com/album/0ycvVIQlpnp5tmi2SI4QrK) | 2:45 |
 | 55 | [you'll never be alone again](https://open.spotify.com/track/5cMB5jGfNCm6b65YXhSIEJ) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ) | [alone again](https://open.spotify.com/album/1xEDDtwENUcM84zAbIwOdu) | 2:47 |
 
-Snapshot ID: `MCwwMjhmZDUzOTQ4NmI2ZmY0OGI3NDk5MzE2OWVlZDI0OGYyOWI5Y2Nm`
+Snapshot ID: `MCxlYzI0MTY5MGU1ZTRhMThiYjA2MzRlYzAzNDE1Yzc4NWI0MDMxN2Vh`

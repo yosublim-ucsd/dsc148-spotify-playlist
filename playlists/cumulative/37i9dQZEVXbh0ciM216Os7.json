@@ -1375,6 +1375,32 @@
     },
     {
       "album": {
+        "name": "Beach",
+        "url": "https://open.spotify.com/album/25yH1h8nWDbzjbbc3IfIlZ"
+      },
+      "artists": [
+        {
+          "name": "Advik Singh",
+          "url": "https://open.spotify.com/artist/44h6HbtmEnmiSrkY4RtWFi"
+        },
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Beach",
+      "url": "https://open.spotify.com/track/5EGDvIfhcp8xmas20uQhRa"
+    },
+    {
+      "album": {
         "name": "RFK Stadium, Washington, DC, 6/10/73 (Live)",
         "url": "https://open.spotify.com/album/2Lxt0taVNc2Bv20rt0d21w"
       },
@@ -2914,7 +2940,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 560973,
       "name": "Demain c'est loin - Live Studio",
       "url": "https://open.spotify.com/track/5DVC4v4D2XvU9fBZWHrdeT"
@@ -4486,7 +4512,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 189500,
       "name": "FIESTA",
       "url": "https://open.spotify.com/track/48juEfmXe0vq0FT5GRecCi"
@@ -6906,7 +6932,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 278333,
       "name": "Je danse le mia - Live Studio",
       "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"

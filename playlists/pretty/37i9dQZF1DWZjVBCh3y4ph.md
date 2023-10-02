@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Fanny J x Nesly
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,858 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,958 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Karésé Mwen \- Toi et Moi](https://open.spotify.com/track/43La0fMCv1tBBmAeuYSumQ) | [Dj Jackson](https://open.spotify.com/artist/2GYAHdjq5ecEb71veYasKB), [Methi's](https://open.spotify.com/artist/4Sx9MLqVbK6oUTFK9HrEoa), [KENNY HAITI](https://open.spotify.com/artist/6xK22PI2rZCvTE4KECYDb7) | [Karésé Mwen \(Toi et Moi\)](https://open.spotify.com/album/5BzzjwPp294mjhdQ5TcwX5) | 4:54 |
 | 40 | [Doudou](https://open.spotify.com/track/07MUZzeKyEIw5iTRJYK4YQ) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Blicassty](https://open.spotify.com/artist/1MbUL0JryiwgLoPNX8esk6) | [Doudou](https://open.spotify.com/album/4ptvCJd4nK0GDF7EPB7XC3) | 3:30 |
 
-Snapshot ID: `MCxjMjdkODE3OGZhNTdmM2IxMmI4ZmZmY2I0YmUyMWJjN2JiYWFiMGEz`
+Snapshot ID: `MTY5NTkzODQwMCwwMDAwMDAwMDA3NTNlYTg2YTc0NmE4OGU5M2JhM2E1MmY0NjA0ZDIy`

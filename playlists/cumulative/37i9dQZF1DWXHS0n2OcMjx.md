@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-495 songs - 18 hr 44 min
+497 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 | 2022-04-08 | 2023-09-23 |
 | [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 |  |
 | [Froosh](https://open.spotify.com/track/3VQIAOQRwGwFvBaR7E36O1) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Froosh](https://open.spotify.com/album/0nlcA5P03I6t06WdlLy5FF) | 1:57 | 2022-04-08 | 2023-09-23 |
+| [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 | 2023-09-29 |  |
 | [Future Lovers](https://open.spotify.com/track/3SORHgn6Gj7qBzQuZLv7N7) | [Nice Gii](https://open.spotify.com/artist/4y04SK9f1oYHAZ8WDHy9wi) | [Move It Slower](https://open.spotify.com/album/5HRAg8TbMGIpE1yJXBLQAL) | 2:28 | 2023-09-22 |  |
 | [future retro](https://open.spotify.com/track/4W0VbKOx9nIMl822qQHef1) | [stonefold](https://open.spotify.com/artist/1jCsCfZCxNohxXdoE3Rw4f) | [future retro](https://open.spotify.com/album/3mJhmdDs83sGZfpr9pYpgN) | 2:01 | 2022-05-13 | 2023-09-09 |
 | [G\-Jazz](https://open.spotify.com/track/1MQHacUW73AKPG9nlf28oZ) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [Mvdk](https://open.spotify.com/artist/4o7tRo120tjPGqAVvh15uH) | [G\-Jazz](https://open.spotify.com/album/2oyil3WZ48IFS55oqVGGMS) | 2:12 | 2023-09-22 |  |
@@ -204,6 +205,7 @@
 | [Idyllic](https://open.spotify.com/track/5AveowMyJKst81mznnDn3q) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Idyllic](https://open.spotify.com/album/64uSGFrQ3szLAWUBe4KfyR) | 1:58 | 2023-09-22 |  |
 | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/track/7wUevqE8Kpl6p6xZKAi7gl) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Il Pigro Mafioso \(The Lazy Mobster\)](https://open.spotify.com/album/5qRXYnq5sYYvSfrR77bnQN) | 2:42 | 2023-09-22 |  |
 | [imenü](https://open.spotify.com/track/2yFwy1qCr4kiyHEZAwiw2p) | [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Doctor Phono](https://open.spotify.com/artist/26vuhTy5mAWVFKOJMJ5PRP) | [imenü](https://open.spotify.com/album/08J2uAEhntycYO7Zz6z9J7) | 2:27 | 2023-09-22 |  |
+| [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 | 2023-09-29 |  |
 | [Imprints](https://open.spotify.com/track/1AjpbQ4hxw2LNy7QOJKxZh) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Tailored Times / Imprints](https://open.spotify.com/album/2N1V0jS8ZBNI8BjYvmXGtr) | 2:12 | 2023-09-22 |  |
 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 | 2023-09-22 |  |
 | [Inside All Day](https://open.spotify.com/track/6SM9wXpzMbD0Sivei8dOUm) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Inside All Day](https://open.spotify.com/album/2lBQBS5DqOboX9CrD0rSjc) | 2:26 | 2022-04-08 | 2023-09-23 |
@@ -214,7 +216,7 @@
 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 | 2023-09-22 |  |
 | [Jeux D'eau](https://open.spotify.com/track/2PGtQpxxPvhzHLoaz83hLp) | [sadtoi](https://open.spotify.com/artist/7G6bYv9rdldB4mNddVd2yy) | [Chillhop Daydreams](https://open.spotify.com/album/7qdepmAALqX7taS6nMz8v5) | 2:24 | 2022-04-08 | 2022-07-29 |
 | [Jeux D’eau](https://open.spotify.com/track/6COEtOPrRjUzd7HUQZC6x6) | [sadtoi](https://open.spotify.com/artist/7G6bYv9rdldB4mNddVd2yy) | [Chillhop Daydreams](https://open.spotify.com/album/5Tv8LWNku2lmWXxAy4xYhI) | 2:24 | 2022-07-08 | 2023-09-23 |
-| [Jungle](https://open.spotify.com/track/7m1tBjVEK1JQarLmrOvkic) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Jungle](https://open.spotify.com/album/52qgVVnp2H1WOoLpzddl4e) | 2:18 | 2023-09-22 |  |
+| [Jungle](https://open.spotify.com/track/7m1tBjVEK1JQarLmrOvkic) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Jungle](https://open.spotify.com/album/52qgVVnp2H1WOoLpzddl4e) | 2:18 | 2023-09-22 | 2023-10-02 |
 | [just relax](https://open.spotify.com/track/0POolioSzFOWb0n0it50Lz) | [stilistics](https://open.spotify.com/artist/4UexprKNraCvro4K4XYzut) | [ready set go](https://open.spotify.com/album/7L4A0d2BV3EE2YL95AiDze) | 1:36 | 2022-04-08 | 2023-09-23 |
 | [Kyalami](https://open.spotify.com/track/0DE2JFzYVR4byph3SilATs) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [Kyalami](https://open.spotify.com/album/0QOvz1G0ajW226aJNXkHkl) | 2:38 | 2023-09-22 |  |
 | [kyoto calling](https://open.spotify.com/track/3Bepjm4vgBBfbLzS0KBTlt) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [kyoto calling](https://open.spotify.com/album/0MWZAefCAhCIkpwtZFsBYv) | 1:58 | 2022-04-08 | 2022-04-22 |
@@ -435,7 +437,7 @@
 | [Sweet Berries](https://open.spotify.com/track/4V4NLXR80N6ePJ6UDxez7s) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Sweet Berries](https://open.spotify.com/album/16agYZgs1aCOoAak0kyzZV) | 2:47 | 2022-04-08 | 2022-04-22 |
 | [Taking a Gap Year](https://open.spotify.com/track/3EaQ19sdn6IfNNwAbZlLss) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Taking a Gap Year](https://open.spotify.com/album/3gDT4tudeH7Bcg5TW4Y8aS) | 3:55 | 2022-04-08 | 2023-09-23 |
 | [Taking Flight](https://open.spotify.com/track/73vGZ3fTM303YNDoXHIM3i) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Taking Flight](https://open.spotify.com/album/2CywxdG7exuCBbMqZlcwVh) | 2:35 | 2023-09-22 |  |
-| [Tender Tales](https://open.spotify.com/track/2vDJwbZllSZlvrC5G9MfCO) | [Eazy Lotus](https://open.spotify.com/artist/6yA8bNfaBNdvoDuhna5xvk) | [Tender Tales](https://open.spotify.com/album/3N2jyy1OZY4bSNp9g9E50C) | 2:05 | 2023-09-22 |  |
+| [Tender Tales](https://open.spotify.com/track/2vDJwbZllSZlvrC5G9MfCO) | [Eazy Lotus](https://open.spotify.com/artist/6yA8bNfaBNdvoDuhna5xvk) | [Tender Tales](https://open.spotify.com/album/3N2jyy1OZY4bSNp9g9E50C) | 2:05 | 2023-09-22 | 2023-10-02 |
 | [Testing Tubes](https://open.spotify.com/track/0z7GuzX6SvdWx7KDW5Zxg6) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Testing Tubes](https://open.spotify.com/album/3p8Ix2MVXJ8Dnnkohm2Met) | 2:28 | 2022-04-08 | 2023-09-23 |
 | [The Bay](https://open.spotify.com/track/0aSQ0c4oMfjUWoHenvcnvI) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f), [Luniworks](https://open.spotify.com/artist/0dMJ5zofJoExb5T8eSmOhW) | [The Bay](https://open.spotify.com/album/19eoQYs75KzT2Q9fA3pRPQ) | 2:09 | 2023-09-22 |  |
 | [The Carlton](https://open.spotify.com/track/3J7FvVmbz6vvPvu3XymrNK) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [The Carlton](https://open.spotify.com/album/1DMVvbrhKB6oJbZxQM0gDi) | 2:57 | 2023-09-22 |  |

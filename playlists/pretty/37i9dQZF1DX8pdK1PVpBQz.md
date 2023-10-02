@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: CODY JON\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,426 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,440 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 100 | [Cold With You](https://open.spotify.com/track/3HBIJJQ4wkODiXRipwb5n5) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Cold With You](https://open.spotify.com/album/3uPqde1GYQssM6A6hNnwNv) | 2:51 |
 | 101 | [Knife](https://open.spotify.com/track/0lclpP00mSr3FqRBOotyKG) | [Smurgy](https://open.spotify.com/artist/4IJtsS4EBmY1niiX7sWpu8) | [Knife](https://open.spotify.com/album/1KmyZpqTGeXun4O6uimed8) | 1:58 |
 
-Snapshot ID: `MCwzM2IyMGYxMDI5YjM4NzMwM2E3MTc1MWVhMzhhNDgwYWQ5Y2Y0NDIx`
+Snapshot ID: `MCw0NDFhY2JiYWEwNGYxODFlNTRlNTI5YTY3NzI5YTkyMDI3YjcyODNk`

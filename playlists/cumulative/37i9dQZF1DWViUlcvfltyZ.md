@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, post\-rock, punk ed emo dall'Italia\. Cover: Blonde Redhead
 
-562 songs - 1 day 7 hr 18 min
+563 songs - 1 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,8 @@
 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 | 2022-06-23 | 2023-05-04 |
 | [Silence](https://open.spotify.com/track/5GXBYq5eBPcb8yNw885PbB) | [Persian Pelican](https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG) | [Goodbye Dreamers](https://open.spotify.com/album/0dyFCerPTAuvIV19cIapoY) | 2:54 | 2023-03-23 | 2023-03-26 |
 | [Silos](https://open.spotify.com/track/6N3eJ5VbK7wNpfDZNNJFuE) | [GALASSIA CLUB](https://open.spotify.com/artist/2VzEF2YjUANGcI4R16XNll) | [Silos](https://open.spotify.com/album/6H7Dm09Q1rwlhkNqXpWGgt) | 2:19 | 2022-05-09 | 2022-06-03 |
-| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 | 2023-09-28 |  |
+| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 3:28 | 2023-09-29 |  |
+| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 | 2023-09-28 | 2023-10-02 |
 | [So Long](https://open.spotify.com/track/38Klg16zOlVdoCcVY17pVC) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [So Long](https://open.spotify.com/album/72DcA98uNwQxTP5ECaeFPu) | 2:31 | 2022-08-18 | 2022-10-07 |
 | [Soa](https://open.spotify.com/track/55sdacSFOkx0mewyYctT1d) | [Krano](https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw) | [Lentius Profundius Suavius](https://open.spotify.com/album/6evTL0jvzNn2kOP2jEZsvw) | 3:58 | 2023-03-02 | 2023-05-12 |
 | [sober](https://open.spotify.com/track/1LmM5Y3OnbNAeTVKg73Jgc) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [I started a garden](https://open.spotify.com/album/11suIFqciw4aNWEBRtJjPj) | 2:39 | 2022-09-29 | 2022-11-18 |

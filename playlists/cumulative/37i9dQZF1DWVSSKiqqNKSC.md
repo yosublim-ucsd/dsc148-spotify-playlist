@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-207 songs - 16 hr 48 min
+208 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Quiero Verte Otra Vez](https://open.spotify.com/track/6BsQn0pSEpiGvJOwdRQjxx) | [Havana D'primera](https://open.spotify.com/artist/5Y8dq9whdlog1KEay1JxpO) | [Quiero Verte Otra Vez](https://open.spotify.com/album/4862dwA64dtiFt42ezMima) | 4:48 | 2020-08-25 | 2022-07-29 |
 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 | 2020-08-25 | 2022-04-29 |
 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 | 2020-08-25 |  |
-| [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 | 2020-08-25 |  |
+| [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 | 2020-08-25 | 2023-10-02 |
 | [Qué Sorpresa](https://open.spotify.com/track/5D2iEMBHykpE1BE7V6cDFX) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Qué Sorpresa](https://open.spotify.com/album/5R00tENfLRFZWUJIjs65sn) | 6:00 | 2020-08-25 | 2022-07-29 |
 | [Qué Sorpresa](https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5) | [Alexander Abreu and Havana D' Primera](https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI) | [Qué Sorpresa](https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig) | 6:00 | 2020-08-25 |  |
 | [Recíbeme \- Remasterizado](https://open.spotify.com/track/4C45aXbMc6BSDuPALVI85q) | [Juan Formell](https://open.spotify.com/artist/38gBx8oVL6C3AuLTz9ml27), [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [La Maquinaria \(Remasterizado\)](https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R) | 6:09 | 2020-08-25 | 2022-06-17 |
@@ -192,6 +192,7 @@
 | [Un beso](https://open.spotify.com/track/2gX34gCWPnUSvEhYLYEMH4) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Un beso](https://open.spotify.com/album/5YLIFTDokuqZWwAxuIqXRq) | 4:02 | 2020-08-25 |  |
 | [Un Beso](https://open.spotify.com/track/5e26zXhmhW8zlWgCSPfxLR) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 4:02 | 2020-08-25 | 2022-11-14 |
 | [Un Bonche en el Gao](https://open.spotify.com/track/1HDWo56kjU3GZ5FhG1r72q) | [Manana Club y Papucho](https://open.spotify.com/artist/4t2sviMc0Odp6WNgKg1icD) | [Mi Manana](https://open.spotify.com/album/44RPF43C1utCGmPBkLO7YO) | 3:46 | 2020-08-25 | 2022-06-16 |
+| [Un Mal Sueño](https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe) | [Tirso Duarte](https://open.spotify.com/artist/0QrLYrFFDOhi09EKV8nkdu) | [Timba Cubana](https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9) | 5:25 | 2022-12-30 |  |
 | [Un Poquito al Revés \- Remasterizado](https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Tranquilo Que Yo Controlo \(Remasterizado\)](https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy) | 4:33 | 2020-08-25 | 2022-07-18 |
 | [Una Mulata En La Habana](https://open.spotify.com/track/3wrWXFOjevPVxPoDS51x6g) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Salsa 2015 \- 20 Original Salsa Hits! \(Salsa Romántica y Para Bailar: Puertoriqueña, Cubana, Dominicana, Colombiana, Venezolana\)](https://open.spotify.com/album/2IuOQ5BcP0xUFZPhRosIfb) | 4:32 | 2020-08-25 | 2022-07-22 |
 | [Usted No Sabe](https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep) | 4:55 | 2020-08-25 |  |

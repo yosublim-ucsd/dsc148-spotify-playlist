@@ -4,7 +4,7 @@
 
 > New music from Lil Wayne, Lil Durk, Meek Mill and Rick Ross.
 
-1,789 songs - 3 day 20 hr 35 min
+1,790 songs - 3 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1560,7 +1560,8 @@
 | [The Relays \(feat\. Travis Scott\)](https://open.spotify.com/track/3tA12hlBltPtw6ArshsopB) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Brandon Banks](https://open.spotify.com/album/2E5FdSQ0pyo7LHW7XxMYUi) | 2:57 | 2019-07-20 | 2019-07-26 |
 | [THE REV3NGE](https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [THE REV3NGE](https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1) | 2:27 | 2022-01-14 | 2022-03-12 |
 | [THE SCOTTS](https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk) | [THE SCOTTS](https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [THE SCOTTS](https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus) | 2:45 | 2020-04-24 | 2020-08-07 |
-| [The Secret Recipe](https://open.spotify.com/track/5lcYNUreUk4OwC8AhfG8qu) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Secret Recipe](https://open.spotify.com/album/1YSYvIGqsIOoXs20uXkRhQ) | 4:08 | 2023-09-29 |  |
+| [The Secret Recipe](https://open.spotify.com/track/0pRqj4CrVCHOjDngEXZxcz) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Secret Recipe](https://open.spotify.com/album/5BP1CTcTZFiYDoaaX5hNrP) | 4:08 | 2023-10-01 |  |
+| [The Secret Recipe](https://open.spotify.com/track/5lcYNUreUk4OwC8AhfG8qu) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Secret Recipe](https://open.spotify.com/album/1YSYvIGqsIOoXs20uXkRhQ) | 4:08 | 2023-09-29 | 2023-10-02 |
 | [The Voice](https://open.spotify.com/track/195gauSXE6Q2IKmCrarHut) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice](https://open.spotify.com/album/2Rak58X8EYFuyAsEMXHWNX) | 2:59 | 2020-09-04 | 2020-10-02 |
 | [The War \(feat\. Young Thug\)](https://open.spotify.com/track/2o1dvKh58G11C51Y9EgBs3) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [ADHD](https://open.spotify.com/album/5qkWpkGMULLVnSHb3Sej4X) | 3:36 | 2020-04-02 | 2020-05-16 |
 | [The Woo \(feat\. 50 Cent & Roddy Ricch\)](https://open.spotify.com/track/1H7KnK26kc1YyellpbINEn) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:21 | 2020-07-03 | 2020-10-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 241 songs - 16 hr 46 min
+[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 245 songs - 17 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,5 +249,9 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 239 | [Avarice](https://open.spotify.com/track/5UHmdE56RGE1yiLNZ8OJkH) | [WATCHLIST](https://open.spotify.com/artist/6xjPWlyX9WcVCVjVl4IC9b) | [Avarice](https://open.spotify.com/album/6puhZhHAFEpwd9BFPv31yY) | 3:35 |
 | 240 | [Dream Eater](https://open.spotify.com/track/548QFtRn14cTtRA6Zw2TzM) | [I Satan](https://open.spotify.com/artist/6a97Q9WrO0RsSCcXHwNaPM) | [Dream Eater](https://open.spotify.com/album/3jWielR7DCaifyUVPy13jR) | 5:01 |
 | 241 | [Dwell In The Void](https://open.spotify.com/track/3aW6M0RlEDqUb9IKeVIcEJ) | [Shallow Dissent](https://open.spotify.com/artist/6A7uxd2a7b2PhPXx6GD7hR) | [Dwell In The Void](https://open.spotify.com/album/7o1cbp5f2HLWxGtRtClRKy) | 4:51 |
+| 242 | [Just A Carcass](https://open.spotify.com/track/198T7V44kLejbvN9mOTnHr) | [Anime Torment](https://open.spotify.com/artist/0PDV1XvYFaf4UwwxYYNyWW) | [Just A Carcass](https://open.spotify.com/album/0ggCokd4EKbHqm6hzg1Mqw) | 3:03 |
+| 243 | [In the Sunken City of R'lyeh](https://open.spotify.com/track/5VEOHixKs1O0DLAct8j0TW) | [Sphinx](https://open.spotify.com/artist/3JvCAKTxqFsRY3QtHkDjMp) | [In the Sunken City of R'lyeh](https://open.spotify.com/album/284kiY1mTW4A7UwqR3gNa5) | 4:26 |
+| 244 | [The Curse](https://open.spotify.com/track/4nZtrosAnW8gZWZiwClKBr) | [It Comes at Night](https://open.spotify.com/artist/0BmwjZW5Ksdz1uRs70IRLl) | [The Curse](https://open.spotify.com/album/3qZp5YQttKPPljhc0uLWnY) | 3:38 |
+| 245 | [Bound in Misery](https://open.spotify.com/track/6dDqwJT8ILra6LVsNb8qc6) | [Impuritan](https://open.spotify.com/artist/6WPUYW0KEbNPqs7Ipxl1jJ) | [Wrath](https://open.spotify.com/album/2i9pSs1QY4rFJ2ETZoORH0) | 3:31 |
 
-Snapshot ID: `MzQ4LGU3NjE4NTFlYTQ4NDljOGI5M2E3MDRkMzMxODZjNTQ4Y2E2ODVhYTA=`
+Snapshot ID: `MzUyLDQ2NDY0NTIwOThhYWZkZWQxNjVmYmNkODQ1MTAwYmM3YzBmZTExMzY=`

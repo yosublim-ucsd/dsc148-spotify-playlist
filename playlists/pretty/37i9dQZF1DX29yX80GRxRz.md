@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29yX80GRxRz.md) - [plain]
 
 > Drift away on cotton candy clouds and dream sweet with continuous pink sleep noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,584 likes - 235 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,589 likes - 235 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29yX80GRxRz.md) - [plain]
 | 234 | [Pink Noise In The Sky](https://open.spotify.com/track/4AA1H0r09C27RNW6z9Nplm) | [Pink Orbit](https://open.spotify.com/artist/1OcOohHo7T54wkzZhIs6KA) | [Pink Noise In The Sky](https://open.spotify.com/album/2oYq0mgo8jNntlRP46EsUr) | 4:06 |
 | 235 | [Midnight Breeze Pink Noise](https://open.spotify.com/track/1zjEZRXJqqJisjkh1c1OoF) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Pink Falls Ambient Noise](https://open.spotify.com/album/3yCyAWSirGuqQfpOCLyu7y) | 3:22 |
 
-Snapshot ID: `MCxjYTlmZjIwZTg4MmYyZTBkMTM1NDA2ZGI2OTVhYTllNjU3OTVkZTM2`
+Snapshot ID: `MCxhN2U3ZTMzYzlkMDYwNDcyYWY2YjA1MWJkNDRjNzMwOGRhMjJhOTMy`

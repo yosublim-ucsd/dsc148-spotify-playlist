@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,743 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,762 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 91 | [Leave Me Alone](https://open.spotify.com/track/7mYU5AQ4rc3RlVpQsV6iK8) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Look Now](https://open.spotify.com/album/3xlR9r8agdyf0JJ8kf3R9t) | 3:39 |
 | 92 | [Big Things Small Seeds](https://open.spotify.com/track/45FP5aLLS4NiCKtsacYQ0i) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Big Things Small Seeds](https://open.spotify.com/album/5a8MxBKU9rzJJxC7pFtIRA) | 3:18 |
 | 93 | [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 |
-| 94 | [Going Under](https://open.spotify.com/track/5JDBGWaittRF3rbVXExDWe) | [Russell Louder](https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG) | [Going Under](https://open.spotify.com/album/0lhTYswfOeJph432W7zU2P) | 3:29 |
+| 94 | [Going Under](https://open.spotify.com/track/6GT5UTws0ehVaaUnuVzMqx) | [Russell Louder](https://open.spotify.com/artist/7iWkq6O1CPR7eNomBY2LpG) | [Fair\-weather](https://open.spotify.com/album/5PMMoVoU9NFlXv129gaCTe) | 3:29 |
 | 95 | [The Beach](https://open.spotify.com/track/1nPphsH386vi13IEenaQi0) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [The Beach](https://open.spotify.com/album/60fgp2GJAd5zdTelbURJSl) | 4:53 |
 | 96 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
 | 97 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Friends in Bed](https://open.spotify.com/track/2gxRDXknHioKAiids3TskK) | [Noble Son](https://open.spotify.com/artist/7MZIDz9tE0iPbZHmA1XaJ8) | [Doom](https://open.spotify.com/album/6PczSjXvfPn904DxMCInHg) | 2:48 |
 | 100 | [What I Wouldn't Give](https://open.spotify.com/track/2jZ2NZAr4eYdiKFBdnLnUy) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [What I Wouldn't Give](https://open.spotify.com/album/3HE99KDQkRdkklFMCQEOdb) | 4:40 |
 
-Snapshot ID: `MCwwNjhiZTMwMDhhN2U2MzQyZTMyMGFmYWZkZGI5MTIwOTQ0MGM0ZmJj`
+Snapshot ID: `MCwwZjZhZWU3NGUwYTdjOGEyOWRkYjcwNTBhOTYwNTEzYmZkMWQ5Njc3`

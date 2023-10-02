@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Masdo, Aisyah Aziz
 
-304 songs - 19 hr 14 min
+306 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [BILA NANTI](https://open.spotify.com/track/4nAcExb3w5lk5LVGVULfcM) | [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW) | [BILA NANTI](https://open.spotify.com/album/6cMJGxJB6TGFIo4BmDSA8C) | 4:57 | 2022-05-25 | 2023-02-16 |
 | [Bisik](https://open.spotify.com/track/4YNhulUIAnaulDVlemRVzX) | [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Bisik](https://open.spotify.com/album/51J63QPmvNrjbhIFPNc3Wx) | 4:00 | 2022-07-21 | 2022-09-16 |
 | [BNKR](https://open.spotify.com/track/7I2I7aF6eG5bcOcMaHaRQz) | [TUJULOCA](https://open.spotify.com/artist/2XSkJRHmtC3SzHchT6Qwl3) | [BNKR](https://open.spotify.com/album/6TlgyJQ1UFKpBZJ5K1x07Z) | 3:40 | 2022-12-21 | 2023-01-12 |
-| [Bohongi Hati](https://open.spotify.com/track/0zYSfIjxemTi6jvUxGrDHl) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:22 | 2023-02-01 |  |
+| [Bohongi Hati](https://open.spotify.com/track/0zYSfIjxemTi6jvUxGrDHl) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:22 | 2023-02-01 | 2023-10-02 |
+| [Bohongi Hati](https://open.spotify.com/track/6gARWk9hXgTUImaKUsTu6w) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:22 | 2023-09-27 |  |
 | [Buai](https://open.spotify.com/track/2EPCdcUMsvD92RYG1MtleX) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Buai](https://open.spotify.com/album/66cDWg4Puu5MS6vTijmTpF) | 3:54 | 2022-11-16 | 2022-12-15 |
 | [Bukan Dengan Kita](https://open.spotify.com/track/33wlhlxa8yY7NUtdJi2AI6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg), [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Bukan Dengan Kita](https://open.spotify.com/album/1xOjV9DAO2qgx1lk0DZBmy) | 4:33 | 2023-04-05 | 2023-08-03 |
 | [Bukan Ku Tak Sudi](https://open.spotify.com/track/3ZLT0HblDRAA2VtigVUy8z) | [Usop](https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX), [Apex Tajudin](https://open.spotify.com/artist/2XJ2ePxUF5CnYf2VRPo6la) | [Bukan Ku Tak Sudi](https://open.spotify.com/album/6x30MeoOMh3ROo5jrlrY9w) | 3:44 | 2023-04-26 | 2023-05-24 |
@@ -295,7 +296,8 @@
 | [Terlukis Indah](https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Terlukis Indah](https://open.spotify.com/album/5Qk3VFJJ4CKS3zcBNp2YRs) | 3:47 | 2022-05-25 | 2022-08-25 |
 | [Ternoktah](https://open.spotify.com/track/5TZKS3PVVQE3QSUdGMAPIG) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Ternoktah](https://open.spotify.com/album/035lH9LLmKEzfr6DfinriW) | 3:51 | 2023-09-27 |  |
 | [Terpatri Dihati](https://open.spotify.com/track/7tIjL7uGVTa2IAUT3l0jpZ) | [Yuka Kharisma](https://open.spotify.com/artist/1rIJgdnQuJKKumgG4RQVBB) | [Terpatri Dihati](https://open.spotify.com/album/5X4lEKBo6zU653At44B1Rm) | 3:37 | 2022-06-22 | 2022-07-28 |
-| [Tertawan Hati](https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl) | 3:57 | 2022-11-16 |  |
+| [Tertawan Hati](https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/4pHrGkGuL62BjpAwLxhoJo) | 3:57 | 2023-09-27 |  |
+| [Tertawan Hati](https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl) | 3:57 | 2022-11-16 | 2023-10-02 |
 | [Terus Hidup](https://open.spotify.com/track/3sUY5xI83n8KX0rjpfxoQu) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Terus Hidup](https://open.spotify.com/album/4BDfVnGe4BlQxXQcf9RcqA) | 4:24 | 2023-02-15 | 2023-06-29 |
 | [Terus Menunggu](https://open.spotify.com/track/3Sw1AuJxpwJEmfqDcGO9Zv) | [gonebloom](https://open.spotify.com/artist/50ic5Z28Rbu8He7HZMdAOf) | [Terus Menunggu](https://open.spotify.com/album/7pv7AHF92fZicH93EaBgAC) | 3:54 | 2023-09-20 |  |
 | [Test Drive](https://open.spotify.com/track/6eqRalEQh4aR9KaKCnxSZu) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Test Drive](https://open.spotify.com/album/7KeMDStkuEMZfLyEiHJRxS) | 3:43 | 2023-02-01 | 2023-06-15 |

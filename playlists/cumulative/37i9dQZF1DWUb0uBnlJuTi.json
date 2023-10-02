@@ -6680,10 +6680,48 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 325200,
       "name": "The Ups and Downs",
       "url": "https://open.spotify.com/track/3aVnFftWFh5YWrg9QXwThw"
+    },
+    {
+      "album": {
+        "name": "Austrian Syndicate",
+        "url": "https://open.spotify.com/album/4trzZoTTd4VmkwkbEpDBFr"
+      },
+      "artists": [
+        {
+          "name": "David Helbock",
+          "url": "https://open.spotify.com/artist/0vL5aeUgB40QfmprJKhpOq"
+        },
+        {
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        },
+        {
+          "name": "Peter Madsen",
+          "url": "https://open.spotify.com/artist/3yoec9eCXayjK4ZQGYNzOM"
+        },
+        {
+          "name": "Raphael Preuschl",
+          "url": "https://open.spotify.com/artist/3jDeB8RF0KDC4CuZflmGKt"
+        },
+        {
+          "name": "Herbert Pirker",
+          "url": "https://open.spotify.com/artist/2wgehJQNceJRqSHjv8YK3A"
+        },
+        {
+          "name": "Claudio Spieler",
+          "url": "https://open.spotify.com/artist/5V58M3kxqK9zUdJUKg9Dk4"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325200,
+      "name": "The Ups and Downs",
+      "url": "https://open.spotify.com/track/7cW8pwyTGiZJIglkoRfmXN"
     },
     {
       "album": {

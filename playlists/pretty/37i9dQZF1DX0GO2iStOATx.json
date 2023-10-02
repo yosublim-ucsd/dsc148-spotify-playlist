@@ -1,12 +1,12 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 109810,
+  "num_followers": 109904,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWYxZWJlMjIxOGVlMmEyZjhhZTgxMzg1NTIxZDFkOWYzZGY0NDhm",
+  "snapshot_id": "MCwzMDI0MzZjYWViYzA5Y2NkNGIxNzlmNzc2YzlkMDU0OTdiNzM2M2Qw",
   "tracks": [
     {
       "added_at": "2023-08-31 06:46:36",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-08-31 06:46:36",
       "album": {
-        "name": "Welcome to My Hood",
-        "url": "https://open.spotify.com/album/1eIdNQUDw6dlSpMBoRXzIK"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Welcome to My Hood",
-      "url": "https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4"
-    },
-    {
-      "added_at": "2023-08-31 06:46:36",
-      "album": {
         "name": "Muchh",
         "url": "https://open.spotify.com/album/6Tu3rISlgcL1tjBLb3jmuS"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 205301,
       "name": "Muchh",
       "url": "https://open.spotify.com/track/3m3uKnTWKAPlnfggqVsIOq"
+    },
+    {
+      "added_at": "2023-08-31 06:46:36",
+      "album": {
+        "name": "Welcome to My Hood",
+        "url": "https://open.spotify.com/album/1eIdNQUDw6dlSpMBoRXzIK"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Welcome to My Hood",
+      "url": "https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4"
     },
     {
       "added_at": "2023-08-31 06:46:36",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-31 06:46:36",
       "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 161061,
-      "name": "Sahnewal",
-      "url": "https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE"
-    },
-    {
-      "added_at": "2023-08-31 06:46:36",
-      "album": {
         "name": "Back to Basics",
         "url": "https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 217640,
       "name": "Kharku",
       "url": "https://open.spotify.com/track/1xzxjqnT7mZb2Sh4HaG5tc"
+    },
+    {
+      "added_at": "2023-08-31 06:46:36",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 161061,
+      "name": "Sahnewal",
+      "url": "https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE"
     }
   ],
   "unique_name": "This Is Diljit Dosanjh",

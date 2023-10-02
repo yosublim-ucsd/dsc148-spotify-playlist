@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Is Survived By [Revived (Remixed / Remastered)]",
+        "url": "https://open.spotify.com/album/01oCTgRHMWrBh7aZBl4iHA"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "Is Survived By - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/3YziDJBWITRQFF4XrcjlmU"
+    },
+    {
+      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- REHMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,604 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,624 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 10 | [Lagda Nahi](https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [Lagda Nahi](https://open.spotify.com/album/5AO0SVvnvElqp8ofy2FLKP) | 3:10 |
 | 11 | [Zamanay](https://open.spotify.com/track/6o1DfORVD5ACPgDFqCDl6R) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zamanay](https://open.spotify.com/album/2bW42L4X55NqzHM4B76Akk) | 2:42 |
 | 12 | [Mohtaj](https://open.spotify.com/track/0kXoyJFa9MLGvXuI2TUL0i) | [Faisal Wadood](https://open.spotify.com/artist/5m4QU1DZCVqWwJqj4ZdxWa) | [Mohtaj](https://open.spotify.com/album/4oeu9m0X5N9yBlUw3GP2pH) | 2:26 |
-| 13 | [fanaa](https://open.spotify.com/track/408i6BjhDAW9XuZJHAgX1P) | [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8) | [fanaa](https://open.spotify.com/album/0ygOlDTsQoeXUADp6smB3Q) | 2:40 |
+| 13 | [fanaa](https://open.spotify.com/track/5WuiyBJvHwEQcfTvKGxmAL) | [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8) | [fanaa](https://open.spotify.com/album/7FiRNfARCL5OKBkY5TFORL) | 2:40 |
 | 14 | [YDKILY](https://open.spotify.com/track/3XLC0P0oFgpuK7cDyjbcnB) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [YDKILY](https://open.spotify.com/album/7fmcLyA0BuslOWU3LOa26T) | 3:16 |
 | 15 | [Rakh Le](https://open.spotify.com/track/6v2PLJRTjnOBPY2vetwpaf) | [GVL KHAN](https://open.spotify.com/artist/0zNEu5IOSHueGse4dVVW5b), [Muzzle](https://open.spotify.com/artist/19trpXQWUc00d2UEGLZQVB) | [Rakh Le](https://open.spotify.com/album/25L0YLtrqpF66F6zXDpWlw) | 2:41 |
 | 16 | [Reality Check](https://open.spotify.com/track/4hwAvFNGY6pyFDc7GClcZ0) | [Savage](https://open.spotify.com/artist/3VtBF6CD0XUIu87CvSmZET), [Z4NE](https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ), [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd) | [Reality Check](https://open.spotify.com/album/6LAPCDDdzwK3dYXFEdCtKV) | 3:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 79 | [Rangrasiya Re](https://open.spotify.com/track/4Cd2tRh1CRcruyPB4mh8yE) | [Shahzad e Ali](https://open.spotify.com/artist/1dAsGM47WYaYMOs6dpgeSk) | [Rangrasiya Re](https://open.spotify.com/album/6LdeDB74iQlKmESMp0lgOH) | 4:34 |
 | 80 | [Jaan](https://open.spotify.com/track/5rIbOVHy0ofgn9K72fQXJc) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Jaan](https://open.spotify.com/album/5w7vIl1FY2emz6CJeAtwol) | 2:48 |
 
-Snapshot ID: `MCwyOTc5MTY0ODYzMWI5YzU0YmE5OTlhMDY3OWU5ODcxYTBkZmVjM2Jh`
+Snapshot ID: `MCw3NDI4ZGJhNGMyNjMyNDU4NTg5MGE5NGJjZTI0ZDdjNTk3YjM4ZjE2`

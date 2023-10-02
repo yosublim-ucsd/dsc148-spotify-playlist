@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 10464,
+  "num_followers": 10497,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmZhYTEwODAwZmNkYjUyNDViZjU0ZDIyOGJiYmI5ZTg2YzU2NzFm",
+  "snapshot_id": "MCwyNWYyN2MwNjkyMWZhMTgwOTFmMjU1ZGNmYWFkNGNhMWE0NWQzNzk5",
   "tracks": [
     {
       "added_at": "2023-09-19 10:08:17",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "If",
-      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
         "name": "Olive",
         "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 129000,
       "name": "Olive",
       "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "If",
+      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
     },
     {
       "added_at": "2023-09-19 10:08:17",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "To My Friend",
-      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
         "name": "When It's Cold",
         "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 183824,
       "name": "When It\u2019s Cold",
       "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "To My Friend",
+      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
     },
     {
       "added_at": "2023-09-19 10:08:17",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
+        "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+        "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
+      },
+      "artists": [
+        {
+          "name": "Siwa",
+          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+      "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
         "name": "Seoul Check-in OST Part 8",
         "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
-        "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
-        "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
+        "name": "Lonely night",
+        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
       },
       "artists": [
         {
-          "name": "Siwa",
-          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 178373,
-      "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
-      "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
+      "duration_ms": 187186,
+      "name": "Lost Stars",
+      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
     },
     {
       "added_at": "2023-09-19 10:08:17",
@@ -731,22 +747,6 @@
       "duration_ms": 205002,
       "name": "Leave like this",
       "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
-        "name": "Lonely night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Lost Stars",
-      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
     },
     {
       "added_at": "2023-09-19 10:08:17",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
+        "name": "\uc2dc\uc18c",
+        "url": "https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR"
+      },
+      "artists": [
+        {
+          "name": "KiTak",
+          "url": "https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "\uc2dc\uc18c",
+      "url": "https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
         "name": "Voice Of The Forest",
         "url": "https://open.spotify.com/album/6MbzdZpJjL2CXVOuPEVLmb"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 233706,
       "name": "Voice Of The Forest - Guitar Version",
       "url": "https://open.spotify.com/track/6NV58PolVIW1nEqXfbsPid"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
-        "name": "\uc2dc\uc18c",
-        "url": "https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR"
-      },
-      "artists": [
-        {
-          "name": "KiTak",
-          "url": "https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "\uc2dc\uc18c",
-      "url": "https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J"
     },
     {
       "added_at": "2023-09-19 10:08:17",

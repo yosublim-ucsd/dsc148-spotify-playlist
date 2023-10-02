@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Ed Sheeran
 
-7,726 songs - 17 day 15 hr 50 min
+7,727 songs - 17 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2073,7 +2073,8 @@
 | [Falling Back](https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Falling Back](https://open.spotify.com/album/5YtbuCRyDgcFhczoXr7KQR) | 4:21 | 2022-10-27 | 2022-11-04 |
 | [Falling Behind](https://open.spotify.com/track/38EDrbRyjeIFaAw0XPNX6e) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Falling Behind](https://open.spotify.com/album/47ikRYlLNytQQxCBXzCQrQ) | 2:53 | 2022-08-11 | 2022-08-19 |
 | [FALLING FROM THE SKY](https://open.spotify.com/track/6NX4xw4l86DmoCLN5BiTo1) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [FALLING FROM THE SKY](https://open.spotify.com/album/5tTeKMDMFFnovqBDxhboeA) | 4:08 | 2022-06-09 | 2022-06-17 |
-| [Falling or flying](https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Falling or flying](https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH) | 3:24 | 2023-08-31 |  |
+| [Falling or flying](https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Falling or flying](https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH) | 3:24 | 2023-08-31 | 2023-10-02 |
+| [Falling or flying](https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:24 | 2023-09-28 |  |
 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 | 2022-03-31 | 2022-04-08 |
 | [False Expectation](https://open.spotify.com/track/3myFzR8wpHc935zYuICIbT) | [Sunwich](https://open.spotify.com/artist/45KFMEB3QETjFvFME86vYO) | [False Expectation](https://open.spotify.com/album/7d5F0itIUXgdUJgujviwzV) | 3:45 | 2023-01-12 | 2023-01-20 |
 | [Falsetto \(feat\. Lil Tecca\)](https://open.spotify.com/track/6nrPRHGdz1ytpX2ZBZ4RGU) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We All We Got](https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O) | 2:15 | 2022-08-18 | 2022-08-26 |

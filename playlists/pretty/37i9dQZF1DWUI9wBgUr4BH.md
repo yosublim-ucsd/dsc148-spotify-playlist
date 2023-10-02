@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Rema x Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,262 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,290 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 49 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
 | 50 | [Crush](https://open.spotify.com/track/4R1mhxy6AmZOtkAjQWfK1w) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Histoire de Nuit 2](https://open.spotify.com/album/6DYndqXAxgfxLCz8pePXYm) | 3:12 |
 
-Snapshot ID: `MCxlZGVmY2U5MDk4MzViMzAyNDY3MzY4NGQyY2ZjNTgxOTBiY2YzYzU3`
+Snapshot ID: `MCxjNTljNGI5ZWM5YTI4NjkzMGEwN2E5MWRjYjU4MDhjYTNlZmJhMjMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Torya
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,424 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,444 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 35 | [Glossy](https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Glossy](https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp) | 2:31 |
 | 36 | [Ashley Banks](https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Ashley Banks](https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY) | 3:28 |
 | 37 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |
-| 38 | [F.D.P](https://open.spotify.com/track/6VGOXyPBs38qrq7nNyZvcD) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Tshawtty](https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Nabru](https://open.spotify.com/artist/67VY9YRt42yGpkO52KeIeF), [Lola](https://open.spotify.com/artist/1bkNzmvF9a7dfInKGMhsBw), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [F.D.P](https://open.spotify.com/album/4tHvgPqTQ1lhpL2IxZe478) | 4:38 |
+| 38 | [F.D.P](https://open.spotify.com/track/6VGOXyPBs38qrq7nNyZvcD) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Tshawtty](https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [NABRU](https://open.spotify.com/artist/6a4IWOVhX5VTq92mPQKoWh), [Lola](https://open.spotify.com/artist/1bkNzmvF9a7dfInKGMhsBw), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [F.D.P](https://open.spotify.com/album/4tHvgPqTQ1lhpL2IxZe478) | 4:38 |
 | 39 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
 | 40 | [Gamadona](https://open.spotify.com/track/6LiFJolwT0NIa0YMRrmRgG) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo), [PS](https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68) | [Gamadona](https://open.spotify.com/album/6DoLETGyvHHQekJP7gSkME) | 2:32 |
 | 41 | [Em Mim](https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Em Mim](https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Facim](https://open.spotify.com/track/3R6ywVCDqkW6gvuLEfgD1x) | [Lorak](https://open.spotify.com/artist/4lAgDPv5o0YoLrqUIKWFnu), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Lótus](https://open.spotify.com/album/07i6uDxq5RYgTUlsyGCuwL) | 2:05 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCw2YTNlYzVmMjY2OWY2MmZjYjA1MmY2MjgyNzFlNDE3NTM0NjM3Yzdi`
+Snapshot ID: `MCw2NjUyNjU5ZjFhOTBhZjhiNzQ1Y2ViZDhkMjMwYTdiYzc4OTNiZTAy`

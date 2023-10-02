@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 145441,
       "name": "Adrift (Meditation)",
       "url": "https://open.spotify.com/track/3L3YFTmQOCFe36kQ1DuugY"
@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Creek Of Wonder",
+        "url": "https://open.spotify.com/album/4OBLtNZOdzSkQRvok1BDew"
+      },
+      "artists": [
+        {
+          "name": "Nature Pulse",
+          "url": "https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184628,
+      "name": "Creek Of Wonder (Meditation)",
+      "url": "https://open.spotify.com/track/3rbYnf1AoDwPoNTBUYRPaI"
+    },
+    {
+      "album": {
         "name": "C\u00edclica",
         "url": "https://open.spotify.com/album/5jVMmxJaXohVz7BwmJqiBW"
       },
@@ -887,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Fri\u00f0ur",
+        "url": "https://open.spotify.com/album/4Fu7EYmSZhFNnLEvf4u7VO"
+      },
+      "artists": [
+        {
+          "name": "Huglei\u00f6sla",
+          "url": "https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194797,
+      "name": "Fri\u00f0ur",
+      "url": "https://open.spotify.com/track/1rkmSbMTJ4kSNed9O4YwSt"
+    },
+    {
+      "album": {
         "name": "Glitching",
         "url": "https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8"
       },
@@ -970,7 +1006,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 169250,
       "name": "Halfmoon",
       "url": "https://open.spotify.com/track/0AdOu6FCkWdtrCxPYP4yS9"
@@ -1280,6 +1316,24 @@
       "duration_ms": 178460,
       "name": "Lily's Arrival",
       "url": "https://open.spotify.com/track/0KdOX4bbKodh8fWhbUgRLe"
+    },
+    {
+      "album": {
+        "name": "Little Rabbit",
+        "url": "https://open.spotify.com/album/5bU0ZA8rrJumX16meqGpSV"
+      },
+      "artists": [
+        {
+          "name": "Mind Shores",
+          "url": "https://open.spotify.com/artist/5rMYtkq4BVMFCtgXOsIyxK"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Little Rabbit",
+      "url": "https://open.spotify.com/track/4ANwAzJKUZv8n3DmUkOv6b"
     },
     {
       "album": {
@@ -1697,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "Orange Sky (Meditation)",
+        "url": "https://open.spotify.com/album/3w2N8w1puVbjmFDp5kI54h"
+      },
+      "artists": [
+        {
+          "name": "Clyde Price",
+          "url": "https://open.spotify.com/artist/4xt2fTrl6aOgGVoVaeuh2Y"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158403,
+      "name": "Orange Sky (Nature)",
+      "url": "https://open.spotify.com/track/5IulPk0sJRudaIxh5JbMgz"
+    },
+    {
+      "album": {
         "name": "Corkscrew Swamp Sanctuary Pt. 2 Soundwalk",
         "url": "https://open.spotify.com/album/0TBQA6n8foPfWoamgZgGi3"
       },
@@ -2039,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/1rDWZjU82es1bcBmXzuCx3"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149884,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/48ApntXh9irnvS6aBo4jaV"
+    },
+    {
+      "album": {
         "name": "Wandering Mind",
         "url": "https://open.spotify.com/album/5xdnfDa5waDfIgSu7M6KGF"
       },
@@ -2148,6 +2238,24 @@
       "duration_ms": 135144,
       "name": "Song from the meadow",
       "url": "https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg"
+    },
+    {
+      "album": {
+        "name": "Song Of Nature",
+        "url": "https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV"
+      },
+      "artists": [
+        {
+          "name": "Ziwambe",
+          "url": "https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Song Of Nature",
+      "url": "https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH"
     },
     {
       "album": {
@@ -2634,6 +2742,24 @@
       "duration_ms": 174965,
       "name": "WATERFALLS",
       "url": "https://open.spotify.com/track/6Y8AeQZTqpfDp3kynbzbBV"
+    },
+    {
+      "album": {
+        "name": "Wayanad",
+        "url": "https://open.spotify.com/album/1QeAo6C6W5TPwj7cPqFbQn"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zone One",
+          "url": "https://open.spotify.com/artist/4OCpAOPZviS8AW5gyBNn26"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181113,
+      "name": "Wayanad",
+      "url": "https://open.spotify.com/track/5KzU3RczgJSImkXul9s3hm"
     },
     {
       "album": {

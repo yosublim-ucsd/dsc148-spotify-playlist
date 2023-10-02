@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "STARLIGHT 99",
+        "url": "https://open.spotify.com/album/5bDVacUvfiwSkZAKfCVQkS"
+      },
+      "artists": [
+        {
+          "name": "Argonaut & Wasp",
+          "url": "https://open.spotify.com/artist/5FE0B5zV9y7T5OzkiDkBG8"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "Composure",
+      "url": "https://open.spotify.com/track/6dZ1hcMmTSyGubP2Rs1a0b"
+    },
+    {
+      "album": {
         "name": "Composure",
         "url": "https://open.spotify.com/album/3u45SKEwwFtHd3Di9Yqmmn"
       },
@@ -676,7 +694,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 184800,
       "name": "Composure",
       "url": "https://open.spotify.com/track/339ivDmvy4LAascGvxhgOx"

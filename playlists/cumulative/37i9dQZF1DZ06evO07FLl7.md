@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-48 songs - 3 hr 13 min
+49 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Preta D+](https://open.spotify.com/track/1RsXIRweHrvL1MqmxHgiKf) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 3:14 | 2023-09-18 |  |
 | [Primavera](https://open.spotify.com/track/4nrBZ1bxeP1JYL0jykNWOK) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:18 | 2023-09-18 |  |
 | [Próspera D+](https://open.spotify.com/track/587Wwyisn5zHduewGcBWt1) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 2:21 | 2023-09-18 |  |
+| [Pérola](https://open.spotify.com/track/5roVS9zsTErv2UetMM45Z4) | [WEKS](https://open.spotify.com/artist/4v157m8UraCNRXlW8wpkRN), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Pérola](https://open.spotify.com/album/19Sy32AXcvFQgTV4JyliwN) | 3:05 | 2023-10-01 |  |
 | [Rude](https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Rude](https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC) | 2:54 | 2023-09-18 |  |
 | [Se Avexe Não](https://open.spotify.com/track/27hosIGRjZMgGU8HUuKIKc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:44 | 2023-09-18 |  |
 | [Semana Vem](https://open.spotify.com/track/0AH5iaTfTZHhsp17XQJEml) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 4:22 | 2023-09-18 |  |

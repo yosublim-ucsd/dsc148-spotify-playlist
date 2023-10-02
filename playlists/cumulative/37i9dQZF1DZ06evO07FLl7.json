@@ -869,6 +869,28 @@
     },
     {
       "album": {
+        "name": "P\u00e9rola",
+        "url": "https://open.spotify.com/album/19Sy32AXcvFQgTV4JyliwN"
+      },
+      "artists": [
+        {
+          "name": "WEKS",
+          "url": "https://open.spotify.com/artist/4v157m8UraCNRXlW8wpkRN"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185790,
+      "name": "P\u00e9rola",
+      "url": "https://open.spotify.com/track/5roVS9zsTErv2UetMM45Z4"
+    },
+    {
+      "album": {
         "name": "Rude",
         "url": "https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC"
       },

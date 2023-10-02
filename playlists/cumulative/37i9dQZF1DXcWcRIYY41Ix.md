@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Rupatrupa.
 
-467 songs - 1 day 4 hr 25 min
+468 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [busco](https://open.spotify.com/track/1dBasjgtFj2VtDLWDmgQQB) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [busco](https://open.spotify.com/album/52gCH61zIwOUaE4XzzXJTp) | 2:58 | 2023-09-29 |  |
 | [Cachorros](https://open.spotify.com/track/7hK251hXVLoNPkQ7f4yz7u) | [CHUS](https://open.spotify.com/artist/03Ti07lMY1vSVctkbIADLG) | [Cachorros](https://open.spotify.com/album/778keyuS5PtBnrLl9LGbmA) | 4:10 | 2022-02-25 | 2022-04-21 |
 | [Cada vez](https://open.spotify.com/track/4gS7CAVZulGuTzSbKbHaew) | [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Diez fotos de alguien que ya no soy yo](https://open.spotify.com/album/7Gs3my2xOGxmvDqxhuQSOX) | 3:22 | 2022-07-01 | 2022-07-26 |
+| [Caen Los Árboles](https://open.spotify.com/track/2xxQ52pXNXEoC6DOBRe3Jd) | [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h) | [Caen Los Árboles](https://open.spotify.com/album/0jerytpu0oDNnmdTzKJD10) | 4:23 | 2023-09-29 |  |
 | [Calma](https://open.spotify.com/track/7wKz16Le77RMTt0eOGPp0v) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa), [Medina](https://open.spotify.com/artist/4HWvloZKsYg0HmsnFMkeNO), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Calma](https://open.spotify.com/album/5DSlYtdAQ7x3KxldkrAwBg) | 2:26 | 2023-03-02 | 2023-03-21 |
 | [Caminar y Silbar](https://open.spotify.com/track/5iMjqRdsME17iDsAGTkHiL) | [Izqui y los Pequeños Planetas](https://open.spotify.com/artist/4rIMxwqlZeHtdFBGonACct) | [Caminar y Silbar](https://open.spotify.com/album/0cxtvqa04vMLpshMs5szhb) | 2:45 | 2022-05-13 | 2022-07-09 |
 | [Caminata](https://open.spotify.com/track/10q58ySzhr4lUvqFQHwoUD) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Caminata](https://open.spotify.com/album/04JEuJTa7Uf1KROL7gTnUt) | 2:58 | 2022-10-21 | 2022-12-03 |
@@ -267,7 +268,7 @@
 | [maría](https://open.spotify.com/track/6FyKN7OBp8EH7D01shfmjM) | [from](https://open.spotify.com/artist/5JOOLcf9vpeO0Lk5YsHXKU) | [maría](https://open.spotify.com/album/5Q35ux2a1t8o3zKhUkqrly) | 2:34 | 2023-06-02 | 2023-07-01 |
 | [Matria](https://open.spotify.com/track/0C9erXRAs9mM0ogb5NpAkm) | [Sol Escobar](https://open.spotify.com/artist/7CEXwaARhPygIleaUOC9mJ) | [Matria](https://open.spotify.com/album/4lBEofXRtJjkCIXWl9O3Mt) | 3:59 | 2022-05-13 | 2022-05-24 |
 | [Me Fui](https://open.spotify.com/track/17IpNs6hv6Z6C6K31Phzkn) | [Vicky Gastelo](https://open.spotify.com/artist/6oIeX7RcNGYp83pCtlNPqb), [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Me Fui](https://open.spotify.com/album/1j7caKPPkCC1VUPChrAjmM) | 3:48 | 2022-12-23 | 2023-01-21 |
-| [Me mudo de casa](https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Me mudo de casa](https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3) | 4:04 | 2023-02-17 |  |
+| [Me mudo de casa](https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Me mudo de casa](https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3) | 4:04 | 2023-02-17 | 2023-10-02 |
 | [Me Quedo Aquí \- Bonus Track](https://open.spotify.com/track/6cxVIwPmlGl6LSfo0iGSJv) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Me Quedo Aquí \(Bonus Track\)](https://open.spotify.com/album/491Dqm9bqKjGxkgvYNaXja) | 3:33 | 2022-10-28 | 2022-11-12 |
 | [Me Voy a Valparaíso](https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Me Voy a Valparaíso](https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c) | 4:00 | 2021-12-24 |  |
 | [Mensajes en el Mar](https://open.spotify.com/track/4vgtji8ryyG6poEdMhSvE7) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/3uTW9z4Yhk9XnGwy6C7qiW) | 4:07 | 2021-12-24 | 2022-12-24 |

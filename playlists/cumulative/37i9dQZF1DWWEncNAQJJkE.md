@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of Hip\-Hop in Canada in 2022\. Cover: Drake \#SpotifyWrapped
 
-184 songs - 9 hr 38 min
+185 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [DEAD FACES \(feat\. AJ Tracey\)](https://open.spotify.com/track/6q5QDDOa2SuC5i2YqDwYJs) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [KILLSTREAK 2 \(Deluxe\)](https://open.spotify.com/album/573urfbTu89gWeBXMr3kH7) | 3:09 | 2021-12-09 | 2022-12-01 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-11-30 |  |
 | [Don't Dance](https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Don't Dance](https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX) | 3:17 | 2022-11-30 |  |
-| [Dwayne Carter Flow](https://open.spotify.com/track/5cPvON926WlX4q6PBD2oYM) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [All Time High](https://open.spotify.com/album/7t47lS4m3CZi7DMWF8r9JN) | 2:10 | 2022-11-30 |  |
+| [Dwayne Carter Flow](https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [All Time High](https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N) | 2:10 | 2022-12-02 |  |
+| [Dwayne Carter Flow](https://open.spotify.com/track/5cPvON926WlX4q6PBD2oYM) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [All Time High](https://open.spotify.com/album/7t47lS4m3CZi7DMWF8r9JN) | 2:10 | 2022-11-30 | 2023-10-02 |
 | [Eazy \(Feat\. Kanye West\)](https://open.spotify.com/track/7CbHgNrlybV0uyP1wJINDd) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:53 | 2022-11-30 |  |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-12-09 | 2022-12-01 |
 | [Family Matters \(feat\. Flo Milli\)](https://open.spotify.com/track/4qVxgXAQnGb11sU6yIYxQJ) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Family Matters \(feat\. Flo Milli\)](https://open.spotify.com/album/1lhN1OVSC0KeW7UVSy17Js) | 3:37 | 2021-12-09 | 2022-12-01 |

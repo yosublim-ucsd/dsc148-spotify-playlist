@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joyce Blessing ",
-  "num_followers": 4949,
+  "num_followers": 5005,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzUxMjhiNTJkNjdmZTE3N2E3ZTgzOTc3Y2I2N2Q2NWE1YjZhZmZl",
+  "snapshot_id": "MCxkMzVkOTJmNjE5MTE4MzJkYjgzMjJmYzhiOWI0YjIwZjdjZDBhNTk2",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -375,22 +375,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP"
+        "name": "VICTORY",
+        "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
       },
       "artists": [
         {
-          "name": "Akesse Brempong",
-          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
-        },
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Joyce Blessing",
+          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
         }
       ],
-      "duration_ms": 218928,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE"
+      "duration_ms": 236769,
+      "name": "VICTORY",
+      "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -459,18 +455,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "VICTORY",
-        "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP"
       },
       "artists": [
         {
-          "name": "Joyce Blessing",
-          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 236769,
-      "name": "VICTORY",
-      "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
+      "duration_ms": 218928,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE"
     },
     {
       "added_at": "2023-09-14 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "tunes for walking, driving, running, flying, etc",
-  "num_followers": 184634,
+  "num_followers": 184715,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDJhYzgyNTNkYzdkMWJhMjM5YmI0NGRkNmU0YjYyNDY2ODRkNTY4",
+  "snapshot_id": "MCw5ZGQwM2M1OTFiMDg4YWRmNzA4MTU0MzY4YzA3N2JlZjVjYzc2MzM4",
   "tracks": [
     {
       "added_at": "2023-08-09 21:18:22",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "its alright :)",
-        "url": "https://open.spotify.com/album/6r8xvFmJ6SS7XU5dSfvdWB"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walkman",
-          "url": "https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4"
-        }
-      ],
-      "duration_ms": 202048,
-      "name": "its alright :)",
-      "url": "https://open.spotify.com/track/66nBMj6cwE9V6LxcpQQpFs"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "\u00bfT\u00e9o?",
         "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 170125,
       "name": "Uno Dos",
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "its alright :)",
+        "url": "https://open.spotify.com/album/6r8xvFmJ6SS7XU5dSfvdWB"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walkman",
+          "url": "https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4"
+        }
+      ],
+      "duration_ms": 202048,
+      "name": "its alright :)",
+      "url": "https://open.spotify.com/track/66nBMj6cwE9V6LxcpQQpFs"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "nice",
-        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 101298,
-      "name": "slideshow",
-      "url": "https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "TECHNICOLOR",
-        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
+        "name": "nice",
+        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
       },
       "artists": [
         {
-          "name": "Josh Fudge",
-          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
         }
       ],
-      "duration_ms": 188143,
-      "name": "FEEL LIKE",
-      "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
+      "duration_ms": 101298,
+      "name": "slideshow",
+      "url": "https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -567,6 +551,22 @@
       "duration_ms": 204000,
       "name": "Janet",
       "url": "https://open.spotify.com/track/3ml3WB66sqG4kXoPBX2POA"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "TECHNICOLOR",
+        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
+      },
+      "artists": [
+        {
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+        }
+      ],
+      "duration_ms": 188143,
+      "name": "FEEL LIKE",
+      "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Peur des filles (Montmartre Remix)",
-        "url": "https://open.spotify.com/album/1vzib5ra2r5t2laFnvgJfO"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Peur des filles - Montmartre Remix",
-      "url": "https://open.spotify.com/track/6xRK103p6gJYRMf1knKanW"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Andromeda (feat. D.R.A.M.) [Purple Disco Machine Remix]",
         "url": "https://open.spotify.com/album/106oSRdZYwswMFOAPwROxf"
       },
@@ -695,22 +675,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
+        "name": "Peur des filles (Montmartre Remix)",
+        "url": "https://open.spotify.com/album/1vzib5ra2r5t2laFnvgJfO"
       },
       "artists": [
         {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         },
         {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
         }
       ],
-      "duration_ms": 250362,
-      "name": "Teen Scene (ft. Buddy)",
-      "url": "https://open.spotify.com/track/3cyw3MYxhpCSPMawfqdFNk"
+      "duration_ms": 166106,
+      "name": "Peur des filles - Montmartre Remix",
+      "url": "https://open.spotify.com/track/6xRK103p6gJYRMf1knKanW"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -731,6 +711,26 @@
       "duration_ms": 157921,
       "name": "GEEKIN",
       "url": "https://open.spotify.com/track/4HiWfodoaCudNmx2AJCgq6"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 250362,
+      "name": "Teen Scene (ft. Buddy)",
+      "url": "https://open.spotify.com/track/3cyw3MYxhpCSPMawfqdFNk"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Brave & Afraid",
-        "url": "https://open.spotify.com/album/3lvjqdNNA5MufpKO2mTsi6"
-      },
-      "artists": [
-        {
-          "name": "Marques Martin",
-          "url": "https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq"
-        }
-      ],
-      "duration_ms": 220147,
-      "name": "Belles",
-      "url": "https://open.spotify.com/track/4RpoYe85npfGZ9JEzTdzx8"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Tennis Courts",
         "url": "https://open.spotify.com/album/0RW5vXBF1fAe5W11bDstR7"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "Brave & Afraid",
+        "url": "https://open.spotify.com/album/3lvjqdNNA5MufpKO2mTsi6"
+      },
+      "artists": [
+        {
+          "name": "Marques Martin",
+          "url": "https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq"
+        }
+      ],
+      "duration_ms": 220147,
+      "name": "Belles",
+      "url": "https://open.spotify.com/track/4RpoYe85npfGZ9JEzTdzx8"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Summer\u2019s For Lovers",
         "url": "https://open.spotify.com/album/2t3WmVBLUufwXg0kkIQIDi"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Hot Crush Lover",
-        "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 193731,
-      "name": "Hot Crush Lover",
-      "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Pretty Face",
         "url": "https://open.spotify.com/album/3mjjWk8njHR1KqYmWnRUUU"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 179533,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/3Iid1bzzTHFY9bXoVs7SiJ"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Hot Crush Lover",
+        "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 193731,
+      "name": "Hot Crush Lover",
+      "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "BOYFRIEND KILLER",
+        "url": "https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM"
+      },
+      "artists": [
+        {
+          "name": "Palmer",
+          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "BOYFRIEND KILLER",
+      "url": "https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Pigeons & Planes presents: See You Next Year",
         "url": "https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 152843,
       "name": "Mean Girl",
       "url": "https://open.spotify.com/track/3sbjrdgu7GEau6kvjWGL54"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "BOYFRIEND KILLER",
-        "url": "https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM"
-      },
-      "artists": [
-        {
-          "name": "Palmer",
-          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "BOYFRIEND KILLER",
-      "url": "https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1347,22 +1347,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "BREADWINNER",
-        "url": "https://open.spotify.com/album/7rILI7b42rdmDPoY97xyOa"
+        "name": "keep in touch",
+        "url": "https://open.spotify.com/album/2vLQadIAwgChhNUu2WguFK"
       },
       "artists": [
         {
-          "name": "Floyd Fuji",
-          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+          "name": "Nxtime",
+          "url": "https://open.spotify.com/artist/2960ZYqDzOYsnK0ka9Rd8J"
         },
         {
-          "name": "Topaz Jones",
-          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
         }
       ],
-      "duration_ms": 198302,
-      "name": "BREADWINNER",
-      "url": "https://open.spotify.com/track/5UOuVrX6D7pAsIsMxSlex0"
+      "duration_ms": 209610,
+      "name": "keep in touch",
+      "url": "https://open.spotify.com/track/4Zmz78m7P7NT5qpoTIfFwF"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1383,22 +1383,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "keep in touch",
-        "url": "https://open.spotify.com/album/2vLQadIAwgChhNUu2WguFK"
+        "name": "BREADWINNER",
+        "url": "https://open.spotify.com/album/7rILI7b42rdmDPoY97xyOa"
       },
       "artists": [
         {
-          "name": "Nxtime",
-          "url": "https://open.spotify.com/artist/2960ZYqDzOYsnK0ka9Rd8J"
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
         },
         {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
         }
       ],
-      "duration_ms": 209610,
-      "name": "keep in touch",
-      "url": "https://open.spotify.com/track/4Zmz78m7P7NT5qpoTIfFwF"
+      "duration_ms": 198302,
+      "name": "BREADWINNER",
+      "url": "https://open.spotify.com/track/5UOuVrX6D7pAsIsMxSlex0"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "frenemy",
-        "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
-      },
-      "artists": [
-        {
-          "name": "altopalo",
-          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Altopalo",
-      "url": "https://open.spotify.com/track/2WemKADv3m0xhqVPabjvI4"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "He Seems Upset",
         "url": "https://open.spotify.com/album/3St5xyx3phzZ6eRReZaQQQ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 200021,
       "name": "Sippin' on the Daylight",
       "url": "https://open.spotify.com/track/4VzSsGiU16ph3mUiQzBKD3"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "frenemy",
+        "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Altopalo",
+      "url": "https://open.spotify.com/track/2WemKADv3m0xhqVPabjvI4"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 290564,
-      "name": "Cherry Pit",
-      "url": "https://open.spotify.com/track/6A99m7rCQHZ1Len8QlPfOf"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Burn Down",
         "url": "https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "The Year of February",
-        "url": "https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI"
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
       "artists": [
         {
-          "name": "Forest Claudette",
-          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
         }
       ],
-      "duration_ms": 218499,
-      "name": "Creaming Soda",
-      "url": "https://open.spotify.com/track/0D8aqu4R2FCOtpw5WR7XWi"
+      "duration_ms": 290564,
+      "name": "Cherry Pit",
+      "url": "https://open.spotify.com/track/6A99m7rCQHZ1Len8QlPfOf"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "The Year of February",
+        "url": "https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "duration_ms": 218499,
+      "name": "Creaming Soda",
+      "url": "https://open.spotify.com/track/0D8aqu4R2FCOtpw5WR7XWi"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Can U Meet Me There",
         "url": "https://open.spotify.com/album/3MAhsnUPCTX3LTsaR04x5u"
       },
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Thursday Friday",
-        "url": "https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN"
-      },
-      "artists": [
-        {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/7H3ZtXgz7Ay2elkVDAOXXU"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Tommy",
         "url": "https://open.spotify.com/album/5BjjgpESJZDI1ievIXFVsu"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 213478,
       "name": "Tommy",
       "url": "https://open.spotify.com/track/7w76n5UvwlGrjZsgFm8ZYl"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Thursday Friday",
+        "url": "https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN"
+      },
+      "artists": [
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7H3ZtXgz7Ay2elkVDAOXXU"
     }
   ],
   "unique_name": "omw",

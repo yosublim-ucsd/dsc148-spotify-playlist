@@ -4,7 +4,7 @@
 
 > Freshest of Pakistani discoveries\. Cover \- REHMA
 
-552 songs - 1 day 6 hr 5 min
+553 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Eyes](https://open.spotify.com/track/0MCZffBZvJivkdr9a7ZNeZ) | [Asad Ramzan](https://open.spotify.com/artist/3WurOoapdd3PrQr3Y3IlOD) | [Eyes](https://open.spotify.com/album/29pjJzNKFjYNFbXBovNPgi) | 2:25 | 2023-01-10 | 2023-01-26 |
 | [FAKE FAKE](https://open.spotify.com/track/5vqZ8FWRzXB3bNLw1W2PPf) | [Madlock Gilani](https://open.spotify.com/artist/69QGbimZ7ZZJ9w02ET3kpx) | [FAKE FAKE](https://open.spotify.com/album/6AfKpBZ8of6stPTxPxEY7f) | 2:15 | 2023-01-10 | 2023-02-14 |
 | [Fall](https://open.spotify.com/track/5s71n4JEu588lFyQt9GAdc) | [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Fall](https://open.spotify.com/album/34739rAj0TnKnSBchE4TLu) | 2:05 | 2023-01-10 | 2023-03-22 |
-| [fanaa](https://open.spotify.com/track/408i6BjhDAW9XuZJHAgX1P) | [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8) | [fanaa](https://open.spotify.com/album/0ygOlDTsQoeXUADp6smB3Q) | 2:40 | 2023-09-15 |  |
+| [fanaa](https://open.spotify.com/track/408i6BjhDAW9XuZJHAgX1P) | [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8) | [fanaa](https://open.spotify.com/album/0ygOlDTsQoeXUADp6smB3Q) | 2:40 | 2023-09-15 | 2023-10-02 |
+| [fanaa](https://open.spotify.com/track/5WuiyBJvHwEQcfTvKGxmAL) | [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8) | [fanaa](https://open.spotify.com/album/7FiRNfARCL5OKBkY5TFORL) | 2:40 | 2023-09-15 |  |
 | [Faraway](https://open.spotify.com/track/0AKU8waQvgOkhjawagkahs) | [Z4NE](https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ) | [Faraway](https://open.spotify.com/album/7bcedUnCq3H0yX8Kf8G9rJ) | 2:43 | 2023-07-14 |  |
 | [FATAFAT](https://open.spotify.com/track/2qrxjFWMbxRiq6rytnPfg2) | [Saad Shah](https://open.spotify.com/artist/2SWv5AV8zWOW6QAtzXmF3u) | [FATAFAT](https://open.spotify.com/album/1MkBtq5nT1eqdX8oMounNs) | 2:26 | 2022-10-26 | 2023-01-11 |
 | [ferozi sham](https://open.spotify.com/track/3i8xmV2RnzXtVP6jj1F9PG) | [Talha & Anas](https://open.spotify.com/artist/34Tf2bt0J6u3ZnZk6yUUCC) | [ferozi sham](https://open.spotify.com/album/5ZvA9AlyFTrYq4MbF03t6h) | 2:03 | 2022-11-30 | 2023-01-11 |

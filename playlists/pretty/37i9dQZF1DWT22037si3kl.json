@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Prazer Ben\u00e9, Dfideliz",
-  "num_followers": 126127,
+  "num_followers": 126297,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzBmMWFhMjhmMzE0ZDQzNTU5MGI1NjI5NGZhYzFlNzI4NWVlODNj",
+  "snapshot_id": "MCw3MTFlMDZiNjA5ZjVmZWVkN2I1MTY5ZDJkNTkxN2E4NGI4ZTczZGQ3",
   "tracks": [
     {
       "added_at": "2023-09-29 03:01:00",
@@ -551,30 +551,6 @@
     {
       "added_at": "2023-09-29 03:01:00",
       "album": {
-        "name": "No Bank's",
-        "url": "https://open.spotify.com/album/07QrmBl9FqFiDYUd1jY4C8"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        }
-      ],
-      "duration_ms": 188437,
-      "name": "No Bank's",
-      "url": "https://open.spotify.com/track/4Wwm8sCBEBuVYie9jiFvx9"
-    },
-    {
-      "added_at": "2023-09-29 03:01:00",
-      "album": {
         "name": "Vit\u00f3ria Dobrada",
         "url": "https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 154838,
       "name": "Vit\u00f3ria Dobrada",
       "url": "https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL"
+    },
+    {
+      "added_at": "2023-09-29 03:01:00",
+      "album": {
+        "name": "No Bank's",
+        "url": "https://open.spotify.com/album/07QrmBl9FqFiDYUd1jY4C8"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        }
+      ],
+      "duration_ms": 188437,
+      "name": "No Bank's",
+      "url": "https://open.spotify.com/track/4Wwm8sCBEBuVYie9jiFvx9"
     },
     {
       "added_at": "2023-09-29 03:01:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-09-29 03:01:00",
       "album": {
-        "name": "Ironicamente",
-        "url": "https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "No Cutty",
-          "url": "https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ"
-        }
-      ],
-      "duration_ms": 164269,
-      "name": "Ironicamente",
-      "url": "https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T"
-    },
-    {
-      "added_at": "2023-09-29 03:01:00",
-      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/5IRcRuEihMES5gUZWVsGyo"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 180000,
       "name": "No Love",
       "url": "https://open.spotify.com/track/6ExnOUWNlAtsJCsqsa2GDB"
+    },
+    {
+      "added_at": "2023-09-29 03:01:00",
+      "album": {
+        "name": "Ironicamente",
+        "url": "https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "No Cutty",
+          "url": "https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ"
+        }
+      ],
+      "duration_ms": 164269,
+      "name": "Ironicamente",
+      "url": "https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T"
     },
     {
       "added_at": "2023-09-29 03:01:00",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-09-29 03:01:00",
       "album": {
-        "name": "Animais Traidores",
-        "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "VEGA",
-          "url": "https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Animais Traidores",
-      "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
-    },
-    {
-      "added_at": "2023-09-29 03:01:00",
-      "album": {
         "name": "Noronha",
         "url": "https://open.spotify.com/album/4vUiqIfXmxekWwfz0X5dey"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 166788,
       "name": "Marcha",
       "url": "https://open.spotify.com/track/1M0j0NI2vuIWOmTN8satNh"
+    },
+    {
+      "added_at": "2023-09-29 03:01:00",
+      "album": {
+        "name": "Animais Traidores",
+        "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "VEGA",
+          "url": "https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Animais Traidores",
+      "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
     },
     {
       "added_at": "2023-09-29 03:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-09-29 03:01:00",
       "album": {
-        "name": "Loyalty",
-        "url": "https://open.spotify.com/album/6Mb93xMq97OqX2SmKU29xw"
-      },
-      "artists": [
-        {
-          "name": "Malcolm VL",
-          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
-        }
-      ],
-      "duration_ms": 204839,
-      "name": "Loyalty",
-      "url": "https://open.spotify.com/track/1tVENMDCXyu32b8xFTZT5z"
-    },
-    {
-      "added_at": "2023-09-29 03:01:00",
-      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 140308,
       "name": "Aumentando os Lucros",
       "url": "https://open.spotify.com/track/6flGT8gHgiS6anHceskTmP"
+    },
+    {
+      "added_at": "2023-09-29 03:01:00",
+      "album": {
+        "name": "Loyalty",
+        "url": "https://open.spotify.com/album/6Mb93xMq97OqX2SmKU29xw"
+      },
+      "artists": [
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        }
+      ],
+      "duration_ms": 204839,
+      "name": "Loyalty",
+      "url": "https://open.spotify.com/track/1tVENMDCXyu32b8xFTZT5z"
     },
     {
       "added_at": "2023-09-29 03:01:00",

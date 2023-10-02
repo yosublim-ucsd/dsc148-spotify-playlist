@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Amaranthe
 
-4,687 songs - 13 day 5 hr 29 min
+4,689 songs - 13 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1320,7 +1320,8 @@
 | [End \(The Other Side\)](https://open.spotify.com/track/3h7bP5UMx6pHlPPlzYM0dL) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [End \(The Other Side\)](https://open.spotify.com/album/17nKRRDxikQd0YstkhOMjF) | 3:50 | 2022-08-12 | 2022-08-20 |
 | [End of the World](https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [End of the World \(feat\. Disciple\)](https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY) | 5:54 | 2022-12-02 | 2022-12-10 |
 | [End The Transmission](https://open.spotify.com/track/7icbQ9Y2IQbI8CgXQCzA8c) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:42 | 2023-02-10 | 2023-02-18 |
-| [Endless Ambition](https://open.spotify.com/track/7KuAhmuydK5xQyG63aa8zb) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Endless Ambition](https://open.spotify.com/album/6rQP8xYcuIQfU3UmdwKiw3) | 3:23 | 2023-09-29 |  |
+| [Endless Ambition](https://open.spotify.com/track/1PIeYKbVqQK1P7oIin0A7N) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Jailbreak](https://open.spotify.com/album/6dnFZrQ2r2eXqDwphuNe1w) | 3:23 | 2023-09-29 |  |
+| [Endless Ambition](https://open.spotify.com/track/7KuAhmuydK5xQyG63aa8zb) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Endless Ambition](https://open.spotify.com/album/6rQP8xYcuIQfU3UmdwKiw3) | 3:23 | 2023-09-29 | 2023-10-02 |
 | [Endless Fall](https://open.spotify.com/track/2W7FmT7QsRshLTWmGk9UME) | [Hard Mind](https://open.spotify.com/artist/1TeGsp5oOpJjVsk3CAioLf) | [Endless Fall](https://open.spotify.com/album/3FklxeI1yDeRcqmZrN6u5P) | 2:53 | 2023-01-13 | 2023-01-21 |
 | [ENDLESS HALLWAY](https://open.spotify.com/track/43UFivUCMZGT6eVqixXzTi) | [He Is Legend](https://open.spotify.com/artist/53cAPynhUIC5WFgPPfbp2r) | [ENDLESS HALLWAY](https://open.spotify.com/album/4yYvvQPnapuOcaqp9Dvz0w) | 3:39 | 2022-11-11 | 2022-11-19 |
 | [Endless Riots](https://open.spotify.com/track/2tTiytd4vnEyR59st5sTZC) | [Reece Young](https://open.spotify.com/artist/1bdqTbBpPy0SGAmxYun3Hh), [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Endless Riots](https://open.spotify.com/album/3ZlNQWwsuYAOT7Mhvgx2TL) | 2:42 | 2023-03-17 | 2023-03-25 |
@@ -3689,7 +3690,8 @@
 | [Stream](https://open.spotify.com/track/3H4Bqq2K1nrUn9WcPFwLKj) | [Another Now](https://open.spotify.com/artist/629YWM91DWvZIUKjKJvrMp) | [OMNI+](https://open.spotify.com/album/68rIGFibIUDXvzegRYj8eD) | 3:22 | 2022-08-05 | 2022-08-13 |
 | [Street Trash](https://open.spotify.com/track/1qP2OWFLbP3CHJo5Se0kXB) | [Eight Sins](https://open.spotify.com/artist/5M7auDu0v1IOATDBxQVfIM) | [Street Trash](https://open.spotify.com/album/0MuYBRehP3E7fu9fDLjMdS) | 3:05 | 2023-06-09 | 2023-06-17 |
 | [Strike Back](https://open.spotify.com/track/0cXs8TirSU9BYB2ng46IyU) | [The Lightbringer of Sweden](https://open.spotify.com/artist/6u53rgRUxnjgX8gyyqRsml) | [Strike Back](https://open.spotify.com/album/02Yfyh4R4ONJGNoWGOBTRv) | 5:37 | 2022-03-03 | 2022-03-11 |
-| [Strike Of The Viper](https://open.spotify.com/track/3sykXyEnYnGogkypEEJ7kl) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [Strike Of The Viper](https://open.spotify.com/album/6jAOy9k064BFbw3LwT0ZyB) | 2:24 | 2023-08-25 |  |
+| [Strike Of The Viper](https://open.spotify.com/track/3sykXyEnYnGogkypEEJ7kl) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [Strike Of The Viper](https://open.spotify.com/album/6jAOy9k064BFbw3LwT0ZyB) | 2:24 | 2023-08-25 | 2023-10-02 |
+| [Strike Of The Viper](https://open.spotify.com/track/7lR5tuTKTddjqJr1pkDTyb) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [The Sinner Rides Again](https://open.spotify.com/album/6VbE5qiFPnuNUsWE5dgZQk) | 2:24 | 2023-09-29 |  |
 | [Strike The Match](https://open.spotify.com/track/40M9LLR4FZJ4bGjXzJ6PO9) | [Phil Campbell and the Bastard Sons](https://open.spotify.com/artist/7fRzvXVDS5fOLD91WQwE6q) | [Kings Of The Asylum](https://open.spotify.com/album/5bS7Shg3cWC7MTjEWdAPCj) | 4:12 | 2023-09-01 | 2023-09-09 |
 | [Strong \- Cinematic version](https://open.spotify.com/track/0BIDwcGB6NwadOqQrQ8MAf) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Strong \(Cinematic Version\)](https://open.spotify.com/album/2QSJNMIxPbFgz8cyrpYQuc) | 3:13 | 2022-08-19 | 2022-08-27 |
 | [Strongest Of The Strong](https://open.spotify.com/track/6hPlZWKfEk8bEF4SA71XMt) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Strongest Of The Strong](https://open.spotify.com/album/7q1DYUCkUOjVSMKGf0MWAC) | 4:01 | 2022-04-08 | 2022-04-22 |

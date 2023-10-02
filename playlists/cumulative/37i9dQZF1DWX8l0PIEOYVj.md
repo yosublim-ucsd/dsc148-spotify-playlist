@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: JVNA.
 
-439 songs - 1 day 2 hr 14 min
+440 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Nobody Compares](https://open.spotify.com/track/7BixD2gRYSkttEeP8emwdc) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Nobody Compares](https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA) | 4:04 | 2023-09-15 |  |
 | [North Star](https://open.spotify.com/track/0ETOemq54BkgRF5MSKvJIU) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [North Star](https://open.spotify.com/album/2308bJJtMPT9ndArfSvkUY) | 3:09 | 2023-07-07 |  |
 | [Not Giving In](https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ) | [Not Giving In](https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK) | 3:07 | 2022-11-11 | 2023-04-09 |
+| [NOT THE ONE](https://open.spotify.com/track/1zT5ymdKPYUJBNLa85FIBN) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Kelly Paige](https://open.spotify.com/artist/55gmpteNh4JYsHglV3aQeD) | [NOT THE ONE](https://open.spotify.com/album/6fMyp6cpXpQDq5dZ2cRBuY) | 2:27 | 2023-09-29 |  |
 | [Nowhere](https://open.spotify.com/track/31gMxpu8lSWdIBayKt5ED3) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [Nowhere](https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz) | 3:13 | 2023-08-04 |  |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-07-08 |  |
 | [Oceans & Galaxies](https://open.spotify.com/track/5NQKpa6uCqZcaFkAbUK4XB) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Oceans & Galaxies](https://open.spotify.com/album/68ktA77AGDVlrifYU53GzL) | 3:20 | 2022-07-08 | 2022-08-27 |
@@ -314,7 +315,7 @@
 | [Pretty](https://open.spotify.com/track/7aarAImx6lJIDIYPGanjH0) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Pretty](https://open.spotify.com/album/2Wbe1NCFxulDpLb08X7taJ) | 3:41 | 2023-08-11 |  |
 | [Pseudo Love](https://open.spotify.com/track/4KUIJ07yRdDJ10yIZitoHs) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Pseudo Love](https://open.spotify.com/album/4w5OSMGUJ2HWoOiwtIsjpJ) | 3:04 | 2022-07-08 | 2022-08-30 |
 | [Purple Heather](https://open.spotify.com/track/4Z5Msyx3JMWoKPjKbHsZ4T) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [Matluck](https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu) | [Purple Heather](https://open.spotify.com/album/4fXIqbppstWug6NsJXQAGF) | 2:22 | 2023-06-30 | 2023-08-12 |
-| [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 | 2022-07-08 |  |
+| [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 | 2022-07-08 | 2023-10-02 |
 | [Reach Across the Sky](https://open.spotify.com/track/6ocYRs6L5GSEOMlveJg5LA) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Reach Across the Sky](https://open.spotify.com/album/3m44f4eq8s3vWty22nJhtB) | 3:22 | 2022-08-12 | 2023-04-14 |
 | [Reach Across the Sky \- Crystal Skies Remix](https://open.spotify.com/track/5xWYXEcB7FUX9IW7wMRG0h) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK) | [Reach Across the Sky \(Crystal Skies Remix\)](https://open.spotify.com/album/6779vm0VGvO5ml9E53dF3h) | 4:03 | 2023-01-13 | 2023-06-13 |
 | [Ready For Love](https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Ready For Love](https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK) | 2:42 | 2022-07-22 | 2023-08-18 |

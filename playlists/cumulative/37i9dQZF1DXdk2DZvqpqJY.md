@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-387 songs - 23 hr 58 min
+388 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2022-06-02 | 2023-05-05 |
 | [New Kid \- Jon Charleston Rework](https://open.spotify.com/track/627hQRtHxWnu3z9CghsL3m) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2), [Jon Charleston](https://open.spotify.com/artist/6zlEatETWX5iVk6CLYw1ek) | [New Kid \(Jon Charleston Rework\)](https://open.spotify.com/album/4uOmKEjmSHCN5J9rfh4wJm) | 2:25 | 2022-02-17 | 2023-03-21 |
 | [New Levels](https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [New Levels](https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m) | 3:52 | 2022-06-02 | 2022-09-29 |
-| [New York City Dreamin'](https://open.spotify.com/track/7IzASoTEuRv3G2uSkP79sE) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 4:01 | 2023-05-04 |  |
+| [New York City Dreamin'](https://open.spotify.com/track/7IzASoTEuRv3G2uSkP79sE) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 4:01 | 2023-05-04 | 2023-10-02 |
 | [Night Service](https://open.spotify.com/track/1Bcuzu8dWi5hukdn4Vpv8d) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Heemo\*](https://open.spotify.com/artist/0iim4E2EDMwWUFngjxk5ip) | [Night Service](https://open.spotify.com/album/0gfQl3EBjY8R336VGRBPOB) | 3:02 | 2022-09-07 | 2023-03-21 |
 | [Night Swim](https://open.spotify.com/track/0COa6aw2qYulXlzsraUqCk) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 1:30 | 2022-12-09 | 2023-04-25 |
 | [Night Swim](https://open.spotify.com/track/2Appk7rcvJRNPpuUK42ytB) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3) | 1:30 | 2022-06-02 | 2022-11-21 |
@@ -371,6 +371,7 @@
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2023-03-20 |  |
 | [Visions of Love \- Instrumental](https://open.spotify.com/track/4YeTyqLeTfemvVh99ol2ic) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ) | [Visions of Love \(Instrumental\)](https://open.spotify.com/album/58wfPcZLdLv2ncEVFa5HeD) | 3:28 | 2022-02-17 | 2022-04-23 |
 | [Vortex](https://open.spotify.com/track/6VtRGov8SEpPMq569x76mz) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Vortex](https://open.spotify.com/album/4s3HbuAOfH5ua6RctwNGlq) | 2:18 | 2022-02-17 | 2022-04-23 |
+| [Walking talking fields](https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Walking talking fields](https://open.spotify.com/album/1PWAJ2s1OLsjPBA8ZieZvr) | 3:54 | 2023-09-29 |  |
 | [Warm for the Director](https://open.spotify.com/track/35zByL2uDoW1rv1TGwljfO) | [Alice Mason](https://open.spotify.com/artist/3H6GaLoefbFNBaS336FrRA) | [Soluble in the Maturity](https://open.spotify.com/album/4dUex4y36jb964zEL7J8H6) | 2:02 | 2022-03-24 | 2022-03-30 |
 | [Warp](https://open.spotify.com/track/0U9hekAvk594eG77ipTLDR) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 4:25 | 2022-04-22 | 2023-03-21 |
 | [Waterfall](https://open.spotify.com/track/0Gyu7ttkfam04VeAgZEB3c) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Waterfall](https://open.spotify.com/album/4ce6IAUlzsEe7elxVkRZqc) | 2:32 | 2023-03-20 |  |

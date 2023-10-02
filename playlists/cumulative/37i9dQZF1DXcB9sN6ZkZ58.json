@@ -708,10 +708,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 186707,
       "name": "Fonky Food",
       "url": "https://open.spotify.com/track/17bXyzZutYIOEvwokdLBen"
+    },
+    {
+      "album": {
+        "name": "Garbage Guts",
+        "url": "https://open.spotify.com/album/3rhyPmh2KoHRrepxiygVIk"
+      },
+      "artists": [
+        {
+          "name": "Formidable Vegetable",
+          "url": "https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186707,
+      "name": "Fonky Food",
+      "url": "https://open.spotify.com/track/3ZUf1XW4tPO6JZySphvteo"
     },
     {
       "album": {

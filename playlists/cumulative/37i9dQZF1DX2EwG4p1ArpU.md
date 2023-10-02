@@ -4,7 +4,7 @@
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-65 songs - 5 hr 23 min
+66 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Gunjo Sanka](https://open.spotify.com/track/5rq7yhcpsofB04NgTqlY8r) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaizin](https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1) | 4:36 | 2022-11-30 |  |
 | [Hakugin](https://open.spotify.com/track/3cwykuEbMGkt1iza7QOb2p) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 4:05 | 2022-11-30 |  |
 | [Hakushi no haru](https://open.spotify.com/track/2qtCthv8huqIS2Wg5CsWBT) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [Blue](https://open.spotify.com/album/2QWSqoeGoHB8OPMkVu1AHt) | 4:29 | 2022-11-30 |  |
+| [Hanaarashi](https://open.spotify.com/track/7appEyBT2D7skgWyyb5klH) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Hanaarashi](https://open.spotify.com/album/1txQrmehD3TKMQ8a5SQrbv) | 3:43 | 2023-10-01 |  |
 | [Heikousen](https://open.spotify.com/track/5hdYHlf3e2x2XtWI8gr9mB) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [Kaizin](https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1) | 4:39 | 2022-11-30 |  |
 | [Homesick](https://open.spotify.com/track/1MafB8R0qpi0qALqFOqQxO) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 4:51 | 2022-11-30 |  |
 | [Inochi No Tabekata](https://open.spotify.com/track/0maSUktGFelOHPjTP8c1Kd) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 3:44 | 2022-11-30 |  |

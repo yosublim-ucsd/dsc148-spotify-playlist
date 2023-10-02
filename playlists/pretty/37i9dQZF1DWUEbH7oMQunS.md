@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,408 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,473 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 35 | [Just Come](https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k) | [Creative Culture Co.](https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [At the Table](https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB) | 3:37 |
 | 36 | [Rest with Me](https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Attention \(a Devotional Project\)](https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW) | 3:42 |
 | 37 | [Greater Than All Other Names \- Instrumental](https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 5:36 |
-| 38 | [Into The Sea](https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn) | [Port Blue](https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY) | [The Albatross EP](https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H) | 2:22 |
-| 39 | [\(73\) the Nearness of You](https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Asaph](https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5) | 5:42 |
+| 38 | [\(73\) the Nearness of You](https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Asaph](https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5) | 5:42 |
+| 39 | [Into The Sea](https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn) | [Port Blue](https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY) | [The Albatross EP](https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H) | 2:22 |
 | 40 | [Leaving Safe Places](https://open.spotify.com/track/5atbh6Zl7HLrtu50KNEjAc) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Awakening](https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm) | 4:06 |
 | 41 | [Great Is Our God](https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Young Oceans](https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB) | 4:33 |
 | 42 | [Water Harp](https://open.spotify.com/track/0uQIzIuNMfzCZCtRGSr4l9) | [Yoga Music](https://open.spotify.com/artist/6ppQ1vjjme5Jtz2ceBFcWY), [Yoga Workout Music](https://open.spotify.com/artist/6RVXIMP9f30jw4rBAn9RfW), [Internal Yoga](https://open.spotify.com/artist/01KhCk3LxZ60TnXjqdY5VI) | [Yoga Practice & Mindfulness Music](https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj) | 2:45 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 47 | [Jesus Is\_\_\_.](https://open.spotify.com/track/1ilsVjIPYIxPyjunBeDFLP) | [The City Church](https://open.spotify.com/artist/6HWUXnbMgWLWzkQAiTb4MZ) | [Jesus Is\_\_\_\. Music Project](https://open.spotify.com/album/05hvkkM29nIor7aT515II2) | 4:37 |
 | 48 | [5am](https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX) | [I'm Healing](https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0) | 4:42 |
 | 49 | [You Are Good](https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [You Are Good](https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX) | 5:58 |
-| 50 | [The Invitation](https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:28 |
+| 50 | [Mother's Love](https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f) | [Antonious](https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ) | [Mother's Love](https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0) | 1:00 |
 | 51 | [Lord I need You](https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4) | [Holy Communion Instrumental Duo](https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr) | [Contemporary Worship Hits](https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0) | 2:59 |
-| 52 | [Mother's Love](https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f) | [Antonious](https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ) | [Mother's Love](https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0) | 1:00 |
+| 52 | [The Invitation](https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:28 |
 | 53 | [To The Sky](https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO) | [The Spacies](https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn) | [The Spacies](https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp) | 4:21 |
 | 54 | [make stuff up & sing things](https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [those lil god songs i posted on ig](https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4) | 3:36 |
 | 55 | [hold on \(alt\. version\)](https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2) | [Paul Whitacre](https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO), [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [features](https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz) | 3:36 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 59 | [Whirlwind](https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [High Level Praise](https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t) | 3:18 |
 | 60 | [10,000 Reasons \(Bless the Lord\)](https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN) | [Holy Communion Instrumental Duo](https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr) | [Contemporary Worship Hits](https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0) | 2:23 |
 | 61 | [Letters](https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h) | 3:26 |
-| 62 | [Breathe My Name](https://open.spotify.com/track/0sbisO5Ld7OvsRsMCaEDoB) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Rachel Robinson](https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g) | [Breathe My Name](https://open.spotify.com/album/6OkoWwEPpRocbPoK7uNiJx) | 2:55 |
-| 63 | [Weeping Mary](https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Hope Where There Was None](https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5) | 3:16 |
+| 62 | [Weeping Mary](https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Hope Where There Was None](https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5) | 3:16 |
+| 63 | [Breathe My Name](https://open.spotify.com/track/0sbisO5Ld7OvsRsMCaEDoB) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Rachel Robinson](https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g) | [Breathe My Name](https://open.spotify.com/album/6OkoWwEPpRocbPoK7uNiJx) | 2:55 |
 | 64 | [Lord Have Mercy](https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [The Universal Christ](https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t) | 3:51 |
 | 65 | [I Go](https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D) | [WILLO](https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N) | [Eternal Jetlag](https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk) | 3:56 |
 | 66 | [Fireflies](https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Fireflies](https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 99 | [A Reason to Hide](https://open.spotify.com/track/4pffZgndhbmArERQwcVYSk) | [Caves](https://open.spotify.com/artist/2tzzfW0A5ktHkQ8W2JcBxD) | [Caves \(Deluxe Edition\)](https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ) | 5:31 |
 | 100 | [God Keep Us](https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr) | [Gamie](https://open.spotify.com/artist/4D67gN8zIZf4jztCnjCn6G) | [SEVEN](https://open.spotify.com/album/10fgRN0jhULCS8KZridQ4n) | 3:07 |
 
-Snapshot ID: `MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2`
+Snapshot ID: `MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy`

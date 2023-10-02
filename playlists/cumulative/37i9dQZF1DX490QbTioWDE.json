@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Adi\u00f3s, Me Voy",
+        "url": "https://open.spotify.com/album/3tNsYn3hQPc3ZfG7HPiRNq"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237242,
+      "name": "Adi\u00f3s, Me Voy",
+      "url": "https://open.spotify.com/track/7iPwAA5D5zfVVk8wZQ5gh9"
+    },
+    {
+      "album": {
         "name": "Aguardiente",
         "url": "https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR"
       },
@@ -4190,7 +4208,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 236165,
       "name": "No Seas Cruel",
       "url": "https://open.spotify.com/track/3lZivt5mGd2zxX1nXanxIU"

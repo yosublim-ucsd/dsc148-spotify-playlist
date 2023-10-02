@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 22420,
+  "num_followers": 22463,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmIxZDI1ZmYwMGQyODQ0M2JmYTQ1ZmI4MDViMTY4YTRlMmQ5ZWJi",
+  "snapshot_id": "MCw4NmJlYmI0YmU4NDc1YWVhM2JjMGVjYTI1YTE4OGQwZjJjZGRiOTli",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -23,6 +23,22 @@
       "duration_ms": 174186,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Sabrina",
+        "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
+      },
+      "artists": [
+        {
+          "name": "Sabrina",
+          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
+        }
+      ],
+      "duration_ms": 234812,
+      "name": "Boys - Summertime Love",
+      "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -55,22 +71,6 @@
       "duration_ms": 214306,
       "name": "Sapore di sale",
       "url": "https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Sabrina",
-        "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
-      },
-      "artists": [
-        {
-          "name": "Sabrina",
-          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
-        }
-      ],
-      "duration_ms": 234812,
-      "name": "Boys - Summertime Love",
-      "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Rocky Roberts",
-        "url": "https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK"
-      },
-      "artists": [
-        {
-          "name": "Rocky Roberts",
-          "url": "https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh"
-        }
-      ],
-      "duration_ms": 113853,
-      "name": "Stasera mi butto",
-      "url": "https://open.spotify.com/track/7uZF6CYmfNQ2lqRYqDhSdc"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Un'ora con...",
         "url": "https://open.spotify.com/album/3jYaY4hJL3Ene7hctpoX44"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 236813,
       "name": "Nell'aria",
       "url": "https://open.spotify.com/track/5PXaja7dpezSS8nSDsyfb7"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Rocky Roberts",
+        "url": "https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK"
+      },
+      "artists": [
+        {
+          "name": "Rocky Roberts",
+          "url": "https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh"
+        }
+      ],
+      "duration_ms": 113853,
+      "name": "Stasera mi butto",
+      "url": "https://open.spotify.com/track/7uZF6CYmfNQ2lqRYqDhSdc"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Un'estate al mare / Bing bang being [Digital 45]",
-        "url": "https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh"
-      },
-      "artists": [
-        {
-          "name": "Giuni Russo",
-          "url": "https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Un'estate al mare",
-      "url": "https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Righeira The 80's Hit Songs",
         "url": "https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 217327,
       "name": "Vamos a la Playa",
       "url": "https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Un'estate al mare / Bing bang being [Digital 45]",
+        "url": "https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh"
+      },
+      "artists": [
+        {
+          "name": "Giuni Russo",
+          "url": "https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Un'estate al mare",
+      "url": "https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd"
     },
     {
       "added_at": "2023-06-05 07:42:38",

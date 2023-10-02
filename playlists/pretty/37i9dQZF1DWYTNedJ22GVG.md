@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,821 likes - 111 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,825 likes - 111 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 43 | [Have Yourself a Merry Little Christmas \- Jo Whiley, BBC Radio 1 Session](https://open.spotify.com/track/4cLMJLCJS4tXQoH416h77P) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Have Yourself a Merry Little Christmas \(Jo Whiley, BBC Radio 1 Session\)](https://open.spotify.com/album/1sPu7EQ1vbjG3A5GOqMVam) | 2:19 |
 | 44 | [My Favorite Things](https://open.spotify.com/track/0feu9LmBxJDKDYdcfxCKCX) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [My Favorite Things](https://open.spotify.com/album/2yxHfFZqiqhDDUHHfuy4wj) | 2:34 |
 | 45 | [Holly Jolly Christmas](https://open.spotify.com/track/59zlM1isufljV8wUPby0rq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 3:21 |
-| 46 | [A Winter Wonderland](https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl) | 3:47 |
+| 46 | [A Winter Wonderland](https://open.spotify.com/track/3TdTi9r2kol4WGzz4b1blG) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/2Q3obqeUIIisZoav5mcW70) | 3:47 |
 | 47 | [Frosty the Snowman](https://open.spotify.com/track/5HtbV8EtYpz5VLEhbKuHSO) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 2:09 |
 | 48 | [Run Rudolph Run](https://open.spotify.com/track/6wBQYLB2ANxGi1gfACyoRL) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [The Muppets: A Green and Red Christmas](https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA) | 3:09 |
 | 49 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 110 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 111 | [Snow In California](https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:26 |
 
-Snapshot ID: `MCw4ZGVlZTdjOTgwOTljZGFmMDc1OTFhYjk5ZTRlM2FjN2FlOTEwYjNk`
+Snapshot ID: `MCwxNTdiN2M4N2ZiMTYyMjYyODE4YTc4Mjg4Y2U2MTMyNTM5ZTNkZDA4`

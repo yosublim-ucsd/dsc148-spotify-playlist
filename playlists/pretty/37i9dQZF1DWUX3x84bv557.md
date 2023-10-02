@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Numidia
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,748 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,763 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 |
 | 2 | [De Helft Van Mij](https://open.spotify.com/track/1b4EY1iGSNPRIW2fulM8Lj) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 3:24 |
-| 3 | [100K Tranen](https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP) | [100K Tranen](https://open.spotify.com/album/4b5tmW8Nbt5yzYORGdjpTm) | 2:34 |
-| 4 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
+| 3 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
+| 4 | [100K Tranen](https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP) | [100K Tranen](https://open.spotify.com/album/4b5tmW8Nbt5yzYORGdjpTm) | 2:34 |
 | 5 | [Niet Breken](https://open.spotify.com/track/4iv7QWrytOLIRIECHBJkqP) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Niet Breken](https://open.spotify.com/album/0uXGmsQzYBGfNPpsfP3vos) | 2:41 |
 | 6 | [Brak Zijn](https://open.spotify.com/track/6U7KAEmS3hSQrHqnqCYycn) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Brak Zijn](https://open.spotify.com/album/7HohBFxEurOJSiBsGMo0J4) | 2:55 |
 | 7 | [Dat Hadden Wij Moeten Zijn](https://open.spotify.com/track/1YdavvpHweXYPkKuxg40Ha) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Dat Hadden Wij Moeten Zijn](https://open.spotify.com/album/5WxgeokG4RNocDTb4uQ1cE) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Opzij](https://open.spotify.com/track/1yoDJQ04wFrCBw9rkVgtXp) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [Opzij](https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C) | 2:22 |
 | 60 | [Rolling Stone](https://open.spotify.com/track/7pmmCC7wOuG38rZeUCtPpa) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [Rolling Stone](https://open.spotify.com/album/3XSu9f5Zau6MN01ZCxQz0F) | 2:25 |
 
-Snapshot ID: `MCw1NjFmZmFkMjk5ZWEwNTBhMjZmMjU5NzUxMDAzNzVmODUxYTRjZjlh`
+Snapshot ID: `MCw2MDllYjk0ZTBlMjcxMDdkMzgzYTk1NDA1YTE4OWJlMWZiMGNiMThk`

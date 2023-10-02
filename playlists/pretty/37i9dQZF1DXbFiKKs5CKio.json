@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 50628,
+  "num_followers": 50669,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTllY2RkZDcwNTgwNGRiZDgzNjM5YmUzN2E5NjQ3OGM2NzllNTAx",
+  "snapshot_id": "MCxlYWVmZjY4NTRmNzA0ZWM4NjE1MjIyNmM4ZTFhYTgyNzZkYjVlOTU2",
   "tracks": [
     {
       "added_at": "2023-09-22 03:01:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Faminta",
+        "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Eu Tava Em Casa",
+      "url": "https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Self Portrait",
         "url": "https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 142909,
       "name": "Always",
       "url": "https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Faminta",
-        "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
-      },
-      "artists": [
-        {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Eu Tava Em Casa",
-      "url": "https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Correnteza - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/3JwynjyDmYuvrZOFXhiUfU"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 202068,
-      "name": "Correnteza - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3cDlYpaelgDahCMQlyJBgj"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Como eu vim parar aqui?",
         "url": "https://open.spotify.com/album/3ZMXh0gQOYgGYGpGQMSNAK"
       },
@@ -511,22 +495,18 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Ouroboros",
-        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
+        "name": "Correnteza - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3JwynjyDmYuvrZOFXhiUfU"
       },
       "artists": [
         {
-          "name": "Kanda Ent",
-          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
-        },
-        {
-          "name": "Diego Amani",
-          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
         }
       ],
-      "duration_ms": 152706,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
+      "duration_ms": 202068,
+      "name": "Correnteza - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3cDlYpaelgDahCMQlyJBgj"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -547,6 +527,26 @@
       "duration_ms": 204500,
       "name": "VAI DAR BOM",
       "url": "https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Ouroboros",
+        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
+      },
+      "artists": [
+        {
+          "name": "Kanda Ent",
+          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
+        },
+        {
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+        }
+      ],
+      "duration_ms": 152706,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Canela e hortel\u00e3",
-        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
-      },
-      "artists": [
-        {
-          "name": "Gray C.",
-          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Canela e hortel\u00e3",
-      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Qu\u00edmica Perfeita",
         "url": "https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 177391,
       "name": "Qu\u00edmica Perfeita",
       "url": "https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Canela e hortel\u00e3",
+        "url": "https://open.spotify.com/album/2EEYfJdXVN07Al19zZ9WlQ"
+      },
+      "artists": [
+        {
+          "name": "Gray C.",
+          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Canela e hortel\u00e3",
+      "url": "https://open.spotify.com/track/2nEp5iuVr51yVjaepJjAOW"
     },
     {
       "added_at": "2023-09-22 03:01:00",

@@ -6,7 +6,7 @@
     "name": "Hafitz",
     "url": "https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf"
   },
-  "snapshot_id": "MzQ4LGU3NjE4NTFlYTQ4NDljOGI5M2E3MDRkMzMxODZjNTQ4Y2E2ODVhYTA=",
+  "snapshot_id": "MzUyLDQ2NDY0NTIwOThhYWZkZWQxNjVmYmNkODQ1MTAwYmM3YzBmZTExMzY=",
   "tracks": [
     {
       "added_at": "2022-02-21 00:16:41",
@@ -4215,6 +4215,70 @@
       "duration_ms": 291015,
       "name": "Dwell In The Void",
       "url": "https://open.spotify.com/track/3aW6M0RlEDqUb9IKeVIcEJ"
+    },
+    {
+      "added_at": "2023-10-01 22:33:36",
+      "album": {
+        "name": "Just A Carcass",
+        "url": "https://open.spotify.com/album/0ggCokd4EKbHqm6hzg1Mqw"
+      },
+      "artists": [
+        {
+          "name": "Anime Torment",
+          "url": "https://open.spotify.com/artist/0PDV1XvYFaf4UwwxYYNyWW"
+        }
+      ],
+      "duration_ms": 183657,
+      "name": "Just A Carcass",
+      "url": "https://open.spotify.com/track/198T7V44kLejbvN9mOTnHr"
+    },
+    {
+      "added_at": "2023-10-01 22:36:50",
+      "album": {
+        "name": "In the Sunken City of R'lyeh",
+        "url": "https://open.spotify.com/album/284kiY1mTW4A7UwqR3gNa5"
+      },
+      "artists": [
+        {
+          "name": "Sphinx",
+          "url": "https://open.spotify.com/artist/3JvCAKTxqFsRY3QtHkDjMp"
+        }
+      ],
+      "duration_ms": 266486,
+      "name": "In the Sunken City of R'lyeh",
+      "url": "https://open.spotify.com/track/5VEOHixKs1O0DLAct8j0TW"
+    },
+    {
+      "added_at": "2023-10-01 22:41:24",
+      "album": {
+        "name": "The Curse",
+        "url": "https://open.spotify.com/album/3qZp5YQttKPPljhc0uLWnY"
+      },
+      "artists": [
+        {
+          "name": "It Comes at Night",
+          "url": "https://open.spotify.com/artist/0BmwjZW5Ksdz1uRs70IRLl"
+        }
+      ],
+      "duration_ms": 218555,
+      "name": "The Curse",
+      "url": "https://open.spotify.com/track/4nZtrosAnW8gZWZiwClKBr"
+    },
+    {
+      "added_at": "2023-10-01 22:45:34",
+      "album": {
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/2i9pSs1QY4rFJ2ETZoORH0"
+      },
+      "artists": [
+        {
+          "name": "Impuritan",
+          "url": "https://open.spotify.com/artist/6WPUYW0KEbNPqs7Ipxl1jJ"
+        }
+      ],
+      "duration_ms": 211546,
+      "name": "Bound in Misery",
+      "url": "https://open.spotify.com/track/6dDqwJT8ILra6LVsNb8qc6"
     }
   ],
   "unique_name": "Deathcore (2)",

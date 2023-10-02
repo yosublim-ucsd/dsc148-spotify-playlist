@@ -1559,6 +1559,28 @@
     },
     {
       "album": {
+        "name": "V\u0169 Tr\u1ee5 C\u00f2 Bay",
+        "url": "https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+        },
+        {
+          "name": "DTAP",
+          "url": "https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196829,
+      "name": "G\u1ed1i G\u1ea5m",
+      "url": "https://open.spotify.com/track/211PBKJlAG1CxXUEjN5nqq"
+    },
+    {
+      "album": {
         "name": "hai m\u01b0\u01a1i hai (22)",
         "url": "https://open.spotify.com/album/11eMyrE2NYK8q0W43GbR5v"
       },
@@ -1924,6 +1946,28 @@
       "duration_ms": 261616,
       "name": "L\u1ea1 L\u00f9ng",
       "url": "https://open.spotify.com/track/5Bti0azlFhMattVY76qFr9"
+    },
+    {
+      "album": {
+        "name": "L\u1ec7 L\u01b0u Ly",
+        "url": "https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34"
+      },
+      "artists": [
+        {
+          "name": "V\u0169 Ph\u1ee5ng Ti\u00ean",
+          "url": "https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj"
+        },
+        {
+          "name": "DT T\u1eadp Rap",
+          "url": "https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200842,
+      "name": "L\u1ec7 L\u01b0u Ly",
+      "url": "https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i"
     },
     {
       "album": {
@@ -2378,7 +2422,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 192000,
       "name": "ng\u1ee7 m\u1ed9t m\u00ecnh (t\u00ecnh r\u1ea5t t\u00ecnh)",
       "url": "https://open.spotify.com/track/76dD9BdSOzsRJSGGBjOcUf"
@@ -2988,7 +3032,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 241935,
       "name": "ThichThich",
       "url": "https://open.spotify.com/track/3rx7g2qRxKscgtQUiKwQvN"
@@ -3392,7 +3436,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 180394,
       "name": "t\u00ecnh w\u00e1 akk",
       "url": "https://open.spotify.com/track/4ZVb8ZUjzUJOTP1RNqUC9y"

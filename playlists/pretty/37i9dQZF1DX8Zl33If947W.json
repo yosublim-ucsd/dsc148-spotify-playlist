@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 144432,
+  "num_followers": 144546,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTY1OWVlY2UwM2ZlOTUxZDEyNGZmNGI3ODQyMTQ3Y2NkM2ZlOTBl",
+  "snapshot_id": "MCxiN2NhNmE5YzYxNDI1ZDhjNjE1NzA3NzBlNWI2ZDY1ZjAzNGY0MTBj",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Reim (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
+      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 135096,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Reim (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
-      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Laut Gedacht (Re-Edition)",
-        "url": "https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo"
-      },
-      "artists": [
-        {
-          "name": "Silbermond",
-          "url": "https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA"
-        }
-      ],
-      "duration_ms": 284546,
-      "name": "Das Beste",
-      "url": "https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Vom selben Stern (Exklusive Version)",
         "url": "https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 228373,
       "name": "Vom selben Stern - Radio Edit",
       "url": "https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Laut Gedacht (Re-Edition)",
+        "url": "https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo"
+      },
+      "artists": [
+        {
+          "name": "Silbermond",
+          "url": "https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA"
+        }
+      ],
+      "duration_ms": 284546,
+      "name": "Das Beste",
+      "url": "https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3"
     },
     {
       "added_at": "2023-03-06 08:21:00",

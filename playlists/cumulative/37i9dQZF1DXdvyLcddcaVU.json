@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 205854,
       "name": "A l'international",
       "url": "https://open.spotify.com/track/3bsvf6hwph9FssL0nVtjcE"
@@ -245,6 +245,32 @@
     },
     {
       "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        },
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Matthyeux",
+          "url": "https://open.spotify.com/artist/6oE1rW4wI9y4lISZ5NvyDp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "Amour plastique",
+      "url": "https://open.spotify.com/track/0HDO6JFfplYPrSWuufUosZ"
+    },
+    {
+      "album": {
         "name": "NYXIA. Tome III",
         "url": "https://open.spotify.com/album/2INTNqaYSOSAwmNLV925Ca"
       },
@@ -274,7 +300,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 162373,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
@@ -318,6 +344,24 @@
       "duration_ms": 182200,
       "name": "Bad Boy (feat. Aya Nakamura)",
       "url": "https://open.spotify.com/track/4FwHUD2B60DxYyhEBhhcWW"
+    },
+    {
+      "album": {
+        "name": "\u00c0 l'ombre du show business",
+        "url": "https://open.spotify.com/album/7MgKD8DNqHdWDWJlcscMSU"
+      },
+      "artists": [
+        {
+          "name": "Kery James",
+          "url": "https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469026,
+      "name": "Banlieusards",
+      "url": "https://open.spotify.com/track/0yFCrb2x6KTwZjY90Z7iIP"
     },
     {
       "album": {
@@ -376,7 +420,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 151578,
       "name": "Batcha",
       "url": "https://open.spotify.com/track/39yQagzLGEbc9hEud0Ivvz"
@@ -674,7 +718,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 145233,
       "name": "Clandestina - JVSTIN Remix",
       "url": "https://open.spotify.com/track/1VutwUjHPwEELxHkwdhMkz"
@@ -866,7 +910,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 232857,
       "name": "Die For You - Remix",
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
@@ -1125,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "album": {
         "name": "Faits Divers",
         "url": "https://open.spotify.com/album/0D1l1fmXKbfT9auNhqkc51"
       },
@@ -1162,7 +1224,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 113806,
       "name": "Gyal Accroupi",
       "url": "https://open.spotify.com/track/4oXygSKEIkyJ3oQff3z7GN"
@@ -1505,6 +1567,28 @@
     },
     {
       "album": {
+        "name": "Authentik",
+        "url": "https://open.spotify.com/album/0uVx7AG5QyWvhfpQMw5EMm"
+      },
+      "artists": [
+        {
+          "name": "Kenza Farah",
+          "url": "https://open.spotify.com/artist/6WBf0WXqyBkCCYAEPUeDxn"
+        },
+        {
+          "name": "Sefyu",
+          "url": "https://open.spotify.com/artist/2OULCPo7k0vPKlEZimhaVc"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280493,
+      "name": "Lettre du front (feat. Sefyu)",
+      "url": "https://open.spotify.com/track/3vI3PFBqUXeZDznKU4GjYG"
+    },
+    {
+      "album": {
         "name": "Lola",
         "url": "https://open.spotify.com/album/5ERCsLDY5NZsahMBKE6WFW"
       },
@@ -1578,6 +1662,24 @@
       "duration_ms": 162293,
       "name": "Ma Came",
       "url": "https://open.spotify.com/track/3x6n0IkVMIqTl7EE2j3R2g"
+    },
+    {
+      "album": {
+        "name": "Ma muse / Je t'haine",
+        "url": "https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178115,
+      "name": "Ma muse",
+      "url": "https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p"
     },
     {
       "album": {
@@ -1828,7 +1930,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 168264,
       "name": "NINA",
       "url": "https://open.spotify.com/track/5CLE8nqBC2HLuFqLjoFzYw"
@@ -1956,6 +2058,24 @@
       "duration_ms": 184637,
       "name": "oblig\u00e9",
       "url": "https://open.spotify.com/track/72CwufbasYHuLPmK4Sc8Fb"
+    },
+    {
+      "album": {
+        "name": "Gentleman 2.0",
+        "url": "https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202013,
+      "name": "Oublie-le",
+      "url": "https://open.spotify.com/track/1XPGoMhSvUIrv7zKG5Vi3y"
     },
     {
       "album": {
@@ -2320,6 +2440,24 @@
       "duration_ms": 135529,
       "name": "Shut up My Moms Calling - (Sped Up)",
       "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
+    },
+    {
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
       "album": {

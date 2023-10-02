@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-67 songs - 4 hr 24 min
+68 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [These Are Special Times](https://open.spotify.com/track/7nmumY8ELmqBhXPCF9IBBc) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Jonathan Antoine](https://open.spotify.com/artist/2oYXPOHsXljvSD7jDatP22), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/album/2PG4FagRQNckeShV5upT71) | 4:08 | 2021-09-24 | 2022-07-29 |
 | [These Are Special Times](https://open.spotify.com/track/4iTH9LIWcRI1G6UaOgid9H) | [Jonathan Antoine](https://open.spotify.com/artist/2oYXPOHsXljvSD7jDatP22), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Christmasland Platinum Edition](https://open.spotify.com/album/54ddeIAOPiE4uWBoosAQ2t) | 4:08 | 2022-06-17 | 2023-04-19 |
 | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/track/10AfyyXe1IVgrTJP6cCbDO) | [Jonathan Antoine](https://open.spotify.com/artist/2oYXPOHsXljvSD7jDatP22), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [These Are The Special Times \(Momenti Splendidi\)](https://open.spotify.com/album/3ncrSLsvENjj5VQzuxkTW0) | 4:08 | 2023-01-09 |  |
-| [Time To Say Goodbye](https://open.spotify.com/track/3VAICuY2ax2yCLT7EhNeZE) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Romanza \(Remastered\)](https://open.spotify.com/album/4myEOR9cjLVBiwQuBxL4av) | 4:05 | 2022-09-21 |  |
+| [Time To Say Goodbye](https://open.spotify.com/track/3VAICuY2ax2yCLT7EhNeZE) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Romanza \(Remastered\)](https://open.spotify.com/album/4myEOR9cjLVBiwQuBxL4av) | 4:05 | 2022-09-21 | 2023-10-02 |
+| [Time To Say Goodbye \- English Version](https://open.spotify.com/track/633Zk0NRe7kuglSgPmUvSG) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [Romanza \(Spanish Version\)](https://open.spotify.com/album/3bqaZBUz92ypc2bCLinACW) | 4:06 | 2023-06-30 |  |
 | [To Believe](https://open.spotify.com/track/7cA6XIZ5VD67qmIhwDTQeM) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [Dream With Me](https://open.spotify.com/album/4DELT3MlaCsncDA5KODmKo) | 4:27 | 2021-09-24 |  |
 | [To Make You Feel My Love](https://open.spotify.com/track/66z75O6SUOQxZnS7Spbp95) | [The Serenad3](https://open.spotify.com/artist/23r9OdwRI1XKiYES6p68gu) | [Romantic Serenade](https://open.spotify.com/album/4HPSlAA3McPFOUU41U5AfQ) | 3:43 | 2021-09-24 |  |
 | [Veni Creator Spiritus](https://open.spotify.com/track/6K1z9GdRDtg4wrclq649lZ) | [Juliette Pochin](https://open.spotify.com/artist/4UD32JlXGLthCDSEkkB5sV), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Poor Clare Sisters Arundel](https://open.spotify.com/artist/2yEndu1Rs4a7uBoFUSZPla) | [Light for the World](https://open.spotify.com/album/5hBu1cttYYkclsdxeKzKRy) | 2:13 | 2021-09-24 |  |

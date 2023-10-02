@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Rebūke
 
-217 songs - 17 hr 44 min
+219 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Back Fist](https://open.spotify.com/track/1oqNFRNkgn2UAK9aljDAV7) | [Ken Ishii](https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0) | [Back Fist](https://open.spotify.com/album/7oBykGNzxt7WozvytnLghk) | 5:50 | 2022-04-15 | 2022-08-06 |
 | [Be My](https://open.spotify.com/track/1WNhiyuCWcpz86TRFokUFN) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Be My](https://open.spotify.com/album/78iGGZ4qdRvH9R5DT2WGM7) | 6:03 | 2022-04-15 | 2022-05-27 |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-04-05 |  |
-| [Beatdown](https://open.spotify.com/track/6humcoL6i1JzB76rYIoKTD) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Beatdown](https://open.spotify.com/album/4Jq6PVpRTuwmCvj4vV0ZTn) | 3:33 | 2023-01-20 |  |
+| [Beatdown](https://open.spotify.com/track/1ra9xYHfVxYda7zst0gx4p) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Beatdown](https://open.spotify.com/album/3MiPqFITYPDyQobtvfd9Zg) | 3:33 | 2023-09-22 |  |
+| [Beatdown](https://open.spotify.com/track/6humcoL6i1JzB76rYIoKTD) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Beatdown](https://open.spotify.com/album/4Jq6PVpRTuwmCvj4vV0ZTn) | 3:33 | 2023-01-20 | 2023-10-02 |
 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-04-15 | 2023-01-21 |
 | [Blika](https://open.spotify.com/track/4xKV4wJS3u2ozJGPspw7pZ) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Blika](https://open.spotify.com/album/7mygxwoNaCiqZr7Ltrk03M) | 4:03 | 2022-04-15 | 2022-07-29 |
 | [Blika](https://open.spotify.com/track/5Jo4Y3kS3o6uXmtw5gHI2Z) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Woke Up Right Handed](https://open.spotify.com/album/6aK9NotwcbuNOwn6i6aUdH) | 4:03 | 2022-07-14 | 2022-11-11 |
@@ -191,7 +192,8 @@
 | [Take Me Higher](https://open.spotify.com/track/7r8Q5lPGmMyYccWfUlyGDl) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Fatigue](https://open.spotify.com/album/1YBhDndtypbg5SBwDcqXZ2) | 7:01 | 2022-04-15 | 2023-05-13 |
 | [The Age Of Ent](https://open.spotify.com/track/7imdBBUwjlvYwsHwE0YIsK) | [Adam Pits](https://open.spotify.com/artist/0vrrcYDODaghHDyxGZCIis) | [A Recurring Nature](https://open.spotify.com/album/06MbkEoh9pOQW2oxDwCGiX) | 6:08 | 2022-04-15 | 2022-05-07 |
 | [The Future](https://open.spotify.com/track/3MZHllv4rhpBnoOSoD1Mqe) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [The Future](https://open.spotify.com/album/0HycV4qIkxuf5THTCTjA7p) | 7:08 | 2022-04-15 | 2022-08-06 |
-| [The Limit](https://open.spotify.com/track/5z6dgJF0CHLk06CJpjxCXb) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [tibasko](https://open.spotify.com/album/3PlPv5OzpGsqBpjtFB38U9) | 2:53 | 2022-10-13 |  |
+| [The Limit](https://open.spotify.com/track/2Rd7hUQ3nTMgev8TfihesD) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Tibasko](https://open.spotify.com/album/6a4OdRazOujmG1m8ZiHVod) | 2:53 | 2023-09-22 |  |
+| [The Limit](https://open.spotify.com/track/5z6dgJF0CHLk06CJpjxCXb) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [tibasko](https://open.spotify.com/album/3PlPv5OzpGsqBpjtFB38U9) | 2:53 | 2022-10-13 | 2023-10-02 |
 | [The Master](https://open.spotify.com/track/7lFrPi52k2FgW2C5DbmTvk) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [AtcG](https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj) | [The Master](https://open.spotify.com/album/7xanzHN2SjpJWkUIsR14Ku) | 2:36 | 2023-08-10 |  |
 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2022-10-28 | 2023-08-19 |
 | [The Sign \(with CamelPhat\)](https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:33 | 2023-08-10 |  |

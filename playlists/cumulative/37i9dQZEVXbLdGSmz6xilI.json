@@ -5829,6 +5829,28 @@
     },
     {
       "album": {
+        "name": "Gi\u1ea5c M\u01a1 C\u1ee7a Em",
+        "url": "https://open.spotify.com/album/6f49KGOfETVpBrh6TerBr3"
+      },
+      "artists": [
+        {
+          "name": "MYLINA",
+          "url": "https://open.spotify.com/artist/4yx3BsXxY9l6BRyStNIB8y"
+        },
+        {
+          "name": "fueled by boba",
+          "url": "https://open.spotify.com/artist/4NKeJPVrlhASY3FXkQsLGn"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Gi\u1ea5c M\u01a1 C\u1ee7a Em",
+      "url": "https://open.spotify.com/track/5C4ajMLziq5yB7I5K6EsLS"
+    },
+    {
+      "album": {
         "name": "Gi\u1ea5c M\u01a1 Kh\u00e1c",
         "url": "https://open.spotify.com/album/7Es5a5gTXIzJVZTw5wG8rM"
       },
@@ -11222,7 +11244,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 213995,
       "name": "People Pt.2 (feat. IU)",
       "url": "https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd"

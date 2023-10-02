@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Thomas Rhett and Morgan Wallen, Riley Green and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,753 likes - 96 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,939 likes - 96 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 42 | [Fade](https://open.spotify.com/track/1Rr4zU9CpbEcMa4eyalsEv) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Fade](https://open.spotify.com/album/0inHKAKYW1hrStsmoBajR0) | 3:30 |
 | 43 | [Feel For You \- Dusk](https://open.spotify.com/track/5naSClxrdVF08fJlelzRDT) | [Boy Named Banjo](https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5) | [Dusk](https://open.spotify.com/album/7J74aVdJBukwWfFllQleFQ) | 3:08 |
 | 44 | [Good Nights](https://open.spotify.com/track/4lqV72rqMca2zuXjwa31vu) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/43u2JbXX3icMNv6dd0aXn6) | 3:21 |
-| 45 | [Closer All the Time](https://open.spotify.com/track/2D7xwnLPQ1cSkmsJxpKyjP) | [Neil Medley](https://open.spotify.com/artist/3GQ5YFSoaZtaqWoDpvgN29), [Keith Gattis](https://open.spotify.com/artist/7ynzo8p8jesuFIqi3Uk7q1) | [South End Kid](https://open.spotify.com/album/7K69kMlxgFTJnOALzcg7HY) | 4:03 |
+| 45 | [Closer All the Time](https://open.spotify.com/track/2D7xwnLPQ1cSkmsJxpKyjP) | [Neil Medley](https://open.spotify.com/artist/3GQ5YFSoaZtaqWoDpvgN29), [Keith Gattis](https://open.spotify.com/artist/3JvvMZuSDpReAGChQX7p7k) | [South End Kid](https://open.spotify.com/album/7K69kMlxgFTJnOALzcg7HY) | 4:03 |
 | 46 | [Runaway Train](https://open.spotify.com/track/39T5oAenSW23lsJT41u8VP) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Runaway Train](https://open.spotify.com/album/00GNobeHKDEOYXXkXxGwl5) | 3:15 |
 | 47 | [Dear Me](https://open.spotify.com/track/56sjFl3oyu6BvzPlWIqRwt) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Dear Me](https://open.spotify.com/album/7wbYgHs50un0LpnRh7EB0p) | 2:58 |
 | 48 | [Someone You Knew](https://open.spotify.com/track/0VfwL5bd5IE2IZh6ORuAaf) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Someone You Knew](https://open.spotify.com/album/1wkxU7crpUIbkXz9hjF8rx) | 3:15 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 95 | [Hurts the Best](https://open.spotify.com/track/1abnvxVAa8EEPS51JjuV9Q) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [Hurts the Best](https://open.spotify.com/album/2BBS4o7myEVNl21JAzLXAk) | 2:50 |
 | 96 | [Whatcha Doin' Tonight](https://open.spotify.com/track/1HoYxDcG7qzcipg8BwWw48) | [Jay Kutcher](https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz), [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo) | [Whatcha Doin' Tonight](https://open.spotify.com/album/6pzN1JVUTHmy6Gjs57cTmR) | 3:03 |
 
-Snapshot ID: `MCxlM2Y2MzJlYWViNDRlY2ViMzZhMjM0ZTAyZjc4ZjI4ZThiYTQ3MjFm`
+Snapshot ID: `MCxmYTU2YzQ5MGJiZTA3MjJmNzgyOGU1N2NhNmFmMzMwZjlkZGVhZmFm`

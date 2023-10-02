@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Chosunblues\(조선블루스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-607 songs - 1 day 13 hr 13 min
+608 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,7 @@
 | [Private Language](https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Private Language](https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r) | 4:11 | 2022-03-09 | 2022-07-29 |
 | [Process](https://open.spotify.com/track/6waS97d1u64uuKTKlCQZUh) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [H:Sean](https://open.spotify.com/artist/7IBTi3TEXXZXjXEIQDnKuG) | [Seoul Vibes, Pt\. 2](https://open.spotify.com/album/305IlQABjn12yFvGv1Uuc1) | 2:35 | 2022-03-31 | 2022-04-11 |
 | [Pseudoscience \(feat\. Chang Kiha\)](https://open.spotify.com/track/4ivKqBkDfSRYc3H2DBdBW3) | [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Pseudoscience \(feat\. Chang Kiha\)](https://open.spotify.com/album/3leNJ19xRMO5HyTccjA5ce) | 3:48 | 2022-06-29 | 2022-07-09 |
-| [Punchdrunklovesong](https://open.spotify.com/track/31LkUlLS286dpY3LbAxRbg) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Cake CAKE](https://open.spotify.com/album/2iBGScS4eDpFVdPqZAFNhZ) | 1:21 | 2023-08-24 |  |
+| [Punchdrunklovesong](https://open.spotify.com/track/31LkUlLS286dpY3LbAxRbg) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Cake CAKE](https://open.spotify.com/album/2iBGScS4eDpFVdPqZAFNhZ) | 1:21 | 2023-08-24 | 2023-10-02 |
 | [Pure 투명](https://open.spotify.com/track/7cKU8ryCKEsxp9pA2A9It8) | [youngYEONG 영영](https://open.spotify.com/artist/2N5R9uumkNNHWPbeWlSSSW) | [Pure 투명](https://open.spotify.com/album/5jorT0muhGjTlZ1O2xHXdk) | 3:59 | 2022-03-07 | 2022-07-09 |
 | [Puzzle](https://open.spotify.com/track/5KqRRrD2Q9S0WNRFWssDKm) | [MEENA](https://open.spotify.com/artist/4qLPEVEbuZwDd8C8FDPpQn) | [Puzzle](https://open.spotify.com/album/0resjwv5sf8g5qblLITBGp) | 3:29 | 2022-03-31 | 2022-04-14 |
 | [Quince Tree](https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu) | [Yozoh](https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7) | [Quince Tree](https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF) | 3:07 | 2021-12-21 | 2022-05-11 |
@@ -600,6 +600,7 @@
 | [Zero One](https://open.spotify.com/track/2MPynctIqjFhmRLKRpBamF) | [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Zero One](https://open.spotify.com/album/6hHfHInmTWnwDPyOUpzMXn) | 4:27 | 2022-03-31 | 2022-04-12 |
 | [각자의 밤 Night Night](https://open.spotify.com/track/3KZaT9PJu1rTrDYiK9OG0t) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [각자의 밤 Night Night](https://open.spotify.com/album/7s0Ari3SZ2pxqZtjWw57v9) | 3:45 | 2022-04-12 | 2022-04-21 |
 | [긴 꿈 A Long Dream](https://open.spotify.com/track/1UGChD0glZlsdVBbfWbjUH) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [긴 꿈 A Long Dream](https://open.spotify.com/album/5gU9PA1qYEXUfjnp79q1rj) | 4:18 | 2021-12-21 | 2022-07-28 |
+| [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 | 2023-09-26 |  |
 | [꿈이라면 좋을까 Wish It Were a Dream](https://open.spotify.com/track/78FZO8IrNvegLUmCmJCgKm) | [Moskva Surfing Club](https://open.spotify.com/artist/72RQExfl8kYY207YfKV5Nl) | [꿈이라면 좋을까 Wish It Were a Dream](https://open.spotify.com/album/1m2Yj8iAnUtCJ0BeWAAp5l) | 4:45 | 2023-02-14 | 2023-03-01 |
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2021-12-12 |  |
 | [널 지우려 해](https://open.spotify.com/track/2rrYnRZaanjsF4iPbGk3dS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [여름 감성](https://open.spotify.com/album/4yOWIAHIQYOWGkZ3BOKi3o) | 3:29 | 2021-12-21 | 2022-06-28 |

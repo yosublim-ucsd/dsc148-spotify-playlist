@@ -1,12 +1,12 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Emma from Men I trust.",
-  "num_followers": 1096130,
+  "num_followers": 1096215,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODM5YjE0YzYxNzA4MDQ1Y2RkNTY5ZGU0OWU0ZGNjYWE0NmZjYWRl",
+  "snapshot_id": "MCwyMTlhYjg5ODc1YmE5MjgyYTcyZGYxYzY0ZjBmN2M4YThhYTUwMDA4",
   "tracks": [
     {
       "added_at": "2023-09-29 19:35:30",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
         "name": "Shawcross",
         "url": "https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
-        "name": "Mosquito",
-        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Mosquito",
-      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
+        "name": "Op Shop Lover",
+        "url": "https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 150421,
+      "name": "Op Shop Lover",
+      "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
         "name": "adios",
         "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
       },
@@ -615,22 +635,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Clueless",
-        "url": "https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Clueless",
-      "url": "https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
       },
@@ -643,6 +647,22 @@
       "duration_ms": 156342,
       "name": "Sinatra",
       "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -679,26 +699,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Op Shop Lover",
-        "url": "https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 150421,
-      "name": "Op Shop Lover",
-      "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Shy",
         "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "TECHNICOLOR",
-        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
-      },
-      "artists": [
-        {
-          "name": "Josh Fudge",
-          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
-        }
-      ],
-      "duration_ms": 188143,
-      "name": "FEEL LIKE",
-      "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Car Crash in G Major",
         "url": "https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 132000,
       "name": "Car Crash in G Major",
       "url": "https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "TECHNICOLOR",
+        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
+      },
+      "artists": [
+        {
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+        }
+      ],
+      "duration_ms": 188143,
+      "name": "FEEL LIKE",
+      "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Joker & Rainbow",
-        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
-      },
-      "artists": [
-        {
-          "name": "Jesse\u00ae",
-          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Uneasy - Metronomy x spill tab",
         "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 203262,
       "name": "Uneasy - Metronomy x spill tab",
       "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Joker & Rainbow",
+        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
+        "name": "under the rug",
+        "url": "https://open.spotify.com/album/2dEqqZZV87Y0qFhUPQNmb3"
+      },
+      "artists": [
+        {
+          "name": "phendste",
+          "url": "https://open.spotify.com/artist/2bZ9fMqMY3l3GGzjgJJRyH"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "i'd find you",
+      "url": "https://open.spotify.com/track/1XrLgICxJEqkgDmiuANWC7"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 179748,
       "name": "Wormwood",
       "url": "https://open.spotify.com/track/3W89enABhR4P2BFYvARctH"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
-        "name": "under the rug",
-        "url": "https://open.spotify.com/album/2dEqqZZV87Y0qFhUPQNmb3"
-      },
-      "artists": [
-        {
-          "name": "phendste",
-          "url": "https://open.spotify.com/artist/2bZ9fMqMY3l3GGzjgJJRyH"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "i'd find you",
-      "url": "https://open.spotify.com/track/1XrLgICxJEqkgDmiuANWC7"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "it's not feeling good anymore",
-        "url": "https://open.spotify.com/album/33jUA4C0rMA2SqGjLBaEZy"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 145549,
-      "name": "it's not feeling good anymore",
-      "url": "https://open.spotify.com/track/0CxtECSTmnaUbCKnChD6NK"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "1000 Summers",
         "url": "https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 183666,
       "name": "25MPH",
       "url": "https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "it's not feeling good anymore",
+        "url": "https://open.spotify.com/album/33jUA4C0rMA2SqGjLBaEZy"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 145549,
+      "name": "it's not feeling good anymore",
+      "url": "https://open.spotify.com/track/0CxtECSTmnaUbCKnChD6NK"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Liquid Sunshine EP (Deluxe)",
-        "url": "https://open.spotify.com/album/0pRt5aWOm5gBpoEbIIgzt5"
-      },
-      "artists": [
-        {
-          "name": "Devan",
-          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
-        }
-      ],
-      "duration_ms": 145718,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/3LJSdGiN0nplg7A0EJMOVy"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "book of spells",
         "url": "https://open.spotify.com/album/5AaQnrPQqgc5kwMObnLxeA"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 108571,
       "name": "book of spells",
       "url": "https://open.spotify.com/track/6khxHZKguKB1PeHXD7czwg"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Liquid Sunshine EP (Deluxe)",
+        "url": "https://open.spotify.com/album/0pRt5aWOm5gBpoEbIIgzt5"
+      },
+      "artists": [
+        {
+          "name": "Devan",
+          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
+        }
+      ],
+      "duration_ms": 145718,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/3LJSdGiN0nplg7A0EJMOVy"
     },
     {
       "added_at": "2023-09-29 19:35:30",

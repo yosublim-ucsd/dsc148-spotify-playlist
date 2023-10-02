@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Charmaine",
-  "num_followers": 7871,
+  "num_followers": 7903,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGE4ZWM1NGIwM2E0YTVmMzQxOTE5MWMwYTUwMjhlYzRhNTU0OTBm",
+  "snapshot_id": "MCwwOGI2ZWExYjFiMjFkZDA1ODA3ZDNmZmI1NzhjYzExNjQ1NGM5ZThl",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -307,18 +307,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Dead Or Alive",
-        "url": "https://open.spotify.com/album/3TDEhWhq4igbjoquhj8NOp"
+        "name": "Gardner Express",
+        "url": "https://open.spotify.com/album/24nydg8i966CawS06yCtZh"
       },
       "artists": [
         {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Taliban Glizzy",
+          "url": "https://open.spotify.com/artist/2J4wmwS5YSjQKzEEM7AiJh"
         }
       ],
-      "duration_ms": 194946,
-      "name": "Dead Or Alive",
-      "url": "https://open.spotify.com/track/6ekV6MGnPTuCOnjB4VcWGc"
+      "duration_ms": 171000,
+      "name": "Attachments",
+      "url": "https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -339,22 +343,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Gardner Express",
-        "url": "https://open.spotify.com/album/24nydg8i966CawS06yCtZh"
+        "name": "Dead Or Alive",
+        "url": "https://open.spotify.com/album/3TDEhWhq4igbjoquhj8NOp"
       },
       "artists": [
         {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        },
-        {
-          "name": "Taliban Glizzy",
-          "url": "https://open.spotify.com/artist/2J4wmwS5YSjQKzEEM7AiJh"
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Attachments",
-      "url": "https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH"
+      "duration_ms": 194946,
+      "name": "Dead Or Alive",
+      "url": "https://open.spotify.com/track/6ekV6MGnPTuCOnjB4VcWGc"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -775,6 +775,26 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Northside Jane",
+        "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
+      },
+      "artists": [
+        {
+          "name": "Burna Bandz",
+          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
+        },
+        {
+          "name": "Houdini",
+          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
+        }
+      ],
+      "duration_ms": 228388,
+      "name": "Late Nights",
+      "url": "https://open.spotify.com/track/4tFWHvXkGeJPH0hLeq3c06"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Pedro Activated",
         "url": "https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 204000,
       "name": "21 Questions",
       "url": "https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Northside Jane",
-        "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
-      },
-      "artists": [
-        {
-          "name": "Burna Bandz",
-          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
-        },
-        {
-          "name": "Houdini",
-          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
-        }
-      ],
-      "duration_ms": 228388,
-      "name": "Late Nights",
-      "url": "https://open.spotify.com/track/4tFWHvXkGeJPH0hLeq3c06"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Jungle",
-        "url": "https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF"
-      },
-      "artists": [
-        {
-          "name": "Bandokay",
-          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
-        },
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "HOU I AM",
         "url": "https://open.spotify.com/album/1HwDQQcBmrcqR9gIptEj7x"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 228545,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/13YxiBp1U1ZLgnlFKuYr1v"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Jungle",
+        "url": "https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF"
+      },
+      "artists": [
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Come Outside",
+        "url": "https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7"
+      },
+      "artists": [
+        {
+          "name": "K Money",
+          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
+        }
+      ],
+      "duration_ms": 198383,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Northside Jane",
         "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 208991,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Come Outside",
-        "url": "https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7"
-      },
-      "artists": [
-        {
-          "name": "K Money",
-          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
-        }
-      ],
-      "duration_ms": 198383,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI"
     },
     {
       "added_at": "2023-09-29 04:00:00",

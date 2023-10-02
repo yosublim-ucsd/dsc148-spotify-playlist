@@ -880,7 +880,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 370586,
       "name": "La vida tiene que seguir, amor",
       "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
@@ -1044,6 +1044,24 @@
       "duration_ms": 195066,
       "name": "Mambo en Sax",
       "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
+    },
+    {
+      "album": {
+        "name": "Daniel Wong Trio",
+        "url": "https://open.spotify.com/album/0cUyChxSDtRGlcl0gbaF2B"
+      },
+      "artists": [
+        {
+          "name": "Daniel Wong",
+          "url": "https://open.spotify.com/artist/1TekEtDI0YjvmOSnZJkY5J"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230191,
+      "name": "Monk Around",
+      "url": "https://open.spotify.com/track/0elx5KQKvHmMkkFPYhBbc3"
     },
     {
       "album": {

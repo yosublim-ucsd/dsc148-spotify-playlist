@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
@@ -896,6 +896,32 @@
       "duration_ms": 231010,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ"
+    },
+    {
+      "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        },
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Matthyeux",
+          "url": "https://open.spotify.com/artist/6oE1rW4wI9y4lISZ5NvyDp"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "Amour plastique",
+      "url": "https://open.spotify.com/track/0HDO6JFfplYPrSWuufUosZ"
     },
     {
       "album": {
@@ -1792,7 +1818,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 156000,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/5kuaYm6PsOP5JWMmb1YztM"
@@ -4346,7 +4372,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 168923,
       "name": "Cik\u00e1dy",
       "url": "https://open.spotify.com/track/4enbO9cZhJLSZ6Tf21LRnv"
@@ -5185,6 +5211,24 @@
     },
     {
       "album": {
+        "name": "The Ganglands",
+        "url": "https://open.spotify.com/album/1e03k0WNMpkZinddxUKCZk"
+      },
+      "artists": [
+        {
+          "name": "Black Majestic",
+          "url": "https://open.spotify.com/artist/6wxaGqK5X856s4Z0GTNtor"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582995,
+      "name": "Dark Underground",
+      "url": "https://open.spotify.com/track/5K83Tp74qt0pLyBpKV41p7"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU"
       },
@@ -5640,7 +5684,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 369375,
       "name": "Dihya",
       "url": "https://open.spotify.com/track/13RoVEQquSDaim7PishOig"
@@ -6754,7 +6798,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 155492,
       "name": "D\u00edvej",
       "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
@@ -7704,7 +7748,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -20925,6 +20969,28 @@
     },
     {
       "album": {
+        "name": "Reinvented",
+        "url": "https://open.spotify.com/album/19pRk58dX0GrEEZ0rQsKUi"
+      },
+      "artists": [
+        {
+          "name": "YUNGGREEDY TRIPLED",
+          "url": "https://open.spotify.com/artist/5FxM2ZIeawRPpFnmtByeI0"
+        },
+        {
+          "name": "SouthDallas KeKe",
+          "url": "https://open.spotify.com/artist/2lgdsRK9YiaM2zDvh94jDg"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166009,
+      "name": "Reinvented",
+      "url": "https://open.spotify.com/track/6uzxlXvbxxVRZo23kZZLUU"
+    },
+    {
+      "album": {
         "name": "Reklama na Rap",
         "url": "https://open.spotify.com/album/2RhZ7OSajwcq3xAwRSgrzS"
       },
@@ -24488,7 +24554,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -25220,6 +25286,28 @@
       "duration_ms": 284200,
       "name": "The Real Slim Shady",
       "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
+    },
+    {
+      "album": {
+        "name": "The Sun Also Rises",
+        "url": "https://open.spotify.com/album/1fX5tByJjrN7vXtgOs1giJ"
+      },
+      "artists": [
+        {
+          "name": "Camila Lion",
+          "url": "https://open.spotify.com/artist/2muVxvfX968d9cnM9KXXRf"
+        },
+        {
+          "name": "Wolfgang Music 10510",
+          "url": "https://open.spotify.com/artist/2mmkf0bJdTy9E7dWNqjDWv"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267460,
+      "name": "The Sun Also Rises",
+      "url": "https://open.spotify.com/track/1JQumuyz4f3JTJkI9oyfaz"
     },
     {
       "album": {
@@ -28736,7 +28824,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 167740,
       "name": "Za tebou",
       "url": "https://open.spotify.com/track/40y8OeHToofOvt0YXnpUMF"

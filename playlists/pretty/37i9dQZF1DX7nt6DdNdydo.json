@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 44312,
+  "num_followers": 44335,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjA1ZWQ1ODRkNDk5ZGU2YmNiYjE3NDM0MWFmODdmYWQ4NzgyMDg0",
+  "snapshot_id": "MCw4MzMzMDQwNmRmNzI2ZjBiYzYwMDQyZDhmN2I5NTE4ZjNlZDc2Y2Vi",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -163,18 +163,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+        "name": "The EP Collection",
+        "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
       },
       "artists": [
         {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+          "name": "Tiny Bradshaw",
+          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+      "duration_ms": 153573,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/5u87THoJXo4YgI7pxjwaqI"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -211,18 +211,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The EP Collection",
-        "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
       "artists": [
         {
-          "name": "Tiny Bradshaw",
-          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
         }
       ],
-      "duration_ms": 153573,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/5u87THoJXo4YgI7pxjwaqI"
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Information Blues",
-        "url": "https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ"
-      },
-      "artists": [
-        {
-          "name": "Roy Milton",
-          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
-        }
-      ],
-      "duration_ms": 150893,
-      "name": "Oh Babe",
-      "url": "https://open.spotify.com/track/5uNMlXUTvc7M7nELi7I1Nq"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Rock And Roll - The Essential Collection",
         "url": "https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 160186,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Information Blues",
+        "url": "https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Milton",
+          "url": "https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig"
+        }
+      ],
+      "duration_ms": 150893,
+      "name": "Oh Babe",
+      "url": "https://open.spotify.com/track/5uNMlXUTvc7M7nELi7I1Nq"
     },
     {
       "added_at": "2022-03-28 19:44:25",

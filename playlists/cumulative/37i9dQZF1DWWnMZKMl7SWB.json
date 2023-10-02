@@ -2275,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE"
+      },
+      "artists": [
+        {
+          "name": "W8lss",
+          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111767,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN"
+    },
+    {
+      "album": {
         "name": "Beauty Mark (Radio Edit)",
         "url": "https://open.spotify.com/album/2JNNtdH9Yd2MvsTAWRpmMw"
       },
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 129369,
       "name": "black & orange fireflies",
       "url": "https://open.spotify.com/track/0KQiAKffgrI6M2hJvQ05mg"
@@ -12130,7 +12148,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 129229,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/5TdUqOVDbmmMUSTj5qne8U"
@@ -13182,7 +13200,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 137000,
       "name": "November",
       "url": "https://open.spotify.com/track/01jgvCssPI09qjl87FRa9s"
@@ -13506,7 +13524,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 160610,
       "name": "One",
       "url": "https://open.spotify.com/track/6fUoCQqNPqbHo8ZTpQUqbM"
@@ -16668,7 +16686,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 135384,
       "name": "Shinin'",
       "url": "https://open.spotify.com/track/2s7rlnKjJJ8b8UskCtZ7VQ"
@@ -19107,6 +19125,24 @@
     },
     {
       "album": {
+        "name": "the neighborhood",
+        "url": "https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz"
+      },
+      "artists": [
+        {
+          "name": "ninetytwo.",
+          "url": "https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "the neighborhood",
+      "url": "https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0"
+    },
+    {
+      "album": {
         "name": "The Next Stop Is",
         "url": "https://open.spotify.com/album/0EFrr0p72DDQyWqxbnH26m"
       },
@@ -19252,6 +19288,24 @@
       "duration_ms": 141818,
       "name": "The way we were",
       "url": "https://open.spotify.com/track/4ckBQMfbF0MzwP2XWboKvv"
+    },
+    {
+      "album": {
+        "name": "Their Name Is Jazz",
+        "url": "https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj"
+      },
+      "artists": [
+        {
+          "name": "yoranda",
+          "url": "https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135385,
+      "name": "Their Name Is Jazz",
+      "url": "https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g"
     },
     {
       "album": {
@@ -19694,6 +19748,24 @@
       "duration_ms": 184658,
       "name": "Topinamborough",
       "url": "https://open.spotify.com/track/64S00l6oDW4AYs7yXb0SLD"
+    },
+    {
+      "album": {
+        "name": "traffic",
+        "url": "https://open.spotify.com/album/5ako2aURhgoMoVeh9XZSn3"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lullaby & yorukaze",
+          "url": "https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99000,
+      "name": "traffic",
+      "url": "https://open.spotify.com/track/7rfwtpxQF4UBT7cQMslOb6"
     },
     {
       "album": {
@@ -20614,6 +20686,24 @@
       "duration_ms": 110571,
       "name": "Waitress service",
       "url": "https://open.spotify.com/track/5ALbklP1iYE6UaPzO0tVlS"
+    },
+    {
+      "album": {
+        "name": "Walk in the Park",
+        "url": "https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT"
+      },
+      "artists": [
+        {
+          "name": "NogEgg",
+          "url": "https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Walk in the Park",
+      "url": "https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,039 songs - 23 hr 10 min
+1,040 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Azure \- Grand Piano Version](https://open.spotify.com/track/7Jdm14ECEHbhRLDBcvTu9R) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Azure Revisited](https://open.spotify.com/album/1yFVtt9VVWlFTBhdBGgKKR) | 1:00 | 2023-07-11 |  |
 | [Back Home](https://open.spotify.com/track/0IyTpgi77rDglvxb97mi7I) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Sublime](https://open.spotify.com/album/3Z6v9gv7xJmJlouBNIXMGm) | 1:10 | 2022-01-12 |  |
 | [Balance](https://open.spotify.com/track/1TzeN9UeIfkw26sn0U88EQ) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Balance](https://open.spotify.com/album/3tbQGMTiTKWr24aemv07Uh) | 1:01 | 2023-05-01 |  |
+| [Balance \- Alternate Violin Version](https://open.spotify.com/track/4RzMX2wCkuAQLFp2Wv6pU3) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Balance \(Alternate Violin Version\)](https://open.spotify.com/album/3efGHxcNiXRq4eqJPOJ7Z7) | 1:00 | 2023-10-01 |  |
 | [Balance Arr\. For Cello](https://open.spotify.com/track/3kVRMbllRfTwpPQdmnYnWw) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Balance Arr\. For Cello](https://open.spotify.com/album/1pp6s7tOnu8WzoqMy2daUf) | 1:01 | 2023-05-05 |  |
 | [Balance Arr\. For Violin](https://open.spotify.com/track/0C4o6syBAYNOiUSmZpNyW5) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Balance Arr\. For Violin](https://open.spotify.com/album/1tpug2UCu5DH6fWnms0eYO) | 1:00 | 2023-06-24 |  |
 | [Bare](https://open.spotify.com/track/5ccbZRLFO7X9TJkALMRLKZ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:37 | 2022-01-20 |  |
@@ -344,7 +345,7 @@
 | [Finding You](https://open.spotify.com/track/74O2YlsPxEjv6UsqOHJm7Z) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:29 | 2022-01-12 |  |
 | [First Light \- Piano Version](https://open.spotify.com/track/0IVttpFxd2qwoE8XBrnrpN) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC), [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [First Light \(Piano Version\)](https://open.spotify.com/album/02giSXG4abD0afiYP9rS1H) | 2:30 | 2022-01-12 |  |
 | [First Lullaby](https://open.spotify.com/track/0wMfWiyHjtq7oXJCYH92IQ) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Timeless](https://open.spotify.com/album/3Q1zoGkmvuAfIwBL08Fd4w) | 1:21 | 2022-01-20 |  |
-| [First Snow](https://open.spotify.com/track/6IhLQwm9s9YhnZLv04sZ6e) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [First Snow](https://open.spotify.com/album/3QWyEg8eainr8jYmDtOzXH) | 2:10 | 2022-01-12 |  |
+| [First Snow](https://open.spotify.com/track/6IhLQwm9s9YhnZLv04sZ6e) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [First Snow](https://open.spotify.com/album/3QWyEg8eainr8jYmDtOzXH) | 2:10 | 2022-01-12 | 2023-10-02 |
 | [First Steps](https://open.spotify.com/track/3tktpA0YDqg5gBOT0qPIzE) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:23 | 2022-01-12 |  |
 | [First Wave](https://open.spotify.com/track/07MORPQ01HBC6mONFi3bnu) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Peace](https://open.spotify.com/album/79RFghU00Bo4qMQOfx8ygk) | 1:02 | 2022-01-20 |  |
 | [Fleeting](https://open.spotify.com/track/1G9pOvEb0kLkJrLOoMiCti) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:28 | 2022-01-12 |  |

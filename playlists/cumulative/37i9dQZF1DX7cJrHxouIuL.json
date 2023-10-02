@@ -750,10 +750,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 217102,
       "name": "Fluff",
       "url": "https://open.spotify.com/track/5GkNmyY5arMb8ffnPJjDqd"
+    },
+    {
+      "album": {
+        "name": "In Real Life",
+        "url": "https://open.spotify.com/album/1neKeoKXjVFOuRI3XIskLr"
+      },
+      "artists": [
+        {
+          "name": "Formidable Vegetable",
+          "url": "https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217102,
+      "name": "Fluff",
+      "url": "https://open.spotify.com/track/7lkitlORekAPwpBnVVPyej"
     },
     {
       "album": {

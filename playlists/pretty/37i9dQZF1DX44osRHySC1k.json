@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52136,
+  "num_followers": 52139,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjA1NTMzNGY0YTRlMzc0N2UwMmFhM2UzYjk5MmNhMTE5YzcwMGUz",
+  "snapshot_id": "MCxlZGFhNjEzMTFkMmZkMjIxYTQ2MzgzYWMzNjhmMjgxNzI0MzhjMDk0",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Pads of Redemption",
-        "url": "https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253"
-      },
-      "artists": [
-        {
-          "name": "Masala Roo",
-          "url": "https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE"
-        }
-      ],
-      "duration_ms": 168536,
-      "name": "Pads of Redemption",
-      "url": "https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "A Scandinavian Thing",
         "url": "https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 263968,
       "name": "Under A Smiling Moon",
       "url": "https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Pads of Redemption",
+        "url": "https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253"
+      },
+      "artists": [
+        {
+          "name": "Masala Roo",
+          "url": "https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE"
+        }
+      ],
+      "duration_ms": 168536,
+      "name": "Pads of Redemption",
+      "url": "https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Newborn Soul",
-        "url": "https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR"
-      },
-      "artists": [
-        {
-          "name": "Tejal Yann",
-          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
-        }
-      ],
-      "duration_ms": 247257,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "schemering",
         "url": "https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 124374,
       "name": "schemering",
       "url": "https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Newborn Soul",
+        "url": "https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR"
+      },
+      "artists": [
+        {
+          "name": "Tejal Yann",
+          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
+        }
+      ],
+      "duration_ms": 247257,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sleep Well",
-        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 146624,
-      "name": "Violin Lullaby",
-      "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Calm Moments Piano Music",
         "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 130688,
       "name": "Symphony Of Heaven",
       "url": "https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 146624,
+      "name": "Violin Lullaby",
+      "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Dulces Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 245514,
-      "name": "Dulces Sue\u00f1os",
-      "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Eternal Thoughts",
         "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Dulces Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "duration_ms": 245514,
+      "name": "Dulces Sue\u00f1os",
+      "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "The Ones Left Behind",
         "url": "https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 325400,
       "name": "The Breath Inside the Breath",
       "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Flowing Strings",
-        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 278797,
-      "name": "Buenas Noches",
-      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
+      },
+      "artists": [
+        {
+          "name": "Alexander Molina",
+          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
+        }
+      ],
+      "duration_ms": 163012,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Anjali",
         "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
       },
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
+        "name": "Flowing Strings",
+        "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
       },
       "artists": [
         {
-          "name": "Alexander Molina",
-          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
         }
       ],
-      "duration_ms": 163012,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
+      "duration_ms": 278797,
+      "name": "Buenas Noches",
+      "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/05oo8Bv67GY4iClgCrG6jv"
+      },
+      "artists": [
+        {
+          "name": "Leerseite",
+          "url": "https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "As She Awakens",
+      "url": "https://open.spotify.com/track/1tZxzyEBPmsMTOpc6t005r"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Calm Moments Piano Music",
         "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 150912,
       "name": "Long Ride",
       "url": "https://open.spotify.com/track/19TByZROgOouJ9uc4VPaSb"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/05oo8Bv67GY4iClgCrG6jv"
-      },
-      "artists": [
-        {
-          "name": "Leerseite",
-          "url": "https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "As She Awakens",
-      "url": "https://open.spotify.com/track/1tZxzyEBPmsMTOpc6t005r"
     },
     {
       "added_at": "2021-06-24 10:58:44",

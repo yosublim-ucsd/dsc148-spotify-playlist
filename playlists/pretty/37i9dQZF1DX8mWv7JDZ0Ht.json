@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Silva, Liniker",
-  "num_followers": 432926,
+  "num_followers": 433080,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWIyN2RkMjEwODE0YjRkYjNjZWUyZTdjYjEyYzI4NGViNzA0OWNj",
+  "snapshot_id": "MCw1ZGU5ZTUxNmFiNDY5MDBkMjdhNWY1ZDA2MTkxYTkxZDY0NjYyMmMw",
   "tracks": [
     {
       "added_at": "2023-09-29 03:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Quintal",
-        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Nova Bad",
-      "url": "https://open.spotify.com/track/2Pylpxtocxjzb0sXjoCSIh"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Zero a Cem",
         "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 190652,
       "name": "Zero a Cem",
       "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Quintal",
+        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Nova Bad",
+      "url": "https://open.spotify.com/track/2Pylpxtocxjzb0sXjoCSIh"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -675,6 +675,26 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "SE JOGA",
+        "url": "https://open.spotify.com/album/6XdllQEkShHSrhyzeEqJ8B"
+      },
+      "artists": [
+        {
+          "name": "zawa",
+          "url": "https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0"
+        },
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "duration_ms": 169017,
+      "name": "SE JOGA",
+      "url": "https://open.spotify.com/track/4OTfgTNwIXnAgcAYjb5Wqg"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Friozinho",
         "url": "https://open.spotify.com/album/4QQAQLiiShZ4Ft8ga5Ncb5"
       },
@@ -687,6 +707,22 @@
       "duration_ms": 164000,
       "name": "Como c\u00ea t\u00e1?",
       "url": "https://open.spotify.com/track/20WJwyOoDtxQQCBPLmxxEX"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "Virginiana",
+      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -711,22 +747,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Coisas De Voc\u00ea",
-        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "Virginiana",
-      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Tom Jobim",
         "url": "https://open.spotify.com/album/5HczYawk4wKPp5nXP36s6P"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 182857,
       "name": "Tom Jobim",
       "url": "https://open.spotify.com/track/2pk99nZzZMkUBOhEUoMgH4"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "SE JOGA",
-        "url": "https://open.spotify.com/album/6XdllQEkShHSrhyzeEqJ8B"
-      },
-      "artists": [
-        {
-          "name": "zawa",
-          "url": "https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0"
-        },
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
-        }
-      ],
-      "duration_ms": 169017,
-      "name": "SE JOGA",
-      "url": "https://open.spotify.com/track/4OTfgTNwIXnAgcAYjb5Wqg"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Cultivar",
+        "url": "https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 133222,
+      "name": "Mundo de Papel",
+      "url": "https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Lugares",
         "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 175200,
       "name": "Ana Rosa",
       "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Cultivar",
-        "url": "https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 133222,
-      "name": "Mundo de Papel",
-      "url": "https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "dez mil coisas",
-        "url": "https://open.spotify.com/album/0qsjEyAnOQn001DAccVyep"
-      },
-      "artists": [
-        {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "dez mil coisas",
-      "url": "https://open.spotify.com/track/69Wdz9e4RA974RdVgoVlR9"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Desconectar",
         "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
       },
@@ -939,18 +919,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "te decorei em mim",
-        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
+        "name": "dez mil coisas",
+        "url": "https://open.spotify.com/album/0qsjEyAnOQn001DAccVyep"
       },
       "artists": [
         {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 177078,
-      "name": "te decorei em mim",
-      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
+      "duration_ms": 214800,
+      "name": "dez mil coisas",
+      "url": "https://open.spotify.com/track/69Wdz9e4RA974RdVgoVlR9"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -971,18 +955,18 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "sempre com voc\u00ea",
-        "url": "https://open.spotify.com/album/23fIykV7AR3cqsBOzcW6rf"
+        "name": "te decorei em mim",
+        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
       },
       "artists": [
         {
-          "name": "Sim\u00e3o",
-          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
         }
       ],
-      "duration_ms": 191862,
-      "name": "sempre com voc\u00ea",
-      "url": "https://open.spotify.com/track/5VHdxkb3y2gq8kzxKAGdOZ"
+      "duration_ms": 177078,
+      "name": "te decorei em mim",
+      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 145131,
       "name": "O Que Eu Devia Ter Vivido",
       "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "sempre com voc\u00ea",
+        "url": "https://open.spotify.com/album/23fIykV7AR3cqsBOzcW6rf"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00e3o",
+          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
+        }
+      ],
+      "duration_ms": 191862,
+      "name": "sempre com voc\u00ea",
+      "url": "https://open.spotify.com/track/5VHdxkb3y2gq8kzxKAGdOZ"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1031,6 +1031,22 @@
       "duration_ms": 161828,
       "name": "Ser Eu",
       "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Vou Fugir",
+        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vou Fugir",
+      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Vou Fugir",
-        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vou Fugir",
-      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Voc\u00ea",
         "url": "https://open.spotify.com/album/1f079JPEkai7mwMyeOUSQg"
       },
@@ -1195,38 +1195,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Fim de Semana",
-        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
-      },
-      "artists": [
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 154603,
-      "name": "Fim de Semana",
-      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Com.Fuso",
-        "url": "https://open.spotify.com/album/2ejyIweYIP2MQSjCMDILyN"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 169539,
-      "name": "Terminou Bem",
-      "url": "https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "N\u00e3o Me Chame Mais De Ex",
         "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
       },
@@ -1247,18 +1215,34 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Um Brinde A Vida",
-        "url": "https://open.spotify.com/album/3VigMl5w5d4kIedETAUgw3"
+        "name": "Com.Fuso",
+        "url": "https://open.spotify.com/album/2ejyIweYIP2MQSjCMDILyN"
       },
       "artists": [
         {
-          "name": "N\u00f3s Dois",
-          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
         }
       ],
-      "duration_ms": 182086,
-      "name": "Um Brinde A Vida",
-      "url": "https://open.spotify.com/track/368jIb4IpHgNiYmVG2J4PD"
+      "duration_ms": 169539,
+      "name": "Terminou Bem",
+      "url": "https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "duration_ms": 154603,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1279,6 +1263,22 @@
       "duration_ms": 187982,
       "name": "PLENA TER\u00c7A FEIRA",
       "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Um Brinde A Vida",
+        "url": "https://open.spotify.com/album/3VigMl5w5d4kIedETAUgw3"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s Dois",
+          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
+        }
+      ],
+      "duration_ms": 182086,
+      "name": "Um Brinde A Vida",
+      "url": "https://open.spotify.com/track/368jIb4IpHgNiYmVG2J4PD"
     },
     {
       "added_at": "2023-09-29 03:00:00",

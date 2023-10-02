@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > La playlist officielle de l'émission Nouvelle École Saison  2, disponible sur Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,048 likes - 43 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,105 likes - 43 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 16 | [Joli](https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [SOIXVNT3 \- Part\. 3](https://open.spotify.com/album/2ARWfDAm9ONe0vUxGznc6n) | 2:36 |
 | 17 | [Chaud – Nouvelle école](https://open.spotify.com/track/4Vb1ztihzCqdC7szS4JHxs) | [LEDOS](https://open.spotify.com/artist/3YWUSYVX6bCnVZBaXEUwbH) | [Chaud – Nouvelle école](https://open.spotify.com/album/1B6E8tfhye3fskhTbEWNBh) | 2:45 |
 | 18 | [Mwaka Moon](https://open.spotify.com/track/7LDq2cE0TQV66BXorbV8FD) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Mwaka Moon](https://open.spotify.com/album/0JiHJJGVSHzQMdTJ2fp9dh) | 3:57 |
-| 19 | [Come On](https://open.spotify.com/track/557X9hpi0tWsrCeD1yneDe) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Come On](https://open.spotify.com/album/7MMUOLZJ2g9ph19pplEkSy) | 2:28 |
+| 19 | [Come On](https://open.spotify.com/track/6R6acFTljyYK1sww9BIcOo) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Come On](https://open.spotify.com/album/4TVGVePfkd6hndEEAQqfTU) | 2:28 |
 | 20 | [Crois\-moi \(feat\. Ninho\)](https://open.spotify.com/track/69I4Eynuxdj6LEmpvG56u6) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Architecte](https://open.spotify.com/album/0QOCs2S4yp3M47sNZGCUqY) | 3:03 |
 | 21 | [Sound System](https://open.spotify.com/track/5f7BIsnqxFCgt4KqWI8Twy) | [HoussBad](https://open.spotify.com/artist/3Bq4yBJeMX2uoNvUjBKJGf), [Yuz Boy](https://open.spotify.com/artist/0D02Za9zPwvLFkiRQoi6qH) | [GATE 67](https://open.spotify.com/album/3fhujrYvdJS2KTruswtYHr) | 2:51 |
 | 22 | [Arrêt du cœur](https://open.spotify.com/track/2zvseOSbmKBuYBOe264UYm) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [R.A.S](https://open.spotify.com/album/2KMkCKYVdjmRLPqdWL3Ql8) | 4:23 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 42 | [S.A.D \(feat\. Josman\)](https://open.spotify.com/track/3NNawIkm2v7x971h8BIJdo) | [Oldpee](https://open.spotify.com/artist/6IxN9Jvo31OWIvYHJAeZlJ), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [S.A.D \(feat\. Josman\)](https://open.spotify.com/album/5jeTtd8qX77BCi0MvdJiF9) | 3:12 |
 | 43 | [Benze](https://open.spotify.com/track/3fwXNaxlslH41y3a47qela) | [Driss Sks](https://open.spotify.com/artist/2sbCB581cl6ZarOL5cU7t7) | [Benze](https://open.spotify.com/album/3w6eziQRJ2GqZEk1h03IKH) | 3:05 |
 
-Snapshot ID: `MCw2MjVlZjRhNDczNzU5NWQ0NzdiYWRhMzAwMDM4ZTkzYzVjNmFhZTM3`
+Snapshot ID: `MCxlOTM5OWFmNTVkZWZiZDUxMWU0NDczNWJhNWIwNTUzNjFmZThlMGNh`

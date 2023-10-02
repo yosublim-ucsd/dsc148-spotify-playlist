@@ -5002,7 +5002,7 @@
     {
       "album": {
         "name": "Solaris",
-        "url": "https://open.spotify.com/album/1x8X3smRPOX8wUxOJeBpFb"
+        "url": "https://open.spotify.com/album/6aUt7I50euvGfFJsIxORgk"
       },
       "artists": [
         {
@@ -5013,6 +5013,24 @@
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 248684,
+      "name": "Solaris",
+      "url": "https://open.spotify.com/track/5jUykH9QNinvf6LMFN3OFE"
+    },
+    {
+      "album": {
+        "name": "Solaris",
+        "url": "https://open.spotify.com/album/1x8X3smRPOX8wUxOJeBpFb"
+      },
+      "artists": [
+        {
+          "name": "Shaun Orlando Berry",
+          "url": "https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
       "duration_ms": 248684,
       "name": "Solaris",
       "url": "https://open.spotify.com/track/6f0n4DM4UIaVhChxxv6Ymv"

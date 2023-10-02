@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Nostalgix & Rico Nasty
 
-574 songs - 1 day 7 hr 46 min
+575 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [METANÖIA](https://open.spotify.com/track/2WQ5Yxn5F9yhmk20brtQQY) | [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM) | [WAR WITH MYSELF](https://open.spotify.com/album/7hBkzPk7qsAe47bzRItvyf) | 2:43 | 2022-01-14 | 2022-02-26 |
 | [Mi Corazón](https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Mi Corazón](https://open.spotify.com/album/2pkTafpbdFPdC1tEDeZfCo) | 3:07 | 2022-02-11 | 2022-06-25 |
 | [Mind Games](https://open.spotify.com/track/1XBsvws323W5dwJkZCvUMB) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Mind Games](https://open.spotify.com/album/2RKhdLm3qBMU64HXJUf5Z7) | 3:13 | 2022-06-03 | 2022-09-03 |
-| [Mindstate](https://open.spotify.com/track/5V9cyDgo1wBu0gj5tkk57E) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Mindstate](https://open.spotify.com/album/6smeL7L0X15jV5PmU0oDyR) | 4:12 | 2023-06-30 |  |
+| [Mindstate](https://open.spotify.com/track/5V9cyDgo1wBu0gj5tkk57E) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Mindstate](https://open.spotify.com/album/6smeL7L0X15jV5PmU0oDyR) | 4:12 | 2023-06-30 | 2023-10-02 |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-07-15 | 2022-12-03 |
 | [Mirage](https://open.spotify.com/track/3ZWo7cjpmthm54fMaQkuMc) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Mirage](https://open.spotify.com/album/4t1iukMZzxhyraFW9pMcFW) | 3:48 | 2022-05-06 | 2022-09-03 |
 | [Mirror Mirror \(feat\. TELLER\)](https://open.spotify.com/track/0oI9LJYGtAlT3m1D3hWqbA) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [TELLER](https://open.spotify.com/artist/3hhmURITBjGyUKf4IuOCjt) | [Mirror Mirror \(feat\. TELLER\)](https://open.spotify.com/album/4ZiEHfXY1HiQTYBTTku6PE) | 4:32 | 2022-06-24 | 2022-09-24 |
@@ -497,6 +497,7 @@
 | [Surrender](https://open.spotify.com/track/4WmQdAUKoo2jcYqY0Ocz1P) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Surrender](https://open.spotify.com/album/2RlTxicWPSu1Z4sWXXWPrV) | 4:17 | 2023-06-23 | 2023-07-15 |
 | [Sway](https://open.spotify.com/track/0LyW2nQR2berRmSBllaU83) | [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [The Keymakers](https://open.spotify.com/artist/4OtPXWoouRADlNtbfgWJro) | [Sway](https://open.spotify.com/album/3vRWLlujFMAO3u8SGUctht) | 2:37 | 2022-01-14 | 2022-01-22 |
 | [Sweat](https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweat](https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs) | 3:20 | 2023-06-05 |  |
+| [Sword In Stone](https://open.spotify.com/track/7vq6EwYSOUHoUwzLoR0OdV) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Sword In Stone](https://open.spotify.com/album/62m1HkDMOhYnZyZv7IiOfq) | 3:36 | 2023-09-29 |  |
 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 | 2023-04-14 |  |
 | [Take ft\. Kimbra \- Pat Lok Remix](https://open.spotify.com/track/6LIzRhFWBsZPg9sORfFs1d) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Take ft\. Kimbra \(Pat Lok Remix\)](https://open.spotify.com/album/2gRk8RlBHWal0OhHRSMtp0) | 3:17 | 2022-02-11 | 2022-03-05 |
 | [Take It Away](https://open.spotify.com/track/4yJmqZJmrXOiY3i8eWoxxq) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Take It Away](https://open.spotify.com/album/1JSiNOEHf9NjVGxQqsTM71) | 3:46 | 2022-05-06 | 2022-08-06 |

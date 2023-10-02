@@ -2570,6 +2570,28 @@
     {
       "album": {
         "name": "Feel Good",
+        "url": "https://open.spotify.com/album/1c1cn3xwvgl21kOYJFJwk5"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "Mali-Koa",
+          "url": "https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171641,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/4LDQMTLe1llYvZr07J9Pc0"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
         "url": "https://open.spotify.com/album/3PqAyJinIE6pmgVcV8Vw5U"
       },
       "artists": [
@@ -2584,7 +2606,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 171641,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/4gIqcguWXG18Q3z9jikCHC"

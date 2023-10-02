@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 243507,
+  "num_followers": 243586,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDg4NGE4MGY2ZWQwNTM0MDg5YzVhZDdhYTgzMTBkN2NiNzk3OGFj",
+  "snapshot_id": "MCw4NjQ3NDliZjk0NmQ4MWJmYWE1Mzg0ODczNTg3YWFjYjEyODU2MzU4",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "lovesick",
+        "url": "https://open.spotify.com/album/1ZRikNtTTBJMiRQVEerTPG"
+      },
+      "artists": [
+        {
+          "name": "Strafend",
+          "url": "https://open.spotify.com/artist/1kSOJRjwflnuMaLL7EqXNF"
+        }
+      ],
+      "duration_ms": 150221,
+      "name": "lovesick",
+      "url": "https://open.spotify.com/track/6Ws38nb0R9kAHBn7HoGMTy"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "drinking under the streetlights",
         "url": "https://open.spotify.com/album/3hHe7soPaQsQqALZOgNIYe"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 182416,
       "name": "the way that you see me (feat. Ayleen Valentine)",
       "url": "https://open.spotify.com/track/0k2bhZ9oM3boyUWaV3MfWk"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "lovesick",
-        "url": "https://open.spotify.com/album/1ZRikNtTTBJMiRQVEerTPG"
-      },
-      "artists": [
-        {
-          "name": "Strafend",
-          "url": "https://open.spotify.com/artist/1kSOJRjwflnuMaLL7EqXNF"
-        }
-      ],
-      "duration_ms": 150221,
-      "name": "lovesick",
-      "url": "https://open.spotify.com/track/6Ws38nb0R9kAHBn7HoGMTy"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Summer Picnic",
-        "url": "https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND"
-      },
-      "artists": [
-        {
-          "name": "Jordy Chandra",
-          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
-        }
-      ],
-      "duration_ms": 115384,
-      "name": "Summer Picnic",
-      "url": "https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Aesthetic Girl",
         "url": "https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 258144,
       "name": "Aesthetic Girl",
       "url": "https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Summer Picnic",
+        "url": "https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND"
+      },
+      "artists": [
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "duration_ms": 115384,
+      "name": "Summer Picnic",
+      "url": "https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef"
     }
   ],
   "unique_name": "Aesthetic Lofi",

@@ -1,12 +1,12 @@
 {
   "description": "The perfect noughties blend.",
-  "num_followers": 878284,
+  "num_followers": 878389,
   "original_name": "Unwind 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2M4OTk2YjIwZWJiYjIyZDRkZGJiYTgxM2NmOWU4ZGQ0MGE5NmQ1",
+  "snapshot_id": "MCwwYTM2YmRjZGI1NmQ4Nzg0MTRmNzQ4Y2M3ZjE3NjYxYzI3YTIxY2U2",
   "tracks": [
     {
       "added_at": "2020-06-18 05:30:15",
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-06-18 05:30:15",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Take A Bow",
-      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
-    },
-    {
-      "added_at": "2020-06-18 05:30:15",
-      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 288333,
       "name": "Cry Me a River",
       "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
+    },
+    {
+      "added_at": "2020-06-18 05:30:15",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Take A Bow",
+      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
     },
     {
       "added_at": "2020-06-18 05:30:15",

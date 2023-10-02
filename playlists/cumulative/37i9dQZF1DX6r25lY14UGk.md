@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-144 songs - 6 hr 45 min
+145 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [Way of Looking at the World](https://open.spotify.com/track/7GbJKpbxlUIqnQZ2a0yHxr) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Way of Looking at the World](https://open.spotify.com/album/6hoUQ7E6ptjW7KNRZHsT9j) | 2:45 | 2022-04-15 |  |
 | [We Go Together Very Well](https://open.spotify.com/track/4RhmeK90NGyJ5bplwVjj0u) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [28 Days](https://open.spotify.com/album/2p5QfPVnqGhJDtrntQpX7Z) | 3:04 | 2022-04-15 |  |
 | [We Got This](https://open.spotify.com/track/6WDR423psynPi9xh6DrGAD) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 2:50 | 2022-04-15 |  |
-| [We're All Friends](https://open.spotify.com/track/7zZbJ4PBuC8QlUhJ35TQsZ) | [Formidable Vegetable](https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT) | [Garbage Guts](https://open.spotify.com/album/6TkleCwedPYt7eeRQe8no9) | 3:08 | 2022-04-15 |  |
+| [We're All Friends](https://open.spotify.com/track/45sO0jcTvvRbBX4yrxOEpR) | [Formidable Vegetable](https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT) | [Garbage Guts](https://open.spotify.com/album/3rhyPmh2KoHRrepxiygVIk) | 3:08 | 2023-09-22 |  |
+| [We're All Friends](https://open.spotify.com/track/7zZbJ4PBuC8QlUhJ35TQsZ) | [Formidable Vegetable](https://open.spotify.com/artist/05bnLQhAfblYSOpPdrZBAT) | [Garbage Guts](https://open.spotify.com/album/6TkleCwedPYt7eeRQe8no9) | 3:08 | 2022-04-15 | 2023-10-02 |
 | [We're All The Same](https://open.spotify.com/track/2QPwUxH8oRshkLOn1G9gL5) | [Snooknuk](https://open.spotify.com/artist/4Il5GSRo3EJWxiGmZfK6V6) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:05 | 2022-04-15 |  |
 | [What Does It Cost You to Say Hi?](https://open.spotify.com/track/0GhfTv3kV0tRhRPYe0ydp5) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [You Don't Have to Smile If You Don't Want To](https://open.spotify.com/album/57eyWpnIhsUGp5cEIZuAgM) | 2:36 | 2022-04-15 |  |
 | [What Goes Around](https://open.spotify.com/track/2lf81JXzjoJ9oRvBmC23OV) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [The Full Circle](https://open.spotify.com/album/60ghiOTP0JVoCg8lvnd9P3) | 2:14 | 2022-04-15 |  |

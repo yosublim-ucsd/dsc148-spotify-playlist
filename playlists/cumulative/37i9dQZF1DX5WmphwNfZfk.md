@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: laye
 
-1,351 songs - 2 day 20 hr 55 min
+1,352 songs - 2 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,7 +627,8 @@
 | [Kissing Corner Booth](https://open.spotify.com/track/6zt31KwOPJdpFSe7xtVuhw) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Party For One](https://open.spotify.com/album/1JbMn4r3fL5O427ke7rIZb) | 2:59 | 2022-01-07 | 2022-02-05 |
 | [Kizzle Clavion](https://open.spotify.com/track/2DUWgKNzF3ImmHLEiu6GWk) | [Gustavo Guaapo](https://open.spotify.com/artist/2S9z4eFhx79PnOTaHN2l5D) | [Kizzle Clavion](https://open.spotify.com/album/2YTuknfW0kH0SJixv4LcZF) | 2:20 | 2022-05-06 | 2022-06-04 |
 | [Knackademus](https://open.spotify.com/track/684FU29L57XNQDMkMUfqB4) | [Slxm](https://open.spotify.com/artist/5qbuitLWN3ub1pmJAvrCJO) | [Knackademus](https://open.spotify.com/album/7i8JOdcJ7tIu3lsNs7SUdb) | 2:30 | 2022-03-04 | 2022-04-02 |
-| [L'Autre](https://open.spotify.com/track/1cQW86qR0xDFbGjh6sn2dl) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [L'Autre](https://open.spotify.com/album/6Zzi9cViyRhMCVxugRlw0o) | 3:08 | 2023-09-01 |  |
+| [L'Autre](https://open.spotify.com/track/1cQW86qR0xDFbGjh6sn2dl) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [L'Autre](https://open.spotify.com/album/6Zzi9cViyRhMCVxugRlw0o) | 3:08 | 2023-09-01 | 2023-10-02 |
+| [L'Autre](https://open.spotify.com/track/3uumG8YxkC14TmIbHz5t7K) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:08 | 2023-09-01 |  |
 | [L'énorme chien très gentil](https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [L'énorme chien très gentil](https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C) | 2:59 | 2023-07-07 | 2023-08-05 |
 | [La fin](https://open.spotify.com/track/2GgyYB3Hstk8KrX6AsGemA) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [La rivière](https://open.spotify.com/album/72DZjGPRX4fd8rpHmvb3Vt) | 2:59 | 2022-03-04 | 2022-06-04 |
 | [La Misión](https://open.spotify.com/track/4uPEACej0HoZIZdpiLq9eh) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [La Misión](https://open.spotify.com/album/7vswnhTklCEmYtRPkBK3kN) | 2:48 | 2022-03-04 | 2023-02-04 |

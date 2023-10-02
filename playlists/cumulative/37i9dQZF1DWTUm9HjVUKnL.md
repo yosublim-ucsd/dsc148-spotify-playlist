@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-1,096 songs - 2 day 18 hr 53 min
+1,098 songs - 2 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0w1Dln7VMjPDCNIIQLidgg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P) | 3:01 | 2022-01-19 | 2022-07-29 |
 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3XpryMvmOzzlLfqAq8WLN2) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/0YppXqlu9VxA7tFteqmjMn) | 3:01 | 2022-07-05 |  |
 | [Cry Me a River \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 5:01 | 2022-01-19 |  |
-| [Cute \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/0FwYn79fyv1lKn8bfPQWuw) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Spotify Singles](https://open.spotify.com/album/5rFq8b1sAIjmCCdS4rjFYt) | 3:40 | 2022-07-05 |  |
+| [Cute \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/0FwYn79fyv1lKn8bfPQWuw) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Spotify Singles](https://open.spotify.com/album/5rFq8b1sAIjmCCdS4rjFYt) | 3:40 | 2022-07-05 | 2023-10-02 |
+| [Cute \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/23a0vHd2kducx8bMxlpWIf) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Spotify Singles](https://open.spotify.com/album/18GY68Rp5UJeCQ7dkZFRBT) | 3:40 | 2023-05-31 |  |
 | [Cute \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7GkGGmm8SL7VM07llfsmH0) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Spotify Singles](https://open.spotify.com/album/4jdJSsxnZM4RbRxxJ8TO9L) | 3:40 | 2022-01-19 | 2022-07-29 |
 | [Cyanide](https://open.spotify.com/track/4l2zHzgXnNXWAAGPd6pIAI) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Spotify Singles](https://open.spotify.com/album/6b9yL2FJ7aKRchfINnM0I4) | 3:02 | 2022-07-05 |  |
 | [Cyanide](https://open.spotify.com/track/4qPsuCJ6GunSYBS7V0MYNR) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Spotify Singles](https://open.spotify.com/album/2AxOupTQ54kHBQkqTLT03M) | 3:02 | 2022-01-19 | 2022-07-29 |
@@ -365,7 +366,8 @@
 | [Green Lights \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 3:34 | 2022-01-19 |  |
 | [Green Wine](https://open.spotify.com/track/0zlj031DreL4yX72vk7Ib5) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Spotify Singles](https://open.spotify.com/album/5o5o3S9tQZN6jWgCdOk0d2) | 3:34 | 2022-01-19 |  |
 | [Guess Who I Saw Today \- Spotify Singles](https://open.spotify.com/track/4y8HI6WI29umdAguVPwFpu) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 6:08 | 2023-02-01 |  |
-| [Guru \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/7ekf5B6Srz3XTNuBQrUWOC) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Spotify Singles](https://open.spotify.com/album/5rFq8b1sAIjmCCdS4rjFYt) | 3:15 | 2022-07-05 |  |
+| [Guru \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/5fxj6MJhBC0NTUdXOHNW81) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Spotify Singles](https://open.spotify.com/album/18GY68Rp5UJeCQ7dkZFRBT) | 3:15 | 2023-05-31 |  |
+| [Guru \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/7ekf5B6Srz3XTNuBQrUWOC) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Spotify Singles](https://open.spotify.com/album/5rFq8b1sAIjmCCdS4rjFYt) | 3:15 | 2022-07-05 | 2023-10-02 |
 | [Guru \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5txEtzoUgRw3AEP7eZWtcN) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Spotify Singles](https://open.spotify.com/album/4jdJSsxnZM4RbRxxJ8TO9L) | 3:15 | 2022-01-19 | 2022-07-29 |
 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 | 2022-01-19 |  |
 | [Halo \- Spotify Singles](https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Spotify Singles](https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS) | 3:56 | 2023-05-24 |  |

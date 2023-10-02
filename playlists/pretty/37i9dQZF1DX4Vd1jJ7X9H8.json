@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 283649,
+  "num_followers": 283846,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGZmMTNlNjcxMDM0MTNiNzQzMTIwNDI2NGY1OTk4YTIzZTk1Y2Rh",
+  "snapshot_id": "MCxiZDM5MzQ5MmMwYjA2OWFkYzBjMDQ2ZTgzMzU1YzhmZTBmN2FhYmMx",
   "tracks": [
     {
       "added_at": "2023-09-29 19:53:20",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "If This Is House I Want My Money Back 3",
-        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 285440,
-      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
-      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "STARFUCKER",
         "url": "https://open.spotify.com/album/5sjBJH8HZKiBGEa4guEHcL"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 184706,
       "name": "I Love Hollywood!",
       "url": "https://open.spotify.com/track/2Pjv8xp8CKSQRR57s17mHN"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
     },
     {
       "added_at": "2023-09-29 19:53:20",

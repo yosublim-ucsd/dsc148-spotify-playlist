@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "going...going...GONE!",
+        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "gimme all ur luv",
+      "url": "https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi"
+    },
+    {
+      "album": {
         "name": "gimme all ur luv",
         "url": "https://open.spotify.com/album/16pAkASl0bdyOQrVyTvuBF"
       },
@@ -572,7 +590,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 174705,
       "name": "gimme all ur luv",
       "url": "https://open.spotify.com/track/2G7Jmx6mrz2doZ8YaEmVAv"

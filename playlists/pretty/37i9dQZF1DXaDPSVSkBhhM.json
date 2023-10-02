@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 64809,
+  "num_followers": 64820,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTQzNDdkZTAzZDAzODQ0MjQ5ZDIxODdiMTk1OWFmNmQyZDJkZmE1",
+  "snapshot_id": "MCwzZThiYmM2OGRhNGRlMjBkMDk5NjhiZmI0MjllYjdiY2M2NzY0Zjcw",
   "tracks": [
     {
       "added_at": "2023-09-22 06:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Masappan",
-        "url": "https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e"
-      },
-      "artists": [
-        {
-          "name": "Masappan",
-          "url": "https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Para Ti",
-      "url": "https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Gran Blanco",
         "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 203213,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Masappan",
+        "url": "https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e"
+      },
+      "artists": [
+        {
+          "name": "Masappan",
+          "url": "https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Para Ti",
+      "url": "https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Volumen 2",
-        "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
+        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
+        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
       },
       "artists": [
         {
-          "name": "Hey B\u00e9sala",
-          "url": "https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh"
+          "name": "Camiches",
+          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Desamorados",
-      "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
+      "duration_ms": 214592,
+      "name": "Espero Nadie Ocupe Mi Lugar",
+      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
-        "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
+        "name": "Volumen 2",
+        "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
       },
       "artists": [
         {
-          "name": "Camiches",
-          "url": "https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA"
+          "name": "Hey B\u00e9sala",
+          "url": "https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh"
         }
       ],
-      "duration_ms": 214592,
-      "name": "Espero Nadie Ocupe Mi Lugar",
-      "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
+      "duration_ms": 224680,
+      "name": "Desamorados",
+      "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "J\u00e4ula",
-        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
-      },
-      "artists": [
-        {
-          "name": "Mi Mascota Leila",
-          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
-        }
-      ],
-      "duration_ms": 226063,
-      "name": "Cc (Como Compas)",
-      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Nadie Me Entiende",
         "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 180000,
       "name": "Nadie Me Entiende",
       "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "J\u00e4ula",
+        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
+      },
+      "artists": [
+        {
+          "name": "Mi Mascota Leila",
+          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
+        }
+      ],
+      "duration_ms": 226063,
+      "name": "Cc (Como Compas)",
+      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Disparos",
-        "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
-      },
-      "artists": [
-        {
-          "name": "INSITE",
-          "url": "https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Disparos",
-      "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Fantasmas",
         "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 216296,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Disparos",
+        "url": "https://open.spotify.com/album/6p3dbZ4NrwqbN809vTNG68"
+      },
+      "artists": [
+        {
+          "name": "INSITE",
+          "url": "https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Disparos",
+      "url": "https://open.spotify.com/track/5EdTbndNiVuaiw8Qkl0bWA"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Ciencia Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG"
-      },
-      "artists": [
-        {
-          "name": "Buen Viaje",
-          "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
-        }
-      ],
-      "duration_ms": 224735,
-      "name": "Ciencia Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "La teor\u00eda de los septenios",
         "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 151757,
       "name": "No olvides de enfocarte siempre en lo importante",
       "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Ciencia Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG"
+      },
+      "artists": [
+        {
+          "name": "Buen Viaje",
+          "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
+        }
+      ],
+      "duration_ms": 224735,
+      "name": "Ciencia Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -707,38 +707,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "15 de Junio",
-        "url": "https://open.spotify.com/album/4P1ONNbWN12mI1YNxFFQlO"
-      },
-      "artists": [
-        {
-          "name": "Liz Forte",
-          "url": "https://open.spotify.com/artist/7GArathIWiQj50qNsBBLN1"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "15 de Junio",
-      "url": "https://open.spotify.com/track/1P9AQNoaDW3F5SThfJ7dUZ"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
-        "name": "La Insoportable Levedad del Final",
-        "url": "https://open.spotify.com/album/6qNHPl2FTO7hgeNOO39E4s"
-      },
-      "artists": [
-        {
-          "name": "THE SUPUESTOS",
-          "url": "https://open.spotify.com/artist/6nrVwZIURyY5RIPp3eXPra"
-        }
-      ],
-      "duration_ms": 237633,
-      "name": "La Insoportable Levedad del Final",
-      "url": "https://open.spotify.com/track/1LMFuo0XbZS3xQHIKtwTle"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Humanos Como T\u00fa",
         "url": "https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY"
       },
@@ -771,22 +739,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Cereal",
-        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "Cereal",
-      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Autodestrucci\u00f3n",
         "url": "https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR"
       },
@@ -803,6 +755,54 @@
       "duration_ms": 234437,
       "name": "Conversaciones Con Mi Almohada",
       "url": "https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "15 de Junio",
+        "url": "https://open.spotify.com/album/4P1ONNbWN12mI1YNxFFQlO"
+      },
+      "artists": [
+        {
+          "name": "Liz Forte",
+          "url": "https://open.spotify.com/artist/7GArathIWiQj50qNsBBLN1"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "15 de Junio",
+      "url": "https://open.spotify.com/track/1P9AQNoaDW3F5SThfJ7dUZ"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "La Insoportable Levedad del Final",
+        "url": "https://open.spotify.com/album/6qNHPl2FTO7hgeNOO39E4s"
+      },
+      "artists": [
+        {
+          "name": "THE SUPUESTOS",
+          "url": "https://open.spotify.com/artist/6nrVwZIURyY5RIPp3eXPra"
+        }
+      ],
+      "duration_ms": 237633,
+      "name": "La Insoportable Levedad del Final",
+      "url": "https://open.spotify.com/track/1LMFuo0XbZS3xQHIKtwTle"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Cereal",
+        "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "Cereal",
+      "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
     },
     {
       "added_at": "2023-09-22 06:00:00",

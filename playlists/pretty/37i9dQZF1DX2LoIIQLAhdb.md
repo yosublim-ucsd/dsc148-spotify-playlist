@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Dadju
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,830 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,956 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Step By Step](https://open.spotify.com/track/4mJBWq4XbarSGfDNJ8ufF7) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Step By Step](https://open.spotify.com/album/7opoRFAZZnYiB8nG4gVQVA) | 2:51 |
 | 40 | [Makelele](https://open.spotify.com/track/3LHgc025pXKdA57Wu7tCra) | [Meiitod](https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS), [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [Makele](https://open.spotify.com/album/4y2B5kpPU9volLqTnDDoCZ) | 2:45 |
 
-Snapshot ID: `MCwzMmVmZWRiMTExMjgwNmE5Y2VmZjA5YTc3NTBlOWQ2OTY2MDI2MzJk`
+Snapshot ID: `MCw4ZDNmZTAxZGY4OTY0MWIxMjAwMDA2N2NhNGM0ZjhmYzI4N2MzY2Mx`

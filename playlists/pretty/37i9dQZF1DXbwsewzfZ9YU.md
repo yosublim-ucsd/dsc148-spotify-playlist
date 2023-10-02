@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Soul Glo
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,306 likes - 103 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,393 likes - 103 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 102 | [Teeth of Wolves](https://open.spotify.com/track/7LwlqPgjtM72PJVIwIUYeP) | [BITE THE HAND](https://open.spotify.com/artist/1niXxbnUc8pJ3DIBxV8KXg) | [Down Comes the Bay](https://open.spotify.com/album/6z9kejZ3MPWyLzuinXVMvU) | 2:22 |
 | 103 | [Apology Denied](https://open.spotify.com/track/2XwNSG0m9nrLFxi9twvJCQ) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [Apology Denied](https://open.spotify.com/album/5tRUQCtgNounNjP9yjapsB) | 2:21 |
 
-Snapshot ID: `MCxkNjcxMDljY2UxYjVhMTRiYzg0NGFmMjc0OGZhNGYxMDM5YmRkMWYy`
+Snapshot ID: `MCwyYzcyMGM3ZDkwNTdiOTlkMTQxNDIxODQ5MGUyZGIyMGM4NDk1ODEx`

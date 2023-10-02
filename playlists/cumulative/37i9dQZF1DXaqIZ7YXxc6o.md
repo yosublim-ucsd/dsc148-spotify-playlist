@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Young Franco
 
-1,428 songs - 3 day 7 hr 40 min
+1,429 songs - 3 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,8 @@
 | [Far Gone](https://open.spotify.com/track/3ldDEYQtNU2xqXqMRZiI7Y) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [Far Gone](https://open.spotify.com/album/3sAEf2yZVihxGrWi95FcYa) | 3:35 | 2023-08-31 | 2023-09-22 |
 | [Faxman](https://open.spotify.com/track/67ejXhlXiBvb0KJmcsnFUH) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Jesper Dahlbäck](https://open.spotify.com/artist/6u91vcbmUKnkaDXmKSDjhm), [Faxid](https://open.spotify.com/artist/1hFByCSRsHW5u20e138GsP) | [Faxman](https://open.spotify.com/album/4NFUcxJ5HZFZTCQQQLGvs7) | 4:54 | 2023-04-27 | 2023-05-19 |
 | [Feed Your Soul](https://open.spotify.com/track/0dIAyQaDukaRWePNPC8l4h) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Feed Your Soul](https://open.spotify.com/album/5Xp8o0mNfZpJmTgPP6PxSo) | 2:37 | 2023-04-27 | 2023-05-19 |
-| [Feel Good](https://open.spotify.com/track/4gIqcguWXG18Q3z9jikCHC) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Feel Good](https://open.spotify.com/album/3PqAyJinIE6pmgVcV8Vw5U) | 2:51 | 2023-09-21 |  |
+| [Feel Good](https://open.spotify.com/track/4LDQMTLe1llYvZr07J9Pc0) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Feel Good](https://open.spotify.com/album/1c1cn3xwvgl21kOYJFJwk5) | 2:51 | 2023-09-29 |  |
+| [Feel Good](https://open.spotify.com/track/4gIqcguWXG18Q3z9jikCHC) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Feel Good](https://open.spotify.com/album/3PqAyJinIE6pmgVcV8Vw5U) | 2:51 | 2023-09-21 | 2023-10-02 |
 | [Feel It](https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Feel It](https://open.spotify.com/album/5ozui0519aka32Jj8vFp8D) | 3:12 | 2023-01-19 | 2023-02-10 |
 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 | 2023-07-20 | 2023-08-18 |
 | [Feel It Deep Inside](https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Feel It Deep Inside](https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG) | 2:33 | 2023-08-03 | 2023-08-25 |

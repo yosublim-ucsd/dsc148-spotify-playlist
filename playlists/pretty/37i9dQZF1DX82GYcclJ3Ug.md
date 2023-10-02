@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Jack Kays
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,752 likes - 122 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,788 likes - 122 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 121 | [DUMB](https://open.spotify.com/track/47MthNdmvuTrV3SP4MPFGV) | [Hunter Oliveri](https://open.spotify.com/artist/1y3NQbmjuRQshFiRjiterz) | [DUMB](https://open.spotify.com/album/1CEYnd0M5NIW7u6HheJka5) | 2:53 |
 | 122 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 |
 
-Snapshot ID: `MCwyMTc2ODkyMmQzM2Y3ZmVlNDBiNGEwODFmZDg3OTliYmZmNWYwYTI2`
+Snapshot ID: `MCwzMTlhOTFjMzQ5YzRhMWU1MTZjNGE0NDU3YmQ2NTdlYzRiZDA2ODkz`

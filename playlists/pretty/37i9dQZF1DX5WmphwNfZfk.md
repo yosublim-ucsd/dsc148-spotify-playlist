@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: laye
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,934 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,931 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 |
-| 2 | [L'Autre](https://open.spotify.com/track/1cQW86qR0xDFbGjh6sn2dl) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [L'Autre](https://open.spotify.com/album/6Zzi9cViyRhMCVxugRlw0o) | 3:08 |
+| 2 | [L'Autre](https://open.spotify.com/track/3uumG8YxkC14TmIbHz5t7K) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:08 |
 | 3 | [who?](https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [who?](https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW) | 2:29 |
 | 4 | [Gods Will](https://open.spotify.com/track/0WP6GE82DQtvfTmWAmuL5y) | [Bhagwant](https://open.spotify.com/artist/3MohUKx2uQyRyRodJKRb4Z), [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [Gods Will](https://open.spotify.com/album/2xol6sKKUxCkLXkLVs8QJi) | 2:54 |
 | 5 | [Fly Girl](https://open.spotify.com/track/3W87RPGCLGupGSWEcNbyED) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Fly Girl](https://open.spotify.com/album/3DxsNT0EdadtakLU9wAGke) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Does This Sound Good To You?](https://open.spotify.com/track/5TkhXF4u5gPLgqii04ek6d) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Does This Sound Good To You?](https://open.spotify.com/album/67TDi71dKdJTezgHn2NdUe) | 4:27 |
 | 50 | [mundane](https://open.spotify.com/track/1mRGGMgNmToBG2arFHFhru) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [mundane](https://open.spotify.com/album/1gCFvzhsVFmj7G1ejCDPhg) | 2:41 |
 
-Snapshot ID: `MCwwMDMyZTRlZTg1YTBhMTJkM2NiMmUwYTdmODRiZDliYjczMGEzNWY0`
+Snapshot ID: `MCwxOGRkZDE1ZDZmZGM5YTc5MzBkZmM3NjRlYTFmMGRlMzhhODQ3NGRi`

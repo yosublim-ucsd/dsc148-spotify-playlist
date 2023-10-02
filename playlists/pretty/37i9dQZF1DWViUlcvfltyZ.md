@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, post\-rock, punk ed emo dall'Italia\. Cover: Blonde Redhead
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,831 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,827 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 23 | [Bordeaux](https://open.spotify.com/track/3KV0mra7zQTb04DDHnMSfu) | [Selflore](https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP) | [L'immagine che ho di me](https://open.spotify.com/album/6xGbrTau1z7p2aiyoItdG1) | 3:59 |
 | 24 | [Fade Away](https://open.spotify.com/track/4DnzS5FpDsnWtmSx9jh7hb) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Fade Away](https://open.spotify.com/album/0LZBRpTFsMSzUT085o5WuF) | 2:57 |
 | 25 | [Lunedì](https://open.spotify.com/track/0Bf4E2cdRegFDLUEqn43Yb) | [gazza](https://open.spotify.com/artist/0oXxCYKdNM9cxQkezMlIG7) | [Lunedì](https://open.spotify.com/album/3JYGzrFXAyc8LMmnsnDllw) | 2:18 |
-| 26 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 |
+| 26 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 3:28 |
 | 27 | [Spiffero](https://open.spotify.com/track/0ey0FRonzZU005CDAU13Cz) | [Noverte](https://open.spotify.com/artist/3dF6GB27ak4klpdCEHlUro) | [Con uno sguardo solo](https://open.spotify.com/album/1z8qX6mJ6GHrAYmJvP0RZN) | 1:47 |
 | 28 | [Strade Smarrite](https://open.spotify.com/track/3qBZZ2wyZK89zBB0cLEh2o) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5) | [Strade Smarrite](https://open.spotify.com/album/1Vf70Udh78YnTe6SLUwvDw) | 3:26 |
 | 29 | [Color Shades](https://open.spotify.com/track/1IQFjP1hfifbffLTD4z61b) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Color Shades](https://open.spotify.com/album/32aZ5m6NZ2zv9nlReMdrg1) | 3:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 69 | [Sbaglio peggiore](https://open.spotify.com/track/3496cFB078fy8zXdX108Gr) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Sbaglio peggiore](https://open.spotify.com/album/5svg1vlynhxUiqyJfrCJjG) | 3:14 |
 | 70 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 |
 
-Snapshot ID: `MCxlMjdjMjM2N2IwODFkYzMwOTRjNjFmYmExYjZkMDYxYmI1ZjkzMzJj`
+Snapshot ID: `MCxiZDk1MGYxNjRhM2I3ODY5NjRkYzMxYTJjMTdmZDY2NGQ5OWY0Yjg0`

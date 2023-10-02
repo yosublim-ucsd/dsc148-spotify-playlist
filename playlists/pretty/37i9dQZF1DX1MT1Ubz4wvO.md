@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Austin TV en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,408 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,421 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 48 | [Vidas Cruzadas](https://open.spotify.com/track/18oxZCAvQ6pfJUaxtFS09L) | [Nebraska](https://open.spotify.com/artist/408Xlsk3OkET9JXTbU7LxU) | [Vidas Cruzadas](https://open.spotify.com/album/5Bl8AbuXjokUyZDaYrgEMe) | 3:29 |
 | 49 | [am0r\_d\_festival.mp3](https://open.spotify.com/track/50rS9NS9aqIAC76hD3p2QY) | [Damas de españa](https://open.spotify.com/artist/58l5eQOHJ3semSzvk28AyC) | [Guardado en borradores](https://open.spotify.com/album/2Iay60Ih6uFzeTQo1rh8Hk) | 3:27 |
 
-Snapshot ID: `MCxiMGVjNGZjNDRiZTIzMDM3NWFiZWRjMGZlOGYwNTc0N2I3YzIzODJm`
+Snapshot ID: `MCw3MDZlZTIwMjhmOGFmNWMwZjExODNhMDYyNDU4YzA2MzAxMTI0YTZl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient and post\-rock music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,057,789 likes - 178 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,059,189 likes - 178 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 177 | [Arriving](https://open.spotify.com/track/0VZSqwbrOlZxOEakvAQX5a) | [Hilder Sky](https://open.spotify.com/artist/4VtFCdJXVb9aKGq8Pt5dZQ) | [Arriving](https://open.spotify.com/album/7CosLPjvMgHwpwVgZiwNbi) | 2:25 |
 | 178 | [Waiting](https://open.spotify.com/track/45RDZot29LxXjoTpdayF7w) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Waiting](https://open.spotify.com/album/675hM4Bn9eSwtq1EHiXquT) | 2:10 |
 
-Snapshot ID: `MCxkODA1ZGM2MWM1NzE1ZTA0OWU1ZTYxMzVjOGU4ZWRlYzE3M2IwMDli`
+Snapshot ID: `MCxhNmY5NzI1NzhkZGM2OTk3NmFjMjMxODY4MTExMzM1MjBkMWY2NWQ1`

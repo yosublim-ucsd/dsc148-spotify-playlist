@@ -27164,7 +27164,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 203359,
       "name": "Ouvrir les yeux",
       "url": "https://open.spotify.com/track/5d069i6qYWZBBZMRy6cRaz"
@@ -27658,6 +27658,24 @@
       "duration_ms": 181810,
       "name": "Parler au pass\u00e9",
       "url": "https://open.spotify.com/track/1PbbKVA0yeSpTfyJiqFWiU"
+    },
+    {
+      "album": {
+        "name": "Parler de nous",
+        "url": "https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Parler de nous",
+      "url": "https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9"
     },
     {
       "album": {

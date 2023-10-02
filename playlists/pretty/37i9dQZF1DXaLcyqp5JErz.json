@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Davi Sacer, Simone",
-  "num_followers": 521908,
+  "num_followers": 522186,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmM1YjA4OThkNTUwZjU2M2YwNDFkYTAzY2I4NWM3ODJlODE1YTM4",
+  "snapshot_id": "MCxjNjAxZmQyNjkyMTc5NTQ5Y2MwMWQxMTM4NWM1Njc0NmY3MTNiNDQ5",
   "tracks": [
     {
       "added_at": "2023-07-21 04:44:41",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
-        "name": "Principio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 267786,
-      "name": "sublime - Ao Vivo",
-      "url": "https://open.spotify.com/track/4PoMOFwptVBWUVs1KzYXBm"
-    },
-    {
-      "added_at": "2023-07-21 04:44:41",
-      "album": {
         "name": "Excel\u00eancia",
         "url": "https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 333546,
       "name": "Adorador por Excel\u00eancia",
       "url": "https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K"
+    },
+    {
+      "added_at": "2023-07-21 04:44:41",
+      "album": {
+        "name": "Principio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 267786,
+      "name": "sublime - Ao Vivo",
+      "url": "https://open.spotify.com/track/4PoMOFwptVBWUVs1KzYXBm"
     },
     {
       "added_at": "2023-07-21 04:44:41",

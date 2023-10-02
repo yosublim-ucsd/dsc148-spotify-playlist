@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,533 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,676 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 49 | [Halloween Party](https://open.spotify.com/track/5DAoCXLfuoVEtSVEQWW8I4) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Just a Bit Odd](https://open.spotify.com/album/3vsviQ93qcUREsP84XhIz0) | 5:11 |
 | 50 | [The Freakshow](https://open.spotify.com/track/69MAGK0nCax1nJOrrS2ckW) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [The Freakshow](https://open.spotify.com/album/33oXwxLqEpRXS27I9fVbfK) | 2:46 |
 
-Snapshot ID: `MCxmNTM2NDBiMzU4ODBmMzgwMzIyOGYxOGIzNDUxYTM3MWFjNTE0OTcy`
+Snapshot ID: `MCw5YWQyMTc3MGU2YjA3OTk3Y2M5MWM2YTE1YzE5Y2YyMmIzZDM4NGFm`

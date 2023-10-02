@@ -24553,6 +24553,24 @@
     },
     {
       "album": {
+        "name": "Jailbreak",
+        "url": "https://open.spotify.com/album/6dnFZrQ2r2eXqDwphuNe1w"
+      },
+      "artists": [
+        {
+          "name": "Nervosa",
+          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203153,
+      "name": "Endless Ambition",
+      "url": "https://open.spotify.com/track/1PIeYKbVqQK1P7oIin0A7N"
+    },
+    {
+      "album": {
         "name": "Endless Ambition",
         "url": "https://open.spotify.com/album/6rQP8xYcuIQfU3UmdwKiw3"
       },
@@ -24564,7 +24582,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 203153,
       "name": "Endless Ambition",
       "url": "https://open.spotify.com/track/7KuAhmuydK5xQyG63aa8zb"
@@ -68890,10 +68908,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 144640,
       "name": "Strike Of The Viper",
       "url": "https://open.spotify.com/track/3sykXyEnYnGogkypEEJ7kl"
+    },
+    {
+      "album": {
+        "name": "The Sinner Rides Again",
+        "url": "https://open.spotify.com/album/6VbE5qiFPnuNUsWE5dgZQk"
+      },
+      "artists": [
+        {
+          "name": "KK's Priest",
+          "url": "https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144640,
+      "name": "Strike Of The Viper",
+      "url": "https://open.spotify.com/track/7lR5tuTKTddjqJr1pkDTyb"
     },
     {
       "album": {

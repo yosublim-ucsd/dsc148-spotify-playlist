@@ -4,11 +4,12 @@
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-274 songs - 14 hr 57 min
+275 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Winter Wonderland](https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl) | 3:47 | 2021-12-16 |  |
+| [A Winter Wonderland](https://open.spotify.com/track/3TdTi9r2kol4WGzz4b1blG) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/2Q3obqeUIIisZoav5mcW70) | 3:47 | 2022-12-16 |  |
+| [A Winter Wonderland](https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl) | 3:47 | 2021-12-16 | 2023-10-02 |
 | [All I Want For Christmas](https://open.spotify.com/track/2FPFSnekLjOKZ61X7jYaGM) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [All I Want For Christmas](https://open.spotify.com/album/3nfEsZpJwyLq0lYp2uhDRi) | 4:05 | 2022-12-09 |  |
 | [All I Want for Christmas Is a Real Good Tan](https://open.spotify.com/track/0la64DF1pXfSU0Ff6EH8Cr) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [All I Want For Christmas Is A Real Good Tan](https://open.spotify.com/album/4vLpAl3eThYWwJCX0Ru3DD) | 4:38 | 2021-12-16 | 2022-11-05 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/43IPpuDIrY2PIe43mreKty) | [Brooke Moriber](https://open.spotify.com/artist/5EVT7zUfk97zmNleljnavR) | [All I Want for Christmas Is You](https://open.spotify.com/album/3SovtaTjNB73Wm0963PqkX) | 4:25 | 2022-10-14 | 2022-11-12 |

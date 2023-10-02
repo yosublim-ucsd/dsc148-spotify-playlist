@@ -1,12 +1,12 @@
 {
   "description": "Sued Nunes e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 216072,
+  "num_followers": 216082,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGFjYTg0NDIxNjIwMmUzYTQxMjNiYmNhYTBmN2I0NTJlZmYzODVj",
+  "snapshot_id": "MCxjMjJkOWRmNTkxZjZhZjA2YWMxNTg0NjU1MDQ3M2UxN2NiMDYzMzU2",
   "tracks": [
     {
       "added_at": "2023-09-29 03:01:00",
@@ -680,13 +680,13 @@
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         }
       ],
-      "duration_ms": 206869,
-      "name": "Show Lotado",
-      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
+      "duration_ms": 177877,
+      "name": "Dose de Gin",
+      "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
     },
     {
       "added_at": "2023-09-29 03:01:00",
@@ -916,13 +916,13 @@
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 177877,
-      "name": "Dose de Gin",
-      "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
+      "duration_ms": 206869,
+      "name": "Show Lotado",
+      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
     },
     {
       "added_at": "2023-09-29 03:01:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-09-29 03:01:00",
       "album": {
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/3aWEYZmmAtHsz5c3lo8AKB"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        }
+      ],
+      "duration_ms": 198789,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/0IHZL22yg1SrVZa2oMN8YP"
+    },
+    {
+      "added_at": "2023-09-29 03:01:00",
+      "album": {
         "name": "Tipo Anitta",
         "url": "https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 151232,
       "name": "Tipo Anitta",
       "url": "https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR"
-    },
-    {
-      "added_at": "2023-09-29 03:01:00",
-      "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/3aWEYZmmAtHsz5c3lo8AKB"
-      },
-      "artists": [
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        }
-      ],
-      "duration_ms": 198789,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/0IHZL22yg1SrVZa2oMN8YP"
     },
     {
       "added_at": "2023-09-29 03:01:00",

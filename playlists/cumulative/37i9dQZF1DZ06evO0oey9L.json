@@ -937,6 +937,24 @@
     },
     {
       "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188124,
+      "name": "Me Prendo Un Gallito",
+      "url": "https://open.spotify.com/track/5VE64Tvg3eS8eBhL1kKMqH"
+    },
+    {
+      "album": {
         "name": "Me Pueden Juzgar",
         "url": "https://open.spotify.com/album/3QDHcul1zZ2aZZQo860HMI"
       },

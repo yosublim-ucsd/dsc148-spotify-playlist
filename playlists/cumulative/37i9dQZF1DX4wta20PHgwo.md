@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-401 songs - 1 day 12 hr 58 min
+402 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Corcovado \- Quiet Nights Of Quiet Stars](https://open.spotify.com/track/5i2sgqnzaxYpvXmGAB592h) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Classics International Version\)](https://open.spotify.com/album/5p7LZlOPMvScCXw5M77xyV) | 4:13 | 2020-06-12 | 2021-08-19 |
 | [Countryside](https://open.spotify.com/track/21NDbFQtyP8gFj8OPNsMgg) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Countryside](https://open.spotify.com/album/5PbXRiCAcxEpflaXGZfILU) | 3:52 | 2022-03-31 | 2022-09-04 |
 | [Countryside](https://open.spotify.com/track/7BSZWjrdKUCRLXQ8svY9SZ) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Jazz from the Countryside](https://open.spotify.com/album/5n7n15lmhMzqjHyxgZHshr) | 3:52 | 2022-09-08 |  |
+| [Cry Me a River](https://open.spotify.com/track/0MbWJKmsfogCvYwnqshqQY) | [Dominick Farinacci](https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB) | [Cry Me a River](https://open.spotify.com/album/5dbpStjViSbb4tKlXOHoN1) | 4:04 | 2023-09-29 |  |
 | [Cry Me A River](https://open.spotify.com/track/7rcfs2bBj5mNyiJbBIQ7cc) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The Very Best Of Julie London](https://open.spotify.com/album/2KpxHciuO5Zwd31c4cpKqk) | 2:54 | 2020-10-27 | 2021-09-15 |
 | [Crystal Silence](https://open.spotify.com/track/5F8rPLt2c52p0SK7kiH26b) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Return To Forever](https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc) | 6:55 | 2020-05-02\* | 2022-01-25 |
 | [Curves](https://open.spotify.com/track/0glr1BX8Zy81l4HvLpmozl) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Other Side](https://open.spotify.com/album/5vRSjGybGL5JiNGIsfh2K6) | 6:19 | 2020-05-02\* | 2022-07-21 |
@@ -398,7 +399,7 @@
 | [Wild Flower](https://open.spotify.com/track/1iaKMD29IA03guhDzt1DiH) | [Thomas Hass](https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Artur Tuźnik](https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k) | [Wild Flower](https://open.spotify.com/album/6Xlz3DM2L2HfChpNfJ1To1) | 7:08 | 2022-05-12 |  |
 | [Willow Weep for Me](https://open.spotify.com/track/6ttNHrgyK11RvgYOdC6Vpn) | [Houston Person](https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr) | [I'm Just a Lucky So and So](https://open.spotify.com/album/5LRk8BHsoLV8d93r7Dd8Ch) | 8:08 | 2020-05-02\* |  |
 | [Willow Weep for Me](https://open.spotify.com/track/1qZ0gHUkbxhNrPN8t1a0TR) | [Sam Levine](https://open.spotify.com/artist/1CmCeIsw4tTFiufFAJx04M), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [Willow Weep for Me](https://open.spotify.com/album/65LGhKIjbhZMawufHw7zxU) | 4:41 | 2023-03-28 |  |
-| [Wise Woman](https://open.spotify.com/track/7116LjcE1UuAqKJiQRwXhK) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 3:46 | 2023-08-03 |  |
+| [Wise Woman](https://open.spotify.com/track/7116LjcE1UuAqKJiQRwXhK) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 3:46 | 2023-08-03 | 2023-10-02 |
 | [Wisteria](https://open.spotify.com/track/4lKiH7lACKR3hAdd1bONzp) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Wisteria](https://open.spotify.com/album/5Ok4cskcyAERwTnaKjEA8s) | 5:47 | 2022-07-21 |  |
 | [Wisteria](https://open.spotify.com/track/5QdGSxicWhfhvJCkkVrXoh) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Wisteria](https://open.spotify.com/album/1l2Hx5nm70K3dgeX3ed2yO) | 5:47 | 2020-05-02\* | 2022-07-19 |
 | [Woodwind](https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Woodwind](https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU) | 5:20 | 2022-10-06 |  |

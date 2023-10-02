@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Gislaine e Mylena, Elaine Martins",
-  "num_followers": 98674,
+  "num_followers": 98825,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmEzNWQzNjJjN2IxYmY4YzBhYTBlZmVhNTA4MmRlNTJmMWU0ZTRl",
+  "snapshot_id": "MCwxMTExYjU4YWZkOWU4NzI0NGUwMTA2MzljNDhiN2EzMTUwMjYxYzFh",
   "tracks": [
     {
       "added_at": "2023-09-25 15:02:09",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-09-25 15:02:09",
       "album": {
-        "name": "Esp\u00edrito Santo",
-        "url": "https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 287769,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw"
-    },
-    {
-      "added_at": "2023-09-25 15:02:09",
-      "album": {
         "name": "O Processo",
         "url": "https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 290816,
       "name": "O Processo",
       "url": "https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM"
+    },
+    {
+      "added_at": "2023-09-25 15:02:09",
+      "album": {
+        "name": "Esp\u00edrito Santo",
+        "url": "https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 287769,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw"
     },
     {
       "added_at": "2023-09-25 15:02:09",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-09-25 15:02:09",
       "album": {
+        "name": "N\u00e3o Desista de Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj"
+      },
+      "artists": [
+        {
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+        }
+      ],
+      "duration_ms": 485055,
+      "name": "N\u00e3o Desista de Orar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3"
+    },
+    {
+      "added_at": "2023-09-25 15:02:09",
+      "album": {
         "name": "Vou Marcar Tua Hist\u00f3ria",
         "url": "https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 249983,
       "name": "Vou Marcar Tua Hist\u00f3ria",
       "url": "https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB"
-    },
-    {
-      "added_at": "2023-09-25 15:02:09",
-      "album": {
-        "name": "N\u00e3o Desista de Orar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj"
-      },
-      "artists": [
-        {
-          "name": "Dalete Hungria",
-          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
-        }
-      ],
-      "duration_ms": 485055,
-      "name": "N\u00e3o Desista de Orar - Ao Vivo",
-      "url": "https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3"
     },
     {
       "added_at": "2023-09-25 15:02:09",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-09-25 15:02:09",
       "album": {
-        "name": "Tenha Paci\u00eancia",
-        "url": "https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa"
-      },
-      "artists": [
-        {
-          "name": "Raquel Olliver",
-          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
-        }
-      ],
-      "duration_ms": 286096,
-      "name": "Tenha Paci\u00eancia",
-      "url": "https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix"
-    },
-    {
-      "added_at": "2023-09-25 15:02:09",
-      "album": {
         "name": "H\u00e1 uma Sa\u00edda: 45 Anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 377500,
       "name": "H\u00e1 uma Sa\u00edda: 45 Anos - Ao Vivo",
       "url": "https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc"
+    },
+    {
+      "added_at": "2023-09-25 15:02:09",
+      "album": {
+        "name": "Tenha Paci\u00eancia",
+        "url": "https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa"
+      },
+      "artists": [
+        {
+          "name": "Raquel Olliver",
+          "url": "https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx"
+        }
+      ],
+      "duration_ms": 286096,
+      "name": "Tenha Paci\u00eancia",
+      "url": "https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix"
     },
     {
       "added_at": "2023-09-25 15:02:09",

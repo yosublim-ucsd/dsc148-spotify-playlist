@@ -402,7 +402,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 231640,
       "name": "Baraka",
       "url": "https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup"
@@ -1220,6 +1220,24 @@
       "duration_ms": 222821,
       "name": "Midiwan",
       "url": "https://open.spotify.com/track/3uQZlQyED9BvADK1JWXIzl"
+    },
+    {
+      "album": {
+        "name": "Deran",
+        "url": "https://open.spotify.com/album/1lfByGwwrcnxIHig1xiuHY"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222821,
+      "name": "Midiwan (My Friends)",
+      "url": "https://open.spotify.com/track/4p8Vq2bjTA0QFPJipbhOR3"
     },
     {
       "album": {

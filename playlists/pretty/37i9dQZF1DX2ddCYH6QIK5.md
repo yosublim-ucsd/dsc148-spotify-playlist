@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: soffie, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,928 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,937 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Dinge](https://open.spotify.com/track/5xHHgnItfPKSoYXEUxALC0) | [WILLMAN](https://open.spotify.com/artist/6i8voyPYg0tgoAtzaez7Dg), [ELAV](https://open.spotify.com/artist/54qCVYlwbZUAxWzLIdSYF4) | [Dinge](https://open.spotify.com/album/7sxQWv8sUZrTQwAaDHHLq9) | 2:44 |
 | 80 | [Lately](https://open.spotify.com/track/3ReVWeeH0a44SLYlfrvJuB) | [Padi](https://open.spotify.com/artist/3BqbpG4GyEmaybhZSclexV) | [Lately](https://open.spotify.com/album/0HcJAYxLG2dUCPZtCwhLt3) | 3:34 |
 
-Snapshot ID: `MCw5Y2Y4MjU5YzJkNjI1N2YyOTY4OWQ0ZTMzNDY0ODAyMzJlZTIyYWYz`
+Snapshot ID: `MCwwYWYzYzYyOGZiMTY2NWZiNGY2MDU5NjBhZmFiNjFkM2Q1YTMxMmZm`

@@ -1280,10 +1280,32 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-02",
       "duration_ms": 245626,
       "name": "Time To Say Goodbye",
       "url": "https://open.spotify.com/track/3VAICuY2ax2yCLT7EhNeZE"
+    },
+    {
+      "album": {
+        "name": "Romanza (Spanish Version)",
+        "url": "https://open.spotify.com/album/3bqaZBUz92ypc2bCLinACW"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246266,
+      "name": "Time To Say Goodbye - English Version",
+      "url": "https://open.spotify.com/track/633Zk0NRe7kuglSgPmUvSG"
     },
     {
       "album": {

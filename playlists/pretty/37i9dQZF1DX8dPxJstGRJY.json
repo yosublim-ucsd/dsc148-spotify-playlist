@@ -1,12 +1,12 @@
 {
   "description": "Pop classics and show tunes, sung by legendary classical voices. Cover: Andrea Bocelli",
-  "num_followers": 249418,
+  "num_followers": 249666,
   "original_name": "Classical Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDcxMWQxOGRiOWU3MTMyNmU1ZTMzZmI5YjI0MjQ2MTUwMzZkZDBj",
+  "snapshot_id": "MCw2NTBjYmMwNWRmMjA5ZmM5YTZlZjk3NTZjNmViMzQ1Mzk1OTI1NWNl",
   "tracks": [
     {
       "added_at": "2023-06-30 10:39:50",
@@ -79,22 +79,22 @@
     {
       "added_at": "2023-06-30 10:39:50",
       "album": {
-        "name": "Romanza (Remastered)",
-        "url": "https://open.spotify.com/album/4myEOR9cjLVBiwQuBxL4av"
+        "name": "Romanza (Spanish Version)",
+        "url": "https://open.spotify.com/album/3bqaZBUz92ypc2bCLinACW"
       },
       "artists": [
         {
-          "name": "Sarah Brightman",
-          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
-        },
-        {
           "name": "Andrea Bocelli",
           "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
         }
       ],
-      "duration_ms": 245626,
-      "name": "Time To Say Goodbye",
-      "url": "https://open.spotify.com/track/3VAICuY2ax2yCLT7EhNeZE"
+      "duration_ms": 246266,
+      "name": "Time To Say Goodbye - English Version",
+      "url": "https://open.spotify.com/track/633Zk0NRe7kuglSgPmUvSG"
     },
     {
       "added_at": "2023-06-30 10:39:50",

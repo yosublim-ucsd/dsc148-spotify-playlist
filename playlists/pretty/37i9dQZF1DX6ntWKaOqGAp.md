@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: ナードマグネット
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,031 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,108 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [YOUTH OF EDGE](https://open.spotify.com/track/3oHj3opkJTEfywxvCqQuUM) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [YOUTH OF EDGE](https://open.spotify.com/album/0a7tm3zCW2yFRfdTjJ78Ec) | 3:49 |
 | 100 | [イマジネーション \- New Version \-](https://open.spotify.com/track/2jFXcYFDLmdB4tXWrc9fVD) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [イマジネーション \- New Version \-](https://open.spotify.com/album/5buxh2cnDTTIWOumSjmKG3) | 2:55 |
 
-Snapshot ID: `MCxmY2FjYjNlOWI4ZGI2OGQ4ODNlODkyNjQ3ZWViNjQ4NTY3NjM1ZWM1`
+Snapshot ID: `MCwxNTM1OWY4YmUyOTkwMmE0MDJiNTk1MTgxODcwNTE0YTc5MTYwMTRm`

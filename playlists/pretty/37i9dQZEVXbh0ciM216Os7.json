@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNjYwMDAsMDAwMDAwMDBiYjE0NGI4OTg3MzJiYTQyZThiNDNjMTIzZTNlZDZmYQ==",
+  "snapshot_id": "MjgyNjYwMDAsMDAwMDAwMDA5NDc4YzU1N2U2ODllNjE0ODBkZTZlYzliNzlhOTEyZA==",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -87,26 +87,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/2aVhrxNZrwE8sB3fqvyZys"
-      },
-      "artists": [
-        {
-          "name": "King Reign",
-          "url": "https://open.spotify.com/artist/2NBqojWIwPlNQC5yKru1OJ"
-        },
-        {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
-        }
-      ],
-      "duration_ms": 206653,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/17zGPlvmZ8cWkmMXTUFSrf"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Tech N9ne Presents: NNUTTHOWZE - The Siqnal",
         "url": "https://open.spotify.com/album/5B6i2xqAaKsquOzw7WYPIM"
       },
@@ -131,8 +111,28 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "FIESTA",
-        "url": "https://open.spotify.com/album/6BJZICoGKwAp2QKx6FhDEz"
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/2aVhrxNZrwE8sB3fqvyZys"
+      },
+      "artists": [
+        {
+          "name": "King Reign",
+          "url": "https://open.spotify.com/artist/2NBqojWIwPlNQC5yKru1OJ"
+        },
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/17zGPlvmZ8cWkmMXTUFSrf"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Beach",
+        "url": "https://open.spotify.com/album/25yH1h8nWDbzjbbc3IfIlZ"
       },
       "artists": [
         {
@@ -140,17 +140,17 @@
           "url": "https://open.spotify.com/artist/44h6HbtmEnmiSrkY4RtWFi"
         },
         {
-          "name": "Gianluca",
-          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         },
         {
           "name": "Rapsody",
           "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
         }
       ],
-      "duration_ms": 189500,
-      "name": "FIESTA",
-      "url": "https://open.spotify.com/track/48juEfmXe0vq0FT5GRecCi"
+      "duration_ms": 182500,
+      "name": "Beach",
+      "url": "https://open.spotify.com/track/5EGDvIfhcp8xmas20uQhRa"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -175,22 +175,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Have You Seen This Movie",
-        "url": "https://open.spotify.com/album/4RCjDPhqY9W4JE0tVGtAvl"
+        "name": "Ruska (Live In Helsinki St. John's Church)",
+        "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
       },
       "artists": [
         {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Allen Ginsberg",
-          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         }
       ],
-      "duration_ms": 555414,
-      "name": "Have You Seen This Movie",
-      "url": "https://open.spotify.com/track/2LUiRhU7rSaGqPAvaQ5Zik"
+      "duration_ms": 231573,
+      "name": "Ruska - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -219,18 +215,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Ruska (Live In Helsinki St. John's Church)",
-        "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
+        "name": "Have You Seen This Movie",
+        "url": "https://open.spotify.com/album/4RCjDPhqY9W4JE0tVGtAvl"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
         }
       ],
-      "duration_ms": 231573,
-      "name": "Ruska - Live In Helsinki St. John's Church",
-      "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
+      "duration_ms": 555414,
+      "name": "Have You Seen This Movie",
+      "url": "https://open.spotify.com/track/2LUiRhU7rSaGqPAvaQ5Zik"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Leo Metal, Vol. 44",
-        "url": "https://open.spotify.com/album/6bg7yvrUjIxcyWYI8svytn"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 287446,
-      "name": "Skyfall (Metal Version)",
-      "url": "https://open.spotify.com/track/0Z8mp3OV0TLQ26Em637U0K"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1v4Ph9n95YfwzMXtKbc4mB"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 221000,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0nDzTiBd4yfZkywYaNGmr1"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Leo Metal, Vol. 44",
+        "url": "https://open.spotify.com/album/6bg7yvrUjIxcyWYI8svytn"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 287446,
+      "name": "Skyfall (Metal Version)",
+      "url": "https://open.spotify.com/track/0Z8mp3OV0TLQ26Em637U0K"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 218794,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "should sleep",
         "url": "https://open.spotify.com/album/3h2UC5oK5JXSpzliYZJiY8"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 269907,
       "name": "should sleep",
       "url": "https://open.spotify.com/track/6zpMH3MUT8qINonUWks3rW"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5ckMdSLnCP1HEGe8clgU9B"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 218794,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/153ZcKdzrT4WjXc2mAaWdk"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
         }
       ],
-      "duration_ms": 560973,
-      "name": "Demain c'est loin - Live Studio",
-      "url": "https://open.spotify.com/track/5DVC4v4D2XvU9fBZWHrdeT"
+      "duration_ms": 278333,
+      "name": "Je danse le mia - Live Studio",
+      "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -663,46 +663,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "She Listen To Trap",
-        "url": "https://open.spotify.com/album/02Fde3nEdXojU5KqJn5Di3"
-      },
-      "artists": [
-        {
-          "name": "A.M",
-          "url": "https://open.spotify.com/artist/38thHiXEE2yx8OacMf89Sq"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Get It Done",
-          "url": "https://open.spotify.com/artist/7I1gH3qVSIyH7sE4l0dFVu"
-        }
-      ],
-      "duration_ms": 143103,
-      "name": "She Listen To Trap",
-      "url": "https://open.spotify.com/track/7IJNuqJ3lGE7qzxOQ9AMMS"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Reveal",
-        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
-      },
-      "artists": [
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 612361,
-      "name": "Eros",
-      "url": "https://open.spotify.com/track/2UtnVhNJlUc8mdQ4GoSQgx"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Good Brother",
         "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
       },
@@ -723,6 +683,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 612361,
+      "name": "Eros",
+      "url": "https://open.spotify.com/track/2UtnVhNJlUc8mdQ4GoSQgx"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Le d\u00e9part",
         "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 175020,
       "name": "Le d\u00e9part",
       "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "She Listen To Trap",
+        "url": "https://open.spotify.com/album/02Fde3nEdXojU5KqJn5Di3"
+      },
+      "artists": [
+        {
+          "name": "A.M",
+          "url": "https://open.spotify.com/artist/38thHiXEE2yx8OacMf89Sq"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Get It Done",
+          "url": "https://open.spotify.com/artist/7I1gH3qVSIyH7sE4l0dFVu"
+        }
+      ],
+      "duration_ms": 143103,
+      "name": "She Listen To Trap",
+      "url": "https://open.spotify.com/track/7IJNuqJ3lGE7qzxOQ9AMMS"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

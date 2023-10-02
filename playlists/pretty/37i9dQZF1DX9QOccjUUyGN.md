@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Arthurzin, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,641 likes - 74 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,640 likes - 74 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 14 | [PERSONNALITE](https://open.spotify.com/track/3qJtSjw9weAyQJfui2lmr6) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [PERSONNALITE](https://open.spotify.com/album/7kK3DVlw7NDEjiRNVseFLj) | 3:28 |
 | 15 | [O Que Você Quer De Mim?](https://open.spotify.com/track/716PQM0u5KAK2ZewFFvWNX) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Lil Gabi](https://open.spotify.com/artist/5mBUw2lTWpPs3bMddcvoLh), [JF](https://open.spotify.com/artist/4qPuG9huUJ72ZOtAmSfB7E) | [O Que Você Quer De Mim?](https://open.spotify.com/album/2AynRDQApq3gMqTV3RSa00) | 2:57 |
 | 16 | [Legado](https://open.spotify.com/track/18YvXoCpyH6v0aO5fSqzYy) | [Mc Vetão](https://open.spotify.com/artist/4xGAGNa46HT0pafsiecUQ5), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Legado](https://open.spotify.com/album/0VkE1P6cQNt4EWjeScxrRw) | 2:17 |
-| 17 | [Pensamentos](https://open.spotify.com/track/4AXymu1OMTWHoz8uKs3L97) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Acústico Mc Kadu](https://open.spotify.com/album/3r6mdGEm8tJU2XNZJ4P7Af) | 5:14 |
+| 17 | [Pensamentos](https://open.spotify.com/track/5sKbTLX0wj411siCFTJt0c) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Acústico Mc Kadu](https://open.spotify.com/album/2JIi58wXGDE1FACmt4ZH9n) | 5:14 |
 | 18 | [Niggas \(feat\. Dzalles\)](https://open.spotify.com/track/7hvyNLtgwCBIbMLF8uh3FE) | [BLACK MOB](https://open.spotify.com/artist/6fln1Tr6HEnvnYy4NqkaQu), [Dzalles](https://open.spotify.com/artist/1g6LF0uXFYCwtHPCx1qzTm) | [Niggas](https://open.spotify.com/album/12KhARbTyWcrqkkDt40p2k) | 2:58 |
 | 19 | [Quente](https://open.spotify.com/track/2XL6YKQxmeEQi4qRqmkPvW) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Mazza](https://open.spotify.com/artist/4Ptt8sy9DDGpt846oLz30S), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Quente](https://open.spotify.com/album/5nVWCIcpghFEhr6ddzEXQ9) | 2:50 |
 | 20 | [Mina Maluca](https://open.spotify.com/track/6LP2Bqu8fdCEw5iQNUqMXm) | [Mc Menor R7](https://open.spotify.com/artist/1SpUElkQMDn3NgGHPjxGKz), [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [DJ Theu](https://open.spotify.com/artist/6FF3Heb2v3FW6kMrW7EfT7) | [Mina Maluca](https://open.spotify.com/album/1FM3TXQgpfFtmOJ2cxsojk) | 3:24 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 73 | [Estava Escrito](https://open.spotify.com/track/60pyQknGXQnrnLX1rIHN7r) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Estava Escrito](https://open.spotify.com/album/0Iu4OkL8Y9AThCe1TIykmt) | 2:50 |
 | 74 | [Perfume Mais Caro](https://open.spotify.com/track/4thX4lgktnjxkHTniznxK8) | [DjMenorRB](https://open.spotify.com/artist/71uOnE19iET2zJ3TNzkG6X), [Pretão do Mt](https://open.spotify.com/artist/1UtfPD6oPcyJs6EqwJdt4e) | [Perfume Mais Caro](https://open.spotify.com/album/55zZHtvKCpn7OchaEl4Hp6) | 2:14 |
 
-Snapshot ID: `MCw5MDhiNWMwZDI0YjhlMWI0NGJkYWM3YjI0NWUzNGFlMDhhM2NiNDhi`
+Snapshot ID: `MCw2NjVhZjRjZDViNjg0YTE0MDgzODBkMjIxNTVmNjYzNDM2NTE3ZTUw`

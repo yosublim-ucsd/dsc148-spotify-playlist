@@ -1,12 +1,12 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 32801,
+  "num_followers": 32839,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGFhMzc4NmJjMmNlYzE4Mzc2YTg1ZTI3NDUyZjdiYTQwZTg1YmM5",
+  "snapshot_id": "MCxjZWY4MjI5ZDBkOWEyOWQ5MTYzMTFjZjEzMzBhMTkwYTk5NDRhZmM5",
   "tracks": [
     {
       "added_at": "2023-08-14 15:00:12",
@@ -1195,26 +1195,22 @@
     {
       "added_at": "2023-08-14 15:00:12",
       "album": {
-        "name": "Criminal (feat. Elsa y Elmar)",
-        "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
+        "name": "Colectivo Vacio",
+        "url": "https://open.spotify.com/album/1BWRMuZHdFBD9QwZWHJ0X9"
       },
       "artists": [
         {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
         },
         {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Ramiro Jota",
+          "url": "https://open.spotify.com/artist/643hBnrVfRzLm6Kz9YYfga"
         }
       ],
-      "duration_ms": 221042,
-      "name": "Criminal (feat. Elsa y Elmar)",
-      "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+      "duration_ms": 262506,
+      "name": "Ho!",
+      "url": "https://open.spotify.com/track/0DAJPhpwTrFE7pgcGJvD9k"
     }
   ],
   "unique_name": "Atardecer en la playa",

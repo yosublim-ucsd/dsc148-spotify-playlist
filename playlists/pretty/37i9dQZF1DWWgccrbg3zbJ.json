@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 153267,
+  "num_followers": 153757,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzE2OTVhOGJmZjQ2Nzc1MWNhYjBkMDc5MGNmZmU4ZDVlMzYzZTY5",
+  "snapshot_id": "MCxlMzM2YTI3YTcwM2JhNTIwOGNiNTBhNDNhOGMwZDZkNjlmM2Q5MjQw",
   "tracks": [
     {
       "added_at": "2023-09-20 12:15:02",
@@ -555,18 +555,26 @@
     {
       "added_at": "2023-09-20 12:15:02",
       "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
+        "name": "Mestres da Mpb",
+        "url": "https://open.spotify.com/album/1BhPF9HsYN397PY48XIuRt"
       },
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 77346,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/1xBNJg2dvZsmUM4yoBag9N"
+      "duration_ms": 391866,
+      "name": "Aquarela do Brasil (Participa\u00e7\u00e3o especial de Gilberto Gil e Caetano Veloso)",
+      "url": "https://open.spotify.com/track/6K9LWxm740uE2m94xspjm6"
     },
     {
       "added_at": "2023-09-20 12:15:02",
@@ -671,26 +679,18 @@
     {
       "added_at": "2023-09-20 12:15:02",
       "album": {
-        "name": "Mestres da Mpb",
-        "url": "https://open.spotify.com/album/1BhPF9HsYN397PY48XIuRt"
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
       },
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 391866,
-      "name": "Aquarela do Brasil (Participa\u00e7\u00e3o especial de Gilberto Gil e Caetano Veloso)",
-      "url": "https://open.spotify.com/track/6K9LWxm740uE2m94xspjm6"
+      "duration_ms": 77346,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/1xBNJg2dvZsmUM4yoBag9N"
     },
     {
       "added_at": "2023-09-20 12:15:02",

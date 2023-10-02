@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 419346,
+  "num_followers": 419454,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGM2OGIxNTJmZjFlYTFiNzkwYzI4MTRhNmE5YzM2YWUyYzhjOTI1",
+  "snapshot_id": "MCxiOWUzNzI2OGJkMDNkYzk1NDBmZTllYWM2OTE3ZTE1NDIzOWY4OThk",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Turn It Down",
-        "url": "https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4"
+        "name": "How The Hurtin' Goes",
+        "url": "https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly"
       },
       "artists": [
         {
-          "name": "Grant Gilbert",
-          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
+          "name": "Curtis Grimes",
+          "url": "https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP"
         }
       ],
-      "duration_ms": 192643,
-      "name": "Turn It Down",
-      "url": "https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF"
+      "duration_ms": 170896,
+      "name": "How The Hurtin' Goes",
+      "url": "https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "How The Hurtin' Goes",
-        "url": "https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly"
+        "name": "Turn It Down",
+        "url": "https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4"
       },
       "artists": [
         {
-          "name": "Curtis Grimes",
-          "url": "https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP"
+          "name": "Grant Gilbert",
+          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
         }
       ],
-      "duration_ms": 170896,
-      "name": "How The Hurtin' Goes",
-      "url": "https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa"
+      "duration_ms": 192643,
+      "name": "Turn It Down",
+      "url": "https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Bridges To Burn",
+        "url": "https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Nick Hickman",
+          "url": "https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 190171,
+      "name": "Bridges to Burn",
+      "url": "https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Boy From Anderson County",
         "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 244290,
       "name": "Boy From Anderson County",
       "url": "https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/23IQqam0aRAKSCLjOv9hlu"
-      },
-      "artists": [
-        {
-          "name": "Grace Tyler",
-          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
-        }
-      ],
-      "duration_ms": 186993,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/7mEK8ZfXB69HKYZrOnV9CD"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Bridges To Burn",
-        "url": "https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G"
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/23IQqam0aRAKSCLjOv9hlu"
       },
       "artists": [
         {
-          "name": "Nick Hickman",
-          "url": "https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h"
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
         }
       ],
-      "duration_ms": 190171,
-      "name": "Bridges to Burn",
-      "url": "https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt"
+      "duration_ms": 186993,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/7mEK8ZfXB69HKYZrOnV9CD"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Barstool Boys",
-        "url": "https://open.spotify.com/album/0YDTwf2SqOD0oAKz5qrYZY"
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
       "artists": [
         {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 165105,
-      "name": "Barstool Boys",
-      "url": "https://open.spotify.com/track/72F4ZWhDZ5Raxt4TyWjS1L"
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Sound",
-        "url": "https://open.spotify.com/album/4QPEKljb8KhOoKe2AnRXKW"
+        "name": "Barstool Boys",
+        "url": "https://open.spotify.com/album/0YDTwf2SqOD0oAKz5qrYZY"
       },
       "artists": [
         {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
         }
       ],
-      "duration_ms": 275650,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/7sE5NnB9Hy85l8T7VPXrle"
+      "duration_ms": 165105,
+      "name": "Barstool Boys",
+      "url": "https://open.spotify.com/track/72F4ZWhDZ5Raxt4TyWjS1L"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/4QPEKljb8KhOoKe2AnRXKW"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
         }
       ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+      "duration_ms": 275650,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/7sE5NnB9Hy85l8T7VPXrle"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/3yJ9rQ9PHhdCGzCbTWvmlO"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "duration_ms": 196357,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/3uE5rVJPkJilTKs6ixpI6B"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "9 To 5",
         "url": "https://open.spotify.com/album/5kicg2H6THrgsSoW3SAA4v"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 136358,
       "name": "9 To 5 (feat. Kylie Frey)",
       "url": "https://open.spotify.com/track/1fVv9DVpLNiobkGlE1LrtH"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/3yJ9rQ9PHhdCGzCbTWvmlO"
-      },
-      "artists": [
-        {
-          "name": "Don Louis",
-          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
-        }
-      ],
-      "duration_ms": 196357,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/3uE5rVJPkJilTKs6ixpI6B"
     }
   ],
   "unique_name": "Texas Country Now",

@@ -4,7 +4,7 @@
 
 > Coração na Geladeira 2 e os funks mais 🔑 do Brasil\. Foto: Mc Kevin, MC Hariel
 
-202 songs - 10 hr 57 min
+203 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Chamo Teu Vulgo Malvadão](https://open.spotify.com/track/4mdlehe2znCTAzlFhrOa09) | [mc jhenny](https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6), [DJ KOSTA 22](https://open.spotify.com/artist/5cS7sjRxRrlA7v6uWpEoTb), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Chamo Teu Vulgo Malvadão](https://open.spotify.com/album/1UFSko3MbHV1QOsUQBHQGE) | 1:58 | 2021-12-31 | 2022-04-23 |
 | [Colocando Nela](https://open.spotify.com/track/5uvEyd73MMFvW2WuEghabn) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx) | [Colocando Nela](https://open.spotify.com/album/1Q3x5tOOqIGGRLBjQlM0zs) | 2:20 | 2021-12-31 | 2022-06-18 |
 | [Coração Amoleceu](https://open.spotify.com/track/1JQ1ylL2JEjC6Ib7IJgOvS) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9) | [7 Chaves](https://open.spotify.com/album/1ZewMJPsSXUArv4k8qO4pm) | 2:41 | 2023-02-03 | 2023-03-18 |
-| [Coração amoleceu \- Radio Edit](https://open.spotify.com/track/7G6eb3AY2UAQBcAtITps4V) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Um Pôr do Sol Na Praia \- Sucessos de Verão](https://open.spotify.com/album/4qP08CaJgrs9AYUZGqwIY7) | 2:41 | 2023-03-17 |  |
+| [Coração amoleceu \- Radio Edit](https://open.spotify.com/track/27XLE4kttnp5YPFJVqUZ8C) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Funk Verão 2023](https://open.spotify.com/album/04FLfPwb0hAYgcn1Vjt0hh) | 2:41 | 2023-09-29 |  |
+| [Coração amoleceu \- Radio Edit](https://open.spotify.com/track/7G6eb3AY2UAQBcAtITps4V) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Um Pôr do Sol Na Praia \- Sucessos de Verão](https://open.spotify.com/album/4qP08CaJgrs9AYUZGqwIY7) | 2:41 | 2023-03-17 | 2023-10-02 |
 | [Coração na Geladeira 2](https://open.spotify.com/track/4AKsSRxe6z6woOAsXr5gVA) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [O Menino Ainda Encanta a Quebrada](https://open.spotify.com/album/0ZYbCunZV39UwLahPHMc5O) | 2:24 | 2023-07-28 |  |
 | [DANÇARINA](https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 1:50 | 2022-02-18 | 2022-08-06 |
 | [Deboche](https://open.spotify.com/track/1ZW2jCyFX0WrZfIJjkWq3j) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Deboche](https://open.spotify.com/album/6CFOhd35STC89wMsezSIvR) | 3:56 | 2021-12-31 | 2022-02-05 |

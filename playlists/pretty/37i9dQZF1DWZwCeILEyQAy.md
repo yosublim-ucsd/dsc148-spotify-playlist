@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Glorilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,415 likes - 80 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,453 likes - 80 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 79 | [Like Dat \- Remix](https://open.spotify.com/track/5o7gax2i8xXhrJyk2TA5YJ) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Like Dat \(Remix\)](https://open.spotify.com/album/2uElhN7gFctTBwTmESMxcj) | 2:22 |
 | 80 | [Saturday \(feat\. Cozz\)](https://open.spotify.com/track/7lam0WhGxAfl0Ax2wy4hhO) | [NCognita](https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI) | [Saturday \(feat\. Cozz\)](https://open.spotify.com/album/0jd3Es2wqZlmNw67YArtaw) | 2:34 |
 
-Snapshot ID: `MCw3ZDM3MDQwZTdmNWVmNGUwMGI0ZDUwMWQ4ZTU4NWU1NzA1NWExNjQ5`
+Snapshot ID: `MCxiY2M3MzRkZTA3ZGY4YzBmMjY3MTE3OGQ1ZDgxM2ZmZDcwNjE4ZjMz`

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-5,986 songs - 9 day 10 hr 59 min
+5,988 songs - 9 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2063,7 +2063,7 @@
 | [Gloombop](https://open.spotify.com/track/5wgZKHeI35mIvcSUdhsbDT) | [Say Ray Ray](https://open.spotify.com/artist/6Zg46UvoybmqNgOr3CVDRF) | [Gloombop](https://open.spotify.com/album/1nhVPQBgwwabnU5xraB6vG) | 2:13 | 2022-12-23 |  |
 | [gloomy forecast](https://open.spotify.com/track/0JOOhy4DD2DhsDUuFLcxKY) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [gloomy forecast](https://open.spotify.com/album/7AwLVPooBNokzJzlLyn91r) | 3:35 | 2022-01-14 | 2022-09-02 |
 | [Glory](https://open.spotify.com/track/7aiYEVjizYPNasyyHUinBE) | [Goodge](https://open.spotify.com/artist/7ChpiDDHfolxNhgmjoPnJB) | [Glory](https://open.spotify.com/album/3Vy9ciHW8yuQncCxOKfI2I) | 3:09 | 2021-09-12 | 2022-04-08 |
-| [Glory](https://open.spotify.com/track/3F7VdgQCmDTXscfrvnBdkJ) | [Neo Era](https://open.spotify.com/artist/1Lczbyf24WccxMnd8Hj3qv) | [Glory](https://open.spotify.com/album/4scanwFuOK1YekVfldiyUv) | 1:47 | 2023-01-13 |  |
+| [Glory](https://open.spotify.com/track/3F7VdgQCmDTXscfrvnBdkJ) | [Neo Era](https://open.spotify.com/artist/1Lczbyf24WccxMnd8Hj3qv) | [Glory](https://open.spotify.com/album/4scanwFuOK1YekVfldiyUv) | 1:47 | 2023-01-13 | 2023-10-02 |
 | [Glory](https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Glory](https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy) | 3:07 | 2022-06-03 | 2022-09-30 |
 | [Glow](https://open.spotify.com/track/2HxMHcxPYOxJYMZFRTD1x4) | [Toru](https://open.spotify.com/artist/5iwNavwFcSPmXns3TquMOz) | [Glow](https://open.spotify.com/album/0LAxxIZo4UYU2qXUxpLYPm) | 1:50 | 2022-08-05 | 2022-11-18 |
 | [Glowing Hearts](https://open.spotify.com/track/0ntg5JcuN1rR5hbnsMW8KZ) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Glowing Hearts](https://open.spotify.com/album/7g0A5LGS2GQNYqrZbAzv3P) | 2:35 | 2022-08-05 | 2022-11-18 |
@@ -2476,6 +2476,7 @@
 | [Imagined Interactions](https://open.spotify.com/track/3RfrXAjlrL4dMVZvWfuJpl) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Imagined Interactions](https://open.spotify.com/album/1JOQJqqnAmTQMb2snH7uiL) | 2:20 | 2021-06-01 | 2022-03-11 |
 | [Imbalance](https://open.spotify.com/track/3FHLMmfB4CBGJYUgaCV4tL) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Imbalance](https://open.spotify.com/album/2FSxtuVkmxfapO4b5xVl1e) | 2:45 | 2021-12-03 | 2022-06-24 |
 | [Immerse](https://open.spotify.com/track/1wHXneKRmErrHWlom0AsZn) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy) | [Immerse](https://open.spotify.com/album/4pUtyMFtLyM9dVC9ZO13oa) | 2:05 | 2022-09-30 | 2023-01-13 |
+| [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 | 2023-09-29 |  |
 | [impeccable pace](https://open.spotify.com/track/3wveUrogtFnpTALwYSukap) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [impeccable pace](https://open.spotify.com/album/2vjmJlKkRC3hSJdMitHVvx) | 2:24 | 2023-07-27 |  |
 | [Impermanence](https://open.spotify.com/track/1RBsx4vh4C75cJlyvbyVDg) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy), [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs) | [Impermanence](https://open.spotify.com/album/5nilyo3i4wTisK8BEpQ4MK) | 2:20 | 2019-05-26\* | 2020-10-21 |
 | [Imposter](https://open.spotify.com/track/2xCYIs8abLgrgm47SFMlib) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Imposter](https://open.spotify.com/album/5SZYGrc8kIwaq1NdEZbdS0) | 2:10 | 2022-04-23 | 2022-09-16 |
@@ -4106,6 +4107,7 @@
 | [Profesor](https://open.spotify.com/track/70A2dr0LJoFAmplOmYqdkn) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Profesor](https://open.spotify.com/album/5bsY0eNhMXQfwCumMfSyXq) | 2:48 | 2021-12-03 | 2022-06-10 |
 | [Profound](https://open.spotify.com/track/5h9DOVwUB0JNCFfraUnHi2) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Profound](https://open.spotify.com/album/2AtJaAPpAnNHgI0MyZCuK8) | 2:27 | 2022-08-26 | 2022-11-20 |
 | [Profound](https://open.spotify.com/track/6Zr4CwfF40kXIaIlcx8Vck) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Profound](https://open.spotify.com/album/6R76mNhYg7FYVLHmDBrMlT) | 2:27 | 2022-11-18 | 2022-12-03 |
+| [projection](https://open.spotify.com/track/5ot2Nv3COru7DqNd8PaFy5) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [projection](https://open.spotify.com/album/64wr6u8ng4pFUfCvtLIbJ8) | 2:38 | 2023-09-29 |  |
 | [Promenade](https://open.spotify.com/track/20OX9cemZtheSANAAmNiur) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Promenade](https://open.spotify.com/album/5CVsld8rYgVVUPI03FAlSd) | 2:21 | 2022-11-11 | 2022-12-16 |
 | [Promenade Walk](https://open.spotify.com/track/07yGA4qy5p5g9Linlhg5Bf) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Promenade Walk](https://open.spotify.com/album/69Acx9fVN3B82xWTUHM2EN) | 2:05 | 2023-06-07 | 2023-08-30 |
 | [Promises](https://open.spotify.com/track/672hkrNA8Nj70nmXh94Ry3) | [TRIBEZ.](https://open.spotify.com/artist/5xokgYo3SoZ7alvWyTrWJ8) | [Promises](https://open.spotify.com/album/2s52BSLCpV1xEGiJ0KayOn) | 2:32 | 2022-04-08 | 2022-08-19 |
@@ -4383,7 +4385,7 @@
 | [Saguaro](https://open.spotify.com/track/51Jyy3gcrLQ9VnZSGhJyKk) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v) | [Saguaro](https://open.spotify.com/album/35gbBNiVEsPaKpujBZR7EB) | 2:00 | 2022-11-18 | 2022-11-25 |
 | [Saguaro](https://open.spotify.com/track/0VuLT2iRu3ne9XBBtqAqWw) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Saguaro](https://open.spotify.com/album/0yUfisoNdH3sQrVz0GEPZ3) | 2:00 | 2022-08-19 | 2022-11-20 |
 | [Sail](https://open.spotify.com/track/2UoBC0BW1IAylLqjoFcb8X) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Etherealplcs](https://open.spotify.com/artist/0Xw0uyIbAWD1B7RZdUGHl7) | [Sail](https://open.spotify.com/album/39oKw9IrGpEpBmDT0HOZDE) | 2:36 | 2022-06-24 | 2022-10-14 |
-| [Sail Slow](https://open.spotify.com/track/5RgT76SQWQY6ACdPaWx1ZW) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Sail Slow](https://open.spotify.com/album/7EHu08RYTkNNYcVEyq278d) | 2:23 | 2022-10-28 |  |
+| [Sail Slow](https://open.spotify.com/track/5RgT76SQWQY6ACdPaWx1ZW) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Sail Slow](https://open.spotify.com/album/7EHu08RYTkNNYcVEyq278d) | 2:23 | 2022-10-28 | 2023-10-02 |
 | [Sailing](https://open.spotify.com/track/01IIKtN9jq8zK29nhgcL8m) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Sailing](https://open.spotify.com/album/5w0JXSOyjwTqoGfXxhRRxg) | 1:36 | 2020-01-10 | 2021-04-03 |
 | [Sailing Again](https://open.spotify.com/track/1MKt41aRnc3WPsgBsDnsJw) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [Sailing Again](https://open.spotify.com/album/2nZAMDS4D0pnSRr73vniCn) | 2:45 | 2022-02-14 | 2022-07-22 |
 | [Sailing into the Sunset](https://open.spotify.com/track/0qN6EH6aJmGA7VBNfRufuE) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Sandy Beaches](https://open.spotify.com/album/0aKrCgVIalq3c97RFmtsDu) | 1:34 | 2019-09-12 | 2021-07-04 |

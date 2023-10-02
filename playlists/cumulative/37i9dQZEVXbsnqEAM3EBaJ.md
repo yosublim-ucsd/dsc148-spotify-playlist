@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-861 songs - 2 day 11 hr 3 min
+862 songs - 2 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -696,6 +696,7 @@
 | [Sultans Of Swing \- Live At The Rainbow / Dec 1979](https://open.spotify.com/track/6rJUHPNJ6dHnqU6mrk3C1O) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Live 1978 \- 1992](https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk) | 6:46 | 2023-09-15 |  |
 | [Superstar \(feat\. Remington Leith\)](https://open.spotify.com/track/0k7V0datb9PpWRDGkB0xzq) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO), [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [Remington Leith](https://open.spotify.com/artist/5b5pXiq8oJIyU8OZWpwOWL) | [DOGMA](https://open.spotify.com/album/3Pjw4lSnuJesklPH3g3JcE) | 3:08 | 2023-04-28 | 2023-05-28 |
 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga & Stevie Wonder\)](https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 7:22 | 2023-09-29 |  |
+| [Sweet Sounds Of Heaven \(feat\. Lady Gaga & Stevie Wonder\) \- Edit](https://open.spotify.com/track/6HCUMOcGa4LyjcBXjl7z0Y) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 5:06 | 2023-09-29 |  |
 | [Symphony No\. 4 In F Minor, Op\. 36, TH.27: 4\. Finale \(Allegro con fuoco\)](https://open.spotify.com/track/6dzKOpapRMDE96Z0EtsGmk) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Mendelssohn, Tchaikovsky & Grieg: Philharmonia Orchestra](https://open.spotify.com/album/43V391m2NAWxZNuaCROxu2) | 8:53 | 2023-03-03 | 2023-03-05 |
 | [Symphony No\. 4 In F Minor, Op\. 36, TH.27: 4\. Finale \(Allegro con fuoco\)](https://open.spotify.com/track/6ubHw8dLBSY9znTNuUu9Pk) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Mendelssohn, Tchaikovsky & Grieg: Philharmonia Orchestra](https://open.spotify.com/album/1WciFFl7pWpeX4dG2OihtF) | 8:53 | 2023-03-10 | 2023-03-23 |
 | [S’old](https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [S'old](https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef) | 2:43 | 2023-09-01 | 2023-09-13 |

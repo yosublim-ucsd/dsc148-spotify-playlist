@@ -4,7 +4,7 @@
 
 > La playlist officielle de l'émission Nouvelle École Saison  2, disponible sur Netflix.
 
-48 songs - 2 hr 20 min
+49 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [BAGARRE \- Nouvelle École](https://open.spotify.com/track/4rgY6aiDHgEiRG6pZvfBPf) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG), [Bayass](https://open.spotify.com/artist/0PT8CEHQdV4RtZfgpEdSgb), [LEDOS](https://open.spotify.com/artist/3YWUSYVX6bCnVZBaXEUwbH), [Rethno](https://open.spotify.com/artist/2buxXXrtBJJ480Nwmw95yp), [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR) | [BAGARRE \- Nouvelle École](https://open.spotify.com/album/10oTjqrL31dPKWJlZXfj3H) | 4:45 | 2023-05-31 |  |
 | [Benze](https://open.spotify.com/track/3fwXNaxlslH41y3a47qela) | [Driss Sks](https://open.spotify.com/artist/2sbCB581cl6ZarOL5cU7t7) | [Benze](https://open.spotify.com/album/3w6eziQRJ2GqZEk1h03IKH) | 3:05 | 2023-05-31 |  |
 | [Chaud – Nouvelle école](https://open.spotify.com/track/4Vb1ztihzCqdC7szS4JHxs) | [LEDOS](https://open.spotify.com/artist/3YWUSYVX6bCnVZBaXEUwbH) | [Chaud – Nouvelle école](https://open.spotify.com/album/1B6E8tfhye3fskhTbEWNBh) | 2:45 | 2023-05-31 |  |
-| [Come On](https://open.spotify.com/track/557X9hpi0tWsrCeD1yneDe) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Come On](https://open.spotify.com/album/7MMUOLZJ2g9ph19pplEkSy) | 2:28 | 2023-05-31 |  |
+| [Come On](https://open.spotify.com/track/557X9hpi0tWsrCeD1yneDe) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Come On](https://open.spotify.com/album/7MMUOLZJ2g9ph19pplEkSy) | 2:28 | 2023-05-31 | 2023-10-02 |
+| [Come On](https://open.spotify.com/track/6R6acFTljyYK1sww9BIcOo) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Come On](https://open.spotify.com/album/4TVGVePfkd6hndEEAQqfTU) | 2:28 | 2023-05-31 |  |
 | [Coucou](https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jour avant caviar](https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF) | 2:41 | 2023-05-31 |  |
 | [Crois\-moi \(feat\. Ninho\)](https://open.spotify.com/track/69I4Eynuxdj6LEmpvG56u6) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Architecte](https://open.spotify.com/album/0QOCs2S4yp3M47sNZGCUqY) | 3:03 | 2023-05-31 |  |
 | [Célèbre](https://open.spotify.com/track/3hHXDKVOfeHdqNoj9oDr8n) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Frenetik](https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21) | [Célèbre](https://open.spotify.com/album/10XkYe39UD8iIiuP6c4WRS) | 2:56 | 2023-05-31 |  |

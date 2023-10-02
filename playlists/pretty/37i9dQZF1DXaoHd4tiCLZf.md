@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,509 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,602 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,7 +197,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 187 | [Ce soir je m'en vais](https://open.spotify.com/track/7ijmaSSgw2knnk6GcsUa6N) | [Slove](https://open.spotify.com/artist/3LCptyvFjmOU8AU0ggJpOK), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Le Touch](https://open.spotify.com/album/5WF63jny8ZKaGAgbrO3va7) | 3:24 |
 | 188 | [Pretty Boy](https://open.spotify.com/track/7bW47X2ikA5KyxFvjcMtSo) | [Cavale](https://open.spotify.com/artist/3pgB7XxnJc68c7AsDL23DW) | [Pretty Boy](https://open.spotify.com/album/2jJqXBjy7QAHI4EQIhovZ5) | 3:48 |
 | 189 | [Le temps est bon](https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn) | [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Le temps est bon](https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw) | 3:29 |
-| 190 | [Rendez Vous](https://open.spotify.com/track/1BrfrYcD9wPze2HEV4QQWd) | [La Plage](https://open.spotify.com/artist/718qvmLQ9ih3HVRiFHVIVg) | [Rendez Vous / Mark](https://open.spotify.com/album/77jhXNxhqM1hqCfmnlX3jb) | 3:20 |
+| 190 | [Rendez Vous](https://open.spotify.com/track/0TZdKfPAUslDgAVkb9bnQK) | [La Plage](https://open.spotify.com/artist/718qvmLQ9ih3HVRiFHVIVg) | [Rendez Vous / Mark](https://open.spotify.com/album/1vCuBjzH8P7n1Has6wKrdU) | 3:20 |
 | 191 | [Beach Ball](https://open.spotify.com/track/5f7fOfoDAF6geSNb4tL5za) | [Bordo](https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6) | [1978](https://open.spotify.com/album/0U4O3WRWTi1vIzcKuvh4nQ) | 3:30 |
 | 192 | [Ces bottes sont faites pour marcher](https://open.spotify.com/track/24wWN7iOuZoSai0V5O9vSu) | [Muguette](https://open.spotify.com/artist/6HydvbnMuprLdr61mcXE2P) | [Moïra\- Denise Brousseau\- Muguette](https://open.spotify.com/album/4YeKEv8W1FRubwMzgdtSGW) | 2:34 |
 | 193 | [Keep It Close to Me \- Cyril Hahn Remix](https://open.spotify.com/track/0A7TZtpIH7a3kYnVOkHfsN) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Keep It Close to Me \(Cyril Hahn Remix\)](https://open.spotify.com/album/5tj2y4bz4ZFEHoGmLMDs5l) | 4:23 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MCw0Njk3OTFiMTdjNWQ5ZjdmZjZiNjAwOTU0YjEzOTRhODcwMDdkYzY0`
+Snapshot ID: `MCxhNDE4N2VlM2FkNTFiNWMyNzFmMDViOGY3Y2I5OGY2ZTkxOTNmZWRj`

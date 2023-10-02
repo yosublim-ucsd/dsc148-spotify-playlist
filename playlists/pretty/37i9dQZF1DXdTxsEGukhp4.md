@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 ### [Buzz Tracker \#バズトラ](https://open.spotify.com/playlist/37i9dQZF1DXdTxsEGukhp4)
 
-> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: SIX LOUNGE
+> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: マルシィ
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,304 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,374 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [Ura\-Shuden](https://open.spotify.com/track/6CR6gbIvujlQ2xyhLUSHgp) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Ura\-Shuden](https://open.spotify.com/album/2EBqSBPMP3cORqb3FT4PrT) | 3:27 |
 | 50 | [Super funk market](https://open.spotify.com/track/3HnMGHU13H5oeNYjbKw8Eb) | [.ENDRECHERI.](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [Super funk market](https://open.spotify.com/album/28VOgfZgmEysQj9UdgjoNP) | 3:49 |
 
-Snapshot ID: `MCw5OTFiNjdmZDY1Y2E5ZTVhZTVkMzExNGFkNmVhNTRiMGE0NGIwZmQ2`
+Snapshot ID: `MCxmZjMwNjdiOTVkMjhmZWJjZDNiNTUyZDVkNTE1MmIwOGI1NDQ2MDM4`

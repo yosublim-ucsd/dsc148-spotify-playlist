@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-191 songs - 11 hr 19 min
+192 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Clear Out](https://open.spotify.com/track/4GRFscv6uZNwPKLPlp5cw4) | [Redwood](https://open.spotify.com/artist/0cKmBt4m9Wl976sKaeg9Kg) | [Just for Fun](https://open.spotify.com/album/10XvxRkYCKrFvT87lMP5qc) | 3:03 | 2023-06-08 |  |
 | [Come And Go](https://open.spotify.com/track/0xEbe3SKLivmI73r2T8lDS) | [Brighter Later](https://open.spotify.com/artist/4JeVI2Ch0Dxv21e8h2Qed4) | [The Wolves](https://open.spotify.com/album/7mvIUE3X9i7KGaMUWQyfis) | 3:55 | 2023-06-08 |  |
 | [Come Back](https://open.spotify.com/track/1Vc1O9TbmFhAaNYRry9sc3) | [Lean](https://open.spotify.com/artist/167WV6cgZZKO6Mog8MomA0) | [Years \(Edited Version\)](https://open.spotify.com/album/4KssxP6KdoZECE9pKpJBEI) | 3:14 | 2023-06-08 |  |
-| [Composure](https://open.spotify.com/track/339ivDmvy4LAascGvxhgOx) | [Argonaut & Wasp](https://open.spotify.com/artist/5FE0B5zV9y7T5OzkiDkBG8) | [Composure](https://open.spotify.com/album/3u45SKEwwFtHd3Di9Yqmmn) | 3:04 | 2023-06-08 |  |
+| [Composure](https://open.spotify.com/track/6dZ1hcMmTSyGubP2Rs1a0b) | [Argonaut & Wasp](https://open.spotify.com/artist/5FE0B5zV9y7T5OzkiDkBG8) | [STARLIGHT 99](https://open.spotify.com/album/5bDVacUvfiwSkZAKfCVQkS) | 3:04 | 2023-06-08 |  |
+| [Composure](https://open.spotify.com/track/339ivDmvy4LAascGvxhgOx) | [Argonaut & Wasp](https://open.spotify.com/artist/5FE0B5zV9y7T5OzkiDkBG8) | [Composure](https://open.spotify.com/album/3u45SKEwwFtHd3Di9Yqmmn) | 3:04 | 2023-06-08 | 2023-10-02 |
 | [Concrete](https://open.spotify.com/track/14moR256JoSCPnJrirQXYC) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 4:02 | 2023-06-08 |  |
 | [Confetti](https://open.spotify.com/track/3LazyuEk6gqTiY1xUZQPoX) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Confetti \- Single](https://open.spotify.com/album/6eVtjdXdZRMgL7sZOoD6Y3) | 3:10 | 2023-06-08 |  |
 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 | 2023-06-08 |  |

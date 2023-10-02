@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: j.flowers.mp3 & Ralph Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,329 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,373 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 47 | [Brighter Days](https://open.spotify.com/track/4HDKvFUmzTcpIwtNz9PoXt) | [Georgia Chanel](https://open.spotify.com/artist/5NIKNQjGVoCZduiBmn5gYw) | [Brighter Days](https://open.spotify.com/album/2osDMytd1wW61UQbzMfyjh) | 2:59 |
 | 48 | [Capri\-Sun](https://open.spotify.com/track/5r5T65MwdI0mCYSnFamnqc) | [AE](https://open.spotify.com/artist/4UWcOm40hIpudoHIcpQQxg) | [Capri\-Sun](https://open.spotify.com/album/6TN0q8rUBBC375qtkbbBi9) | 2:31 |
 | 49 | [reLOVE](https://open.spotify.com/track/7f3Gn9SavMdWThZaTps2Gq) | [Loome](https://open.spotify.com/artist/5uacIDTlT52eDbiGbT1Le8) | [reLOVE](https://open.spotify.com/album/055E5mkwTswEkTJkbbu2aW) | 3:26 |
-| 50 | [Weak](https://open.spotify.com/track/1yX7JkdUfI1FG4ztLnMOwA) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK), [Rarelyalways](https://open.spotify.com/artist/3c5Rhv29mDcpjzPxpwxdb9) | [Weak](https://open.spotify.com/album/6NXqG9RAlFQcJAUx0ZYyBy) | 4:08 |
+| 50 | [Weak](https://open.spotify.com/track/1OBbroydTzjTpLMxTkQKeV) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK), [Rarelyalways](https://open.spotify.com/artist/3c5Rhv29mDcpjzPxpwxdb9) | [Warped Soul](https://open.spotify.com/album/6fmZMYYSkKtMlNpbZPvfVQ) | 4:08 |
 | 51 | [Be My Guest](https://open.spotify.com/track/1qWBrP1q6NXXpQYYlryCFg) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Be My Guest](https://open.spotify.com/album/4n5ryJWx1DfqljLZp6JH9m) | 2:56 |
 | 52 | [Sad](https://open.spotify.com/track/6WQvuO0bHCGD6KtQbbtRXB) | [Nikhil Beats](https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR) | [Sad/Happy](https://open.spotify.com/album/5c6BxYsAjDottoa6nZ75cx) | 3:34 |
 | 53 | [Only One on Earth](https://open.spotify.com/track/7JGK2GO4Sv3KRbbtdmuTjI) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Only One on Earth](https://open.spotify.com/album/3RySD1bu8wmJDRKcOoD8wj) | 2:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Planefield2](https://open.spotify.com/track/5qI36xa23gmaoOEX264KdX) | [Gonçalo BC](https://open.spotify.com/artist/33ggho2vYzjpgOqdjzbSvi) | [Planefield2](https://open.spotify.com/album/16gZmN9kjhpRwrPgT21inq) | 4:14 |
 | 80 | [Uncut Gems](https://open.spotify.com/track/6wfXFEikmlL1e7VJpOtwhu) | [Odd Numbers](https://open.spotify.com/artist/32JiqL3jyFqx0K8osNYKU6), [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Uncut Gems](https://open.spotify.com/album/1bdbYgjDWdQx23SW3b5ARY) | 2:57 |
 
-Snapshot ID: `MCxkMzQyYmY3MmRhYmRkMWZkN2NhZDhmMzQyMjAyNTY3Yzc5YmM4ZTVj`
+Snapshot ID: `MCwwODg5YzdiMGVmODBhZmNhMThkMGUyNTNjYTY2YzY3NTgzYTc2NDlk`

@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno, Big One & Rusherking.
 
-366 songs - 23 hr 31 min
+367 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A un Milimetro de Ti / Tan Natural](https://open.spotify.com/track/0b3ecgOYbtZpuxM45S7PVf) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Sergio Torres](https://open.spotify.com/artist/20RFfhUr4ywekB37FCjaqW) | [A un Milimetro de Ti / Tan Natural](https://open.spotify.com/album/5aa9yk905wXc6nyZ6mMMLh) | 5:03 | 2022-08-12 | 2022-09-10 |
 | [Adicto A Ti](https://open.spotify.com/track/0Ldh6OMRNPUAkDazVwnKWP) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 4:06 | 2021-12-24 | 2023-05-07 |
 | [Adios / El Frio de Tu Adios / Tu No Sospechas / Con Cada Beso / Venganza Leta](https://open.spotify.com/track/6xb6YQgMFFCproC0rjWU3N) | [Banda Express](https://open.spotify.com/artist/7tqwTqZQXmwtlvj4WdsGUe) | [Letal / Pasión de Bailarines](https://open.spotify.com/album/2YzlZeKSDrm7IIalP3zbpD) | 7:57 | 2021-12-24 | 2022-07-16 |
+| [Adiós, Me Voy](https://open.spotify.com/track/7iPwAA5D5zfVVk8wZQ5gh9) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Adiós, Me Voy](https://open.spotify.com/album/3tNsYn3hQPc3ZfG7HPiRNq) | 3:57 | 2023-09-29 |  |
 | [Aguardiente](https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR) | 3:19 | 2023-08-25 |  |
 | [Aguardiente](https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT) | 2:32 | 2022-05-27 |  |
 | [Ahora mírame](https://open.spotify.com/track/1TKwvpH6WFOaHWsBnYTSaK) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pidan que baje el volumen](https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC) | 4:34 | 2023-09-15 |  |
@@ -223,7 +224,7 @@
 | [No Me Mientas](https://open.spotify.com/track/0mYPt9hLmZZvqWAbR9SdNj) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/6F1Z5d0Hha07l3sfj2PrYh) | 3:59 | 2023-03-17 |  |
 | [No Me Mientas](https://open.spotify.com/track/1jtPZTHgxsLZkPKdql9GyH) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Snagre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 3:59 | 2021-12-24 | 2023-03-12 |
 | [No Se Va](https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Se Va](https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ) | 3:40 | 2022-12-07 | 2023-08-19 |
-| [No Seas Cruel](https://open.spotify.com/track/3lZivt5mGd2zxX1nXanxIU) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Seas Cruel](https://open.spotify.com/album/3gWJonwG7QvCtRR7hjD2Fg) | 3:56 | 2022-11-25 |  |
+| [No Seas Cruel](https://open.spotify.com/track/3lZivt5mGd2zxX1nXanxIU) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Seas Cruel](https://open.spotify.com/album/3gWJonwG7QvCtRR7hjD2Fg) | 3:56 | 2022-11-25 | 2023-10-02 |
 | [No Te Creas Tan Importante](https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Para Rato!](https://open.spotify.com/album/7zTXqSdI99FE4rYiRugOYQ) | 3:47 | 2021-12-24 | 2023-06-13 |
 | [No Te Veo](https://open.spotify.com/track/0lQTFVq596D7L1F7lskXHx) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [No Te Veo](https://open.spotify.com/album/4TSncY2d4AieDobAx7xGIM) | 4:27 | 2022-02-18 | 2022-06-02 |
 | [No\_se\_ve.mp3](https://open.spotify.com/track/6MZF2xNdjG24IXAVxFJNg9) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [No\_se\_ve.mp3](https://open.spotify.com/album/6i4DjgJTPYPDRPzuirxQPV) | 2:15 | 2023-07-07 | 2023-08-14 |

@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-594 songs - 1 day 0 hr 17 min
+597 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Hot Stones](https://open.spotify.com/track/16rYkrvniJ5h40ajA5bKpI) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/3dG4Xh1b0BIgLUkRfefhJ1) | 1:45 | 2023-09-08 |  |
 | [Hovercraft](https://open.spotify.com/track/0KMR1u19KzGTtRxc6N7FCZ) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Joke's On Us](https://open.spotify.com/album/1Luifp19S1RPreTk3D3vur) | 2:30 | 2022-02-17 | 2023-09-09 |
 | [human anatomy](https://open.spotify.com/track/4UL6Rt5I5des7YDW4nwrUD) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [human anatomy](https://open.spotify.com/album/4X5yOQEfWCZZlPnXPPYQAK) | 2:20 | 2023-09-08 |  |
+| [Hush](https://open.spotify.com/track/4AAxteXXwBqVchz26932uB) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Hush](https://open.spotify.com/album/4YcojIOuGGewmDv8jMKKay) | 2:24 | 2023-09-29 |  |
 | [I Can Feel It](https://open.spotify.com/track/3bFQS0uqG7zJ830fYLkKly) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [ZeDe](https://open.spotify.com/artist/0xtxiEdr8VEnERqcadfVNK) | [I Can Feel It](https://open.spotify.com/album/3DdGNzsi4JXy8BTFVgqjjq) | 1:42 | 2023-09-08 |  |
 | [I hear ya](https://open.spotify.com/track/1JBwa5F6ooAsnyqF0EJSGj) | [Wickr Light](https://open.spotify.com/artist/1O6Otzn0IiJCXJ1v953CoY) | [I hear ya](https://open.spotify.com/album/2W2RbeXcXpLqYJQAgQb0Kd) | 1:57 | 2023-09-08 |  |
 | [I loff you](https://open.spotify.com/track/7yfaO25yXHqLsQVZuAP214) | [IzaBeats](https://open.spotify.com/artist/4DtFzX8vn47Rdc5c4fHcEk) | [I loff you](https://open.spotify.com/album/08YlwEjC8omTL6IM2rpvAp) | 1:56 | 2023-09-08 |  |
@@ -514,6 +515,7 @@
 | [The Ending](https://open.spotify.com/track/7DSlwSvhgotaSIOhtOcVOm) | [Dean Bowser](https://open.spotify.com/artist/2ykj8pxgT6Xyzc1gxMSe90) | [The Ending](https://open.spotify.com/album/5ZJF1XQ4WOIzxEh1fCZW4E) | 2:24 | 2023-09-08 |  |
 | [The Girl](https://open.spotify.com/track/1iQaEZV0gvXQOTwET11wIL) | [Hologram Tiger](https://open.spotify.com/artist/4uEqtLOBlxSY4aNvRtfyke) | [STONE LOVE](https://open.spotify.com/album/37i8dfPswlTjPhQ2ZwtrV5) | 2:25 | 2022-02-17 | 2023-09-09 |
 | [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 2:27 | 2022-02-17 | 2023-09-09 |
+| [the neighborhood](https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [the neighborhood](https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz) | 2:09 | 2023-09-29 |  |
 | [The New Day](https://open.spotify.com/track/1y2zDUWWkG4P97pDjWGrDi) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [The New Day](https://open.spotify.com/album/2d6zNXCP512uLmfEsI10xA) | 2:44 | 2023-09-08 |  |
 | [The News](https://open.spotify.com/track/1Spod3yKAoenrvhOHKCSeU) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [The News](https://open.spotify.com/album/4fECS0VAlJDNSAsuG6G4X7) | 2:28 | 2023-09-08 |  |
 | [The Only Way Is Up](https://open.spotify.com/track/7rHuepPgmSd5rn5v5UvGIT) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [The Only Way Is Up](https://open.spotify.com/album/69s27L8CloHAZCXvqgHdmi) | 3:41 | 2022-02-17 | 2023-09-09 |
@@ -524,6 +526,7 @@
 | [The Truth](https://open.spotify.com/track/5FQippF8g8Nb5n7Gd9e2x3) | [MVR Music](https://open.spotify.com/artist/6JKyNrD4ZdPRFbZIY1TES8) | [The Truth](https://open.spotify.com/album/59p5oWiIgoqKdaJuVrrgap) | 2:20 | 2023-09-08 |  |
 | [The Warmup](https://open.spotify.com/track/1EgG7IPC4yKKERNx9caeck) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [The Warmup](https://open.spotify.com/album/6xTEwiGet96XGYpkLoWf2j) | 2:30 | 2023-09-08 |  |
 | [The Way](https://open.spotify.com/track/7op5NFvJzRLffdGkYzJpUX) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Sensei](https://open.spotify.com/album/76s8dxo8JFBoyLmVOu6esq) | 2:19 | 2023-09-08 |  |
+| [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2023-09-29 |  |
 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 | 2022-02-17 | 2023-09-09 |
 | [Three Eleven](https://open.spotify.com/track/6mpdxk6NcSbyKN3YPfVLDt) | [Hologram Life](https://open.spotify.com/artist/556OIgOCzim3VGfOZHWAqx) | [Three Eleven](https://open.spotify.com/album/0hdNNKYeIK7WpnzRqP6ElD) | 4:39 | 2022-02-17 | 2023-09-09 |
 | [Throwing Tomatoes](https://open.spotify.com/track/5YHwUWpLm8Ju2rYvSRV3Ir) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Not sure about this](https://open.spotify.com/album/1PsRH84FYg5KSvFupOsvCT) | 1:39 | 2023-09-08 |  |
@@ -533,7 +536,7 @@
 | [Time to Face Your Fears](https://open.spotify.com/track/5GdLtWqbQVXKIAwUpXuJcq) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [I'll Leave the Light on for You](https://open.spotify.com/album/1uEqiWIlQBYypx6pZFZ6xL) | 3:07 | 2022-02-17 | 2023-09-09 |
 | [Together](https://open.spotify.com/track/1RKGSoNYL21xmNSAzdQko6) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [All Together](https://open.spotify.com/album/05CQS6aZk4qQSZFLhktywB) | 2:21 | 2023-09-08 |  |
 | [Togetherness](https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV) | [Velvet Walls](https://open.spotify.com/artist/5dK4imkmeXhg5uC83F60p4) | [Togetherness](https://open.spotify.com/album/7dSngO4cCWijtF38dgNoZo) | 2:36 | 2023-09-08 |  |
-| [Toki](https://open.spotify.com/track/0VGrbqWrRR6etQn9EgW6Wv) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 3:30 | 2023-09-08 |  |
+| [Toki](https://open.spotify.com/track/0VGrbqWrRR6etQn9EgW6Wv) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 3:30 | 2023-09-08 | 2023-10-02 |
 | [Tokyo](https://open.spotify.com/track/6DS8PbO3BzzdZ00dwiMPB3) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Tokyo](https://open.spotify.com/album/1Zw4R7LNCAzWVMQ2MLOQOx) | 2:59 | 2023-01-20 | 2023-09-09 |
 | [Took It Too Far](https://open.spotify.com/track/1B9mJ0e6rKVfUUi5nCvvim) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [To The Factory](https://open.spotify.com/album/4nvHLzp2CInKEzvz8QTquQ) | 2:56 | 2022-02-17 | 2023-09-09 |
 | [Touch It](https://open.spotify.com/track/6pQF5FATuPz4GSihK6hx2p) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Avola](https://open.spotify.com/album/5n1LCUeJv4IOkJwZVxCIEL) | 1:53 | 2023-09-08 |  |
@@ -591,7 +594,7 @@
 | [written for you](https://open.spotify.com/track/3Wuyp3U5WhAoUrK07YhWyE) | [Terce S.](https://open.spotify.com/artist/3dUZsndiuWqeatgYQBhkI9), [leicht.](https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [written for you](https://open.spotify.com/album/0Fx4PimV6xoaZYf3gVCAnM) | 2:28 | 2023-09-08 |  |
 | [wrong room?](https://open.spotify.com/track/6zvGDFWAM91P1huvcUgPo3) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [wrong room?](https://open.spotify.com/album/7uTtXbBmXvfr227RczFqtt) | 2:29 | 2023-09-08 |  |
 | [yeppurs](https://open.spotify.com/track/5P14FWcco2lfKl8ivOYIBL) | [pukks](https://open.spotify.com/artist/13FOxVWcunkuGPcJrulWhy) | [jalapeno](https://open.spotify.com/album/671hq6yLBZGDj3c8rikD1L) | 1:56 | 2023-09-08 |  |
-| [yesterday floor](https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc) | [.horie](https://open.spotify.com/artist/2ZpXF4E6CiYIhMs2CXKuZQ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [yesterday floor](https://open.spotify.com/album/2ayCQifLBuQuVtd8fiPQ0J) | 1:26 | 2023-09-08 |  |
+| [yesterday floor](https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc) | [.horie](https://open.spotify.com/artist/2ZpXF4E6CiYIhMs2CXKuZQ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [yesterday floor](https://open.spotify.com/album/2ayCQifLBuQuVtd8fiPQ0J) | 1:26 | 2023-09-08 | 2023-10-02 |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/7D2wp7jItC0PNJMp3fvDZm) | [Lab Progression](https://open.spotify.com/artist/1KWvzy2ks6bKSBD3rMj5yk), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Jammin Berries](https://open.spotify.com/artist/46TWlcFSSZbWiB9k9n0P8o) | [Yesterday's Tomorrow](https://open.spotify.com/album/3pU2zQiCSXTLKpUY1sU3oa) | 2:20 | 2023-09-22 |  |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/3TBKlAMde3C7TNQEU7shez) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Correspondance](https://open.spotify.com/album/2kHc5vqdqza5IlCMGXlGAQ) | 2:13 | 2023-09-08 |  |
 | [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 | 2023-09-22 |  |
@@ -601,6 +604,6 @@
 | [Your Lie](https://open.spotify.com/track/5vG2FtCtt8sBRQMNmMM4Pn) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Your Lie](https://open.spotify.com/album/3F5unzmA4JIAdD84m3DiNf) | 3:02 | 2023-09-08 | 2023-09-23 |
 | [youth](https://open.spotify.com/track/57AaSVynhepCoToU0n3w0w) | [surf bagel](https://open.spotify.com/artist/38YfrSySicHwZBiHjHcMua) | [youth](https://open.spotify.com/album/57gANshT81YvlraLaR26TN) | 2:01 | 2023-09-08 |  |
 | [YVR](https://open.spotify.com/track/0yr5SOfo3cErueF3GAoITq) | [GEO\-X](https://open.spotify.com/artist/5VjntCrceRx7AkVib6leeR) | [White Criss](https://open.spotify.com/album/4CZ5iModUePvfKst8fN5gR) | 3:05 | 2022-02-17 | 2023-09-09 |
-| [zinnia](https://open.spotify.com/track/1DQs099CsJFZhRhY4RLEHM) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [zinnia](https://open.spotify.com/album/4iEo34YasPvmHlU9wZZx8z) | 1:30 | 2023-09-08 |  |
+| [zinnia](https://open.spotify.com/track/1DQs099CsJFZhRhY4RLEHM) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [zinnia](https://open.spotify.com/album/4iEo34YasPvmHlU9wZZx8z) | 1:30 | 2023-09-08 | 2023-10-02 |
 
 \*This playlist was first scraped on 2022-03-02. Prior content cannot be recovered.

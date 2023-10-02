@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jorja Smith \(pictured\), Ed Sheeran, The Rolling Stones and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,286 likes - 134 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,348 likes - 134 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 133 | [We Sell Hearts With No Appeal](https://open.spotify.com/track/57nsBNIjcLs158ATMvR7Gn) | [Deema](https://open.spotify.com/artist/3SBYl2unJoVzvNIUBC8ftm) | [We Sell Hearts With No Appeal](https://open.spotify.com/album/2WW6Qnx62IPYHm8TpHdiyY) | 3:06 |
 | 134 | [Slice](https://open.spotify.com/track/6SR5Lk3NYfaiEFm2ZhG9mC) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [Slice](https://open.spotify.com/album/4zZ29RjFtFEN1TPxPHBH7r) | 3:24 |
 
-Snapshot ID: `MCw2ZjA1Y2FlYTkyYjM1OWViODMyMjAwYzQ0MWUwYTk0MTMxMDFkMGQ0`
+Snapshot ID: `MCxlMTJkYjM2NWFjNTMyZGM4OGE3ODBmODdiOGQ0YTRmMmFmODcwZWE1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=GnO1OB\_6S\_6kZLJF\-0n5sQ">Jemma Catherine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,910 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,924 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 39 | [The Real Thing](https://open.spotify.com/track/5yPEgsIa9x4BkMsBJaF2cM) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [The Real Thing](https://open.spotify.com/album/7t3nIj86bm0IwI9ReX6Ye3) | 2:55 |
 | 40 | [Control](https://open.spotify.com/track/0NsxWoR74hCj9KTYB70o4r) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Control](https://open.spotify.com/album/5UJLHNTrNAzal68QU0xZXB) | 3:26 |
 | 41 | [Outcasts](https://open.spotify.com/track/38WBPi8N2uLBIA03sU0vea) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD), [Erick Gerber](https://open.spotify.com/artist/4EPvmo3SCToxenG4mQfhcc) | [Outcasts](https://open.spotify.com/album/1WJEMPcD7KGqkJrSzmgTdD) | 3:09 |
-| 42 | [Solaris](https://open.spotify.com/track/6f0n4DM4UIaVhChxxv6Ymv) | [Shaun Orlando Berry](https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7) | [Solaris](https://open.spotify.com/album/1x8X3smRPOX8wUxOJeBpFb) | 4:08 |
+| 42 | [Solaris](https://open.spotify.com/track/5jUykH9QNinvf6LMFN3OFE) | [Shaun Orlando Berry](https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7) | [Solaris](https://open.spotify.com/album/6aUt7I50euvGfFJsIxORgk) | 4:08 |
 | 43 | [Let's Lose Our Minds](https://open.spotify.com/track/7czgLEdXVU7oZKAP8izt9x) | [Joe, The Thinker](https://open.spotify.com/artist/2ceKAnQNSsSV1ytRsucnky) | [Let's Lose Our Minds](https://open.spotify.com/album/2aPkXNnezt7DPLdoz4TnTR) | 2:59 |
 | 44 | [Moeg](https://open.spotify.com/track/0t9uLw0ZL63rJPSQTBH94z) | [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Moeg](https://open.spotify.com/album/1IZOC8YN6GFWgRdsZGrtVr) | 3:56 |
 | 45 | [Almal Baklei](https://open.spotify.com/track/6tk21RK5t7pAJtoZL2txVB) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Almal Baklei](https://open.spotify.com/album/6AAkDXooH5CSCH0fXOttzD) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Tattoo](https://open.spotify.com/track/5HODR0ePjRBr9eUFrL92MF) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD) | [Tattoo](https://open.spotify.com/album/7G4Oa0XkNv552XNf4WcRjn) | 3:31 |
 | 50 | [\#23](https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl) | [Lisie Basson](https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR) | [\#23](https://open.spotify.com/album/0rKmgLBSXpXfVQ83vIrjR2) | 2:42 |
 
-Snapshot ID: `MCw5MGUxZmU0NGVhOTRiMDAwN2Y5MmE5NDZlMmM1MTc1YWNhMmI4ZDg0`
+Snapshot ID: `MCxiYmNlYmZmNGIyYTFiY2E4MDIxMWU0OGM1MGUyOWZmZTcwZTI3ZDI3`

@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-241 songs - 16 hr 46 min
+245 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bleed Or Believe](https://open.spotify.com/track/6n51TISVIwlNyLyb7RYjwV) | [Raise the Death Toll](https://open.spotify.com/artist/2MxIHokKnCTGMYDHqwpgyv), [Jai Benoit of Golgothan](https://open.spotify.com/artist/636GS0r5hnL64Z6N8PGwQd) | [Bleed Or Believe](https://open.spotify.com/album/13BRID57L4cLgqWoueiOF6) | 4:04 | 2023-03-04 |  |
 | [Blood Of My Enemy](https://open.spotify.com/track/5S2irCNIdBJbt88ThCn0xS) | [Winds of Plague](https://open.spotify.com/artist/080xIP1qfuknBNYEYPuH1v) | [Blood Of My Enemy](https://open.spotify.com/album/5NldficOVi9yHRB078LVct) | 3:21 | 2020-09-18 |  |
 | [Born Ov Hex](https://open.spotify.com/track/2h3x7H0sms6dOVrEwjq8y6) | [Cerement](https://open.spotify.com/artist/0uxkw5GtlfU8BgOuP7cjfl) | [Born Ov Hex](https://open.spotify.com/album/4CzHl5fMbWDP1u88RdoWlo) | 3:45 | 2022-04-03 |  |
+| [Bound in Misery](https://open.spotify.com/track/6dDqwJT8ILra6LVsNb8qc6) | [Impuritan](https://open.spotify.com/artist/6WPUYW0KEbNPqs7Ipxl1jJ) | [Wrath](https://open.spotify.com/album/2i9pSs1QY4rFJ2ETZoORH0) | 3:31 | 2023-10-01 |  |
 | [Boy](https://open.spotify.com/track/1w0ZidtOTM9Jx5WNuPLE42) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer](https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5) | 3:50 | 2023-08-11 |  |
 | [Brain Dead](https://open.spotify.com/track/7G7Q7BVL2zCJqhcDvoklYG) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Brain Dead](https://open.spotify.com/album/4y8ySSKbYh60Z84gifPOpw) | 2:44 | 2020-06-05 |  |
 | [Bring Me to Death](https://open.spotify.com/track/6meBUahAccx89oz7msidhZ) | [Oh, The Depth](https://open.spotify.com/artist/7J27xACCtVO392WY9Eve5y) | [Bring Me to Death](https://open.spotify.com/album/0CEqYnBSia4TO6uhTtQsay) | 4:22 | 2022-02-20 |  |
@@ -122,11 +123,13 @@
 | [Ilahi Mati](https://open.spotify.com/track/5qbj6hcKsRXEq0ZohUQvx1) | [Siksha](https://open.spotify.com/artist/0atsFfAPh5lOJRyVXtbAii) | [Ilahi Mati](https://open.spotify.com/album/2gn7MtjyUIfpwd6ilwRafW) | 2:26 | 2021-03-31 |  |
 | [Immersed in Ire](https://open.spotify.com/track/1xxwIWpiYd7j6Eyy1nLpzv) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd), [Ben Mason](https://open.spotify.com/artist/4pRL7Z0JTxhrzoWzJi0XGw) | [Obsidian](https://open.spotify.com/album/73S3Dl8FVlb7snXDlaob3A) | 4:40 | 2020-05-05 |  |
 | [Immortal](https://open.spotify.com/track/2pwlHgbJDPpvZgwVPMtqR1) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Immortal](https://open.spotify.com/album/5fjg9MZtqJ3xcydffRA9Pa) | 6:53 | 2020-05-04 |  |
+| [In the Sunken City of R'lyeh](https://open.spotify.com/track/5VEOHixKs1O0DLAct8j0TW) | [Sphinx](https://open.spotify.com/artist/3JvCAKTxqFsRY3QtHkDjMp) | [In the Sunken City of R'lyeh](https://open.spotify.com/album/284kiY1mTW4A7UwqR3gNa5) | 4:26 | 2023-10-01 |  |
 | [Infected](https://open.spotify.com/track/2kKe6NCLw0L6KnLqzUT2XE) | [Engrossed](https://open.spotify.com/artist/1hv2s5LpM3wCsYTNHLuHdP), [Kyle Medina](https://open.spotify.com/artist/4gcF5DdDf5H5rdkHvnvRRO) | [Infected](https://open.spotify.com/album/24vTJHll2lU0PQMElcOyWC) | 4:16 | 2020-05-04 |  |
 | [Infernal Darkness](https://open.spotify.com/track/0L9RyQN5D0MklylW7bS73x) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Sheol](https://open.spotify.com/album/6cpsxKxDIwcK6o8sJUQZkb) | 4:25 | 2020-05-07 |  |
 | [Iniquity](https://open.spotify.com/track/0BC8VA1NWu51WWajDn3O2J) | [Euclid](https://open.spotify.com/artist/5ZPlW6MIljlRCafuKosMKv) | [Iniquity](https://open.spotify.com/album/4V6669INfDEA5x3mJ5HRzz) | 4:46 | 2022-07-11 |  |
 | [Internal Execution](https://open.spotify.com/track/46PbH6KK9wcmY3WC84kg4X) | [The Merciless Concept](https://open.spotify.com/artist/27xLFNxVS9ivsCfSDplGjR) | [Sessions of Pain](https://open.spotify.com/album/4dJsj2HGayhxkDGGHa1rbv) | 4:13 | 2020-12-08 |  |
 | [Into the Void](https://open.spotify.com/track/5cqtOsBkCVJam8bBcxahB9) | [Heressiah](https://open.spotify.com/artist/1eLVrZsTQtelBW3V4ByloN) | [Void](https://open.spotify.com/album/2lDhJEMKlk76PaPJJHYPvD) | 3:58 | 2022-02-20 |  |
+| [Just A Carcass](https://open.spotify.com/track/198T7V44kLejbvN9mOTnHr) | [Anime Torment](https://open.spotify.com/artist/0PDV1XvYFaf4UwwxYYNyWW) | [Just A Carcass](https://open.spotify.com/album/0ggCokd4EKbHqm6hzg1Mqw) | 3:03 | 2023-10-01 |  |
 | [Kingdom Ov Deceit](https://open.spotify.com/track/34TCv5YDOzn3RLzP5OwjdB) | [Ov Ruin](https://open.spotify.com/artist/6gdIQiCwQ0KlZTyE2Ldlgm) | [Kingdom Ov Deceit](https://open.spotify.com/album/3FCMUgKB0u0X6CwoaZ94co) | 3:35 | 2022-07-11 |  |
 | [Kingdom Under Your Feet \(feat\. Jose Manuel Tts\)](https://open.spotify.com/track/09Yp7DXFsNIT250hNrhsJC) | [Cannibal Grandpa](https://open.spotify.com/artist/32IWsFBTb2FQvUKRsNLkTO), [Jose Manuel TTS](https://open.spotify.com/artist/7cYT0Amhj2xixYwycdP8EM) | [Septum Signa Inferno](https://open.spotify.com/album/44JLtEYxyBfPAK08AL2VsC) | 4:16 | 2020-08-23 |  |
 | [Kingdomcum](https://open.spotify.com/track/50ha1gik6o60g1eh3AzAsM) | [Deathmask](https://open.spotify.com/artist/3I4ouEgdS2Jk95EicDzGr9) | [Kingdomcum](https://open.spotify.com/album/4JnDUFVsQhuMgbC5w1DqvV) | 2:45 | 2020-05-14 |  |
@@ -212,6 +215,7 @@
 | [The Choice](https://open.spotify.com/track/1OHozKR0bL9nb3myD9p6yY) | [Consumed by Vultures](https://open.spotify.com/artist/2czSbWwvfWkFUbGBuOyR1D) | [In Eterno](https://open.spotify.com/album/4yWpvbXDvtThVmZqUy66BD) | 5:26 | 2022-02-20 |  |
 | [The Conquering Tyrants](https://open.spotify.com/track/6Yd5DF4hgxaQhRqP57f7Yj) | [Doomnation](https://open.spotify.com/artist/13DXp8gPIPLJXu2r29iQAb) | [The Conquering Tyrants](https://open.spotify.com/album/0UHOk4eJFGIiLUUuHCsGxD) | 3:58 | 2018-07-22 |  |
 | [The Crypt](https://open.spotify.com/track/3dniQqaB9w2UnE444tqC15) | [Improvidence](https://open.spotify.com/artist/58GFmPGC6imDLoyn4s5OQk) | [2016 EP](https://open.spotify.com/album/4fKMuF2qxEGYUUnUgCcRJt) | 5:11 | 2018-10-06 |  |
+| [The Curse](https://open.spotify.com/track/4nZtrosAnW8gZWZiwClKBr) | [It Comes at Night](https://open.spotify.com/artist/0BmwjZW5Ksdz1uRs70IRLl) | [The Curse](https://open.spotify.com/album/3qZp5YQttKPPljhc0uLWnY) | 3:38 | 2023-10-01 |  |
 | [The Eternal Lament](https://open.spotify.com/track/6VxhP7kcoO8LWTTLAxPKN2) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [The Eternal Lament](https://open.spotify.com/album/1pMVapThIMV13yrMeNZfun) | 3:46 | 2021-01-26 |  |
 | [The Failsafe Fallacy](https://open.spotify.com/track/7vJtcOCXf4g2FoGTcIQMdJ) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Luciferous](https://open.spotify.com/album/6tBRG2SO2SNDL1UdMp6A5P) | 4:45 | 2020-05-04 |  |
 | [The Great Dreamer](https://open.spotify.com/track/2BE4KjLlAcjjIrMNJczkgQ) | [Monarch of Avarice](https://open.spotify.com/artist/1dXmFXfniQWab6OKCf6Lsa) | [The Great Dreamer](https://open.spotify.com/album/6xj1XVh1yzlGyB2sGeNkDT) | 5:15 | 2023-05-21 |  |

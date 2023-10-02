@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Amaranthe
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,102 likes - 62 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,180 likes - 62 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 25 | [Blameless](https://open.spotify.com/track/7y5A9nnNw6ZF3fQyrkZEeL) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd) | [Blameless](https://open.spotify.com/album/6emGnwNTrIviGmSXQnoOEJ) | 3:13 |
 | 26 | [GIVE 'EM HELL](https://open.spotify.com/track/0wyjFXeRcxjYM3EGD42G43) | [Written by Wolves](https://open.spotify.com/artist/1j55zNwCQ3jhbNsnmrOrwr) | [GIVE 'EM HELL](https://open.spotify.com/album/23cz5pGtfBJbegAsyqEvbB) | 4:07 |
 | 27 | [Poison](https://open.spotify.com/track/1WlMUDPtyya64izMHayWdP) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [Poison](https://open.spotify.com/album/4nCbTpC5CviSH7xR1RzY5d) | 3:10 |
-| 28 | [Strike Of The Viper](https://open.spotify.com/track/3sykXyEnYnGogkypEEJ7kl) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [Strike Of The Viper](https://open.spotify.com/album/6jAOy9k064BFbw3LwT0ZyB) | 2:24 |
+| 28 | [Strike Of The Viper](https://open.spotify.com/track/7lR5tuTKTddjqJr1pkDTyb) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [The Sinner Rides Again](https://open.spotify.com/album/6VbE5qiFPnuNUsWE5dgZQk) | 2:24 |
 | 29 | [How It Ends](https://open.spotify.com/track/2hoKErPIma0BF2dYQ7Ynzd) | [Primordial](https://open.spotify.com/artist/0BZr6WHaejNA63uhZZZZek) | [How It Ends](https://open.spotify.com/album/0db6yZPlGVY29FqbAlJ8MU) | 7:50 |
-| 30 | [Endless Ambition](https://open.spotify.com/track/7KuAhmuydK5xQyG63aa8zb) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Endless Ambition](https://open.spotify.com/album/6rQP8xYcuIQfU3UmdwKiw3) | 3:23 |
+| 30 | [Endless Ambition](https://open.spotify.com/track/1PIeYKbVqQK1P7oIin0A7N) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Jailbreak](https://open.spotify.com/album/6dnFZrQ2r2eXqDwphuNe1w) | 3:23 |
 | 31 | [Better Be Cool](https://open.spotify.com/track/5xJYzw5T4X6ynIeZZ2CwPS) | [Crashdïet](https://open.spotify.com/artist/1cB013ULmW96lglRcrWTut) | [Better Be Cool](https://open.spotify.com/album/3Ubnumqv2eugfFKPbtYyfb) | 3:40 |
 | 32 | [Beholden to Clan](https://open.spotify.com/track/5LxBDSxTZH9hrNTMXnMEGT) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Crypt of Ancestral Knowledge](https://open.spotify.com/album/2gWPiPmcyw7Hdha3wR74g4) | 6:57 |
 | 33 | [Misanthropic \- Remaster 2023](https://open.spotify.com/track/0X7zNONqbYAKCq0u4q5ir8) | [Dismember](https://open.spotify.com/artist/09OwM7iXyoFAOzQUlWeDgB) | [Death Metal \(Remaster 2023\)](https://open.spotify.com/album/3BOvRGPfGZ0PVlSvfX2OT4) | 2:59 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 61 | [Pendulum Soul](https://open.spotify.com/track/2KTbdYwBj8skQ4TsJ3jbA5) | [Peasant](https://open.spotify.com/artist/01YDzkrxK32m3V88JKDxDL) | [Pendulum Soul](https://open.spotify.com/album/1wL46IJpUhKPeaUlFPVEL9) | 2:24 |
 | 62 | [The Fakest Being](https://open.spotify.com/track/1OgJaSYK0Gax62Ru1aCoRd) | [blossom.](https://open.spotify.com/artist/7k8IWkUoVHa4LD5dF5lPxI) | [The Fakest Being](https://open.spotify.com/album/2WdVeFoguRPOAyrUxlBN5Y) | 2:05 |
 
-Snapshot ID: `MCw0ZDA4N2MxZTRiOGNiNDQzM2NkMDAzYzI0MTg3Njk0YmVlZDI1OTdm`
+Snapshot ID: `MCxmNjk3MWY2MjgyZDAyNzMzMDVkZTJiYmMzYWRlOGUyMDc4YjEzYTIz`

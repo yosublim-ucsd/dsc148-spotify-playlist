@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Joy Anonymous
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,530 likes - 99 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,531 likes - 99 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 96 | [Perfect Life](https://open.spotify.com/track/1lCic9SNC6dEaYY0mokFsj) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Perfect Life](https://open.spotify.com/album/47TFvHtoVAsNYGUGl9Jv1G) | 3:57 |
 | 97 | [Back Again](https://open.spotify.com/track/2k2xKWFpwZ2OU3q5hBEccK) | [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Space & Time](https://open.spotify.com/album/3ZHNZwse8WUFP35u72NnpH) | 2:36 |
 | 98 | [Four Thirty](https://open.spotify.com/track/3GRzGFVipiF8cDS3heRdoP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Focus](https://open.spotify.com/album/6ZfkXGIGWjgk7SUn0rOB3S) | 2:43 |
-| 99 | [These Days](https://open.spotify.com/track/4MVs7sv6YAO0wLEjQogfIR) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [These Days](https://open.spotify.com/album/6rfkg0L634lsGEYzNAYdF3) | 3:34 |
+| 99 | [These Days](https://open.spotify.com/track/5wl0mc25Mn6YcFsXv1GR3e) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [These Days](https://open.spotify.com/album/54VcrpotCamxH0BcC2mlm3) | 3:34 |
 
-Snapshot ID: `MCwwYmIzZTEwMjUyOTI3NmZmYzg1YTM3OTNlNGQ0MzE0NWM2NmJmYzRh`
+Snapshot ID: `MCwxODVhZmNmMzA2N2E1YmYyMzhkNjZhZDMzMTM5MzcxZjk5OWQ0Y2Ex`

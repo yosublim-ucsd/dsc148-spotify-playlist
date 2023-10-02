@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA?si=sa1MczKmTbStHjRz0SIwNg">Babyface Ray</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,282 likes - 59 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,300 likes - 59 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 16 | [I'm Geekin \(feat\. NLE Choppa & BIA\) \- Remix](https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [I'm Geekin \(feat\. NLE Choppa & BIA\) \[Remix\]](https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g) | 3:09 |
 | 17 | [Back Out \(feat\. Mello Buckzz\)](https://open.spotify.com/track/2RACJkPEwQP3pp6OSotqwT) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Back Out \(feat\. Mello Buckzz\)](https://open.spotify.com/album/3HztLLSGRS1ixggz1hxPK9) | 3:43 |
 | 18 | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD) | 3:34 |
-| 19 | [CLOUT CHASE](https://open.spotify.com/track/1rNJ4bEN1Tad000pRt8XJS) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 2:38 |
+| 19 | [CLOUT CHASE \(feat\. DaBaby\)](https://open.spotify.com/track/1rNJ4bEN1Tad000pRt8XJS) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 2:38 |
 | 20 | [Room \(with Adekunle Gold & 2 Chainz\)](https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Room](https://open.spotify.com/album/0gx8ORhZE1FItFCz9qxtRD) | 3:39 |
 | 21 | [Jealous](https://open.spotify.com/track/28fzTeeyJQJG4iYWrNPNMj) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 4:10 |
 | 22 | [Hit & Run](https://open.spotify.com/track/4Cl0ism4qfwNTtDbk8K6qm) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [internetboy](https://open.spotify.com/artist/0ZJw6xiDo3vtQXMZpDg3fW) | ['Decent](https://open.spotify.com/album/1WoPO9sVvJXy0MktOhBiIU) | 4:21 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 58 | [Faith](https://open.spotify.com/track/7JNchwM83hSloG03hOvgqy) | [D2x](https://open.spotify.com/artist/39Cb8HYiuT4clBeNABSjPA) | [Faith](https://open.spotify.com/album/5ePwZIxJlUuqYG8TpwOldy) | 3:16 |
 | 59 | [Numbers](https://open.spotify.com/track/2QuxgH5460sE8rUoi8MVPo) | [SoloSam](https://open.spotify.com/artist/45hmyXoTVMtPASGkZwUqY7) | [Numbers](https://open.spotify.com/album/0FfV5QpUnOyW4Bus449JR4) | 2:44 |
 
-Snapshot ID: `MCxhZWY3ZGVlNGIwMGE1MDI1YjE3YWNmMjhkZWU3NTU2ZGZmNmExYzFk`
+Snapshot ID: `MCw0YjA4ODc4ZTk4YTNmZjcxMmU2MmM2ZTUwMTE5MjYyZTVkZWYyMmQz`

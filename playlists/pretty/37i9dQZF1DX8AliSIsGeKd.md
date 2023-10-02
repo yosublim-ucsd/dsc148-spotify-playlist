@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Miss Monique, LUNA, AVIRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,391 likes - 90 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,504 likes - 90 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [I Swear](https://open.spotify.com/track/4WqCvI99va0VKt5hezmhE7) | [Cora Novoa](https://open.spotify.com/artist/3PQuCFd5KBN1aPRUMIBjt7) | [I Swear](https://open.spotify.com/album/2Y5MnlNobzOIzWiuBsbIy6) | 4:08 |
 | 90 | [Seidenstreifen](https://open.spotify.com/track/5iwQdBp68YODA5nhbe8Vk9) | [Sascha Funke](https://open.spotify.com/artist/1dDTkRz9WVOQr63enjJ1Yd) | [Rm12023](https://open.spotify.com/album/7xM6QQFlfceiN7YOtgPWRE) | 4:50 |
 
-Snapshot ID: `MCw4OWI2MGU5YjRiMzIyNzY4M2JmNmJhNWQxY2VhMTY4MjUwOTE1MGZi`
+Snapshot ID: `MCwzYTVhYmViZWU3NjQzOGM5NTM5MmFlNzQ0ZGQyYzlkY2JiYjFkMTBm`

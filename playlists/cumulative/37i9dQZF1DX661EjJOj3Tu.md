@@ -4,7 +4,7 @@
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-306 songs - 1 day 1 hr 29 min
+307 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Algo Bueno](https://open.spotify.com/track/0sabzOPmJwXR9KI0hxU9xd) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [The Complete Verve Roy Eldridge Studio Recordings](https://open.spotify.com/album/1RBAW8MhtPAhqEKIZRhzSJ) | 6:11 | 2021-12-09 | 2022-06-11 |
 | [Amanecer](https://open.spotify.com/track/5HXyYfazQnAZ3xdNbyUVFT) | [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Paquito D'Rivera Plays the Music of Armando Manzanero](https://open.spotify.com/album/5eyi1wHXkbYWeFTR5wNN44) | 7:14 | 2021-12-09 | 2022-07-26 |
 | [Amanecer Contigo](https://open.spotify.com/track/5tjmjLcIwMhBT1UQ91VZpX) | [Dafnis Prieto Sextet](https://open.spotify.com/artist/1IxYKYyHFmwGIqdI0zkcze) | [Transparency](https://open.spotify.com/album/66ddMl9jBOyoSeM9WLQgjh) | 6:21 | 2021-12-09 | 2022-07-25 |
+| [Amarte](https://open.spotify.com/track/5aoMszskF65IOspLeZnmIC) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Amarte](https://open.spotify.com/album/50p8cZ17O4af7kMBmgdF0u) | 4:03 | 2023-08-28 |  |
 | [Ansiedad](https://open.spotify.com/track/2aWGbO4a9BI3HWatTqWWFY) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Lo Mejor de Bebo Valdés](https://open.spotify.com/album/2SKODlLDMDQjGlyPeo0DOf) | 2:58 | 2021-12-09 | 2022-07-22 |
 | [Armando’s Rhumba](https://open.spotify.com/track/6NTknQKoiFKfDe7VsnY8kq) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [The Spanish Heart Band](https://open.spotify.com/artist/4h3ydh5Bvy2DKRGLE078oq) | [Antidote](https://open.spotify.com/album/2fM4QCvifFnt0h9aYsNETv) | 8:00 | 2021-12-09 | 2022-07-29 |
 | [Ay, Mamá Inés](https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT) | [Tocororo](https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG) | 3:14 | 2021-12-09 |  |
@@ -145,7 +146,7 @@
 | [I'll Call You Later](https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 4:29 | 2021-12-09 | 2022-07-21 |
 | [In Flight](https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Listen Here](https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi) | 5:41 | 2021-12-09 |  |
 | [Invitation](https://open.spotify.com/track/3t8pVXL2Be1smV1tk2NTY8) | [Spanish Harlem Orchestra](https://open.spotify.com/artist/0I7U5I66P88nCaVVPkIz6x), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Miguel Zenón](https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj) | [The Latin Jazz Project](https://open.spotify.com/album/4EsKns5OuMRHR283whOCTl) | 5:27 | 2021-12-09 | 2022-07-28 |
-| [JazzTón](https://open.spotify.com/track/1Ujt7mRLAZHqvPImbsPsPO) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Te Lo Dije](https://open.spotify.com/album/31Dxd8oDK8PSnedXHUaPMB) | 3:18 | 2021-12-09 |  |
+| [JazzTón](https://open.spotify.com/track/1Ujt7mRLAZHqvPImbsPsPO) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Te Lo Dije](https://open.spotify.com/album/31Dxd8oDK8PSnedXHUaPMB) | 3:18 | 2021-12-09 | 2023-10-02 |
 | [Jocosa Guajira](https://open.spotify.com/track/5LnzumJTrXviSHUWM5hGbs) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm) | [Te Lo Dije](https://open.spotify.com/album/31Dxd8oDK8PSnedXHUaPMB) | 3:56 | 2021-12-09 | 2022-07-18 |
 | [Jungla](https://open.spotify.com/track/3bjiPnT0gZHA1V2cbzTYq2) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Afro](https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF) | 4:44 | 2023-03-15 | 2023-04-28 |
 | [Jungla](https://open.spotify.com/track/6FXvLNdsIalcrIHWV89lbm) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Afro](https://open.spotify.com/album/5ox3rUiRPzHdYPsICnq8hh) | 4:44 | 2021-12-09 | 2022-07-25 |

@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,058 songs - 1 day 15 hr 56 min
+1,059 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [crocodileteeth](https://open.spotify.com/track/5Rp86RZTmqiyE78JNt0wWg) | [shapeofbeatz](https://open.spotify.com/artist/4FsGtMHS0hniDPi7GjMvj5) | [crocodileteeth](https://open.spotify.com/album/0Uw8xYaT9ITRYcXFTIdRrY) | 2:36 | 2021-11-10 | 2022-07-22 |
 | [Cronian](https://open.spotify.com/track/670HGntW6I4aveJDhz9rW6) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [Cronian](https://open.spotify.com/album/76RYMUIjQ1QIXqFiDPemxU) | 1:50 | 2023-01-20 |  |
 | [crosswalks](https://open.spotify.com/track/7qiVwIdSy2NzXWBBhRlN1A) | [figgy](https://open.spotify.com/artist/58kPkxMwTdAjnkvlfjZuip) | [crosswalks](https://open.spotify.com/album/0GEeks82tp7zoDZ0FESXPM) | 2:25 | 2022-07-22 | 2023-04-28 |
+| [Cruising](https://open.spotify.com/track/6k5ujvu6iu5hdgDZXBtkZG) | [Lghtr](https://open.spotify.com/artist/6sL0e0jiMbfjoQk2kraspM) | [Cruising](https://open.spotify.com/album/4eF0VhXpYiCB0V6L1nIrCu) | 2:09 | 2023-09-29 |  |
 | [crystal clear](https://open.spotify.com/track/48dwboYJcg9uNoVwJDIN1d) | [Brian Tuey](https://open.spotify.com/artist/4xPlBQAVyS9TNgDEBHbKCs) | [crystal clear](https://open.spotify.com/album/0sObfdc3y54BswoKtUMtvS) | 2:04 | 2022-06-03 | 2023-09-22 |
 | [Crystallized](https://open.spotify.com/track/70z3gnc374PHSBFFD0fz3x) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Crystallized](https://open.spotify.com/album/3t5SuQBjkOyoX27byBxvgf) | 2:06 | 2022-10-15 |  |
 | [Création du Monde](https://open.spotify.com/track/4ZJFDEerMptTZzIbHQqnsi) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Création du Monde](https://open.spotify.com/album/7xX40x8BpmihVAuvZRBVgG) | 2:01 | 2022-04-22 | 2023-09-16 |
@@ -237,7 +238,7 @@
 | [Down By The Docks](https://open.spotify.com/track/5llK7Ua6MiBxZouPpwPm5r) | [Blue Sirens](https://open.spotify.com/artist/3YwGWRtqEYqYHrz7mmz9aM) | [Down By The Docks](https://open.spotify.com/album/5eWu3EphAuVNzkhp7MAyu8) | 3:01 | 2022-07-22 |  |
 | [down the street](https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/7nFDioqfi7uuPtmb4EtkgC) | 1:50 | 2022-12-16 | 2023-02-16 |
 | [down the street](https://open.spotify.com/track/5E7hJkb2dFowgpt07HXlqu) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/6lNeiBPEdFCb7jLPursJUo) | 1:50 | 2023-02-07 |  |
-| [Downer](https://open.spotify.com/track/0TPzDCw6QUzz3dYPeKpWT2) | [whiteglass](https://open.spotify.com/artist/6FrISpMCXqXSsCsqhTxnL2) | [Downer](https://open.spotify.com/album/0xaHTyClq6XBNIZLbyxnr8) | 2:04 | 2022-07-01 |  |
+| [Downer](https://open.spotify.com/track/0TPzDCw6QUzz3dYPeKpWT2) | [whiteglass](https://open.spotify.com/artist/6FrISpMCXqXSsCsqhTxnL2) | [Downer](https://open.spotify.com/album/0xaHTyClq6XBNIZLbyxnr8) | 2:04 | 2022-07-01 | 2023-10-02 |
 | [dreamality](https://open.spotify.com/track/7kFaQ5hj8WtCHB4fSNnmF8) | [Nine x Nine](https://open.spotify.com/artist/5kAm2IyAJ8qwIv9VK6l98E) | [dreamality](https://open.spotify.com/album/6mpxv0APWBfaOn2PMUedfB) | 2:23 | 2022-12-16 |  |
 | [Dreamer](https://open.spotify.com/track/6usANlGhQzHC3lS8ifgHaN) | [Hall of Lofi](https://open.spotify.com/artist/5KWhpgpD7iLdJaf5MZbRYt) | [Dreamer](https://open.spotify.com/album/0UCeKLcZGrPDMVKzB6MnMH) | 1:42 | 2022-09-16 |  |
 | [Dreaming With You](https://open.spotify.com/track/2115fUeXfK3FnW12CHHdIx) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Dreaming With You](https://open.spotify.com/album/2N4MV7TYlQcAbdj6rkP9iK) | 2:19 | 2022-08-05 | 2022-10-29 |
@@ -353,7 +354,7 @@
 | [Frozen](https://open.spotify.com/track/6axAMEYaKvoWeiJ0SKZtco) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb), [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU) | [Frozen](https://open.spotify.com/album/3wEWbl5zudfyY0Pbmj1TM6) | 3:13 | 2022-04-08 | 2022-12-10 |
 | [Frozen Trees](https://open.spotify.com/track/5FkZ9xAb6k2XfHrR1zjnee) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [Frozen Trees](https://open.spotify.com/album/5Vj6vsFcWunXh1CbRZbtlQ) | 2:09 | 2021-11-10 | 2022-10-08 |
 | [Full Sail Ahead](https://open.spotify.com/track/5t1UfGaknBWWjq3rmS9POf) | [Fryst](https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS) | [Full Sail Ahead](https://open.spotify.com/album/7yvaxwCVjoSBsmw9mhktD0) | 2:14 | 2022-12-23 |  |
-| [galaxy](https://open.spotify.com/track/1o3ICKADlgDR7HzkvOZVP4) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [galaxy](https://open.spotify.com/album/5Gg4NNgSAZ4tLKxGlgzYig) | 2:19 | 2022-10-01 | 2023-09-22 |
+| [galaxy](https://open.spotify.com/track/1o3ICKADlgDR7HzkvOZVP4) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [galaxy](https://open.spotify.com/album/5Gg4NNgSAZ4tLKxGlgzYig) | 2:19 | 2022-10-01 |  |
 | [gallery](https://open.spotify.com/track/1PNjgT1UgvI2ZbBNEi1MZf) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [gallery](https://open.spotify.com/album/6oyJOJvkJbfV7K5GXZeQDV) | 1:46 | 2022-10-01 |  |
 | [garden bed](https://open.spotify.com/track/1l52MnASg7swhbLFtBhVJb) | [orcanite](https://open.spotify.com/artist/3dGc9ZNUwjtjtug9qAomYS) | [garden bed](https://open.spotify.com/album/1a1QguNAJiFe3mDVzipzY3) | 1:55 | 2021-11-10 | 2023-03-02 |
 | [Gardening On Mars](https://open.spotify.com/track/79i8XMKhu0RGMFV9ppZF8n) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Gardening On Mars](https://open.spotify.com/album/7HSs5riFuaFuhqXm914Gb0) | 1:50 | 2023-09-01 |  |
@@ -634,7 +635,7 @@
 | [Naiad](https://open.spotify.com/track/3qPfdIsE3D9yibIjVe1MaR) | [Maelk](https://open.spotify.com/artist/5iv7276O5MpFO01YZ1TTjx), [Coogan](https://open.spotify.com/artist/1U3FmjBRcKqEV3TktVmero) | [Naiad](https://open.spotify.com/album/10XG8K8j8xceOzTBAhxuN3) | 2:35 | 2022-09-02 |  |
 | [nakano ride](https://open.spotify.com/track/5ydchUCAyRP8PIv2yN58Xj) | [yukku](https://open.spotify.com/artist/5s1XIyM3GUlnNMT51DGAjN) | [nakano ride](https://open.spotify.com/album/65jey1RllY2XjRtXrZjlQT) | 2:11 | 2022-07-22 | 2023-08-04 |
 | [Nap](https://open.spotify.com/track/4LX0qlF41cem8ISdrEgIGN) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow) | [Fantasies of a rainy day](https://open.spotify.com/album/18mmEZUwnLmLDRgFS7EgNY) | 2:13 | 2022-09-02 |  |
-| [Naples](https://open.spotify.com/track/34zZOZehtVjhSnLihibOlN) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Naples](https://open.spotify.com/album/1cceaiNG0KIeELR9og5Jol) | 1:36 | 2022-12-09 |  |
+| [Naples](https://open.spotify.com/track/34zZOZehtVjhSnLihibOlN) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Naples](https://open.spotify.com/album/1cceaiNG0KIeELR9og5Jol) | 1:36 | 2022-12-09 | 2023-10-02 |
 | [Nature Boy](https://open.spotify.com/track/4ESfG6sY4D1xeTsrYevXwx) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k), [Vybe Village](https://open.spotify.com/artist/6WlHbfsgF448dcHWx2bP0P) | [Lofi Guy IV](https://open.spotify.com/album/6NGe3GumItXJHzoG4bPe5j) | 2:15 | 2022-09-09 | 2023-04-12 |
 | [Navalôn](https://open.spotify.com/track/1loqBKxOG2uxLQfLMLpxgK) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Navalôn](https://open.spotify.com/album/19zcL63cDK9ndcq0wJLxpv) | 2:18 | 2022-05-13 | 2022-05-20 |
 | [need you back](https://open.spotify.com/track/4ppEnqXIURq7kCIFDdTmXE) | [bed beats](https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe) | [need you back](https://open.spotify.com/album/6liTyZELccliHPcVQXorF0) | 1:38 | 2022-06-24 | 2022-07-29 |

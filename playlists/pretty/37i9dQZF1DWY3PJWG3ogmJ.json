@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 609555,
+  "num_followers": 609777,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzcwMDE0ZjRkZDIxMjBkODU0M2VjNzc0YTVhZWQ5YTBmMWFkNDZm",
+  "snapshot_id": "MCw1ZTE2ODc4YjUyMmYxNDM1OTNhNTg4MmExNDk3MzMyMzE4ZjIzNDM4",
   "tracks": [
     {
       "added_at": "2023-01-18 15:54:17",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Executioner's Tax (Swing of the Axe)",
-      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 131142,
       "name": "Pigs Ear",
       "url": "https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Executioner's Tax (Swing of the Axe)",
+      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Bill & Ted Face The Music (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5tBqYNxRj9fUW6s7OuzBnz"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 239441,
-      "name": "The Death Of Us",
-      "url": "https://open.spotify.com/track/4QWm4vWg9I9kCKY5lPQh43"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Posthuman",
         "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 197879,
       "name": "Human Carrying Capacity",
       "url": "https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Bill & Ted Face The Music (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tBqYNxRj9fUW6s7OuzBnz"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 239441,
+      "name": "The Death Of Us",
+      "url": "https://open.spotify.com/track/4QWm4vWg9I9kCKY5lPQh43"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Playing the Victim",
-        "url": "https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe"
-      },
-      "artists": [
-        {
-          "name": "Blood Youth",
-          "url": "https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Playing the Victim",
-      "url": "https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "A New Responsibility",
         "url": "https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 186200,
       "name": "A New Responsibility",
       "url": "https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Playing the Victim",
+        "url": "https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe"
+      },
+      "artists": [
+        {
+          "name": "Blood Youth",
+          "url": "https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Playing the Victim",
+      "url": "https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7"
-      },
-      "artists": [
-        {
-          "name": "Angelmaker",
-          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "Exit Signs",
-      "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Vae Victis",
         "url": "https://open.spotify.com/album/0eFmpRNEXop4AgjbHhhfgm"
       },
@@ -1947,22 +1931,34 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "All Hail the Underdog",
-        "url": "https://open.spotify.com/album/42LkGCRZV2zxgUDXA0n3ez"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7"
       },
       "artists": [
         {
-          "name": "Matriarchs",
-          "url": "https://open.spotify.com/artist/01eubWRsmFbrlT2reY1eoe"
-        },
-        {
-          "name": "Aaron Heard",
-          "url": "https://open.spotify.com/artist/63mtWM4ZoLwd5rnP6UDEkN"
+          "name": "Angelmaker",
+          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
         }
       ],
-      "duration_ms": 212075,
-      "name": "All Hail the Underdog",
-      "url": "https://open.spotify.com/track/5Py4CsjKOQ1ooFaPRmlkh9"
+      "duration_ms": 212480,
+      "name": "Exit Signs",
+      "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Renaissance Noire",
+        "url": "https://open.spotify.com/album/62cj4fAYeia8TRD8VqrpbD"
+      },
+      "artists": [
+        {
+          "name": "Spoil Engine",
+          "url": "https://open.spotify.com/artist/6nQqTxjWcBSDpjvVKRTfig"
+        }
+      ],
+      "duration_ms": 196876,
+      "name": "R!ot",
+      "url": "https://open.spotify.com/track/0zAb3JhZbExyPZxiGq9cky"
     }
   ],
   "unique_name": "Extreme Metal Workout",

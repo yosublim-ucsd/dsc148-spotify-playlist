@@ -4,7 +4,7 @@
 
 > The ultimate romantic playlist.
 
-210 songs - 13 hr 58 min
+211 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,8 +91,9 @@
 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 | 2022-02-09 |  |
 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 | 2019-02-13 |  |
 | [It Must Be Love](https://open.spotify.com/track/2ohy1uevBkPZc4ibN8wMHU) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Complete Madness](https://open.spotify.com/album/1MJDs8IqFsSL55HoDLm8BO) | 3:20 | 2019-02-13 | 2022-02-10 |
+| [It's All Coming Back to Me Now](https://open.spotify.com/track/00l9787imUuRzkCGQEgaRK) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/1YV5gnob3qCnMQuVomwGwG) | 5:49 | 2023-02-03 |  |
 | [It's All Coming Back to Me Now \- Radio Version](https://open.spotify.com/track/0q9mq2TknlmqiX6x6IxmMS) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Very Best of Celine Dion](https://open.spotify.com/album/51DfHvunyUysUZoBJEwbF8) | 5:29 | 2022-02-09 | 2023-09-02 |
-| [It's All Coming Back to Me Now \- Radio Version](https://open.spotify.com/track/4P1iZz6rJkFKOU32NcqVCf) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All The Way..\. A Decade Of Song](https://open.spotify.com/album/6NXCAZgAzjPmueK0ZgYgba) | 5:29 | 2022-02-09 |  |
+| [It's All Coming Back to Me Now \- Radio Version](https://open.spotify.com/track/4P1iZz6rJkFKOU32NcqVCf) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All The Way..\. A Decade Of Song](https://open.spotify.com/album/6NXCAZgAzjPmueK0ZgYgba) | 5:29 | 2022-02-09 | 2023-10-02 |
 | [It's All Coming Back to Me Now \- Radio Version](https://open.spotify.com/track/5w84TM00wX2Oa9F7UETpPJ) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All The Way..\. A Decade Of Song](https://open.spotify.com/album/05HEjdd9s8Egs5aa3r0YIF) | 5:29 | 2020-02-07 | 2022-07-29 |
 | [Just Be](https://open.spotify.com/track/04BwE5LUGe3VhyS08aHR95) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Fall To Grace \(Deluxe\)](https://open.spotify.com/album/5xbq4e4CWkWhZBOkque5Fp) | 4:37 | 2020-02-07 | 2022-07-29 |
 | [Just Be](https://open.spotify.com/track/3XeabYo1uXpOERUPS16IAM) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Sing Me to Sleep](https://open.spotify.com/album/60k0hyUtTLyJEWQXIGt9OB) | 4:37 | 2022-02-09 | 2022-11-13 |

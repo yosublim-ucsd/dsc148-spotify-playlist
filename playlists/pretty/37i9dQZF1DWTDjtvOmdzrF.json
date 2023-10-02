@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 570721,
+  "num_followers": 570890,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTI2YzFhZTVmMTUwNDhjNDgwODg1MmIzNGE2ZWY4YmQ0YzQ2MTk5",
+  "snapshot_id": "MCxhYTZkZDVkYmY5ZTljMTFmOTgyZjIzNDdhNTQ1NTNmYzkwMWJmZmNm",
   "tracks": [
     {
       "added_at": "2023-09-20 04:45:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
-      },
-      "artists": [
-        {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Pelangi",
-      "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
-    },
-    {
-      "added_at": "2023-09-20 04:45:11",
-      "album": {
         "name": "Perspektif",
         "url": "https://open.spotify.com/album/2B5g8Dua4wmu7JOnNX9e8K"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 220851,
       "name": "L",
       "url": "https://open.spotify.com/track/3aClK9EBpl7QeYEuOq1eMI"
+    },
+    {
+      "added_at": "2023-09-20 04:45:11",
+      "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Pelangi",
+      "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
     },
     {
       "added_at": "2023-09-20 04:45:11",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
+        "name": "terima kasih",
+        "url": "https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "terima kasih",
+      "url": "https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu"
+    },
+    {
+      "added_at": "2023-09-20 04:45:11",
+      "album": {
         "name": "Lelaku",
         "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 251000,
       "name": "Hitam Putih",
       "url": "https://open.spotify.com/track/0O6g2QFUhuLqRzGqhyzrIu"
-    },
-    {
-      "added_at": "2023-09-20 04:45:11",
-      "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
-      },
-      "artists": [
-        {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Remaja",
-      "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
     },
     {
       "added_at": "2023-09-20 04:45:11",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
-        "name": "terima kasih",
-        "url": "https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20"
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
       },
       "artists": [
         {
-          "name": "Hal",
-          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
         }
       ],
-      "duration_ms": 204137,
-      "name": "terima kasih",
-      "url": "https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu"
+      "duration_ms": 218426,
+      "name": "Remaja",
+      "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
     },
     {
       "added_at": "2023-09-20 04:45:11",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
+        "name": "Ego & Fungsi Otak",
+        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
+      "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
+    },
+    {
+      "added_at": "2023-09-20 04:45:11",
+      "album": {
         "name": "Tempat Aku Pulang",
         "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 325946,
       "name": "Waktu Yang Salah",
       "url": "https://open.spotify.com/track/4qgIQcskrvj6nlypTvBm5k"
-    },
-    {
-      "added_at": "2023-09-20 04:45:11",
-      "album": {
-        "name": "Ego & Fungsi Otak",
-        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
-      },
-      "artists": [
-        {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
-      "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
     },
     {
       "added_at": "2023-09-20 04:45:11",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/4BrYZTc42JRwe1QuHIPapy"
-      },
-      "artists": [
-        {
-          "name": "Petra Sihombing",
-          "url": "https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW"
-        },
-        {
-          "name": "Ben Sihombing",
-          "url": "https://open.spotify.com/artist/0B8iRRv1YpDoxhcn2lMFs1"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/6NkUP6IeLnH6Yaw2wcNHzO"
-    },
-    {
-      "added_at": "2023-09-20 04:45:11",
-      "album": {
         "name": "1st Special Edition",
         "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
       },
@@ -1207,22 +1187,6 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
-        "name": "Perspektif Bodoh, Vol. 2",
-        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
-      },
-      "artists": [
-        {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
-        }
-      ],
-      "duration_ms": 308349,
-      "name": "Pegang Tanganku",
-      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
-    },
-    {
-      "added_at": "2023-09-20 04:45:11",
-      "album": {
         "name": "Ego & Fungsi Otak",
         "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
       },
@@ -1239,6 +1203,22 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
+        "name": "Perspektif Bodoh, Vol. 2",
+        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
+      },
+      "artists": [
+        {
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        }
+      ],
+      "duration_ms": 308349,
+      "name": "Pegang Tanganku",
+      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
+    },
+    {
+      "added_at": "2023-09-20 04:45:11",
+      "album": {
         "name": "Cerita Hanin Dhiya",
         "url": "https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 234914,
       "name": "Pupus",
       "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"
+    },
+    {
+      "added_at": "2023-09-20 04:45:11",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
+      },
+      "artists": [
+        {
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        },
+        {
+          "name": "Monita Tahalea",
+          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Bicara (feat. Monita Tahalea)",
+      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
     }
   ],
   "unique_name": "Kopikustik",

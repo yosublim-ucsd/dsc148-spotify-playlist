@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Young Franco
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,765 likes - 105 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,799 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 23 | [Alive](https://open.spotify.com/track/11lD8dtStBFmtcFU1b27Uv) | [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I), [Elaskia](https://open.spotify.com/artist/6Q2uOBVYTPgtPnSFaBPUvV) | [Alive](https://open.spotify.com/album/1hG3fzvtahMniNamrEcerR) | 4:34 |
 | 24 | [Nasty Freak](https://open.spotify.com/track/327oRyckF4SzFaRELqPWmB) | [Shaded](https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S) | [Nasty Freak](https://open.spotify.com/album/21dprYjgwlMk6kDcyGKKeT) | 3:19 |
 | 25 | [Fall Right Back To You](https://open.spotify.com/track/5yiB7R5WclJUQT7GV0sr3n) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/album/5NLqeErirxjepCcE7uvrLT) | 4:06 |
-| 26 | [Feel Good](https://open.spotify.com/track/4gIqcguWXG18Q3z9jikCHC) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Feel Good](https://open.spotify.com/album/3PqAyJinIE6pmgVcV8Vw5U) | 2:51 |
+| 26 | [Feel Good](https://open.spotify.com/track/4LDQMTLe1llYvZr07J9Pc0) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Feel Good](https://open.spotify.com/album/1c1cn3xwvgl21kOYJFJwk5) | 2:51 |
 | 27 | [Work With That](https://open.spotify.com/track/1vFjTDMs6UupIo9v52mokR) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Work With That](https://open.spotify.com/album/4wdqIrFeiYfitJJfcDjmQu) | 3:21 |
 | 28 | [STAR MVCHINE](https://open.spotify.com/track/3VnxAsE1mWebpGJleOOGTj) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe), [Indy Skies](https://open.spotify.com/artist/4Rb9X7RfZMiHcJF6xo9pzH) | [STAR MVCHINE](https://open.spotify.com/album/1W8zCkfo1d2Wf5wVTY2yuT) | 3:57 |
 | 29 | [PROTECTA](https://open.spotify.com/track/4UFC4dvAyASnFJ3ZEoigsH) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PROTECTA](https://open.spotify.com/album/1pqIMAkPGyIv2xqfR0Sohz) | 3:45 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 104 | [stay](https://open.spotify.com/track/71ZTTsP2SwH7GFUhTUqWw2) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Sace](https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA), [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu) | [stay](https://open.spotify.com/album/71fElHDTX4T1RKOaD0U4az) | 2:02 |
 | 105 | [ENERGY \(feat\. What So Not\)](https://open.spotify.com/track/56p7iNjfq5CAwYHAUtgcvl) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [EXISTENTIAL DANCE MUSIC](https://open.spotify.com/album/08B5vetD5dOlXKwFSDF4xz) | 3:52 |
 
-Snapshot ID: `MCw1ZjkxZDIzZTk5MGU0NmJmODkwNDBlZDJlMTlhN2Y1NmEwOGM3Y2Ux`
+Snapshot ID: `MCw2MGZkZjg5YTUxNGU4ZjU5ZTUzNWM3NjJlNWU3NGEwMGRkYjRmZDZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Sean Mason Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,326 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,390 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [PARTNERS](https://open.spotify.com/track/3jeoDM3FtcqZxaVeIwyuYO) | [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [IMPROMPTU](https://open.spotify.com/album/6duwQzolPoRw0Y5VtyVPgm) | 2:17 |
 | 75 | [Sweet Jasmine](https://open.spotify.com/track/1UJElgaArW1jL1dWX726z3) | [Zoe Rahman](https://open.spotify.com/artist/3OTQOoagPkd3Jst4VGeXKK) | [Colour of Sound](https://open.spotify.com/album/6UzXKdRElh4oQivnqEFS1P) | 4:49 |
 
-Snapshot ID: `MCw2MjQwMWUyNzBhMzk3ODcyMmQ3NGNiOTY2ZGFkMGUyYTI5NzdmNTUw`
+Snapshot ID: `MCw0NzljNDYzZGNhMDdjNjM5NmJmZGU4ZGUyZjQwNTE5ZTE0YzNmOGNi`

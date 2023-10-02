@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: SACHI
 
-359 songs - 18 hr 39 min
+360 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Everybody Jump \(Meet Her At The Love Parade\)](https://open.spotify.com/track/50Io7hyfWz9TdS550GjEZR) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [Rodney O](https://open.spotify.com/artist/6XarFW7tmNP4JIOcmTaXNq) | [Everybody Jump \(Meet Her At The Love Parade\)](https://open.spotify.com/album/32MSVlidfbRCpUkPmoVyrO) | 2:10 | 2023-08-10 | 2023-09-29 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-04-06 | 2023-07-07 |
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 | 2023-02-09 | 2023-06-09 |
-| [Feel Good](https://open.spotify.com/track/4gIqcguWXG18Q3z9jikCHC) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Feel Good](https://open.spotify.com/album/3PqAyJinIE6pmgVcV8Vw5U) | 2:51 | 2023-09-21 |  |
+| [Feel Good](https://open.spotify.com/track/4LDQMTLe1llYvZr07J9Pc0) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Feel Good](https://open.spotify.com/album/1c1cn3xwvgl21kOYJFJwk5) | 2:51 | 2023-09-28 |  |
+| [Feel Good](https://open.spotify.com/track/4gIqcguWXG18Q3z9jikCHC) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Feel Good](https://open.spotify.com/album/3PqAyJinIE6pmgVcV8Vw5U) | 2:51 | 2023-09-21 | 2023-10-02 |
 | [Feel It](https://open.spotify.com/track/6zx3Fh4ycldi5XZHukp2jT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Lost Forever](https://open.spotify.com/album/3kwZmDvzfHAhkWdIUaku4J) | 5:09 | 2022-12-08 | 2022-12-24 |
 | [Feel It](https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Feel It](https://open.spotify.com/album/5ozui0519aka32Jj8vFp8D) | 3:12 | 2023-01-19 | 2023-02-10 |
 | [Feel Your Ghost](https://open.spotify.com/track/64HfvrHpMhaPArBsmo5QTf) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Feel Your Ghost](https://open.spotify.com/album/1CTxgZIYbDoSltqjBmwxyK) | 3:25 | 2023-05-18 | 2023-09-01 |
