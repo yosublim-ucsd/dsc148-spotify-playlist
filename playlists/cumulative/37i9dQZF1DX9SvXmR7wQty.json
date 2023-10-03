@@ -4769,6 +4769,28 @@
     },
     {
       "album": {
+        "name": "C'est dr\u00f4le",
+        "url": "https://open.spotify.com/album/6WfOHoMzaQSMDeUGbUBccF"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177826,
+      "name": "C'est dr\u00f4le",
+      "url": "https://open.spotify.com/track/4czTL8KGYPjR0mWyQy7z6B"
+    },
+    {
+      "album": {
         "name": "C'est Dur",
         "url": "https://open.spotify.com/album/4PoqfZAe5hpS1fycD98ARO"
       },
@@ -28992,7 +29014,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 201250,
       "name": "Plus jamais",
       "url": "https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD"

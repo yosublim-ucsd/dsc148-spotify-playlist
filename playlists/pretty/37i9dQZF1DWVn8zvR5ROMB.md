@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Thomas Rhett and Morgan Wallen, Riley Green and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,939 likes - 96 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,147 likes - 96 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 95 | [Hurts the Best](https://open.spotify.com/track/1abnvxVAa8EEPS51JjuV9Q) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [Hurts the Best](https://open.spotify.com/album/2BBS4o7myEVNl21JAzLXAk) | 2:50 |
 | 96 | [Whatcha Doin' Tonight](https://open.spotify.com/track/1HoYxDcG7qzcipg8BwWw48) | [Jay Kutcher](https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz), [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo) | [Whatcha Doin' Tonight](https://open.spotify.com/album/6pzN1JVUTHmy6Gjs57cTmR) | 3:03 |
 
-Snapshot ID: `MCxmYTU2YzQ5MGJiZTA3MjJmNzgyOGU1N2NhNmFmMzMwZjlkZGVhZmFm`
+Snapshot ID: `MCxlM2Y2MzJlYWViNDRlY2ViMzZhMjM0ZTAyZjc4ZjI4ZThiYTQ3MjFm`

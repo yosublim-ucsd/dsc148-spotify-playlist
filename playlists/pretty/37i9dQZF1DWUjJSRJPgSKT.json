@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 16377,
+  "num_followers": 16470,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTY0Y2FiZjUyNGYwOTk1Y2U2OWJlYWQ5MzIwZDQ1M2E0MWUwNzg3",
+  "snapshot_id": "MCwxMjAyMzk3YmE0YzAzMjcxMjc2M2NlYjBlYjY3YzNhMzNjNzdkNTBm",
   "tracks": [
     {
       "added_at": "2023-09-01 09:42:16",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 446893,
-      "name": "Without a Song - Remastered",
-      "url": "https://open.spotify.com/track/6NeCoPvzhTHcBu3RFzbY3X"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Stan Getz & Bill Evans",
         "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
@@ -183,22 +167,18 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Clifford Brown And Max Roach",
-        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
       },
       "artists": [
         {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach Quintet",
-          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 245400,
-      "name": "Daahoud",
-      "url": "https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K"
+      "duration_ms": 446893,
+      "name": "Without a Song - Remastered",
+      "url": "https://open.spotify.com/track/6NeCoPvzhTHcBu3RFzbY3X"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -251,6 +231,26 @@
       "duration_ms": 388160,
       "name": "Matrix",
       "url": "https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Clifford Brown And Max Roach",
+        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Daahoud",
+      "url": "https://open.spotify.com/track/2sfcdBm7F0ccANkXBfMK5K"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 442173,
-      "name": "Scrapple From The Apple - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/5f4V1rtxYYbGnTbITkkIV7"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "The Genius Of Charlie Parker",
         "url": "https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 182160,
       "name": "Ornithology",
       "url": "https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 442173,
+      "name": "Scrapple From The Apple - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/5f4V1rtxYYbGnTbITkkIV7"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 434240,
-      "name": "Locomotion - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/43qTHtzIXt8ehFgcncwglq"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Cannonball Adderley Quintet In Chicago",
         "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 280226,
       "name": "Limehouse Blues",
       "url": "https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Blue Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 434240,
+      "name": "Locomotion - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/43qTHtzIXt8ehFgcncwglq"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Smokin' At The Half Note (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Impressions - Live At The Half Note /1965",
-      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Ultimate Stan Getz",
         "url": "https://open.spotify.com/album/1TTbszowRjHjuvKsv2JVjm"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 401560,
       "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Smokin' At The Half Note (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "Impressions - Live At The Half Note /1965",
+      "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 359933,
-      "name": "The Bridge - Remastered",
-      "url": "https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Mingus Mingus Mingus Mingus Mingus",
         "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 283160,
       "name": "Hora Decubitus",
       "url": "https://open.spotify.com/track/6evehXa14Rvbt355gFnMdH"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 359933,
+      "name": "The Bridge - Remastered",
+      "url": "https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Cornbread",
-        "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 534000,
-      "name": "Our Man Higgins",
-      "url": "https://open.spotify.com/track/6Ay3xLmG2zLku1ZM0RytBc"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Hard Bop (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GQHWCO7xTs34YECtSCfAL"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 288626,
       "name": "Cranky Spanky",
       "url": "https://open.spotify.com/track/0YpDyg89lkfI1rY0klMdtf"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Cornbread",
+        "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 534000,
+      "name": "Our Man Higgins",
+      "url": "https://open.spotify.com/track/6Ay3xLmG2zLku1ZM0RytBc"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "The Cooker",
-        "url": "https://open.spotify.com/album/47AT8h8Vc7LD3NIiNNC2Py"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 436733,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/0zztrA9NQkQTz3OQiNljXR"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Mode For Joe (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 208030,
       "name": "Slippers",
       "url": "https://open.spotify.com/track/2l9HtErDh1gZfnyjeBk9NT"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "The Cooker",
+        "url": "https://open.spotify.com/album/47AT8h8Vc7LD3NIiNNC2Py"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 436733,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/0zztrA9NQkQTz3OQiNljXR"
     },
     {
       "added_at": "2023-09-01 09:42:16",

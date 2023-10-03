@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 438091,
+  "num_followers": 438290,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmY4ZDdmMDQ5Njg4YmNlN2Q1NDZiMDdiNWY2NjI5MGM2YjM5NTM4",
+  "snapshot_id": "MCw2NWY3YTAyYmFjN2U3N2YxZThlZmI3NDZlMDRjNGM1NTFkYzk0NDY1",
   "tracks": [
     {
       "added_at": "2023-09-22 00:01:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
         "name": "Liquid Spirit (Claptone Remix)",
         "url": "https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 220623,
       "name": "GLY",
       "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 138951,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
       "added_at": "2023-09-22 00:01:00",

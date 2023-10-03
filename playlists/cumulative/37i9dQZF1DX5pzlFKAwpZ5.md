@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-234 songs - 17 hr 27 min
+236 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Ear Dreamin'](https://open.spotify.com/track/2b7h7hMkxj5hDorhGfTGoU) | [Yoshiaki Ochi](https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:45 | 2022-12-30 |  |
 | [Early Morning](https://open.spotify.com/track/4QMTjiyxQZyHkJkd5kOVjo) | [Yuki Ishii](https://open.spotify.com/artist/7uNHU1YLG5NsxBgwkx60SR) | [REFLECTION](https://open.spotify.com/album/2X2kWxa1i0mMX07XFgmgW2) | 1:32 | 2022-01-07 |  |
 | [EAST](https://open.spotify.com/track/6Ygtiz9F4HhhJaO7EHwiMj) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/70FS8K29lXeAiX6ovQaHwo) | 6:14 | 2022-01-07 | 2022-10-01 |
+| [Ecliptic Drift](https://open.spotify.com/track/0Etrh1T0HeWk2C7vXODxm8) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Mono Spectrum](https://open.spotify.com/album/0MArGYb9frtOAfhjhk64WL) | 2:26 | 2023-10-02 |  |
 | [Endless Winter](https://open.spotify.com/track/6iWq0mbEZN5d7h4yMGCtqz) | [Airda](https://open.spotify.com/artist/4D02Ag61s1bHSVfWu51lLO) | [Endless Winter](https://open.spotify.com/album/5GcNSMT6S9yR1eFegzWVsR) | 4:48 | 2022-01-07 | 2022-07-29 |
 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/414AJsmhPuEA7W3wC9Go77) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 3:47 | 2022-12-30 | 2023-04-30 |
 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 3:47 | 2023-04-28 |  |
@@ -193,6 +194,7 @@
 | [The Light of the Moon](https://open.spotify.com/track/2mSK2CRkuK2S00KS4cPrFq) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:34 | 2022-01-07 |  |
 | [The Spider's Thread](https://open.spotify.com/track/45okZJHya7HLzEi0zvRaDI) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [A Halo of Light One Day](https://open.spotify.com/album/2erifYmBD16kWNRjYipk1x) | 5:29 | 2022-07-22 |  |
 | [The Taste Blends in](https://open.spotify.com/track/08JSkuAqcWuqX2QHgCxcnG) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Life Album](https://open.spotify.com/album/7bykpXTTFEZze1sWZ0ikpu) | 3:15 | 2022-01-07 |  |
+| [Thousand Bells, Pt\. 1](https://open.spotify.com/track/066LIufqmFNfiXv6p7SMru) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e), [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Thousand Bells](https://open.spotify.com/album/0UdrYgVmphq6PxnWfYC4We) | 3:50 | 2023-10-02 |  |
 | [Time](https://open.spotify.com/track/6vY9hR2JMxFoWncntRAG2p) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Size](https://open.spotify.com/album/4fic5J6NkTKLcb93LcnfR9) | 3:02 | 2022-04-08 | 2023-07-07 |
 | [Time of Bliss](https://open.spotify.com/track/5ogmYi51av81lCTh4oujTI) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Draw a Sleeps](https://open.spotify.com/album/2YQT0iwuaoSWLy1z0D9jrp) | 3:16 | 2022-01-07 |  |
 | [TO THE AIR/空へ](https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 5:11 | 2022-12-30 |  |

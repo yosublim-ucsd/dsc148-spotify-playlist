@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 176136,
       "name": "Baterky do rakety",
       "url": "https://open.spotify.com/track/6y2qAo8BYS1Hm6IfOLHxf0"
@@ -6642,7 +6642,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 200543,
       "name": "EAST SENTINEL",
       "url": "https://open.spotify.com/track/7G0srwzHysys10kcyimL7y"
@@ -8742,7 +8742,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 127741,
       "name": "GMFU (w/ 6arelyhuman)",
       "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
@@ -14700,7 +14700,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 209416,
       "name": "Memory Reboot",
       "url": "https://open.spotify.com/track/1Q68oodivzKjIDnPTXFy83"
@@ -16268,7 +16268,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 225124,
       "name": "Nanana Vs Cola (Mashup) - Remix",
       "url": "https://open.spotify.com/track/5XV581nG7ndP3D4SjFLFk6"
@@ -17582,7 +17582,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 119895,
       "name": "ON THE FLOOR",
       "url": "https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX"
@@ -18610,7 +18610,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 365252,
       "name": "Peroxid 3",
       "url": "https://open.spotify.com/track/461ShlymTq7F9zN5KJ2zUk"
@@ -19242,6 +19242,24 @@
       "duration_ms": 76277,
       "name": "Pray for Another Love",
       "url": "https://open.spotify.com/track/1VGOpP1b0JQb6mwtikAsvY"
+    },
+    {
+      "album": {
+        "name": "prayer1",
+        "url": "https://open.spotify.com/album/7byVxlCnqyq58cDcMj3bls"
+      },
+      "artists": [
+        {
+          "name": "april27",
+          "url": "https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "prayer1",
+      "url": "https://open.spotify.com/track/2R4sIoCrJb4OV5qcsNDIQ6"
     },
     {
       "album": {
@@ -21947,6 +21965,24 @@
     },
     {
       "album": {
+        "name": "ANTIWAR SONGBOOK",
+        "url": "https://open.spotify.com/album/6MVOMdg0TEC7n7wLP8g2W5"
+      },
+      "artists": [
+        {
+          "name": "Fvck_kvlt",
+          "url": "https://open.spotify.com/artist/5szZkTtzRVM6BMoId7N5Fx"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Skurvensko I.",
+      "url": "https://open.spotify.com/track/1Rmu0DPYmhSH6JaITAnxnX"
+    },
+    {
+      "album": {
         "name": "CIG\u00c1N",
         "url": "https://open.spotify.com/album/7HlnlZBOiHZSNf5I1O9bkV"
       },
@@ -21958,7 +21994,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 172142,
       "name": "Skurvensko II.",
       "url": "https://open.spotify.com/track/4CP9EZHtGhn51TMEj9IupY"
@@ -25174,7 +25210,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 75692,
       "name": "TUCA DONKA",
       "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
@@ -27662,7 +27698,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 249514,
       "name": "Youngest Daughter",
       "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"

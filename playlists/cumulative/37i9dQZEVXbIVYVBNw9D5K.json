@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 171382,
       "name": "Al Aram\u0131zdan",
       "url": "https://open.spotify.com/track/44UZWruF4P4uMZ10fd1eMK"
@@ -2984,7 +2984,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 161025,
       "name": "B\u00f6l\u00fcm Sonu",
       "url": "https://open.spotify.com/track/1W7vixv87ysuAoOKzz0uLE"
@@ -4326,6 +4326,24 @@
       "duration_ms": 185454,
       "name": "Ellerin Hani?",
       "url": "https://open.spotify.com/track/6Mv4D3yBHN5lN7jowqJmm9"
+    },
+    {
+      "album": {
+        "name": "ELLER\u0130M BO\u015e",
+        "url": "https://open.spotify.com/album/04u0fa9U9cdkNdNCoYyqoj"
+      },
+      "artists": [
+        {
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "ELLER\u0130M BO\u015e",
+      "url": "https://open.spotify.com/track/0Y4mwQ4z0Voplgh7o2OZYm"
     },
     {
       "album": {
@@ -5768,7 +5786,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 192446,
       "name": "G\u00f6rmem B\u00f6ylesini",
       "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
@@ -9946,7 +9964,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 182400,
       "name": "NKB\u0130 X YAPAMAM - Remix",
       "url": "https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd"
@@ -12060,7 +12078,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 165797,
       "name": "Sevecek Sand\u0131m",
       "url": "https://open.spotify.com/track/7dWOeNUJfixlvUcpZD90YE"
@@ -12140,7 +12158,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 150726,
       "name": "Sevmiyo",
       "url": "https://open.spotify.com/track/5NVXoNPyW9K1NQmxlDfBoU"
@@ -12452,7 +12470,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 148827,
       "name": "Sor",
       "url": "https://open.spotify.com/track/4K5IIAsu1g5baNEonmTAwu"

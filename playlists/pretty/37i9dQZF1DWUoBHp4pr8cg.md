@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Yanga Chief \(pictured\), Lil Yachty , Doja Cat, FLVME, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,265 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,333 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 49 | [MOP](https://open.spotify.com/track/6vKzxT4FXGHECZEw3tIIge) | [Squeeks](https://open.spotify.com/artist/52jwaLGrYTCFAEwDW0rI52), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [MOP](https://open.spotify.com/album/5KZLDvg135ffnDcl6IRaja) | 3:32 |
 | 50 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 |
 
-Snapshot ID: `MCxmN2E0M2YxNjU4ZGM2Mjg4OWM3MWE2MTAwN2ZhYzU0ZTI3Y2ZiNThl`
+Snapshot ID: `MCwyYTJlMDFlMzBhOTk5NmE3Y2I0YzU1ODU1MjlhYjc5NDRmZmQ1YTA1`

@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Miami Carnival 2023, curated by Silent Addy
 
-380 songs - 19 hr 1 min
+381 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,8 +197,9 @@
 | [Lockdown](https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Lockdown](https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6) | 2:59 | 2021-12-20 | 2022-03-03 |
 | [London](https://open.spotify.com/track/69GzHJZKbGZnYaEpHYaC4n) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [London](https://open.spotify.com/album/616VWAHOKzHETulvW0RJNA) | 2:31 | 2022-07-29 | 2022-09-10 |
 | [Love Story](https://open.spotify.com/track/76mqZXlySKItIJw9norTJy) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Love Story](https://open.spotify.com/album/3TREWdAbsavg6OAsXjVU2R) | 3:01 | 2021-12-20 | 2022-03-22 |
+| [Mad Out](https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Mad Out](https://open.spotify.com/album/6nR7RCfNBtfEHNW7wRVP67) | 2:33 | 2023-09-24 |  |
 | [Mad Out](https://open.spotify.com/track/3sKFGFRXf9vLhO0f36FPIH) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Mad Out](https://open.spotify.com/album/6Ed8djOFTsUOlWNEAb6fVu) | 2:33 | 2023-09-24 | 2023-09-30 |
-| [Mad Out](https://open.spotify.com/track/66fDqCrza2Q0LkwBMu0RVC) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Big Bunx Riddim](https://open.spotify.com/album/4DkQnfDRm6b8i7Eit2tBdM) | 2:33 | 2023-09-24 |  |
+| [Mad Out](https://open.spotify.com/track/66fDqCrza2Q0LkwBMu0RVC) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Big Bunx Riddim](https://open.spotify.com/album/4DkQnfDRm6b8i7Eit2tBdM) | 2:33 | 2023-09-24 | 2023-10-03 |
 | [Man Is The Least](https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Extra Raw: The First Lady Of Dancehall](https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd) | 3:50 | 2023-07-10 | 2023-08-08 |
 | [Maniac](https://open.spotify.com/track/1tCcOw0WZuKRkW5xl9EhMm) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/3y09mvRbBlkfCJHmlpQnc7) | 2:58 | 2021-12-20 | 2022-03-22 |
 | [Mek Money](https://open.spotify.com/track/3MVbaHUhFefg7RKjTXMoa9) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Mek Money](https://open.spotify.com/album/5Evsbapiw54PEtMa7tpSGe) | 2:13 | 2021-12-20 |  |

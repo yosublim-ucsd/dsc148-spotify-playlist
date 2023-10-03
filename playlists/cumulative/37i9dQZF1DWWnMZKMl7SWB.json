@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 152456,
       "name": "Blown Away",
       "url": "https://open.spotify.com/track/2lRzzqXLvZ7J8x7rBN2Dn8"
@@ -5911,6 +5911,24 @@
     },
     {
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/61boJpcbCcJogaxhegOHwN"
+      },
+      "artists": [
+        {
+          "name": "Kibunde",
+          "url": "https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/0GX01FogF0EeJYXKTYwhMp"
+    },
+    {
+      "album": {
         "name": "Enchant\u00e9",
         "url": "https://open.spotify.com/album/4i8j7sK7dQ6ESbIDopluL8"
       },
@@ -6370,7 +6388,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 117120,
       "name": "Fading",
       "url": "https://open.spotify.com/track/1mL3YZ7HjesgGu2RWHacxv"
@@ -6652,7 +6670,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 195682,
       "name": "Feels Like Tomorrow",
       "url": "https://open.spotify.com/track/63dG83UMhVKzOOGaxeivf7"
@@ -9003,6 +9021,24 @@
     },
     {
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/4YcojIOuGGewmDv8jMKKay"
+      },
+      "artists": [
+        {
+          "name": "Dip Lewis",
+          "url": "https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4AAxteXXwBqVchz26932uB"
+    },
+    {
+      "album": {
         "name": "Wash",
         "url": "https://open.spotify.com/album/5a93OsxGkd4K2zgdflh2vX"
       },
@@ -10733,6 +10769,24 @@
     },
     {
       "album": {
+        "name": "Lizards and Lattes",
+        "url": "https://open.spotify.com/album/6MFXbVjc0gexy3Qvv3WuLb"
+      },
+      "artists": [
+        {
+          "name": "Wruce Billis",
+          "url": "https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119117,
+      "name": "Lizards and Lattes",
+      "url": "https://open.spotify.com/track/3WF6J4P4ozwQ1hbQMzGtID"
+    },
+    {
+      "album": {
         "name": "lo degradation",
         "url": "https://open.spotify.com/album/21AMrDO2AsMF3kjrk5v068"
       },
@@ -10784,7 +10838,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 101333,
       "name": "LoFicious",
       "url": "https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e"
@@ -13109,6 +13163,24 @@
     },
     {
       "album": {
+        "name": "Nostalgic Noodles",
+        "url": "https://open.spotify.com/album/7wcmvwXKitFGIE9yIPm5Cj"
+      },
+      "artists": [
+        {
+          "name": "Vidstige",
+          "url": "https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119117,
+      "name": "Nostalgic Noodles",
+      "url": "https://open.spotify.com/track/639IKfmKDbCl4mVt02t1Wa"
+    },
+    {
+      "album": {
         "name": "Not At All",
         "url": "https://open.spotify.com/album/69poJpRRslIWZkiasD6wHj"
       },
@@ -14096,6 +14168,24 @@
       "duration_ms": 193104,
       "name": "Passing Trains",
       "url": "https://open.spotify.com/track/01oZjrRICAL5l0sSFqpb5D"
+    },
+    {
+      "album": {
+        "name": "Past Bedtime",
+        "url": "https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky"
+      },
+      "artists": [
+        {
+          "name": "HollyDave",
+          "url": "https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125158,
+      "name": "Past Bedtime",
+      "url": "https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q"
     },
     {
       "album": {
@@ -17768,7 +17858,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 165000,
       "name": "Starlust",
       "url": "https://open.spotify.com/track/5XijzlJUxXVwKmMo2BoGDm"

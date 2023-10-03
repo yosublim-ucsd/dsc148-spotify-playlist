@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-509 songs - 1 day 18 hr 53 min
+510 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A.O.E](https://open.spotify.com/track/0NZKFDZdC2qgxwnJQtp1KR) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [A.O.E](https://open.spotify.com/album/1sXXkPMY6wq64LUp82lbXM) | 5:35 | 2021-12-16 | 2022-07-29 |
 | [Absence](https://open.spotify.com/track/1v8Yegje2XmBIt3M948R7x) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [The E\-Collective](https://open.spotify.com/artist/3mLYbLsEXzIgdvikrVRK46), [Turtle Island String Quartet](https://open.spotify.com/artist/5ofemHoNWTjeADvzFTAhy2) | [Absence](https://open.spotify.com/album/0d7MJP0WObWccm55hV1e7w) | 6:54 | 2021-12-16 | 2022-07-22 |
 | [Activate](https://open.spotify.com/track/3WC7ghbmLi4xyix8Ov2gbE) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Fyah](https://open.spotify.com/album/5ARRU7a8vxShTK3casRufg) | 4:46 | 2022-04-01 | 2023-09-21 |
+| [Activate](https://open.spotify.com/track/7JaC4SMosgX03WpsgERMHe) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Fyah](https://open.spotify.com/album/0hoEpWq1xFAwRV4efA4Bz1) | 4:46 | 2022-04-01 |  |
 | [Actual Proof](https://open.spotify.com/track/4Iilbf7sqOuxzAmt08j9Lk) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF), [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [Actual Proof](https://open.spotify.com/album/1BKVI6Z8oknAjK1gHFUJ7G) | 3:21 | 2021-12-16 |  |
 | [Admas](https://open.spotify.com/track/1qiTJroqF1E7E3g86DFzGA) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Admas](https://open.spotify.com/album/1BCQEZMyrDv7N5sXdamtGD) | 3:49 | 2021-12-16 |  |
 | [Adrian, Ali and Gregory](https://open.spotify.com/track/0IqaNlCNNCFBfuoka1Me7N) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [João Donato JID007](https://open.spotify.com/album/2qWnN8q2Tulx0oH4MJY12Z) | 2:23 | 2022-02-10 |  |
@@ -243,7 +244,7 @@
 | [Loosed](https://open.spotify.com/track/159joJXhn4I74i1gZLE3Bs) | [Ill Considered](https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO) | [Loosed](https://open.spotify.com/album/5IqFF12aL8mqCMFf1FrMyP) | 6:15 | 2021-12-16 | 2022-12-06 |
 | [Loosed](https://open.spotify.com/track/7jPFm9v98htkGY9dHiKFXH) | [Ill Considered](https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO) | [Liminal Space](https://open.spotify.com/album/5d7i7p5mP76Gi4kY2YurSw) | 6:15 | 2022-02-10 |  |
 | [LORIMER feat\. Savannah Harris](https://open.spotify.com/track/6KpRXdEgcnjIApjIZIH5iZ) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Savannah Harris](https://open.spotify.com/artist/0V3HEHjTbwlM0Tf89lTT2j) | [LORIMER feat\. Savannah Harris](https://open.spotify.com/album/35Z0iYtC8EwjQQRR82wv8Q) | 4:18 | 2021-12-16 | 2022-07-29 |
-| [LORIMER feat\. Savannah Harris](https://open.spotify.com/track/7c0TJhI2JkflNx9RzKR9pa) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Savannah Harris](https://open.spotify.com/artist/0V3HEHjTbwlM0Tf89lTT2j) | [Projekt Drums Vol\. 1](https://open.spotify.com/album/7y71YM77RqFPGtgIrrLcGH) | 4:18 | 2022-02-10 |  |
+| [LORIMER feat\. Savannah Harris](https://open.spotify.com/track/7c0TJhI2JkflNx9RzKR9pa) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Savannah Harris](https://open.spotify.com/artist/0V3HEHjTbwlM0Tf89lTT2j) | [Projekt Drums Vol\. 1](https://open.spotify.com/album/7y71YM77RqFPGtgIrrLcGH) | 4:18 | 2022-02-10 | 2023-10-03 |
 | [Lost Orbits](https://open.spotify.com/track/5FWqqdb7OKt1Yf0n9qdWx6) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [Lost Orbits](https://open.spotify.com/album/60lIniNjameGxk6W6E8AQr) | 4:44 | 2021-12-16 | 2022-07-29 |
 | [Love in Dreams](https://open.spotify.com/track/25qmmlRJ4ZHhhKsvidRgNn) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Idris Rahman](https://open.spotify.com/artist/0usZeXbJX9kz203eMYmWRw) | [Love in Dreams](https://open.spotify.com/album/37U57Q4k4w49vuAh202pOJ) | 6:04 | 2021-12-16 | 2022-07-26 |
 | [Love Proceeding](https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:25 | 2021-12-16 |  |

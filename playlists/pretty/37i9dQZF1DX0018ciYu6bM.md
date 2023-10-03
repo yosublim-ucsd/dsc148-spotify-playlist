@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: KISS OF LIFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,030 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,324 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 74 | [I DO](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) | 3:10 |
 | 75 | [Bambambam](https://open.spotify.com/track/3nwQPAN4jq3iPjPf24LYAj) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [\[Ready, Set, LOVE\]](https://open.spotify.com/album/0j2hQTYeoVSt35FXPUPaaL) | 3:19 |
 
-Snapshot ID: `MCwyMzA0MWIzMDM5OWMwN2I1NWViYjVhMjNmOWRmODJlZjc1OTg2MTFm`
+Snapshot ID: `MCxmODFjMDU0YWQwZjY3YmIzNTA3NTAzM2M1M2YwMjRjYjdlZTQ3ODY2`

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-550 songs - 23 hr 25 min
+551 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Bioluminescence](https://open.spotify.com/track/6huZj8trhBUzOZQ60yzQeD) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Bioluminescence](https://open.spotify.com/album/6hYg15PwqWFE89U2PYHIrE) | 2:02 | 2021-11-10 |  |
 | [Bittersweet Brilliance](https://open.spotify.com/track/4OmgwhjWEYnIrUDMpaMApB) | [Pillowdowns](https://open.spotify.com/artist/2nWLLnsvWQJ901pO7JkVdn) | [Under the Skyplane](https://open.spotify.com/album/7tKMxysRCC5qyGzC9BAjom) | 3:17 | 2021-11-10 | 2022-02-11 |
 | [Blakwool](https://open.spotify.com/track/6I8asPH52FAFn13luYM3UR) | [Rakuto](https://open.spotify.com/artist/3TdtGIrs1VN2rb5eCD911V) | [Futureboy](https://open.spotify.com/album/4AAZahcCcVsNtFxO294eSA) | 3:45 | 2021-11-10 | 2022-05-20 |
+| [Blanket](https://open.spotify.com/track/7y5FvLf4zFR4wyadweNWXy) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Blanket](https://open.spotify.com/album/7upEQocfRg69LCyh1DeIMs) | 2:07 | 2023-10-02 |  |
 | [Bloomin'](https://open.spotify.com/track/4V84CYLnNvkP3YzhL5cpLx) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Bloomin'](https://open.spotify.com/album/6lgNSOo9OivZS0jLaWeXwB) | 2:16 | 2022-01-21 | 2022-07-01 |
 | [Blue](https://open.spotify.com/track/6jpQ73DuZifjGw2VDnj21p) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [Blue](https://open.spotify.com/album/01dwUb3AtTgxqnYLMzk5La) | 2:15 | 2022-10-28 |  |
 | [blue beach](https://open.spotify.com/track/5eBeSATSSfCHgkh00kZa4Y) | [ilsey john](https://open.spotify.com/artist/2klDNbRLOvnZT8mMB7Nmqu) | [blue beach](https://open.spotify.com/album/2ftLfhiciXIAcVt3uXRWUB) | 2:38 | 2022-06-10 | 2022-09-02 |
@@ -306,7 +307,7 @@
 | [Mind Massage](https://open.spotify.com/track/1vFAE2GL7YqPalMDan8BN4) | [Phlo X](https://open.spotify.com/artist/7wpjhdiboISbPKE8SBwCet) | [Mind Massage](https://open.spotify.com/album/3qhrSaDI24kXJhIcBS1K3a) | 2:24 | 2022-06-03 |  |
 | [Miyako](https://open.spotify.com/track/5aCdHO6JC7MqExMCPjLHUG) | [DJ Daww](https://open.spotify.com/artist/41avBfwtlGgskYqrJOGGM6) | [Miyako](https://open.spotify.com/album/6H6yWpYPxyrwQN8B4FXCzf) | 2:14 | 2021-11-10 | 2022-01-22 |
 | [mode station](https://open.spotify.com/track/12BJChhHFzQDnT8FnrGHXb) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [mode station](https://open.spotify.com/album/3D9xQpxQ1snGCQtqU6rZXb) | 3:06 | 2022-06-24 |  |
-| [Moist](https://open.spotify.com/track/5tksNcpfwHBDXo3xufof0P) | [Blacc Keys](https://open.spotify.com/artist/50GnA7N9EkfJ3PivwXwa8m) | [Moist](https://open.spotify.com/album/4Mn79gFmJ3SEx50s4esIDu) | 2:08 | 2022-07-08 |  |
+| [Moist](https://open.spotify.com/track/5tksNcpfwHBDXo3xufof0P) | [Blacc Keys](https://open.spotify.com/artist/50GnA7N9EkfJ3PivwXwa8m) | [Moist](https://open.spotify.com/album/4Mn79gFmJ3SEx50s4esIDu) | 2:08 | 2022-07-08 | 2023-10-03 |
 | [Molecular Force](https://open.spotify.com/track/15cnM6N7rgjv7mBAHLiG63) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Molecular Force](https://open.spotify.com/album/4av4XmjYKDALjdQKSTozLZ) | 1:42 | 2021-11-10 | 2022-04-15 |
 | [Montreux](https://open.spotify.com/track/5BCogYGUcjCVn7u6aYarva) | [Desoncote](https://open.spotify.com/artist/5aMtYcDTbmtmG2VeCDq0zi) | [Montreux](https://open.spotify.com/album/6DNfPtbVjz5s4qoOIttveN) | 2:15 | 2021-11-10 | 2022-07-01 |
 | [Monument](https://open.spotify.com/track/7iomG5R5mlZ9AxIVPHfh9M) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Monument](https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh) | 2:54 | 2023-01-13 |  |

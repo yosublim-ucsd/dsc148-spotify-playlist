@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,581 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,612 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 57 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 |
 | 58 | [THROWBACK](https://open.spotify.com/track/40bf02ACOSsxKcwDtxBEPG) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [THROWBACK](https://open.spotify.com/album/5HMvIGftHpoLsddBG8MPGl) | 2:27 |
 | 59 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
-| 60 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 |
+| 60 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 3:28 |
 | 61 | [I Don't Wanna Dance \(feat\. Baby Tate\)](https://open.spotify.com/track/77v0c1CYJ04g9IteCB4Hfu) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Existential Crisis Boy \(Part 1\)](https://open.spotify.com/album/5TVQXYqzF5t6HQMHKZVWUQ) | 3:07 |
 | 62 | [TRICKIN'](https://open.spotify.com/track/1jBMZDuirIUrnXyhS2ExfB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TRICKIN'](https://open.spotify.com/album/1o8Qeyne1vdIDJtPCwwbvw) | 1:45 |
 | 63 | [Morning Light](https://open.spotify.com/track/7fJ5UGjo2oiNG1pmIboATC) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [About Us](https://open.spotify.com/album/1hhz0ag2dAr0qw7W78smcT) | 4:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [let u in](https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [let u in](https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a) | 2:55 |
 | 100 | [VIDEO GAME](https://open.spotify.com/track/2dPgrDsNTN2tTUQMn3vWW5) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [VIDEO GAME](https://open.spotify.com/album/5byaS0rosm6QwgVwtRPoeb) | 2:08 |
 
-Snapshot ID: `MCw3ZDM1NGM2ZDkzZTU2ZGIxOWRiZWVmYjg4NWNiYmM3MDQwZTI1NjJh`
+Snapshot ID: `MCxkOGM1ZTEwZTNhZmZmYmJiN2I4ZTY5ZjYwNzdlNDdmNWY3YWQ2MWNh`

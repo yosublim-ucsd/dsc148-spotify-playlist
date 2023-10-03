@@ -2644,7 +2644,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 232131,
       "name": "Geminism",
       "url": "https://open.spotify.com/track/3g4VzxY3cmFDJSCW3z9SPX"
@@ -6756,6 +6756,24 @@
       "duration_ms": 205714,
       "name": "The Sun Has Risen - Instrumental",
       "url": "https://open.spotify.com/track/1yUMnQ7kDd874TaPn924Lo"
+    },
+    {
+      "album": {
+        "name": "Through The Infinite",
+        "url": "https://open.spotify.com/album/1szUytSvkOPxPDF5Ogqliv"
+      },
+      "artists": [
+        {
+          "name": "Elysio Stone",
+          "url": "https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163041,
+      "name": "Through The Infinite",
+      "url": "https://open.spotify.com/track/11VMvgQXjrboqwbNRaMd4s"
     },
     {
       "album": {

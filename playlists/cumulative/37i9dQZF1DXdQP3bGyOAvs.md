@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-322 songs - 16 hr 6 min
+323 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All Now](https://open.spotify.com/track/7AfAtvY4rhcRAnFOtvqiPU) | [Time Lines](https://open.spotify.com/artist/2gckwTYh1Gf4GZ98mzOBfa) | [All Now](https://open.spotify.com/album/1qKCsPWmjirPcP8ZHaevgP) | 2:49 | 2022-05-20 |  |
 | [Almannagjá](https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Almannagjá](https://open.spotify.com/album/3oc8GKdKvYten8v7t4mspv) | 3:31 | 2022-08-19 |  |
 | [Amalfi](https://open.spotify.com/track/19QYUIYkUEyIixnSbVej4W) | [Lagoa Verde](https://open.spotify.com/artist/2rj97Navn2jTJOZdsrwvWr) | [Amalfi](https://open.spotify.com/album/3GUtE7Dy2XpyOdg1V8uTuF) | 2:45 | 2022-05-20 |  |
+| [Among Clouds](https://open.spotify.com/track/5iE1WtbpbDJrJwMxYXU0Ru) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Among Clouds](https://open.spotify.com/album/0DeniXwoTYOptimAPlZ1VK) | 2:23 | 2023-10-02 |  |
 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2022-05-20 | 2022-09-09 |
 | [Attakai](https://open.spotify.com/track/31oZ4m7CyWTwpYD7R6NPTz) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Attakai](https://open.spotify.com/album/53wJqYooEt4qWtG8fzLNoQ) | 3:13 | 2022-08-19 |  |
 | [Azelio](https://open.spotify.com/track/2W0getS9GtmaLdXsMxxBxn) | [Slashio](https://open.spotify.com/artist/47tNKltwmA9PtSyeuGvhHe) | [Azelio](https://open.spotify.com/album/5duytrcpNEq3Egk79S0kHO) | 2:37 | 2022-09-02 |  |
@@ -265,7 +266,7 @@
 | [Shimmer](https://open.spotify.com/track/4Cii3rooOPgvklHGE3O8y2) | [Steve Residence](https://open.spotify.com/artist/3PGuQmihozoJRR9SeY7ldd) | [Shimmer](https://open.spotify.com/album/0UPoyslKIHed6kluQUuP7M) | 2:59 | 2022-05-20 | 2022-09-09 |
 | [Shizz](https://open.spotify.com/track/3TaNU6gtqHzEfNZMJXYM43) | [Mads Nielsen Stolt](https://open.spotify.com/artist/1F9o7boqKQEWTQRIorbiR4) | [Shizz](https://open.spotify.com/album/1fVNSTVc3lGbJpRZPkOFN0) | 2:33 | 2023-06-19 |  |
 | [shot in the dark](https://open.spotify.com/track/4hULKxQ5vbKsYbADaBt79H) | [silvershore](https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [home](https://open.spotify.com/album/1EYRql02lmzaaQU6eutZqm) | 4:23 | 2022-07-08 | 2023-08-25 |
-| [shot in the dark](https://open.spotify.com/track/5dS4VNWntUKePgcRosnHDA) | [silvershore](https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [home](https://open.spotify.com/album/2vMOTd4uSddo7HT2xXy6BU) | 4:23 | 2023-08-25 |  |
+| [shot in the dark](https://open.spotify.com/track/5dS4VNWntUKePgcRosnHDA) | [silvershore](https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [home](https://open.spotify.com/album/2vMOTd4uSddo7HT2xXy6BU) | 4:23 | 2023-08-25 | 2023-10-03 |
 | [Skates](https://open.spotify.com/track/6Z0TyMJQSNAVJcLuUMVCPp) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Skates](https://open.spotify.com/album/03cXL0nQ5J3J83Xd4bglkE) | 3:00 | 2022-09-02 |  |
 | [Skipping stones](https://open.spotify.com/track/7E1G2J3lWtBffyJRjJWxPh) | [Erin You](https://open.spotify.com/artist/2KRQoXL1x0PiRkKQPkPjWM) | [Skipping stones](https://open.spotify.com/album/3kv0XxzCtHMlyetslKtmBr) | 2:50 | 2022-10-07 |  |
 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 | 2022-05-20 |  |

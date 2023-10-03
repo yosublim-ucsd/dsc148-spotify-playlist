@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 745666,
+  "num_followers": 746113,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTYyODc5Mjg4ZTY0OWZmY2Y3ODk1NWMwMTE3OWUxMjljYzM5MTg5",
+  "snapshot_id": "MCxhMWZmMTg0OTc4ZmE0MmZiM2UwMzJiZDE2NGNhZjAzNzI3ZDljNjI1",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -219,26 +219,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Monster (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO"
+        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
+        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
       },
       "artists": [
         {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         },
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 165947,
-      "name": "Monster - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG"
+      "duration_ms": 211428,
+      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
+      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -263,6 +263,30 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Monster (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 165947,
+      "name": "Monster - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Wounded Rhymes (Anniversary Edition)",
         "url": "https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl"
       },
@@ -279,30 +303,6 @@
       "duration_ms": 279635,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
-        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
-      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "S&M Remix",
+        "url": "https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 257293,
+      "name": "S&M Remix",
+      "url": "https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
         "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 234411,
       "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "S&M Remix",
-        "url": "https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 257293,
-      "name": "S&M Remix",
-      "url": "https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "24K Magic (R3hab Remix)",
-        "url": "https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 158678,
-      "name": "24K Magic - R3hab Remix",
-      "url": "https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 195453,
       "name": "Wet - Remix",
       "url": "https://open.spotify.com/track/2alijxLnR0RCiJ5JvzhDuT"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "24K Magic (R3hab Remix)",
+        "url": "https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 158678,
+      "name": "24K Magic - R3hab Remix",
+      "url": "https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -775,18 +775,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Treasure Remix EP",
-        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
+        "name": "Old Town Road (Diplo Remix)",
+        "url": "https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
-      "duration_ms": 208278,
-      "name": "Treasure - Cash Cash Radio Mix",
-      "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
+      "duration_ms": 204026,
+      "name": "Old Town Road - Diplo Remix",
+      "url": "https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -815,26 +823,18 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Old Town Road (Diplo Remix)",
-        "url": "https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl"
+        "name": "Treasure Remix EP",
+        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 204026,
-      "name": "Old Town Road - Diplo Remix",
-      "url": "https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb"
+      "duration_ms": 208278,
+      "name": "Treasure - Cash Cash Radio Mix",
+      "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
-        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 277226,
-      "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
-      "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Into You (3LAU Remix)",
         "url": "https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 197146,
       "name": "Into You - 3LAU Remix",
       "url": "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 277226,
+      "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
+      "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Easier (Seeb Remix)",
-        "url": "https://open.spotify.com/album/1N3m1ZId0DMGaCN83haJLs"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        },
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        }
-      ],
-      "duration_ms": 165767,
-      "name": "Easier - Seeb Remix",
-      "url": "https://open.spotify.com/track/6GIRtKNXokeu25nn7U6Hu8"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Faded (Remixes)",
         "url": "https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 250280,
       "name": "Faded - Tiesto's Northern Lights Remix",
       "url": "https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Easier (Seeb Remix)",
+        "url": "https://open.spotify.com/album/1N3m1ZId0DMGaCN83haJLs"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "duration_ms": 165767,
+      "name": "Easier - Seeb Remix",
+      "url": "https://open.spotify.com/track/6GIRtKNXokeu25nn7U6Hu8"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1203,30 +1203,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Let Me Love You (Ti\u00ebsto's AFTR:HRS Mix)",
-        "url": "https://open.spotify.com/album/1ASGnaVLO875GdjJBGFUEH"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 155840,
-      "name": "Let Me Love You - Ti\u00ebsto's AFTR:HRS Mix",
-      "url": "https://open.spotify.com/track/7srwQKnqYsIY26Aatbazaq"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "In The Name Of Love Remixes",
         "url": "https://open.spotify.com/album/1WSShu5SDgRFWR9ZXImKLM"
       },
@@ -1247,6 +1223,30 @@
       "duration_ms": 200597,
       "name": "In the Name of Love - DallasK Remix",
       "url": "https://open.spotify.com/track/55y30bh2ZUtzOXjWLxn7XT"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Let Me Love You (Ti\u00ebsto's AFTR:HRS Mix)",
+        "url": "https://open.spotify.com/album/1ASGnaVLO875GdjJBGFUEH"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 155840,
+      "name": "Let Me Love You - Ti\u00ebsto's AFTR:HRS Mix",
+      "url": "https://open.spotify.com/track/7srwQKnqYsIY26Aatbazaq"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1295,30 +1295,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "One Kiss (with Dua Lipa) [Remixes]",
-        "url": "https://open.spotify.com/album/5vH3ugictBcayQWRWgfvpN"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 281266,
-      "name": "One Kiss (with Dua Lipa) - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/7b4vbqgzMhbFa0wdjfftQJ"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Rain On Me (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/42hbqXgvZ1dI3gQ1ZDnHA5"
       },
@@ -1339,6 +1315,30 @@
       "duration_ms": 238048,
       "name": "Rain On Me - Purple Disco Machine Remix - Edit",
       "url": "https://open.spotify.com/track/0dj5O3Nc6ONKWNd8mErvND"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "One Kiss (with Dua Lipa) [Remixes]",
+        "url": "https://open.spotify.com/album/5vH3ugictBcayQWRWgfvpN"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 281266,
+      "name": "One Kiss (with Dua Lipa) - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/7b4vbqgzMhbFa0wdjfftQJ"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "New Rules (Remixes)",
-        "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 280853,
-      "name": "New Rules - KREAM Remix",
-      "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Happier (Remixes)",
         "url": "https://open.spotify.com/album/16M1uToqnw9bPO8wv8ypeE"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 158095,
       "name": "Happier - Breathe Carolina Remix",
       "url": "https://open.spotify.com/track/31OqWK8Lc6GnUbnLG3GqPX"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "New Rules (Remixes)",
+        "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "New Rules - KREAM Remix",
+      "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "...Ready For It? (BloodPop\u00ae Remix)",
+        "url": "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "BloodPop\u00ae",
+          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
+        }
+      ],
+      "duration_ms": 189508,
+      "name": "...Ready For It? - BloodPop\u00ae Remix",
+      "url": "https://open.spotify.com/track/1Ygm9KdH3wbzDekO8JgxcW"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Ocean (feat. Khalid) [David Guetta Remix]",
         "url": "https://open.spotify.com/album/2lYxgMaJP2bGy4dhIToqzS"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 195832,
       "name": "Ocean (feat. Khalid) - David Guetta Remix",
       "url": "https://open.spotify.com/track/2Ceq5Ty6rJqazoZIWyS0Vc"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "...Ready For It? (BloodPop\u00ae Remix)",
-        "url": "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "BloodPop\u00ae",
-          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
-        }
-      ],
-      "duration_ms": 189508,
-      "name": "...Ready For It? - BloodPop\u00ae Remix",
-      "url": "https://open.spotify.com/track/1Ygm9KdH3wbzDekO8JgxcW"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "High Hopes (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/1cBoBrARkIfC4wGhxlK2qB"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "High Hopes - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/1FlIzyCvRFQUE4pc7PiaIo"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Mama (Remixes)",
         "url": "https://open.spotify.com/album/1eDBHbgNyQxfiG3erm7mH1"
       },
@@ -1951,26 +1971,6 @@
       "duration_ms": 179887,
       "name": "Mama - Syn Cole Remix",
       "url": "https://open.spotify.com/track/3NFvv5bC6HWtxUftIBm8Qd"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "High Hopes (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/1cBoBrARkIfC4wGhxlK2qB"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "High Hopes - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/1FlIzyCvRFQUE4pc7PiaIo"
     },
     {
       "added_at": "2023-07-03 13:15:34",

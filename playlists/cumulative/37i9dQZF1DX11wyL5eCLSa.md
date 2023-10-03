@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Little Jesus en Portada.
 
-357 songs - 21 hr 38 min
+358 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,8 @@
 | [Soy El Diluvio](https://open.spotify.com/track/4vfVB1E2yewHintjHneZkB) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Soy El Diluvio](https://open.spotify.com/album/108rJ8HooRDGGsiPNMwQ3M) | 3:05 | 2022-04-22 | 2022-09-03 |
 | [Su Majestad La Eternidad](https://open.spotify.com/track/1nHE5HxALJUAPaFPn9CSpU) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Amantes \- Su Majestad La Eternidad](https://open.spotify.com/album/7HvthDR7lGp5JNua540inw) | 3:50 | 2023-02-21 |  |
 | [Su Nombre Es el Tuyo](https://open.spotify.com/track/21bbADKE5VtWFDe3xhW7fi) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Su Nombre Es el Tuyo](https://open.spotify.com/album/4PIBAHP1GHhqSLGn5c5yFh) | 4:47 | 2023-07-21 | 2023-09-30 |
-| [Su Nombre Es el Tuyo](https://open.spotify.com/track/7ku1ivhaXvoDYKuQ4Bm16q) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Su Nombre Es el Tuyo](https://open.spotify.com/album/2JNSg5A2vNrOp145sYxcJR) | 4:47 | 2023-09-29 |  |
+| [Su Nombre Es el Tuyo](https://open.spotify.com/track/56a8JTiYUoF6UtCdCT1sc6) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Rizoma](https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2) | 4:47 | 2023-09-29 |  |
+| [Su Nombre Es el Tuyo](https://open.spotify.com/track/7ku1ivhaXvoDYKuQ4Bm16q) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Su Nombre Es el Tuyo](https://open.spotify.com/album/2JNSg5A2vNrOp145sYxcJR) | 4:47 | 2023-09-29 | 2023-10-03 |
 | [Suburbios](https://open.spotify.com/track/1EwMmSJe5rk0Nd0DiD8v6w) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 4:19 | 2022-04-01 | 2022-07-16 |
 | [Sue Me](https://open.spotify.com/track/4IKMHHkFZqRbSqQKPMwQcy) | [Base Stereo Club](https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q) | [Velvet Station](https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN) | 2:50 | 2022-09-03 | 2022-09-28 |
 | [Sólo Eres Tú](https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Sólo Eres Tú](https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg) | 3:53 | 2022-02-15 | 2022-07-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Rick Ross, Meek Mill
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,011 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,029 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 50 | [Lighter](https://open.spotify.com/track/5NtpxGpuqZpZhNtr48vYWM) | [Tinywiings](https://open.spotify.com/artist/1VUJORAhVbWM59xRLR8DY3) | [Lighter](https://open.spotify.com/album/0Ep00ARanHHc4ggmT4Crs6) | 2:29 |
 | 51 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 |
 
-Snapshot ID: `MCw2ZGEwYjRiZmYxN2M4MGYyYzdmNzYxZDEzNDZlYWRlNzExNmZlOThk`
+Snapshot ID: `MCw1OTEwMjUzYzg4NWJlNGZkMzIwNGU2ZDZhMTRmMDgzNThmM2NhMGYy`

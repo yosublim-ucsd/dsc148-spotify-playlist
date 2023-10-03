@@ -4,7 +4,7 @@
 
 > Bring in the new day.
 
-167 songs - 8 hr 59 min
+168 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Homeopat](https://open.spotify.com/track/1GvvgUzaFTeRGn7tCEs6R7) | [Tian Taylor](https://open.spotify.com/artist/0N6kUvm8XIRQd9G36AIuV1) | [Homeopat](https://open.spotify.com/album/3KWiD2DPrTHR5XnJ5fDqp2) | 3:54 | 2022-05-17 |  |
 | [Huella Profunda](https://open.spotify.com/track/3LOnrSSw59XdlBegy5whzr) | [Bharats](https://open.spotify.com/artist/6KOmTf3H3LtOQVYUSYiIkM) | [Caminantes](https://open.spotify.com/album/3cKVuuH2q7xFT9ZSa48TKo) | 3:39 | 2022-05-17 | 2022-09-23 |
 | [Indian Sunset](https://open.spotify.com/track/6Oa6dSEDkopm9UsfZ6tVH8) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Indian Sunset](https://open.spotify.com/album/5og83tVSEQKGWbBBx1jz6I) | 3:40 | 2022-10-25 | 2023-06-22 |
+| [Inner Harmony](https://open.spotify.com/track/5G1FGOdK1yXZzWcE7imCjz) | [Muyu Three](https://open.spotify.com/artist/6zb7OvAUpABDfVSe9NF1BN) | [Inner Harmony](https://open.spotify.com/album/2ggG3E1RzoDn6GqGgOL5xm) | 2:27 | 2023-10-02 |  |
 | [Inner Path](https://open.spotify.com/track/0gFMrAj0SMlPbKxIYeYot9) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Inner Path](https://open.spotify.com/album/2NlIdOOe94sJCgpRVo1l5g) | 2:43 | 2022-05-17 | 2023-06-22 |
 | [Jewel of Sangha](https://open.spotify.com/track/6dyJdwInk8DnebR9UXLY9H) | [Bringer of Zen](https://open.spotify.com/artist/17BokPLT01EqyONZ59QdqM) | [Jewel of Sangha](https://open.spotify.com/album/7DcadO0a8aVIPCCCGfa31X) | 2:34 | 2022-09-22 |  |
 | [Joinery Turns](https://open.spotify.com/track/5dJkWk3micAp0RqsWxego9) | [Bengretzi Beat](https://open.spotify.com/artist/61vzuFv6SWUHKMlFpyhVzI) | [Joinery Turns](https://open.spotify.com/album/4ho228q9rtRDsJD6bBUVOt) | 2:59 | 2023-06-21 |  |

@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-322 songs - 15 hr 59 min
+323 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Dormiveglia](https://open.spotify.com/track/59wYGLIGo4rMqIXcteuFd2) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Dormiveglia](https://open.spotify.com/album/6fplqqCFvzrz1fZHgxvS89) | 3:21 | 2023-04-06 |  |
 | [Doze](https://open.spotify.com/track/7B3JZiCROLf0isTxxTs2bL) | [Judithe Abelsen](https://open.spotify.com/artist/2n4kqHsrCGaOvVa90vBlXK) | [Doze](https://open.spotify.com/album/1n9u1YclM1RUj2qvFBlVbE) | 3:22 | 2023-04-06 |  |
 | [Dreaming](https://open.spotify.com/track/1apyGj27ZxI2QTEnq9hGNx) | [Vinnie Gianni](https://open.spotify.com/artist/6sLmYoTs56uTqmDs3V9c7h) | [Dreaming](https://open.spotify.com/album/6I8TngvQAo6X5XSkYmKpCf) | 2:19 | 2023-04-06 |  |
-| [drifting](https://open.spotify.com/track/6modbrrro6DfCp4MGSUtZ7) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [dream loop](https://open.spotify.com/album/18QvxWz9cpcqw0PwpByVwR) | 3:20 | 2023-04-06 |  |
+| [drifting](https://open.spotify.com/track/6modbrrro6DfCp4MGSUtZ7) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [dream loop](https://open.spotify.com/album/18QvxWz9cpcqw0PwpByVwR) | 3:20 | 2023-04-06 | 2023-10-03 |
 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 | 2023-04-06 |  |
 | [Drži me](https://open.spotify.com/track/2y5P7MecKp333IMNuKeOP7) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Drži me](https://open.spotify.com/album/2E7YQeTIlZ9Zr5Fwq2fal8) | 3:26 | 2023-04-06 |  |
 | [Duende](https://open.spotify.com/track/3MbMFTSftlRSYJe58yqBDl) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Duende](https://open.spotify.com/album/3u88cMLMZy9LWwdIHBOUJo) | 3:12 | 2023-04-06 |  |
@@ -208,6 +208,7 @@
 | [Nocturnal Vibes](https://open.spotify.com/track/5OhMr3bntCGijbYyib6rJp) | [Aron Joyce](https://open.spotify.com/artist/6KY3gZWJmTe3qIPaVoISYq) | [Nocturnal Vibes](https://open.spotify.com/album/4fFKwFxQkJ0uG3SzV5lkvt) | 3:18 | 2023-04-06 |  |
 | [Nosce Te Ipsum](https://open.spotify.com/track/2g2R5NSv8samoXVcj0NUeS) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Nosce Te Ipsum](https://open.spotify.com/album/2bbrUDGtRUsjw2n0PfFPTN) | 2:56 | 2023-04-06 |  |
 | [Notte](https://open.spotify.com/track/3sAJq6EDW2iNSJnHwLzSqV) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Notte](https://open.spotify.com/album/5uTX4Gl0qEqf444613cBbn) | 3:19 | 2023-04-06 |  |
+| [Nova](https://open.spotify.com/track/5NZufHYsCDxpDW1LAQhsGj) | [Vellore](https://open.spotify.com/artist/7IYQPynt9mzd6LR9XFW9zR) | [Nova](https://open.spotify.com/album/2S6BPLsVzzUV3vAIkXpq84) | 2:28 | 2023-10-02 |  |
 | [October](https://open.spotify.com/track/7x8ILiGyZAFW3F0rPUPYxm) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:48 | 2023-04-06 | 2023-07-29 |
 | [Omniscient](https://open.spotify.com/track/3MG6fFcoFduAh2sjRmIYZg) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [Omniscient](https://open.spotify.com/album/4nyurPRXDeFSQl7VYAl979) | 2:37 | 2023-04-06 |  |
 | [Once Again](https://open.spotify.com/track/30RuRqJ2qdSNgNy5lM4w6D) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Once Again](https://open.spotify.com/album/2CER0mLv1rppcaM40XpAqe) | 3:33 | 2023-04-06 |  |

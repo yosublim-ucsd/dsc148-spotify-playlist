@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-177 songs - 9 hr 11 min
+178 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Time Goes "Bye"](https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Time Goes "Bye"](https://open.spotify.com/album/55FALUa466PtpCqbVDbalm) | 4:21 | 2021-12-01 |  |
 | [Time Goes By](https://open.spotify.com/track/6QXoQhDw7HyTQvbdtIJBh3) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Time Goes By](https://open.spotify.com/album/1pzWzxEYfQ1pp04EAJgy9r) | 2:01 | 2021-12-01 |  |
 | [Trap Salsa](https://open.spotify.com/track/736NMAWokZxwV7oLQzj8OH) | [NOKKI CABRERA](https://open.spotify.com/artist/1UBVQhdDEHGqhMYpUFSM29) | [TRAP SALSA](https://open.spotify.com/album/71ppda8M3GxuTJPy4CwJCc) | 2:57 | 2021-12-01 |  |
-| [Used To This](https://open.spotify.com/track/2eIFkERbBslhcFrF0SRLgL) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Used To This](https://open.spotify.com/album/1ClebLumn5M7VKWTZJaUVU) | 2:59 | 2021-12-01 |  |
+| [Used To This](https://open.spotify.com/track/187EmOhwfEME52mf8hF03c) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Do Your Worst](https://open.spotify.com/album/2zoKhONaJBKUHsbPZLFubF) | 2:59 | 2021-12-01 |  |
+| [Used To This](https://open.spotify.com/track/2eIFkERbBslhcFrF0SRLgL) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Used To This](https://open.spotify.com/album/1ClebLumn5M7VKWTZJaUVU) | 2:59 | 2021-12-01 | 2023-10-03 |
 | [we made it.](https://open.spotify.com/track/0KpAm8TtyHPZmxdPO7npYO) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Blossom Hill](https://open.spotify.com/album/7AQdWze3UwjOCjbNowRpx7) | 2:44 | 2021-12-01 | 2023-07-22 |
 | [we made it.](https://open.spotify.com/track/6IZcstDyHttGulqxPpY7xe) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Blossom Hill](https://open.spotify.com/album/13zctNY8KiJPH0H6iaQMED) | 2:44 | 2021-12-01 |  |
 | [Whateva U Need](https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Body \(EP\)](https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p) | 3:57 | 2021-12-01 |  |

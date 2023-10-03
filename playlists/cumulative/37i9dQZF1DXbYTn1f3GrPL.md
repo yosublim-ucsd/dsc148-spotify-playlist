@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-209 songs - 8 hr 59 min
+213 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Absence](https://open.spotify.com/track/605vPvBlmE54bJUiT8BKm0) | [Narelle Dane](https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG) | [Absence](https://open.spotify.com/album/3PLBke5XtxhEDQ57DpP8uC) | 3:00 | 2023-04-03 |  |
 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 | 2023-04-03 |  |
 | [After The Storm](https://open.spotify.com/track/29vKgz3LXrTMqbxy71p0Fr) | [Florian Palmer](https://open.spotify.com/artist/1uEslan6MADlkRjoKgLKXB) | [After The Storm](https://open.spotify.com/album/3LMyS8dC4dPSbIU7uGu4hV) | 2:49 | 2023-04-03 |  |
+| [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 | 2023-10-02 |  |
 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 | 2023-04-03 |  |
 | [All We Shared](https://open.spotify.com/track/2VIqbLiw40FESThOqVcUtr) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [All We Shared](https://open.spotify.com/album/37r4pHddFZxrafYpqPv7pl) | 2:04 | 2023-04-03 |  |
 | [Alone In The Night](https://open.spotify.com/track/0JBwZWPQqCQaEkbpbs8cET) | [Ambient Gate Music](https://open.spotify.com/artist/5w3faOdrOWHXNLBxUZCmpM), [Raymoon](https://open.spotify.com/artist/4Bs2tH5kLn5baLxIRyWF74) | [Hypnotic Tune](https://open.spotify.com/album/1Y6zf7Hh7jnhp5y3Y5qksK) | 1:09 | 2023-04-03 | 2023-08-22 |
@@ -62,6 +63,7 @@
 | [Escapism](https://open.spotify.com/track/5WkclLoutSWdqdYjCcLAbD) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Escapism](https://open.spotify.com/album/7hXxxaiE5ruteHtSHz1EVu) | 2:31 | 2023-04-03 |  |
 | [Evening Inn](https://open.spotify.com/track/04GkZnxmBFf8GXBvIGkAzj) | [Corinne Beilinson](https://open.spotify.com/artist/4HZ8y4n8CYXv5BaEY1ILKi) | [Chasing Grace](https://open.spotify.com/album/2MTntXzOQRcmBk44uL87ed) | 2:15 | 2023-04-03 |  |
 | [Fabric of Summer](https://open.spotify.com/track/5u8JFIiwYnvlvOluXoyANy) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Fabric of Summer](https://open.spotify.com/album/0qnLxjGGBmnIjmOo6D2ZVY) | 2:14 | 2023-04-03 |  |
+| [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 | 2023-10-02 |  |
 | [Far Away](https://open.spotify.com/track/1gGlMU3ILr4ePbLgL6DbyK) | [Narelle Dane](https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG) | [Far Away](https://open.spotify.com/album/3hX0ay3ofbFMq2L9DexOsC) | 2:15 | 2023-04-03 |  |
 | [First Farewell](https://open.spotify.com/track/3RMRrmCruSltU9pnzURb5F) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Weightless](https://open.spotify.com/album/66LNQCSB1ZGGljErprVkVm) | 3:25 | 2023-04-03 |  |
 | [First Sunlight](https://open.spotify.com/track/7oVzg7PHNE9fepPdHJVq6f) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/2Lb2OqB6ghrhlnoOR3zNO6) | 2:28 | 2023-04-03 |  |
@@ -91,6 +93,7 @@
 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 | 2023-04-03 |  |
 | [In Those Years](https://open.spotify.com/track/1arB0eICekrhg2CAj2bGfR) | [Ray Hutchcraft](https://open.spotify.com/artist/1COhhQQfq4nVKDEBi3JU7R) | [In Those Years](https://open.spotify.com/album/2YLWbPKyE27RsWLdpTnht3) | 2:20 | 2023-04-03 |  |
 | [Infinite](https://open.spotify.com/track/6FPMx8iE0KmRFecOqkk3td) | [Leo Mano](https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM) | [Infinite](https://open.spotify.com/album/2fpijf8Ci9JIaznRWSifT0) | 2:26 | 2023-04-03 |  |
+| [Introvert](https://open.spotify.com/track/255aV1UNNwLHwkqBAfInaW) | [Nadija Lapina](https://open.spotify.com/artist/1VPvIcBilHkAOqfwEEWfH9) | [Introvert](https://open.spotify.com/album/0yaHISsvX3tseupbiwm2d8) | 2:25 | 2023-10-02 |  |
 | [Je crois en toi](https://open.spotify.com/track/5yCggunPid4GYMxzCQbk99) | [Alcide St Pierre](https://open.spotify.com/artist/77f8Kuq5BQB3otUyU9rz2P) | [Je crois en toi](https://open.spotify.com/album/7FP73HulDW6i3S8xhZpDBL) | 2:39 | 2023-04-03 |  |
 | [Kiku](https://open.spotify.com/track/7n9YKxWPtz1wWugbTSftMZ) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Kiku](https://open.spotify.com/album/15FhA0dbfNYO8Rnei0KF3N) | 2:06 | 2023-04-03 |  |
 | [Kleine Forelle](https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ) | [Ulrich Volker](https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY) | [Nibiru](https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7) | 1:58 | 2023-04-03 | 2023-08-22 |
@@ -116,6 +119,7 @@
 | [Milleniaria](https://open.spotify.com/track/0EmLqKNpKexYXHjw5fqeiW) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Milleniaria](https://open.spotify.com/album/29E0EReVASfd4J3qZuJBgT) | 2:57 | 2023-04-03 |  |
 | [Moments of Joy](https://open.spotify.com/track/4xaWRbNi9BNSCNxNgVUepd) | [Noel Oliver](https://open.spotify.com/artist/60XMGyggu8Xe0jhOQMgXbE) | [Moments of Joy](https://open.spotify.com/album/4SWWC5aBtfZtVkZOozZ7Gf) | 2:15 | 2023-04-03 |  |
 | [Moonlight](https://open.spotify.com/track/5kxplUhUr8OpwOpJ2Ururp) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Moonlight](https://open.spotify.com/album/1JCaugOpvQEqJxoKFxBkqd) | 3:18 | 2023-04-03 |  |
+| [Muse Of History](https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Muse Of History](https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi) | 2:21 | 2023-10-02 |  |
 | [My Hands](https://open.spotify.com/track/2hsYfmLXWdRWqB2i4LAhp1) | [YARA](https://open.spotify.com/artist/0g3UV4KTsBXySBgxKtNUFG) | [My Hands](https://open.spotify.com/album/0HJvtkOqU2wwL0fldwbDCw) | 3:57 | 2023-04-03 |  |
 | [Nederlag](https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/7aSmFOHD0J5i8Chj24XDzQ) | 2:17 | 2023-04-03 |  |
 | [Nefoedd](https://open.spotify.com/track/7fpv4K07BD9tUC852Mw5Lz) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Nefoedd](https://open.spotify.com/album/78pQK6kW8RktRkQA0nqUkI) | 2:49 | 2023-04-03 |  |

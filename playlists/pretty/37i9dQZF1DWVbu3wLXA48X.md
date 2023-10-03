@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Del Water Gap
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,358 likes - 88 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,385 likes - 88 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 12 | [Cool Girl](https://open.spotify.com/track/4aXUKyFqYBSI7J6A1PwjTh) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB) | 1:45 |
 | 13 | [What You Wanna Be \(feat\. The Kopycat\)](https://open.spotify.com/track/60T43Nrgz4idMlx76UpV9w) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT) | [Nightvision \(Love Is God 10/16 Edition\)](https://open.spotify.com/album/1moXnMVFwnceCSjuKlThls) | 5:48 |
 | 14 | [stand by me](https://open.spotify.com/track/4xHZVxc7NvQheFGnOqJ40Q) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [stand by me](https://open.spotify.com/album/0jhBekxMtqRBSHcC9tKKej) | 3:35 |
-| 15 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 |
+| 15 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 3:28 |
 | 16 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/4g37wGcNWcVCdY0UoRNPzu) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:09 |
 | 17 | [Baby Watch My Tears Dry](https://open.spotify.com/track/3nQrXhPKxXiqpeiyZZKVZQ) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Daydreamer](https://open.spotify.com/album/4F2XqvfLTTsIlM0QR52kX7) | 3:22 |
 | 18 | [MEIGUANXIDEYO](https://open.spotify.com/track/4RDEVasHPf6KH7yTCjpL47) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [MEIGUANXIDEYO](https://open.spotify.com/album/48zC40YjszPx0f83tzpKgu) | 3:40 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 87 | [Space Invader](https://open.spotify.com/track/7eP181rqgdCB0q9HD4BzMK) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Space Invader](https://open.spotify.com/album/3NYiaVQ8wD0rx56fMcAaFG) | 6:58 |
 | 88 | [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 |
 
-Snapshot ID: `MCxkMmU3NmI5NWVjNGY2Yzg0ZmM0MGE0NTZmYTE3ZmVlZDJlYmQwMTcz`
+Snapshot ID: `MCw4M2UwNmZhYzMxZGEzMzNhNTI0NzVhOWZkMjZlYWZiMjc4ZmYxNWNj`

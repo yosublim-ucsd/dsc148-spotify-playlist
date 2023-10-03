@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 
 > From joyful jubillance to hushed harmonies – this is some of the best in A Cappella Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,521 likes - 58 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,522 likes - 58 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 | 57 | [He Is Born \(feat\. Ryan Innes\)](https://open.spotify.com/track/2IYXqa0vvStkHWSQyXsGQo) | [BYU Vocal Point](https://open.spotify.com/artist/5zhxxb24WP6q6rbLHAn2UQ), [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [He Is Born](https://open.spotify.com/album/0EN4NLHCDuXDbMQDIDZK0H) | 4:49 |
 | 58 | [Nativity Medley](https://open.spotify.com/track/6Zb2qnkAXLIDFsOSayqu7h) | [Committed](https://open.spotify.com/artist/0zXJ4RC28rSgZ7tR5XgXdH) | [Home For Christmas](https://open.spotify.com/album/4NP170fPWbNHS2eVQ7TvCS) | 3:25 |
 
-Snapshot ID: `MCwxYzEzMzE4N2NjY2Q3YmRlNjYyMDMzYzc4NTE0ODk5NTNlYTE1Mjkz`
+Snapshot ID: `MCw3OTJmZGMwMzY5MmQ1NWE5MzM5NjBhNDY1ZjViMjdhOWYyZGNhYzEw`

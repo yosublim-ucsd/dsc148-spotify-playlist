@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,029 likes - 71 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,061 likes - 71 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 70 | [Two Zulu Men In Ibiza](https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Two Zulu Men In Ibiza EP](https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz) | 7:01 |
 | 71 | [Yes \- Club Version](https://open.spotify.com/track/1gcPomDSpxuRptrxDv9KNx) | [Chambray](https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO) | [Yes](https://open.spotify.com/album/0uDxZbREPCOFOjuT1CPlER) | 5:06 |
 
-Snapshot ID: `MCxiNmQyMTkxZjQzNDAyNzcxODU0YTViYWQyNzcyZWI2YzExYjBjM2Jk`
+Snapshot ID: `MCwxODMzMTY3MGVkNGJjNjY5NjU2ODVlYWM1YTYzYjgyZTJiZjcwZDY1`

@@ -1,12 +1,12 @@
 {
   "description": "Genre-less. Quality first always. Cover: Cleo Sol",
-  "num_followers": 1328908,
+  "num_followers": 1328960,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWFlZWY4MzAxMTJiNWRhNmZkNzkxMWNiNTVlNzNiYjYyMGIzYzVl",
+  "snapshot_id": "MCwyMGY4MWRkMTJlMWNlOGFjZmU5ZjFkYjIyOGFkYTliODlkMDZlNGJl",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -123,6 +123,22 @@
       "duration_ms": 205821,
       "name": "Hypnotherapy",
       "url": "https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX"
+    },
+    {
+      "added_at": "2023-10-02 16:02:48",
+      "album": {
+        "name": "let u in",
+        "url": "https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "let u in",
+      "url": "https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl"
     },
     {
       "added_at": "2023-09-21 18:14:10",

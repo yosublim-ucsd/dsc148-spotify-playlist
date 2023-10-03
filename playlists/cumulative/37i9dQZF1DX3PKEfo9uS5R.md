@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-194 songs - 10 hr 2 min
+195 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,11 +101,12 @@
 | [Lazy](https://open.spotify.com/track/5AiI3I1ayQFAhFvOG6N6Qh) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Lazy](https://open.spotify.com/album/1WBLkmlmYyxPMqnQii3s05) | 3:01 | 2023-03-24 | 2023-08-25 |
 | [Lemuria](https://open.spotify.com/track/06Wpiu9VDi4WevoM8UgKOJ) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Lemuria](https://open.spotify.com/album/5fXjUp8yxkCVN8BR4Z86t0) | 2:49 | 2022-07-08 | 2023-08-05 |
 | [Let You Go](https://open.spotify.com/track/6bt44gR5bahuDhY6WJaVJu) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [Let You Go](https://open.spotify.com/album/6iUanbEtluQQ5dj38wpf6f) | 2:36 | 2021-11-11 | 2022-05-11 |
-| [Lickshot](https://open.spotify.com/track/775MgiY1RE3RVTegxgHwEQ) | [Saxon Monte](https://open.spotify.com/artist/416RME57I6fWDVrfbO7H8Z) | [Lickshot](https://open.spotify.com/album/2nUwhidPZlxBourcTFX283) | 3:24 | 2021-11-11 |  |
+| [Lickshot](https://open.spotify.com/track/775MgiY1RE3RVTegxgHwEQ) | [Saxon Monte](https://open.spotify.com/artist/416RME57I6fWDVrfbO7H8Z) | [Lickshot](https://open.spotify.com/album/2nUwhidPZlxBourcTFX283) | 3:24 | 2021-11-11 | 2023-10-03 |
 | [Little Joys](https://open.spotify.com/track/1unDqTrQWQOe5MqFouU5nk) | [Rose Sun](https://open.spotify.com/artist/6ouNagNKWDTz73MNkKiGIT) | [Little Joys](https://open.spotify.com/album/4ofw6KmpKSfygUzct5YOwF) | 2:38 | 2021-11-11 | 2023-06-03 |
 | [Love in the Air](https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Love in the Air](https://open.spotify.com/album/2cAL5xHeFCKMfFIGuNinst) | 2:38 | 2021-11-11 |  |
 | [Lueur](https://open.spotify.com/track/0PlsM5HVPGAPKqNxoEGir0) | [Drippl](https://open.spotify.com/artist/5a0p2jBB8s3RbE3Dh7o99K) | [Lueur](https://open.spotify.com/album/27YE95xO8qTIj9L2ACmnzt) | 3:42 | 2021-11-11 | 2023-03-10 |
 | [Lunar Soil](https://open.spotify.com/track/3oIEmx0I8qfBb01lKTe4uE) | [Basaux](https://open.spotify.com/artist/11pLNU3Nzu5J3yFAmetC2s) | [Lunar Soil](https://open.spotify.com/album/1m5UoUNbtCwJMAIOWCDaPv) | 2:40 | 2022-01-21 |  |
+| [L’avion](https://open.spotify.com/track/1TZ3xS8JjAPbvYe5BqIqhW) | [Palombi](https://open.spotify.com/artist/7jY1E7URIXvA0gmnuE2m2k) | [L’avion](https://open.spotify.com/album/1VD6PTvEFHDks4Z6dkZTlk) | 2:35 | 2023-10-02 |  |
 | [Magnolia](https://open.spotify.com/track/1awvT0baqmByEbazQVzm3W) | [Chakra Lounge](https://open.spotify.com/artist/7Biy6OokTAlZOmGAIhx944) | [Magnolia](https://open.spotify.com/album/6e93BRGJ8p6Gg7Elwbb5un) | 3:13 | 2022-10-07 |  |
 | [Make it Count](https://open.spotify.com/track/0HEW5kt8TXf75HiAzhuht2) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Make it Count](https://open.spotify.com/album/1OVrw11t0hkDglQPrjB4oq) | 3:58 | 2021-11-11 | 2023-06-03 |
 | [Mar y Sol](https://open.spotify.com/track/7ET0GAyYAy35LEZJnFwFEa) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Mar y Sol](https://open.spotify.com/album/2zRJG1SeLJ2LzyULzKyUPj) | 3:28 | 2023-08-25 |  |

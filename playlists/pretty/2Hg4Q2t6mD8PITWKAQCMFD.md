@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Hg4Q2t6mD8PITWKAQCMFD.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,200 likes - 25 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,199 likes - 25 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/2Hg4Q2t6mD8PITWKAQCMFD.md) - [plain]
 | 5 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r) | 3:47 |
 | 6 | [Ride](https://open.spotify.com/track/1iURqLxJdSjWfWZBx2DMeV) | [JTR](https://open.spotify.com/artist/2YisiR3Yro3Dvoc3HM03Z5) | [Ride](https://open.spotify.com/album/59Uny4osHNolkIrdTdTvR5) | 3:10 |
 | 7 | [Reflections](https://open.spotify.com/track/3rniDk4qfZKvo6U4qiWROi) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Reflections](https://open.spotify.com/album/3d7x5nrXiNbOuzubUq1yVH) | 3:08 |
-| 8 | [Hall of Fame](https://open.spotify.com/track/1X1DWw2pcNZ8zSub3uhlNz) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [\#3](https://open.spotify.com/album/63eaHsLLsW1e5ISNf7ISZy) | 3:22 |
+| 8 | [Hall of Fame \(feat\. will.i.am\)](https://open.spotify.com/track/1X1DWw2pcNZ8zSub3uhlNz) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [\#3](https://open.spotify.com/album/63eaHsLLsW1e5ISNf7ISZy) | 3:22 |
 | 9 | [I Wanna Get Better](https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [I Wanna Get Better](https://open.spotify.com/album/4JaTMQFdRy5TfEKs8M9Doq) | 3:24 |
 | 10 | [Nightcall](https://open.spotify.com/track/2GIfOOa8hAywfzZptFz3xK) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/55U1DpuCIiwOJHwYLU1Qe4) | 4:18 |
 | 11 | [Brand New](https://open.spotify.com/track/1P5OPN8MbPgFznEp1b7OiN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [G I R L](https://open.spotify.com/album/2lkQd5T32QHDOfFkEIPJKz) | 4:31 |

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> Fresh new Korean independent & rising talents are here\. \(Cover: YeonJeong \(연정\)\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
+> Fresh new Korean independent & rising talents are here\. \(Cover: Summer Soul\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-1,171 songs - 2 day 18 hr 1 min
+1,172 songs - 2 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,6 +797,7 @@
 | [requiem \(鎭魂曲\)](https://open.spotify.com/track/0JdpWcCa8hLSoENXxEZ4b6) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [requiem \(鎭魂曲\)](https://open.spotify.com/album/5R8xM2DqFHw6NXNJszF41R) | 4:53 | 2021-12-02 | 2022-01-11 |
 | [Reset](https://open.spotify.com/track/1GH0sHRBwLYJwuyqBPsf0q) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [DR.RED](https://open.spotify.com/artist/3xCduQwGgxBE5p1Vg07hc3), [mOOn](https://open.spotify.com/artist/6buvvKH2iRe1lunqlpOJpc) | [Reset](https://open.spotify.com/album/5iXtqZVn6OEJ15jGmFmnaD) | 2:24 | 2022-06-09 | 2022-07-05 |
 | [rewind](https://open.spotify.com/track/1K27xjfV6MOwwiLA0hvtkv) | [La Blancat](https://open.spotify.com/artist/4MvwbSpaeOUiLFIsRdhEBl) | [rewind](https://open.spotify.com/album/0VRhU1pqUUK6VtdmC9jQhP) | 2:57 | 2022-09-29 | 2022-12-01 |
+| [Ride \(Feat\. Jueun\)](https://open.spotify.com/track/1cCszH5E4C3U01CaLFsuVR) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Dear.R](https://open.spotify.com/album/3tqu6xDwjAStZh0A8oiXKH) | 3:12 | 2023-10-02 |  |
 | [River](https://open.spotify.com/track/5PIjg4JMTmXKDaSB2NHz7W) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [River](https://open.spotify.com/album/53WCVemmNJoLH2ptEs1csA) | 4:11 | 2022-07-04 | 2022-08-19 |
 | [ROCKSTAR](https://open.spotify.com/track/1QOqclwvp0tyeFHuVlj3sX) | [illionoah](https://open.spotify.com/artist/1NJ9WfhssXUGAHjHtoUzIm) | [Maginot Line](https://open.spotify.com/album/5yqsc4Kz0CNJBJL15KiMF5) | 3:18 | 2022-02-17 | 2022-03-18 |
 | [Role Model](https://open.spotify.com/track/7r5FykTCroMJuGUh1E4NhE) | [James An](https://open.spotify.com/artist/4BACFCf6Y0aEdjtk9gutvC) | [Role Model](https://open.spotify.com/album/58pcnkh4Pe92GBMT5KPu0A) | 3:17 | 2022-05-11 | 2022-06-19 |

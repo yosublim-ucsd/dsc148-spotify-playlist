@@ -17013,6 +17013,24 @@
     },
     {
       "album": {
+        "name": "cashmere",
+        "url": "https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y"
+      },
+      "artists": [
+        {
+          "name": "Zatsuma",
+          "url": "https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "cashmere",
+      "url": "https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ"
+    },
+    {
+      "album": {
         "name": "Canopy",
         "url": "https://open.spotify.com/album/0wbmXJtXiaTjgKd8SG6JK1"
       },
@@ -38316,7 +38334,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 101357,
       "name": "Froget Yo' Probs",
       "url": "https://open.spotify.com/track/2xCkOgIpXKSiUmjokvrmvD"
@@ -58836,7 +58854,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 142343,
       "name": "Longing Beats",
       "url": "https://open.spotify.com/track/2S8x2UmgZFqGNPQxe2zLL4"
@@ -82714,7 +82732,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 151417,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2Z9lY4T8YNQVAtLEJ4DnHq"

@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 163787,
+  "num_followers": 163965,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODlmZmIzMjc2MTI3YmY4OWRmYzliOWIwOGY4NTllNjA3YjUzNjk0",
+  "snapshot_id": "MCw0Y2MwODY1YzI3YTI0MjkyYmMwYzBlZDYxMGJlOWM1ODc3ZjIzYTZi",
   "tracks": [
     {
       "added_at": "2023-09-29 10:18:09",
@@ -191,26 +191,6 @@
     {
       "added_at": "2023-09-29 10:18:09",
       "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
-        }
-      ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2023-09-29 10:18:09",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 217327,
       "name": "Vamos a la Playa",
       "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+    },
+    {
+      "added_at": "2023-09-29 10:18:09",
+      "album": {
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+        }
+      ],
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
     },
     {
       "added_at": "2023-09-29 10:18:09",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-29 10:18:09",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 263508,
-      "name": "Disco Sole",
-      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
-    },
-    {
-      "added_at": "2023-09-29 10:18:09",
-      "album": {
         "name": "Ryan Paris",
         "url": "https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 229440,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f"
+    },
+    {
+      "added_at": "2023-09-29 10:18:09",
+      "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 263508,
+      "name": "Disco Sole",
+      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
     },
     {
       "added_at": "2023-09-29 10:18:09",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-09-29 10:18:09",
       "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 462000,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
-    },
-    {
-      "added_at": "2023-09-29 10:18:09",
-      "album": {
         "name": "Io Fuori",
         "url": "https://open.spotify.com/album/2vxXavw8SrYsHR707Novja"
       },
@@ -419,6 +403,26 @@
       "duration_ms": 349462,
       "name": "Ti voglio",
       "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
+    },
+    {
+      "added_at": "2023-09-29 10:18:09",
+      "album": {
+        "name": "The Glow of Love (Original Album and Rare Tracks)",
+        "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        },
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 373240,
+      "name": "The Glow of Love",
+      "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
     },
     {
       "added_at": "2023-09-29 10:18:09",
@@ -443,22 +447,18 @@
     {
       "added_at": "2023-09-29 10:18:09",
       "album": {
-        "name": "The Glow of Love (Original Album and Rare Tracks)",
-        "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
       },
       "artists": [
         {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        },
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
         }
       ],
-      "duration_ms": 373240,
-      "name": "The Glow of Love",
-      "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
+      "duration_ms": 462000,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
     },
     {
       "added_at": "2023-09-29 10:18:09",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-09-29 10:18:09",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
-    },
-    {
-      "added_at": "2023-09-29 10:18:09",
-      "album": {
         "name": "Greatest Hits &amp; Remixes",
         "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
       },
@@ -671,22 +655,6 @@
       "duration_ms": 212253,
       "name": "Visitors",
       "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
-    },
-    {
-      "added_at": "2023-09-29 10:18:09",
-      "album": {
-        "name": "Barbara e altri Carella",
-        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
-      },
-      "artists": [
-        {
-          "name": "Enzo Carella",
-          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "Barbara",
-      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
     },
     {
       "added_at": "2023-09-29 10:18:09",
@@ -707,6 +675,22 @@
     {
       "added_at": "2023-09-29 10:18:09",
       "album": {
+        "name": "Barbara e altri Carella",
+        "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
+      },
+      "artists": [
+        {
+          "name": "Enzo Carella",
+          "url": "https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "Barbara",
+      "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
+    },
+    {
+      "added_at": "2023-09-29 10:18:09",
+      "album": {
         "name": "Radio Koko",
         "url": "https://open.spotify.com/album/669LnrL7wSJOhiwQxRM8gT"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 261330,
       "name": "Pantal\u00f3n",
       "url": "https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF"
+    },
+    {
+      "added_at": "2023-09-29 10:18:09",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
     },
     {
       "added_at": "2023-09-29 10:18:09",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-09-29 10:18:09",
       "album": {
+        "name": "Discamore",
+        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Discamore",
+      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
+    },
+    {
+      "added_at": "2023-09-29 10:18:09",
+      "album": {
         "name": "Italiana Vol. 1",
         "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 205903,
       "name": "Che caldo",
       "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
-    },
-    {
-      "added_at": "2023-09-29 10:18:09",
-      "album": {
-        "name": "Discamore",
-        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
-      },
-      "artists": [
-        {
-          "name": "Dov'\u00e8 Liana",
-          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Discamore",
-      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
     },
     {
       "added_at": "2023-09-29 10:18:09",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-09-29 10:18:09",
       "album": {
+        "name": "Disco Fizz",
+        "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
+      },
+      "artists": [
+        {
+          "name": "Azoto",
+          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "San Salvador - Single Version",
+      "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
+    },
+    {
+      "added_at": "2023-09-29 10:18:09",
+      "album": {
         "name": "\u00c7a Va? Je t'aime! (Feat. EMMANUELLE)",
         "url": "https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 208194,
       "name": "\u00c7a va? Je t\u2019aime! (feat. EMMANUELLE)",
       "url": "https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV"
-    },
-    {
-      "added_at": "2023-09-29 10:18:09",
-      "album": {
-        "name": "Disco Fizz",
-        "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
-      },
-      "artists": [
-        {
-          "name": "Azoto",
-          "url": "https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "San Salvador - Single Version",
-      "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
     },
     {
       "added_at": "2023-09-29 10:18:09",

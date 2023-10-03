@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 329983,
+  "num_followers": 330016,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWQ5OWM3MGFmYmI0NzI1ZTUzYWFjOWFlOTM2MmU0OGNlNGY1N2Uw",
+  "snapshot_id": "MCw5YWVjOWUxZGVjMjYwNWNjZDMxMjEyOGY1NmYxOTRjMWI2MTNjYjVl",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Mariana Nolasco",
-        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 210261,
-      "name": "Poemas Que Colori",
-      "url": "https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "N\u00f3s VOZ Eles",
         "url": "https://open.spotify.com/album/7BPwhaHjhjWTwIopJY6FTK"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 215116,
       "name": "Pra Me Refazer",
       "url": "https://open.spotify.com/track/1KIMRoLleFJCwABBrlAOPI"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Mariana Nolasco",
+        "url": "https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 210261,
+      "name": "Poemas Que Colori",
+      "url": "https://open.spotify.com/track/2bgJsZVwVMxwPPOJFmvgte"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "O Velho E Bom Novo (Lado A)",
-        "url": "https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV"
-      },
-      "artists": [
-        {
-          "name": "Kell Smith",
-          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Seja Gentil",
-      "url": "https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Te Fa\u00e7o um Cafun\u00e9",
         "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Ana",
-        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
+        "name": "O Velho E Bom Novo (Lado A)",
+        "url": "https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Kell Smith",
+          "url": "https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994"
         }
       ],
-      "duration_ms": 226243,
-      "name": "X",
-      "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
+      "duration_ms": 230666,
+      "name": "Seja Gentil",
+      "url": "https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -691,6 +675,22 @@
       "duration_ms": 146602,
       "name": "Envolvimento",
       "url": "https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Ana",
+        "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 226243,
+      "name": "X",
+      "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Eu",
-        "url": "https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH"
-      },
-      "artists": [
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 301871,
-      "name": "Eu",
-      "url": "https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Sorriso Aberto",
         "url": "https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 276426,
       "name": "Sorriso Aberto",
       "url": "https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Eu",
+        "url": "https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 301871,
+      "name": "Eu",
+      "url": "https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Psiu",
-        "url": "https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 297128,
-      "name": "Psiu",
-      "url": "https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ambulante",
         "url": "https://open.spotify.com/album/6uZweI7OXLIS8WwYb0eVCV"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 151520,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3AzSGIT3SYFXl1o9c6zdQC"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Psiu",
+        "url": "https://open.spotify.com/album/71oJRTxnV00wZA0NwPRH0v"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 297128,
+      "name": "Psiu",
+      "url": "https://open.spotify.com/track/3aMOVCxQt9Xhoy1MdygCcv"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Boladona",
+        "url": "https://open.spotify.com/album/4xhz8Ge90YWgmDzxUtr5oB"
+      },
+      "artists": [
+        {
+          "name": "Tati Quebra Barraco",
+          "url": "https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts"
+        },
+        {
+          "name": "DJ Marlboro",
+          "url": "https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY"
+        }
+      ],
+      "duration_ms": 126520,
+      "name": "Boladona",
+      "url": "https://open.spotify.com/track/19ETbp46uzm9GEoyE12toT"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Mundo Novo",
         "url": "https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 163535,
       "name": "S\u00f3 Porque Eu Sou Mulher",
       "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Boladona",
-        "url": "https://open.spotify.com/album/4xhz8Ge90YWgmDzxUtr5oB"
-      },
-      "artists": [
-        {
-          "name": "Tati Quebra Barraco",
-          "url": "https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts"
-        },
-        {
-          "name": "DJ Marlboro",
-          "url": "https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY"
-        }
-      ],
-      "duration_ms": 126520,
-      "name": "Boladona",
-      "url": "https://open.spotify.com/track/19ETbp46uzm9GEoyE12toT"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "TODXS",
-        "url": "https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "Eu Amo Voc\u00ea",
-      "url": "https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Nara (1964)",
         "url": "https://open.spotify.com/album/0DrdA7FNioWPk1wRaRuHn7"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 129666,
       "name": "Diz Que Fui Por Ai",
       "url": "https://open.spotify.com/track/28BSCtSAR6HQmdrt823rg4"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "TODXS",
+        "url": "https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "Eu Amo Voc\u00ea",
+      "url": "https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Os Maiores Sucessos De Novela De Nana Caymmi",
+        "url": "https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8"
+      },
+      "artists": [
+        {
+          "name": "Nana Caymmi",
+          "url": "https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Suave Veneno",
+      "url": "https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Iai\u00e1",
         "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 126400,
       "name": "Sussu",
       "url": "https://open.spotify.com/track/0dzMJ2pEdM7LfSZtJaQTyN"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Os Maiores Sucessos De Novela De Nana Caymmi",
-        "url": "https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8"
-      },
-      "artists": [
-        {
-          "name": "Nana Caymmi",
-          "url": "https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Suave Veneno",
-      "url": "https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR"
     },
     {
       "added_at": "2022-10-07 03:01:33",

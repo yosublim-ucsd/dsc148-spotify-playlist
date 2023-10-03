@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Paula Hartmann",
-  "num_followers": 395821,
+  "num_followers": 395844,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzY3MGJmNzEzYWRkODZlMjIyZThmNDU5MTZkY2E3Mjk2YzJjZDUw",
+  "snapshot_id": "MCw1MTAwNDYzYTY5ODJmNGQyOGYyYTBhNDczMWE4ZTFjYjEyNDJjNTg4",
   "tracks": [
     {
       "added_at": "2023-09-28 22:00:00",
@@ -27,34 +27,18 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Jung",
-        "url": "https://open.spotify.com/album/5plTO8xZ6vgIzi1TR0rCGC"
+        "name": "Von Wind und Anonymit\u00e4t",
+        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
       },
       "artists": [
         {
-          "name": "JBS",
-          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 169450,
-      "name": "Jung",
-      "url": "https://open.spotify.com/track/2DFd8twZE7xQDjWA93CVUN"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "Immer Noch Wach",
-        "url": "https://open.spotify.com/album/7rYrXMvTjZL3kFwGxSC5Ln"
-      },
-      "artists": [
-        {
-          "name": "PaulWetz",
-          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
-        }
-      ],
-      "duration_ms": 146347,
-      "name": "Immer Noch Wach",
-      "url": "https://open.spotify.com/track/4fhxUNlBCZIr3dw0nU366l"
+      "duration_ms": 195121,
+      "name": "Es h\u00f6rt nicht auf",
+      "url": "https://open.spotify.com/track/0Uc0m7ThckGvaT0TFG7snX"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -91,18 +75,34 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Von Wind und Anonymit\u00e4t",
-        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
+        "name": "Jung",
+        "url": "https://open.spotify.com/album/5plTO8xZ6vgIzi1TR0rCGC"
       },
       "artists": [
         {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
         }
       ],
-      "duration_ms": 195121,
-      "name": "Es h\u00f6rt nicht auf",
-      "url": "https://open.spotify.com/track/0Uc0m7ThckGvaT0TFG7snX"
+      "duration_ms": 169450,
+      "name": "Jung",
+      "url": "https://open.spotify.com/track/2DFd8twZE7xQDjWA93CVUN"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Immer Noch Wach",
+        "url": "https://open.spotify.com/album/7rYrXMvTjZL3kFwGxSC5Ln"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        }
+      ],
+      "duration_ms": 146347,
+      "name": "Immer Noch Wach",
+      "url": "https://open.spotify.com/track/4fhxUNlBCZIr3dw0nU366l"
     },
     {
       "added_at": "2023-09-28 22:00:00",

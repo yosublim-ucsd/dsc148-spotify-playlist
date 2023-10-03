@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 13503,
+  "num_followers": 13531,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjQxOGViYjEzODE5NWEyMzJmNDI2Njk0OTk2YTg3ZGIyZGM0ODlk",
+  "snapshot_id": "MCxlYTgzY2M4ZjU1NGNhNjc5N2YyZWExODk0NWMxMzhlN2Y3YWRlYmZh",
   "tracks": [
     {
       "added_at": "2023-09-20 06:38:49",
@@ -191,6 +191,38 @@
     {
       "added_at": "2023-09-20 06:38:49",
       "album": {
+        "name": "Love Part 1",
+        "url": "https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "WA-R-R",
+      "url": "https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk"
+    },
+    {
+      "added_at": "2023-09-20 06:38:49",
+      "album": {
+        "name": "Rain Song",
+        "url": "https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Rain Song",
+      "url": "https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq"
+    },
+    {
+      "added_at": "2023-09-20 06:38:49",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -215,38 +247,6 @@
     {
       "added_at": "2023-09-20 06:38:49",
       "album": {
-        "name": "Rain Song",
-        "url": "https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Rain Song",
-      "url": "https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq"
-    },
-    {
-      "added_at": "2023-09-20 06:38:49",
-      "album": {
-        "name": "GO LIVE",
-        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 166968,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR"
-    },
-    {
-      "added_at": "2023-09-20 06:38:49",
-      "album": {
         "name": "Reason 4 breathing?",
         "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-09-20 06:38:49",
       "album": {
-        "name": "Love Part 1",
-        "url": "https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp"
+        "name": "wave 0.01",
+        "url": "https://open.spotify.com/album/3v2wQt26hJ3ricGPZ1kbld"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         }
       ],
-      "duration_ms": 272000,
-      "name": "WA-R-R",
-      "url": "https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk"
+      "duration_ms": 216399,
+      "name": "bird",
+      "url": "https://open.spotify.com/track/3A6DKSDBG8DyP1nndA6VVG"
     },
     {
       "added_at": "2023-09-20 06:38:49",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-09-20 06:38:49",
       "album": {
-        "name": "wave 0.01",
-        "url": "https://open.spotify.com/album/3v2wQt26hJ3ricGPZ1kbld"
+        "name": "GO LIVE",
+        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
       },
       "artists": [
         {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 216399,
-      "name": "bird",
-      "url": "https://open.spotify.com/track/3A6DKSDBG8DyP1nndA6VVG"
+      "duration_ms": 166968,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR"
     },
     {
       "added_at": "2023-09-20 06:38:49",
@@ -547,38 +547,6 @@
     {
       "added_at": "2023-09-20 06:38:49",
       "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
-      },
-      "artists": [
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Kiss The Rain",
-      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
-    },
-    {
-      "added_at": "2023-09-20 06:38:49",
-      "album": {
-        "name": "overdose",
-        "url": "https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 255808,
-      "name": "overdose",
-      "url": "https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU"
-    },
-    {
-      "added_at": "2023-09-20 06:38:49",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
@@ -599,22 +567,34 @@
     {
       "added_at": "2023-09-20 06:38:49",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+        "name": "overdose",
+        "url": "https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
         }
       ],
-      "duration_ms": 252986,
-      "name": "Gray So Gray (Feat. Younha)",
-      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
+      "duration_ms": 255808,
+      "name": "overdose",
+      "url": "https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU"
+    },
+    {
+      "added_at": "2023-09-20 06:38:49",
+      "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Kiss The Rain",
+      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
     },
     {
       "added_at": "2023-09-20 06:38:49",
@@ -631,6 +611,26 @@
       "duration_ms": 256959,
       "name": "Sun Shower",
       "url": "https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL"
+    },
+    {
+      "added_at": "2023-09-20 06:38:49",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Gray So Gray (Feat. Younha)",
+      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
     },
     {
       "added_at": "2023-09-20 06:38:49",

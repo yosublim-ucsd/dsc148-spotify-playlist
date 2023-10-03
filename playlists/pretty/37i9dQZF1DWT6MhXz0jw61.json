@@ -1,33 +1,13 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Earthgang",
-  "num_followers": 1297075,
+  "num_followers": 1297284,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGM2YzdlODAwNDhjN2NlYWE0YWQ5MTMxZGVjODJmNGVjMmNmZTU4",
+  "snapshot_id": "MCxkOGY1Y2MyZmVjYWEyZDZkNjQ2YmE3ZWFmMjM5MzdkMDNlMGY3MGJl",
   "tracks": [
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "SUNDAY DINNER",
-        "url": "https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl"
-      },
-      "artists": [
-        {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
-        },
-        {
-          "name": "Tweet",
-          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/196TOEj4MWqLCsDBzZGYLi"
-    },
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
@@ -347,6 +327,26 @@
       "duration_ms": 151350,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/5TLeG3t4ZPLJ6rsjltvRDY"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "SUNDAY DINNER",
+        "url": "https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl"
+      },
+      "artists": [
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        },
+        {
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/196TOEj4MWqLCsDBzZGYLi"
     },
     {
       "added_at": "2023-09-29 04:00:00",

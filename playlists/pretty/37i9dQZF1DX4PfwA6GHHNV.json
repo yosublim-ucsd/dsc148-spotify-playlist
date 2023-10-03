@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil",
-  "num_followers": 11278,
+  "num_followers": 11297,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTQ2ZTBmZDRkNDA1NDBlYzU4YzE2ODFhMjc2MzBlZjI5MTg5NTg4",
+  "snapshot_id": "MCw3YTFiZDQ4ZDJjZDQ4N2NjMDM4MTJmYTMwY2I1NjE0ZWQ1NzAyYjY2",
   "tracks": [
     {
       "added_at": "2023-09-29 16:02:33",
@@ -95,6 +95,50 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/1hGai4xD4LU7HZzl51lpy6"
+      },
+      "artists": [
+        {
+          "name": "Enzo Bala",
+          "url": "https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 153191,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/7xo06VspucSbdF1tkJjbGZ"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Sabe Que \u00c9 Gostosa",
+        "url": "https://open.spotify.com/album/3ZQOEv7DHr6xKvbzl8blVC"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9co Oficial",
+          "url": "https://open.spotify.com/artist/0ptHTBxVRPbo2qNsOaFRrx"
+        },
+        {
+          "name": "H.E",
+          "url": "https://open.spotify.com/artist/1yh9BfQwHwHTaPkW2d2r0S"
+        },
+        {
+          "name": "Ind'os Beat",
+          "url": "https://open.spotify.com/artist/13cPjQjNhJcX16HzpuW6NE"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Sabe Que \u00c9 Gostosa",
+      "url": "https://open.spotify.com/track/6adhxEi2jRAMIiZ5Yjbdcd"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
         "name": "SSA",
         "url": "https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd"
       },
@@ -127,30 +171,6 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Sabe Que \u00c9 Gostosa",
-        "url": "https://open.spotify.com/album/3ZQOEv7DHr6xKvbzl8blVC"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9co Oficial",
-          "url": "https://open.spotify.com/artist/0ptHTBxVRPbo2qNsOaFRrx"
-        },
-        {
-          "name": "H.E",
-          "url": "https://open.spotify.com/artist/1yh9BfQwHwHTaPkW2d2r0S"
-        },
-        {
-          "name": "Ind'os Beat",
-          "url": "https://open.spotify.com/artist/13cPjQjNhJcX16HzpuW6NE"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Sabe Que \u00c9 Gostosa",
-      "url": "https://open.spotify.com/track/6adhxEi2jRAMIiZ5Yjbdcd"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
         "name": "Levado - Spotify Singles",
         "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 175922,
       "name": "Levado - Spotify Singles",
       "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "Cartier",
-        "url": "https://open.spotify.com/album/1hGai4xD4LU7HZzl51lpy6"
-      },
-      "artists": [
-        {
-          "name": "Enzo Bala",
-          "url": "https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 153191,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/7xo06VspucSbdF1tkJjbGZ"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -559,6 +559,30 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
+        "name": "Abelha",
+        "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Abelha",
+      "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
         "name": "Nem Me Beijou",
         "url": "https://open.spotify.com/album/1mKB7qlzATgaGbU1bq11if"
       },
@@ -611,30 +635,6 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Abelha",
-        "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
-      },
-      "artists": [
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "xochuo",
-          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Abelha",
-      "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
         "name": "Em Mim",
         "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
       },
@@ -651,26 +651,6 @@
       "duration_ms": 126143,
       "name": "Em Mim",
       "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "Meio",
-        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
-      },
-      "artists": [
-        {
-          "name": "Kult",
-          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Meio",
-      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -699,6 +679,26 @@
       "duration_ms": 156781,
       "name": "Compasso",
       "url": "https://open.spotify.com/track/6NnlPOIrYoKhYfiJzDTNNd"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Meio",
+        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
+      },
+      "artists": [
+        {
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Meio",
+      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -799,6 +799,30 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
+        "name": "Do Nada",
+        "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
+      },
+      "artists": [
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "Stanley Castro",
+          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
+        }
+      ],
+      "duration_ms": 205531,
+      "name": "Do Nada",
+      "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
         "name": "Lembra?",
         "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
       },
@@ -815,6 +839,30 @@
       "duration_ms": 220389,
       "name": "Lembra?",
       "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Incertezas",
+        "url": "https://open.spotify.com/album/3xjeeEaGOriHi8XUMRt3bn"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "John Bxd",
+          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Incertezas",
+      "url": "https://open.spotify.com/track/5Id3vKSAubS0XxJMg1g3xx"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -847,30 +895,6 @@
       "duration_ms": 138145,
       "name": "Deixa Eu Mostrar",
       "url": "https://open.spotify.com/track/28dzpx9Sn1jmAvCNLoKqd8"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "Incertezas",
-        "url": "https://open.spotify.com/album/3xjeeEaGOriHi8XUMRt3bn"
-      },
-      "artists": [
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "John Bxd",
-          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Incertezas",
-      "url": "https://open.spotify.com/track/5Id3vKSAubS0XxJMg1g3xx"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -943,30 +967,6 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Do Nada",
-        "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
-      },
-      "artists": [
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "Stanley Castro",
-          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
-        }
-      ],
-      "duration_ms": 205531,
-      "name": "Do Nada",
-      "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
         "name": "Deixa Falar",
         "url": "https://open.spotify.com/album/3dHxbFlLTseVIyhHyusGqu"
       },
@@ -999,26 +999,6 @@
       "duration_ms": 198070,
       "name": "Yo Quiero Te Namorar",
       "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "Me Deixa",
-        "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
-      },
-      "artists": [
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 149351,
-      "name": "Me Deixa",
-      "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -1059,6 +1039,26 @@
       "duration_ms": 154666,
       "name": "S\u00f3 Me Usa",
       "url": "https://open.spotify.com/track/09Cf8HaJnxYlJgKESVv5HL"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Me Deixa",
+        "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 149351,
+      "name": "Me Deixa",
+      "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
     },
     {
       "added_at": "2023-09-29 16:02:33",

@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending country tracks from the last few months\. Cover: Tyler Childers
+> Top trending country tracks from the last few months\. Cover: Dylan Gossett
 
 335 songs - 17 hr 52 min
 

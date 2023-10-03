@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Ed Sheeran, YOASOBI, Vaundy, Bad Bunny, \*NSYNC  and more! Cover: Ed Sheeran
 
-3,007 songs - 7 day 2 hr 38 min
+3,008 songs - 7 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2140,7 +2140,8 @@
 | [Sink Or Swim](https://open.spotify.com/track/105fEjEgDVFrp4gAtyNJLY) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:04 | 2023-02-02 | 2023-02-10 |
 | [Sirens](https://open.spotify.com/track/4eGua701gIqWxYrETSpHGK) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [Sirens](https://open.spotify.com/album/2qqtSS2ug1CM1UncwBi66w) | 3:22 | 2023-02-02 | 2023-02-10 |
 | [Sirius \(feat\. DEKISHI\) \- VIP](https://open.spotify.com/track/1176rK7Nz9MtIxdVuefQts) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [DEKISHI](https://open.spotify.com/artist/3WGf7sxBvXaGAhU9G83aun) | [Sirius \(feat\. DEKISHI\) \[VIP\]](https://open.spotify.com/album/4lSpyJ541VvDSz913dA0Fd) | 3:22 | 2023-03-24 | 2023-03-31 |
-| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 | 2023-09-28 |  |
+| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 3:28 | 2023-09-28 |  |
+| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 | 2023-09-28 | 2023-10-03 |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-01 | 2023-06-09 |
 | [Situationship](https://open.spotify.com/track/6h5U2llAthHj3i1O6YYc6c) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Situationship](https://open.spotify.com/album/2XSvU0IHifUIIClBBKEWx3) | 3:08 | 2023-03-09 | 2023-03-18 |
 | [SKATEBOARD](https://open.spotify.com/track/6l73YRbkfTjBUtTm3DrkAu) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Delicious](https://open.spotify.com/album/0if8s53ZdbpKQnE2vH1Ggl) | 3:05 | 2023-06-15 | 2023-06-23 |

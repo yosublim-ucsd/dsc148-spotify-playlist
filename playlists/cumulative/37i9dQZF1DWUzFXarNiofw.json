@@ -22992,6 +22992,24 @@
     {
       "album": {
         "name": "Serious",
+        "url": "https://open.spotify.com/album/0GdpDC5d1P56gP0aFTfd5C"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113414,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/7LJjWJjj28xq1W5AvGxw2d"
+    },
+    {
+      "album": {
+        "name": "Serious",
         "url": "https://open.spotify.com/album/5N9bOh6HESnuqWX2DsXxaZ"
       },
       "artists": [

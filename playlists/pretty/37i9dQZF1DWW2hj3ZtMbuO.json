@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\" ",
-  "num_followers": 1436190,
+  "num_followers": 1436859,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODZlNmNkMGRkYzY0MjVkYmIxM2U3N2ZmMTY2ODcxY2U3YjJmYTUw",
+  "snapshot_id": "MCwwZDVjZjMxOTg0ZTlhZDg3YWE2ZDEyZmYxY2U1NWEwZGFkZTY1ZDlh",
   "tracks": [
     {
       "added_at": "2023-09-29 20:23:15",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-09-29 20:23:15",
       "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 176146,
+      "name": "Sarah",
+      "url": "https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk"
+    },
+    {
+      "added_at": "2023-09-29 20:23:15",
+      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": "2023-09-29 20:23:15",
       "album": {
-        "name": "You're All I Want",
-        "url": "https://open.spotify.com/album/0C4YWH1f1zcPhIhNIB6S82"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 264453,
-      "name": "You're All I Want",
-      "url": "https://open.spotify.com/track/4nvLuqwTOZdEJI1fcHXv8h"
-    },
-    {
-      "added_at": "2023-09-29 20:23:15",
-      "album": {
         "name": "If Blue Could Be Happiness",
         "url": "https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87"
       },
@@ -547,50 +547,18 @@
     {
       "added_at": "2023-09-29 20:23:15",
       "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+        "name": "You're All I Want",
+        "url": "https://open.spotify.com/album/0C4YWH1f1zcPhIhNIB6S82"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 176146,
-      "name": "Sarah",
-      "url": "https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk"
-    },
-    {
-      "added_at": "2023-09-29 20:23:15",
-      "album": {
-        "name": "October Passed Me By",
-        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "October Passed Me By",
-      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
-    },
-    {
-      "added_at": "2023-09-29 20:23:15",
-      "album": {
-        "name": "anna",
-        "url": "https://open.spotify.com/album/2llZ0bN2VpHZclqWxI2LWN"
-      },
-      "artists": [
-        {
-          "name": "Gracie Gray",
-          "url": "https://open.spotify.com/artist/2KgkkXOzFBuE67knhA4ebG"
-        }
-      ],
-      "duration_ms": 239462,
-      "name": "happiness",
-      "url": "https://open.spotify.com/track/1TJEhq1JlL2b4zbkhNMlWX"
+      "duration_ms": 264453,
+      "name": "You're All I Want",
+      "url": "https://open.spotify.com/track/4nvLuqwTOZdEJI1fcHXv8h"
     },
     {
       "added_at": "2023-09-29 20:23:15",
@@ -607,6 +575,22 @@
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+      "added_at": "2023-09-29 20:23:15",
+      "album": {
+        "name": "anna",
+        "url": "https://open.spotify.com/album/2llZ0bN2VpHZclqWxI2LWN"
+      },
+      "artists": [
+        {
+          "name": "Gracie Gray",
+          "url": "https://open.spotify.com/artist/2KgkkXOzFBuE67knhA4ebG"
+        }
+      ],
+      "duration_ms": 239462,
+      "name": "happiness",
+      "url": "https://open.spotify.com/track/1TJEhq1JlL2b4zbkhNMlWX"
     },
     {
       "added_at": "2023-09-29 20:23:15",
@@ -651,6 +635,22 @@
       "duration_ms": 216539,
       "name": "Fear",
       "url": "https://open.spotify.com/track/4rHfpAN2CK3H6eRWd7j7E0"
+    },
+    {
+      "added_at": "2023-09-29 20:23:15",
+      "album": {
+        "name": "October Passed Me By",
+        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "October Passed Me By",
+      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
     },
     {
       "added_at": "2023-09-29 20:23:15",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-29 20:23:15",
       "album": {
-        "name": "Call Me by Your Name (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/531pUFZ1BbEhfXDxitF8TU"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love",
-      "url": "https://open.spotify.com/track/0MNNKSUU9OOQ8DSGWduw79"
-    },
-    {
-      "added_at": "2023-09-29 20:23:15",
-      "album": {
         "name": "two queens in a king sized bed",
         "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 190944,
       "name": "two queens in a king sized bed",
       "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
+    },
+    {
+      "added_at": "2023-09-29 20:23:15",
+      "album": {
+        "name": "Call Me by Your Name (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/531pUFZ1BbEhfXDxitF8TU"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 248964,
+      "name": "Mystery of Love",
+      "url": "https://open.spotify.com/track/0MNNKSUU9OOQ8DSGWduw79"
     },
     {
       "added_at": "2023-09-29 20:23:15",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-09-29 20:23:15",
       "album": {
-        "name": "Kissing Lessons",
-        "url": "https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 114653,
-      "name": "Kissing Lessons",
-      "url": "https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1"
-    },
-    {
-      "added_at": "2023-09-29 20:23:15",
-      "album": {
         "name": "Sunshine Baby",
         "url": "https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
+    },
+    {
+      "added_at": "2023-09-29 20:23:15",
+      "album": {
+        "name": "Kissing Lessons",
+        "url": "https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 114653,
+      "name": "Kissing Lessons",
+      "url": "https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1"
     },
     {
       "added_at": "2023-09-29 20:23:15",

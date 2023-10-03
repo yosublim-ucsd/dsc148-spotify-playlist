@@ -4,7 +4,7 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-222 songs - 16 hr 6 min
+223 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [발걸음 \(신명난다 에헤라디오\)](https://open.spotify.com/track/2gMIKHj6ITSlHRXVDL219w) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Mask Singer 74th \(Live Version\)](https://open.spotify.com/album/2WBKnRY6UZ6bVjCvOU1frS) | 4:22 | 2021-04-21 |  |
 | [발걸음 \(신명난다 에헤라디오\)](https://open.spotify.com/track/0FOiUOw5sd51lVt6DnNP6R) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Mask Singer 74th \(Live Version\)](https://open.spotify.com/album/42vi4SG1yDLnmiXuVfQokP) | 4:22 | 2021-04-21 | 2023-08-23 |
 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2021-04-21 |  |
-| [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [ALI](https://open.spotify.com/artist/5NmGi4tI04spJQqScP5K35) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 | 2021-04-21 |  |
+| [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [ALI](https://open.spotify.com/artist/5NmGi4tI04spJQqScP5K35) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 | 2021-04-21 | 2023-10-03 |
+| [별 짓 다해봤는데](https://open.spotify.com/track/3ySTMUoeEbmS4a7eBDvSXB) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [별 짓 다해봤는데](https://open.spotify.com/album/5BshvRKIWzmUxuJaIoY4bb) | 4:09 | 2021-04-21 |  |
 | [보고싶다 \(From\. "드라마 천국의 계단"\)](https://open.spotify.com/track/2ES5x2KyfEeyplKPW0hkA5) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [인연](https://open.spotify.com/album/4tNYcoG7KmE4toxCvnHKQA) | 4:03 | 2021-04-21 |  |
 | [비상](https://open.spotify.com/track/29acMabyXUwGFEvfqLJM7a) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [임재범 II / 2집](https://open.spotify.com/album/1cLD9RhI7VomKeQcbBpxvu) | 4:29 | 2021-04-21 |  |
 | [비상](https://open.spotify.com/track/6YZQnBMOVFYsUERkP1BjsM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:30 | 2021-04-21 | 2023-06-04 |

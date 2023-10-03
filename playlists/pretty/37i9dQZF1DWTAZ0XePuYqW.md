@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,682 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,761 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 79 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 |
 | 80 | [Rum & Calypso](https://open.spotify.com/track/6t5XQSlptMF2j26wrEXffT) | [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn) | [Rum & Calypso](https://open.spotify.com/album/5CFkpmJntTG33Nl2ozpSZK) | 3:03 |
 
-Snapshot ID: `MCw1ZTUxMzI5ZGQ1YTBhMmNiYTIwODgzOGNhOTQ1YTEzNmI3YzZlYzU3`
+Snapshot ID: `MCxjMzM3YTIyYzBhNDFiOGQwNzJkOGNiZTU0N2M0Y2U4MzVmZjkzM2Vk`

@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: Black Moon",
-  "num_followers": 349563,
+  "num_followers": 349854,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDhkZTAzNThkNDdiYzNlMzBjZTYzMGI1MjYwMDc3OGRiMDZkOTBj",
+  "snapshot_id": "MCwyZGE4ODkyZGQ2ZDc2OTE3MTQwZjBkYWVlNjg3MTE2N2MyY2Y1YzNh",
   "tracks": [
     {
       "added_at": "2023-09-28 04:00:00",
@@ -99,6 +99,22 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Juicy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+    },
+    {
+      "added_at": "2023-09-28 04:00:00",
+      "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
@@ -125,7 +141,7 @@
         }
       ],
       "duration_ms": 252186,
-      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "name": "C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",
       "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
     },
     {
@@ -175,6 +191,22 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
+        "name": "Enta Da Stage",
+        "url": "https://open.spotify.com/album/5Di7sTCL8zU5rHMl98qliQ"
+      },
+      "artists": [
+        {
+          "name": "Black Moon",
+          "url": "https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb"
+        }
+      ],
+      "duration_ms": 220040,
+      "name": "How Many MC's...",
+      "url": "https://open.spotify.com/track/4dk6zfG0ohEToKP7h7yQkO"
+    },
+    {
+      "added_at": "2023-09-28 04:00:00",
+      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -203,38 +235,6 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
-        "name": "Enta Da Stage",
-        "url": "https://open.spotify.com/album/5Di7sTCL8zU5rHMl98qliQ"
-      },
-      "artists": [
-        {
-          "name": "Black Moon",
-          "url": "https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "How Many MC's...",
-      "url": "https://open.spotify.com/track/4dk6zfG0ohEToKP7h7yQkO"
-    },
-    {
-      "added_at": "2023-09-28 04:00:00",
-      "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 302760,
-      "name": "Juicy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
-    },
-    {
-      "added_at": "2023-09-28 04:00:00",
-      "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -249,7 +249,7 @@
         }
       ],
       "duration_ms": 236800,
-      "name": "Still Not a Player - Radio Version",
+      "name": "Still Not a Player (feat. Joe) - Radio Version",
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
     },
     {
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 224533,
-      "name": "Survival of the Fittest",
-      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
+      "duration_ms": 256226,
+      "name": "Many Men (Wish Death)",
+      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
     },
     {
       "added_at": "2023-09-28 04:00:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
         }
       ],
-      "duration_ms": 256226,
-      "name": "Many Men (Wish Death)",
-      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
+      "duration_ms": 224533,
+      "name": "Survival of the Fittest",
+      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
     },
     {
       "added_at": "2023-09-28 04:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 249466,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
+    },
+    {
+      "added_at": "2023-09-28 04:00:00",
+      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
       },
@@ -391,26 +407,6 @@
       "duration_ms": 226133,
       "name": "Electric Relaxation",
       "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
-    },
-    {
-      "added_at": "2023-09-28 04:00:00",
-      "album": {
-        "name": "Blackout!",
-        "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
-      },
-      "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 136093,
-      "name": "Da Rockwilder",
-      "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
     },
     {
       "added_at": "2023-09-28 04:00:00",
@@ -431,18 +427,22 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "name": "Blackout!",
+        "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         }
       ],
-      "duration_ms": 249466,
-      "name": "P.I.M.P.",
-      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
+      "duration_ms": 136093,
+      "name": "Da Rockwilder",
+      "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
     },
     {
       "added_at": "2023-09-28 04:00:00",
@@ -541,7 +541,7 @@
         }
       ],
       "duration_ms": 228173,
-      "name": "Twinz",
+      "name": "Twinz (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
     },
     {
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 366880,
+      "name": "Notorious Thugs - 2014 Remaster",
+      "url": "https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb"
+    },
+    {
+      "added_at": "2023-09-28 04:00:00",
+      "album": {
         "name": "Pain Is Love",
         "url": "https://open.spotify.com/album/6x7ohjhYzzmCglAT4TD9T9"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 245866,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/2lXJr5BkUPZpQUV2ZGN1Wv"
-    },
-    {
-      "added_at": "2023-09-28 04:00:00",
-      "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 366880,
-      "name": "Notorious Thugs - 2014 Remaster",
-      "url": "https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb"
     },
     {
       "added_at": "2023-09-28 04:00:00",
@@ -627,6 +627,22 @@
       "duration_ms": 217626,
       "name": "Put It On",
       "url": "https://open.spotify.com/track/6JI5wNWYdBw68GZjOMmgK5"
+    },
+    {
+      "added_at": "2023-09-28 04:00:00",
+      "album": {
+        "name": "Return of the Boom Bap",
+        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
+      },
+      "artists": [
+        {
+          "name": "KRS-One",
+          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        }
+      ],
+      "duration_ms": 258506,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
     },
     {
       "added_at": "2023-09-28 04:00:00",
@@ -667,18 +683,18 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
-        "name": "Return of the Boom Bap",
-        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
+        "name": "Conspiracy (PA)",
+        "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
       },
       "artists": [
         {
-          "name": "KRS-One",
-          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+          "name": "Junior M.A.F.I.A.",
+          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
         }
       ],
-      "duration_ms": 258506,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
+      "duration_ms": 274937,
+      "name": "Get Money",
+      "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
     },
     {
       "added_at": "2023-09-28 04:00:00",
@@ -699,22 +715,6 @@
       "duration_ms": 209973,
       "name": "Shadowboxin'",
       "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
-    },
-    {
-      "added_at": "2023-09-28 04:00:00",
-      "album": {
-        "name": "Conspiracy (PA)",
-        "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
-      },
-      "artists": [
-        {
-          "name": "Junior M.A.F.I.A.",
-          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
-        }
-      ],
-      "duration_ms": 274937,
-      "name": "Get Money",
-      "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
     },
     {
       "added_at": "2023-09-28 04:00:00",
@@ -851,6 +851,26 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
+        "name": "Mr. Smith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Loungin (Who Do Ya Luv) - Remix",
+      "url": "https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll"
+    },
+    {
+      "added_at": "2023-09-28 04:00:00",
+      "album": {
         "name": "Illmatic XX",
         "url": "https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE"
       },
@@ -863,22 +883,6 @@
       "duration_ms": 293973,
       "name": "N.Y. State of Mind",
       "url": "https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe"
-    },
-    {
-      "added_at": "2023-09-28 04:00:00",
-      "album": {
-        "name": "Life Story",
-        "url": "https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR"
-      },
-      "artists": [
-        {
-          "name": "Black Rob",
-          "url": "https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Whoa!",
-      "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"
     },
     {
       "added_at": "2023-09-28 04:00:00",
@@ -903,18 +907,18 @@
     {
       "added_at": "2023-09-28 04:00:00",
       "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+        "name": "Life Story",
+        "url": "https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR"
       },
       "artists": [
         {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+          "name": "Black Rob",
+          "url": "https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49"
         }
       ],
-      "duration_ms": 282906,
-      "name": "How's It Goin' Down",
-      "url": "https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP"
+      "duration_ms": 238840,
+      "name": "Whoa!",
+      "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"
     },
     {
       "added_at": "2023-09-28 04:00:00",

@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Hoody\(후디\)\)
 
-236 songs - 13 hr 18 min
+237 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Andrea′s Song \(Feat\. Lil Cherry\)](https://open.spotify.com/track/0fzKwOsRpmUQFkBPBxjAEU) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Andrea′s Song](https://open.spotify.com/album/0L7yJIRm0dDHhpie0X5Wd8) | 2:55 | 2023-05-02 |  |
 | [ANIRAGO \(feat\. Zion.T\)](https://open.spotify.com/track/4udQ9x6PZTNkO6Jwxdn0iw) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 3:22 | 2022-10-28 | 2023-03-28 |
 | [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 | 2022-08-12 | 2023-01-11 |
+| [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 | 2023-10-02 |  |
 | [B.T](https://open.spotify.com/track/176b8YUipX6fJi4SQNmMoK) | [YUN HYUN JI](https://open.spotify.com/artist/0zmxxS5g5lmEfxak05ciq2) | [B.T](https://open.spotify.com/album/7dvR8XmzzhP2zJBuuuR1m1) | 3:17 | 2023-07-14 |  |
 | [BAD TRIP](https://open.spotify.com/track/3jdtoXjgDfPtyKBxrEiM6P) | [7uly Seven](https://open.spotify.com/artist/5RQPrdXEhZOc0kvHMlGlOL), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [BAD TRIP](https://open.spotify.com/album/4bdeyL4F2LmyGslFssegMc) | 2:12 | 2023-07-07 |  |
 | [Be there](https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Be there](https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf) | 3:43 | 2022-10-07 | 2023-03-28 |

@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-194 songs - 10 hr 4 min
+195 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [detour](https://open.spotify.com/track/3cH2o1jJ13v2U1o1nbGUNW) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [detour](https://open.spotify.com/album/3W42O1LosXXhBD1d5N5TQH) | 2:57 | 2023-05-05 |  |
 | [diced pineapple](https://open.spotify.com/track/3Z7e2ZAeI9RBX8BFOFwNc1) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [diced pineapple](https://open.spotify.com/album/65yxYvCmn7OmDydhzPYSD3) | 3:21 | 2023-05-05 |  |
 | [different shapes](https://open.spotify.com/track/1ZaAkrf4D8kRAPklwEf2JA) | [Ms\. Velvet](https://open.spotify.com/artist/0y0wpWjKYzAqmY0nQkaZcH) | [different shapes](https://open.spotify.com/album/4b7RQgg0p2VsESDH7sW8de) | 2:52 | 2023-05-05 |  |
-| [Dirty Hero](https://open.spotify.com/track/7CNSMkift1gx78RPcJ0w4U) | [Petr Serkin](https://open.spotify.com/artist/5ywnDPnFteS7NhVDFfONop) | [Woodmaster](https://open.spotify.com/album/1c1MjLFLnW3piY8wwUjssp) | 5:24 | 2023-05-05 |  |
+| [Dirty Hero](https://open.spotify.com/track/7CNSMkift1gx78RPcJ0w4U) | [Petr Serkin](https://open.spotify.com/artist/5ywnDPnFteS7NhVDFfONop) | [Woodmaster](https://open.spotify.com/album/1c1MjLFLnW3piY8wwUjssp) | 5:24 | 2023-05-05 | 2023-10-03 |
 | [Disc Me Bro](https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd) | [Disc Me Bro](https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v) | 2:42 | 2023-08-04 |  |
 | [Don't Wait Blue](https://open.spotify.com/track/22lKedeOAiGBpMOPW60PwD) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Don't Wait Blue](https://open.spotify.com/album/6HgQpYP3a9omdYczFyTjdg) | 3:05 | 2023-05-05 |  |
 | [Dr Zennheiser](https://open.spotify.com/track/4ZliUlRoGlwkCsEf60aeLv) | [John Son of John](https://open.spotify.com/artist/6XZyEFHLJ1SZieiBKiKwjA) | [Dr Zennheiser](https://open.spotify.com/album/3gElVEf2u7ZCu2RL7PwowP) | 2:42 | 2023-05-05 |  |
@@ -113,6 +113,7 @@
 | [Meanwhile In Love](https://open.spotify.com/track/6oCEqsNJj9RW1Kr3p3U4Dn) | [Natural Fool](https://open.spotify.com/artist/663n4qhinuhmaB2ezvFpuw) | [Meanwhile In Love](https://open.spotify.com/album/0PVEbINImHPWShTNgzHXMw) | 2:55 | 2023-05-05 |  |
 | [Mellow Mojito](https://open.spotify.com/track/60MRrmns8voj2NjwuwYiSB) | [Nelvita](https://open.spotify.com/artist/5V3TWBqxSeIr2NcvPMketf) | [Mellow Mojito](https://open.spotify.com/album/208kSvo3QEBAPGovMnLz41) | 2:40 | 2023-07-07 |  |
 | [Midnight Disco](https://open.spotify.com/track/01NWiyGlPKcfXFj85gQ87B) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Midnight Disco](https://open.spotify.com/album/1h2qp1P2w6GIQnJYxOFpBK) | 2:41 | 2023-05-05 |  |
+| [Midnight Mint](https://open.spotify.com/track/2ze9ejYaCLMu4rDtITIrYE) | [ELEVENISH](https://open.spotify.com/artist/6FksKKI0Wz1eJmCbWzNVEf) | [Midnight Mint](https://open.spotify.com/album/09Lb346QPeOrhG5lOOXa9B) | 2:20 | 2023-10-02 |  |
 | [Midsommar](https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Midsommar](https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w) | 2:36 | 2023-05-05 |  |
 | [Milkyway](https://open.spotify.com/track/528FLI8KzcnKoedVS3o6WG) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Milkyway](https://open.spotify.com/album/2NRFUBYuVipEU8fClh8MvB) | 3:07 | 2023-05-05 |  |
 | [Missing U](https://open.spotify.com/track/5dNmmqqsVpsskU332r1ha5) | [Baijings](https://open.spotify.com/artist/5qUY5l2lSFJgCuBFaXeikk) | [Missing U](https://open.spotify.com/album/1QkwzQ8GWWwhDwWc7XQZEP) | 2:18 | 2023-05-05 |  |

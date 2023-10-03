@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 180545,
       "name": "Droom Groot",
       "url": "https://open.spotify.com/track/4XiYnHAolrUxuRCaGLFG0R"
@@ -3718,6 +3718,32 @@
       "duration_ms": 144661,
       "name": "New Balance",
       "url": "https://open.spotify.com/track/4VIehrP2qQjaH2vDyp4G0v"
+    },
+    {
+      "album": {
+        "name": "Niemand",
+        "url": "https://open.spotify.com/album/6eDS1JAROZjvlsuzVF54fy"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167300,
+      "name": "Niemand",
+      "url": "https://open.spotify.com/track/07PeylRU2ER1If9qYqFMKn"
     },
     {
       "album": {

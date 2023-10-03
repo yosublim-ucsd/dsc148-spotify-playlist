@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=BG7B9bJ\-TwWccNonxJ5DhA"> أصالة </a>
 
-666 songs - 1 day 13 hr 46 min
+667 songs - 1 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [3amlt 5er](https://open.spotify.com/track/7zEyLmurfWk1i1MGrnOtH8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [3amlt 5er](https://open.spotify.com/album/2906UsdxF63k38NfKXMnjA) | 3:55 | 2023-02-23 | 2023-04-27 |
 | [3an Albi](https://open.spotify.com/track/1Kp8xfjcjQLOBj4BxpV6m0) | [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [3an Albi](https://open.spotify.com/album/4qZZPJFD3Y5y0cnn3Ol7EN) | 2:35 | 2023-05-18 | 2023-07-13 |
 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2022-12-31 | 2023-02-17 |
-| [3ayza Ba7r](https://open.spotify.com/track/52WUBAeaELu5d39P1FlQdi) | [Shams](https://open.spotify.com/artist/5gH54npc6AzgNhSbArd6oe) | [3ayza Ba7r](https://open.spotify.com/album/4Cg0j4ZSVfmF5Wf1lUzM7L) | 3:49 | 2023-08-17 |  |
+| [3ayza Ba7r](https://open.spotify.com/track/52WUBAeaELu5d39P1FlQdi) | [Shams](https://open.spotify.com/artist/5gH54npc6AzgNhSbArd6oe) | [3ayza Ba7r](https://open.spotify.com/album/4Cg0j4ZSVfmF5Wf1lUzM7L) | 3:49 | 2023-08-17 | 2023-10-03 |
 | [3elw El Sama](https://open.spotify.com/track/4KvTa3HrkyNAqSFUwiv1vC) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [3elw El Sama](https://open.spotify.com/album/1v16p3Gp0B6wSc12RL3VAZ) | 2:22 | 2023-02-14 | 2023-04-05 |
 | [3ian](https://open.spotify.com/track/75s0cYrICLds4ADWnnmfS5) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [3ian](https://open.spotify.com/album/7kzXCUdoekQE4zfFycSa8Z) | 3:29 | 2022-01-20 | 2022-04-08 |
 | [7 PM](https://open.spotify.com/track/3hvINUpTXUW5S00E0TwPn3) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [7 PM](https://open.spotify.com/album/2dFBkn85KWOQ2JwcPuJtt2) | 2:36 | 2023-05-10 | 2023-06-28 |
@@ -344,7 +344,7 @@
 | [Men Fouq](https://open.spotify.com/track/1ELjjmUDD8xTMIsUJ0cNWe) | [Ahmad Zmaili](https://open.spotify.com/artist/4ocVQVhOCz7s01n7K6xmrq) | [Men Fouq](https://open.spotify.com/album/3yTG7hFTp5jT8WuOqEgkus) | 3:44 | 2023-08-03 | 2023-08-24 |
 | [Men Kan Yesda2](https://open.spotify.com/track/0fbkNOvYVWwdxfi2Yixpb3) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [Men Kan Yesda2](https://open.spotify.com/album/6yW8Ll16re8wsQA4N2hS0g) | 3:28 | 2023-08-16 | 2023-09-30 |
 | [Men Wara Albi](https://open.spotify.com/track/48FJYiS6TNaowp08T8Q5fr) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Men Wara Albi](https://open.spotify.com/album/5iv1nz7NCOvTkVfbaIKkvQ) | 3:29 | 2022-01-20 | 2022-04-08 |
-| [Mennak Lellah](https://open.spotify.com/track/48OBnNO9eX6vmDSrUOxmEK) | [Klinsh](https://open.spotify.com/artist/5rq3WcJv093b36wart7yqw), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [Mennak Lellah](https://open.spotify.com/album/0Giycx3BBLCW7gFQzDuu28) | 3:35 | 2023-08-17 |  |
+| [Mennak Lellah](https://open.spotify.com/track/48OBnNO9eX6vmDSrUOxmEK) | [Klinsh](https://open.spotify.com/artist/5rq3WcJv093b36wart7yqw), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [Mennak Lellah](https://open.spotify.com/album/0Giycx3BBLCW7gFQzDuu28) | 3:35 | 2023-08-17 | 2023-10-03 |
 | [Merayat](https://open.spotify.com/track/26bqj6BXWypzTuvXB8bTX6) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Merayat](https://open.spotify.com/album/3z1n5psdjX6jdF3DX0eltI) | 3:33 | 2023-08-30 |  |
 | [Mesaykeb](https://open.spotify.com/track/30z7f3qOR40Cm8BbmLZUPK) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Mesaykeb](https://open.spotify.com/album/6Pwe6SUTBDiORJkyCqWFcr) | 3:05 | 2022-03-18 | 2022-07-11 |
 | [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/track/4Xix6C8Ny51e3l6ZGzFCBA) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Mesh Hategy \(feat\. Abo El Anwar\)](https://open.spotify.com/album/6IVMIrWOyWsjfLXBATH3Jb) | 2:50 | 2023-02-01 | 2023-03-10 |
@@ -544,7 +544,8 @@
 | [بره المقاييس](https://open.spotify.com/track/0J6wnJRwAvxO23m3mczYU7) | [Mohamed Rahim](https://open.spotify.com/artist/2PlOBU4hLGbVxIGOtDOeEi) | [بره المقاييس](https://open.spotify.com/album/7tmwsV5DxlO0tn3nGVGBjR) | 4:40 | 2023-08-28 |  |
 | [بعد الفراق](https://open.spotify.com/track/5EhzRYCsi33GWkiEWKfVUB) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بعد الفراق](https://open.spotify.com/album/48cCganqz8LB7yT5OYq9e7) | 3:46 | 2022-12-01 | 2023-02-03 |
 | [بقولهالك عارف مبجيش على بالك](https://open.spotify.com/track/6oPcYfxMTsf7j0AXyxQgyP) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [بقولهالك عارف مبجيش على بالك](https://open.spotify.com/album/7buSqZIynodOXJeaCz9DcQ) | 4:08 | 2023-03-16 | 2023-05-11 |
-| [بلاش تتغر](https://open.spotify.com/track/0rjP7wNQffUE86c4ogPUrQ) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بلاش تتغر](https://open.spotify.com/album/3l5B196f1xLIIpzysyaCDV) | 3:32 | 2023-08-17 |  |
+| [بلاد البخت](https://open.spotify.com/track/2bUNBOby9mvJ9vRSopH7jU) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [بلاد البخت](https://open.spotify.com/album/6jucrcs3yKbXUQLilctevs) | 4:07 | 2023-10-02 |  |
+| [بلاش تتغر](https://open.spotify.com/track/0rjP7wNQffUE86c4ogPUrQ) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بلاش تتغر](https://open.spotify.com/album/3l5B196f1xLIIpzysyaCDV) | 3:32 | 2023-08-17 | 2023-10-03 |
 | [بيتكلم عليا](https://open.spotify.com/track/7yqw4f8ovU2HuuQmfy4kVu) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Byetkallem Aalaya](https://open.spotify.com/album/0in1Cb14BGgSyvwOHWpNni) | 4:17 | 2022-12-01 | 2023-02-03 |
 | [بيتنا \- تتر مسلسل العيلة دي](https://open.spotify.com/track/5MJvSm6EoCbuYTkRYESMrT) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [بيتنا \(تتر مسلسل العيلة دي\)](https://open.spotify.com/album/4BLn54YmROpPMjUBhNSMOO) | 3:20 | 2023-04-03 | 2023-05-12 |
 | [بيني و بينك](https://open.spotify.com/track/56JILjgRCIRy3hPxr9Eu5K) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [بيني و بينك](https://open.spotify.com/album/1Xpv9bpRG0pmvFf2AnjFwg) | 3:03 | 2021-12-30 | 2022-03-18 |

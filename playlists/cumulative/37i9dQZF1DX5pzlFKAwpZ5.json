@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Mono Spectrum",
+        "url": "https://open.spotify.com/album/0MArGYb9frtOAfhjhk64WL"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Ecliptic Drift",
+      "url": "https://open.spotify.com/track/0Etrh1T0HeWk2C7vXODxm8"
+    },
+    {
+      "album": {
         "name": "Endless Winter",
         "url": "https://open.spotify.com/album/5GcNSMT6S9yR1eFegzWVsR"
       },
@@ -3376,6 +3394,28 @@
       "duration_ms": 195055,
       "name": "The Taste Blends in",
       "url": "https://open.spotify.com/track/08JSkuAqcWuqX2QHgCxcnG"
+    },
+    {
+      "album": {
+        "name": "Thousand Bells",
+        "url": "https://open.spotify.com/album/0UdrYgVmphq6PxnWfYC4We"
+      },
+      "artists": [
+        {
+          "name": "Yui Onodera",
+          "url": "https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e"
+        },
+        {
+          "name": "Takashi Kokubo",
+          "url": "https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230046,
+      "name": "Thousand Bells, Pt. 1",
+      "url": "https://open.spotify.com/track/066LIufqmFNfiXv6p7SMru"
     },
     {
       "album": {

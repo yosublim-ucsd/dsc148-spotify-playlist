@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Icy Subzero, Capo Plaza, Rocco Hunt, MV Killa e tanti altri.
 
-2,330 songs - 4 day 9 hr 59 min
+2,331 songs - 4 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1728,6 +1728,7 @@
 | [QUATTERI \#2](https://open.spotify.com/track/2mhjSMEAbReJIguSuAUP0Y) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [QUATTERI \#2](https://open.spotify.com/album/5rwB4fDaWfORiDU7KOhmuT) | 1:38 | 2022-08-04 | 2022-09-23 |
 | [QUATTRINI](https://open.spotify.com/track/7fZ2PkCIRFseX4CGeAy6bD) | [ernvss](https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza) | [QUATTRINI](https://open.spotify.com/album/3gtTrudKj9Injy0M2DKxA2) | 2:56 | 2023-07-06 | 2023-07-14 |
 | [Que Pasa](https://open.spotify.com/track/0O5pS2v8X5o66vVeC3TXt0) | [Bastio167](https://open.spotify.com/artist/3xuKGlb6coOq5I9w3cY1re), [Ronny167](https://open.spotify.com/artist/19DcKkC92DviF01rO2TARs), [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw), [Shaka Muni](https://open.spotify.com/artist/7AnocrRYGg5OxqfZPjaQIY), [Beniz](https://open.spotify.com/artist/1lyGkvW6FHmenE5FjjqL3F), [Rush167](https://open.spotify.com/artist/1JuHKeUGibWZWTZRhSLhUl) | [Que Pasa](https://open.spotify.com/album/6xHQadbjK0DWeCQeWGG6JL) | 3:53 | 2022-06-16 | 2022-06-29 |
+| [QUELLO CHE HO](https://open.spotify.com/track/1nqwcLNAILQFS6V86S9cV6) | [DAVIDE](https://open.spotify.com/artist/5DO6UaclvCEpCitUQDGrBL) | [QUELLO CHE HO](https://open.spotify.com/album/1ysRGJ2FlscSKragAzfgdV) | 2:32 | 2023-10-02 |  |
 | [Quello che ho Visto](https://open.spotify.com/track/6ZpQza0sZykKKfgN3qHb6q) | [Nobody](https://open.spotify.com/artist/5pqvIYhqL6Sb3PB5XCjd13), [Xela Baby](https://open.spotify.com/artist/2lSvy0qRlHqyWxkHmflU7M) | [Quello che ho Visto](https://open.spotify.com/album/4QcyKmuubyNde6OpR1M0Q9) | 2:18 | 2022-11-04 | 2022-11-11 |
 | [Quello in cui credo](https://open.spotify.com/track/6VpAdAYfHP6epFVvONls3b) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5), [NRY](https://open.spotify.com/artist/4rQfPosRUCIb7zmKGsmS6s) | [Quello in cui credo](https://open.spotify.com/album/71s0ymTgUySb36HqRwfMPy) | 2:37 | 2022-12-09 | 2022-12-21 |
 | [Questa musica del...](https://open.spotify.com/track/59uvpEGUV66lWAuEgNFUDr) | [Marti Stone](https://open.spotify.com/artist/70aepVNcgjvgDZkVOqBVmQ) | [Marticolare](https://open.spotify.com/album/6Q7qcEUUH2bbXtOiw3CWAK) | 2:29 | 2022-08-18 | 2022-09-01 |

@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 198000,
       "name": "Aina - Julma H Remix",
       "url": "https://open.spotify.com/track/2fXkS7KWjPXjuwnOLv6WQJ"
@@ -206,6 +206,24 @@
       "duration_ms": 149289,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/61m5q3Qk7F7W6foiZDpN5p"
+    },
+    {
+      "album": {
+        "name": "CEO",
+        "url": "https://open.spotify.com/album/3ELv9ibqvgohdIUHJyXddx"
+      },
+      "artists": [
+        {
+          "name": "ALE",
+          "url": "https://open.spotify.com/artist/1izgcy57Czf3DH50GcSdwW"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167095,
+      "name": "CEO",
+      "url": "https://open.spotify.com/track/3n2bJ5mrCykRM3SFpkli6C"
     },
     {
       "album": {

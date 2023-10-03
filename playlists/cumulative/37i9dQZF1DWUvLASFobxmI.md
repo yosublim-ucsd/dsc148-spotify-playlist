@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. El Frizian & La Receta en portada.
 
-387 songs - 20 hr 52 min
+388 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Ismael \(En Vivo\)](https://open.spotify.com/track/614Kdv71MWjSPwDK7pNyTy) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Ismael \(En Vivo\)](https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T) | 2:43 | 2023-03-10 | 2023-04-15 |
 | [KDR](https://open.spotify.com/track/66OK4uEWo71v2hcsPqxMNn) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [KDR](https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm) | 3:21 | 2022-04-29 | 2022-08-30 |
 | [La 701](https://open.spotify.com/track/4CjcofBzrS6NMChHVVAFf4) | [El Panter Bélico](https://open.spotify.com/artist/3EdJV0cTCNXp5uFEJHbkUF) | [La 701](https://open.spotify.com/album/2NKjIy66LPXKZZVSWfDs2E) | 3:00 | 2023-08-25 | 2023-09-02 |
-| [La 701](https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La 701](https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI) | 3:00 | 2023-07-14 |  |
+| [La 701](https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La 701](https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI) | 3:00 | 2023-07-14 | 2023-10-03 |
 | [La 701 \- Panter Belico](https://open.spotify.com/track/7FerPDdH6GQJkL39rwY5Ek) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [La 701 \(Panter Belico\)](https://open.spotify.com/album/59qiGHotwfcZvHITzogmEG) | 3:00 | 2023-09-08 | 2023-09-28 |
 | [La 701 \- Panter Belico](https://open.spotify.com/track/4C1Nffkw1W8ecBjNLJRgAS) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [La 701 \- Panter Belico](https://open.spotify.com/album/1U8AwjMc0FdRXtjAP1wIFt) | 3:03 | 2023-07-17 | 2023-08-06 |
 | [La 701 \- Panter Belico](https://open.spotify.com/track/5yPJK5jRsaeIoNo0rcFkgP) | [5 Music MX](https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH), [La Fresada Music](https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1) | [La 701 \- Panter Belico](https://open.spotify.com/album/0SwvlaDXZ02ru0A2F8F0PG) | 3:03 | 2023-07-17 | 2023-07-31 |
@@ -276,6 +276,7 @@
 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 | 2023-08-25 |  |
 | [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 | 2022-08-29 | 2023-08-06 |
 | [No Se Va \- En Vivo](https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A) | 3:14 | 2022-08-29 | 2022-12-24 |
+| [No Sé Qué Pasa](https://open.spotify.com/track/5YmbEstKMg7zofgLXvbSAN) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [No Sé Qué Pasa](https://open.spotify.com/album/1HCrI1y6xGB7HPrfB4Tt6f) | 3:02 | 2023-09-22 |  |
 | [Noche De Pasión \(En Vivo\)](https://open.spotify.com/track/1VzI22RK0crOMtRRscUwZN) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Noche De Pasión \(En Vivo\)](https://open.spotify.com/album/2sjtAV3t1dhuY7EKSun7tX) | 3:03 | 2023-03-10 | 2023-04-16 |
 | [Nuestra Profecía](https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Nuestra Profecía](https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n) | 2:47 | 2022-07-01 | 2022-08-07 |
 | [Obsesión](https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Obsesión](https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY) | 2:32 | 2023-09-08 |  |

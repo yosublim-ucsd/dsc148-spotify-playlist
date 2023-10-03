@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Ed Sheeran, YOASOBI, Vaundy, Bad Bunny, \*NSYNC  and more! Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,683 likes - 73 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,684 likes - 73 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 68 | [My Sunshine](https://open.spotify.com/track/6U5jOvQqfuYmrITKPIJGzx) | [Door Plant](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU), [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [My Sunshine](https://open.spotify.com/album/3dQcnVRALYi8YL2LMnYvn6) | 3:11 |
 | 69 | [Dani](https://open.spotify.com/track/6bghqHHv3lSrGiz97vDyon) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Dani](https://open.spotify.com/album/62pcnIOSyWj3BxniV5T3Ja) | 2:54 |
 | 70 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
-| 71 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 |
+| 71 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 3:28 |
 | 72 | [Get Blue](https://open.spotify.com/track/73Qb65GMZ0cLRKoPqXJLH7) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Get Blue](https://open.spotify.com/album/4s1dA0KmPNcnYkGx9enOng) | 4:43 |
 | 73 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/5b8kLtDCLWYKyJFemtmu73) | 3:45 |
 
-Snapshot ID: `MCw5NjdkMDA2ZmQzZjQ2MWIwMjc5MTlhYzUyZDE0MjM4N2I5MmU1YWE3`
+Snapshot ID: `MCwzN2RlZWQzOWE0YmY5ZGU1YTk5Zjk0NjBiNzdiYmQ5MzNlNzkxNGVl`

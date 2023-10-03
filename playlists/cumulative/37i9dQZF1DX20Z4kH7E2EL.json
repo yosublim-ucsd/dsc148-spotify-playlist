@@ -547,6 +547,28 @@
     },
     {
       "album": {
+        "name": "Compute",
+        "url": "https://open.spotify.com/album/3wrT2kx4jd6sxxPaOw4oxk"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Ali Love",
+          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263610,
+      "name": "Compute",
+      "url": "https://open.spotify.com/track/5axUQpDvClfFgKTtFpnwNw"
+    },
+    {
+      "album": {
         "name": "Cos Of You",
         "url": "https://open.spotify.com/album/1N4eo5yQdprG0nLBJ7UlhM"
       },
@@ -638,10 +660,32 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 393814,
       "name": "Desire's Calling",
       "url": "https://open.spotify.com/track/16KThd8x2ISOFD9FhHXLYL"
+    },
+    {
+      "album": {
+        "name": "DEVOTION (Mansionair Remix)",
+        "url": "https://open.spotify.com/album/6iccD3bKf7WzugmfcHtu3O"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259354,
+      "name": "DEVOTION - Mansionair Remix",
+      "url": "https://open.spotify.com/track/6d8DvkfIHiilazeqFiAMBB"
     },
     {
       "album": {
@@ -1453,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Huge Organ EP",
+        "url": "https://open.spotify.com/album/2lMnm6Db45fpCILbZyKziw"
+      },
+      "artists": [
+        {
+          "name": "Vangelis Kostoxenakis",
+          "url": "https://open.spotify.com/artist/7sb3fD4ofsPbhm2ZHmknIL"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403716,
+      "name": "Huge Organ",
+      "url": "https://open.spotify.com/track/0zP9e41aqAToTcN8Ioh9FS"
+    },
+    {
+      "album": {
         "name": "I Feel For You (Star B Remix)",
         "url": "https://open.spotify.com/album/5f75iR1LqLFO3bo26aQDrv"
       },
@@ -2060,7 +2122,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 404500,
       "name": "Matrix - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/5hjiRNGMYjihPgvNl12W0A"
@@ -2216,7 +2278,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 214527,
       "name": "Need You",
       "url": "https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf"
@@ -2371,6 +2433,28 @@
     },
     {
       "album": {
+        "name": "Space Ibiza 2016 (DJ Mix)",
+        "url": "https://open.spotify.com/album/3t0flZXOivtODPwcORKacT"
+      },
+      "artists": [
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167560,
+      "name": "Ohh Baby - David Tort's Dub Tech Mix - Mixed",
+      "url": "https://open.spotify.com/track/3ptuqk51FuN2SHB1g9cmW8"
+    },
+    {
+      "album": {
         "name": "Eternal Existence Remixes",
         "url": "https://open.spotify.com/album/4tPD6a1BZzueQOHsXxfIcS"
       },
@@ -2404,7 +2488,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 204301,
       "name": "Only One",
       "url": "https://open.spotify.com/track/3ov97oBZHDO72yWMidF6mn"
@@ -2687,6 +2771,28 @@
     },
     {
       "album": {
+        "name": "Ready (feat. Art School Girlfriend)",
+        "url": "https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227625,
+      "name": "Ready (feat. Art School Girlfriend)",
+      "url": "https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj"
+    },
+    {
+      "album": {
         "name": "The Dynamic Unconscious",
         "url": "https://open.spotify.com/album/4bj4qOGPLarfEg3Pol861u"
       },
@@ -2818,7 +2924,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 415960,
       "name": "Saints & Sinners",
       "url": "https://open.spotify.com/track/0JHHFmQhjiDO0J7ll4BQmQ"
@@ -3112,7 +3218,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 346750,
       "name": "Stone Cold - Original Mix",
       "url": "https://open.spotify.com/track/7Gc1mNsFVxbthvVJ2paiGF"
@@ -3414,6 +3520,24 @@
       "duration_ms": 180057,
       "name": "To The Ground",
       "url": "https://open.spotify.com/track/2wEW81bVSkvqqNHDnSPPl9"
+    },
+    {
+      "album": {
+        "name": "Toca's Miracle",
+        "url": "https://open.spotify.com/album/0r8FFE2Sk4dcCpfjuc2XvE"
+      },
+      "artists": [
+        {
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335601,
+      "name": "Toca's Miracle - 2000 Extended Mix",
+      "url": "https://open.spotify.com/track/2u0FbV7bVEsuz2EkpLwKJQ"
     },
     {
       "album": {

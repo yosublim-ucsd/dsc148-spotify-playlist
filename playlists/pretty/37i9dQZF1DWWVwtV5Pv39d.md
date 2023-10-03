@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,846 likes - 70 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,847 likes - 70 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 | 2 | [Rise And Shine](https://open.spotify.com/track/0NW7dYHm3TxI5CQtXYOIhs) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Sofia](https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali) | [Sofia the First: Once Upon a Princess](https://open.spotify.com/album/60YMCDFuBPIl0vmyEkaVrF) | 2:56 |
 | 3 | [The Hand Washing Song](https://open.spotify.com/track/4CxHoh9FDpv8z6tx0F5RVl) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Hand Washing Song](https://open.spotify.com/album/5n1id3LSVpPphLIpQ4wSXb) | 2:37 |
 | 4 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 |
-| 5 | [I Think I'm Going to Like Today](https://open.spotify.com/track/5rJ5iLWPhWmAO4sjCsLXiY) | [Mister Rogers](https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4) | [It's Such a Good Feeling: The Best of Mister Rogers](https://open.spotify.com/album/76J9i1vh8XQSNg4yApRhwL) | 1:09 |
+| 5 | [I Think I'm Going To Like Today](https://open.spotify.com/track/1iEgIS12nXTNU5v5t73qee) | [Mister Rogers](https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4) | [It's Such A Good Feeling: The Best Of Mister Rogers](https://open.spotify.com/album/3nio3A4xg6WLkyGx0lsa1D) | 1:09 |
 | 6 | [Get Ready!](https://open.spotify.com/track/4SgACaaXujpvB2xwyWWmUx) | [Felicia Barton](https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Disney Junior Music: Mickey Mornings](https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh) | 1:41 |
 | 7 | [Breakfast Time](https://open.spotify.com/track/1ALm4pWP1oCkiDCjyhuG3s) | [Ernie](https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ), [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r) | [Sesame Street: What Time Is It On Sesame Street?](https://open.spotify.com/album/0V5l87JG04WWn0atQZCtg7) | 4:45 |
 | 8 | [Clothes on, Eat Breakfast, Brush Teeth, Put on Shoes, and off to School!](https://open.spotify.com/track/2NbgM4HZP1DUvzKOVqkUZw) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Life's Little Lessons](https://open.spotify.com/album/4inXPDlLGoSV1DdxEIc4Vq) | 1:11 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 | 66 | [Bed Time](https://open.spotify.com/track/1joefUsccvoRXCu6mnLlDi) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Great Indoors](https://open.spotify.com/album/0UHnvtbbdIIOkcm6eAlzxR) | 2:04 |
 | 67 | [Not the Bedtime Blues](https://open.spotify.com/track/0aYi1rYHSrLNHvfECrHdqf) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Disney Junior Music: Doc McStuffins \- The Doc Is In Vol\. 2](https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO) | 0:41 |
 | 68 | [Safe with Me](https://open.spotify.com/track/020JgfARy40ho6uIBdodIb) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Noise Factory](https://open.spotify.com/album/7JrqM06vRbzoibxelpYD0r) | 4:00 |
-| 69 | [Tomorrow](https://open.spotify.com/track/47eBlcqP5J3hb841xRNz9R) | [Mister Rogers](https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4) | [It's Such a Good Feeling: The Best of Mister Rogers](https://open.spotify.com/album/76J9i1vh8XQSNg4yApRhwL) | 1:03 |
+| 69 | [Tomorrow](https://open.spotify.com/track/30T5lRceVlbzHFSehhv8xb) | [Mister Rogers](https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4) | [It's Such A Good Feeling: The Best Of Mister Rogers](https://open.spotify.com/album/3nio3A4xg6WLkyGx0lsa1D) | 1:03 |
 | 70 | [Peppa's Lullaby](https://open.spotify.com/track/05mpNCdBnlCFKhXva3ta98) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn) | 2:46 |
 
-Snapshot ID: `MCw1M2FmMGM2NzViNDUyM2ZiNGJlNWI5YmJhNjgxZmQ5MTRkYWEyZGE3`
+Snapshot ID: `MCwxY2UxNzY4ZTM0ZDk4OGQzMGVkMDgzZGMyYjhmNDc3Mjc3OWE5Nzdj`

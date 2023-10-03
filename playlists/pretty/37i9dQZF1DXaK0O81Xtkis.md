@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: david hugo
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,658 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,710 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Strawberry Ice Cream](https://open.spotify.com/track/5zd3ZyWEjTvVyiyKocCPqT) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Strawberry Ice Cream](https://open.spotify.com/album/59MmqBryooxMuIu9X8mjYz) | 3:10 |
 | 2 | [With You](https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:43 |
-| 3 | [XXL](https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf) | 3:26 |
+| 3 | [XXL](https://open.spotify.com/track/4kFbxA8gCGx47zJrZ9KiQT) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:26 |
 | 4 | [this time](https://open.spotify.com/track/3RflzntjekyDoIlm11kNIN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [this time](https://open.spotify.com/album/7JXBW10JRr5UtC7CjPZR5t) | 2:56 |
 | 5 | [sleepover](https://open.spotify.com/track/4WEi5dUbKYjiOuc3LCQY2n) | [dreamfone](https://open.spotify.com/artist/00BCWGiYaxkXLJOp3zakyc) | [sleepover](https://open.spotify.com/album/6mJomZ2MN6gyUxbO2efeGT) | 2:38 |
 | 6 | [If I'm Honest](https://open.spotify.com/track/2Z7EZcoB3z8KLB1o0gY1aw) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [If I'm Honest](https://open.spotify.com/album/60xkllE0RluvMz1pko3C8f) | 2:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 69 | [I've Loved You For So Long](https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/1d4SG4S7oEKwHcPCyQsC2J) | 2:56 |
 | 70 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 
-Snapshot ID: `MCw0MGU3NjU1YzdkYzRkZmIyYzYyMjNmZDE5ZDliZjE5MmFjYzU4NzZh`
+Snapshot ID: `MCw2Y2E4MGZjNGIxZTM1ODEyNmZlYmU3MzBkYzMxNjEzMWQxYzMxMDNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: ARIETE
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,871 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,888 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 |
 | 50 | [Mi Pensi Ancora](https://open.spotify.com/track/7GqoXNz3AIKj48FbUcCABR) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Mi Pensi Ancora](https://open.spotify.com/album/3WVYb9E0xwiAK6ouuXEw9g) | 2:44 |
 
-Snapshot ID: `MCwwN2MxZTlhMDU4N2FiMGY5YjkzMjcwM2JkZGYwZWJjN2ZhNmYzYjY5`
+Snapshot ID: `MCxjNjAzNTM2MzlhZjgzNGNjMDU5ZmM0Mzc4MTk5YTNkODJmODg4ZGM1`

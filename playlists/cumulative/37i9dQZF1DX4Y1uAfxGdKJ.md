@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-149 songs - 8 hr 18 min
+150 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Apollo](https://open.spotify.com/track/5VkZbMDVM7ZDorvYvxH9fT) | [Didi Henric](https://open.spotify.com/artist/6lV1RWdJ0XSM4OxR8QbYyk) | [Apollo](https://open.spotify.com/album/3fcnJzILfEJWHydxYMCrry) | 2:16 | 2023-09-22 |  |
 | [Apollo](https://open.spotify.com/track/5sIlFL8mCj6AIrRDI1d6mT) | [Donkels](https://open.spotify.com/artist/6as2EDg4VeljtLbtgBy54P) | [Apollo](https://open.spotify.com/album/2FhcrxYhzCnGz5T0ZromSk) | 2:26 | 2022-09-23 |  |
 | [banana split](https://open.spotify.com/track/7u1tLb1LntsHDFhJ94AGlz) | [Cosmic Citrine](https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox) | [banana split](https://open.spotify.com/album/6SUdl3Z0bLceeTfQZLDU73) | 2:58 | 2022-10-07 | 2023-07-18 |
-| [Beautiful House](https://open.spotify.com/track/16QQGyu1UFkfQREErhvyvf) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Beautiful House / Aqualogico](https://open.spotify.com/album/6a4pT5HdiimlPYlzDgriOq) | 4:36 | 2022-09-23 |  |
+| [Beautiful House](https://open.spotify.com/track/16QQGyu1UFkfQREErhvyvf) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Beautiful House / Aqualogico](https://open.spotify.com/album/6a4pT5HdiimlPYlzDgriOq) | 4:36 | 2022-09-23 | 2023-10-03 |
 | [Beautiful Symmetry](https://open.spotify.com/track/5MaIAkTbRIDxH1Eit4WTwM) | [Beautiful Minds](https://open.spotify.com/artist/5mDrLKHpzWOlD73nhHYUty) | [Beautiful Symmetry / Inner Life](https://open.spotify.com/album/7KDwizgKEqbPomuX6ICql1) | 4:41 | 2022-09-23 | 2023-07-18 |
 | [Bells of Home](https://open.spotify.com/track/1m826VTZiW3BmevRJEfuh8) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [Bells of Home](https://open.spotify.com/album/0r9SeqcahpJNnBgFtrAhcq) | 2:57 | 2022-11-25 | 2023-07-07 |
 | [Better Now](https://open.spotify.com/track/7vWrnIvoGCVxpBMGJO9Nbi) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [Better Now](https://open.spotify.com/album/4x50U3vN98fEii4vIbLNVA) | 3:21 | 2023-01-06 |  |
@@ -110,6 +110,7 @@
 | [Paper Hearts](https://open.spotify.com/track/1BsdE859H1FaOnEfnm2A5X) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Paper Hearts](https://open.spotify.com/album/2RZcdZ676S2NEEsmaYQxHL) | 2:40 | 2022-09-23 | 2023-07-18 |
 | [Past Eleven](https://open.spotify.com/track/1VK0VKSSYrx8Mg3trmV8zL) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Past Eleven](https://open.spotify.com/album/0kQhu6DLrWNJRY4qUa9moP) | 2:06 | 2023-02-17 |  |
 | [Polar](https://open.spotify.com/track/3CkFs9nquXcv4VsHnsvhJ5) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [Polar](https://open.spotify.com/album/40QMSxAcbxjVpqnsIorPMX) | 4:34 | 2023-04-14 |  |
+| [Pomegranate](https://open.spotify.com/track/2mwoZ2aQjHtzoyuTXkiQTt) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Pomegranate](https://open.spotify.com/album/1M3AFo4YY0SMNxyb3Ih7pr) | 2:24 | 2023-10-02 |  |
 | [Portamento](https://open.spotify.com/track/563A3oAQnjkDEqEjlbs2bO) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Hey Valentine](https://open.spotify.com/album/4oFLsHYWq3URi7y8zdDg6r) | 2:28 | 2022-10-14 |  |
 | [Prickles and Goo](https://open.spotify.com/track/3anEkpGQT5hDxtPwtX4itO) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Prickles and Goo / Singing Swan](https://open.spotify.com/album/02HQv9kLC7kNf5jtcVP7mc) | 6:06 | 2022-09-23 |  |
 | [Projectile](https://open.spotify.com/track/4ODWE5SOUACS8xu6aV9ORL) | [Calvatress](https://open.spotify.com/artist/2UxH255utiME1XAA9fXUsh) | [Projectile](https://open.spotify.com/album/2AmwppTukWbE4BmVGlM6zo) | 2:24 | 2022-11-25 |  |

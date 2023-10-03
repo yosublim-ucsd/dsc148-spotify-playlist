@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 316603,
+  "num_followers": 316659,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmI5M2EwMWUxM2Y0NDg4MjgyODM2OTFiYjZiMjY5NGY1M2Q3MjQ1",
+  "snapshot_id": "MCxkMDRmMGNlMDE0M2NhYjYwMjY5NjJkNThjYjk3YWU4NmJhYTVjOTkw",
   "tracks": [
     {
       "added_at": "2023-08-24 12:49:44",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-08-24 12:49:44",
       "album": {
-        "name": "Les mots bleus",
-        "url": "https://open.spotify.com/album/5lDOYOhBNt7NHvDMtjcIOf"
-      },
-      "artists": [
-        {
-          "name": "Christophe",
-          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Les mots bleus",
-      "url": "https://open.spotify.com/track/2Desf0YgquK9YrSkRhkvDN"
-    },
-    {
-      "added_at": "2023-08-24 12:49:44",
-      "album": {
         "name": "Quelqu'un m'a dit",
         "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
       },
@@ -295,6 +279,22 @@
     {
       "added_at": "2023-08-24 12:49:44",
       "album": {
+        "name": "Les mots bleus",
+        "url": "https://open.spotify.com/album/5lDOYOhBNt7NHvDMtjcIOf"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "Les mots bleus",
+      "url": "https://open.spotify.com/track/2Desf0YgquK9YrSkRhkvDN"
+    },
+    {
+      "added_at": "2023-08-24 12:49:44",
+      "album": {
         "name": "A Fleur De Toi",
         "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
       },
@@ -307,22 +307,6 @@
       "duration_ms": 261093,
       "name": "A fleur de toi",
       "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
-    },
-    {
-      "added_at": "2023-08-24 12:49:44",
-      "album": {
-        "name": "\u00c9toile flippante (Version deluxe)",
-        "url": "https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Et m\u00eame apr\u00e8s je t'aimerai",
-      "url": "https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP"
     },
     {
       "added_at": "2023-08-24 12:49:44",
@@ -391,22 +375,18 @@
     {
       "added_at": "2023-08-24 12:49:44",
       "album": {
-        "name": "Les femmes id\u00e9ales",
-        "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
+        "name": "\u00c9toile flippante (Version deluxe)",
+        "url": "https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW"
       },
       "artists": [
         {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        },
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
         }
       ],
-      "duration_ms": 280826,
-      "name": "J'attends",
-      "url": "https://open.spotify.com/track/2EjSObddqmZPzlcoket9WV"
+      "duration_ms": 195986,
+      "name": "Et m\u00eame apr\u00e8s je t'aimerai",
+      "url": "https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP"
     },
     {
       "added_at": "2023-08-24 12:49:44",
@@ -423,6 +403,26 @@
       "duration_ms": 269320,
       "name": "L'\u00e9t\u00e9 indien",
       "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
+    },
+    {
+      "added_at": "2023-08-24 12:49:44",
+      "album": {
+        "name": "Les femmes id\u00e9ales",
+        "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "J'attends",
+      "url": "https://open.spotify.com/track/2EjSObddqmZPzlcoket9WV"
     },
     {
       "added_at": "2023-08-24 12:49:44",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-08-24 12:49:44",
       "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Le lac",
+      "url": "https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9"
+    },
+    {
+      "added_at": "2023-08-24 12:49:44",
+      "album": {
         "name": "Comic Strip",
         "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2023-08-24 12:49:44",
       "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Le lac",
-      "url": "https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9"
-    },
-    {
-      "added_at": "2023-08-24 12:49:44",
-      "album": {
         "name": "La Maladie D'Amour",
         "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 237653,
       "name": "Evidemment",
       "url": "https://open.spotify.com/track/7yaAqQhgUFkcI9ap1qjqEy"
-    },
-    {
-      "added_at": "2023-08-24 12:49:44",
-      "album": {
-        "name": "N\u00b04",
-        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 149240,
-      "name": "La javanaise",
-      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
     },
     {
       "added_at": "2023-08-24 12:49:44",
@@ -807,6 +791,22 @@
       "duration_ms": 319493,
       "name": "Et un jour une femme",
       "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
+    },
+    {
+      "added_at": "2023-08-24 12:49:44",
+      "album": {
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 149240,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
     },
     {
       "added_at": "2023-08-24 12:49:44",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-24 12:49:44",
       "album": {
-        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Quelques mots d'amour - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
-    },
-    {
-      "added_at": "2023-08-24 12:49:44",
-      "album": {
         "name": "Message personnel (Remasteris\u00e9 2013)",
         "url": "https://open.spotify.com/album/5ZwlOcxszBn5GACtzs6sE6"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 256506,
       "name": "Message personnel - Remasteris\u00e9 en 2013",
       "url": "https://open.spotify.com/track/6lanWfRq2R0gxKRPI3CDRb"
+    },
+    {
+      "added_at": "2023-08-24 12:49:44",
+      "album": {
+        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Quelques mots d'amour - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
     },
     {
       "added_at": "2023-08-24 12:49:44",
@@ -1247,18 +1247,22 @@
     {
       "added_at": "2023-08-24 12:49:44",
       "album": {
-        "name": "Le coeur grenadine",
-        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
+        "name": "Best Of - Morceaux d\u2019amour",
+        "url": "https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce"
       },
       "artists": [
         {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        },
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
         }
       ],
-      "duration_ms": 347520,
-      "name": "Le coeur grenadine",
-      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
+      "duration_ms": 220386,
+      "name": "Toi mon amour",
+      "url": "https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg"
     }
   ],
   "unique_name": "French Kiss",

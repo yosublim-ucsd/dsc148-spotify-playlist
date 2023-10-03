@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7Z7kYpKKGTc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Z7kYpKKGTc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Z7kYpKKGTc)
 
-### [Canciones de rock románticas](https://open.spotify.com/playlist/37i9dQZF1DX7Z7kYpKKGTc)
+### [Rock Love Songs](https://open.spotify.com/playlist/37i9dQZF1DX7Z7kYpKKGTc)
 
 > The romantic side of classic rock and metal
 

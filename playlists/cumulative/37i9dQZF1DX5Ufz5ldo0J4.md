@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-290 songs - 13 hr 36 min
+291 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Purple Skies](https://open.spotify.com/track/0FgH4pMsTovHYDLs49l5LJ) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Purple Skies](https://open.spotify.com/album/6kVpioXtXTxlQHZz7bzb2b) | 3:09 | 2021-12-10 |  |
 | [Purple Sunrise](https://open.spotify.com/track/6DkUtEi0XgqV8LmnbDVpna) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Purple Sunrise](https://open.spotify.com/album/1fySOtQ7AtVUlLmwzvd0tg) | 2:57 | 2021-12-10 |  |
 | [Purpose](https://open.spotify.com/track/5GzuDxMuqENSCZ61rb3Zex) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Purpose](https://open.spotify.com/album/20huIijfp7AeN5jvvzfeYv) | 3:34 | 2021-12-10 |  |
-| [Purposes](https://open.spotify.com/track/6Ji4BNyWqNOilFD9AyD0o2) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 3:26 | 2021-12-10 |  |
+| [Purposes](https://open.spotify.com/track/6Ji4BNyWqNOilFD9AyD0o2) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 3:26 | 2021-12-10 | 2023-10-03 |
 | [Quartz](https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 6](https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn) | 2:36 | 2021-12-10 |  |
 | [Quietism](https://open.spotify.com/track/2elxb3dMZkZPtS6jqE6nRP) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Quietism](https://open.spotify.com/album/74n9JKT7nUeShC9rJWKaoM) | 2:43 | 2023-04-28 |  |
 | [Ready \(Eventide\)](https://open.spotify.com/track/3TkZqdoFUtauvCxBsgNglY) | [Adrian Disch](https://open.spotify.com/artist/48EcVRzDBk0MSyRat8Blte) | [Ready \(Eventide\)](https://open.spotify.com/album/2WwbwLqaikwVbdzthgMYps) | 4:51 | 2021-12-10 | 2022-12-03 |
@@ -265,6 +265,7 @@
 | [The Way There](https://open.spotify.com/track/2X0ophIMSyCw9SSISrIEpQ) | [Hreidar](https://open.spotify.com/artist/0tVS8c23TG8rD0vyBSXuWe) | [The Way There](https://open.spotify.com/album/5EZyffRRVIrdJ1tPP06Dac) | 3:24 | 2021-12-10 | 2022-09-03 |
 | [Thinking about Jane](https://open.spotify.com/track/1p8USVDsfuc1bJPYEHdaXK) | [Emanuel Fremont](https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc) | [Thinking about Jane](https://open.spotify.com/album/1IndXeuwjyE7OReVMHEiEY) | 2:24 | 2021-12-10 |  |
 | [This Heart Of Mine](https://open.spotify.com/track/1zPdxtJ6dnmQaqtr9NbPkh) | [Ashlyn Wells](https://open.spotify.com/artist/3zYmhcuzxbyb5fHYDliCFn) | [This Heart Of Mine \(Ambient Version\)](https://open.spotify.com/album/4wlwX82sNvN5hz7uwDWPNp) | 2:02 | 2021-12-10 | 2023-07-29 |
+| [Through The Infinite](https://open.spotify.com/track/11VMvgQXjrboqwbNRaMd4s) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Through The Infinite](https://open.spotify.com/album/1szUytSvkOPxPDF5Ogqliv) | 2:43 | 2023-10-02 |  |
 | [Til Mathilde](https://open.spotify.com/track/74hynqEUgqRntXOfiqAkd9) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Til Mathilde](https://open.spotify.com/album/3VgStQpHt6x0AfiBI1t92P) | 4:15 | 2021-12-10 |  |
 | [Tiny Elephants](https://open.spotify.com/track/0bF7Po3DHoTqcigWwgd2Xi) | [Early Still](https://open.spotify.com/artist/1X8eNRUXvH2xbJmounFJcY) | [Four Thoughts](https://open.spotify.com/album/0lHuEa5WgDqEa6nSyl1Bi4) | 2:46 | 2021-12-10 |  |
 | [Together](https://open.spotify.com/track/0wp8xz7yFPqvZK5b4bNbQy) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [Together](https://open.spotify.com/album/6Lu5OMcH8LB90wduWZUApV) | 3:03 | 2021-12-10 | 2022-08-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 85128,
+  "num_followers": 85207,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWQ1YTkyNzBhYjJjMGNlMTdlODgwOTVjMzc2OGIyNGU2MjhhMDc2",
+  "snapshot_id": "MCwyODI2NTNlYzlmY2U0ZWZmMWYyN2VkODViMTM3NTUyZDUwOGQ5ZWNh",
   "tracks": [
     {
       "added_at": "2023-05-23 12:45:45",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Nonante-Cinq",
-        "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 191659,
       "name": "Lady M\u00e9lody",
       "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Nonante-Cinq",
+        "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -373,7 +373,7 @@
         }
       ],
       "duration_ms": 210706,
-      "name": "Le chemin",
+      "name": "Le chemin (feat. Sita)",
       "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
     },
     {
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Pri\u00e8re pa\u00efenne",
+      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
         "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
         "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
       },
@@ -491,38 +507,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Sacha Distel: Crooner",
-        "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
-      },
-      "artists": [
-        {
-          "name": "Sacha Distel",
-          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
-        }
-      ],
-      "duration_ms": 123053,
-      "name": "La belle vie",
-      "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Pri\u00e8re pa\u00efenne",
-      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "L'attrape-r\u00eaves",
         "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 250480,
       "name": "Il est o\u00f9 le bonheur",
       "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Sacha Distel: Crooner",
+        "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
+      },
+      "artists": [
+        {
+          "name": "Sacha Distel",
+          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
+        }
+      ],
+      "duration_ms": 123053,
+      "name": "La belle vie",
+      "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "\u00c0 nos h\u00e9ros du quotidien",
+      "url": "https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
         "name": "Cach\u00e9 derri\u00e8re",
         "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
       "artists": [
         {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
         }
       ],
-      "duration_ms": 233813,
-      "name": "\u00c0 nos h\u00e9ros du quotidien",
-      "url": "https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19"
+      "duration_ms": 209000,
+      "name": "Belle demoiselle",
+      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -647,22 +663,6 @@
       "duration_ms": 219333,
       "name": "Ulysse",
       "url": "https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Belle demoiselle",
-      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Les feux d'artifice",
-        "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 294173,
-      "name": "Un jour au mauvais endroit",
-      "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Le Premier Jour",
         "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
+        "name": "Les feux d'artifice",
+        "url": "https://open.spotify.com/album/4ZtEVWnShn3yATqGn1JTWh"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 294173,
+      "name": "Un jour au mauvais endroit",
+      "url": "https://open.spotify.com/track/7ncNqIzXGRrKdP6C9fQUbm"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
         "name": "La femme id\u00e9ale",
         "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
       },
@@ -835,6 +835,70 @@
       "duration_ms": 222413,
       "name": "Nous deux contre le reste du monde",
       "url": "https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Camelia Jordana",
+        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Non non non (Ecouter Barbara)",
+      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "40 succ\u00e8s en or",
+        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "duration_ms": 448906,
+      "name": "Gigi l'amoroso",
+      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Week End \u00c0 Rome",
+        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Derri\u00e8re l'amour",
+        "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -867,54 +931,6 @@
       "duration_ms": 196506,
       "name": "Tout savoir",
       "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
-        "name": "Derri\u00e8re l'amour",
-        "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
-        "name": "40 succ\u00e8s en or",
-        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "duration_ms": 448906,
-      "name": "Gigi l'amoroso",
-      "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
-        "name": "Camelia Jordana",
-        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
-      },
-      "artists": [
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "Non non non (Ecouter Barbara)",
-      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -967,34 +983,18 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Week End \u00c0 Rome",
-        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
         }
       ],
-      "duration_ms": 254453,
-      "name": "Week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
-        "name": "Nico Teen Love",
-        "url": "https://open.spotify.com/album/3CaWeqpBhLWPyFU0sALf8k"
-      },
-      "artists": [
-        {
-          "name": "BB Brunes",
-          "url": "https://open.spotify.com/artist/4tHeypFR25Cnx83nuHhrud"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "Lalalove You",
-      "url": "https://open.spotify.com/track/5JB4QJJQMltOaX1UbzPjGh"
+      "duration_ms": 250746,
+      "name": "Rockollection",
+      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+        "name": "Nico Teen Love",
+        "url": "https://open.spotify.com/album/3CaWeqpBhLWPyFU0sALf8k"
       },
       "artists": [
         {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+          "name": "BB Brunes",
+          "url": "https://open.spotify.com/artist/4tHeypFR25Cnx83nuHhrud"
         }
       ],
-      "duration_ms": 250746,
-      "name": "Rockollection",
-      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
+      "duration_ms": 180813,
+      "name": "Lalalove You",
+      "url": "https://open.spotify.com/track/5JB4QJJQMltOaX1UbzPjGh"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1043,6 +1043,22 @@
       "duration_ms": 249666,
       "name": "L'autre finist\u00e8re",
       "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+      },
+      "artists": [
+        {
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+        "name": "Amoureuse (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
       },
       "artists": [
         {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
         }
       ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
+      "duration_ms": 221600,
+      "name": "Amoureuse - Remasteris\u00e9 en 2008",
+      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1095,22 +1111,6 @@
       "duration_ms": 326186,
       "name": "Un \u00e9t\u00e9 fran\u00e7ais",
       "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
-        "name": "Amoureuse (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Amoureuse - Remasteris\u00e9 en 2008",
-      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
     },
     {
       "added_at": "2023-05-23 12:45:45",

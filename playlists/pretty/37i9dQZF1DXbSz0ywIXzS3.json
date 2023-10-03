@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 142494,
+  "num_followers": 142544,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Yjk1YmFkY2E4NzdmMTU4MjU2Y2E4MjNjN2NjOTFkMDUzMmM5ZjYy",
+  "snapshot_id": "MCxiNDdlYjRmYTk2ZjdmODVlZWNhOTRkNmY1MTdhYmRiYjA5MzlkNTgw",
   "tracks": [
     {
       "added_at": "2023-09-28 08:25:22",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 209306,
       "name": "Leave Out All The Rest",
       "url": "https://open.spotify.com/track/0sp00HSXkQyqTa6QqM0O8V"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "The 2nd Law",
-        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 281040,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
         "name": "A Little Bit Happy",
         "url": "https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh"
       },
@@ -283,6 +267,22 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
+        "name": "The 2nd Law",
+        "url": "https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 281040,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 253840,
       "name": "Doin' Time",
       "url": "https://open.spotify.com/track/4eamJr2k9YDH8j58RSTmSc"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
-        "name": "Floored",
-        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -335,6 +319,22 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
+        "name": "Floored",
+        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
         "name": "Greatest Hits '93 - '03",
         "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
       },
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
+        "name": "Vitalogy",
+        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 268586,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
       },
@@ -363,6 +379,22 @@
       "duration_ms": 189186,
       "name": "I Will Follow You into the Dark",
       "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Undisclosed Desires",
+      "url": "https://open.spotify.com/track/0It6VJoMAare1zdV2wxqZq"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -399,54 +431,6 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Vitalogy",
-        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 268586,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Undisclosed Desires",
-      "url": "https://open.spotify.com/track/0It6VJoMAare1zdV2wxqZq"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 290360,
-      "name": "Shadow of the Day",
-      "url": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 309800,
       "name": "Wet Sand",
       "url": "https://open.spotify.com/track/3L2Nyi3T7XabH8EEZFLDdX"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 290360,
+      "name": "Shadow of the Day",
+      "url": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 225600,
-      "name": "Play God",
-      "url": "https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH"
+      "duration_ms": 224200,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
+      "duration_ms": 225600,
+      "name": "Play God",
+      "url": "https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
+        "name": "The Devil And God Are Raging Inside Me",
+        "url": "https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy"
+      },
+      "artists": [
+        {
+          "name": "Brand New",
+          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
+        }
+      ],
+      "duration_ms": 318266,
+      "name": "Jesus Christ",
+      "url": "https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 176002,
       "name": "ALIEN LOVE CALL",
       "url": "https://open.spotify.com/track/5o5SdS2vu1PgKblBABGlER"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
-        "name": "The Devil And God Are Raging Inside Me",
-        "url": "https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy"
-      },
-      "artists": [
-        {
-          "name": "Brand New",
-          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
-        }
-      ],
-      "duration_ms": 318266,
-      "name": "Jesus Christ",
-      "url": "https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Staind",
-        "url": "https://open.spotify.com/album/1lOE9VtdaX00Mp3Df6pgs3"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 247053,
-      "name": "Something to Remind You",
-      "url": "https://open.spotify.com/track/4wOQ8upbW1GzHCWjPlISKP"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
         "name": "GHOSTAPE2",
         "url": "https://open.spotify.com/album/6IshG51xx1F2B97Rt4P2ug"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 192026,
       "name": "skins",
       "url": "https://open.spotify.com/track/44Y0uTXcrn42ZyDptUOrpW"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
+        "name": "Staind",
+        "url": "https://open.spotify.com/album/1lOE9VtdaX00Mp3Df6pgs3"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 247053,
+      "name": "Something to Remind You",
+      "url": "https://open.spotify.com/track/4wOQ8upbW1GzHCWjPlISKP"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Here And Now",
-        "url": "https://open.spotify.com/album/3MsVFWup3Chu5w0aeAo0fq"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 237859,
-      "name": "Here And Now",
-      "url": "https://open.spotify.com/track/1WI3vLQfstHF8q9CqJN3zY"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
         "name": "Don't You Fake It",
         "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 247773,
       "name": "Northern Downpour",
       "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
+        "name": "Here And Now",
+        "url": "https://open.spotify.com/album/3MsVFWup3Chu5w0aeAo0fq"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 237859,
+      "name": "Here And Now",
+      "url": "https://open.spotify.com/track/1WI3vLQfstHF8q9CqJN3zY"
     },
     {
       "added_at": "2023-09-28 08:25:22",

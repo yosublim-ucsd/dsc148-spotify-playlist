@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Estrella del Sol on cover. Updates every Wednesday.",
-  "num_followers": 116246,
+  "num_followers": 116344,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzQ0YWQ0MTY0ZTRiMDYyMTMxZTM1Y2E1ZTc1N2JmNmVjMjlkNDIx",
+  "snapshot_id": "MCxiNTJhNzU1MmI4YTgxOWYwZGIxMjVlMTIwMDJkNWIzOGRmYTA0NDRh",
   "tracks": [
     {
       "added_at": "2023-09-13 15:55:38",
@@ -189,22 +189,6 @@
       "url": "https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Zionic Mud",
-        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 321782,
-      "name": "Zionic Mud",
-      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
-    },
-    {
       "added_at": "2023-06-28 01:00:55",
       "album": {
         "name": "In Phases",
@@ -219,6 +203,22 @@
       "duration_ms": 58202,
       "name": "Solace",
       "url": "https://open.spotify.com/track/7oqm7wpNm8CLNGS1Rn5may"
+    },
+    {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Zionic Mud",
+        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 321782,
+      "name": "Zionic Mud",
+      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
       "added_at": "2023-07-19 01:03:01",
@@ -261,22 +261,6 @@
       "url": "https://open.spotify.com/track/6sJpI63m2ZJvJzfPH1DB3o"
     },
     {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
-    },
-    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "Step Outside This Area",
@@ -291,6 +275,22 @@
       "duration_ms": 600000,
       "name": "Fractus",
       "url": "https://open.spotify.com/track/0ovXw0MenWBT4fn8LBWqCG"
+    },
+    {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Dogwood Variations",
-        "url": "https://open.spotify.com/album/3a2KKDtdH7jhn5aElXTESl"
-      },
-      "artists": [
-        {
-          "name": "Austin Cash",
-          "url": "https://open.spotify.com/artist/63JuPlLsaNSlB5bQzUOO7i"
-        }
-      ],
-      "duration_ms": 384727,
-      "name": "Franklin, King of the Beers",
-      "url": "https://open.spotify.com/track/0ZeRwyqeEsWZORy2lPcfHv"
-    },
-    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "Hint",
@@ -671,6 +655,22 @@
       "duration_ms": 303500,
       "name": "Hint",
       "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
+    },
+    {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Dogwood Variations",
+        "url": "https://open.spotify.com/album/3a2KKDtdH7jhn5aElXTESl"
+      },
+      "artists": [
+        {
+          "name": "Austin Cash",
+          "url": "https://open.spotify.com/artist/63JuPlLsaNSlB5bQzUOO7i"
+        }
+      ],
+      "duration_ms": 384727,
+      "name": "Franklin, King of the Beers",
+      "url": "https://open.spotify.com/track/0ZeRwyqeEsWZORy2lPcfHv"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/0iupNUfxhGo1AEPlfHz4m6"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "V\u00e4ter und S\u00f6hne",
-        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
-      },
-      "artists": [
-        {
-          "name": "Alex Kaminski",
-          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
-        }
-      ],
-      "duration_ms": 353250,
-      "name": "V\u00e4ter und S\u00f6hne",
-      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
-    },
-    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "Preludes",
@@ -803,18 +787,18 @@
     {
       "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "melancholia blue",
-        "url": "https://open.spotify.com/album/6pLL6zz2kgDSKHA8mNiPDn"
+        "name": "V\u00e4ter und S\u00f6hne",
+        "url": "https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW"
       },
       "artists": [
         {
-          "name": "melancholia blue",
-          "url": "https://open.spotify.com/artist/3O2LmJjYpc9hrMcOpl8UE5"
+          "name": "Alex Kaminski",
+          "url": "https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7"
         }
       ],
-      "duration_ms": 219468,
-      "name": "eclipse",
-      "url": "https://open.spotify.com/track/5xKI8QNPS7txEM0eJTFWv6"
+      "duration_ms": 353250,
+      "name": "V\u00e4ter und S\u00f6hne",
+      "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -831,6 +815,22 @@
       "duration_ms": 122368,
       "name": "Tinnitus Titles (Tinnitus OST)",
       "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "melancholia blue",
+        "url": "https://open.spotify.com/album/6pLL6zz2kgDSKHA8mNiPDn"
+      },
+      "artists": [
+        {
+          "name": "melancholia blue",
+          "url": "https://open.spotify.com/artist/3O2LmJjYpc9hrMcOpl8UE5"
+        }
+      ],
+      "duration_ms": 219468,
+      "name": "eclipse",
+      "url": "https://open.spotify.com/track/5xKI8QNPS7txEM0eJTFWv6"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -879,6 +879,22 @@
       "duration_ms": 69899,
       "name": "Interlude i (oscillated)",
       "url": "https://open.spotify.com/track/5oFeDLjJeXkPxigBjU2etE"
+    },
+    {
+      "added_at": "2023-08-23 14:01:12",
+      "album": {
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
+      },
+      "artists": [
+        {
+          "name": "Vines",
+          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
+        }
+      ],
+      "duration_ms": 294636,
+      "name": "home",
+      "url": "https://open.spotify.com/track/0DWbK8hukzoG2KXtRGUkQW"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -975,22 +991,6 @@
       "duration_ms": 262675,
       "name": "ISSUES (INTRO)",
       "url": "https://open.spotify.com/track/201Y0nLSCr6ql1ueJlMPsT"
-    },
-    {
-      "added_at": "2023-08-23 14:01:12",
-      "album": {
-        "name": "Birthday Party",
-        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
-      },
-      "artists": [
-        {
-          "name": "Vines",
-          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
-        }
-      ],
-      "duration_ms": 294636,
-      "name": "home",
-      "url": "https://open.spotify.com/track/0DWbK8hukzoG2KXtRGUkQW"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "Fascinating Rhythm",
-        "url": "https://open.spotify.com/album/2nYIMFqpAnCvLRdtZCjbBu"
-      },
-      "artists": [
-        {
-          "name": "Janon Panic Push",
-          "url": "https://open.spotify.com/artist/1E7n4DdLYdDatRJo7AlAVb"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "Fascinating Rhythm Remix",
-      "url": "https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Gatherings",
@@ -1123,6 +1107,22 @@
       "duration_ms": 163320,
       "name": "Window",
       "url": "https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Fascinating Rhythm",
+        "url": "https://open.spotify.com/album/2nYIMFqpAnCvLRdtZCjbBu"
+      },
+      "artists": [
+        {
+          "name": "Janon Panic Push",
+          "url": "https://open.spotify.com/artist/1E7n4DdLYdDatRJo7AlAVb"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "Fascinating Rhythm Remix",
+      "url": "https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/7uE7jFI9QPPltoqp7Vh53J"
     },
     {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 303216,
-      "name": "humanus",
-      "url": "https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt"
-    },
-    {
       "added_at": "2023-08-23 14:01:12",
       "album": {
         "name": "POOLS",
@@ -1207,6 +1191,22 @@
       "duration_ms": 171440,
       "name": "Follow Your Heartbeat",
       "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
+    },
+    {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 303216,
+      "name": "humanus",
+      "url": "https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
     },
     {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Hotel *****",
+        "url": "https://open.spotify.com/album/3DS0TJ2SJKAnqjup5K5KT1"
+      },
+      "artists": [
+        {
+          "name": "julek ploski",
+          "url": "https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Main theme, Pt I",
+      "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
+    },
+    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "WIREPULLER",
@@ -1289,38 +1305,6 @@
       "url": "https://open.spotify.com/track/77HgouqzfPVG8yFiAON5ff"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Opinions",
-        "url": "https://open.spotify.com/album/5mqDIJ2nEdeNjBOn1oUync"
-      },
-      "artists": [
-        {
-          "name": "Cut 989",
-          "url": "https://open.spotify.com/artist/6IajSdT5nmPTiMYdIMizWn"
-        }
-      ],
-      "duration_ms": 322440,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/0Xidhto8UQzz9zurCQf5vj"
-    },
-    {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Hotel *****",
-        "url": "https://open.spotify.com/album/3DS0TJ2SJKAnqjup5K5KT1"
-      },
-      "artists": [
-        {
-          "name": "julek ploski",
-          "url": "https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Main theme, Pt I",
-      "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Vol. II",
@@ -1337,24 +1321,20 @@
       "url": "https://open.spotify.com/track/2hlNKxlqObtksthAmbidXA"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "D & E",
-        "url": "https://open.spotify.com/album/2bf1rT3OYgPna75H14aTzs"
+        "name": "Opinions",
+        "url": "https://open.spotify.com/album/5mqDIJ2nEdeNjBOn1oUync"
       },
       "artists": [
         {
-          "name": "Digo",
-          "url": "https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH"
-        },
-        {
-          "name": "Eric Escanes",
-          "url": "https://open.spotify.com/artist/4OZp27Cc1JZprOvcjuoOb9"
+          "name": "Cut 989",
+          "url": "https://open.spotify.com/artist/6IajSdT5nmPTiMYdIMizWn"
         }
       ],
-      "duration_ms": 174953,
-      "name": "Snake Oil Salesman",
-      "url": "https://open.spotify.com/track/0bMIJUMXalCoA9KC2NHxtH"
+      "duration_ms": 322440,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/0Xidhto8UQzz9zurCQf5vj"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1375,6 +1355,26 @@
       "duration_ms": 407434,
       "name": "Vibrant Books",
       "url": "https://open.spotify.com/track/0ZrSKZdcURiYrk85Z3XrT6"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "D & E",
+        "url": "https://open.spotify.com/album/2bf1rT3OYgPna75H14aTzs"
+      },
+      "artists": [
+        {
+          "name": "Digo",
+          "url": "https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH"
+        },
+        {
+          "name": "Eric Escanes",
+          "url": "https://open.spotify.com/artist/4OZp27Cc1JZprOvcjuoOb9"
+        }
+      ],
+      "duration_ms": 174953,
+      "name": "Snake Oil Salesman",
+      "url": "https://open.spotify.com/track/0bMIJUMXalCoA9KC2NHxtH"
     },
     {
       "added_at": "2023-07-18 19:13:40",

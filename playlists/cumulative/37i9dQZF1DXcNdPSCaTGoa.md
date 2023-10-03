@@ -4,7 +4,7 @@
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-166 songs - 14 hr 9 min
+167 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Mari Ye Phepha](https://open.spotify.com/track/4ihVB27BAjQ43jxgYW2tNg) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [IV](https://open.spotify.com/album/2CwwI5ByOhauusaFinUl3R) | 5:28 | 2022-12-07 | 2022-12-24 |
 | [Matofotofo](https://open.spotify.com/track/2kgKTkzs9daHOfw0iywogr) | [Pitch Black Afro](https://open.spotify.com/artist/40hpSUVJeh3CRFkG0ANx5G) | [Styling Gel](https://open.spotify.com/album/3vIQmHwydhOlrgLTbhePMF) | 4:49 | 2019-02-12 | 2022-12-24 |
 | [Matofotofo](https://open.spotify.com/track/1mJzCGXZm1kRtzWY5VxovQ) | [Pitch Black Afro](https://open.spotify.com/artist/40hpSUVJeh3CRFkG0ANx5G) | [Tsotsi](https://open.spotify.com/album/3sxJlbcLIDvXZLbGSNnyq9) | 4:50 | 2019-02-12 | 2022-07-26 |
-| [Mbuso's Revenge](https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2) | [DJ Mbuso](https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3) | [House Player](https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6) | 6:10 | 2019-02-03 |  |
+| [Mbuso's Revenge](https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2) | [DJ Mbuso](https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3) | [House Player](https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6) | 6:10 | 2019-02-03 | 2023-10-03 |
 | [Mhlobo Wami](https://open.spotify.com/track/41iaiTayLoUcyUD6DGr4dm) | [Teargas](https://open.spotify.com/artist/6ffbZWFEp3uVx8w46WlNvD) | [Dark or Blue](https://open.spotify.com/album/7fyiKhxCy9RPxEIpme9QYo) | 3:45 | 2019-02-03 | 2022-12-24 |
 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 | 2019-02-03 | 2023-09-19 |
 | [Ndihamba Nawe](https://open.spotify.com/track/07lXD6nPERzJiv2Pzhs4iv) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kalawa Jazmee 2012 Pre\-Release](https://open.spotify.com/album/1d2LRuYBx8Ne97H6lJqiLJ) | 5:50 | 2018-09-23 | 2022-07-29 |
@@ -127,6 +127,7 @@
 | [Siya Jola \(Ok'Salayo\)](https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [M'du Or Die](https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ) | 5:36 | 2019-02-03 |  |
 | [Social Ills](https://open.spotify.com/track/7m2wTfNDeE1fvZIVuEtvco) | [Godessa](https://open.spotify.com/artist/44U7CX6sEeWA1YkVsUfAqz) | [Cape Of Good Dope](https://open.spotify.com/album/3cFgEXZtZb2dXQU0vtG7AL) | 3:13 | 2019-02-03 | 2022-07-09 |
 | [Something Wrong](https://open.spotify.com/track/4os1fxyaKBOWDQ2SeooYos) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Never ever ever ever](https://open.spotify.com/album/4BNqUvWF2qPG3eC8oYqm6y) | 3:51 | 2019-06-12 | 2022-07-20 |
+| [Sondela](https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Sondelani](https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j) | 5:30 | 2023-01-23 |  |
 | [Sondela](https://open.spotify.com/track/749pe97jomnW5rw0mEjCkR) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ), [Sipho Mbele](https://open.spotify.com/artist/5zzBzuDDkT4uz1UWubvWh5) | [Sondela](https://open.spotify.com/album/7GeMrR8cQSwri1oBuAahiD) | 5:30 | 2022-12-07 | 2023-06-08 |
 | [Special Star](https://open.spotify.com/track/3XfCNErb6OHi9N0I9yZo1V) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/7LFni1AYMo1A57EOOtCH2v) | 5:53 | 2018-09-23 | 2022-05-27 |
 | [Special Star](https://open.spotify.com/track/549xBLH0dGz2e2jDultQQH) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/30DrlbUcoHdqSwOrtpTNu3) | 5:53 | 2018-09-23 | 2022-10-15 |

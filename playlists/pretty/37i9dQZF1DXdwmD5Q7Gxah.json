@@ -1,12 +1,12 @@
 {
   "description": "Remi Wolf x Norah Jones at \"Lorem & Friends\", right after performing \"Don't Know Why\" together. ",
-  "num_followers": 1113252,
+  "num_followers": 1113406,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjUyYjRmYmVhYjFmYjU3ZGJmODExMzIyOTI0ZTg4MzgwNDgxMTUw",
+  "snapshot_id": "MCxjYWRmNTNhZDI5Y2MwOWE0OGNmZjkyZGQ2Y2VkZTYyNzQyMDhmMGRh",
   "tracks": [
     {
       "added_at": "2023-09-25 16:30:51",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
+      "added_at": "2023-10-02 23:11:47",
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
       "added_at": "2023-09-29 23:30:28",
       "album": {
         "name": "HIT ME WHERE IT HURTS",
@@ -89,6 +105,38 @@
       "url": "https://open.spotify.com/track/3O7ij6i8NmdxxmOrpHDVJV"
     },
     {
+      "added_at": "2023-10-02 17:18:34",
+      "album": {
+        "name": "Eyelid Movies",
+        "url": "https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "When I'm Small",
+      "url": "https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Conceited",
+        "url": "https://open.spotify.com/album/4QdyZdZcC8MYKBmOsCnIbp"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 239451,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "All Night",
@@ -119,6 +167,22 @@
       "duration_ms": 250136,
       "name": "Lethal",
       "url": "https://open.spotify.com/track/5m1fdy2KdBEqpPCAZQZ2fX"
+    },
+    {
+      "added_at": "2023-10-02 17:18:34",
+      "album": {
+        "name": "ecstacy (slowed)",
+        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
+      },
+      "artists": [
+        {
+          "name": "SUICIDAL-IDOL",
+          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
+        }
+      ],
+      "duration_ms": 119120,
+      "name": "ecstacy (slowed)",
+      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -235,22 +299,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Conceited",
-        "url": "https://open.spotify.com/album/4QdyZdZcC8MYKBmOsCnIbp"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 239451,
-      "name": "Conceited",
-      "url": "https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "going...going...GONE!",
         "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
       },
@@ -321,7 +369,7 @@
         }
       ],
       "duration_ms": 195147,
-      "name": "Hell N Back (feat. Summer Walker) [BONUS TRACK]",
+      "name": "Hell N Back (feat. Summer Walker) [Bonus Track]",
       "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
     },
     {
@@ -1045,22 +1093,6 @@
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
-      "added_at": "2023-08-31 12:00:00",
-      "album": {
-        "name": "This City is a Graveyard",
-        "url": "https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH"
-      },
-      "artists": [
-        {
-          "name": "Baby Storme",
-          "url": "https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe"
-        }
-      ],
-      "duration_ms": 187377,
-      "name": "This City is a Graveyard",
-      "url": "https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH"
-    },
-    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "time waits",
@@ -1249,22 +1281,6 @@
       "url": "https://open.spotify.com/track/1vOSVqTjDuknsQpF9IdvX5"
     },
     {
-      "added_at": "2023-07-31 04:00:00",
-      "album": {
-        "name": "Wiggle",
-        "url": "https://open.spotify.com/album/7M0hwRTi6xLfbmv91PRXBb"
-      },
-      "artists": [
-        {
-          "name": "binki",
-          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
-        }
-      ],
-      "duration_ms": 179908,
-      "name": "Wiggle",
-      "url": "https://open.spotify.com/track/6SsbCH6SPFGKezh81mEseT"
-    },
-    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "HOT TO GO!",
@@ -1327,22 +1343,6 @@
       "duration_ms": 188065,
       "name": "Lovegod",
       "url": "https://open.spotify.com/track/2hKnW3SMsVWhXoSYLXn01G"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Stains",
-        "url": "https://open.spotify.com/album/5NXk9SSME4rxNK809ODU1e"
-      },
-      "artists": [
-        {
-          "name": "Unflirt",
-          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
-        }
-      ],
-      "duration_ms": 173547,
-      "name": "Stains",
-      "url": "https://open.spotify.com/track/7yCZNi9rvhRUkuvN7kqYsr"
     },
     {
       "added_at": "2023-08-25 04:48:26",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
     },
     {
-      "added_at": "2023-07-14 01:00:00",
-      "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I'm Always Here",
-      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
-    },
-    {
       "added_at": "2023-01-27 20:16:55",
       "album": {
         "name": "Let\u2019s Start Here.",
@@ -1507,46 +1491,6 @@
       "duration_ms": 133285,
       "name": "feti\u0161h",
       "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
-    },
-    {
-      "added_at": "2023-06-30 04:05:22",
-      "album": {
-        "name": "Speed Drive (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 117809,
-      "name": "Speed Drive (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
-    },
-    {
-      "added_at": "2023-07-05 08:00:00",
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 175192,
-      "name": "ma\u00f1ana",
-      "url": "https://open.spotify.com/track/6eSlDHA3XYLha1e0z8I9DO"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1673,22 +1617,6 @@
       "url": "https://open.spotify.com/track/7zXu0C04YAU6AZIJJpuaeu"
     },
     {
-      "added_at": "2023-07-14 01:00:00",
-      "album": {
-        "name": "\u200etalk 2 \u200eme",
-        "url": "https://open.spotify.com/album/3NDKOrEeb1illEUX8sVlBv"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 242823,
-      "name": "\u200etalk 2 \u200eme",
-      "url": "https://open.spotify.com/track/6WDTtjWxcY53xB3P85mum2"
-    },
-    {
       "added_at": "2023-03-15 04:20:01",
       "album": {
         "name": "If You Were Mine",
@@ -1785,22 +1713,6 @@
       "url": "https://open.spotify.com/track/1tXn4yWAAyzFikNsJ3bMow"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Drive Home",
-        "url": "https://open.spotify.com/album/6Dj3kYhkZnX3gleTXi1a8r"
-      },
-      "artists": [
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        }
-      ],
-      "duration_ms": 305511,
-      "name": "Found!",
-      "url": "https://open.spotify.com/track/1FgY491AT8WYmMgZgWLfkz"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Covered In Hether",
@@ -1849,22 +1761,6 @@
       "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
     },
     {
-      "added_at": "2023-05-25 15:44:32",
-      "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Stone Killer",
@@ -1895,38 +1791,6 @@
       "duration_ms": 200759,
       "name": "Dive",
       "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
-    },
-    {
-      "added_at": "2023-03-17 15:56:08",
-      "album": {
-        "name": "THE PEACH",
-        "url": "https://open.spotify.com/album/6KUysdIaL4wtPiRXFAIYUI"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 146917,
-      "name": "THE PEACH",
-      "url": "https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "TEMPTRESS",
-        "url": "https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo"
-      },
-      "artists": [
-        {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
-        }
-      ],
-      "duration_ms": 127707,
-      "name": "U SAID!",
-      "url": "https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc"
     }
   ],
   "unique_name": "Lorem",

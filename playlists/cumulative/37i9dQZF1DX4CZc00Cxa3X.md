@@ -2,7 +2,7 @@
 
 ### [The Listening Room](https://open.spotify.com/playlist/37i9dQZF1DX4CZc00Cxa3X)
 
-> Inspired by Listening Bars around the world, Laurel Halo has finely chosen a selection of Ambient to create her very own.
+> Inspired by Listening Bars around the world, Laurel Halo has finely chosen a selection of Ambient, Drone, Minimalism and Jazz to create her very own.
 
 368 songs - 1 day 6 hr 34 min
 

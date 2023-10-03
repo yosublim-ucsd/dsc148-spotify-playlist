@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 10004,
+  "num_followers": 10005,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjdiYmNlNGY1YWZjMzg1NTg5OTRkZTgyNzkyZjRmYTA2ZDZlYmE3",
+  "snapshot_id": "MCxkMDg5MWVlNmZhZTU1ZDE5MDdhMmM0ZGU3ODFiYjlhMDg2N2MwYzY2",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -227,22 +227,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 189799,
-      "name": "The Partisan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "Live Songs",
         "url": "https://open.spotify.com/album/2E0441zcodrrkrNiffdEiC"
       },
@@ -259,18 +243,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
       },
       "artists": [
         {
-          "name": "Nick Cave",
-          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 271066,
-      "name": "I'm Your Man - Live",
-      "url": "https://open.spotify.com/track/7En4Z5ngp4wYeFkq69BXry"
+      "duration_ms": 189799,
+      "name": "The Partisan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -287,6 +271,22 @@
       "duration_ms": 224746,
       "name": "Tower Of Song",
       "url": "https://open.spotify.com/track/1NpNxgzZRCPIbtXHmWX9dV"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave",
+          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+        }
+      ],
+      "duration_ms": 271066,
+      "name": "I'm Your Man - Live",
+      "url": "https://open.spotify.com/track/7En4Z5ngp4wYeFkq69BXry"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -323,22 +323,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Thompson",
-          "url": "https://open.spotify.com/artist/1z98aCtgTzyUkAHR50ryFN"
-        }
-      ],
-      "duration_ms": 409333,
-      "name": "The Future",
-      "url": "https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 268853,
       "name": "Be for Real",
       "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Thompson",
+          "url": "https://open.spotify.com/artist/1z98aCtgTzyUkAHR50ryFN"
+        }
+      ],
+      "duration_ms": 409333,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -417,10 +417,26 @@
       "url": "https://open.spotify.com/track/1EIfLBzokPuUFaU8aZ9nf3"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "You Want It Darker",
-        "url": "https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp"
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 482493,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
       "artists": [
         {
@@ -428,13 +444,13 @@
           "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
         },
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 304680,
-      "name": "You Want It Darker (feat. Iggy Pop)",
-      "url": "https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD"
+      "duration_ms": 312760,
+      "name": "Here It Is",
+      "url": "https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -455,22 +471,6 @@
       "duration_ms": 199600,
       "name": "Sisters Of Mercy",
       "url": "https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 482493,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -503,26 +503,6 @@
       "duration_ms": 189840,
       "name": "Heart With No Companion",
       "url": "https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 312760,
-      "name": "Here It Is",
-      "url": "https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -559,18 +539,38 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Dear Heather",
-        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
+        "name": "Cowgirl's Prayer",
+        "url": "https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC"
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 245040,
-      "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
-      "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"
+      "duration_ms": 335906,
+      "name": "Ballad of a Runaway Horse",
+      "url": "https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "You Want It Darker",
+        "url": "https://open.spotify.com/album/2MH9oJX77xgvcnkolwPtBp"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 304680,
+      "name": "You Want It Darker (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -591,18 +591,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Cowgirl's Prayer",
-        "url": "https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC"
+        "name": "Dear Heather",
+        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
       },
       "artists": [
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
         }
       ],
-      "duration_ms": 335906,
-      "name": "Ballad of a Runaway Horse",
-      "url": "https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB"
+      "duration_ms": 245040,
+      "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"
     },
     {
       "added_at": "2018-12-06 19:29:22",

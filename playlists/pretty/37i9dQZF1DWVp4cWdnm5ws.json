@@ -1,15 +1,103 @@
 {
   "description": "Discover new artists on the horizon this 2023.",
-  "num_followers": 78254,
+  "num_followers": 78295,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjQ4NDAxMGY3YWNkMmJiNDgyYWY0YjZlNzYyZDY0YTQ5NjBkNGUw",
+  "snapshot_id": "MCwyOThiM2MyMzhjZjZiYTlhZThiYjUyNWNmNDA3OWY0ODRkYzc2ZWQ0",
   "tracks": [
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
+      "album": {
+        "name": "LOVES7AGE",
+        "url": "https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ"
+      },
+      "artists": [
+        {
+          "name": "DEN\u0232",
+          "url": "https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR"
+        },
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Sabik",
+      "url": "https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz"
+    },
+    {
+      "added_at": "2023-10-02 06:12:44",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG"
+      },
+      "artists": [
+        {
+          "name": "Paolo Sandejas",
+          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
+        },
+        {
+          "name": "Ysanygo",
+          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB"
+    },
+    {
+      "added_at": "2023-10-02 06:12:44",
+      "album": {
+        "name": "Musika",
+        "url": "https://open.spotify.com/album/4m5n14fVI1ZteLeQC8CPxx"
+      },
+      "artists": [
+        {
+          "name": "G22",
+          "url": "https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU"
+        }
+      ],
+      "duration_ms": 237769,
+      "name": "Musika",
+      "url": "https://open.spotify.com/track/33DMX9LvLFdgbVaZKCD8t4"
+    },
+    {
+      "added_at": "2023-10-02 06:12:44",
+      "album": {
+        "name": "Sandal",
+        "url": "https://open.spotify.com/album/5BpZBtcQWxONxQzHHYzsDC"
+      },
+      "artists": [
+        {
+          "name": "VXON",
+          "url": "https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7"
+        }
+      ],
+      "duration_ms": 197179,
+      "name": "Sandal",
+      "url": "https://open.spotify.com/track/5LkJokf6VTL6eQBNskJM6W"
+    },
+    {
+      "added_at": "2023-10-02 06:12:44",
+      "album": {
+        "name": "Karera",
+        "url": "https://open.spotify.com/album/6eG8V6yBx09xmexOLpcn9R"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 268474,
+      "name": "Karera",
+      "url": "https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY"
+    },
+    {
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH"
@@ -25,7 +113,7 @@
       "url": "https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "HAPPY ACCIDENTS VOL. 1",
         "url": "https://open.spotify.com/album/7FdHCEnDxBZh1M8FG9yYKE"
@@ -41,7 +129,7 @@
       "url": "https://open.spotify.com/track/5Chs3vlCnKO8fJjhSak1q7"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt"
@@ -61,7 +149,7 @@
       "url": "https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Walang Hanggan",
         "url": "https://open.spotify.com/album/5wCenV67j6kZHQy3x94YLu"
@@ -77,7 +165,7 @@
       "url": "https://open.spotify.com/track/14wNLmi7KXtJ39lUFPfnk3"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Lisan",
         "url": "https://open.spotify.com/album/0TkyxB93NG1E8Hhf34mwCY"
@@ -93,7 +181,7 @@
       "url": "https://open.spotify.com/track/0EeDITljBgGZFUuQAH6Vdu"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/69P3eeSa6ZHsjlpMhVqsNo"
@@ -109,7 +197,7 @@
       "url": "https://open.spotify.com/track/3ZP8wV15wdpidIbAR7X4Ft"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Kenaniah",
         "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
@@ -125,7 +213,7 @@
       "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "PRETTY PLEASE",
         "url": "https://open.spotify.com/album/7tw9n1syMTgFz6KI9hsqSO"
@@ -141,7 +229,7 @@
       "url": "https://open.spotify.com/track/2mNL99gN0yxhPPXpyhFlcS"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Day and Night",
         "url": "https://open.spotify.com/album/5U6CaoKUoWzGFloJgLfg2Q"
@@ -157,7 +245,7 @@
       "url": "https://open.spotify.com/track/1RU1XW9hYD5A4lcINT5NaE"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "THINKIN OF LOVE",
         "url": "https://open.spotify.com/album/3U7xyPQenMvi49yBs7Gn1h"
@@ -173,7 +261,7 @@
       "url": "https://open.spotify.com/track/4voUYsm1JO1mtAjfTjB3k5"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Takaw Tingin",
         "url": "https://open.spotify.com/album/2AAnmzyeMl25pWn3SHElA9"
@@ -189,7 +277,7 @@
       "url": "https://open.spotify.com/track/4N8ScJCglGFgpTnD39KFQF"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "The Fate Of The One Not Chosen",
         "url": "https://open.spotify.com/album/1JGW6r7XiIfGurgJQxNNUo"
@@ -205,7 +293,7 @@
       "url": "https://open.spotify.com/track/3vuMrOt51GvnIuI61HwSvw"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf"
@@ -221,7 +309,7 @@
       "url": "https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Pasulong",
         "url": "https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2"
@@ -237,7 +325,7 @@
       "url": "https://open.spotify.com/track/6afFPpTmuVBwZ8OpCSBSYe"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/7H64wogfyQUcRqFZFbMV9S"
@@ -253,7 +341,7 @@
       "url": "https://open.spotify.com/track/5YV9UyeC3dMV4kuRiTMGJs"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Alam Ko Na",
         "url": "https://open.spotify.com/album/72zUZYts2xtMDdOS02vOSw"
@@ -277,7 +365,7 @@
       "url": "https://open.spotify.com/track/6deBk1BSZkEO7WxvXKnqOZ"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/4KkEOyGVcLebFsX1ZjfyJ2"
@@ -293,7 +381,7 @@
       "url": "https://open.spotify.com/track/3N6SFaFJWGirRC5nWIDLvD"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Soul Ties",
         "url": "https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU"
@@ -309,7 +397,7 @@
       "url": "https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "5678",
         "url": "https://open.spotify.com/album/0UYm7AHI0WoaCDajD1Dwdt"
@@ -325,7 +413,7 @@
       "url": "https://open.spotify.com/track/2hAoi72sQzqmRwj4eXRjeh"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Hanggang Sa Buwan",
         "url": "https://open.spotify.com/album/0PelgSujJt1F8xYwrOkY48"
@@ -341,7 +429,7 @@
       "url": "https://open.spotify.com/track/2cCxadXR3Dd04cy4rRhiqY"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/6venqEQk0VxnehajThSHrI"
@@ -357,7 +445,7 @@
       "url": "https://open.spotify.com/track/4Ji644TkVvAvuUbNYkmuMv"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/4A4p0x3lcjeCXog13ypREc"
@@ -377,7 +465,7 @@
       "url": "https://open.spotify.com/track/356cHgniK3jX5vdyTw5bxj"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Sagi",
         "url": "https://open.spotify.com/album/4xK0CN6e6hCWM5r0vL0fV5"
@@ -393,7 +481,7 @@
       "url": "https://open.spotify.com/track/3Z7Qh3lOUg0d3Aj18otDVn"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "TIKTIKTOKIN",
         "url": "https://open.spotify.com/album/1WumZ7GBSO6JoTy2oMzBJs"
@@ -409,7 +497,7 @@
       "url": "https://open.spotify.com/track/160yGlJuvJx3AnD3IXn7Am"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Breaking Bad",
         "url": "https://open.spotify.com/album/3RrvdEyNwjEqsSHfFMeDsw"
@@ -425,7 +513,7 @@
       "url": "https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Pasulong",
         "url": "https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2"
@@ -441,7 +529,7 @@
       "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Born To Win",
         "url": "https://open.spotify.com/album/28rgW6IXDsrk4YtTcFtGGK"
@@ -457,7 +545,7 @@
       "url": "https://open.spotify.com/track/4aqkICleG6HLRc2ygpWqN1"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Gusto With Ya",
         "url": "https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk"
@@ -473,7 +561,7 @@
       "url": "https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "BANG",
         "url": "https://open.spotify.com/album/2LMtd1kV7sobFRQkgExSob"
@@ -489,7 +577,7 @@
       "url": "https://open.spotify.com/track/7fpM0yEqXzIUwUTPIYAkT7"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Pick Up",
         "url": "https://open.spotify.com/album/5Imz9Ju2AaapUqNbEj36a2"
@@ -505,7 +593,7 @@
       "url": "https://open.spotify.com/track/1yBLm463DXwQaXnQMaiMw7"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Dalawa",
         "url": "https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF"
@@ -521,7 +609,7 @@
       "url": "https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Bahala Na",
         "url": "https://open.spotify.com/album/38K1I3Ij268DtPqJqYcY6U"
@@ -537,7 +625,7 @@
       "url": "https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Ligaya",
         "url": "https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH"
@@ -553,7 +641,7 @@
       "url": "https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/3ZyjJ6WcSzSFtCOk7ysUbV"
@@ -569,7 +657,7 @@
       "url": "https://open.spotify.com/track/5xvZKZKmaO1wmicwNL273v"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "Di Inakala",
         "url": "https://open.spotify.com/album/6d0nKflenfco7FBVhksUtW"
@@ -585,7 +673,7 @@
       "url": "https://open.spotify.com/track/3o7dXlwWMntfxjkaqSRIkZ"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "THAT'S MY BABY",
         "url": "https://open.spotify.com/album/20rpmzk4aqw8CvrHTEMMPe"
@@ -601,7 +689,7 @@
       "url": "https://open.spotify.com/track/0PhsD58bUDnIFacJ7itwzb"
     },
     {
-      "added_at": "2023-08-30 08:36:48",
+      "added_at": "2023-10-02 06:12:44",
       "album": {
         "name": "The Beast",
         "url": "https://open.spotify.com/album/3flkYNv2VM7Mls9M9ww8HX"

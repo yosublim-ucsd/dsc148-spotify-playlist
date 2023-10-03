@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Qu\u00e9 rico el mambo! Cover: Machito",
-  "num_followers": 100078,
+  "num_followers": 100118,
   "original_name": "Mambo Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjc1MDlhOWE0ZDUwNjA4OWU4Y2YxMzBkY2Y4NGU3MDIxY2JhOGEy",
+  "snapshot_id": "MCw5Njc5YzdiYTg2ZWI2NGM4M2M4NDk0YWU4OGY5YTE2ZWM2NjA5YzA5",
   "tracks": [
     {
       "added_at": "2023-03-08 00:17:18",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
+        "name": "Mambo No 5",
+        "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Mambo Jambo",
+      "url": "https://open.spotify.com/track/5RZ0Y8ae2DuIBPRNjVGkch"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
         "name": "Vacation At The Concord",
         "url": "https://open.spotify.com/album/7thOtRH5Z0D9WVyWs8LhWJ"
       },
@@ -143,18 +159,34 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Tito, Tito, Tito",
-        "url": "https://open.spotify.com/album/18vrXXXmrzZ5os8lqLYn2k"
+        "name": "Presentando a Machito",
+        "url": "https://open.spotify.com/album/2tVM5mKWo3iZ8qfcTmxAhs"
       },
       "artists": [
         {
-          "name": "Tito Rodriguez & His Orchestra",
-          "url": "https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN"
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
         }
       ],
-      "duration_ms": 171400,
-      "name": "La Toalla",
-      "url": "https://open.spotify.com/track/7H6Hu1KiXJGh2HnTIkJywv"
+      "duration_ms": 189520,
+      "name": "Relax and Mambo",
+      "url": "https://open.spotify.com/track/33vIIwfMDRoJwlizrQu8tM"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "Hoy y Ayer",
+        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Mambo Gozon",
+      "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -179,24 +211,8 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Presentando a Machito",
-        "url": "https://open.spotify.com/album/2tVM5mKWo3iZ8qfcTmxAhs"
-      },
-      "artists": [
-        {
-          "name": "Machito",
-          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Relax and Mambo",
-      "url": "https://open.spotify.com/track/33vIIwfMDRoJwlizrQu8tM"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "Mambo No 5",
-        "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
+        "name": "La Historia del Mambo, Vol. 2",
+        "url": "https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n"
       },
       "artists": [
         {
@@ -204,25 +220,25 @@
           "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
         }
       ],
-      "duration_ms": 195533,
-      "name": "Mambo Jambo",
-      "url": "https://open.spotify.com/track/5RZ0Y8ae2DuIBPRNjVGkch"
+      "duration_ms": 159503,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59"
     },
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Hoy y Ayer",
-        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
+        "name": "Tito, Tito, Tito",
+        "url": "https://open.spotify.com/album/18vrXXXmrzZ5os8lqLYn2k"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "Tito Rodriguez & His Orchestra",
+          "url": "https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN"
         }
       ],
-      "duration_ms": 168986,
-      "name": "Mambo Gozon",
-      "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
+      "duration_ms": 171400,
+      "name": "La Toalla",
+      "url": "https://open.spotify.com/track/7H6Hu1KiXJGh2HnTIkJywv"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -243,22 +259,6 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Que Viva La M\u00fasica",
-        "url": "https://open.spotify.com/album/567VtThAiuol6fSWSPPTNV"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 258626,
-      "name": "La Pelota",
-      "url": "https://open.spotify.com/track/4DkK1PenbmoVjSEFMurUFp"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
         "name": "Mambo",
         "url": "https://open.spotify.com/album/5KAeqB0YySMuy7F7VXVjQo"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 280253,
       "name": "Que Rico El Mambo",
       "url": "https://open.spotify.com/track/4ucHP0s9uWaloTQ5HbVyiy"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "Que Viva La M\u00fasica",
+        "url": "https://open.spotify.com/album/567VtThAiuol6fSWSPPTNV"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 258626,
+      "name": "La Pelota",
+      "url": "https://open.spotify.com/track/4DkK1PenbmoVjSEFMurUFp"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -291,22 +307,6 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Dance Mania Vol.1",
-        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "El Cayuco",
-      "url": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
         "name": "Vacation At The Concord",
         "url": "https://open.spotify.com/album/7thOtRH5Z0D9WVyWs8LhWJ"
       },
@@ -319,22 +319,6 @@
       "duration_ms": 164000,
       "name": "Rico Vacilon",
       "url": "https://open.spotify.com/track/22vnfqgJeAKZmVhhK6tXnk"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "La Historia del Mambo, Vol. 2",
-        "url": "https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 159503,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -355,6 +339,22 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "El Cayuco",
+      "url": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
         "name": "Mambo Madness",
         "url": "https://open.spotify.com/album/37adSaGjRerybXzNjcry13"
       },
@@ -367,26 +367,6 @@
       "duration_ms": 190440,
       "name": "Mambo Manila",
       "url": "https://open.spotify.com/track/0gyejcE44IsekC8hL6aylF"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "Cuba y Puerto Rico",
-        "url": "https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "La Guarachera",
-      "url": "https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -407,22 +387,6 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "A Man And His Music: El Inolvidable",
-        "url": "https://open.spotify.com/album/7101EVthCwrld4QKetHmb6"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
-        }
-      ],
-      "duration_ms": 162893,
-      "name": "Mam\u00e1 G\u00fcela - Live",
-      "url": "https://open.spotify.com/track/4peboQ0PfWsLbjYNYSPgmB"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb"
       },
@@ -435,6 +399,22 @@
       "duration_ms": 140000,
       "name": "Patricia",
       "url": "https://open.spotify.com/track/2bwhOdCOLgQ8v6xStAqnju"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "A Man And His Music: El Inolvidable",
+        "url": "https://open.spotify.com/album/7101EVthCwrld4QKetHmb6"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 162893,
+      "name": "Mam\u00e1 G\u00fcela - Live",
+      "url": "https://open.spotify.com/track/4peboQ0PfWsLbjYNYSPgmB"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -487,6 +467,26 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
+        "name": "Cuba y Puerto Rico",
+        "url": "https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "La Guarachera",
+      "url": "https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
         "name": "New York Salsa",
         "url": "https://open.spotify.com/album/1v4ffpwV9H6YkuZ2jVF9wu"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Tito Rodriguez... The Early Years",
-        "url": "https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "Que Rico",
-      "url": "https://open.spotify.com/track/0h4r17dBbbT9TV5YZxQO0Z"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
         "name": "Cuba Salsa Sabrosa Vol. 2",
         "url": "https://open.spotify.com/album/4TRIu8j6ea1pfnPMzbrHjT"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 192235,
       "name": "Mambo",
       "url": "https://open.spotify.com/track/5EHfeFLbEWeYeNDzTyFby2"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "Tito Rodriguez... The Early Years",
+        "url": "https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/0h4r17dBbbT9TV5YZxQO0Z"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -571,38 +571,6 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "The Last Mambo King",
-        "url": "https://open.spotify.com/album/3NqOdIbHCHnw1wbfYBWv9j"
-      },
-      "artists": [
-        {
-          "name": "Orlando Marin",
-          "url": "https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID"
-        }
-      ],
-      "duration_ms": 330971,
-      "name": "Aprende a Querer",
-      "url": "https://open.spotify.com/track/0E9Vx2zk4gNdteduH9tNE7"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "Tito Rodriguez... The Early Years",
-        "url": "https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
-        }
-      ],
-      "duration_ms": 161986,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1vywnMmHHTm8D4zpqq4TdP"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
         "name": "Dance Mania Vol.1",
         "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
       },
@@ -619,6 +587,22 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
+        "name": "The Last Mambo King",
+        "url": "https://open.spotify.com/album/3NqOdIbHCHnw1wbfYBWv9j"
+      },
+      "artists": [
+        {
+          "name": "Orlando Marin",
+          "url": "https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID"
+        }
+      ],
+      "duration_ms": 330971,
+      "name": "Aprende a Querer",
+      "url": "https://open.spotify.com/track/0E9Vx2zk4gNdteduH9tNE7"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
         "name": "Two Brothers Two Legends",
         "url": "https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 326560,
       "name": "Buchipluma Na' Ma'",
       "url": "https://open.spotify.com/track/66eyTpvxV8aMlyR1gN6XHt"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
+        "name": "Tito Rodriguez... The Early Years",
+        "url": "https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 161986,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1vywnMmHHTm8D4zpqq4TdP"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
+        "name": "Perez Prado - Mambo",
+        "url": "https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 127360,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
         "name": "Mi Amigo, Machito",
         "url": "https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 196920,
       "name": "Si Si No No",
       "url": "https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "Dance Mania Vol.1",
-        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente & His Orchestra",
-          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
-        }
-      ],
-      "duration_ms": 235333,
-      "name": "Mi Chiquita Quiere Bemb\u00e9",
-      "url": "https://open.spotify.com/track/5GbOYy9AZHOjeZCd3gAa2D"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
-        "name": "Tito Rodriguez... The Early Years",
-        "url": "https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY"
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
       },
       "artists": [
         {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+          "name": "Tito Puente & His Orchestra",
+          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
         }
       ],
-      "duration_ms": 183413,
-      "name": "No Cuentes Conmigo",
-      "url": "https://open.spotify.com/track/55mhyCZbjoVCelyCmwR3du"
+      "duration_ms": 235333,
+      "name": "Mi Chiquita Quiere Bemb\u00e9",
+      "url": "https://open.spotify.com/track/5GbOYy9AZHOjeZCd3gAa2D"
     },
     {
       "added_at": "2023-03-08 00:17:18",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-03-08 00:17:18",
       "album": {
+        "name": "Tito Rodriguez... The Early Years",
+        "url": "https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "No Cuentes Conmigo",
+      "url": "https://open.spotify.com/track/55mhyCZbjoVCelyCmwR3du"
+    },
+    {
+      "added_at": "2023-03-08 00:17:18",
+      "album": {
         "name": "Legends Of Cuban Music",
         "url": "https://open.spotify.com/album/6tviOtL10UFy6Or8rpjlfR"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 212120,
       "name": "Pachito E Che",
       "url": "https://open.spotify.com/track/5ZYO9ETsTxLMXfhzSmUTfA"
-    },
-    {
-      "added_at": "2023-03-08 00:17:18",
-      "album": {
-        "name": "Perez Prado - Mambo",
-        "url": "https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 127360,
-      "name": "Patricia",
-      "url": "https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D"
     },
     {
       "added_at": "2023-03-08 00:17:18",

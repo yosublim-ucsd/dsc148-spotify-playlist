@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem L7NNON, Maiara & Maraisa, Major RD e Felipe Amorim, MC Don Juan e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924,265 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924,387 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Anota Aí](https://open.spotify.com/track/1h3LUndTk6adebg5dB19k1) | [Yago Vidal](https://open.spotify.com/artist/2cpIam47BLYzkgRy4N8ECP) | [Anota Aí](https://open.spotify.com/album/2NfhY9AGsKXFfI9DhxFASm) | 2:54 |
 | 99 | [Turn It Up](https://open.spotify.com/track/0Wh3unWk0HibusmpkdGFcE) | [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi) | [Turn It Up](https://open.spotify.com/album/2OCAMrTUxMXGHcj9R5QfMl) | 2:43 |
 
-Snapshot ID: `MCw1MDIxMmRhMjQyY2ZhMTUzMGVlMGY3NThiMWE4OGI5ZThiNDM4NGFh`
+Snapshot ID: `MCw3NzhiNmI5Zjc1ZjkxMWM3OTU5YjRhMDU3NDhlNWYwZmZkMmEwODVm`

@@ -3337,6 +3337,32 @@
     },
     {
       "album": {
+        "name": "Komodo",
+        "url": "https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c"
+      },
+      "artists": [
+        {
+          "name": "MATTN",
+          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
+        },
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        },
+        {
+          "name": "Mauro Picotto",
+          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155836,
+      "name": "Komodo",
+      "url": "https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC"
+    },
+    {
+      "album": {
         "name": "Komtie (Kom Tie Dan He!)",
         "url": "https://open.spotify.com/album/6YhNFiGoXIOlXy8q8g4feC"
       },
@@ -3914,7 +3940,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 172444,
       "name": "Minerva",
       "url": "https://open.spotify.com/track/7D9NidXOJwb3ZAPJ7LOkoD"

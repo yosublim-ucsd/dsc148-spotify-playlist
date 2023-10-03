@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 230249,
+  "num_followers": 230253,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzI4MTFkYjhmN2U4MDVkYjMzMGIzZTY0ZGViMzM2OThhM2I0Mzll",
+  "snapshot_id": "MCxjYWNhYTZiMmUxNDU2M2M0YzdlNmI4M2NhZDNiNWYwNGY0NDMyOTdl",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "S\u00e9rie Documento - Nelson Cavaquinho",
-        "url": "https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k"
-      },
-      "artists": [
-        {
-          "name": "Nelson Cavaquinho",
-          "url": "https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Quando Eu Me Chamar Saudade",
-      "url": "https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Ao Vivo Com Os Amigos",
         "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 171293,
       "name": "Quando o povo entra na dan\u00e7a",
       "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "S\u00e9rie Documento - Nelson Cavaquinho",
+        "url": "https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k"
+      },
+      "artists": [
+        {
+          "name": "Nelson Cavaquinho",
+          "url": "https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Quando Eu Me Chamar Saudade",
+      "url": "https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Mais Feliz",
-        "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Xande De Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 224376,
-      "name": "Dependente Do Amor",
-      "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
         "name": "Sambista Perfeito",
         "url": "https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 216933,
       "name": "Menina Voc\u00ea Bebeu",
       "url": "https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
+        "name": "Mais Feliz",
+        "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 224376,
+      "name": "Dependente Do Amor",
+      "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
     },
     {
       "added_at": "2023-08-04 03:01:00",

@@ -5229,6 +5229,32 @@
     },
     {
       "album": {
+        "name": "Diligencia",
+        "url": "https://open.spotify.com/album/6op8rrDMjpsScQ3wlYyo8M"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Films",
+          "url": "https://open.spotify.com/artist/4twMBjUEs3uYOoY4ywzJAZ"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        },
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126875,
+      "name": "Diligencia",
+      "url": "https://open.spotify.com/track/3B43NVxFdIyaZHNGPEWhEs"
+    },
+    {
+      "album": {
         "name": "Dimdon (Remix)",
         "url": "https://open.spotify.com/album/0ya82jtZ5oIDMsCMl12gKN"
       },
@@ -6818,7 +6844,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 195320,
       "name": "FERXXO 151",
       "url": "https://open.spotify.com/track/0qMYY0Fotjtu181Nj0VS8e"
@@ -10036,7 +10062,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "La Piedra",
       "url": "https://open.spotify.com/track/1iwkENJTFtLZ0kWKVKtcRb"
@@ -12811,6 +12837,24 @@
     },
     {
       "album": {
+        "name": "Mia",
+        "url": "https://open.spotify.com/album/3ErPp2TowbYUvIETwv6Rkf"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170409,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/3A9q37nybfCjH4KGr5tk2K"
+    },
+    {
+      "album": {
         "name": "SEN2 KBRN VOL. 1",
         "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
       },
@@ -13328,7 +13372,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 173991,
       "name": "Narcotics (with Bryant Myers)",
       "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
@@ -16804,7 +16848,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 211879,
       "name": "REINA",
       "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
@@ -18284,6 +18328,24 @@
       "duration_ms": 195918,
       "name": "Si Lo Puedes So\u00f1ar",
       "url": "https://open.spotify.com/track/529JIZZBymNcDRijYcjTkF"
+    },
+    {
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
       "album": {
@@ -20714,7 +20776,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 200264,
       "name": "TURUTUTU",
       "url": "https://open.spotify.com/track/07IFy4ePdD17xQAGLEgUY1"

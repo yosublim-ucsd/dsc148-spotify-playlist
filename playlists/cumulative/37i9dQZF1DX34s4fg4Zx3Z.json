@@ -3083,6 +3083,32 @@
     },
     {
       "album": {
+        "name": "B\u1ecbt M\u1eaft B\u1eaft Anh",
+        "url": "https://open.spotify.com/album/6qt24jojUkZSSiVGgKAemp"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00ed Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM"
+        },
+        {
+          "name": "RIN9",
+          "url": "https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf"
+        },
+        {
+          "name": "DREAMeR",
+          "url": "https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179541,
+      "name": "B\u1ecbt M\u1eaft B\u1eaft Anh",
+      "url": "https://open.spotify.com/track/2YYgjG6Vm9lV74IOM5nkdY"
+    },
+    {
+      "album": {
         "name": "B\u1ed1n B\u1ee9c T\u01b0\u1eddng",
         "url": "https://open.spotify.com/album/4RNp6hEWoDeDXh8PTKXdik"
       },
@@ -22874,6 +22900,28 @@
       "duration_ms": 197745,
       "name": "Vui L\u00ean \u0110i Nh\u00e9 Em",
       "url": "https://open.spotify.com/track/2RebrrZ3ifRRyXnJDADGu7"
+    },
+    {
+      "album": {
+        "name": "Vui V\u1ebb",
+        "url": "https://open.spotify.com/album/79KcDAwFNjnNJJe3cRa5r2"
+      },
+      "artists": [
+        {
+          "name": "O\u00e1t",
+          "url": "https://open.spotify.com/artist/6nkv2QvzOX5de8D95pU4rV"
+        },
+        {
+          "name": "Astronormous",
+          "url": "https://open.spotify.com/artist/10DVqLQppj5k4viGgo33Gj"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213275,
+      "name": "Vui V\u1ebb",
+      "url": "https://open.spotify.com/track/7ICgBpgKg3Cp8z9gYBOPue"
     },
     {
       "album": {

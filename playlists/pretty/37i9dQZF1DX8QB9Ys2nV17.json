@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 173588,
+  "num_followers": 173594,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2JjNzYxNmM2ODU5ODI5MDFiZTIyMTUxM2ZiOWRjY2Q0OTM4ZTQx",
+  "snapshot_id": "MCwyMDMzZDQ5NTIwMDIxZjVkMzA3MzJhMzIxY2ExMzA5ODU1M2UzZjE5",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 223490,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
@@ -255,22 +239,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 232724,
-      "name": "What's the Matter with You",
-      "url": "https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 416560,
       "name": "Things Have Changed",
       "url": "https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 223490,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 266071,
+      "name": "Clotilda's On Fire",
+      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Fish Outta Water",
         "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 266071,
-      "name": "Clotilda's On Fire",
-      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 222826,
       "name": "Love on the Rocks",
       "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 219945,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/3Lr0bBluqoWt2F2njzyNLd"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -531,22 +547,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 219945,
-      "name": "Medicine Man",
-      "url": "https://open.spotify.com/track/3Lr0bBluqoWt2F2njzyNLd"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Tricky Thing",
         "url": "https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/6dB3CBDenGlbN82nWYTFIu"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Soft Place To Fall",
         "url": "https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 291840,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/0HPazJXESVCimRyMggplg5"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/6dB3CBDenGlbN82nWYTFIu"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ain't Got No Troubles",
-        "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
-      },
-      "artists": [
-        {
-          "name": "Eden Brent",
-          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Loud Guitars, Big Suspicions",
         "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 209866,
       "name": "No Riders",
       "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ain't Got No Troubles",
+        "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
+      },
+      "artists": [
+        {
+          "name": "Eden Brent",
+          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Soul of a Woman",
+        "url": "https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 217920,
+      "name": "Call on God",
+      "url": "https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Masters of War",
         "url": "https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 306680,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Soul of a Woman",
-        "url": "https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 217920,
-      "name": "Call on God",
-      "url": "https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC"
     },
     {
       "added_at": "2022-03-08 14:01:09",

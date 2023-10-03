@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 4432,
+  "num_followers": 4447,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGEwNjgzYTRhZGQwYjU4ZGU5NjczOWMxNzAxOTAxOTFmYWY2NTY5",
+  "snapshot_id": "MCxmOTNjOWI3NzJhY2ZiNDU0ODM3Mzc3ZDBjZmYwNjc5YmZjMGRkNzBk",
   "tracks": [
     {
       "added_at": "2023-09-29 05:33:30",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-29 05:33:30",
       "album": {
-        "name": "The Returner",
-        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "The Returner",
-      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
-    },
-    {
-      "added_at": "2023-09-29 05:33:30",
-      "album": {
         "name": "The Green Stone",
         "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 204840,
       "name": "I Waited for You",
       "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
+    },
+    {
+      "added_at": "2023-09-29 05:33:30",
+      "album": {
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "The Returner",
+      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
     },
     {
       "added_at": "2023-09-29 05:33:30",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-09-29 05:33:30",
       "album": {
-        "name": "Russell County Line",
-        "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 249872,
-      "name": "Russell County Line",
-      "url": "https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB"
-    },
-    {
-      "added_at": "2023-09-29 05:33:30",
-      "album": {
         "name": "Pink Shades",
         "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 210506,
       "name": "Pink Shades",
       "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+    },
+    {
+      "added_at": "2023-09-29 05:33:30",
+      "album": {
+        "name": "Russell County Line",
+        "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 249872,
+      "name": "Russell County Line",
+      "url": "https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB"
     },
     {
       "added_at": "2023-09-29 05:33:30",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-09-29 05:33:30",
       "album": {
+        "name": "Sugah Rush",
+        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 160594,
+      "name": "Sugah Rush",
+      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
+    },
+    {
+      "added_at": "2023-09-29 05:33:30",
+      "album": {
         "name": "Gonna Shine",
         "url": "https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 241906,
       "name": "Gonna Shine",
       "url": "https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW"
-    },
-    {
-      "added_at": "2023-09-29 05:33:30",
-      "album": {
-        "name": "Built And Broken",
-        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 268293,
-      "name": "Built And Broken",
-      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
     },
     {
       "added_at": "2023-09-29 05:33:30",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-09-29 05:33:30",
       "album": {
-        "name": "Sugah Rush",
-        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 160594,
-      "name": "Sugah Rush",
-      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
-    },
-    {
-      "added_at": "2023-09-29 05:33:30",
-      "album": {
         "name": "Babe I'm Gonna Leave You (Extended Version)",
         "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 294945,
       "name": "Babe I'm Gonna Leave You - Extended Version",
       "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
+    },
+    {
+      "added_at": "2023-09-29 05:33:30",
+      "album": {
+        "name": "Built And Broken",
+        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 268293,
+      "name": "Built And Broken",
+      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
     },
     {
       "added_at": "2023-09-29 05:33:30",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-09-29 05:33:30",
       "album": {
+        "name": "Big Thing",
+        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
+      },
+      "artists": [
+        {
+          "name": "Elephant",
+          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
+    },
+    {
+      "added_at": "2023-09-29 05:33:30",
+      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 226710,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
-    },
-    {
-      "added_at": "2023-09-29 05:33:30",
-      "album": {
-        "name": "Big Thing",
-        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
-      },
-      "artists": [
-        {
-          "name": "Elephant",
-          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
     },
     {
       "added_at": "2023-09-29 05:33:30",

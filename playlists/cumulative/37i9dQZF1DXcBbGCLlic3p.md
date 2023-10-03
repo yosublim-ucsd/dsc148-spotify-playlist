@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-276 songs - 13 hr 30 min
+278 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Mind At Peace](https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs) | [Ramos Goya](https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj) | [A Mind At Peace](https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz) | 2:42 | 2022-11-11 |  |
 | [A new day](https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [A new day](https://open.spotify.com/album/6PaweQ9HpdnCbZyYDMAwrc) | 2:40 | 2021-12-23 | 2022-09-03 |
 | [A Silence Upon Us](https://open.spotify.com/track/6px05fYH2S8XJOwcokJPwI) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [Anew](https://open.spotify.com/album/6gTK7SLCG5JAxFLKvghEiu) | 2:08 | 2023-03-03 |  |
+| [Acceptance](https://open.spotify.com/track/2Zqu1o8lbQZ5QBY8DCIM6U) | [Airosa](https://open.spotify.com/artist/4CByXjHMoW0Gq2Y2tenlxY) | [Acceptance](https://open.spotify.com/album/4vTpS7JxsmannhdApN026A) | 2:57 | 2023-10-02 |  |
 | [Across The Lake](https://open.spotify.com/track/6AChlY3k4jnOJKVH2zXSDr) | [Annmarie Celine](https://open.spotify.com/artist/0XdUzYIOLBT1s6YgLxcWi6) | [Across The Lake](https://open.spotify.com/album/6FZ6SHjpiRxPCngtSqX1qL) | 2:48 | 2022-12-02 |  |
 | [Ad Infinitum](https://open.spotify.com/track/1WHrCfYujnEhApstu2ppFo) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:31 | 2022-09-30 |  |
 | [Airflow](https://open.spotify.com/track/4Ip1ZWHSxJ7zaXI4Sk94MM) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Airflow](https://open.spotify.com/album/4AaMJmGRlY33J3AADaca8i) | 3:12 | 2023-08-04 |  |
@@ -229,6 +230,7 @@
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-23 |  |
 | [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
 | [Soluma](https://open.spotify.com/track/1pfYu9JKsojWVnmb5J9Xc0) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Soluma](https://open.spotify.com/album/1qoutOhGSCzeCZSp3Is4Ps) | 3:44 | 2021-12-23 |  |
+| [Somewhere in Dreams](https://open.spotify.com/track/7t184VbdZJGRCvWjsFVgBh) | [Natural Space](https://open.spotify.com/artist/6kBh9KP21Uw1fbnq1oY9Nz), [Nazibrola](https://open.spotify.com/artist/6IIKAH6Oj6znfZZC0JsnUj), [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Somewhere in Dreams](https://open.spotify.com/album/6ZaH7X5qD38eSMioQ1sp9k) | 2:09 | 2023-10-02 |  |
 | [Somnium Meum](https://open.spotify.com/track/1B1Bij1l3uGEtDPRp8ICAb) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Somnium Meum](https://open.spotify.com/album/2gCJWL5eLURzFwTR0ZQhfB) | 3:07 | 2021-12-23 | 2023-01-28 |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2021-12-23 | 2023-07-14 |
 | [Soothing Me](https://open.spotify.com/track/0sM8esXY30pzv68Bwtoq3d) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Soothing Me](https://open.spotify.com/album/6ds0odJgRkazJMLj74z5du) | 3:27 | 2021-12-23 |  |

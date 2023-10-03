@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Kuren\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,676 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,689 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Ghetto Tribal Break](https://open.spotify.com/track/18Rv1YEBnXK4R9h49Sr1T5) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Ghetto Tribal Break](https://open.spotify.com/album/10orQ4rvyMFILWIInkBk6G) | 3:39 |
 | 100 | [Fragile](https://open.spotify.com/track/0twVtYBVwNXIA15brQRf5y) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Fragile](https://open.spotify.com/album/6gjW6IETdWXGmJLQPMT7ZT) | 4:39 |
 
-Snapshot ID: `MCwyMGIxOWIyMWI2MmZkYThlNTgzYzc3MmE0MTRmMTQ0ZWJmNTBiYWQz`
+Snapshot ID: `MCwxMmMxMjUzODQ3YjFhNjgzYjZhNDA5YjM4ODA1Njk1ZjU3ZDE0YmI0`

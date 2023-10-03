@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Austin TV en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,421 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,427 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 18 | [Calle, Vereda y Cordón](https://open.spotify.com/track/3FR9kRLaV04vkEnF4JBqt2) | [Ricardo Iorio](https://open.spotify.com/artist/0HNFg6mSgz7WLcN74CI3oT) | [Calle, Vereda y Cordón](https://open.spotify.com/album/39weovwgYcxG6Tw0B4YBbW) | 3:16 |
 | 19 | [La Máscara](https://open.spotify.com/track/669QhBwJSBy6M69JpWdvjZ) | [Miguel Cantilo](https://open.spotify.com/artist/4MTd9MHb33LFgRKqWG0jZi), [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [La Máscara](https://open.spotify.com/album/1vnaXtMfQ8GlXbAoqJlM4S) | 2:24 |
 | 20 | [INDIES](https://open.spotify.com/track/16xmtP0svw7MwwWjNsdrXA) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ), [Dante Saulino](https://open.spotify.com/artist/5qG0nlV386VRv3txRAydZk) | [INDIES](https://open.spotify.com/album/2xA2xXZqZqZ50oTrB40zsO) | 3:11 |
-| 21 | [Boggie de la Serpiente](https://open.spotify.com/track/6VWMBkto0U4XYmmgguXyuV) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP) | [Boggie de la Serpiente](https://open.spotify.com/album/2HAsIMIr5yNnLTim2PgXFe) | 2:49 |
+| 21 | [Boogie de la Serpiente](https://open.spotify.com/track/6VWMBkto0U4XYmmgguXyuV) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP) | [Boogie de la Serpiente](https://open.spotify.com/album/2HAsIMIr5yNnLTim2PgXFe) | 2:49 |
 | 22 | [Todo Es Lo Mismo](https://open.spotify.com/track/15AqRfUSwPisQPHuylmn9t) | [BAX](https://open.spotify.com/artist/0iJEF7abbaluwbZAERCxso) | [Todo Es Lo Mismo](https://open.spotify.com/album/7t5RKxXuH2oZJ7cqdnQwZX) | 2:32 |
 | 23 | [Últimos Atardeceres](https://open.spotify.com/track/7l7zNeovs4vXVtgO517rkI) | [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Últimos Atardeceres](https://open.spotify.com/album/67RkhCXwBvxbZfzZWPuqHi) | 5:09 |
 | 24 | [OBDC](https://open.spotify.com/track/56ZgaPmjxqHQtcgZVu5h8V) | [Arde la Sangre](https://open.spotify.com/artist/0ygnmKrobIE3eHiDCQyTpm), [MINY](https://open.spotify.com/artist/7simKUpp4OiqdjSOo3nkn5) | [OBDC](https://open.spotify.com/album/4KcK81GCtyastpF8qRsTjZ) | 2:59 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 48 | [Vidas Cruzadas](https://open.spotify.com/track/18oxZCAvQ6pfJUaxtFS09L) | [Nebraska](https://open.spotify.com/artist/408Xlsk3OkET9JXTbU7LxU) | [Vidas Cruzadas](https://open.spotify.com/album/5Bl8AbuXjokUyZDaYrgEMe) | 3:29 |
 | 49 | [am0r\_d\_festival.mp3](https://open.spotify.com/track/50rS9NS9aqIAC76hD3p2QY) | [Damas de españa](https://open.spotify.com/artist/58l5eQOHJ3semSzvk28AyC) | [Guardado en borradores](https://open.spotify.com/album/2Iay60Ih6uFzeTQo1rh8Hk) | 3:27 |
 
-Snapshot ID: `MCw3MDZlZTIwMjhmOGFmNWMwZjExODNhMDYyNDU4YzA2MzAxMTI0YTZl`
+Snapshot ID: `MCxiMGVjNGZjNDRiZTIzMDM3NWFiZWRjMGZlOGYwNTc0N2I3YzIzODJm`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,230 likes - 100 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,263 likes - 100 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fludias](https://open.spotify.com/track/094cZWfxSIguNUNADtqb9Z) | [Mungion](https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK) | [Fludias](https://open.spotify.com/album/7sZv59H1TWVzeMfnAjDfBt) | 6:55 |
 | 2 | [Trapeze](https://open.spotify.com/track/2fQqA2jMxsxx7CfrOP5bgY) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Separation95](https://open.spotify.com/album/2NCWozoBxPRln2eCx2v7Pp) | 4:45 |
 | 3 | [Stuck in Between](https://open.spotify.com/track/2OX0jfmSfFFIk9rFTzivZU) | [Chalk Dinosaur](https://open.spotify.com/artist/0nGLnZVTm8IXRb83Rarg6C) | [Stuck in Between](https://open.spotify.com/album/1NZ2SrbhnuY6jLKoq1MU5Z) | 5:53 |
-| 4 | [Fate](https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU) | 6:29 |
+| 4 | [Fate](https://open.spotify.com/track/21wWMrhOMhSGwU2iRB2kYv) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/7gMrxYFvgxnlquxVUQ0kCp) | 6:29 |
 | 5 | [Wake Me Up Slowly](https://open.spotify.com/track/0y7blJSil3bQPApeU7R1cV) | [Dengue Fever](https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5) | [Ting Mong](https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E) | 3:27 |
 | 6 | [Aba Bagulya](https://open.spotify.com/track/0B7qukFPnTbVyPfypiHJ2X) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Anything](https://open.spotify.com/album/4kVpCP7DgPreQRptRKCSlk) | 3:58 |
 | 7 | [One More Time](https://open.spotify.com/track/4Kzi9HfJf8MbpvGIAZXSl6) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [One More Time](https://open.spotify.com/album/2oW4uG3cuWhOAgJwuw6gZO) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `MCxhMDMxZmI4ZmNjN2IwYzUwYTUyZGE0NGYxZmIwOWRiNjlkZGZhNDU1`
+Snapshot ID: `MCwxYTljNTNlOTI3ODczZGFiNWQzNmMwYzc5MjZiOTRkNzM1ZjEyNmMw`

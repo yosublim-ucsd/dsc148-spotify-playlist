@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-388 songs - 1 day 0 hr 2 min
+389 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Forever and Always](https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Forever and Always](https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU) | 3:58 | 2023-05-05 |  |
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2023-03-20 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2023-03-20 |  |
-| [Forget the Moonlight](https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tonight We Dance](https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF) | 2:43 | 2023-03-20 |  |
+| [Forget the Moonlight](https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tonight We Dance](https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF) | 2:43 | 2023-03-20 | 2023-10-03 |
 | [Forgotten In Time](https://open.spotify.com/track/11h4l3EgeolFw8ELwimXKd) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Bluewerks Vol\. 9: Wash Away](https://open.spotify.com/album/447z6KiTpRlrMDrCcK6rlz) | 2:24 | 2023-03-09 | 2023-05-05 |
 | [Fork In The Rhodes](https://open.spotify.com/track/3x5ZyzDcGUHVTfpKJXoevK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:58 | 2022-12-09 | 2023-03-21 |
 | [Fork In The Rhodes](https://open.spotify.com/track/4bnlVHD6HzfiXsSfSR8uWO) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3) | 3:58 | 2022-06-02 | 2022-11-20 |
@@ -344,6 +344,7 @@
 | [The Sun's Awake](https://open.spotify.com/track/6xdgKaUtzKkXCbn1eK0dTg) | [Russell Rozenbaum](https://open.spotify.com/artist/3ms9IQtzjX0cUTw078KalY) | [Timeless Cafe](https://open.spotify.com/album/6m2qwDFCLB418aGRgu2bqK) | 2:17 | 2022-06-16 | 2023-03-21 |
 | [THE VIEW](https://open.spotify.com/track/5OSy0Rmn2xKNDGR32GgAnV) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Miles Singleton](https://open.spotify.com/artist/6D2oQFsBu917I9n3KhVXNM) | [GISEKE](https://open.spotify.com/album/697BmXjyTQ2M8bi7jGrova) | 2:10 | 2022-06-02 | 2022-11-20 |
 | [The Wind](https://open.spotify.com/track/30f3b4Ths4zd2na9tip4CP) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [The Wind](https://open.spotify.com/album/1uMrSU3YkCa8yP9ymLFaTd) | 2:12 | 2023-03-24 | 2023-05-05 |
+| [The yellow note](https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [The yellow note](https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD) | 3:49 | 2023-09-29 |  |
 | [There Will Be Better Days](https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [There Will Be Better Days](https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli) | 4:59 | 2023-09-22 |  |
 | [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 | 2023-03-20 |  |
 | [This Was Once Out of Shape](https://open.spotify.com/track/3qhJWC50lNxxiBcB35SyaA) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/2vC0VZmlbWEEC46w06CWvp) | 3:47 | 2022-02-17 | 2022-09-05 |

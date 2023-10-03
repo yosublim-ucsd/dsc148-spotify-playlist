@@ -121,6 +121,32 @@
     },
     {
       "album": {
+        "name": "3D : The Remixes",
+        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188795,
+      "name": "3D (feat. Jack Harlow) (A. G. Cook Remix)",
+      "url": "https://open.spotify.com/track/7fQKDpB4i0hiQacjVCXVU2"
+    },
+    {
+      "album": {
         "name": "One Bad Night",
         "url": "https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK"
       },

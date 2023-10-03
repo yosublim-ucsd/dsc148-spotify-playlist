@@ -4,7 +4,7 @@
 
 > 
 
-365 songs - 19 hr 17 min
+367 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,12 +162,12 @@
 | [In Love In Vain](https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [In Love In Vain](https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT) | 2:54 | 2023-06-01 |  |
 | [In My Solitude](https://open.spotify.com/track/22NftQ2VUEMoD1DqUbi8rF) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [My Shining Hour](https://open.spotify.com/album/4RFgQUMZWRpdqP28HhEQH4) | 3:44 | 2023-03-23 |  |
 | [In Search of Lost Time](https://open.spotify.com/track/2vU0LYmrVaazWAah8UhPV3) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [In Search of Lost Time](https://open.spotify.com/album/5c3RmJbnZ42tbB5yccGvl8) | 3:04 | 2023-06-08 |  |
-| [In the Still of the Night](https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [In the Still of the Night](https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S) | 2:19 | 2023-05-04 |  |
+| [In the Still of the Night](https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [In the Still of the Night](https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S) | 2:19 | 2023-05-04 | 2023-10-03 |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2023-06-08 |  |
 | [Infant Eyes](https://open.spotify.com/track/5DxtTMAODwWNThoTt33YgQ) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Infant Eyes](https://open.spotify.com/album/7FMCO2zoEfzaHzpXoP8YZc) | 3:40 | 2023-04-20 |  |
 | [Intermission](https://open.spotify.com/track/6C60ydeEwcZKJzjrtBoVRm) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Intermission](https://open.spotify.com/album/7jDegbW9dR77LXTZVaQREZ) | 2:40 | 2023-08-24 |  |
 | [Is that happened?](https://open.spotify.com/track/5SGkGXLO0vVwWsD94GE4wH) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Is that happened?](https://open.spotify.com/album/3gZqqXn69wrOmMGANIVzg5) | 2:59 | 2023-06-22 |  |
-| [It Could Happen To You](https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [It Could Happen To You](https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS) | 3:28 | 2023-03-23 |  |
+| [It Could Happen To You](https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [It Could Happen To You](https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS) | 3:28 | 2023-03-23 | 2023-10-03 |
 | [It Could Happen to You](https://open.spotify.com/track/2RDjWEu4n4V7lGshySL4a2) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [It Could Happen to You](https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf) | 2:35 | 2023-03-23 | 2023-09-14 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/4FUkmFYogSz8ScvhdJG0xL) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [It Might As Well Be Spring](https://open.spotify.com/album/1ReSvJJz053zU2Gs93LvmY) | 4:24 | 2023-03-23 | 2023-08-14 |
 | [It Never Entered My Mind](https://open.spotify.com/track/59ZAYTcEyevPRJyCCvN6ki) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [It Never Entered My Mind](https://open.spotify.com/album/6e4jhbpbyodyS1CPOwpxMC) | 4:02 | 2023-06-08 | 2023-08-13 |
@@ -190,6 +190,7 @@
 | [Look For The Silver Lining](https://open.spotify.com/track/5L2iEidxZtQYZsXjRGWWJN) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Look For The Silver Lining](https://open.spotify.com/album/15pmzgvbSncLWPfBEmdFYy) | 3:26 | 2023-03-23 |  |
 | [Looking Glass](https://open.spotify.com/track/0ed4hMQYEtnPJMz2O2Dw5Z) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Looking Glass](https://open.spotify.com/album/7dXKSgHWw3TRKfMN0QUwfH) | 2:24 | 2023-03-23 |  |
 | [Lost in Loneliness](https://open.spotify.com/track/7ESS38E7dhSrGML4HouB5P) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Lost in Loneliness](https://open.spotify.com/album/7ss8WnA2X9hyIk7HlxK8d5) | 2:08 | 2023-05-04 |  |
+| [Lot of Love](https://open.spotify.com/track/0NTAg7F7yE49scD5svkeIR) | [Jacob Schröder](https://open.spotify.com/artist/4VOTRfoGtDDp0Fl9ar28XN) | [Lot of Love](https://open.spotify.com/album/15JdATM0rLgvYOB2GFSQ2Q) | 2:40 | 2023-09-29 |  |
 | [Love For Sale](https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:23 | 2023-03-23 |  |
 | [Love on a Lonely Street](https://open.spotify.com/track/66GYfa8d7hZDXhzEaIG3Ct) | [Clifford Randall](https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG) | [Love on a Lonely Street](https://open.spotify.com/album/3XdY17cROlAbonVCRJskmc) | 2:34 | 2023-06-01 |  |
 | [Love Theme](https://open.spotify.com/track/7BBqYC7h3qFjmZYQDmnTxi) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Love Theme](https://open.spotify.com/album/1X5HJijS1ImWbwfMA2rE6a) | 3:42 | 2023-03-23 |  |
@@ -273,6 +274,7 @@
 | [smoke gets in your eyes](https://open.spotify.com/track/0WXuLZxRXOAYdS5xJrJiQD) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 4:03 | 2023-06-08 | 2023-08-14 |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/4ZY1K4JlzmoxdCJF6M18O5) | 4:40 | 2023-03-23 |  |
 | [Snap of a finger](https://open.spotify.com/track/3JgqTYwR9sHD0kS8IX33nS) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Snap of a finger](https://open.spotify.com/album/34KNU4mGRc7c1ovoBIkSOr) | 2:36 | 2023-05-11 |  |
+| [Social Call](https://open.spotify.com/track/2ZGcva06g0MbxrJdSNtAjU) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Social Call](https://open.spotify.com/album/4rSYJQxfq50gNYLkPgrKbR) | 3:52 | 2023-09-29 |  |
 | [Some kind of friend](https://open.spotify.com/track/2UQ6oJL6UV5CeoO4VejBYl) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [Some kind of friend](https://open.spotify.com/album/0E1hU35PyKJn70EiD0pCgo) | 3:07 | 2023-04-27 |  |
 | [Some Other Spring](https://open.spotify.com/track/0G8AkUVxf9cdD4Y8AyRzFm) | [Serenata Moss](https://open.spotify.com/artist/3W4A8cV0hV5vutTRDgWuMi) | [Some Other Spring](https://open.spotify.com/album/3wZlkPF1MBvRL0AAkd1h7B) | 2:28 | 2023-08-11 |  |
 | [some other time](https://open.spotify.com/track/4LgRqskD0OohOTxfZRqV8E) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:14 | 2023-03-23 |  |

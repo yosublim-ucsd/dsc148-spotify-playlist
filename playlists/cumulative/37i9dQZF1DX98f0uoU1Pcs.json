@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Crashing",
+        "url": "https://open.spotify.com/album/7GvsKQNZM8025DKUwZm5LT"
+      },
+      "artists": [
+        {
+          "name": "Upchuck",
+          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161461,
+      "name": "Crashing",
+      "url": "https://open.spotify.com/track/1fAqYPbtz7ljMn6q24Zadx"
+    },
+    {
+      "album": {
         "name": "Crawl! (DGG Edit)",
         "url": "https://open.spotify.com/album/5pRVIb8aU8fZ6WHS1af385"
       },
@@ -2450,6 +2468,24 @@
       "duration_ms": 285533,
       "name": "Edge Of Teeth",
       "url": "https://open.spotify.com/track/1HafUZHznzgl5LrrHwcN92"
+    },
+    {
+      "album": {
+        "name": "Eggman",
+        "url": "https://open.spotify.com/album/0IhxrXyYRaOHhvSuJIR3cz"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244853,
+      "name": "Eggman",
+      "url": "https://open.spotify.com/track/1vsxjtAWoijQmtYjdtQmAV"
     },
     {
       "album": {
@@ -4058,6 +4094,24 @@
       "duration_ms": 126699,
       "name": "Honest Living",
       "url": "https://open.spotify.com/track/3YTusZlExW8QCdrlDR1HTR"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156722,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM"
     },
     {
       "album": {
@@ -7748,7 +7802,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 162551,
       "name": "Separation Anxiety",
       "url": "https://open.spotify.com/track/5R1X7rGapWC8pF5g9s53Qw"
@@ -9222,7 +9276,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 188260,
       "name": "Tired Vibes",
       "url": "https://open.spotify.com/track/48vUHZLbzwgr9kgAUbYhzz"
@@ -9640,7 +9694,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 403653,
       "name": "Void",
       "url": "https://open.spotify.com/track/1bvJtmIGOW8NnI4GhPtRZ8"

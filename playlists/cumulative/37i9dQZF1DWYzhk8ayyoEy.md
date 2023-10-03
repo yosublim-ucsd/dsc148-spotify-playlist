@@ -2,7 +2,7 @@
 
 ### [shine](https://open.spotify.com/playlist/37i9dQZF1DWYzhk8ayyoEy)
 
-> Warm, inspirational pop, that's good at heart\. Cover: Lauren Daigle
+> Warm, inspirational pop, that's good at heart.
 
 105 songs - 5 hr 56 min
 

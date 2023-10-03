@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,669 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,750 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 30 | [Muito Sou\(L\)](https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26) | [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Rashid](https://open.spotify.com/artist/6MAebUQUc54IEPRoaIv5My) | [Universo Suspenso](https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR) | 3:42 |
 | 31 | [Me Chama de Novo](https://open.spotify.com/track/7plqJ0mkyadrFLGHPmmJab) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Corpo Possível \(Deluxe\)](https://open.spotify.com/album/5DPQYWvyndISm87e1Clu6e) | 2:57 |
 | 32 | [Ondina](https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n) | [Jadidi](https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f) | [Ondina](https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK) | 4:04 |
-| 33 | [SHAWTY](https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k) | 2:53 |
-| 34 | [Doce](https://open.spotify.com/track/5EGSzOyGjuJYJn887AWGbS) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Drama 808](https://open.spotify.com/artist/6fNCOhWNXgliXlRJvqYkGm) | [Doce](https://open.spotify.com/album/5VXcdZJ17qxGnbea65ZsHs) | 3:16 |
-| 35 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 |
+| 33 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 |
+| 34 | [SHAWTY](https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k) | 2:53 |
+| 35 | [Doce](https://open.spotify.com/track/5EGSzOyGjuJYJn887AWGbS) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Drama 808](https://open.spotify.com/artist/6fNCOhWNXgliXlRJvqYkGm) | [Doce](https://open.spotify.com/album/5VXcdZJ17qxGnbea65ZsHs) | 3:16 |
 | 36 | [Noite em Febre](https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ) | [Sarah Soul](https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv), [Carol Terra](https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp) | [Correria](https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ) | 2:26 |
 | 37 | [Me Faz Sentir](https://open.spotify.com/track/1wBQy5qESa8KhMMAWmJAOh) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX), [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [Me Faz Sentir](https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2) | 3:51 |
 | 38 | [Aeroporto](https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aeroporto](https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 49 | [Entre Memórias Tristes](https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL) | [C.I.D](https://open.spotify.com/artist/6z9GhT6hHDjgsc516Txhsl) | [Entre Memórias Tristes](https://open.spotify.com/album/3DXLWxQqSBqWNRCgLQP0Tf) | 5:17 |
 | 50 | [Um momento](https://open.spotify.com/track/3ZBvsS1lEFjKc6kUqsAcHY) | [Gray C.](https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS) | [Um momento](https://open.spotify.com/album/07S8GOxygxS3qpgcaU3npE) | 3:00 |
 
-Snapshot ID: `MCxlYWVmZjY4NTRmNzA0ZWM4NjE1MjIyNmM4ZTFhYTgyNzZkYjVlOTU2`
+Snapshot ID: `MCxlMTllY2RkZDcwNTgwNGRiZDgzNjM5YmUzN2E5NjQ3OGM2NzllNTAx`

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating ten years of Burna Boys's Debut Album; Leaving an Impact for Eternity (LIFE). Cover: Burna boy",
-  "num_followers": 125336,
+  "num_followers": 125482,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2QxMmY1MWM2N2QyZWNiYWRjYTAwNWUyNGNmYTNmODJhYzJiNjNj",
+  "snapshot_id": "MCw1NTAwYjQ3YzVkNjNmODNlYzIzNjI5MmQyOTYxZDE4MDBlNDMzNDk4",
   "tracks": [
     {
       "added_at": "2023-08-11 13:00:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-08-11 13:00:00",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "added_at": "2023-08-11 13:00:00",
+      "album": {
         "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
         "url": "https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 255608,
       "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
       "url": "https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD"
-    },
-    {
-      "added_at": "2023-08-11 13:00:00",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
       "added_at": "2023-08-11 13:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-08-11 13:00:00",
       "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 216242,
-      "name": "Ojuelegba",
-      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
-    },
-    {
-      "added_at": "2023-08-11 13:00:00",
-      "album": {
         "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
         "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
+    },
+    {
+      "added_at": "2023-08-11 13:00:00",
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
     },
     {
       "added_at": "2023-08-11 13:00:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-08-11 13:00:00",
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+        "name": "The Best of the Black President",
+        "url": "https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
         }
       ],
-      "duration_ms": 237714,
-      "name": "If",
-      "url": "https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i"
+      "duration_ms": 591693,
+      "name": "Water No Get Enemy",
+      "url": "https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F"
     },
     {
       "added_at": "2023-08-11 13:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-08-11 13:00:00",
       "album": {
-        "name": "The Best of the Black President",
-        "url": "https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M"
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
       "artists": [
         {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 591693,
-      "name": "Water No Get Enemy",
-      "url": "https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F"
+      "duration_ms": 237714,
+      "name": "If",
+      "url": "https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i"
     },
     {
       "added_at": "2023-08-11 13:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-08-11 13:00:00",
       "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
-    },
-    {
-      "added_at": "2023-08-11 13:00:00",
-      "album": {
         "name": "Godwin",
         "url": "https://open.spotify.com/album/19NL6cXxKUls7Im7vwhC4T"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 179000,
       "name": "Godwin",
       "url": "https://open.spotify.com/track/1xMj8OCAN3atp4tcdY4MiM"
+    },
+    {
+      "added_at": "2023-08-11 13:00:00",
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
     },
     {
       "added_at": "2023-08-11 13:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-08-11 13:00:00",
       "album": {
-        "name": "Dami Duro",
-        "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 250257,
-      "name": "Dami Duro",
-      "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
-    },
-    {
-      "added_at": "2023-08-11 13:00:00",
-      "album": {
         "name": "Expensive Shit",
         "url": "https://open.spotify.com/album/6zZXBV5eC1oISyUGZFfthw"
       },
@@ -723,6 +707,38 @@
       "duration_ms": 218186,
       "name": "Repete",
       "url": "https://open.spotify.com/track/2IgwxE5qvqb6LoP36mHa8G"
+    },
+    {
+      "added_at": "2023-08-11 13:00:00",
+      "album": {
+        "name": "Reggae Blues",
+        "url": "https://open.spotify.com/album/5PDKVGLq0QVzgwPjtj5xZw"
+      },
+      "artists": [
+        {
+          "name": "HarrySong",
+          "url": "https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20"
+        },
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "Orezi",
+          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
+        }
+      ],
+      "duration_ms": 289044,
+      "name": "Reggae Blues",
+      "url": "https://open.spotify.com/track/0S3zWefFu9O7zIq8EarIbl"
     }
   ],
   "unique_name": "Timeless Afro ",

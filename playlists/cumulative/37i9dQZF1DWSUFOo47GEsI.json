@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Above All",
+        "url": "https://open.spotify.com/album/4Y5my2bPiVG2jc30AjK0Gm"
+      },
+      "artists": [
+        {
+          "name": "Ventura Lumi",
+          "url": "https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160626,
+      "name": "Above All",
+      "url": "https://open.spotify.com/track/1j1uM8bwGWlI4mTz8N1NrZ"
+    },
+    {
+      "album": {
         "name": "Ad Infinitum",
         "url": "https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR"
       },
@@ -6504,7 +6522,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 170598,
       "name": "Warszawa",
       "url": "https://open.spotify.com/track/7hwGHD71FJFBXu1iUDYTYf"

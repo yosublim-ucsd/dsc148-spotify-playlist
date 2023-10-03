@@ -3756,6 +3756,24 @@
     {
       "album": {
         "name": "Mad Out",
+        "url": "https://open.spotify.com/album/6nR7RCfNBtfEHNW7wRVP67"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "date_added": "2023-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "Mad Out",
+      "url": "https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL"
+    },
+    {
+      "album": {
+        "name": "Mad Out",
         "url": "https://open.spotify.com/album/6Ed8djOFTsUOlWNEAb6fVu"
       },
       "artists": [
@@ -3784,7 +3802,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 153040,
       "name": "Mad Out",
       "url": "https://open.spotify.com/track/66fDqCrza2Q0LkwBMu0RVC"

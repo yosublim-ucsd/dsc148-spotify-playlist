@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72850,
+  "num_followers": 72847,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmNmOGUyNThlNDUzNGFhZmQzYWUwZThkMGVlYmI2OTdkMWE5M2Ux",
+  "snapshot_id": "MCw0NjFkMzQ4ZDk5MDllZWRkNjJlYmQyZDdjNGE4MDhkMTQ4ODBjMDg2",
   "tracks": [
     {
       "added_at": "2023-03-08 13:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Breathe Again (Acoustic)",
-        "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 198381,
-      "name": "Breathe Again - Acoustic",
-      "url": "https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "Caught Up In The Wire, No More",
         "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 253597,
       "name": "Ordinary People",
       "url": "https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Breathe Again (Acoustic)",
+        "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 198381,
+      "name": "Breathe Again - Acoustic",
+      "url": "https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -395,38 +395,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
-      },
-      "artists": [
-        {
-          "name": "Miller Roberts",
-          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
-        }
-      ],
-      "duration_ms": 223445,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
-        "name": "you, all along",
-        "url": "https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh"
-      },
-      "artists": [
-        {
-          "name": "This New Light",
-          "url": "https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR"
-        }
-      ],
-      "duration_ms": 260049,
-      "name": "End of the Line",
-      "url": "https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "Home to You",
         "url": "https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD"
       },
@@ -439,6 +407,22 @@
       "duration_ms": 213629,
       "name": "Home to You",
       "url": "https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
+      },
+      "artists": [
+        {
+          "name": "Miller Roberts",
+          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
+        }
+      ],
+      "duration_ms": 223445,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -459,6 +443,22 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
+        "name": "you, all along",
+        "url": "https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh"
+      },
+      "artists": [
+        {
+          "name": "This New Light",
+          "url": "https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR"
+        }
+      ],
+      "duration_ms": 260049,
+      "name": "End of the Line",
+      "url": "https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
         "name": "hemispheres",
         "url": "https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 227077,
       "name": "It's Easier When You're Standing There",
       "url": "https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
-        "name": "DANCING IN THE DARK",
-        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "CAMPFIRE",
-      "url": "https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -563,8 +547,24 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+        "name": "DANCING IN THE DARK",
+        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "CAMPFIRE",
+      "url": "https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
         }
       ],
-      "duration_ms": 191032,
-      "name": "Liquid Love",
-      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
+      "duration_ms": 188544,
+      "name": "The Coffee Song",
+      "url": "https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 188544,
-      "name": "The Coffee Song",
-      "url": "https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "Feel Like Clarity",
         "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 238174,
       "name": "Home",
       "url": "https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 191032,
+      "name": "Liquid Love",
+      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "What It Means to Be Human",
         "url": "https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 275144,
       "name": "What It Means to Be Human",
       "url": "https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Simple Question",
-        "url": "https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv"
-      },
-      "artists": [
-        {
-          "name": "The Dreggs",
-          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
-        }
-      ],
-      "duration_ms": 272999,
-      "name": "Simple Question",
-      "url": "https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "Grew Inside the Water",
         "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
       },
@@ -867,22 +851,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 232639,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "Carry You With Me",
         "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
       },
@@ -895,6 +863,22 @@
       "duration_ms": 258053,
       "name": "Carry You With Me",
       "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 232639,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -927,6 +911,22 @@
       "duration_ms": 213276,
       "name": "After the Sun",
       "url": "https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Simple Question",
+        "url": "https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "duration_ms": 272999,
+      "name": "Simple Question",
+      "url": "https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "this is how you fall in love",
-        "url": "https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh"
+        "name": "The Sweetest Days",
+        "url": "https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE"
       },
       "artists": [
         {
-          "name": "Parker Rose",
-          "url": "https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF"
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
         }
       ],
-      "duration_ms": 161632,
-      "name": "this is how you fall in love",
-      "url": "https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE"
+      "duration_ms": 214088,
+      "name": "The Sweetest Days",
+      "url": "https://open.spotify.com/track/4uKbNHTS478jijU1okANjz"
     }
   ],
   "unique_name": "Summer Daze",

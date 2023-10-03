@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Canbay & Wolker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298,914 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,299,085 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [aklına ben gelicem](https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [aklına ben gelicem](https://open.spotify.com/album/58PsD3FgNdDAdX4efIAB2J) | 2:29 |
-| 2 | [International](https://open.spotify.com/track/1WHwr3enTkZdG8feFozaqy) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [International](https://open.spotify.com/album/3SLQnZNuEYI3UvqppW4oLd) | 2:43 |
-| 3 | [Bertaraf](https://open.spotify.com/track/1PiyTtoNn0m4kfJWLfjHny) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [SIR](https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk) | 2:34 |
-| 4 | [Promilim Yüksek](https://open.spotify.com/track/7rP7Cf8BMGCQlPBmcxPObM) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Promilim Yüksek](https://open.spotify.com/album/6d8TE9RJjtPjYLYgaNkgEC) | 2:13 |
-| 5 | [Kalbim Yanımda](https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kalbim Yanımda](https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o) | 2:46 |
+| 2 | [Bertaraf](https://open.spotify.com/track/1PiyTtoNn0m4kfJWLfjHny) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [SIR](https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk) | 2:34 |
+| 3 | [International](https://open.spotify.com/track/1WHwr3enTkZdG8feFozaqy) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [International](https://open.spotify.com/album/3SLQnZNuEYI3UvqppW4oLd) | 2:43 |
+| 4 | [Kalbim Yanımda](https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kalbim Yanımda](https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o) | 2:46 |
+| 5 | [Promilim Yüksek](https://open.spotify.com/track/7rP7Cf8BMGCQlPBmcxPObM) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Promilim Yüksek](https://open.spotify.com/album/6d8TE9RJjtPjYLYgaNkgEC) | 2:13 |
 | 6 | [İZLEDİ MAHALLE](https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 1:41 |
 | 7 | [Geceler](https://open.spotify.com/track/4H2KhOR9QOHHv4ttjV5Lhz) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Mine Koşan](https://open.spotify.com/artist/2ditOd9fNYAscQhUmYhfXh) | [Geceler](https://open.spotify.com/album/3FDarLcv4ob7ETiDyH58za) | 4:36 |
 | 8 | [AİLEM](https://open.spotify.com/track/6IWyTNbWdRsN6xbIhY0W5O) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [AİLEM](https://open.spotify.com/album/4JbjZgDq58T8UhBSBITnkd) | 2:58 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 15 | [VUR](https://open.spotify.com/track/6qYsT8Znb8rApEGEsrXGI6) | [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [LOTUS](https://open.spotify.com/album/6JXAFNgbb6e6WLbwneCygV) | 2:41 |
 | 16 | [Cuma](https://open.spotify.com/track/4v1eCQCl3d5w8a6Czv4qTv) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [HAFTASONU](https://open.spotify.com/album/2xTlPPoVRncrhgRLSc8moa) | 2:10 |
 | 17 | [Sağlam Kalça](https://open.spotify.com/track/01zrETrdU6ywRoqXZXBfbV) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [Sağlam Kalça](https://open.spotify.com/album/0zAEWHyqzqzLNxKEbteeHk) | 2:14 |
-| 18 | [Bumerang](https://open.spotify.com/track/2E1VxbqXsK87BmyC9O3xCA) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [Bumerang](https://open.spotify.com/album/1wSw8Ra6QLJgz3TCmwTjnG) | 2:40 |
-| 19 | [Telefon](https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Telefon](https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz) | 2:48 |
+| 18 | [Telefon](https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Telefon](https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz) | 2:48 |
+| 19 | [Bumerang](https://open.spotify.com/track/2E1VxbqXsK87BmyC9O3xCA) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [Bumerang](https://open.spotify.com/album/1wSw8Ra6QLJgz3TCmwTjnG) | 2:40 |
 | 20 | [ROMANTİK](https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:17 |
 | 21 | [Aman Güzel Yavaş Yürü](https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Aman Güzel Yavaş Yürü](https://open.spotify.com/album/7pwq5tZSWASKlMg6DJlEcP) | 2:29 |
 | 22 | [LETS GO PARTY](https://open.spotify.com/track/4pmhGRk8wqp2ncPzSsqWya) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [LETS GO PARTY](https://open.spotify.com/album/6ZHdU3NqqnXF4eEUDg9RP4) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [VUR](https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [VUR](https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr) | 3:10 |
 | 50 | [Kalbin bana kaldı](https://open.spotify.com/track/55Tf67DiltMLjOY6A25s3J) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Kalbin bana kaldı](https://open.spotify.com/album/16Zm67RcCCbtUDd1RrD8qW) | 2:24 |
 
-Snapshot ID: `MCxmMzhmMzhhYWYyZTU2M2I3ODA4NTI2ODJmOTcxM2I0MGE3Mjg2ZTk3`
+Snapshot ID: `MCw3MWE3OTE2MzVmYTlhYzkwOGE3ZmYyOTMwYjU2NTliYWE2NjU4MTBl`

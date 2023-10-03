@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Thu Minh",
+  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: H\u00e0 Nhi",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 220546,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1U2ookTehUocHpeCyVciDq"
@@ -158,6 +158,28 @@
       "duration_ms": 243874,
       "name": "BU\u1ed2N kh\u00f4ng th\u1ec3 BU\u00d4NG (Piano Version)",
       "url": "https://open.spotify.com/track/0YJ3fxavN7Sms9TlNxWUhf"
+    },
+    {
+      "album": {
+        "name": "V\u0169 Tr\u1ee5 C\u00f2 Bay",
+        "url": "https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+        },
+        {
+          "name": "DTAP",
+          "url": "https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274620,
+      "name": "B\u00f3ng Ph\u00f9 Hoa",
+      "url": "https://open.spotify.com/track/3fw9v7CztM2mqu1jCtbg9f"
     },
     {
       "album": {
@@ -1828,7 +1850,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 235744,
       "name": "Ng\u1ecf L\u1eddi",
       "url": "https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0"
@@ -2710,10 +2732,32 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 221886,
       "name": "T\u1eeb Khung C\u1eeda S\u1ed5 N\u00e0y",
       "url": "https://open.spotify.com/track/6C1uzaA6dThCNQt89fk4kJ"
+    },
+    {
+      "album": {
+        "name": "t\u1eeb ng\u00e0y anh xa (feat. Kaisoul)",
+        "url": "https://open.spotify.com/album/1bHoASuMZlS4wN7EIbXzZA"
+      },
+      "artists": [
+        {
+          "name": "Kh\u1edfi My",
+          "url": "https://open.spotify.com/artist/4zRG1PU5uAC6ah9yeuxfFi"
+        },
+        {
+          "name": "Kaisoul",
+          "url": "https://open.spotify.com/artist/1RymY6y1vsyqVIVqBu03ul"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228443,
+      "name": "t\u1eeb ng\u00e0y anh xa (feat. Kaisoul)",
+      "url": "https://open.spotify.com/track/4rbLcpLf7cVSIxRnqt4D48"
     },
     {
       "album": {
@@ -3176,6 +3220,28 @@
       "duration_ms": 272727,
       "name": "\u0110\u01b0\u1eddng V\u1ec1 Nh\u00e0",
       "url": "https://open.spotify.com/track/41xLRF9wYENxgmTNAd2s4Q"
+    },
+    {
+      "album": {
+        "name": "\u0110\u1ea1i Minh Tinh",
+        "url": "https://open.spotify.com/album/6IcDGONXu6ib8NA1BVpmwp"
+      },
+      "artists": [
+        {
+          "name": "V\u0103n Mai H\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm"
+        },
+        {
+          "name": "H\u1ee9a Kim Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247368,
+      "name": "\u0110\u1ea1i Minh Tinh",
+      "url": "https://open.spotify.com/track/3g0Dwgd36QRmPecFIoubg4"
     },
     {
       "album": {

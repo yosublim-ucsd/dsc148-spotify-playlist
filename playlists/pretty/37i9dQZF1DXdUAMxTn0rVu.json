@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Madlib",
-  "num_followers": 433080,
+  "num_followers": 433467,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjEwMTQ3MjVhNGYzNDA0MDRjMTBmMDEzNDQ2ZWU4ZDRlYjBhZjlm",
+  "snapshot_id": "MCxjMDI4NjJhMzJjYTkwYzJiZDhhMTM4ZTFkZGZlYjAzMTdhYWViMDg4",
   "tracks": [
     {
       "added_at": "2023-09-29 04:01:00",
@@ -107,22 +107,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "The Grind Date",
-        "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
       },
       "artists": [
         {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
           "name": "MF DOOM",
           "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "DJ Cucumber Slice",
+          "url": "https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o"
         }
       ],
-      "duration_ms": 185266,
-      "name": "Rock Co.Kane Flow (feat. MF Doom)",
-      "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
+      "duration_ms": 258613,
+      "name": "Rhymes Like Dimes",
+      "url": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -143,22 +143,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+        "name": "The Grind Date",
+        "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
       },
       "artists": [
         {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
         },
         {
-          "name": "DJ Cucumber Slice",
-          "url": "https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o"
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
         }
       ],
-      "duration_ms": 258613,
-      "name": "Rhymes Like Dimes",
-      "url": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ"
+      "duration_ms": 185266,
+      "name": "Rock Co.Kane Flow (feat. MF Doom)",
+      "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Acid Raindrops",
-        "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
-      },
-      "artists": [
-        {
-          "name": "People Under The Stairs",
-          "url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
-        }
-      ],
-      "duration_ms": 264152,
-      "name": "Acid Raindrops",
-      "url": "https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "Kollage",
         "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 214866,
       "name": "Uknowhowwedu",
       "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Acid Raindrops",
+        "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
+      },
+      "artists": [
+        {
+          "name": "People Under The Stairs",
+          "url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
+        }
+      ],
+      "duration_ms": 264152,
+      "name": "Acid Raindrops",
+      "url": "https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -307,26 +307,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Above The Clouds",
-      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "The Shining",
         "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 336813,
       "name": "So Far to Go",
       "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
       "artists": [
         {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Won't Do",
-      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Won't Do",
+      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
         "name": "Soundpieces: Da Antidote",
         "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 165693,
       "name": "Whenimondamic",
       "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211892,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt"
       },
@@ -815,6 +831,22 @@
       "duration_ms": 322960,
       "name": "Never Fallin'",
       "url": "https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Nia",
+        "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
+      },
+      "artists": [
+        {
+          "name": "Blackalicious",
+          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
+        }
+      ],
+      "duration_ms": 311760,
+      "name": "Deception",
+      "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -835,38 +867,6 @@
       "duration_ms": 307133,
       "name": "Take a Walk",
       "url": "https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211892,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Nia",
-        "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
-      },
-      "artists": [
-        {
-          "name": "Blackalicious",
-          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
-        }
-      ],
-      "duration_ms": 311760,
-      "name": "Deception",
-      "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Murray's Revenge",
-        "url": "https://open.spotify.com/album/3KemAqTdgRAp1ZKInbgxyq"
-      },
-      "artists": [
-        {
-          "name": "Murs",
-          "url": "https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16"
-        }
-      ],
-      "duration_ms": 169106,
-      "name": "L.A.",
-      "url": "https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "The Listening",
         "url": "https://open.spotify.com/album/3TCtnxxB0OSY5sRtYzpYGG"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 237893,
       "name": "Speed",
       "url": "https://open.spotify.com/track/75JlUgJb8uwmDnASQpZfvY"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Murray's Revenge",
+        "url": "https://open.spotify.com/album/3KemAqTdgRAp1ZKInbgxyq"
+      },
+      "artists": [
+        {
+          "name": "Murs",
+          "url": "https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16"
+        }
+      ],
+      "duration_ms": 169106,
+      "name": "L.A.",
+      "url": "https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt"
     }
   ],
   "unique_name": "I Love My Underground Classics",

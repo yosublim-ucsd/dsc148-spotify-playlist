@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2023.
 
-146 songs - 9 hr 10 min
+151 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [It's You](https://open.spotify.com/track/3ZP8wV15wdpidIbAR7X4Ft) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [It's You](https://open.spotify.com/album/69P3eeSa6ZHsjlpMhVqsNo) | 2:27 | 2023-07-31 |  |
 | [Iyong Iyo](https://open.spotify.com/track/6RUEFRLol05iSCzQaCHNK5) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Iyong Iyo](https://open.spotify.com/album/6Pa87VouOnvJGvSLYdAevR) | 3:22 | 2021-11-25 | 2022-03-25 |
 | [Kalimutan](https://open.spotify.com/track/1degd7Nhtw4z6zt8y6KwDZ) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Kalimutan](https://open.spotify.com/album/4abIbIvI6BG7uRdrUocI1D) | 3:29 | 2022-08-25 | 2022-12-01 |
+| [Karera](https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Karera](https://open.spotify.com/album/6eG8V6yBx09xmexOLpcn9R) | 4:28 | 2023-10-02 |  |
 | [kasmala](https://open.spotify.com/track/2BvybpTlqNdukJsQ6zKkmP) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [kasmala](https://open.spotify.com/album/37PekLDyjr1AzDfJJaXwtR) | 3:01 | 2021-11-25 | 2022-03-25 |
 | [KAYA](https://open.spotify.com/track/4ggRHB5BGvMZxrguwEetCG) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [KAYA](https://open.spotify.com/album/4YMx09McQ7PzUpBufPTcit) | 3:34 | 2022-03-24 | 2023-04-14 |
 | [Kaya](https://open.spotify.com/track/79o5nlwnNk8oiK1cR6YC5i) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Kaya](https://open.spotify.com/album/1domLnNrgElxmpiDSSCYaC) | 4:28 | 2022-03-24 | 2023-04-14 |
@@ -94,6 +95,7 @@
 | [Mayari](https://open.spotify.com/track/4fYDCIeW8frXcVpifquhxJ) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Mayari](https://open.spotify.com/album/2Vhz5nwKK4Hb5ssC5wBoTn) | 4:30 | 2021-11-25 | 2022-03-25 |
 | [Mind, Body & Soul](https://open.spotify.com/track/0hi5lH7ioy89SP1itoseLt) | [Peaceful Gemini](https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA) | [Mind, Body & Soul](https://open.spotify.com/album/0tmFpA4feyj6wlpIX7GE0D) | 3:29 | 2021-11-25 | 2022-03-25 |
 | [Muli](https://open.spotify.com/track/1oYQtNQUxSODedcc5hPmp9) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Muli](https://open.spotify.com/album/3RKZKxaNLwRXw84ruc3f9F) | 4:50 | 2021-11-25 | 2022-03-25 |
+| [Musika](https://open.spotify.com/track/33DMX9LvLFdgbVaZKCD8t4) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Musika](https://open.spotify.com/album/4m5n14fVI1ZteLeQC8CPxx) | 3:57 | 2023-10-02 |  |
 | [Na Na Na](https://open.spotify.com/track/1apdXuG82uFNmWmx3zWc8u) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Labyu with an Accent \(Original Soundtrack\)](https://open.spotify.com/album/0AYxV6cAIuHMsO22fJz2P9) | 4:11 | 2023-04-13 | 2023-06-06 |
 | [Na Na Na](https://open.spotify.com/track/4aqkICleG6HLRc2ygpWqN1) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/28rgW6IXDsrk4YtTcFtGGK) | 4:11 | 2023-04-13 |  |
 | [Na Na Na](https://open.spotify.com/track/5zoJ1eChvongUvr14bzckH) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 4:11 | 2023-04-13 | 2023-06-03 |
@@ -115,8 +117,10 @@
 | [Rest](https://open.spotify.com/track/3M3Uw8SisAcJoZs4mdHJVC) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Rest](https://open.spotify.com/album/6GIs1YEU99gkhIyLttwcK9) | 4:37 | 2021-11-25 | 2022-03-25 |
 | [Risk It](https://open.spotify.com/track/5JsHoy0q0mZutMW27kFq5n) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Risk It](https://open.spotify.com/album/6krLZc8jaKDnq62ppngT4m) | 3:45 | 2022-10-25 | 2022-12-01 |
 | [Runnin'](https://open.spotify.com/track/7y0MRQ7VtQYoKUDcFo7xdT) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8), [Keiko Necesario](https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq) | [Runnin'](https://open.spotify.com/album/1E3zxWGYuSM0ir8c29aBtK) | 3:28 | 2021-11-25 | 2022-03-25 |
+| [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 | 2023-10-02 |  |
 | [Sagi](https://open.spotify.com/track/3Z7Qh3lOUg0d3Aj18otDVn) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Sagi](https://open.spotify.com/album/4xK0CN6e6hCWM5r0vL0fV5) | 3:21 | 2023-04-13 |  |
 | [Samokan](https://open.spotify.com/track/5k8Qkzwec8v2QjFOdGJeHI) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Samokan / Called Ur Bluff](https://open.spotify.com/album/3HBAQ3u2uez5BFfrzyIkzA) | 2:57 | 2021-11-25 | 2022-03-25 |
+| [Sandal](https://open.spotify.com/track/5LkJokf6VTL6eQBNskJM6W) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Sandal](https://open.spotify.com/album/5BpZBtcQWxONxQzHHYzsDC) | 3:17 | 2023-10-02 |  |
 | [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 | 2023-08-30 |  |
 | [SEXBOMB GIRL](https://open.spotify.com/track/5TZATzxD16hCmPiuokUgaa) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [SEXBOMB GIRL](https://open.spotify.com/album/50iZdZCELPzNbVFDSgb9zF) | 3:27 | 2021-11-25 | 2022-03-25 |
 | [SHOWER MUSIC](https://open.spotify.com/track/5Chs3vlCnKO8fJjhSak1q7) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [HAPPY ACCIDENTS VOL\. 1](https://open.spotify.com/album/7FdHCEnDxBZh1M8FG9yYKE) | 3:12 | 2023-08-28 |  |
@@ -124,6 +128,7 @@
 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 | 2023-08-28 |  |
 | [Soul Ties](https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Soul Ties](https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU) | 3:58 | 2023-04-13 |  |
 | [Strings](https://open.spotify.com/track/1yja0zSvvgJtbV34B02kLG) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/2JFAmLbybI6ExZ5l1DTuQI) | 3:20 | 2022-09-29 | 2022-12-01 |
+| [Sunday Morning](https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG) | 3:44 | 2023-10-02 |  |
 | [Sway](https://open.spotify.com/track/5xvZKZKmaO1wmicwNL273v) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Sway](https://open.spotify.com/album/3ZyjJ6WcSzSFtCOk7ysUbV) | 3:58 | 2023-04-13 |  |
 | [Tahanan](https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH) | 4:53 | 2022-03-24 | 2022-07-29 |
 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 | 2022-03-24 | 2023-04-14 |

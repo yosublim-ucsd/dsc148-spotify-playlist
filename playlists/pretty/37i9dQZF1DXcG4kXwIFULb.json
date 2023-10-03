@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 138782,
+  "num_followers": 138851,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGI4MGNmNThmYTYzOGQzNzViMGE2MTU0ODc2NzIxZmQ3NzQyNDc2",
+  "snapshot_id": "MCxhZWM2ZmMxODM4YWQ3MWVhYzEyM2VlYjY5NDEzOTA0MjhmOTMxOWVl",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -115,6 +115,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 252266,
+      "name": "Sour Times",
+      "url": "https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Genetic World",
         "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
       },
@@ -135,18 +151,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+        "name": "Blue Lines (2012 Mix/Master)",
+        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
         }
       ],
-      "duration_ms": 252266,
-      "name": "Sour Times",
-      "url": "https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep"
+      "duration_ms": 308426,
+      "name": "Unfinished Sympathy - 2012 Mix/Master",
+      "url": "https://open.spotify.com/track/0j5FJJOmmnXPd0XajFWkMF"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -167,6 +183,26 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        },
+        {
+          "name": "Beth Hirsch",
+          "url": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
+        }
+      ],
+      "duration_ms": 268306,
+      "name": "All I Need (feat. Beth Hirsch)",
+      "url": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Goodbye Country (Hello Nightclub)",
         "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
@@ -179,38 +215,6 @@
       "duration_ms": 300266,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "A Calf Born in Winter",
-        "url": "https://open.spotify.com/album/7At6mG0vv1DWLVuRrRr3S0"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 209024,
-      "name": "A Calf Born in Winter",
-      "url": "https://open.spotify.com/track/230tKtsKM3eigmK2CtssAO"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Blue Lines (2012 Mix/Master)",
-        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 308426,
-      "name": "Unfinished Sympathy - 2012 Mix/Master",
-      "url": "https://open.spotify.com/track/0j5FJJOmmnXPd0XajFWkMF"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -239,6 +243,54 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "Roads",
+      "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "A Calf Born in Winter",
+        "url": "https://open.spotify.com/album/7At6mG0vv1DWLVuRrRr3S0"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 209024,
+      "name": "A Calf Born in Winter",
+      "url": "https://open.spotify.com/track/230tKtsKM3eigmK2CtssAO"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Heligoland",
+        "url": "https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 297774,
+      "name": "Paradise Circus",
+      "url": "https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Deadringer: Deluxe",
         "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
       },
@@ -251,26 +303,6 @@
       "duration_ms": 317933,
       "name": "Ghostwriter",
       "url": "https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        },
-        {
-          "name": "Beth Hirsch",
-          "url": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
-        }
-      ],
-      "duration_ms": 268306,
-      "name": "All I Need (feat. Beth Hirsch)",
-      "url": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -307,22 +339,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "Roads",
-      "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Slip Into Something More Comfortable",
         "url": "https://open.spotify.com/album/58ZEg8lRtbxqzeYzMdiH9u"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 287776,
       "name": "Slip Into Something More Comfortable - Stephen Hague 2016 Mix",
       "url": "https://open.spotify.com/track/3iFrnwcE635aABiCZWULxP"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Heligoland",
-        "url": "https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 297774,
-      "name": "Paradise Circus",
-      "url": "https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -535,6 +535,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "The Richest Man In Babylon",
         "url": "https://open.spotify.com/album/22Y3wMfU6Bm0rtnjaljDSn"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
         }
       ],
-      "duration_ms": 235800,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x"
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -619,22 +635,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
-      },
-      "artists": [
-        {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "SB1",
         "url": "https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 134656,
       "name": "Just Chillin'",
       "url": "https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Suzuki",
-        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 272613,
-      "name": "Ocean Beat",
-      "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -699,6 +683,22 @@
       "duration_ms": 233226,
       "name": "Futures",
       "url": "https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 272613,
+      "name": "Ocean Beat",
+      "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -975,6 +975,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 386266,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Felt Mountain",
         "url": "https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902"
       },
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 386266,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/71wCH1CJ7wh3kmPC3cQH71"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Gran Hotel Buenos Aires",
-        "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
-      },
-      "artists": [
-        {
-          "name": "Federico Aubele",
-          "url": "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Postales",
-      "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Paradise Blown",
         "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 245493,
       "name": "Black Jesus",
       "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Gran Hotel Buenos Aires",
+        "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
+      },
+      "artists": [
+        {
+          "name": "Federico Aubele",
+          "url": "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Postales",
+      "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "All Is Full of Love",
-      "url": "https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Foxbase Alpha",
         "url": "https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3"
       },
@@ -1359,22 +1343,6 @@
       "duration_ms": 261000,
       "name": "Nothing Can Stop Us",
       "url": "https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 325583,
-      "name": "Emkay",
-      "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1415,6 +1383,38 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "All Is Full of Love",
+      "url": "https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 325583,
+      "name": "Emkay",
+      "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Nothing Changes Under The Sun",
         "url": "https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 241560,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6pw0Smtd6ydy5oywoqRXjY"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1515,6 +1499,22 @@
       "duration_ms": 252933,
       "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
       "url": "https://open.spotify.com/track/3DvQTKQ0ydUn5SNYzRL5wr"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Journey Into Abstract Hip Hop",
-        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
-      },
-      "artists": [
-        {
-          "name": "Gasoline",
-          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
-        }
-      ],
-      "duration_ms": 242466,
-      "name": "The Hardest",
-      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "LemonJelly.ky",
         "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 440040,
       "name": "His Majesty King Raam",
       "url": "https://open.spotify.com/track/4J8ms7TbPISBz71G5z2SGS"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Journey Into Abstract Hip Hop",
+        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
+      },
+      "artists": [
+        {
+          "name": "Gasoline",
+          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "The Hardest",
+      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
     },
     {
       "added_at": "2020-09-04 01:12:56",

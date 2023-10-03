@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Inner Harmony",
+        "url": "https://open.spotify.com/album/2ggG3E1RzoDn6GqGgOL5xm"
+      },
+      "artists": [
+        {
+          "name": "Muyu Three",
+          "url": "https://open.spotify.com/artist/6zb7OvAUpABDfVSe9NF1BN"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Inner Harmony",
+      "url": "https://open.spotify.com/track/5G1FGOdK1yXZzWcE7imCjz"
+    },
+    {
+      "album": {
         "name": "Inner Path",
         "url": "https://open.spotify.com/album/2NlIdOOe94sJCgpRVo1l5g"
       },

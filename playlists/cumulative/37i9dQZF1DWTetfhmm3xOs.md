@@ -4,7 +4,7 @@
 
 > Meditate to the sound of soothing voices and flutes.
 
-121 songs - 6 hr 12 min
+122 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 | 2022-05-25 |  |
 | [All For You](https://open.spotify.com/track/0iwF0zOSKH8wPUhC3Odo1L) | [Moonlight River](https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu) | [Shooting Stars](https://open.spotify.com/album/4Gd0vtBoSJ1cnk5YzQlG1O) | 2:59 | 2022-05-25 |  |
 | [always](https://open.spotify.com/track/5Nusgvqw46McIdfuqrvM4c) | [Florence Adame](https://open.spotify.com/artist/0OyLeqzC9Bd1d8uc5DgYCz) | [always](https://open.spotify.com/album/1Zqgnlwg96XIvVOrvYATK4) | 2:56 | 2022-05-25 |  |
+| [Amalthea](https://open.spotify.com/track/2p0hmBbbSxX5z1ZLvlLIW7) | [Aysun](https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT) | [Amalthea](https://open.spotify.com/album/47dsrJpp1b6HW9kikjIl9r) | 3:30 | 2023-10-02 |  |
 | [Amethyst](https://open.spotify.com/track/5X6MJD3WhozugWHrV86ENo) | [Vanessa Mill](https://open.spotify.com/artist/4Ep50Q4m0c6GJxZ9pxPpIH) | [Amethyst](https://open.spotify.com/album/5P0Bhww1awDkLtAh5CKi9k) | 2:12 | 2022-05-25 |  |
 | [Anda](https://open.spotify.com/track/2oNh69Ej2GKrk489PDNruu) | [Haraldur Bergljót](https://open.spotify.com/artist/5lIaD8O0ZoUIS3aybgfyeO) | [Anda](https://open.spotify.com/album/7qXpkrsHSzR5R2SMYkl2v8) | 2:46 | 2022-05-25 |  |
 | [Angelical](https://open.spotify.com/track/2LzNS6YlpkehtEINlWNtV2) | [No Nem\-1](https://open.spotify.com/artist/2nWmDoCWQwcZQe6eemVZtp) | [Angelical](https://open.spotify.com/album/2O9gwqHI8P7XAr1yPp1xST) | 3:22 | 2022-05-25 |  |
@@ -52,7 +53,7 @@
 | [Dunes](https://open.spotify.com/track/3EMhmAY3KnNRlzrzJurxmH) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:45 | 2022-05-25 |  |
 | [Elemental](https://open.spotify.com/track/7fnT7Dz3jebIcGREFz7i8q) | [Aasha](https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC) | [Elemental](https://open.spotify.com/album/122wW1uiBb44vDG3qMq2g3) | 2:00 | 2023-09-22 |  |
 | [Enchanted Garden](https://open.spotify.com/track/2oJZmQZkwFJ6bVtav4qrvW) | [Mar Duron](https://open.spotify.com/artist/5Z2wSeKFonNld5ZNij5qQV) | [Enchanted Garden](https://open.spotify.com/album/6bWEBVo1oTamGFdggtMpDY) | 2:08 | 2023-05-22 |  |
-| [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 | 2022-09-06 |  |
+| [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 | 2022-09-06 | 2023-10-03 |
 | [Existence](https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Existence](https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN) | 2:39 | 2022-12-09 |  |
 | [Falling Winds](https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Falling Winds](https://open.spotify.com/album/4nOCx7KqmyryOHBbu3cNdV) | 3:25 | 2022-05-25 |  |
 | [Far And Away](https://open.spotify.com/track/44DKn5hqvnO4912GLZqHYI) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:04 | 2022-05-25 |  |

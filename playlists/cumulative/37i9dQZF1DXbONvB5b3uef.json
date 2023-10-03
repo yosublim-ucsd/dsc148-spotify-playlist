@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "All\u00e1 en las Nubes",
+        "url": "https://open.spotify.com/album/3IQVpOBA63ZGSAQpyJbwB2"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238285,
+      "name": "All\u00e1 en las Nubes",
+      "url": "https://open.spotify.com/track/6QX8t27PrLrWioxKXMh78L"
+    },
+    {
+      "album": {
         "name": "Bendice el Callejon",
         "url": "https://open.spotify.com/album/459LPTo0qLXEn3VLq17oX5"
       },

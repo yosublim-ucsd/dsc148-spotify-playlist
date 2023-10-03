@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-236 songs - 20 hr 8 min
+237 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Between Two Breaths](https://open.spotify.com/track/4ppsp7PyPEllHWDzCyHHF8) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Between Two Breaths](https://open.spotify.com/album/0mvMU44cr2G86elQUQkDIx) | 5:48 | 2022-01-21 | 2022-11-02 |
 | [Beyond Entropia](https://open.spotify.com/track/3VC4vfxgf8ZacZCDy3Rnea) | [Shunkan Idou](https://open.spotify.com/artist/5cIfhBA7Wabl7fAAnMvdJs) | [Beyond Entropia](https://open.spotify.com/album/3N6YfSTnZdzLfhrFL8BSdr) | 7:37 | 2022-01-28 |  |
 | [Blue Window](https://open.spotify.com/track/2pYUcvzuzdGc4joj0KYX84) | [The Reflectionist](https://open.spotify.com/artist/3FWqZF8m9XAImKhKHM4TLE) | [Blue Window](https://open.spotify.com/album/5zfa586cmW4HGRZFTtmbGu) | 2:34 | 2022-02-11 | 2023-08-16 |
-| [Bondage To Formula](https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Cast Of Mind](https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN) | 7:15 | 2022-01-21 |  |
+| [Bondage To Formula](https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Cast Of Mind](https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN) | 7:15 | 2022-01-21 | 2023-10-03 |
 | [Breakdown \(The End of Chemical Romance\)](https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Breakdown](https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0) | 7:27 | 2022-01-21 | 2023-09-19 |
 | [Chasing Shadows, Pt\. 1](https://open.spotify.com/track/5lrxlHcu8D2Sl9807ZBI80) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 5:04 | 2022-12-30 |  |
 | [Clotho](https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 1:36 | 2022-01-21 |  |
@@ -180,6 +180,7 @@
 | [Seconds](https://open.spotify.com/track/2ROZkHmSV46OD2ESB6gpzs) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Seconds / Hólar](https://open.spotify.com/album/4uVGQKa9PFkytxLsLDkLJ6) | 2:03 | 2022-07-22 |  |
 | [Seconds](https://open.spotify.com/track/3vXmJi22FQIryr1IpTHOnX) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Seconds / Hólar](https://open.spotify.com/album/7Fgaunz4sA3JMGrfaa1YBC) | 2:03 | 2022-01-21 | 2022-07-15 |
 | [Seeing Past What Things Seem](https://open.spotify.com/track/2sgqTahUU0PBwKcgRhqRDN) | [Aidan Baker](https://open.spotify.com/artist/7wPBSl15ddi9mRCgIllOa9) | [Seeing Past What Things Seem](https://open.spotify.com/album/7km6d7bH6SLfaaB52JuuoT) | 11:33 | 2022-01-21 | 2022-07-27 |
+| [sentient](https://open.spotify.com/track/2JaBzgwkxZ2TVfCPZOlNOo) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [sentient](https://open.spotify.com/album/029RejYltCG6Nv6PmhDAg5) | 3:24 | 2023-10-02 |  |
 | [Serpentine](https://open.spotify.com/track/0plMWuZSwX65585sUIUdd5) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 3:41 | 2022-01-21 |  |
 | [Silkworms](https://open.spotify.com/track/31Vk1L8CuFKyBH86bx8owb) | [Hannu Karjalainen](https://open.spotify.com/artist/1jrtEzcK5ERQoXAFVcQV00) | [Silkworms](https://open.spotify.com/album/2mdi7sz4i7gVr4cg8lD5MY) | 9:35 | 2022-01-28 | 2022-07-26 |
 | [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 | 2023-05-02 |

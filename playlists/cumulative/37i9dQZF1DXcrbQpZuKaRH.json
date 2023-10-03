@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Chao Phraya",
+        "url": "https://open.spotify.com/album/46KHRsTPjqj6N5QJA35JPO"
+      },
+      "artists": [
+        {
+          "name": "Forrest Gomez",
+          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Chao Phraya",
+      "url": "https://open.spotify.com/track/3x2joKTEP8I0uSfl9MFjJC"
+    },
+    {
+      "album": {
         "name": "Charge Water",
         "url": "https://open.spotify.com/album/63psvMAMKlVELuGaNNHyvI"
       },
@@ -841,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Santanyi",
+        "url": "https://open.spotify.com/album/3P91FU1iT0YVMETaIE1isA"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161401,
+      "name": "Santanyi",
+      "url": "https://open.spotify.com/track/3rO499O1PWBnA0vlAwO9fp"
+    },
+    {
+      "album": {
         "name": "Sati Waves",
         "url": "https://open.spotify.com/album/0TtJJdKctdcuVElz1wWSTl"
       },
@@ -978,7 +1014,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 136098,
       "name": "Sleep Under the Stars",
       "url": "https://open.spotify.com/track/52fxNMSJtgwPzbMadGr2Ie"
@@ -1036,6 +1072,24 @@
       "duration_ms": 220800,
       "name": "Sun Wave",
       "url": "https://open.spotify.com/track/6i5MjtmMJMfUR8IWWW1aiD"
+    },
+    {
+      "album": {
+        "name": "S\u00e1lmur (Sound Bath)",
+        "url": "https://open.spotify.com/album/0ouaxJpx3JvdUdMkjKbZFM"
+      },
+      "artists": [
+        {
+          "name": "Arn\u00f3r",
+          "url": "https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "S\u00e1lmur (Sound Bath)",
+      "url": "https://open.spotify.com/track/5KASAZ937O4CSKQ3hYAMaB"
     },
     {
       "album": {

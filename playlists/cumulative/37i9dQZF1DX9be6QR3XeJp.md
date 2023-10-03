@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover:  HotWax
+> Discover your new favourite artists from UK&IE\. Cover:  Sola
 
-227 songs - 12 hr 22 min
+228 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2022-07-28 |  |
 | [Wet Dream](https://open.spotify.com/track/5mB1jcv6Xifg8OTBjJgzE3) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/602iDLkq2yJKNG6VUuMWBi) | 2:20 | 2022-02-18 | 2022-07-29 |
 | [What I'd Do For You](https://open.spotify.com/track/1RxYDWodpkiYA4apEOuDdS) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh) | 3:01 | 2022-02-18 |  |
+| [When I Feel Sane](https://open.spotify.com/track/7LtQ2SQIRVlDDYuZSOerd2) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK) | [Warped Soul](https://open.spotify.com/album/6fmZMYYSkKtMlNpbZPvfVQ) | 3:32 | 2023-10-02 |  |
 | [When You Were Mine](https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:23 | 2022-02-18 |  |
 | [Wicked & Wild](https://open.spotify.com/track/0g2n5CuQtZ4toia3j2zNRt) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Wicked & Wild](https://open.spotify.com/album/3SZloThQF14yc3MzUEouP6) | 2:06 | 2022-02-18 | 2022-11-19 |
 | [Wicked & Wild](https://open.spotify.com/track/2myNRoPh3Nh8V07gEEchGt) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Black Magic](https://open.spotify.com/album/0lGLhUdrNZjxJnkmugpY4r) | 2:06 | 2022-11-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Empress Of & Rina Sawayama
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,473 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,536 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Nitty Gritty](https://open.spotify.com/track/6YMzc4iQPZnfZmsKdHOFqG) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Nitty Gritty](https://open.spotify.com/album/5DsezeVQVXH142aHUnA7r0) | 3:38 |
 | 100 | [Heartbreak Souvenirs](https://open.spotify.com/track/1v7exhEYimYPHHV58YyYY6) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Heartbreak Souvenirs](https://open.spotify.com/album/2KQ3PWiOJWWlei0U5j9E0b) | 3:13 |
 
-Snapshot ID: `MCwwMDgzOWQ4ZWM4NGI3ZmIzMjZmNGYxNDM0OGY1YTgyN2E2MGNiNTRj`
+Snapshot ID: `MCw4ZDc4NDI0MjdjYTljNjhiM2YwM2NiZDU3NmU2Yjg1NDQ4NDEyZDcy`

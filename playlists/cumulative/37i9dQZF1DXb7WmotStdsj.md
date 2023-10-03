@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-169 songs - 13 hr 49 min
+170 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bagi Nwali Milliardaire](https://open.spotify.com/track/5PEdfV2WSVKIywE2dTgPQF) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Bagi Nwali Milliardaire](https://open.spotify.com/album/0HLrF0mYDsHcIPtUcILGhN) | 4:24 | 2021-10-19 | 2023-02-28 |
 | [Balaki](https://open.spotify.com/track/6NCLdvK4Pi2jdtruM8U60k) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Balaki](https://open.spotify.com/album/0wHfl44Cnqe7MhoilgjZLg) | 4:14 | 2022-09-20 | 2022-12-27 |
 | [Bechouiya 3la Galbi](https://open.spotify.com/track/073EMBsQPqd4j89yoztZ47) | [Rai Mix](https://open.spotify.com/artist/03sJ8qPVXuuOkHBdswV4pj) | [Dj ANes ReMix Rai](https://open.spotify.com/album/3e4hbnsuCNBmXPXdTDexzO) | 4:05 | 2021-10-19 | 2022-03-26 |
+| [Bent quartier populaire \(بغا يدرحني\)](https://open.spotify.com/track/2Wdk6ZOaVuaKnaQsuNPqST) | [Studio Ganfouda](https://open.spotify.com/artist/6MjJRyqsG53a9FreiOOsxa), [Chaba chinou](https://open.spotify.com/artist/1H9GqufB9SphlHrxSxgc0q) | [Bent quartier populaire \(بغا يدرحني\)](https://open.spotify.com/album/70cUTt6eYM0WEdvWsicu8F) | 4:16 | 2023-10-02 |  |
 | [Bghaw 3liya Yba3dok](https://open.spotify.com/track/0qgOUOYQrfWWYI42FLvxum) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Bghaw 3liya Yba3dok](https://open.spotify.com/album/5Yhd5B4XDx6DVLdVa1jVnY) | 4:47 | 2023-02-27 | 2023-09-26 |
 | [Bghitona natfarko](https://open.spotify.com/track/30SPX8Eue4UhihxU9cio7p) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [Bghitona natfarko](https://open.spotify.com/album/4baIAIwbTC2MqgKeIliPKU) | 2:33 | 2021-10-19 | 2022-09-21 |
 | [Brad Lgalb](https://open.spotify.com/track/200vD11oSSH2B8C73kXyRC) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheba Souad](https://open.spotify.com/artist/2mtGLDeonPnIV8HDyrxCfl) | [Brad Lgalb](https://open.spotify.com/album/1tKZOpA4RUscWGOgzgxZtK) | 3:43 | 2023-03-24 | 2023-08-26 |
@@ -173,7 +174,7 @@
 | [ليكيدي عليا لخردة](https://open.spotify.com/track/4E0xwTHdmwB2DehuA6QdeX) | [Cheikh Mamidou](https://open.spotify.com/artist/3P1VjlJbXPj8x46HKvbyTB), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [ليكيدي عليا لخردة](https://open.spotify.com/album/3CnWIRpGHGTgeZLjDjpXZY) | 4:58 | 2023-07-27 |  |
 | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/track/3gQvsHiyuanFa7dJ3TDfOv) | [Cheb Oussama](https://open.spotify.com/artist/6eJDRiiR2xdwAgdiRjZ525) | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/album/5Uvwkx0w6oUTM59ep9pH5B) | 4:39 | 2022-03-25 |  |
 | [نتيا ضعيف](https://open.spotify.com/track/6GfXhVpEqBay6HM1iCavDR) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i), [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [نتيا ضعيف](https://open.spotify.com/album/3QGTRsK0LF6t5XO5oBXd5i) | 4:21 | 2022-09-20 | 2023-02-21 |
-| [نكون مديرونجي تعيطلي هيا نجي](https://open.spotify.com/track/5NHNsu2SFsEJ06zPbRTomb) | [RaiJdid](https://open.spotify.com/artist/6eARrgJK4IDBeFTHcHIQwM) | [نكون مديرونجي تعيطلي هيا نجي](https://open.spotify.com/album/44eg9fpdAVZwEMmNDCYXD8) | 7:56 | 2023-05-08 |  |
+| [نكون مديرونجي تعيطلي هيا نجي](https://open.spotify.com/track/5NHNsu2SFsEJ06zPbRTomb) | [RaiJdid](https://open.spotify.com/artist/6eARrgJK4IDBeFTHcHIQwM) | [نكون مديرونجي تعيطلي هيا نجي](https://open.spotify.com/album/44eg9fpdAVZwEMmNDCYXD8) | 7:56 | 2023-05-08 | 2023-10-03 |
 | [ها قلبي ها قلبي يناسبها المكان](https://open.spotify.com/track/0IiDI1jF6bmERRxsaPNyAe) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [ها قلبي ها قلبي يناسبها المكان](https://open.spotify.com/album/3Y6L5aPp1EGEbZ2hyHypoa) | 5:54 | 2021-10-19 | 2022-09-21 |
 | [هدا غي عشق وفايت](https://open.spotify.com/track/3joJoAR6B8308tfIlisTx2) | [Abbas Kahla](https://open.spotify.com/artist/2v4kCfsNFrNNBAwAs4GZrV) | [هدا غي عشق وفايت](https://open.spotify.com/album/78Jky16Q6UjmNj4Kh5I5Re) | 4:14 | 2023-05-25 | 2023-09-30 |
 | [هدا غي عشق وفايت Abbas Kahla](https://open.spotify.com/track/2XccMlUe2DuW4YLrjFghki) | [Abbas Kahla](https://open.spotify.com/artist/2v4kCfsNFrNNBAwAs4GZrV) | [هدا غي عشق وفايت Abbas Kahla](https://open.spotify.com/album/5Zyjk5uDs9yYlQFMSR5MvU) | 4:14 | 2023-09-25 |  |

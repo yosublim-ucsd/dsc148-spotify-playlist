@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: MYLINA; thiết kế: Isu Kim
 
-1,289 songs - 3 day 3 hr 44 min
+1,291 songs - 3 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Bắp Rang Bơ](https://open.spotify.com/track/0aybUP5A6uBYmAr87tDY5t) | [HENRY](https://open.spotify.com/artist/1iBO7Ag9LniAVT6sEHhgUZ), [MKM](https://open.spotify.com/artist/1gcl9SIG3bF3Y9tTum9bkL) | [Bắp Rang Bơ](https://open.spotify.com/album/6VY0535fKsUyyVoQQvoCYX) | 2:43 | 2022-06-16 | 2022-06-27 |
 | [Bằng Lăng Nở Hoa](https://open.spotify.com/track/4ZP49DLU2Uk0LmRT98w0bK) | [Anh Rồng](https://open.spotify.com/artist/6QwHC6CRkFfpwGYEzFsTsK) | [Bằng Lăng Nở Hoa](https://open.spotify.com/album/5KZ1wmO6kW021XN89RKxiL) | 3:54 | 2022-06-19 | 2022-06-27 |
 | [Bề Nổi](https://open.spotify.com/track/3K91ZqCfDUwiYr4ZvGDBY7) | [72 LSixxk](https://open.spotify.com/artist/31La8rNfuKxE85xDcw6yB8), [Boned](https://open.spotify.com/artist/4vrbDOYJD87WWpgwKs2b2p), [Eoauci](https://open.spotify.com/artist/1Jd3KvJDwaEjFgLkq8s0dh) | [Bề Nổi](https://open.spotify.com/album/2kvYXvTZIjRXQGU4MQTE3G) | 3:09 | 2023-09-25 |  |
+| [Bịt Mắt Bắt Anh](https://open.spotify.com/track/2YYgjG6Vm9lV74IOM5nkdY) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf), [DREAMeR](https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I) | [Bịt Mắt Bắt Anh](https://open.spotify.com/album/6qt24jojUkZSSiVGgKAemp) | 2:59 | 2023-10-02 |  |
 | [Bốn Bức Tường](https://open.spotify.com/track/47YM9oNT1A3YccwkP3nddV) | [Loli](https://open.spotify.com/artist/2STiM46mIuADJaq9Rt3odB) | [Bốn Bức Tường](https://open.spotify.com/album/4RNp6hEWoDeDXh8PTKXdik) | 4:40 | 2022-02-08 | 2022-05-12 |
 | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/track/0HPi6mBmKWFWB0OOhb28co) | [Nam Em](https://open.spotify.com/artist/7BbU2YunG15r8JwLTgnNyk) | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/album/48dw2PjUKYgpDS0OfUCj3y) | 3:55 | 2023-02-26 | 2023-03-16 |
 | [Bởi Vì Có Em](https://open.spotify.com/track/1yXZp3CI1nHjvmzxTmum7f) | [Nguyễn Tấn Đạt](https://open.spotify.com/artist/1Z5DJV3W8q8VmU43xwhdGY) | [Bởi Vì Có Em](https://open.spotify.com/album/33ZPnUg7xgWPdxbaMDRk8l) | 3:21 | 2022-06-22 | 2022-07-14 |
@@ -1122,6 +1123,7 @@
 | [Voicemail 2: phone calls.](https://open.spotify.com/track/10SYupbJ8acoR1EnCyRn5b) | [Han Kim](https://open.spotify.com/artist/3XUFhqBCW0ak4jrLosr3Wk) | [Voicemail 2: phone calls.](https://open.spotify.com/album/0qucLTCfkUxDUpyYCgPrGT) | 3:08 | 2023-06-13 | 2023-07-18 |
 | [Vu Vơ](https://open.spotify.com/track/5V4cDS8D9Ow41pxXZoKbIy) | [Schxxl](https://open.spotify.com/artist/0HksdqUw8bPWEy5gQrljOJ) | [Vu Vơ](https://open.spotify.com/album/2inueJo7nkVZuFyly5TuG9) | 3:22 | 2023-09-28 |  |
 | [Vui Lên Đi Nhé Em](https://open.spotify.com/track/2RebrrZ3ifRRyXnJDADGu7) | [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [Vui Lên Đi Nhé Em](https://open.spotify.com/album/42ZEls9679Bjwyn9AoGTuC) | 3:17 | 2022-07-09 | 2022-07-21 |
+| [Vui Vẻ](https://open.spotify.com/track/7ICgBpgKg3Cp8z9gYBOPue) | [Oát](https://open.spotify.com/artist/6nkv2QvzOX5de8D95pU4rV), [Astronormous](https://open.spotify.com/artist/10DVqLQppj5k4viGgo33Gj) | [Vui Vẻ](https://open.spotify.com/album/79KcDAwFNjnNJJe3cRa5r2) | 3:33 | 2023-10-02 |  |
 | [Vui Vẻ Không Quạo](https://open.spotify.com/track/2QQJncHuYFnZmMSYjhiQ6h) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ), [Droppy](https://open.spotify.com/artist/4EqEodSfNgQPwoHxbdZlpT) | [Vui Vẻ Không Quạo](https://open.spotify.com/album/56HK3CdFdLMRsHy5VQPaPa) | 3:17 | 2022-05-09 | 2022-06-10 |
 | [Và Em Đã Từng Yêu Anh Chưa](https://open.spotify.com/track/1vhNswUSLvNvjLZMUDQLQ3) | [HUY.](https://open.spotify.com/artist/3bUZ1pYNFCXi63VIOG1jwS), [Minhuung](https://open.spotify.com/artist/1KfcZ09oE39qrH4FJrgtfo) | [Xanh Đen](https://open.spotify.com/album/5HoSfajPNK7xL84PqWzKdA) | 4:05 | 2022-07-12 | 2022-07-21 |
 | [Vào Hang](https://open.spotify.com/track/2kG1zeBlXnvkUwPzmXt64W) | [LONGK](https://open.spotify.com/artist/2zYHfXyQ432mvYJuP2cbp9), [Viet Devils](https://open.spotify.com/artist/2BlyTKBwIQAJnV9j9fcmNg) | [Vào Hang](https://open.spotify.com/album/6AEI0sxsU0LfkVgleW2q5K) | 3:10 | 2022-10-10 | 2023-01-27 |

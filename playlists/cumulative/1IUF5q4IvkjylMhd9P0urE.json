@@ -5951,6 +5951,28 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3cSRHBRgdNFGHIlxKIIBDr"
+      },
+      "artists": [
+        {
+          "name": "Florentino",
+          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283999,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/67U4c4ogb7pWU3uRINXnrn"
+    },
+    {
+      "album": {
         "name": "prettynames",
         "url": "https://open.spotify.com/album/2qowicmtymr0Ifm9bcC6LN"
       },

@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-394 songs - 19 hr 59 min
+396 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Campion](https://open.spotify.com/track/5gIlVzuuMjv95PSZ9lnXTi) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Campion / Geimfar](https://open.spotify.com/album/552e1oUOvaktE907WmfQPR) | 3:29 | 2022-04-05 |  |
 | [Captive](https://open.spotify.com/track/4XvGvqSRNM6eemk17RdHuL) | [Tracy Kelli](https://open.spotify.com/artist/2IfgKThwT8TgHMatgOze2v) | [Captive](https://open.spotify.com/album/581ZGUHLRkzzGH03MOnxVs) | 2:40 | 2022-04-05 | 2023-09-02 |
 | [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2022-06-03 | 2022-07-29 |
-| [Caribbean Sea](https://open.spotify.com/track/0aikHYvLZfr0rc3IT0DNv4) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Caribbean Sea](https://open.spotify.com/album/0rONtadXJvWO3CWbJPGUub) | 3:25 | 2022-06-17 |  |
+| [Caribbean Sea](https://open.spotify.com/track/0aikHYvLZfr0rc3IT0DNv4) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Caribbean Sea](https://open.spotify.com/album/0rONtadXJvWO3CWbJPGUub) | 3:25 | 2022-06-17 | 2023-10-03 |
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2022-04-05 |  |
 | [Casablanca](https://open.spotify.com/track/7bScxanaqg2QeiEHqmYgvd) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Casablanca](https://open.spotify.com/album/3QB0w4wTtbJaRk3aS3qqFD) | 3:41 | 2022-12-09 |  |
 | [Cassette Tape](https://open.spotify.com/track/34vL3tUAnlevnJR0NyiEkB) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Cassette Tape](https://open.spotify.com/album/0xysheVNUl2zt3wib4ksKh) | 3:32 | 2023-03-03 | 2023-06-24 |
@@ -223,6 +223,7 @@
 | [Melange](https://open.spotify.com/track/7D4jtoVKo69jCz2cgkabG8) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Melange](https://open.spotify.com/album/5MdR5rNb3WrS4cfY4QuXZG) | 2:13 | 2022-11-25 |  |
 | [melt with you](https://open.spotify.com/track/2PaAxePigQ3wddWOXakh5y) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [melt with you](https://open.spotify.com/album/16C0uShYSHgzxVKNwdIMR5) | 2:24 | 2022-10-07 |  |
 | [memories](https://open.spotify.com/track/455yDW2mMq8DMrDN9G6SRf) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [memories](https://open.spotify.com/album/66DpYlVTOSTKtf71XIWHho) | 3:20 | 2023-06-23 |  |
+| [Midnight Mint](https://open.spotify.com/track/2ze9ejYaCLMu4rDtITIrYE) | [ELEVENISH](https://open.spotify.com/artist/6FksKKI0Wz1eJmCbWzNVEf) | [Midnight Mint](https://open.spotify.com/album/09Lb346QPeOrhG5lOOXa9B) | 2:20 | 2023-10-02 |  |
 | [Midsommar](https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Midsommar](https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w) | 2:36 | 2022-06-24 | 2022-07-29 |
 | [milanaze](https://open.spotify.com/track/54vcW7KBQULivUu32NZ7ot) | [qorfu](https://open.spotify.com/artist/4RThihZi1QaMBUHyFpu3pY) | [milanaze](https://open.spotify.com/album/1ahaxm7I0wNWesi6fwvaS3) | 2:56 | 2022-04-05 | 2022-07-29 |
 | [Missing You \- Edit](https://open.spotify.com/track/3kz48YBXaevUhbPmVOIIeR) | [Traumen](https://open.spotify.com/artist/4HBtYshoPlAco0bw0tbFPq) | [Missing You \(Edit\)](https://open.spotify.com/album/19rs2mF1OBzZVSqFIm4kz6) | 4:02 | 2022-04-05 | 2022-05-11 |
@@ -242,6 +243,7 @@
 | [Nigeria Rhythm](https://open.spotify.com/track/6OxqqDfG5smNFoVejgtBLI) | [Tropical king](https://open.spotify.com/artist/1KS0DksrAJXHcQ3kdc90tE) | [Nigeria Rhythm](https://open.spotify.com/album/3gSzRNT9ADgWo5YOmDxaqQ) | 2:42 | 2022-10-07 |  |
 | [Night Ranger](https://open.spotify.com/track/7iyKQvIJ0kjdytW4WgR6U5) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Aerials](https://open.spotify.com/album/4p4jg5815wGcBGM6CIeBLl) | 3:33 | 2022-11-25 |  |
 | [Night Shades](https://open.spotify.com/track/0jneMOWzfrISVk4esEnvC9) | [Purple Waves](https://open.spotify.com/artist/0KJ2P4KrAgSoL8dg3Bpoc1) | [Night Shades](https://open.spotify.com/album/1mq4x89voeeXoA7FYaKEQa) | 2:21 | 2023-08-04 |  |
+| [Night Time Bliss](https://open.spotify.com/track/3sZZDhEVYJ8tyTiYEGCcg6) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Night Time Bliss](https://open.spotify.com/album/0EDmSY43a9bcUdCDimpyba) | 2:54 | 2023-10-02 |  |
 | [Night Visions](https://open.spotify.com/track/3kIaZnczSu1uoCQ78P7TxD) | [Thirsty Ear](https://open.spotify.com/artist/6RqaxUVExoKE01pPo39A2e) | [Night Visions](https://open.spotify.com/album/37VCmWXI1SMZO3vsbp4Ecc) | 3:55 | 2022-04-05 |  |
 | [NiteGlow](https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ) | [Zev Lyso](https://open.spotify.com/artist/3GzxMwoPimZI714GHHrCsy) | [NiteGlow](https://open.spotify.com/album/4F4aUag4mbxyT1TSAT5hj8) | 2:12 | 2022-04-05 |  |
 | [No Stampede](https://open.spotify.com/track/45Hz6R4BU9C0gc4Dee48Eg) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Bitter Move](https://open.spotify.com/album/0g3AJoh2B1iUhmO30POzLz) | 4:02 | 2022-04-05 | 2022-07-08 |

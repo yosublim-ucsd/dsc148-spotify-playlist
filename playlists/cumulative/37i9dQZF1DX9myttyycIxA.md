@@ -2,7 +2,7 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Cherry Glazzerr
+> Underground indie rock gems\. Cover: Cherry Glazerr
 
 1,067 songs - 2 day 12 hr 47 min
 

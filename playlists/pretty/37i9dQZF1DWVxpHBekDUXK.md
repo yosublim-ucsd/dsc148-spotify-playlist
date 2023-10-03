@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 
 > When someone you love becomes a memory..\. find solace in these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,657 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,697 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 | 6 | [I'll Be Missing You \(feat\. Faith Evans, 112\)](https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 5:01 |
 | 7 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 |
 | 8 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
-| 9 | [Last Kiss](https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 3:15 |
-| 10 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
+| 9 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
+| 10 | [Last Kiss](https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 3:15 |
 | 11 | [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 |
 | 12 | [Tears in Heaven](https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Rush \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2) | 4:31 |
 | 13 | [Gone Away \- 1997](https://open.spotify.com/track/5BnFZLH99sYav2cxJFGO2n) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 4:28 |
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 | 27 | [My Old Man](https://open.spotify.com/track/0jyYstiiibkN6xlS7INejg) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Welcome Home](https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH) | 3:47 |
 | 28 | [There You'll Be \- 2007 Remaster](https://open.spotify.com/track/1s2khOWzC99udpUaPICLJI) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Hits](https://open.spotify.com/album/7fvl3dOnDrv9rq5IBmLbAa) | 3:40 |
 | 29 | [Don't Cry Daddy](https://open.spotify.com/track/2eSj0HHwB9aHJQ7zFOu90G) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 2:47 |
-| 30 | [See You on the Other Side](https://open.spotify.com/track/1Hs2MG2LBJaSPk7X0fzmfk) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ozzmosis \(Expanded Edition\)](https://open.spotify.com/album/5m8Fj0thHTE4CBGJTdF6s9) | 6:10 |
-| 31 | [White Shadows](https://open.spotify.com/track/0WWz2AaqxLoO0fa9ou6Fqc) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 5:28 |
+| 30 | [White Shadows](https://open.spotify.com/track/0WWz2AaqxLoO0fa9ou6Fqc) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 5:28 |
+| 31 | [See You on the Other Side](https://open.spotify.com/track/1Hs2MG2LBJaSPk7X0fzmfk) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ozzmosis \(Expanded Edition\)](https://open.spotify.com/album/5m8Fj0thHTE4CBGJTdF6s9) | 6:10 |
 | 32 | [Somewhere Out There \- From "An American Tail" Soundtrack](https://open.spotify.com/track/6Zd6gSMyyjSybIw4lK9Ecy) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [An American Tail](https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9) | 3:58 |
 | 33 | [If Tomorrow Never Comes](https://open.spotify.com/track/7MOsr4iEUasjzY2Uiktu0m) | [Kent Blazy](https://open.spotify.com/artist/0wTeTWBFS4RJCsKYPwfcpS), [Garth Brooks](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7) | [Have Guitar\-Will Travel](https://open.spotify.com/album/1rh3XNgiGitdVbnXUu6Zn2) | 4:04 |
 | 34 | [Slipped Away](https://open.spotify.com/track/5AZhrTm9YUCOiA3Vl2hQji) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:34 |
 | 35 | [Holes In The Floor Of Heaven](https://open.spotify.com/track/1pZbQrvzJExLxvhYcrsYdG) | [Steve Wariner](https://open.spotify.com/artist/45S8rtgQSxj1a0tzCNhSeD) | [Burnin' The Roadhouse Down](https://open.spotify.com/album/0T5StT6vxkDLKnI2HwGduJ) | 4:48 |
 | 36 | [Dance With My Father](https://open.spotify.com/track/5J1S7CiStkeo9JP0SBOaax) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [My Love Ultimate Essential Collection](https://open.spotify.com/album/2v0al3Hr4YsxSR5vGWE0OJ) | 4:36 |
 | 37 | [The Background](https://open.spotify.com/track/5n8EO9QJbmQLtQd8MAvrOg) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:56 |
-| 38 | [Someone's Watching Over Me](https://open.spotify.com/track/1wkl1b5DQZrVkFlp6qNNmu) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Hilary Duff](https://open.spotify.com/album/51K6Op3c6XouBYKThO8OL6) | 4:11 |
-| 39 | [One Tree Hill](https://open.spotify.com/track/3w3qWhplVQcO5aGU6Ipdhq) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 5:22 |
+| 38 | [One Tree Hill](https://open.spotify.com/track/3w3qWhplVQcO5aGU6Ipdhq) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 5:22 |
+| 39 | [Someone's Watching Over Me](https://open.spotify.com/track/1wkl1b5DQZrVkFlp6qNNmu) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Hilary Duff](https://open.spotify.com/album/51K6Op3c6XouBYKThO8OL6) | 4:11 |
 | 40 | [Letters From The Sky](https://open.spotify.com/track/1g8dRVzAvmSOTfTz5m0H9K) | [Civil Twilight](https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8) | [Civil Twilight](https://open.spotify.com/album/5xGdh9Tq1yaiiC6CKOTb5j) | 4:35 |
 | 41 | [Stars](https://open.spotify.com/track/6s7sq2Quh4TxHRfdk6eFxk) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [The Lion The Beast The Beat \(Deluxe Edition\)](https://open.spotify.com/album/2JcoZUEwztDoEKUiqd7Yk9) | 3:35 |
 | 42 | [Who You'd Be Today](https://open.spotify.com/track/5Vkdh8GfdXmwyJjzPewMWM) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Road And The Radio](https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 | 49 | [One More Day](https://open.spotify.com/track/5mcWdITson4DJcYtH5xo0f) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [16 Biggest Hits](https://open.spotify.com/album/09lZwjsn0t2T62XaGUqfwP) | 3:36 |
 | 50 | [When I'm Gone](https://open.spotify.com/track/54SEsuLm43yxTeFTkSAnk5) | [Joey + Rory](https://open.spotify.com/artist/31Esw1yHgJZBPcRa4nUyTP) | [His And Hers](https://open.spotify.com/album/15gaHMxK5LeJxQ9IfdHkjg) | 3:54 |
 
-Snapshot ID: `MCxlMWEyM2E1NGM3NzBjZGUzM2JkMGUwNmEzNWIxOWYzMDVjNjBhYjI2`
+Snapshot ID: `MCwxMWM4MmFmMTdjNjg4Y2UzMzU4YThiYzUxMWYzMmU0ODU2NWMyNjRi`

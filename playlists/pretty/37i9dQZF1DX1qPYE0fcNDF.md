@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip Hop and Happy Holidays! Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,826 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,819 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 29 | [Sleigh Ride](https://open.spotify.com/track/7DBIvPoaC3Wv69Qe5II7b3) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [A Laface Family Christmas](https://open.spotify.com/album/4fzsNfn7gbyM2CiDF5vigi) | 3:43 |
 | 30 | [Christmas In The Hood](https://open.spotify.com/track/4ZtbsYTOuF1hotmpNn8qpA) | [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4), [Deacon](https://open.spotify.com/artist/4481xuujVUcv4MH4TnHWoh) | [Christmas In The Dogghouse](https://open.spotify.com/album/6Yfaff9em7z9TmO9QQscpw) | 3:54 |
 | 31 | [Ballin' On Xmas](https://open.spotify.com/track/1atC80Kwb6gHOn27dG1qX1) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/0GfcY3i2aeTqcOxb8i8tLS) | 3:35 |
-| 32 | [I Am the Grinch](https://open.spotify.com/track/5TVQdlY5H99BSAciKixBSt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Fletcher Jones](https://open.spotify.com/artist/1p0uWG26qtUg2nNxIIk10x) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 2:37 |
+| 32 | [I Am the Grinch \(feat\. Fletcher Jones\)](https://open.spotify.com/track/5TVQdlY5H99BSAciKixBSt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Fletcher Jones](https://open.spotify.com/artist/1p0uWG26qtUg2nNxIIk10x) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 2:37 |
 | 33 | [Christmas In Harlem](https://open.spotify.com/track/00HMEiBMDkbNCHLJL6zqVk) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Christmas In Harlem](https://open.spotify.com/album/31dBitfDGugqFHLKrUT3rt) | 3:56 |
 | 34 | [Intro](https://open.spotify.com/track/0c7J4CTS8FzWWMgWkGKTAe) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Skull Gang](https://open.spotify.com/artist/6R4blCfeFM693nL3QeCeAH) | [Jim Jones Presents: Bad Santa \- Starring Mike Epps](https://open.spotify.com/album/73AXIjZmQDJ29hZdt9y28Q) | 3:13 |
 | 35 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 49 | [Christmas At Swae’s](https://open.spotify.com/track/2uIJmDr8yFuq27JgZGAw7l) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Ear Drummers](https://open.spotify.com/artist/16b0RUDQWdrU5HYFKuFW98) | [Christmas At Swae’s](https://open.spotify.com/album/6Qx4jA6F8xTrAypkeaVUSk) | 3:46 |
 | 50 | [Bungecord Christmas](https://open.spotify.com/track/1aeQUlT3fNViIUNtimzgeK) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Bungecord Christmas](https://open.spotify.com/album/1TJY1i9QiyYIABj0cPN9po) | 2:09 |
 
-Snapshot ID: `MCw0ZTZmM2NlZTY0YjUzMzVjMDIxYTU2NWExZGU5MTZlMTA1MjYxODM1`
+Snapshot ID: `MCwwZTczMTBiYjMzYTlmNzExNjUzMjU1MjBiNWNkOTAyNWVjN2QxZGVj`

@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: Byron Juane
 
-565 songs - 1 day 5 hr 36 min
+566 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Selfish \(feat\. Yung Bleu\)](https://open.spotify.com/track/6KYn4yDSvH2NT90navkiql) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Selfish \(feat\. Yung Bleu\)](https://open.spotify.com/album/7BNppAi3a6LXxVvJs6GHC7) | 3:21 | 2021-12-15 | 2022-06-10 |
 | [Separated](https://open.spotify.com/track/3PWu6X1aFJra9Bj5u53e4N) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Separated](https://open.spotify.com/album/4b9eaV1dw6cOAoTcYcI1ri) | 3:48 | 2021-12-15 | 2022-07-23 |
 | [Serial Fboy](https://open.spotify.com/track/0841LwMiMNMa6GGTBqfh7j) | [Asha Maclean](https://open.spotify.com/artist/4uo6Vevug3g8cZIDuyigcb) | [Serial Fboy](https://open.spotify.com/album/4VcIRSsRXAs7e1Xy9rxmaM) | 2:59 | 2021-12-15 | 2022-05-22 |
+| [Serious](https://open.spotify.com/track/7LJjWJjj28xq1W5AvGxw2d) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Serious](https://open.spotify.com/album/0GdpDC5d1P56gP0aFTfd5C) | 1:53 | 2023-10-02 |  |
 | [Set Him Up \(feat\. Ari Lennox\)](https://open.spotify.com/track/0FhfNle9FovXRL03awCJbe) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Set Him Up \(feat\. Ari Lennox\)](https://open.spotify.com/album/6prRBHIVxS9oyvDmxS2nwa) | 3:42 | 2021-12-15 | 2022-07-24 |
 | [Set Up \(2017\)](https://open.spotify.com/track/1cWaT1NBz5pvNWTv4yFh2Y) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:06 | 2023-05-19 | 2023-07-13 |
 | [Sex & Empathy](https://open.spotify.com/track/5U0Gbz6YQl48Alts9Iqfnv) | [Lyfe Harris](https://open.spotify.com/artist/3056tgVkQYtDN8yWwAFmU2), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Sex & Empathy](https://open.spotify.com/album/3Tn9YalQNmNhbFJP7XpzJz) | 2:51 | 2023-07-21 | 2023-09-23 |
@@ -488,7 +489,7 @@
 | [Sunset Eyes](https://open.spotify.com/track/43JDDAnJu7fyNToaRUsjGH) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:26 | 2022-05-06 | 2022-07-27 |
 | [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 | 2023-03-03 |  |
 | [Take It Back](https://open.spotify.com/track/3UJ8XNSmK5MKkIVsZPMMh7) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Take It Back](https://open.spotify.com/album/41lbIMunApS8mpyLtUW81W) | 3:18 | 2022-03-25 | 2022-07-15 |
-| [Talk To Me](https://open.spotify.com/track/0Yb6xqb1lqVJKc71pzqjic) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Talk To Me](https://open.spotify.com/album/4kg6StXbKPakx9iOoguXov) | 3:14 | 2023-08-18 |  |
+| [Talk To Me](https://open.spotify.com/track/0Yb6xqb1lqVJKc71pzqjic) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Talk To Me](https://open.spotify.com/album/4kg6StXbKPakx9iOoguXov) | 3:14 | 2023-08-18 | 2023-10-03 |
 | [Talkback](https://open.spotify.com/track/616rALOBxvc3bbp38iiud5) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:04 | 2023-03-10 |  |
 | [Talkback](https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Talkback](https://open.spotify.com/album/5MNz65f0S30Ev8AGVdFI5I) | 3:04 | 2023-03-10 | 2023-04-27 |
 | [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 | 2022-09-16 | 2022-10-15 |

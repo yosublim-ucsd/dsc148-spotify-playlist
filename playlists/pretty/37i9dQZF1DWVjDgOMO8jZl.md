@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:02egj8t9vzqr5bWgMov3zq">Asteria</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,640 likes - 33 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,652 likes - 33 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 32 | [Flora](https://open.spotify.com/track/1JoU93qhttHC3wBXWAdPLR) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Flora](https://open.spotify.com/album/2GJ2PdGfXMM1w4Y68djdGt) | 3:16 |
 | 33 | [KANYE WEST \(feat\. Bresh\)](https://open.spotify.com/track/76V4fmBYiVqpOJB6GC3SHA) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [KANYE WEST \(feat\. Bresh\)](https://open.spotify.com/album/599Ef02IOqtzkVBd1sFlfo) | 3:08 |
 
-Snapshot ID: `MCwyYTBiZjgxYTEyZGJhZjE0YTJiNGVlMGEyZjQwMTJhOWQyNmIyMDhh`
+Snapshot ID: `MCw3Yjk1ZjM2N2I4OWYzM2FmMjQyODc5OTJhNmNkMTRkOGFhNzRjYzMz`

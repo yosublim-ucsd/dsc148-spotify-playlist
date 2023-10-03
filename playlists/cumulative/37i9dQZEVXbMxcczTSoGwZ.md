@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,604 songs - 3 day 14 hr 34 min
+1,605 songs - 3 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [2step \(feat\. Ellinoora\)](https://open.spotify.com/track/3Cem1dtq0bNVYQNqz9h0BY) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [2step \(The Remixes\)](https://open.spotify.com/album/1nqJFaKVTrCkCDaC2I1zM7) | 2:33 | 2022-05-28 | 2022-07-10 |
 | [2step \(feat\. Ellinoora\)](https://open.spotify.com/track/5eDt2k9gdjk9EyNdo7MqK1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [2step \(feat\. Ellinoora\)](https://open.spotify.com/album/5153aG4BHrvldWiOmbQYLF) | 2:33 | 2022-05-05 | 2022-05-29 |
 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2022-05-05 | 2022-05-08 |
+| [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-10-02 |  |
 | [3D\-kriisit](https://open.spotify.com/track/0InoveSvHSQmUDFto4ZqAg) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [3D\-kriisit](https://open.spotify.com/album/4xzQTLLnaXH8FmE1fmAzB5) | 3:49 | 2021-09-12 | 2021-10-03 |
 | [40K](https://open.spotify.com/track/48GrbwydcMUFPfKrSeq6K0) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [40K](https://open.spotify.com/album/23snaZbhW9jzET6wWtiEPk) | 2:34 | 2022-04-23 | 2023-01-07 |
 | [40K](https://open.spotify.com/track/6WQihZyNHPQzaF7dx3Xmi6) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sextape II](https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR) | 2:34 | 2023-01-07 | 2023-04-23 |
@@ -413,7 +414,7 @@
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 |  |
 | [GRINDR MAYHEM \(feat\. BESS\)](https://open.spotify.com/track/4BdiKWwWtDZ3TA339ZgZnI) | [Antti Tuisku](https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [GRINDR MAYHEM \(feat\. BESS\)](https://open.spotify.com/album/4FrHzKtnbUyn3QlEEgy9I8) | 2:35 | 2022-06-18 | 2022-09-20 |
 | [Gröna Lund](https://open.spotify.com/track/5g9eiltzjUKWr9GR4Ma2VP) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Viimeinen romantikko](https://open.spotify.com/album/7IosFLQa3Pp4HM0NEQkr5b) | 3:57 | 2021-09-26 | 2021-10-31 |
-| [Gröna Lund \- Vain elämää kausi 14](https://open.spotify.com/track/3NIOfRXol4efsbyI4LPD54) | [Hätä\-Miikka](https://open.spotify.com/artist/7DrOSQztawCu1w7Ni8uMZK) | [Gröna Lund \(Vain elämää kausi 14\)](https://open.spotify.com/album/6b7VagRHXSJe3TTVdclT2k) | 3:07 | 2023-10-01 |  |
+| [Gröna Lund \- Vain elämää kausi 14](https://open.spotify.com/track/3NIOfRXol4efsbyI4LPD54) | [Hätä\-Miikka](https://open.spotify.com/artist/7DrOSQztawCu1w7Ni8uMZK) | [Gröna Lund \(Vain elämää kausi 14\)](https://open.spotify.com/album/6b7VagRHXSJe3TTVdclT2k) | 3:07 | 2023-10-01 | 2023-10-03 |
 | [Gunshit](https://open.spotify.com/track/1IkpXyhRn31NG6VOIsARqj) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Gunshit](https://open.spotify.com/album/0d733Esyd2C6I91zPHBu0p) | 2:09 | 2022-02-05 | 2022-02-13 |
 | [Haamuna](https://open.spotify.com/track/5SAAdQghKMepFbqKJ6Qs0h) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Haamuna](https://open.spotify.com/album/54rASXLZdLkgpwkTD91NBp) | 3:06 | 2022-07-16 | 2022-08-09 |
 | [Halleluja](https://open.spotify.com/track/5jdXBRE1XIRH7CN6k4xzQK) | [Kasmir](https://open.spotify.com/artist/2O6Va98fudK0E8rtu7Nm2Z) | [Halleluja](https://open.spotify.com/album/4Fe3Vgs7OAErOBCRB0tsDD) | 2:36 | 2021-11-07 | 2021-11-14 |

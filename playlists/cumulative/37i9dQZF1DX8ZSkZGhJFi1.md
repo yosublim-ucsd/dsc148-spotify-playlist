@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-597 songs - 1 day 0 hr 24 min
+599 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Bring on the Blessings](https://open.spotify.com/track/1n31FkTycUv7n7o6kIejeP) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Rooster Visions](https://open.spotify.com/album/3YXmddyswirnkpXfOdtAYG) | 3:08 | 2022-02-17 | 2023-09-09 |
 | [Brooding T\-Rex](https://open.spotify.com/track/2atx7EGXuT2Gi0m2M9ImyQ) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:37 | 2022-02-17 | 2023-09-09 |
 | [Buena Vista](https://open.spotify.com/track/3s3cLWqJtfAUgCZQOtpFLw) | [Doctor Gosso & the Samplers](https://open.spotify.com/artist/1evlSNsQeX4LimNdMSrNRu), [Telica](https://open.spotify.com/artist/2535WOR5wDMhBYz4yReLMc) | [Buena Vista](https://open.spotify.com/album/7aMySGhfU7O2JzlvjO1jXl) | 2:16 | 2023-09-08 |  |
-| [Busy Branches](https://open.spotify.com/track/2GKQNEAMc6bQjqBHdNtlzz) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Busy Branches](https://open.spotify.com/album/5hSpAo6OG8Z4GmkPwX1fw3) | 2:18 | 2023-09-08 |  |
+| [Busy Branches](https://open.spotify.com/track/2GKQNEAMc6bQjqBHdNtlzz) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Busy Branches](https://open.spotify.com/album/5hSpAo6OG8Z4GmkPwX1fw3) | 2:18 | 2023-09-08 | 2023-10-03 |
 | [Buzzer Beater](https://open.spotify.com/track/2yuBW2Empy4JejMW4UCkdG) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Buzzer Beater](https://open.spotify.com/album/6jKTUyGaxaUMYp4nhtZlkB) | 2:26 | 2023-09-08 |  |
 | [by all means](https://open.spotify.com/track/2mJQ8Mr3FRKaHSbyHcDews) | [Sohma](https://open.spotify.com/artist/6SdnUpAVCNtgWvn4riBwZE), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [by all means](https://open.spotify.com/album/4l6JOhah9cGKWXFD5tN3C9) | 2:44 | 2023-09-08 | 2023-09-27 |
 | [C & H](https://open.spotify.com/track/7E5dWj4quPocWXIJehXinq) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [C & H](https://open.spotify.com/album/2n6RJpJnvmYuh2dVYua7fa) | 2:10 | 2022-02-17 | 2023-09-09 |
@@ -135,12 +135,13 @@
 | [Dunes](https://open.spotify.com/track/75LxHkNVcAaSXzRXytMF0K) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Dunes](https://open.spotify.com/album/1hubOUXe6IT6OtNT7f1nje) | 4:48 | 2022-02-17 | 2022-07-29 |
 | [Dusk](https://open.spotify.com/track/2lFTXt6gHlFgqOO8PXtagw) | [Unoriginals](https://open.spotify.com/artist/6LUOePAzkWw3iTrAzfiP1d) | [Dusk](https://open.spotify.com/album/2lM5JgM0TfX6avIjk8JXUr) | 2:56 | 2022-02-17 | 2023-09-09 |
 | [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-22 |  |
-| [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 | 2023-09-08 |  |
+| [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 | 2023-09-08 | 2023-10-03 |
 | [Elastic](https://open.spotify.com/track/2L2aSrua8ZBRMogFhF6I1Q) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Elastic](https://open.spotify.com/album/4lXR2fC1cbE3mD732vjbdM) | 2:01 | 2023-09-08 |  |
 | [Elevator Vibes](https://open.spotify.com/track/0wIvtei7sFyuvMwG5bRfSo) | [STAY THERE](https://open.spotify.com/artist/169SFNhjiSsCtKYt0APX6r) | [Elevator Vibes](https://open.spotify.com/album/0L2tAWPMwQdUF0fkc6pj8j) | 2:46 | 2023-09-08 |  |
 | [Elysian Fields](https://open.spotify.com/track/7MtTVOpbquSu8SCiNQY0fS) | [Pelicano](https://open.spotify.com/artist/3CRpU6gIV5tdSEjvZqlRl0), [DJ Lagoa](https://open.spotify.com/artist/4YFewOTyrU36fR7k3LkIY4) | [Elysian Fields](https://open.spotify.com/album/4KM1V8eVOymeKDI64aInfM) | 2:30 | 2023-09-08 |  |
 | [Embrace It](https://open.spotify.com/track/5cQhJOmfuGGdAps95VYjEp) | [Nuven](https://open.spotify.com/artist/3Cdtqtl7PvG7793m9pkg34) | [Sumidouro](https://open.spotify.com/album/0Jf5TVjIeoRjkZwEatW3w9) | 3:26 | 2022-02-17 | 2023-09-09 |
 | [emotionally unavailable](https://open.spotify.com/track/71vPGvp1ANV3iDpA9wFQ0v) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [emotionally unavailable](https://open.spotify.com/album/2rLlb5HAK5vwXc1zqDfcGZ) | 2:05 | 2023-09-08 |  |
+| [Emotions](https://open.spotify.com/track/0GX01FogF0EeJYXKTYwhMp) | [Kibunde](https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g) | [Emotions](https://open.spotify.com/album/61boJpcbCcJogaxhegOHwN) | 2:24 | 2023-09-29 |  |
 | [Emotions](https://open.spotify.com/track/5Zi5DxoLD9LObzCuCDqOFQ) | [XXTRACKK](https://open.spotify.com/artist/4QZOgZMxM78wbHDBZqL3Kn) | [Dreams](https://open.spotify.com/album/60PDH7dPB8olXH5IC5gcEj) | 2:32 | 2022-02-17 | 2023-09-09 |
 | [Endless Color](https://open.spotify.com/track/4TIULvKSfY1AJ1egulOzfp) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [Kendall Miles](https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2) | [Endless Color](https://open.spotify.com/album/2HsmtdYEE6Icr99penQsU8) | 2:41 | 2023-09-08 | 2023-09-23 |
 | [Engraving](https://open.spotify.com/track/6fwWMZ8ComjwCUepX117Ct) | [Codewav](https://open.spotify.com/artist/1Mbu0fBSAzxejpvhss6A5B) | [Engraving](https://open.spotify.com/album/1PxQ4AVrdIyt8nmEs6VCwB) | 2:00 | 2023-09-08 |  |
@@ -374,6 +375,7 @@
 | [oyoyoy](https://open.spotify.com/track/3olHLiTm1rO8x0MzyP1ad7) | [bito bitox](https://open.spotify.com/artist/4biX5gqFgXs4cSzHcdVFms) | [oyoyoy](https://open.spotify.com/album/6pC5QrbAOUJcl4Tu62lRmR) | 2:24 | 2023-09-08 |  |
 | [P.S\. I Love You](https://open.spotify.com/track/0Po3LlQVxAG4F7P4xceR7b) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [P.S\. I Love You](https://open.spotify.com/album/3lyhm1eO4SAd3Kqg3OE1YM) | 2:07 | 2023-09-08 |  |
 | [Palme](https://open.spotify.com/track/1yJR8z4s4lASBJ4wfMG8zc) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Palme](https://open.spotify.com/album/4bSIoqXG6MbAxWCCvpVcGW) | 1:50 | 2023-09-08 |  |
+| [Past Bedtime](https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Past Bedtime](https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky) | 2:05 | 2023-09-29 |  |
 | [Pastel](https://open.spotify.com/track/3yyOBSQN3E1x7DSqLiXRd8) | [mvnitou](https://open.spotify.com/artist/1u5Lht40OtsxS78hPb3wr9) | [Pastel](https://open.spotify.com/album/2t0cZeqFg5aXpzzguHOE0w) | 3:00 | 2023-09-08 |  |
 | [Peace Police](https://open.spotify.com/track/2qHaXryEN56zBsYEG4j5Sj) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Peace Police](https://open.spotify.com/album/5UcnhXhnPxol0KORBDsW6L) | 2:16 | 2022-02-17 | 2023-09-09 |
 | [Peaceful Ghost](https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY) | [Peaceful Ghost](https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx) | 2:21 | 2023-09-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,420 likes - 115 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,416 likes - 115 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 114 | [Stay](https://open.spotify.com/track/4C0Uny7Bdu6Q384aFwbh2y) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Stay](https://open.spotify.com/album/7xtbcoybbgPtFWK1YBGWg6) | 3:30 |
 | 115 | [Insatiable](https://open.spotify.com/track/1ttxIAucUPrVzeEILspoe0) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Insatiable](https://open.spotify.com/album/7f0BnKdZMy902smde28brF) | 2:59 |
 
-Snapshot ID: `MCw4YWQ3ZGM5NDc0NTkzMjMwNmY5ZGE3MTdlZWIxODJhZTZiMzhkODc2`
+Snapshot ID: `MCwyZTAyM2IxOWRmNGQ4MWZkOTIwYzk1OTE0Y2VjM2E0ZWM2YzI0YThh`

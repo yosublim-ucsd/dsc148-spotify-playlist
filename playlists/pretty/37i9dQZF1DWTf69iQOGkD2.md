@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto:  Hungria Hip Hop
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,202 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,311 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Algumas frases](https://open.spotify.com/track/08zbjBLRtTe5cSEJKDxiO5) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Algumas frases](https://open.spotify.com/album/3VZcWuRtvlvQeWjcwyChSm) | 3:21 |
 | 75 | [Foda Que Ela É Linda](https://open.spotify.com/track/4saoLEiUcHah8wjObocRDq) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Tropicalia, Pt\. 1 \(AO VIVO\)](https://open.spotify.com/album/2yDb9A4k58djFPcENLbHxP) | 3:03 |
 
-Snapshot ID: `MCwwYWQxYzQ3MzEwZDk3YTRlYzk5NDYwNjBlZjkyNzBkNzNlMmZiZmJl`
+Snapshot ID: `MCw2ZjQ3ODlkODAyYjNjODhhZWVmNjU0ZDUyNzE0MjdhZTBmNTJlMDgx`

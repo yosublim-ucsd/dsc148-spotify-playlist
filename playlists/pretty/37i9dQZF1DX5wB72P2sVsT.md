@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > Sound of Legend au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,244 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,377 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 25 | [Miracle \(with Ellie Goulding\) \- David Guetta Remix](https://open.spotify.com/track/4RFlvg9BmFnvlIBIZGg1Dt) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Miracle \(with Ellie Goulding\) \[David Guetta Remix\]](https://open.spotify.com/album/1xF21BZXLDXHuwNfkPojiJ) | 3:02 |
 | 26 | [On The Move](https://open.spotify.com/track/7lEBtmu2qRLupeSOupBa1j) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [PRISKA](https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w) | [On The Move](https://open.spotify.com/album/2aFtLWVpsrONFCNJZgEo9R) | 2:19 |
 | 27 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
-| 28 | [Lose This Feeling](https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Lose This Feeling](https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4) | 2:26 |
+| 28 | [Lose This Feeling](https://open.spotify.com/track/4s53qY7UpU6yrHI5017T3G) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [A State of Trance Radio Top 50 \- 2023, Vol\. 2](https://open.spotify.com/album/2ZuGymmpNiLS8xsNJPQRFi) | 2:26 |
 | 29 | [Drink And Shout](https://open.spotify.com/track/6V5LMAIGNd7qMjco5JjUSa) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Drink And Shout](https://open.spotify.com/album/3osV0Sq28dZop5Db7ugcwi) | 2:18 |
 | 30 | [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 |
 | 31 | [No Sleep](https://open.spotify.com/track/1Ksr48DhDi60pJSUcZfeUP) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [No Sleep](https://open.spotify.com/album/2Bw2hZirRV4JkOnaMMfUeq) | 3:36 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 48 | [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 |
 | 49 | [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 |
 
-Snapshot ID: `MCwwOGY3MWRkZDQ1ZmM2NDdiMTk0NWFjN2YxOTA3ODc1NWZiMjQyMzkx`
+Snapshot ID: `MCxjNjVhMWIwOTVlNzMxZTRlM2FiOGQwMGVkZTk4NTgzYzhkYmQ4OTVl`

@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Selena y Jenni en un mismo lugar.",
-  "num_followers": 109985,
+  "num_followers": 110031,
   "original_name": "Dos \u00cdconos: Selena x Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWRlNDdmM2QzZmJiY2Y1MGYwYmIyZTQ0NDA0MmYxZTJiNWRhOTc0",
+  "snapshot_id": "MCw1ZTUyNGFkOWYxMTQ1ZGQ3MDNhNmIwNWJiMWM5ZTE5YzVlZDRmYzIy",
   "tracks": [
     {
       "added_at": "2023-01-09 06:35:53",
@@ -23,6 +23,22 @@
       "duration_ms": 167040,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/6XFduBZIOMyOV8sCcHuYzb"
+    },
+    {
+      "added_at": "2023-01-09 06:35:53",
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
     },
     {
       "added_at": "2023-01-09 06:35:53",

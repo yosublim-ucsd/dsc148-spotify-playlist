@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 282093,
+  "num_followers": 282184,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTU0YzRmZTg1MDMxOTcyZDhlMmQzYTIyMDQ2ZTZiZGMyNGZjN2E3",
+  "snapshot_id": "MCw5NjI3Y2U0M2Y0YzNkMmVjZGQ2YWJkZTQxZjViZjZmNzEwZGEyM2I5",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 122893,
+      "name": "Don't Be Cruel",
+      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/4otV4qBvLzDoCr9TajdsL0"
       },
@@ -371,34 +387,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "At Your Request\u2026",
-        "url": "https://open.spotify.com/album/6B6fsYtcD8oJSmMEl4rJ85"
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
       },
       "artists": [
         {
-          "name": "Leroy Van Dyke",
-          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
         }
       ],
-      "duration_ms": 168466,
-      "name": "The Auctioneer",
-      "url": "https://open.spotify.com/track/29NrnDqljNf1C2JqXo4HN4"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 122893,
-      "name": "Don't Be Cruel",
-      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
+      "duration_ms": 185466,
+      "name": "The Master's Call",
+      "url": "https://open.spotify.com/track/62rmfpQuieSgCITPX819sR"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -419,38 +419,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 164373,
-      "name": "Your Cheatin' Heart",
-      "url": "https://open.spotify.com/track/0WwmFdGXe7Yky4T2J1oqLk"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Gunfighter Ballads And Trail Songs",
-        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "The Master's Call",
-      "url": "https://open.spotify.com/track/62rmfpQuieSgCITPX819sR"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Songs Of Our Soil",
         "url": "https://open.spotify.com/album/7oWFzGBweoGrFc2lxabmmP"
       },
@@ -463,6 +431,54 @@
       "duration_ms": 107280,
       "name": "Five Feet High and Rising",
       "url": "https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "For LP Fans Only",
+        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 115280,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "At Your Request\u2026",
+        "url": "https://open.spotify.com/album/6B6fsYtcD8oJSmMEl4rJ85"
+      },
+      "artists": [
+        {
+          "name": "Leroy Van Dyke",
+          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "The Auctioneer",
+      "url": "https://open.spotify.com/track/29NrnDqljNf1C2JqXo4HN4"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 164373,
+      "name": "Your Cheatin' Heart",
+      "url": "https://open.spotify.com/track/0WwmFdGXe7Yky4T2J1oqLk"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -499,18 +515,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Jimmie Rodgers",
-        "url": "https://open.spotify.com/album/4LyR43XAMvLzC7IHxH9KAl"
+        "name": "Johnny Cash at Sun",
+        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
       },
       "artists": [
         {
-          "name": "Jimmie Rodgers",
-          "url": "https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 142333,
-      "name": "Kisses Sweeter Than Wine",
-      "url": "https://open.spotify.com/track/2luRltDp0ZG4ORi3lA8NsB"
+      "duration_ms": 133120,
+      "name": "Get Rhythm",
+      "url": "https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -531,24 +547,24 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+        "name": "Jimmie Rodgers",
+        "url": "https://open.spotify.com/album/4LyR43XAMvLzC7IHxH9KAl"
       },
       "artists": [
         {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp"
         }
       ],
-      "duration_ms": 165800,
-      "name": "Cold, Cold Heart",
-      "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
+      "duration_ms": 142333,
+      "name": "Kisses Sweeter Than Wine",
+      "url": "https://open.spotify.com/track/2luRltDp0ZG4ORi3lA8NsB"
     },
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "For LP Fans Only",
-        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
       "artists": [
         {
@@ -556,25 +572,9 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 115280,
-      "name": "That's All Right",
-      "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Johnny Cash at Sun",
-        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 133120,
-      "name": "Get Rhythm",
-      "url": "https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x"
+      "duration_ms": 127560,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -631,6 +631,38 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Cold, Cold Heart",
+      "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Don't Take Your Guns to Town",
+      "url": "https://open.spotify.com/track/0p7QF136UOOUHnyU8CuZra"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "The Complete Columbia Recording Sessions, Vol. 1 - 1950-1951",
         "url": "https://open.spotify.com/album/3bBneZqRXbTYHFcw0V9UB2"
       },
@@ -675,38 +707,6 @@
       "duration_ms": 155007,
       "name": "The Shot Gun Boogie",
       "url": "https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Don't Take Your Guns to Town",
-      "url": "https://open.spotify.com/track/0p7QF136UOOUHnyU8CuZra"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 127560,
-      "name": "Heartbreak Hotel",
-      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -887,18 +887,26 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Pure... Country",
-        "url": "https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4IvUOgEsxPjkOgiF1Xpg1T"
       },
       "artists": [
         {
-          "name": "The Browns",
-          "url": "https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji"
+          "name": "Ernest Tubb",
+          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
+        },
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        },
+        {
+          "name": "Sunshine Trio",
+          "url": "https://open.spotify.com/artist/0qDfuhpFr8McyDDbSa9BHn"
         }
       ],
-      "duration_ms": 169573,
-      "name": "The Three Bells",
-      "url": "https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA"
+      "duration_ms": 181653,
+      "name": "Goodnight, Irene",
+      "url": "https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -935,26 +943,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4IvUOgEsxPjkOgiF1Xpg1T"
+        "name": "Pure... Country",
+        "url": "https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR"
       },
       "artists": [
         {
-          "name": "Ernest Tubb",
-          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
-        },
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        },
-        {
-          "name": "Sunshine Trio",
-          "url": "https://open.spotify.com/artist/0qDfuhpFr8McyDDbSa9BHn"
+          "name": "The Browns",
+          "url": "https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji"
         }
       ],
-      "duration_ms": 181653,
-      "name": "Goodnight, Irene",
-      "url": "https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR"
+      "duration_ms": 169573,
+      "name": "The Three Bells",
+      "url": "https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Margaret",
-        "url": "https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn"
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
       },
       "artists": [
         {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
         }
       ],
-      "duration_ms": 127746,
-      "name": "I Love You Because",
-      "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
+      "duration_ms": 113240,
+      "name": "Blue, Blue Day",
+      "url": "https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+        "name": "Margaret",
+        "url": "https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn"
       },
       "artists": [
         {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 113240,
-      "name": "Blue, Blue Day",
-      "url": "https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su"
+      "duration_ms": 127746,
+      "name": "I Love You Because",
+      "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
     },
     {
       "added_at": "2023-01-02 21:32:07",

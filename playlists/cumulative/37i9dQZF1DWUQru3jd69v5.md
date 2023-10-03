@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Fre\_nky
 
-744 songs - 1 day 8 hr 22 min
+745 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [BLOCKBABY](https://open.spotify.com/track/1gUJUCDvow0yDVUhpHmVLW) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU) | [BLOCKBABY](https://open.spotify.com/album/0QKsESvb64RjYr7QamjMws) | 2:04 | 2022-11-24 | 2022-12-02 |
 | [Blood 4](https://open.spotify.com/track/1FcDVNnlhcx4UduwUpT12M) | [Ticky B](https://open.spotify.com/artist/46hvAixyF8ZVEssLifxnHd), [Frenkie G](https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k) | [Blood 4](https://open.spotify.com/album/2kW82jXrGC4yfrPPv9xZDZ) | 1:46 | 2023-09-07 | 2023-09-22 |
 | [Bloody Mary](https://open.spotify.com/track/6dfus00rufybawdDBasdG8) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Bloody Mary](https://open.spotify.com/album/0nwNGmFOJkmEy5zI9rFwVr) | 2:15 | 2023-09-28 |  |
+| [Boom Shakalaka](https://open.spotify.com/track/1Je1xW6Yt9Sh6rekur7sLm) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU) | [Boom Shakalaka](https://open.spotify.com/album/5jgWuqSEzf0LzWz7z4m44i) | 1:36 | 2023-10-02 |  |
 | [Bottega Veneta](https://open.spotify.com/track/46rwIGBkC812sMw6Mx7by6) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Bottega Veneta](https://open.spotify.com/album/7Ij9dmVsAUTvqDUWWybEew) | 2:41 | 2023-02-23 | 2023-03-09 |
 | [Braquages](https://open.spotify.com/track/5X4mISo6fLNbc2cn6W38A7) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Braquages](https://open.spotify.com/album/0W0T9Tpqc5h82PiBZY27CJ) | 2:38 | 2022-12-15 | 2023-03-31 |
 | [Braquages](https://open.spotify.com/track/2PBzppfFYOLhyNcuosCLF9) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Braquages](https://open.spotify.com/album/4V30NxcCKiJ18l4n9mwieP) | 2:24 | 2022-05-10 | 2022-08-26 |
@@ -396,7 +397,7 @@
 | [Ma che Hit](https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Ma che Hit](https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA) | 2:18 | 2023-02-23 | 2023-03-18 |
 | [MADE IN U.E.](https://open.spotify.com/track/1DQ6CRbAAAJAe0l0G9LkBK) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [MADE IN U.E.](https://open.spotify.com/album/75qg7zzpqzcLaE3KBgRilX) | 2:22 | 2022-11-17 | 2023-01-13 |
 | [Mademoiselle \(Oh la la la\)](https://open.spotify.com/track/5HOr82mREsf5YRLlYy8bXr) | [WadeLeVrai](https://open.spotify.com/artist/2sSF1FKT1eBuSwHZbzMycW) | [Mademoiselle \(Oh la la la\)](https://open.spotify.com/album/0IboeWqpQI5MjZV5V8qQRi) | 3:01 | 2023-06-15 | 2023-06-23 |
-| [MALADE](https://open.spotify.com/track/6nmNUdzSXOHOtjxusOYMw7) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif), [LaMagieDuTiel](https://open.spotify.com/artist/654NFDDfEoyiwCwbycKIl3) | [MALADE](https://open.spotify.com/album/3wyuuNzzdJy0f6xMumkmaO) | 2:21 | 2023-09-20 |  |
+| [MALADE](https://open.spotify.com/track/6nmNUdzSXOHOtjxusOYMw7) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif), [LaMagieDuTiel](https://open.spotify.com/artist/654NFDDfEoyiwCwbycKIl3) | [MALADE](https://open.spotify.com/album/3wyuuNzzdJy0f6xMumkmaO) | 2:21 | 2023-09-20 | 2023-10-03 |
 | [MALAGA](https://open.spotify.com/track/2wP2hvc5vEG37UPcHLJbDM) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [MALAGA](https://open.spotify.com/album/6k1CQrZESTG1mNk9plWqmK) | 2:28 | 2023-09-14 |  |
 | [Malaga](https://open.spotify.com/track/5z4h4xGcFDkCz3bqhWolE2) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Malaga](https://open.spotify.com/album/4IziXI7cFEh03rNQUjxMul) | 2:24 | 2022-05-10 | 2022-07-27 |
 | [Maledette vie](https://open.spotify.com/track/1vR6UrRJD9quE4aIrO08In) | [Young Rame](https://open.spotify.com/artist/2Nl7TO1yi0ambHrlfQORgv), [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [Maledette vie](https://open.spotify.com/album/6XPdshvT5iqqposfyo5ndb) | 2:59 | 2022-09-15 | 2022-10-07 |

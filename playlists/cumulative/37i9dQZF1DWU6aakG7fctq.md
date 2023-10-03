@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Camilo Séptimo
 
-465 songs - 1 day 1 hr 53 min
+466 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Calentica](https://open.spotify.com/track/5zpZBenhAEcX68n5H0KQez) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Calentica](https://open.spotify.com/album/6Pq71FyfNPnGTZqN2Qse67) | 3:08 | 2023-09-08 | 2023-09-30 |
 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 | 2023-03-17 | 2023-06-03 |
 | [CANIJO](https://open.spotify.com/track/0tHzUXLKk7p0wzMZMMEl8y) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [CANIJO](https://open.spotify.com/album/4KeCreoUpLYm5XXICKwntN) | 2:21 | 2023-06-16 | 2023-08-05 |
-| [cansada de verte en todas partes](https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [cansada de verte en todas partes](https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf) | 2:50 | 2023-07-21 |  |
+| [cansada de verte en todas partes](https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [cansada de verte en todas partes](https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf) | 2:50 | 2023-07-21 | 2023-10-03 |
 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 | 2023-02-10 | 2023-04-29 |
 | [Carbon Copy](https://open.spotify.com/track/5467RSSW6xchQKUzvbAUvv) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Carbon Copy](https://open.spotify.com/album/5oqxbFXnvb6GXQXbT5AliN) | 3:24 | 2022-05-11 | 2022-09-07 |
 | [CARDIO](https://open.spotify.com/track/1YLyCvXW50Jd7W4F3ZcAAY) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [CARDIO](https://open.spotify.com/album/4KI149spTqotwFjNUbrAl8) | 2:22 | 2023-06-02 |  |
@@ -377,6 +377,7 @@
 | [Sol](https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:02 | 2023-06-02 |  |
 | [Solo](https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Solo](https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm) | 4:48 | 2023-03-24 | 2023-08-05 |
 | [Solo Tu](https://open.spotify.com/track/2DXJ3zARm8DQCYYIRA1BEM) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Solo Tu](https://open.spotify.com/album/67LhYiGtxWU8v9cWeN6bwR) | 2:46 | 2023-06-30 | 2023-09-22 |
+| [Solo Tu](https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Solo Tu](https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7) | 2:46 | 2023-09-22 |  |
 | [Solo Una Amiga](https://open.spotify.com/track/1fDtV4aKfx3veJqpz9iYsM) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Danny Reyes](https://open.spotify.com/artist/29lfDpKuAjaSUKsxTqU0g3) | [Solo Una Amiga](https://open.spotify.com/album/4GnhEiT4St0Qvlp5LV8UnG) | 4:24 | 2023-04-14 | 2023-06-03 |
 | [Soy Tu Papá \(feat\. Fernando Palomo\)](https://open.spotify.com/track/0IK1nPN06x2HC05knvox4U) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [SpreadLof](https://open.spotify.com/artist/2mcQK34XJohxAWqROKXm9O), [Fernando Palomo](https://open.spotify.com/artist/0mlE6ychUjCLEw4jNAdbG3) | [Soy Tu Papá \(feat\. Fernando Palomo\)](https://open.spotify.com/album/1yMQpJi4NbATzyf37Y0muR) | 4:14 | 2022-12-09 | 2023-04-24 |
 | [Soy Un Guapo](https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Soy Un Guapo](https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu) | 3:02 | 2023-03-24 | 2023-05-13 |

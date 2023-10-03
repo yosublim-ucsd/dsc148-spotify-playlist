@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,655 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,739 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 99 | [Respire](https://open.spotify.com/track/2xcuDxTLlp0ro2GYlS1i9G) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Tu Vas Pas Mourir De Rire](https://open.spotify.com/album/6A72tti9z0ejH8Y6DeVhCr) | 3:48 |
 | 100 | [Battez\-vous](https://open.spotify.com/track/7IlmHApoMCIv39Z5JRZyrk) | [Brigitte](https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk) | [Et vous, tu m'aimes ?](https://open.spotify.com/album/3YaeTL1gQ9CkWK0hj0foVU) | 4:03 |
 
-Snapshot ID: `MCw1ZTQyNzgwZTRmYzJjOTRjYmYwZGY3ODExNTc1Yjg4MDA4NWVmZjQy`
+Snapshot ID: `MCw3ZGE3ZTk4NDU3ODVmMDI3YjY0YWI4ZDczMWIyYWQyZGYxMGI5YzE5`

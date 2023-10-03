@@ -563,6 +563,32 @@
     },
     {
       "album": {
+        "name": "Better Off (Alone, Pt. III)",
+        "url": "https://open.spotify.com/album/18CHItBE46OBhU3Qbybr7y"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151702,
+      "name": "Better Off (Alone, Pt. III)",
+      "url": "https://open.spotify.com/track/5M4fVUCKf3nFN1hbQEuFwA"
+    },
+    {
+      "album": {
         "name": "Beyond The Sky",
         "url": "https://open.spotify.com/album/67ywMFqrANVatW7L4L6wqN"
       },
@@ -1282,7 +1308,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 185139,
       "name": "Diamonds & Gold",
       "url": "https://open.spotify.com/track/2CdwtTUeDPj2yXFB2hkM60"
@@ -2156,6 +2182,28 @@
       "duration_ms": 191250,
       "name": "Holding On To You",
       "url": "https://open.spotify.com/track/4ZX9REWz5sjCHK9otu21gU"
+    },
+    {
+      "album": {
+        "name": "Holding On To You",
+        "url": "https://open.spotify.com/album/7ATTFOMK9mO95jvZ3mcFnu"
+      },
+      "artists": [
+        {
+          "name": "Voster & Gallardo",
+          "url": "https://open.spotify.com/artist/6an7Tt4XKUfDucWZUXflvl"
+        },
+        {
+          "name": "Severman",
+          "url": "https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Holding On To You",
+      "url": "https://open.spotify.com/track/5NjtrDlHNyRULEE1MmRiEW"
     },
     {
       "album": {

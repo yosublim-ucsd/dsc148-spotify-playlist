@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 289648,
+  "num_followers": 289719,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2NiYzNmOTg5NWU1ZmVjNTI3NzQwMWVmZDkwMjg1YWMwNzYzYjli",
+  "snapshot_id": "MCxlYzQ2MzgxNTViMzU4Mzk4Nzk2ZDE0YTA1MmUzMTdlMDQyNzUyMTE2",
   "tracks": [
     {
       "added_at": "2023-09-22 03:01:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Ac\u00fastico Ira!",
-        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
-      },
-      "artists": [
-        {
-          "name": "Ira!",
-          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Dookie (30th Anniversary 4-Track Demos)",
         "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
       },
@@ -263,22 +247,18 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+        "name": "Ac\u00fastico Ira!",
+        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
       },
       "artists": [
         {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        },
-        {
-          "name": "Dinho Ouro Preto",
-          "url": "https://open.spotify.com/artist/6ysWe8Q95VUwcU6LKaY4Rk"
+          "name": "Ira!",
+          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
         }
       ],
-      "duration_ms": 291125,
-      "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
+      "duration_ms": 247160,
+      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -315,18 +295,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        },
+        {
+          "name": "Dinho Ouro Preto",
+          "url": "https://open.spotify.com/artist/6ysWe8Q95VUwcU6LKaY4Rk"
         }
       ],
-      "duration_ms": 233946,
-      "name": "Ironic - Live / Unplugged",
-      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
+      "duration_ms": 291125,
+      "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -343,6 +327,22 @@
       "duration_ms": 438583,
       "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
       "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 233946,
+      "name": "Ironic - Live / Unplugged",
+      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Core (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 346973,
+      "name": "Plush - Live; MTV Unplugged, 11/17/93",
+      "url": "https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Detonautas Ac\u00fastico",
         "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Core (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 346973,
-      "name": "Plush - Live; MTV Unplugged, 11/17/93",
-      "url": "https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 169440,
       "name": "Feel It Still - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Ac\u00fastico 20 Anos - O Amor N\u00e3o Tem Inimigos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 215898,
+      "name": "Aposta - Ao Vivo",
+      "url": "https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -783,22 +799,6 @@
       "duration_ms": 279453,
       "name": "My Hero - Live at Studio 606 West, Northridge, CA - September 2007",
       "url": "https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Ac\u00fastico 20 Anos - O Amor N\u00e3o Tem Inimigos, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 215898,
-      "name": "Aposta - Ao Vivo",
-      "url": "https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Digital (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk"
+      },
+      "artists": [
+        {
+          "name": "Pirredy",
+          "url": "https://open.spotify.com/artist/1t06JeHvwnnglW4sw3Luhf"
+        }
+      ],
+      "duration_ms": 196023,
+      "name": "Digital - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "With Or Without You (Songs Of Surrender)",
         "url": "https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 194812,
       "name": "With Or Without You - Songs Of Surrender",
       "url": "https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Gold on the Ceiling (BBC Session)",
-        "url": "https://open.spotify.com/album/5a7S1MDqFYulZZD40MrdGt"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 228163,
-      "name": "Gold on the Ceiling - BBC Session",
-      "url": "https://open.spotify.com/track/5W8OjPfxN7bc7FgTcqwgfu"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Digital (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk"
+        "name": "Gold on the Ceiling (BBC Session)",
+        "url": "https://open.spotify.com/album/5a7S1MDqFYulZZD40MrdGt"
       },
       "artists": [
         {
-          "name": "Pirredy",
-          "url": "https://open.spotify.com/artist/1t06JeHvwnnglW4sw3Luhf"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 196023,
-      "name": "Digital - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
+      "duration_ms": 228163,
+      "name": "Gold on the Ceiling - BBC Session",
+      "url": "https://open.spotify.com/track/5W8OjPfxN7bc7FgTcqwgfu"
     },
     {
       "added_at": "2023-09-22 03:01:00",

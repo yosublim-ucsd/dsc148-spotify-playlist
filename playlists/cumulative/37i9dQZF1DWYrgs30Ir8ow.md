@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Tate McRae
 
-307 songs - 14 hr 46 min
+308 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-04-27 | 2023-06-09 |
 | [Draaien](https://open.spotify.com/track/4gD4oxamFPz4TJNxuozDL5) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Draaien](https://open.spotify.com/album/6hobNqHnmmBbX3R8dsCxwp) | 3:25 | 2023-08-21 |  |
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-06-30 | 2023-07-28 |
-| [Droom Groot](https://open.spotify.com/track/4XiYnHAolrUxuRCaGLFG0R) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Droom Groot](https://open.spotify.com/album/6FflzXl74BClk23mWHzg6U) | 3:00 | 2023-08-24 |  |
+| [Droom Groot](https://open.spotify.com/track/4XiYnHAolrUxuRCaGLFG0R) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Droom Groot](https://open.spotify.com/album/6FflzXl74BClk23mWHzg6U) | 3:00 | 2023-08-24 | 2023-10-03 |
 | [Dyscalculie](https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Dyscalculie](https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk) | 1:33 | 2023-03-07 | 2023-04-15 |
 | [Een Chick Als \(Jade\)](https://open.spotify.com/track/6YoYAPb0z1TGznmifvmCwm) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Een Chick Als \(Jade\)](https://open.spotify.com/album/666tEvxOWEPvh65hK7KKVN) | 2:46 | 2023-07-27 | 2023-08-22 |
 | [Energy](https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Energy](https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD) | 2:56 | 2023-03-20 | 2023-03-30 |
@@ -184,6 +184,7 @@
 | [Naughty](https://open.spotify.com/track/42UehjzjbsPaN3Xq0B8F2D) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Naughty](https://open.spotify.com/album/6IGDQuZ2OPeIR7FluRkdOp) | 2:11 | 2023-08-17 | 2023-09-26 |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-12 | 2023-04-28 |
 | [New Balance](https://open.spotify.com/track/4VIehrP2qQjaH2vDyp4G0v) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [New Balance](https://open.spotify.com/album/32Z4vXVcGnl7pJZ5iGyUNF) | 2:24 | 2023-02-23 | 2023-03-21 |
+| [Niemand](https://open.spotify.com/track/07PeylRU2ER1If9qYqFMKn) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Niemand](https://open.spotify.com/album/6eDS1JAROZjvlsuzVF54fy) | 2:47 | 2023-10-02 |  |
 | [Nieuwe Ex](https://open.spotify.com/track/7F8EJGaTWEt1zHg3x1vuCy) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Zoë Tauran](https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV) | 2:26 | 2023-06-15 | 2023-08-18 |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-02-23 | 2023-03-21 |
 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 | 2023-05-25 | 2023-06-02 |

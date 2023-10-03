@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 373679,
+  "num_followers": 373756,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWU1ZmNiN2E5MGEwMDRhMDYzNWM3ZTNhNTMwZDIzOWU5YTg5NDUx",
+  "snapshot_id": "MCxlZmUwYTYxMjBkMGY1MjRlZTI3MjA2OTRkNzMxOGU0NzI4NzBjOWYx",
   "tracks": [
     {
       "added_at": "2023-08-07 11:45:42",
@@ -343,26 +343,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        },
-        {
-          "name": "Marley Marl",
-          "url": "https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Paid In Full",
-      "url": "https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "Jam On Revenge",
         "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
       },
@@ -395,18 +375,22 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Future Shock",
-        "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        },
+        {
+          "name": "Marley Marl",
+          "url": "https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs"
         }
       ],
-      "duration_ms": 325133,
-      "name": "Rockit",
-      "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
+      "duration_ms": 228666,
+      "name": "Paid In Full",
+      "url": "https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -423,6 +407,22 @@
       "duration_ms": 290280,
       "name": "It's Like That",
       "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "Future Shock",
+        "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 325133,
+      "name": "Rockit",
+      "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "8th Wonder",
-        "url": "https://open.spotify.com/album/530KKhZLtHwDtz3BeJqWSJ"
-      },
-      "artists": [
-        {
-          "name": "The Sugarhill Gang",
-          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
-        }
-      ],
-      "duration_ms": 373293,
-      "name": "Apache",
-      "url": "https://open.spotify.com/track/4UCkX8nrBlpxjrrEqtb46a"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "Planet Rock: The Album",
         "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+        "name": "8th Wonder",
+        "url": "https://open.spotify.com/album/530KKhZLtHwDtz3BeJqWSJ"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "The Sugarhill Gang",
+          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
         }
       ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
+      "duration_ms": 373293,
+      "name": "Apache",
+      "url": "https://open.spotify.com/track/4UCkX8nrBlpxjrrEqtb46a"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -655,6 +639,22 @@
       "duration_ms": 285413,
       "name": "Strictly Business",
       "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Hey DJ",
-        "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
-      },
-      "artists": [
-        {
-          "name": "Worlds Famous Supreme Team",
-          "url": "https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti"
-        }
-      ],
-      "duration_ms": 206081,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "Paid In Full",
         "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 284466,
       "name": "I Know You Got Soul",
       "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
+      },
+      "artists": [
+        {
+          "name": "Worlds Famous Supreme Team",
+          "url": "https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti"
+        }
+      ],
+      "duration_ms": 206081,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 204601,
+      "name": "The Bridge Is Over",
+      "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
       },
       "artists": [
         {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
         }
       ],
-      "duration_ms": 204601,
-      "name": "The Bridge Is Over",
-      "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
+      "duration_ms": 336866,
+      "name": "Follow The Leader",
+      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Follow The Leader",
-      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "What More Can I Say",
         "url": "https://open.spotify.com/album/4ULe1bx6XkffNvsbB9DHr6"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 175706,
       "name": "Top Billin - Acapella",
       "url": "https://open.spotify.com/track/59vYYvb9JS5IQAp8xpf0CY"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "Biz's Baddest Beats: The Best of Biz Markie",
+        "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
+      },
+      "artists": [
+        {
+          "name": "Biz Markie",
+          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
+        }
+      ],
+      "duration_ms": 362293,
+      "name": "Vapors",
+      "url": "https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -919,18 +935,18 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Biz's Baddest Beats: The Best of Biz Markie",
-        "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
+        "name": "By All Means Necessary (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
       },
       "artists": [
         {
-          "name": "Biz Markie",
-          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
         }
       ],
-      "duration_ms": 362293,
-      "name": "Vapors",
-      "url": "https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC"
+      "duration_ms": 340133,
+      "name": "My Philosophy",
+      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -979,22 +995,6 @@
       "duration_ms": 279866,
       "name": "Friends",
       "url": "https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
-        "name": "By All Means Necessary (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "My Philosophy",
-      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Godfather of Hip Hop",
-        "url": "https://open.spotify.com/album/41kmQPw8502C7ZMbIbwWWB"
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
       "artists": [
         {
-          "name": "Spoonie Gee",
-          "url": "https://open.spotify.com/artist/33xY3kRRRiPLsDjnfE3Lpw"
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
         }
       ],
-      "duration_ms": 293733,
-      "name": "The Godfather",
-      "url": "https://open.spotify.com/track/5Y6IzsuFmYtju3LDWBRWI0"
+      "duration_ms": 308558,
+      "name": "South Bronx",
+      "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
+        "name": "Godfather of Hip Hop",
+        "url": "https://open.spotify.com/album/41kmQPw8502C7ZMbIbwWWB"
+      },
+      "artists": [
+        {
+          "name": "Spoonie Gee",
+          "url": "https://open.spotify.com/artist/33xY3kRRRiPLsDjnfE3Lpw"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "The Godfather",
+      "url": "https://open.spotify.com/track/5Y6IzsuFmYtju3LDWBRWI0"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 326920,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 308558,
-      "name": "South Bronx",
-      "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

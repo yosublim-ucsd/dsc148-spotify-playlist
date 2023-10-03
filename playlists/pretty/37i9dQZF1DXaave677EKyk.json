@@ -1,12 +1,12 @@
 {
   "description": "Anthems from a generation of party starters. Cover: Calvin Harris\n",
-  "num_followers": 29815,
+  "num_followers": 29879,
   "original_name": "Party Starters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTY0Nzc0ZWVkOTRmYmExYTkyMDZhNDFmMTVjOTFjNTNjYjhjNDhm",
+  "snapshot_id": "MCw4YzMwYzY0M2YxMGJhYzc4MDM1ZDQwMjY3MjJkMzVlODk2MzhmYjM4",
   "tracks": [
     {
       "added_at": "2023-09-22 00:00:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
-        }
-      ],
-      "duration_ms": 169534,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 164914,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -755,30 +755,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Baby again..",
-        "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 319963,
-      "name": "Baby again..",
-      "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 147401,
       "name": "Jam Inside Your Love (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Baby again..",
+        "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 319963,
+      "name": "Baby again..",
+      "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/5IgB6Fk5htrX4vQAcmw4ga"
-      },
-      "artists": [
-        {
-          "name": "MENTIS",
-          "url": "https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3"
-        },
-        {
-          "name": "Kate Wild",
-          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
-        }
-      ],
-      "duration_ms": 172750,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/2gvIIpYdM9x1rdekmQMXCL"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Rude Boy",
         "url": "https://open.spotify.com/album/50g7h0uVDn1StQRebq1pZl"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 151874,
       "name": "Rude Boy",
       "url": "https://open.spotify.com/track/1WlpK6hLHUNhuMFwnTISqi"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/5IgB6Fk5htrX4vQAcmw4ga"
+      },
+      "artists": [
+        {
+          "name": "MENTIS",
+          "url": "https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3"
+        },
+        {
+          "name": "Kate Wild",
+          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+        }
+      ],
+      "duration_ms": 172750,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/2gvIIpYdM9x1rdekmQMXCL"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
+        "name": "Hawt",
+        "url": "https://open.spotify.com/album/2iK3grtziXltGlUceq1ppd"
+      },
+      "artists": [
+        {
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+        }
+      ],
+      "duration_ms": 157836,
+      "name": "Hawt",
+      "url": "https://open.spotify.com/track/2Yhue0OmVBXQiEbdqszVar"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
         "name": "Torta",
         "url": "https://open.spotify.com/album/4vtE1c1L7oaeg5s4kiciN8"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 144000,
       "name": "Torta",
       "url": "https://open.spotify.com/track/3eCZhR3W7lMWm8C7WUe17s"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "Hawt",
-        "url": "https://open.spotify.com/album/2iK3grtziXltGlUceq1ppd"
-      },
-      "artists": [
-        {
-          "name": "TIBASKO",
-          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
-        }
-      ],
-      "duration_ms": 157836,
-      "name": "Hawt",
-      "url": "https://open.spotify.com/track/2Yhue0OmVBXQiEbdqszVar"
     }
   ],
   "unique_name": "Party Starters",

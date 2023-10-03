@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127040,
+      "name": "Caracas Night September 11, 1975",
+      "url": "https://open.spotify.com/track/7dUACqKWi92PQti04r4cLO"
+    },
+    {
+      "album": {
         "name": "Vernal Equinox",
         "url": "https://open.spotify.com/album/5aZQzSX2cCYC91CTNw0TdJ"
       },
@@ -3834,7 +3852,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 592013,
       "name": "Morning Dancing",
       "url": "https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ"

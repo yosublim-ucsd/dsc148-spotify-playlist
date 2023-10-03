@@ -2,9 +2,9 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> New and trending tracks from Texas Country icons and rising stars\. Cover: Cody Johnson
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Randy Rogers and Wade Bowen
 
-539 songs - 1 day 8 hr 5 min
+540 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [30 Miles](https://open.spotify.com/track/7JVEogoLQNWMQlIxTj0Lqw) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Faded Memories](https://open.spotify.com/album/3sKrvMSNdu4tnF3WDTgk9K) | 3:20 | 2022-04-29 | 2022-08-22 |
 | [35](https://open.spotify.com/track/6MdpKIS3SN51LsCYzZt0VE) | [Hill Country Revival](https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE) | [35](https://open.spotify.com/album/15IVUnrz2FvsgT7IN4LFYE) | 4:07 | 2022-05-27 | 2022-07-09 |
 | [50 In The Fast Lane](https://open.spotify.com/track/5alOkELJvfoqRQGDkJn6Gc) | [Garrett Bradford](https://open.spotify.com/artist/2Ld4BO9aCvmYXbO9wvxQ0Q) | [50 In The Fast Lane](https://open.spotify.com/album/0VOHxJLjbiQkw9FRu4bloT) | 3:30 | 2021-12-17 | 2022-07-25 |
-| [9 To 5 \(feat\. Kylie Frey\)](https://open.spotify.com/track/1fVv9DVpLNiobkGlE1LrtH) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [9 To 5](https://open.spotify.com/album/5kicg2H6THrgsSoW3SAA4v) | 2:16 | 2023-08-25 |  |
+| [9 To 5 \(feat\. Kylie Frey\)](https://open.spotify.com/track/1fVv9DVpLNiobkGlE1LrtH) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [9 To 5](https://open.spotify.com/album/5kicg2H6THrgsSoW3SAA4v) | 2:16 | 2023-08-25 | 2023-10-03 |
 | [A Cat in the Rain](https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 5:17 | 2023-08-25 |  |
 | [A Cowgirl Like You](https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr) | 4:09 | 2021-12-17 | 2022-03-19 |
 | [A Guitar, A Singer and A Song \(feat\. Vince Gill\)](https://open.spotify.com/track/7L3fHu03qNMVo6XS6BQfzF) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [A Guitar, A Singer and A Song \(feat\. Vince Gill\)](https://open.spotify.com/album/2WJBLEqI8tvjDV3ZgrHzNr) | 4:02 | 2022-07-15 | 2022-09-21 |
@@ -500,6 +500,7 @@
 | [Watered Down Whiskey](https://open.spotify.com/track/5Qk8EDxYWjqlhyvGWvwuUY) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is For You](https://open.spotify.com/album/3PVjlBT5pTSG4YSLsB9oa8) | 3:28 | 2023-06-09 | 2023-06-17 |
 | [Watered Down Whiskey](https://open.spotify.com/track/6F3ljY5dEQqgkinBfkffYc) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is for You](https://open.spotify.com/album/4JQRW8zHwam1pglpvoIxRy) | 3:28 | 2023-02-24 | 2023-06-10 |
 | [Wave Dancer](https://open.spotify.com/track/6CtAD61FXXrVBxa6ZpckHt) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [Wave Dancer](https://open.spotify.com/album/78UZgsGs4m8Q8HD63Beglg) | 4:20 | 2022-02-11 | 2022-05-20 |
+| [We Ain't The Only Ones](https://open.spotify.com/track/48ff6zBV75v5nznK4vr9ZS) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 3](https://open.spotify.com/album/2uCfOVYQX0MJZ0OoLOA4Vx) | 3:24 | 2023-10-02 |  |
 | [We Ain't The Only Ones](https://open.spotify.com/track/60cBV9G1mutufLZ9J3uIIt) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [We Ain't The Only Ones](https://open.spotify.com/album/2kQxMZAAEZlWdQBRb50qN0) | 3:24 | 2023-06-02 | 2023-07-24 |
 | [Weatherman](https://open.spotify.com/track/10Hq7zq6OwyyNlU6aRVWqZ) | [Matt Daniel](https://open.spotify.com/artist/6QiblG2jfJUChehe6UpFvT) | [Weatherman](https://open.spotify.com/album/22ZHQdzmigvcTeducRzmrg) | 3:45 | 2021-12-17 | 2022-02-12 |
 | [West Texas Is The Best Texas](https://open.spotify.com/track/1wPryUZlSKbRzmNgWozq1P) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [West Texas Is The Best Texas](https://open.spotify.com/album/5kQXCdeqBeYd08wVaZBv75) | 3:43 | 2022-10-07 | 2023-04-19 |

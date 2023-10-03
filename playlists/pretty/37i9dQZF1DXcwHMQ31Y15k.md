@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Hendra Kumbara
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,242 likes - 89 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,384 likes - 89 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 88 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 |
 | 89 | [Top Topan](https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Top Topan](https://open.spotify.com/album/6VB2l8Dz7ozkpgDAw42ehB) | 4:26 |
 
-Snapshot ID: `MCw3NzIwN2I1MjBhNTg1NGZmOTZiYzkwOWQyZWI5OTgyOGM2ODhiNmJj`
+Snapshot ID: `MCw4OWIwYTM4MDgzMmZmYmY4NTA0NjUzY2I0MjRlMWI2Y2RlOGNlOTkx`

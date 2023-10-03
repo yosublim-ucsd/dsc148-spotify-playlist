@@ -708,7 +708,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 124455,
       "name": "A Dona Aranha",
       "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
@@ -6812,7 +6812,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 182111,
       "name": "Chico",
       "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
@@ -11676,7 +11676,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 138205,
       "name": "Eu Nasci Tricolor",
       "url": "https://open.spotify.com/track/4i3lCWJC6QvXbwDqZcmyAt"
@@ -13689,6 +13689,24 @@
     },
     {
       "album": {
+        "name": "Escolhas, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/11qlIDOQZL29irxNzTmZpR"
+      },
+      "artists": [
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190799,
+      "name": "Fumo da Noite - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BBZb18SMtr0S1bSk7wNTr"
+    },
+    {
+      "album": {
         "name": "Furduncin",
         "url": "https://open.spotify.com/album/4Oj3nZNljdKEt2M3jvuIRC"
       },
@@ -14848,7 +14866,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 114520,
       "name": "Hino do S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/0IuSdIxMOvxlANxdtcTnfN"
@@ -35726,7 +35744,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

@@ -856,7 +856,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 149197,
       "name": "Abode",
       "url": "https://open.spotify.com/track/49a2PByrGqVmdCktGMZwgc"
@@ -1264,6 +1264,24 @@
       "duration_ms": 115810,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/1TMrGaM9S40tOFxW6cEjLQ"
+    },
+    {
+      "album": {
+        "name": "Afterlight",
+        "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Afterlight",
+      "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
     },
     {
       "album": {
@@ -2693,6 +2711,24 @@
     },
     {
       "album": {
+        "name": "Autumn Sky",
+        "url": "https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT"
+      },
+      "artists": [
+        {
+          "name": "Vincent Fanguro",
+          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158723,
+      "name": "Autumn Sky",
+      "url": "https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt"
+    },
+    {
+      "album": {
         "name": "Ava",
         "url": "https://open.spotify.com/album/7v48jyII9Nshy8uhsFSiMX"
       },
@@ -2906,6 +2942,24 @@
       "duration_ms": 243209,
       "name": "Ballade Pour Elly",
       "url": "https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK"
+    },
+    {
+      "album": {
+        "name": "Balloon",
+        "url": "https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197750,
+      "name": "Balloon",
+      "url": "https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm"
     },
     {
       "album": {
@@ -6625,6 +6679,24 @@
     },
     {
       "album": {
+        "name": "Ellie",
+        "url": "https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw"
+      },
+      "artists": [
+        {
+          "name": "Aeyes Libe",
+          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Ellie",
+      "url": "https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw"
+    },
+    {
+      "album": {
         "name": "Ellipses",
         "url": "https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM"
       },
@@ -7389,6 +7461,24 @@
     },
     {
       "album": {
+        "name": "Fall a hundred times",
+        "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136658,
+      "name": "Fall a hundred times",
+      "url": "https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7"
+    },
+    {
+      "album": {
         "name": "Fallboard",
         "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
       },
@@ -7638,6 +7728,24 @@
       "duration_ms": 221702,
       "name": "fields of forever - sleep rework",
       "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
+    },
+    {
+      "album": {
+        "name": "Fields Of Love",
+        "url": "https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Krause",
+          "url": "https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137743,
+      "name": "Fields Of Love",
+      "url": "https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c"
     },
     {
       "album": {
@@ -8592,6 +8700,24 @@
       "duration_ms": 127217,
       "name": "Fr\u00fch",
       "url": "https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM"
+    },
+    {
+      "album": {
+        "name": "Full Bloom",
+        "url": "https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT"
+      },
+      "artists": [
+        {
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142763,
+      "name": "Full Bloom",
+      "url": "https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI"
     },
     {
       "album": {
@@ -11614,6 +11740,24 @@
       "duration_ms": 110000,
       "name": "Just For Now",
       "url": "https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO"
+    },
+    {
+      "album": {
+        "name": "Just Stay",
+        "url": "https://open.spotify.com/album/2No724SMCYYdHbpY4DnFeO"
+      },
+      "artists": [
+        {
+          "name": "Tristaan Wilkes",
+          "url": "https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123216,
+      "name": "Just Stay",
+      "url": "https://open.spotify.com/track/61PEtXxbmpaVQDRNxcE0IJ"
     },
     {
       "album": {
@@ -15868,6 +16012,24 @@
       "duration_ms": 213737,
       "name": "Muse d'eau",
       "url": "https://open.spotify.com/track/2X32IY314Mt7NRi2taldLX"
+    },
+    {
+      "album": {
+        "name": "Muse Of History",
+        "url": "https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi"
+      },
+      "artists": [
+        {
+          "name": "Roland Toubin",
+          "url": "https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141814,
+      "name": "Muse Of History",
+      "url": "https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T"
     },
     {
       "album": {
@@ -24615,6 +24777,24 @@
     },
     {
       "album": {
+        "name": "The Coming Day",
+        "url": "https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa"
+      },
+      "artists": [
+        {
+          "name": "Jack Pelayo",
+          "url": "https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152518,
+      "name": "The Coming Day",
+      "url": "https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT"
+    },
+    {
+      "album": {
         "name": "The Cottage",
         "url": "https://open.spotify.com/album/7LUao7G6nkLcpB4puQQUUo"
       },
@@ -26016,6 +26196,24 @@
       "duration_ms": 146580,
       "name": "To Let Go",
       "url": "https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB"
+    },
+    {
+      "album": {
+        "name": "To New Beginnings",
+        "url": "https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui"
+      },
+      "artists": [
+        {
+          "name": "Una Luna",
+          "url": "https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129250,
+      "name": "To New Beginnings",
+      "url": "https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus"
     },
     {
       "album": {
@@ -28706,6 +28904,24 @@
       "duration_ms": 202250,
       "name": "Wide Skies",
       "url": "https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA"
+    },
+    {
+      "album": {
+        "name": "Window Seat",
+        "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145120,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv"
     },
     {
       "album": {

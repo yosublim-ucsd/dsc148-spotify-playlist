@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 41581,
+  "num_followers": 41628,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGY2MDNiZThjOWNjMGM4NmFjMjM0ZTQzYzhkNGU2ZjBhNDkyNWQy",
+  "snapshot_id": "MCwyOGQyYmM4YjNmZmZjYTI5YzIwM2NhZTBmNTNmOWJiMjRmZDIyMTE5",
   "tracks": [
     {
       "added_at": "2023-08-31 13:38:27",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
+        "name": "It's A Long Road",
+        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/6UuMxlYqfGzN0PhFO4PqCo"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
         "name": "Private Space",
         "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 254722,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
-        "name": "It's A Long Road",
-        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/6UuMxlYqfGzN0PhFO4PqCo"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "ALICIA",
-        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "So Done (feat. Khalid)",
-      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
         "name": "Summer Moon (feat. Kevin Kaarl)",
         "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 177673,
       "name": "Summer Moon (feat. Kevin Kaarl)",
       "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "So Done (feat. Khalid)",
+      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 233298,
+      "name": "Oceans Of Emotions",
+      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
         "name": "New Ways",
         "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 174000,
       "name": "Just Fine",
       "url": "https://open.spotify.com/track/49NvEjTPk04A5bUGOYfti4"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 233298,
-      "name": "Oceans Of Emotions",
-      "url": "https://open.spotify.com/track/3bIdWXtBtDqES9h21vls42"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
+        "name": "Spider",
+        "url": "https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "duration_ms": 174614,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/2mmffn8SKL7XMeccLOXSgY"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
         "name": "No One But You",
         "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 213404,
       "name": "No One But You",
       "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
-        "name": "Spider",
-        "url": "https://open.spotify.com/album/3AKp3KdtVVT0rwkfejvkj7"
-      },
-      "artists": [
-        {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
-        }
-      ],
-      "duration_ms": 174614,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/2mmffn8SKL7XMeccLOXSgY"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "Like a Ship",
-        "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Keite Young",
-          "url": "https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn"
-        }
-      ],
-      "duration_ms": 353506,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 252616,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "Like a Ship",
+        "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Keite Young",
+          "url": "https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn"
+        }
+      ],
+      "duration_ms": 353506,
+      "name": "Like a Ship",
+      "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
     },
     {
       "added_at": "2023-08-31 13:38:27",

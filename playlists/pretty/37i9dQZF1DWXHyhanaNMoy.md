@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion en good vibes! Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,271 likes - 71 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,307 likes - 71 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [7K Op Je Feestje](https://open.spotify.com/track/3StdsywJPGA9TskfcwQpPa) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Antybanty](https://open.spotify.com/artist/0gndIS0odhxIsyIfgDj9pK) | [7K op je feestje](https://open.spotify.com/album/3ElOBNDYJI00N3IDimQ4ex) | 2:10 |
-| 2 | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/track/78dZXRH9JBXITQsS9Mlnsl) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/album/3v4lZJxJps8UEnZ8UVEIAy) | 2:45 |
+| 1 | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/track/78dZXRH9JBXITQsS9Mlnsl) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/album/3v4lZJxJps8UEnZ8UVEIAy) | 2:45 |
+| 2 | [7K Op Je Feestje](https://open.spotify.com/track/3StdsywJPGA9TskfcwQpPa) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Antybanty](https://open.spotify.com/artist/0gndIS0odhxIsyIfgDj9pK) | [7K op je feestje](https://open.spotify.com/album/3ElOBNDYJI00N3IDimQ4ex) | 2:10 |
 | 3 | [Nyash \(P.Y.T.\)](https://open.spotify.com/track/4pnsQXXSRkmIUHNrSczban) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Nachten Als Dit](https://open.spotify.com/album/3K80h08IOac28tWClZlOJu) | 1:53 |
 | 4 | [Domino](https://open.spotify.com/track/1BymSDOQY7CZY5BUekA8yH) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Domino](https://open.spotify.com/album/28OF1MbXlYkpC5vNNnq1TJ) | 2:27 |
 | 5 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 70 | [Temptation](https://open.spotify.com/track/6zGHAuABZTJQwn23m1fgf4) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [New Man](https://open.spotify.com/album/75XStWHKUqPqIRtAYee0Od) | 2:36 |
 | 71 | [Vivre](https://open.spotify.com/track/6zOyidiWCN5TjtqQGPCh5R) | [Ajay](https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa) | [Vivre](https://open.spotify.com/album/1vidalYOdSNhVb0KCyBrD0) | 2:46 |
 
-Snapshot ID: `MCxhMGJjOTViYTFlZmI0Yjg4NTA0NWMwYmE3MDY3MTc5MWRlNDY0YzA5`
+Snapshot ID: `MCw2ODYyY2RiMWVhZDU0MzIzODJlMWY2NmYxMmY3ZWJiNDI2YTA4MmJh`

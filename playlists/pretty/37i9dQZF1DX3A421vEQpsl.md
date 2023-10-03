@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Hits, repackaged by Bollywood\. Cover \- Yaariyan 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,226 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,296 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 49 | [Patola](https://open.spotify.com/track/7JYzuz3FBHtlRk4xnvWDAg) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Blackmail](https://open.spotify.com/album/6eIAx4tyve7NJGmiaFM7Sm) | 3:04 |
 | 50 | [Haseeno Ka Deewana](https://open.spotify.com/track/6VNBEaG5sidkK3lwq7Ws0I) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Kaabil](https://open.spotify.com/album/1YQ3etszbfhZZNDqWmKdLa) | 3:49 |
 
-Snapshot ID: `MCxmZmMxN2UwZmI1ZWU1MjBmZGFhZmIwNTVlODg5ODcyNjI0OTIzYjZh`
+Snapshot ID: `MCxiYWVkMjc5OTkyNGE1YjdhYTdlMWE2ZDE1ZDJmNmIyMDE0ZTkyOGM3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters. Cover: MaRynn Taylor",
+  "description": "Music from Nashville's emerging Singers and Songwriters. Cover: Alexandra Kay",
   "name": "Young Nashville",
   "tracks": [
     {
@@ -4130,6 +4130,24 @@
       "duration_ms": 180502,
       "name": "She Broke My Heart",
       "url": "https://open.spotify.com/track/5lyyBTTdB9tlNKvni9VwvZ"
+    },
+    {
+      "album": {
+        "name": "She Stayed",
+        "url": "https://open.spotify.com/album/2MnUamrNb5FpJUcwUdvtyF"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195709,
+      "name": "She Stayed",
+      "url": "https://open.spotify.com/track/578BYrM7Wi8ahpo0aF3XJ7"
     },
     {
       "album": {

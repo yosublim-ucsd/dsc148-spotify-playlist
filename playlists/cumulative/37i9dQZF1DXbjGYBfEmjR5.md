@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-510 songs - 1 day 4 hr 51 min
+511 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [DRENCH3D](https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb) | [3d Blast](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [DRENCH3D](https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8) | 2:21 | 2021-12-08 |  |
 | [Dress Down \- Future Funk Version](https://open.spotify.com/track/6lduL1PBRE0wX5DrGvMR6v) | [Nattalia Sarria](https://open.spotify.com/artist/14iQQ2sSlbAc3PAWz40ASp), [FNKY NGTH](https://open.spotify.com/artist/5Ld9g1L898I59l5IvNl9Ud) | [Dress Down \(Future Funk Version\)](https://open.spotify.com/album/64dgVQSiNsDvGV60WoiC2U) | 3:13 | 2022-02-27 | 2022-04-20 |
 | [DUCK GROOVE](https://open.spotify.com/track/7xRFTjcKdlF36Ba04J52A9) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [DUCK GROOVE](https://open.spotify.com/album/63dKEwkkrKpyaZT3y9h8xj) | 2:22 | 2021-12-08 | 2023-08-18 |
+| [DUCK GROOVE](https://open.spotify.com/track/7hwlFB4fxou2GCHOVN9LFU) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [SUGAR RUSH](https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe) | 2:22 | 2023-07-18 |  |
 | [dump](https://open.spotify.com/track/5ubKh2OZ35irDiCWQKNwnu) | [UniBe@t](https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg) | [dump](https://open.spotify.com/album/20weAdy9Llm87hJFfLoIBg) | 4:33 | 2022-01-25 | 2022-05-15 |
 | [Easy Love \- Delux Edition](https://open.spotify.com/track/0ZWig98ZNofXT1Jw7vnrm4) | [FUNKYSENPAI](https://open.spotify.com/artist/73D3brznPfF6gHusQdHHVq) | [We Are Future Funk \(Delux Edition\)](https://open.spotify.com/album/7K6BsYBzlmd9NiUtAl4gLZ) | 2:57 | 2022-09-16 | 2022-11-24 |
 | [Egil](https://open.spotify.com/track/3k7zLR2mNGdXbCUUbyfLCN) | [Doktor Plekter](https://open.spotify.com/artist/2442tig4wDqNkmv4nI1sOd) | [Regn](https://open.spotify.com/album/23MAm7Xg0U5NVHxSHyLV66) | 3:11 | 2022-04-12 | 2022-07-16 |
@@ -237,7 +238,7 @@
 | [Knights](https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68) | [Bazz](https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr) | [Montaime, Vol\. 1](https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP) | 6:09 | 2022-11-04 | 2023-07-05 |
 | [Knights](https://open.spotify.com/track/5aRFAxPWHQRYMNVDFciuP2) | [Bazz](https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr) | [Montaime, Vol\. 1](https://open.spotify.com/album/4GicNIw4wPNv9rxqf9cvHN) | 6:09 | 2022-08-12 | 2022-11-05 |
 | [Kokubu](https://open.spotify.com/track/6DtwXIO6J9eqtrZeFdMyLN) | [Setka](https://open.spotify.com/artist/6zWSsWEezov5znjRLPM3qf), [M A R Iマリくん](https://open.spotify.com/artist/0NZMuRJ9tC39RKj6DtqsjF) | [Pink Sea](https://open.spotify.com/album/1xgG8BgbfQvDG1nCjtFrY3) | 2:30 | 2022-06-08 | 2022-08-09 |
-| [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 | 2021-12-08 |  |
+| [Kratos in Love](https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 2:50 | 2021-12-08 | 2023-10-03 |
 | [Kusunoki](https://open.spotify.com/track/7wpCCglXrFoiGPIgQp0SRV) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [Kusunoki](https://open.spotify.com/album/4nvMY6IcVhbzB8yKG22sob) | 2:28 | 2022-01-25 | 2022-06-08 |
 | [Kuudere Crush](https://open.spotify.com/track/2POY4U4R7lxUM61ryNHRmL) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Kuudere Crush](https://open.spotify.com/album/30yExUgU7Q1AItAXaSKBaf) | 3:03 | 2021-12-08 | 2022-07-16 |
 | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/album/3tXVxjXrXJMTBXorraiZHQ) | 2:49 | 2022-03-04 | 2022-03-12 |

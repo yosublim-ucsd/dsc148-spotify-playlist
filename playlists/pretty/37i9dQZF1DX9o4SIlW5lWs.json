@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 185539,
+  "num_followers": 185639,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWUxYjkzNDJkMzI4NjVlNzg4YjQyYmUyOWE3YmQ5MmM4YTVjNzRh",
+  "snapshot_id": "MCw3NzZiMmRkMDQ3Zjk0ZjFlOGUyYzlhMzJlZTE4ZjFlNmRlNTNmNWNm",
   "tracks": [
     {
       "added_at": "2023-09-26 13:44:03",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-09-26 13:44:03",
       "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
+    },
+    {
+      "added_at": "2023-09-26 13:44:03",
+      "album": {
         "name": "Alg\u00fan D\u00eda Volver\u00e1s",
         "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2023-09-26 13:44:03",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
-    },
-    {
-      "added_at": "2023-09-26 13:44:03",
-      "album": {
         "name": "Que Lloro / Mientes",
         "url": "https://open.spotify.com/album/6nKoosTpBypYiiCkGkJEtj"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-09-26 13:44:03",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "Yo Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
-    },
-    {
-      "added_at": "2023-09-26 13:44:03",
-      "album": {
         "name": "Un Homenaje al Cielo",
         "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 212533,
       "name": "Tramposa y Mentirosa",
       "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"
+    },
+    {
+      "added_at": "2023-09-26 13:44:03",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "Yo Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
     },
     {
       "added_at": "2023-09-26 13:44:03",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-09-26 13:44:03",
       "album": {
+        "name": "Volver a Vernos",
+        "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "duration_ms": 171957,
+      "name": "Volver a Vernos",
+      "url": "https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr"
+    },
+    {
+      "added_at": "2023-09-26 13:44:03",
+      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 195586,
       "name": "No Podre Olvidarme",
       "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
-    },
-    {
-      "added_at": "2023-09-26 13:44:03",
-      "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2023-09-26 13:44:03",
@@ -559,18 +559,34 @@
     {
       "added_at": "2023-09-26 13:44:03",
       "album": {
-        "name": "Volver a Vernos",
-        "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
+        "name": "Messirve Mix 7",
+        "url": "https://open.spotify.com/album/4eHuMe6gkLf1XkXN3Hu3nS"
       },
       "artists": [
         {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 171957,
-      "name": "Volver a Vernos",
-      "url": "https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr"
+      "duration_ms": 133829,
+      "name": "El Doctorado",
+      "url": "https://open.spotify.com/track/3K17sPli1ZwYitB1rBQH0l"
+    },
+    {
+      "added_at": "2023-09-26 13:44:03",
+      "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2023-09-26 13:44:03",
@@ -587,22 +603,6 @@
       "duration_ms": 206520,
       "name": "Se Me Ha Perdido un Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2"
-    },
-    {
-      "added_at": "2023-09-26 13:44:03",
-      "album": {
-        "name": "Messirve Mix 7",
-        "url": "https://open.spotify.com/album/4eHuMe6gkLf1XkXN3Hu3nS"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 133829,
-      "name": "El Doctorado",
-      "url": "https://open.spotify.com/track/3K17sPli1ZwYitB1rBQH0l"
     },
     {
       "added_at": "2023-09-26 13:44:03",
@@ -659,22 +659,6 @@
       "duration_ms": 236840,
       "name": "Muero por T\u00ed",
       "url": "https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl"
-    },
-    {
-      "added_at": "2023-09-26 13:44:03",
-      "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "El Polvito Del Amor",
-      "url": "https://open.spotify.com/track/2mzncewLAIAvfFeJ01Ukhg"
     },
     {
       "added_at": "2023-09-26 13:44:03",
@@ -759,6 +743,22 @@
     {
       "added_at": "2023-09-26 13:44:03",
       "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "El Polvito Del Amor",
+      "url": "https://open.spotify.com/track/2mzncewLAIAvfFeJ01Ukhg"
+    },
+    {
+      "added_at": "2023-09-26 13:44:03",
+      "album": {
         "name": "10 A\u00f1os",
         "url": "https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-26 13:44:03",
       "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 236973,
-      "name": "El Embrujo",
-      "url": "https://open.spotify.com/track/34ayIgjQsK3f7fJis67UWg"
-    },
-    {
-      "added_at": "2023-09-26 13:44:03",
-      "album": {
         "name": "Un Fen\u00f3meno Natural",
         "url": "https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 182293,
       "name": "Una R\u00e1faga De Amor",
       "url": "https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ"
+    },
+    {
+      "added_at": "2023-09-26 13:44:03",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 236973,
+      "name": "El Embrujo",
+      "url": "https://open.spotify.com/track/34ayIgjQsK3f7fJis67UWg"
     },
     {
       "added_at": "2023-09-26 13:44:03",
@@ -871,22 +871,6 @@
       "duration_ms": 211896,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
-    },
-    {
-      "added_at": "2023-09-26 13:44:03",
-      "album": {
-        "name": "A Morir",
-        "url": "https://open.spotify.com/album/2GhTSWtln0DOTPoEp7qlNe"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rico",
-          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
-        }
-      ],
-      "duration_ms": 234736,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96"
     },
     {
       "added_at": "2023-09-26 13:44:03",
@@ -919,6 +903,22 @@
       "duration_ms": 210706,
       "name": "Te Arrepentir\u00e1s",
       "url": "https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU"
+    },
+    {
+      "added_at": "2023-09-26 13:44:03",
+      "album": {
+        "name": "A Morir",
+        "url": "https://open.spotify.com/album/2GhTSWtln0DOTPoEp7qlNe"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9rico",
+          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
+        }
+      ],
+      "duration_ms": 234736,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96"
     },
     {
       "added_at": "2023-09-26 13:44:03",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-09-26 13:44:03",
       "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
-    },
-    {
-      "added_at": "2023-09-26 13:44:03",
-      "album": {
         "name": "Como Le Digo",
         "url": "https://open.spotify.com/album/4pfSy7j1TkILRBw1ENpeYp"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 192750,
       "name": "Como Le Digo",
       "url": "https://open.spotify.com/track/3PmZrwXhZBSddyZDuquxl0"
+    },
+    {
+      "added_at": "2023-09-26 13:44:03",
+      "album": {
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 204669,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
     },
     {
       "added_at": "2023-09-26 13:44:03",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-09-26 13:44:03",
       "album": {
-        "name": "Sigo Mi Camino",
-        "url": "https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw"
-      },
-      "artists": [
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 164022,
-      "name": "Yo Te Esperare",
-      "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
-    },
-    {
-      "added_at": "2023-09-26 13:44:03",
-      "album": {
         "name": "Boquita de Caramelo",
         "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 229093,
       "name": "Pega la Vuelta",
       "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
+    },
+    {
+      "added_at": "2023-09-26 13:44:03",
+      "album": {
+        "name": "Sigo Mi Camino",
+        "url": "https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Yo Te Esperare",
+      "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
     },
     {
       "added_at": "2023-09-26 13:44:03",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-09-26 13:44:03",
       "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Yo Que Te Am\u00e9",
-      "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"
-    },
-    {
-      "added_at": "2023-09-26 13:44:03",
-      "album": {
         "name": "Mensajeros del Amor",
         "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 264067,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/0ftwnLAztORq4nMEEm5GeR"
+    },
+    {
+      "added_at": "2023-09-26 13:44:03",
+      "album": {
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Yo Que Te Am\u00e9",
+      "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"
     },
     {
       "added_at": "2023-09-26 13:44:03",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-09-26 13:44:03",
       "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
+    },
+    {
+      "added_at": "2023-09-26 13:44:03",
+      "album": {
         "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx"
       },
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2023-09-26 13:44:03",
       "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
-    },
-    {
-      "added_at": "2023-09-26 13:44:03",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 215186,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
-    },
-    {
-      "added_at": "2023-09-26 13:44:03",
-      "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
-      },
-      "artists": [
-        {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
     },
     {
       "added_at": "2023-09-26 13:44:03",
@@ -1683,6 +1667,22 @@
       "duration_ms": 122666,
       "name": "SOMOS NOSOTROS",
       "url": "https://open.spotify.com/track/2u3Hwa2fckCMGb5vo8DBbJ"
+    },
+    {
+      "added_at": "2023-09-26 13:44:03",
+      "album": {
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     }
   ],
   "unique_name": "Cumbia y Romance",

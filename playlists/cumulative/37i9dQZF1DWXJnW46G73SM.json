@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 229090,
       "name": "3ayza Ba7r",
       "url": "https://open.spotify.com/track/52WUBAeaELu5d39P1FlQdi"
@@ -6300,7 +6300,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 215040,
       "name": "Mennak Lellah",
       "url": "https://open.spotify.com/track/48OBnNO9eX6vmDSrUOxmEK"
@@ -10089,6 +10089,24 @@
     },
     {
       "album": {
+        "name": "\u0628\u0644\u0627\u062f \u0627\u0644\u0628\u062e\u062a",
+        "url": "https://open.spotify.com/album/6jucrcs3yKbXUQLilctevs"
+      },
+      "artists": [
+        {
+          "name": "Hany Shaker",
+          "url": "https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247058,
+      "name": "\u0628\u0644\u0627\u062f \u0627\u0644\u0628\u062e\u062a",
+      "url": "https://open.spotify.com/track/2bUNBOby9mvJ9vRSopH7jU"
+    },
+    {
+      "album": {
         "name": "\u0628\u0644\u0627\u0634 \u062a\u062a\u063a\u0631",
         "url": "https://open.spotify.com/album/3l5B196f1xLIIpzysyaCDV"
       },
@@ -10100,7 +10118,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 212870,
       "name": "\u0628\u0644\u0627\u0634 \u062a\u062a\u063a\u0631",
       "url": "https://open.spotify.com/track/0rjP7wNQffUE86c4ogPUrQ"

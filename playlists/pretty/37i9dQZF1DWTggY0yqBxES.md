@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: TOBi
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,096 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,174 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 12 | [F\* TASTE](https://open.spotify.com/track/0eyFCLT8pkBjqxgkgypZGk) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [F\* TASTE](https://open.spotify.com/album/6DXn08iIwPybGOxdSMWx7L) | 2:00 |
 | 13 | [Cursed \(feat\. Lancey Foux\)](https://open.spotify.com/track/1oxUnnosCLhEBfE1S2LKTb) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [COMPILATION V1](https://open.spotify.com/album/1z4RF4n72Pkw1axgExVMu6) | 2:52 |
 | 14 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 |
-| 15 | [RUN](https://open.spotify.com/track/0VvF6aTiLEcSEKguws5AtT) | [Unghetto](https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s) | [UNGHETTO WORLD](https://open.spotify.com/album/6jHh5VXQZmkIPJ2p5VNmuk) | 1:40 |
+| 15 | [SEEN](https://open.spotify.com/track/0IrecfudrvKZUjLdPgEu7W) | [Unghetto](https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s) | [UNGHETTO WORLD](https://open.spotify.com/album/6jHh5VXQZmkIPJ2p5VNmuk) | 2:30 |
 | 16 | [2 for $10](https://open.spotify.com/track/71Y9YpsEOTTayD6ZcyMfXe) | [Maxo](https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe) | [Debbie's Son](https://open.spotify.com/album/35zJDntIjPdSyFfWk2lW6W) | 3:18 |
 | 17 | [Tailor Swift](https://open.spotify.com/track/6n3ixcqofvUzPbwlb1NXED) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [MVW](https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq) | [Tailor Swift](https://open.spotify.com/album/5tGg7PsNeoBJ7WTGpDSoyY) | 2:36 |
 | 18 | [Fuck Em Up Moses](https://open.spotify.com/track/4tH1p1TYEtXkLNtPDPHnvI) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Fuck Em Up Moses](https://open.spotify.com/album/5LxED8zuZ1X7XUMdQS60E6) | 3:39 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 29 | [MESSY](https://open.spotify.com/track/2K6f0hncJdVzA9eK76JIxN) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:31 |
 | 30 | [Kall Me \(feat\. Kevin Sinatra\)](https://open.spotify.com/track/0LyY4duXgJro8ySx8Uh1FC) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP), [Kevin Sinatra](https://open.spotify.com/artist/1tygnJwaoR37rfqe9DHcUf) | [Kall Me \(feat\. Kevin Sinatra\)](https://open.spotify.com/album/2d7tmlgAIX6H9Y0tSH0MMB) | 3:00 |
 | 31 | [DRACULA](https://open.spotify.com/track/5UahFzPYaCRSgb5QkDH8iO) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DRACULA](https://open.spotify.com/album/0t6XelUenN8uSlGHLgarcr) | 2:58 |
-| 32 | [SEEN](https://open.spotify.com/track/0IrecfudrvKZUjLdPgEu7W) | [Unghetto](https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s) | [UNGHETTO WORLD](https://open.spotify.com/album/6jHh5VXQZmkIPJ2p5VNmuk) | 2:30 |
+| 32 | [RUN](https://open.spotify.com/track/0VvF6aTiLEcSEKguws5AtT) | [Unghetto](https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s) | [UNGHETTO WORLD](https://open.spotify.com/album/6jHh5VXQZmkIPJ2p5VNmuk) | 1:40 |
 | 33 | [Way Up!](https://open.spotify.com/track/7mj1prKBTEisjBlahW1PSK) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Way Up!](https://open.spotify.com/album/6c36BqvLIyeL5NEGt4o0EP) | 2:26 |
 | 34 | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6) | 3:01 |
 | 35 | [Everybody's Safe Until…](https://open.spotify.com/track/58IwEDsZJcteGZ6iZ8pmaS) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Everybody's Safe Until…](https://open.spotify.com/album/7poRSz57XBWaG91pYjA0Bw) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
 | 100 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 |
 
-Snapshot ID: `MCw2NDE0N2I3NTFjYzZkMjY1NmJlOTQxMWQwOTNmZmRhZTQ1NTU4NWFm`
+Snapshot ID: `MCw3ZmFiOTNlZDg3ZGM2NDdmZDM0NDE5NjhhNDhjNDAwZGZlZWNjMmYx`

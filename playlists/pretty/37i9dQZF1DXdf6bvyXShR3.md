@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,416 likes - 70 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,446 likes - 70 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 4 | [Make You Scream \- yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Make You Scream \(yunè pinku Remix\)](https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ) | 2:44 |
 | 5 | [Lost In This Moment](https://open.spotify.com/track/3XYyUSEnO94851A0pTW28X) | [Lorenzo Dada](https://open.spotify.com/artist/3hCDIGOzWc69NzrNZGC9C1) | [Lost In This Moment](https://open.spotify.com/album/2NvbXEm18qJ4aSjKj5KeZQ) | 5:00 |
 | 6 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 |
-| 7 | [Rhythm Of The Night](https://open.spotify.com/track/6OFJOpzi9xZrm3eEJE1SIG) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Rhythm Of The Night](https://open.spotify.com/album/2O1mDByoHcWrsABgAvCzwU) | 3:33 |
+| 7 | [Rhythm Of The Night](https://open.spotify.com/track/2QJgxzlleCtMdmR7kWafzR) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Open Up The Night](https://open.spotify.com/album/7ciSmK610YFDPfw3hl4QCb) | 3:33 |
 | 8 | [Wespennest](https://open.spotify.com/track/1h9PGvjTU45WnwzXEjqtf8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Wespennest](https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz) | 8:02 |
 | 9 | [Does It Matter \- Ajna \(BE\) Remix](https://open.spotify.com/track/6yD4nL8def39R3QplxYGo5) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Does It Matter \(Ajna Remix\)](https://open.spotify.com/album/4IZK2sBwj3A4tDpxyxtpct) | 5:40 |
 | 10 | [Principal Agent \- Sunrise Version](https://open.spotify.com/track/3GmBSTOJYBF6pDmnsYcH8B) | [Gorgin](https://open.spotify.com/artist/2Buw3dZuOpqcboPiMaZ105) | [Principal Agent \(Sunrise Version\)](https://open.spotify.com/album/06FuuiJVfpcQ4OqQpvI9ZO) | 6:28 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 69 | [Wake And Return \- Acoustic Version](https://open.spotify.com/track/76uZO2ZHQcWvjsQOd5T8Hd) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra: Acoustic](https://open.spotify.com/album/6WP5Ho3PWAMUkiJLdb6OGb) | 2:57 |
 | 70 | [Fade Into Black \(Acoustic Version\)](https://open.spotify.com/track/6Dfl3X4P0HqpLauVPNnaq1) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:01 |
 
-Snapshot ID: `MCw2MGQ1YmM3NDJhMDRlZTllNTliYjkzNGVlMDI3MTc1NWQ3MWJlYWM5`
+Snapshot ID: `MCwwNGM3MjgwZDFiYTY5OGJlMWUyMzc2NjQzZDM4ZmUzOTFjZmVkMDQw`

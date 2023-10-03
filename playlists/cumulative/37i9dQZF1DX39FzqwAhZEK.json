@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Arctic",
+        "url": "https://open.spotify.com/album/2GeCyCl6qdIi6Z6IvBnmvC"
+      },
+      "artists": [
+        {
+          "name": "Oliver \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161529,
+      "name": "Arctic",
+      "url": "https://open.spotify.com/track/2kjIUCl6Cuiv9AsYU9StWx"
+    },
+    {
+      "album": {
         "name": "Hold Me Spirits",
         "url": "https://open.spotify.com/album/2GPu9L8fSCfexCmHK295xK"
       },
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 144954,
       "name": "Elixir",
       "url": "https://open.spotify.com/track/3qdcjaWIyUvivaO5lcpe0J"

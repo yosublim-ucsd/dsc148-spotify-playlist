@@ -4,7 +4,7 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-411 songs - 23 hr 53 min
+412 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Portals](https://open.spotify.com/track/4XY348mLkMShpnyhhx9UYr) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [Portals](https://open.spotify.com/album/4gw6B4mV2AebjcFKDGdwc3) | 2:45 | 2022-09-16 | 2022-10-11 |
 | [Pourin \(feat\. BlueBucksClan\)](https://open.spotify.com/track/1RUdNc0N54E7PJJ3GI9V52) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Mike Free](https://open.spotify.com/artist/6iEOdI9RcimOiNzbfhhuTO), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Free 03](https://open.spotify.com/album/2UfVYQnUerGa6XhbJYlaWS) | 3:38 | 2023-01-18 | 2023-03-16 |
 | [Power](https://open.spotify.com/track/3nE7KhZq3bz31I7g7hvt1v) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Power](https://open.spotify.com/album/5B2xt3XKpNqKbHj7T02rms) | 2:48 | 2022-09-16 | 2022-11-09 |
+| [Pressure](https://open.spotify.com/track/67U4c4ogb7pWU3uRINXnrn) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Pressure](https://open.spotify.com/album/3cSRHBRgdNFGHIlxKIIBDr) | 4:43 | 2023-10-02 |  |
 | [prettynames](https://open.spotify.com/track/3XIll8ycq39GV1t7EtMVpF) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [prettynames](https://open.spotify.com/album/2qowicmtymr0Ifm9bcC6LN) | 2:41 | 2023-03-15 | 2023-07-04 |
 | [Promises](https://open.spotify.com/track/6kUdo1ComRFLSIa1TxtlyD) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Sunsetters / Daybreakers](https://open.spotify.com/album/2WKFV77igrcHJXEpxTH4JV) | 3:44 | 2023-08-03 |  |
 | [Quem tem dança](https://open.spotify.com/track/1w9U94XawiIE0iFMAEWX2a) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL), [Dogzout](https://open.spotify.com/artist/2uxETqQsr1BzC0iaeHeu2P) | [Quem tem dança](https://open.spotify.com/album/354jjXBj90fgk8SDjy6KQe) | 3:17 | 2023-02-10 | 2023-05-24 |

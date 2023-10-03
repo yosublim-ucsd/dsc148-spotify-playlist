@@ -1,12 +1,12 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 442345,
+  "num_followers": 442575,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2I1NmRjNTI2NDI4MjBmMWRlZGNmMDcyN2EwNGJkZjI4MjZmMjYz",
+  "snapshot_id": "MCwwN2RjMmY3OTRlNjc4ZDBlMmY5NTY5ZjYzZjhmMDczNGEyYTAwZmU1",
   "tracks": [
     {
       "added_at": "2023-06-20 20:30:21",
@@ -95,38 +95,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 379533,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "The Man From Mo\u2019 Wax (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3s4nn0k0RXhScSDaBXuvEq"
-      },
-      "artists": [
-        {
-          "name": "DJ Krush",
-          "url": "https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM"
-        }
-      ],
-      "duration_ms": 289013,
-      "name": "Kemuri",
-      "url": "https://open.spotify.com/track/1cZ6ZDrVtkah2nqtVmfhQK"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "So...How's Your Girl?",
         "url": "https://open.spotify.com/album/11xrdpHkh2KUuxPGEfQZKG"
       },
@@ -151,18 +119,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Very Mercenary",
-        "url": "https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV"
+        "name": "The Man From Mo\u2019 Wax (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3s4nn0k0RXhScSDaBXuvEq"
       },
       "artists": [
         {
-          "name": "The Herbaliser",
-          "url": "https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w"
+          "name": "DJ Krush",
+          "url": "https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM"
         }
       ],
-      "duration_ms": 216001,
-      "name": "The Sensual Woman",
-      "url": "https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa"
+      "duration_ms": 289013,
+      "name": "Kemuri",
+      "url": "https://open.spotify.com/track/1cZ6ZDrVtkah2nqtVmfhQK"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -183,22 +151,34 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+        "name": "Very Mercenary",
+        "url": "https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV"
+      },
+      "artists": [
+        {
+          "name": "The Herbaliser",
+          "url": "https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w"
+        }
+      ],
+      "duration_ms": 216001,
+      "name": "The Sensual Woman",
+      "url": "https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
       "artists": [
         {
           "name": "Massive Attack",
           "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Tracey Thorn",
-          "url": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
         }
       ],
-      "duration_ms": 471560,
-      "name": "Protection",
-      "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
+      "duration_ms": 379533,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -251,22 +231,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 293200,
-      "name": "Wandering Star",
-      "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "A New Stereophonic Sound Spectacular",
         "url": "https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq"
       },
@@ -279,6 +243,22 @@
       "duration_ms": 284293,
       "name": "2 Wicky",
       "url": "https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "Nights Introlude",
+      "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -299,34 +279,38 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Tracey Thorn",
+          "url": "https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b"
         }
       ],
-      "duration_ms": 399026,
-      "name": "Building Steam With A Grain Of Salt",
-      "url": "https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I"
+      "duration_ms": 471560,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
     },
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
       "artists": [
         {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
         }
       ],
-      "duration_ms": 280266,
-      "name": "Nights Introlude",
-      "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
+      "duration_ms": 293200,
+      "name": "Wandering Star",
+      "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -351,6 +335,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 399026,
+      "name": "Building Steam With A Grain Of Salt",
+      "url": "https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Deadringer: Deluxe",
         "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Blue Lines (2012 Mix/Master)",
-        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Blue Lines - 2012 Mix/Master",
-      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Exit Planet Dust",
         "url": "https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 332788,
       "name": "Leave Home",
       "url": "https://open.spotify.com/track/4mFDB35IaTzrzqMn4spMqo"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Blue Lines (2012 Mix/Master)",
+        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Blue Lines - 2012 Mix/Master",
+      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -427,26 +427,6 @@
       "duration_ms": 380786,
       "name": "Black Baby (DJ-KiCKS)",
       "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "Psyence Fiction",
-        "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
-      },
-      "artists": [
-        {
-          "name": "UNKLE",
-          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
-        },
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
-        }
-      ],
-      "duration_ms": 376160,
-      "name": "Rabbit in Your Headlights",
-      "url": "https://open.spotify.com/track/6CQiD0STiKFsjSdVKtztjJ"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -503,6 +483,26 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "Psyence Fiction",
+        "url": "https://open.spotify.com/album/0LFPjvWEaHP7WKQD6F5pVS"
+      },
+      "artists": [
+        {
+          "name": "UNKLE",
+          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 376160,
+      "name": "Rabbit in Your Headlights",
+      "url": "https://open.spotify.com/track/6CQiD0STiKFsjSdVKtztjJ"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Viva! La Woman",
         "url": "https://open.spotify.com/album/1Sha7blBHJ2ZBK5FjVXU9W"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 386266,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "The Return of the Space Cowboy (Remastered)",
         "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 278346,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 386266,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "King Size",
+        "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "King Size",
+      "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Bricolage",
         "url": "https://open.spotify.com/album/0DFvcq1cdpIdQxavKkEVCH"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 232093,
       "name": "Sandpaper Kisses",
       "url": "https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "King Size",
-        "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 297426,
-      "name": "King Size",
-      "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 734333,
-      "name": "In / Flux",
-      "url": "https://open.spotify.com/track/6lkAoFkfbG18GSOqxW50Ar"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "A Grand Love Story",
         "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 428265,
       "name": "The bootleggers",
       "url": "https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 734333,
+      "name": "In / Flux",
+      "url": "https://open.spotify.com/track/6lkAoFkfbG18GSOqxW50Ar"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 831400,
-      "name": "What Does Your Soul Look Like, Pt. 2",
-      "url": "https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "One Colour Just Reflects Another",
         "url": "https://open.spotify.com/album/4DeywfBtRsQFApbOjDHsKt"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "The Antidote",
-        "url": "https://open.spotify.com/album/5WXggaUoLfWMBL4QfJ6R4I"
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
       "artists": [
         {
-          "name": "The Wiseguys",
-          "url": "https://open.spotify.com/artist/7oBJEgh7PQKJuxXb1lUEKA"
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
         }
       ],
-      "duration_ms": 349560,
-      "name": "We Be the Crew",
-      "url": "https://open.spotify.com/track/44ZVjpEvhtAM74LE3ZskAX"
+      "duration_ms": 831400,
+      "name": "What Does Your Soul Look Like, Pt. 2",
+      "url": "https://open.spotify.com/track/6gxE4VdVudpfihWy5jV7L0"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1055,6 +1039,22 @@
       "duration_ms": 376981,
       "name": "Aquaself",
       "url": "https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/5WXggaUoLfWMBL4QfJ6R4I"
+      },
+      "artists": [
+        {
+          "name": "The Wiseguys",
+          "url": "https://open.spotify.com/artist/7oBJEgh7PQKJuxXb1lUEKA"
+        }
+      ],
+      "duration_ms": 349560,
+      "name": "We Be the Crew",
+      "url": "https://open.spotify.com/track/44ZVjpEvhtAM74LE3ZskAX"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Spill",
-        "url": "https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD"
-      },
-      "artists": [
-        {
-          "name": "Depth Charge",
-          "url": "https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "Legend of the Golden Snake - Single Version",
-      "url": "https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Blow Your Headphones",
         "url": "https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 408000,
       "name": "A Mother (For Your Mind)",
       "url": "https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Spill",
+        "url": "https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD"
+      },
+      "artists": [
+        {
+          "name": "Depth Charge",
+          "url": "https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "Legend of the Golden Snake - Single Version",
+      "url": "https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO"
     },
     {
       "added_at": "2023-06-20 20:30:21",

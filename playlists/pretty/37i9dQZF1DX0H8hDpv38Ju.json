@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 796828,
+  "num_followers": 796981,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmFhZmM3Nzk1MTdjZDg2NDQxNWJkNDgwMGVmY2U5MDY1NTg2NWFi",
+  "snapshot_id": "MCw5MGEzZjAxMzlkYmEwZGMzZDYzYzljYzlkNDJhYTJiYmYwZGMyMGIy",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -235,6 +235,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "I Feel for You",
+        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 343400,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "The 12\" Collection And More (Funk Essentials)",
         "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
       },
@@ -283,18 +299,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "I Feel for You",
-        "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
+        "name": "Hotter Than July",
+        "url": "https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 343400,
-      "name": "I Feel for You",
-      "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
+      "duration_ms": 306666,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -315,38 +331,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "The Gap Band IV",
-        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 312906,
-      "name": "You Dropped A Bomb On Me",
-      "url": "https://open.spotify.com/track/1VKPiQJnV15flF5B3zeocD"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Hotter Than July",
-        "url": "https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 306666,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 276666,
       "name": "So Emotional",
       "url": "https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "The Gap Band IV",
+        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 312906,
+      "name": "You Dropped A Bomb On Me",
+      "url": "https://open.spotify.com/track/1VKPiQJnV15flF5B3zeocD"
     },
     {
       "added_at": "2021-04-01 19:37:56",

@@ -4,11 +4,12 @@
 
 > Clear your mind with soothing new age guitar.
 
-158 songs - 7 hr 48 min
+160 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Place For The Mind](https://open.spotify.com/track/1zYZjM45aADOpadCoj82GA) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [A Place For The Mind](https://open.spotify.com/album/7AEyA7APGPAfMC75lHLPwB) | 2:53 | 2022-02-28 |  |
+| [Abiding Light](https://open.spotify.com/track/2nfzCK4TA4wSlJP640kyIZ) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [Abiding Light](https://open.spotify.com/album/5BVFOUfy4UigiSC5sWIX8K) | 3:04 | 2023-10-02 |  |
 | [Adrift \(Meditation\)](https://open.spotify.com/track/3L3YFTmQOCFe36kQ1DuugY) | [Treter](https://open.spotify.com/artist/1Zn7lUSMgFwccPi9evC8NN) | [Adrift \(Meditation\)](https://open.spotify.com/album/3YhHaFBL6pqr287a8fQsuh) | 2:25 | 2023-08-25 |  |
 | [Adrift in Time](https://open.spotify.com/track/41GSq7PxoKXyXNsYNRDSkT) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [Something Beautiful](https://open.spotify.com/album/1hom2yJ8gLUvbvSoIWEL1S) | 2:54 | 2022-02-28 |  |
 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 | 2022-02-28 |  |
@@ -107,6 +108,7 @@
 | [Obion Pulse](https://open.spotify.com/track/0zSRxrBb1PJ9Zlliu5PYtn) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Obion Pulse](https://open.spotify.com/album/0LnDW7jS8XsJ2QwegTlAHo) | 4:44 | 2022-08-15 |  |
 | [On A Bed Of Peace](https://open.spotify.com/track/2xAU6r6GSaapYwAyR9hiqB) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [On A Bed Of Peace](https://open.spotify.com/album/1HOEnUoODyeJV6bgW45s02) | 4:41 | 2022-03-29 |  |
 | [One](https://open.spotify.com/track/4FlZGFYTdwrVgqsA1Veqsc) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [One](https://open.spotify.com/album/2dYDZU8dBHtK8lsDT4tnUW) | 2:48 | 2023-02-17 |  |
+| [Orange Sky \(Nature\)](https://open.spotify.com/track/5IulPk0sJRudaIxh5JbMgz) | [Clyde Price](https://open.spotify.com/artist/4xt2fTrl6aOgGVoVaeuh2Y) | [Orange Sky \(Meditation\)](https://open.spotify.com/album/3w2N8w1puVbjmFDp5kI54h) | 2:38 | 2023-10-02 |  |
 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 | 2022-02-28 |  |
 | [Path To Self](https://open.spotify.com/track/3o76zTFwwLZ7lx5La5L09O) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Path To Self](https://open.spotify.com/album/1T12sRdIKzoIYJUkbRr6Ag) | 4:44 | 2022-09-13 | 2022-12-03 |
 | [Pattern Codes](https://open.spotify.com/track/46gBeZePyObJo4UWxrbRye) | [William Sila](https://open.spotify.com/artist/4bhn3rRPUCCiUXEhgqPnUc) | [Pattern Codes](https://open.spotify.com/album/5Lj8RfNJtk92vlnrG87k0x) | 2:57 | 2022-02-28 |  |

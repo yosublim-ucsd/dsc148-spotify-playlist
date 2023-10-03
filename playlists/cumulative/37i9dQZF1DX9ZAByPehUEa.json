@@ -2341,6 +2341,24 @@
     },
     {
       "album": {
+        "name": "ITALODISCO (English Version)",
+        "url": "https://open.spotify.com/album/43pxODk9GVXEEnXfzzNLRu"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199512,
+      "name": "ITALODISCO - English Version",
+      "url": "https://open.spotify.com/track/2dscdzSfNdj2QLpZkPnKTQ"
+    },
+    {
+      "album": {
         "name": "Javelin (Calling Out Your Name)",
         "url": "https://open.spotify.com/album/3WHPQT135w07uWeMJtM20v"
       },
@@ -4929,6 +4947,32 @@
     },
     {
       "album": {
+        "name": "Something On My Mind",
+        "url": "https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Something On My Mind",
+      "url": "https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR"
+    },
+    {
+      "album": {
         "name": "Sometimes The Going Gets A Little Tough",
         "url": "https://open.spotify.com/album/7hk8GE39ew5hvnrPPlhng9"
       },
@@ -5006,7 +5050,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 327926,
       "name": "Starlight Delight",
       "url": "https://open.spotify.com/track/5pYAjHgii18QfT9IOOCkIR"
@@ -5024,7 +5068,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 174776,
       "name": "strangers",
       "url": "https://open.spotify.com/track/5uwfkHrHW6smpBtHoJEmeB"

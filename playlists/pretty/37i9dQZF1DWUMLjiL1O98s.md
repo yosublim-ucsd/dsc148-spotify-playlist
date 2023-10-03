@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 
 > La nueva ola del Afrobeats con un toque latino\. Feid en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,647 likes - 96 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,657 likes - 96 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 | 95 | [Síntomas](https://open.spotify.com/track/2QBpWDBpXFHMqGDpzloz5O) | [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl) | [Latidos](https://open.spotify.com/album/5YiqfVXsekY2Vxb4MGtSCG) | 3:00 |
 | 96 | [OMA](https://open.spotify.com/track/2tnb6KLgg0e3NCtvLkoer1) | [ZERO](https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew) | [OMA](https://open.spotify.com/album/2197Q17orIgTBhVYZ01PwU) | 2:24 |
 
-Snapshot ID: `MCwyNmY2MmY5MDEyZmYyZWEwNjljNDViOWNhOGI2OGU4ODRlMGVmY2Ux`
+Snapshot ID: `MCwxN2Q3YmQ4MTZiZGY4OWEzMDY3YjljZmY4ODUxMDc4MGUzNjkyN2Iz`

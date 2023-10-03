@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Indian Tribe",
+        "url": "https://open.spotify.com/album/0Gt9MOBpwHCepPvDKqcwfH"
+      },
+      "artists": [
+        {
+          "name": "Calmster",
+          "url": "https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152791,
+      "name": "Indian Tribe",
+      "url": "https://open.spotify.com/track/6z3tvdcdPzxk2YcNegF7eM"
+    },
+    {
+      "album": {
         "name": "Inhale Exhale",
         "url": "https://open.spotify.com/album/0pjLFW61AV1xvnAaSkcEgU"
       },
@@ -2460,6 +2478,28 @@
       "duration_ms": 309013,
       "name": "Shiva's Meditation",
       "url": "https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT"
+    },
+    {
+      "album": {
+        "name": "Siddharthas Echoes",
+        "url": "https://open.spotify.com/album/2cumKJiYUKZOcbMrNrXh6b"
+      },
+      "artists": [
+        {
+          "name": "Vedic Moon",
+          "url": "https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7"
+        },
+        {
+          "name": "Vic Vision",
+          "url": "https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192473,
+      "name": "Siddharthas Echoes",
+      "url": "https://open.spotify.com/track/3WmDbmhu8NH9i4NB8gJdbm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:Onestar\(임한별\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,010 songs - 2 day 17 hr 30 min
+1,011 songs - 2 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Falling Leaves are Beautiful](https://open.spotify.com/track/0zaSzLLXVwOKuh0ABPibqi) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Late Autumn](https://open.spotify.com/album/7Au2CdpPmTnTWWeEvNHOne) | 3:22 | 2022-04-19 | 2022-04-21 |
 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2022-05-16 | 2022-10-08 |
 | [Farewell In Tears](https://open.spotify.com/track/28ctCyUPyDomk7LLwN4aY8) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The World of the Married, Pt.5 \(Original Television SoundTrack\)](https://open.spotify.com/album/4Oi5IpgCPeyMdyuXAIssyJ) | 4:16 | 2022-03-31 | 2022-04-12 |
+| [Feeling of love](https://open.spotify.com/track/45S9VsBpy4zZ5BHcwklih2) | [Yeji \(GyeongseoYeji\)](https://open.spotify.com/artist/6jWusfRYDNKV2iwUtMO7kp) | [My Universe](https://open.spotify.com/album/1t7A3JHDRTdFb1VM9DDAxV) | 3:53 | 2023-10-02 |  |
 | [Female Friend](https://open.spotify.com/track/4SShzO5689WsWgCe0Y8oKz) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR), [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [Female Friend](https://open.spotify.com/album/5rieLnSI7FRduyF196vhWJ) | 4:15 | 2022-01-17 | 2022-01-18 |
 | [Ferrari](https://open.spotify.com/track/0lOhyaAN0djmwroHqPhApn) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Ferrari](https://open.spotify.com/album/5OWnu7q4KDcsotJRkIfqVE) | 3:16 | 2023-02-24 | 2023-04-27 |
 | [FINE](https://open.spotify.com/track/2FfqCAm7SlGd0pWc23ovCO) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [FINE](https://open.spotify.com/album/0C4FHIxRJjcvVEUhKq99X5) | 3:05 | 2022-02-10 | 2022-04-03 |
@@ -294,7 +295,7 @@
 | [Grain of Sand](https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Grain of Sand](https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc) | 3:40 | 2023-06-06 |  |
 | [Gravity](https://open.spotify.com/track/5iflfzsLm8GwB8nXeglqbQ) | [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5bOcT4IKuy49u5nbDH3hnn) | 3:09 | 2022-03-24 | 2022-04-18 |
 | [haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 | 2022-06-18 | 2022-08-19 |
-| [Hangang Gongwon](https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:58 | 2023-08-31 |  |
+| [Hangang Gongwon](https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:58 | 2023-08-31 | 2023-10-03 |
 | [Hangover](https://open.spotify.com/track/0vMg57uWWcnv4T3qjoXP68) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hangover](https://open.spotify.com/album/2bil4uyovEkVkPVpEAWRBp) | 3:44 | 2021-12-20 | 2022-06-14 |
 | [HAPPEN](https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 | 2021-12-20 | 2022-07-06 |
 | [Happiness](https://open.spotify.com/track/1rguO7AsN5jYbXr5POizxK) | [HYB \(Huh Gak,Shin Yong Jae,Onestar\)](https://open.spotify.com/artist/75LV0HV0cURCViNnAZ1SQt) | [Happiness](https://open.spotify.com/album/2qobgmbXd3qd7RVFMFWsvU) | 4:16 | 2023-08-24 |  |
@@ -366,7 +367,7 @@
 | [I Miss You](https://open.spotify.com/track/6AXqsbRU3snGXnibiW0WOw) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/2dlACO4DLIYaJJzCheVRq0) | 4:12 | 2022-03-29 | 2022-04-13 |
 | [I Miss You](https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Guardian \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A) | 2:49 | 2021-12-23 | 2022-06-12 |
 | [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 | 2022-07-11 | 2022-12-27 |
-| [I Promise](https://open.spotify.com/track/3mwK3Xvg9dz0pEf286cHIn) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Romantic Doctor 3 OST Part.6](https://open.spotify.com/album/2JGCTG01GOZkdg12zzXPFt) | 4:52 | 2023-06-13 |  |
+| [I Promise](https://open.spotify.com/track/3mwK3Xvg9dz0pEf286cHIn) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Romantic Doctor 3 OST Part.6](https://open.spotify.com/album/2JGCTG01GOZkdg12zzXPFt) | 4:52 | 2023-06-13 | 2023-10-03 |
 | [I Remember You](https://open.spotify.com/track/2WOAu8tgfIZUyPMWAGZrFn) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Mental Coach Jegal, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/2TX54rHWegMmVQOiP4JYQ3) | 3:11 | 2022-09-28 | 2023-01-11 |
 | [I See You, You See Him](https://open.spotify.com/track/5p3qWzZWVQeOULME1kok1U) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [I See You, You See Him](https://open.spotify.com/album/2o1RYnEbhODNNdBXewcpKd) | 2:46 | 2023-02-14 | 2023-03-28 |
 | [I should let you go](https://open.spotify.com/track/3iPkGKAOGllUnodb5qI50l) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Love In Eyes OST Part.22 \(Soundtrack\)](https://open.spotify.com/album/6Ky7kXVpqQi4udAc9GWucN) | 3:25 | 2023-03-15 | 2023-07-08 |
@@ -858,7 +859,7 @@
 | [Today's star Tomorrow's moon](https://open.spotify.com/track/0QgVQiaxWR7d0NE78DNkWS) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Brain Cooperation OST Part.4 \(Soundtrack\)](https://open.spotify.com/album/26cVAhOVtTCuhftaqmUUkc) | 3:30 | 2023-02-24 | 2023-06-23 |
 | [Tomorrow](https://open.spotify.com/track/3Za3hxz2Hw4M9f0sFc1FuY) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Harmony](https://open.spotify.com/album/5pEyhM1dfcAGCcXgxXILUw) | 4:00 | 2023-09-12 |  |
 | [Tonight](https://open.spotify.com/track/5zRPAxbJo5IXIHFTOETcJL) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH), [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Tipping Point Pt.1](https://open.spotify.com/album/1S5zQMBBDIklg0QR97Zq9I) | 4:15 | 2022-10-06 | 2023-01-11 |
-| [Tonight, Our Night](https://open.spotify.com/track/0xC3O1wQNftwiWnF9HA7VO) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Tonight, Our Night](https://open.spotify.com/album/35UBvYOKnnEELEUsnrDu8r) | 2:47 | 2023-06-22 |  |
+| [Tonight, Our Night](https://open.spotify.com/track/0xC3O1wQNftwiWnF9HA7VO) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Tonight, Our Night](https://open.spotify.com/album/35UBvYOKnnEELEUsnrDu8r) | 2:47 | 2023-06-22 | 2023-10-03 |
 | [too late](https://open.spotify.com/track/1HvjjweYcnWWEF6kogNTdA) | [CHUNJI](https://open.spotify.com/artist/5HS9HhKluiMJe6hAoxgggj) | [too late](https://open.spotify.com/album/3cizllj4s7FZPX3ojRojZ6) | 4:13 | 2022-12-26 | 2023-02-25 |
 | [Trace](https://open.spotify.com/track/6qcNxQOnG0XIJTBJ4dj20S) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Afterglow](https://open.spotify.com/album/739E4HVYrFVObgK0IFJYkA) | 3:51 | 2022-12-12 | 2023-01-21 |
 | [Traces of You](https://open.spotify.com/track/0K9vliPUbih2E6YCLDobCu) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [The Law Cafe \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/1FuORImSSQuDDj7A1rTxSz) | 3:49 | 2022-10-07 | 2023-01-11 |

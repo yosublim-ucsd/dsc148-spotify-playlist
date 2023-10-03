@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,397 likes - 105 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,426 likes - 105 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 91 | [BORN TO LOSE](https://open.spotify.com/track/5xtRAIRKyiaeX8BrHkxdj1) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [BORN TO LOSE](https://open.spotify.com/album/7ba0mNwr5vO0mGT7DjH1M9) | 2:37 |
 | 92 | [Strawberry Ice Cream](https://open.spotify.com/track/5zd3ZyWEjTvVyiyKocCPqT) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Strawberry Ice Cream](https://open.spotify.com/album/59MmqBryooxMuIu9X8mjYz) | 3:10 |
 | 93 | [Broke Zodiac](https://open.spotify.com/track/13VBnTHnLmgst3J4dF0zpH) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 2:45 |
-| 94 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 |
+| 94 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 3:28 |
 | 95 | [Please Santa Please](https://open.spotify.com/track/2eesOzilqjDBePl9nSiUoz) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Please Santa Please](https://open.spotify.com/album/4ERnwq2BFXL3tcq0LAhXj7) | 3:17 |
 | 96 | [Driving Home for Christmas](https://open.spotify.com/track/6fwkquGp37msqCrCwrCTWs) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas with The Tenors](https://open.spotify.com/album/3KPvwbNGc4WL7IzvD0fP2V) | 2:46 |
 | 97 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 104 | [It Could've Been You](https://open.spotify.com/track/5eQAybRCE1L1YgPgu6n6UG) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [It Could've Been You](https://open.spotify.com/album/1fz0TnFIf2lhouk219X1mt) | 3:35 |
 | 105 | [Bigger Than The Song](https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song](https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653) | 3:09 |
 
-Snapshot ID: `MCw2OWM4ZGI1M2RhZjA0MDU1OGZiY2NmNjEyYzhiMjlmZjk0NzU0Y2Ez`
+Snapshot ID: `MCxkZTc0ZDM4MmNkYmQzNWNmZTM4YzQ1YzQzOTUwOGI4MTdiOTk2NmQ2`

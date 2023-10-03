@@ -4,7 +4,7 @@
 
 > make it pop! cover: david hugo
 
-771 songs - 1 day 14 hr 27 min
+772 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,7 +768,8 @@
 | [WTF](https://open.spotify.com/track/3QURQWfDKCipGVFTf5hd2k) | [Madhouse](https://open.spotify.com/artist/5bScfl9QpBaP9DOmlIqQUY) | [WTF](https://open.spotify.com/album/517WLHJFXu00Jxxy6KyU6p) | 1:45 | 2022-06-24 | 2022-08-13 |
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-18 | 2022-06-11 |
 | [wyd](https://open.spotify.com/track/2W47Qlm2vTrGXWXdf4lxka) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:19 | 2021-10-29 | 2022-03-18 |
-| [XXL](https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf) | 3:26 | 2023-08-08 |  |
+| [XXL](https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf) | 3:26 | 2023-08-08 | 2023-10-03 |
+| [XXL](https://open.spotify.com/track/4kFbxA8gCGx47zJrZ9KiQT) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:26 | 2023-09-29 |  |
 | [y can’t we b friends?](https://open.spotify.com/track/0RU3WmtsA8oUpgbH3XxTpj) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [y can’t we b friends?](https://open.spotify.com/album/6HAp1zaGP4uL7IxXKAI5K8) | 2:35 | 2022-05-27 | 2022-07-09 |
 | [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 |  |
 | [You Make Me Mad](https://open.spotify.com/track/5WyBmMS2qDyOz8O0OIQUY5) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/2Bn7ms5tZRXGvZOOT55OOf) | 3:06 | 2021-10-29 | 2022-01-08 |

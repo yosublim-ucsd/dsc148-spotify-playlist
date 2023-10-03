@@ -996,7 +996,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 132309,
       "name": "Call You in the Morning",
       "url": "https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz"
@@ -3958,6 +3958,24 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
+    },
+    {
+      "album": {
+        "name": "Pollution",
+        "url": "https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234031,
+      "name": "Pollution",
+      "url": "https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML"
     },
     {
       "album": {

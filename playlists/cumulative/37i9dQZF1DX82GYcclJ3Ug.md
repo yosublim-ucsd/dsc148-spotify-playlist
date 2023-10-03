@@ -4,7 +4,7 @@
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Jack Kays
 
-1,365 songs - 3 day 1 hr 1 min
+1,366 songs - 3 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,6 +681,7 @@
 | [Lethal](https://open.spotify.com/track/5m1fdy2KdBEqpPCAZQZ2fX) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Lethal](https://open.spotify.com/album/5zkwlC9Kh1XyBIpXPNYsyV) | 4:10 | 2023-09-22 |  |
 | [Liar 2](https://open.spotify.com/track/2ibIsi1vAP7m1LQXgwwA2i) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Perfect Saviors](https://open.spotify.com/album/2QOtRB75B25O7pn6fAd3o9) | 3:00 | 2023-08-25 |  |
 | [Lies](https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Lies](https://open.spotify.com/album/2EIv15518bIEB1LKkeDijG) | 2:50 | 2022-05-13 | 2022-07-02 |
+| [Life](https://open.spotify.com/track/6fv4UrAGhVtsRuRZ8LH2aV) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Life](https://open.spotify.com/album/7dxcjywJGUPqxUU3o2oBa5) | 2:40 | 2023-10-02 |  |
 | [Life](https://open.spotify.com/track/01YuUwKN7RFa09q72o0hBF) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Life](https://open.spotify.com/album/3fiPEJT6tp9blTffNsRPgi) | 3:06 | 2021-11-26 | 2022-02-05 |
 | [life goes by](https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [life goes by](https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY) | 2:33 | 2023-07-14 |  |
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-11-26 | 2022-01-15 |

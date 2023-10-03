@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-367 songs - 23 hr 15 min
+368 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [SHIVER](https://open.spotify.com/track/7H885hNxbt9soYD43tT0OX) | [the McFaddin](https://open.spotify.com/artist/7oQqfiFFldAKKVA91oc5Lv) | [SHIVER](https://open.spotify.com/album/6HZ2cujvIP07kqhRDn3am1) | 2:58 | 2021-02-26 | 2022-04-21 |
 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2019-11-19\* | 2020-12-11 |
 | [Showers](https://open.spotify.com/track/5lJDgnn9Wq06dBoEdMyXuz) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Showers](https://open.spotify.com/album/2BOX9sptUqhm34flUnHuM0) | 3:40 | 2021-02-06 | 2022-07-29 |
+| [Sirens](https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:28 | 2023-09-29 |  |
 | [Skin](https://open.spotify.com/track/07iFZgCmzSuGFlKG3ftJX3) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Skin](https://open.spotify.com/album/4Uq7ZKZPs6EXwRzc69dnVX) | 3:45 | 2020-12-11 | 2022-07-29 |
 | [Skin Game](https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:25 | 2022-07-06 |  |
 | [Skin Game](https://open.spotify.com/track/4qgNoDm7QIpbtt3qB96RzY) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/66aYL3AZPfk6leHxlJDYQ0) | 4:25 | 2020-12-22 | 2022-05-07 |
@@ -350,7 +351,7 @@
 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 | 2020-08-09 | 2020-12-22 |
 | [Waste It](https://open.spotify.com/track/4jRG3f3af5Vk5fBSwUGCFD) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Waste It](https://open.spotify.com/album/1Msf7cAKWBLYbXHP4rkLwx) | 3:28 | 2022-04-01 | 2022-07-27 |
 | [What Are You so Afraid Of](https://open.spotify.com/track/5NwyQFaZbL6w8SaFcPFDn8) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [What Are You so Afraid Of](https://open.spotify.com/album/3MZSEI7ImutXhDjC7kS7T4) | 2:27 | 2020-12-22 |  |
-| [What Does It Mean To Me?](https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Smothered](https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC) | 2:46 | 2022-07-06 |  |
+| [What Does It Mean To Me?](https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Smothered](https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC) | 2:46 | 2022-07-06 | 2023-10-03 |
 | [What Does It Mean To Me?](https://open.spotify.com/track/4kDqNIQiBwkqDs6jWWcHAM) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [What Does It Mean To Me?](https://open.spotify.com/album/40IbEerrh6DeFhhedn5DQx) | 2:46 | 2021-07-30 | 2022-07-29 |
 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 | 2021-07-05 | 2023-01-07 |
 | [What We Left Behind](https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH) | [Hydromag](https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa) | [What We Left Behind](https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv) | 3:55 | 2022-07-06 |  |

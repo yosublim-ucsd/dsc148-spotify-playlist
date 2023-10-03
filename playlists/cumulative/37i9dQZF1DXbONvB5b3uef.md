@@ -4,11 +4,12 @@
 
 > Como el humo voy, como el humo vengo...
 
-57 songs - 3 hr 38 min
+58 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aka Entre el Humo](https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Aka Entre el Humo](https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K) | 3:19 | 2023-09-15 |  |
+| [Allá en las Nubes](https://open.spotify.com/track/6QX8t27PrLrWioxKXMh78L) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Allá en las Nubes](https://open.spotify.com/album/3IQVpOBA63ZGSAQpyJbwB2) | 3:58 | 2023-10-02 |  |
 | [Bendice el Callejon](https://open.spotify.com/track/49Pvra9GhdSLZRVwDaKCxQ) | [Dank SA](https://open.spotify.com/artist/7tpPh8KSOzd5l9m3hDelKl) | [Bendice el Callejon](https://open.spotify.com/album/459LPTo0qLXEn3VLq17oX5) | 3:18 | 2023-09-15 |  |
 | [Bendita Vida](https://open.spotify.com/track/7bobNsL7u3lI7zvfh7y8gd) | [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb), [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Bendita Vida](https://open.spotify.com/album/1vUHMdJF82PI5LzbJExAq8) | 3:48 | 2023-09-15 |  |
 | [Bendito](https://open.spotify.com/track/452jgIQvMmcaVj2EZjeZRu) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Bajo Mundo](https://open.spotify.com/album/03trWbp7cIj02CukpUXNZo) | 3:36 | 2023-09-15 |  |

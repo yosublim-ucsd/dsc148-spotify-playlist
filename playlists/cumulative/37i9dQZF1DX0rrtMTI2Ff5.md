@@ -4,7 +4,7 @@
 
 > Éxitos internacionales que no pasan de moda.<br/>Para novedades, escucha <a href="spotify:playlist:37i9dQZF1DX6aTaZa0K6VA">Pop Up</a>.
 
-644 songs - 1 day 15 hr 13 min
+645 songs - 1 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 | 2022-04-08 | 2022-04-20 |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-12 |  |
 | [Bodak Yellow](https://open.spotify.com/track/2771LMNxwf62FTAdpJMQfM) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Bodak Yellow](https://open.spotify.com/album/1wpgafbHuQfSUmCWvahFlq) | 3:43 | 2022-04-08 | 2022-04-12 |
-| [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-11-17 |  |
+| [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-11-17 | 2023-10-03 |
 | [Born This Way](https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 4:20 | 2022-04-13 | 2022-04-19 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2022-09-23 | 2023-02-20 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 | 2021-11-17 | 2022-07-27 |
@@ -404,6 +404,7 @@
 | [no tears left to cry](https://open.spotify.com/track/5SxkdsY1ufZzoq9iXceLw9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [no tears left to cry](https://open.spotify.com/album/2AkKk7DFnT2IV1gPcq7RCQ) | 3:25 | 2021-11-17 | 2022-04-21 |
 | [Ocean \(feat\. Khalid\)](https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ocean \(feat\. Khalid\)](https://open.spotify.com/album/1XQ6XbZ6ZM1V5iEtWlYDeH) | 3:36 | 2022-04-08 | 2022-04-21 |
 | [Ocean Drive](https://open.spotify.com/track/5WsxrJcbgobPj4V7lhs8Qf) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Blasé Boys Club \(Pt\. 1\)](https://open.spotify.com/album/270fFgaAL8AL1mmGK1bld7) | 3:26 | 2022-04-08 | 2022-04-17 |
+| [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 | 2023-02-16 |  |
 | [Old Town Road \(feat\. Billy Ray Cyrus\) \- Remix](https://open.spotify.com/track/6u7jPi22kF8CTQ3rb9DHE7) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Old Town Road](https://open.spotify.com/album/38kpkGLuPr1nNfD3iEyOlJ) | 2:37 | 2022-04-08 | 2022-04-20 |
 | [On A Roll](https://open.spotify.com/track/56JyMaElW79S7TDWh1Zw1m) | [Ashley O](https://open.spotify.com/artist/14scxEoUN7Dcx1m4EQ7oHe) | [On A Roll](https://open.spotify.com/album/6eV8O8De1mibErM1XM1tEc) | 2:34 | 2022-04-08 | 2022-04-15 |
 | [On My Mind](https://open.spotify.com/track/5a7NdkF09AfD0H607eiOkX) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:33 | 2022-04-13 | 2022-04-17 |

@@ -1,13 +1,33 @@
 {
   "description": "Our favourite new music, updated monthly by the XL team. ",
-  "num_followers": 15292,
+  "num_followers": 15298,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "NjAzMyw5Mzk4OWI1MmVhYmQ3MmUyMzgzNjg0N2Q2NmNjYWY2MjgzNDhkMjk4",
+  "snapshot_id": "NjAzNSw1NDhjOGM4ZmZlMjIyZDM5YjNlNmFkNDY3ZjQ0YjA0ZTI2ZGE5NzUw",
   "tracks": [
+    {
+      "added_at": "2023-10-02 16:40:10",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3cSRHBRgdNFGHIlxKIIBDr"
+      },
+      "artists": [
+        {
+          "name": "Florentino",
+          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 283999,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/67U4c4ogb7pWU3uRINXnrn"
+    },
     {
       "added_at": "2023-09-12 16:50:12",
       "album": {

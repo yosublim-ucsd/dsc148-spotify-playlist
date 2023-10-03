@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 190956,
       "name": "Arnasa",
       "url": "https://open.spotify.com/track/0IazKTDsOeV4v3NfILh3LW"
@@ -2342,6 +2342,24 @@
       "duration_ms": 115185,
       "name": "Lost In Thought",
       "url": "https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS"
+    },
+    {
+      "album": {
+        "name": "Lo\u00b4s Magma",
+        "url": "https://open.spotify.com/album/01rQAOOlWABpfJ2CcPOIAb"
+      },
+      "artists": [
+        {
+          "name": "Robi Dixie",
+          "url": "https://open.spotify.com/artist/5NlnY2fSvi51YebjxNah6F"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Lo\u00b4s Magma",
+      "url": "https://open.spotify.com/track/6qSypfhInkt0jQC5aRcrTV"
     },
     {
       "album": {

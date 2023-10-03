@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring John Summit & VLTRA
 
-1,284 songs - 3 day 1 hr 49 min
+1,285 songs - 3 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1131,7 +1131,7 @@
 | [The Stutter](https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [The Stutter](https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4) | 3:27 | 2023-07-07 |  |
 | [The Sun Can't Compare \(My Life\)](https://open.spotify.com/track/1znM33q5b8JsG8wAE68SQ7) | [Francesco Poggi](https://open.spotify.com/artist/0kLNTRYte4lXSc4deAGDVZ), [Ida Flo](https://open.spotify.com/artist/5PTJMc6EB8B0soH4As8kNJ) | [The Sun Can't Compare \(My Life\)](https://open.spotify.com/album/3Jrv1FrKmiqCCLnTPkmlgv) | 3:40 | 2021-11-26 | 2022-01-06 |
 | [The System](https://open.spotify.com/track/3Bh75gzv3YweYg2DyD99Oj) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Intrusive](https://open.spotify.com/artist/1s9t6ekUtkWy2DsGbJwXwQ) | [The System](https://open.spotify.com/album/3dOhZ0f727O7ot8vWNNfVl) | 6:34 | 2022-01-21 | 2022-04-23 |
-| [The Treble](https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [The Treble](https://open.spotify.com/album/0iHPUixpramB60NDP56aar) | 3:22 | 2023-07-28 |  |
+| [The Treble](https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [The Treble](https://open.spotify.com/album/0iHPUixpramB60NDP56aar) | 3:22 | 2023-07-28 | 2023-10-03 |
 | [The Voodoo Babe](https://open.spotify.com/track/16Y0MeVVRU0SwpKDN9durD) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [The Voodoo Babe](https://open.spotify.com/album/43LUjSYSBd6THnIxFNqE9M) | 2:06 | 2022-06-10 | 2022-08-13 |
 | [The Way To Do It](https://open.spotify.com/track/18gn195iZFHDeLX7PiBkfp) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [The Way To Do It](https://open.spotify.com/album/6aPgR1TbdugFtOjRXJKwcQ) | 5:20 | 2022-12-28 | 2023-01-06 |
 | [The Whip](https://open.spotify.com/track/7zrjgXWXMV5jtb6Sd9vi5Q) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [James Curd](https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [The Whip](https://open.spotify.com/album/115wHgWz0aGblQkiSn2xbb) | 4:38 | 2023-02-10 | 2023-03-10 |
@@ -1196,6 +1196,7 @@
 | [Until The Morning](https://open.spotify.com/track/7jVXCigtfhxDL1mMidhlTl) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z) | [Together](https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf) | 2:39 | 2023-07-21 |  |
 | [Up All Night](https://open.spotify.com/track/3I7AY6lL2Z3ESLgHNqSdE7) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [BABA NO BABY](https://open.spotify.com/artist/1yqlkMf7u94JWTmUip5VM5) | [Up All Night](https://open.spotify.com/album/3AxNTKF8r1khG4EWKxbiQQ) | 3:47 | 2022-12-02 | 2023-02-11 |
 | [Up All Night](https://open.spotify.com/track/5s7nFwGLm6V2PUVhX45Sbi) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Up All Night](https://open.spotify.com/album/30m8YVoT4er7XKeIaIurNW) | 2:41 | 2021-11-26 | 2022-01-06 |
+| [Up N' Down \(feat\. JmNPR\)](https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [JmNPR](https://open.spotify.com/artist/30tkBTplmnwCCDx8Ueuau2) | [Up N' Down \(feat\. JmNPR\)](https://open.spotify.com/album/6q9a42z7A1E3a19aRcO1j9) | 3:28 | 2023-09-29 |  |
 | [up up in my mind](https://open.spotify.com/track/3MOg7djOmvIcLpgsnRI4UM) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [up up in my mind](https://open.spotify.com/album/4t5QRHBRS4GfTGYzXIt08q) | 3:16 | 2022-05-27 | 2022-07-09 |
 | [Use Me, Not Abuse Me](https://open.spotify.com/track/4HALS4ENzK61RC78QADJsw) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Use Me, Not Abuse Me EP](https://open.spotify.com/album/2CGm3vVWpW54VcMQ7YOzI0) | 3:16 | 2021-11-26 | 2022-01-14 |
 | [Vale](https://open.spotify.com/track/155IiTveewoEfE7ISxjM8Y) | [Marco Carpentieri](https://open.spotify.com/artist/7qD17uug3YdoCuu1UqYTJa), [Tim Aroa](https://open.spotify.com/artist/3oqcNg6aegE3fUbfn6cTun), [Devan](https://open.spotify.com/artist/2hE6W430BpJRCFBNgZE3jB) | [Vale](https://open.spotify.com/album/0wpYb0HPKekYcETe7gV02O) | 2:43 | 2022-05-06 | 2022-08-27 |

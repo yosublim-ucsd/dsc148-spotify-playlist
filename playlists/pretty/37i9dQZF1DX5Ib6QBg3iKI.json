@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 125500,
+  "num_followers": 125494,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Njg1MzhmZWIwYWU5MGUyZjg4MjhiOTIwZGIzODhkMWRiMjJhODQ3",
+  "snapshot_id": "MCw5YTJlYzYwMTRhYjQwMWYwYTQ4ODc1ZWZjYmNjMmNmNzA5NWMyNDcw",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Loneliest Time Of Year",
+        "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Loneliest Time Of Year",
+      "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "The Kacey Musgraves Christmas Show",
         "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 187733,
       "name": "It May Be Winter Outside (But In My Heart It's Spring)",
       "url": "https://open.spotify.com/track/4tHGsplffm1rxS33yrL59b"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Loneliest Time Of Year",
-        "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Loneliest Time Of Year",
-      "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "River (Live in Studio)",
-        "url": "https://open.spotify.com/album/46jfQXH6qpzGrE6Wo67jXk"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 243733,
-      "name": "River - Live in Studio",
-      "url": "https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM"
-    },
-    {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
         "name": "My Favorite Things",
         "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
       },
@@ -837,20 +821,20 @@
       "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
     },
     {
-      "added_at": "2022-11-18 01:05:05",
+      "added_at": "2022-12-09 00:00:00",
       "album": {
-        "name": "frozen halos",
-        "url": "https://open.spotify.com/album/6nxmokEb7lvYzorjXzUfYt"
+        "name": "River (Live in Studio)",
+        "url": "https://open.spotify.com/album/46jfQXH6qpzGrE6Wo67jXk"
       },
       "artists": [
         {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
         }
       ],
-      "duration_ms": 182206,
-      "name": "frozen halos",
-      "url": "https://open.spotify.com/track/1WkBmjGix4TFeAOoWzJLjD"
+      "duration_ms": 243733,
+      "name": "River - Live in Studio",
+      "url": "https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -871,6 +855,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "frozen halos",
+        "url": "https://open.spotify.com/album/6nxmokEb7lvYzorjXzUfYt"
+      },
+      "artists": [
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 182206,
+      "name": "frozen halos",
+      "url": "https://open.spotify.com/track/1WkBmjGix4TFeAOoWzJLjD"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "The King of Soul",
         "url": "https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 155560,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "christmas morning",
-        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "christmas morning",
-      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -919,6 +903,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "christmas morning",
+        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "christmas morning",
+      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "Day After Tomorrow",
         "url": "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 221906,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la"
-    },
-    {
-      "added_at": "2022-11-18 01:17:11",
-      "album": {
-        "name": "Driving Home For Christmas",
-        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 183556,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -963,6 +947,22 @@
       "duration_ms": 180853,
       "name": "Come On Home For Christmas",
       "url": "https://open.spotify.com/track/4gcSg71QTVnEphcoW5THPa"
+    },
+    {
+      "added_at": "2022-11-18 01:17:11",
+      "album": {
+        "name": "Driving Home For Christmas",
+        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 183556,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Give Love on Christmas Day (Piano Version) [Recorded Live at Spotify Studios NYC]",
+        "url": "https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 225576,
+      "name": "Give Love on Christmas Day (Piano Version) - Recorded Live at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "Songs For Christmas",
         "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Give Love on Christmas Day (Piano Version) [Recorded Live at Spotify Studios NYC]",
-        "url": "https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 225576,
-      "name": "Give Love on Christmas Day (Piano Version) - Recorded Live at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Happy Xmas (War Is Over)",
         "url": "https://open.spotify.com/album/076YZeSsRS01JRYazQplIj"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 230973,
       "name": "Tracks in the Snow",
       "url": "https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Man On The Moon",
-        "url": "https://open.spotify.com/album/6Pchjb89jY7FiyzzAo67Q6"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 171078,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/4mcgyq5Ay6OYOE4ou2FCNx"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
-        "url": "https://open.spotify.com/album/3JbFpGAcLNqPYrJOlg9nM6"
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/6Pchjb89jY7FiyzzAo67Q6"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 170459,
-      "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
-      "url": "https://open.spotify.com/track/58slbodEk0CkLmnGRf2La2"
+      "duration_ms": 171078,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/4mcgyq5Ay6OYOE4ou2FCNx"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1255,6 +1239,22 @@
       "duration_ms": 161324,
       "name": "christmas day",
       "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
+        "url": "https://open.spotify.com/album/3JbFpGAcLNqPYrJOlg9nM6"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 170459,
+      "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
+      "url": "https://open.spotify.com/track/58slbodEk0CkLmnGRf2La2"
     },
     {
       "added_at": "2022-11-18 01:05:05",

@@ -4,7 +4,7 @@
 
 > ¡Lo más fresco del hip\-hop en español! Chales Ans y Sharif en portada.
 
-281 songs - 15 hr 51 min
+282 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Click Clack](https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Chain Trackz](https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM) | [Click Clack](https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE) | 2:58 | 2023-06-16 | 2023-09-09 |
 | [Como el Agua](https://open.spotify.com/track/5vVqU82EsivrNzYTtc2GUj) | [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk) | [Capo](https://open.spotify.com/album/48xXX0Q141vKS9UcLu9mWW) | 3:20 | 2023-07-14 | 2023-09-02 |
 | [Como Me Siento](https://open.spotify.com/track/7DHyY9XQKsNi6ZrEqp2IN8) | [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Como Me Siento](https://open.spotify.com/album/5xsndTBKQ39qSyGEPvKHCG) | 3:50 | 2023-09-15 |  |
+| [Conjeturas](https://open.spotify.com/track/3EjhW5arnluxAEghi7IOV9) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo) | [Conjeturas](https://open.spotify.com/album/5l7Lf2chBOY4lywrVngsgK) | 3:33 | 2023-09-29 |  |
 | [Corridos Prohibidos](https://open.spotify.com/track/3MDF1F1duEFpI3zGj7lRMa) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Someone Sm1](https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ) | [Mexicanos Bravos](https://open.spotify.com/album/16wHA51T97ptp4kIVLSPdW) | 4:17 | 2023-08-04 |  |
 | [Crazy Love](https://open.spotify.com/track/6xYoGCKn0xphdwOixsrcIW) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Puff Puff Pass Vol.4](https://open.spotify.com/album/4RQ2sG5vnqhp1suvtuhNbS) | 3:50 | 2023-06-13 | 2023-06-24 |
 | [Crime](https://open.spotify.com/track/5looKg8bc3CAzkmyxdgRCo) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Crime](https://open.spotify.com/album/01pdI6epcgosnIga9wcDhr) | 3:28 | 2023-06-13 | 2023-07-15 |
@@ -250,7 +251,7 @@
 | [Resurgir](https://open.spotify.com/track/7EiggHJ0lC1qUj6qNeM2hN) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Resurgir](https://open.spotify.com/album/7z1FnYbJHBqY1SiVUzC9bx) | 2:32 | 2023-07-14 |  |
 | [Romanescos](https://open.spotify.com/track/2cm10yj0ysthPPzfawwyVG) | [DRZUPREEME](https://open.spotify.com/artist/0wkxgIUSVvrpkfE5B3i3eV) | [IAIA: Irrupción Atómica de la Inteligencia Artificial](https://open.spotify.com/album/2cdTv8RPfACSNe4LdCwvZC) | 2:08 | 2023-08-18 |  |
 | [Roothoppas \- Remix](https://open.spotify.com/track/5aTi6IgFwAMy6asFuihGN3) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Roothoppas \(Remix\)](https://open.spotify.com/album/5NK0JHRdH9O1w2CWaUzKNL) | 3:01 | 2023-06-16 | 2023-07-29 |
-| [Sanar](https://open.spotify.com/track/5y0wO8g2gKz6ecHaKqPDo5) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [Sanar](https://open.spotify.com/album/0NCnTwOzqrQEttbWvug0Li) | 3:08 | 2023-09-01 |  |
+| [Sanar](https://open.spotify.com/track/5y0wO8g2gKz6ecHaKqPDo5) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [Sanar](https://open.spotify.com/album/0NCnTwOzqrQEttbWvug0Li) | 3:08 | 2023-09-01 | 2023-10-03 |
 | [Sancochito](https://open.spotify.com/track/3pbkD8odeOPNdMJj2tkyWE) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Sancochito](https://open.spotify.com/album/2H9Ze7JCqDxQB8SUcHadbU) | 2:23 | 2023-07-14 | 2023-09-02 |
 | [Secreto de Dos](https://open.spotify.com/track/01bwAVAAZqqMpPWmHvbuNC) | [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo), [Abu Barrett](https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj) | [Secreto de Dos](https://open.spotify.com/album/4CiGeQYuRbwlSn1uzNWWOu) | 2:29 | 2023-06-13 | 2023-07-15 |
 | [Será posible?](https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [IceOD](https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B) | [Será posible?](https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB) | 2:38 | 2023-07-07 |  |

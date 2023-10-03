@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 90891,
+  "num_followers": 90959,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjBhM2VhMTM5ZmVlNjcxZmE3ZTlmNTUwMTI4Mzc1OTM3ZWFjOWRl",
+  "snapshot_id": "MCxkNjM2NjQwNTQ3ZGI2YzcwZGVlNGQxYzdhN2NjYTcwMzhkNTgzNDM5",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -335,22 +335,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Naima",
-        "url": "https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 487279,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/56elAIX47Q7vSQ1bpKNhHo"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Night Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 220520,
       "name": "Red Pepper Blues",
       "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Naima",
+        "url": "https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 487279,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/56elAIX47Q7vSQ1bpKNhHo"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -455,6 +455,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 277373,
+      "name": "Raise Four",
+      "url": "https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "The Savoy 10-inch LP Collection",
         "url": "https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 180533,
       "name": "Cheryl",
       "url": "https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 277373,
-      "name": "Raise Four",
-      "url": "https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -587,18 +587,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
+        "name": "Cookin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
       },
       "artists": [
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
         }
       ],
-      "duration_ms": 384706,
-      "name": "Turnaround",
-      "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
+      "duration_ms": 592506,
+      "name": "Blues By Five - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -631,18 +631,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Cookin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
       },
       "artists": [
         {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
         }
       ],
-      "duration_ms": 592506,
-      "name": "Blues By Five - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX"
+      "duration_ms": 384706,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -679,22 +679,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Blues In the Night",
-        "url": "https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        }
-      ],
-      "duration_ms": 414666,
-      "name": "Back Slidin'",
-      "url": "https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Retrospective",
         "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
       },
@@ -707,6 +691,38 @@
       "duration_ms": 427000,
       "name": "Blues For Willarene",
       "url": "https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Thelonious Alone In San Francisco",
+        "url": "https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Bluehawk",
+      "url": "https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Blues In the Night",
+        "url": "https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "duration_ms": 414666,
+      "name": "Back Slidin'",
+      "url": "https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -755,22 +771,6 @@
       "duration_ms": 300706,
       "name": "When Will The Blues Leave?",
       "url": "https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Thelonious Alone In San Francisco",
-        "url": "https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Bluehawk",
-      "url": "https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn"
     },
     {
       "added_at": "2020-10-12 18:15:54",

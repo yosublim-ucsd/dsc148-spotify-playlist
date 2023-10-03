@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-497 songs - 18 hr 49 min
+500 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Autumn Vibes](https://open.spotify.com/track/4CunTnc7wI2RxR5umvdqXV) | [HideMySoul](https://open.spotify.com/artist/2TFpGtkngq3kwQEoSA8SV1) | [Autumn Vibes](https://open.spotify.com/album/4DhQxtCE9yexFIWBy586Am) | 2:17 | 2022-07-08 | 2023-09-23 |
 | [Backwards](https://open.spotify.com/track/3kiPyaxjjdXnR7SAvQvy5W) | [Lazy Lama](https://open.spotify.com/artist/2OIClIFaDrHXq6ilh3bICZ) | [Backwards](https://open.spotify.com/album/4uRWNT5GJ4dq1Nym8N1uFN) | 2:42 | 2023-09-22 |  |
 | [Baleari](https://open.spotify.com/track/2FzjrkecNKLDLGKYCyR0WF) | [Valhallz](https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh) | [Baleari](https://open.spotify.com/album/5a4Mfj0XeE99KXxIJlf34Y) | 3:29 | 2023-09-22 |  |
-| [Battle Scars](https://open.spotify.com/track/5Dad8McLnbvlcMgatup13k) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Purpose](https://open.spotify.com/album/2pXYL4dh76enhCxUGMCoF2) | 2:03 | 2023-09-22 |  |
+| [Battle Scars](https://open.spotify.com/track/5Dad8McLnbvlcMgatup13k) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Purpose](https://open.spotify.com/album/2pXYL4dh76enhCxUGMCoF2) | 2:03 | 2023-09-22 | 2023-10-03 |
+| [Beauty](https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Beauty](https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE) | 1:51 | 2023-09-29 |  |
 | [beets per minute](https://open.spotify.com/track/1JKxBVtMRA4c5PRJXA5sVO) | [crayonine](https://open.spotify.com/artist/0FIy7978qGBeVddWRDemHo) | [beets per minute](https://open.spotify.com/album/66JCVytytkaEyK0zt149LR) | 2:03 | 2022-04-08 | 2023-09-23 |
 | [beneath your feet](https://open.spotify.com/track/2liw1mIxDdw1d0D6tkFsXG) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [beneath your feet / balcony falls](https://open.spotify.com/album/6kMAkZyLnbPHnxvtOY7kG0) | 2:03 | 2023-09-22 |  |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
@@ -196,6 +197,7 @@
 | [Hollow Park](https://open.spotify.com/track/05ULKBGbXdbVpqqokRTkEp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Hollow Park](https://open.spotify.com/album/0O0bs1ShYyAYFuJaqIuNur) | 2:06 | 2022-04-08 | 2023-09-09 |
 | [hologram](https://open.spotify.com/track/2Qnhb9gXqGZduGAlrygUQq) | [Purple Yard](https://open.spotify.com/artist/2MzcjX0qbx7Q41aerLazxm) | [hologram](https://open.spotify.com/album/5aBqi2jCXOrBx3XMAUdzcc) | 2:25 | 2023-09-22 | 2023-10-01 |
 | [Hong Kong Minute](https://open.spotify.com/track/3M0fRULm8Js8oHwiO9Cjod) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Hong Kong Minute](https://open.spotify.com/album/3DLhD7vymFXPYWscCRM7yW) | 2:17 | 2022-04-08 | 2023-09-09 |
+| [Hopes n' Lusts](https://open.spotify.com/track/2qi8vHk6pTOB5mbOPd8TlS) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Hopes n' Lusts](https://open.spotify.com/album/5sUncHibQvenjtPS22mKDP) | 2:12 | 2023-09-29 |  |
 | [Horizon Butterfly](https://open.spotify.com/track/0vdB56ot3Tp0xHxnU7kyCy) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [HoriZon Butterfly](https://open.spotify.com/album/1eMCCzTeBEiYL5cInuxSmp) | 2:00 | 2023-09-22 |  |
 | [Horizon mind](https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Horizon mind](https://open.spotify.com/album/4DPxwX7Ixo2SMiIQdUSXwE) | 3:16 | 2022-04-08 | 2023-09-23 |
 | [Howzit?](https://open.spotify.com/track/395eVmBVCjR3TY8eUrOVl4) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [Howzit?](https://open.spotify.com/album/4pXcxfjsiBm0ZU8t5kFF9t) | 2:36 | 2023-09-22 |  |
@@ -440,7 +442,7 @@
 | [Tender Tales](https://open.spotify.com/track/2vDJwbZllSZlvrC5G9MfCO) | [Eazy Lotus](https://open.spotify.com/artist/6yA8bNfaBNdvoDuhna5xvk) | [Tender Tales](https://open.spotify.com/album/3N2jyy1OZY4bSNp9g9E50C) | 2:05 | 2023-09-22 | 2023-10-02 |
 | [Testing Tubes](https://open.spotify.com/track/0z7GuzX6SvdWx7KDW5Zxg6) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Testing Tubes](https://open.spotify.com/album/3p8Ix2MVXJ8Dnnkohm2Met) | 2:28 | 2022-04-08 | 2023-09-23 |
 | [The Bay](https://open.spotify.com/track/0aSQ0c4oMfjUWoHenvcnvI) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f), [Luniworks](https://open.spotify.com/artist/0dMJ5zofJoExb5T8eSmOhW) | [The Bay](https://open.spotify.com/album/19eoQYs75KzT2Q9fA3pRPQ) | 2:09 | 2023-09-22 |  |
-| [The Carlton](https://open.spotify.com/track/3J7FvVmbz6vvPvu3XymrNK) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [The Carlton](https://open.spotify.com/album/1DMVvbrhKB6oJbZxQM0gDi) | 2:57 | 2023-09-22 |  |
+| [The Carlton](https://open.spotify.com/track/3J7FvVmbz6vvPvu3XymrNK) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [The Carlton](https://open.spotify.com/album/1DMVvbrhKB6oJbZxQM0gDi) | 2:57 | 2023-09-22 | 2023-10-03 |
 | [The Ceremony](https://open.spotify.com/track/3oQ8b6m5S531gvqZV9wEOY) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Dontcry](https://open.spotify.com/artist/6oVU5zCfJAyX49KhaKaPRS) | [Masters of the Lodge](https://open.spotify.com/album/1bx6nmknADHJvaxcvlO4go) | 1:35 | 2022-04-08 | 2023-09-23 |
 | [The Night Cruise](https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [The Night Cruise](https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo) | 2:17 | 2023-09-22 |  |
 | [This is Amsterdam](https://open.spotify.com/track/6DR19qqLR5SmXfMtOvFrrW) | [Flying Animal](https://open.spotify.com/artist/2swCJIywMR8xcM3yCXUFRx) | [This is Amsterdam](https://open.spotify.com/album/10wlmyMecAxIx7bdoIPNzK) | 1:48 | 2023-09-22 |  |
@@ -455,6 +457,7 @@
 | [ting](https://open.spotify.com/track/2EpkC5rovFu6Kqb6Rw9uYA) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [ting](https://open.spotify.com/album/2MJC68gu7gXgSGiht2JdcJ) | 2:18 | 2023-09-22 |  |
 | [Togetherness](https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV) | [Velvet Walls](https://open.spotify.com/artist/5dK4imkmeXhg5uC83F60p4) | [Togetherness](https://open.spotify.com/album/7dSngO4cCWijtF38dgNoZo) | 2:36 | 2022-04-08 | 2023-09-23 |
 | [Toys](https://open.spotify.com/track/0uA5haTZ3KkIWXReBo9PX1) | [Fairground Fish](https://open.spotify.com/artist/6lG54eZ9rnLWDSoaV4GtRE) | [XYZ](https://open.spotify.com/album/4EBEcFilrfd78jF1pIUe2M) | 2:22 | 2022-04-08 | 2023-09-23 |
+| [traffic](https://open.spotify.com/track/7rfwtpxQF4UBT7cQMslOb6) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [traffic](https://open.spotify.com/album/5ako2aURhgoMoVeh9XZSn3) | 1:39 | 2023-09-29 |  |
 | [Train Ride](https://open.spotify.com/track/4mHEsCjfyA1vKlIIgsMDrU) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 2:31 | 2022-04-08 | 2022-11-20 |
 | [Train Ride](https://open.spotify.com/track/5hCXtdsOhwWCG6zX0ivfYg) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/0NKeDOv1E57bjmFusvxqiE) | 2:31 | 2022-07-08 | 2023-09-23 |
 | [Train Ride](https://open.spotify.com/track/1wHe3rj4X3t64ysy8s6iI1) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Train Ride](https://open.spotify.com/album/75LJ0BirgujfrO2VNXNSIh) | 1:52 | 2023-09-22 | 2023-09-29 |
@@ -464,7 +467,7 @@
 | [troppo cotti](https://open.spotify.com/track/0kGXVhsOfsRaLd7pInaHWL) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [troppo cotti](https://open.spotify.com/album/22SgJONA07woG9X6c7jWwz) | 1:52 | 2023-09-22 | 2023-09-27 |
 | [Trumpet On The Street](https://open.spotify.com/track/24mMhupEYd9fMpKM60MjVp) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Trumpet On The Street](https://open.spotify.com/album/62uuJcDaUDeXUIXUbVMDKo) | 1:49 | 2022-04-08 | 2023-09-23 |
 | [Tuesday, July 14](https://open.spotify.com/track/4yhW6u0AjkMvwUY4z9TPeQ) | [Dogman Chill](https://open.spotify.com/artist/24bL1XqEUecJLJp9V1jzd2) | [Tuesday, July 14](https://open.spotify.com/album/5SNvq17CajTfZrNHcxP3qc) | 2:00 | 2022-04-08 | 2022-04-22 |
-| [Tunnel Vision](https://open.spotify.com/track/2CoR2TpBOczV3v5J8TEhGn) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [Tunnel Vision](https://open.spotify.com/album/7u2nU8RZndutf2Bh8H2y8Z) | 2:03 | 2023-09-22 |  |
+| [Tunnel Vision](https://open.spotify.com/track/2CoR2TpBOczV3v5J8TEhGn) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [Tunnel Vision](https://open.spotify.com/album/7u2nU8RZndutf2Bh8H2y8Z) | 2:03 | 2023-09-22 | 2023-10-03 |
 | [Turu\-Ima](https://open.spotify.com/track/0jBtrAzvFc1vnLI4rGtYvd) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Turu\-Ima](https://open.spotify.com/album/4uMh3lacLXG9av3GFkGM09) | 1:57 | 2023-09-22 |  |
 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 | 2022-04-08 | 2023-09-23 |
 | [undefined](https://open.spotify.com/track/4RzY9ZLhrqDwsbTl69va0t) | [Twinkz](https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9) | [undefined](https://open.spotify.com/album/3qJIV0suS9ltJYxEXB1dQF) | 1:41 | 2023-09-22 |  |

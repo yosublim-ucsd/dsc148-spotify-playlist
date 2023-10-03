@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Abraham Mateo & Sebastian Yatra",
-  "num_followers": 284176,
+  "num_followers": 284184,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjJiZjNmOTRiODc2Njk0MzBiZWFhYmMyZmI1YTAzMzJjZWM4MDdj",
+  "snapshot_id": "MCwzY2ZhY2ZkM2UxNjVjODBjZTYwZTlmZDZlMDhiNjkwYzQxYTQ3ZTAw",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -423,6 +423,30 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "mejores amigos",
+        "url": "https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        },
+        {
+          "name": "Candela G\u00f3mez",
+          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
+        },
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "mejores amigos",
+      "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/5TEmJiH317A6sLPWg27LRj"
       },
@@ -487,8 +511,8 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "mejores amigos",
-        "url": "https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8"
+        "name": "Me Gustas Tanto",
+        "url": "https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2"
       },
       "artists": [
         {
@@ -496,17 +520,13 @@
           "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
         },
         {
-          "name": "Candela G\u00f3mez",
-          "url": "https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h"
-        },
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
         }
       ],
-      "duration_ms": 173259,
-      "name": "mejores amigos",
-      "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
+      "duration_ms": 121674,
+      "name": "Me Gustas Tanto",
+      "url": "https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -651,26 +671,6 @@
       "duration_ms": 216184,
       "name": "La Trampa",
       "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Me Gustas Tanto",
-        "url": "https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 121674,
-      "name": "Me Gustas Tanto",
-      "url": "https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "San Saltar\u00edn",
-        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 258765,
-      "name": "San Saltar\u00edn",
-      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Esa Estrella",
         "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 238232,
       "name": "Esa Estrella",
       "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "San Saltar\u00edn",
+        "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 258765,
+      "name": "San Saltar\u00edn",
+      "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "M\u00e1s Tuyo",
-        "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 179891,
-      "name": "M\u00e1s Tuyo",
-      "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "FLASHBACKS",
         "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
       },
@@ -1051,22 +1035,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Generaci\u00f3n Inmediata",
-        "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Tu Tiempo",
-      "url": "https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Maldivas",
         "url": "https://open.spotify.com/album/51dVROPWemf4IOiRHVDMrE"
       },
@@ -1083,6 +1051,38 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "M\u00e1s Tuyo",
+        "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 179891,
+      "name": "M\u00e1s Tuyo",
+      "url": "https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Generaci\u00f3n Inmediata",
+        "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Tu Tiempo",
+      "url": "https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "AAAAAA",
         "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 206615,
       "name": "Plaza En el Cielo",
       "url": "https://open.spotify.com/track/7gaonWEr5gnYx27N3JxZ2o"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Desp\u00eddete Bien",
-        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 192124,
-      "name": "Desp\u00eddete Bien",
-      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Desp\u00eddete Bien",
+        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "Desp\u00eddete Bien",
+      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Celosa",
         "url": "https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Astronom\u00eda Interior",
-        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
-      },
-      "artists": [
-        {
-          "name": "Astronom\u00eda Interior",
-          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Gris",
         "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 189586,
       "name": "Gris",
       "url": "https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Astronom\u00eda Interior",
+        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
+      },
+      "artists": [
+        {
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
     },
     {
       "added_at": "2023-09-08 04:00:00",

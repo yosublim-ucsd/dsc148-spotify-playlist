@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Afterlight",
+        "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Afterlight",
+      "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
+    },
+    {
+      "album": {
         "name": "Alba",
         "url": "https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq"
       },
@@ -1687,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Fall a hundred times",
+        "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136658,
+      "name": "Fall a hundred times",
+      "url": "https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7"
+    },
+    {
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/3hX0ay3ofbFMq2L9DexOsC"
       },
@@ -2527,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "Introvert",
+        "url": "https://open.spotify.com/album/0yaHISsvX3tseupbiwm2d8"
+      },
+      "artists": [
+        {
+          "name": "Nadija Lapina",
+          "url": "https://open.spotify.com/artist/1VPvIcBilHkAOqfwEEWfH9"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145657,
+      "name": "Introvert",
+      "url": "https://open.spotify.com/track/255aV1UNNwLHwkqBAfInaW"
+    },
+    {
+      "album": {
         "name": "Island II",
         "url": "https://open.spotify.com/album/1ZzQ5rkaZ8EVR7SiQUZC9l"
       },
@@ -3352,6 +3406,24 @@
       "duration_ms": 198546,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/5kxplUhUr8OpwOpJ2Ururp"
+    },
+    {
+      "album": {
+        "name": "Muse Of History",
+        "url": "https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi"
+      },
+      "artists": [
+        {
+          "name": "Roland Toubin",
+          "url": "https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141814,
+      "name": "Muse Of History",
+      "url": "https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T"
     },
     {
       "album": {

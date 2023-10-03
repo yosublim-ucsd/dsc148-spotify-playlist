@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 57832,
+  "num_followers": 57840,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2M2ZmQ2YzRlYTFlZDY2MTFlOWIxMjA5ZWYxN2JjZDhlZTBkMjFh",
+  "snapshot_id": "MCwzMzhhODFlYTQ3MTgzYmI2YmJjMmQ4MjFhYjVhMmQ1ZThjNDBkYzJj",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
+        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 285880,
+      "name": "La Canci\u00f3n de Linyera",
+      "url": "https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Tino Contreras",
         "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 168198,
       "name": "Orfeo en los Tambores",
       "url": "https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Adoro",
-        "url": "https://open.spotify.com/album/13jVO3IGrhb8lmqLeozNuf"
-      },
-      "artists": [
-        {
-          "name": "Julia Vari",
-          "url": "https://open.spotify.com/artist/6b4fj1wggxqKrKB0dkghky"
-        }
-      ],
-      "duration_ms": 327653,
-      "name": "Voy a Apagar la Luz",
-      "url": "https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8"
     },
     {
       "added_at": "2023-03-16 20:51:30",
@@ -171,18 +171,34 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
-        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/13jVO3IGrhb8lmqLeozNuf"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+          "name": "Julia Vari",
+          "url": "https://open.spotify.com/artist/6b4fj1wggxqKrKB0dkghky"
         }
       ],
-      "duration_ms": 285880,
-      "name": "La Canci\u00f3n de Linyera",
-      "url": "https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob"
+      "duration_ms": 327653,
+      "name": "Voy a Apagar la Luz",
+      "url": "https://open.spotify.com/track/2XZhpqpafZhpz03QnX8Gk8"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Daniel Wong Trio",
+        "url": "https://open.spotify.com/album/0cUyChxSDtRGlcl0gbaF2B"
+      },
+      "artists": [
+        {
+          "name": "Daniel Wong",
+          "url": "https://open.spotify.com/artist/1TekEtDI0YjvmOSnZJkY5J"
+        }
+      ],
+      "duration_ms": 230191,
+      "name": "Monk Around",
+      "url": "https://open.spotify.com/track/0elx5KQKvHmMkkFPYhBbc3"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -217,6 +233,22 @@
       "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
     },
     {
+      "added_at": "2023-04-12 01:24:34",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Jazztepec",
+      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
+    },
+    {
       "added_at": "2022-08-09 18:38:23",
       "album": {
         "name": "Tukumtak",
@@ -235,22 +267,6 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
-    },
-    {
-      "added_at": "2023-04-12 01:24:34",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Jazztepec",
-      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -301,22 +317,6 @@
       "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
-    },
-    {
       "added_at": "2023-04-13 19:45:15",
       "album": {
         "name": "Calladito Te Ves Mejor",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "2 Cartas",
         "url": "https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 167026,
       "name": "Breakfast At Tiffany's",
       "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Daniel Wong Trio",
-        "url": "https://open.spotify.com/album/0cUyChxSDtRGlcl0gbaF2B"
-      },
-      "artists": [
-        {
-          "name": "Daniel Wong",
-          "url": "https://open.spotify.com/artist/1TekEtDI0YjvmOSnZJkY5J"
-        }
-      ],
-      "duration_ms": 230191,
-      "name": "Monk Around",
-      "url": "https://open.spotify.com/track/0elx5KQKvHmMkkFPYhBbc3"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -555,6 +555,26 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Paisaje Gris",
+        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
+      },
+      "artists": [
+        {
+          "name": "Jenny Beaujean",
+          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
+        },
+        {
+          "name": "Benjam\u00edn Garc\u00eda",
+          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "Paisaje Gris",
+      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
         "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
       },
@@ -579,42 +599,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Paisaje Gris",
-        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
-      },
-      "artists": [
-        {
-          "name": "Jenny Beaujean",
-          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
-        },
-        {
-          "name": "Benjam\u00edn Garc\u00eda",
-          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
-        }
-      ],
-      "duration_ms": 259133,
-      "name": "Paisaje Gris",
-      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "\u00a1Oh! Mi Amor",
-        "url": "https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u"
-      },
-      "artists": [
-        {
-          "name": "DaJuana Band",
-          "url": "https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm"
-        }
-      ],
-      "duration_ms": 318122,
-      "name": "Trato De Asimilar",
-      "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Raz\u00f3n de Vivir (Desde Casa)",
         "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 254269,
       "name": "Raz\u00f3n de Vivir (Desde Casa)",
       "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "\u00a1Oh! Mi Amor",
+        "url": "https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u"
+      },
+      "artists": [
+        {
+          "name": "DaJuana Band",
+          "url": "https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm"
+        }
+      ],
+      "duration_ms": 318122,
+      "name": "Trato De Asimilar",
+      "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "D\u00edas Lentos",
-        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Beaujean",
-          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Chorinho Blanco",
-      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "KonFussion",
         "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 304213,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "D\u00edas Lentos",
+        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Beaujean",
+          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Chorinho Blanco",
+      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -847,18 +847,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Frente A Frente: Mexican Jazz Jam",
-        "url": "https://open.spotify.com/album/3hF6IXgJlQ0gEwHJzVl9fr"
+        "name": "Nuevas Relaciones: Atardecer",
+        "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
       },
       "artists": [
         {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+          "name": "Freddy Marichal",
+          "url": "https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA"
+        },
+        {
+          "name": "Nuevas Relaciones, Las",
+          "url": "https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Safo (La Sacerdotiza Del Amor)",
-      "url": "https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T"
+      "duration_ms": 370586,
+      "name": "La vida tiene que seguir, amor",
+      "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-21",
-  "description": "The official EA SPORTS FC 24 Soundtrack.",
+  "description": "El soundtrack oficial de EA SPORTS FC 24.",
   "name": "EA SPORTS FC 24 Official Soundtrack",
   "tracks": [
     {
@@ -1508,6 +1508,28 @@
       "duration_ms": 187058,
       "name": "Show Me The Money (with Tkay Maidza)",
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
+    },
+    {
+      "album": {
+        "name": "Sigo Tus Pasos",
+        "url": "https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242983,
+      "name": "Sigo Tus Pasos",
+      "url": "https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO"
     },
     {
       "album": {

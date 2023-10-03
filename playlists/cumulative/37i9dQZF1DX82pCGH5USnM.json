@@ -6897,6 +6897,24 @@
     },
     {
       "album": {
+        "name": "L\u2019avion",
+        "url": "https://open.spotify.com/album/1VD6PTvEFHDks4Z6dkZTlk"
+      },
+      "artists": [
+        {
+          "name": "Palombi",
+          "url": "https://open.spotify.com/artist/7jY1E7URIXvA0gmnuE2m2k"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155250,
+      "name": "L\u2019avion",
+      "url": "https://open.spotify.com/track/1TZ3xS8JjAPbvYe5BqIqhW"
+    },
+    {
+      "album": {
         "name": "Maddox",
         "url": "https://open.spotify.com/album/2XutPFVkCnENyQGz32Mvl2"
       },

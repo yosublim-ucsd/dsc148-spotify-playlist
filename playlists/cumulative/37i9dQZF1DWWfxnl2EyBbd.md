@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-518 songs - 1 day 15 hr 47 min
+519 songs - 1 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Day Dream](https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:13 | 2022-02-10 | 2022-05-18 |
 | [Deep As Love](https://open.spotify.com/track/2zLYr006x2323uleZZT1U2) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 5:54 | 2022-02-10 | 2022-11-21 |
 | [Den milde dag er lys og lang](https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Den milde dag er lys og lang](https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC) | 2:26 | 2022-02-25 |  |
-| [Denmark](https://open.spotify.com/track/4An9UP6jPeBqQQVxSQqU0z) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Denmark](https://open.spotify.com/album/0RBjVKwdTopRmzaSUWE1la) | 3:47 | 2022-02-25 |  |
+| [Denmark](https://open.spotify.com/track/4An9UP6jPeBqQQVxSQqU0z) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Denmark](https://open.spotify.com/album/0RBjVKwdTopRmzaSUWE1la) | 3:47 | 2022-02-25 | 2023-10-03 |
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2022-11-12 |  |
 | [Det Lilla](https://open.spotify.com/track/5PXrMlPFARqpwCGtuhywSs) | [Tingvall Trio](https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M) | [Det Lilla](https://open.spotify.com/album/3fVBRaXkD4TolDw3jBfGDD) | 3:33 | 2022-02-25 |  |
 | [Diane](https://open.spotify.com/track/77BESrsUN386SrjEA7siB5) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Plays Charles Mingus](https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f) | 3:11 | 2022-07-07 |  |
@@ -483,6 +483,7 @@
 | [Waltz At Midnight](https://open.spotify.com/track/6fmBZeSeM8Cp4mNivC7AGT) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Waltz At Midnight](https://open.spotify.com/album/2qKhcF6JaeTuNcr1uzrcY8) | 3:34 | 2022-11-12 |  |
 | [Waltz for Lee](https://open.spotify.com/track/5BYn6GKE2Yd0O0vUQNqBkp) | [Brad Hatfield](https://open.spotify.com/artist/2Z5iQ23reHkZArqqSM27zj) | [Straight Up: Jazz and Cocktails, Vol\. 3](https://open.spotify.com/album/6Lvf6z9nGN6FjesTVA0WO0) | 4:48 | 2022-02-10 |  |
 | [Waterfall](https://open.spotify.com/track/0Gyu7ttkfam04VeAgZEB3c) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Waterfall](https://open.spotify.com/album/4ce6IAUlzsEe7elxVkRZqc) | 2:32 | 2023-01-12 |  |
+| [We Belong](https://open.spotify.com/track/2410Vjf0jkJcW6iuizPkEA) | [Jan Geijtenbeek](https://open.spotify.com/artist/3JbGZKuEjufoBiGqjRNYSP), [Niek de Bruijn](https://open.spotify.com/artist/6MCOy9B3LZpPWlgngExhuc), [Thomas Pol](https://open.spotify.com/artist/6zdJjdjOSerTzdPK3ZPIX4) | [In Between](https://open.spotify.com/album/72ZJ7VMTmePLtAJLeftAJp) | 5:45 | 2023-09-29 |  |
 | [We Don´t Need Another Hero](https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [What Took You so Long](https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt) | 4:31 | 2022-02-10 | 2023-04-28 |
 | [We'll Be Together Again](https://open.spotify.com/track/61AfCvc8HNqukDiqgLs1yF) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [We'll Be Together Again](https://open.spotify.com/album/3lWvifGDuUhFsCyxg8ixPn) | 4:29 | 2022-11-12 |  |
 | [We've Been Through This Before](https://open.spotify.com/track/5lk6Ro1xDJJyKAqjWd78JG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [We've Been Through This Before](https://open.spotify.com/album/74QY0bWf3DRBrHPujvE2IT) | 2:25 | 2023-01-12 |  |

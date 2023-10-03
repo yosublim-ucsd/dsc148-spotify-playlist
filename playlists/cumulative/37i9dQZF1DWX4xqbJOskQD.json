@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "The Coed Singles",
+        "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
+      },
+      "artists": [
+        {
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+        }
+      ],
+      "date_added": "2020-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151455,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
+    },
+    {
+      "album": {
         "name": "Hits Singles: Collectors Series",
         "url": "https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH"
       },
@@ -268,32 +286,10 @@
       ],
       "date_added": "2020-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 151768,
       "name": "Have You Heard",
       "url": "https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR"
-    },
-    {
-      "album": {
-        "name": "The Coed Singles",
-        "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
-      },
-      "artists": [
-        {
-          "name": "The Duprees",
-          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
-        },
-        {
-          "name": "Joey Vann",
-          "url": "https://open.spotify.com/artist/2gwyU5YjHiip6iUeUXt8AB"
-        }
-      ],
-      "date_added": "2020-08-17",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 151455,
-      "name": "Have You Heard (feat. Joey Vann)",
-      "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
     },
     {
       "album": {

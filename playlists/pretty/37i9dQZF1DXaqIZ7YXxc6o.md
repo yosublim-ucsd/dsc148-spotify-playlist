@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Young Franco
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,799 likes - 105 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,831 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 58 | [The World](https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [A.M](https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK) | 3:29 |
 | 59 | [Wasted](https://open.spotify.com/track/0Trr3QSf9SvtFRtuAPVoBn) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Wasted](https://open.spotify.com/album/1dklzQmTgzrPxN0YOrh7H3) | 3:31 |
 | 60 | [Sticky \- Sassy 009 Remix](https://open.spotify.com/track/789ctiE2kjS4GvdBPkmcPA) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Sticky \(Sassy 009 Remix\)](https://open.spotify.com/album/6iVsqudDdoguZ0bqYTIzla) | 3:24 |
-| 61 | [Russia \- Nightmares On Wax 10th Anniversary Remix](https://open.spotify.com/track/1pjgAfJIPdhOALB4tSd2V0) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Russia \(Nightmares On Wax 10th Anniversary Remix\)](https://open.spotify.com/album/1jl8wdsypQhNpcdAVfgFSw) | 6:26 |
+| 61 | [Russia \- Nightmares On Wax 10th Anniversary Remix](https://open.spotify.com/track/0ChEat6BKOJ4l0ltImHNHe) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Blackbird Returns](https://open.spotify.com/album/6r3NfKBFkgG0QD2ayvff1r) | 6:26 |
 | 62 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 |
 | 63 | [We Could Be Falling In Love \- Edit](https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [We Could Be Falling In Love](https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L) | 2:59 |
 | 64 | [One Last Dance](https://open.spotify.com/track/07B9SsrBhdpcVBGb7vOKYL) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [One Last Dance](https://open.spotify.com/album/4YYQxEE1F9q99lwD6HEzzJ) | 3:06 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 104 | [stay](https://open.spotify.com/track/71ZTTsP2SwH7GFUhTUqWw2) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Sace](https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA), [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu) | [stay](https://open.spotify.com/album/71fElHDTX4T1RKOaD0U4az) | 2:02 |
 | 105 | [ENERGY \(feat\. What So Not\)](https://open.spotify.com/track/56p7iNjfq5CAwYHAUtgcvl) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [EXISTENTIAL DANCE MUSIC](https://open.spotify.com/album/08B5vetD5dOlXKwFSDF4xz) | 3:52 |
 
-Snapshot ID: `MCw2MGZkZjg5YTUxNGU4ZjU5ZTUzNWM3NjJlNWU3NGEwMGRkYjRmZDZj`
+Snapshot ID: `MCw1ZjkxZDIzZTk5MGU0NmJmODkwNDBlZDJlMTlhN2Y1NmEwOGM3Y2Ux`

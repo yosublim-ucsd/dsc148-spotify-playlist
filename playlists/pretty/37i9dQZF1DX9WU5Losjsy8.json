@@ -1,12 +1,12 @@
 {
   "description": "Ist nur einmal im Jahr!",
-  "num_followers": 361670,
+  "num_followers": 361821,
   "original_name": "Malle Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDEwNjhiOTcyMzVmMTJmZjU3YTMwYzJlMTQzODk0YTVlMTc5YjM1",
+  "snapshot_id": "MCxhMTJlMTNlN2U5NTZhYjIwZTExYjA1MmYxOGRlZTIxMWViYWY1ZGM5",
   "tracks": [
     {
       "added_at": "2023-09-18 16:25:06",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Dicht im Flieger",
-        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Dicht im Flieger",
-      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Farbenspiel",
         "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
       },
@@ -243,6 +227,46 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
+        "name": "Dicht im Flieger",
+        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Dicht im Flieger",
+      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Fliesentisch Romantik 2",
+        "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Easy Peasy",
+      "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
         "name": "Culcha Candela",
         "url": "https://open.spotify.com/album/74tpHkTc0lXgJDz7JrvlfM"
       },
@@ -271,30 +295,6 @@
       "duration_ms": 153956,
       "name": "Inselfieber",
       "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
-        "name": "Fliesentisch Romantik 2",
-        "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "Easy Peasy",
-      "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
+        "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
+      },
+      "artists": [
+        {
+          "name": "Trailerpark",
+          "url": "https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB"
+        }
+      ],
+      "duration_ms": 265494,
+      "name": "Bleib in der Schule",
+      "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
         "name": "Rapunzel (DJ Robin Remix)",
         "url": "https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 165045,
       "name": "Rapunzel - DJ Robin Remix",
       "url": "https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
-        "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
-      },
-      "artists": [
-        {
-          "name": "Trailerpark",
-          "url": "https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB"
-        }
-      ],
-      "duration_ms": 265494,
-      "name": "Bleib in der Schule",
-      "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Ich schwanke noch",
-        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
-      },
-      "artists": [
-        {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
-        }
-      ],
-      "duration_ms": 209358,
-      "name": "Ich schwanke noch",
-      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Atzen Musik Vol.1, 2 & 3",
         "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
       },
@@ -503,22 +487,18 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Partysau",
-        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
+        "name": "Ich schwanke noch",
+        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
       },
       "artists": [
         {
-          "name": "Malle Kalle",
-          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
-        },
-        {
-          "name": "Danergy",
-          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
         }
       ],
-      "duration_ms": 115680,
-      "name": "Partysau",
-      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
+      "duration_ms": 209358,
+      "name": "Ich schwanke noch",
+      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -535,6 +515,26 @@
       "duration_ms": 220373,
       "name": "Verdammt, ich lieb Dich - 2020 Remastered",
       "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Partysau",
+        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
+      },
+      "artists": [
+        {
+          "name": "Malle Kalle",
+          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
+        },
+        {
+          "name": "Danergy",
+          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
+        }
+      ],
+      "duration_ms": 115680,
+      "name": "Partysau",
+      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -751,6 +751,26 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
+        "name": "Party Chaos",
+        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        },
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Strobo Pop",
+      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
         "name": "Kabinenparty",
         "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
       },
@@ -775,22 +795,18 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Party Chaos",
-        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
+        "name": "Zeig mir den Platz an der Sonne",
+        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
       },
       "artists": [
         {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        },
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Strobo Pop",
-      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
+      "duration_ms": 244640,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -815,22 +831,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Zeig mir den Platz an der Sonne",
-        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Griechischer Wein",
-      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Hurra die Gams",
         "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 204444,
       "name": "Hurra die Gams",
       "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
+        "url": "https://open.spotify.com/album/268VrfGJQ200XIqhvZIypX"
+      },
+      "artists": [
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "duration_ms": 223671,
+      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
+      "url": "https://open.spotify.com/track/2TBimpeTwsFPzpSRuUHw18"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -867,34 +883,18 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
+        "name": "Atzen Musik Vol.1, 2 & 3",
+        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
       },
       "artists": [
         {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
         }
       ],
-      "duration_ms": 144533,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
-        "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
-        "url": "https://open.spotify.com/album/268VrfGJQ200XIqhvZIypX"
-      },
-      "artists": [
-        {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
-        }
-      ],
-      "duration_ms": 223671,
-      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
-      "url": "https://open.spotify.com/track/2TBimpeTwsFPzpSRuUHw18"
+      "duration_ms": 204946,
+      "name": "Disco Pogo",
+      "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Atzen Musik Vol.1, 2 & 3",
-        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
       },
       "artists": [
         {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
         }
       ],
-      "duration_ms": 204946,
-      "name": "Disco Pogo",
-      "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
+      "duration_ms": 144533,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Bring mich nach Hause",
-        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Bring mich nach Hause",
-      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Heute nicht!",
         "url": "https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 194271,
       "name": "Heute nicht!",
       "url": "https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Bring mich nach Hause",
+        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Bring mich nach Hause",
+      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Auf geht\u2019s nach Malle (Sar\u00e0 perch\u00e9 ti amo)",
-        "url": "https://open.spotify.com/album/5HQxiHwV6aa81zg3zJg1Nc"
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
       "artists": [
         {
-          "name": "Frenzy",
-          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
         },
         {
-          "name": "Banjee",
-          "url": "https://open.spotify.com/artist/09Cd4t2LRKHr2sPbAXw4rm"
+          "name": "Nik P.",
+          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
         }
       ],
-      "duration_ms": 151579,
-      "name": "Auf geht\u2019s nach Malle (Sar\u00e0 perch\u00e9 ti amo)",
-      "url": "https://open.spotify.com/track/2T8t116RDkrvAA6WwzdMJm"
+      "duration_ms": 236200,
+      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
+      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -1223,22 +1223,22 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+        "name": "Auf geht\u2019s nach Malle (Sar\u00e0 perch\u00e9 ti amo)",
+        "url": "https://open.spotify.com/album/5HQxiHwV6aa81zg3zJg1Nc"
       },
       "artists": [
         {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
         },
         {
-          "name": "Nik P.",
-          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
+          "name": "Banjee",
+          "url": "https://open.spotify.com/artist/09Cd4t2LRKHr2sPbAXw4rm"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
-      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
+      "duration_ms": 151579,
+      "name": "Auf geht\u2019s nach Malle (Sar\u00e0 perch\u00e9 ti amo)",
+      "url": "https://open.spotify.com/track/2T8t116RDkrvAA6WwzdMJm"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Freitag, Samstag",
-        "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 156356,
-      "name": "Freitag, Samstag",
-      "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Anna-Lena",
         "url": "https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d"
       },
@@ -1435,58 +1415,22 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Klempner Klaus",
-        "url": "https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL"
+        "name": "Freitag, Samstag",
+        "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
       },
       "artists": [
         {
-          "name": "GABBY",
-          "url": "https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI"
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
         },
         {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
         }
       ],
-      "duration_ms": 155820,
-      "name": "Klempner Klaus",
-      "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
-        "name": "Senorita",
-        "url": "https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk"
-      },
-      "artists": [
-        {
-          "name": "Kay One",
-          "url": "https://open.spotify.com/artist/6VjbeCqoayiHYnefrisskv"
-        },
-        {
-          "name": "Pietro Lombardi",
-          "url": "https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0"
-        }
-      ],
-      "duration_ms": 238978,
-      "name": "Senorita",
-      "url": "https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+      "duration_ms": 156356,
+      "name": "Freitag, Samstag",
+      "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -1511,6 +1455,62 @@
       "duration_ms": 155139,
       "name": "Blockfl\u00f6tenunterricht",
       "url": "https://open.spotify.com/track/6wWF5ahS0ebMhgOk6JbrcB"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Klempner Klaus",
+        "url": "https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL"
+      },
+      "artists": [
+        {
+          "name": "GABBY",
+          "url": "https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI"
+        },
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        }
+      ],
+      "duration_ms": 155820,
+      "name": "Klempner Klaus",
+      "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Senorita",
+        "url": "https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk"
+      },
+      "artists": [
+        {
+          "name": "Kay One",
+          "url": "https://open.spotify.com/artist/6VjbeCqoayiHYnefrisskv"
+        },
+        {
+          "name": "Pietro Lombardi",
+          "url": "https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0"
+        }
+      ],
+      "duration_ms": 238978,
+      "name": "Senorita",
+      "url": "https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD"
     },
     {
       "added_at": "2023-09-18 16:25:06",

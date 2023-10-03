@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 345812,
+  "num_followers": 345859,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWM2MDE5MjQxNTgxMGUxMzRmZDc1ODM2MzBmZDQ4MDBlMmU2N2Qw",
+  "snapshot_id": "MCw1YWJlNTJiMTg0OGJlMzM0MjkwNThlY2U4YWU0N2ZiYzA2MDdhODQx",
   "tracks": [
     {
       "added_at": "2023-09-15 09:57:52",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Hits Different",
+      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 258004,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
-        "name": "Midnights (The Til Dawn Edition)",
-        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Hits Different",
-      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 141971,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 141971,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
+        "name": "Ghost of You",
+        "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 158063,
+      "name": "Ghost of You",
+      "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 163500,
       "name": "Wer wenn nicht wir",
       "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
-        "name": "Ghost of You",
-        "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 158063,
-      "name": "Ghost of You",
-      "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
+        "name": "Mehr davon",
+        "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
+      },
+      "artists": [
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+        }
+      ],
+      "duration_ms": 173808,
+      "name": "Mehr davon",
+      "url": "https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
         "name": "Butterflies (feat. FLETCHER)",
         "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 191250,
       "name": "Butterflies (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
-        "name": "Mehr davon",
-        "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
-      },
-      "artists": [
-        {
-          "name": "LOTTE",
-          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
-        }
-      ],
-      "duration_ms": 173808,
-      "name": "Mehr davon",
-      "url": "https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 156167,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
         "name": "Small Steps",
         "url": "https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 166991,
       "name": "Small Steps",
       "url": "https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 156167,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "Keep It Low",
-        "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
-      },
-      "artists": [
-        {
-          "name": "Martis",
-          "url": "https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Keep It Low",
-      "url": "https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
         "name": "Somewhere in Between",
         "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/5eSlr42inu5AFjbZ2Wo6RZ"
+        "name": "Keep It Low",
+        "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
       },
       "artists": [
         {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+          "name": "Martis",
+          "url": "https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI"
         }
       ],
-      "duration_ms": 214383,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/78MATjjZr1LB5RNntxSCGY"
+      "duration_ms": 172000,
+      "name": "Keep It Low",
+      "url": "https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -1099,6 +1083,22 @@
       "duration_ms": 150540,
       "name": "Sweethoneylove",
       "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/5eSlr42inu5AFjbZ2Wo6RZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 214383,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/78MATjjZr1LB5RNntxSCGY"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl"
+        "name": "Let\u2019s Go Home Together (Luca Schreiner Remix)",
+        "url": "https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy"
       },
       "artists": [
         {
-          "name": "Davina Michelle",
-          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 198803,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r"
+      "duration_ms": 208692,
+      "name": "Let\u2019s Go Home Together",
+      "url": "https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g"
     }
   ],
   "unique_name": "Feelgood Pop",

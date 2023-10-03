@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Amalthea",
+        "url": "https://open.spotify.com/album/47dsrJpp1b6HW9kikjIl9r"
+      },
+      "artists": [
+        {
+          "name": "Aysun",
+          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210407,
+      "name": "Amalthea",
+      "url": "https://open.spotify.com/track/2p0hmBbbSxX5z1ZLvlLIW7"
+    },
+    {
+      "album": {
         "name": "Amethyst",
         "url": "https://open.spotify.com/album/5P0Bhww1awDkLtAh5CKi9k"
       },
@@ -808,7 +826,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 441000,
       "name": "Evening Flute",
       "url": "https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY"

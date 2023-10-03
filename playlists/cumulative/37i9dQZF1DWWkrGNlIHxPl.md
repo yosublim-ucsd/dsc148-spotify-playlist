@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Faouzia
 
-309 songs - 17 hr 8 min
+310 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Popular](https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Popular](https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k) | 2:06 | 2023-04-07 | 2023-05-08 |
 | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/track/7DwNsMz0MNNoHsKIZWjj73) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/album/2xj1LqRyLkOpB6xgiVHrIK) | 2:38 | 2022-10-08 | 2023-04-01 |
 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 | 2023-03-20 |  |
+| [Ra2i2a](https://open.spotify.com/track/3rVzXNNZqxhwGn0azDDKZm) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Harara](https://open.spotify.com/album/0ZgfIhQcP5ahuAxIGvxnNf) | 2:46 | 2023-10-02 |  |
 | [Rani Fi Mouchkila](https://open.spotify.com/track/36hv6TVKtt0O08Z4nV4xVK) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [Rani Fi Mouchkila](https://open.spotify.com/album/1ZsOEolN3qlSfG1ejFWpfK) | 4:27 | 2022-06-06 | 2022-06-24 |
 | [RAS L'KHEIT](https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [RAS L'KHEIT](https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y) | 2:48 | 2023-05-26 |  |
 | [Rather Try](https://open.spotify.com/track/7D09Q387brpXrH6w1eXYdY) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Rather Try](https://open.spotify.com/album/14CEaWYYQN7bEqnYu21syi) | 2:37 | 2023-08-14 |  |

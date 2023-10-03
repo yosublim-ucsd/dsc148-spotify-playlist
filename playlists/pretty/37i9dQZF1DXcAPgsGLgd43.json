@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3487,
+  "num_followers": 3491,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjUyYTBhNTEwMmE3YzJlM2FmNWJhNjFlOTM3MTYyZjcxYmUzNTZi",
+  "snapshot_id": "MCw3YjVjYzBlNjVmZmNlMjQxOGRjMDM0NTdjN2E3NWFlNzBlNTJiYTEx",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        }
+      ],
+      "duration_ms": 183810,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Witch Doctor",
         "url": "https://open.spotify.com/album/7etpucnkFPkpi89M5CCdu4"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 190987,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/0FrP64eh0yTC3uDVsq0wG4"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl"
-      },
-      "artists": [
-        {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        }
-      ],
-      "duration_ms": 183810,
-      "name": "Ritmo",
-      "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -691,46 +691,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 188732,
-      "name": "Umoja",
-      "url": "https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH"
-    },
-    {
-      "added_at": "2021-11-05 06:05:00",
-      "album": {
-        "name": "Quem\u00e1",
-        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Andrew Mathers",
-          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Quem\u00e1",
-      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Di Nobo / Shonuff",
         "url": "https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB"
       },
@@ -743,6 +703,22 @@
       "duration_ms": 195000,
       "name": "Di Nobo",
       "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 188732,
+      "name": "Umoja",
+      "url": "https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -779,6 +755,30 @@
       "duration_ms": 174000,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/1Z11FDEfDhpGnDSmeASq1J"
+    },
+    {
+      "added_at": "2021-11-05 06:05:00",
+      "album": {
+        "name": "Quem\u00e1",
+        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Andrew Mathers",
+          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Quem\u00e1",
+      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Ay Papi",
+        "url": "https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe"
+      },
+      "artists": [
+        {
+          "name": "Local Singles",
+          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Ay Papi",
+      "url": "https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "Calle EP",
         "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 157530,
       "name": "Vagabundos",
       "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Ay Papi",
-        "url": "https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe"
-      },
-      "artists": [
-        {
-          "name": "Local Singles",
-          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Ay Papi",
-      "url": "https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu"
     },
     {
       "added_at": "2021-10-08 15:53:55",

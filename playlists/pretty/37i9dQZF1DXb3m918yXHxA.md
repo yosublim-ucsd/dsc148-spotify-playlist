@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483,543 likes - 125 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,784 likes - 125 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 39 | [Baby Come Back](https://open.spotify.com/track/2bwYGPDCC31QTdFca1mQRh) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [The Best Of Player: Baby Come Back](https://open.spotify.com/album/0Jd20cTh3EfVzFQn8GSO9Y) | 4:13 |
 | 40 | [Let's Go Up](https://open.spotify.com/track/0cP6MyvBwQwYnGqNAS3lkf) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Ross \(Expanded Edition\)](https://open.spotify.com/album/4AyA2xN6aVVDaGfGqFIDfQ) | 4:02 |
 | 41 | [All Night Long \- Single Version](https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:20 |
-| 42 | [Just the Two of Us](https://open.spotify.com/track/2tH28YyKYOldxhuBHoI79M) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 3:57 |
+| 42 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/2tH28YyKYOldxhuBHoI79M) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 3:57 |
 | 43 | [Reminiscing \- Remastered 2010](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 |
 | 44 | [Sailing](https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:18 |
 | 45 | [He's so Shy](https://open.spotify.com/track/6R9NqD0WX9sJYs6PbA5onu) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Special Things \(Bonus Track Version\)](https://open.spotify.com/album/5AnJr2Axqy5aIhcvaVKGEB) | 3:38 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 124 | [I Don't Want You Anymore](https://open.spotify.com/track/6yqxaTsYO8QItIvY4NkwHh) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Supercharged](https://open.spotify.com/album/6TsjAo5OfozNTu8R5VAugT) | 4:06 |
 | 125 | [Bi\-Coastal](https://open.spotify.com/track/1JFt7RvlIgRrTs4dXYbw0o) | [Peter Allen](https://open.spotify.com/artist/6748v9yNrbb4PPJuvfoMRa) | [Bi\-Coastal](https://open.spotify.com/album/18q7pXVYXXcuDPkstx2yxC) | 4:21 |
 
-Snapshot ID: `MCw0MWVmMjk4Y2IwZTU1NTExMjI5ZDM3OWMyYjUzZjNhMTMzMzlmMTE4`
+Snapshot ID: `MCwxNjgzYzM1ZGM4MjJhMDQyNzFiNDdjZGI2YTJmOGMzMDJhODJmNGQw`

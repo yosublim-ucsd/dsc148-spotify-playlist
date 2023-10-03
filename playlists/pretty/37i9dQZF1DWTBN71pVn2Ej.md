@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,201 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,250 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 49 | [Good Days Again](https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Good Days Again](https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB) | 2:43 |
 | 50 | [Pendulum](https://open.spotify.com/track/5v2WvShCblt55NLy82Orod) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Pendulum](https://open.spotify.com/album/0euPsI7rBBsxArzy7gvgVF) | 3:34 |
 
-Snapshot ID: `MCwyY2UzZTRhZWE3OGFhMWQ5N2VjYTc4NDk2OWMyNDJlNmZhODEyYjI0`
+Snapshot ID: `MCxhMzJhNTZlNmYzYTllZjkyYzAwMTIwMTU0OWUzZmIzZjAxY2IxZDg2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Little Jesus en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,473 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,515 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 21 | [Talismán](https://open.spotify.com/track/73xoyncM1YKM2z3u8JwCfV) | [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Talismán](https://open.spotify.com/album/2Ys1y7SGhEGEwMokKhxMZd) | 4:51 |
 | 22 | [No Puede Parar De Soñar](https://open.spotify.com/track/7ujRdKjA7G7QvFkq0YV0dO) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [No Puede Parar De Soñar](https://open.spotify.com/album/5BmtSXjM8FVLNGVWGz63z8) | 3:17 |
 | 23 | [Fondos Insuficientes](https://open.spotify.com/track/4d6FEORoxOEGOooIHATM0g) | [Los Dynamite](https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9) | [Fondos Insuficientes](https://open.spotify.com/album/7hy7EOWBBVRRNd383gYgDX) | 3:08 |
-| 24 | [Su Nombre Es el Tuyo](https://open.spotify.com/track/7ku1ivhaXvoDYKuQ4Bm16q) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Su Nombre Es el Tuyo](https://open.spotify.com/album/2JNSg5A2vNrOp145sYxcJR) | 4:47 |
+| 24 | [Su Nombre Es el Tuyo](https://open.spotify.com/track/56a8JTiYUoF6UtCdCT1sc6) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Rizoma](https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2) | 4:47 |
 | 25 | [Moderato](https://open.spotify.com/track/59RKWLyMJvVueWpwE3Cqr2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:25 |
 | 26 | [Perder](https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Perder](https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8) | 3:39 |
 | 27 | [Todo Se Detiene Aquí](https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Escombros](https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 |
 | 100 | [IGLESIAS, SHAKESPEARE Y EL SÍNDROME DE TRAUMA RELIGIOSO](https://open.spotify.com/track/6RHZSLB6QwibxtmDHM8Yrv) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [IGLESIAS, SHAKESPEARE Y EL SÍNDROME DE TRAUMA RELIGIOSO](https://open.spotify.com/album/4MwdrU1HvzsTAShJaIbZEZ) | 3:52 |
 
-Snapshot ID: `MCwyZDhkM2M3NTllMjRhNjVkZTFjMWJjOTFjMGY3MzljMDQ0YmY5OTll`
+Snapshot ID: `MCw5ODJkYjBkODNlODg0NzgzYjllYWExYmQxMGFhM2Q2OTVkNmFiM2Vi`

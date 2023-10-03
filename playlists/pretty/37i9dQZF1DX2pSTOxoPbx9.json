@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 782736,
+  "num_followers": 782979,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTRlZmQyNDk3ODdmYzQ1NDM3MGRjYTU5YWI5YjI2NmRiMzMzODk4",
+  "snapshot_id": "MCxlODAzMTk1NGEzZDYzMGQ0OTYxNmYyYmUzM2MyM2UzYmQ2Nzk2YTU1",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Blue Banisters",
-        "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/4y9vLiQ9mQb6XNEtc4K6ou"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 241693,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Blue Banisters",
+        "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/4y9vLiQ9mQb6XNEtc4K6ou"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 281213,
-      "name": "I Forget Where We Were",
-      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 174172,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "I Forget Where We Were",
+      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Doves & Ravens",
-        "url": "https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf"
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
         }
       ],
-      "duration_ms": 222173,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/5rMea4Gu5db0qb1c6TfGIh"
+      "duration_ms": 207718,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+        "name": "Doves & Ravens",
+        "url": "https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf"
       },
       "artists": [
         {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 207718,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4"
+      "duration_ms": 222173,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/5rMea4Gu5db0qb1c6TfGIh"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Take Me to Church EP",
+        "url": "https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 218986,
+      "name": "Angel of Small Death and the Codeine Scene",
+      "url": "https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Writing of Blues and Yellows (Deluxe Version)",
         "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
       },
@@ -1015,38 +1031,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "I Speak Because I Can",
-        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 218188,
-      "name": "Devil's Spoke",
-      "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Take Me to Church EP",
-        "url": "https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 218986,
-      "name": "Angel of Small Death and the Codeine Scene",
-      "url": "https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
         "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 196613,
       "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
       "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "I Speak Because I Can",
+        "url": "https://open.spotify.com/album/7x98osNfh0aUookqE7MMQ1"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 218188,
+      "name": "Devil's Spoke",
+      "url": "https://open.spotify.com/track/4dqhnjsX69qGQ7DCMSTY7v"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Fake Love",
-        "url": "https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT"
+        "name": "Deaf Heat EP",
+        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
       },
       "artists": [
         {
-          "name": "SkyeChristy",
-          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
         }
       ],
-      "duration_ms": 148888,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK"
+      "duration_ms": 215729,
+      "name": "Deep Green",
+      "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Deaf Heat EP",
-        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
+        "name": "Fake Love",
+        "url": "https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT"
       },
       "artists": [
         {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
         }
       ],
-      "duration_ms": 215729,
-      "name": "Deep Green",
-      "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
+      "duration_ms": 148888,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 230379,
-      "name": "Deliverance",
-      "url": "https://open.spotify.com/track/0lTmVz7A8YJM2fI9k1iMcV"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Into the Glass - EP",
         "url": "https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 203360,
       "name": "Beautiful Undone",
       "url": "https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 230379,
+      "name": "Deliverance",
+      "url": "https://open.spotify.com/track/0lTmVz7A8YJM2fI9k1iMcV"
     },
     {
       "added_at": "2023-09-22 04:00:00",

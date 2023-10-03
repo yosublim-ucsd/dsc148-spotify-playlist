@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 136697,
+  "num_followers": 136748,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGE5YmY0MDQ0NzI3MjU4YzRhMDRhNDRhZmYxNTVkZjUwOGE1NzIx",
+  "snapshot_id": "MCw1NzczMzhjYWEyYmQwNTMzN2I0ZDBhMDYyMDg1NTE4MzdiY2VmNThm",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Something's Gonna Kill Me (Piano)",
+        "url": "https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Something's Gonna Kill Me - Piano",
+      "url": "https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Come Back To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Slow Dance In A Parking Lot (Acoustic)",
-        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Slow Dance In A Parking Lot - Acoustic",
-      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Wild as Her (feat. Carter Faith) [Acoustic One-Take]",
         "url": "https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf"
       },
@@ -923,6 +923,38 @@
       "duration_ms": 213600,
       "name": "Wild as Her (feat. Carter Faith) - Acoustic One-Take",
       "url": "https://open.spotify.com/track/0huxrD4MV3OAyEizla4JZT"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Slow Dance In A Parking Lot (Acoustic)",
+        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Slow Dance In A Parking Lot - Acoustic",
+      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "For What It\u2019s Worth (Acoustic)",
+        "url": "https://open.spotify.com/album/2JXN2IhAHu3wTcC82XM5n8"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "duration_ms": 178356,
+      "name": "For What It\u2019s Worth - Acoustic",
+      "url": "https://open.spotify.com/track/6cydsvwI97aIZefvQw4D63"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -947,22 +979,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "For What It\u2019s Worth (Acoustic)",
-        "url": "https://open.spotify.com/album/2JXN2IhAHu3wTcC82XM5n8"
-      },
-      "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        }
-      ],
-      "duration_ms": 178356,
-      "name": "For What It\u2019s Worth - Acoustic",
-      "url": "https://open.spotify.com/track/6cydsvwI97aIZefvQw4D63"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "I Hate Cowboys & All Dogs Go To Hell",
         "url": "https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "What He Didn't Do (Acoustic)",
         "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 189555,
       "name": "What He Didn't Do - Acoustic",
       "url": "https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Steady Heart (Wedding Version)",
-        "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 210555,
-      "name": "Steady Heart - Wedding Version",
-      "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Two Story House",
         "url": "https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ"
       },
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Something's Gonna Kill Me (Piano)",
-        "url": "https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS"
+        "name": "Steady Heart (Wedding Version)",
+        "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
         }
       ],
-      "duration_ms": 182893,
-      "name": "Something's Gonna Kill Me - Piano",
-      "url": "https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx"
+      "duration_ms": 210555,
+      "name": "Steady Heart - Wedding Version",
+      "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "All I Need Is You (Piano Version)",
-        "url": "https://open.spotify.com/album/5U5tcDHRiuY3N0uisN7y8N"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 195806,
-      "name": "All I Need Is You - Piano Version",
-      "url": "https://open.spotify.com/track/1WRZsHTzk6mgNNyYaSeWeS"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Last Rodeo (Acoustic)",
         "url": "https://open.spotify.com/album/0wdZKVdK14qUxN4ajYlWPV"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 194303,
       "name": "Somebody Like That - Acoustic",
       "url": "https://open.spotify.com/track/3gsnrXfYHjBM7dcUrz0UwK"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "All I Need Is You (Piano Version)",
+        "url": "https://open.spotify.com/album/5U5tcDHRiuY3N0uisN7y8N"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 195806,
+      "name": "All I Need Is You - Piano Version",
+      "url": "https://open.spotify.com/track/1WRZsHTzk6mgNNyYaSeWeS"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Hope It's Hot Out (Acoustic)",
+        "url": "https://open.spotify.com/album/5f2fMbivqn3423xYIenThU"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "duration_ms": 167833,
+      "name": "Hope It's Hot Out (Acoustic)",
+      "url": "https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Six Strings",
         "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Sober & Skinny",
         "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Hope It's Hot Out (Acoustic)",
-        "url": "https://open.spotify.com/album/5f2fMbivqn3423xYIenThU"
-      },
-      "artists": [
-        {
-          "name": "Kyle Clark",
-          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
-        }
-      ],
-      "duration_ms": 167833,
-      "name": "Hope It's Hot Out (Acoustic)",
-      "url": "https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Live from Layman",
         "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 260000,
       "name": "Waves (Live)",
       "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "I Should Probably Go To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "I Should Probably Go To Bed - Acoustic",
-      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Secret (Gravel Drive Sounds)",
         "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 225240,
       "name": "Secret - Gravel Drive Sounds",
       "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "I Should Probably Go To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "I Should Probably Go To Bed - Acoustic",
+      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
     },
     {
       "added_at": "2023-09-29 04:00:00",

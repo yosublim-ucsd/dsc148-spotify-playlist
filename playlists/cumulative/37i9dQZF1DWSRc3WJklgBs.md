@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,202 songs - 2 day 22 hr 22 min
+1,203 songs - 2 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,7 @@
 | [KNOW ME \(feat\. Gallant\) \- Cassian Remix](https://open.spotify.com/track/5o7J8jj5tlxVDSo6VJtpyA) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [KNOW ME \(feat\. Gallant\) \[Cassian Remix\]](https://open.spotify.com/album/3UzGm4c9CDCZ2sg7fGzT8l) | 5:13 | 2020-12-12 | 2021-09-25 |
 | [Know You Better](https://open.spotify.com/track/5VrSVEkPSHpWOn3stPrGWE) | [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Metrush](https://open.spotify.com/artist/1vj2R6AWl8rj1na7VCkQK4) | [Know You Better](https://open.spotify.com/album/7eJxrkuDWiel2lPQgU33nt) | 3:36 | 2020-03-29 | 2021-09-11 |
 | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/track/0G94oDZCWdfGxcIJZ9hfmW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/album/2jTZ84JKbeu8vTuWYnlqfj) | 2:36 | 2022-06-10 | 2023-06-17 |
-| [Landslide](https://open.spotify.com/track/2rDSJjx16QVPyPaOH9qEHU) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Landslide](https://open.spotify.com/album/5iCfYZ2LTaMVICV1qJnrQW) | 3:01 | 2023-04-28 |  |
+| [Landslide](https://open.spotify.com/track/2rDSJjx16QVPyPaOH9qEHU) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Landslide](https://open.spotify.com/album/5iCfYZ2LTaMVICV1qJnrQW) | 3:01 | 2023-04-28 | 2023-10-03 |
 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 | 2022-01-28 |  |
 | [Lay Right Here \- Original Mix](https://open.spotify.com/track/7uhNjVyCKuRzsB1TJ3mkt7) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Introducing Pierce Fulton](https://open.spotify.com/album/2x2lPbrGVWChJImFTb2c0u) | 7:30 | 2019-08-09\* | 2019-08-27 |
 | [Layover](https://open.spotify.com/track/0xFuZlwE5hugBECRF5ZI5o) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Layover](https://open.spotify.com/album/0uj9R1NJH5P9WEPUr75fEV) | 3:23 | 2022-02-25 | 2023-04-24 |
@@ -617,6 +617,7 @@
 | [Lonely Together \(feat\. Rita Ora\)](https://open.spotify.com/track/75NhhYjHO43mvZgYtnXgti) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [AVĪCI \(01\)](https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS) | 3:01 | 2019-08-10 | 2020-10-30 |
 | [Longshot](https://open.spotify.com/track/5NeJnjD1JGiPPKT5fqPLku) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH), [EL3CTRXX](https://open.spotify.com/artist/4l84XEnxC9TNefEEvh0Qom), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Longshot](https://open.spotify.com/album/4CLTDwGkQBJjRFQ3S7MLax) | 3:33 | 2021-04-24 | 2022-05-14 |
 | [Look Where We Are](https://open.spotify.com/track/4I3kvtjNBcJWI7H9bszT75) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk) | [Look Where We Are](https://open.spotify.com/album/108Pp4ZFqOsChhw1g9MFFD) | 3:12 | 2023-02-01 | 2023-05-20 |
+| [Looking For Loving](https://open.spotify.com/track/4C7iQhNkgLRKGngGen5g23) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl), [Satellite](https://open.spotify.com/artist/0fAqPZw0Cd4XjcDwunU3bq) | [Looking For Loving](https://open.spotify.com/album/0bX0zgIdh5HIosOanFy4gH) | 3:26 | 2023-09-29 |  |
 | [Looking For Your Name](https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Embrace](https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy) | 4:53 | 2019-08-09\* | 2019-08-27 |
 | [Lose](https://open.spotify.com/track/5HIcKLzMejHNjd5E3pHaHw) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Lose](https://open.spotify.com/album/6HaeVyOHdNhcdf82cuLxyv) | 7:26 | 2019-08-09\* | 2019-08-27 |
 | [Lose Control](https://open.spotify.com/track/6N3KEanWwHRtxdAZLSHPwM) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Lose Control](https://open.spotify.com/album/5Dru8G0itFWWNYIhNMJnB5) | 3:13 | 2019-08-09\* | 2019-08-27 |

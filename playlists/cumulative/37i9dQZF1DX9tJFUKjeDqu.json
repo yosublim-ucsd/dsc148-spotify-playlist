@@ -59,6 +59,42 @@
     },
     {
       "album": {
+        "name": "All Along the Watchtower",
+        "url": "https://open.spotify.com/album/0ZxZ4vXvcx0AjtyMD7qYhP"
+      },
+      "artists": [
+        {
+          "name": "Hayden Phoenix",
+          "url": "https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115814,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/63SHmAvxE70eS7DJuGTEbm"
+    },
+    {
+      "album": {
+        "name": "All Blues",
+        "url": "https://open.spotify.com/album/3Vkdc9pW9ESBakdjzl8ADv"
+      },
+      "artists": [
+        {
+          "name": "Cash Norman",
+          "url": "https://open.spotify.com/artist/6LdB2jzMia11iN9OiEC8Qv"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150783,
+      "name": "All Blues",
+      "url": "https://open.spotify.com/track/7eXiTyJ6Ed62qv12VZNOf2"
+    },
+    {
+      "album": {
         "name": "Uptown Groove",
         "url": "https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq"
       },
@@ -88,7 +124,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 135120,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/55UZlpa7AQAV4bR7QFfEm6"
@@ -150,7 +186,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 123540,
       "name": "As the years go by",
       "url": "https://open.spotify.com/track/2gsGfo1FkoJLezd1wp5cU4"
@@ -186,7 +222,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 181202,
       "name": "Baton Rouge",
       "url": "https://open.spotify.com/track/45mOThZziA0POOBVqwELS4"
@@ -258,7 +294,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 152173,
       "name": "Bill's Blues",
       "url": "https://open.spotify.com/track/0pI9XMjwp3Y7IIvFCXpFcr"
@@ -656,7 +692,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 312813,
       "name": "Cristo Redentor",
       "url": "https://open.spotify.com/track/08ubKgFasQsPB2YdmKMW9X"
@@ -746,7 +782,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 443360,
       "name": "Donna",
       "url": "https://open.spotify.com/track/23ozU0cVhWspGJpd84NQHi"
@@ -1046,6 +1082,24 @@
       "duration_ms": 154350,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/3ev4euHrYhHvlfC8rvKCXG"
+    },
+    {
+      "album": {
+        "name": "Holding on",
+        "url": "https://open.spotify.com/album/670hgSStO2rMbk6uGbXZ0A"
+      },
+      "artists": [
+        {
+          "name": "Andie Wiess",
+          "url": "https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133466,
+      "name": "Holding on",
+      "url": "https://open.spotify.com/track/57VmaYmLNCn40gwoUCg1Dx"
     },
     {
       "album": {
@@ -1496,7 +1550,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 134279,
       "name": "Nowhere But Here",
       "url": "https://open.spotify.com/track/1uPUxTTro7aqDlURkwJoUr"
@@ -1644,7 +1698,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 133683,
       "name": "Purple Skies",
       "url": "https://open.spotify.com/track/0TM2u2DKglzh1RYTarLjOt"
@@ -2022,7 +2076,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 139166,
       "name": "South Bound",
       "url": "https://open.spotify.com/track/7llVeNGB92oOl4xeooJGq0"
@@ -2094,7 +2148,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 164191,
       "name": "Stormy Sea",
       "url": "https://open.spotify.com/track/5sRBN3gSOlHizpDLn7hLJo"
@@ -2174,6 +2228,24 @@
       "duration_ms": 141973,
       "name": "Take Five (Solo Guitar)",
       "url": "https://open.spotify.com/track/1MRivhXSuW5lICmMxVuIES"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/4Oz7SLYIfCwWP8z4M3MwuK"
+      },
+      "artists": [
+        {
+          "name": "Vincent Tall",
+          "url": "https://open.spotify.com/artist/5JCxFd09YsngG3RfNRvClM"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118745,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/39OSYzIRcxZvZing8zyyGl"
     },
     {
       "album": {
@@ -2278,7 +2350,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 177683,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/1IgbPXZ3PG57sOoCxDbfYF"
@@ -2386,7 +2458,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 160031,
       "name": "Unique Ambience for Staying Home",
       "url": "https://open.spotify.com/track/0oHsRS3yY9FZ5eJHbwgvKw"

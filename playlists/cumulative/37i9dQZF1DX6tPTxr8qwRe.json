@@ -6865,6 +6865,24 @@
     },
     {
       "album": {
+        "name": "Should've Been A Dick to You",
+        "url": "https://open.spotify.com/album/3UbV2bdR9F3FxQNqO9RXMk"
+      },
+      "artists": [
+        {
+          "name": "Piper 57",
+          "url": "https://open.spotify.com/artist/6sOxk8gr7bsACj95waVXx7"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132482,
+      "name": "Should've Been A Dick to You",
+      "url": "https://open.spotify.com/track/1x7H9gKKAvLjYkxZQCBDWZ"
+    },
+    {
+      "album": {
         "name": "SHUT UP",
         "url": "https://open.spotify.com/album/3wcpkLbPP7w7ciwuYcI7aV"
       },

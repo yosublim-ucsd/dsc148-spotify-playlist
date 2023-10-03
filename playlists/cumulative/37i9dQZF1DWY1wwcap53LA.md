@@ -2,7 +2,7 @@
 
 ### [Country Frequency](https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA)
 
-> Country music making waves\. Cover: Michael Warren
+> Country music making waves\. Cover: Reyna Roberts
 
 167 songs - 8 hr 36 min
 

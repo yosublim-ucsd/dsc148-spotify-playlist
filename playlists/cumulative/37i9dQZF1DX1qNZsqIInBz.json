@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Beat Magico Que Mexe Com a Sua",
+        "url": "https://open.spotify.com/album/4AqbEBHBpFtVWMlOix6Oc7"
+      },
+      "artists": [
+        {
+          "name": "Sxuth",
+          "url": "https://open.spotify.com/artist/4zKFyMklFpXcDXAAr8YO4t"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182015,
+      "name": "Beat Magico Que Mexe Com a Sua",
+      "url": "https://open.spotify.com/track/7iy7fR8TZRAKhHa7jiVy0P"
+    },
+    {
+      "album": {
         "name": "Beat M\u00e1gico Que Mexe Com a Sua Mente",
         "url": "https://open.spotify.com/album/2UHvLyiO7eKqKyXoHKUv11"
       },
@@ -262,7 +280,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 182021,
       "name": "Beat M\u00e1gico Que Mexe Com a Sua Mente (Slowed)",
       "url": "https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL"

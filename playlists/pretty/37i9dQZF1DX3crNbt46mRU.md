@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,102 likes - 128 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,111 likes - 128 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 |
 | 2 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 |
 | 3 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 |
-| 4 | [La guitare suit la mélo](https://open.spotify.com/track/6xZSIQTjYbrV1Pg7CZao1m) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [Cullinan \(Gelée Royale 1 & 2\)](https://open.spotify.com/album/192Df1MyinzzC8CfiIy1Dt) | 3:09 |
+| 4 | [La guitare suit la mélo](https://open.spotify.com/track/6xZSIQTjYbrV1Pg7CZao1m) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [Cullinan : La Gelée Royale](https://open.spotify.com/album/192Df1MyinzzC8CfiIy1Dt) | 3:09 |
 | 5 | [1000 Mal](https://open.spotify.com/track/3FkKvUfVnxmxdHrXwuI5vx) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Der Letzte macht das Licht aus \(Deluxe Edition\)](https://open.spotify.com/album/3eEayWvyXhGUxEjf7OUhVE) | 2:32 |
 | 6 | [Préjudice](https://open.spotify.com/track/4QNPtD5yF7sTwoE92n2sSg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Préjudice](https://open.spotify.com/album/5v5g6wVemrFkJFJDe4S77V) | 2:01 |
 | 7 | [I Can Feel](https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [I Can Feel](https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7) | 2:53 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 127 | [4 to 5 \(With Future\)](https://open.spotify.com/track/30UAaS7gWwNTcO1axpAB5g) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [4 to 5 \(With Future\)](https://open.spotify.com/album/3EmtxZ9WCjoNZmhQVwSlvS) | 3:19 |
 | 128 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 |
 
-Snapshot ID: `MCxlNzZkMTUzNjQ1ZDlmNzgxYjY1MjY0OTgxY2U1MDRlNmQwNDJkZTQw`
+Snapshot ID: `MCw4MGNjZTg4NzZjODQ0MGE1OTI5NGNlOWFhNmQ3ZjgyZGZkMDQ0MGVh`

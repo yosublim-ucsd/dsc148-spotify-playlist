@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, post\-rock, punk ed emo dall'Italia\. Cover: Blonde Redhead
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,827 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,479 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
 | 2 | [Albanera](https://open.spotify.com/track/5pZsX5r10LBZtQ0H1YbTF8) | [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [Albanera](https://open.spotify.com/album/5Y8ADPQC0xiR1gtxNYqNLX) | 4:01 |
-| 3 | [Before](https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Before](https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp) | 4:28 |
+| 3 | [Before](https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 4:28 |
 | 4 | [Io Non Sono Come Te](https://open.spotify.com/track/6OB6vU6UMCYTeJ3GNGAEga) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Io Non Sono Come Te](https://open.spotify.com/album/4H5jHZrJZmKGA1mKgUgnwb) | 3:06 |
 | 5 | [CARNEVALE](https://open.spotify.com/track/1v1JM0dxz9InQ7gfnQ4JeA) | [Appino](https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH) | [CARNEVALE](https://open.spotify.com/album/2u8MA3AiZRo0yBJ2In2PFp) | 5:00 |
 | 6 | [Per non pensarci più](https://open.spotify.com/track/0F3JQEhViqSr7ouimK5LO7) | [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Per non pensarci più](https://open.spotify.com/album/74fX2Nb62K4SieqsRNDjvi) | 3:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 69 | [Sbaglio peggiore](https://open.spotify.com/track/3496cFB078fy8zXdX108Gr) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Sbaglio peggiore](https://open.spotify.com/album/5svg1vlynhxUiqyJfrCJjG) | 3:14 |
 | 70 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 |
 
-Snapshot ID: `MCxiZDk1MGYxNjRhM2I3ODY5NjRkYzMxYTJjMTdmZDY2NGQ5OWY0Yjg0`
+Snapshot ID: `MCxlMjdjMjM2N2IwODFkYzMwOTRjNjFmYmExYjZkMDYxYmI1ZjkzMzJj`

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,821 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,844 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [schwarze SUVs](https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [schwarze SUVs](https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2) | 2:49 |
-| 2 | [Jung](https://open.spotify.com/track/2DFd8twZE7xQDjWA93CVUN) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Jung](https://open.spotify.com/album/5plTO8xZ6vgIzi1TR0rCGC) | 2:49 |
-| 3 | [Immer Noch Wach](https://open.spotify.com/track/4fhxUNlBCZIr3dw0nU366l) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Immer Noch Wach](https://open.spotify.com/album/7rYrXMvTjZL3kFwGxSC5Ln) | 2:26 |
-| 4 | [\\ sympathisch](https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:25 |
-| 5 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
-| 6 | [Es hört nicht auf](https://open.spotify.com/track/0Uc0m7ThckGvaT0TFG7snX) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:15 |
+| 2 | [Es hört nicht auf](https://open.spotify.com/track/0Uc0m7ThckGvaT0TFG7snX) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:15 |
+| 3 | [\\ sympathisch](https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:25 |
+| 4 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
+| 5 | [Jung](https://open.spotify.com/track/2DFd8twZE7xQDjWA93CVUN) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Jung](https://open.spotify.com/album/5plTO8xZ6vgIzi1TR0rCGC) | 2:49 |
+| 6 | [Immer Noch Wach](https://open.spotify.com/track/4fhxUNlBCZIr3dw0nU366l) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Immer Noch Wach](https://open.spotify.com/album/7rYrXMvTjZL3kFwGxSC5Ln) | 2:26 |
 | 7 | [berlin nightlife](https://open.spotify.com/track/2ZmE6SXMTsHpcbR14awchh) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [berlin nightlife](https://open.spotify.com/album/7uuaGrUECPqIhVe4P7tlP0) | 3:03 |
 | 8 | [dein name](https://open.spotify.com/track/5GKQVFXPjvmCrDJ89TbZRo) | [Maeckes](https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26) | [dein name](https://open.spotify.com/album/6Djl7rdqiRz2323SEkNRQZ) | 2:54 |
 | 9 | [gloria](https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [gloria](https://open.spotify.com/album/0Jprwfz5Yv9WzebYv5fKWQ) | 2:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 |
 | 75 | [Alles Neu](https://open.spotify.com/track/7e5Ov8MCSFNpuCFAGY5Fuc) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [SNACKS](https://open.spotify.com/album/0lw9eCEYXFQFoVyDiiGD5D) | 2:46 |
 
-Snapshot ID: `MCxmYzY3MGJmNzEzYWRkODZlMjIyZThmNDU5MTZkY2E3Mjk2YzJjZDUw`
+Snapshot ID: `MCw1MTAwNDYzYTY5ODJmNGQyOGYyYTBhNDczMWE4ZTFjYjEyNDJjNTg4`

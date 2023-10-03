@@ -18373,6 +18373,40 @@
     },
     {
       "album": {
+        "name": "spark me up",
+        "url": "https://open.spotify.com/album/2QWQtG3YAFG4HRK137nSWl"
+      },
+      "artists": [
+        {
+          "name": "Viann",
+          "url": "https://open.spotify.com/artist/7yRs5f61v5AwXwVlUQ7bNE"
+        },
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        },
+        {
+          "name": "Son Simba",
+          "url": "https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B"
+        },
+        {
+          "name": "DSEL",
+          "url": "https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx"
+        },
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "spark me up",
+      "url": "https://open.spotify.com/track/60KYpxRplz84Jc9aEK8XYl"
+    },
+    {
+      "album": {
         "name": "Drop The Bit The 3rd round Pt. 1",
         "url": "https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX"
       },
@@ -21638,6 +21672,28 @@
       "duration_ms": 164724,
       "name": "WHAT U DO",
       "url": "https://open.spotify.com/track/6YhawaZDHNWsuBZycJ63jy"
+    },
+    {
+      "album": {
+        "name": "What\u2032s Love?",
+        "url": "https://open.spotify.com/album/3EoTcBxiy2ZiHaoP7zOTuh"
+      },
+      "artists": [
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        },
+        {
+          "name": "Rakon",
+          "url": "https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200146,
+      "name": "What\u2032s Love? (Feat. Rakon)",
+      "url": "https://open.spotify.com/track/6s9ygHPj98H7LptAk3SCqo"
     },
     {
       "album": {

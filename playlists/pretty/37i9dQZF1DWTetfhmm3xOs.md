@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 
 > Meditate to the sound of soothing voices and flutes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,080 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,118 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,30 +17,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 | 7 | [Flutonia Dreaming](https://open.spotify.com/track/6bmtzWeaEulnHVrCMfUpBd) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Flutonia Dreaming](https://open.spotify.com/album/6f4VSiUzbMdkLf0H9VAQJC) | 3:05 |
 | 8 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
 | 9 | [Floating in Stillness](https://open.spotify.com/track/2yxjJ6zoZW4kysV5wPqTzl) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [Floating in Stillness](https://open.spotify.com/album/0N8e5UlCvI3I515gJDkpGs) | 2:08 |
-| 10 | [Existence](https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Existence](https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN) | 2:39 |
-| 11 | [Jijivisha](https://open.spotify.com/track/5XWQznDgBGEl8QodXZFJI4) | [Ishara](https://open.spotify.com/artist/15d9b7prVI2d9DuWUesJ6Q) | [Jijivisha](https://open.spotify.com/album/4FCzhJ3MSfMPYKrlWuNyfv) | 2:52 |
-| 12 | [Elemental](https://open.spotify.com/track/7fnT7Dz3jebIcGREFz7i8q) | [Aasha](https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC) | [Elemental](https://open.spotify.com/album/122wW1uiBb44vDG3qMq2g3) | 2:00 |
-| 13 | [Opulence](https://open.spotify.com/track/49lW4egvXW4bZYsQ54yovu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Opulence](https://open.spotify.com/album/0d7KqzVWWZ86BkNAwjnUjS) | 3:21 |
-| 14 | [Drift](https://open.spotify.com/track/5zf9eb8R4j4X1rWMhfvcw2) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Drift](https://open.spotify.com/album/0s7vYK2tK124ZbBi5gxdma) | 3:00 |
-| 15 | [Breath of Serenity](https://open.spotify.com/track/6xvwVbKvkCnhq4xUFnBphS) | [Project Gayā](https://open.spotify.com/artist/76PzU6hA4dr6ViFleVXtyD) | [Breath of Serenity](https://open.spotify.com/album/22ObzSlZ9JMRameD2pdPbh) | 2:12 |
-| 16 | [Agileoria](https://open.spotify.com/track/5kSBQY4fMxuTcpwJiKbVLt) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Agileoria](https://open.spotify.com/album/3OEyW7gmMUY4AoN487KBPj) | 2:57 |
-| 17 | [Asana](https://open.spotify.com/track/1UjbHy2lkNZuEBFXJxDirl) | [Dreamasia](https://open.spotify.com/artist/0EiFTjlTH6OzXifh641yAv) | [Asana](https://open.spotify.com/album/6EkbVT1lDNdcEB1NcJSTOZ) | 3:13 |
-| 18 | [Kodai](https://open.spotify.com/track/1Mna07hCBVSjttirwoHP9Y) | [Ohara Emiri](https://open.spotify.com/artist/1g9XwvdamWZKm7vwSEgYO3) | [Kodai](https://open.spotify.com/album/547PCqu7lOnIliFjSkgfZX) | 3:30 |
-| 19 | [Delighted](https://open.spotify.com/track/36xaiN7CDChqvyzw7eKOH9) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Delighted](https://open.spotify.com/album/7erT0da7HZPcNpcHxjZs5G) | 3:16 |
-| 20 | [Gahar Saans Lene](https://open.spotify.com/track/1IN5GXBfxjj9AChKNxBIxY) | [Yog Sthaan](https://open.spotify.com/artist/3WT6T8U794GLy6Y5KQ22Mq) | [Gahar Saans Lene](https://open.spotify.com/album/6trlusMhaofoMrErS0kezO) | 3:31 |
-| 21 | [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 |
-| 22 | [Soul Sanctuary](https://open.spotify.com/track/0F0D6AJURYa1gLkMuaClSc) | [Phanari](https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg) | [Soul Sanctuary](https://open.spotify.com/album/7vsIKloIvCCSEKAssTlBkH) | 3:17 |
-| 23 | [I Know A Secret](https://open.spotify.com/track/3yaKNCPHtIDunZKRi0x6Qf) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [I know a secret](https://open.spotify.com/album/1tD6EUliMH0tw0fW9b9eOS) | 3:22 |
-| 24 | [Sleep Will Come](https://open.spotify.com/track/2VcLfRb7hy51r3t3yv63cH) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Sleep Will Come](https://open.spotify.com/album/2xc4v5uB9IPgdh345J4oIh) | 2:53 |
-| 25 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 |
-| 26 | [Arrival](https://open.spotify.com/track/79XBLGHDBLc08rgl5NTHhd) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Space Journey](https://open.spotify.com/album/2TIRl3SqebDrKLGGPmc1OW) | 3:15 |
-| 27 | [Dreams of Calmness](https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Dreams of Calmness](https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT) | 2:34 |
-| 28 | [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 |
-| 29 | [After The Storm](https://open.spotify.com/track/1Mp8ZVLc3XQdDTIGHvbWsb) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Enigmatic Winds](https://open.spotify.com/album/5iFJCpNwoQdy25C7WwrRTV) | 3:10 |
-| 30 | [Pure And Calm](https://open.spotify.com/track/663LF9heB9sWluligQWpG8) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Pure And Calm](https://open.spotify.com/album/6Js79WFhXHyBSaPnM81l0j) | 2:45 |
-| 31 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 |
-| 32 | [Prashansaneey](https://open.spotify.com/track/3Setdymx44HIU2wb7sW5s6) | [Ashia Kashyap](https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV) | [Prashansaneey](https://open.spotify.com/album/6dMnLGBlZrlHj2CrGuZPMn) | 3:41 |
-| 33 | [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 |
+| 10 | [Amalthea](https://open.spotify.com/track/2p0hmBbbSxX5z1ZLvlLIW7) | [Aysun](https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT) | [Amalthea](https://open.spotify.com/album/47dsrJpp1b6HW9kikjIl9r) | 3:30 |
+| 11 | [Existence](https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Existence](https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN) | 2:39 |
+| 12 | [Jijivisha](https://open.spotify.com/track/5XWQznDgBGEl8QodXZFJI4) | [Ishara](https://open.spotify.com/artist/15d9b7prVI2d9DuWUesJ6Q) | [Jijivisha](https://open.spotify.com/album/4FCzhJ3MSfMPYKrlWuNyfv) | 2:52 |
+| 13 | [Elemental](https://open.spotify.com/track/7fnT7Dz3jebIcGREFz7i8q) | [Aasha](https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC) | [Elemental](https://open.spotify.com/album/122wW1uiBb44vDG3qMq2g3) | 2:00 |
+| 14 | [Opulence](https://open.spotify.com/track/49lW4egvXW4bZYsQ54yovu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Opulence](https://open.spotify.com/album/0d7KqzVWWZ86BkNAwjnUjS) | 3:21 |
+| 15 | [Drift](https://open.spotify.com/track/5zf9eb8R4j4X1rWMhfvcw2) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Drift](https://open.spotify.com/album/0s7vYK2tK124ZbBi5gxdma) | 3:00 |
+| 16 | [Breath of Serenity](https://open.spotify.com/track/6xvwVbKvkCnhq4xUFnBphS) | [Project Gayā](https://open.spotify.com/artist/76PzU6hA4dr6ViFleVXtyD) | [Breath of Serenity](https://open.spotify.com/album/22ObzSlZ9JMRameD2pdPbh) | 2:12 |
+| 17 | [Agileoria](https://open.spotify.com/track/5kSBQY4fMxuTcpwJiKbVLt) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Agileoria](https://open.spotify.com/album/3OEyW7gmMUY4AoN487KBPj) | 2:57 |
+| 18 | [Asana](https://open.spotify.com/track/1UjbHy2lkNZuEBFXJxDirl) | [Dreamasia](https://open.spotify.com/artist/0EiFTjlTH6OzXifh641yAv) | [Asana](https://open.spotify.com/album/6EkbVT1lDNdcEB1NcJSTOZ) | 3:13 |
+| 19 | [Kodai](https://open.spotify.com/track/1Mna07hCBVSjttirwoHP9Y) | [Ohara Emiri](https://open.spotify.com/artist/1g9XwvdamWZKm7vwSEgYO3) | [Kodai](https://open.spotify.com/album/547PCqu7lOnIliFjSkgfZX) | 3:30 |
+| 20 | [Delighted](https://open.spotify.com/track/36xaiN7CDChqvyzw7eKOH9) | [Remittere](https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm) | [Delighted](https://open.spotify.com/album/7erT0da7HZPcNpcHxjZs5G) | 3:16 |
+| 21 | [Gahar Saans Lene](https://open.spotify.com/track/1IN5GXBfxjj9AChKNxBIxY) | [Yog Sthaan](https://open.spotify.com/artist/3WT6T8U794GLy6Y5KQ22Mq) | [Gahar Saans Lene](https://open.spotify.com/album/6trlusMhaofoMrErS0kezO) | 3:31 |
+| 22 | [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 |
+| 23 | [Soul Sanctuary](https://open.spotify.com/track/0F0D6AJURYa1gLkMuaClSc) | [Phanari](https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg) | [Soul Sanctuary](https://open.spotify.com/album/7vsIKloIvCCSEKAssTlBkH) | 3:17 |
+| 24 | [I Know A Secret](https://open.spotify.com/track/3yaKNCPHtIDunZKRi0x6Qf) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [I know a secret](https://open.spotify.com/album/1tD6EUliMH0tw0fW9b9eOS) | 3:22 |
+| 25 | [Sleep Will Come](https://open.spotify.com/track/2VcLfRb7hy51r3t3yv63cH) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Sleep Will Come](https://open.spotify.com/album/2xc4v5uB9IPgdh345J4oIh) | 2:53 |
+| 26 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 |
+| 27 | [Arrival](https://open.spotify.com/track/79XBLGHDBLc08rgl5NTHhd) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Space Journey](https://open.spotify.com/album/2TIRl3SqebDrKLGGPmc1OW) | 3:15 |
+| 28 | [Dreams of Calmness](https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Dreams of Calmness](https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT) | 2:34 |
+| 29 | [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 |
+| 30 | [After The Storm](https://open.spotify.com/track/1Mp8ZVLc3XQdDTIGHvbWsb) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Enigmatic Winds](https://open.spotify.com/album/5iFJCpNwoQdy25C7WwrRTV) | 3:10 |
+| 31 | [Pure And Calm](https://open.spotify.com/track/663LF9heB9sWluligQWpG8) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Pure And Calm](https://open.spotify.com/album/6Js79WFhXHyBSaPnM81l0j) | 2:45 |
+| 32 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 |
+| 33 | [Prashansaneey](https://open.spotify.com/track/3Setdymx44HIU2wb7sW5s6) | [Ashia Kashyap](https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV) | [Prashansaneey](https://open.spotify.com/album/6dMnLGBlZrlHj2CrGuZPMn) | 3:41 |
 | 34 | [Testanaadee](https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J) | [Shikha Chadha](https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc) | [Testanaadee](https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X) | 3:04 |
 | 35 | [Cradle of Life](https://open.spotify.com/track/1eihRcf7w68iW9IPTs76fc) | [Laiua](https://open.spotify.com/artist/1fhB7jhn3UFb3AdiHMsQTz) | [Cradle of Life](https://open.spotify.com/album/4Tw2LWGi0iUCw2ZTfSkiXc) | 2:25 |
 | 36 | [Mystique Garden](https://open.spotify.com/track/1kqdfOEMGEtjMoPnD69JKn) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Mystique Garden](https://open.spotify.com/album/22vqrzMQgNuilRS25m08hL) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 | 99 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Jelena Vanags](https://open.spotify.com/artist/7DXjl9ExxUi8xScl5bFZJS) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 |
 | 100 | [Dreaming Of Pine Trees](https://open.spotify.com/track/3YSkrDZCRG0bcZ4AZw5rIj) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Gentle Breeze](https://open.spotify.com/album/33KDHAdMUVYaeDxgPuYxka) | 2:53 |
 
-Snapshot ID: `MCw5ZGQ1MTc1Y2YzYjEwOTZkMzk2MWZkMDk2NTFkYjI5ZTdlYTRjYTJk`
+Snapshot ID: `MCwxODJlZTI5MGUyMWE2MTUzMWM4NThmZmJkMjNmZjNkYzNmMzJiNWUx`

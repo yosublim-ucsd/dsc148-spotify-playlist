@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 321419,
+  "num_followers": 321542,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTRmNDU1MjY3NGUzNDQwOTQ5MDYzOGM5ZjYxMGQ3ODM5ZTQxMTVl",
+  "snapshot_id": "MCw0YTE0N2E0MmY4ZmYyYzIwMjI1YmQ5MmVhYTk3MzBhZjI0NGE3ODY0",
   "tracks": [
     {
       "added_at": "2023-09-08 11:07:56",
@@ -363,6 +363,30 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
+        "name": "Dance For Me (1, 2, 3)",
+        "url": "https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3"
+      },
+      "artists": [
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        },
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Dance For Me (1, 2, 3)",
+      "url": "https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
         "name": "Big Hoops",
         "url": "https://open.spotify.com/album/4tBx7yPE2YtUqXrLldEghH"
       },
@@ -399,30 +423,6 @@
       "duration_ms": 177187,
       "name": "Keep on Moving",
       "url": "https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
-        "name": "Dance For Me (1, 2, 3)",
-        "url": "https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3"
-      },
-      "artists": [
-        {
-          "name": "Lyente",
-          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
-        },
-        {
-          "name": "Quinten Circle",
-          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Dance For Me (1, 2, 3)",
-      "url": "https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -823,6 +823,30 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/0hZQmqMGLG95A46E8YoQN3"
+      },
+      "artists": [
+        {
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        },
+        {
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+        },
+        {
+          "name": "Scott Rill",
+          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+        }
+      ],
+      "duration_ms": 155267,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/6ZLSMHpVJf7ZzHttdmROoD"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 163617,
       "name": "Cups (Drunk in Love Pt. 2)",
       "url": "https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
-        "name": "Lady",
-        "url": "https://open.spotify.com/album/0hZQmqMGLG95A46E8YoQN3"
-      },
-      "artists": [
-        {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
-        },
-        {
-          "name": "Giorgio Gee",
-          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
-        },
-        {
-          "name": "Scott Rill",
-          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
-        }
-      ],
-      "duration_ms": 155267,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/6ZLSMHpVJf7ZzHttdmROoD"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
+        "name": "Fire To Smoke",
+        "url": "https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 163209,
+      "name": "Fire To Smoke",
+      "url": "https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/6XvmItzLcJdD3eWyVhboph"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 123934,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/5Fj3oUTbus2TH6wp2BQYGt"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
-        "name": "Fire To Smoke",
-        "url": "https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW"
-      },
-      "artists": [
-        {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
-        },
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
-        }
-      ],
-      "duration_ms": 163209,
-      "name": "Fire To Smoke",
-      "url": "https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
+        "name": "She Wolf (Falling to Pieces)",
+        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
       },
       "artists": [
         {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
-        },
-        {
-          "name": "Croell",
-          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
+          "name": "YES YES",
+          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
         }
       ],
-      "duration_ms": 164761,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
+      "duration_ms": 171028,
+      "name": "She Wolf (Falling to Pieces)",
+      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
     }
   ],
   "unique_name": "SLAP!",

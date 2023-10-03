@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 | 2023-06-07 |  |
+| [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 | 2023-06-07 | 2023-10-03 |
 | [1, 2, 3](https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [COMPLETE WITH YOU](https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx) | 3:32 | 2022-01-24 | 2022-04-18 |
 | [24/7](https://open.spotify.com/track/5kfHQviez9l9OJI5TfQ9Dn) | [Moon Yeon](https://open.spotify.com/artist/2EgZaRnWb6ucGVmoyrXH1s), [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB) | [24/7](https://open.spotify.com/album/5HT3wgiyTWNmBeIL6LPFaS) | 3:06 | 2022-04-19 | 2022-05-04 |
 | [36.5](https://open.spotify.com/track/4jAdC1wuRgCLLFJVHeV1rV) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [36.5](https://open.spotify.com/album/3wZtpqg44tzmRFtObM3AZT) | 3:36 | 2021-12-06 | 2022-07-29 |
@@ -124,7 +124,7 @@
 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 | 2021-12-06 | 2022-07-26 |
 | [Heaven's Cloud](https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:52 | 2021-12-06 |  |
 | [Hello](https://open.spotify.com/track/2B4Hz23pUeucJZEmgUIOtV) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Hello](https://open.spotify.com/album/2FmUOkj3thjkzbuR10fLBb) | 3:35 | 2021-12-06 | 2022-04-13 |
-| [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 | 2021-12-06 | 2023-09-26 |
+| [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 | 2021-12-06 |  |
 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-14 |  |
 | [Hello & Goodbye](https://open.spotify.com/track/450FHuomgvdo8A2R2c4heJ) | [WE'D](https://open.spotify.com/artist/7trC9e4GPEaZxz3CLvrKdL) | [Hello & Goodbye](https://open.spotify.com/album/1nMU9isJO8vTagFsPHFUyB) | 3:09 | 2023-06-07 | 2023-06-16 |
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-12-06 |  |

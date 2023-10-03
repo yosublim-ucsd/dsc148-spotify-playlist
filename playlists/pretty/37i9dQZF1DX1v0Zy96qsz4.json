@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/skylardigginssmith/\">Skylar Diggins-Smith</a>",
-  "num_followers": 6593,
+  "num_followers": 6599,
   "original_name": "Skylar Diggins' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDUzYTc3NjMxZDE1YTM3Yjk1MzE4ZDQ0ZmZlYjA0ZTIwMzhmOTc0",
+  "snapshot_id": "MCxhNWVmYWRmZmI4YzVhYWI3ZTQzMDEyMjc5NTFiNGJlODkwNWIzNjE2",
   "tracks": [
     {
       "added_at": "2022-10-02 02:05:19",
@@ -189,7 +189,7 @@
         }
       ],
       "duration_ms": 252186,
-      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "name": "C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",
       "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
     },
     {
@@ -507,6 +507,26 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
+        "name": "Savage Remix (feat. Beyonc\u00e9)",
+        "url": "https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Savage Remix (feat. Beyonc\u00e9)",
+      "url": "https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 289760,
       "name": "Freedom (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7aBxcRw77817BrkdPChAGY"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
-        "name": "Savage Remix (feat. Beyonc\u00e9)",
-        "url": "https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Savage Remix (feat. Beyonc\u00e9)",
-      "url": "https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac"
     },
     {
       "added_at": "2022-10-02 02:05:19",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
+        "name": "BLACK PARADE",
+        "url": "https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 281272,
+      "name": "BLACK PARADE",
+      "url": "https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 197417,
       "name": "Demon High",
       "url": "https://open.spotify.com/track/5MAnH0CFbD13INQBsnKI9y"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
-        "name": "BLACK PARADE",
-        "url": "https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 281272,
-      "name": "BLACK PARADE",
-      "url": "https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj"
     },
     {
       "added_at": "2022-10-02 02:05:19",
@@ -811,6 +811,26 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
+        "name": "Amazing (feat. DJ Khaled)",
+        "url": "https://open.spotify.com/album/31TqUAM6UmJdKnmkJUTmJi"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 160017,
+      "name": "Amazing (feat. DJ Khaled)",
+      "url": "https://open.spotify.com/track/2vjsCzLbe7ZPuTIdN8s4E4"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 272068,
       "name": "MOOD 4 EVA (feat. Oumou Sangar\u00e9)",
       "url": "https://open.spotify.com/track/7oqftogUN82Q7VNy2TmTJW"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
-        "name": "Amazing (feat. DJ Khaled)",
-        "url": "https://open.spotify.com/album/31TqUAM6UmJdKnmkJUTmJi"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 160017,
-      "name": "Amazing (feat. DJ Khaled)",
-      "url": "https://open.spotify.com/track/2vjsCzLbe7ZPuTIdN8s4E4"
     },
     {
       "added_at": "2022-10-02 02:05:19",

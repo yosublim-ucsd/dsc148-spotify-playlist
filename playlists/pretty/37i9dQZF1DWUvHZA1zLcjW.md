@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,808 likes - 109 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,953 likes - 109 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 37 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
 | 38 | [33 Miniatures for Piano \(Excerpts\): No\. 22, Grazioso](https://open.spotify.com/track/1m7xhfthPyNBdIJcGREuh1) | [Giya Kancheli](https://open.spotify.com/artist/7eZXdqPC0XYtALWzaVjGLh), [Elisaveta Blumina](https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g) | [Memories from Home](https://open.spotify.com/album/38ZYEkGiDnTszDhMYDUUix) | 1:12 |
 | 39 | [Violin Concerto No\. 3 in B Minor, Op\. 61: II\. Andantino quasi Allegretto](https://open.spotify.com/track/1pbKeG2h8eLjbts7VVpkIh) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Rudolf Koelman](https://open.spotify.com/artist/5loxtI1yNUJicuu3QkVmtL), [Sinfonietta Schaffhausen](https://open.spotify.com/artist/2qruyVnfASPUyhMMENKn94), [Paul K\. Haug](https://open.spotify.com/artist/19URArtIzd4OhOu4MTFOVa) | [Violin Concertos](https://open.spotify.com/album/0RUn4drZM0maOMiEqRgVnm) | 7:34 |
-| 40 | [Sing Gently](https://open.spotify.com/track/7mC1OxE8HLDvgQYWQdi1tj) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Christopher Glynn](https://open.spotify.com/artist/1BlAyhfXyu55YqhWpX5YtB) | [Whitacre: Sing Gently](https://open.spotify.com/album/7yWaFNZjndMQ3s15xikCrV) | 3:44 |
+| 40 | [Sing Gently](https://open.spotify.com/track/7mC1OxE8HLDvgQYWQdi1tj) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Christopher Glynn](https://open.spotify.com/artist/1BlAyhfXyu55YqhWpX5YtB) | [Whitacre: Sing Gently](https://open.spotify.com/album/7yWaFNZjndMQ3s15xikCrV) | 3:44 |
 | 41 | [3 Visions: No\. 2\. Summerland](https://open.spotify.com/track/6DjJASpNIqqEABN4geePv0) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Althea Waites](https://open.spotify.com/artist/5cFDIXZI13ESqS25ixveDv) | [Piano Recital: Waites, Althea \- Price, F.B\. / Still, W.G\. / Bland, E.](https://open.spotify.com/album/3QTA3qI6hBkrcWhO6BawKG) | 4:21 |
 | 42 | [Violin Concerto in D Major, Op\. 61: II\. Larghetto](https://open.spotify.com/track/4BWs1bcs60wjW56SyoHjQi) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Charlie Siem](https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Oleg Caetani](https://open.spotify.com/artist/5aQCrqgWkrOGdG7qb2FMVT) | [Violin Concerto in D Major, Op\. 61: II\. Larghetto](https://open.spotify.com/album/3rWvlpOXpbx8ELWoPAKDpy) | 8:06 |
 | 43 | [In Retrospect](https://open.spotify.com/track/01yKVn4gVNu3pKrDiFzIdT) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [In Retrospect](https://open.spotify.com/album/013HlaUbtTEYInYdESDJIi) | 2:07 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 108 | [Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\): XIII\. To Proclaim in the Morning About Your Mercy](https://open.spotify.com/track/7qfUR1g5efZUh7Vf3fY8fh) | [Baal HaSulam](https://open.spotify.com/artist/34xHYsUFQlep5vsB3iWc3r), [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [HaSulam: Melodies of the Upper Worlds \(Arr\. M\. Ayrapetyan for Piano\)](https://open.spotify.com/album/6nybFTSCWQaoxsttSOtfWA) | 2:57 |
 | 109 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/5TKvSoHEXaCyk2GKM6pC3J) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/3IFCqrc4GgSrN50MqNlIpw) | 1:13 |
 
-Snapshot ID: `MCw5MzY1NWM5MzAwMmQxNzdjMTk4NjJlMzBmZWQyNTM5MTczYmZkMzdk`
+Snapshot ID: `MCxlMmU5YjUxODkwYjE1MWI4OTA0ZjkxMWY2OTlmOWE4MmI1YzMxYmJk`

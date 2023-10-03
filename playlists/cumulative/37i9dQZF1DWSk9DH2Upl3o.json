@@ -704,7 +704,7 @@
     {
       "album": {
         "name": "To Live A Making",
-        "url": "https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU"
+        "url": "https://open.spotify.com/album/7gMrxYFvgxnlquxVUQ0kCp"
       },
       "artists": [
         {
@@ -715,6 +715,24 @@
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 389403,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/21wWMrhOMhSGwU2iRB2kYv"
+    },
+    {
+      "album": {
+        "name": "To Live A Making",
+        "url": "https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
       "duration_ms": 389403,
       "name": "Fate",
       "url": "https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM"

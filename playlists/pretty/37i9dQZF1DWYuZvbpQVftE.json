@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 19795,
+  "num_followers": 19822,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzZiZDk5ZWFhMmY2NzA3NTVjODE3NTlhMGEyY2Y4NWE0YzVmMWEx",
+  "snapshot_id": "MCw3MDEwYzAxNzM4YTViMDM4Nzc0OTc3NjY5ZjhmMzZkMDljZjc1NmU1",
   "tracks": [
     {
       "added_at": "2023-08-31 12:17:23",
@@ -191,26 +191,6 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Stan Getz With Cal Tjader",
-        "url": "https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "I've Grown Accustomed To Her Face",
-      "url": "https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
         "name": "In New York [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
       },
@@ -243,6 +223,26 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
+        "name": "Stan Getz With Cal Tjader",
+        "url": "https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "I've Grown Accustomed To Her Face",
+      "url": "https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
         "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
         "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
@@ -271,38 +271,6 @@
       "duration_ms": 332333,
       "name": "Inside Impromptu",
       "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
-        "name": "The Latin Side Of Vince Guaraldi",
-        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Star Song",
-      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
-        "name": "This Is How I Feel About Jazz",
-        "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 340773,
-      "name": "Stockholm Sweetnin'",
-      "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -343,6 +311,54 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
+        "name": "The Latin Side Of Vince Guaraldi",
+        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Star Song",
+      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 262733,
+      "name": "Everybody's Jumpin'",
+      "url": "https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
+        "name": "This Is How I Feel About Jazz",
+        "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 340773,
+      "name": "Stockholm Sweetnin'",
+      "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 379400,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 262733,
-      "name": "Everybody's Jumpin'",
-      "url": "https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
+        "name": "Jazz At Oberlin (OJC Remaster)",
+        "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 390400,
+      "name": "Stardust - Live At Finney Chapel / 1953",
+      "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
         "name": "Presenting Bud Shank",
         "url": "https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Bob Brookmeyer & Friends",
-        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
-      },
-      "artists": [
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Sometime Ago",
-      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
         "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Jazz At Oberlin (OJC Remaster)",
-        "url": "https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B"
+        "name": "Bob Brookmeyer & Friends",
+        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
       },
       "artists": [
         {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
         }
       ],
-      "duration_ms": 390400,
-      "name": "Stardust - Live At Finney Chapel / 1953",
-      "url": "https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf"
+      "duration_ms": 244466,
+      "name": "Sometime Ago",
+      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
+        "name": "Son Of Gunn!!",
+        "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
+      },
+      "artists": [
+        {
+          "name": "Shelly Manne and His Men",
+          "url": "https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF"
+        }
+      ],
+      "duration_ms": 289360,
+      "name": "Blue Steel",
+      "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
         "name": "The Poll Winners Ride Again!",
         "url": "https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 251933,
       "name": "Steve Allen Theme",
       "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
-        "name": "Son Of Gunn!!",
-        "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
-      },
-      "artists": [
-        {
-          "name": "Shelly Manne and His Men",
-          "url": "https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF"
-        }
-      ],
-      "duration_ms": 289360,
-      "name": "Blue Steel",
-      "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
     },
     {
       "added_at": "2023-08-31 12:17:23",

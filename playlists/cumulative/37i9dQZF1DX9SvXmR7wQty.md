@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Roxane Bruneau, Souldia
 
-2,074 songs - 4 day 14 hr 48 min
+2,075 songs - 4 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [C'est bon](https://open.spotify.com/track/3zZ5tnEx6WM1sfK7uY0Uz4) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [C'est bon](https://open.spotify.com/album/7CVTNOW5W0ztZzjLcQb2Dq) | 2:41 | 2022-06-17 | 2022-07-02 |
 | [C'est carré le S](https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En temps réel](https://open.spotify.com/album/3Axd0NV5EcNnWzkvHqijzQ) | 3:21 | 2023-04-28 | 2023-06-17 |
 | [C'est chaud!](https://open.spotify.com/track/4hf4ZWKq63EfyPveS2OZPM) | [RSVP](https://open.spotify.com/artist/3J7DLBE8pKkr7nrT18PFCf) | [Tout pour le mieux](https://open.spotify.com/album/4o861v02HgITa9HVr3A9wQ) | 3:09 | 2022-05-06 | 2022-05-14 |
+| [C'est drôle](https://open.spotify.com/track/4czTL8KGYPjR0mWyQy7z6B) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [C'est drôle](https://open.spotify.com/album/6WfOHoMzaQSMDeUGbUBccF) | 2:57 | 2023-09-29 |  |
 | [C'est Dur](https://open.spotify.com/track/0mmsXfF0UPFMtTNsvMDijb) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [C'est Dur](https://open.spotify.com/album/4PoqfZAe5hpS1fycD98ARO) | 3:44 | 2022-02-18 | 2022-02-26 |
 | [C'est Fini](https://open.spotify.com/track/4NrutV5j76crKVLiV1kPbk) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [Prépare\-toi, j'arrive](https://open.spotify.com/album/0FAvbTRff9FGLruvKFaFmp) | 3:46 | 2022-11-25 | 2022-12-17 |
 | [C'est fou](https://open.spotify.com/track/6tgZW0K8UrxaX3BUGtbYen) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [C'est fou](https://open.spotify.com/album/46pIqjkRvy8s63XDMWdOw9) | 2:26 | 2022-04-15 | 2022-04-29 |
@@ -1498,7 +1499,7 @@
 | [PLUS FORT](https://open.spotify.com/track/5WjCSLizeYIRcfkClIZwWJ) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [PLUS FORT](https://open.spotify.com/album/68N37Y1WWxgs9Px37a9Xuq) | 3:05 | 2022-04-22 | 2022-04-29 |
 | [Plus fort que le coeur \(acoustic version\)](https://open.spotify.com/track/597IPyHiTwYi9fRl12GfqX) | [Laura Gagné](https://open.spotify.com/artist/34UjqWd6fDAaLYo7CWVwSA) | [Plus fort que le coeur \(acoustic version\)](https://open.spotify.com/album/6hdko08ga2L0QIObTzumPP) | 2:08 | 2022-10-14 | 2022-10-29 |
 | [Plus fort que le cœur](https://open.spotify.com/track/4GdMU1f51JKvpLQky8S2jj) | [Laura Gagné](https://open.spotify.com/artist/34UjqWd6fDAaLYo7CWVwSA) | [Plus fort que le cœur](https://open.spotify.com/album/052EvmGp30g21DHOw0T9JQ) | 2:14 | 2022-06-17 | 2022-06-25 |
-| [Plus jamais](https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Plus jamais](https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X) | 3:21 | 2023-09-15 |  |
+| [Plus jamais](https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Plus jamais](https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X) | 3:21 | 2023-09-15 | 2023-10-03 |
 | [Plus on change, plus on se ressemble](https://open.spotify.com/track/0FkWwbLTL0mpDuYZ2czTdS) | [Olivier Couture](https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq) | [Plus on change, plus on se ressemble](https://open.spotify.com/album/4lLe43rzy59HYgrJu2dmHJ) | 3:52 | 2022-03-04 | 2022-03-12 |
 | [Plus qu'assez](https://open.spotify.com/track/5TvGIuBUdc53iD6NrYfjK7) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Plus qu'assez](https://open.spotify.com/album/74eMYBI9D5AtWcVBogXz9o) | 3:23 | 2022-10-21 | 2022-10-29 |
 | [Plus que](https://open.spotify.com/track/4jYENrEA31fBzgCsEVc6x7) | [Lhéfé](https://open.spotify.com/artist/3bzQSOFEd6Zgzxi8nyhxOY) | [Mentir mon plaisir](https://open.spotify.com/album/5kG61u4EiSpCZhPw6QrSC0) | 3:41 | 2023-01-13 | 2023-01-21 |

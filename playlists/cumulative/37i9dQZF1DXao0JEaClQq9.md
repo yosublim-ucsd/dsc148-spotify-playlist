@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: Mitski
 
-535 songs - 1 day 9 hr 34 min
+536 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,8 @@
 | [Show You The Way](https://open.spotify.com/track/2ZIHKdsXfOS3cZoGRD2vGL) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:34 | 2021-10-08 | 2022-04-18 |
 | [Singularity](https://open.spotify.com/track/4oZ2Xkline6CvRDebjbi8Q) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 6:29 | 2021-06-03 | 2022-04-19 |
 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/56Qg15afWhWx83aFusmXc4) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/album/5uQmuKzNPNelihF5FnvXLJ) | 3:58 | 2022-03-31 | 2022-07-28 |
-| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 | 2023-09-29 |  |
+| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 3:28 | 2023-09-29 |  |
+| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 | 2023-09-29 | 2023-10-03 |
 | [skin](https://open.spotify.com/track/5fjXYssZZSUbVK1wM5KYV0) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [in the mirror, in the night](https://open.spotify.com/album/2a5Xt0sHOpQcHcCfmNYo0p) | 2:44 | 2022-02-24 | 2022-04-22 |
 | [Skin 2 Skin](https://open.spotify.com/track/21fIsLrnYfJnzVoN9luEDR) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Skin 2 Skin](https://open.spotify.com/album/0mclvOXYO7qb7jefYYdZLr) | 2:46 | 2021-09-24 | 2022-07-17 |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 | 2022-11-19 |

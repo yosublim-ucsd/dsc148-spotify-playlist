@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-593 songs - 1 day 1 hr 8 min
+594 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [I Still Believe In You](https://open.spotify.com/track/0cRv6i0wB4WObSQxJriIea) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [I Still Believe In You](https://open.spotify.com/album/6BDHTLktaSrdqKvRD98VG4) | 2:36 | 2023-04-21 | 2023-05-13 |
 | [I Wanna Be Yours](https://open.spotify.com/track/6huxjr8XKFnhtXQD02LIJ7) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [I Wanna Be Yours](https://open.spotify.com/album/0wwXoEiDEyHMwS6etJwYbR) | 2:36 | 2023-02-24 | 2023-04-22 |
 | [Icarus](https://open.spotify.com/track/6kTvM9JYiEriQHNRXhFUPs) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Icarus](https://open.spotify.com/album/6kefDAQzsl3jmFnt93Iaxz) | 2:43 | 2023-04-21 |  |
+| [If Only](https://open.spotify.com/track/0TzHkdetO52vNoFkf1bqyP) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [If Only](https://open.spotify.com/album/4SkSg2UW1Tvw3sbbBniySM) | 2:44 | 2023-09-29 |  |
 | [Igueldo](https://open.spotify.com/track/4IN9TQVhu3Mzw1fEwblxGq) | [Rick Strauss](https://open.spotify.com/artist/5eZxnhbh1hSbnwiSBzlb5q) | [Silver Castle](https://open.spotify.com/album/60mfbInhL61D5iw97J0nE5) | 2:12 | 2022-07-15 | 2023-04-22 |
 | [Il Tramonto](https://open.spotify.com/track/1wHO9UPhBh1b7kg0JOBlSd) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Il Tramonto](https://open.spotify.com/album/2Qx4P5RKFaxEnakbDE531a) | 2:28 | 2023-04-21 |  |
 | [Illuminé](https://open.spotify.com/track/2BITPXNQ15DTL6yiaCByPI) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Illuminé](https://open.spotify.com/album/7Ab8RG5EdpXSfLpMqQDbn1) | 1:29 | 2023-04-21 | 2023-08-26 |
@@ -592,7 +593,7 @@
 | [Winter In Tarifa](https://open.spotify.com/track/1sgGFGC1iftGshE6fH03yL) | [Álvaro Mondo Fernández](https://open.spotify.com/artist/2V18SFrY5UqNXeFLJZlYX9) | [Winter In Tarifa](https://open.spotify.com/album/52S7cB4WieRJMibAj4w2Cv) | 2:05 | 2023-04-21 | 2023-05-13 |
 | [Winter is coming](https://open.spotify.com/track/2TVL32urlZnR6EBTRGUHEP) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Winter is coming](https://open.spotify.com/album/33zjD4b9Oeab3uRFpcuZFw) | 2:32 | 2023-04-21 |  |
 | [Winterland](https://open.spotify.com/track/1gW3VKqi9qjRHLyBhg4IZO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Winterland](https://open.spotify.com/album/3Yvb1Wl1aDWwgEUM0vuM9L) | 2:11 | 2023-04-21 |  |
-| [Wishful Thinking](https://open.spotify.com/track/32jAfJ9rlQRGfFISloeh9m) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wishful Thinking](https://open.spotify.com/album/23wAvlEfME0Hg9UYDRTgx2) | 2:28 | 2023-04-21 |  |
+| [Wishful Thinking](https://open.spotify.com/track/32jAfJ9rlQRGfFISloeh9m) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wishful Thinking](https://open.spotify.com/album/23wAvlEfME0Hg9UYDRTgx2) | 2:28 | 2023-04-21 | 2023-10-03 |
 | [Wishing It Was So](https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Wishing It Was So](https://open.spotify.com/album/1Gf2koBhgOt4z4QaWYVuAU) | 2:41 | 2023-04-21 |  |
 | [wolkenlos](https://open.spotify.com/track/1GtvNtOFcgyapayFKdEPfn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Waldspaziergang](https://open.spotify.com/album/12zVtMVg3VOEsVZ3nA4BdB) | 3:36 | 2022-07-15 | 2023-04-22 |
 | [Woods](https://open.spotify.com/track/4pqqF7B7YVFHidJ4kDybk2) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Woods](https://open.spotify.com/album/6Bsv4F8PGSosuGjvqOn1Pu) | 1:53 | 2023-04-21 | 2023-06-03 |

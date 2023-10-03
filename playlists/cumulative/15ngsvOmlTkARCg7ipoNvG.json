@@ -7389,6 +7389,42 @@
     },
     {
       "album": {
+        "name": "Gifts",
+        "url": "https://open.spotify.com/album/3bk666g1JRG4U6JzgwcEJm"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60918,
+      "name": "Gifts",
+      "url": "https://open.spotify.com/track/1wYjN3claONSH2D4VMVEuL"
+    },
+    {
+      "album": {
+        "name": "Gifts",
+        "url": "https://open.spotify.com/album/3bk666g1JRG4U6JzgwcEJm"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60208,
+      "name": "Gifts Arr. For Cello",
+      "url": "https://open.spotify.com/track/6JyGuDASbOZOrlr4ABq8Np"
+    },
+    {
+      "album": {
         "name": "Echoes In Time (Cello Version)",
         "url": "https://open.spotify.com/album/2sELlm2BckpPszTqN2H4BY"
       },
@@ -10328,6 +10364,24 @@
       "duration_ms": 204000,
       "name": "Morning Prayer",
       "url": "https://open.spotify.com/track/4imKugn0XXrrp7D04eJqpy"
+    },
+    {
+      "album": {
+        "name": "Morning Sky",
+        "url": "https://open.spotify.com/album/1F9xNdcF0zVE2ZG3fYma6L"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60882,
+      "name": "Morning Sky",
+      "url": "https://open.spotify.com/track/62knhs63ci7hYkDpibz3JJ"
     },
     {
       "album": {
@@ -16098,6 +16152,24 @@
       "duration_ms": 129397,
       "name": "Swell (Piano Version)",
       "url": "https://open.spotify.com/track/3oAMg1OlQ8vjpBirYudhZ2"
+    },
+    {
+      "album": {
+        "name": "Symphony No. 7 Lullaby Arr. For Cello",
+        "url": "https://open.spotify.com/album/7dFoTBZfDQbjcZaeu0trFM"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61847,
+      "name": "Symphony No. 7 Lullaby Arr. For Cello",
+      "url": "https://open.spotify.com/track/3EsVwTBmDJUNTpprobnWai"
     },
     {
       "album": {

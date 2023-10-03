@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-157 songs - 14 hr 55 min
+158 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Eyes of the World](https://open.spotify.com/track/2CYkIcN130a5sm4ObsUOA0) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Eyes of the World](https://open.spotify.com/album/53NBbrnfy9ER5w3aX1KxNY) | 5:13 | 2023-06-30 | 2023-07-29 |
 | [Fact from Fiction](https://open.spotify.com/track/2vWHuNouTFcfkcOY7zQKZ9) | [The Fritz](https://open.spotify.com/artist/792UqbFMNV10U1J1onyAq8) | [Natural Mind](https://open.spotify.com/album/6MDZ1To0ibnc4VcKMMYhBj) | 8:25 | 2022-06-23 |  |
 | [Fannie](https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 4:07 | 2022-06-23 | 2023-04-22 |
-| [Fate](https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU) | 6:29 | 2023-06-16 |  |
+| [Fate](https://open.spotify.com/track/21wWMrhOMhSGwU2iRB2kYv) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/7gMrxYFvgxnlquxVUQ0kCp) | 6:29 | 2023-06-16 |  |
+| [Fate](https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/2fhof51IkYthAjUKqO8dNU) | 6:29 | 2023-06-16 | 2023-10-03 |
 | [Feel It](https://open.spotify.com/track/2G63qYWsCvGMF8Lm4QBf01) | [The Sun Champs](https://open.spotify.com/artist/2q9oyqpb4XYVqlGXXjbKhZ) | [Feel It](https://open.spotify.com/album/2PU7HeRdXagOWesWbVvXat) | 4:38 | 2023-07-14 |  |
 | [Figure It Out](https://open.spotify.com/track/4z64nIlAoBSrZ60M8FbgnE) | [Eggy](https://open.spotify.com/artist/3gcJMFyZwSnYr9ChgnPpYj) | [Watercolor Days](https://open.spotify.com/album/60pMnmVxIovDVR03otDSfV) | 5:38 | 2022-06-23 | 2023-07-01 |
 | [Find a Better Way](https://open.spotify.com/track/5QLYkHW64i9wdhLwplMmhb) | [The Commoners](https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C) | [Find a Better Way](https://open.spotify.com/album/2irQCliXejenCG99G8Z2od) | 4:35 | 2022-09-30 |  |

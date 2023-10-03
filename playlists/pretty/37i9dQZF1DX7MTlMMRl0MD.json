@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Enrique Iglesias y Maria Becerra",
-  "num_followers": 1921926,
+  "num_followers": 1922042,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODhmMjQzMWQ1OTM1ZjY3MTRlNWNhMDZlYWI4OTYzNzJkNWY0MGI5",
+  "snapshot_id": "MCwwMDliMmEzMjlkNmE3NDcyNjA0OTUwYzVjOGY1YjRhZmMyMGQ2ZTQx",
   "tracks": [
     {
       "added_at": "2023-09-29 06:15:12",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Eres M\u00eda",
-      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
-    },
-    {
-      "added_at": "2023-09-29 06:15:12",
-      "album": {
         "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 206933,
       "name": "Darte un Beso",
       "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
+    },
+    {
+      "added_at": "2023-09-29 06:15:12",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Eres M\u00eda",
+      "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
     },
     {
       "added_at": "2023-09-29 06:15:12",
@@ -327,22 +327,18 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+        "name": "Hoja en Blanco",
+        "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
         }
       ],
-      "duration_ms": 264266,
-      "name": "Necio (feat. Carlos Santana)",
-      "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
+      "duration_ms": 307200,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO"
     },
     {
       "added_at": "2023-09-29 06:15:12",
@@ -363,18 +359,22 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
-        "name": "Hoja en Blanco",
-        "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
       "artists": [
         {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
         }
       ],
-      "duration_ms": 307200,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO"
+      "duration_ms": 264266,
+      "name": "Necio (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
     },
     {
       "added_at": "2023-09-29 06:15:12",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
-        "name": "F\u00f3rmula, Vol. 3",
-        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "Solo Conmigo",
-      "url": "https://open.spotify.com/track/22iCMlT0xYryKNnz4X5Vwn"
-    },
-    {
-      "added_at": "2023-09-29 06:15:12",
-      "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+        "name": "F\u00f3rmula, Vol. 3",
+        "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 238720,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
+      "duration_ms": 254920,
+      "name": "Solo Conmigo",
+      "url": "https://open.spotify.com/track/22iCMlT0xYryKNnz4X5Vwn"
     },
     {
       "added_at": "2023-09-29 06:15:12",
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "La Asesina",
+      "url": "https://open.spotify.com/track/1WoDc1x28zHmxnPvvM5GLh"
+    },
+    {
+      "added_at": "2023-09-29 06:15:12",
+      "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
@@ -539,22 +539,18 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 196480,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda"
+      "duration_ms": 238720,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
     },
     {
       "added_at": "2023-09-29 06:15:12",
@@ -579,6 +575,26 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
+        "name": "FIVE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 196480,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda"
+    },
+    {
+      "added_at": "2023-09-29 06:15:12",
+      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
-        "name": "El Amor",
-        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "La Asesina",
-      "url": "https://open.spotify.com/track/1WoDc1x28zHmxnPvvM5GLh"
-    },
-    {
-      "added_at": "2023-09-29 06:15:12",
-      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
       },
@@ -627,42 +627,6 @@
       "duration_ms": 165855,
       "name": "La Noche Perfecta",
       "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
-    },
-    {
-      "added_at": "2023-09-29 06:15:12",
-      "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 238706,
-      "name": "La Carretera",
-      "url": "https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo"
-    },
-    {
-      "added_at": "2023-09-29 06:15:12",
-      "album": {
-        "name": "AMANTES",
-        "url": "https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Daviles de Novelda",
-          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
-        }
-      ],
-      "duration_ms": 180153,
-      "name": "AMANTES",
-      "url": "https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu"
     },
     {
       "added_at": "2023-09-29 06:15:12",
@@ -683,6 +647,26 @@
       "duration_ms": 198706,
       "name": "BEB\u00c9",
       "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
+    },
+    {
+      "added_at": "2023-09-29 06:15:12",
+      "album": {
+        "name": "AMANTES",
+        "url": "https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Daviles de Novelda",
+          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
+        }
+      ],
+      "duration_ms": 180153,
+      "name": "AMANTES",
+      "url": "https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu"
     },
     {
       "added_at": "2023-09-29 06:15:12",
@@ -731,6 +715,22 @@
       "duration_ms": 172440,
       "name": "El Intruso",
       "url": "https://open.spotify.com/track/0gSBSVrek88L0xnSUQwlst"
+    },
+    {
+      "added_at": "2023-09-29 06:15:12",
+      "album": {
+        "name": "FIVE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 238706,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo"
     },
     {
       "added_at": "2023-09-29 06:15:12",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
-        "name": "Quiero Ser Tu Amor",
-        "url": "https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm"
-    },
-    {
-      "added_at": "2023-09-29 06:15:12",
-      "album": {
         "name": "Medicina De Amor",
         "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 193059,
       "name": "AVENTURA",
       "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
+    },
+    {
+      "added_at": "2023-09-29 06:15:12",
+      "album": {
+        "name": "Quiero Ser Tu Amor",
+        "url": "https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm"
     },
     {
       "added_at": "2023-09-29 06:15:12",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
+        "name": "Iluminatti",
+        "url": "https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 269120,
+      "name": "Quien Sabe",
+      "url": "https://open.spotify.com/track/4vOWNHRx4FGlQhs0pyxgJl"
+    },
+    {
+      "added_at": "2023-09-29 06:15:12",
+      "album": {
         "name": "Que Sera de Mi",
         "url": "https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 185333,
       "name": "Ad\u00f3nde Se Fue ?",
       "url": "https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw"
-    },
-    {
-      "added_at": "2023-09-29 06:15:12",
-      "album": {
-        "name": "Iluminatti",
-        "url": "https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 269120,
-      "name": "Quien Sabe",
-      "url": "https://open.spotify.com/track/4vOWNHRx4FGlQhs0pyxgJl"
     },
     {
       "added_at": "2023-09-29 06:15:12",
@@ -1455,38 +1455,6 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq"
-      },
-      "artists": [
-        {
-          "name": "Lil Eddie",
-          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
-        }
-      ],
-      "duration_ms": 203751,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe"
-    },
-    {
-      "added_at": "2023-09-29 06:15:12",
-      "album": {
-        "name": "La Voz de La Juventud",
-        "url": "https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO"
-      },
-      "artists": [
-        {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Te Parece Poco",
-      "url": "https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW"
-    },
-    {
-      "added_at": "2023-09-29 06:15:12",
-      "album": {
         "name": "NATTIVIDAD",
         "url": "https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM"
       },
@@ -1519,6 +1487,22 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq"
+      },
+      "artists": [
+        {
+          "name": "Lil Eddie",
+          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
+        }
+      ],
+      "duration_ms": 203751,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe"
+    },
+    {
+      "added_at": "2023-09-29 06:15:12",
+      "album": {
         "name": "Religi\u00f3n",
         "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 207200,
       "name": "HASTA QUE LA MUERTE NOS SEPARE",
       "url": "https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP"
+    },
+    {
+      "added_at": "2023-09-29 06:15:12",
+      "album": {
+        "name": "La Voz de La Juventud",
+        "url": "https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO"
+      },
+      "artists": [
+        {
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Te Parece Poco",
+      "url": "https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW"
     },
     {
       "added_at": "2023-09-29 06:15:12",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
-        "name": "Toby Love",
-        "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
-      },
-      "artists": [
-        {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "Tengo un Amor",
-      "url": "https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr"
-    },
-    {
-      "added_at": "2023-09-29 06:15:12",
-      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/6WtVPPM7gYHQtH3rTo7MXU"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 229369,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0"
+    },
+    {
+      "added_at": "2023-09-29 06:15:12",
+      "album": {
+        "name": "Toby Love",
+        "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
+      },
+      "artists": [
+        {
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "Tengo un Amor",
+      "url": "https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr"
     },
     {
       "added_at": "2023-09-29 06:15:12",

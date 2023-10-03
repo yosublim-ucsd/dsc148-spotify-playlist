@@ -1,12 +1,12 @@
 {
   "description": "Dark, hard hitting pop. Cover: sad alex",
-  "num_followers": 386332,
+  "num_followers": 386386,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjY4ZTM4NGZiOTIwYzJmZTliNTUxNDgxYjc5MTE5MmY2YTQyNjM2",
+  "snapshot_id": "MCxhNzEyZGUxZTMzY2YxZTA4ZWY0Y2IxNWRiMGZkZjA1YmY1OGY0OGZk",
   "tracks": [
     {
       "added_at": "2023-09-29 04:24:07",
@@ -39,6 +39,22 @@
       "duration_ms": 194545,
       "name": "ORAL HEX (spell on you)",
       "url": "https://open.spotify.com/track/6SpUnFjNfyFgyLRm65b2G6"
+    },
+    {
+      "added_at": "2023-09-29 04:24:07",
+      "album": {
+        "name": "Unsubstantial",
+        "url": "https://open.spotify.com/album/6kzXo1uFPopE5YEGgxImau"
+      },
+      "artists": [
+        {
+          "name": "Anya Nami",
+          "url": "https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h"
+        }
+      ],
+      "duration_ms": 100128,
+      "name": "Unsubstantial",
+      "url": "https://open.spotify.com/track/7u9gUIq2jVEnIgUXAVXnBb"
     },
     {
       "added_at": "2023-09-29 04:24:07",
@@ -89,6 +105,22 @@
       "url": "https://open.spotify.com/track/6xpGgaH6GxF1x2TdipaHSi"
     },
     {
+      "added_at": "2023-10-02 14:41:02",
+      "album": {
+        "name": "Should've Been A Dick to You",
+        "url": "https://open.spotify.com/album/3UbV2bdR9F3FxQNqO9RXMk"
+      },
+      "artists": [
+        {
+          "name": "Piper 57",
+          "url": "https://open.spotify.com/artist/6sOxk8gr7bsACj95waVXx7"
+        }
+      ],
+      "duration_ms": 132482,
+      "name": "Should've Been A Dick to You",
+      "url": "https://open.spotify.com/track/1x7H9gKKAvLjYkxZQCBDWZ"
+    },
+    {
       "added_at": "2023-09-29 04:24:07",
       "album": {
         "name": "Breadcrumbs",
@@ -135,22 +167,6 @@
       "duration_ms": 175813,
       "name": "Pretty Distraction",
       "url": "https://open.spotify.com/track/6cPh0IceWYeMEeYmbSgIMG"
-    },
-    {
-      "added_at": "2023-09-29 04:24:07",
-      "album": {
-        "name": "Unsubstantial",
-        "url": "https://open.spotify.com/album/6kzXo1uFPopE5YEGgxImau"
-      },
-      "artists": [
-        {
-          "name": "Anya Nami",
-          "url": "https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h"
-        }
-      ],
-      "duration_ms": 100128,
-      "name": "Unsubstantial",
-      "url": "https://open.spotify.com/track/7u9gUIq2jVEnIgUXAVXnBb"
     },
     {
       "added_at": "2023-09-29 04:24:07",

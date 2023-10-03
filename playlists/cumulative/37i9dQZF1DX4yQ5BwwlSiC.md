@@ -4,7 +4,7 @@
 
 > Check out all of these artists and more performing live in Nashville at the CMA Fest 2023! Cover: Luke Combs
 
-243 songs - 13 hr 19 min
+244 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [All Or Nothing](https://open.spotify.com/track/1CzZ7gS07Hmy7S0267w6VZ) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [All Or Nothing](https://open.spotify.com/album/37mY0fYspcp3GMzYeFwL1s) | 3:13 | 2023-04-29 |  |
 | [Amen To That](https://open.spotify.com/track/7EbL3SxJ02JE2JhtWdxjwl) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 2:52 | 2023-04-29 |  |
 | [Baby Do](https://open.spotify.com/track/15QX2C3763fKXUAzczXgFw) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Shot Glass](https://open.spotify.com/album/0LjZjuCqFFYCeit3OqcNVH) | 3:26 | 2022-06-01 | 2023-04-30 |
-| [Back Then, Right Now](https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:02 | 2022-06-01 |  |
+| [Back Then, Right Now](https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:02 | 2022-06-01 | 2023-10-03 |
+| [Back Then, Right Now](https://open.spotify.com/track/3wgo9ePs5s7OMO6yHQJB1T) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN) | 3:02 | 2023-07-31 |  |
 | [Beach Boys \(feat\. Mike Love & Bruce Johnston\)](https://open.spotify.com/track/3oxOe0e2fDhLoblIAxWa1o) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ), [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU), [Mike Love](https://open.spotify.com/artist/7lIlJTlWaSIBTMJxpIvd8f) | [Beach Boys \(feat\. Mike Love & Bruce Johnston\)](https://open.spotify.com/album/3r8lnwwavbBwzIo4nGassa) | 3:03 | 2022-06-01 | 2023-04-30 |
 | [Beer Can’t Fix](https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:29 | 2021-08-23 | 2022-06-01 |
 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 | 2021-08-23 | 2022-06-01 |

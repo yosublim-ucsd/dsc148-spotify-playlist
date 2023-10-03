@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 3429,
+  "num_followers": 3444,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmRjZmUxNzc0OGQ0YjU4MDQ0NDA1YzAzNGQ5ZjBmODRiZGEyYTIx",
+  "snapshot_id": "MCw5MjZlMTBkMjJlYWY3OGM5MWRhNDNkMTMxOTI4M2RmYjI0ZTkxNjZh",
   "tracks": [
     {
       "added_at": "2023-08-29 17:45:03",
@@ -159,38 +159,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
-        "name": "2:00 AM",
-        "url": "https://open.spotify.com/album/6fi3lhTQuBdlZ2MoyiB9yi"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Tenemos Historia",
-      "url": "https://open.spotify.com/track/4v00NVNPRrqj7wMXT0VMrK"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "YOKO",
         "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
       },
@@ -203,6 +171,38 @@
       "duration_ms": 207426,
       "name": "YOKO",
       "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 157499,
+      "name": "D\u00c1KITI \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "La Estrella del Show",
+        "url": "https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 177958,
+      "name": "La Estrella del Show",
+      "url": "https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -255,34 +255,34 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
         }
       ],
-      "duration_ms": 157499,
-      "name": "D\u00c1KITI \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "La Estrella del Show",
-        "url": "https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf"
+        "name": "2:00 AM",
+        "url": "https://open.spotify.com/album/6fi3lhTQuBdlZ2MoyiB9yi"
       },
       "artists": [
         {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
         }
       ],
-      "duration_ms": 177958,
-      "name": "La Estrella del Show",
-      "url": "https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX"
+      "duration_ms": 228413,
+      "name": "Tenemos Historia",
+      "url": "https://open.spotify.com/track/4v00NVNPRrqj7wMXT0VMrK"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Lo Que No Te Dije",
-        "url": "https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 176236,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
+        "name": "Lo Que No Te Dije",
+        "url": "https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 176236,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
         "name": "El Cuento de Cita",
         "url": "https://open.spotify.com/album/38d0eTAxlf9Vckm2MVOkqX"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 194500,
       "name": "Duermo con fr\u00edo",
       "url": "https://open.spotify.com/track/5oMNZjZUe6paIem7RWoIQA"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
-        "name": "Miss Universos",
-        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Desastre Comunal",
-      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -507,6 +491,22 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
+        "name": "Letra Pa' tu Coco",
+        "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "Live This One",
+      "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
         "name": "Vibra",
         "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
       },
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Letra Pa' tu Coco",
-        "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
+        "name": "Miss Universos",
+        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
       },
       "artists": [
         {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
         }
       ],
-      "duration_ms": 212453,
-      "name": "Live This One",
-      "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
+      "duration_ms": 185920,
+      "name": "Desastre Comunal",
+      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
+        "name": "Hasta el final",
+        "url": "https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Hasta el final",
+      "url": "https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
         "name": "Guarapo y Flor",
         "url": "https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 179541,
       "name": "Guarapo y Flor",
       "url": "https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
-        "name": "Hasta el final",
-        "url": "https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd"
-      },
-      "artists": [
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Hasta el final",
-      "url": "https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF"
     },
     {
       "added_at": "2023-08-29 17:45:03",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Pir\u00e1mide",
-        "url": "https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18"
-      },
-      "artists": [
-        {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Pir\u00e1mide",
-      "url": "https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "Duo Deleite",
         "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
       },
@@ -711,22 +695,6 @@
     {
       "added_at": "2023-08-29 17:45:03",
       "album": {
-        "name": "Miel y Mantequilla",
-        "url": "https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b"
-      },
-      "artists": [
-        {
-          "name": "Seba Otero",
-          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
-        }
-      ],
-      "duration_ms": 227319,
-      "name": "Miel y Mantequilla",
-      "url": "https://open.spotify.com/track/2YnlDzQ7jw9LwLhapCOYLU"
-    },
-    {
-      "added_at": "2023-08-29 17:45:03",
-      "album": {
         "name": "Mares\u00eda",
         "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
       },
@@ -739,6 +707,38 @@
       "duration_ms": 211169,
       "name": "Mares\u00eda",
       "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "Pir\u00e1mide",
+        "url": "https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18"
+      },
+      "artists": [
+        {
+          "name": "Epilogio",
+          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Pir\u00e1mide",
+      "url": "https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb"
+    },
+    {
+      "added_at": "2023-08-29 17:45:03",
+      "album": {
+        "name": "Miel y Mantequilla",
+        "url": "https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b"
+      },
+      "artists": [
+        {
+          "name": "Seba Otero",
+          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
+        }
+      ],
+      "duration_ms": 227319,
+      "name": "Miel y Mantequilla",
+      "url": "https://open.spotify.com/track/2YnlDzQ7jw9LwLhapCOYLU"
     },
     {
       "added_at": "2023-08-29 17:45:03",

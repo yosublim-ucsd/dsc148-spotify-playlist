@@ -984,7 +984,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 231003,
       "name": "Ritmo del Cielo",
       "url": "https://open.spotify.com/track/1rYUm7oOLJcJW5dSnJTem5"
@@ -1652,6 +1652,28 @@
       "duration_ms": 228089,
       "name": "Yo Te Prometo",
       "url": "https://open.spotify.com/track/2MHniwGrGDFCG43jLenfpI"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0j2n0aqjlCAK2Ym6dt2TOr"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        },
+        {
+          "name": "Niko La F\u00e1brica",
+          "url": "https://open.spotify.com/artist/77gpdl9ket58wQczszbrno"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224783,
+      "name": "Yo Te Prometo",
+      "url": "https://open.spotify.com/track/3BmjG2rfCuZcgJ4szVLFHO"
     },
     {
       "album": {

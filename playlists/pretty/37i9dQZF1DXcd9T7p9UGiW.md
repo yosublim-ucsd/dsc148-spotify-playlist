@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Feid & Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,413 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,487 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [Rowanda](https://open.spotify.com/track/32W2XSNHGRMPm3GKEuHm3r) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rowanda](https://open.spotify.com/album/0w2FJiew9Pjcp63aATXuV5) | 3:32 |
 | 80 | [Yeh Yeh \(feat\. Rema, Ayra Starr & KDDO\)](https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Yeh Yeh \(feat\. Rema, Ayra Starr & KDDO\)](https://open.spotify.com/album/1Y6LoHbeKILpI5SLC4PIB7) | 3:27 |
 
-Snapshot ID: `MCw5OGQ1NTY4MjU3MTEyMTA0ZGQ1MDA4NjcyNmFhZmQ4N2EyNzM1YjVh`
+Snapshot ID: `MCw2ZGYxZTFlZTk2MjkxNzg5OTIxZGUwODBiYjA0MDk0NDA1ZDVhNTlm`

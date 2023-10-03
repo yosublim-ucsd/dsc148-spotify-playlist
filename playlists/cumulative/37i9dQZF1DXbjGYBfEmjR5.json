@@ -2031,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "SUGAR RUSH",
+        "url": "https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "DUCK GROOVE",
+      "url": "https://open.spotify.com/track/7hwlFB4fxou2GCHOVN9LFU"
+    },
+    {
+      "album": {
         "name": "dump",
         "url": "https://open.spotify.com/album/20weAdy9Llm87hJFfLoIBg"
       },
@@ -4322,7 +4340,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 170634,
       "name": "Kratos in Love",
       "url": "https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2"

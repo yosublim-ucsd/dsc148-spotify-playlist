@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXa2ShUct1Fm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXa2ShUct1Fm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXa2ShUct1Fm)
 
-### [This is SEVENTEEN](https://open.spotify.com/playlist/37i9dQZF1DWXa2ShUct1Fm)
+### [This Is SEVENTEEN](https://open.spotify.com/playlist/37i9dQZF1DWXa2ShUct1Fm)
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 

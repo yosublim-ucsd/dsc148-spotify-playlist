@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnT3D0off4y.md) - [plain]
 
 > The official Ozark playlist with all the music from Season 4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,520 likes - 34 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,547 likes - 34 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [N.Y\. State of Mind](https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:53 |
 | 2 | [Represent](https://open.spotify.com/track/6DPrhGVJ1WTZvM9fKptnGe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:12 |
-| 3 | [Life's a Bitch](https://open.spotify.com/track/2LhhnqrHPWvXYveZVHLKrd) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Olu Dara](https://open.spotify.com/artist/3DQiuEWQzCUET866iZJmQ9) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 3:30 |
+| 3 | [Life's a Bitch \(feat\. AZ & Olu Dara\)](https://open.spotify.com/track/2LhhnqrHPWvXYveZVHLKrd) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [Olu Dara](https://open.spotify.com/artist/3DQiuEWQzCUET866iZJmQ9) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 3:30 |
 | 4 | [One Time 4 Your Mind](https://open.spotify.com/track/3p50PUgtBHM6rwUuD3RfFV) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 3:18 |
 | 5 | [Can It Be All so Simple](https://open.spotify.com/track/6OCYTygzbVwil2UFkREQiD) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [The Essential Wu\-Tang Clan](https://open.spotify.com/album/0qtA1fEpJAvz8xGqUESxHU) | 4:11 |
 | 6 | [New King of the Mountain](https://open.spotify.com/track/1Ap1WvM9h7xOjnM1Euj5JG) | [Romany Rye](https://open.spotify.com/artist/6gWHnfRFZNcAjbygp7WD0k) | [Quicksilver Sunbeam](https://open.spotify.com/album/1HfEWo0jzAjceDvqbPsrEY) | 4:42 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnT3D0off4y.md) - [plain]
 | 33 | [Here In Spirit](https://open.spotify.com/track/5GE8FTL15kS123apRK7vD4) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL) | 4:16 |
 | 34 | [I Feel Sanctified](https://open.spotify.com/track/2WXv5t8wG3V3zCxGrYJtuL) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Machine Gun](https://open.spotify.com/album/4OghKaRV54hQKGhkpD5cLC) | 3:44 |
 
-Snapshot ID: `MCw2YzczZTllMGIxNDQwODI5ZTJkZTlkZTM1ZTU5MjZjODczZmZlODg4`
+Snapshot ID: `MCw5NDVhYjk2YTkwNmFjMzZmZDNiZDdiNjE4NDRmZTY1NzU4Mjg3OWUw`

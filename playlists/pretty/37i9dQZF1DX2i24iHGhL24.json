@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 110919,
+  "num_followers": 110989,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmNjNTc2OTk0ZjhiMmE4N2FhZTE2NTFiOTZlMWJkMTAxYmFlYTdk",
+  "snapshot_id": "MCw4ZDZlODcyNDQzZjhlNDg4MDVkODMxOTFiMmE5ZjcxYzM4Y2MxOTBk",
   "tracks": [
     {
       "added_at": "2023-09-04 16:45:54",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 254725,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "All The Things She Said",
-        "url": "https://open.spotify.com/album/2rlUn38lFbYiBZ7L43gezd"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 221498,
-      "name": "All The Things She Said",
-      "url": "https://open.spotify.com/track/0wH55ChKuoZkmGhbIYtOI4"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "All The Things She Said",
+        "url": "https://open.spotify.com/album/2rlUn38lFbYiBZ7L43gezd"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 221498,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/0wH55ChKuoZkmGhbIYtOI4"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "I Wanna Dance With Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 203538,
-      "name": "I Wanna Dance With Somebody - Who Loves Me",
-      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
         "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 203538,
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "Celebrity Skin",
         "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
       },
@@ -715,6 +715,26 @@
       "duration_ms": 159651,
       "name": "Celebrity Skin",
       "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 239076,
+      "name": "Lover - Recorded at Air Studios, London",
+      "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -779,26 +799,6 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        },
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 239076,
-      "name": "Lover - Recorded at Air Studios, London",
-      "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "I\u2019m Blue",
+        "url": "https://open.spotify.com/album/5oerPhDkPTBfRj1O8gXZBS"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 150511,
+      "name": "I\u2019m Blue",
+      "url": "https://open.spotify.com/track/7kIlkxmhj6AvR5gwKvcXZp"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "Everything I Wanted",
         "url": "https://open.spotify.com/album/34RAxbFdvO9mbNWnj3r10E"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "I\u2019m Blue",
-        "url": "https://open.spotify.com/album/5oerPhDkPTBfRj1O8gXZBS"
+        "name": "Cruel Summer (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
       },
       "artists": [
         {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
         }
       ],
-      "duration_ms": 150511,
-      "name": "I\u2019m Blue",
-      "url": "https://open.spotify.com/track/7kIlkxmhj6AvR5gwKvcXZp"
+      "duration_ms": 176789,
+      "name": "Cruel Summer (Acoustic Version)",
+      "url": "https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1039,22 +1055,6 @@
       "duration_ms": 167094,
       "name": "California",
       "url": "https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Cruel Summer (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
-      },
-      "artists": [
-        {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
-        }
-      ],
-      "duration_ms": 176789,
-      "name": "Cruel Summer (Acoustic Version)",
-      "url": "https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Fade into You",
-        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 252596,
-      "name": "Fade into You",
-      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Praise You",
         "url": "https://open.spotify.com/album/65CxUyETl0Q4A2u6dZtbiA"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 169050,
       "name": "Praise You",
       "url": "https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 252596,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 266280,
-      "name": "Hold On, We're Going Home",
-      "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "The Salcombe Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/3h94Q7lxR7AK5wtuDAMkDf"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 299280,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/6Rr5SuUGeiD79iHfOtudXi"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2k3Xk2QZPruEfsTnLXL4tv"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 266280,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "High Drama",
-        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 200171,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/0GdTYLhpSyRzxgYmdjwnTN"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 242915,
       "name": "Crush",
       "url": "https://open.spotify.com/track/10zQ66l1AwcLtanGsv3Fav"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 200171,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "Born in the Eighties",
+        "url": "https://open.spotify.com/album/6OtA1RszyuxoQfgq3aLhDX"
+      },
+      "artists": [
+        {
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+        }
+      ],
+      "duration_ms": 213945,
+      "name": "Ayo Technology",
+      "url": "https://open.spotify.com/track/3FZl7oNIPiYVfE59uVmPDU"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "You Get What You Give",
         "url": "https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6"
       },
@@ -2335,22 +2351,6 @@
       "duration_ms": 252716,
       "name": "Believe",
       "url": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Born in the Eighties",
-        "url": "https://open.spotify.com/album/6OtA1RszyuxoQfgq3aLhDX"
-      },
-      "artists": [
-        {
-          "name": "Milow",
-          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
-        }
-      ],
-      "duration_ms": 213945,
-      "name": "Ayo Technology",
-      "url": "https://open.spotify.com/track/3FZl7oNIPiYVfE59uVmPDU"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2535,6 +2535,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/5bzQOredYZZ0gV4bRNbg0P"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jackson Band",
+          "url": "https://open.spotify.com/artist/1rsnYoKcEZ9G1DdqSGzoYm"
+        }
+      ],
+      "duration_ms": 263800,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "A Million Dreams",
         "url": "https://open.spotify.com/album/1T9WI6pLMrSXdmG1bBp4VS"
       },
@@ -2575,22 +2591,6 @@
       "duration_ms": 289276,
       "name": "A Million Dreams",
       "url": "https://open.spotify.com/track/40oSaFieDbdnNTlVr7YonY"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/5bzQOredYZZ0gV4bRNbg0P"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jackson Band",
-          "url": "https://open.spotify.com/artist/1rsnYoKcEZ9G1DdqSGzoYm"
-        }
-      ],
-      "duration_ms": 263800,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm"
     },
     {
       "added_at": "2023-09-04 16:45:54",

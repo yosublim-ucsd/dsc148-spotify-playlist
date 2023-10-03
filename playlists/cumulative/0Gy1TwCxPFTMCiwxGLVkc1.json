@@ -408,7 +408,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 68410,
       "name": "Cheeeeeeese",
       "url": "https://open.spotify.com/track/3Iga2u1fdZY7tL5UpaQA1B"
@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Follow Panda",
+        "url": "https://open.spotify.com/album/7sZOvmyQDPJr56NPMaLbRp"
+      },
+      "artists": [
+        {
+          "name": "Panda and Friends",
+          "url": "https://open.spotify.com/artist/7fTuRIKDO5fO6lGlE7QJ18"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "Follow Panda",
+      "url": "https://open.spotify.com/track/10rdci3AzW8Fl2n9RKsAAv"
+    },
+    {
+      "album": {
         "name": "Freeze",
         "url": "https://open.spotify.com/album/6fNMqkYZorZILXsXXfO8bG"
       },
@@ -742,6 +760,44 @@
       "duration_ms": 180935,
       "name": "Freeze",
       "url": "https://open.spotify.com/track/6sB7cqa6GOOWLAiDnVtJF9"
+    },
+    {
+      "album": {
+        "name": "Mickey and Friends Trick or Treats (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/13WszrC6hyDh5jLAGrzsHx"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Donald Duck",
+          "url": "https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU"
+        },
+        {
+          "name": "Daisy Duck",
+          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Mickey and Friends Trick or Treats - Cast",
+          "url": "https://open.spotify.com/artist/7Bfs4oeBA2jdVIbTFJtgkD"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136531,
+      "name": "Fright Night",
+      "url": "https://open.spotify.com/track/6TEVxvhwqwKd2L901uUUQk"
     },
     {
       "album": {
@@ -973,6 +1029,28 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: Halloween Jams",
+        "url": "https://open.spotify.com/album/2OU9nkzpxshbe3zNRki65l"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120289,
+      "name": "Howloween - From \"Disney Junior Music: SuperKitties\"",
+      "url": "https://open.spotify.com/track/1GqdIFjufjpTRjJ6QRXa5f"
+    },
+    {
+      "album": {
         "name": "Qai Qai's Nursery Rhymes Remix",
         "url": "https://open.spotify.com/album/4qc2aQQFKPoT965icHooqn"
       },
@@ -1078,7 +1156,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 214686,
       "name": "I'm In Love With My Doggy - Sped Up",
       "url": "https://open.spotify.com/track/49iqStiKWTq22efcrpMtUx"
@@ -1852,7 +1930,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 158266,
       "name": "Panda Style",
       "url": "https://open.spotify.com/track/6C0vlKk9fYgWmFvblxljg3"
@@ -2102,7 +2180,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 76706,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/7rFt04VwtHIJYsMtZIvzR0"
@@ -2186,6 +2264,24 @@
       "duration_ms": 59989,
       "name": "Spideys Don't Give Up - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
       "url": "https://open.spotify.com/track/0yGSt0CnmXHvmboYFn5KHA"
+    },
+    {
+      "album": {
+        "name": "Spooky Night (from A Really Haunted Loud House)",
+        "url": "https://open.spotify.com/album/4KOq2cmP4PahZHDrY9d6xW"
+      },
+      "artists": [
+        {
+          "name": "The Really Loud House",
+          "url": "https://open.spotify.com/artist/4GQWweaax2iFP1JIAyKY3R"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173465,
+      "name": "Spooky Night (from A Really Haunted Loud House)",
+      "url": "https://open.spotify.com/track/2nfkkepFVzBviOk0wZSklX"
     },
     {
       "album": {

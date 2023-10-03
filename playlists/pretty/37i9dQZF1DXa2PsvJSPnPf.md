@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,063 likes - 141 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,092 likes - 141 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 91 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 92 | [Perfect Imperfections](https://open.spotify.com/track/7g5xq6q4oQBE6P3NjD0jRB) | [Marla Cannon\-Goodman](https://open.spotify.com/artist/74uAZmRdVsXyRNOPAS2Zxj) | [Perfect Imperfections](https://open.spotify.com/album/2JOhuGsvdV1Xkwpv4yWuxp) | 4:02 |
 | 93 | [Poor Lost Souls](https://open.spotify.com/track/5saHD81HEsU6vCO07JJyVB) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [These 13](https://open.spotify.com/album/5e7me68eSPsVkbQoGdpEkh) | 4:16 |
-| 94 | [Georgia Drumbeat](https://open.spotify.com/track/4y5qy3U22W30TUX4hutV5d) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Prospect Hill: The American Songster Omnibus](https://open.spotify.com/album/5616zmHV1bAxmnpM9v2bsU) | 2:50 |
+| 94 | [Georgia Drumbeat](https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Prospect Hill: The American Songster Omnibus](https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo) | 2:50 |
 | 95 | [The Time for Flowers](https://open.spotify.com/track/2dzZaRN9Uqp1JEic2lQ4k5) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [The Time for Flowers](https://open.spotify.com/album/3xhTmtzpGjC8IjT84xhaRg) | 3:59 |
 | 96 | [Better Way](https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Better Way](https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M) | 5:56 |
 | 97 | [Just Want To Be Loved](https://open.spotify.com/track/0NYl9aDHEcTNQ8SKu8GLqM) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:16 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 140 | [You're Free Now](https://open.spotify.com/track/0ySdK6vR22cXZMb3AMgsUS) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa Deluxe](https://open.spotify.com/album/0Q5GdiJwXZ1FvdxUj5X7uY) | 4:19 |
 | 141 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
 
-Snapshot ID: `MCxlNDNmNmNkNDUyN2Y5OTA1YTk2NDc5Njg1MmEwZWNmZmI4OWZhMjQ2`
+Snapshot ID: `MCw0ODE1Y2Y5MTY4Y2ViZTlmNzM2YTI5MTc4NjVkNGEzNTE0YzY4Mzk1`

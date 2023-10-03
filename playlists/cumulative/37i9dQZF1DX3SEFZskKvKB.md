@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-122 songs - 6 hr 56 min
+123 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Hypnotic](https://open.spotify.com/track/4DwOcPUyAMVDtQCBEXFGOj) | [Nimah Chantis](https://open.spotify.com/artist/1PAnkrGfJrFbB7wT1SuDHY) | [Shamanic Drums \(Meditation & Sacred Dance\)](https://open.spotify.com/album/1XS9JY9mSUo78ellvdiQo5) | 3:45 | 2022-05-26 |  |
 | [I Told You So](https://open.spotify.com/track/0NOcrJEDvdfUaxukODyXHm) | [Ragu Bandera](https://open.spotify.com/artist/2eGUeI1yjONv79sXZODOqG) | [I Told You So](https://open.spotify.com/album/6S6omVew9fNvzTJcgGao4q) | 2:30 | 2022-05-26 |  |
 | [In Everness](https://open.spotify.com/track/7LnvQlr3FHWlmiCqDDbXOh) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [In Everness](https://open.spotify.com/album/3askarTMsTIOOiFy338QD0) | 3:25 | 2023-04-28 |  |
+| [Inner Harmony](https://open.spotify.com/track/5G1FGOdK1yXZzWcE7imCjz) | [Muyu Three](https://open.spotify.com/artist/6zb7OvAUpABDfVSe9NF1BN) | [Inner Harmony](https://open.spotify.com/album/2ggG3E1RzoDn6GqGgOL5xm) | 2:27 | 2023-10-02 |  |
 | [Inner Sanctum](https://open.spotify.com/track/6flT3JMt6BaqzR5TH0w14W) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Inner Sanctum](https://open.spotify.com/album/0plusPTJbziOVYoqGEHQV7) | 4:09 | 2022-05-26 |  |
 | [Into the Wild](https://open.spotify.com/track/6ND3m2zmOZsu98le63Wjdo) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Music: Tribal Drums & Nature – Rhythms of Dark Continent, Shamanic Dance, Spiritual Savannah Experience, African Meditation](https://open.spotify.com/album/7rFpsFVeNWLSM2Cv893H8a) | 3:25 | 2022-05-26 | 2022-09-15 |
 | [Jai Bhagwan](https://open.spotify.com/track/6x0khUE2pKEPCJ4RrqzACz) | [Pritam Jariwala](https://open.spotify.com/artist/75bjfZZ0jUCTkUYfz2MZPp) | [Jai Bhagwan](https://open.spotify.com/album/1lpCEefFOOYNLREQVD6OYi) | 2:44 | 2022-05-26 |  |
@@ -108,7 +109,7 @@
 | [Sweet Existence](https://open.spotify.com/track/5jG0XIjT3KzT7SnJLI3rPA) | [I Haga Xela](https://open.spotify.com/artist/14l8W9RkIRqaYt89jWg6tT) | [Sweet Existence](https://open.spotify.com/album/2KGGTWJXwVPPFN2ndHUPp0) | 3:04 | 2022-11-11 |  |
 | [The Escape](https://open.spotify.com/track/0VJ0mF41QVvhfRSYDHcJTg) | [Shaban Hashmi](https://open.spotify.com/artist/7DNrBvOfstbGggvLlBql7k) | [The Escape](https://open.spotify.com/album/4s1SFohbC9Zw7BYXCC8L3e) | 2:57 | 2022-05-26 |  |
 | [The Ocean Of Night](https://open.spotify.com/track/3PZpaI1cvrnVJsWVFH05Dr) | [John Serrie](https://open.spotify.com/artist/0wa407BBItqXt1SqfyhMEc), [Gary Stroutsos](https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re) | [Hidden World](https://open.spotify.com/album/32RJs9ul4l3ZrfCNKvU8Hl) | 7:01 | 2022-05-26 | 2023-09-16 |
-| [The Sacred Drum](https://open.spotify.com/track/1aS6pp7K04yYflSXXt54Qf) | [The Shaman Drum of Umbra](https://open.spotify.com/artist/56FYWoT0TLsZJaS2zsQMNI) | [The Sacred Drum](https://open.spotify.com/album/6yvTVO5f7ioMEx2TzbdrAl) | 2:14 | 2023-01-20 |  |
+| [The Sacred Drum](https://open.spotify.com/track/1aS6pp7K04yYflSXXt54Qf) | [The Shaman Drum of Umbra](https://open.spotify.com/artist/56FYWoT0TLsZJaS2zsQMNI) | [The Sacred Drum](https://open.spotify.com/album/6yvTVO5f7ioMEx2TzbdrAl) | 2:14 | 2023-01-20 | 2023-10-03 |
 | [The Shaman Drum](https://open.spotify.com/track/6rvhmEwAscjPaCPeLWX4P2) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO), [The Shaman Drum of Umbra](https://open.spotify.com/artist/56FYWoT0TLsZJaS2zsQMNI) | [Umbra](https://open.spotify.com/album/2jWji8ZKEpNsoJzvFOkYLf) | 1:36 | 2023-01-11 |  |
 | [The Spirit of the Drum](https://open.spotify.com/track/2TFtiG9PkXpRezasuBiS0h) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Enter the Spirit World \- Shamanic Drumming Meditation](https://open.spotify.com/album/3qFC7eIbzF9nBD79xX47rH) | 3:32 | 2022-05-26 | 2023-03-10 |
 | [Thunderbrand](https://open.spotify.com/track/33qhC5OfZdelrQgvARr2eB) | [Leafgolden](https://open.spotify.com/artist/0jiudEshVEEN5Uo6gmtrLP) | [Thunderbrand](https://open.spotify.com/album/3kBafXQoV4nipuxyBmYiYe) | 2:18 | 2022-05-26 |  |

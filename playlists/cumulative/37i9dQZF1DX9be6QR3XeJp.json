@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover:  HotWax",
+  "description": "Discover your new favourite artists from UK&IE. Cover:  Sola",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -4056,6 +4056,24 @@
       "duration_ms": 181655,
       "name": "What I'd Do For You",
       "url": "https://open.spotify.com/track/1RxYDWodpkiYA4apEOuDdS"
+    },
+    {
+      "album": {
+        "name": "Warped Soul",
+        "url": "https://open.spotify.com/album/6fmZMYYSkKtMlNpbZPvfVQ"
+      },
+      "artists": [
+        {
+          "name": "Sola",
+          "url": "https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212919,
+      "name": "When I Feel Sane",
+      "url": "https://open.spotify.com/track/7LtQ2SQIRVlDDYuZSOerd2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-281 songs - 13 hr 43 min
+282 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Get Down](https://open.spotify.com/track/15kngPpHArrpT8PSdKVSud) | [Pafka](https://open.spotify.com/artist/0JUvxzz5fMMYFMCoBP9NU2) | [Get Down](https://open.spotify.com/album/3PcVhPxZ7f1x6eAznLGgoj) | 2:55 | 2021-11-11 | 2022-02-11 |
 | [Get in Line](https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get in Line](https://open.spotify.com/album/3i7j0fMwZROk6o1dgzLmFS) | 3:24 | 2022-02-10 |  |
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2021-11-11 | 2022-09-17 |
-| [glacial](https://open.spotify.com/track/5T0E6sSBSdlHOGOvUnJRx2) | [Tiriba](https://open.spotify.com/artist/1SYHJDCUZirC4azFR67geQ) | [glacial](https://open.spotify.com/album/4jw8875Q5wwxTWJ63OEw8g) | 3:35 | 2022-02-10 |  |
+| [glacial](https://open.spotify.com/track/5T0E6sSBSdlHOGOvUnJRx2) | [Tiriba](https://open.spotify.com/artist/1SYHJDCUZirC4azFR67geQ) | [glacial](https://open.spotify.com/album/4jw8875Q5wwxTWJ63OEw8g) | 3:35 | 2022-02-10 | 2023-10-03 |
 | [great view](https://open.spotify.com/track/74UTn1kkhqB9jX3uaDuN6S) | [Awrail](https://open.spotify.com/artist/7bNQNzvOo3pNycy6qspOXO) | [great view](https://open.spotify.com/album/44a0fRSPj0KQpv3wR5YNo9) | 2:04 | 2022-07-01 | 2023-05-06 |
 | [grenadine](https://open.spotify.com/track/7ILFq1DgzrSm8vJE0GINBY) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [grenadine](https://open.spotify.com/album/0tBFQCg1QzmVCraGDfEqAl) | 2:53 | 2022-05-13 | 2023-08-25 |
 | [Ground Concrete](https://open.spotify.com/track/7rhoPowNAOMG9GPzZUCQD9) | [Rudy Boy](https://open.spotify.com/artist/3oAXW0WYR5lFZdx62Vr8OM) | [Architecture](https://open.spotify.com/album/3NbGDz98pX5aWxroN1t0Cy) | 2:09 | 2021-11-11 | 2022-05-20 |
@@ -143,6 +143,7 @@
 | [Lifesaver](https://open.spotify.com/track/0ErNDv1Ki7vVXlWPUoEVC0) | [Adam Doschki](https://open.spotify.com/artist/6Srxg2LqSxDvLlgxWkvUzO) | [Lifesaver](https://open.spotify.com/album/0xuZTpvDmtYL3ychCXbNHl) | 1:46 | 2021-11-11 | 2022-04-06 |
 | [Limoncello](https://open.spotify.com/track/3hiMfIXRuD4OAjD6F5VLQb) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Limoncello](https://open.spotify.com/album/1mUX9DSCKssZvL9SAJiaR3) | 2:26 | 2022-07-15 |  |
 | [Little Miss Universe](https://open.spotify.com/track/1Ec6Duf5AmAmPGFwEzJkv4) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Little Miss Universe](https://open.spotify.com/album/5IHkFNd44rqOD7cF4jMid1) | 3:23 | 2022-05-20 | 2022-09-09 |
+| [Little Things](https://open.spotify.com/track/4ITZMLhFDxgoH8b4dWAqkB) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Little Things](https://open.spotify.com/album/7CoUgGrEeQ87OjzYwvrLKn) | 2:43 | 2023-10-02 |  |
 | [Looped\-tape excesses](https://open.spotify.com/track/5jXitTj0rgRXOIsxJb6AxE) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Looped\-tape excesses](https://open.spotify.com/album/3qnZ5AacXwJJcnAsPpyOth) | 3:32 | 2023-02-17 |  |
 | [Lotus Sunset](https://open.spotify.com/track/2hExpSS1RhXGbwLxNkN9kl) | [Purple Waves](https://open.spotify.com/artist/0KJ2P4KrAgSoL8dg3Bpoc1) | [Lotus Sunset](https://open.spotify.com/album/309fHqqPE7jrXrnydkaaDK) | 2:12 | 2023-09-01 |  |
 | [Lounge Joint](https://open.spotify.com/track/3SkVZHNHUVDzelIarOrgDe) | [Minor Keyz](https://open.spotify.com/artist/3vmtpFNZmk6ZfJd2sGDJDp) | [The Weekend](https://open.spotify.com/album/1LLNpIVJt4wHbxaoKwUyeE) | 1:21 | 2021-11-11 | 2022-04-15 |

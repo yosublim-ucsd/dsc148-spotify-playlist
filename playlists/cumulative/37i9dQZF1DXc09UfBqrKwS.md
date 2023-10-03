@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-255 songs - 12 hr 30 min
+256 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Aquatica](https://open.spotify.com/track/23MzHbMRSE0i6qgRJBPiOZ) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Aquatica](https://open.spotify.com/album/5jx1Y05rwpjxm9VsMwEUiP) | 3:09 | 2023-08-25 |  |
 | [Aquiver](https://open.spotify.com/track/3Dm8skAbA9W4ufmCESqlDg) | [Chév Asto](https://open.spotify.com/artist/13ZKAALykJ7sZ130Vh7Y2n) | [Isolate](https://open.spotify.com/album/2lkmlImaHA6RPzCfkSbmQz) | 3:50 | 2023-07-13 |  |
 | [Arise](https://open.spotify.com/track/6OdP3zH7YSP9gaDpQ2Pj5D) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Arise](https://open.spotify.com/album/0g3jCPVm6E6dkbepOlFUft) | 3:36 | 2023-03-31 |  |
-| [Arnasa](https://open.spotify.com/track/0IazKTDsOeV4v3NfILh3LW) | [Laila Wollo](https://open.spotify.com/artist/1jmtNyWEYK79HFiie88kBj) | [Arnasa](https://open.spotify.com/album/2RRsQVz30a93lgj3YgJjpv) | 3:10 | 2023-03-31 |  |
+| [Arnasa](https://open.spotify.com/track/0IazKTDsOeV4v3NfILh3LW) | [Laila Wollo](https://open.spotify.com/artist/1jmtNyWEYK79HFiie88kBj) | [Arnasa](https://open.spotify.com/album/2RRsQVz30a93lgj3YgJjpv) | 3:10 | 2023-03-31 | 2023-10-03 |
 | [As The Light Slowly Fades](https://open.spotify.com/track/1mEAr807HGjKAagrM55rjl) | [Bliss Porter](https://open.spotify.com/artist/0AF3uDWnCp5CMYIl66leMm) | [As The Light Slowly Fades](https://open.spotify.com/album/0pmUEomw3GfbValHI5lPmF) | 3:13 | 2023-03-31 |  |
 | [At Rest](https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:39 | 2023-03-31 |  |
 | [Atmosphere](https://open.spotify.com/track/2aFlelxOUFLufLy1vAe3YZ) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Atmosphere](https://open.spotify.com/album/1I4mGzUZCwJWek0eQ4nt83) | 1:37 | 2023-03-31 | 2023-07-29 |
@@ -138,6 +138,7 @@
 | [Looking Up](https://open.spotify.com/track/6WPhQfpJOY2elhjJHI27H5) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 2:32 | 2023-03-31 |  |
 | [Lost For Words](https://open.spotify.com/track/4sfOO8SiLK78BqfpDYMdGX) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [Lost For Words](https://open.spotify.com/album/16KoakttQ46usBrczdma3Z) | 3:07 | 2023-03-31 |  |
 | [Lost In Thought](https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 1:55 | 2023-03-31 | 2023-07-29 |
+| [Lo´s Magma](https://open.spotify.com/track/6qSypfhInkt0jQC5aRcrTV) | [Robi Dixie](https://open.spotify.com/artist/5NlnY2fSvi51YebjxNah6F) | [Lo´s Magma](https://open.spotify.com/album/01rQAOOlWABpfJ2CcPOIAb) | 3:06 | 2023-10-02 |  |
 | [Luminescence](https://open.spotify.com/track/5IaT7YXAiWiW6sl2COCOx6) | [Jerzy Stól](https://open.spotify.com/artist/6bBst9TjOI1WYBRjx9LZb1) | [Luminescence](https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu) | 2:08 | 2023-03-31 |  |
 | [Make It Last](https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Make It Last](https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2) | 2:54 | 2023-03-31 |  |
 | [Maravilla](https://open.spotify.com/track/0lLKmZbkORVUbxlRDrVVXB) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [Maravilla](https://open.spotify.com/album/27EJk20V3NGiphJpEexh3Z) | 2:27 | 2023-03-31 |  |

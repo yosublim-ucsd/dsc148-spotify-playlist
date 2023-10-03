@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Trijntje Oosterhuis
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,208 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,230 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 60 | [Alles Geprobeerd](https://open.spotify.com/track/3yBuEy5DmmV4tRL5ASRxlE) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Mooi En Onverslijtbaar](https://open.spotify.com/album/0ibRP3mGseezsT8R7GgGWj) | 6:27 |
 | 61 | [Vanmorgen Vloog Ze Nog](https://open.spotify.com/track/2WZBD5MI3pVaKIweuZj5pc) | [Robert Long](https://open.spotify.com/artist/4e345XgeCOfD96TnOVhH7f), [Martine Bijl](https://open.spotify.com/artist/5ayboLANPe5lXssiZopVb8), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0), [Robert Paul](https://open.spotify.com/artist/0esNt1hWsO271oogWw8c2o) | [Tsjechov \- De Musical Van Dimitri Frenkel Frank En Robert Lo](https://open.spotify.com/album/5bsv5G1wExKRiRGcu2emUl) | 5:06 |
 | 62 | [Zonder Jou](https://open.spotify.com/track/4xPkcG6Efkn22baq0kJmQo) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2EVSRkvcdN6TYFg1gY8tlE) | 3:57 |
-| 63 | [Zeg Met Dat Het Niet Zo Is](https://open.spotify.com/track/5c22NmaEpqXh2PFzCBDGRJ) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Een Zomer Aan Het Eind Van De Twintigste Eeuw](https://open.spotify.com/album/2cExlOtCjJjz8xuuFobK9g) | 2:41 |
+| 63 | [Zeg Me Dat Het Niet Zo Is](https://open.spotify.com/track/5c22NmaEpqXh2PFzCBDGRJ) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Een Zomer Aan Het Eind Van De Twintigste Eeuw](https://open.spotify.com/album/2cExlOtCjJjz8xuuFobK9g) | 2:41 |
 | 64 | [Lente Me](https://open.spotify.com/track/1JSrkd77iGJMYwTUBdX5Xs) | [Toon Hermans](https://open.spotify.com/artist/3Uo8Ydn4TQ6Xq3W1oN4z0h) | [One Man Show 1993](https://open.spotify.com/album/0WK6NTWtpvHLBovgYFbdsS) | 4:54 |
 | 65 | [Testament](https://open.spotify.com/track/6uWWbsGYJT8d4wvQKqkJEG) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [De Vrienden Van Vroeger \(1966\-1973\)](https://open.spotify.com/album/5mTJI3gIyjVfK4UV0Li4AX) | 3:15 |
 | 66 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/5Txs0Hcm3Tr2tA5OOaGqDK) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/6h8rFFOtR2m6N8d4FKCYkW) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 74 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 |
 | 75 | [Mooie Dag](https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:38 |
 
-Snapshot ID: `MCw1ZmJmZGRiNDVjOGZjOTM5ODQ1NDFlMTkzYmRiNmMyNGExYThhMmY2`
+Snapshot ID: `MCxmOTY4NzA0NmIxNWZjYmM5N2RmZTZjNDljZGE2Y2U0OTAzMTM4NzIz`

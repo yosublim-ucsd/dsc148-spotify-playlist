@@ -2,9 +2,9 @@
 
 ### [EA SPORTS FC 24 Official Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DX3rXtgePifMs)
 
-> The official EA SPORTS FC 24 Soundtrack.
+> El soundtrack oficial de EA SPORTS FC 24.
 
-94 songs - 5 hr 5 min
+95 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 | 2023-09-20 |  |
 | [Sekkle In](https://open.spotify.com/track/1WClrb8WfN4SNAoiDlltSv) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW), [Sparkz](https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf) | [Earache / Sekkle In](https://open.spotify.com/album/6U80BQXg2cyQrWJ6dm0soD) | 3:45 | 2023-09-20 |  |
 | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B) | 3:07 | 2023-09-20 |  |
+| [Sigo Tus Pasos](https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Sigo Tus Pasos](https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub) | 4:02 | 2023-10-03 |  |
 | [So Clear](https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo) | [Fliptrix](https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE) | [Mantra No\. 9](https://open.spotify.com/album/2ZUa47nI8CFCIJhA94UGEj) | 3:32 | 2023-09-20 |  |
 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 | 2023-09-20 |  |
 | [Superstar](https://open.spotify.com/track/6sqG2ZdKeW2C9lIStu99FP) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Micky Modelle](https://open.spotify.com/artist/3zcI1GFwUNAZj9NxlKOfYb), [Simone Denny](https://open.spotify.com/artist/5iksvBurqxFh3zWac6GZGs) | [Belters Only](https://open.spotify.com/album/1gUtcP3rhQnQy0QEnOpe9y) | 3:42 | 2023-09-20 |  |

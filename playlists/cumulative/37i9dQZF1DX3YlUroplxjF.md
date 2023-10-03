@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-402 songs - 23 hr 1 min
+403 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Signs](https://open.spotify.com/track/1e2NV9BjhmFrtDmhfL3nxF) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Signs](https://open.spotify.com/album/0sgglKdYqRqntIRQnTWoF8) | 4:28 | 2021-11-30 | 2022-07-27 |
 | [Signs](https://open.spotify.com/track/1oQqeOUBp5MfObeodk2IbP) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Ghost Like You](https://open.spotify.com/album/2BJl3YUJVddxRRmzGXXTvj) | 4:28 | 2022-04-01 | 2023-09-22 |
 | [Signs](https://open.spotify.com/track/4ZC05So3fMfwpy5jWQ990v) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Signs](https://open.spotify.com/album/1DxmOpjDnTptonWWuKHszp) | 4:28 | 2022-04-01 | 2022-08-04 |
+| [Signs](https://open.spotify.com/track/7v6YqvhuUAJXn08bOT9JBs) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Ghost Like You](https://open.spotify.com/album/5IHiJ6cpup8qShT8s3rUJG) | 4:28 | 2023-06-20 |  |
 | [Silver Linings](https://open.spotify.com/track/31RlB6I7CAMibQOi4htpWa) | [I Hate Heroes](https://open.spotify.com/artist/5raTpzJqreSMrasa0TRt4a) | [Save Yourself](https://open.spotify.com/album/4a0gEmP4tGm7WcWm68TY0C) | 3:49 | 2021-11-30 | 2022-06-21 |
 | [SK FOREVER](https://open.spotify.com/track/5VacWrEamFxnSclVDWqOY6) | [Deez Nuts](https://open.spotify.com/artist/2w0Dmj9GV9ZrokNRcnRwav), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [SK FOREVER](https://open.spotify.com/album/52vbRpOFAO9MOK1XnXq4kf) | 3:30 | 2022-02-28 | 2022-06-30 |
 | [Sleep Life Away](https://open.spotify.com/track/360n8IiJdbrlRelrPRsd5n) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Don't Leave Me This Way](https://open.spotify.com/album/4EJEijJaV4KjMc1niyqoyV) | 3:20 | 2021-11-30 | 2022-11-24 |
@@ -357,7 +358,7 @@
 | [Synthetic Sympathy](https://open.spotify.com/track/5U87poJhGdDVROtitLtEyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Synthetic Sympathy](https://open.spotify.com/album/381HXBJcgKxxeRLYX8i9nx) | 3:36 | 2021-11-30 | 2022-07-29 |
 | [Take Your Pill](https://open.spotify.com/track/4rfa4cvs3mkw0Sm2bQtlGN) | [Belle Haven](https://open.spotify.com/artist/0JjhdljC5dBfEV7mGJGeLh) | [Take Your Pill](https://open.spotify.com/album/5fOJzfkFMdUoFEl7wbz9M8) | 3:21 | 2021-11-30 | 2022-07-20 |
 | [Takeover](https://open.spotify.com/track/3fFI5D9ExkYFhBEGkLFz0A) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [B\-Sides](https://open.spotify.com/album/7eIpeJjfSVQm51aL3sOi17) | 2:58 | 2021-11-30 | 2022-07-23 |
-| [Takeover](https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease \(Deluxe Edition\)](https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8) | 2:58 | 2022-04-01 |  |
+| [Takeover](https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease \(Deluxe Edition\)](https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8) | 2:58 | 2022-04-01 | 2023-10-03 |
 | [Talking In Your Sleep](https://open.spotify.com/track/2I8IEJxcTDJpNszohSbnb6) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Talking In Your Sleep](https://open.spotify.com/album/0NNmXVhEmeyEE3EWSKo6lx) | 3:45 | 2021-11-30 | 2022-07-27 |
 | [Talking to Myself](https://open.spotify.com/track/0sSaGJ6KOJC6MR3yFTq5J8) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3bd1MdHvtWscI301qFWQlH) | 3:10 | 2022-04-01 | 2022-10-04 |
 | [Talking to Myself](https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 | 2022-04-01 |  |

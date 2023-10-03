@@ -2,7 +2,7 @@
 
 ### [Radio Latina](https://open.spotify.com/playlist/37i9dQZF1DWUPj9VuIP3Gq)
 
-> Dale play y llénate de nostalgia con estas canciones inolvidables\. En portada: Shakira \#DiaDeShakira
+> Dale play y llénate de nostalgia con estas canciones inolvidables.
 
 122 songs - 7 hr 24 min
 

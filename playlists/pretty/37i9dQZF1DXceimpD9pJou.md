@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:4jLWtcGrESS5YvRip2ATmL">Niko Eme</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,435 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,460 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 8 | [lo que crees de mí](https://open.spotify.com/track/6SHBIYT7Woz5wAF0J3Vgq0) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [lo que crees de mí / ESFERA CELESTE](https://open.spotify.com/album/0Yao852MgDyr0yKwtICPIr) | 3:09 |
 | 9 | [Escojo La Vida](https://open.spotify.com/track/57ZV8I9hYL3dKjmZ0qqfE5) | [Santiago Benavides](https://open.spotify.com/artist/1kmI6wp97POUynJvBlxkuR), [Cris Velez](https://open.spotify.com/artist/5Vw576povsUgOarGPvcmQM) | [Escojo La Vida](https://open.spotify.com/album/3pdRajYt3iRtUWc4hv73UY) | 3:28 |
 | 10 | [Nada Faltará](https://open.spotify.com/track/4AzxKoA5FgThxkbcOPOuux) | [Juanca Cevasco](https://open.spotify.com/artist/4RDmGrAvQk6WXs91HVkpzC), [Jon Carlo](https://open.spotify.com/artist/78Xx1nGRbBHmfwtx2arZZK) | [Nada Faltará](https://open.spotify.com/album/1sJALp8nXdwQwC4cRQC3NJ) | 3:58 |
-| 11 | [Lugar Seguro \- Live](https://open.spotify.com/track/2jwwoJIoZvnWPkTGXw8Ypk) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz), [Mary Pagan](https://open.spotify.com/artist/3wXtmqlqYMxvnTA2FzDrnD) | [Lugar Seguro \(Live\)](https://open.spotify.com/album/29tZpa05bCPDbZHjADsIEE) | 8:06 |
+| 11 | [Lugar Seguro \- Live](https://open.spotify.com/track/2jwwoJIoZvnWPkTGXw8Ypk) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz), [Mary Pagan](https://open.spotify.com/artist/1Aai1Tz0m6JRJPk4jMPDA2) | [Lugar Seguro \(Live\)](https://open.spotify.com/album/29tZpa05bCPDbZHjADsIEE) | 8:06 |
 | 12 | [No Lo Has Visto Aún](https://open.spotify.com/track/71omnuYdvWJaUV0efU582f) | [Predicadores Studio](https://open.spotify.com/artist/3KkGsQ2VBhUGOR7cTXZhAw), [Carlos Mantuano](https://open.spotify.com/artist/5seVg94vNAxbYfOnrq0Alg) | [No Lo Has Visto Aún](https://open.spotify.com/album/4q2TX7I48fbUYPQc76qF6S) | 4:06 |
 | 13 | [Cristo, Mesías](https://open.spotify.com/track/6j1UXgXoGueFsquwGprV0B) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Daniela Quintero](https://open.spotify.com/artist/34faznZpOtWgjQPugCRiir) | [Cristo, Mesías](https://open.spotify.com/album/2CDC8wiDkeLcxu0ROhFV4S) | 10:04 |
 | 14 | [Esa Es La Razón \- Live](https://open.spotify.com/track/3lwiyQh8K7qWumYTiheXlq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Esa Es La Razón \(Live\)](https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf) | 6:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Libre](https://open.spotify.com/track/1CYi5ZlZyscOKa2mvFvaVY) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M) | [Caribeño](https://open.spotify.com/album/3EYX2ghdMCIrm7SUZM5TRV) | 3:58 |
 | 100 | [Diccionario](https://open.spotify.com/track/7xXKf603uv2ih4vt8RsLcY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [Diccionario](https://open.spotify.com/album/4CuBXwhaOixyOGBAlJFN0y) | 3:14 |
 
-Snapshot ID: `MCw1YzdjZTIyYmFkNmQ1OTE1YzI0MzNjNWM1MTQ1NWE5YjAzMmYzZTAz`
+Snapshot ID: `MCw3OTI3MDAyYTYwYTM1MDgyNTg2M2UyMjQ2NDgyY2IxYWZlODkzNjhj`

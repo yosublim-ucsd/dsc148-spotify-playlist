@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 
 > Guided meditations for a variety of needs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,607 likes - 94 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,850 likes - 94 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 | 93 | [Sacral Chakra](https://open.spotify.com/track/52EwHsnjpOIUidc80IoUFd) | [Greg de Vries, The Meditation Coach](https://open.spotify.com/artist/4ThK7qdI7QibViBo1V4Dt9) | [Guided Chakra Balancing Meditation](https://open.spotify.com/album/1zMB5k4vsqHhOsYMuUpOq2) | 4:53 |
 | 94 | [Relax at the Beach Meditation](https://open.spotify.com/track/2gUM3sjwqfIB0R5PE31oTr) | [Brad Austen](https://open.spotify.com/artist/4WuEtfn195RUB0RVhWaUmO) | [Guided Meditations](https://open.spotify.com/album/30UPjcn7tQ0HdNWwVoK8Ef) | 8:29 |
 
-Snapshot ID: `MCwwNGE0NDkwNDYzYTY2ZjFjNGQ4ZWIwYjhlNTkxNmFlZTEwYzA5M2Uy`
+Snapshot ID: `MCxjZmU1N2M5MWI1YzQ5ODk1ZTgwMGZkNzA3ODViM2Q5NjJiN2I2ODQ3`

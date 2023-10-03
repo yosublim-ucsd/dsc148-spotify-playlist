@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-129 songs - 12 hr 13 min
+130 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Principal Agent \- Sunrise Version](https://open.spotify.com/track/3GmBSTOJYBF6pDmnsYcH8B) | [Gorgin](https://open.spotify.com/artist/2Buw3dZuOpqcboPiMaZ105) | [Principal Agent \(Sunrise Version\)](https://open.spotify.com/album/06FuuiJVfpcQ4OqQpvI9ZO) | 6:28 | 2023-06-09 |  |
 | [Pussy Power \- DESIREE Remix](https://open.spotify.com/track/3p4obn8kIkhvsGSji3CuXM) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Pussy Power \(Desiree Remix\)](https://open.spotify.com/album/1Rhg4uHx4AITp2cOnykPur) | 5:57 | 2023-02-03 | 2023-04-29 |
 | [Read The Room](https://open.spotify.com/track/2zjdw7zqNawSQ6XanyrBO3) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH) | [One More EP](https://open.spotify.com/album/5kTyDrG1kqjuriepThjxWA) | 6:12 | 2022-12-22 | 2023-02-04 |
-| [Rhythm Of The Night](https://open.spotify.com/track/6OFJOpzi9xZrm3eEJE1SIG) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Rhythm Of The Night](https://open.spotify.com/album/2O1mDByoHcWrsABgAvCzwU) | 3:33 | 2023-08-25 |  |
+| [Rhythm Of The Night](https://open.spotify.com/track/2QJgxzlleCtMdmR7kWafzR) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Open Up The Night](https://open.spotify.com/album/7ciSmK610YFDPfw3hl4QCb) | 3:33 | 2023-08-25 |  |
+| [Rhythm Of The Night](https://open.spotify.com/track/6OFJOpzi9xZrm3eEJE1SIG) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Rhythm Of The Night](https://open.spotify.com/album/2O1mDByoHcWrsABgAvCzwU) | 3:33 | 2023-08-25 | 2023-10-03 |
 | [Ridge Road](https://open.spotify.com/track/3CXuqcOwULRO94390MGSAR) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Ridge Road](https://open.spotify.com/album/2YLOw1oVOWQvd3HB6sV6QP) | 3:58 | 2022-09-16 | 2023-06-10 |
 | [Save Me \- Disco Mix](https://open.spotify.com/track/6IDonbKy642ltu7P5qimlM) | [Marvin & Guy](https://open.spotify.com/artist/6mUe67fPenWJZXz5JalmjF), [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Save Me](https://open.spotify.com/album/765dJ1wuy8gkVZ2YPCJQ75) | 5:55 | 2022-09-16 | 2023-06-10 |
 | [Silver Tears](https://open.spotify.com/track/7EGtWb2e58plUAQkix2aON) | [Pale Blue](https://open.spotify.com/artist/5qYbA0I1qwOI3jchiZukHr) | [Silver Tears](https://open.spotify.com/album/2Gpd3rckgmWytExozWxA35) | 10:54 | 2022-09-16 |  |

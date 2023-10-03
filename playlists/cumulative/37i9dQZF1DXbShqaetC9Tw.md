@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-188 songs - 10 hr 31 min
+189 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [but I'll wait for you](https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 1:59 | 2022-04-18 |  |
 | [BYE1393](https://open.spotify.com/track/54ocxngRcYnxnshEwum77S) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [BYE1393](https://open.spotify.com/album/4iUKzqrwRwN40hzBreEbzI) | 2:30 | 2023-09-18 |  |
 | [cage](https://open.spotify.com/track/5Xjn6An66oYZ7yB4wifj0t) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 1:50 | 2022-04-18 | 2022-07-28 |
+| [CALL ME BACK](https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [GIRL](https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv) | 3:47 | 2023-10-02 |  |
 | [canker sore](https://open.spotify.com/track/5qhXWqao5odxYdRYW0CBVy) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:12 | 2022-04-18 | 2022-04-21 |
 | [Chain \(Feat\. Claire Hau\)](https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Bind](https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr) | 3:19 | 2022-12-07 | 2022-12-16 |
 | [Chrome Hearts](https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:05 | 2022-11-03 | 2022-12-21 |
@@ -158,7 +159,7 @@
 | [squabble](https://open.spotify.com/track/28QJye0LlUrxH0E9nL5Eyt) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [l o v e](https://open.spotify.com/album/4BOE51OkBxuDPxT8Ka6hvr) | 3:22 | 2022-05-11 | 2022-06-03 |
 | [Starlight No More](https://open.spotify.com/track/0CSfu5jtIJAoSMn1Y6ktL3) | [Kiggen](https://open.spotify.com/artist/1J79fhfblzZX0KFSgU9i9b), [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Starlight No More](https://open.spotify.com/album/060gcufgjRhF72v78nCDI7) | 3:17 | 2022-04-18 | 2023-03-20 |
 | [Stars \(Song by LauRel\)](https://open.spotify.com/track/2VKPmyruaNnjUDr4zMoNv1) | [SOUND PALETTE](https://open.spotify.com/artist/0vReM81CSMXlENdSzVSHQF) | [PALETTE C\#501.](https://open.spotify.com/album/1B6QSaLReFPeItURvSBNW1) | 3:36 | 2022-04-18 | 2022-07-13 |
-| [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z) | [Choco And Vanilla](https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1) | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13) | 2:56 | 2023-07-07 |  |
+| [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z) | [Choco And Vanilla](https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1) | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13) | 2:56 | 2023-07-07 | 2023-10-03 |
 | [study abroad \(Feat\. Han\-All\)](https://open.spotify.com/track/6O4S5bDDOrhnHcVkwyAx1L) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [starry night ‘17](https://open.spotify.com/album/2RPyn31wYLC9lWn4p0OVEI) | 3:52 | 2022-04-18 |  |
 | [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 | 2022-04-21 | 2022-07-27 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-04-18 |  |

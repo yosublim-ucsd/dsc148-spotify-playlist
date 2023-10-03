@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-354 songs - 17 hr 48 min
+355 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Another Forest](https://open.spotify.com/track/5zV2bqDZ0MsjcVMHRGQ507) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [Not Even In Dreams](https://open.spotify.com/album/46cDKYGzPmhdfVKlQgJ0VA) | 3:53 | 2022-07-05 | 2022-07-29 |
 | [Another Forest](https://open.spotify.com/track/7fVDQRwi4mJ0kPnvG9I7qW) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [Not Even In Dreams](https://open.spotify.com/album/02VME3JiyaS0bVBPVh2WuM) | 3:53 | 2022-07-05 | 2023-02-10 |
 | [April](https://open.spotify.com/track/5qIoVDi7sxsgWQ9D0PTlA1) | [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [April](https://open.spotify.com/album/1K6D2qPk66fzb9QDIfc9pv) | 3:20 | 2022-07-05 | 2022-08-16 |
+| [Arctic](https://open.spotify.com/track/2kjIUCl6Cuiv9AsYU9StWx) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Arctic](https://open.spotify.com/album/2GeCyCl6qdIi6Z6IvBnmvC) | 2:41 | 2023-10-02 |  |
 | [As It Is](https://open.spotify.com/track/6UpAsgiZxheIKD0mAP0RB9) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Hold Me Spirits](https://open.spotify.com/album/2GPu9L8fSCfexCmHK295xK) | 3:12 | 2023-02-17 |  |
 | [As Life Decides](https://open.spotify.com/track/1ZnHdj4BQHMbC6grguZkm5) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Winds Amassed](https://open.spotify.com/album/5pyHdzJzS1qgTAWFsyRPd3) | 4:08 | 2022-07-05 | 2023-03-10 |
 | [As the Journey Begins](https://open.spotify.com/track/1FOWBeqc6Bh5oNzTn4Vbhr) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [As The Journey Begins](https://open.spotify.com/album/22La5mDDYfwZq946zZMEG7) | 3:04 | 2022-07-05 | 2023-03-10 |
@@ -96,7 +97,7 @@
 | [Early Morning Song](https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Early Morning Song](https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8) | 3:10 | 2022-07-05 | 2023-01-21 |
 | [Elements of Calm](https://open.spotify.com/track/0l4nTCCQFJGhpSUMTGxvrB) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Elements of Calm](https://open.spotify.com/album/6wmCUeJXImFBOpKOoGW728) | 3:54 | 2022-07-05 | 2022-07-29 |
 | [Elements of Calm](https://open.spotify.com/track/2sF9F7GyYSlviYnBxc3xsI) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Elements of Calm](https://open.spotify.com/album/5CcLsRELzK8tV7yooEMyzJ) | 3:54 | 2022-07-05 |  |
-| [Elixir](https://open.spotify.com/track/3qdcjaWIyUvivaO5lcpe0J) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Healing Spell](https://open.spotify.com/album/5IByIwRPBjaO6Hg6igyZBw) | 2:24 | 2022-07-05 |  |
+| [Elixir](https://open.spotify.com/track/3qdcjaWIyUvivaO5lcpe0J) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Healing Spell](https://open.spotify.com/album/5IByIwRPBjaO6Hg6igyZBw) | 2:24 | 2022-07-05 | 2023-10-03 |
 | [Elle](https://open.spotify.com/track/2BJhRC9dnBCJIIeJaN1OBD) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Elle](https://open.spotify.com/album/4xinTWNwoFKTRju5K40K7H) | 2:41 | 2022-07-05 | 2023-04-07 |
 | [Elle](https://open.spotify.com/track/5CxvHxU1tTeU6pjvJMbo3B) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Elle](https://open.spotify.com/album/7qhynNeQhU7f1jyhdLnzCO) | 2:41 | 2022-07-05 | 2022-07-29 |
 | [Eloquence](https://open.spotify.com/track/0ORCs88ABmuctkBdkAWRwF) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Eloquence](https://open.spotify.com/album/7nhKY56BddXIBgih1EJrfy) | 2:21 | 2022-07-05 |  |

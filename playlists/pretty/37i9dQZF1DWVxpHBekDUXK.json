@@ -1,12 +1,12 @@
 {
   "description": "When someone you love becomes a memory... find solace in these songs.",
-  "num_followers": 148657,
+  "num_followers": 148697,
   "original_name": "Coping With Loss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWEyM2E1NGM3NzBjZGUzM2JkMGUwNmEzNWIxOWYzMDVjNjBhYjI2",
+  "snapshot_id": "MCwxMWM4MmFmMTdjNjg4Y2UzMzU4YThiYzUxMWYzMmU0ODU2NWMyNjRi",
   "tracks": [
     {
       "added_at": "2023-09-29 21:35:53",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "Last Kiss",
-        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
-    },
-    {
-      "added_at": "2023-09-29 21:35:53",
-      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 203613,
       "name": "Fire and Rain - 2019 Remaster",
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
+    },
+    {
+      "added_at": "2023-09-29 21:35:53",
+      "album": {
+        "name": "Last Kiss",
+        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
     },
     {
       "added_at": "2023-09-29 21:35:53",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "Ozzmosis (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5m8Fj0thHTE4CBGJTdF6s9"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 370426,
-      "name": "See You on the Other Side",
-      "url": "https://open.spotify.com/track/1Hs2MG2LBJaSPk7X0fzmfk"
-    },
-    {
-      "added_at": "2023-09-29 21:35:53",
-      "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 328219,
       "name": "White Shadows",
       "url": "https://open.spotify.com/track/0WWz2AaqxLoO0fa9ou6Fqc"
+    },
+    {
+      "added_at": "2023-09-29 21:35:53",
+      "album": {
+        "name": "Ozzmosis (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5m8Fj0thHTE4CBGJTdF6s9"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 370426,
+      "name": "See You on the Other Side",
+      "url": "https://open.spotify.com/track/1Hs2MG2LBJaSPk7X0fzmfk"
     },
     {
       "added_at": "2023-09-29 21:35:53",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "Hilary Duff",
-        "url": "https://open.spotify.com/album/51K6Op3c6XouBYKThO8OL6"
-      },
-      "artists": [
-        {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
-        }
-      ],
-      "duration_ms": 251226,
-      "name": "Someone's Watching Over Me",
-      "url": "https://open.spotify.com/track/1wkl1b5DQZrVkFlp6qNNmu"
-    },
-    {
-      "added_at": "2023-09-29 21:35:53",
-      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 322168,
       "name": "One Tree Hill",
       "url": "https://open.spotify.com/track/3w3qWhplVQcO5aGU6Ipdhq"
+    },
+    {
+      "added_at": "2023-09-29 21:35:53",
+      "album": {
+        "name": "Hilary Duff",
+        "url": "https://open.spotify.com/album/51K6Op3c6XouBYKThO8OL6"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 251226,
+      "name": "Someone's Watching Over Me",
+      "url": "https://open.spotify.com/track/1wkl1b5DQZrVkFlp6qNNmu"
     },
     {
       "added_at": "2023-09-29 21:35:53",

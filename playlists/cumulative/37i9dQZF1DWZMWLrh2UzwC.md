@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Ed Sheeran
 
-7,727 songs - 17 day 15 hr 54 min
+7,728 songs - 17 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5727,7 +5727,8 @@
 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/56Qg15afWhWx83aFusmXc4) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/album/5uQmuKzNPNelihF5FnvXLJ) | 3:58 | 2022-03-31 | 2022-04-08 |
 | [Sirih Pulang Ke Gagang](https://open.spotify.com/track/5noJXYrivpL1iad4iEruy3) | [Aniq Muhai](https://open.spotify.com/artist/0EZ3dYNn7GYJVd7yaF1Far), [Unic](https://open.spotify.com/artist/7IUkoUN4DEm9OOKTgH5Oim) | [Sirih Pulang Ke Gagang](https://open.spotify.com/album/0EJufnjFggtiCdyP1w9bYf) | 4:00 | 2023-07-27 | 2023-08-04 |
 | [SIRNA](https://open.spotify.com/track/5LrxgVd7jazUQd4lb4vRJw) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [SIRNA](https://open.spotify.com/album/7doiwp97qBFd9fN4TJNRor) | 3:56 | 2023-06-29 | 2023-07-07 |
-| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 | 2023-09-28 |  |
+| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 3:28 | 2023-09-28 |  |
+| [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 | 2023-09-28 | 2023-10-03 |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-01 | 2023-06-09 |
 | [Situations](https://open.spotify.com/track/222sLcHSr2G02KO2UsDvD5) | [FAIZ NAJIB](https://open.spotify.com/artist/78hQ6M1odAot8GMRUWHiWw), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [Situations](https://open.spotify.com/album/0jx0nDMQUOFzMEropctFLZ) | 3:00 | 2023-06-22 | 2023-06-30 |
 | [Six Weeks](https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 2:17 | 2023-02-23 | 2023-03-03 |

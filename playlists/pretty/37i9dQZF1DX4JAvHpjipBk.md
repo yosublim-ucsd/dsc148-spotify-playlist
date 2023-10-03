@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Bad Bunny, PinkPantheress, Jung Kook & Jack Harlow, Ed Sheeran, Latto and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,180,377 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,180,589 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 49 | [catch a kill](https://open.spotify.com/track/3B0pDi9aLzcICJfBCA3Lgq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill \(Directors Cut\)](https://open.spotify.com/album/0oTzeQbO6r9zT7axCYgTEw) | 3:11 |
 | 50 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 |
 | 51 | [2000s R&B](https://open.spotify.com/track/6v3wsybEOTeJ7wTlBJasJj) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [RL](https://open.spotify.com/artist/478cXiaFIWP2p3WLk3Zlge) | [The R&B You Love](https://open.spotify.com/album/1IGcLVZl44MScNh7QFf9Xr) | 3:43 |
-| 52 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner \(Pts\. 1 & 2\)](https://open.spotify.com/album/4RdZwuamNwjNBgfZInobFr) | 3:28 |
+| 52 | [Sit Down for Dinner, Pt\. 2](https://open.spotify.com/track/4J9b9lIW0SavuQIlcG8Sgs) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 3:28 |
 | 53 | [I Don't Wanna Dance \(feat\. Baby Tate\)](https://open.spotify.com/track/77v0c1CYJ04g9IteCB4Hfu) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Existential Crisis Boy \(Part 1\)](https://open.spotify.com/album/5TVQXYqzF5t6HQMHKZVWUQ) | 3:07 |
 | 54 | [TRICKIN'](https://open.spotify.com/track/1jBMZDuirIUrnXyhS2ExfB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TRICKIN'](https://open.spotify.com/album/1o8Qeyne1vdIDJtPCwwbvw) | 1:45 |
 | 55 | [Morning Light](https://open.spotify.com/track/7fJ5UGjo2oiNG1pmIboATC) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [About Us](https://open.spotify.com/album/1hhz0ag2dAr0qw7W78smcT) | 4:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Pickup, Don't Pickup](https://open.spotify.com/track/4E5P6ztlfq3jE9Df80jtND) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sorry Like You Mean It](https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0) | 4:34 |
 | 100 | [let u in](https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [let u in](https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a) | 2:55 |
 
-Snapshot ID: `MCxjZDIzNTA5OGMxNzYyMjQ2YTJhZmZhYjA0OWVjNDI1ODI1OTRmYmQx`
+Snapshot ID: `MCxmYTVkY2VjMDRjNGM2NDgyNTY4NjE3ZGE4MTRhZDljZjc0M2JhOTFl`

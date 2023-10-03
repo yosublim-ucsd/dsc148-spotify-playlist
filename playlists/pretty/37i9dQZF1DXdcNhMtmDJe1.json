@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 81682,
+  "num_followers": 81698,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDhlYTkzZmU0NjhlOTlkZDFlOGE0NDUzY2FlODc3ZTA3ODg3M2Nh",
+  "snapshot_id": "MCxiMTY2NjM3OGZhYWViNDhmYTU3ZTBjMzZjZGY3ZjcwYjk2OGM4OTdm",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: An American In Paris / Porgy And Bess",
-        "url": "https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ"
-      },
-      "artists": [
-        {
-          "name": "New Zealand Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
-        },
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        }
-      ],
-      "duration_ms": 642240,
-      "name": "Cuban Overture",
-      "url": "https://open.spotify.com/track/3NVtWlBvgoSd3RDAbH5Btd"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin Plays Gershwin: The Piano Rolls",
         "url": "https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 258093,
       "name": "So Am I",
       "url": "https://open.spotify.com/track/4BG2tiyGdAY8PWbvXd3587"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: An American In Paris / Porgy And Bess",
+        "url": "https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ"
+      },
+      "artists": [
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "duration_ms": 642240,
+      "name": "Cuban Overture",
+      "url": "https://open.spotify.com/track/3NVtWlBvgoSd3RDAbH5Btd"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin Take Two",
-        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Simon Tedeschi",
-          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
-        }
-      ],
-      "duration_ms": 131400,
-      "name": "Three-Quarter Blues",
-      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
         "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 417640,
       "name": "Strike Up the Band: Overture (arr. D. Rose for orchestra)",
       "url": "https://open.spotify.com/track/5jCqqnrR9X6NwbS6q3jgRc"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "duration_ms": 131400,
+      "name": "Three-Quarter Blues",
+      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -935,6 +935,26 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
+        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
         "url": "https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5"
       },
@@ -963,26 +983,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
-        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
         "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
       },
@@ -1003,26 +1003,6 @@
       "duration_ms": 79226,
       "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
       "url": "https://open.spotify.com/track/1lgbpTmHtXHHEhhcckBSXS"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin: Three Preludes: II. Andante con moto e poco rubato (Live)",
-        "url": "https://open.spotify.com/album/3fPIgWLlF96SEKMV55Nd4i"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
-        }
-      ],
-      "duration_ms": 199421,
-      "name": "Three Preludes: II. Andante con moto e poco rubato - Live",
-      "url": "https://open.spotify.com/track/6P0rOiYri6N6hoTehFCvhq"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1051,6 +1031,26 @@
       "duration_ms": 498373,
       "name": "Let 'Em Eat Cake: Overture",
       "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Three Preludes: II. Andante con moto e poco rubato (Live)",
+        "url": "https://open.spotify.com/album/3fPIgWLlF96SEKMV55Nd4i"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "duration_ms": 199421,
+      "name": "Three Preludes: II. Andante con moto e poco rubato - Live",
+      "url": "https://open.spotify.com/track/6P0rOiYri6N6hoTehFCvhq"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1191,34 +1191,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
-        "url": "https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Orion Weiss",
-          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
-        }
-      ],
-      "duration_ms": 949253,
-      "name": "2nd Rhapsody",
-      "url": "https://open.spotify.com/track/1ckFQ0OHFXmtDqIBp1SCUV"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin Fantasy",
         "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
       },
@@ -1271,6 +1243,34 @@
       "duration_ms": 275706,
       "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
       "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/2eUSz8vAM7RQvkyDMDRDB5"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 949253,
+      "name": "2nd Rhapsody",
+      "url": "https://open.spotify.com/track/1ckFQ0OHFXmtDqIBp1SCUV"
     }
   ],
   "unique_name": "This is Gershwin",

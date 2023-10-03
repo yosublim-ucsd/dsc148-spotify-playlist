@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "4u",
+        "url": "https://open.spotify.com/album/0RkWVWCivVaatlwqwErefx"
+      },
+      "artists": [
+        {
+          "name": "RB Slatt",
+          "url": "https://open.spotify.com/artist/1mp3obA5hrR8GjHx95Wlrk"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218536,
+      "name": "4u",
+      "url": "https://open.spotify.com/track/5KzreODVITXVze4HkoMhhZ"
+    },
+    {
+      "album": {
         "name": "Alam Mo Na",
         "url": "https://open.spotify.com/album/204lTLS6R8MYYmNPy8ZlIP"
       },
@@ -176,6 +194,24 @@
       "duration_ms": 223800,
       "name": "Araw2x Gabi2x",
       "url": "https://open.spotify.com/track/5LrsVk1IzDBXkaUDL6PoDC"
+    },
+    {
+      "album": {
+        "name": "Ayos Lang \u2018Yan",
+        "url": "https://open.spotify.com/album/2pBLiHZ28ZbC3gC6MOIp1H"
+      },
+      "artists": [
+        {
+          "name": "Hero",
+          "url": "https://open.spotify.com/artist/0zF89Z0aMZSGZlgEBX0uvm"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203609,
+      "name": "Ayos Lang \u2018Yan",
+      "url": "https://open.spotify.com/track/4SsdGsUCb6RWorUQ58bueg"
     },
     {
       "album": {
@@ -328,7 +364,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 138857,
       "name": "bum 2 me",
       "url": "https://open.spotify.com/track/6lKn8JoOM1Rgob6ebmAaGD"
@@ -510,6 +546,24 @@
       "duration_ms": 233142,
       "name": "Dalawa",
       "url": "https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq"
+    },
+    {
+      "album": {
+        "name": "Dare You",
+        "url": "https://open.spotify.com/album/1IkwnBsMi80pYR6hHLUMZO"
+      },
+      "artists": [
+        {
+          "name": "Kiana V",
+          "url": "https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176307,
+      "name": "Dare You",
+      "url": "https://open.spotify.com/track/2HLCZ1OJCd3uRd5o5btDNW"
     },
     {
       "album": {
@@ -1502,7 +1556,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 221000,
       "name": "Lambing (feat. Kiyo)",
       "url": "https://open.spotify.com/track/0daJYm6XQNjKKiIrddULNH"
@@ -1806,7 +1860,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 187973,
       "name": "Maria Hiwaga",
       "url": "https://open.spotify.com/track/7rRpt0FcGdDxyhiFcSlswH"
@@ -1846,6 +1900,28 @@
       "duration_ms": 148855,
       "name": "May Iba Na Ba?",
       "url": "https://open.spotify.com/track/7EYvbxzSZnQ4QQUxDrrk47"
+    },
+    {
+      "album": {
+        "name": "Megastar (Interlude)",
+        "url": "https://open.spotify.com/album/28YClUSxdivOubLAoIfDRc"
+      },
+      "artists": [
+        {
+          "name": "KINDRED",
+          "url": "https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1"
+        },
+        {
+          "name": "Sharon Cuneta",
+          "url": "https://open.spotify.com/artist/3I5ONm7nnP1LpvqsnA5dBG"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Megastar - Interlude",
+      "url": "https://open.spotify.com/track/0pG5wMHBJQjrORcSMv0TIb"
     },
     {
       "album": {
@@ -2537,6 +2613,24 @@
     },
     {
       "album": {
+        "name": "Sandal",
+        "url": "https://open.spotify.com/album/5BpZBtcQWxONxQzHHYzsDC"
+      },
+      "artists": [
+        {
+          "name": "VXON",
+          "url": "https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197179,
+      "name": "Sandal",
+      "url": "https://open.spotify.com/track/5LkJokf6VTL6eQBNskJM6W"
+    },
+    {
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH"
       },
@@ -2694,7 +2788,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 155479,
       "name": "so fire",
       "url": "https://open.spotify.com/track/48laemm4yRLl6OAAUoAPiJ"
@@ -2880,7 +2974,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 189717,
       "name": "Takaw Tingin",
       "url": "https://open.spotify.com/track/4N8ScJCglGFgpTnD39KFQF"

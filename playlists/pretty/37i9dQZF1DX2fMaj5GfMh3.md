@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Kenya Grace deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,975 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,004 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Outta Love](https://open.spotify.com/track/5dlnBde2bY8vxNDE4sUQbA) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Outta Love](https://open.spotify.com/album/2laThtkIUEl6V3IzGBfwRs) | 2:19 |
 | 100 | [Before You](https://open.spotify.com/track/5WqkT4vHzLRsVvKCKUd8Pv) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 2:57 |
 
-Snapshot ID: `MCw0ODUyYTk4NmVkMzI0OGM2NzI0NDQzYmUyYWM5MDBmNTgwODcwN2Fj`
+Snapshot ID: `MCw2YjZhODQ1ZWQxMWY3OGQ3ZTU5YmQ0YTBhYWE3ZTcyOGQwYzQ2MDZm`

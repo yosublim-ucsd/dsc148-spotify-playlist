@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Mannequin Pussy
 
-557 songs - 1 day 6 hr 17 min
+560 songs - 1 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Cowboy Nudes](https://open.spotify.com/track/7i8XQTUczz7xyFdkSAdEg9) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 2:50 | 2023-08-08 |  |
 | [Cows](https://open.spotify.com/track/5MudCy3oMWOFMrq1QoMUBu) | [Silicone Prairie](https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0) | [Cows](https://open.spotify.com/album/2feSGjusLrnBAxWTO67Cio) | 3:41 | 2023-08-11 |  |
 | [Crack a Smile](https://open.spotify.com/track/1hhvwDhCFN6cB7Ga5KLV9k) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Crack a Smile](https://open.spotify.com/album/29kyGKjzeisWevhLjPpKfP) | 2:49 | 2021-10-07 | 2022-06-18 |
+| [Crashing](https://open.spotify.com/track/1fAqYPbtz7ljMn6q24Zadx) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Crashing](https://open.spotify.com/album/7GvsKQNZM8025DKUwZm5LT) | 2:41 | 2023-10-02 |  |
 | [Crawl!](https://open.spotify.com/track/0YO5MucxfKv80g69Y3KSRX) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Crawl! \(DGG Edit\)](https://open.spotify.com/album/5pRVIb8aU8fZ6WHS1af385) | 4:20 | 2022-11-04 | 2022-11-14 |
 | [Crawl!](https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU) | 4:20 | 2021-11-12 | 2022-07-29 |
 | [Crawl!](https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:20 | 2022-07-08 | 2023-04-15 |
@@ -142,6 +143,7 @@
 | [Eat Men Eat](https://open.spotify.com/track/5CrlTDGXntzNChfVDW2Gbq) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Eat Men Eat](https://open.spotify.com/album/4sKsXkwWFXfXMsMVO7y4l4) | 3:08 | 2022-06-17 | 2022-08-17 |
 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 | 2023-02-10 |  |
 | [Edge Of Teeth](https://open.spotify.com/track/1HafUZHznzgl5LrrHwcN92) | [Corker](https://open.spotify.com/artist/53TZm8kLBvnMddNr810H64) | [Edge Of Teeth](https://open.spotify.com/album/24cq8kLYhfeH0tC4F6QAMa) | 4:45 | 2023-08-11 |  |
+| [Eggman](https://open.spotify.com/track/1vsxjtAWoijQmtYjdtQmAV) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Eggman](https://open.spotify.com/album/0IhxrXyYRaOHhvSuJIR3cz) | 4:04 | 2023-10-02 |  |
 | [Elimination Dances](https://open.spotify.com/track/5RgGpQlXvNMIMCN584LLWl) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Elimination Dances](https://open.spotify.com/album/6qX9QhYe78q6XjMQaedZN5) | 3:37 | 2023-05-22 | 2023-06-03 |
 | [Elvis In The Army](https://open.spotify.com/track/1nsKgm05eIOz71wYP2sLTN) | [A\. Savage](https://open.spotify.com/artist/1MK90Dn9tMbk16g2Vb2NQp) | [Elvis In The Army](https://open.spotify.com/album/1rr5phIBPE801sqSKjyRzv) | 3:37 | 2023-08-25 |  |
 | [Emerson](https://open.spotify.com/track/1C6xfW2M2qUzo0ZxF9KboZ) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Emerson](https://open.spotify.com/album/3jYiswZDTFrbDZI3bYzfWq) | 4:02 | 2023-02-13 | 2023-08-12 |
@@ -230,6 +232,7 @@
 | [HEY ASSHOLE](https://open.spotify.com/track/5EbeMB2XW1Gh0ExAawkBCJ) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [HEY ASSHOLE!](https://open.spotify.com/album/4WUzvidSHP2O30d27dShPZ) | 1:29 | 2023-06-02 |  |
 | [Homo Sapien](https://open.spotify.com/track/4mflFeaji6SfBoJUaLuozF) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Sympathy for Life](https://open.spotify.com/album/3pimNTNgv34WFrdooDB0TT) | 2:55 | 2022-01-07 | 2022-03-12 |
 | [Honest Living](https://open.spotify.com/track/3YTusZlExW8QCdrlDR1HTR) | [Meat Wave](https://open.spotify.com/artist/1BFVh82YuUOyM8XKZIRaBL) | [Honest Living](https://open.spotify.com/album/5EkpUpnQL3kgBH904GNHXH) | 2:06 | 2022-03-11 | 2023-04-09 |
+| [Honey](https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Honey](https://open.spotify.com/album/7dQTDkq3YrRmbEs7fMatlJ) | 2:36 | 2023-10-02 |  |
 | [Honey Hive](https://open.spotify.com/track/2z7Ok5lURMKsvbuP42ihH1) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Honey Hive](https://open.spotify.com/album/7keOKRUL6ramxL43hoc3hc) | 4:01 | 2023-05-22 |  |
 | [Hot Ghee](https://open.spotify.com/track/7LjukeeqaeWESbiVJ26Wd4) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Hot Ghee](https://open.spotify.com/album/0qyyECaJgUaV73J9Cczszh) | 3:44 | 2023-04-14 | 2023-07-17 |
 | [Hot Ghee](https://open.spotify.com/track/7y6xvtRLOMbJzc8g27N01p) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Rajan](https://open.spotify.com/album/0Xpiosb3si75dyOvQ6avF0) | 3:44 | 2023-07-14 |  |
@@ -432,7 +435,7 @@
 | [See Me](https://open.spotify.com/track/0zZh4WQlQQYlzoImqXL223) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [See Me](https://open.spotify.com/album/5Fosih0U8AZ0GhzuQQPH7l) | 3:36 | 2022-09-30 | 2023-06-17 |
 | [See\-Thru](https://open.spotify.com/track/634FJRZsXbx849oSoClH4f) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [See\-Thru](https://open.spotify.com/album/7uTklcQmIae5yinB8Tnjw6) | 3:06 | 2021-10-07 | 2022-02-12 |
 | [Self Portrait](https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Self Portrait](https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2) | 3:32 | 2022-09-09 |  |
-| [Separation Anxiety](https://open.spotify.com/track/5R1X7rGapWC8pF5g9s53Qw) | [Priors](https://open.spotify.com/artist/2MdxgHisT3R0aZuSjj0zag) | [Daffodil](https://open.spotify.com/album/6NvXJ5oOIZiQluoLVTMiIl) | 2:42 | 2023-06-02 |  |
+| [Separation Anxiety](https://open.spotify.com/track/5R1X7rGapWC8pF5g9s53Qw) | [Priors](https://open.spotify.com/artist/2MdxgHisT3R0aZuSjj0zag) | [Daffodil](https://open.spotify.com/album/6NvXJ5oOIZiQluoLVTMiIl) | 2:42 | 2023-06-02 | 2023-10-03 |
 | [Sepsis](https://open.spotify.com/track/73l5Us2TN9br8gcWiDWTqQ) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Sepsis](https://open.spotify.com/album/1JfaROA8duCvTAwKO1z06l) | 3:48 | 2022-08-26 | 2022-10-25 |
 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 | 2023-07-14 |  |
 | [Shallow](https://open.spotify.com/track/7Ekno8c0KbiW2uFxAQeJU3) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [Bitter](https://open.spotify.com/album/0vKLo5Q6AVsc1u1W1l13RW) | 5:10 | 2022-06-17 | 2023-04-15 |
@@ -513,7 +516,7 @@
 | [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-16 | 2022-09-04 |
 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 | 2022-09-19 | 2023-06-17 |
 | [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 | 2022-08-26 | 2022-09-20 |
-| [Tired Vibes](https://open.spotify.com/track/48vUHZLbzwgr9kgAUbYhzz) | [DUDE, MY DUDE](https://open.spotify.com/artist/4v7JZCmpK8HUCeqadGBeuF) | [Tired Vibes](https://open.spotify.com/album/5U2iECSjFWm0q26RelJ0yE) | 3:08 | 2022-10-14 |  |
+| [Tired Vibes](https://open.spotify.com/track/48vUHZLbzwgr9kgAUbYhzz) | [DUDE, MY DUDE](https://open.spotify.com/artist/4v7JZCmpK8HUCeqadGBeuF) | [Tired Vibes](https://open.spotify.com/album/5U2iECSjFWm0q26RelJ0yE) | 3:08 | 2022-10-14 | 2023-10-03 |
 | [Tiresome](https://open.spotify.com/track/720uwDE0qE7yUDhUvUOCsj) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 3:05 | 2022-03-11 | 2023-02-11 |
 | [To Death](https://open.spotify.com/track/1cGM4KM6XcQnq3vSnf5VjE) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [To Death](https://open.spotify.com/album/2DxtdOUQLlGZF0HTlwtTo9) | 3:14 | 2023-04-14 |  |
 | [Tongues ii](https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O) | [Slomo Sapiens](https://open.spotify.com/artist/1TDdS4QH1Z5hNQNe4YeM3Q) | [Tongues ii](https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p) | 5:36 | 2023-09-08 |  |
@@ -536,7 +539,7 @@
 | [vertigo](https://open.spotify.com/track/4P0ap7JtuISR0QqtIK9JZD) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [CACTI](https://open.spotify.com/album/5yxbBuZfpB3yMoUQqdwOjz) | 2:45 | 2023-04-14 |  |
 | [Very Aggressive](https://open.spotify.com/track/3S3ijQLue7Z5gbw1Jr9e8D) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a), [Mat Kerekes](https://open.spotify.com/artist/5rOjuB5uYAoDMHgZM6CFBB) | [Very Aggressive b/w Love Slam](https://open.spotify.com/album/6EVBIMMuTjYd6biWc5kUgo) | 3:13 | 2023-05-22 | 2023-08-26 |
 | [Vitch](https://open.spotify.com/track/4M9BFaMCQE2OWglBL2RSAj) | [The Oil Barons](https://open.spotify.com/artist/1X4k52x8IUJFfRD7F6Erbi) | [Vitch](https://open.spotify.com/album/4uqeBoeBfwrXMlZfTsSzxI) | 5:58 | 2021-10-07 | 2022-01-08 |
-| [Void](https://open.spotify.com/track/1bvJtmIGOW8NnI4GhPtRZ8) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Void](https://open.spotify.com/album/5c4fN5oAuiO7geZEXF60w5) | 6:43 | 2023-08-28 |  |
+| [Void](https://open.spotify.com/track/1bvJtmIGOW8NnI4GhPtRZ8) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Void](https://open.spotify.com/album/5c4fN5oAuiO7geZEXF60w5) | 6:43 | 2023-08-28 | 2023-10-03 |
 | [Volcano](https://open.spotify.com/track/7n4ftOcvES1iE0VzrI71F3) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Kills Birds](https://open.spotify.com/album/4ji7q0x2FcLB65vc9K3LUF) | 2:48 | 2021-10-07 | 2022-08-06 |
 | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/track/0xrvkq5EEpHZWKmacINtuh) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/album/1NwWEsaGkDshr7vA7uOOlN) | 2:30 | 2022-08-05 | 2022-09-24 |
 | [Waiting](https://open.spotify.com/track/2TfZoYnsj6V0GAKytmNidf) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Waiting / Kill Something](https://open.spotify.com/album/7k4p5L2vlq7jdIAkB7HK8R) | 3:10 | 2021-11-12 | 2022-07-29 |

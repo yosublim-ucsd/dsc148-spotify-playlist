@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 
 > All in us! ITZY is here to take their CAKE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,619 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,738 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 | 74 | [WANT IT? \- Imad Royal Remix](https://open.spotify.com/track/73Y127nxOVRDwWhW2wT3qY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [Imad Royal](https://open.spotify.com/artist/6OgklJh1e1Z9S1Q2IQsHgy) | [IT'z ICY](https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB) | 3:27 |
 | 75 | [WANT IT?](https://open.spotify.com/track/24HHXG8VtexJC0hrJe1WJY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) | 3:20 |
 
-Snapshot ID: `MCw2MWQzY2Y1ZjFhZDU5ZjRjZjM2MzczYmIyNjU0MmZlYzA0MWY4MWQ0`
+Snapshot ID: `MCw1NjZjNWZkZjZkM2M1MDE4OWIyYWJjNWUyYTA5NDcyZmE0Mzg0MDQy`

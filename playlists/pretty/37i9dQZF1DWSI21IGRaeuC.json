@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 26373,
+  "num_followers": 26425,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzhmNWYxNGQ2MmNjZDY0NDg1ZmRmMTNmZTlhYmU2M2FhYTc5MTZj",
+  "snapshot_id": "MCxlYTIwYWMyOTkxMDJmYjg5MGJiNTMwODIyNDRhMmI3NjljMmNjMWFi",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Club Vibes Part 04",
         "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/72WcPNbUc5Zpxj6uyUnk6u"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 251500,
       "name": "Atomic Sun",
       "url": "https://open.spotify.com/track/4npTB0nSyvWZognt9ovoZ5"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Dusty Showbiz",
+        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "Dusty Showbiz",
+      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Dusty Showbiz",
-        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "Dusty Showbiz",
-      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Whispers In The Wind",
         "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Bionic Boy",
-        "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 206265,
-      "name": "Bionic Boy",
-      "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 201172,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Bionic Boy",
+        "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 206265,
+      "name": "Bionic Boy",
+      "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "I Am Somebody",
-        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
-      },
-      "artists": [
-        {
-          "name": "Technasia",
-          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
-        }
-      ],
-      "duration_ms": 417145,
-      "name": "I Am Somebody",
-      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Its Time to Move",
         "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 162125,
       "name": "Its Time to Move",
       "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "I Am Somebody",
+        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
+      },
+      "artists": [
+        {
+          "name": "Technasia",
+          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
+        }
+      ],
+      "duration_ms": 417145,
+      "name": "I Am Somebody",
+      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Kuneh",
-        "url": "https://open.spotify.com/album/7yxzjaabbnrkLcBYVRoBI7"
-      },
-      "artists": [
-        {
-          "name": "Ninetoes",
-          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
-        },
-        {
-          "name": "Davide Squillace",
-          "url": "https://open.spotify.com/artist/1wQoXZDTq0UCJhXffsm7Nh"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Kuneh - Edit",
-      "url": "https://open.spotify.com/track/3NdCkGGx6tlWlQamjRjq3o"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Regulate",
         "url": "https://open.spotify.com/album/67OiUqqH4IBKVeJA1nU9JO"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 154550,
       "name": "Regulate",
       "url": "https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Kuneh",
+        "url": "https://open.spotify.com/album/7yxzjaabbnrkLcBYVRoBI7"
+      },
+      "artists": [
+        {
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+        },
+        {
+          "name": "Davide Squillace",
+          "url": "https://open.spotify.com/artist/1wQoXZDTq0UCJhXffsm7Nh"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Kuneh - Edit",
+      "url": "https://open.spotify.com/track/3NdCkGGx6tlWlQamjRjq3o"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Strung Up",
-        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
-      },
-      "artists": [
-        {
-          "name": "Sorley",
-          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Strung Up",
-      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Jump Ship",
         "url": "https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 381431,
       "name": "Jump Ship",
       "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Strung Up",
+        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
+      },
+      "artists": [
+        {
+          "name": "Sorley",
+          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Strung Up",
+      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "A Walk In The Park (Moodymann Remix)",
-        "url": "https://open.spotify.com/album/17lrQ0gDXaJh5RvtFWlE6u"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        },
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 322560,
-      "name": "A Walk In The Park - Moodymann Remix",
-      "url": "https://open.spotify.com/track/4L1cTkm5pw0OluxjVVYZF9"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Honey Bee",
         "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
       },
@@ -1575,18 +1555,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Rok The House",
-        "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
+        "name": "A Walk In The Park (Moodymann Remix)",
+        "url": "https://open.spotify.com/album/17lrQ0gDXaJh5RvtFWlE6u"
       },
       "artists": [
         {
-          "name": "Ben Sterling",
-          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Rok The House",
-      "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
+      "duration_ms": 322560,
+      "name": "A Walk In The Park - Moodymann Remix",
+      "url": "https://open.spotify.com/track/4L1cTkm5pw0OluxjVVYZF9"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1607,18 +1591,34 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "FUTURA",
-        "url": "https://open.spotify.com/album/5GXkaEk1CFgQbzvrvt3XUd"
+        "name": "Rok The House",
+        "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
       },
       "artists": [
         {
-          "name": "Pan-Pot",
-          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
         }
       ],
-      "duration_ms": 449405,
-      "name": "FUTURA",
-      "url": "https://open.spotify.com/track/6R5Rb4u8PmIe1D7JtSCC96"
+      "duration_ms": 255000,
+      "name": "Rok The House",
+      "url": "https://open.spotify.com/track/1A6KKdSY4hpCBqJOmeQEWQ"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Hydroponic EP",
+        "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 434000,
+      "name": "Hydroponic",
+      "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Hydroponic EP",
-        "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
+        "name": "FUTURA",
+        "url": "https://open.spotify.com/album/5GXkaEk1CFgQbzvrvt3XUd"
       },
       "artists": [
         {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
         }
       ],
-      "duration_ms": 434000,
-      "name": "Hydroponic",
-      "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
+      "duration_ms": 449405,
+      "name": "FUTURA",
+      "url": "https://open.spotify.com/track/6R5Rb4u8PmIe1D7JtSCC96"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Superlicious",
+        "url": "https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Superlicious",
+      "url": "https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Unique EP",
         "url": "https://open.spotify.com/album/1p5cdny6T3dcuF0vFlkpjF"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 362180,
       "name": "Into The Hood",
       "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Superlicious",
-        "url": "https://open.spotify.com/album/1blY0k0w4peV2SB8sVjB6y"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Superlicious",
-      "url": "https://open.spotify.com/track/31D6WOQYjLdcKMXoNGWKSV"
     },
     {
       "added_at": "2023-09-29 04:00:00",

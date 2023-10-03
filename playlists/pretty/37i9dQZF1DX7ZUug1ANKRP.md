@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: cassö, RAYE, D\-Block Europe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,795,276 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,795,451 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 46 | [Living On Video \(feat\. DTale\)](https://open.spotify.com/track/0W6MlHGvHAcSsoRt34pZIt) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84) | 2:23 |
 | 47 | [On The Move](https://open.spotify.com/track/7lEBtmu2qRLupeSOupBa1j) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [PRISKA](https://open.spotify.com/artist/2VnNxgnvg9H85vWtZuBo6w) | [On The Move](https://open.spotify.com/album/2aFtLWVpsrONFCNJZgEo9R) | 2:19 |
 | 48 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
-| 49 | [Lose This Feeling](https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Lose This Feeling](https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4) | 2:26 |
+| 49 | [Lose This Feeling](https://open.spotify.com/track/4s53qY7UpU6yrHI5017T3G) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [A State of Trance Radio Top 50 \- 2023, Vol\. 2](https://open.spotify.com/album/2ZuGymmpNiLS8xsNJPQRFi) | 2:26 |
 | 50 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 |
 
-Snapshot ID: `MCw5ZjkxNzgzODQ5MTUzOWQ5ZmNiOWFkMDNmNGNlN2RkNjIzMzI1YWU2`
+Snapshot ID: `MCwyYWZkMGQyZTYyNjVkYTRjNzEwMTcxMjQ0NjY4ZjdjZDI3Y2RkYTY3`

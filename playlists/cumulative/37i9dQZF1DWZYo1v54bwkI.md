@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-233 songs - 11 hr 48 min
+234 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Apricus](https://open.spotify.com/track/0W3znYfIVP37kJl4InZ9lp) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Apricus](https://open.spotify.com/album/2rk6uIsjnpHpOFYHmx8Emk) | 2:39 | 2022-08-23 |  |
 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Jelena Vanags](https://open.spotify.com/artist/7DXjl9ExxUi8xScl5bFZJS) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 | 2022-07-15 |  |
 | [Argentum](https://open.spotify.com/track/0ShvmWyYcjf8nbCBBhVjPW) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Argentum](https://open.spotify.com/album/3bRb9n1DDvfT2cHbqnsGp4) | 2:42 | 2022-07-15 |  |
-| [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 | 2022-07-15 |  |
+| [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 | 2022-07-15 | 2023-10-03 |
 | [At Day's End](https://open.spotify.com/track/0dE4epGWpmb0DB5mCZgN0T) | [Rebekah Bolton](https://open.spotify.com/artist/0W3cyXPYApFajrsJKSAcHQ) | [At Day's End](https://open.spotify.com/album/7L4cEWdKBXbOYzxtP46FVG) | 2:53 | 2022-08-15 |  |
 | [Aurora Borealis](https://open.spotify.com/track/0YTKlaMszVp6rja34CzUDs) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Aurora Borealis](https://open.spotify.com/album/2FKrLUaFsF2jWj1f0QEhGg) | 2:25 | 2022-07-15 |  |
 | [Away](https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm) | [Eriao](https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU) | [Away](https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy) | 2:46 | 2022-07-15 |  |
@@ -198,6 +198,7 @@
 | [Silverlake](https://open.spotify.com/track/6m1YYCuzlm7iWOkKrpAJrl) | [Autana](https://open.spotify.com/artist/6IluiyuH1jzW1Uv6625D2N) | [Silverlake](https://open.spotify.com/album/6im1RikgNycliwiJuRNuhC) | 2:41 | 2022-12-02 |  |
 | [Skaisti](https://open.spotify.com/track/1kw3SgJBFg90sWyWFTkeQ8) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Skaisti](https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV) | 2:49 | 2022-08-05 |  |
 | [Sleeping Giants](https://open.spotify.com/track/0J0KRxk1ccNI6SA3L0514v) | [Damien Monieu](https://open.spotify.com/artist/0e6TRegnf204V3t3TFftdA) | [Sleeping Giants](https://open.spotify.com/album/7FWW4gjaJs1FLnSNoUXYfv) | 2:27 | 2022-07-15 | 2023-06-17 |
+| [Slumber](https://open.spotify.com/track/33KyZMzOl4ah74UBMr18kA) | [Gabrio Mele](https://open.spotify.com/artist/04rNs9AP6fQsXkTgCnFzrw) | [Slumber](https://open.spotify.com/album/2SISMhtO0zydHwtHpV67yV) | 3:25 | 2023-10-02 |  |
 | [Sol](https://open.spotify.com/track/7AbWodkJgM2N9Ak9BWynyx) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Sol](https://open.spotify.com/album/5dRowdaNxlPyESIG6ZSSig) | 3:30 | 2022-07-15 |  |
 | [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Lunasette](https://open.spotify.com/artist/4llg8iirvoMBMFQHXUkusG) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 | 2022-07-15 | 2023-09-23 |
 | [Solitude](https://open.spotify.com/track/5TwlZ0NAJcQfaLuxKMCA6u) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:17 | 2022-07-15 |  |

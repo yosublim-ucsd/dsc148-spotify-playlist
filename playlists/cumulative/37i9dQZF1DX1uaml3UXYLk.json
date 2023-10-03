@@ -3727,6 +3727,24 @@
     },
     {
       "album": {
+        "name": "guidance",
+        "url": "https://open.spotify.com/album/3LAbfKYJjzKVbHvnbwp9ih"
+      },
+      "artists": [
+        {
+          "name": "dreem",
+          "url": "https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202639,
+      "name": "guidance",
+      "url": "https://open.spotify.com/track/0CQ9nsxVPYnPV0AsOnSKFD"
+    },
+    {
+      "album": {
         "name": "Moves EP",
         "url": "https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC"
       },
@@ -7692,6 +7710,24 @@
       "duration_ms": 113898,
       "name": "Serpent",
       "url": "https://open.spotify.com/track/21e5TcrNrF04HBcc3dalpB"
+    },
+    {
+      "album": {
+        "name": "Namm\u00e1sj",
+        "url": "https://open.spotify.com/album/1DDGLtvOIoxrVUKVWSDrh4"
+      },
+      "artists": [
+        {
+          "name": "West & Zander",
+          "url": "https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176324,
+      "name": "Seven Miles",
+      "url": "https://open.spotify.com/track/3hjDl8XgcaA4HEqu4T4MRg"
     },
     {
       "album": {

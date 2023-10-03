@@ -1,13 +1,33 @@
 {
-  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Thu Minh",
-  "num_followers": 23503,
+  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: H\u00e0 Nhi",
+  "num_followers": 23525,
   "original_name": "EQUAL Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjMzMzkyYTQ4OTc1YjUyNzNkZDU2YjdjZTZjM2RkMzk2ZjY3MGEy",
+  "snapshot_id": "MCwzMjhiNDI1NTRlNTI3MTc0NjAwOTZlNmRkYWQxZjM5ZWNjMmE4NTQ4",
   "tracks": [
+    {
+      "added_at": "2023-09-05 17:00:00",
+      "album": {
+        "name": "L\u00e2u L\u00e2u Nh\u1eafc L\u1ea1i",
+        "url": "https://open.spotify.com/album/6RLMsEvmNeILizkH0RRNQ0"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 Nhi",
+          "url": "https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL"
+        },
+        {
+          "name": "Kh\u00f3i",
+          "url": "https://open.spotify.com/artist/3FZ4GX2mWNn7XElse3fQWd"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "L\u00e2u L\u00e2u Nh\u1eafc L\u1ea1i",
+      "url": "https://open.spotify.com/track/5B66uVtd4X6Tls9I2VQm4N"
+    },
     {
       "added_at": "2023-09-05 17:00:00",
       "album": {
@@ -77,40 +97,24 @@
       "url": "https://open.spotify.com/track/1SzlLbTE7hTs75M2R1a1Tg"
     },
     {
-      "added_at": "2023-09-07 13:00:00",
+      "added_at": "2023-10-02 17:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/6ewUD9mQR3PusKaeKmTJQF"
+        "name": "V\u0169 Tr\u1ee5 C\u00f2 Bay",
+        "url": "https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH"
       },
       "artists": [
         {
-          "name": "Thu Minh",
-          "url": "https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5"
+          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
         },
         {
-          "name": "Th\u1ea3o Trang",
-          "url": "https://open.spotify.com/artist/2maFpa4M8FWKvytGzgLhyl"
+          "name": "DTAP",
+          "url": "https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG"
         }
       ],
-      "duration_ms": 220546,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1U2ookTehUocHpeCyVciDq"
-    },
-    {
-      "added_at": "2023-09-05 17:00:00",
-      "album": {
-        "name": "Ng\u1ecf L\u1eddi",
-        "url": "https://open.spotify.com/album/0h0szlurfJ36hJCI5HtupK"
-      },
-      "artists": [
-        {
-          "name": "Suni H\u1ea1 Linh",
-          "url": "https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0"
-        }
-      ],
-      "duration_ms": 235744,
-      "name": "Ng\u1ecf L\u1eddi",
-      "url": "https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0"
+      "duration_ms": 274620,
+      "name": "B\u00f3ng Ph\u00f9 Hoa",
+      "url": "https://open.spotify.com/track/3fw9v7CztM2mqu1jCtbg9f"
     },
     {
       "added_at": "2023-09-05 17:00:00",
@@ -133,6 +137,26 @@
       "url": "https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM"
     },
     {
+      "added_at": "2023-10-02 17:00:00",
+      "album": {
+        "name": "\u0110\u1ea1i Minh Tinh",
+        "url": "https://open.spotify.com/album/6IcDGONXu6ib8NA1BVpmwp"
+      },
+      "artists": [
+        {
+          "name": "V\u0103n Mai H\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm"
+        },
+        {
+          "name": "H\u1ee9a Kim Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP"
+        }
+      ],
+      "duration_ms": 247368,
+      "name": "\u0110\u1ea1i Minh Tinh",
+      "url": "https://open.spotify.com/track/3g0Dwgd36QRmPecFIoubg4"
+    },
+    {
       "added_at": "2023-09-05 17:00:00",
       "album": {
         "name": "Em \u0110\u00e3 Bi\u1ebft",
@@ -147,6 +171,26 @@
       "duration_ms": 261321,
       "name": "Em \u0110\u00e3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/74dZm72WtQx122nyIFhJAB"
+    },
+    {
+      "added_at": "2023-10-02 17:00:00",
+      "album": {
+        "name": "t\u1eeb ng\u00e0y anh xa (feat. Kaisoul)",
+        "url": "https://open.spotify.com/album/1bHoASuMZlS4wN7EIbXzZA"
+      },
+      "artists": [
+        {
+          "name": "Kh\u1edfi My",
+          "url": "https://open.spotify.com/artist/4zRG1PU5uAC6ah9yeuxfFi"
+        },
+        {
+          "name": "Kaisoul",
+          "url": "https://open.spotify.com/artist/1RymY6y1vsyqVIVqBu03ul"
+        }
+      ],
+      "duration_ms": 228443,
+      "name": "t\u1eeb ng\u00e0y anh xa (feat. Kaisoul)",
+      "url": "https://open.spotify.com/track/4rbLcpLf7cVSIxRnqt4D48"
     },
     {
       "added_at": "2023-09-05 17:00:00",
@@ -435,26 +479,6 @@
       "duration_ms": 214499,
       "name": "Em \u0110\u00e2y Ch\u1eb3ng Ph\u1ea3i Th\u00fay Ki\u1ec1u",
       "url": "https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu"
-    },
-    {
-      "added_at": "2023-09-05 17:00:00",
-      "album": {
-        "name": "L\u00e2u L\u00e2u Nh\u1eafc L\u1ea1i",
-        "url": "https://open.spotify.com/album/6RLMsEvmNeILizkH0RRNQ0"
-      },
-      "artists": [
-        {
-          "name": "H\u00e0 Nhi",
-          "url": "https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL"
-        },
-        {
-          "name": "Kh\u00f3i",
-          "url": "https://open.spotify.com/artist/3FZ4GX2mWNn7XElse3fQWd"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "L\u00e2u L\u00e2u Nh\u1eafc L\u1ea1i",
-      "url": "https://open.spotify.com/track/5B66uVtd4X6Tls9I2VQm4N"
     },
     {
       "added_at": "2023-09-05 17:00:00",
@@ -863,22 +887,6 @@
       "duration_ms": 190285,
       "name": "y\u00eau th\u00ec y\u00eau kh\u00f4ng y\u00eau th\u00ec y\u00eau",
       "url": "https://open.spotify.com/track/79xFFmGKtEyky0I2G9U9Jg"
-    },
-    {
-      "added_at": "2023-09-05 17:00:00",
-      "album": {
-        "name": "T\u1eeb Khung C\u1eeda S\u1ed5 N\u00e0y",
-        "url": "https://open.spotify.com/album/3MP2DEC3eGwYHvBqmvlrMK"
-      },
-      "artists": [
-        {
-          "name": "Suni H\u1ea1 Linh",
-          "url": "https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0"
-        }
-      ],
-      "duration_ms": 221886,
-      "name": "T\u1eeb Khung C\u1eeda S\u1ed5 N\u00e0y",
-      "url": "https://open.spotify.com/track/6C1uzaA6dThCNQt89fk4kJ"
     }
   ],
   "unique_name": "EQUAL Vietnam",

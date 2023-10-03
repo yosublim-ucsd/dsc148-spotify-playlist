@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Abiding Light",
+        "url": "https://open.spotify.com/album/5BVFOUfy4UigiSC5sWIX8K"
+      },
+      "artists": [
+        {
+          "name": "Amat Leony",
+          "url": "https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184935,
+      "name": "Abiding Light",
+      "url": "https://open.spotify.com/track/2nfzCK4TA4wSlJP640kyIZ"
+    },
+    {
+      "album": {
         "name": "Adrift (Meditation)",
         "url": "https://open.spotify.com/album/3YhHaFBL6pqr287a8fQsuh"
       },
@@ -1788,6 +1806,24 @@
       "duration_ms": 168779,
       "name": "One",
       "url": "https://open.spotify.com/track/4FlZGFYTdwrVgqsA1Veqsc"
+    },
+    {
+      "album": {
+        "name": "Orange Sky (Meditation)",
+        "url": "https://open.spotify.com/album/3w2N8w1puVbjmFDp5kI54h"
+      },
+      "artists": [
+        {
+          "name": "Clyde Price",
+          "url": "https://open.spotify.com/artist/4xt2fTrl6aOgGVoVaeuh2Y"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158403,
+      "name": "Orange Sky (Nature)",
+      "url": "https://open.spotify.com/track/5IulPk0sJRudaIxh5JbMgz"
     },
     {
       "album": {

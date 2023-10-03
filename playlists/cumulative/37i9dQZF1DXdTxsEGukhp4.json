@@ -1815,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256706,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T"
+    },
+    {
+      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -2792,7 +2810,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 229911,
       "name": "Super funk market",
       "url": "https://open.spotify.com/track/3HnMGHU13H5oeNYjbKw8Eb"
@@ -3524,7 +3542,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 226453,
       "name": "\u30a8\u30cb\u30b0\u30de",
       "url": "https://open.spotify.com/track/2Z2icDPK5zM0sHNjoKbJfv"
@@ -3542,7 +3560,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 255293,
       "name": "\u30a8\u30d0\u30fc\u30b0\u30ea\u30fc\u30f3",
       "url": "https://open.spotify.com/track/6L8EXO1KIMl41yEzspq3yA"
@@ -3982,6 +4000,24 @@
       "duration_ms": 235814,
       "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/2IrEhqLiVmJZRgSY4W0djK"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "\u30df\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR"
     },
     {
       "album": {
@@ -4478,6 +4514,24 @@
       "duration_ms": 273160,
       "name": "\u65e5\u5e38\u9769\u547d",
       "url": "https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT"
+    },
+    {
+      "album": {
+        "name": "\u672a\u6765\u56f3",
+        "url": "https://open.spotify.com/album/6xgqi8qVneYK5zAehfnRNF"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229586,
+      "name": "\u672a\u6765\u56f3",
+      "url": "https://open.spotify.com/track/7DbgLTaylbqko3vR6k4adw"
     },
     {
       "album": {

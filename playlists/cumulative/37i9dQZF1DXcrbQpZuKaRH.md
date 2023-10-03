@@ -4,7 +4,7 @@
 
 > Ambient with the sound of waves for a blissful meditation.
 
-73 songs - 3 hr 33 min
+76 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Calm Waters](https://open.spotify.com/track/7C4MGx7vjDNQeSJT4mZvLx) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 2:35 | 2023-04-28 |  |
 | [Calming Seas](https://open.spotify.com/track/4fMwSkpBaG61fufc3eaRSq) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 3:23 | 2023-09-08 |  |
 | [Calming Seashore](https://open.spotify.com/track/4msQl50RTvdYVaak2Z99Fc) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:42 | 2023-04-28 |  |
+| [Chao Phraya](https://open.spotify.com/track/3x2joKTEP8I0uSfl9MFjJC) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Chao Phraya](https://open.spotify.com/album/46KHRsTPjqj6N5QJA35JPO) | 2:52 | 2023-10-02 |  |
 | [Charge Water](https://open.spotify.com/track/50KuU9dq4YsVH8ywhNOUII) | [Alaysia Young](https://open.spotify.com/artist/6qXIYhX6kENOfRZXxw5aLr) | [Charge Water](https://open.spotify.com/album/63psvMAMKlVELuGaNNHyvI) | 3:19 | 2023-04-28 |  |
 | [Deep Cove](https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 2:41 | 2023-09-08 |  |
 | [Delightful Waves](https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Delightful Waves](https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8) | 3:14 | 2023-04-28 |  |
@@ -54,6 +55,7 @@
 | [Resting in Waves](https://open.spotify.com/track/4l6h8I7RsN7tlhldN3LYYL) | [Vast Oceans](https://open.spotify.com/artist/6fdtjgfW91E750yDKRFNk8) | [Resting in Waves](https://open.spotify.com/album/1E6DdpYK3mEaYUqdPSlQcv) | 2:50 | 2023-04-28 |  |
 | [Rolling into the light](https://open.spotify.com/track/0Jf9uL7m2ORhA4b8HDi8FW) | [Counting Time](https://open.spotify.com/artist/7oVcqa9bulSHVTI8pqJ6ah) | [Piano in Another Room by the Ocean](https://open.spotify.com/album/36agYkfZ6jXT330sY5Au9t) | 2:52 | 2023-04-28 |  |
 | [Running Through Me](https://open.spotify.com/track/2n6hyVT69SGNMpkpwkqJPk) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Running Through Me](https://open.spotify.com/album/6UzimeYAKvcFvHPXkCwlw3) | 3:03 | 2023-04-28 |  |
+| [Santanyi](https://open.spotify.com/track/3rO499O1PWBnA0vlAwO9fp) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Santanyi](https://open.spotify.com/album/3P91FU1iT0YVMETaIE1isA) | 2:41 | 2023-10-02 |  |
 | [Sati Waves](https://open.spotify.com/track/0w9RrNK67EVAkTAMn3iauQ) | [Octavia Klinger](https://open.spotify.com/artist/7iY1iygrg1SOJUxYLHOBFs) | [Sati Waves](https://open.spotify.com/album/0TtJJdKctdcuVElz1wWSTl) | 3:00 | 2023-04-28 |  |
 | [Satyavaadita](https://open.spotify.com/track/23fzziAhNAz6zuPMqndNoL) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [Satyavaadita](https://open.spotify.com/album/7ohTqhejJ53V6uciizB2qU) | 3:04 | 2023-04-28 |  |
 | [Sea Waves](https://open.spotify.com/track/16OA2Oc9beh2NUkhbWTmA5) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:36 | 2023-04-28 |  |
@@ -61,10 +63,11 @@
 | [Sentimental](https://open.spotify.com/track/1eAFXZP3IlDUNE4fXUyw8E) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Sentimental](https://open.spotify.com/album/0ocJg4WeN8H8Rq1fKsAfw6) | 2:57 | 2023-04-28 |  |
 | [Shape of Your Breathing](https://open.spotify.com/track/48nyXuiDi17jGNYQPEwzb1) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:29 | 2023-04-28 | 2023-09-16 |
 | [Shimmerways](https://open.spotify.com/track/4oJHynkLeTy9CpqvpiGIAm) | [Eve Gutmansdottir](https://open.spotify.com/artist/0xr8KeOkIIGXkXh3Ehj5F4) | [Shimmerways](https://open.spotify.com/album/2qNLLvnenuUvl9KMSVMLIt) | 3:15 | 2023-04-28 |  |
-| [Sleep Under the Stars](https://open.spotify.com/track/52fxNMSJtgwPzbMadGr2Ie) | [Aron Stieg](https://open.spotify.com/artist/7ClOSDzQR2MESJ37Uqd0wi) | [Sleep Under the Stars](https://open.spotify.com/album/0w78gT2FjWEV9jvYZ2P07L) | 2:16 | 2023-04-28 |  |
+| [Sleep Under the Stars](https://open.spotify.com/track/52fxNMSJtgwPzbMadGr2Ie) | [Aron Stieg](https://open.spotify.com/artist/7ClOSDzQR2MESJ37Uqd0wi) | [Sleep Under the Stars](https://open.spotify.com/album/0w78gT2FjWEV9jvYZ2P07L) | 2:16 | 2023-04-28 | 2023-10-03 |
 | [Soothing the Ocean](https://open.spotify.com/track/2dGwmaVEeKceZET2Tw1UvK) | [Zonestays](https://open.spotify.com/artist/7qrpF6gvKx1zA0dGofJVdh) | [Soothing the Ocean](https://open.spotify.com/album/26sn9bQUdYBJpalMa9Fikl) | 2:41 | 2023-04-28 |  |
 | [Sordinique](https://open.spotify.com/track/5DwWLXnxNpnrxdq92pFAMt) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Sordinique](https://open.spotify.com/album/3XZwSbvbqK11XF9ad2sVkc) | 2:56 | 2023-04-28 |  |
 | [Sun Wave](https://open.spotify.com/track/6i5MjtmMJMfUR8IWWW1aiD) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Sun Wave](https://open.spotify.com/album/4vrQpdE2X6Xx8pEfbJrU2n) | 3:40 | 2023-04-28 |  |
+| [Sálmur \(Sound Bath\)](https://open.spotify.com/track/5KASAZ937O4CSKQ3hYAMaB) | [Arnór](https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH) | [Sálmur \(Sound Bath\)](https://open.spotify.com/album/0ouaxJpx3JvdUdMkjKbZFM) | 3:15 | 2023-10-02 |  |
 | [The Lonely Ride](https://open.spotify.com/track/2sYuq6n08j87xIi7FnKw5q) | [Aran Belle](https://open.spotify.com/artist/7vBevoeKoG6b09kZzUWdpN) | [The Lonely Ride](https://open.spotify.com/album/2jkZVUzPGxsvgGymz20jVq) | 2:07 | 2023-04-28 |  |
 | [The Spirit](https://open.spotify.com/track/2HtDHyZuRJYPnKLar3dMBZ) | [Nature Rehab](https://open.spotify.com/artist/1xzruyrjhInryEzjKlmzMG) | [The Spirit](https://open.spotify.com/album/639d267k0gorMiPC2zbTlH) | 3:05 | 2023-04-28 | 2023-08-25 |
 | [Uferlos](https://open.spotify.com/track/1f2o75H7I9RgWzf076ZVzQ) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Uferlos](https://open.spotify.com/album/1zJ3zOQa4YXNn2yf89D0rN) | 3:26 | 2023-04-28 |  |

@@ -4,7 +4,7 @@
 
 > Sound of Legend au top des bangers dance/electro du moment !
 
-49 songs - 2 hr 19 min
+50 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 | 2023-09-28 |  |
 | [Living On Video \(feat\. DTale\)](https://open.spotify.com/track/0W6MlHGvHAcSsoRt34pZIt) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84) | 2:23 | 2023-09-28 |  |
 | [Lose My Mind \- Passion Edit](https://open.spotify.com/track/5eCXYjXDeK1Dtiq8hDnldD) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Lose My Mind \(Passion Edit\)](https://open.spotify.com/album/2yLv6nYrTXJMrwFLY6uhEe) | 2:23 | 2023-09-28 |  |
-| [Lose This Feeling](https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Lose This Feeling](https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4) | 2:26 | 2023-09-28 |  |
+| [Lose This Feeling](https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Lose This Feeling](https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4) | 2:26 | 2023-09-28 | 2023-10-03 |
+| [Lose This Feeling](https://open.spotify.com/track/4s53qY7UpU6yrHI5017T3G) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [A State of Trance Radio Top 50 \- 2023, Vol\. 2](https://open.spotify.com/album/2ZuGymmpNiLS8xsNJPQRFi) | 2:26 | 2023-09-28 |  |
 | [Lucid Dream](https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Lucid Dream](https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA) | 3:13 | 2023-09-28 |  |
 | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO) | 2:47 | 2023-09-28 |  |
 | [Miracle \(with Ellie Goulding\) \- David Guetta Remix](https://open.spotify.com/track/4RFlvg9BmFnvlIBIZGg1Dt) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Miracle \(with Ellie Goulding\) \[David Guetta Remix\]](https://open.spotify.com/album/1xF21BZXLDXHuwNfkPojiJ) | 3:02 | 2023-09-28 |  |

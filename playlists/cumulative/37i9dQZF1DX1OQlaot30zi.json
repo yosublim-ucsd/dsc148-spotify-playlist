@@ -37305,6 +37305,24 @@
     },
     {
       "album": {
+        "name": "QUELLO CHE HO",
+        "url": "https://open.spotify.com/album/1ysRGJ2FlscSKragAzfgdV"
+      },
+      "artists": [
+        {
+          "name": "DAVIDE",
+          "url": "https://open.spotify.com/artist/5DO6UaclvCEpCitUQDGrBL"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "QUELLO CHE HO",
+      "url": "https://open.spotify.com/track/1nqwcLNAILQFS6V86S9cV6"
+    },
+    {
+      "album": {
         "name": "Quello che ho Visto",
         "url": "https://open.spotify.com/album/4QcyKmuubyNde6OpR1M0Q9"
       },

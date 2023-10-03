@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 71874,
+  "num_followers": 71932,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjNjMDY0N2M5ODMyOWU1ZDczYTQ0ZTM1YjU1MzU4ZmVkOTFhZDFk",
+  "snapshot_id": "MCw0YWMxYThjOTRkNDUxNTNhMGIxNWY4Y2E0Y2IwYTI2MDI4MzZiZmIw",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 293560,
+      "name": "We Fall Down - Live",
+      "url": "https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Adoration",
         "url": "https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp"
       },
@@ -195,70 +211,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Work It Out (Live)",
-        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 320955,
-      "name": "Work It Out - Live",
-      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 293560,
-      "name": "We Fall Down - Live",
-      "url": "https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "Worth Fighting For (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 419413,
-      "name": "I'll Just Say Yes - Live",
-      "url": "https://open.spotify.com/track/74pDUf3R1hfRTED2ZzZHUZ"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "As We Worship Live",
-        "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 548360,
-      "name": "Closer/Wrap Me In Your Arms",
-      "url": "https://open.spotify.com/track/4ULyiYqodr8cjH1Y9HqudW"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "One Nation Under God",
         "url": "https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP"
       },
@@ -275,18 +227,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Setlist: The Very Best Of Kirk Franklin Live",
-        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+        "name": "Work It Out (Live)",
+        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 340200,
-      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu"
+      "duration_ms": 320955,
+      "name": "Work It Out - Live",
+      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -307,6 +259,54 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "Worth Fighting For (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 419413,
+      "name": "I'll Just Say Yes - Live",
+      "url": "https://open.spotify.com/track/74pDUf3R1hfRTED2ZzZHUZ"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 320093,
+      "name": "That's What I Believe",
+      "url": "https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 548360,
+      "name": "Closer/Wrap Me In Your Arms",
+      "url": "https://open.spotify.com/track/4ULyiYqodr8cjH1Y9HqudW"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
       },
@@ -319,6 +319,22 @@
       "duration_ms": 506429,
       "name": "In Spite Of Me - Live",
       "url": "https://open.spotify.com/track/5JTcaitH5HSzkqFG4nX7Dk"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 340200,
+      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -363,22 +379,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 320093,
-      "name": "That's What I Believe",
-      "url": "https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 321790,
       "name": "Nothing / Something - Live",
       "url": "https://open.spotify.com/track/6OFKf4inSSdrMuggQsx6Zb"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "Setlist: The Very Best Of Kirk Franklin Live",
-        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 347106,
-      "name": "Why We Sing",
-      "url": "https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -531,6 +515,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 347106,
+      "name": "Why We Sing",
+      "url": "https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Live In Washington",
         "url": "https://open.spotify.com/album/6Ig7DpVL0oQhlX8Di6TbUk"
       },
@@ -599,22 +599,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Setlist: The Very Best Of Kirk Franklin Live",
-        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+        "name": "The Cry: A Live Worship Experience",
+        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "The Family",
-          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
         }
       ],
-      "duration_ms": 412200,
-      "name": "Now Behold the Lamb",
-      "url": "https://open.spotify.com/track/00x6jSUknGq0bvvsF5Dz3w"
+      "duration_ms": 246173,
+      "name": "I Don't Wanna Leave - Live From Chattanooga, TN",
+      "url": "https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -631,38 +627,6 @@
       "duration_ms": 317880,
       "name": "I Will Bless the Lord - Live",
       "url": "https://open.spotify.com/track/2wRfftZSv3H1s1qE6o4l9Y"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "Your Great Name (Live) - Single",
-        "url": "https://open.spotify.com/album/1b5xZ0TrmAYNNCmtjnl2G5"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 265573,
-      "name": "Your Great Name (Live)",
-      "url": "https://open.spotify.com/track/3hDeZSWqjlQPJM7w8zHToK"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "The Cry: A Live Worship Experience",
-        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 246173,
-      "name": "I Don't Wanna Leave - Live From Chattanooga, TN",
-      "url": "https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -687,18 +651,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "The Experience",
-        "url": "https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz"
+        "name": "Your Great Name (Live) - Single",
+        "url": "https://open.spotify.com/album/1b5xZ0TrmAYNNCmtjnl2G5"
       },
       "artists": [
         {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
-      "duration_ms": 465933,
-      "name": "Open My Heart - Live",
-      "url": "https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90"
+      "duration_ms": 265573,
+      "name": "Your Great Name (Live)",
+      "url": "https://open.spotify.com/track/3hDeZSWqjlQPJM7w8zHToK"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -715,6 +679,42 @@
       "duration_ms": 281973,
       "name": "Never Seen The Righteous - Live",
       "url": "https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "The Family",
+          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+        }
+      ],
+      "duration_ms": 412200,
+      "name": "Now Behold the Lamb",
+      "url": "https://open.spotify.com/track/00x6jSUknGq0bvvsF5Dz3w"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "The Experience",
+        "url": "https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "duration_ms": 465933,
+      "name": "Open My Heart - Live",
+      "url": "https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/7qFOUqL4zWEXKSTzV1VMjr"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "He Always Wins (feat. Erica Campbell & 1K Phew) [Live]",
         "url": "https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 338894,
       "name": "Intentional - Live",
       "url": "https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "As We Worship Live",
-        "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "He Is",
-      "url": "https://open.spotify.com/track/7qFOUqL4zWEXKSTzV1VMjr"
     },
     {
       "added_at": "2023-02-18 05:28:04",

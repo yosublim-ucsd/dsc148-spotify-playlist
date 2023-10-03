@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Shallow Alcove \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,276 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,292 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Saddle](https://open.spotify.com/track/6qtCLNxE5pkbVDoFP2yf4a) | [Symbol Soup](https://open.spotify.com/artist/10GZjzJnxuL9DuVcNYUyal) | [Slow Puncture](https://open.spotify.com/album/20JCvbAdAKeQIvj97M8Ayk) | 2:51 |
 | 100 | [Roma](https://open.spotify.com/track/5Doo36g667KqGPU8J3ijzW) | [hallpass](https://open.spotify.com/artist/1ojodT2n3tLClMDaRgIk7Z) | [Roma](https://open.spotify.com/album/4B12SFohzxZRPQojWtwG2K) | 4:25 |
 
-Snapshot ID: `MCw0YzU1M2UzMWQ1NzNiNGRjMDc3NzQ4NmRjNDUyZjFmMWQyMGM3Yzk0`
+Snapshot ID: `MCxlYmJjYmIyYzE5NWFlODE4ZjZmYTBhMjY3ZDUwOGZlZjk2ZTBkNDkw`

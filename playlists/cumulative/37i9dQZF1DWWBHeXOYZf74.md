@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Cleo Sol
 
-2,212 songs - 5 day 4 hr 11 min
+2,213 songs - 5 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1140,6 +1140,7 @@
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-10 | 2023-05-27 |
 | [let me go\*](https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [let me go\*](https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK) | 2:19 | 2023-09-22 |  |
 | [Let Me Know](https://open.spotify.com/track/0dJhXJKZTpiaxTUc7uItIN) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 3:35 | 2020-02-07 | 2020-07-24 |
+| [let u in](https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [let u in](https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a) | 2:55 | 2023-10-02 |  |
 | [Let You Speak](https://open.spotify.com/track/2eUERhwgs5u0bBcbbcy0Wv) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Let You Speak](https://open.spotify.com/album/1xuyzgsUpkHcloPGU3KKcW) | 3:07 | 2021-04-10 | 2021-07-10 |
 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 | 2022-04-15 | 2022-08-13 |
 | [Let’s Sing Let’s Dance](https://open.spotify.com/track/43e9tSxVoL8LEWd5oLkR1S) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Let’s Sing Let’s Dance](https://open.spotify.com/album/2v3RfmAE1IyyUDjsKyGreG) | 3:50 | 2021-07-07 | 2021-08-28 |

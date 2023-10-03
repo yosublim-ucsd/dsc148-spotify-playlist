@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 48380,
+  "num_followers": 48408,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjBlMzBlNDVlZmEwMDk4MDQ0YjM4Y2Q2MThmMThlYjZlMDA1OTdj",
+  "snapshot_id": "MCw1MWMzMDUyMDQ0YmVkYzE4YWY3OWE4Y2EyNTZhNmIwOTIzNmFkYjUx",
   "tracks": [
     {
       "added_at": "2023-09-22 12:52:55",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-09-22 12:52:55",
       "album": {
+        "name": "High Roller",
+        "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "High Roller",
+      "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
+    },
+    {
+      "added_at": "2023-09-22 12:52:55",
+      "album": {
         "name": "Do It Like Me",
         "url": "https://open.spotify.com/album/2IwrVf12tHGZCK0k5ORLbR"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 204364,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
-    },
-    {
-      "added_at": "2023-09-22 12:52:55",
-      "album": {
-        "name": "High Roller",
-        "url": "https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        }
-      ],
-      "duration_ms": 275862,
-      "name": "High Roller",
-      "url": "https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ"
     },
     {
       "added_at": "2023-09-22 12:52:55",
@@ -1063,34 +1063,34 @@
     {
       "added_at": "2023-09-22 12:52:55",
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6GMcUsOe9eqEtlm1KAkFIR"
       },
       "artists": [
         {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+          "name": "Murdock",
+          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
         }
       ],
-      "duration_ms": 225245,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ"
+      "duration_ms": 180000,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3UIVHHvzMmAYjH7VIiburn"
     },
     {
       "added_at": "2023-09-22 12:52:55",
       "album": {
-        "name": "Kickons",
-        "url": "https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9"
+        "name": "VOID LP",
+        "url": "https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
         }
       ],
-      "duration_ms": 235862,
-      "name": "Kickons",
-      "url": "https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ"
+      "duration_ms": 267586,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru"
     }
   ],
   "unique_name": "Jump Up!",

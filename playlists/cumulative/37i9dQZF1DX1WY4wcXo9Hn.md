@@ -2,7 +2,7 @@
 
 ### [scarf season](https://open.spotify.com/playlist/37i9dQZF1DX1WY4wcXo9Hn)
 
-> i can picture it after all these days
+> You look so pretty and I love this view
 
 151 songs - 9 hr 4 min
 

@@ -4,7 +4,7 @@
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-174 songs - 9 hr 10 min
+175 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Holy River](https://open.spotify.com/track/6aheaZ49wM9pdc21shDoaO) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Holy River](https://open.spotify.com/album/6HhpIS459we5oHB8GTW8Q2) | 3:03 | 2022-11-25 | 2023-08-12 |
 | [Holy Stone](https://open.spotify.com/track/3IWbiwMkaA8wlNd4zuaK6K) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Holy Stone](https://open.spotify.com/album/7bLljlzayEIE59YxJ92qX2) | 2:37 | 2022-09-02 | 2023-06-22 |
 | [Indian Sunset](https://open.spotify.com/track/6Oa6dSEDkopm9UsfZ6tVH8) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Indian Sunset](https://open.spotify.com/album/5og83tVSEQKGWbBBx1jz6I) | 3:40 | 2022-10-25 |  |
+| [Inner Harmony](https://open.spotify.com/track/5G1FGOdK1yXZzWcE7imCjz) | [Muyu Three](https://open.spotify.com/artist/6zb7OvAUpABDfVSe9NF1BN) | [Inner Harmony](https://open.spotify.com/album/2ggG3E1RzoDn6GqGgOL5xm) | 2:27 | 2023-10-02 |  |
 | [Into the Wild](https://open.spotify.com/track/6ND3m2zmOZsu98le63Wjdo) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Music: Tribal Drums & Nature – Rhythms of Dark Continent, Shamanic Dance, Spiritual Savannah Experience, African Meditation](https://open.spotify.com/album/7rFpsFVeNWLSM2Cv893H8a) | 3:25 | 2022-09-02 | 2023-08-12 |
 | [Jewel of Sangha](https://open.spotify.com/track/6dyJdwInk8DnebR9UXLY9H) | [Bringer of Zen](https://open.spotify.com/artist/17BokPLT01EqyONZ59QdqM) | [Jewel of Sangha](https://open.spotify.com/album/7DcadO0a8aVIPCCCGfa31X) | 2:34 | 2022-09-22 |  |
 | [Karuna](https://open.spotify.com/track/1sDSsPD0PtRcjL1kJkg0AE) | [Amrita Ananda](https://open.spotify.com/artist/17ph9VKUlu3hc0liTAhYWP) | [Karuna](https://open.spotify.com/album/486AMjARTqS2RGKpyGf8pZ) | 2:59 | 2022-09-02 | 2023-08-12 |

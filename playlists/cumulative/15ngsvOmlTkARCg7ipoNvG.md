@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,040 songs - 23 hr 11 min
+1,044 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,8 @@
 | [Gently Fading](https://open.spotify.com/track/6gtc2bEAXrdjDmsLRYTMrj) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [In Silence](https://open.spotify.com/album/1k8oBz5yBunH2xK8SwRL3V) | 1:20 | 2022-01-12 |  |
 | [Gently Into the Night](https://open.spotify.com/track/21SfqWMdPnPCE0kkDQQF4C) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Lullabies by the Seaside](https://open.spotify.com/album/6pC7SbPTtjxRdWfEJqu14G) | 1:34 | 2022-01-20 |  |
 | [Gently You Go](https://open.spotify.com/track/2BN60kDOdG0hMfP4oXDZSI) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Harp Ambience](https://open.spotify.com/album/2c4j85kdUZni7cXlfYmzid) | 1:04 | 2022-03-03 |  |
+| [Gifts](https://open.spotify.com/track/1wYjN3claONSH2D4VMVEuL) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Gifts](https://open.spotify.com/album/3bk666g1JRG4U6JzgwcEJm) | 1:00 | 2023-10-02 |  |
+| [Gifts Arr\. For Cello](https://open.spotify.com/track/6JyGuDASbOZOrlr4ABq8Np) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Gifts](https://open.spotify.com/album/3bk666g1JRG4U6JzgwcEJm) | 1:00 | 2023-10-02 |  |
 | [Gifts Revisited \- Cello Version](https://open.spotify.com/track/0YXK4MiV4FZ9PAsGIJfZfh) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Echoes In Time \(Cello Version\)](https://open.spotify.com/album/2sELlm2BckpPszTqN2H4BY) | 1:06 | 2022-02-17 |  |
 | [Gliding In Spring](https://open.spotify.com/track/1PilpHZcm9by6JlyEUr6NN) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calming Moments](https://open.spotify.com/album/4yz3qOY8SkpbzyUarrx00Z) | 1:01 | 2022-05-15 |  |
 | [Glimpses](https://open.spotify.com/track/3fL9gcTqNEzVi1yXKKNzyP) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Our Dreams](https://open.spotify.com/album/44JzdzxKFan8JqnUxK40sl) | 1:15 | 2022-01-12 |  |
@@ -579,6 +581,7 @@
 | [Morning Calm](https://open.spotify.com/track/37WsMLQKWs6HNatOhCJLoN) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Morning Calm](https://open.spotify.com/album/1Pcrf4XQXZIKjTRn6HdcAN) | 1:02 | 2022-09-01 |  |
 | [Morning Comforts](https://open.spotify.com/track/65Wq2DcxRLal3DUZEeQfQj) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Restored](https://open.spotify.com/album/1xwDx8jc8SdscX2xYWSrud) | 1:03 | 2022-02-11 |  |
 | [Morning Prayer](https://open.spotify.com/track/4imKugn0XXrrp7D04eJqpy) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Morning Prayer](https://open.spotify.com/album/3VAb43boYj5U6f4aCty13z) | 3:24 | 2022-01-12 |  |
+| [Morning Sky](https://open.spotify.com/track/62knhs63ci7hYkDpibz3JJ) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Morning Sky](https://open.spotify.com/album/1F9xNdcF0zVE2ZG3fYma6L) | 1:00 | 2023-10-02 |  |
 | [Mountain Dreaming Arr\. For Cello](https://open.spotify.com/track/5ICw6zequAvVp3wiEu1APj) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Mountain Dreaming](https://open.spotify.com/album/4MHw4NrRyNQVlFIUgN6PKU) | 1:01 | 2023-04-19 |  |
 | [Mountain Walk Arr\. For Cello](https://open.spotify.com/track/0iXOIuErB0K7uV3dTA3TaU) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Mountain Walk](https://open.spotify.com/album/4TyDZP1DesZ0dtUVBvo7Li) | 1:01 | 2023-07-31 |  |
 | [Mountain Walk Arr\. For Piano](https://open.spotify.com/track/3p8ywA1wFev1fUsbyu6nt3) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Mountain Walk](https://open.spotify.com/album/4TyDZP1DesZ0dtUVBvo7Li) | 1:01 | 2023-07-01 |  |
@@ -898,6 +901,7 @@
 | [Suspend](https://open.spotify.com/track/09fxKNlrgSsNiPhkhIuIg6) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Bloom](https://open.spotify.com/album/6nVYM30CCCe5AAbIrXkXC5) | 1:24 | 2022-01-15 |  |
 | [Sweet Parting](https://open.spotify.com/track/5MlV6tg0gNyvACK0mnydKC) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Love and Life](https://open.spotify.com/album/2W716q2dWXoetwXYngxvl6) | 1:26 | 2022-01-12 |  |
 | [Swell \(Piano Version\)](https://open.spotify.com/track/3oAMg1OlQ8vjpBirYudhZ2) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Renewal](https://open.spotify.com/album/4p8InVKD09INqrjBrsIyCg) | 2:09 | 2022-01-12 |  |
+| [Symphony No\. 7 Lullaby Arr\. For Cello](https://open.spotify.com/track/3EsVwTBmDJUNTpprobnWai) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Symphony No\. 7 Lullaby Arr\. For Cello](https://open.spotify.com/album/7dFoTBZfDQbjcZaeu0trFM) | 1:01 | 2023-10-02 |  |
 | [Taking the Long Way Home](https://open.spotify.com/track/6RC1ZBbIVyNkqrN3ufLHDw) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:35 | 2022-01-20 |  |
 | [Tell Me A Story \- Piano Version](https://open.spotify.com/track/7rHtWEbSh3o2WA7qH8b0xA) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Tell Me A Story \(Piano Version\)](https://open.spotify.com/album/3q3ivsgjeXRMtvnD7Hd2KY) | 1:06 | 2022-03-25 |  |
 | [The Beauty Inside](https://open.spotify.com/track/6TZvzdXkgzem0TaQuvE926) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Hope](https://open.spotify.com/album/1VrS0czvfxcDTHZHSxDZFm) | 1:37 | 2022-01-20 |  |

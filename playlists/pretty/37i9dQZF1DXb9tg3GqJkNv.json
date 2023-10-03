@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Charmaine",
-  "num_followers": 7903,
+  "num_followers": 7932,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGI2ZWExYjFiMjFkZDA1ODA3ZDNmZmI1NzhjYzExNjQ1NGM5ZThl",
+  "snapshot_id": "MCw0OGE4ZWM1NGIwM2E0YTVmMzQxOTE5MWMwYTUwMjhlYzRhNTU0OTBm",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -195,26 +195,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "RECKLESS",
-        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Champion (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6nO3tr47nr2P7f3hXb8JIo"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "eat ya veggies",
         "url": "https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 161613,
       "name": "2 time zones (feat. Night Lovell)",
       "url": "https://open.spotify.com/track/5d2fEfIzQz67c3YQ2trVnE"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Champion (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6nO3tr47nr2P7f3hXb8JIo"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Killamonjaro",
-        "url": "https://open.spotify.com/album/7IXOHbcGCzApTTInOsIbCB"
-      },
-      "artists": [
-        {
-          "name": "KILLY",
-          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "Killamonjaro",
-      "url": "https://open.spotify.com/track/537l7spEsGg6aWl6Y9eKAs"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Flowers (feat. MAVI)",
         "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
       },
@@ -583,6 +567,42 @@
       "duration_ms": 182201,
       "name": "Flowers (feat. MAVI)",
       "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Killamonjaro",
+        "url": "https://open.spotify.com/album/7IXOHbcGCzApTTInOsIbCB"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "Killamonjaro",
+      "url": "https://open.spotify.com/track/537l7spEsGg6aWl6Y9eKAs"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "88GLAM RELOADED",
+        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
+      },
+      "artists": [
+        {
+          "name": "88GLAM",
+          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 185316,
+      "name": "Bali",
+      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -615,26 +635,6 @@
       "duration_ms": 191489,
       "name": "Pizzazz",
       "url": "https://open.spotify.com/track/0h82txCyS3TGgW0F31gew5"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "88GLAM RELOADED",
-        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
-      },
-      "artists": [
-        {
-          "name": "88GLAM",
-          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 185316,
-      "name": "Bali",
-      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Different Route",
-        "url": "https://open.spotify.com/album/1W8pJAcbgIrU8QSPinu1s2"
-      },
-      "artists": [
-        {
-          "name": "Roney",
-          "url": "https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J"
-        },
-        {
-          "name": "Sick Ppl",
-          "url": "https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Go There",
-      "url": "https://open.spotify.com/track/3BIouEzekdzTJYtR9fmYRA"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "30,000 ft",
         "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
       },
@@ -1259,6 +1239,58 @@
       "duration_ms": 272052,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Different Route",
+        "url": "https://open.spotify.com/album/1W8pJAcbgIrU8QSPinu1s2"
+      },
+      "artists": [
+        {
+          "name": "Roney",
+          "url": "https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J"
+        },
+        {
+          "name": "Sick Ppl",
+          "url": "https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Go There",
+      "url": "https://open.spotify.com/track/3BIouEzekdzTJYtR9fmYRA"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Vallie Mode",
+        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
+      },
+      "artists": [
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "duration_ms": 148349,
+      "name": "Vallie Mode",
+      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Come Outside",
+        "url": "https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7"
+      },
+      "artists": [
+        {
+          "name": "K Money",
+          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
+        }
+      ],
+      "duration_ms": 198383,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1315,38 +1347,6 @@
       "duration_ms": 182535,
       "name": "While You on Road",
       "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Vallie Mode",
-        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
-      },
-      "artists": [
-        {
-          "name": "Dom Vallie",
-          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
-        }
-      ],
-      "duration_ms": 148349,
-      "name": "Vallie Mode",
-      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Come Outside",
-        "url": "https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7"
-      },
-      "artists": [
-        {
-          "name": "K Money",
-          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
-        }
-      ],
-      "duration_ms": 198383,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1411,22 +1411,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Added Sugar",
-        "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
+        "name": "Alejandro Sosa",
+        "url": "https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF"
       },
       "artists": [
         {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+          "name": "Pengz",
+          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
         },
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Brk Frm Nrml",
-      "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
+      "duration_ms": 163250,
+      "name": "Alejandro Sosa",
+      "url": "https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow"
     }
   ],
   "unique_name": "Hip-Hop Rewind",

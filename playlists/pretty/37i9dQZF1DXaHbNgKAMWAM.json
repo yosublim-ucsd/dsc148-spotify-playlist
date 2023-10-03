@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 13083,
+  "num_followers": 13100,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTY0ZDgxMmExZDgzMDE5ODEzMmQ2YzEwM2M0MWFkMGZiMzIxZGIw",
+  "snapshot_id": "MCxhOGE1NjUyNjdiNzQzYmZmOTZkY2ZkYzkwOWM1MDkzMmU4N2NmMjY0",
   "tracks": [
     {
       "added_at": "2023-09-20 06:37:23",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
-        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Every day, Every Moment",
-      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
-    },
-    {
-      "added_at": "2023-09-20 06:37:23",
-      "album": {
         "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 202173,
       "name": "Luv Luv Luv",
       "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
+    },
+    {
+      "added_at": "2023-09-20 06:37:23",
+      "album": {
+        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Every day, Every Moment",
+      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
     },
     {
       "added_at": "2023-09-20 06:37:23",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
-        "name": "Especially For You",
-        "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
-      },
-      "artists": [
-        {
-          "name": "Lee Daneung",
-          "url": "https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Especially For You",
-      "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
-    },
-    {
-      "added_at": "2023-09-20 06:37:23",
-      "album": {
         "name": "LOVE PLAYLIST 4 Part.1",
         "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
+        "name": "Especially For You",
+        "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
       },
       "artists": [
         {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+          "name": "Lee Daneung",
+          "url": "https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO"
         }
       ],
-      "duration_ms": 152963,
-      "name": "Kiss The Rain",
-      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
+      "duration_ms": 154786,
+      "name": "Especially For You",
+      "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
     },
     {
       "added_at": "2023-09-20 06:37:23",
@@ -651,6 +635,22 @@
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
+    },
+    {
+      "added_at": "2023-09-20 06:37:23",
+      "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Kiss The Rain",
+      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
     },
     {
       "added_at": "2023-09-20 06:37:23",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 165433,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
-    },
-    {
-      "added_at": "2023-09-20 06:37:23",
-      "album": {
         "name": "Way U Are (feat. BIG Naughty)",
         "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 163773,
       "name": "Way U Are (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
+    },
+    {
+      "added_at": "2023-09-20 06:37:23",
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 165433,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
     },
     {
       "added_at": "2023-09-20 06:37:23",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
-        "name": "Omnibus, Pt. 2: Inside Out",
-        "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
-    },
-    {
-      "added_at": "2023-09-20 06:37:23",
-      "album": {
         "name": "1,2,3..",
         "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 156560,
       "name": "ANYWHERE ANYTIME",
       "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
+    },
+    {
+      "added_at": "2023-09-20 06:37:23",
+      "album": {
+        "name": "Omnibus, Pt. 2: Inside Out",
+        "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
     },
     {
       "added_at": "2023-09-20 06:37:23",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 169930,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
-    },
-    {
-      "added_at": "2023-09-20 06:37:23",
-      "album": {
         "name": "INTERVIEW",
         "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 195293,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
+    },
+    {
+      "added_at": "2023-09-20 06:37:23",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 169930,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
     },
     {
       "added_at": "2023-09-20 06:37:23",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-09-20 06:37:23",
       "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
-    },
-    {
-      "added_at": "2023-09-20 06:37:23",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 224394,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
+    },
+    {
+      "added_at": "2023-09-20 06:37:23",
+      "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
     },
     {
       "added_at": "2023-09-20 06:37:23",

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-5,988 songs - 9 day 11 hr 5 min
+5,989 songs - 9 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -876,6 +876,7 @@
 | [Cascais](https://open.spotify.com/track/3JfP7wfr9QA0zbosORVde0) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [Cyan](https://open.spotify.com/album/4RvIrrDzqWB19eJvOhRouB) | 2:32 | 2022-04-08 | 2022-08-27 |
 | [Cashmere](https://open.spotify.com/track/26jKVRgWdbQZRzMWuV6y22) | [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Cashmere](https://open.spotify.com/album/1MtYJCV0I8jNyWabqS7t3M) | 2:23 | 2022-05-27 | 2022-09-23 |
 | [Cashmere](https://open.spotify.com/track/1vWaSsuHYVTiIYGA2SNWrZ) | [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Ghost Lover](https://open.spotify.com/album/6qNi3Wo7edWEzqakWhCFJx) | 1:22 | 2020-04-08 | 2021-09-04 |
+| [cashmere](https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [cashmere](https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y) | 2:22 | 2023-09-29 |  |
 | [Cashmere Canopy](https://open.spotify.com/track/6CWZjq6bg4U9BrNwMgKkrP) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Canopy](https://open.spotify.com/album/0wbmXJtXiaTjgKd8SG6JK1) | 2:54 | 2021-10-20 | 2022-04-24 |
 | [Casual Games](https://open.spotify.com/track/1hF99tJ0UBNCX6lu54sO8R) | [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl) | [Casual Games](https://open.spotify.com/album/1vazSHC7X7lcMoi59Ugr88) | 1:44 | 2022-11-18 |  |
 | [Cat Dreams](https://open.spotify.com/track/5W4ghWlffStUfiem9zS90m) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Fuyumeku](https://open.spotify.com/album/4FbaGBcNgZ0PyjtuTZJirF) | 1:39 | 2021-12-03 | 2022-06-17 |
@@ -1966,7 +1967,7 @@
 | [Friendly Faces](https://open.spotify.com/track/0th7hewFkDGdoOR1N3QNBL) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Friendly Faces & Pocket Queens](https://open.spotify.com/album/5feRhvTa6tXjlQ3JIBip2Z) | 2:59 | 2022-10-28 |  |
 | [Friendships](https://open.spotify.com/track/114Ek2fEuyckHfMPDmLITJ) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Friendships](https://open.spotify.com/album/4iy4FUKIKUCrvWIKbiByMG) | 2:44 | 2020-06-12 | 2021-09-04 |
 | [Friendzone](https://open.spotify.com/track/4LnW6PgihAXOB2oqTNypbU) | [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Pornografie 2.5](https://open.spotify.com/album/1L4cfhOU1tuhg1s6RKyuXb) | 1:33 | 2020-01-03 | 2020-06-18 |
-| [Froget Yo' Probs](https://open.spotify.com/track/2xCkOgIpXKSiUmjokvrmvD) | [Lime Nyorobon](https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq) | [Froget Yo' Probs](https://open.spotify.com/album/3H4wE4vLhDBSXJacYQ7XZ9) | 1:41 | 2023-06-07 |  |
+| [Froget Yo' Probs](https://open.spotify.com/track/2xCkOgIpXKSiUmjokvrmvD) | [Lime Nyorobon](https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq) | [Froget Yo' Probs](https://open.spotify.com/album/3H4wE4vLhDBSXJacYQ7XZ9) | 1:41 | 2023-06-07 | 2023-10-03 |
 | [Froggy](https://open.spotify.com/track/2xpx5v4QLFQfthAoHAVTpQ) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Froggy](https://open.spotify.com/album/2jxhOc4Y1u9kfqlII4GjRJ) | 2:17 | 2022-10-21 | 2023-04-28 |
 | [From Above](https://open.spotify.com/track/5qq58rk9OfNx8LUstmsAEi) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Inner Mirrors](https://open.spotify.com/album/26h0EzwRwMhPjXwXdtaDLo) | 2:43 | 2023-01-06 | 2023-06-08 |
 | [From Above](https://open.spotify.com/track/6ihShsw88Cq1gnSF2JvZxd) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [From Above](https://open.spotify.com/album/1T3EThLCA4Ak8CNpApaPEZ) | 2:05 | 2020-09-22 | 2021-10-20 |
@@ -3018,7 +3019,7 @@
 | [Long Way Home](https://open.spotify.com/track/4B0rDSA8jga7wjmKaSIHYj) | [Ben Bada Boom](https://open.spotify.com/artist/0sN3N3h3Ti2BTwqrenBhU2) | [A Walk in Summer](https://open.spotify.com/album/0DxdMoaCtNOXENBnyf4nl1) | 2:56 | 2022-06-24 | 2022-10-07 |
 | [Longing](https://open.spotify.com/track/2CJv7CiDU2rTv7urGyFuQd) | [Jelly Soul](https://open.spotify.com/artist/2WDNpyEIlhlQ024nvd3GQd) | [Longing](https://open.spotify.com/album/4C90aGnjpdV0QdHUZwVni0) | 2:15 | 2022-11-18 | 2023-01-13 |
 | [Longing](https://open.spotify.com/track/5wHzzG4MUlaVvbtr87F2Th) | [Jelly Soul](https://open.spotify.com/artist/2WDNpyEIlhlQ024nvd3GQd) | [Longing](https://open.spotify.com/album/2p2poEqnk4kr0w9HzdxwMU) | 2:15 | 2022-09-30 | 2022-11-20 |
-| [Longing Beats](https://open.spotify.com/track/2S8x2UmgZFqGNPQxe2zLL4) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Longing Beats](https://open.spotify.com/album/1GuLPS3yf1YOdrpnweE0b9) | 2:22 | 2022-02-14 | 2022-09-09 |
+| [Longing Beats](https://open.spotify.com/track/2S8x2UmgZFqGNPQxe2zLL4) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Longing Beats](https://open.spotify.com/album/1GuLPS3yf1YOdrpnweE0b9) | 2:22 | 2022-02-14 |  |
 | [Longing for summer](https://open.spotify.com/track/7I6VIP00dwIA97Ge5AK1YP) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Longing for summer](https://open.spotify.com/album/4FGN3nnZpSUtQ0tbzccpmX) | 2:20 | 2023-02-21 |  |
 | [Longtime](https://open.spotify.com/track/34RkXleKZHjp55eeVBys3p) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Longtime](https://open.spotify.com/album/6NilBWv8WWF1jGv0zYG5QI) | 1:12 | 2022-06-17 | 2022-07-16 |
 | [Look At The Stars](https://open.spotify.com/track/0HXSiFsxCQ5zfoMBRHZM1e) | [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt), [Lil Gromit](https://open.spotify.com/artist/12R1ZRnrpi0uH9EfmLQ9Pj), [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Look At The Stars](https://open.spotify.com/album/75zyXAXIIIP94ukybEQqzZ) | 2:23 | 2023-01-20 | 2023-05-23 |
@@ -4231,7 +4232,7 @@
 | [Reflection](https://open.spotify.com/track/1MyTTwI9j6E02mRHRPrGpl) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Reflection](https://open.spotify.com/album/485fNUfgdJDYvOcq4w2T0M) | 2:11 | 2022-11-25 | 2023-01-20 |
 | [Reflection](https://open.spotify.com/track/4VZFppGL0BEijU6rVwQ9r9) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc), [DAM95](https://open.spotify.com/artist/5lxwMkW2wwNtINP19IO6R4) | [Reflection](https://open.spotify.com/album/3GRhPWBKUzDGWAUkoiByBP) | 2:17 | 2022-02-14 | 2022-07-22 |
 | [Reflections](https://open.spotify.com/track/6gMnQZOISIqZdvGA8hI48K) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Reflections](https://open.spotify.com/album/1JkR6IMMbkzMiLRzxUFdkI) | 1:57 | 2022-12-16 | 2023-02-28 |
-| [Reflections](https://open.spotify.com/track/2Z9lY4T8YNQVAtLEJ4DnHq) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Reflections](https://open.spotify.com/album/0Vm4tIXcuJ1Txd0W7etieB) | 2:31 | 2023-04-20 |  |
+| [Reflections](https://open.spotify.com/track/2Z9lY4T8YNQVAtLEJ4DnHq) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Reflections](https://open.spotify.com/album/0Vm4tIXcuJ1Txd0W7etieB) | 2:31 | 2023-04-20 | 2023-10-03 |
 | [Reflections](https://open.spotify.com/track/2tKvpFkHaSfbv3SD0B0moo) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Reflections](https://open.spotify.com/album/63nwTryDWKihjYCv2XXIhu) | 2:00 | 2022-11-11 | 2022-11-24 |
 | [Reflections](https://open.spotify.com/track/59dOe8AZTFrSvvG8dRLpTc) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Reflections](https://open.spotify.com/album/7kXJ1Qkhfk8zB3Dg7aobko) | 2:00 | 2022-11-18 | 2023-02-11 |
 | [Reflections](https://open.spotify.com/track/0GzHUkTNasub4Fa7H0c5ra) | [Daniel Maunick](https://open.spotify.com/artist/24tH5vLTkmexb4EK15qWfz) | [Persistence](https://open.spotify.com/album/4mZWUBcbH5QXU7sPqvua14) | 1:58 | 2022-04-08 | 2022-06-03 |

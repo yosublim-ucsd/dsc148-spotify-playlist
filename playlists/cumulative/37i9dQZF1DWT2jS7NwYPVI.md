@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: julie
 
-1,836 songs - 4 day 0 hr 35 min
+1,837 songs - 4 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -866,6 +866,7 @@
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-02-04 | 2022-03-18 |
 | [Kaden's Van](https://open.spotify.com/track/6xYUqjuiCUX5ZX6V7EKfSw) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Kaden's Van](https://open.spotify.com/album/3GKk6TY6hsUXHzyXrtfvgH) | 2:37 | 2023-02-03 | 2023-03-18 |
 | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/album/7sRIz0hKDDtZCzVNZmneuC) | 2:20 | 2023-03-31 | 2023-04-15 |
+| [Karaoke](https://open.spotify.com/track/7keNZhvY8vbs3AyqDewmjj) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Karaoke](https://open.spotify.com/album/7FfYlliKoC99WzeDwyIbqn) | 3:20 | 2023-10-02 |  |
 | [Keep It Buried](https://open.spotify.com/track/11G2LLH4uKTLVgDTsHTvCm) | [Sam Jr.](https://open.spotify.com/artist/70i6mCDJ5pvhYoJThIi4lO) | [Keep It Buried](https://open.spotify.com/album/169QLR0vEStVt1QXNO6pe5) | 5:07 | 2022-01-14 | 2022-03-18 |
 | [Keep It Rolling](https://open.spotify.com/track/6tYin3Nya3wS8F48TueJUJ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Keep It Rolling](https://open.spotify.com/album/2YIfWZjgVJWrrSTZJot3Mp) | 2:50 | 2023-06-02 | 2023-07-01 |
 | [Keep Me Up All Night](https://open.spotify.com/track/0mFiMf9DFfiIzAi2E5nk1d) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Keep Me Up All Night](https://open.spotify.com/album/5UGljbXNsZiZ8tDmMIaWdB) | 3:37 | 2021-12-03 | 2022-01-22 |

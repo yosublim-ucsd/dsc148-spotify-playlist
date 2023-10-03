@@ -4,7 +4,7 @@
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-50 songs - 2 hr 21 min
+51 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [J'ai trop la honte](https://open.spotify.com/track/2rWVBC9PyK87FScIXkVfWj) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:15 | 2023-08-08 |  |
 | [Je boude](https://open.spotify.com/track/6Kpdx6vswRIR8C0M9ccYo2) | [Sarah Donna](https://open.spotify.com/artist/3FLl0HVVuKbEZZytvxBOZx) | [Les arcs\-en\-ciel](https://open.spotify.com/album/2ifcwNKrmNqelFXwC2cF4b) | 2:16 | 2023-08-08 |  |
 | [Je suis content](https://open.spotify.com/track/76Kng3M8uChs6RVq05l5v0) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:41 | 2023-08-08 |  |
-| [Jour après jour](https://open.spotify.com/track/2mrztXHhKdZakOGkVYyRmf) | [Anne Darban](https://open.spotify.com/artist/5aCcmpcfPDJJMVoWBh4xQI) | [Gardiens de la forêt](https://open.spotify.com/album/1vh5w8QO5wZIrKgBMWGu4D) | 2:24 | 2023-08-08 |  |
+| [Jour après jour](https://open.spotify.com/track/2mrztXHhKdZakOGkVYyRmf) | [Anne Darban](https://open.spotify.com/artist/5aCcmpcfPDJJMVoWBh4xQI) | [Gardiens de la forêt](https://open.spotify.com/album/1vh5w8QO5wZIrKgBMWGu4D) | 2:24 | 2023-08-08 | 2023-10-03 |
 | [L'arnaque](https://open.spotify.com/track/7gIFfEThnRAIkXUU1uPqCz) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:56 | 2023-08-08 |  |
 | [La journée des bisous](https://open.spotify.com/track/2jdi2xNuC8lSFQ7CM89ROa) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, Vol\. 3](https://open.spotify.com/album/0F9PNnmf8ZTNXzBZATF5z6) | 1:25 | 2023-08-08 |  |
 | [La révolution des doudous](https://open.spotify.com/track/51i15bMvzYVhqF0jIGsB9M) | [Rit qui qui](https://open.spotify.com/artist/75RS6CioQFfsuQ4fkv1hHZ) | [Les vacances, zones a,b,c et la Corse aussi et les Dom\-Tom etc.](https://open.spotify.com/album/3B4Tjf9PWob95nPYjd7FkN) | 3:12 | 2023-08-08 |  |
@@ -56,6 +56,7 @@
 | [Thomas Pesquet](https://open.spotify.com/track/50YeLRN6WuokVA4am51idF) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [Demain](https://open.spotify.com/album/0buU8ofbPSLAUHWd73Gdrn) | 4:28 | 2023-08-08 |  |
 | [Toujours là pour toi](https://open.spotify.com/track/0gJ1YOvvD5OIF8uG5G3Q7M) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [Demain](https://open.spotify.com/album/0buU8ofbPSLAUHWd73Gdrn) | 3:30 | 2023-08-08 |  |
 | [Tout simplement](https://open.spotify.com/track/0PBk93EyJBctNlOTV7DZ2R) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:00 | 2023-08-08 |  |
+| [Un jour je sortirai du nid](https://open.spotify.com/track/1r9igavodLhMg9ishLJvIc) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, Vol\. 3](https://open.spotify.com/album/0F9PNnmf8ZTNXzBZATF5z6) | 1:46 | 2023-08-08 |  |
 | [Une colombe](https://open.spotify.com/track/5vVAWiCQWmdwMBpO3nkOCQ) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h), [L'école des fables](https://open.spotify.com/artist/6VqB8qao04IRzpAn8U8sLf) | [Une colombe](https://open.spotify.com/album/392eSZskLbb3cUW5ybv6ls) | 3:26 | 2023-08-08 |  |
 | [Une petite plume](https://open.spotify.com/track/3Gw3S9cYcRDREwTB92dzcp) | [Steve Waring](https://open.spotify.com/artist/5iVY7nE6VJGAnwNkseXhGg), [Alice Waring](https://open.spotify.com/artist/17tO4qjjnXSGNyLibLh0hV) | [Une petite plume](https://open.spotify.com/album/3GaZBE7p1MuNQTnfgwtwdy) | 1:57 | 2023-08-08 |  |
 

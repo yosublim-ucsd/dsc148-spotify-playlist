@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1793909,
+  "num_followers": 1793980,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjFmNzFkZmIxOGIyOGZjNzY2NWFkZjA4NWE1YjlkYzlkZTc3ZDli",
+  "snapshot_id": "MCwyYzBkMTBmNDE4MzI5OWVjMjBlN2U3YzU0ZjY4OTNhZmNiMTQwMzQy",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Evermore",
-        "url": "https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 223846,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Pink Strat",
         "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 155240,
       "name": "Whole Wide World",
       "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Evermore",
+        "url": "https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 223846,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 361013,
+      "name": "We'll Make It Through",
+      "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Flight of the Crow",
         "url": "https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 182293,
       "name": "The One You Love",
       "url": "https://open.spotify.com/track/6EfXf9OhZ64J6D3ssVCTon"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "We'll Make It Through",
-      "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Tiger Striped Sky",
-        "url": "https://open.spotify.com/album/12AP94kXbpnXg6Zk8DmB0s"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 264986,
-      "name": "Land Of The Living",
-      "url": "https://open.spotify.com/track/34f6sZPLPVsGwgBOrW3iLu"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "We Don't Eat EP",
         "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 180419,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Tiger Striped Sky",
+        "url": "https://open.spotify.com/album/12AP94kXbpnXg6Zk8DmB0s"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 264986,
+      "name": "Land Of The Living",
+      "url": "https://open.spotify.com/track/34f6sZPLPVsGwgBOrW3iLu"
     },
     {
       "added_at": "2023-09-22 04:00:00",

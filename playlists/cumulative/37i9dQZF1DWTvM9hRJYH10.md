@@ -2,9 +2,9 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters\. Cover: MaRynn Taylor
+> Music from Nashville's emerging Singers and Songwriters\. Cover: Alexandra Kay
 
-303 songs - 16 hr 2 min
+304 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Second Guessing](https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ) | [Second Guessing](https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD) | 3:09 | 2023-01-13 |  |
 | [Secret](https://open.spotify.com/track/5ZOy8RnkCaTRFAhLxJDBql) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Secret](https://open.spotify.com/album/40cTaPb1jF6KiiykwR0fEO) | 2:46 | 2021-12-31 |  |
 | [She Broke My Heart](https://open.spotify.com/track/5lyyBTTdB9tlNKvni9VwvZ) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx) | [She Broke My Heart](https://open.spotify.com/album/2FP7BFxp5nnCf8dkkvTJ2k) | 3:00 | 2021-12-31 | 2022-02-12 |
+| [She Stayed](https://open.spotify.com/track/578BYrM7Wi8ahpo0aF3XJ7) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [She Stayed](https://open.spotify.com/album/2MnUamrNb5FpJUcwUdvtyF) | 3:15 | 2023-10-02 |  |
 | [She's a Fire](https://open.spotify.com/track/6DUl9xe5xmSJsqu1XdyiJs) | [JT Harker](https://open.spotify.com/artist/32uxYRmt38L7lp9VyAn3bJ) | [She's a Fire](https://open.spotify.com/album/7sytcojuGjBcPv8C7AN7md) | 3:14 | 2021-12-31 | 2023-01-14 |
 | [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 | 2023-06-30 |  |
 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-31 |  |

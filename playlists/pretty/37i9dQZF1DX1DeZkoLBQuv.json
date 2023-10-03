@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 5945,
+  "num_followers": 5943,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODBiNWUyZjc5ZDczMWU5Y2YzYmQzMzQ4M2UwY2VkZjc4MDIzY2Yy",
+  "snapshot_id": "MCwyMjc4YzFiOGVmYjc1MDJjYzAyMzRlN2E5NDk0YmFmMjNlZDI3MDA1",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -875,18 +875,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+        "name": "Nasceu o Redentor",
+        "url": "https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW"
       },
       "artists": [
         {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
         }
       ],
-      "duration_ms": 267911,
-      "name": "O Melhor Presente",
-      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
+      "duration_ms": 324820,
+      "name": "\u00c9 meia-noite (\u00d3, Noite Santa)",
+      "url": "https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE"
     }
   ],
   "unique_name": "Louvores de Natal",

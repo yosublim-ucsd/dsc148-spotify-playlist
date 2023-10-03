@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > Mentissa au top des 50 hits de variété française du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 969,173 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 969,234 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 49 | [La symphonie des éclairs \- Edit](https://open.spotify.com/track/2qgS51uMu0cAjZOI9PVoTN) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:58 |
 | 50 | [Je veux, je veux, je veux](https://open.spotify.com/track/1O1BFGmTnnRX5L6FAQeMyI) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Je veux, je veux, je veux](https://open.spotify.com/album/2Vm3JlbhgYPWjD6wsOgwlS) | 2:52 |
 
-Snapshot ID: `MCxiZjc2NWRiMGRiMzJmMTM1MmNjYzJhMWY5YjNlNjYwMDU5NTYyYTZh`
+Snapshot ID: `MCxmZWM1MzEwYzQ0M2UyYzg0MDMyMjA0ODlkODA2ZTA5OTM0YjUyN2Yy`

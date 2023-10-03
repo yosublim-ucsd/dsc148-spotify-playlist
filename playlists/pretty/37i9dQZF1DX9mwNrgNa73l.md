@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,865 likes - 90 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,930 likes - 90 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 2 | [Maula Mere Maula](https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 6:04 |
 | 3 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 |
 | 4 | [Ishq Sufiyana \(Male\)](https://open.spotify.com/track/5zcfnScTSFGCHGY1yeXWke) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [The Dirty Picture](https://open.spotify.com/album/2u6skpG85FhJuV5AGvvSAO) | 5:25 |
-| 5 | [Saiyyan](https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa Jhoomo Re](https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5) | 5:43 |
+| 5 | [Saiyyan](https://open.spotify.com/track/2vR23BjIzpLMtzsyKrM6Mb) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Jhoomo Re](https://open.spotify.com/album/1DzYor2sqKFs4Z6qcUl0V5) | 5:43 |
 | 6 | [Sik Mitraan \(From 'Zindagi Tamasha' Original Motion Picture Soundtrack\)](https://open.spotify.com/track/10cZhkUkDILHNLO4FZDRXZ) | [Saakin](https://open.spotify.com/artist/0HKHFik8L0gLia4fKMhxjk) | [Sik Mitraan \(From 'Zindagi Tamasha' Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NlT6ChhzYX0IsiPPZNpgu) | 4:35 |
 | 7 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 |
 | 8 | [Kun Faya Kun](https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 7:50 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 89 | [Sakal Ban](https://open.spotify.com/track/4Fd7FkdzHIJv781MXnv0lY) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:46 |
 | 90 | [Naukar Shah Da](https://open.spotify.com/track/4GypRqhNPkKNMn7DtE2suY) | [Kashmir Beats](https://open.spotify.com/artist/4J7oYZcQA6hAVCRVTh9GmY), [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Kashmir Beats \- Season 2](https://open.spotify.com/album/0R83g1T6jwC4AoK0E7ZKVi) | 4:13 |
 
-Snapshot ID: `MCw5YWY5NWQ1MDNkYjYzM2E3ZGUyMGFlZWIxYWI3MTE4Nzg0YzQ4YzVh`
+Snapshot ID: `MCwzNGE5MmYwYjQ0NWMyMDk0ZTUxZDljYjAzYzAxODVhYTkwYjg0ZTkz`

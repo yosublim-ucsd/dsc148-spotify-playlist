@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 203449,
       "name": "Familiar, Stranger",
       "url": "https://open.spotify.com/track/1YnnKIJelotn9b2AgZTIsr"
@@ -3266,7 +3266,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 159264,
       "name": "good cry",
       "url": "https://open.spotify.com/track/3tuuvlzu72PRKCb9IxFXst"
@@ -3612,7 +3612,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 226875,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2yZSsN495ulgwWIfMNNCak"
@@ -3742,6 +3742,24 @@
       "duration_ms": 214386,
       "name": "Hit Me",
       "url": "https://open.spotify.com/track/1gQvCj827ik994QJD7QBR0"
+    },
+    {
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/5E3r4tSXMUfjIBF4hACZdE"
+      },
+      "artists": [
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251874,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/07AqhMM9tdeNLFqW3PP6ZQ"
     },
     {
       "album": {
@@ -4652,7 +4670,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 213000,
       "name": "In Case We Do",
       "url": "https://open.spotify.com/track/09QTRi6vezvDkSKYzVVvXi"
@@ -4782,6 +4800,24 @@
       "duration_ms": 202735,
       "name": "internet crush",
       "url": "https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY"
+    },
+    {
+      "album": {
+        "name": "Internet Depression",
+        "url": "https://open.spotify.com/album/4VKiuO1ZBshqHCDM8jdSRz"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Internet Depression",
+      "url": "https://open.spotify.com/track/7Ip2peCSGQ3sb8KeHBBhpu"
     },
     {
       "album": {
@@ -6157,6 +6193,24 @@
     },
     {
       "album": {
+        "name": "Sorry I\u2019m Late",
+        "url": "https://open.spotify.com/album/3WZfVdlY9ft0aRSsbiYSsa"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117440,
+      "name": "MTJL (Maybe That\u2019s Just Life)",
+      "url": "https://open.spotify.com/track/2qJnJnEGf6qTvyAaYo4W1z"
+    },
+    {
+      "album": {
         "name": "Playing the Part of You Is Me",
         "url": "https://open.spotify.com/album/6Y7ACEx2zgk0c66f9iqrUG"
       },
@@ -6244,6 +6298,24 @@
       "duration_ms": 164520,
       "name": "navigate",
       "url": "https://open.spotify.com/track/4ytzZVHfOzlG0lNxNO1tik"
+    },
+    {
+      "album": {
+        "name": "Necklace",
+        "url": "https://open.spotify.com/album/1YaEANXHSIKzuHEcClw2eY"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211821,
+      "name": "Necklace",
+      "url": "https://open.spotify.com/track/2uW2mr7xyFXwxG0cHNq87B"
     },
     {
       "album": {
@@ -6534,6 +6606,24 @@
       "duration_ms": 185173,
       "name": "novembre",
       "url": "https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/3CVXQldA5bDDtsBomUjfZE"
+      },
+      "artists": [
+        {
+          "name": "Jake Hope",
+          "url": "https://open.spotify.com/artist/44PkBtAQLIQ45IDNop6d78"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/0NPhru0eI9yDJA7YUCxvrr"
     },
     {
       "album": {
@@ -6927,6 +7017,24 @@
     },
     {
       "album": {
+        "name": "The Ride: Part 2",
+        "url": "https://open.spotify.com/album/3GD05St31XOYQZ0Hboop4T"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154335,
+      "name": "Party For Two",
+      "url": "https://open.spotify.com/track/3fYmOVujWs11kmEO5SWpQ8"
+    },
+    {
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/3r8dj1ruZN0PGP7dFjZhfo"
       },
@@ -7158,7 +7266,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 202167,
       "name": "Pride",
       "url": "https://open.spotify.com/track/4IGfjCoUAqHbBr6iuURNOi"
@@ -7194,7 +7302,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 216737,
       "name": "Quiet Love",
       "url": "https://open.spotify.com/track/6M2SS7708p1TEMeLp9wd1Q"
@@ -7530,7 +7638,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 157413,
       "name": "Running Shoes",
       "url": "https://open.spotify.com/track/4dhSIvsDPCYm0ExPm0nogb"
@@ -8613,6 +8721,28 @@
     },
     {
       "album": {
+        "name": "Sweet Symphony (Living Proof Version)",
+        "url": "https://open.spotify.com/album/6Hn7kX63d5uEm7mn0ZSCGH"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225660,
+      "name": "Sweet Symphony (feat. Chris Stapleton) - Living Proof Version",
+      "url": "https://open.spotify.com/track/1KNre6pPRHOLQyjiBLgGmX"
+    },
+    {
+      "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
       },
@@ -9285,6 +9415,24 @@
     },
     {
       "album": {
+        "name": "Trust Me Mate",
+        "url": "https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178408,
+      "name": "Trust Me Mate",
+      "url": "https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7"
+    },
+    {
+      "album": {
         "name": "Turn Me On",
         "url": "https://open.spotify.com/album/5TDOOKTEomL8yMepC5o9Ic"
       },
@@ -9872,7 +10020,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 218000,
       "name": "What Would I Do",
       "url": "https://open.spotify.com/track/1RrabyUjBvFskz5PlIfKfP"

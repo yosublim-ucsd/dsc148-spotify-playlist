@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-739 songs - 1 day 18 hr 3 min
+740 songs - 1 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2021-06-02 |  |
 | [Lust](https://open.spotify.com/track/0j4qFTe4enF6QzswnwSl4D) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Lust](https://open.spotify.com/album/2xSxL6nXIl9RgxhGhnhVUm) | 2:09 | 2023-01-06 |  |
 | [Luz de Noche](https://open.spotify.com/track/6vUNJkirCjWnnLyA6pE1o5) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Luz de Noche](https://open.spotify.com/album/6V960Lf98JH8H46LCq0KrT) | 3:34 | 2023-02-10 |  |
+| [L’avion](https://open.spotify.com/track/1TZ3xS8JjAPbvYe5BqIqhW) | [Palombi](https://open.spotify.com/artist/7jY1E7URIXvA0gmnuE2m2k) | [L’avion](https://open.spotify.com/album/1VD6PTvEFHDks4Z6dkZTlk) | 2:35 | 2023-10-02 |  |
 | [Maddox](https://open.spotify.com/track/2sux9kaOsisxDJW6pWKmZw) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Maddox](https://open.spotify.com/album/2XutPFVkCnENyQGz32Mvl2) | 3:05 | 2022-01-21 | 2022-04-06 |
 | [magenta](https://open.spotify.com/track/1zwI0N6UzSBzRP4Q7YApsx) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [magenta](https://open.spotify.com/album/4HO9IaPmZRDwhrj608YTYr) | 3:07 | 2022-09-02 |  |
 | [Magic Island](https://open.spotify.com/track/62yKRARApFEWm5uvSOK0oH) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Magic Island](https://open.spotify.com/album/5mGr8IY17cQFas7lHxxFv2) | 2:17 | 2021-04-21 | 2021-09-09 |

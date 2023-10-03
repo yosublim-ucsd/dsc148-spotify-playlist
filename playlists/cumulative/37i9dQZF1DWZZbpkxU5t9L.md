@@ -4,7 +4,7 @@
 
 > いま話題の曲を週末にまとめてチェック。Cover: Vaundy
 
-1,113 songs - 2 day 17 hr 29 min
+1,114 songs - 2 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-18 | 2023-09-02 |
 | [Love Me Like This](https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:08 | 2023-03-31 | 2023-04-09 |
 | [LOVE RED](https://open.spotify.com/track/3bz0cr2GpD5i1GSsrydFLe) | [WOLF HOWL HARMONY](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [LOVE RED](https://open.spotify.com/album/4NK9eTDYlI29BZpH3wsFow) | 3:08 | 2023-02-10 | 2023-03-04 |
+| [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 | 2023-10-02 |  |
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-08-11 | 2023-08-19 |
 | [Lovesong](https://open.spotify.com/track/2bikAEfH4KqwcKGNvOO9Oz) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Lovesong](https://open.spotify.com/album/3d7M1pICrlyBQgEuVL7owA) | 3:50 | 2023-02-10 | 2023-02-25 |
 | [Lovey\-Dovey \- feat\. ALEXXX](https://open.spotify.com/track/57vvBiUfZgfwFXx3EZEHK5) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs), [Alexxx](https://open.spotify.com/artist/3UnufWjMoVfmEZkPOEVttf) | [Lovey\-Dovey \(feat\. ALEXXX\)](https://open.spotify.com/album/6wYV21bjJniAOz8GRUvlpS) | 3:16 | 2023-02-24 | 2023-03-04 |

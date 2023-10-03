@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-307 songs - 18 hr 55 min
+308 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Big Tent Revival](https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Big Tent Revival](https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro) | 3:38 | 2022-08-26 | 2022-10-02 |
 | [Bigger Table](https://open.spotify.com/track/76LbmiM3FBV5mGMB7GXrPw) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Bigger Table](https://open.spotify.com/album/0NAx57507JN5OrI7NE5hSH) | 3:54 | 2022-08-26 | 2022-10-02 |
 | [Bloodlines](https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Bloodlines](https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz) | 3:53 | 2022-02-25 | 2022-05-29 |
-| [Bloom](https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Bloom](https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG) | 3:06 | 2022-08-26 |  |
+| [Bloom](https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Bloom](https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG) | 3:06 | 2022-08-26 | 2023-10-03 |
 | [Breath of God \(Speak Peace\)](https://open.spotify.com/track/1HfvEglRq78H8Dk8pYkbGf) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Breath of God \(Speak Peace\)](https://open.spotify.com/album/70w1qIARKCquK1VcSHCy8m) | 3:39 | 2022-02-25 | 2022-04-23 |
 | [Breathe Again](https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz) | [Our Future Glory](https://open.spotify.com/artist/455WReaTbCB1fEjWrV29x4), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [The Found](https://open.spotify.com/artist/0JpPD5tGtaQ6nPzzGqEG9u) | [Breathe Again](https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz) | 3:42 | 2022-02-25 | 2022-10-10 |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2022-04-29 |  |
@@ -50,6 +50,7 @@
 | [Desert Road](https://open.spotify.com/track/5fomExVZhfTmfwPQCBG5GQ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 3:38 | 2022-02-25 | 2022-08-27 |
 | [Digital Death](https://open.spotify.com/track/66Y2qVIDNRfNypqUSlX57Q) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Onward & Upward](https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi) | 4:50 | 2022-02-25 | 2022-03-06 |
 | [Don't Lose Heart](https://open.spotify.com/track/5ixUmWYbX1AVgt3SAjAc9T) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Don't Lose Heart](https://open.spotify.com/album/1ZrDYpIj4mqKiL1ZYx8zP2) | 3:31 | 2022-07-08 |  |
+| [Easy To Praise](https://open.spotify.com/track/31qTmjToXtN5jh0zyo7GtZ) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Wild Faith](https://open.spotify.com/album/1ybHQRHlfblO0BVyidcv7T) | 3:28 | 2023-03-10 |  |
 | [Easy To Praise](https://open.spotify.com/track/6Sc4wQtKhcWdTLNjqlVgur) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Easy To Praise](https://open.spotify.com/album/1wk7GREA9OrScHj3wEB2i8) | 3:28 | 2023-03-10 | 2023-09-17 |
 | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN) | 4:35 | 2022-10-01 |  |
 | [Empty](https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Empty](https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E) | 4:01 | 2022-04-22 | 2022-06-11 |

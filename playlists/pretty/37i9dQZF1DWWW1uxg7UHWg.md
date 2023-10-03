@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW1uxg7UHWg.md) - [plain]
 
 > House Music meets New School Tech with hailed DJ and producer <a href="spotify:artist:4q0N3EI67tVnAeeaXbNQIj">J\. Worra</a>, who delivers an outstanding mix that will sure make you dance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,363 likes - 16 songs - 59 min 2 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,369 likes - 16 songs - 59 min 2 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW1uxg7UHWg.md) - [plain]
 | 15 | [Love Boy \- Mixed](https://open.spotify.com/track/397pRXmx3TTWk9WDjD6On5) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Love Boy \(Mixed\)](https://open.spotify.com/album/2xGFg3rO7xnE7M5AiWJgn5) | 4:41 |
 | 16 | [Now Ya Know \- Mixed](https://open.spotify.com/track/28zYwWLFUR6pMrXt7SyPu4) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Now Ya Know \(Mixed\)](https://open.spotify.com/album/2KMav2drUBVUuVAnICNMzQ) | 4:19 |
 
-Snapshot ID: `MCw5ZjEyOWY4NDQ4OGNmYTg2ZDExZmZiNTFiNDBhZDQxYjRlNWU4OGJk`
+Snapshot ID: `MCw5YTU0ZTUzMTdmOTY4YjJkM2JiYThmYzliZTQzOWJjMWQ0NmYxZWZl`

@@ -3631,24 +3631,6 @@
     },
     {
       "album": {
-        "name": "Boggie de la Serpiente",
-        "url": "https://open.spotify.com/album/2HAsIMIr5yNnLTim2PgXFe"
-      },
-      "artists": [
-        {
-          "name": "Caras Extra\u00f1as",
-          "url": "https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP"
-        }
-      ],
-      "date_added": "2023-09-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169519,
-      "name": "Boggie de la Serpiente",
-      "url": "https://open.spotify.com/track/6VWMBkto0U4XYmmgguXyuV"
-    },
-    {
-      "album": {
         "name": "Bomba At\u00f3mica",
         "url": "https://open.spotify.com/album/4JKcVDccHH7GXZpIVRQgGl"
       },
@@ -3700,6 +3682,24 @@
       "duration_ms": 223502,
       "name": "Bonzo",
       "url": "https://open.spotify.com/track/6xLNAU5BHGakPZBsbZH6as"
+    },
+    {
+      "album": {
+        "name": "Boogie de la Serpiente",
+        "url": "https://open.spotify.com/album/2HAsIMIr5yNnLTim2PgXFe"
+      },
+      "artists": [
+        {
+          "name": "Caras Extra\u00f1as",
+          "url": "https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169519,
+      "name": "Boogie de la Serpiente",
+      "url": "https://open.spotify.com/track/6VWMBkto0U4XYmmgguXyuV"
     },
     {
       "album": {

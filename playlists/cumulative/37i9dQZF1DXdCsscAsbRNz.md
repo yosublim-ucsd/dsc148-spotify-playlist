@@ -4,7 +4,7 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-341 songs - 16 hr 15 min
+342 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Silent Chasing](https://open.spotify.com/track/2eAFdBx9GLn5znptv7dsre) | [Zero Mileage](https://open.spotify.com/artist/6Ighdl27ZYCe5lkwr4nd0a) | [Silent Chasing](https://open.spotify.com/album/3xjmbGkWg2FblxyPNvKo3P) | 3:37 | 2020-10-20\* |  |
 | [Silent Letters](https://open.spotify.com/track/40ZGccjoBDUGXl4SgpOg26) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [A Faint Glow](https://open.spotify.com/album/30TcC7T5LeKk0GxjMczPKq) | 4:53 | 2020-10-20\* | 2022-07-29 |
 | [Silent Letters](https://open.spotify.com/track/4mrB2zwXxcmBrwYXtDgolT) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [A Faint Glow](https://open.spotify.com/album/2kBElBqMvuBIGdTbi0j2Lj) | 4:53 | 2022-07-22 |  |
+| [Silent Oasis](https://open.spotify.com/track/5uh4tnhWFUxiqOpYNr1IuY) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [Silent Oasis](https://open.spotify.com/album/0N8t1xsIMOpjK4JNs2JByA) | 2:52 | 2023-10-02 |  |
 | [Simplicity](https://open.spotify.com/track/1BYHA0Mfycu07N6t8lQnpW) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [The Gift](https://open.spotify.com/album/6vuNm2mA7rmAuiFC8Sj9pU) | 3:39 | 2020-10-20\* |  |
 | [Sintra \- Ambient Mix](https://open.spotify.com/track/6Jvp6beybIW9umUJkjkWXV) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 | 2020-10-20\* |  |
 | [Sleep Under The Stars](https://open.spotify.com/track/5SphLwiaAIfqGvgy2jBUIb) | [The Boy And The String Machine](https://open.spotify.com/artist/6vCDShB6lc6Ew6geXGjVNS) | [Sleep Under The Stars](https://open.spotify.com/album/2vilvq8rCXcEETrH8JeoXT) | 3:01 | 2020-10-20\* |  |

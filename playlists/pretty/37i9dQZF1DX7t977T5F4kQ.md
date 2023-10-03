@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB?si=twrHoistSyCXR\_vEqpoapg"> D\-Black</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,768 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,785 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [I Don't Care](https://open.spotify.com/track/2FU37MmVlpgnHaP6TCm3W0) | [Kixx Alphah](https://open.spotify.com/artist/4QETJXRJe1ngdzifCC9D4a), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [I Don't Care](https://open.spotify.com/album/1HqSh0DlOiG2Sn9i5Hgdj2) | 3:01 |
 | 80 | [Aluta](https://open.spotify.com/track/42zyObr3pHrqizANcRdSQK) | [OV](https://open.spotify.com/artist/6m4OztP0eEgXadXD9biIN0) | [Aluta](https://open.spotify.com/album/5AGGhnDzlCCPjq74uDfZ4t) | 3:04 |
 
-Snapshot ID: `MCxiMDNlNWY1YjJiMmYzZGRjMzNlY2U3NjZhMjFhODQ0NDJmNzRjNzU3`
+Snapshot ID: `MCw3OWNhZDEyMWE1ZmE2NTZkNDFlYzAzOTllM2M5ODZhNzgyNzZmYTZm`

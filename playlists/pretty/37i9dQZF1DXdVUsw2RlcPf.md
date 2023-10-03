@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVUsw2RlcPf.md) - [plain]
 
 > Are you ready to listen JK's songs for 7 DAYS?
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,935 likes - 38 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,205 likes - 38 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVUsw2RlcPf.md) - [plain]
 | 13 | [Euphoria](https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:48 |
 | 14 | [To ARMY](https://open.spotify.com/track/4Ma6JJXdhZhE53DHBoufSa) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [This Is Jung Kook audio liners](https://open.spotify.com/album/6zL1a94dCnXQ6xHiaKZF0W) | 0:57 |
 | 15 | [3D \(feat\. Jack Harlow\) \(Instrumental\)](https://open.spotify.com/track/02U9EixxU2Znl6ilsr9mrv) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:19 |
-| 16 | [3D \(feat\. Jack Harlow\) \(Alternate Ver.\)](https://open.spotify.com/track/2pLZ6tUBapqlngc9lnYz4M) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 2:42 |
+| 16 | [3D \(Alternate Ver.\)](https://open.spotify.com/track/2pLZ6tUBapqlngc9lnYz4M) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 2:42 |
 | 17 | [Seven \(feat\. Latto\) \(Clean Ver.\)](https://open.spotify.com/track/5Avril3IZ26DPVFHbJX8o6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 18 | [Seven \(feat\. Latto\) \(Clean Ver.\)](https://open.spotify.com/track/4yk9mD1iZpUg2HE3z9HhdP) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(Weekend Ver.\)](https://open.spotify.com/album/6fJthISWarQBICiU2wncp6) | 3:04 |
 | 19 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/39mR7R6oZOa1K9deHnOKqE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(Weekend Ver.\)](https://open.spotify.com/album/6fJthISWarQBICiU2wncp6) | 3:04 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVUsw2RlcPf.md) - [plain]
 | 37 | [Left and Right \(feat\. Jung Kook of BTS\) \- Instrumental](https://open.spotify.com/track/3QRJgF8HY4zEuboEy4Q1gd) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(feat\. Jung Kook of BTS\) \[Instrumental\]](https://open.spotify.com/album/3wDWcowIrrWgpRmo2ZvFup) | 2:32 |
 | 38 | [Bye from Jung Kook](https://open.spotify.com/track/3sKpXrIdtKtgnzYTZ7jFGS) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [This Is Jung Kook audio liners](https://open.spotify.com/album/6zL1a94dCnXQ6xHiaKZF0W) | 0:10 |
 
-Snapshot ID: `MCwwOTkxNzAwZmI2MjUwZDFlNjZhYjEwODAxNGRmNTE2ZDE2Yjk0YjFi`
+Snapshot ID: `MCwwMzYyMDJhODgzZmM1YzI3MTkxNTIwOWFkNzJmZGI1Yjk3OTIyNjYy`

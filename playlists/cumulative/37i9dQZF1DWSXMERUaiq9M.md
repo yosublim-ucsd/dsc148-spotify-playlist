@@ -4,7 +4,7 @@
 
 > love peace techno
 
-162 songs - 11 hr 20 min
+163 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Day 'N' Night](https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Day 'N' Night](https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0) | 3:20 | 2023-08-10 |  |
 | [Deine Angst](https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Deine Angst](https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5) | 5:21 | 2023-03-10 | 2023-08-11 |
 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 | 2023-03-10 |  |
-| [Discotheque](https://open.spotify.com/track/1ihvzrR9IdapgBsabTbUdE) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Discotheque](https://open.spotify.com/album/3lnb8ijMj7IaGHsLXVwQ6I) | 3:02 | 2023-09-29 |  |
+| [Discotheque](https://open.spotify.com/track/1ihvzrR9IdapgBsabTbUdE) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Discotheque](https://open.spotify.com/album/3lnb8ijMj7IaGHsLXVwQ6I) | 3:02 | 2023-09-29 | 2023-10-03 |
 | [DJ in Berlin \(P.Vanillaboy Edit\)](https://open.spotify.com/track/70W4ZdVWdPfDvOwAy9s1kv) | [3LNA](https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP), [P.Vanillaboy](https://open.spotify.com/artist/6no5okBU3PLAhvonZbi21z) | [DJ in Berlin](https://open.spotify.com/album/3oqqu6ebPQBMp4xgITBe3w) | 3:32 | 2023-04-18 | 2023-04-22 |
 | [Do You Love Me?](https://open.spotify.com/track/42Tis1KQQnns2LaAuA0vk5) | [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx) | [Do You Love Me?](https://open.spotify.com/album/61BjICDXiSjQ2Bi8bakMK8) | 4:51 | 2023-03-25 | 2023-04-07 |
 | [Donkers](https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu) | [Gonzi](https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Donkers](https://open.spotify.com/album/06SEttic5htIY70LgIXuQR) | 5:04 | 2023-06-29 |  |
@@ -87,6 +87,7 @@
 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 | 2023-03-10 |  |
 | [Juicy Beat](https://open.spotify.com/track/374NWxnd732Jd0lkEd9IqJ) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [Juicy Beat](https://open.spotify.com/album/3Jq1Vry2U7XTMqmkj6857Q) | 4:32 | 2023-07-07 | 2023-07-14 |
 | [Keine Liebe, Kein Rave](https://open.spotify.com/track/0UkGdrKm6PaVCxTwPzP2xX) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Kiki Solvej](https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW) | [Keine Liebe, Kein Rave](https://open.spotify.com/album/2iL5gzdjVQsTsUI7i8KxDq) | 4:20 | 2023-03-21 | 2023-06-29 |
+| [KETA UND KRAWALL](https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [KETA UND KRAWALL](https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa) | 2:05 | 2023-10-02 |  |
 | [Knife Talk](https://open.spotify.com/track/5zzf3tCyakWfASFtPs2mBl) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Knife Talk](https://open.spotify.com/album/0WYWT38s9EtYYatYZLiNvW) | 2:52 | 2023-03-10 | 2023-04-07 |
 | [Leave it to the vibe](https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 6:58 | 2023-05-18 | 2023-07-14 |
 | [Love & Peace](https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC), [3rd Dale Universe](https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N) | [Love & Peace](https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK) | 6:00 | 2023-03-10 | 2023-06-09 |

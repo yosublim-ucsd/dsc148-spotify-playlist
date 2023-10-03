@@ -10628,7 +10628,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 261236,
       "name": "Nico's Dream",
       "url": "https://open.spotify.com/track/3WpC7BGVmokob8XLVLudsb"
@@ -12414,7 +12414,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 212000,
       "name": "Ruby My Dear",
       "url": "https://open.spotify.com/track/0VWMeGBrCBB5vFsDWAnXCi"
@@ -12504,7 +12504,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 251791,
       "name": "Samantha",
       "url": "https://open.spotify.com/track/2S6rbnyzdnujkpldnjbXcW"
@@ -14066,6 +14066,24 @@
       "duration_ms": 348160,
       "name": "Take it Easy",
       "url": "https://open.spotify.com/track/1OtbM7rrVYpgXnMVkCCAcx"
+    },
+    {
+      "album": {
+        "name": "Take me to Liverpool",
+        "url": "https://open.spotify.com/album/1YFTNcAXtntuZCnMK92OPe"
+      },
+      "artists": [
+        {
+          "name": "Charles Daisey & Friends",
+          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204751,
+      "name": "Take me to Liverpool",
+      "url": "https://open.spotify.com/track/5Df2sfwDdTC266NFO3qfa0"
     },
     {
       "album": {

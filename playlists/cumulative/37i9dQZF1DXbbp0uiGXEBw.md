@@ -2,20 +2,21 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Thu Minh
+> Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Hà Nhi
 
-164 songs - 10 hr 43 min
+167 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24h](https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [24h](https://open.spotify.com/album/4LO3n3uH8Iu6xi09nh2u9i) | 4:17 | 2021-12-07 |  |
 | [906090](https://open.spotify.com/track/0HH3DAz5feqJmDA50yQ52M) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Mew Amazing](https://open.spotify.com/artist/34nom4Ft3keMWBZPAUB3EI) | [906090](https://open.spotify.com/album/20sB19q1UohCToeyAcUNwQ) | 3:28 | 2022-11-01 | 2022-12-01 |
-| [Alive](https://open.spotify.com/track/1U2ookTehUocHpeCyVciDq) | [Thu Minh](https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5), [Thảo Trang](https://open.spotify.com/artist/2maFpa4M8FWKvytGzgLhyl) | [Alive](https://open.spotify.com/album/6ewUD9mQR3PusKaeKmTJQF) | 3:40 | 2023-09-07 |  |
+| [Alive](https://open.spotify.com/track/1U2ookTehUocHpeCyVciDq) | [Thu Minh](https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5), [Thảo Trang](https://open.spotify.com/artist/2maFpa4M8FWKvytGzgLhyl) | [Alive](https://open.spotify.com/album/6ewUD9mQR3PusKaeKmTJQF) | 3:40 | 2023-09-07 | 2023-10-03 |
 | [Anh Chưa Thương Em Đến Vậy Đâu](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tập 12: The Masked Singer Vietnam](https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA) | 4:30 | 2023-01-14 |  |
 | [Anh Ơi Ở Lại](https://open.spotify.com/track/0VBv6oyMgeEBOIysaSV9aE) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi), [Đạt G](https://open.spotify.com/artist/4R3mugkUqCALXgkwSptTbg) | [Anh Ơi Ở Lại](https://open.spotify.com/album/0AvJduRQsFMQojtnsE2SfS) | 4:52 | 2022-09-22 | 2022-12-01 |
 | [Black Hickey \- Con Dấu Chủ Quyền](https://open.spotify.com/track/1Qf8uhmyNubhiGOCcWeDPv) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [Black Hickey \(Con Dấu Chủ Quyền\)](https://open.spotify.com/album/7zSOESWQXSqQeV2ptNXArL) | 3:53 | 2022-09-06 | 2022-09-23 |
 | [Bo Xì Bo](https://open.spotify.com/track/4X2iEvLVDm1Acd8Xmxw1ZC) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 2:52 | 2023-01-14 |  |
 | [BUỒN không thể BUÔNG \(Piano Version\)](https://open.spotify.com/track/0YJ3fxavN7Sms9TlNxWUhf) | [MiiNa](https://open.spotify.com/artist/76nos2JmvLyYGZ28ribrf7) | [BUỒN không thể BUÔNG \(Piano Version\)](https://open.spotify.com/album/1Tsl1MK40xOShJzK6mwXsc) | 4:03 | 2022-09-27 | 2022-12-01 |
+| [Bóng Phù Hoa](https://open.spotify.com/track/3fw9v7CztM2mqu1jCtbg9f) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 4:34 | 2023-10-02 |  |
 | [Bởi Vì Là Khi Yêu](https://open.spotify.com/track/57idtlQlKCv3toIDtx5LaX) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [Bởi Vì Là Khi Yêu](https://open.spotify.com/album/3pAb4r4EzKQNUqjrt8HCoe) | 4:12 | 2021-12-07 |  |
 | [Bởi Vì Yêu](https://open.spotify.com/track/74C7vazAOSPwpVGxx21n5l) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Bởi Vì Yêu](https://open.spotify.com/album/7wgd9XeERTsnRGmBi1hIzU) | 3:26 | 2021-12-07 | 2022-02-02 |
 | [Cho Em Một Lần Yêu](https://open.spotify.com/track/5oQwxJJBwKPGkZliiyv3jQ) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [The Singer](https://open.spotify.com/album/6mqV4lo8LrZhDS3NzjVLP5) | 3:45 | 2022-04-06 | 2022-05-27 |
@@ -102,7 +103,7 @@
 | [Ngày Chưa Giông Bão](https://open.spotify.com/track/7laWkT6uyoMDUXBqhcAN4V) | [Bùi Lan Hương](https://open.spotify.com/artist/2XtMx7EHHODQSeBzDCBec9) | [Ngày Chưa Giông Bão \(Người Bất Tử OST\)](https://open.spotify.com/album/6eYeMsrAOwsbGsdMU3tMZn) | 3:32 | 2021-12-07 | 2022-05-04 |
 | [Người Hãy Quên Em Đi](https://open.spotify.com/track/1rJyVbXb3njXbN3lokllKf) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Tâm 9](https://open.spotify.com/album/3A9rCX2VkZWP6NGnLUnjQq) | 3:52 | 2021-12-07 | 2022-06-01 |
 | [Người Ôm Pháo Hoa](https://open.spotify.com/track/3keyZ8cXkQ57melgiAsJ5m) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Người Ôm Pháo Hoa](https://open.spotify.com/album/46D47ArgMXMIF13u0nFWTk) | 2:59 | 2023-05-02 | 2023-05-05 |
-| [Ngỏ Lời](https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Ngỏ Lời](https://open.spotify.com/album/0h0szlurfJ36hJCI5HtupK) | 3:55 | 2023-06-06 |  |
+| [Ngỏ Lời](https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Ngỏ Lời](https://open.spotify.com/album/0h0szlurfJ36hJCI5HtupK) | 3:55 | 2023-06-06 | 2023-10-03 |
 | [Như Lời Đồn](https://open.spotify.com/track/5aUlYDU9wWSVPRdrbCSPHF) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Như Lời Đồn](https://open.spotify.com/album/1Ljk64JLVQVnV9S0lWqPlZ) | 3:39 | 2022-08-02 | 2022-09-07 |
 | [Nhắm Mắt Thấy Mùa Hè](https://open.spotify.com/track/7KiVghFxUSJjrSQXlb9tdh) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Nhắm Mắt Thấy Mùa Hè \(Nhạc Phim\)](https://open.spotify.com/album/7jozXLciIE8b6eh8yM6UYi) | 4:42 | 2021-12-07 | 2022-05-04 |
 | [Những Chàng Trai Em Từng Yêu](https://open.spotify.com/track/4w2iqC203m2IPEBAlNjHQJ) | [Luna Đào](https://open.spotify.com/artist/77P1juitmNJV2mOz0oMmkB) | [Những Chàng Trai Em Từng Yêu](https://open.spotify.com/album/4dn9Aw2j0TZT81L51B1zha) | 5:50 | 2023-01-03 | 2023-01-14 |
@@ -147,7 +148,8 @@
 | [trời giấu trời mang đi](https://open.spotify.com/track/1ecVks3GJX8U67DvhVDVBn) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 4:13 | 2021-12-07 |  |
 | [Tìm Hành Tinh Khác \- Chill Version](https://open.spotify.com/track/08z0xgKfSQ4f9hfnCSPLHw) | [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Tìm Hành Tinh Khác \(Chill Version\)](https://open.spotify.com/album/4TjnVBXFRxvC4Yea3DDbkW) | 2:28 | 2021-12-07 | 2022-01-05 |
 | [tóc ngắn](https://open.spotify.com/track/2wQwox4OOvt9Mr4PtFjs9F) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Hương Mùa Hè](https://open.spotify.com/album/1w74ARpNNB3ybFNhs4qWmV) | 3:34 | 2022-08-02 | 2022-10-05 |
-| [Từ Khung Cửa Sổ Này](https://open.spotify.com/track/6C1uzaA6dThCNQt89fk4kJ) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Từ Khung Cửa Sổ Này](https://open.spotify.com/album/3MP2DEC3eGwYHvBqmvlrMK) | 3:41 | 2023-07-20 |  |
+| [Từ Khung Cửa Sổ Này](https://open.spotify.com/track/6C1uzaA6dThCNQt89fk4kJ) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Từ Khung Cửa Sổ Này](https://open.spotify.com/album/3MP2DEC3eGwYHvBqmvlrMK) | 3:41 | 2023-07-20 | 2023-10-03 |
+| [từ ngày anh xa \(feat\. Kaisoul\)](https://open.spotify.com/track/4rbLcpLf7cVSIxRnqt4D48) | [Khởi My](https://open.spotify.com/artist/4zRG1PU5uAC6ah9yeuxfFi), [Kaisoul](https://open.spotify.com/artist/1RymY6y1vsyqVIVqBu03ul) | [từ ngày anh xa \(feat\. Kaisoul\)](https://open.spotify.com/album/1bHoASuMZlS4wN7EIbXzZA) | 3:48 | 2023-10-02 |  |
 | [Từng Là Của Nhau](https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Từng Là Của Nhau](https://open.spotify.com/album/59xrACzg1Ip2ellb2JSzCN) | 4:29 | 2022-08-30 | 2022-12-01 |
 | [Tự Sự \- Original Soundtrack from "Qua Bển Làm Chi"](https://open.spotify.com/track/5Fx8zxEEaPMkwzM00JFr3N) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Thuan Nguyen](https://open.spotify.com/artist/0Tz9NpLMEwsdPcBurGdQh4) | [Tự Sự \(Original Soundtrack from "Qua Bển Làm Chi"\)](https://open.spotify.com/album/13x14kY27CueHj9F3OV6Mz) | 4:17 | 2022-05-27 | 2022-07-06 |
 | [vào hạ](https://open.spotify.com/track/6Bh5qRgU4AysQh3Vv2N5Nt) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Hương Mùa Hè EP.01](https://open.spotify.com/album/7Do6GQrbmkYtOjg1S2HRe3) | 3:16 | 2022-08-02 | 2022-12-01 |
@@ -171,6 +173,7 @@
 | [Đông Tây Nam Bắc](https://open.spotify.com/track/0hqCfsV0T1e35k7urmBBHz) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Đông Tây Nam Bắc](https://open.spotify.com/album/5Dt3Lq7yoQ32mOiG3VRyYz) | 6:07 | 2022-10-12 | 2022-12-01 |
 | [Đúng Cũng Thành Sai](https://open.spotify.com/track/33weHbON0j21ZPUMc0ZKTt) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Đúng Cũng Thành Sai](https://open.spotify.com/album/5pB6JpmCb0BhkOc3bZHfxj) | 4:47 | 2021-12-07 | 2022-01-05 |
 | [Đường Về Nhà](https://open.spotify.com/track/41xLRF9wYENxgmTNAd2s4Q) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Đường Về Nhà](https://open.spotify.com/album/2L4kKETYA5sbXVqpk3fpk3) | 4:32 | 2022-10-04 | 2022-11-02 |
+| [Đại Minh Tinh](https://open.spotify.com/track/3g0Dwgd36QRmPecFIoubg4) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Đại Minh Tinh](https://open.spotify.com/album/6IcDGONXu6ib8NA1BVpmwp) | 4:07 | 2023-10-02 |  |
 | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Duy Manh](https://open.spotify.com/artist/0MDeZ8vIkpFX3QkvY0el6B) | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/album/0bRkXFokx3dtwJst6rcLCN) | 3:02 | 2023-03-08 | 2023-05-03 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-558 songs - 1 day 11 hr 12 min
+560 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Grapefruit Diet](https://open.spotify.com/track/2wALasLtHG5IBHxc5Xlj2O) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Grapefruit Diet](https://open.spotify.com/album/1vlo1lL9bs1e6xuGcsob0X) | 2:57 | 2023-05-05 |  |
 | [grip drop](https://open.spotify.com/track/7z1mAqvJYpMhnYUkv8gQqi) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [grip drop](https://open.spotify.com/album/3nugq9vUCI2fwOXCEsGTWO) | 3:19 | 2021-08-25 |  |
 | [Gubei](https://open.spotify.com/track/2QYrwIPguH63XwDKU7Zn4j) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Reijo / Gubei](https://open.spotify.com/album/6891clOMyBDVjdEPRuQelY) | 4:56 | 2021-08-25 | 2023-03-04 |
+| [guidance](https://open.spotify.com/track/0CQ9nsxVPYnPV0AsOnSKFD) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [guidance](https://open.spotify.com/album/3LAbfKYJjzKVbHvnbwp9ih) | 3:22 | 2023-10-02 |  |
 | [Guybrush](https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:57 | 2021-08-25 | 2022-05-20 |
 | [Hands Together](https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn) | [SOL LOS](https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8) | [Hands Together](https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p) | 3:09 | 2022-01-21 | 2023-04-07 |
 | [Heads Up](https://open.spotify.com/track/2FTO3XZkp89p0CgbGYzwZf) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Heads Up](https://open.spotify.com/album/0GBz9hb37EU9qvSJirMXm9) | 2:24 | 2021-08-25 |  |
@@ -429,6 +430,7 @@
 | [Serenity](https://open.spotify.com/track/6BrefcF8TggvpBQwhOeSCT) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Serenity](https://open.spotify.com/album/1u4oOmnTTUjiVhs7FNubgy) | 2:47 | 2021-10-16 |  |
 | [Serenity](https://open.spotify.com/track/41edpTtzGqyMZIm48iotcd) | [Dzhef](https://open.spotify.com/artist/6ULoCtOuU8QQ2sS6r88Mg9) | [Serenity](https://open.spotify.com/album/1nOHA9tdBsx118toY737vM) | 7:08 | 2020-11-13 | 2020-11-28 |
 | [Serpent](https://open.spotify.com/track/21e5TcrNrF04HBcc3dalpB) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Serpent](https://open.spotify.com/album/3dFxy73ajfYdf8CJdIhA8D) | 1:53 | 2021-11-10 | 2023-07-29 |
+| [Seven Miles](https://open.spotify.com/track/3hjDl8XgcaA4HEqu4T4MRg) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Nammásj](https://open.spotify.com/album/1DDGLtvOIoxrVUKVWSDrh4) | 2:56 | 2023-10-02 |  |
 | [Shadows \- Glizzinger Edit](https://open.spotify.com/track/71SMntwtq5ddzffP7RO2po) | [Gary Luton](https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4) | [Shadows \- Glizzinger Edit](https://open.spotify.com/album/17aQXGOQLHfg72KYwOe8yp) | 3:40 | 2021-11-10 | 2022-02-11 |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2021-06-04 |  |
 | [Shine](https://open.spotify.com/track/4tAKd6ouFGZMGcU4CQvtH7) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Shine](https://open.spotify.com/album/5uD45F8wERKOjBswG3fSXY) | 2:46 | 2022-12-09 |  |

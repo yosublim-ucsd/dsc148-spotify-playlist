@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Across the Currents",
+        "url": "https://open.spotify.com/album/1UhCCqxjYG9UmeaQTFYQvz"
+      },
+      "artists": [
+        {
+          "name": "Cai Harrington",
+          "url": "https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123818,
+      "name": "Across the Currents",
+      "url": "https://open.spotify.com/track/3s3XZbyompgwb7NXKKKsH8"
+    },
+    {
+      "album": {
         "name": "Across The Sky",
         "url": "https://open.spotify.com/album/1iAv8ivNItu3mZunJQP9qL"
       },
@@ -636,7 +654,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 156996,
       "name": "Amble",
       "url": "https://open.spotify.com/track/5gvjOIFPr6moYBmWSV7B0V"
@@ -658,6 +676,24 @@
       "duration_ms": 135610,
       "name": "Amiti\u00e9 \u00e9ternelle",
       "url": "https://open.spotify.com/track/7Kcs72BhrZBttmuwt2g77K"
+    },
+    {
+      "album": {
+        "name": "An Inward Stillness",
+        "url": "https://open.spotify.com/album/1DCzbv2wKumot4uzhCFAdW"
+      },
+      "artists": [
+        {
+          "name": "Augustino",
+          "url": "https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162938,
+      "name": "An Inward Stillness",
+      "url": "https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug"
     },
     {
       "album": {
@@ -3009,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Erz\u00e4hlung",
+        "url": "https://open.spotify.com/album/38CElXf2rWdFfn6wGN2Efb"
+      },
+      "artists": [
+        {
+          "name": "Christian Menke",
+          "url": "https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Erz\u00e4hlung",
+      "url": "https://open.spotify.com/track/7KGvAbdvYZEtTOCIWNG205"
+    },
+    {
+      "album": {
         "name": "Eternal Light",
         "url": "https://open.spotify.com/album/0kKtZbnc8mRAEz6VMdhIZg"
       },
@@ -4867,6 +4921,24 @@
     },
     {
       "album": {
+        "name": "In the clouds",
+        "url": "https://open.spotify.com/album/5LXcMPLisz4OwQgaAkuwSD"
+      },
+      "artists": [
+        {
+          "name": "Lydia Barnes",
+          "url": "https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123645,
+      "name": "In the clouds",
+      "url": "https://open.spotify.com/track/3hnm4zvIqFhz6FsWK2O6HM"
+    },
+    {
+      "album": {
         "name": "In The Presence Of Starlight",
         "url": "https://open.spotify.com/album/4lmyXqbmLgTESZMGlm7XXX"
       },
@@ -5044,6 +5116,24 @@
       "duration_ms": 157000,
       "name": "Io e te",
       "url": "https://open.spotify.com/track/08g5AECj6F4Tq6x50Zba2J"
+    },
+    {
+      "album": {
+        "name": "Irenic",
+        "url": "https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177323,
+      "name": "Irenic",
+      "url": "https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR"
     },
     {
       "album": {
@@ -6052,7 +6142,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 127000,
       "name": "Lillian",
       "url": "https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p"
@@ -6506,7 +6596,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 179000,
       "name": "Maybe Next Year",
       "url": "https://open.spotify.com/track/4v3KzDgX0tZtzUnrZEAszB"
@@ -6528,7 +6618,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 120458,
       "name": "Meditation: I. Promise",
       "url": "https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc"
@@ -8084,7 +8174,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 160500,
       "name": "Paragon",
       "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
@@ -11321,6 +11411,24 @@
     },
     {
       "album": {
+        "name": "Travel With Me",
+        "url": "https://open.spotify.com/album/4lZqizzRBVlEhK3RUVYMXq"
+      },
+      "artists": [
+        {
+          "name": "Algot Brooke",
+          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132508,
+      "name": "Travel With Me",
+      "url": "https://open.spotify.com/track/6qM2f0TRcEx21N8cSsxEA8"
+    },
+    {
+      "album": {
         "name": "Trolltunga",
         "url": "https://open.spotify.com/album/0oZEmmhFr2tWnWrLXkXBVv"
       },
@@ -11764,7 +11872,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 127303,
       "name": "Vaikne",
       "url": "https://open.spotify.com/track/0hRVNF5ZBfvbRtHKFQItr4"

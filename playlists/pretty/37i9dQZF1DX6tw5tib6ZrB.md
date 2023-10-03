@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Nasty C, Cardi B & Megan Thee Stallion, Gucci Mane, Lil Durk, Doja Cat and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,380 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,578 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [I Know](https://open.spotify.com/track/40j4RoqmLiivqzRObbQ4BF) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:56 |
 | 50 | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 |
 
-Snapshot ID: `MCwwNWY2MDZjZjgwNjZkNGQ2MjMxNThkYWZiZDEzMTliYjM3MmRiMTk0`
+Snapshot ID: `MCxkYmUyMzk3MjE5N2Q5ZDAxYmRmZmJjYzA0ZDdiMGFlZWJhMTk4MDI5`

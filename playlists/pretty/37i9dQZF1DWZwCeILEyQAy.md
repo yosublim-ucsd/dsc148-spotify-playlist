@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Glorilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,453 likes - 80 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,460 likes - 80 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 8 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
 | 9 | [Phuck It](https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:58 |
 | 10 | [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 |
-| 11 | [Last laugh](https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last laugh](https://open.spotify.com/album/66KkpUCqEUPwxN8tYGSrBX) | 2:55 |
+| 11 | [Last laugh](https://open.spotify.com/track/33vTlWHD9oEQJnK9sYQt2Z) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last laugh](https://open.spotify.com/album/12vWZKcSKJ7rGhxlokqgjD) | 2:55 |
 | 12 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
 | 13 | [Honeykomb Brazy](https://open.spotify.com/track/0K5FnzxxPaYJ6GFRMt9FVb) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [The Pressure Pack](https://open.spotify.com/album/4riQz0IxWVfvQ64I55lvst) | 1:59 |
 | 14 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 79 | [Like Dat \- Remix](https://open.spotify.com/track/5o7gax2i8xXhrJyk2TA5YJ) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Like Dat \(Remix\)](https://open.spotify.com/album/2uElhN7gFctTBwTmESMxcj) | 2:22 |
 | 80 | [Saturday \(feat\. Cozz\)](https://open.spotify.com/track/7lam0WhGxAfl0Ax2wy4hhO) | [NCognita](https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI) | [Saturday \(feat\. Cozz\)](https://open.spotify.com/album/0jd3Es2wqZlmNw67YArtaw) | 2:34 |
 
-Snapshot ID: `MCxiY2M3MzRkZTA3ZGY4YzBmMjY3MTE3OGQ1ZDgxM2ZmZDcwNjE4ZjMz`
+Snapshot ID: `MCw3ZDM3MDQwZTdmNWVmNGUwMGI0ZDUwMWQ4ZTU4NWU1NzA1NWExNjQ5`

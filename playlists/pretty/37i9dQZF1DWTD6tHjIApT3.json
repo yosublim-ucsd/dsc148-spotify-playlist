@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: TOMOO",
-  "num_followers": 102330,
+  "num_followers": 102357,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGUzOTU0Y2QyM2UyMmRjODIyNmYxNmIyYTlkZjdiMGYzYWMyMTdj",
+  "snapshot_id": "MCw1ZjM4MDk0Zjc4YTBkOTgzOGI3ZjIwNDJlOGU3ODM0YjY3OTA5M2Zi",
   "tracks": [
     {
       "added_at": "2023-09-28 15:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-28 15:00:00",
       "album": {
-        "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
-        "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
-      },
-      "artists": [
-        {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
-        }
-      ],
-      "duration_ms": 235814,
-      "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
-    },
-    {
-      "added_at": "2023-09-28 15:00:00",
-      "album": {
         "name": "L7 Blues",
         "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 141974,
       "name": "L7 Blues",
       "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2023-09-28 15:00:00",
+      "album": {
+        "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "duration_ms": 235814,
+      "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
     },
     {
       "added_at": "2023-09-28 15:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-09-28 15:00:00",
       "album": {
+        "name": "\u4e0d\u6cd5\u4fb5\u5165",
+        "url": "https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 260066,
+      "name": "\u4e0d\u6cd5\u4fb5\u5165",
+      "url": "https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo"
+    },
+    {
+      "added_at": "2023-09-28 15:00:00",
+      "album": {
         "name": "\u7dda\u9999\u82b1\u706b (feat. \u5e7e\u7530\u308a\u3089)",
         "url": "https://open.spotify.com/album/4cq0K1U2cesCfyNVQkgBXu"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 199266,
       "name": "\u7dda\u9999\u82b1\u706b - feat. \u5e7e\u7530\u308a\u3089",
       "url": "https://open.spotify.com/track/5p0iFOcN4kDKBqE9Tld5eJ"
-    },
-    {
-      "added_at": "2023-09-28 15:00:00",
-      "album": {
-        "name": "\u4e0d\u6cd5\u4fb5\u5165",
-        "url": "https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 260066,
-      "name": "\u4e0d\u6cd5\u4fb5\u5165",
-      "url": "https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo"
     },
     {
       "added_at": "2023-09-28 15:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-09-28 15:00:00",
       "album": {
-        "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
-        "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 266373,
-      "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
-      "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
-    },
-    {
-      "added_at": "2023-09-28 15:00:00",
-      "album": {
         "name": "\u7d14\u611b\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
         "url": "https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2023-09-28 15:00:00",
       "album": {
+        "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+        "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 266373,
+      "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+      "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
+    },
+    {
+      "added_at": "2023-09-28 15:00:00",
+      "album": {
         "name": "flowers",
         "url": "https://open.spotify.com/album/6dtq4C39es0fbPxv9o0jhY"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 249273,
       "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
       "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
-    },
-    {
-      "added_at": "2023-09-28 15:00:00",
-      "album": {
-        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
-        "url": "https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
-      "url": "https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv"
     },
     {
       "added_at": "2023-09-28 15:00:00",
@@ -1499,22 +1483,6 @@
     {
       "added_at": "2023-09-28 15:00:00",
       "album": {
-        "name": "Two Moon",
-        "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 275787,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/4HMSmAuVCbtZTSj1xNJv4z"
-    },
-    {
-      "added_at": "2023-09-28 15:00:00",
-      "album": {
         "name": "\u30c1\u30ce\u30ab\u30c6",
         "url": "https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk"
       },
@@ -1527,6 +1495,22 @@
       "duration_ms": 248300,
       "name": "\u30c1\u30ce\u30ab\u30c6",
       "url": "https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx"
+    },
+    {
+      "added_at": "2023-09-28 15:00:00",
+      "album": {
+        "name": "Two Moon",
+        "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 275787,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/4HMSmAuVCbtZTSj1xNJv4z"
     },
     {
       "added_at": "2023-09-28 15:00:00",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2023-09-28 15:00:00",
       "album": {
+        "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
+        "url": "https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "\u30df\u30c1\u30f2\u30e6\u30b1",
+      "url": "https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv"
+    },
+    {
+      "added_at": "2023-09-28 15:00:00",
+      "album": {
         "name": "ai no hana",
         "url": "https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 242792,
       "name": "ai no hana",
       "url": "https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF"
+    },
+    {
+      "added_at": "2023-09-28 15:00:00",
+      "album": {
+        "name": "Good bye-bye",
+        "url": "https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "duration_ms": 201137,
+      "name": "Good bye-bye",
+      "url": "https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3"
     },
     {
       "added_at": "2023-09-28 15:00:00",
@@ -1591,22 +1607,6 @@
       "duration_ms": 203166,
       "name": "It Might Be Painful, But I Still Love It.",
       "url": "https://open.spotify.com/track/3v6m03G0wyCYUWXLrzRUPg"
-    },
-    {
-      "added_at": "2023-09-28 15:00:00",
-      "album": {
-        "name": "Good bye-bye",
-        "url": "https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq"
-      },
-      "artists": [
-        {
-          "name": "\u51a8\u5ca1\u611b",
-          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
-        }
-      ],
-      "duration_ms": 201137,
-      "name": "Good bye-bye",
-      "url": "https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3"
     },
     {
       "added_at": "2023-09-28 15:00:00",
@@ -1647,18 +1647,22 @@
     {
       "added_at": "2023-09-28 15:00:00",
       "album": {
-        "name": "\u79c1\u306f\u732b\u306e\u76ee",
-        "url": "https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx"
+        "name": "Pre-Romance",
+        "url": "https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2"
       },
       "artists": [
         {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        },
+        {
+          "name": "\u2606Taku Takahashi",
+          "url": "https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9"
         }
       ],
-      "duration_ms": 190000,
-      "name": "\u79c1\u306f\u732b\u306e\u76ee",
-      "url": "https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd"
+      "duration_ms": 192954,
+      "name": "Pre-Romance",
+      "url": "https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I"
     },
     {
       "added_at": "2023-09-28 15:00:00",

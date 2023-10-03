@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [3D \(Alternate Ver.\)](https://open.spotify.com/track/2pLZ6tUBapqlngc9lnYz4M) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 2:42 | 2023-09-30 |  |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-30 |  |
-| [3D \(feat\. Jack Harlow\) \(Alternate Ver.\)](https://open.spotify.com/track/2pLZ6tUBapqlngc9lnYz4M) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 2:42 | 2023-09-30 |  |
 | [3D \(feat\. Jack Harlow\) \(Instrumental\)](https://open.spotify.com/track/02U9EixxU2Znl6ilsr9mrv) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:19 | 2023-09-30 |  |
 | [About Seven](https://open.spotify.com/track/7DglpRxDJOOJ8f5gSftzPw) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [This Is Jung Kook audio liners](https://open.spotify.com/album/6zL1a94dCnXQ6xHiaKZF0W) | 0:27 | 2023-07-14 |  |
 | [Bye from Jung Kook](https://open.spotify.com/track/3sKpXrIdtKtgnzYTZ7jFGS) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [This Is Jung Kook audio liners](https://open.spotify.com/album/6zL1a94dCnXQ6xHiaKZF0W) | 0:10 | 2023-07-14 |  |

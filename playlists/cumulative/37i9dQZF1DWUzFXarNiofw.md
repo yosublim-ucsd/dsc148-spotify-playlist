@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Cleo Sol
 
-1,567 songs - 3 day 11 hr 26 min
+1,568 songs - 3 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1181,6 +1181,7 @@
 | [Selfish](https://open.spotify.com/track/4eRLolZhYKKKPN2zTHKGK1) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Selfish](https://open.spotify.com/album/3nAxtpFfQR8GoBJ9Ic4Mqz) | 3:52 | 2022-10-14 | 2022-11-12 |
 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-11 | 2022-12-03 |
 | [Sensitive](https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Sometimes, I'm Speechless](https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE) | 2:54 | 2022-12-16 | 2023-02-25 |
+| [Serious](https://open.spotify.com/track/7LJjWJjj28xq1W5AvGxw2d) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Serious](https://open.spotify.com/album/0GdpDC5d1P56gP0aFTfd5C) | 1:53 | 2023-10-02 |  |
 | [Serious](https://open.spotify.com/track/0XNIOrz384Vp5fbpsfERxW) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Serious](https://open.spotify.com/album/5N9bOh6HESnuqWX2DsXxaZ) | 2:53 | 2023-04-14 | 2023-05-13 |
 | [Set Me Free](https://open.spotify.com/track/3nIxjTk1iIhNL6XYd7xU7x) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Set Me Free](https://open.spotify.com/album/4r80mwTXQjLnmiWty5ehNk) | 2:54 | 2022-12-02 | 2023-01-06 |
 | [Sex & Empathy](https://open.spotify.com/track/5U0Gbz6YQl48Alts9Iqfnv) | [Lyfe Harris](https://open.spotify.com/artist/3056tgVkQYtDN8yWwAFmU2), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Sex & Empathy](https://open.spotify.com/album/3Tn9YalQNmNhbFJP7XpzJz) | 2:51 | 2023-07-21 | 2023-09-02 |

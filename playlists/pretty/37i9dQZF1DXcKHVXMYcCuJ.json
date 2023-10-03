@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 137884,
+  "num_followers": 138044,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDNmMWZkYTQ1MTI2MzJjMWFiYWJhNjNiMmU1YjU3OWZhYzU4NTM1",
+  "snapshot_id": "MCxhYTFhMDVlMzM4MTRkNTk4NjljOGZlMDI1NDdlYzMxMTgxODU2NzE3",
   "tracks": [
     {
       "added_at": "2023-09-04 20:46:20",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
+        "name": "Shed",
+        "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
+      },
+      "artists": [
+        {
+          "name": "Title Fight",
+          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
+        }
+      ],
+      "duration_ms": 136826,
+      "name": "Shed",
+      "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
         "name": "Reckless Tongue",
         "url": "https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Shed",
-        "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
-      },
-      "artists": [
-        {
-          "name": "Title Fight",
-          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
-        }
-      ],
-      "duration_ms": 136826,
-      "name": "Shed",
-      "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Ours Is Chrome",
-        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "I've Been Bored",
-      "url": "https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "Fantastic Planet",
         "url": "https://open.spotify.com/album/5hbxMCegyQPhpycfjtlW6I"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 181706,
       "name": "Tired Of Sex",
       "url": "https://open.spotify.com/track/42hDrA9GTkuvpxjLtAshct"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Ours Is Chrome",
+        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "I've Been Bored",
+      "url": "https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Pedestrian Verse",
-        "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/2irFDtyw34II0pdCWIOBaN"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 277560,
       "name": "The Pod",
       "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Pedestrian Verse",
+        "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/2irFDtyw34II0pdCWIOBaN"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Keep Telling Myself It's Alright",
-        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
-      },
-      "artists": [
-        {
-          "name": "ASHES dIVIDE",
-          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "The Stone",
-      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "Infinite Pleasure",
         "url": "https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 247360,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Keep Telling Myself It's Alright",
+        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
+      },
+      "artists": [
+        {
+          "name": "ASHES dIVIDE",
+          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "The Stone",
+      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Brave Faces Everyone",
-        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
-      },
-      "artists": [
-        {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
-        }
-      ],
-      "duration_ms": 242365,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "Word Gets Around",
         "url": "https://open.spotify.com/album/6aQ9eJe8CzynjbiD0oXIvx"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 275960,
       "name": "Not Up To You",
       "url": "https://open.spotify.com/track/1NOhzFmTzPYMJ8vjEVxjAE"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Brave Faces Everyone",
+        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "duration_ms": 242365,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Pedals",
-        "url": "https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO"
-      },
-      "artists": [
-        {
-          "name": "Rival Schools",
-          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Wring It Out",
-      "url": "https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Riot Act",
-        "url": "https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG"
+        "name": "Pedals",
+        "url": "https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Rival Schools",
+          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
         }
       ],
-      "duration_ms": 268693,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/7Hd4BJFPRYnF8FRyVhrXJr"
+      "duration_ms": 209000,
+      "name": "Wring It Out",
+      "url": "https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Under Exit Lights",
-        "url": "https://open.spotify.com/album/5c4rnFo67posi6omJUtu02"
+        "name": "Riot Act",
+        "url": "https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG"
       },
       "artists": [
         {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 216893,
-      "name": "Why Won't You Admit",
-      "url": "https://open.spotify.com/track/4tQpDC9blddFv7ZR4tEzWr"
+      "duration_ms": 268693,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/7Hd4BJFPRYnF8FRyVhrXJr"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -1675,6 +1659,22 @@
       "duration_ms": 255720,
       "name": "Palahniuk's Laughter",
       "url": "https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Under Exit Lights",
+        "url": "https://open.spotify.com/album/5c4rnFo67posi6omJUtu02"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Why Won't You Admit",
+      "url": "https://open.spotify.com/track/4tQpDC9blddFv7ZR4tEzWr"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 218288,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "Last Orders",
         "url": "https://open.spotify.com/album/0Fz2AwWba0P3TDmSBWuKrs"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 207000,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 218288,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Celebrity Mansions",
-        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Long Way Down",
-      "url": "https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "Four of Arrows",
         "url": "https://open.spotify.com/album/5aHufmLPJqWTDLNV9Ppj60"
       },
@@ -2111,6 +2095,22 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
+        "name": "Celebrity Mansions",
+        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
         "name": "Threes",
         "url": "https://open.spotify.com/album/2tlhHOxSGAcN7Z9KNtJlJP"
       },
@@ -2123,6 +2123,22 @@
       "duration_ms": 221546,
       "name": "Taking Back Control",
       "url": "https://open.spotify.com/track/56keKJyWpp84gKhI5llSCK"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "The Brass Tax",
+        "url": "https://open.spotify.com/album/0Gk4iJWdsWeKLW29qk5hzT"
+      },
+      "artists": [
+        {
+          "name": "Downward",
+          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "UGLY BUG",
+      "url": "https://open.spotify.com/track/1ZcDbE8gp4GnmcfVJWdjcs"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -2155,22 +2171,6 @@
       "duration_ms": 191657,
       "name": "Always",
       "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
-        "name": "The Brass Tax",
-        "url": "https://open.spotify.com/album/0Gk4iJWdsWeKLW29qk5hzT"
-      },
-      "artists": [
-        {
-          "name": "Downward",
-          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "UGLY BUG",
-      "url": "https://open.spotify.com/track/1ZcDbE8gp4GnmcfVJWdjcs"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "Slide Away",
-      "url": "https://open.spotify.com/track/1hhkgFC178vWe1xBS23tj9"
-    },
-    {
-      "added_at": "2023-09-04 20:46:20",
-      "album": {
         "name": "Worlds Apart",
         "url": "https://open.spotify.com/album/4edJ05VuSNvslwhH5EKard"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 228093,
       "name": "The Hey Man!",
       "url": "https://open.spotify.com/track/2L3nP5MydvAh79nFo38eLd"
+    },
+    {
+      "added_at": "2023-09-04 20:46:20",
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "Slide Away",
+      "url": "https://open.spotify.com/track/1hhkgFC178vWe1xBS23tj9"
     },
     {
       "added_at": "2023-09-04 20:46:20",
@@ -2399,18 +2399,18 @@
     {
       "added_at": "2023-09-04 20:46:20",
       "album": {
-        "name": "Antenna",
-        "url": "https://open.spotify.com/album/4c0qhRcK2cIa7cgxaZf585"
+        "name": "Imbue",
+        "url": "https://open.spotify.com/album/6NnNzBbQKK59S2x6KJzQjI"
       },
       "artists": [
         {
-          "name": "Cave In",
-          "url": "https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi"
+          "name": "The Early November",
+          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
         }
       ],
-      "duration_ms": 248426,
-      "name": "Stained Silver",
-      "url": "https://open.spotify.com/track/6WnG5MU8GbAiQVFnXZQorG"
+      "duration_ms": 270625,
+      "name": "Narrow Mouth",
+      "url": "https://open.spotify.com/track/2iyoZuHyuaaBGmLbl6eIEY"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

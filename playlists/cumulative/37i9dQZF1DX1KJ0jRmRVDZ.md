@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-832 songs - 1 day 23 hr 31 min
+833 songs - 1 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Did You See the Sunrise?](https://open.spotify.com/track/2cB1MH2DJ5G9LivP0GTSDz) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Did You See the Sunrise?](https://open.spotify.com/album/5o5efTNvsUAtn0UUrmigwp) | 3:43 | 2022-10-27 | 2022-12-02 |
 | [Did You See the Sunrise?](https://open.spotify.com/track/2qqy2umtwCzXXrdhnlH6ll) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Did You See the Sunrise?](https://open.spotify.com/album/6HHrAvOzO0uSMD16INW0gq) | 3:43 | 2022-11-29 | 2022-12-14 |
 | [Did you see the sunrise?](https://open.spotify.com/track/0EU7CcoQReLDXH3gxQ2nWS) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Did you see the sunrise?](https://open.spotify.com/album/0KrSzLWONtvMW31gvcKDxa) | 3:43 | 2022-10-27 | 2022-10-29 |
+| [DIGNITY](https://open.spotify.com/track/1BDCBbdTDQo3JxC0kVDSqP) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [DIGNITY](https://open.spotify.com/album/0yeSKha3HfhzdjVNnrqLks) | 4:12 | 2023-09-28 |  |
 | [Distance](https://open.spotify.com/track/0SzgRifXiBPqnz4tVN8D2N) | [SpendyMily](https://open.spotify.com/artist/5yJWbZhLyZZa6u3yi0mcY0) | [Distance](https://open.spotify.com/album/7hIUhvdx5zQJcg9ppXjSdj) | 4:26 | 2022-06-16 | 2022-06-20 |
 | [Dohdatte.](https://open.spotify.com/track/2OTfuTcICjCrI2xtc4sdf3) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Tatsuya Kitani](https://open.spotify.com/artist/3YxLZDzRbeskxCOlubACis) | [Dohdatte.](https://open.spotify.com/album/0srCp2sHV9KTw80Sd22l91) | 3:18 | 2022-11-17 | 2023-01-04 |
 | [Don't Stop the DOKKYUN!!](https://open.spotify.com/track/04SaykXEj1ZWwjqJAiTdbe) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [Don't Stop the DOKKYUN!!](https://open.spotify.com/album/7mkuJn3G6P87OcuLcoKYuE) | 4:08 | 2022-07-14 | 2022-07-16 |
@@ -632,7 +633,7 @@
 | [失星](https://open.spotify.com/track/7dJuriFabSCJb3000gLy5K) | [Layla.](https://open.spotify.com/artist/0Xa3pagXhcADT5ZAddyfka) | [失星](https://open.spotify.com/album/2xiNJjC1r0oPg6coKtwqvc) | 2:52 | 2022-06-23 | 2022-06-26 |
 | [失楽園](https://open.spotify.com/track/5QVMFQYQndc0qyzXzJcD8P) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [失楽園](https://open.spotify.com/album/0xhrDqFnWl8WdOKU1TN3Qn) | 3:35 | 2022-10-12 | 2022-10-13 |
 | [奇跡のようなこの世界で](https://open.spotify.com/track/5YBqpJoDWuiWVO4pjSnwWC) | [シエロ・アスール](https://open.spotify.com/artist/2YIkrrC79o7QRSO8sVKV6z) | [奇跡のようなこの世界で](https://open.spotify.com/album/7qR6fTKfiiinXnqKLkbmbK) | 4:40 | 2022-06-09 | 2022-06-14 |
-| [好きだ](https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [好きだ](https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0) | 3:37 | 2022-06-14 |  |
+| [好きだ](https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [好きだ](https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0) | 3:37 | 2022-06-14 | 2023-10-03 |
 | [婆心古狸](https://open.spotify.com/track/5HoFhKtBgX9Pcyi1IpbUFn) | [悒うつぼ](https://open.spotify.com/artist/46JcLfNgVQ8zNtSZU3vXB1) | [婆心古狸](https://open.spotify.com/album/19GGsauyJgEMZw83jcuy5L) | 1:57 | 2022-07-14 | 2022-07-19 |
 | [宇宙の季節](https://open.spotify.com/track/1GKx2QlBo2IeXK9ecJniQy) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [suis](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [宇宙の季節](https://open.spotify.com/album/6rKljFsKgX7F8PdLgnDkTs) | 4:22 | 2022-06-13 | 2022-07-27 |
 | [定命](https://open.spotify.com/track/3mYzoSnYTgehtoO54zLFJ7) | [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U), [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l), [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [定命](https://open.spotify.com/album/2HDvGnfRxf0KJYltrfg6E6) | 3:53 | 2023-06-20 | 2023-06-28 |

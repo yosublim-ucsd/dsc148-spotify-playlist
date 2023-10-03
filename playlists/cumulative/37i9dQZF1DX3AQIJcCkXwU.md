@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-166 songs - 12 hr 4 min
+168 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-04-04 |  |
 | [Indian Ocean](https://open.spotify.com/track/33mxyPXe3sKUjSxUtljWUM) | [Jasmon](https://open.spotify.com/artist/0YJZvddTNiDjJCFjFVtqx8), [Slow World](https://open.spotify.com/artist/7IU3IM27vQRYGiBvEkyhti) | [Indian Ocean](https://open.spotify.com/album/7wfkuCJJFfBmg55eTcDcuY) | 3:19 | 2022-11-11 |  |
 | [Indian Song](https://open.spotify.com/track/7yAAcErAnwMpDOlVYEaTpl) | [Fold The Sun](https://open.spotify.com/artist/5SOUv2efO5CO6gerIKJlQJ) | [Indian Song](https://open.spotify.com/album/2wGJAE9NZVHEai5PsbI8IB) | 3:30 | 2022-04-04 |  |
+| [Indian Tribe](https://open.spotify.com/track/6z3tvdcdPzxk2YcNegF7eM) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Indian Tribe](https://open.spotify.com/album/0Gt9MOBpwHCepPvDKqcwfH) | 2:32 | 2023-10-02 |  |
 | [Indigo Sky](https://open.spotify.com/track/4KzvtA2qC064UtkxRVsBeE) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [Inhale Exhale](https://open.spotify.com/album/0pjLFW61AV1xvnAaSkcEgU) | 3:32 | 2022-06-24 |  |
 | [indriya](https://open.spotify.com/track/2kW2cm8R1FEukN8K2WMtiu) | [Dhani Bhagat](https://open.spotify.com/artist/4nJNF3n7utXCdvAJyEsPy6) | [phir milenge](https://open.spotify.com/album/5cIVE1dbRd4usP53KZYABL) | 3:20 | 2022-07-11 |  |
 | [Insitarament](https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Sleeping Traveller](https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT) | 4:00 | 2022-04-04 |  |
@@ -141,6 +142,7 @@
 | [Shakthi Ganapathy](https://open.spotify.com/track/03nIRan6UXhE1LauTQuEPG) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Garuda Sevai](https://open.spotify.com/album/3QjGleINdYDm4weNifzoyI) | 4:49 | 2022-10-05 |  |
 | [Sharad Rtu Hiran](https://open.spotify.com/track/3P5LCGwst6MHnfmCoDUqkq) | [Chand Adwani](https://open.spotify.com/artist/13fCAM11qEb6Jud1D48RLi) | [Aatma Momabattee](https://open.spotify.com/album/4vcltSZOJLMWgyomcNKHps) | 3:54 | 2022-05-24 |  |
 | [Shiva's Meditation](https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 5:09 | 2022-04-04 |  |
+| [Siddharthas Echoes](https://open.spotify.com/track/3WmDbmhu8NH9i4NB8gJdbm) | [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7), [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Siddharthas Echoes](https://open.spotify.com/album/2cumKJiYUKZOcbMrNrXh6b) | 3:12 | 2023-10-02 |  |
 | [Sights in Sound \(Shiva\)](https://open.spotify.com/track/7CatPZZMG9tx1Crhy5oTgL) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [The Magnificent Hum](https://open.spotify.com/album/3UTW7AeSNDdZVKQBi8MjDM) | 4:22 | 2022-04-04 | 2023-07-14 |
 | [Silver Keys](https://open.spotify.com/track/0dTYfQD9vR39dLLv0TfXVl) | [Simon Shavi](https://open.spotify.com/artist/3bU7LIIa7VaEkMwmcqbZOK) | [Silver Keys](https://open.spotify.com/album/4GiYY8khJkt4Csn1I7NcID) | 3:40 | 2022-04-04 |  |
 | [Slowly Healing](https://open.spotify.com/track/7B6uXznIUsatvSuZujLlsk) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Slowly Healing](https://open.spotify.com/album/2a6QiYnjdRT9rclhvM2hQa) | 3:06 | 2023-01-13 |  |

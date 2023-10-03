@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- REHMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,624 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,641 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 3 | [Mann Bhoolay Na](https://open.spotify.com/track/4H7WeDavY8wjkRz5ElWJfO) | [Haseeb Ahmed Jadoon](https://open.spotify.com/artist/1ASp8Oeb9BeyN66nVG7Xb4), [Madiha Majid](https://open.spotify.com/artist/1u0E3MBJWzREtTzwyRsJMC) | [Mann Bhoolay Na](https://open.spotify.com/album/0Kt8ZhE9htIsC9V1RCPdAT) | 3:50 |
 | 4 | [Bahanay](https://open.spotify.com/track/2SX5HzW0vOyQbQLsRdWBfs) | [MMT](https://open.spotify.com/artist/6U8E9qaC9NKpbeFSjwTuqu) | [Bahanay](https://open.spotify.com/album/5aeMVSrmkuBjsujn2W2OCw) | 3:17 |
 | 5 | [CRYLOOP \#2](https://open.spotify.com/track/0vEfhFwwRrNw1R6cXEzPof) | [Sinan Rajput](https://open.spotify.com/artist/0avEinyUN34b2mxTo7YZLY) | [CRYLOOP \#2](https://open.spotify.com/album/286iWmypvu6vXCVlwPgiF0) | 2:23 |
-| 6 | [Paas](https://open.spotify.com/track/6LsiuwPCC74qGJUZIUf9QE) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Baig](https://open.spotify.com/artist/5uYEk4RHxXxT2I2vACBPyl) | [Paas](https://open.spotify.com/album/6usu2sjJEGElDflwGTikkb) | 2:40 |
+| 6 | [Paas](https://open.spotify.com/track/6LsiuwPCC74qGJUZIUf9QE) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Paas](https://open.spotify.com/album/6usu2sjJEGElDflwGTikkb) | 2:40 |
 | 7 | [JANI JANI \- feat\. Alistair Alvin](https://open.spotify.com/track/1XCGFjrxtCMDUbWR7aertX) | [Madlock Gilani](https://open.spotify.com/artist/69QGbimZ7ZZJ9w02ET3kpx), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [JANI JANI \(feat\. Alistair Alvin\)](https://open.spotify.com/album/3OPezImcUAG9eeaW5gGXzb) | 2:06 |
 | 8 | [Under The Stars](https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8) | [Under The Stars](https://open.spotify.com/album/25bhlDywM1xsm2854OPfC1) | 2:20 |
 | 9 | [Beetay Zamaney \- Unplugged](https://open.spotify.com/track/1DpoA4o7FeG9jMofUpHiNB) | [Salman Masood](https://open.spotify.com/artist/281oSMLaN71SO2JzZgPsKj) | [Beetay Zamaney \(Unplugged\)](https://open.spotify.com/album/4YFnTtk2SZwfBlwqhf44vJ) | 1:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 79 | [Rangrasiya Re](https://open.spotify.com/track/4Cd2tRh1CRcruyPB4mh8yE) | [Shahzad e Ali](https://open.spotify.com/artist/1dAsGM47WYaYMOs6dpgeSk) | [Rangrasiya Re](https://open.spotify.com/album/6LdeDB74iQlKmESMp0lgOH) | 4:34 |
 | 80 | [Jaan](https://open.spotify.com/track/5rIbOVHy0ofgn9K72fQXJc) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Jaan](https://open.spotify.com/album/5w7vIl1FY2emz6CJeAtwol) | 2:48 |
 
-Snapshot ID: `MCw3NDI4ZGJhNGMyNjMyNDU4NTg5MGE5NGJjZTI0ZDdjNTk3YjM4ZjE2`
+Snapshot ID: `MCwyOTc5MTY0ODYzMWI5YzU0YmE5OTlhMDY3OWU5ODcxYTBkZmVjM2Jh`

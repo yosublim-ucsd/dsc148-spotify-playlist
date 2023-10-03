@@ -150,6 +150,24 @@
     {
       "album": {
         "name": "Suncity",
+        "url": "https://open.spotify.com/album/4UNwL1B7JoymNUiTFJa52B"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229320,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2OpBganfGk2GVdSlRdxzaX"
+    },
+    {
+      "album": {
+        "name": "Suncity",
         "url": "https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2"
       },
       "artists": [
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 220290,
       "name": "September Song",
       "url": "https://open.spotify.com/track/0zbzrhfVS9S2TszW3wLQZ7"

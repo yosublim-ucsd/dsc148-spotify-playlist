@@ -4,12 +4,12 @@
 
 > 100 Suomi 💶 Kannessa Turisti ja ibe.
 
-81 songs - 3 hr 51 min
+82 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40K](https://open.spotify.com/track/6WQihZyNHPQzaF7dx3Xmi6) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sextape II](https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR) | 2:34 | 2023-09-21 | 2023-09-29 |
-| [Aina \- Julma H Remix](https://open.spotify.com/track/2fXkS7KWjPXjuwnOLv6WQJ) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o), [Timo Pieni Huijaus](https://open.spotify.com/artist/3QhMkujlcwd5TqLp4p3KUR), [Loasteeze](https://open.spotify.com/artist/5cWTEtVgv1VNBS9mBdQHOo) | [Aina \(Julma H Remix\)](https://open.spotify.com/album/2DsqHeCJpYTNtc0Yqovp0H) | 3:18 | 2023-09-21 |  |
+| [Aina \- Julma H Remix](https://open.spotify.com/track/2fXkS7KWjPXjuwnOLv6WQJ) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o), [Timo Pieni Huijaus](https://open.spotify.com/artist/3QhMkujlcwd5TqLp4p3KUR), [Loasteeze](https://open.spotify.com/artist/5cWTEtVgv1VNBS9mBdQHOo) | [Aina \(Julma H Remix\)](https://open.spotify.com/album/2DsqHeCJpYTNtc0Yqovp0H) | 3:18 | 2023-09-21 | 2023-10-03 |
 | [Aki Palsanmäki](https://open.spotify.com/track/51GCWwcg1BvcEohqgMy3ol) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [Stafa](https://open.spotify.com/artist/44isaRoVaZH5mdGrGm3hv5) | [Aki Palsanmäki](https://open.spotify.com/album/5djLeMnycGunj2cGDCcZFp) | 2:27 | 2023-09-21 |  |
 | [Allstar \(feat\. ibe\)](https://open.spotify.com/track/6NSjIm8OZLsjcJQgUdsGNr) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Allstar \(feat\. ibe\)](https://open.spotify.com/album/6wyZ9WblNTfN4LGHcsg7cf) | 3:01 | 2023-09-21 |  |
 | [Aminata](https://open.spotify.com/track/5aT7OMRbJ67AzZBMUdMUtm) | [SVANI](https://open.spotify.com/artist/3DUvsq0GmOqz0qfIIrdjio) | [Aminata](https://open.spotify.com/album/7JjnuWWACcwZwdt4rmKIWu) | 2:49 | 2023-09-28 |  |
@@ -18,6 +18,7 @@
 | [BLONDINA](https://open.spotify.com/track/5V6MFVxOCtnBgw4JV4Yk59) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [BLONDINA](https://open.spotify.com/album/24IjEbb9JyuBNHDYdjJ8KM) | 3:00 | 2023-09-21 | 2023-09-29 |
 | [Bodega](https://open.spotify.com/track/50AESPBW3vrVKjUnf22Pdw) | [Ex Tuuttiz](https://open.spotify.com/artist/6TBeJTfilwR1QNgWuHyB6A), [Paperi T](https://open.spotify.com/artist/0sLydYzA0gqae7fKYtVsur) | [XT](https://open.spotify.com/album/5chlFQ1V6XN8tcScD0A7LI) | 2:36 | 2023-09-28 |  |
 | [Bye Bye](https://open.spotify.com/track/61m5q3Qk7F7W6foiZDpN5p) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Bye Bye](https://open.spotify.com/album/1cvqApVnrJMcmZYLDywB5L) | 2:29 | 2023-09-21 |  |
+| [CEO](https://open.spotify.com/track/3n2bJ5mrCykRM3SFpkli6C) | [ALE](https://open.spotify.com/artist/1izgcy57Czf3DH50GcSdwW) | [CEO](https://open.spotify.com/album/3ELv9ibqvgohdIUHJyXddx) | 2:47 | 2023-10-02 |  |
 | [Clean](https://open.spotify.com/track/1BgeEIf7mUD4CcOmSMJRrK) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Clean](https://open.spotify.com/album/3e100jRy19dNFWOzHRC59d) | 2:32 | 2023-09-21 |  |
 | [Ennen vanhaan](https://open.spotify.com/track/5HDPVknk7KqPWfxSilhC8h) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Ennen vanhaan](https://open.spotify.com/album/3wseukvboJAQk3Nh3TaW1p) | 3:25 | 2023-09-21 |  |
 | [Et oo räppäri](https://open.spotify.com/track/0nSb6lDdpVjcm2hhV8CJFA) | [Seksikäs\-Suklaa](https://open.spotify.com/artist/2o2qKwPkfo0vDnyXnfgk0W), [Lika\-Aki](https://open.spotify.com/artist/4XSTZw9BvsG1ZXkyJOLyuw) | [Et oo räppäri](https://open.spotify.com/album/1C7VaPTxV3zjkG4paKhwpQ) | 2:15 | 2023-09-21 | 2023-09-29 |

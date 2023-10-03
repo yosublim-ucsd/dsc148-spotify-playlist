@@ -240,7 +240,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 129493,
       "name": "El Sapo Pepe Y La Rana Juana",
       "url": "https://open.spotify.com/track/4zSxmtADvuhuFuEalREYgE"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 98226,
       "name": "Feliz En Tu D\u00eda",
       "url": "https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 158986,
       "name": "Mal\u00edsima",
       "url": "https://open.spotify.com/track/1wmcsShYTSot5sc8tC0xA9"
@@ -774,6 +774,24 @@
       "duration_ms": 156453,
       "name": "Osito Carpintero",
       "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
+    },
+    {
+      "album": {
+        "name": "Las 4 Estaciones, vol. 11",
+        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "date_added": "2020-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50651,
+      "name": "Osos de Paseo",
+      "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"
     },
     {
       "album": {

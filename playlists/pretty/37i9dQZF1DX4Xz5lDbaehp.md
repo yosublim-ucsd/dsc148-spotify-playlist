@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,047 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,048 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 104 | [Intoxicated Truth](https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq) | [Masati](https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl) | [Intoxicated Truth](https://open.spotify.com/album/2XKDY407hdliXUT6i3Bcxm) | 2:56 |
 | 105 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 |
 | 106 | [Out The Way](https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Out The Way](https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO) | 2:35 |
-| 107 | [Used To This](https://open.spotify.com/track/2eIFkERbBslhcFrF0SRLgL) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Used To This](https://open.spotify.com/album/1ClebLumn5M7VKWTZJaUVU) | 2:59 |
+| 107 | [Used To This](https://open.spotify.com/track/187EmOhwfEME52mf8hF03c) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Do Your Worst](https://open.spotify.com/album/2zoKhONaJBKUHsbPZLFubF) | 2:59 |
 | 108 | [Different Ways To Love You](https://open.spotify.com/track/4tiKcqZbLytwislCp3LWlb) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Different Ways To Love You](https://open.spotify.com/album/0rdRzPVVCb63dG1qxcvY6O) | 3:51 |
 | 109 | [Sunscreen](https://open.spotify.com/track/0EjoG8ZT8TCd51ymUAe160) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/0kTbbvO1d1OFGtjnxt0nT7) | 2:49 |
 | 110 | [Easy](https://open.spotify.com/track/4k6eg0pf9IeopgOREVkj5T) | [Bea Anderson](https://open.spotify.com/artist/2FVCMrYrSKRNPXoWw2VozG) | [Easy](https://open.spotify.com/album/1rPv254umKfCuZwyWUoFBl) | 3:30 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 125 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
 | 126 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 |
 
-Snapshot ID: `MCw2OWQ3YTQxYzc1MzczM2VhZjZkZmQwMmMxNzg5OGQwYWQ0OTk3MGRm`
+Snapshot ID: `MCxhOTIwNDQzMWY5OGQxMmViM2I4ZWUyNzNmYzNhMDUyMjRiM2E2MTA2`

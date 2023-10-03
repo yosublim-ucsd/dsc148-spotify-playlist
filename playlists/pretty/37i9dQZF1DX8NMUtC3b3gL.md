@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,293 likes - 261 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,315 likes - 261 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,4 +270,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 260 | [Morning Coffee](https://open.spotify.com/track/5TdUqOVDbmmMUSTj5qne8U) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/7h1FIH78FdkuzVW0VGunpy) | 2:09 |
 | 261 | [Clean Choices](https://open.spotify.com/track/3alz0TE86DIB2JnbbAOEME) | [KNŐDA](https://open.spotify.com/artist/2fDqX2aMSmr0pVuSdK5tWy) | [Clean Choices](https://open.spotify.com/album/71ti5CfDSeCMbrAFRG5hsu) | 3:07 |
 
-Snapshot ID: `MCw4Y2E4YWI2NDJmNDFiMTAzNTU2ODNmOGIxNjcwMTZhOGE3MDg4OTkw`
+Snapshot ID: `MCw0YTYxZjEwOTIxZTFjMDdiNWYxMTNjMDA4Y2NkNTA0M2Q1Mzg2Zjlm`

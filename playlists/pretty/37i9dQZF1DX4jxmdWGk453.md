@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,153 likes - 48 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,170 likes - 48 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 28 | [Amazing Grace](https://open.spotify.com/track/1L1GHbYBHbKLOVAzBhGMTX) | [Ensemble Magnolia](https://open.spotify.com/artist/0ZdxZ04WHp2xnjhGdvDPrQ) | [Amazing Grace](https://open.spotify.com/album/6bSmzuJBqGCfBrq6nxFfTB) | 2:35 |
 | 29 | [Traditional / Arr\. Ledger: Angels from the Realms of Glory](https://open.spotify.com/track/2oP2CNXLq2MwZ1VTI75e7V) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Philip Ledger](https://open.spotify.com/artist/66xtCjvWWjyvuD96T7uMXc) | [Christmas At King's](https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe) | 2:38 |
 | 30 | [O Little Town of Bethlehem](https://open.spotify.com/track/45m8293Fld4dW9MylEPmkd) | [Queens College Ensemble Choir](https://open.spotify.com/artist/5aJwvJRhJtJW4qWIS67xgQ) | [Greatest Ever Carols Collection \- The Very Best Christmas Carols & Traditional Xmas Hymns & Songs](https://open.spotify.com/album/0PnQBcphxjwzMJPgWIDf7S) | 2:32 |
-| 31 | [In Dulci Jubilo](https://open.spotify.com/track/1VaSpQqQzZqcZd7jmTPujm) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Hieronymus Praetorius](https://open.spotify.com/artist/0qhXxhrdfb30pOHmuDynuB), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Christmas](https://open.spotify.com/album/2aIQA8i1ajdEOdHKKiISp4) | 2:46 |
+| 31 | [In Dulci Jubilo](https://open.spotify.com/track/1VaSpQqQzZqcZd7jmTPujm) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Hieronymus Praetorius](https://open.spotify.com/artist/0qhXxhrdfb30pOHmuDynuB), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Christmas](https://open.spotify.com/album/2aIQA8i1ajdEOdHKKiISp4) | 2:46 |
 | 32 | [Coventry Carol](https://open.spotify.com/track/741ExP6U2ZGf3S8IcVdzC5) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Christmas](https://open.spotify.com/album/5hwP4Qqarcr9uFJYU5s2Ec) | 2:44 |
 | 33 | [Jesus Christ the Apple Tree](https://open.spotify.com/track/5HHtgGH5XwCfhjDo7I9EAo) | [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS) | [A Traditional Christmas Carol Collection, Vol\. II](https://open.spotify.com/album/7gVtoqma3finMEnqIpDq5Y) | 3:17 |
 | 34 | [Once in Royal David's City](https://open.spotify.com/track/5OS20K9GSq5BmD8VVQx1cw) | [Max Q](https://open.spotify.com/artist/7kVEBxCLB5kx4N67nkHe8t) | [A Little Christmas with Max Q](https://open.spotify.com/album/4NPHVSL6GKwBF357X4rWJ3) | 2:28 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 41 | [Night Bethlehem](https://open.spotify.com/track/3tm6QsjRX7Zv52aWeRUyS7) | [The Singers Unlimited](https://open.spotify.com/artist/3RsROIs1zuuC3lwIdhJ0if) | [Christmas](https://open.spotify.com/album/6oRVPUG1H8dm915S12d5PP) | 1:46 |
 | 42 | [O Come, Emmanuel](https://open.spotify.com/track/0WCxyTsIy2WK42bz5yaCgt) | [The Master's Men](https://open.spotify.com/artist/3uaKcB7uDejFLUSGYxs5bM) | [Traditional Christmas](https://open.spotify.com/album/6bZUcVIrMdTBq7wGU7Y6zQ) | 1:34 |
 | 43 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/15a0x2nKnbgKZ8KaiH4ny4) | [St\. Paul's Cathedral Choir](https://open.spotify.com/artist/4Psmt0Ic0BpoXNg5skm46Q) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/3qnl7vvIjow4WCe2Bl9prX) | 3:45 |
-| 44 | [Gabriel’s Message](https://open.spotify.com/track/0bz2vR4AH6vd6kYwkyZwaC) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Jim Clements](https://open.spotify.com/artist/4M0hUqk2VcFExFiccHy10H), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Christmas](https://open.spotify.com/album/2aIQA8i1ajdEOdHKKiISp4) | 2:59 |
+| 44 | [Gabriel’s Message](https://open.spotify.com/track/0bz2vR4AH6vd6kYwkyZwaC) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Jim Clements](https://open.spotify.com/artist/4M0hUqk2VcFExFiccHy10H), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Christmas](https://open.spotify.com/album/2aIQA8i1ajdEOdHKKiISp4) | 2:59 |
 | 45 | [Gaudete! \(Rejoice!\) \- Arr\. Brian Kay](https://open.spotify.com/track/6SsNhymnlwsdS5MQRhiZal) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Christmas Carols with The King's Singers](https://open.spotify.com/album/4a7m1G7BReF2HwxKIPD0Xk) | 1:39 |
 | 46 | [The Christmas Song](https://open.spotify.com/track/4AXA3ERWG4iUmQds4mVKlO) | [The Real Group](https://open.spotify.com/artist/4EIXOUTnf8Gtbk2kq4LYNK) | [The World for Christmas](https://open.spotify.com/album/5WJGhZxP6Gp9Vlc3Z80ZFB) | 5:11 |
 | 47 | [O Tannenbaum](https://open.spotify.com/track/1cU1C2UyM7Os13XKI8SQPz) | [The Barbershop Singers](https://open.spotify.com/artist/2ihbqMC5FLIURCSTBvsQed) | [A Barbershop Christmas](https://open.spotify.com/album/0sra8b07OvY3gfezNtToSf) | 0:59 |
 | 48 | [The Three Kings](https://open.spotify.com/track/6bhFHkgnEmOIVGFFOdvzqF) | [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Sir David Willcocks](https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC) | [Carols From Cambridge: The Very Best Sacred Christmas Carols](https://open.spotify.com/album/0J5mxoyU8lNsqPmepDLvmu) | 2:41 |
 
-Snapshot ID: `MCw2ODBiNTQ3NDEyNTVhM2Q3NThiMDgwNTJmZjhlNWNkNjk0MWM4ZjUz`
+Snapshot ID: `MCwxNThkYjUzOWIwM2E2ZDIwZmJmNjBhYzVkMWZlZWYyN2FkOTY1YzNk`

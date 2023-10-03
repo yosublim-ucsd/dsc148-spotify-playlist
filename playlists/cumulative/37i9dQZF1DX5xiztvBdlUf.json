@@ -4702,7 +4702,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 360071,
       "name": "Orbits of Dust",
       "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
@@ -6960,6 +6960,24 @@
       "duration_ms": 403505,
       "name": "What You Expected",
       "url": "https://open.spotify.com/track/77r4MAR9vAqQgRDH3NfcIr"
+    },
+    {
+      "album": {
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/3zO2PYueI0npVFlxEyl9R0"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/2ZK2PfpK0iri6UduhsblBM"
     },
     {
       "album": {

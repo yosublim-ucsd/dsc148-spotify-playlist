@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, post\-rock, punk ed emo dall'Italia\. Cover: Blonde Redhead
 
-563 songs - 1 day 7 hr 22 min
+564 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Barman](https://open.spotify.com/track/5IyY5hticbnFBR5ztmZ7cV) | [Divietø](https://open.spotify.com/artist/6xSpoFgkCHOIcy7egIhKhN) | [Barman](https://open.spotify.com/album/2ZV2tXJRNnVZ8G8K9Ng4ez) | 2:30 | 2023-02-16 | 2023-02-24 |
 | [Battelli ebbri](https://open.spotify.com/track/2PHcFq8CAordszMzLS1dAs) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Cosmic Res](https://open.spotify.com/album/4Myim57HbNcJ46KqbYkqmP) | 3:17 | 2023-01-19 | 2023-04-28 |
 | [Bed bugs](https://open.spotify.com/track/0f6w3CkDT3HlSuMYl3qsWQ) | [BAZAAR](https://open.spotify.com/artist/4kY7561u96mXGEzIwECjdd) | [Bed bugs](https://open.spotify.com/album/0QF16110YO5fcOfsU4WOCl) | 3:34 | 2022-05-26 | 2022-07-22 |
-| [Before](https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Before](https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp) | 4:28 | 2023-09-27 |  |
+| [Before](https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 4:28 | 2023-09-29 |  |
+| [Before](https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Before](https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp) | 4:28 | 2023-09-27 | 2023-10-03 |
 | [Belli e Perdenti](https://open.spotify.com/track/7LgIenXK2Cy3uCdPVeirDX) | [DOLA](https://open.spotify.com/artist/0OvTRIcNwihrBkwZK2oiqy) | [Underground](https://open.spotify.com/album/0DZu5L7eucdWhumtvK6FT9) | 2:21 | 2023-04-20 | 2023-05-26 |
 | [Benda](https://open.spotify.com/track/01ngmXxVlCiS8PoBKoJzSL) | [⁄handlogic](https://open.spotify.com/artist/0Fke9julMOJ0HZ1UhCoe9Z) | [Benda](https://open.spotify.com/album/77KKHnyz5STrGs7viHSP1U) | 4:23 | 2023-05-11 | 2023-05-19 |
 | [Berserk](https://open.spotify.com/track/6fzsjiqZ38KakK6QcJWZ4q) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [Berserk](https://open.spotify.com/album/6UrRKtK69QZKkwui1SZ7ib) | 3:49 | 2022-11-10 | 2022-11-18 |

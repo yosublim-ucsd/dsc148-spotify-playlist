@@ -4,7 +4,7 @@
 
 > Sit back and relax to the smooth sound of blues piano.
 
-84 songs - 4 hr 44 min
+85 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Deep Feeling Blues](https://open.spotify.com/track/4s1vnhkD5yIUFoTI6KNx8z) | [James Goodwin](https://open.spotify.com/artist/5sY7M6lEJILtXM7Jm2A0lG) | [Blue\-eyed Devil: Solo Blues Piano](https://open.spotify.com/album/6I0OPUCGyx4Y79a93CY5E9) | 4:13 | 2021-12-03 | 2023-06-13 |
 | [Delta Dust And Troubles](https://open.spotify.com/track/1NfTYq8nQ9yKpNiVMW3XHL) | [Neil Bryson](https://open.spotify.com/artist/46GZtjx0GpgUei5fQ0Kkv5) | [Delta Dust And Troubles](https://open.spotify.com/album/0zP8JofZIWn0SDub06N8OZ) | 2:27 | 2023-09-22 |  |
 | [Django Delgado](https://open.spotify.com/track/1TV37Ufwxkv9gjOVlDcLuu) | [Blues Piano All Stars](https://open.spotify.com/artist/3v45sKwSn2bjvr9ETf4HrQ) | [Blues Piano \- Blues Songs and Music](https://open.spotify.com/album/7D3OoVu6zvaS5TLe8cRRj5) | 2:21 | 2021-12-03 |  |
+| [Dusty Road Blues](https://open.spotify.com/track/3hSc4uZpE2F35BmdnkITDO) | [Johnny Blackwood](https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe) | [Dusty Road Blues](https://open.spotify.com/album/4lLwS4mtT8wP66TGLblZ5X) | 2:34 | 2023-10-02 |  |
 | [Easy Does It](https://open.spotify.com/track/70z4kWjDKAvQ6s4OYT0Bgv) | [Joe Krown](https://open.spotify.com/artist/6u0LV9Hm6zvvflRqUqav6Q) | [Just the Piano...Just the Blues](https://open.spotify.com/album/4LoZ1QlGwt1Cd644g4bJ5N) | 4:08 | 2021-12-03 | 2023-06-13 |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Midnight Solo Sessions](https://open.spotify.com/album/5G2e2LCTC6MFixt6amtciV) | 2:20 | 2022-01-21 |  |
 | [Hard Luck Shuffle](https://open.spotify.com/track/6YX1HXLbCAbAwLRHyPNyTG) | [Omar Parker](https://open.spotify.com/artist/4PTjlUerKZHANK5vASqQvV) | [Hard Luck Shuffle](https://open.spotify.com/album/5A2kCy9saaJoe0BaSAcodC) | 3:21 | 2023-09-22 |  |

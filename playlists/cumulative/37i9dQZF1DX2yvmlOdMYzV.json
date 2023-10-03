@@ -7013,6 +7013,28 @@
     },
     {
       "album": {
+        "name": "COME AS YOU ARE",
+        "url": "https://open.spotify.com/album/4P5fBzAOk6fcsyzUHs8ce2"
+      },
+      "artists": [
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        },
+        {
+          "name": "Coco O.",
+          "url": "https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156150,
+      "name": "PATIENCE",
+      "url": "https://open.spotify.com/track/1s4nf70ewlVgOgULKYkvoR"
+    },
+    {
+      "album": {
         "name": "PATTERNS",
         "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
       },
@@ -9390,7 +9412,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-03",
       "duration_ms": 179928,
       "name": "Tried To Fly .",
       "url": "https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF"

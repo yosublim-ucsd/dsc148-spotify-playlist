@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Earl Sweatshirt",
-  "num_followers": 1623503,
+  "num_followers": 1623528,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjQwMjM1NTYyNzFlMzRkNTIxNzQ0ZGVkMmVlOTcxNTIzY2YwMjk5",
+  "snapshot_id": "MCxlYzhhMDI3ODAxZGU4MDBjZDc1MTRjNjhmODJiNGI2YTVmNGE4OTEw",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -255,18 +255,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 177666,
-      "name": "97",
-      "url": "https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL"
+      "duration_ms": 167093,
+      "name": "Nas Morales (Metro Boomin & Nas)",
+      "url": "https://open.spotify.com/track/4mTKCa00WAZS2ag4GYwu0t"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -287,22 +291,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 167093,
-      "name": "Nas Morales (Metro Boomin & Nas)",
-      "url": "https://open.spotify.com/track/4mTKCa00WAZS2ag4GYwu0t"
+      "duration_ms": 177666,
+      "name": "97",
+      "url": "https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -331,26 +331,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 232017,
-      "name": "Office Hours (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 166994,
       "name": "letstalkaboutit",
       "url": "https://open.spotify.com/track/0Z4oNNgJKK9VcuSw1L5Cb4"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 232017,
+      "name": "Office Hours (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Magic 3",
-        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 194397,
-      "name": "Based On True Events, Pt. 2",
-      "url": "https://open.spotify.com/track/6VIF7IamWzKuMlEcW6Bmw8"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -507,22 +491,6 @@
       "duration_ms": 224586,
       "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Making The Band (Danity Kane)",
-        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 105999,
-      "name": "Making The Band (Danity Kane)",
-      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -571,6 +539,54 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Making The Band (Danity Kane)",
+        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 105999,
+      "name": "Making The Band (Danity Kane)",
+      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 194397,
+      "name": "Based On True Events, Pt. 2",
+      "url": "https://open.spotify.com/track/6VIF7IamWzKuMlEcW6Bmw8"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 137197,
+      "name": "black mirror",
+      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Broski",
         "url": "https://open.spotify.com/album/6pmNvWLb8NDdierueF4F07"
       },
@@ -583,6 +599,34 @@
       "duration_ms": 314067,
       "name": "Broski",
       "url": "https://open.spotify.com/track/63nolDQzy67C0vlyNXHfI7"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]",
+        "url": "https://open.spotify.com/album/2dxxlSiPPh9v9TwSTpjLgo"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 253663,
+      "name": "SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]",
+      "url": "https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -627,50 +671,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 137197,
-      "name": "black mirror",
-      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]",
-        "url": "https://open.spotify.com/album/2dxxlSiPPh9v9TwSTpjLgo"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        },
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 253663,
-      "name": "SCIENTISTS & ENGINEERS [Feat. Future, Eryn Allen Kane]",
-      "url": "https://open.spotify.com/track/2RHKzvzdxXANTOKtbZnuLo"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Dangerous Daringer",
         "url": "https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 249266,
       "name": "Dangerous Daringer",
       "url": "https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 180046,
-      "name": "What This All Really Means",
-      "url": "https://open.spotify.com/track/6IkrEMj1yTPyZr5bk8PmGF"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -743,26 +727,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz"
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
       },
       "artists": [
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Sideshow",
-          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 179200,
-      "name": "Bless (feat. MIKE & Sideshow)",
-      "url": "https://open.spotify.com/track/2iPfam65gH9PWFplrBXwDW"
+      "duration_ms": 180046,
+      "name": "What This All Really Means",
+      "url": "https://open.spotify.com/track/6IkrEMj1yTPyZr5bk8PmGF"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -803,6 +779,30 @@
       "duration_ms": 155003,
       "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
       "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/3mn50bgjlejMFXVaOig2Pz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Sideshow",
+          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Bless (feat. MIKE & Sideshow)",
+      "url": "https://open.spotify.com/track/2iPfam65gH9PWFplrBXwDW"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -987,8 +987,8 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Dump On Em",
-        "url": "https://open.spotify.com/album/7gOlcEabtQvzoSyOXtjqQ5"
+        "name": "Soul Assassins 3: Death Valley",
+        "url": "https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD"
       },
       "artists": [
         {
@@ -996,37 +996,37 @@
           "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
         },
         {
-          "name": "B-Real",
-          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         },
         {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "MC Ren",
-          "url": "https://open.spotify.com/artist/4fbyGOEjViyE97W58eGEgU"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         }
       ],
-      "duration_ms": 216813,
-      "name": "Dump On Em",
-      "url": "https://open.spotify.com/track/5mMW1V1GTn7Vygkjfw2PZz"
+      "duration_ms": 114625,
+      "name": "Sicilian Gold",
+      "url": "https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma"
     },
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "CHANNEL No3",
-        "url": "https://open.spotify.com/album/1WfB6HK3LNQh3TLoDv3Msw"
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
         }
       ],
-      "duration_ms": 226588,
-      "name": "CHANNEL No3",
-      "url": "https://open.spotify.com/track/6UIMNszTQOvYchYqswBR17"
+      "duration_ms": 173647,
+      "name": "Soft Landing",
+      "url": "https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt"
     }
   ],
   "unique_name": "Spilled Ink",
