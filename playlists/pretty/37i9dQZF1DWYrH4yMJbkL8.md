@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by OMBIIGIZI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,679 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,722 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 29 | [Rolly](https://open.spotify.com/track/74DHE5SiVR0yHD4EcmQdCB) | [Ghostkeeper](https://open.spotify.com/artist/3aNeKUntysMTujH191jiGX) | [Multidimensional Culture](https://open.spotify.com/album/7HKq1geZSeixNxtQOc8ZCu) | 2:45 |
 | 30 | [January 3rd](https://open.spotify.com/track/7kTHKSAiK6QTgpbJqXplaF) | [Status/Non\-Status](https://open.spotify.com/artist/65pJYjbDd7S7gBObWEfIdK) | [January 3rd](https://open.spotify.com/album/3uy4S0unphQffbj6rDvYKx) | 3:43 |
 
-Snapshot ID: `MCxmNGEwZDc0MDljM2EwNmQ3MjRlMmUyYzQxYWZkMjUyZDkzOGQ3ZjJk`
+Snapshot ID: `MCwxMTkxOGUzODExYTJhMWJhM2QyNDA4NjhiNzQ2NzI3YjExMDNlMDU5`

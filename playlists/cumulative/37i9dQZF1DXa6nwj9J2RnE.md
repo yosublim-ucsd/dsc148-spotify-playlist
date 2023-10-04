@@ -2,7 +2,7 @@
 
 ### [karakter.](https://open.spotify.com/playlist/37i9dQZF1DXa6nwj9J2RnE)
 
-> edgy muziek met een rand uit eigen land\. cover: Ray Fuego
+> edgy muziek met een rand uit eigen land\. cover: Chibi Ichigo, Sophie Straat
 
 103 songs - 5 hr 46 min
 

@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 216338,
       "name": "Broken",
       "url": "https://open.spotify.com/track/2FkbeqpCrjjDdVH1SZgDo6"
@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Von Wind und Anonymit\u00e4t",
+        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198448,
+      "name": "Egoist",
+      "url": "https://open.spotify.com/track/1SBsBiDUROntxMXINn8Cak"
+    },
+    {
+      "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
@@ -418,7 +436,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 164710,
       "name": "For You",
       "url": "https://open.spotify.com/track/6jG0kTVLlfdKtZMUjoyMAI"
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 188185,
       "name": "Subside",
       "url": "https://open.spotify.com/track/3Lqsck2T1MyyRmK1993Obk"

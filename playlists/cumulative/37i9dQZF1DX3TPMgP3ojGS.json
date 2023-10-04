@@ -8849,6 +8849,24 @@
     },
     {
       "album": {
+        "name": "Felt Improv No. 4",
+        "url": "https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4"
+      },
+      "artists": [
+        {
+          "name": "Elias Kiefer",
+          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "Felt Improv No. 4",
+      "url": "https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5"
+    },
+    {
+      "album": {
         "name": "Felt Like November",
         "url": "https://open.spotify.com/album/6r7aJSg5jijuTKp9nwxg9u"
       },
@@ -13445,6 +13463,24 @@
     },
     {
       "album": {
+        "name": "Jean Paul errant",
+        "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140823,
+      "name": "Jean Paul errant",
+      "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
+    },
+    {
+      "album": {
         "name": "Jeremy and Maureen",
         "url": "https://open.spotify.com/album/6ObwhBlnMPwTSXYgSGJZgf"
       },
@@ -17060,7 +17096,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 148874,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag"
@@ -28400,7 +28436,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 160500,
       "name": "Travelling",
       "url": "https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK"

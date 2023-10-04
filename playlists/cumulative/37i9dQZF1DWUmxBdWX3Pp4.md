@@ -2,7 +2,7 @@
 
 ### [TRAPPERZ](https://open.spotify.com/playlist/37i9dQZF1DWUmxBdWX3Pp4)
 
-> Éxitos del Trap Latino\. Foto: Duki.
+> Éxitos del Trap Latino\. Foto: Bizarrap & Milo J.
 
 383 songs - 21 hr 42 min
 
@@ -82,7 +82,7 @@
 | [Como Yo Puedo Olvidar](https://open.spotify.com/track/2dovaZsPSEQCRYuUCBtBLF) | [Ventura El Favorito](https://open.spotify.com/artist/3ydKvxN2Cngfl8gaA9Ld9H), [Big Chriss & Draco Deville](https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV) | [Como Yo Puedo Olvidar](https://open.spotify.com/album/34gYq2MZR2pAhlprxpWSyx) | 3:31 | 2023-03-17 | 2023-04-01 |
 | [Coroné](https://open.spotify.com/track/0BcheiZV7WuB5M9yGAFtwB) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/16NCoucptRbqb2VoMbmt3V) | 2:50 | 2023-06-09 | 2023-06-14 |
 | [Coroné](https://open.spotify.com/track/386NSsUV8EaZe1xFea64cw) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/0qR3J5yY7BMDQOlgFyVgQ0) | 2:50 | 2023-06-09 | 2023-09-11 |
-| [Coroné](https://open.spotify.com/track/6h22JGTLtV29j7sXmtB2ii) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/3LvQoppyYo1QSEISDUsg8T) | 2:50 | 2023-09-08 |  |
+| [Coroné](https://open.spotify.com/track/6h22JGTLtV29j7sXmtB2ii) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/3LvQoppyYo1QSEISDUsg8T) | 2:50 | 2023-09-08 | 2023-10-04 |
 | [Cotidiano](https://open.spotify.com/track/5fhXtKQWLg6pjE4Ca02hgd) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Cotidiano](https://open.spotify.com/album/5JXWsZ1nZVLDXfSV4d777m) | 2:12 | 2021-12-06 | 2022-06-04 |
 | [Creo \- Remix](https://open.spotify.com/track/2ogNwewszcmto1CC2an0xO) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Creo \(Remix\)](https://open.spotify.com/album/0CLFXd0a3YDeP7IPRb6ggh) | 4:23 | 2022-06-10 | 2022-07-16 |
 | [Criminal Mood](https://open.spotify.com/track/5HWiWcpQ2zcPA0TVip4kyA) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Rulits TMB](https://open.spotify.com/artist/0yS7QAEchrBFgVTQogvntW) | [Criminal Mood](https://open.spotify.com/album/62pIIvltFPUnUCEUsxLW2a) | 2:21 | 2022-03-04 | 2022-06-04 |
@@ -271,7 +271,7 @@
 | [Oi, Como Ce Tá?](https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Oi, Como Ce Tá?](https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou) | 2:36 | 2022-06-03 | 2022-07-22 |
 | [Olvídate](https://open.spotify.com/track/6Y4EGEbQvkh5s3hqcCknca) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Olvídate](https://open.spotify.com/album/6ClbshPjH9IBGbTQd0TwlO) | 3:13 | 2021-12-06 | 2022-03-12 |
 | [OPA](https://open.spotify.com/track/0sukoSvM4zzGnToTabElJI) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OPA](https://open.spotify.com/album/7t8Tx5nUmUqw8rydzPSKFh) | 2:50 | 2021-12-06 | 2022-04-23 |
-| [Oro](https://open.spotify.com/track/0Wf76ocoKFtAMlwuKRRWZu) | [Dehilan](https://open.spotify.com/artist/3TY8uR5cMZF7zX2xw5mrYI), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [Oro](https://open.spotify.com/album/7ANEdD9W9s0uaPMFkF7oty) | 5:20 | 2023-06-16 |  |
+| [Oro](https://open.spotify.com/track/0Wf76ocoKFtAMlwuKRRWZu) | [Dehilan](https://open.spotify.com/artist/3TY8uR5cMZF7zX2xw5mrYI), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [Oro](https://open.spotify.com/album/7ANEdD9W9s0uaPMFkF7oty) | 5:20 | 2023-06-16 | 2023-10-04 |
 | [Otro De Esos Días](https://open.spotify.com/track/4KeX3jUuwS0Lr9RGFicu4V) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Otro De Esos Días](https://open.spotify.com/album/4jYEjce5w0bg26AfO4dCq4) | 3:13 | 2022-08-19 | 2022-12-10 |
 | [Pa' Cualquiera \(Remix\)](https://open.spotify.com/track/0QGhBcj9YjBcUDUhQN31cF) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Pa' Cualquiera \(Remix\)](https://open.spotify.com/album/0HzhMvehxo0CGoVAl3oDXM) | 4:00 | 2021-12-06 | 2022-03-26 |
 | [Pa' ganá](https://open.spotify.com/track/5gJ3lOJPUrbX5MsQxUAgaK) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Pa' ganá](https://open.spotify.com/album/01pnaYwlDIVi7EEyxX1Jm3) | 3:06 | 2023-03-31 | 2023-08-05 |

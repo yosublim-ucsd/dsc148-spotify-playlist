@@ -17068,7 +17068,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 104000,
       "name": "Casual Games",
       "url": "https://open.spotify.com/track/1hF99tJ0UBNCX6lu54sO8R"
@@ -35010,7 +35010,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 127500,
       "name": "first light",
       "url": "https://open.spotify.com/track/4ybJ6R5bjp9MbXlDmJLVjI"
@@ -47500,7 +47500,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 110000,
       "name": "Ice Landschaft",
       "url": "https://open.spotify.com/track/0OPHJX1XLIVcKlbzo5n7k9"
@@ -49176,6 +49176,24 @@
       "duration_ms": 193596,
       "name": "inherent",
       "url": "https://open.spotify.com/track/2gcMmHaOkMcOROcq6bp9Mv"
+    },
+    {
+      "album": {
+        "name": "Neon Tapestries",
+        "url": "https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P"
+      },
+      "artists": [
+        {
+          "name": "Dusty Decks",
+          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138221,
+      "name": "Inlay",
+      "url": "https://open.spotify.com/track/6wCnpERMZgRELDljSEDKR9"
     },
     {
       "album": {
@@ -71578,7 +71596,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 160469,
       "name": "Noozy",
       "url": "https://open.spotify.com/track/5QKMn9YhcBQQcgvVznQ9dG"
@@ -72148,6 +72166,24 @@
       "duration_ms": 103500,
       "name": "November",
       "url": "https://open.spotify.com/track/1P2KTVsZsYPPsogTGBzdpt"
+    },
+    {
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/4QeTykuNbVZk6q2CdVlIAN"
+      },
+      "artists": [
+        {
+          "name": "Bauke Top",
+          "url": "https://open.spotify.com/artist/5uE2MwBtAkezKgHl2QwJYX"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118024,
+      "name": "November Jam",
+      "url": "https://open.spotify.com/track/7FQwK58IK5vKwEyLuZcsfo"
     },
     {
       "album": {
@@ -105407,6 +105443,24 @@
     },
     {
       "album": {
+        "name": "traffic",
+        "url": "https://open.spotify.com/album/5ako2aURhgoMoVeh9XZSn3"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lullaby & yorukaze",
+          "url": "https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99000,
+      "name": "traffic",
+      "url": "https://open.spotify.com/track/7rfwtpxQF4UBT7cQMslOb6"
+    },
+    {
+      "album": {
         "name": "Traffic",
         "url": "https://open.spotify.com/album/00ysoRFzar7lK93L2Mc13e"
       },
@@ -110432,7 +110486,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 125121,
       "name": "wake up",
       "url": "https://open.spotify.com/track/4NHgEnRY8L1QMmupojP0Vm"

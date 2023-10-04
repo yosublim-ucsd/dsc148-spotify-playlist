@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic Jazz songs. Cover: Nat King Cole",
-  "num_followers": 246659,
+  "num_followers": 247077,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzUzM2JjNTEwNTNhNjc2YjliOTJiMTRmZjczNjQyM2VkOTliYjA0",
+  "snapshot_id": "MCw0MzdiZDZkNTU4N2NjMjAzNGJhMDZhYTRiMjM1MWI3NjcyOWExOWI0",
   "tracks": [
     {
       "added_at": "2023-09-26 13:04:25",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-09-26 13:04:25",
       "album": {
-        "name": "Ultimate Peggy Lee",
-        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Hallelujah, I Love Him So",
-      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
-    },
-    {
-      "added_at": "2023-09-26 13:04:25",
-      "album": {
         "name": "Mystery Lady: Songs of Billie Holiday",
         "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 266733,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
+    },
+    {
+      "added_at": "2023-09-26 13:04:25",
+      "album": {
+        "name": "Ultimate Peggy Lee",
+        "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Hallelujah, I Love Him So",
+      "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
     },
     {
       "added_at": "2023-09-26 13:04:25",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-09-26 13:04:25",
       "album": {
-        "name": "Sinatra's Sinatra",
-        "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
+        "name": "Carmen McRae For Lovers",
+        "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
         }
       ],
-      "duration_ms": 209066,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/4YZL8oBgTZrLYeAFHWuDJP"
+      "duration_ms": 229226,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
     },
     {
       "added_at": "2023-09-26 13:04:25",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-09-26 13:04:25",
       "album": {
-        "name": "Carmen McRae For Lovers",
-        "url": "https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU"
+        "name": "Sinatra's Sinatra",
+        "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
       },
       "artists": [
         {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 229226,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX"
+      "duration_ms": 209066,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/4YZL8oBgTZrLYeAFHWuDJP"
     },
     {
       "added_at": "2023-09-26 13:04:25",
@@ -1079,22 +1079,18 @@
     {
       "added_at": "2023-09-26 13:04:25",
       "album": {
-        "name": "L.A. Is My Lady",
-        "url": "https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU"
+        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
+        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
         }
       ],
-      "duration_ms": 225933,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc"
+      "duration_ms": 165400,
+      "name": "Them There Eyes",
+      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
     },
     {
       "added_at": "2023-09-26 13:04:25",
@@ -1115,18 +1111,22 @@
     {
       "added_at": "2023-09-26 13:04:25",
       "album": {
-        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
-        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
+        "name": "L.A. Is My Lady",
+        "url": "https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU"
       },
       "artists": [
         {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
         }
       ],
-      "duration_ms": 165400,
-      "name": "Them There Eyes",
-      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
+      "duration_ms": 225933,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc"
     },
     {
       "added_at": "2023-09-26 13:04:25",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-09-26 13:04:25",
       "album": {
-        "name": "The Complete Great American Songbook",
-        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw"
-    },
-    {
-      "added_at": "2023-09-26 13:04:25",
-      "album": {
         "name": "Meet Me Around Midnight",
         "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 229613,
       "name": "One for My Baby",
       "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
+    },
+    {
+      "added_at": "2023-09-26 13:04:25",
+      "album": {
+        "name": "The Complete Great American Songbook",
+        "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6MbV4d7n6EGqq7wuGazsUw"
     },
     {
       "added_at": "2023-09-26 13:04:25",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-09-26 13:04:25",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Until The Real Thing Comes Along - Remastered/1998",
-      "url": "https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD"
-    },
-    {
-      "added_at": "2023-09-26 13:04:25",
-      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 109813,
       "name": "Long Ago and Far Away",
       "url": "https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6"
+    },
+    {
+      "added_at": "2023-09-26 13:04:25",
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Until The Real Thing Comes Along - Remastered/1998",
+      "url": "https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD"
     },
     {
       "added_at": "2023-09-26 13:04:25",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-26 13:04:25",
       "album": {
-        "name": "Love Is The Thing",
-        "url": "https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0"
-      },
-      "artists": [
-        {
-          "name": "Lena Horne",
-          "url": "https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe"
-        }
-      ],
-      "duration_ms": 206986,
-      "name": "I'm Confessin' (That I Love You)",
-      "url": "https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg"
-    },
-    {
-      "added_at": "2023-09-26 13:04:25",
-      "album": {
         "name": "Sings The Rodgers & Hart Songbook",
         "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 201546,
       "name": "Isn't It Romantic",
       "url": "https://open.spotify.com/track/1ueC3LYUbZKlzkGf7rtnMb"
+    },
+    {
+      "added_at": "2023-09-26 13:04:25",
+      "album": {
+        "name": "Love Is The Thing",
+        "url": "https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0"
+      },
+      "artists": [
+        {
+          "name": "Lena Horne",
+          "url": "https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe"
+        }
+      ],
+      "duration_ms": 206986,
+      "name": "I'm Confessin' (That I Love You)",
+      "url": "https://open.spotify.com/track/5JXIXRW1vXBgWvBqyUEHZg"
     },
     {
       "added_at": "2023-09-26 13:04:25",

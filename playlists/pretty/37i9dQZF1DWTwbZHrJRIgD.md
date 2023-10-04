@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,332 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,747 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 4 | [Halka Halka \(From "Fanney Khan"\)](https://open.spotify.com/track/44O26Gv1wQrlUj14PpTolM) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Halka Halka \(From "Fanney Khan"\)](https://open.spotify.com/album/58sXAhNuvqeQK02UiIh7de) | 4:07 |
 | 5 | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Dulquer Salmaan](https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk) | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS) | 3:14 |
 | 6 | [Chaleya](https://open.spotify.com/track/3xMHXmedL5Rvfxmiar9Ryv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Jawan](https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6) | 3:20 |
-| 7 | [Aaja Baija Tu \(from "Brand Bollywood Downunder"\)](https://open.spotify.com/track/7n2su2GYTS1jNLSWtJ9sKp) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [EPR Iyer](https://open.spotify.com/artist/5meHdLKS90AVzsKa0PKyRF) | [Aaja Baija Tu \(from "Brand Bollywood Downunder"\)](https://open.spotify.com/album/5oE93LulpFrlhUJqCGq9HX) | 2:59 |
+| 7 | [Aaja Baija Tu \(from "Brand Bollywood Downunder"\)](https://open.spotify.com/track/7n2su2GYTS1jNLSWtJ9sKp) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Epr Iyer](https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj) | [Aaja Baija Tu \(from "Brand Bollywood Downunder"\)](https://open.spotify.com/album/5oE93LulpFrlhUJqCGq9HX) | 2:59 |
 | 8 | [Sajna, Say Yes To The Dress](https://open.spotify.com/track/0eiX2zTStU6Cz4hjUWnUa1) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Sajna, Say Yes To The Dress](https://open.spotify.com/album/1AmAKHzHBnvQ0bCk4jYpFk) | 2:38 |
 | 9 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\)](https://open.spotify.com/track/75DRLUnnltzSyuTJ7onxmW) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Single](https://open.spotify.com/album/4GEXGGOjUBuSHR4KgaSngh) | 3:09 |
 | 10 | [Mahiye Jinna Sohna](https://open.spotify.com/track/2ncqKdTj6dz7tWoTMMrAtq) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mahiye Jinna Sohna](https://open.spotify.com/album/4fiPkVR8M247hQBOYLkwBq) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 49 | [Jaane Kyun](https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:37 |
 | 50 | [Offo](https://open.spotify.com/track/3f26GAn3yOXfoclLyN8AdD) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 3:33 |
 
-Snapshot ID: `MCw4NWVhMzQ0N2YyYTU1ZTc5ZGZmMmFkOGYyMmIzOTgyZjM0MzUzODA3`
+Snapshot ID: `MCw4ZWI1NjQ5MDVlOWRiMGEzMDJmMjYwZjc3MWY1YzZhNjI0ZDg4MGQ4`

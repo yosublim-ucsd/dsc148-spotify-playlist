@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321914,
+  "num_followers": 321929,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjBlZGViM2E0YTlkNmYzNDU1ZjRkMTc2MWE1YTZhNGIxZWVmOTll",
+  "snapshot_id": "MCwyMDFmYjI0MmI2MWNkMGEwNTZkODlkMzU4MWYyN2JiNmFiOGYxNjkw",
   "tracks": [
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Lost Myself Again",
-        "url": "https://open.spotify.com/album/1h5Xisd09gC9H641NaRwaY"
-      },
-      "artists": [
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Lost Myself Again",
-      "url": "https://open.spotify.com/track/1uRkLJG9sdMFIB8Hb18uGx"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Selecta",
         "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Lost Myself Again",
+        "url": "https://open.spotify.com/album/1h5Xisd09gC9H641NaRwaY"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Lost Myself Again",
+      "url": "https://open.spotify.com/track/1uRkLJG9sdMFIB8Hb18uGx"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Want You To Want Me",
-        "url": "https://open.spotify.com/album/4NHmZ3UJiiK9ppIZeqoQE5"
-      },
-      "artists": [
-        {
-          "name": "Alex Mills",
-          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
-        }
-      ],
-      "duration_ms": 187814,
-      "name": "Want You To Want Me",
-      "url": "https://open.spotify.com/track/5cBHDVijSYGOpgnSx7rBuw"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Olympia",
         "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 185133,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/3PBxGPKTvxXvcP1Z7dDc3Q"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Want You To Want Me",
+        "url": "https://open.spotify.com/album/4NHmZ3UJiiK9ppIZeqoQE5"
+      },
+      "artists": [
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "duration_ms": 187814,
+      "name": "Want You To Want Me",
+      "url": "https://open.spotify.com/track/5cBHDVijSYGOpgnSx7rBuw"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Never The Same",
-        "url": "https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj"
-      },
-      "artists": [
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Never The Same",
-      "url": "https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Here To Party (Shaun Dean Remix)",
         "url": "https://open.spotify.com/album/33REBrf4zWzcTBuCfZX0Tt"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 209090,
       "name": "Here To Party - Shaun Dean Remix",
       "url": "https://open.spotify.com/track/7aUSQFp0twv9wpborjXV0V"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Never The Same",
+        "url": "https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Never The Same",
+      "url": "https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB"
     },
     {
       "added_at": "2023-09-22 00:01:00",

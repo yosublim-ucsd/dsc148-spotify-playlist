@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,328 likes - 31 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,342 likes - 31 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 10 | [Sugsankan](https://open.spotify.com/track/6ehGy1X3Z00HjMdMV0gxOZ) | [The Persuader](https://open.spotify.com/artist/1C7LDrsGczGPZ2KbAhanRq) | [Skargard](https://open.spotify.com/album/4UFKRr7IWAmgBbuiUs1rRW) | 5:21 |
 | 11 | [Three Chains](https://open.spotify.com/track/4mtgNcMztMWMXHZeFBJMXu) | [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [Three Chains / Nature](https://open.spotify.com/album/3197zWxS0yTRUN3lH6YRNc) | 4:26 |
 | 12 | [A Parade](https://open.spotify.com/track/420f09vvRpnTwRGZxdg4ZO) | [Loidis](https://open.spotify.com/artist/2TDYu0uxVowgHaYN6P14k2) | [A Parade, In The Place I Sit, The Floating World \(& All Its Pleasures\)](https://open.spotify.com/album/70oref5eMh1OF6bM5IG9qD) | 7:08 |
-| 13 | [I Never Knew Love \- Made In Detroit Extended Mix](https://open.spotify.com/track/3xvQ7jFN3XoTPeH3GCGj6Q) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Made In Detroit](https://open.spotify.com/artist/2sXlwbyOLmdXwD7zqavG9W) | [I Never Knew Love](https://open.spotify.com/album/2JupQom4QixXJfhU3x140N) | 8:22 |
+| 13 | [I Never Knew Love \- Made In Detroit Extended Mix](https://open.spotify.com/track/3xvQ7jFN3XoTPeH3GCGj6Q) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C) | [I Never Knew Love](https://open.spotify.com/album/2JupQom4QixXJfhU3x140N) | 8:22 |
 | 14 | [Morning Factory](https://open.spotify.com/track/5Ss4qt2UmN2MIugKdbCR6K) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Word, Sound & Power](https://open.spotify.com/album/3MqP5lYO3a7FYfPmhLIFkk) | 10:41 |
 | 15 | [Let The Bass](https://open.spotify.com/track/6s5D2riEpAGU7X7w2p4qsb) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS), [Foley](https://open.spotify.com/artist/30D6A5migVTK2t14hZkXsZ) | [Let The Bass](https://open.spotify.com/album/0wJP2PJMzS86wxA1kVpl5s) | 5:46 |
 | 16 | [Ackee](https://open.spotify.com/track/2kIgDJcUogfY1e7HoTufxL) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [orbs](https://open.spotify.com/album/2diDpno1K39g7HtGkPWiTe) | 4:42 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 30 | [Light Tunnel](https://open.spotify.com/track/7CBTPgLDAxoyclmTXFEsZd) | [Paranoid London](https://open.spotify.com/artist/0KyUH5WmspOhuIQAnw42Fb), [Mutado Pintado](https://open.spotify.com/artist/0SFzGc8fvOuNpikX5mMP4t) | [Paranoid London](https://open.spotify.com/album/0wdxdBlbsDLeAYpDofB1NU) | 5:48 |
 | 31 | [When U Came Into My Life](https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/2b1eij1R1tHppx4M5ZZTrF) | 8:07 |
 
-Snapshot ID: `MCxmMWQwNjM1MTdkYzM1M2ZmZmQ5ZjZhMzY5ODFhNTI4NzZiYjVlYTgx`
+Snapshot ID: `MCw3YzQwZTNiYzZjZDM2NGQyNTcxZTkyY2ZlMWNhNDMwMWY5YTk4NmYy`

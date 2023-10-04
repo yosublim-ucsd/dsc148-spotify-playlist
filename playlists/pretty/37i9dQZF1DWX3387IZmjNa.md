@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,030,737 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,030,987 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 37 | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:27 |
 | 38 | [Self Love \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Coi Leray\)](https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:09 |
 | 39 | [Remember That \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/470JBksqa9k9VlTs0kA7f6) | [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Remember That \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/album/7jUo1wxEtUCyHZaLvPIdO1) | 3:18 |
-| 40 | [Need Me](https://open.spotify.com/track/7a636g0dl8a487foiAcoCM) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Need Me](https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm) | 2:18 |
+| 40 | [Need Me](https://open.spotify.com/track/7a636g0dl8a487foiAcoCM) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Need Me](https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm) | 2:20 |
 | 41 | [Trying \- Remix](https://open.spotify.com/track/6wnxSlwXdqPD5nUyOIxyKu) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Trying \(feat\. Kevin Gates\) \[Remix\]](https://open.spotify.com/album/5plqxzmegAFVguOWw9N9bu) | 3:04 |
 | 42 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/album/1TXD0BaYXcHlmPIx7A7a0g) | 2:40 |
 | 43 | [Say Luv](https://open.spotify.com/track/3a3Tz1TtYuwTJMqbc6IeD1) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Say Luv](https://open.spotify.com/album/1jxdGY4MuFGOzgoUTWslet) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 49 | [Passionate \(feat\. Roddy Ricch\)](https://open.spotify.com/track/5k3xP19vac82Kweo4mOvlw) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Just For Clarity 2](https://open.spotify.com/album/4nw05bSkWU3oVxK5dBcSQE) | 2:50 |
 | 50 | [\#1 Freak \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0tgAhrvNPhSyMZR0wWbv6Z) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Feed Tha Streets III](https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji) | 2:49 |
 
-Snapshot ID: `MCxkMzE3NTAwYWFhNWJhNzhhZDE0OGE5MDgzZDMwNDc3OWI3NDI3NWMy`
+Snapshot ID: `MCxjMWQ0MTNiODMzODIwMTM1NmFiZmZlZjhjOTkzODQ3ODM1ZTcwMGNi`

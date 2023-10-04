@@ -4,7 +4,7 @@
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-205 songs - 1 day 17 hr 3 min
+206 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Re:start!!!](https://open.spotify.com/track/6MLvvv4gNnfJJ5R6z6Qwrr) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『どついたれ本舗 VS Buster Bros!!!』](https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d) | 3:31 | 2022-06-09 |  |
 | [Reason to FIGHT](https://open.spotify.com/track/2XVfFzmqXrLsv1xoRmFu7z) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99), [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『Fling Posse VS MAD TRIGGER CREW』](https://open.spotify.com/album/3ZIswKcDqU5JCaJdEKp3QO) | 5:11 | 2022-06-09 |  |
 | [RED ZONE\(Don't test da Master\)](https://open.spotify.com/track/2Bt3hPDdFgJawOAMZltQaN) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima\(MAD TRIGGER CREW\)](https://open.spotify.com/artist/0GkFdb6m7ggrvy8ym980tv) | [Straight Outta Rhyme Anima](https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV) | 2:53 | 2022-06-09 |  |
+| [Rep Squad \-MAD TRIGGER CREW Ver.\-](https://open.spotify.com/track/1DCdzPr9v3WrNBjNwkOZ3l) | [ヒプノシスマイク \-D.R.B\- Rule the Stage \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/5PLtK0RYZ3vNnVKMkXdir2) | [Rep Squad \-MAD TRIGGER CREW Ver.\-](https://open.spotify.com/album/6yWUnGx4WONkTo8Cx2kAmW) | 3:01 | 2023-10-03 |  |
 | [Rhyme Anima's Mixtape](https://open.spotify.com/track/6QRGnXRxnJmSWMQjHjcXtH) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima \(Division All Stars\)](https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8) | [Straight Outta Rhyme Anima](https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV) | 5:41 | 2022-06-09 |  |
 | [Rivals!](https://open.spotify.com/track/4otyBXYhh2gmvZ8mStOIUn) | [ヒプノシスマイク \-D.R.B\- \(有栖川帝統\)](https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht), [ヒプノシスマイク \-D.R.B\- \(観音坂独歩\)](https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 3:18 | 2023-08-22 |  |
 | [Rule the Stage wiz 6 mic](https://open.spotify.com/track/7lp4zV3sEfG8N2Mf03BGhx) | [ヒプノシスマイク \-D.R.B\- Rule the Stage \(Division Leaders\)](https://open.spotify.com/artist/781OlSl4fitMTjZt3FQ5PE) | [Turn up the Stage](https://open.spotify.com/album/6vcU5AgRDEMWC0RAjV0kda) | 5:25 | 2022-06-09 |  |

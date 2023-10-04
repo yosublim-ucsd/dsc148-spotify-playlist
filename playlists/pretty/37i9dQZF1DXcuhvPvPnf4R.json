@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 7188,
+  "num_followers": 7202,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmQ0YTAzY2ViOWRkN2QzOWQ1MWM3ODI5NTRlOTNjNmRjMWQ3MWJl",
+  "snapshot_id": "MCw2YzE4ZmM1ZTMyYmQ4ZmM2ZTkzZGZjN2Q3N2U3NWJkYzZkZTZjMjkw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Ruff Ryders' Anthem",
-      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 319386,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -389,7 +389,7 @@
         }
       ],
       "duration_ms": 284000,
-      "name": "Hate Me Now",
+      "name": "Hate Me Now (feat. Diddy)",
       "url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P"
     },
     {
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Dondria vs. Phatfffat",
+        "url": "https://open.spotify.com/album/7m1vzSK4S0pSgqWWJJbRNP"
+      },
+      "artists": [
+        {
+          "name": "Dondria",
+          "url": "https://open.spotify.com/artist/4NgmPmKCSWm4kczsm6J3FO"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/0G0ky7lWhrwkds6MobBqvu"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Rum & Redbull",
         "url": "https://open.spotify.com/album/3og1VflDWwrGfXysXRzdcR"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 135640,
       "name": "Rum & Redbull",
       "url": "https://open.spotify.com/track/3rcdpymBJXEExx2YcZbjMU"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Dondria vs. Phatfffat",
-        "url": "https://open.spotify.com/album/7m1vzSK4S0pSgqWWJJbRNP"
-      },
-      "artists": [
-        {
-          "name": "Dondria",
-          "url": "https://open.spotify.com/artist/4NgmPmKCSWm4kczsm6J3FO"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/0G0ky7lWhrwkds6MobBqvu"
     },
     {
       "added_at": "2022-10-01 16:43:03",

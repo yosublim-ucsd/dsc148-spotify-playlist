@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Elvis Crespo & Miriam Cruz",
-  "num_followers": 387594,
+  "num_followers": 387631,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODRmNjJkMjkxYTY5ZDQzMDk4YWVkYThkMDU2ZTQ2N2JiNDVmMjk5",
+  "snapshot_id": "MCwzNWMzYWI4MGQxYzU5Y2E5NDdkYWZlYmIzNzhhMmRjMzk0MzkyMzJk",
   "tracks": [
     {
       "added_at": "2023-09-08 20:58:23",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
+        "name": "Acabando!",
+        "url": "https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "Borr\u00f3n y Cuenta Nueva",
+      "url": "https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
         "name": "JotaB\u00e9",
         "url": "https://open.spotify.com/album/037Atxwv4mxxFRXM4564RS"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 167722,
       "name": "JotaB\u00e9",
       "url": "https://open.spotify.com/track/3CrTrdgbJQl6NWUBTsLyYd"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
-        "name": "Acabando!",
-        "url": "https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "Borr\u00f3n y Cuenta Nueva",
-      "url": "https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD"
     },
     {
       "added_at": "2023-09-08 20:58:23",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-09-08 20:58:23",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V"
-      },
-      "artists": [
-        {
-          "name": "Yosi Fuentes",
-          "url": "https://open.spotify.com/artist/0ClimgRcrn4sEUHIwFkzz2"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO"
-    },
-    {
-      "added_at": "2023-09-08 20:58:23",
-      "album": {
         "name": "Merengue De hoy",
         "url": "https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 264160,
       "name": "Enamorame",
       "url": "https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax"
+    },
+    {
+      "added_at": "2023-09-08 20:58:23",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/5NXP7gUS3CyP0tDGSErW5V"
+      },
+      "artists": [
+        {
+          "name": "Yosi Fuentes",
+          "url": "https://open.spotify.com/artist/0ClimgRcrn4sEUHIwFkzz2"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/2lgeSsfCdcClqitHCAcyzO"
     },
     {
       "added_at": "2023-09-08 20:58:23",

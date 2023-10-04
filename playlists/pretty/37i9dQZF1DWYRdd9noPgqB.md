@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,017 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,059 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
 | 50 | [Away From The Castle](https://open.spotify.com/track/0lQd2j6DVcXvRFRsat7Cwz) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/4oEso7P9WBi868KZPWpJAg) | 3:42 |
 
-Snapshot ID: `MCw3YTM0MTAyOWU4NDhjNzEyMDQyYWM4NDlmNTY3NzM3Y2YxMjNmZDEx`
+Snapshot ID: `MCxjZDhiOWUxMDA4NWIyYjE3ODI1ZGU3NzJjMjhkY2E5OTA0MGMwZjAy`

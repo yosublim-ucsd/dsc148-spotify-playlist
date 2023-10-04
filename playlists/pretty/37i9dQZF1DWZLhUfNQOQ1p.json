@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un Negroni in mano. \ud83c\udf79",
-  "num_followers": 245694,
+  "num_followers": 245784,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzIzNGY1MmEzYTk4YWQ2YWY3NjhlZWI3OGMxOTJhNGJhOWExNjFl",
+  "snapshot_id": "MCwxYjZmZjZjNjQwM2U2MTk3NmYyNTVlZWFlZTUwOTQ4OWE4MjE3ODdi",
   "tracks": [
     {
       "added_at": "2023-09-29 07:47:01",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-09-29 07:47:01",
       "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
-    },
-    {
-      "added_at": "2023-09-29 07:47:01",
-      "album": {
         "name": "Since I Left You (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 262840,
       "name": "Since I Left You",
       "url": "https://open.spotify.com/track/1AAYbsAIgEJMbxgLgpjE9y"
+    },
+    {
+      "added_at": "2023-09-29 07:47:01",
+      "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     },
     {
       "added_at": "2023-09-29 07:47:01",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-09-29 07:47:01",
       "album": {
-        "name": "L.I.F.E",
-        "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
-      },
-      "artists": [
-        {
-          "name": "&ME",
-          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        }
-      ],
-      "duration_ms": 449093,
-      "name": "L.I.F.E",
-      "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
-    },
-    {
-      "added_at": "2023-09-29 07:47:01",
-      "album": {
         "name": "Amplified Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2"
       },
@@ -1215,18 +1195,22 @@
     {
       "added_at": "2023-09-29 07:47:01",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+        "name": "L.I.F.E",
+        "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
       },
       "artists": [
         {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
         }
       ],
-      "duration_ms": 227486,
-      "name": "Actually",
-      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
+      "duration_ms": 449093,
+      "name": "L.I.F.E",
+      "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
     },
     {
       "added_at": "2023-09-29 07:47:01",
@@ -1247,6 +1231,22 @@
       "duration_ms": 196363,
       "name": "Good Life (Remastered)",
       "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
+    },
+    {
+      "added_at": "2023-09-29 07:47:01",
+      "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 227486,
+      "name": "Actually",
+      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
     },
     {
       "added_at": "2023-09-29 07:47:01",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-09-29 07:47:01",
       "album": {
+        "name": "Dusty Sundays",
+        "url": "https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 358000,
+      "name": "Dusty Sundays",
+      "url": "https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu"
+    },
+    {
+      "added_at": "2023-09-29 07:47:01",
+      "album": {
         "name": "Cinecitt\u00e0",
         "url": "https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 208358,
       "name": "Cinecitt\u00e0",
       "url": "https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5"
-    },
-    {
-      "added_at": "2023-09-29 07:47:01",
-      "album": {
-        "name": "Dusty Sundays",
-        "url": "https://open.spotify.com/album/4ILZJaCxMm9B3SSAZreYod"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 358000,
-      "name": "Dusty Sundays",
-      "url": "https://open.spotify.com/track/2ywnAokQls8TzKYCa7jNyu"
     },
     {
       "added_at": "2023-09-29 07:47:01",

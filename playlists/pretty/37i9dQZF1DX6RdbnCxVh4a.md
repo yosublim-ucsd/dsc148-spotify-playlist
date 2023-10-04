@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 
 > Mode lecture aléatoire obligatoire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,419 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,501 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 49 | [Only Good Things](https://open.spotify.com/track/1xn7DfWI2NeNlcS463ku3F) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Gigi's Recovery](https://open.spotify.com/album/6ZbJKlwcSja0MbKg2dQQLJ) | 3:15 |
 | 50 | [Need A Little Time](https://open.spotify.com/track/38O0SN9P3sC0UFLsgLqLju) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Tell Me How You Really Feel](https://open.spotify.com/album/3l7JWewI3ZByxaT5BCgRx2) | 3:58 |
 
-Snapshot ID: `MCw1Y2YxMDcyMTJkYmRkYjc2N2Q4OTFjNTM0NzhhMTYzY2QyY2NjM2Jk`
+Snapshot ID: `MCxjYWI0YTAyYzRkNTE2MmU4NGEyODAwMmQwOWQ0NzUyYjE5ZDY2MTlm`

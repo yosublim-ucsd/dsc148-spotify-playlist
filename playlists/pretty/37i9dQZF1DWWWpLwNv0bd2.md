@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Romance Tracks.<br/>Cover : Jawan
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,560 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,633 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 3 | [Aradhya \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/track/0H419AjRA2CY6RtjNT1q1l) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Aradhya \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/album/4BlgOYbwSOCeJueIHUG9wp) | 4:42 |
 | 4 | [Kangal Edho \- From "Chithha"](https://open.spotify.com/track/6STXfHpOuGjOespYlpeuI4) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Karthika Vaidyanathan](https://open.spotify.com/artist/6JU9Z6CZZFeOO4pqZUJ3TS), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Kangal Edho \(From "Chithha"\)](https://open.spotify.com/album/4TZVYX8n31dqSAN8FUDBrZ) | 4:02 |
 | 5 | [Nenjame Nenjame](https://open.spotify.com/track/5gpjup3L76P6ZNMu44eCyG) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Maamannan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7pMOd6mZQQDi7hz6NYOKL0) | 6:50 |
-| 6 | [Idhu Pola \(From "Iraivan"\)](https://open.spotify.com/track/50Rf38ZlA5ZfXILE3DXXoG) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Idhu Pola \(From "Iraivan"\)](https://open.spotify.com/album/4eRoVd92V5F6k5Bfee2EJv) | 4:01 |
+| 6 | [Idhu Pola \(From "Iraivan"\)](https://open.spotify.com/track/6lVU7wfTaG6Qkn2CttY1gi) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Idhu Pola \(From "Iraivan"\)](https://open.spotify.com/album/3xRlsmGq7kvikUzAzzJaeC) | 4:01 |
 | 7 | [Vannarapettayila \(From "Maaveeran"\)](https://open.spotify.com/track/19pRrxOQCRg8j0uQxe2d0V) | [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8), [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Vannarapettayila \(From "Maaveeran"\)](https://open.spotify.com/album/1HcB2vrrODInH3wZOXSY9k) | 3:28 |
 | 8 | [Kaattumalli](https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:06 |
 | 9 | [Salana \(From "LGM"\)](https://open.spotify.com/track/2kt8pqyFNZ1eAfx44GNLH2) | [Ramesh Thamilmani](https://open.spotify.com/artist/1DPRhvqBKE7SL5QJJmK08W), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Salana \(From "LGM"\)](https://open.spotify.com/album/7tlEW61tcGpEULjPf3l8gH) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 49 | [Mayakirriye](https://open.spotify.com/track/23netDpLwSCf0IxldbbMuF) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakirriye \- Single](https://open.spotify.com/album/3SPqv6jQCx2HoaO3qna0A5) | 3:09 |
 | 50 | [Raati](https://open.spotify.com/track/0iZ70iS3InwGoVyH1WBIl2) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Swagatha](https://open.spotify.com/artist/3fX6I5TxaX7VusdmICwfy4) | [Partner \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ImbNeAxzmYKi5JtcAhVEQ) | 4:18 |
 
-Snapshot ID: `MCwwMGY4YzhhMzQzNzRhNDg0NzUyNGNjOWZhY2NhNmVmOWQyYjc4MmNl`
+Snapshot ID: `MCw4NDdmNWYyZmY2NTAxYTlhYzU4ZDVhYTI2MjhmZGQ4YWNmNjJlZjYy`

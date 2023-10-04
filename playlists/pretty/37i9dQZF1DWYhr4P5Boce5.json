@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 199787,
+  "num_followers": 199802,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjE1NGRmNjllMWQwMWRkYjlmZTljZDE5MmViZWMyOTIzMWZmZDU2",
+  "snapshot_id": "MCw4MDkyYmM2ODIxMjgzMTMxMjA1ZWE5ZmU0ZGMyN2NkZDQzOWQwZDdj",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "H A R D L O V E",
-        "url": "https://open.spotify.com/album/0DjJIQPOsxd5OiUoVskRBH"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 200120,
-      "name": "LET'S STAY HOME TONIGHT",
-      "url": "https://open.spotify.com/track/1kiylxwnw8R8rJoCDtubWM"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "This Moment (Cinderella Edition)",
         "url": "https://open.spotify.com/album/7HAomGpaAjuPCEbuMevOlP"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 265253,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/1oj4KLsbYhvfHFnhdb3twP"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "H A R D L O V E",
+        "url": "https://open.spotify.com/album/0DjJIQPOsxd5OiUoVskRBH"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 200120,
+      "name": "LET'S STAY HOME TONIGHT",
+      "url": "https://open.spotify.com/track/1kiylxwnw8R8rJoCDtubWM"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 244320,
-      "name": "Hold Her",
-      "url": "https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Nothing is Ordinary. Everything is Beautiful.",
         "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 226293,
       "name": "You",
       "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 244320,
+      "name": "Hold Her",
+      "url": "https://open.spotify.com/track/2RxEX1W0GSQRcQEmwut9OA"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Come To The Well",
         "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 224013,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -871,22 +871,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "A Little Crazy",
-        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
       },
       "artists": [
         {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
+      "duration_ms": 240280,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -907,18 +903,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
+        "name": "A Little Crazy",
+        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         }
       ],
-      "duration_ms": 240280,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F"
+      "duration_ms": 198000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "The Soul",
-        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Pilots",
-      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 118503,
       "name": "When It Hurts",
       "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "The Soul",
+        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Pilots",
+      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "NATIVE TONGUE",
+        "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 125598,
+      "name": "YOU'RE THE ONE I WANT",
+      "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Dear Future Wife (Acoustic)",
         "url": "https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg"
       },
@@ -1211,18 +1227,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "NATIVE TONGUE",
-        "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
+        "name": "Without Your Love",
+        "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
       },
       "artists": [
         {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+          "name": "Colorvault",
+          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
+        },
+        {
+          "name": "A.Bishai",
+          "url": "https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM"
         }
       ],
-      "duration_ms": 125598,
-      "name": "YOU'RE THE ONE I WANT",
-      "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
+      "duration_ms": 179271,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1251,42 +1271,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Fifteen",
-        "url": "https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl"
-      },
-      "artists": [
-        {
-          "name": "Green River Ordinance",
-          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Without Your Love",
-        "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
-      },
-      "artists": [
-        {
-          "name": "Colorvault",
-          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
-        },
-        {
-          "name": "A.Bishai",
-          "url": "https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM"
-        }
-      ],
-      "duration_ms": 179271,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 188133,
       "name": "YOU",
       "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Fifteen",
+        "url": "https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl"
+      },
+      "artists": [
+        {
+          "name": "Green River Ordinance",
+          "url": "https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "The Glorious Unfolding",
-        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Overcomer",
         "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 214746,
       "name": "Praying For You",
       "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "The Glorious Unfolding",
+        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "True Beauty",
-        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 246240,
       "name": "I'm in Love With You",
       "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "True Beauty",
+        "url": "https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0"
     }
   ],
   "unique_name": "Higher Love",

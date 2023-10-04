@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,343 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,353 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 34 | [把所有的愛都揮霍](https://open.spotify.com/track/2bkU3k04LPBUzFSgPJvsB3) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [把所有的愛都揮霍](https://open.spotify.com/album/0wG64jKhXBFqzQ6yclsx7N) | 3:03 |
 | 35 | [光影](https://open.spotify.com/track/59ZrFOUOptVURSvxHhZ8SK) | [Olivia Ong](https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd) | [光影](https://open.spotify.com/album/7bBf2ysngmkMuMOVl4KS77) | 4:02 |
 | 36 | [几何](https://open.spotify.com/track/6jpthAGvW8UowRznK4fmJH) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [几何](https://open.spotify.com/album/2DChVorOry7Y1sW8WSt6VH) | 3:57 |
-| 37 | [Hello Huckleberry Finn](https://open.spotify.com/track/6vZuCvUIdXpqiXVdmgzIuY) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [黃淑惠](https://open.spotify.com/artist/4oE9oYCiPBhvOdvsrNIRd7) | [Hello Huckleberry Finn](https://open.spotify.com/album/5peTqtmmcFPn1dYQVNgZdb) | 3:54 |
+| 37 | [Hello Huckleberry Finn](https://open.spotify.com/track/6vZuCvUIdXpqiXVdmgzIuY) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [黄淑惠](https://open.spotify.com/artist/06KaZVpvqT7NvzFdF5Cwhd) | [Hello Huckleberry Finn](https://open.spotify.com/album/5peTqtmmcFPn1dYQVNgZdb) | 3:54 |
 | 38 | [专属频道](https://open.spotify.com/track/7nQ5hDOEBINQIf9lLYAVwN) | [Ben Hum](https://open.spotify.com/artist/4ATqdfAOYsKwaVVPEktade) | [专属频道](https://open.spotify.com/album/5wnQLP20L7WwF0slQg8EDo) | 3:22 |
 | 39 | [Falling or flying](https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:24 |
 | 40 | [Truth or Dare](https://open.spotify.com/track/7wiIJWvHNaHPpZ35O5IOrv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Rick](https://open.spotify.com/album/7y2Hg6YdBs0VOq7F29Ct1T) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 99 | [It Could've Been You](https://open.spotify.com/track/5eQAybRCE1L1YgPgu6n6UG) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [It Could've Been You](https://open.spotify.com/album/1fz0TnFIf2lhouk219X1mt) | 3:35 |
 | 100 | [Bigger Than The Song](https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song](https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653) | 3:09 |
 
-Snapshot ID: `MCxiNjA5NGUyNzlmODI4ODk4OGJjMjM0NTBmZjhhOGQ0MDgwZWRhMTMw`
+Snapshot ID: `MCwzN2E1ZmM1ZmQzOWY5ZTk1OTQ0ZjVlNzZjZThhZGQ4ZTA3MzNhMTk0`

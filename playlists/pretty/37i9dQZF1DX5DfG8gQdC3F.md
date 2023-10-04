@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Sum 41, Ed Sheeran, PinkPantheress, William Prince and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,569 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,618 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 84 | [Surfing in France](https://open.spotify.com/track/3uGpgTOc2Gm2elTCInyc57) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [The Wind Surfer](https://open.spotify.com/album/64QRZ0FW3UcDyhSwd4Smgd) | 5:39 |
 | 85 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 |
 | 86 | [Run Through](https://open.spotify.com/track/1X0TfANeGJ9Q2cjagTc7Ig) | [The Plug](https://open.spotify.com/artist/5r3fI2q1YU3QyVP7oncOQ9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Run Through](https://open.spotify.com/album/5zQzRSmAlbJPu2I87TE87R) | 4:14 |
-| 87 | [Supa Silly Heaux](https://open.spotify.com/track/4ehOkKvFdlPzMGThBhmlgm) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Nikki Jayy](https://open.spotify.com/artist/4MONW063BePUr0702vTw6c) | [Supa Silly Heaux](https://open.spotify.com/album/3OYsZRVc4JR3ePoEmec836) | 2:27 |
+| 87 | [Supa Silly Heaux](https://open.spotify.com/track/4ehOkKvFdlPzMGThBhmlgm) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Nikki Jayy](https://open.spotify.com/artist/4MONW063BePUr0702vTw6c), [Supa Cindy](https://open.spotify.com/artist/22e8seQKsb34z8dW26bG5P) | [Supa Silly Heaux](https://open.spotify.com/album/3OYsZRVc4JR3ePoEmec836) | 2:27 |
 | 88 | [TRICKIN'](https://open.spotify.com/track/1jBMZDuirIUrnXyhS2ExfB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TRICKIN'](https://open.spotify.com/album/1o8Qeyne1vdIDJtPCwwbvw) | 1:45 |
 | 89 | [Rado](https://open.spotify.com/track/2qSyaV0jbKiFLvvnZYB9f7) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i) | [Still](https://open.spotify.com/album/0z6Pi6kshLTjpHgpQ9qTJy) | 2:50 |
 | 90 | [Guilt Trip](https://open.spotify.com/track/4HJVEuX0FP2BbRM9NbEBUC) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Guilt Trip](https://open.spotify.com/album/6tm4o7aC0NDNsdADWRT0N7) | 3:09 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 95 | [Ready For War](https://open.spotify.com/track/4X00vP77RtlbZsQOHgK51d) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [D Cut](https://open.spotify.com/artist/7epRv5bwmZHb8zM59Tbpme) | [Ready For War](https://open.spotify.com/album/3TVYrAfCnKttaG33M6KFtw) | 2:48 |
 | 96 | [Oasis](https://open.spotify.com/track/0NPhru0eI9yDJA7YUCxvrr) | [Jake Hope](https://open.spotify.com/artist/44PkBtAQLIQ45IDNop6d78) | [Oasis](https://open.spotify.com/album/3CVXQldA5bDDtsBomUjfZE) | 2:41 |
 | 97 | [Two Seater](https://open.spotify.com/track/7lmRIUh9wpC8Orglf8nkY2) | [DJ Agile](https://open.spotify.com/artist/3ypWgymPzuSt8QT4Tg09Ed), [August Rigo](https://open.spotify.com/artist/0j4KkLX4P2OPMJfXcatbQ3) | [Two Seater](https://open.spotify.com/album/6WjixDtKcOv7IMp1E9YfH6) | 3:07 |
-| 98 | [The Bridge](https://open.spotify.com/track/3JJ70Yq4PzMCTha53z8hxo) | [Versvs](https://open.spotify.com/artist/6XUsxNud8j33iC6AS8iHbK) | [The Bridge](https://open.spotify.com/album/5pQOL7DAtzcuqO9avpLHTc) | 2:56 |
+| 98 | [The Bridge](https://open.spotify.com/track/3JJ70Yq4PzMCTha53z8hxo) | [Versvs](https://open.spotify.com/artist/6XUsxNud8j33iC6AS8iHbK), [Bella Espo](https://open.spotify.com/artist/7wJFRjIiHMLUrXwfVRG8cb) | [The Bridge](https://open.spotify.com/album/5pQOL7DAtzcuqO9avpLHTc) | 2:56 |
 | 99 | [Rose City](https://open.spotify.com/track/5JoFmBsA6J1FJumA0BJKX1) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Rose City / Rise Up With Fists](https://open.spotify.com/album/0pYtOyHubrt0sHOg7fhPzS) | 2:46 |
 | 100 | [Next Time I'll Choose Love](https://open.spotify.com/track/54FrC1f6uQPlC4ldAyKWpH) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [Finish What You Started](https://open.spotify.com/album/4aqeFt0XhI5uqPTnVCfAHk) | 2:56 |
 
-Snapshot ID: `MCwyYmRiMTU5ZGEzYjFiMTljZWZiNmQ0M2IzZmExM2M3OWQzY2QwYmE3`
+Snapshot ID: `MCxjZTJjZjBjNjMxOGNlMWQxMDY5YjdlZWM5ZDFiNjVmMzliMGQyYmMw`

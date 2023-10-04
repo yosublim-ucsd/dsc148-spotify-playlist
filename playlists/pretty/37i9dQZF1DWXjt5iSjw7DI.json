@@ -1,12 +1,12 @@
 {
   "description": "Country Music legends recorded live. Just like being there. Cover: Willie Nelson",
-  "num_followers": 74393,
+  "num_followers": 74440,
   "original_name": "Legendary Country Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTVhZGUzMDQ0NTg5Mjg5ZmM0ZTFjMTA0ZDljYjZmZmQ1MjllOGUz",
+  "snapshot_id": "MCw3ZjlkYWRkNDhiZjM3YjcyYWRkZjk5NzVkNDNlZjdkNGQ3NTNhODJl",
   "tracks": [
     {
       "added_at": "2023-07-24 14:46:54",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Buffett Live: Tuesdays, Thursdays, Saturdays",
-        "url": "https://open.spotify.com/album/4lotEIzou9mWRk5kdwz76q"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 307133,
-      "name": "Fins - Live",
-      "url": "https://open.spotify.com/track/6OTJ1osgoSNY6U1UIK3Hf5"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Still The One: Live From Vegas",
         "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 286200,
       "name": "Whose Bed Have Your Boots Been Under? - Live",
       "url": "https://open.spotify.com/track/3CAjCIp6vqAYutYtyLtaSe"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Buffett Live: Tuesdays, Thursdays, Saturdays",
+        "url": "https://open.spotify.com/album/4lotEIzou9mWRk5kdwz76q"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 307133,
+      "name": "Fins - Live",
+      "url": "https://open.spotify.com/track/6OTJ1osgoSNY6U1UIK3Hf5"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/0T4kDCbygbQRDWcMd6bzni"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 317586,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/1cv4Xk5nRNwpSo6KfbqwwL"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
         "name": "Okie From Muskogee (Live In Muskogee, Oklahoma/1969)",
         "url": "https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 181853,
       "name": "Sunday Mornin' Comin' Down - Live from RCA Studios 1972",
       "url": "https://open.spotify.com/track/0Sx8JhbiYEYo66lWVBe9xz"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/0T4kDCbygbQRDWcMd6bzni"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 317586,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/1cv4Xk5nRNwpSo6KfbqwwL"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
+        "name": "Mickey Gilley",
+        "url": "https://open.spotify.com/album/3mrArYIsNdASsv8aZrDIH7"
+      },
+      "artists": [
+        {
+          "name": "Mickey Gilley",
+          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Don't the Girls All Get Prettier at Closing Time - Live",
+      "url": "https://open.spotify.com/track/1jWiL9aw5eUu3LGOxPRfo7"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
         "name": "Live Anthology",
         "url": "https://open.spotify.com/album/0E8GZQAximOCOgCgfIM1Lx"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 249023,
       "name": "Country Club - Live",
       "url": "https://open.spotify.com/track/3ghaKch85cqDYht0nQPXYe"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
-        "name": "Mickey Gilley",
-        "url": "https://open.spotify.com/album/3mrArYIsNdASsv8aZrDIH7"
-      },
-      "artists": [
-        {
-          "name": "Mickey Gilley",
-          "url": "https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Don't the Girls All Get Prettier at Closing Time - Live",
-      "url": "https://open.spotify.com/track/1jWiL9aw5eUu3LGOxPRfo7"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
+        "name": "Waylon Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Honky Tonk Heroes - Live in Texas - September 1974",
+      "url": "https://open.spotify.com/track/5VFBSbf9T8iNy4NiwQStCK"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
         "name": "Live From Austin, TX",
         "url": "https://open.spotify.com/album/2xzHCVguVUAWp8pF0FgVsF"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 259560,
       "name": "A Thousand Miles from Nowhere - Live",
       "url": "https://open.spotify.com/track/6FC69ybRXIc1QBqPnsTeBi"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
-        "name": "Waylon Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Honky Tonk Heroes - Live in Texas - September 1974",
-      "url": "https://open.spotify.com/track/5VFBSbf9T8iNy4NiwQStCK"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
+        "name": "Hope on the Rocks",
+        "url": "https://open.spotify.com/album/4DKhGKCMefhclaMA1R7QNs"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 257106,
+      "name": "Whiskey Girl - Live",
+      "url": "https://open.spotify.com/track/3eV5JB75Wu3sC7bHWyzMmL"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
         "name": "First Time Live!",
         "url": "https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 190293,
       "name": "Rockin' With The Rhythm Of The Rain - Live",
       "url": "https://open.spotify.com/track/74X536u3RCM3fK5DFKuq86"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
-        "name": "Hope on the Rocks",
-        "url": "https://open.spotify.com/album/4DKhGKCMefhclaMA1R7QNs"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 257106,
-      "name": "Whiskey Girl - Live",
-      "url": "https://open.spotify.com/track/3eV5JB75Wu3sC7bHWyzMmL"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2075,18 +2075,18 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "First Time Live!",
-        "url": "https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp"
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/4lZz3iIX7TFD31msCkui68"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Asleep At The Wheel",
+          "url": "https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm"
         }
       ],
-      "duration_ms": 178626,
-      "name": "No Show Jones - Live",
-      "url": "https://open.spotify.com/track/1g9sqR4lYUdnMBgJFl9ROo"
+      "duration_ms": 207466,
+      "name": "Get Your Kicks On Route 66",
+      "url": "https://open.spotify.com/track/6EDntGp9mUKMWyA1bF2Ush"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Country Stars - Live In Concert, Vol. 2",
-        "url": "https://open.spotify.com/album/29hUC3uJrY8eQ3CO2j5L9L"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 236760,
-      "name": "Delta Down - Live",
-      "url": "https://open.spotify.com/track/2SKGxwuzLZJ8WfcJqEmKTE"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Pronounced \u2018Leh-\u2018n\u00e9rd \u2018Skin-\u2018n\u00e9rd - Live From Jacksonville At The Florida Theatre",
         "url": "https://open.spotify.com/album/3x13WsiY5X1Di5mVWqKGD4"
       },
@@ -2139,34 +2123,34 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/4lZz3iIX7TFD31msCkui68"
+        "name": "First Time Live!",
+        "url": "https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp"
       },
       "artists": [
         {
-          "name": "Asleep At The Wheel",
-          "url": "https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 207466,
-      "name": "Get Your Kicks On Route 66",
-      "url": "https://open.spotify.com/track/6EDntGp9mUKMWyA1bF2Ush"
+      "duration_ms": 178626,
+      "name": "No Show Jones - Live",
+      "url": "https://open.spotify.com/track/1g9sqR4lYUdnMBgJFl9ROo"
     },
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Live At The Ryman",
-        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
+        "name": "Country Stars - Live In Concert, Vol. 2",
+        "url": "https://open.spotify.com/album/29hUC3uJrY8eQ3CO2j5L9L"
       },
       "artists": [
         {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 164026,
-      "name": "The Whiskey Ain't Working Anymore",
-      "url": "https://open.spotify.com/track/6xHGmHkExLicFlsTaPx7Sm"
+      "duration_ms": 236760,
+      "name": "Delta Down - Live",
+      "url": "https://open.spotify.com/track/2SKGxwuzLZJ8WfcJqEmKTE"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2183,6 +2167,22 @@
       "duration_ms": 179866,
       "name": "Stand By Your Man - Live",
       "url": "https://open.spotify.com/track/1An4G4L8GqaUsPX2RIfQYo"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Live At The Ryman",
+        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "The Whiskey Ain't Working Anymore",
+      "url": "https://open.spotify.com/track/6xHGmHkExLicFlsTaPx7Sm"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Live From Austin, TX",
-        "url": "https://open.spotify.com/album/3NSxRV7EdnPJdsRUaFKs5R"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Boogie Woogie Country Man - Live",
-      "url": "https://open.spotify.com/track/3wvlh2iH7lnbx3zvSQGoQl"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Live From The Troubadour",
         "url": "https://open.spotify.com/album/4zKEAKSVPzTIftRDlYbc2O"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 320596,
       "name": "All I Want Is You - Live From The Troubadour / 2008",
       "url": "https://open.spotify.com/track/0Mf0xGn4ggDSgtDtFW8w6y"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Live From Austin, TX",
+        "url": "https://open.spotify.com/album/3NSxRV7EdnPJdsRUaFKs5R"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Boogie Woogie Country Man - Live",
+      "url": "https://open.spotify.com/track/3wvlh2iH7lnbx3zvSQGoQl"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Haywire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3d1QX5vNzJbqbZLTZoxFaZ"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 331746,
-      "name": "Long Black Train - Live In Ohio/2009",
-      "url": "https://open.spotify.com/track/0ru7K5zBrQkXZ9SwCjLkfR"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "At The Ryman (Live)",
         "url": "https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 317560,
       "name": "Love In The First Degree - Live",
       "url": "https://open.spotify.com/track/1ryDjjcVbq1zk8pEtOHWuf"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Haywire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3d1QX5vNzJbqbZLTZoxFaZ"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 331746,
+      "name": "Long Black Train - Live In Ohio/2009",
+      "url": "https://open.spotify.com/track/0ru7K5zBrQkXZ9SwCjLkfR"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "The Life & Songs Of Kris Kristofferson (Live)",
-        "url": "https://open.spotify.com/album/3KWlDqwe4K89vJgLVslZV7"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 188875,
-      "name": "If You Don't Like Hank Williams - Live",
-      "url": "https://open.spotify.com/track/2iU9mnsU9G74ebqwbzbhZh"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/6J5evHxgFS0lym40ETnOs3"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 162173,
       "name": "Is Anybody Goin' to San Antone - Live",
       "url": "https://open.spotify.com/track/5WE2W6nJmMgqqRhzMavLKs"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "The Life & Songs Of Kris Kristofferson (Live)",
+        "url": "https://open.spotify.com/album/3KWlDqwe4K89vJgLVslZV7"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 188875,
+      "name": "If You Don't Like Hank Williams - Live",
+      "url": "https://open.spotify.com/track/2iU9mnsU9G74ebqwbzbhZh"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "First Time Live!",
-        "url": "https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 159933,
-      "name": "The Race Is On - Live",
-      "url": "https://open.spotify.com/track/4najPbISV0HiezwuEWo0Ti"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "At The Ryman (Live)",
         "url": "https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 725453,
       "name": "Dixieland Delight - Live",
       "url": "https://open.spotify.com/track/3PHaozz42k50ctvbLEawdu"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "First Time Live!",
+        "url": "https://open.spotify.com/album/5s1MPTu5UPqVqZEkCCVpkp"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 159933,
+      "name": "The Race Is On - Live",
+      "url": "https://open.spotify.com/track/4najPbISV0HiezwuEWo0Ti"
     }
   ],
   "unique_name": "Legendary Country Live",

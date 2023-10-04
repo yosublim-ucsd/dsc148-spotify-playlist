@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 137835,
+  "num_followers": 137852,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGQ4OTVhNjY1MTM0Mjg5MjI4YWRiMjM2YjU2MWFkNWUxNTc2ZWU0",
+  "snapshot_id": "MCwwMzBlZGIwYTYwNzRkZmIwOTFkOGNiMzZlY2QxYzM3MGQzNDVjNzAy",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 164933,
       "name": "Spooky (Single Version)",
       "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1043,22 +1043,6 @@
       "duration_ms": 273333,
       "name": "Just Once",
       "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "A Cupid's Valentine",
-        "url": "https://open.spotify.com/album/0cvF6655OPZeLDYeU8UqL6"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/24lvdbt9pS7DFEjhEWSl49"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1363,22 +1347,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 316160,
-      "name": "On Broadway",
-      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "It's A Long Road",
         "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
       },
@@ -1391,6 +1359,22 @@
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/6UuMxlYqfGzN0PhFO4PqCo"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 316160,
+      "name": "On Broadway",
+      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Dreamin' Wild",
+        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
+      },
+      "artists": [
+        {
+          "name": "Donnie & Joe Emerson",
+          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "The Essentials: Bloodstone",
         "url": "https://open.spotify.com/album/40itH1o9OXNvjVjendp50L"
       },
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Dreamin' Wild",
-        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
       "artists": [
         {
-          "name": "Donnie & Joe Emerson",
-          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 250533,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
+      "duration_ms": 162466,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Songs In A Minor",
         "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 237626,
       "name": "How Come You Don't Call Me",
       "url": "https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Ride Your Pony",
-        "url": "https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF"
-      },
-      "artists": [
-        {
-          "name": "Lee Dorsey",
-          "url": "https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js"
-        }
-      ],
-      "duration_ms": 146266,
-      "name": "Get out of My Life Woman",
-      "url": "https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 144200,
       "name": "I'm Getting Ready",
       "url": "https://open.spotify.com/track/54QckpslekyZCIEanFk787"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Ride Your Pony",
+        "url": "https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF"
+      },
+      "artists": [
+        {
+          "name": "Lee Dorsey",
+          "url": "https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js"
+        }
+      ],
+      "duration_ms": 146266,
+      "name": "Get out of My Life Woman",
+      "url": "https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2545,7 +2545,7 @@
         }
       ],
       "duration_ms": 211426,
-      "name": "Wake up Everybody",
+      "name": "Wake up Everybody (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR"
     },
     {
@@ -2875,6 +2875,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Tellin' It",
+        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Come to Mama",
+      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "The Best Of William Bell",
         "url": "https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb"
       },
@@ -2891,22 +2907,6 @@
       "duration_ms": 160933,
       "name": "Private Number",
       "url": "https://open.spotify.com/track/0j0NJyTIMkozPchYkvGoOS"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Tellin' It",
-        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Come to Mama",
-      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3027,6 +3027,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Second to None",
+        "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
+      },
+      "artists": [
+        {
+          "name": "Sam Dees",
+          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Win Or Lose",
+      "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Please Love Me",
         "url": "https://open.spotify.com/album/01JqEExj71fdFiiwLuIUfx"
       },
@@ -3055,22 +3071,6 @@
       "duration_ms": 252213,
       "name": "Tell Me A Tale",
       "url": "https://open.spotify.com/track/3ZRvYw3UuvHemty0UHKRSI"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Second to None",
-        "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
-      },
-      "artists": [
-        {
-          "name": "Sam Dees",
-          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Win Or Lose",
-      "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3175,22 +3175,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "FEVER",
-        "url": "https://open.spotify.com/album/2QcXOk9Jd26gGzg8jTg3Ck"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dybdahl",
-          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
-        }
-      ],
-      "duration_ms": 183275,
-      "name": "45",
-      "url": "https://open.spotify.com/track/33tsDNAc6GeNXidKLCHhfz"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Marbles",
         "url": "https://open.spotify.com/album/618uPUChbE55hBhZwJ4YKE"
       },
@@ -3203,6 +3187,22 @@
       "duration_ms": 192226,
       "name": "Crystal Ball (In the Cupboard)",
       "url": "https://open.spotify.com/track/3um8vOZ8XxTeSvxHneXvgG"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "FEVER",
+        "url": "https://open.spotify.com/album/2QcXOk9Jd26gGzg8jTg3Ck"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        }
+      ],
+      "duration_ms": 183275,
+      "name": "45",
+      "url": "https://open.spotify.com/track/33tsDNAc6GeNXidKLCHhfz"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3223,22 +3223,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
-        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Loose Fit",
         "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
       },
@@ -3251,6 +3235,22 @@
       "duration_ms": 175466,
       "name": "Traffic Jam",
       "url": "https://open.spotify.com/track/3cKMxZt3WTp0tIiF3j2rX3"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
+        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
     },
     {
       "added_at": "2023-08-15 12:19:30",

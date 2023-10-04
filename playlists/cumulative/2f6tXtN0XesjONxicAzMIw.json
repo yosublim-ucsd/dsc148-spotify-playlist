@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "Bootylicious",
+      "url": "https://open.spotify.com/track/41nT1Sp6ChR65FbsdLlFHW"
+    },
+    {
+      "album": {
         "name": "Let Go (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
       },

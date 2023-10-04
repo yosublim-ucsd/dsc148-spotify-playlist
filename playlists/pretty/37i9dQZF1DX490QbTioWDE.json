@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno, Big One & Rusherking.",
-  "num_followers": 638235,
+  "num_followers": 638596,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWQ1N2MzMTgyYTkzN2VmYjhiN2QzMmNlMTgwMmEzMWRhZmY3YjA3",
+  "snapshot_id": "MCw5Y2Q1ODVjYTdlMmRiNTY5ODYwZWY0MDUwYjQyYWViMzg2NWJmNmMw",
   "tracks": [
     {
       "added_at": "2023-09-29 03:00:00",
@@ -339,8 +339,8 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "No me pidan que baje el volumen",
-        "url": "https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC"
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         }
       ],
-      "duration_ms": 274259,
-      "name": "Ahora m\u00edrame",
-      "url": "https://open.spotify.com/track/1TKwvpH6WFOaHWsBnYTSaK"
+      "duration_ms": 233560,
+      "name": "Intento",
+      "url": "https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -551,8 +551,8 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac"
+        "name": "No me pidan que baje el volumen",
+        "url": "https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         }
       ],
-      "duration_ms": 233560,
-      "name": "Intento",
-      "url": "https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0"
+      "duration_ms": 274259,
+      "name": "Ahora m\u00edrame",
+      "url": "https://open.spotify.com/track/1TKwvpH6WFOaHWsBnYTSaK"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
         }
       ],
-      "duration_ms": 261066,
-      "name": "Fuego y Pasion",
-      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
+      "duration_ms": 302800,
+      "name": "Soy Cordobes",
+      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
         }
       ],
-      "duration_ms": 302800,
-      "name": "Soy Cordobes",
-      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
+      "duration_ms": 261066,
+      "name": "Fuego y Pasion",
+      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
-      },
-      "artists": [
-        {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Espectacular Monada",
         "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 227866,
       "name": "Dame un Poco Mas",
       "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+      },
+      "artists": [
+        {
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1487,22 +1487,18 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Qui\u00e9reme (Cuarteto)",
-        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
+        "name": "Eran dos locos de amor",
+        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
       },
       "artists": [
         {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "Magui Olave",
-          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Qui\u00e9reme - Cuarteto",
-      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
+      "duration_ms": 169496,
+      "name": "Eran dos locos de amor",
+      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1523,18 +1519,38 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Eran dos locos de amor",
-        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
+        "name": "Qui\u00e9reme (Cuarteto)",
+        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
       },
       "artists": [
         {
-          "name": "Los Reyes del Cuarteto",
-          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
         }
       ],
-      "duration_ms": 169496,
-      "name": "Eran dos locos de amor",
-      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
+      "duration_ms": 336000,
+      "name": "Qui\u00e9reme - Cuarteto",
+      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Con Toda la Fuerza",
+        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 187220,
+      "name": "Ma\u00f1ana sin vos",
+      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 204382,
       "name": "Lo Aprend\u00ed de Ti",
       "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Con Toda la Fuerza",
-        "url": "https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 187220,
-      "name": "Ma\u00f1ana sin vos",
-      "url": "https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Chachach\u00e1",
+        "url": "https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 232269,
+      "name": "Chachach\u00e1",
+      "url": "https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Con Piel de Cuarteto",
         "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
       },
@@ -1775,38 +1791,6 @@
       "duration_ms": 152432,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Adi\u00f3s, Me Voy",
-        "url": "https://open.spotify.com/album/3tNsYn3hQPc3ZfG7HPiRNq"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 237242,
-      "name": "Adi\u00f3s, Me Voy",
-      "url": "https://open.spotify.com/track/7iPwAA5D5zfVVk8wZQ5gh9"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Chachach\u00e1",
-        "url": "https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 232269,
-      "name": "Chachach\u00e1",
-      "url": "https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1843,6 +1827,22 @@
       "duration_ms": 210266,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Adi\u00f3s, Me Voy",
+        "url": "https://open.spotify.com/album/3tNsYn3hQPc3ZfG7HPiRNq"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 237242,
+      "name": "Adi\u00f3s, Me Voy",
+      "url": "https://open.spotify.com/track/7iPwAA5D5zfVVk8wZQ5gh9"
     }
   ],
   "unique_name": "100% Cuarteto",

@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3927,
+  "num_followers": 3924,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTdlMWQxMDJkMmFhNGVkNjQxOWZkMjdiODk5NDkxZjFlMTY3ODI4",
+  "snapshot_id": "MCw0MDg1NGE3ZGJiNTBhM2UyM2FjNTc4ZmFjODhjYjI0MjA1YjlmODVk",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "10 ans d'Enfantillages !",
-        "url": "https://open.spotify.com/album/20yuAjZhTVhDHcYx6dep1w"
-      },
-      "artists": [
-        {
-          "name": "Aldebert",
-          "url": "https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS"
-        },
-        {
-          "name": "Kids United Nouvelle Generation",
-          "url": "https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "Pour louper l'\u00e9cole",
-      "url": "https://open.spotify.com/track/0XW5XY9LcCw6hpS7EuORkj"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Moussa",
         "url": "https://open.spotify.com/album/1oxEKKN1NH5dTgQKiLkOiX"
       },
@@ -575,18 +555,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT"
+        "name": "10 ans d'Enfantillages !",
+        "url": "https://open.spotify.com/album/20yuAjZhTVhDHcYx6dep1w"
       },
       "artists": [
         {
-          "name": "FouKi",
-          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+          "name": "Aldebert",
+          "url": "https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS"
+        },
+        {
+          "name": "Kids United Nouvelle Generation",
+          "url": "https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt"
         }
       ],
-      "duration_ms": 201409,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa"
+      "duration_ms": 194813,
+      "name": "Pour louper l'\u00e9cole",
+      "url": "https://open.spotify.com/track/0XW5XY9LcCw6hpS7EuORkj"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -607,6 +591,22 @@
       "duration_ms": 245840,
       "name": "Il \u00e9tait une fois",
       "url": "https://open.spotify.com/track/3uLZL8cZl2Hr1lal1Cet3D"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "80's",
+        "url": "https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT"
+      },
+      "artists": [
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        }
+      ],
+      "duration_ms": 201409,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Jos\u00e9 Louis And The Paradox Of Love",
-        "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        },
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Si j'\u00e9tais toi",
         "url": "https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 144720,
       "name": "Si j'\u00e9tais toi",
       "url": "https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Jos\u00e9 Louis And The Paradox Of Love",
+        "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "CHROME",
-        "url": "https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V"
-      },
-      "artists": [
-        {
-          "name": "LaF",
-          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
-        }
-      ],
-      "duration_ms": 154069,
-      "name": "Combien de fois",
-      "url": "https://open.spotify.com/track/0ZmrtZCiyuqA8Zmv3Ne9Gq"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Soif",
         "url": "https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Il faut partir maintenant",
-        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
         }
       ],
-      "duration_ms": 178405,
-      "name": "Penses-tu rester encore?",
-      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
+      "duration_ms": 154069,
+      "name": "Combien de fois",
+      "url": "https://open.spotify.com/track/0ZmrtZCiyuqA8Zmv3Ne9Gq"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1291,6 +1275,22 @@
       "duration_ms": 138855,
       "name": "+1 (feat. Meggie Lennon & Virginie B)",
       "url": "https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Il faut partir maintenant",
+        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 178405,
+      "name": "Penses-tu rester encore?",
+      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Lance-Flamme Lance-Glace",
-        "url": "https://open.spotify.com/album/4fdaBFDsJ1y7vJFgVMKvCR"
-      },
-      "artists": [
-        {
-          "name": "YOCTO",
-          "url": "https://open.spotify.com/artist/6oL1PKTxXeIYiobQD30O3n"
-        }
-      ],
-      "duration_ms": 181286,
-      "name": "Lance-Flamme Lance-Glace",
-      "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
         "url": "https://open.spotify.com/album/5vz7Y0hRrVyxIbxRSwMejY"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 151253,
       "name": "J'aimerais ben \u00e7a aimer \u00e7a (mais j'aime pas \u00e7a)",
       "url": "https://open.spotify.com/track/4uivB1tloVRuRZJD7B8c4w"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Lance-Flamme Lance-Glace",
+        "url": "https://open.spotify.com/album/4fdaBFDsJ1y7vJFgVMKvCR"
+      },
+      "artists": [
+        {
+          "name": "YOCTO",
+          "url": "https://open.spotify.com/artist/6oL1PKTxXeIYiobQD30O3n"
+        }
+      ],
+      "duration_ms": 181286,
+      "name": "Lance-Flamme Lance-Glace",
+      "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Chou",
-        "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
-      },
-      "artists": [
-        {
-          "name": "Chou",
-          "url": "https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2"
-        }
-      ],
-      "duration_ms": 123541,
-      "name": "Chou",
-      "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "El Futuro Es Tribal",
         "url": "https://open.spotify.com/album/0aBNYVK8WtwYXkbXs46tkp"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 307337,
       "name": "Breath Of Fire",
       "url": "https://open.spotify.com/track/66kQ9RYFHdW4FIcjDOUYCV"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Chou",
+        "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
+      },
+      "artists": [
+        {
+          "name": "Chou",
+          "url": "https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2"
+        }
+      ],
+      "duration_ms": 123541,
+      "name": "Chou",
+      "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
     },
     {
       "added_at": "2023-05-25 23:46:15",

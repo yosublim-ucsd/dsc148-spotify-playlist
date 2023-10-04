@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,225 songs - 2 day 15 hr 55 min
+1,226 songs - 2 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-06-04 | 2022-10-16 |
 | [Bentley](https://open.spotify.com/track/2uFYncMY5Srs1f3AL3r6Do) | [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr) | [Lys Over Land 1](https://open.spotify.com/album/2NJaPWjalZ41VDHlywGyq3) | 3:12 | 2022-06-18 | 2022-06-23 |
 | [BENZEMA \(feat\. Gilli\)](https://open.spotify.com/track/7tKc7NVi0eSsoZOO4zdcEe) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [JAMO](https://open.spotify.com/album/6f4qhLPJtFcEjMwKEw2VFa) | 2:26 | 2022-07-16 | 2022-08-28 |
+| [BENZIN ILD ' GLASSKÅR](https://open.spotify.com/track/6uamUi6hLfIZm30g9TcQ6p) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [BENZIN ILD ' GLASSKÅR](https://open.spotify.com/album/76OMFhPwb87l1b2F4iX1UJ) | 3:02 | 2023-10-03 |  |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-15 |
 | [BETALT \(feat\. Lamin & Benny Jamz\)](https://open.spotify.com/track/40Sg9foeB15bJdX6BxVOwa) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [BETALT \(feat\. Lamin & Benny Jamz\)](https://open.spotify.com/album/3Eda6UM4iY06Nq6xgobCFo) | 3:09 | 2023-01-21 | 2023-01-30 |
 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2021-10-23 | 2022-01-01 |
@@ -593,7 +594,7 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-11-22 | 2022-12-29 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-05 |
 | [Juice](https://open.spotify.com/track/00FOuShzUFrNDKN4DV12GV) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Juice](https://open.spotify.com/album/2Rqz6CoEiHnDbU7rXQ4TrW) | 2:39 | 2022-06-29 | 2022-10-02 |
-| [Juice](https://open.spotify.com/track/7Ku8cFTqbFMKSWGuf1evPQ) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Stiv Kuling](https://open.spotify.com/album/2Qe6U56MtBTir6CniefFqU) | 2:40 | 2022-10-01 |  |
+| [Juice](https://open.spotify.com/track/7Ku8cFTqbFMKSWGuf1evPQ) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Stiv Kuling](https://open.spotify.com/album/2Qe6U56MtBTir6CniefFqU) | 2:40 | 2022-10-01 | 2023-10-04 |
 | [Jul Det' Cool](https://open.spotify.com/track/4QOTOTJsJjgrAf0BgnfaRF) | [Mc Einar](https://open.spotify.com/artist/6nQ6GgIEtRhG0jK4SvzO74) | [Jul Det' Cool](https://open.spotify.com/album/77KiQWlheN9xUJd5f51qku) | 5:59 | 2021-11-28 | 2022-12-27 |
 | [Jul i Angora](https://open.spotify.com/track/4LTUBsLeIn8qcopkFwhwK9) | [Drengene Fra Angora](https://open.spotify.com/artist/14Yvg4O01WlpP3Jm2AP6oI) | [Drengene fra Angora](https://open.spotify.com/album/3j5ZmMOvu5P8YmWLCST4fk) | 3:59 | 2021-11-28 | 2022-12-27 |
 | [Jul i Valhal](https://open.spotify.com/track/2sYa8IysQXY2F1NiLTqj2Y) | [Martin Brygmann](https://open.spotify.com/artist/1mEjxHmV73X8Nr3HY47n17), [Sarah West](https://open.spotify.com/artist/2d6fU7pGHJDtMXbcX2fpvr) | [Jul I Valhal](https://open.spotify.com/album/3XnjrnOFZ3qVtPTuYEIvQE) | 3:32 | 2022-11-28 | 2022-11-30 |

@@ -1,12 +1,12 @@
 {
   "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: <a href=\"spotify:artist:5kH7ZateqBrrUv6u6snhnp\">ta Ukrainka</a>",
-  "num_followers": 16802,
+  "num_followers": 16822,
   "original_name": "RADAR Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODQ3ZDIxYzkyZTJkODhjYjhlOTgxMDhmNTJmOWFmZTllOGJhZWI2",
+  "snapshot_id": "MCw5NDAwNzc3ZDliNDA4ZWFjYjkxMGNjZDAwMDRjNGMyYzFmYWNlN2My",
   "tracks": [
     {
       "added_at": "2023-09-15 12:37:41",
@@ -110,6 +110,10 @@
         {
           "name": "bambi",
           "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
         }
       ],
       "duration_ms": 134025,

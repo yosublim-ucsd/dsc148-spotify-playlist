@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,113 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,217 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 58 | [FVR105 \- p\-rallel Remix](https://open.spotify.com/track/5F4jNQAtcorOBctGgpcjNh) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Bone Slim](https://open.spotify.com/artist/5VoreVetRqMEFui6KpGdt2), [Lorenzorsv](https://open.spotify.com/artist/6ikQz0CCwjFMtT7Hzxn9mY), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FVR105 \(p\-rallel Remix\)](https://open.spotify.com/album/6LMCxZc1m2uTJ1ZSNwgjYz) | 3:13 |
 | 59 | [Super Good Times](https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj) | 3:41 |
 | 60 | [Deep Blue](https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Deep Blue](https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY) | 3:16 |
-| 61 | [Intentions](https://open.spotify.com/track/0NrtOr0vIUnktfY7rxNgD3) | [Dirty Freud](https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S) | [Intentions](https://open.spotify.com/album/3unm5D4hTaYn6YWGEWkbHw) | 3:32 |
-| 62 | [Hot In Herre](https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot In Herre](https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW) | 3:05 |
+| 61 | [Hot In Herre](https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot In Herre](https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW) | 3:05 |
+| 62 | [Intentions](https://open.spotify.com/track/0NrtOr0vIUnktfY7rxNgD3) | [Dirty Freud](https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S) | [Intentions](https://open.spotify.com/album/3unm5D4hTaYn6YWGEWkbHw) | 3:32 |
 | 63 | [It's Nice to Be Alive](https://open.spotify.com/track/2vVMA6goXUgJSKcnnQrgin) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g) | 3:25 |
 | 64 | [Above](https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Above](https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv) | 3:05 |
 | 65 | [Gravitate](https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Gravitate](https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb) | 5:41 |
-| 66 | [Boy Blue](https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN) | [Buddy Love](https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf) | [Pleasure \(Now & Forever\)](https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn) | 4:06 |
-| 67 | [LoveConfusion](https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W) | [Karnaval Blues](https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3) | [LoveConfusion](https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP) | 4:18 |
+| 66 | [LoveConfusion](https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W) | [Karnaval Blues](https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3) | [LoveConfusion](https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP) | 4:18 |
+| 67 | [Boy Blue](https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN) | [Buddy Love](https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf) | [Pleasure \(Now & Forever\)](https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn) | 4:06 |
 | 68 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 |
 | 69 | [Can You Feel It](https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Bonus Tracks\)](https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2) | 3:09 |
 | 70 | [Aquaself](https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K) | 6:16 |
 
-Snapshot ID: `MCw4NmE1YWQ4OTZmZTU1MmYwNjM5MzU1MzgxMmFhN2EzMDBhOTdjMDU4`
+Snapshot ID: `MCwwMjU3MDZiMDA4MDk4YjhlMGRlZjE0ZDMzN2ZlNGZlMmQ2NDRmYTZj`

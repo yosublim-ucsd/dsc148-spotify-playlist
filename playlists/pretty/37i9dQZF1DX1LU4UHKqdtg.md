@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: IVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,717 likes - 82 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,198 likes - 82 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 81 | [CEREMONY](https://open.spotify.com/track/3hAQ3NalXLWjn0OAJtAnIl) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [CEREMONY](https://open.spotify.com/album/1BeyevFvnDDh7Zor3AZLf4) | 3:13 |
 | 82 | [CHO \- Japanese ver.](https://open.spotify.com/track/4JJZCcYn800GgmZDt78Znd) | [Feverse](https://open.spotify.com/artist/2HEGA0QyWlpVzyNF6WaMVQ) | [Feverse JAPAN 1st ALBUM \(CHO \-Japanese ver.\-\)](https://open.spotify.com/album/7fWY7Rr0Lc72XS13RfWuvo) | 3:24 |
 
-Snapshot ID: `MCw2NDFmYmM1NzhmNjJhMGMyZDMzYjNkYTk5MjFhYzI4YWZhNjdjZTdi`
+Snapshot ID: `MCxjZDA1MDkwMzBlOGM2ZDJkYjc5NWE5YjhlMThkZmVkNzA0ZGVhYjg3`

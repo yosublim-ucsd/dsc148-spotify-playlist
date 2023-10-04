@@ -4,7 +4,7 @@
 
 > Latin superstars like you've never heard before\. Cover: Kevin Kaarl
 
-71 songs - 4 hr 12 min
+73 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 | 2021-11-18 |  |
 | [Earned It \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5TQ2wVegdEdlaFcaF09Qph) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Spotify Singles](https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8) | 3:23 | 2021-11-18 |  |
 | [El Rey de la Popola \- Spotify Singles](https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:30 | 2021-11-18 |  |
+| [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 | 2023-10-03 |  |
 | [EMPELICULADOS \- Spotify Singles](https://open.spotify.com/track/3PjY7hNtvJPnFeZxplptne) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Elniko Arias](https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR) | [EMPELICULADOS \- Spotify Singles](https://open.spotify.com/album/1L88SIO4NmlW9TeY5gbCLb) | 3:42 | 2022-10-19 |  |
 | [Es Por Tí \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Spotify Singles](https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX) | 4:24 | 2021-11-18 |  |
 | [Faz uma loucura por mim \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:14 | 2021-11-18 |  |
@@ -45,6 +46,7 @@
 | [La Carretera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Spotify Singles](https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8) | 4:15 | 2021-11-18 |  |
 | [LA DESPEDIDA \- Live \- Spotify Singles](https://open.spotify.com/track/3RMigTAghPnfNXpmzqe1C7) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Spotify Singles](https://open.spotify.com/album/7JzwQl46xJFV9Ce68N3ga5) | 3:28 | 2021-11-18 |  |
 | [La HP \- Spotify Singles](https://open.spotify.com/track/0GKmZutSxfdOUQzElk0Psv) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La HP \- Spotify Singles](https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB) | 3:06 | 2022-11-16 |  |
+| [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 | 2023-10-03 |  |
 | [La Tirana \- Spotify Singles](https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:12 | 2021-11-18 |  |
 | [La tua canzone \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/7HfV7tXzzMlivoXWvjcNh3) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Spotify Singles](https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki) | 3:36 | 2022-06-22 |  |
 | [Lizard \(Alternate Universe\) \- Spotify Singles](https://open.spotify.com/track/1CGKhnXxoyXZa2PLQdYW1X) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 2:51 | 2021-11-18 |  |

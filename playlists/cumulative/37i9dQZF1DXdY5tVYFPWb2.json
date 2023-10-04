@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 257276,
       "name": "33\u6b73\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/73qhEfQwAu558SHaGcnjyX"
@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "DISCONNECT",
+        "url": "https://open.spotify.com/album/4IMSWtZdzt4PoUoi3Y4avI"
+      },
+      "artists": [
+        {
+          "name": "BLACK BERRY TIMES",
+          "url": "https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "DISCONNECT",
+      "url": "https://open.spotify.com/track/5xm3g16LLPV5kKtMa6u2kM"
+    },
+    {
+      "album": {
         "name": "Do you remember",
         "url": "https://open.spotify.com/album/69jHyS1wnU0YHFKCD55xQW"
       },
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 170294,
       "name": "Happy Sad",
       "url": "https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp"
@@ -4054,7 +4072,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 269569,
       "name": "MAGIC WAYS",
       "url": "https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g"
@@ -4228,7 +4246,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 246613,
       "name": "Midnight Dew",
       "url": "https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD"
@@ -4714,7 +4732,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 223350,
       "name": "My Plan",
       "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
@@ -5910,7 +5928,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 219033,
       "name": "Ravel",
       "url": "https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd"
@@ -6772,7 +6790,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": null,
       "duration_ms": 204973,
       "name": "SOSOGU",
       "url": "https://open.spotify.com/track/54x8nltyUeJxylMzAev90H"
@@ -7138,7 +7156,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 221046,
       "name": "Step of Love",
       "url": "https://open.spotify.com/track/2MxdOjL0dlxWfIFh5VUACE"
@@ -9894,6 +9912,24 @@
       "duration_ms": 195794,
       "name": "\u30af\u30ed\u30a8",
       "url": "https://open.spotify.com/track/55Tvnmqj49iNka1u3p46nK"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u3067\u8e0a\u308a\u305f\u3044",
+        "url": "https://open.spotify.com/album/3S4nFATM8NAwyDBukOWPAb"
+      },
+      "artists": [
+        {
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229931,
+      "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u3067\u8e0a\u308a\u305f\u3044",
+      "url": "https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1"
     },
     {
       "album": {

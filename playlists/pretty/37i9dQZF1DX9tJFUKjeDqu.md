@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 
 > Soft, instrumental blues to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,714 likes - 78 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,746 likes - 78 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 77 | [Soulful Blues \- Instrumental](https://open.spotify.com/track/2d4HpgCWXuI6sCYhVfoZC1) | [Tom Nicholls](https://open.spotify.com/artist/2YEluKwvonHGvzeLrCqtyi) | [Soulful Blues \(Instrumental\)](https://open.spotify.com/album/1WyuB1JDD0bOR6Kyef9IKA) | 2:17 |
 | 78 | [All Blues](https://open.spotify.com/track/6W5PADiws4J4jNZwr2loyH) | [Zachary Breaux](https://open.spotify.com/artist/2jYHSJBXjusgmYdrNeaRmg) | [Uptown Groove](https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq) | 6:33 |
 
-Snapshot ID: `MCw2MTdhN2NkMWFiMTU4NTVmYmEyYTViMjMwMzM2YmU2NDAzZDI5NTBl`
+Snapshot ID: `MCwzNWUxMGZlZGQwM2ZmNmU1OGMxMDRjNWZiMzgxMjg2YzJiNDI5MmI0`

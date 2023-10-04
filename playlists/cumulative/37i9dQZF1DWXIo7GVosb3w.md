@@ -4,11 +4,12 @@
 
 > ジャンルレスな作品性と、美麗なファルセット・ヴォイスが魅力のSSW、ビッケブランカ のオールタイム・ベスト。
 
-88 songs - 5 hr 35 min
+89 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Avalanche](https://open.spotify.com/track/32ZKOOUBF9vWvKbN0UUTNC) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 4:25 | 2022-08-21 | 2023-08-30 |
+| [Bitter](https://open.spotify.com/track/4QuqtDZyTUmxJgGbsi1QAB) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Worldfly](https://open.spotify.com/album/46OkEoB1mHajNm6pIGXUCc) | 3:05 | 2023-10-03 |  |
 | [Black Catcher](https://open.spotify.com/track/6Q8W0bn2oAVvW56BriCGeb) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 3:16 | 2022-08-21 | 2023-08-30 |
 | [Black Catcher](https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Devil](https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD) | 3:16 | 2023-08-29 |  |
 | [Black Rover](https://open.spotify.com/track/3YsmVudm2JmoDnlN2XSieG) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 3:29 | 2022-08-21 | 2023-08-30 |

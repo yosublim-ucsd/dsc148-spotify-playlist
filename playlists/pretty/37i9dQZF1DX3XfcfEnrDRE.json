@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 235091,
+  "num_followers": 235141,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjk2MThiODJmMGNhMmYzMjBlNDg2MTM3ZjkyMTQyMzVmNjYxMzEw",
+  "snapshot_id": "MCwyOGExMGMzYWMxMTkxZDllZjM5M2M1Mzc2NjFlNDU3YjcyZmRiNjA4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -239,38 +239,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Covers EP",
-        "url": "https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS"
-      },
-      "artists": [
-        {
-          "name": "Dawson Hollow",
-          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Mr. Blue Sky",
-      "url": "https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "right here",
-        "url": "https://open.spotify.com/album/2RRNHvaYTDhdRidkuvJaz3"
-      },
-      "artists": [
-        {
-          "name": "Allie Paige",
-          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
-        }
-      ],
-      "duration_ms": 154769,
-      "name": "right here",
-      "url": "https://open.spotify.com/track/5ulMvQqZZGvtNTyKZJ7OX1"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Forever And Ever",
         "url": "https://open.spotify.com/album/6es3zmNynGhB3jHGLbHNi7"
       },
@@ -291,6 +259,38 @@
       "duration_ms": 311229,
       "name": "Forever And Ever",
       "url": "https://open.spotify.com/track/20n2wlqXIv1o9Crmv9dtOC"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "right here",
+        "url": "https://open.spotify.com/album/2RRNHvaYTDhdRidkuvJaz3"
+      },
+      "artists": [
+        {
+          "name": "Allie Paige",
+          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
+        }
+      ],
+      "duration_ms": 154769,
+      "name": "right here",
+      "url": "https://open.spotify.com/track/5ulMvQqZZGvtNTyKZJ7OX1"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Covers EP",
+        "url": "https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS"
+      },
+      "artists": [
+        {
+          "name": "Dawson Hollow",
+          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Mr. Blue Sky",
+      "url": "https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -491,26 +491,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Pilot",
-        "url": "https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY"
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
       },
       "artists": [
         {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        },
-        {
-          "name": "Moflo Music",
-          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
-        },
-        {
-          "name": "Sammie Lee",
-          "url": "https://open.spotify.com/artist/4xdSrVRzcVvxW4CJVCuRJ2"
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
         }
       ],
-      "duration_ms": 100240,
-      "name": "Pilot",
-      "url": "https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV"
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -535,18 +527,26 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY"
       },
       "artists": [
         {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        },
+        {
+          "name": "Moflo Music",
+          "url": "https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a"
+        },
+        {
+          "name": "Sammie Lee",
+          "url": "https://open.spotify.com/artist/4xdSrVRzcVvxW4CJVCuRJ2"
         }
       ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
+      "duration_ms": 100240,
+      "name": "Pilot",
+      "url": "https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Leaving The 99 (Remix)",
-        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
-      },
-      "artists": [
-        {
-          "name": "Billy Ballenger",
-          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
-        }
-      ],
-      "duration_ms": 242468,
-      "name": "Leaving The 99 - Remix",
-      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "WILD THINGS",
         "url": "https://open.spotify.com/album/5XaKKyhMqIAie5hIND1f6i"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 183000,
       "name": "WILD THINGS",
       "url": "https://open.spotify.com/track/1l6q0BU9csN5AEvVBdyc2l"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Leaving The 99 (Remix)",
+        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
+      },
+      "artists": [
+        {
+          "name": "Billy Ballenger",
+          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
+        }
+      ],
+      "duration_ms": 242468,
+      "name": "Leaving The 99 - Remix",
+      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Feel Holy",
+        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
+      },
+      "artists": [
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Feel Holy",
+      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "You Are Fullness",
         "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Feel Holy",
-        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
+        "name": "Keep Hopin'",
+        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
       },
       "artists": [
         {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+          "name": "The Scally Brothers",
+          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
         }
       ],
-      "duration_ms": 331800,
-      "name": "Feel Holy",
-      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+      "duration_ms": 167076,
+      "name": "Keep Hopin'",
+      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -887,22 +903,6 @@
       "duration_ms": 244172,
       "name": "Something to Say",
       "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Keep Hopin'",
-        "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
-      },
-      "artists": [
-        {
-          "name": "The Scally Brothers",
-          "url": "https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "Keep Hopin'",
-      "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Fighting Myself",
+        "url": "https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 218775,
+      "name": "Fighting Myself",
+      "url": "https://open.spotify.com/track/3W2UszPJ6jF0OYE5FTtetQ"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Way, Truth, Life",
         "url": "https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 173500,
       "name": "Way, Truth, Life",
       "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Fighting Myself",
-        "url": "https://open.spotify.com/album/22JJVIcCRz2yqjVH5WIZqx"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 218775,
-      "name": "Fighting Myself",
-      "url": "https://open.spotify.com/track/3W2UszPJ6jF0OYE5FTtetQ"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Natural Killer",
-        "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
-      },
-      "artists": [
-        {
-          "name": "Truslow",
-          "url": "https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv"
-        }
-      ],
-      "duration_ms": 224181,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Give My All",
         "url": "https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 199005,
       "name": "Give My All",
       "url": "https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Natural Killer",
+        "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
+      },
+      "artists": [
+        {
+          "name": "Truslow",
+          "url": "https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv"
+        }
+      ],
+      "duration_ms": 224181,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
+      },
+      "artists": [
+        {
+          "name": "Whitefield",
+          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
+        }
+      ],
+      "duration_ms": 269353,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Break Out (Live)",
         "url": "https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 183066,
       "name": "Coming Clean",
       "url": "https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
-      },
-      "artists": [
-        {
-          "name": "Whitefield",
-          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
-        }
-      ],
-      "duration_ms": 269353,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
     },
     {
       "added_at": "2022-12-16 05:02:00",

@@ -6402,7 +6402,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 226560,
       "name": "One Day at a Time",
       "url": "https://open.spotify.com/track/4sg2czxO15zhMn1scUXPIL"
@@ -6886,7 +6886,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 158684,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1"
@@ -7342,7 +7342,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 233806,
       "name": "Satin Cash Pt. II",
       "url": "https://open.spotify.com/track/3n2weVIDEc5Z4YOTaDqsww"
@@ -9400,6 +9400,32 @@
       "duration_ms": 222400,
       "name": "When I'm Gone - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/3wO31bU00RPlGXrZVxSnrz"
+    },
+    {
+      "album": {
+        "name": "When You Were Mine",
+        "url": "https://open.spotify.com/album/4qH0ODF72DZORJwJU698p7"
+      },
+      "artists": [
+        {
+          "name": "STAR SEED",
+          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+        },
+        {
+          "name": "Eyezic",
+          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "When You Were Mine",
+      "url": "https://open.spotify.com/track/493ydMYkpqzzn69ztUszv3"
     },
     {
       "album": {

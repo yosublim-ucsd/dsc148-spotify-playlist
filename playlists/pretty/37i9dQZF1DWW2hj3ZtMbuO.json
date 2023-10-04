@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\" ",
-  "num_followers": 1436859,
+  "num_followers": 1437617,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDVjZjMxOTg0ZTlhZDg3YWE2ZDEyZmYxY2U1NWEwZGFkZTY1ZDlh",
+  "snapshot_id": "MCw5ODZlNmNkMGRkYzY0MjVkYmIxM2U3N2ZmMTY2ODcxY2U3YjJmYTUw",
   "tracks": [
     {
       "added_at": "2023-09-29 20:23:15",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-09-29 20:23:15",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
-    },
-    {
-      "added_at": "2023-09-29 20:23:15",
-      "album": {
         "name": "The Covers Record",
         "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 139466,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2023-09-29 20:23:15",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
     },
     {
       "added_at": "2023-09-29 20:23:15",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-09-29 20:23:15",
       "album": {
-        "name": "Grade Pending",
-        "url": "https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP"
-      },
-      "artists": [
-        {
-          "name": "Whatever, Dad",
-          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
-        }
-      ],
-      "duration_ms": 254116,
-      "name": "Warsh_Tippy and Zelda",
-      "url": "https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E"
-    },
-    {
-      "added_at": "2023-09-29 20:23:15",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
+    },
+    {
+      "added_at": "2023-09-29 20:23:15",
+      "album": {
+        "name": "Grade Pending",
+        "url": "https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP"
+      },
+      "artists": [
+        {
+          "name": "Whatever, Dad",
+          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
+        }
+      ],
+      "duration_ms": 254116,
+      "name": "Warsh_Tippy and Zelda",
+      "url": "https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E"
     },
     {
       "added_at": "2023-09-29 20:23:15",

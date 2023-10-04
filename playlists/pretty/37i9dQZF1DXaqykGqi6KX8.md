@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,153 likes - 30 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,198 likes - 30 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 7 | [Sidi Arbi](https://open.spotify.com/track/34hbQxtu8e8tw1mDvVkIIT) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Znousland 2](https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e) | 3:35 |
 | 8 | [Atba'a Al\-Namrood](https://open.spotify.com/track/483Ijr8RgQkWYvJ3R9g3zh) | [Al\-Namrood](https://open.spotify.com/artist/7sY9ff50OQVYxudOXLnQ3E) | [Jaish Al\-Namrood](https://open.spotify.com/album/1O7jI1plBcowuQ8cjShyb6) | 5:07 |
 | 9 | [Damascus Gate](https://open.spotify.com/track/4DRxjZeaDCMBQmrfF08KNK) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Ruins of Empires](https://open.spotify.com/album/587JoQY2rORTCt4lMt6rO6) | 4:50 |
-| 10 | [Inferno](https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Inferno](https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp) | 3:16 |
-| 11 | [Jasmin](https://open.spotify.com/track/4TtBKEv55BOjuAGgcctDj9) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Legacy](https://open.spotify.com/album/7ocvxAkixEXHnmw88mhBjH) | 1:48 |
+| 10 | [Jasmin](https://open.spotify.com/track/4TtBKEv55BOjuAGgcctDj9) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Legacy](https://open.spotify.com/album/7ocvxAkixEXHnmw88mhBjH) | 1:48 |
+| 11 | [Inferno](https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Inferno](https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp) | 3:16 |
 | 12 | [Lay chafi](https://open.spotify.com/track/5WCLyTCEPTz3f8Q4AnSZqm) | [Betweenatna](https://open.spotify.com/artist/74xbHp6MeHavk2G1OaIeNT) | [Betweenatna](https://open.spotify.com/album/33a4lA6Cx4c1XzygMiuru8) | 4:02 |
 | 13 | [Daret Layyem](https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 5:02 |
 | 14 | [Freedom Denied](https://open.spotify.com/track/6Qd5yE8cmlcaaBz7Nxy2EL) | [Blaakyum](https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB) | [Line of Fear](https://open.spotify.com/album/4iyZLxCNIGZEZAJBuOopi5) | 4:15 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 29 | [The Gambit](https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH) | [Divine Disorder](https://open.spotify.com/artist/6TUH8SH556eJUVeKVq0ODz) | [Garden of Dystopia](https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9) | 8:04 |
 | 30 | [Leap of Faith](https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH) | [Luay Rifai](https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g) | [Timeless Truths](https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA) | 5:42 |
 
-Snapshot ID: `MCxkM2QzYjcwMjFjMjY3ZTIxNTZhYTRjZjc3ODFiYmNjYTcwN2I4NTI0`
+Snapshot ID: `MCw3MGQ5YTQxMGQ0YWJjOTk2ZjNhM2Y5MjU0YmJkZjUwNmZhNTYyOTA3`

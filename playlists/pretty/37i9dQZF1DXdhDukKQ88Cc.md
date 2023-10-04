@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > dk rap holder det 100 lige nu 🚨  Merro8 tar forsiden
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,169 likes - 52 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,190 likes - 52 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 51 | [TIL VI DØR](https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 3:00 |
 | 52 | [Run Away](https://open.spotify.com/track/2SWp6DtNlUdpyQ7OCvH6ZK) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Run Away](https://open.spotify.com/album/6r4uMfuIDI5l3nYjLELNmx) | 2:49 |
 
-Snapshot ID: `MCw1MzZlZmEzNWM5YjdiYTBjYzVkYWQ3YzI3MzU0ZDkyMzVjNDk2NWMy`
+Snapshot ID: `MCw1NzIxMmRhMjQ2YjY5MWFmMTY4N2Q1Y2Y3ZDZkZDg1ZGUyMmI1N2Jj`

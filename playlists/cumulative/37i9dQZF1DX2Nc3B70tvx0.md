@@ -2,9 +2,9 @@
 
 ### [Front Page Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> Newsworthy indie of 2023: New albums from Del Water Gap, Slow Pulp, Mitski and more.
+> Newsworthy indie of 2023: New music Del Water Gap, Mac Demarco, Slow Pulp, Mitski and more.
 
-1,799 songs - 4 day 11 hr 55 min
+1,800 songs - 4 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,7 +881,7 @@
 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 | 2022-03-03 | 2022-07-20 |
 | [King of Sweden](https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [King of Sweden](https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8) | 4:11 | 2022-02-25 | 2022-04-08 |
 | [Kingdom Hearts Key \(ft\. redveil\)](https://open.spotify.com/track/0VA5FzFlysCcSG1IdOkhUb) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 3:25 | 2023-04-11 | 2023-04-22 |
-| [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-08-11 |  |
+| [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-08-11 | 2023-10-04 |
 | [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-06-22 | 2023-07-21 |
 | [Kissing Lessons](https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Kissing Lessons](https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj) | 1:54 | 2022-02-11 | 2022-07-01 |
 | [KIWI](https://open.spotify.com/track/0dgzCsOCKDVFxCIHRb8z14) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [KIWI](https://open.spotify.com/album/7dOOMeWVNE6NnabKNXx6jB) | 3:39 | 2022-04-01 | 2022-04-19 |
@@ -1370,6 +1370,7 @@
 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 4:26 | 2023-04-13 | 2023-06-23 |
 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9) | 4:26 | 2023-02-10 | 2023-04-22 |
 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2021-09-15 | 2022-07-01 |
+| [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 | 2023-10-03 |  |
 | [Simulation Swarm](https://open.spotify.com/track/0kVBi81VO9ewtpOlSvRLOV) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Simulation Swarm](https://open.spotify.com/album/7sI35CBhFIbUwNYeiKxcO2) | 4:12 | 2022-01-28 | 2022-04-07 |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2023-01-06 | 2023-04-22 |
 | [Sink In](https://open.spotify.com/track/15PpjH9dNPSZrEaAw2M3Np) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Sink In](https://open.spotify.com/album/4B96zJ2Iam0bCgntIJEO6E) | 3:57 | 2021-10-10 | 2021-10-11 |

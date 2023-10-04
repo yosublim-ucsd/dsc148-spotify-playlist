@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,429 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,980 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 51 | [Goodbye My Friend](https://open.spotify.com/track/15x2fA20jjqwO3To51fuOI) | [Cécile Corbel](https://open.spotify.com/artist/4mVQMbJAHOazLrBmgpgB8M) | [Arrietty Soundtrack](https://open.spotify.com/album/0ldESLoQyyP80ynVU2gych) | 2:57 |
 | 52 | [The Bird Man \- Ending theme](https://open.spotify.com/track/0aGJbl0p1lv5OuW0jQ0F0t) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Nausicaä of the Valley of the Wind Soundtrack: Towards the Faraway Land](https://open.spotify.com/album/1qHmdiWzKzuDWtEa1gQEW4) | 3:47 |
 | 53 | [The Latin Quarter](https://open.spotify.com/track/1SvZCgcNyuRS7hgdqHphE0) | [Satoshi Takebe](https://open.spotify.com/artist/0pWDwAU3grBQc9GAIQOP2N) | [From Up On Poppy Hill Soundtrack](https://open.spotify.com/album/3rc7HXbkC0kSZIQeQBoqXZ) | 2:22 |
-| 54 | [One Summer's Day \(The Name of Life\) \- English Version / from 'Spirited Away'](https://open.spotify.com/track/4gzcl0yqLPlXWvytu7O8Gp) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [グレース・デイヴィッドソン](https://open.spotify.com/artist/64HB7iidirfE6gGnqbrK9Y) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 4:04 |
+| 54 | [One Summer's Day \(The Name of Life\) \- English Version / from 'Spirited Away'](https://open.spotify.com/track/4gzcl0yqLPlXWvytu7O8Gp) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 4:04 |
 | 55 | [Rendezvous on the Push Broom](https://open.spotify.com/track/5HdNEtxG1lJkBqDuFHMIrf) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Kiki's Delivery Service Soundtrack Music Collection](https://open.spotify.com/album/2NO5lYWs4aWpsmHOjF4JHk) | 1:06 |
 | 56 | [The Song of Baron](https://open.spotify.com/track/0dFWSt8dmEe9l76I8IphBU) | [Yuji Nomi](https://open.spotify.com/artist/2ItyqN4i9lNz49g421p0Cl) | [Whisper of the Heart Soundtrack](https://open.spotify.com/album/0yOhYn348rz2j3mUne0fpH) | 2:42 |
 | 57 | [The Path of the Wind \- Instrumental](https://open.spotify.com/track/2KLjcZ67h7Dad8QjW1IvE4) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [My Neighbor Totoro Soundtrack Collection](https://open.spotify.com/album/2Dn4ABFUYJbrlMF7K12RT3) | 3:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 69 | [Ponyo on the Cliff by the Sea \- from 'Ponyo on the Cliff by the Sea'](https://open.spotify.com/track/1ZH2eyqwewJj7wAAyzjeky) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 3:16 |
 | 70 | [いつでも誰かが](https://open.spotify.com/track/3naMRyLXw84R6USrfjgc7E) | [Shang Shang Typhoon](https://open.spotify.com/artist/2jpbrxvQN2UIqmZEb5pOhF) | [GREATEST HiTS 上々颱風](https://open.spotify.com/album/29WA2huritEuEDi03P3klA) | 5:06 |
 
-Snapshot ID: `MCwzOGI4NmI4ZGYzMGI5Mzc2OWI5OGYxYWZhNWM4ODk4MjVhMTcyNGFl`
+Snapshot ID: `MCxhYTg1Y2U1MDY4NDA4NTRkYjY3ZTAyMjJkOGUwNDliOGRiZmQyNjk4`

@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 128241,
       "name": "\u3057\u3085\u304c\u30fc\u306f\u3041\u3068\u2606\u30ec\u30dc\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3 - GAME VERSION",
       "url": "https://open.spotify.com/track/6EbWME2XkDLiDXLiSJgdAv"
@@ -2708,6 +2708,40 @@
       "duration_ms": 129113,
       "name": "\u30d0\u30d9\u30eb - GAME VERSION",
       "url": "https://open.spotify.com/track/1FvVVMENXmHoO0Ayl5NeO6"
+    },
+    {
+      "album": {
+        "name": "\u30d1\u30b8\u30e3\u30de\u30b8\u30e3\u30de (GAME VERSION)",
+        "url": "https://open.spotify.com/album/6NmKNmsuaAeCY6SvuSTYfF"
+      },
+      "artists": [
+        {
+          "name": "\u4f9d\u7530\u82b3\u4e43 (CV: \u9ad8\u7530\u6182\u5e0c)",
+          "url": "https://open.spotify.com/artist/1v57vcDx5v6kdDbCRfuuVE"
+        },
+        {
+          "name": "\u8fbb\u91ce\u3042\u304b\u308a (CV: \u6885\u6fa4\u3081\u3050)",
+          "url": "https://open.spotify.com/artist/6eAr4mplycADvR8hVpC2xH"
+        },
+        {
+          "name": "\u5cf6\u6751\u536f\u6708 (CV: \u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6RQ5VjHW97K397QfPd0aXt"
+        },
+        {
+          "name": "\u795e\u8c37\u5948\u7dd2 (CV: \u677e\u4e95\u6075\u7406\u5b50)",
+          "url": "https://open.spotify.com/artist/3eC78QG6Si2VnKkuACqiDC"
+        },
+        {
+          "name": "\u4f50\u4e45\u9593\u307e\u3086 (CV: \u7267\u91ce\u7531\u4f9d)",
+          "url": "https://open.spotify.com/artist/2CKrdhR4S3qk7yWovhUYb7"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123038,
+      "name": "\u30d1\u30b8\u30e3\u30de\u30b8\u30e3\u30de - GAME VERSION",
+      "url": "https://open.spotify.com/track/5PeJuokwCC8dr0SbNQupGG"
     },
     {
       "album": {

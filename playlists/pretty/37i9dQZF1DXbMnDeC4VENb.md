@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,000 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,093 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 72 | [Bésame Lento](https://open.spotify.com/track/702HgdUa5QILPolhhVoktM) | [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Bésame Lento](https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF) | 4:31 |
 | 73 | [Cada Quien](https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Cada Quien](https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH) | 3:04 |
 | 74 | [Qué Más Da](https://open.spotify.com/track/2hlfF82K7N4Faivl5spUYR) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9), [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Qué Más Da](https://open.spotify.com/album/1uwybis0C2LleyWdZDc2KA) | 3:17 |
-| 75 | [AFRODISIACO](https://open.spotify.com/track/2mB8alPfoXyO1cOzjxL5ng) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [FOTOS DE FAMILIA Vol\. 1](https://open.spotify.com/album/3JqqNRyCHjYOlFEhLDiV94) | 2:48 |
-| 76 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cada Día Te Quiero Más](https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J) | 3:12 |
+| 75 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cada Día Te Quiero Más](https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J) | 3:12 |
+| 76 | [AFRODISIACO](https://open.spotify.com/track/2mB8alPfoXyO1cOzjxL5ng) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [FOTOS DE FAMILIA Vol\. 1](https://open.spotify.com/album/3JqqNRyCHjYOlFEhLDiV94) | 2:48 |
 | 77 | [Me Haces Bien](https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO), [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91) | [Me Haces Bien](https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC) | 3:27 |
 | 78 | [Ella Es](https://open.spotify.com/track/4wNwmejbGQkgk8qIsqWRqy) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb) | [Ella Es](https://open.spotify.com/album/4FZHnZPGheiOd83ZGrTZ1P) | 3:49 |
 | 79 | [Siempre Serás para Mí](https://open.spotify.com/track/6mwsIP2GDaEz4DoOkSVfJY) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Siempre Serás para Mí](https://open.spotify.com/album/7lhKv3VoTgd8cOpkJOkUwe) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 99 | [Ilegal](https://open.spotify.com/track/7noUi6BJ2QBfBHxzAWXk6n) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [99,9](https://open.spotify.com/album/2t4hCVRC3NpT8UjdDEC9x0) | 2:10 |
 | 100 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 |
 
-Snapshot ID: `MCxkYzQ0MjJjMTgwNTYyOGU1NGE0YWE1ZGYzMjYwYTRmZDQyYjlkYjM4`
+Snapshot ID: `MCw4YzhkODA5OTg1MGIzOTY4MWRkZDg5MmU1MzU0MGM1YWVmZWM2N2Q1`

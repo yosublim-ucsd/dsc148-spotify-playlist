@@ -4,7 +4,7 @@
 
 > Solte a voz no chuveiro e liberte o cantor dentro de você!
 
-166 songs - 10 hr 5 min
+167 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Mentalmente](https://open.spotify.com/track/0Chw8wzV8Fyjv8ahoCIr7u) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Mentalmente](https://open.spotify.com/album/3AQPCZzBkYeekl94fTtoOv) | 2:40 | 2021-09-22 | 2022-07-20 |
 | [Meu talismã](https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Meu talismã](https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO) | 2:45 | 2021-09-22 | 2022-07-29 |
 | [Milla \- Ao Vivo Em Aracaju / 1996](https://open.spotify.com/track/22Ekdb1dJdXVDckNpZGZLG) | [Netinho](https://open.spotify.com/artist/3Qyjq5eQNKo5tHVmXyhvtB) | [Netinho Ao Vivo](https://open.spotify.com/album/1Fl9ili8vn7fIW9oxiCvOh) | 4:53 | 2021-09-22 | 2022-07-29 |
+| [Mirrors](https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 8:04 | 2023-08-11 |  |
 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 | 2021-09-22 | 2022-07-07 |
 | [Mulher de fases](https://open.spotify.com/track/624ra5mDiibqvFYDK4yhmo) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [So No Forevis](https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE) | 3:33 | 2021-09-22 | 2022-07-29 |
 | [No Dia em Que Eu Saí de Casa](https://open.spotify.com/track/3TPVkq85S5r0EoXZHn5zxU) | [Zezé Di Camargo & Luciano](https://open.spotify.com/artist/4dyYjqmYDjegbB3F2mbvcT) | [Zezé Di Camargo & Luciano 1995](https://open.spotify.com/album/6Ls690GTjzbU4YNHnyCg1M) | 3:15 | 2021-09-22 | 2022-07-13 |
@@ -110,7 +111,7 @@
 | [O Sol](https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Sol](https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY) | 3:29 | 2021-09-22 | 2022-07-29 |
 | [Onda Onda \(Olha a Onda\)](https://open.spotify.com/track/6XQcu5hfZHQB5i5ydzMVGQ) | [Tchakabum](https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp) | [Capitao Tchaka](https://open.spotify.com/album/2ht69nFp3UoHQ9GNGhsrkg) | 4:35 | 2021-09-22 | 2022-06-20 |
 | [Ouvi Dizer](https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:30 | 2021-09-22 | 2022-07-29 |
-| [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 | 2022-11-09 |  |
+| [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 | 2022-11-09 | 2023-10-04 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-09-22 |  |
 | [penhasco.](https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:06 | 2021-09-22 | 2022-07-29 |
 | [Pesadão](https://open.spotify.com/track/1BkyiAw1L0BOHYckwpRX4V) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Pesadão](https://open.spotify.com/album/1lTqQFgYroGTUZp1e7BoSp) | 3:19 | 2021-09-22 | 2022-07-29 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWU1OTVlYTdkYzg2ZWFiMGQyNTNhYjVlYmZlYjY0YTYyOGUwMzZl",
+  "snapshot_id": "MCxlNzlkZWY1NWM2YzVlZmI1YjdlYzRjODBmNWIyYTVmNjdhZTJmMmVk",
   "tracks": [
     {
       "added_at": "2023-09-22 00:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
+        "name": "Unfoolish (You Must Be Used To Me Crying)",
+        "url": "https://open.spotify.com/album/4Fxgfr9pg3csJp73m5SZ53"
+      },
+      "artists": [
+        {
+          "name": "Ku De Ta",
+          "url": "https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU"
+        }
+      ],
+      "duration_ms": 133462,
+      "name": "Unfoolish (You Must Be Used To Me Crying)",
+      "url": "https://open.spotify.com/track/3n8hN6Q8tQR8JHvRQSGFuU"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
         "name": "Freedom 2",
         "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
       },
@@ -735,42 +751,6 @@
       "duration_ms": 206931,
       "name": "Freedom 2",
       "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "Pleasure Peak",
-        "url": "https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Pleasure Peak",
-      "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "Unfoolish (You Must Be Used To Me Crying)",
-        "url": "https://open.spotify.com/album/4Fxgfr9pg3csJp73m5SZ53"
-      },
-      "artists": [
-        {
-          "name": "Ku De Ta",
-          "url": "https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU"
-        }
-      ],
-      "duration_ms": 133462,
-      "name": "Unfoolish (You Must Be Used To Me Crying)",
-      "url": "https://open.spotify.com/track/3n8hN6Q8tQR8JHvRQSGFuU"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -799,6 +779,26 @@
       "duration_ms": 160000,
       "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
       "url": "https://open.spotify.com/track/3PIFmXwdhCKITMmWQqXhef"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Pleasure Peak",
+        "url": "https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Pleasure Peak",
+      "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Blow Out",
-        "url": "https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 216070,
-      "name": "Blow Out",
-      "url": "https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "God Made Me Phunky (Jess Bays Remix)",
         "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 220270,
       "name": "God Made Me Phunky - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Blow Out",
+        "url": "https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 216070,
+      "name": "Blow Out",
+      "url": "https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Good Luck",
-        "url": "https://open.spotify.com/album/05tBKh2vFcXIUTk3lRHKFy"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Pia Mia",
-          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
-        }
-      ],
-      "duration_ms": 147597,
-      "name": "Good Luck",
-      "url": "https://open.spotify.com/track/04oTyEbJ190RfXWSlTP4b7"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/05tBKh2vFcXIUTk3lRHKFy"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Pia Mia",
+          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
+        }
+      ],
+      "duration_ms": 147597,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/04oTyEbJ190RfXWSlTP4b7"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Night Ends",
-        "url": "https://open.spotify.com/album/6nfOb69by9vWhRZdCiz52P"
-      },
-      "artists": [
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "Night Ends",
-      "url": "https://open.spotify.com/track/1jghJYP9CZ5tbkZXNFEq0i"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Feel Again",
         "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 169108,
       "name": "Come Around Again",
       "url": "https://open.spotify.com/track/1PgWZgdROSbx0yRIRH078E"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Night Ends",
+        "url": "https://open.spotify.com/album/6nfOb69by9vWhRZdCiz52P"
+      },
+      "artists": [
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Night Ends",
+      "url": "https://open.spotify.com/track/1jghJYP9CZ5tbkZXNFEq0i"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
-        "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        },
-        {
-          "name": "Elisabeth Troy",
-          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
-        }
-      ],
-      "duration_ms": 208217,
-      "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
-      "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Good for Me (feat. Anna Straker)",
         "url": "https://open.spotify.com/album/748zysgcKhJBQPJcRAnznX"
       },
@@ -1387,6 +1363,30 @@
       "duration_ms": 144960,
       "name": "Good for Me (feat. Anna Straker)",
       "url": "https://open.spotify.com/track/2uq1PtuZxq2BAWqZSS80Bd"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
+        "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Elisabeth Troy",
+          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
+        }
+      ],
+      "duration_ms": 208217,
+      "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
+      "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/29STI5532ceyljunkxotwt"
-      },
-      "artists": [
-        {
-          "name": "Tom Zanetti",
-          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
-        },
-        {
-          "name": "Siobhan",
-          "url": "https://open.spotify.com/artist/01ECQGGtoCYebgGrNWaIay"
-        }
-      ],
-      "duration_ms": 218015,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/4p1hTT29zIfPbf8XVO1nHQ"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Selecta",
         "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 169009,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/29STI5532ceyljunkxotwt"
+      },
+      "artists": [
+        {
+          "name": "Tom Zanetti",
+          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
+        },
+        {
+          "name": "Siobhan",
+          "url": "https://open.spotify.com/artist/01ECQGGtoCYebgGrNWaIay"
+        }
+      ],
+      "duration_ms": 218015,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/4p1hTT29zIfPbf8XVO1nHQ"
     },
     {
       "added_at": "2023-09-22 00:00:00",

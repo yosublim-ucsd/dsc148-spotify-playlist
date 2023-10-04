@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Adé
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,623 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,690 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 48 | [Oublier](https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Oublier](https://open.spotify.com/album/3MJltJ9phcfouKbcupRDoP) | 3:03 |
 | 49 | [Vital](https://open.spotify.com/track/6TmFRumBFH5pe47ifSk6xH) | [Tessa Galli](https://open.spotify.com/artist/2gwcCVXHaxheagUuFstHvI) | [Vital](https://open.spotify.com/album/78JSV318gx3LZyLYnbGqqP) | 2:52 |
 
-Snapshot ID: `MCw5ZmM3M2MyZDExYjNlZjVlMWJlZGNlMTAyYWU5NWNkYTU2Y2Y0MzFj`
+Snapshot ID: `MCxkNGY5YjA1MWE3NWRjNjI2YWU0ODMyNGM4YjA5YmQwZGJjMzNjMzk5`

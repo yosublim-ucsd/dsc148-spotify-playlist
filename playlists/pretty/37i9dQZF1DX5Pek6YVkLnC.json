@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 229294,
+  "num_followers": 229321,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDA1ODJiNTlkN2I0NWU0MDk0OGU3YWUyNzIxMzE3NmI0NTA5ZWUx",
+  "snapshot_id": "MCwxZThkMjJlZmY2ZGYxZjg2NDE3OGU0NDdmMmYyMGUyMGNiZmU1ZDRj",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -199,26 +199,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Me Dice Daddy",
-        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Me Dice Daddy",
-      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Gangsta Grillz: Mvrda Gvng",
         "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 295600,
       "name": "Trapstar (with DJ Drama & Hades66)",
       "url": "https://open.spotify.com/track/0qIiVth60KlgFjzKfWI6R0"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Me Dice Daddy",
+        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Me Dice Daddy",
+      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "Right Thru",
+        "url": "https://open.spotify.com/album/2TjYnjPkhzKijobREcJ0wW"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Right Thru",
+      "url": "https://open.spotify.com/track/2YDIqBfYlDg9DfgtGziC9Y"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "1% (Remix)",
         "url": "https://open.spotify.com/album/7vnBMKz5X3ZopYiwP1EgcW"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 290053,
       "name": "1% - Remix",
       "url": "https://open.spotify.com/track/1F4Vm45mboD6k5VAx83pJu"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Right Thru",
-        "url": "https://open.spotify.com/album/2TjYnjPkhzKijobREcJ0wW"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "Right Thru",
-      "url": "https://open.spotify.com/track/2YDIqBfYlDg9DfgtGziC9Y"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Mi Vicio (Remix)",
-        "url": "https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 284285,
-      "name": "Mi Vicio - Remix",
-      "url": "https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Quien Va a Frontiar (Remix)",
         "url": "https://open.spotify.com/album/7BEWbSJ0k1CCHTXcH4KxZ8"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 317000,
       "name": "Quien Va a Frontiar - Remix",
       "url": "https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Mi Vicio (Remix)",
+        "url": "https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 284285,
+      "name": "Mi Vicio - Remix",
+      "url": "https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "TRAPPHONE",
+        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
+      },
+      "artists": [
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        }
+      ],
+      "duration_ms": 107984,
+      "name": "TRAPPHONE",
+      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "East Side",
         "url": "https://open.spotify.com/album/3VFdfeQep8243UdqkJFEWC"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 150707,
       "name": "East Side",
       "url": "https://open.spotify.com/track/1RXZHzvwmNKwrnwAVLOxZU"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "TRAPPHONE",
-        "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
-      },
-      "artists": [
-        {
-          "name": "Anubiis",
-          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
-        }
-      ],
-      "duration_ms": 107984,
-      "name": "TRAPPHONE",
-      "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
     },
     {
       "added_at": "2023-06-09 20:20:12",

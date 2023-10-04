@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=m6cMnzOVQt2KHC0DMOmyQw">K.O</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,376 likes - 85 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,456 likes - 85 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 73 | [Sebenza](https://open.spotify.com/track/1AqWM5edBkbgBp5uZxCmrB) | [SUPTA](https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc) | [Sebenza](https://open.spotify.com/album/7yQMY5iiaEAvO9cGnSBfGQ) | 5:01 |
 | 74 | [TUFF](https://open.spotify.com/track/6rA4mnF55VIaMGrZjH25wL) | [NOTBENJAMIN](https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN), [VegasXCesar](https://open.spotify.com/artist/2WWAFBZmTE2YEyVe7lpek4) | [ZOO](https://open.spotify.com/album/5YkgQsuHSisnaPlKx3Y6Aa) | 2:03 |
 | 75 | [MAKOTI](https://open.spotify.com/track/66VjIR8mNwmNUBRMRVifmX) | [Jay Sax](https://open.spotify.com/artist/2QLRzMotnSVwPw8iXdsVPC), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Cooper SA](https://open.spotify.com/artist/7xDh9xWg5mER07kIArgw1G) | [MAKOTI](https://open.spotify.com/album/1GqBpMs8oUeCKcCQt6C18F) | 6:25 |
-| 76 | [Amapiano Prayer](https://open.spotify.com/track/4lP2R08IbFNuj6qwvOdNp3) | [DJ THE MXO](https://open.spotify.com/artist/3PE9L43fjymtOSiKNe7zJw), [Don Edward](https://open.spotify.com/artist/0aCy51jGSGf6y3xPNyE9fV), [Ez Maestro](https://open.spotify.com/artist/68FpMhNqQNEFYu4cLMWdms), [Leecose](https://open.spotify.com/artist/06B3PKlTxx7w8Ze8acA9Y6) | [Amapiano Prayer](https://open.spotify.com/album/7qAewnQMBzUOHPTkPLSozL) | 6:36 |
+| 76 | [Amapiano Prayer](https://open.spotify.com/track/4lP2R08IbFNuj6qwvOdNp3) | [DJ THE MXO](https://open.spotify.com/artist/3PE9L43fjymtOSiKNe7zJw), [Don Edward](https://open.spotify.com/artist/0aCy51jGSGf6y3xPNyE9fV), [Ez Maestro](https://open.spotify.com/artist/3IMFYyZbvXrXDCRdrajyT2), [Leecose](https://open.spotify.com/artist/06B3PKlTxx7w8Ze8acA9Y6) | [Amapiano Prayer](https://open.spotify.com/album/7qAewnQMBzUOHPTkPLSozL) | 6:36 |
 | 77 | [Mr Dlala](https://open.spotify.com/track/7Kdq5509zWstjRpts1Tz2a) | [Sje Konka](https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l) | [Tseke Tseke](https://open.spotify.com/album/5y5Uhmo9Qu5hHeus3NjplE) | 6:05 |
 | 78 | [Mdali](https://open.spotify.com/track/5OB6TlAKn98gfAowDXeTZt) | [Baby Momo](https://open.spotify.com/artist/4vvWw19AbXNRhTcJoNbzU6), [Ceenday](https://open.spotify.com/artist/47GtIyxOiqoEK3xsxnW2w0), [RDS PRO](https://open.spotify.com/artist/2f3j01TEMeYWTdeO4WJjOF), [Future Saxo](https://open.spotify.com/artist/4HnPWKdqyXAVwkOEibc4YN) | [Mdali](https://open.spotify.com/album/7L0mDdyTyWpJxRx97mW9Jq) | 6:25 |
 | 79 | [Neon](https://open.spotify.com/track/0BEqpOpiUrZDDPt86E4pTn) | [Bongi Mel](https://open.spotify.com/artist/3qKyBIDOd8iW2XyHKrCVo5) | [Neon](https://open.spotify.com/album/70c1PUGquxDLhQFiTXyD9Z) | 3:46 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 84 | [Ndilindile](https://open.spotify.com/track/7rLtep0hlUA6Gnt02RsFgY) | [Amu Classic](https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H), [Kappie](https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx), [Vyno Keys](https://open.spotify.com/artist/3vWbrBxoOzcfiwskz0IsgS), [Sein](https://open.spotify.com/artist/1qu7L7ZKzxgxAHdADywXoB) | [School Of Excellence](https://open.spotify.com/album/0YRmcb8iBiZQY3E4IiZHjK) | 6:55 |
 | 85 | [Mama](https://open.spotify.com/track/6beR4GdeHc6XhWOS8Kyfqb) | [Mckenzie](https://open.spotify.com/artist/1kMgpTIY3ncxXYaE2vqAEE), [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg) | [Mama](https://open.spotify.com/album/1wYUllN2pLA9r67Jl5SFE3) | 3:59 |
 
-Snapshot ID: `MCw0ZDQ2NGMyYzFiOTZiYzQzMmY1MDkwMmZiZDZiMzUzNWYwMGNjNTEy`
+Snapshot ID: `MCw0ZGI3ZTU1ZTNjZWFiOWFlOTE0NjdiNzdmMGE3YTdhYTE5OWFkNTdl`

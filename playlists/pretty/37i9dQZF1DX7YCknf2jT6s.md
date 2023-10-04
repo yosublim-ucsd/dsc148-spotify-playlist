@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Lonnie Liston Smith,  Ali Shaheed Muhammad & Adrian Younge
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,710 likes - 99 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,833 likes - 99 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [Conga a la Americana](https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Timba a la Americana](https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C) | 3:13 |
 | 99 | [The Good Life](https://open.spotify.com/track/7vCUJ7NPHoIVMGzmQLfoen) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [New Jawn](https://open.spotify.com/artist/0lpuuN7i6U5mUhMozlFncR) | [Prime](https://open.spotify.com/album/1vFLT0IUByItGLbFDb7NXJ) | 7:15 |
 
-Snapshot ID: `MCw1NjRkYWQyMWZhYzU5OGNlNWZmYzA3YzQ1NmQzYjZhYjNjNGVjODA0`
+Snapshot ID: `MCxmM2M5MDUzMmQ4YTYxNjM1MzU3ZDhhYjkxNTcwMDRhNDMyN2JmYTQw`

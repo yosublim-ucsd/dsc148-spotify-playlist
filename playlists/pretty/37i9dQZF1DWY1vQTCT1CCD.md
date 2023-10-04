@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1vQTCT1CCD.md) - [plain]
 
 > Détendez vous avec ces chansons tranquilles pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,389 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,407 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1vQTCT1CCD.md) - [plain]
 | 4 | [Blackbird](https://open.spotify.com/track/0FgkcJWhDUyqpHDcj0jzp2) | [The Beat Bugs](https://open.spotify.com/artist/2zaXzyRTG9N2adhmmnV31p), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Beat Bugs: Complete Season 1 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/27avWEEaNMlHSAAe6KQzdm) | 2:32 |
 | 5 | [Ça va ça vient](https://open.spotify.com/track/1d88B3j48iAB6oL7SWZlxy) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Ça va ça vient](https://open.spotify.com/album/4rBuK11DkyD5o19N6iblNI) | 3:24 |
 | 6 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
-| 7 | [La bonne étoile \(Duo dub \- version Ariane Moffat\)](https://open.spotify.com/track/65XxFc7ir5H4iUWlfCfBRW) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [La bonne étoile](https://open.spotify.com/album/5m5Qe4fwmXtLjlADVsO0bB) | 4:12 |
+| 7 | [La bonne étoile \(Duo dub\) \[feat\. Ariane Moffat\]](https://open.spotify.com/track/65XxFc7ir5H4iUWlfCfBRW) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Ariane Moffat](https://open.spotify.com/artist/6WCfv3ApgE7lAYwW9NY8GO) | [La bonne étoile](https://open.spotify.com/album/5m5Qe4fwmXtLjlADVsO0bB) | 4:12 |
 | 8 | [Les gens](https://open.spotify.com/track/3bCC5fxH6wMAOeCCqMzFLN) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [La vie d'artiste](https://open.spotify.com/album/77umZ5RoAPP2dnv0ibyjAQ) | 3:04 |
 | 9 | [Upside Down](https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Upside Down](https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU) | 3:29 |
 | 10 | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/track/6PmjmuQxr4bkssYwUxMNrQ) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx), [L.E.J](https://open.spotify.com/artist/7kKKMBmEtyQcPb9idicNr7) | [Emmène\-moi \(feat\. L.E.J\)](https://open.spotify.com/album/5eRerGrB84BcQFaGyYZyXB) | 2:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1vQTCT1CCD.md) - [plain]
 | 59 | [Tiago](https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Amigo](https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ) | 2:58 |
 | 60 | [Le chant des sirènes](https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Fréro Delavega](https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46) | 2:58 |
 
-Snapshot ID: `MCw0Y2MyMjJkYjUwZTM3MWEyODdiZDQyNWViMTdmMzU3ZmYzMGJhNzAx`
+Snapshot ID: `MCw1NDUxNGU3Nzg5Mzk3YmMzNDVjNGQ2MDIzMzIxODY1Mzk0NDU3Nzlj`

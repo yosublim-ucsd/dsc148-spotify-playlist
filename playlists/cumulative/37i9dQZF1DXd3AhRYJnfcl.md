@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB?si=N6rI\_XQeRB2Z3mA9xRoohQ">  محمود العسيلي </a>
 
-234 songs - 13 hr 35 min
+235 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [حمرا حمو الطيخا](https://open.spotify.com/track/0O31XAenULKHHAE5wQjhMs) | [Hr\-Muisc1](https://open.spotify.com/artist/2hmqMeLn6oIt4CJS0Wxr0W) | [حمرا حمو الطيخا](https://open.spotify.com/album/6pzMvIbmXlPYgxHCcni6py) | 3:38 | 2023-03-09 | 2023-03-15 |
 | [خضره \- متي اشوفك](https://open.spotify.com/track/50VIdPGBGBsE9K4RyNf56A) | [amadio](https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj), [Khadra Mohamed Khedr](https://open.spotify.com/artist/4mhP8OWyNDZJbXJnnj7Cb8) | [خضره \(متي اشوفك\)](https://open.spotify.com/album/12oAamMej3DmmUzJXJEmSA) | 2:25 | 2023-03-16 | 2023-09-02 |
 | [خطوة اجباري](https://open.spotify.com/track/06h6dQDVdXjnIOXGXabW02) | [نور النبوي](https://open.spotify.com/artist/2lvyyBvz0mMzl57uxbzQ15), [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [خطوة اجباري](https://open.spotify.com/album/74il7VqlKq7JEM1oiTrIm5) | 1:50 | 2022-06-07 | 2023-03-18 |
-| [دلعنا كتير](https://open.spotify.com/track/6zNFUlt8E8NcT2ljRqK5GM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [دلعنا كتير](https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1) | 2:52 | 2023-09-01 |  |
+| [دلعنا كتير](https://open.spotify.com/track/6zNFUlt8E8NcT2ljRqK5GM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [دلعنا كتير](https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1) | 2:52 | 2023-09-01 | 2023-10-04 |
+| [ده قلبي ده](https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ده قلبي ده](https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl) | 2:58 | 2023-10-03 |  |
 | [ستو أنا](https://open.spotify.com/track/0BCEJXmemL21JvNNoOB5TT) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/4Own1NEZVQQ573zBzyRalb), [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [مكتوب عليا \(أغاني المسلسل التلفزيوني الأصلي\)](https://open.spotify.com/album/7CNSRnoyRE1QhSWksa8OFs) | 2:21 | 2022-05-19 | 2023-01-03 |
 | [سطلانة](https://open.spotify.com/track/3q62BnB25iCCFCFGEIF2mW) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX), [Ali Rabee](https://open.spotify.com/artist/77ufaOxJWPj1CKr6nn1BR3), [Osos](https://open.spotify.com/artist/28TcrGiufmVrUAbMKUIkWf), [Hassan El Kholaey](https://open.spotify.com/artist/66cgnb4zHHH8LKIF2Ukyv0) | [سطلانة](https://open.spotify.com/album/3dSwt8D25ST0ROdebYf7Op) | 3:15 | 2023-06-15 |  |
 | [شارع الحياه مش هو هو \- كنت اسد بس الحسد](https://open.spotify.com/track/5uY9sxUgX1EarWZXCKdzzu) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [شارع الحياه مش هو هو \(كنت اسد بس الحسد\)](https://open.spotify.com/album/5KoxyECjOwq9JjiRwxfoTZ) | 4:57 | 2023-10-02 |  |

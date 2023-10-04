@@ -1,12 +1,12 @@
 {
   "description": "Some of the most influential and innovative voices in hip-hop\u2014yesterday, today, tomorrow. Cover: Doja Cat",
-  "num_followers": 41794,
+  "num_followers": 41926,
   "original_name": "Women of Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTY1ZjBhNTE0ZDVlNzBiMDVjMjE4ODdkNTE4NmI4NWE4YmZmNmZi",
+  "snapshot_id": "MCxiYjAwZGRkNTczNjg2MzIxNzVmN2RiOWIyZGVlMGQzMTg0NzA2YzBh",
   "tracks": [
     {
       "added_at": "2022-03-08 20:45:52",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-03-08 20:45:52",
       "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 156005,
-      "name": "WHOLE LOTTA MONEY",
-      "url": "https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7"
-    },
-    {
-      "added_at": "2022-03-08 20:45:52",
-      "album": {
         "name": "After The Rain",
         "url": "https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 182464,
       "name": "I Am (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/4E7ZbuJH3NddjnMWLstkRq"
+    },
+    {
+      "added_at": "2022-03-08 20:45:52",
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 156005,
+      "name": "WHOLE LOTTA MONEY",
+      "url": "https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7"
     },
     {
       "added_at": "2022-03-08 20:45:52",

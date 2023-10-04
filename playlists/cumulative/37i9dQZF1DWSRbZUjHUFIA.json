@@ -38,10 +38,32 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 161562,
       "name": "And We",
       "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
+    },
+    {
+      "album": {
+        "name": "And We (NRG Official Remix)",
+        "url": "https://open.spotify.com/album/2pq08blBD7IqCUPxBTRt5Z"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181446,
+      "name": "And We (NRG Official Remix)",
+      "url": "https://open.spotify.com/track/57vSwos5T22v9sGqNWJuy7"
     },
     {
       "album": {
@@ -452,7 +474,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 156000,
       "name": "infinite money glitch",
       "url": "https://open.spotify.com/track/5VnxkeWulq8p3DYzrvSoVP"
@@ -496,7 +518,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 236665,
       "name": "Killer (feat. Jack Harlow & Cordae) - Remix",
       "url": "https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe"
@@ -900,7 +922,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 179047,
       "name": "Ruthless",
       "url": "https://open.spotify.com/track/1XuFjxGwGRaWYJ4NGLWg1V"
@@ -1072,7 +1094,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"

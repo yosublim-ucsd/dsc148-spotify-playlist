@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
 
-211 songs - 10 hr 8 min
+212 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Adulthood](https://open.spotify.com/track/5D8O2iH92KcvTpHRb691DF) | [Joban Sandhu](https://open.spotify.com/artist/5IMKL9U2FzIB9fFn2kILAf) | [Adulthood](https://open.spotify.com/album/1vYVjhzmdVzLN6pM8enlFO) | 1:09 | 2023-03-29 | 2023-04-21 |
 | [Ahhi Kuj Khatteya](https://open.spotify.com/track/6prYVb7vpt7o7zx7q2BaYM) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Ahhi Kuj Khatteya](https://open.spotify.com/album/1Stt5cMP16F8sn3bALd4ml) | 2:23 | 2023-04-20 | 2023-05-06 |
 | [Ain’t Too Long](https://open.spotify.com/track/6cy1JX4TAyjfP9BTzqcQ3O) | [Deep Dhaliwal](https://open.spotify.com/artist/49rpuSgVLanEVfk2vuAKEU) | [Ain’t Too Long](https://open.spotify.com/album/0533kPz9WpIAMHF5nW10eT) | 2:54 | 2023-04-20 | 2023-04-28 |
+| [AK Cantalian](https://open.spotify.com/track/6VZBIXm0L3vHoxQvbk9mKi) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [AK Cantalian](https://open.spotify.com/album/1rmyIPtKPX8B4v3jZsUlX8) | 2:38 | 2023-10-03 |  |
 | [Akh Laal](https://open.spotify.com/track/6cdcCKdK7vr0COGcrEg2Ki) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Akh Laal](https://open.spotify.com/album/51br0QucPpQCoVVBDgvRkB) | 3:08 | 2023-03-29 | 2023-07-15 |
 | [All Sorted](https://open.spotify.com/track/1yuduFmsdDHWRrJiQCL73U) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [GURI SINGH](https://open.spotify.com/artist/4YK5CprOTeHRmdNX0c5UpZ), [MIXBYDOLCE](https://open.spotify.com/artist/4tcqUfUJ97wTStbNVYK9ul) | [All Sorted](https://open.spotify.com/album/4JZuiGIpa59jLIeJvzH4za) | 2:58 | 2023-04-21 | 2023-05-06 |
 | [Aloof](https://open.spotify.com/track/1CqkvBoq1vYh0TVX67aVFe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [YOLO](https://open.spotify.com/album/4xBhPWyrysJmW2bnaGKXOV) | 2:46 | 2023-03-29 |  |

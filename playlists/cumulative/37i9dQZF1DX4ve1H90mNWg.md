@@ -4,7 +4,7 @@
 
 > Texas music breaking waves\. <br/> Cover:  <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36?si=d14048b372484137">Teezo Touchdown</a>
 
-551 songs - 1 day 2 hr 53 min
+552 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [247](https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [247](https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z) | 2:43 | 2022-10-25 | 2023-01-14 |
 | [2am](https://open.spotify.com/track/2LbuYHVsm5whjGY9S06im3) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [2am](https://open.spotify.com/album/6shVFUa8VZJHPfb3nHATy3) | 3:00 | 2023-02-14 | 2023-08-26 |
 | [30 Shots In](https://open.spotify.com/track/2sFuj0hTLqgijH02eLL2JO) | [MC Beezy](https://open.spotify.com/artist/0sKjQzE9zRTcX6akN7STJv) | [30 Shots In](https://open.spotify.com/album/00vd5Inu8WZ82J1fGD0WNa) | 2:48 | 2023-04-24 | 2023-05-19 |
-| [380 BAKE](https://open.spotify.com/track/7iFkd7WdWJO63WG9JRmKyS) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [380 BAKE](https://open.spotify.com/album/65fpNPgM1mjLQNdEvx2CX3) | 2:20 | 2023-08-25 |  |
+| [380 BAKE](https://open.spotify.com/track/2c9cgLHPUIZqyIabyAPkzR) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [The Pressure Pack](https://open.spotify.com/album/4riQz0IxWVfvQ64I55lvst) | 2:20 | 2023-09-01 |  |
+| [380 BAKE](https://open.spotify.com/track/7iFkd7WdWJO63WG9JRmKyS) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [380 BAKE](https://open.spotify.com/album/65fpNPgM1mjLQNdEvx2CX3) | 2:20 | 2023-08-25 | 2023-10-04 |
 | [4 the love of the game](https://open.spotify.com/track/2urE4My6PcNLELXCRnCoVj) | [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [E30](https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc) | 4:16 | 2022-01-29 | 2022-06-11 |
 | [4AM](https://open.spotify.com/track/6vnxhuPZeymZdk9UoPLQeE) | [Startheonly1ne](https://open.spotify.com/artist/1CHx79WailhfSLpBvUvWqt) | [Fleeting Moments](https://open.spotify.com/album/7C9qDeBiKvRqDGlF6YH7yk) | 2:27 | 2022-12-02 | 2023-02-15 |
 | [4AM In Charlotte](https://open.spotify.com/track/70sQaLOrIhlKF0iIS2Gjx0) | [Cico P](https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx) | [4AM In Charlotte](https://open.spotify.com/album/0McCjUthWgnZzXepI9f1SU) | 3:16 | 2022-09-09 | 2023-04-25 |

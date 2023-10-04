@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 167383,
+  "num_followers": 167467,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWJmZTdhOGEzNjY1NzIyZDBiMzZiNGMwYmU4OWMwZDNhYzc4NTUy",
+  "snapshot_id": "MCwyY2EwNTQ4Y2JmNTQ5MjNiOWY4YTg3MDMyYmM4ZTM0Y2Y0MTMzZjg0",
   "tracks": [
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 170981,
       "name": "ANIMAL",
       "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Nunca Vemos Nada",
-        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
+        "name": "24/Siempre Vol.1",
+        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
       },
       "artists": [
         {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+          "name": "El Triangulo Estudio",
+          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Sexo de Despedida",
-      "url": "https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq"
+      "duration_ms": 152298,
+      "name": "Homer el Mero Mero",
+      "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
     },
     {
       "added_at": "2023-08-08 02:05:58",

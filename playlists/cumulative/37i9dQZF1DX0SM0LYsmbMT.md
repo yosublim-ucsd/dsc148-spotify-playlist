@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,663 songs - 5 day 20 hr 22 min
+3,664 songs - 5 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1029,7 +1029,7 @@
 | [Flamingo Love](https://open.spotify.com/track/1Ndxg7ku5Scf5uQN3DAddR) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Márcio Tubino](https://open.spotify.com/artist/5aUNPTRKlaafKWfKtXIU8s) | [Flamingo Love](https://open.spotify.com/album/5gCiTgxCJzLQXwFndrrIUQ) | 1:43 | 2021-07-08 | 2021-08-20 |
 | [Flash Freeze](https://open.spotify.com/track/18N3kf8Bfmmz57fI8Ai1uz) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Mercurial](https://open.spotify.com/album/20CViYTx2LLUW8azuVKx0f) | 2:32 | 2022-01-06 | 2022-02-25 |
 | [Flashlight](https://open.spotify.com/track/2jT4R7AMB7SrA4hXOkylYo) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Flashlight](https://open.spotify.com/album/21gX2jXQE4ejeI2Yi1aGlV) | 1:42 | 2019-12-20 | 2020-04-18 |
-| [Flat](https://open.spotify.com/track/4Lxh3lRm24bFhsmQyQsRMe) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Flat](https://open.spotify.com/album/03IQreElOwScF3E5Tt8z96) | 2:52 | 2022-10-13 |  |
+| [Flat](https://open.spotify.com/track/4Lxh3lRm24bFhsmQyQsRMe) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Flat](https://open.spotify.com/album/03IQreElOwScF3E5Tt8z96) | 2:52 | 2022-10-13 | 2023-10-04 |
 | [Flava In Ya Ear](https://open.spotify.com/track/5nX86ceJytnbLZZkpKBnLV) | [Defekto](https://open.spotify.com/artist/6Rm11FWARVtpnVR52qvpSL), [Front2Blaq](https://open.spotify.com/artist/7zFPA1MaGGYCQjwzB4J9bz) | [Flava In Ya Ear](https://open.spotify.com/album/3wEQx78nfcmoSty7Clv7XA) | 2:10 | 2020-12-11 | 2021-01-04 |
 | [Flawsome](https://open.spotify.com/track/2c5LIA8qNvKHEW8rvDsRF6) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Flawsome](https://open.spotify.com/album/61jCJ6xvY2Nlr0ZYxNpdV0) | 1:59 | 2021-03-06 | 2021-06-04 |
 | [Fleetwood](https://open.spotify.com/track/540cOEqYxvyIfnPybPeEyM) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Fleetwood](https://open.spotify.com/album/0bxbVtkAFcBY0grKdrN0yz) | 2:09 | 2021-03-27 | 2021-08-27 |
@@ -1461,6 +1461,7 @@
 | [Indian Summer](https://open.spotify.com/track/0WHE2eIQ0AvKdfRXakZIHc) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Indian Summer](https://open.spotify.com/album/6nDt870gW8iPtN9MrI8QvF) | 1:51 | 2022-10-27 |  |
 | [Indigo](https://open.spotify.com/track/6o072JVrUHju3ReQDwnQvX) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Indigo](https://open.spotify.com/album/0RIbSmYZMUBN2RVXYYbdxy) | 2:11 | 2021-07-24 | 2023-04-28 |
 | [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 | 2023-09-21 |  |
+| [Infinite Travels](https://open.spotify.com/track/6ehbiJYjvX2YoYyTS3UczA) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Infinite Travels](https://open.spotify.com/album/1FTcddlRs1PBbltaZ3bJPs) | 2:17 | 2023-09-28 |  |
 | [infinity](https://open.spotify.com/track/1EsXJnF4BXO4XRYFl1Q9Xv) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [infinity](https://open.spotify.com/album/235sBSaHxVy5qDfDIpEfGO) | 1:33 | 2019-06-22 | 2019-11-15 |
 | [Inglewood](https://open.spotify.com/track/4gDjDAHlUwUfPgnmkf6fzY) | [Don Fizzy](https://open.spotify.com/artist/2zhwqqLtDHazsSVAZq0Jfj), [Cuebe](https://open.spotify.com/artist/3csK4XuQwgxouOsLopZhlH), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Inglewood](https://open.spotify.com/album/5puInZRtSIUcDseYJ1Ckwf) | 2:18 | 2021-08-20 | 2022-08-12 |
 | [Inglewood Sunset](https://open.spotify.com/track/4StT5zVHtsvvEwfPupfSIO) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Inglewood Sunset](https://open.spotify.com/album/5agTdlRTczucomF40fB9r2) | 1:57 | 2019-07-30 | 2019-11-06 |

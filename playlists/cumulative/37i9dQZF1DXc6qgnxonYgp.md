@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Paal  Dabba
 
-191 songs - 11 hr 5 min
+192 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Kaliyugam](https://open.spotify.com/track/0b520HyJdK1KnYVUre8kYS) | [Black Brother](https://open.spotify.com/artist/6CMdawkZH22r1VIDx4GdO1) | [Kaliyugam](https://open.spotify.com/album/1262cUOU4oUzUPyICgMWGY) | 2:44 | 2023-09-07 |  |
 | [KARMA II](https://open.spotify.com/track/0YJbCTkFsxJqRqljWXbASF) | [Mc Bhaashi](https://open.spotify.com/artist/7lZin56OSjFKERgNRdQetu), [Jack' Styles](https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX), [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb) | [KARMA II](https://open.spotify.com/album/26VenaVuTneUUqXQ9dihry) | 3:43 | 2022-03-09 |  |
 | [Kathali](https://open.spotify.com/track/2nOtQnTzfFyzDZmvQU5etb) | [All Mixed Up](https://open.spotify.com/artist/5C4NvJLN3b1nY5x9dK2LLc) | [All Mixed Up](https://open.spotify.com/album/68UfxYmHUN2wDX969U8dut) | 4:29 | 2021-12-01 | 2022-02-04 |
-| [KATHIR](https://open.spotify.com/track/4KwK7EYxmAnDGX8C0W8PS7) | [Mc Valluvar](https://open.spotify.com/artist/6joWFVw85R71C2SDjwGiVh), [Keba Jeremiah](https://open.spotify.com/artist/6PTFAyc79gDboAWSq7qxXz), [Aditi Ramesh](https://open.spotify.com/artist/13Z3y4eMEYPatOuboc7RcF) | [KATHIR](https://open.spotify.com/album/4JX7s0ZVmquHSYfnuj2wSf) | 2:38 | 2022-05-19 |  |
+| [KATHIR](https://open.spotify.com/track/4KwK7EYxmAnDGX8C0W8PS7) | [Mc Valluvar](https://open.spotify.com/artist/6joWFVw85R71C2SDjwGiVh), [Keba Jeremiah](https://open.spotify.com/artist/6PTFAyc79gDboAWSq7qxXz), [Aditi Ramesh](https://open.spotify.com/artist/13Z3y4eMEYPatOuboc7RcF) | [KATHIR](https://open.spotify.com/album/4JX7s0ZVmquHSYfnuj2wSf) | 2:38 | 2022-05-19 | 2023-10-04 |
 | [Kazhivara](https://open.spotify.com/track/386Irrx3UfMmOwzmKX3b8m) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Suppliers](https://open.spotify.com/artist/3nWI57X6Dtnu7lbHwl3amD) | [Lord Poetry](https://open.spotify.com/album/4illQIaW2DayH6iEItSC7x) | 3:04 | 2023-06-05 |  |
 | [KGF Monster](https://open.spotify.com/track/0QsxHp0eiG7gtF6FojQkLO) | [Hustler Bhai](https://open.spotify.com/artist/6nTrUONhTLf2LgPZ8iukC2), [Hyde Karty](https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH) | [KGF Monster](https://open.spotify.com/album/5kYWMbACccy4e0uRbjgM3s) | 5:39 | 2023-09-25 | 2023-10-01 |
 | [KGF Monster \(Feat\. Hyde Karty\)](https://open.spotify.com/track/6WYgkpEj8lN6jnqrFD3Y83) | [Hustler Bhai](https://open.spotify.com/artist/6nTrUONhTLf2LgPZ8iukC2), [Hyde Karty](https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH) | [KGF Monster \(Feat\. Hyde Karty\)](https://open.spotify.com/album/1aw8cbgv7QmfhlNhidMSW7) | 5:39 | 2023-09-25 |  |
@@ -122,6 +122,7 @@
 | [Out Of Control](https://open.spotify.com/track/2ElFXmhQvdpLChh7uv3HgB) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Mj Suriya](https://open.spotify.com/artist/5QYPxGeVCe0pqa56U9M85n), [Lenix](https://open.spotify.com/artist/5xDbPSV29LbyKj4tgkWrZP) | [Out Of Control](https://open.spotify.com/album/1bDrpC71YeioIAVg7AWFIE) | 2:08 | 2021-12-01 | 2022-07-16 |
 | [PAGADI](https://open.spotify.com/track/7LxIAVGEQSi2tcytd7xyJu) | [Prabath G.](https://open.spotify.com/artist/0AFm8YfBJDCBkKaQD7pkWd), [Matt Jay](https://open.spotify.com/artist/2wGYgm6CpO9bElcikcDTvh) | [PAGADI](https://open.spotify.com/album/0FWY2AQIQueLWGpOrmjUzf) | 3:04 | 2023-09-29 |  |
 | [Pathalla](https://open.spotify.com/track/61uaS0uypKHaKbWQ7Z4Nd2) | [Sugu](https://open.spotify.com/artist/6WkKIAQxMmm4jprvmjKz8U), [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Vino S](https://open.spotify.com/artist/1KS4k5aIIeftKrxgGft97Y), [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [Krishmusic](https://open.spotify.com/artist/760OXaWEgxFKD7sbx4bT2R) | [Pathalla](https://open.spotify.com/album/2ex90QKLhS7V7Tb0nra2xS) | 4:17 | 2021-12-01 | 2022-06-16 |
+| [PATHUN POO](https://open.spotify.com/track/3rwXdpE92M76E2Pd754MVK) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Pulingo](https://open.spotify.com/album/6fkCdDh5aA7XftqBC5106a) | 2:15 | 2023-10-03 |  |
 | [Pattasu](https://open.spotify.com/track/7JzXxzElFSzBB5FKIq20al) | [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu) | [Pattasu](https://open.spotify.com/album/6fabZpCVQClhgG1rxoLMuq) | 3:00 | 2021-12-01 |  |
 | [Pengal Enna Choppa Choppa](https://open.spotify.com/track/5V6bMrPoYSfxQnItOFhTzZ) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 4:24 | 2022-07-27 | 2023-04-04 |
 | [Phoenix](https://open.spotify.com/track/2uW5pBbdZijvGt6L55EaNM) | [Md Sheik](https://open.spotify.com/artist/4VfIJZ04vNbMGRVKPmipuA) | [Phoenix](https://open.spotify.com/album/6578RqEe62hId26Nh0Zg7A) | 3:35 | 2022-07-15 |  |

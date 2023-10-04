@@ -1,12 +1,12 @@
 {
   "description": "The hardest songs, loud. Very loud. Cover: Sleep Theory",
-  "num_followers": 932723,
+  "num_followers": 932850,
   "original_name": "Rock Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTZmZjE4M2RlOTAzYjEyMzk5MDlhZGU1ZjgzY2E4ZmZmYTQxNTIw",
+  "snapshot_id": "MCwxMmU2ZTU1NDBlZDA5YjUwMDA1ZTBlNWNiYmRiZDkzNDNmOGI1ZTZi",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -411,6 +411,22 @@
       "duration_ms": 225596,
       "name": "Won't Take Me Alive",
       "url": "https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr"
+    },
+    {
+      "added_at": "2023-10-03 01:36:27",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 248454,
+      "name": "A Symptom Of Being Human",
+      "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
     },
     {
       "added_at": "2023-09-29 04:00:00",

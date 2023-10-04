@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-910 songs - 2 day 1 hr 26 min
+911 songs - 2 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [AM I DREAMING \(feat\. Miley Cyrus\)](https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:03 | 2021-10-10 | 2022-04-21 |
 | [Am I Insane?](https://open.spotify.com/track/1f28Wukxmm8ZvEbLOibbuB) | [Off Bloom](https://open.spotify.com/artist/78JRZ7S8obuhstD79Jmu8L) | [Am I Insane?](https://open.spotify.com/album/7xTOMfDpLbpIw13wFnx8g4) | 2:45 | 2019-06-22 | 2019-06-24 |
 | [America's Sweetheart](https://open.spotify.com/track/3rJHx4kzPVlNPatZD3lVhK) | [LILHUDDY](https://open.spotify.com/artist/5nDdaia3PDYD0x4zBEHGtg) | [America's Sweetheart](https://open.spotify.com/album/2UEnt1zCnsQrBTEl3BgiVT) | 3:24 | 2021-04-23 | 2021-05-13 |
+| [American Town](https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:17 | 2023-09-28 |  |
 | [Angels Like You](https://open.spotify.com/track/0QdePZJfBpRIBautuT4FSx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/0BCjAmbM8ryCM9gxy5yW7h) | 3:16 | 2020-11-27 | 2022-07-29 |
 | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/track/3sZWxtVuRc1Iet6ELwRz43) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Anywhere Away From Here \(Rag’n’Bone Man & P!nk\)](https://open.spotify.com/album/1I8e5aPdqwrP3UJUMyaOMD) | 3:58 | 2021-04-19 | 2022-04-21 |
 | [Are you happy?](https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Sad Songs](https://open.spotify.com/album/71sb3x5BwKk87d7ZBOoSJY) | 2:37 | 2020-08-07 | 2022-11-13 |
@@ -785,7 +786,7 @@
 | [The Few Things](https://open.spotify.com/track/7GajeLvMksa794ZEQXwRSy) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Few Things](https://open.spotify.com/album/2G54TgvdPgeLZ8uRFYZNTk) | 3:31 | 2019-05-25\* | 2019-09-20 |
 | [The First One](https://open.spotify.com/track/0eQJy4VAW7AkhKIHzXx3jG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [The First One](https://open.spotify.com/album/6BxGxt7LU2viJ6U2eba5Ix) | 3:08 | 2019-06-22 | 2020-04-03 |
 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-12 |  |
-| [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-10 |  |
+| [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-10 | 2023-10-04 |
 | [the long way home \(feat\. Sara Kays & Sarcastic Sounds\)](https://open.spotify.com/track/3y4MGDUBfiRtdRAynxouy6) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [the long way home \(feat\. Sara Kays & Sarcastic Sounds\)](https://open.spotify.com/album/0a0Y0BEwYv8F1e81xuNiSc) | 3:09 | 2021-05-09 | 2021-05-17 |
 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2021-05-03 | 2021-05-27 |
 | [The Reason](https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [The Reason](https://open.spotify.com/album/56r44kX6LHgHQgHJoCaUiY) | 3:04 | 2019-05-25\* | 2019-06-15 |

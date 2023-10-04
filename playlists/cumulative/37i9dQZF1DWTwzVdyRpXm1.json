@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Best of South Asian Music. Cover: Karan Aujla",
+  "description": "Best of South Asian Music. Cover: KING",
   "name": "Desi Hits",
   "tracks": [
     {
@@ -706,6 +706,36 @@
       "duration_ms": 271280,
       "name": "Chaka Chak",
       "url": "https://open.spotify.com/track/4uLG79ROWYEXx1kJvDVbWI"
+    },
+    {
+      "album": {
+        "name": "Jawan",
+        "url": "https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "Chaleya",
+      "url": "https://open.spotify.com/track/3xMHXmedL5Rvfxmiar9Ryv"
     },
     {
       "album": {
@@ -2172,7 +2202,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 196250,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/1WMImncoIZZ7Bz0Y6cZGVp"
@@ -2635,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/3YuBvx1udZbelLA1idJMk5"
+      },
+      "artists": [
+        {
+          "name": "Hunar Sidhu",
+          "url": "https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156426,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/0mNxYkKtXVY9HcFTuTmSPP"
+    },
+    {
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2"
       },
@@ -2812,7 +2860,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 157000,
       "name": "Naagin",
       "url": "https://open.spotify.com/track/7gAyu0od48mkaCw1laPKVC"
@@ -3735,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "Sarkaare",
+        "url": "https://open.spotify.com/album/2oBdxfXQn21DfBWfu8krYT"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163319,
+      "name": "Sarkaare",
+      "url": "https://open.spotify.com/track/3hbzNavvxCQBf28PwTUALJ"
+    },
+    {
+      "album": {
         "name": "First of a Kind (From the Amazon Original Series)",
         "url": "https://open.spotify.com/album/6vMzmr8k0HL8Ci9Y0VUbvu"
       },
@@ -3746,7 +3812,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 163245,
       "name": "Scars",
       "url": "https://open.spotify.com/track/2WzcdOr9IGIWjGQLEtV90Y"
@@ -4262,6 +4328,24 @@
       "duration_ms": 197392,
       "name": "Tu Mile Dil Khile",
       "url": "https://open.spotify.com/track/6SnqFFm7Qp68efuVygvwtU"
+    },
+    {
+      "album": {
+        "name": "Naveezy",
+        "url": "https://open.spotify.com/album/5s97Jucf39sW9uP10l77nT"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293333,
+      "name": "Unbothered",
+      "url": "https://open.spotify.com/track/5q07j0N0ckUn3YXvBSJrHt"
     },
     {
       "album": {

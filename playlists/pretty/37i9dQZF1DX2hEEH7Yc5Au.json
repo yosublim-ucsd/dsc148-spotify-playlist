@@ -1,31 +1,63 @@
 {
-  "description": "\u4e00\u8d77\u4f86\u652f\u6301\u5973\u6027\u97f3\u6a02\u4eba\u7684\u7cbe\u91c7\u8868\u73fe\uff01Cover: \u8a79\u96ef\u5a77 (Faye)",
-  "num_followers": 14187,
+  "description": "\u4e00\u8d77\u4f86\u652f\u6301\u5973\u6027\u97f3\u6a02\u4eba\u7684\u7cbe\u91c7\u8868\u73fe\uff01Cover: \u912d\u5b9c\u8fb2 (Enno Cheng)",
+  "num_followers": 14193,
   "original_name": "EQUAL Taiwan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmM4NmZjZDM0YjVjZWU0ZjQ4NzFlYWYzNTU0YjRkNzc4YTFkNGRm",
+  "snapshot_id": "MCw0NmVjNDA5ZDQxYzJmYTE1ZGYwYTMyMzQ0NjE4YzgzODhjNDc2MDU2",
   "tracks": [
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u552f\u611b",
-        "url": "https://open.spotify.com/album/6NGEMgCXv3Ou8fthBMNhyb"
+        "name": "diminished",
+        "url": "https://open.spotify.com/album/3hDI8XUZf45xWzAMM38d4r"
       },
       "artists": [
         {
-          "name": "\u8a79\u96ef\u5a77",
-          "url": "https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16"
+          "name": "Enno Cheng",
+          "url": "https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ"
         }
       ],
-      "duration_ms": 200000,
-      "name": "\u552f\u611b (\u5287\u96c6\u300a\u4e03\u6642\u5409\u7965\u300b\u71c3\u611b\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/2rKPlSH0u775wNadl5cIQy"
+      "duration_ms": 234988,
+      "name": "diminished",
+      "url": "https://open.spotify.com/track/1rs16sDxwrpRetsZd1PCwe"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "SUGAR HIGH",
+        "url": "https://open.spotify.com/album/2c48SuugcX9dPfRijngwrE"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Wang",
+          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "SUGAR HIGH",
+      "url": "https://open.spotify.com/track/3DZ3DsIbUTzrmyXyCYzeQK"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/2bHgJr8qGWQigQFNitJVdm"
+      },
+      "artists": [
+        {
+          "name": "Shi Shi",
+          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
+        }
+      ],
+      "duration_ms": 167981,
+      "name": "Bounce (Prod. by KIRE)",
+      "url": "https://open.spotify.com/track/3dWU2Q8k2cvtxxDXfAx8r4"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
       "album": {
         "name": "\u67e5\u7121\u6b64\u5fc3 (\u300a\u67e5\u7121\u6b64\u5fc3\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/3humwzw4eBD7wuyX9qtLjl"
@@ -41,119 +73,39 @@
       "url": "https://open.spotify.com/track/0QMtpUJcjt7IEl7FFSd8AJ"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u89aa\u611b\u7684\u5c0d\u8c61 - From THE FIRST TAKE",
-        "url": "https://open.spotify.com/album/655zW7iobyhpQhXePSOCnh"
+        "name": "\u517d",
+        "url": "https://open.spotify.com/album/2G07rbuWMEdhhrseYoLfsW"
       },
       "artists": [
         {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+          "name": "Angela Chang",
+          "url": "https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa"
         }
       ],
-      "duration_ms": 229762,
-      "name": "\u89aa\u611b\u7684\u5c0d\u8c61 - From THE FIRST TAKE",
-      "url": "https://open.spotify.com/track/3DqUsFARdSFgGeBPOVM7OQ"
+      "duration_ms": 249004,
+      "name": "\u517d",
+      "url": "https://open.spotify.com/track/68sr6E4ex5txuwTJNX1JTL"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u96e2\u5225\u7e3d\u662f\u90a3\u9ebc\u7a81\u7136",
-        "url": "https://open.spotify.com/album/5cUVq2mIwcOGEWZTDLNlZj"
+        "name": "\u60e1\u884c (\u96fb\u5f71\u300a\u60e1\u5973\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/1ohfq9U1bikYE7nmKxvDf9"
       },
       "artists": [
         {
-          "name": "A-Mei Chang",
-          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+          "name": "Eve Ai",
+          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
         }
       ],
-      "duration_ms": 242789,
-      "name": "\u96e2\u5225\u7e3d\u662f\u90a3\u9ebc\u7a81\u7136",
-      "url": "https://open.spotify.com/track/3GA0mzpusqiNCeUZuPDqjg"
+      "duration_ms": 251276,
+      "name": "\u60e1\u884c - \u96fb\u5f71\u300a\u60e1\u5973\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/5kQnK8syKKGDBvhbq9zBdh"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u4e58\u8457\u7121\u4eba\u5149\u5f71\u7684\u9060\u884c",
-        "url": "https://open.spotify.com/album/26Ng5PX95XAECI5JlhNL6p"
-      },
-      "artists": [
-        {
-          "name": "Hebe Tien",
-          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
-        }
-      ],
-      "duration_ms": 369926,
-      "name": "\u4e58\u8457\u7121\u4eba\u5149\u5f71\u7684\u9060\u884c",
-      "url": "https://open.spotify.com/track/6OmeRpm2rmf3BoOboNexV0"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "Hate Myself",
-        "url": "https://open.spotify.com/album/6wps8G72MkvfLlY1iLThn3"
-      },
-      "artists": [
-        {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
-        }
-      ],
-      "duration_ms": 203424,
-      "name": "Hate Myself",
-      "url": "https://open.spotify.com/track/49CaHLWJB8Ot1vB2vAUcca"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u5973\u5b69\u5b50\u5c31\u662f\u8981\u88ab\u6367\u5728\u624b\u5fc3",
-        "url": "https://open.spotify.com/album/0YrXEtPEWaH6nT1INmMTfx"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u83ef",
-          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
-        }
-      ],
-      "duration_ms": 180769,
-      "name": "\u5973\u5b69\u5b50\u5c31\u662f\u8981\u88ab\u6367\u5728\u624b\u5fc3",
-      "url": "https://open.spotify.com/track/1EjKrQJ1vPmkg03b1axITN"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "INFP",
-        "url": "https://open.spotify.com/album/3zh1Kb8xtHpJnJk6rFndkV"
-      },
-      "artists": [
-        {
-          "name": "Shi Shi",
-          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
-        }
-      ],
-      "duration_ms": 177092,
-      "name": "INFP",
-      "url": "https://open.spotify.com/track/4IfXJAY4Sf0y1pMHGQRu12"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u5fc3\u9748\u7684\u5192\u96aa",
-        "url": "https://open.spotify.com/album/0FpsxHkBeat4TclF1958p6"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Wang",
-          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
-        }
-      ],
-      "duration_ms": 224274,
-      "name": "\u5fc3\u9748\u7684\u5192\u96aa",
-      "url": "https://open.spotify.com/track/7jr0ZMd8L9yT76ZMQL6Nel"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/1024AIZX8jeI3kr6pQo4FR"
@@ -173,7 +125,87 @@
       "url": "https://open.spotify.com/track/1hT86g2KE4982nzi9NfrrO"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u89aa\u611b\u7684\u5c0d\u8c61 - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/655zW7iobyhpQhXePSOCnh"
+      },
+      "artists": [
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "duration_ms": 229762,
+      "name": "\u89aa\u611b\u7684\u5c0d\u8c61 - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/3DqUsFARdSFgGeBPOVM7OQ"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u96e2\u5225\u7e3d\u662f\u90a3\u9ebc\u7a81\u7136",
+        "url": "https://open.spotify.com/album/5cUVq2mIwcOGEWZTDLNlZj"
+      },
+      "artists": [
+        {
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+        }
+      ],
+      "duration_ms": 242789,
+      "name": "\u96e2\u5225\u7e3d\u662f\u90a3\u9ebc\u7a81\u7136",
+      "url": "https://open.spotify.com/track/3GA0mzpusqiNCeUZuPDqjg"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "Hate Myself",
+        "url": "https://open.spotify.com/album/6wps8G72MkvfLlY1iLThn3"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "duration_ms": 203424,
+      "name": "Hate Myself",
+      "url": "https://open.spotify.com/track/49CaHLWJB8Ot1vB2vAUcca"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u5973\u5b69\u5b50\u5c31\u662f\u8981\u88ab\u6367\u5728\u624b\u5fc3",
+        "url": "https://open.spotify.com/album/0YrXEtPEWaH6nT1INmMTfx"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "duration_ms": 180769,
+      "name": "\u5973\u5b69\u5b50\u5c31\u662f\u8981\u88ab\u6367\u5728\u624b\u5fc3",
+      "url": "https://open.spotify.com/track/1EjKrQJ1vPmkg03b1axITN"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u4e58\u8457\u7121\u4eba\u5149\u5f71\u7684\u9060\u884c",
+        "url": "https://open.spotify.com/album/26Ng5PX95XAECI5JlhNL6p"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "duration_ms": 369926,
+      "name": "\u4e58\u8457\u7121\u4eba\u5149\u5f71\u7684\u9060\u884c",
+      "url": "https://open.spotify.com/track/6OmeRpm2rmf3BoOboNexV0"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
       "album": {
         "name": "\u8207\u611b\u7121\u95dc",
         "url": "https://open.spotify.com/album/3jq3wU32NdZDqjvYqijI2V"
@@ -189,55 +221,7 @@
       "url": "https://open.spotify.com/track/0SVP6Ws01w946iBsHepY4Y"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u660e\u5ba4",
-        "url": "https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D"
-      },
-      "artists": [
-        {
-          "name": "Pei-Yu Hung",
-          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
-        }
-      ],
-      "duration_ms": 220833,
-      "name": "\u7121\u6163\u4f8b\u7684\u65e9\u6668",
-      "url": "https://open.spotify.com/track/25XagLU56PfmuR8Q7xVrbE"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u6211\u8981\u4f60\u6709\u6211 (\u96fb\u5f71\u300a\u5012\u6578\u8aaa\u611b\u4f60\u300b\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/4DLOHuUtnxPFzTvDTqmtBl"
-      },
-      "artists": [
-        {
-          "name": "Rainie Yang",
-          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
-        }
-      ],
-      "duration_ms": 262394,
-      "name": "\u6211\u8981\u4f60\u6709\u6211 (\u96fb\u5f71\u300a\u5012\u6578\u8aaa\u611b\u4f60\u300b\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/7E6tbfDJnKWhKX43s6anwy"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "9522",
-        "url": "https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb"
-      },
-      "artists": [
-        {
-          "name": "\u5b89\u6ea5",
-          "url": "https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I"
-        }
-      ],
-      "duration_ms": 235716,
-      "name": "\u6700\u597d\u7684\u6642\u5149",
-      "url": "https://open.spotify.com/track/0eFRk9wgFPxg6iXhDjvGAo"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
         "name": "\u7d05\u7dda",
         "url": "https://open.spotify.com/album/7crq4vPVpF4L8WZNxShgul"
@@ -257,26 +241,42 @@
       "url": "https://open.spotify.com/track/0mDynC7lAwQyeXevpyDwhV"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u7a7a\u4e4b\u8981\u585e",
-        "url": "https://open.spotify.com/album/32bkck3Cb1RucWiQNFyQ38"
+        "name": "\u518d\u966a\u6211\u4e00\u500b\u590f\u5929\u300a\u5730\u7344\u91cc\u9577\u300b\u63d2\u66f2",
+        "url": "https://open.spotify.com/album/7BO8kzouWz0SOA5sAmgy3N"
       },
       "artists": [
         {
-          "name": "Angela Chang",
-          "url": "https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa"
+          "name": "Sophie Chen",
+          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
         }
       ],
-      "duration_ms": 220235,
-      "name": "\u7a7a\u4e4b\u8981\u585e",
-      "url": "https://open.spotify.com/track/5fBo8SqsjDQhmxHX7sGpNh"
+      "duration_ms": 192077,
+      "name": "\u518d\u966a\u6211\u4e00\u500b\u590f\u5929\u300a\u5730\u7344\u91cc\u9577\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/7jMnF7k6f9L1IWCOLnTQO1"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u80fd\u4e0d\u80fd\u60f3\u8d77\u6211(\u96fb\u5f71\u300a\u674f\u6797\u91ab\u9662\u300b\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/1BgH12xCatX2BtaLE92K3T"
+        "name": "\u660e\u5ba4",
+        "url": "https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D"
+      },
+      "artists": [
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "duration_ms": 220833,
+      "name": "\u7121\u6163\u4f8b\u7684\u65e9\u6668",
+      "url": "https://open.spotify.com/track/25XagLU56PfmuR8Q7xVrbE"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u6f22\u5821\u5305",
+        "url": "https://open.spotify.com/album/0ileEFpKqNcdH0iAHeDESt"
       },
       "artists": [
         {
@@ -284,48 +284,28 @@
           "url": "https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13"
         }
       ],
-      "duration_ms": 285120,
-      "name": "\u80fd\u4e0d\u80fd\u60f3\u8d77\u6211(\u96fb\u5f71\u300a\u674f\u6797\u91ab\u9662\u300b\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/4k4smapyNfTz4L09tcdStR"
+      "duration_ms": 201924,
+      "name": "\u6f22\u5821\u5305",
+      "url": "https://open.spotify.com/track/3hIzlOuqBKJnCINERJKiyY"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u543c\u55b2 HAVE A NICE :DAY \u5de1\u8ff4\u6f14\u5531\u6703 (Live)",
-        "url": "https://open.spotify.com/album/1rH1D2Wyetlpy7GHLEsItX"
+        "name": "9522",
+        "url": "https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb"
       },
       "artists": [
         {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+          "name": "\u5b89\u6ea5",
+          "url": "https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I"
         }
       ],
-      "duration_ms": 248441,
-      "name": "\u543c\u55b2 HAVE A NICE :DAY \u5de1\u8ff4\u6f14\u5531\u6703 - Live",
-      "url": "https://open.spotify.com/track/1sVrsWJdX5M64yokTwg3oW"
+      "duration_ms": 235716,
+      "name": "\u6700\u597d\u7684\u6642\u5149",
+      "url": "https://open.spotify.com/track/0eFRk9wgFPxg6iXhDjvGAo"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "On My Way\u300a\u5730\u7344\u91cc\u9577\u300b\u4e3b\u984c\u66f2",
-        "url": "https://open.spotify.com/album/5w8HU5jeionyGnskPgHanY"
-      },
-      "artists": [
-        {
-          "name": "Sophie Chen",
-          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
-        },
-        {
-          "name": "\u9ad8\u723e\u5ba3 OSN",
-          "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
-        }
-      ],
-      "duration_ms": 207789,
-      "name": "On My Way\u300a\u5730\u7344\u91cc\u9577\u300b\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/5z7v55W0mQtMj8nrCLAAAc"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
         "name": "otherside",
         "url": "https://open.spotify.com/album/1KKqUdqRr4bwWaiT6wEKOq"
@@ -341,7 +321,47 @@
       "url": "https://open.spotify.com/track/0n7aNLcLoQPPBcY9AryzoQ"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u89aa\u611b\u7684\u5c0f\u5b69",
+        "url": "https://open.spotify.com/album/7p5DKys0DhkoJ2WzALam97"
+      },
+      "artists": [
+        {
+          "name": "Rene Liu",
+          "url": "https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX"
+        },
+        {
+          "name": "\u738b\u5bf6\u5f37",
+          "url": "https://open.spotify.com/artist/7eotA2FjlKFkWO94ilJb8p"
+        }
+      ],
+      "duration_ms": 282097,
+      "name": "\u89aa\u611b\u7684\u5c0f\u5b69",
+      "url": "https://open.spotify.com/track/05wxKK9H471Y7RS8lUnk9Y"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "Naked Truth\u8d64\u88f8\u771f\u76f8",
+        "url": "https://open.spotify.com/album/2DRRJ2qowL8vYYdVB4O5PW"
+      },
+      "artists": [
+        {
+          "name": "Elva Hsiao",
+          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
+        },
+        {
+          "name": "\u9673\u5049",
+          "url": "https://open.spotify.com/artist/7lgqd1jIK0bvRdycSqeRe2"
+        }
+      ],
+      "duration_ms": 256752,
+      "name": "\u4e0d\u5982\u5148\u6176\u795d\u80fd\u5728\u4e00\u8d77",
+      "url": "https://open.spotify.com/track/5P1sy6uSr5K0vvauivV0tO"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
       "album": {
         "name": "\u6c99\u767c\u6d77",
         "url": "https://open.spotify.com/album/47gZvbKIMWIHFLOXnxhUZA"
@@ -357,43 +377,23 @@
       "url": "https://open.spotify.com/track/4XQYk51C9UaGZO3o5NSurv"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "Naked Truth\u8d64\u88f8\u771f\u76f8",
-        "url": "https://open.spotify.com/album/2DRRJ2qowL8vYYdVB4O5PW"
+        "name": "\u6211\u7238\u7684\u7b46 HAVE A NICE :DAY\u5de1\u8ff4\u6f14\u5531\u6703 (Live)",
+        "url": "https://open.spotify.com/album/10cj8qhhlWyd495lDanObW"
       },
       "artists": [
         {
-          "name": "Elva Hsiao",
-          "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
-        },
-        {
-          "name": "\u9673\u5049",
-          "url": "https://open.spotify.com/artist/7lgqd1jIK0bvRdycSqeRe2"
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
         }
       ],
-      "duration_ms": 250180,
-      "name": "\u7576\u4f60\u548c\u5fc3\u8df3\u4e00\u8d77\u51fa\u73fe",
-      "url": "https://open.spotify.com/track/2jPmGkmnJGLftUY3O5p9qD"
+      "duration_ms": 248073,
+      "name": "\u6211\u7238\u7684\u7b46 HAVE A NICE :DAY\u5de1\u8ff4\u6f14\u5531\u6703 - Live",
+      "url": "https://open.spotify.com/track/5YOluioJ7zKu6v3b0Xw7JQ"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u4eca\u5929\u967d\u5149\u5c31\u662f\u7279\u5225\u8000\u773c\u7279\u5225\u548c\u8ae7",
-        "url": "https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT"
-      },
-      "artists": [
-        {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
-        }
-      ],
-      "duration_ms": 274022,
-      "name": "\u6177\u6168",
-      "url": "https://open.spotify.com/track/7ui3eV41WHiSJaVD0hMEVx"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
         "name": "\u8f15\u50b7",
         "url": "https://open.spotify.com/album/10bLFIaeqNY71KnFAoPDxp"
@@ -409,42 +409,74 @@
       "url": "https://open.spotify.com/track/3qvR55aw3Tc4KTCzpWcYHL"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u5df4\u53e4\u6155",
-        "url": "https://open.spotify.com/album/6ulfIS8o7jvkvzGcrKgJPb"
+        "name": "\u55b5\u55b5\u54aa\u5440",
+        "url": "https://open.spotify.com/album/6IO908xbixK8SyD9YVIIcG"
       },
       "artists": [
         {
-          "name": "Princess Ai",
-          "url": "https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V"
+          "name": "Claire Kuo",
+          "url": "https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf"
         }
       ],
-      "duration_ms": 173800,
-      "name": "\u96fb\u982d\u9b03",
-      "url": "https://open.spotify.com/track/2hhxTPIekOhbz6UuiED2wV"
+      "duration_ms": 203953,
+      "name": "\u55b5\u55b5\u54aa\u5440",
+      "url": "https://open.spotify.com/track/4sPShxzz0hGB2Ow7aJb4yt"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u5c0f\u592a\u7a7a",
-        "url": "https://open.spotify.com/album/7HOLLUFkSB7xjy4UYdwiAX"
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/6Ar1yXFON68JXJT3pLx55D"
       },
       "artists": [
         {
-          "name": "\u8a79\u96ef\u5a77",
-          "url": "https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16"
+          "name": "Enno Cheng",
+          "url": "https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ"
         }
       ],
-      "duration_ms": 274746,
-      "name": "\u4f60\u8aaa",
-      "url": "https://open.spotify.com/track/2HKExvYvJMad0dvNIQzjAV"
+      "duration_ms": 193818,
+      "name": "Your Sun",
+      "url": "https://open.spotify.com/track/5JI60l1EaLpy8EEx96rur3"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u5929\u751f\u6b4c\u59ec",
-        "url": "https://open.spotify.com/album/2V5Kj9W4gcN44senRcoCAV"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/77Mqv81S8GxDvP74IRtmFu"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Wang",
+          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+        }
+      ],
+      "duration_ms": 214386,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0nxFhlwYHCYVhvOncvW3Pn"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "girls",
+        "url": "https://open.spotify.com/album/0MhMx54l7L35HxqnMNfL9z"
+      },
+      "artists": [
+        {
+          "name": "Shi Shi",
+          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
+        }
+      ],
+      "duration_ms": 265087,
+      "name": "\u8ddf\u4f60\u4f4f",
+      "url": "https://open.spotify.com/track/5JMtaQ0kBbnQ1jyFfmfT5e"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u5bc2\u5bde\u4e0d\u75db",
+        "url": "https://open.spotify.com/album/5ncMRfP3V96fdb61yB0WKR"
       },
       "artists": [
         {
@@ -452,12 +484,60 @@
           "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
         }
       ],
-      "duration_ms": 246146,
-      "name": "\u4eca\u665a\u4f60\u60f3\u5ff5\u7684\u4eba\u662f\u4e0d\u662f\u6211",
-      "url": "https://open.spotify.com/track/3TdzZHoQATO9XlGFzGUv9k"
+      "duration_ms": 300866,
+      "name": "\u5bc2\u5bde\u4e0d\u75db",
+      "url": "https://open.spotify.com/track/6QmFAdDfNVPiyfoMKctxnV"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u6b50\u82e5\u62c9",
+        "url": "https://open.spotify.com/album/5sIp9R8I3ZuXESPpkBI4i2"
+      },
+      "artists": [
+        {
+          "name": "Angela Chang",
+          "url": "https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa"
+        }
+      ],
+      "duration_ms": 277106,
+      "name": "\u624b\u5fc3\u7684\u592a\u967d",
+      "url": "https://open.spotify.com/track/0dk8w9XW3K0LDm05WcWfWq"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u5927\u4eba\u60c5\u6b4c",
+        "url": "https://open.spotify.com/album/4E1Crsnlt8CMlbSd0BoEBh"
+      },
+      "artists": [
+        {
+          "name": "Eve Ai",
+          "url": "https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "\u5982\u679c\u5f9e\u6b64",
+      "url": "https://open.spotify.com/track/74XGzxIDA5jDL5WUFfKBz5"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/2n6eu9oXcqwk46V5l4vc6G"
+      },
+      "artists": [
+        {
+          "name": "Naiwen Yang",
+          "url": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
+        }
+      ],
+      "duration_ms": 268426,
+      "name": "\u661f\u661f\u5806\u6eff\u5929",
+      "url": "https://open.spotify.com/track/1mQZ7y5h9sPLmuFoBjrKZB"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
       "album": {
         "name": "Lucky Number",
         "url": "https://open.spotify.com/album/6Gwsej9iFzf7zreO1QhFgj"
@@ -473,7 +553,7 @@
       "url": "https://open.spotify.com/track/3WRtloZ0sa2OdmLQ2gCYNj"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/5Nd65IjWWIpd0F3daiLqnr"
@@ -484,12 +564,44 @@
           "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
         }
       ],
-      "duration_ms": 318333,
-      "name": "\u807d\u6d77",
-      "url": "https://open.spotify.com/track/2WWDsBLNL4czuVcg7rjfy2"
+      "duration_ms": 284000,
+      "name": "\u54ed\u4e0d\u51fa\u4f86",
+      "url": "https://open.spotify.com/track/4iNjwf7j8OHXRR8uryuxPQ"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "Just You and Me (Unplugged)",
+        "url": "https://open.spotify.com/album/4ACUrJFIcwi3gTB29XpXWV"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "duration_ms": 239097,
+      "name": "Just You and Me - Unplugged",
+      "url": "https://open.spotify.com/track/6xFRyzmrrd1GB1BkJ95Wjr"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u7121\u6b61",
+        "url": "https://open.spotify.com/album/70wJ16N6RCQUKu1K698cjM"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "duration_ms": 188695,
+      "name": "\u7121\u6b61",
+      "url": "https://open.spotify.com/track/73p05XarRTMLRzjRKSHPq9"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
       "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/1QzzesiFUh4Iq7mchX6YVQ"
@@ -505,94 +617,10 @@
       "url": "https://open.spotify.com/track/71kOdzwgRzQ5jRNaWzJBHA"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u7159\u5e55",
-        "url": "https://open.spotify.com/album/0iKsf0Hph9SeeovTmEH2hX"
-      },
-      "artists": [
-        {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
-        }
-      ],
-      "duration_ms": 247714,
-      "name": "\u7159\u5e55",
-      "url": "https://open.spotify.com/track/0N1fHzzxpTyvXjbn7MSnWx"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u6708\u4eae\u5931\u7d04\u4e86",
-        "url": "https://open.spotify.com/album/0duzJh3PGkvaFtmdVbxgUU"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u83ef",
-          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
-        },
-        {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "\u6708\u4eae\u5931\u7d04\u4e86",
-      "url": "https://open.spotify.com/track/3fTzjvcm4gEoN0K1qzkCtF"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "Between",
-        "url": "https://open.spotify.com/album/2yIhtZ71tZU7q6rv3wuZlu"
-      },
-      "artists": [
-        {
-          "name": "Shi Shi",
-          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
-        }
-      ],
-      "duration_ms": 238381,
-      "name": "\u662f\u4ed6\u4e0d\u914d",
-      "url": "https://open.spotify.com/track/3GAm9dFMgdI4gbrC4yw6oL"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u611b\u4f60",
-        "url": "https://open.spotify.com/album/64e67ahttBQ4A02teJVoZu"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Wang",
-          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
-        }
-      ],
-      "duration_ms": 219626,
-      "name": "\u611b\u4f60",
-      "url": "https://open.spotify.com/track/6T7oK4eP3Tezw4Ogy7q6KO"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u61c9\u8a72",
-        "url": "https://open.spotify.com/album/5G14836yEpzVp5ud2o05kB"
-      },
-      "artists": [
-        {
-          "name": "Naiwen Yang",
-          "url": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
-        }
-      ],
-      "duration_ms": 262466,
-      "name": "\u795d\u6211\u5e78\u798f",
-      "url": "https://open.spotify.com/track/12gRkmf9gFy5G6uDV9dQUH"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u5f90\u4f73\u7469LaLa\u9996\u5f35\u5275\u4f5c\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/3swRaeU1n5aidOutReHHcO"
+        "name": "\u6975\u9650",
+        "url": "https://open.spotify.com/album/09NndwUwDMT5BkOPREqQjl"
       },
       "artists": [
         {
@@ -600,12 +628,44 @@
           "url": "https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y"
         }
       ],
-      "duration_ms": 240386,
-      "name": "\u4e00\u6a23\u7684\u6708\u5149",
-      "url": "https://open.spotify.com/track/4wRYpv96z3nmsiC9f3BdWh"
+      "duration_ms": 267253,
+      "name": "\u61fc\u9ad8\u75c7",
+      "url": "https://open.spotify.com/track/4fnCicgkKTRjYFofxLHyWe"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u9152\u5f8c\u7684\u5fc3\u8072 (Remastered)",
+        "url": "https://open.spotify.com/album/4xYh6SmrxtewlqzHzzaikb"
+      },
+      "artists": [
+        {
+          "name": "Jody Chiang",
+          "url": "https://open.spotify.com/artist/3jPL2UtbCi2DuvuK2dolR6"
+        }
+      ],
+      "duration_ms": 266426,
+      "name": "\u9152\u5f8c\u7684\u5fc3\u8072 - Remastered",
+      "url": "https://open.spotify.com/track/09DhbnZ11XSk7cFdvZpg9F"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u85cd\u8272\u5929\u7a7a",
+        "url": "https://open.spotify.com/album/0gHfuFj9p6E7xogNy98T23"
+      },
+      "artists": [
+        {
+          "name": "Sophie Chen",
+          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
+        }
+      ],
+      "duration_ms": 243846,
+      "name": "\u85cd\u8272\u5929\u7a7a",
+      "url": "https://open.spotify.com/track/2bY4nahVZwOulPuVf2pn2a"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
       "album": {
         "name": "\u8d85\u7d1a\u5076\u50cf\u3000Super! I Do!",
         "url": "https://open.spotify.com/album/1G1wZNcqqUplL1knIC8o8g"
@@ -621,75 +681,7 @@
       "url": "https://open.spotify.com/track/18sAGLtcv4bRvwUfmfM5o9"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u534a\u719f\u5ba3\u8a00",
-        "url": "https://open.spotify.com/album/7538kuYv86MOmxoHxFkh1o"
-      },
-      "artists": [
-        {
-          "name": "Rainie Yang",
-          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
-        }
-      ],
-      "duration_ms": 289426,
-      "name": "\u5e36\u6211\u8d70",
-      "url": "https://open.spotify.com/track/6xLInOiZPEeqEoLLHlFH8N"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u5b89\u6ea5:\u7149\u96f2\u539f\u8072\u5e36 (Refine,the concert Live)",
-        "url": "https://open.spotify.com/album/2iyU2N4oU8Syehv9Iy2NSM"
-      },
-      "artists": [
-        {
-          "name": "\u5b89\u6ea5",
-          "url": "https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "\u9019\u500b\u4e16\u754c - Refine,the concert Live",
-      "url": "https://open.spotify.com/track/0DAqp8ZzUBaLt7L66OLqe6"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u611f\u60c5\u653e\u4e00\u908a",
-        "url": "https://open.spotify.com/album/0cdxaOT52JQ5c09gP5WQsl"
-      },
-      "artists": [
-        {
-          "name": "Jody Chiang",
-          "url": "https://open.spotify.com/artist/3jPL2UtbCi2DuvuK2dolR6"
-        },
-        {
-          "name": "\u65bd\u6587\u5f6c",
-          "url": "https://open.spotify.com/artist/1haVncLMK8OWph58XceCbG"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "\u50b7\u5fc3\u9152\u5e97",
-      "url": "https://open.spotify.com/track/1M07r7zZdZE8xyS2lwqGUT"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "\u6f58\u6735\u62c9",
-        "url": "https://open.spotify.com/album/5O07WcsezsPhSKWFxvEfgS"
-      },
-      "artists": [
-        {
-          "name": "Angela Chang",
-          "url": "https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "\u96a0\u5f62\u7684\u7fc5\u8180",
-      "url": "https://open.spotify.com/track/6Tv5ukQ3xK8WHxJgWMM6vM"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
         "name": "\u539f\u4f86\u5982\u6b64!!",
         "url": "https://open.spotify.com/album/7d13UhcqIboxcCDDQShRvN"
@@ -705,42 +697,26 @@
       "url": "https://open.spotify.com/track/2R6JuT1bLvC8ciqpYeqBz2"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u9084\u662f\u8981\u76f8\u4fe1\u611b\u60c5\u554a\u6df7\u86cb\u5011",
-        "url": "https://open.spotify.com/album/0oRdaRzRc2kAOHXFENmGBa"
+        "name": "My Life Will...",
+        "url": "https://open.spotify.com/album/7x0DIwQu2yNMjg05DxPhHu"
       },
       "artists": [
         {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+          "name": "Deserts Chang",
+          "url": "https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx"
         }
       ],
-      "duration_ms": 228293,
-      "name": "\u9084\u662f\u8981\u76f8\u4fe1\u611b\u60c5\u554a\u6df7\u86cb\u5011",
-      "url": "https://open.spotify.com/track/62giTFdoaacsYPn1WMyR6k"
+      "duration_ms": 266760,
+      "name": "\u7121\u72c0\u614b",
+      "url": "https://open.spotify.com/track/3TOcJq5WG4CYZUL39pmJtE"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u4ec0\u9ebc\u5e78\u798f",
-        "url": "https://open.spotify.com/album/3UdeD3FwDwuR9y1OFaKW5e"
-      },
-      "artists": [
-        {
-          "name": "Sophie Chen",
-          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
-        }
-      ],
-      "duration_ms": 182234,
-      "name": "\u4ec0\u9ebc\u5e78\u798f",
-      "url": "https://open.spotify.com/track/465KVFJoROjvyuPMuoD1Yd"
-    },
-    {
-      "added_at": "2023-09-05 16:00:00",
-      "album": {
-        "name": "1:28 (Original)",
-        "url": "https://open.spotify.com/album/39MCCipCiuLjzl76bY7NmU"
+        "name": "1994 \u4f9d\u820a\u820a\u4e8b",
+        "url": "https://open.spotify.com/album/46slultJmHYzIz8dvcGlr2"
       },
       "artists": [
         {
@@ -748,31 +724,31 @@
           "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
         }
       ],
-      "duration_ms": 268350,
-      "name": "\u4f60\u662f\u4e0d\u662f\u6709\u9ede\u52d5\u5fc3 - Original",
-      "url": "https://open.spotify.com/track/0FIRHGE4loKAH5o5ByiqG0"
+      "duration_ms": 191250,
+      "name": "\u64a5\u63a5",
+      "url": "https://open.spotify.com/track/4lfE2rPgMs7OIkxQ30TjAD"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u5409\u4ed6\u624b",
-        "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
+        "name": "\u5230\u8655\u4e82\u8d70",
+        "url": "https://open.spotify.com/album/2c0REN0y3WlFtEd9A7y038"
       },
       "artists": [
         {
-          "name": "Cheer Chen",
-          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+          "name": "Rene Liu",
+          "url": "https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX"
         }
       ],
-      "duration_ms": 263173,
-      "name": "\u592a\u8070\u660e",
-      "url": "https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP"
+      "duration_ms": 317746,
+      "name": "\u5230\u8655\u4e82\u8d70",
+      "url": "https://open.spotify.com/track/2JS1ksikFomfCbwS0uVxvH"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u660e\u5929",
-        "url": "https://open.spotify.com/album/3bPyxRy4SZplFfgJ0lVJly"
+        "name": "\u856d\u4e9e\u8ed2--",
+        "url": "https://open.spotify.com/album/2iFxrSfOHMw68At3k5JVE9"
       },
       "artists": [
         {
@@ -780,28 +756,44 @@
           "url": "https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH"
         }
       ],
-      "duration_ms": 219906,
-      "name": "\u6211\u611b\u4f60\u90a3\u9ebc\u591a",
-      "url": "https://open.spotify.com/track/0CDXMCU0iDtlpsvLf8qfEb"
+      "duration_ms": 219266,
+      "name": "Cappuccino",
+      "url": "https://open.spotify.com/track/3hCyGYmytCmkExrFmT4I7w"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u6211\u662f\u66fe\u6c9b\u6148",
-        "url": "https://open.spotify.com/album/428cg3yMWFKwXMIg1HGaVd"
+        "name": "\u9084\u662f\u6703\u5bc2\u5bde",
+        "url": "https://open.spotify.com/album/6QoQSkyOklbAKOdmHvgRuu"
       },
       "artists": [
         {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
         }
       ],
-      "duration_ms": 262040,
-      "name": "\u591a\u5e74\u5f8c - \u516b\u5927\u7d9c\u5408\u53f0\u3001\u516b\u5927\u6232\u5287\u53f0\u96d9\u983b\u9053\u71b1\u64ad\u97d3\u5287\u300c\u547d\u4e2d\u6ce8\u5b9a\u6211\u611b\u4f60\u300d\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/48Ipf3GNTo4tNTEAhvoILT"
+      "duration_ms": 272293,
+      "name": "\u9084\u662f\u6703\u5bc2\u5bde",
+      "url": "https://open.spotify.com/track/6ATlLN9OAiHqiwOPKuD7DT"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u512a\u96c5\u7684\u523a\u875f",
+        "url": "https://open.spotify.com/album/2IPPtaA2Fm3SiBS5UzWzkF"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "\u56f0\u5728",
+      "url": "https://open.spotify.com/track/2yXyL7om9Sxik8uW84mHNa"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
       "album": {
         "name": "\u70ba\u4f60\u7684\u5bc2\u5bde\u5531\u6b4c",
         "url": "https://open.spotify.com/album/1AqZM8bfxSUIeQKBtO85ix"
@@ -817,20 +809,20 @@
       "url": "https://open.spotify.com/track/4tNyEuD1Kr6kak324UcEgx"
     },
     {
-      "added_at": "2023-09-05 16:00:00",
+      "added_at": "2023-10-03 16:00:00",
       "album": {
-        "name": "\u70ba\u611b\u505a\u7684\u50bb\u4e8b",
-        "url": "https://open.spotify.com/album/5VY4rWUXPjfM5CvKQpsfVZ"
+        "name": "\u4e0b\u4e00\u500b\u5929\u4eae",
+        "url": "https://open.spotify.com/album/16uIFSrJsyKODQjFXtHTxj"
       },
       "artists": [
         {
-          "name": "Princess Ai",
-          "url": "https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V"
+          "name": "Claire Kuo",
+          "url": "https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf"
         }
       ],
-      "duration_ms": 277733,
-      "name": "\u5c0d\u7684\u4eba",
-      "url": "https://open.spotify.com/track/0tsEr5a7QUap42Rm55Nief"
+      "duration_ms": 272144,
+      "name": "\u4e0d\u85e5\u800c\u7652 - \u7b2c\u4e09\u6ce2",
+      "url": "https://open.spotify.com/track/31VWgseQeMXzcNdOD4N9Xu"
     }
   ],
   "unique_name": "EQUAL Taiwan",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,875 likes - 49 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,883 likes - 49 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 | 13 | [僕らのLIVE 君とのLIFE](https://open.spotify.com/track/3N3jaGb18pYfFzpe1GZgfI) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [僕らのLIVE 君とのLIFE](https://open.spotify.com/album/5Jm69hA6DIRSxKeBKUxPeH) | 5:23 |
 | 14 | [勇気はどこに?君の胸に!](https://open.spotify.com/track/2w5T8mOOsekn2uFtsHuK89) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [勇気はどこに?君の胸に!](https://open.spotify.com/album/0hN7zdvqkfWdnz0hPcOj9T) | 4:44 |
 | 15 | [After The Rain](https://open.spotify.com/track/1nzjVytuj9ctrHGpctCAIV) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:31 |
-| 16 | [NEO SKY, NEO MAP!](https://open.spotify.com/track/4AMtutbqOdlw9ybtWSE1et) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [NEO SKY, NEO MAP!](https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M) | 4:37 |
+| 16 | [NEO SKY, NEO MAP!](https://open.spotify.com/track/4AMtutbqOdlw9ybtWSE1et) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [NEO SKY, NEO MAP!](https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M) | 4:37 |
 | 17 | [Dancing Heart La\-Pa\-Pa\-Pa!](https://open.spotify.com/track/3KJwVgA2M5SgZ4p0kjMpKk) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [始まりは君の空](https://open.spotify.com/album/2VSJLU9QyXK68Q2IDKcXd2) | 3:18 |
 | 18 | [colorless wind](https://open.spotify.com/track/1rdBCDqgSUClknAjpTEm9q) | [結城アイラ](https://open.spotify.com/artist/0O5WwSQoEqxts7FFBDsB6E) | [colorless wind](https://open.spotify.com/album/41h783J9c8LqnCrNPQkynK) | 4:57 |
 | 19 | [純白サンクチュアリィ](https://open.spotify.com/track/1DOvTy3Ysf7b8VobWpbdZR) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [純白サンクチュアリィ](https://open.spotify.com/album/4KZcIpumgWdYOfIXl35bxE) | 4:52 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 | 48 | [秘密の扉から会いにきて](https://open.spotify.com/track/6MDuCmSdP00j47oEavVBwR) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [秘密の扉から会いにきて](https://open.spotify.com/album/2NfnOSntG6tB7nuFbfDksB) | 3:36 |
 | 49 | [Eternal Tragedy](https://open.spotify.com/track/3pDJKWyX0dCRnbv1wktSqu) | [Aki Hata](https://open.spotify.com/artist/4OeurE1dYEfIjd2STbvMoC), [SHIROU\-TSUKIHIKO](https://open.spotify.com/artist/4n1KlS8mTIqsBCFImc5fvb) | [Eternal Tragedy](https://open.spotify.com/album/19OBmkcKc23HOAsFlFEXfP) | 5:33 |
 
-Snapshot ID: `MCxlMjVlY2M0Y2EyNWM4ZjhhNGRmZGM5ZTRhMGY0MGRmNDVmZDRlYjdk`
+Snapshot ID: `MCxkY2ExMDYyY2YyN2MxOTBmMWUwMGUzMjk3MjY1NzAwNDVjNWI0M2Nm`

@@ -4,14 +4,15 @@
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-113 songs - 7 hr 10 min
+114 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Feels Like\) Heaven](https://open.spotify.com/track/3bkcq1VrFlcoqa04VBs4J8) | [Fiction Factory](https://open.spotify.com/artist/6T6T5RCps6bHzTSDq8pyFj) | [Throw the Warped Wheel Out](https://open.spotify.com/album/345hZBqG7vIgLMHJcMZSZM) | 3:34 | 2022-06-17 |  |
 | [\(I've Had\) The Time Of My Life](https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Best Of Bill Medley](https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr) | 4:49 | 2022-06-22 |  |
 | [All Die Young](https://open.spotify.com/track/4XjXXK9GhDdMVR8xMKZLih) | [Smith Westerns](https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl) | [Dye It Blonde](https://open.spotify.com/album/5pez3ZFdESESBL9M5KElgt) | 3:46 | 2022-06-17 |  |
-| [Another One Bites The Dust](https://open.spotify.com/track/291RmMazWAmDitFuD6NJCv) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) | 3:35 | 2022-06-22 |  |
+| [Another One Bites The Dust](https://open.spotify.com/track/291RmMazWAmDitFuD6NJCv) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) | 3:35 | 2022-06-22 | 2023-10-04 |
+| [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 | 2022-06-22 |  |
 | [Bach, JS: Partita for Solo Violin No\. 2 in D Minor, BWV 1004: V\. Chaconne](https://open.spotify.com/track/5Z1kjTgKJVWvEizpZc3G1S) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) | [Bach: Solo Violin Sonatas](https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj) | 15:46 | 2022-06-17 |  |
 | [Bad Guy](https://open.spotify.com/track/0iM1Ioz4N4p7MU1DKyqsov) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Bad Guy](https://open.spotify.com/album/2oU2YsoVW3KG0jIlDXWIkx) | 2:37 | 2022-06-17 |  |
 | [Be Thankful You're You](https://open.spotify.com/track/1sNTVkZ5Q99plACJ33Y8Aw) | [Fern Jones](https://open.spotify.com/artist/4lCa0KPb4ZCqrVtrfSGAdu) | [The Glory Road](https://open.spotify.com/album/2vVQL7mgHu2Kxyk2u2z7fa) | 2:26 | 2022-06-17 |  |

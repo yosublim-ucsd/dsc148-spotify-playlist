@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Takeshi HRTBRK
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,147 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,162 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Worried](https://open.spotify.com/track/0Ssz96Q8DAEry7mDrBRbcN) | [SOvOX](https://open.spotify.com/artist/5lJYPsXHNHiTtMbkW42tXN) | [Worried](https://open.spotify.com/album/74mX36E0PkXXiGc6FYZQBE) | 2:23 |
 | 50 | [Vivre soit 2](https://open.spotify.com/track/3HQUQjYxybimuqzIdebnr9) | [Astéréotypie](https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm) | [Aucun mec ne ressemble à Brad Pitt dans la Drôme](https://open.spotify.com/album/1POjEAquHo8mTJZDuanBeF) | 2:51 |
 
-Snapshot ID: `MCw1NGEwMTVmMDllOTc3YTEzMjY0ZmQwNDUzZWNkOWM4NWZhYmM4MTEx`
+Snapshot ID: `MCw0NTViNmYyZTM0YzFiNjQ1NDQ5ZThkYjZjZWQyZTgzMDcyMzc3OTBj`

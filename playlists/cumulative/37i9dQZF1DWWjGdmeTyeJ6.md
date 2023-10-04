@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Mali Velasquez\. Artwork by Isu Kim.
 
-5,140 songs - 11 day 16 hr 19 min
+5,141 songs - 11 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1163,7 +1163,7 @@
 | [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 | 2022-03-02 | 2022-03-10 |
 | [Detox](https://open.spotify.com/track/2sm65RQx1yhBofJOv5xNSN) | [Prismala](https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY) | [Detox](https://open.spotify.com/album/5399Q2guZjpCC6jQ3pBRg1) | 2:55 | 2023-04-12 | 2023-04-27 |
 | [Detox](https://open.spotify.com/track/6AvFCQvyNUmdxIJUOl61MV) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [Detox](https://open.spotify.com/album/7pObbzjA779MxsOgr9iOa0) | 3:01 | 2023-02-01 | 2023-02-09 |
-| [Deuces & Waves](https://open.spotify.com/track/4GOR0WrtX09731VDluR93a) | [Vi City](https://open.spotify.com/artist/6kt9ndgnZizh8uhMBtKm7b), [Vega Heartbreak](https://open.spotify.com/artist/6ZcX2gJ5PoAb1P91EYoNRe) | [Hotels and Heartbreaks](https://open.spotify.com/album/4UWmBSfwWRdzCpsRYNCzQB) | 2:24 | 2023-09-27 |  |
+| [Deuces & Waves](https://open.spotify.com/track/4GOR0WrtX09731VDluR93a) | [Vi City](https://open.spotify.com/artist/6kt9ndgnZizh8uhMBtKm7b), [Vega Heartbreak](https://open.spotify.com/artist/6ZcX2gJ5PoAb1P91EYoNRe) | [Hotels and Heartbreaks](https://open.spotify.com/album/4UWmBSfwWRdzCpsRYNCzQB) | 2:24 | 2023-09-27 | 2023-10-04 |
 | [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 | 2022-03-30 | 2022-04-07 |
 | [Diamonds](https://open.spotify.com/track/570oyFJazrcr2dw3un9lfL) | [Anassa](https://open.spotify.com/artist/09p3sjSfBEDE6f9WUwEEgf) | [Diamonds](https://open.spotify.com/album/6CpucIaTTyKYlL5Z9S1IIf) | 2:43 | 2023-06-21 | 2023-06-29 |
 | [diamonds](https://open.spotify.com/track/4QOdx9SyiOUBgn6J9fI9uR) | [MIXIE](https://open.spotify.com/artist/3Q5XrGym2w1DZa2J1aQBij) | [diamonds](https://open.spotify.com/album/3OTFQ2KPvfh6QvBRW5WyYi) | 2:50 | 2023-01-11 | 2023-01-19 |
@@ -1188,6 +1188,7 @@
 | [Dirk Gently \(Know Yourself\)](https://open.spotify.com/track/4IttRLtG3qw9qtVifGMpDj) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [Dirk Gently \(Know Yourself\)](https://open.spotify.com/album/3ZK3LPzxfs76vIZDatrTAA) | 5:15 | 2023-07-19 | 2023-07-27 |
 | [Dirt Road to Hell](https://open.spotify.com/track/0rpihy3C63QZQ86maQ3jrs) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Dirt Road to Hell](https://open.spotify.com/album/6q9bCpGal6joX0WX3GxmCQ) | 3:16 | 2023-08-09 | 2023-08-17 |
 | [DIRTY](https://open.spotify.com/track/4W0NlMQ4Q0hw5GULXFAoAd) | [Troi Blank](https://open.spotify.com/artist/6zZkEizf8T5YYeUSLgC9bI) | [DIRTY](https://open.spotify.com/album/7LEpqZlSTdnAHojw0qjwr2) | 2:15 | 2022-04-06 | 2022-04-14 |
+| [Dirty Magazine](https://open.spotify.com/track/0DqCOPqqHhNoIb6EBiRo6g) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [Dirty Magazine](https://open.spotify.com/album/5P9VQk390o7gxUSBrZ1EUx) | 3:27 | 2023-10-03 |  |
 | [Disbeliever](https://open.spotify.com/track/654zDjl1CT3CqA7IP1KXxa) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Disbeliever](https://open.spotify.com/album/6hUDF7eoQmAj9rpQ9YgSXL) | 1:55 | 2022-07-20 | 2022-07-28 |
 | [dissolve](https://open.spotify.com/track/1GJF9cxjx4tEeUgIHlqGlb) | [sunshy](https://open.spotify.com/artist/3N10oOH2Qf9uti4SA0Azav) | [dissolve](https://open.spotify.com/album/2oHvvxsZZ8lziRzIjIfUs9) | 2:25 | 2023-06-14 | 2023-06-29 |
 | [distance to breathe \- KIRARA rework](https://open.spotify.com/track/7bKJ8YQ2TGBGA37Q6KMN22) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM), [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [echoes of happenstance 4](https://open.spotify.com/album/12DbY0GKMmUD3yBmiCpaSm) | 4:37 | 2022-06-08 | 2022-06-16 |
@@ -4465,7 +4466,7 @@
 | [Tequila Money](https://open.spotify.com/track/1wZkPgmHtAiSAeo6dymYC6) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Tequila Money](https://open.spotify.com/album/6IE2KcXgRn1q1QNMWXLdoK) | 2:19 | 2022-09-21 | 2022-09-29 |
 | [Terciopelo](https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Terciopelo](https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t) | 2:58 | 2023-07-13 | 2023-07-20 |
 | [Terra](https://open.spotify.com/track/6YuYFcFId4QJSKRJIlQ0Mv) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Terra](https://open.spotify.com/album/428oCUhlcJu90Riw93VHWV) | 5:51 | 2022-07-27 | 2022-08-04 |
-| [Terrified](https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 3:57 | 2023-07-26 | 2023-08-04 |
+| [Terrified](https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 3:57 | 2023-07-26 |  |
 | [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-14 | 2023-06-29 |
 | [Terry And Julie](https://open.spotify.com/track/0HObOkJBJGS2Mk5QQimbwj) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Terry And Julie](https://open.spotify.com/album/1eVWMJvG6ILDqP4Um8cmfa) | 3:04 | 2023-07-26 | 2023-08-03 |
 | [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2023-01-18 | 2023-01-26 |

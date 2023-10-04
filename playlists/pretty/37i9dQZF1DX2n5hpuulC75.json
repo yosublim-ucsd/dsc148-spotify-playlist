@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 258856,
+  "num_followers": 258904,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDQ1YjVlZmMwNDAwNzlmOTYxNDU3YWE0M2YwNmVkZmIyZTZkZDM1",
+  "snapshot_id": "MCxjM2FiMTc4MmIyZTc2NjQ4MTRjNzg1ZmNiMzE2MzFhN2NlNWE1ZWY2",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -403,22 +403,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "When U Go",
-        "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 212724,
-      "name": "When U Go - Edit",
-      "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Green Twins",
         "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 225360,
       "name": "Bet She Looks Like You",
       "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "When U Go",
+        "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 212724,
+      "name": "When U Go - Edit",
+      "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -623,6 +623,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Therapy Phase 01",
+        "url": "https://open.spotify.com/album/1NaV4Mf4OGmDakvCA7PdIh"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 508601,
+      "name": "Ayahuasca",
+      "url": "https://open.spotify.com/track/6UmJo8SsHylk0Uc3kecKsf"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Passionfruit Falls",
         "url": "https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 293613,
       "name": "Your Own Truth",
       "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Therapy Phase 01",
-        "url": "https://open.spotify.com/album/1NaV4Mf4OGmDakvCA7PdIh"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 508601,
-      "name": "Ayahuasca",
-      "url": "https://open.spotify.com/track/6UmJo8SsHylk0Uc3kecKsf"
     },
     {
       "added_at": "2019-06-07 08:01:00",
@@ -701,26 +701,6 @@
       "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "another time (world$tar money)",
-        "url": "https://open.spotify.com/album/0bMuRzy7dDIfKgliEaw4DV"
-      },
-      "artists": [
-        {
-          "name": "simon eng",
-          "url": "https://open.spotify.com/artist/0YXc5Rre8iZ6CfxNtzBJhC"
-        },
-        {
-          "name": "duendita",
-          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
-        }
-      ],
-      "duration_ms": 181681,
-      "name": "another time (world$tar money)",
-      "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "I've Always Been",
@@ -743,6 +723,26 @@
       "duration_ms": 114929,
       "name": "I've Always Been",
       "url": "https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "another time (world$tar money)",
+        "url": "https://open.spotify.com/album/0bMuRzy7dDIfKgliEaw4DV"
+      },
+      "artists": [
+        {
+          "name": "simon eng",
+          "url": "https://open.spotify.com/artist/0YXc5Rre8iZ6CfxNtzBJhC"
+        },
+        {
+          "name": "duendita",
+          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
+        }
+      ],
+      "duration_ms": 181681,
+      "name": "another time (world$tar money)",
+      "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
+      "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu"
+        "name": "Island -EP",
+        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
       },
       "artists": [
         {
-          "name": "Oddysseys",
-          "url": "https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd"
+          "name": "Nuit Oce\u0101n",
+          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
         }
       ],
-      "duration_ms": 145208,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus"
+      "duration_ms": 185758,
+      "name": "Together Alone",
+      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -849,20 +849,20 @@
       "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
+      "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "Island -EP",
-        "url": "https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu"
       },
       "artists": [
         {
-          "name": "Nuit Oce\u0101n",
-          "url": "https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4"
+          "name": "Oddysseys",
+          "url": "https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd"
         }
       ],
-      "duration_ms": 185758,
-      "name": "Together Alone",
-      "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
+      "duration_ms": 145208,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "They Came Along",
-        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
-      },
-      "artists": [
-        {
-          "name": "Haulm",
-          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
-        }
-      ],
-      "duration_ms": 357894,
-      "name": "They Came Along",
-      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Backwater",
         "url": "https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 254010,
       "name": "Nylon",
       "url": "https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "They Came Along",
+        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
+      },
+      "artists": [
+        {
+          "name": "Haulm",
+          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
+        }
+      ],
+      "duration_ms": 357894,
+      "name": "They Came Along",
+      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
     }
   ],
   "unique_name": "Mellow Mood",

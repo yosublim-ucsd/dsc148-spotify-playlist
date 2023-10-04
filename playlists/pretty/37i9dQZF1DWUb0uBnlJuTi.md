@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,084 likes - 200 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,244 likes - 200 songs - 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 67 | [War Dance](https://open.spotify.com/track/2tEEhDH6gxSAAzj0aJzpWO) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 5:38 |
 | 68 | [On The Avenue](https://open.spotify.com/track/60Rz7gneyvKj2yevlgVMbt) | [Ronnie Foster](https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ) | [On The Avenue](https://open.spotify.com/album/2q14UlkorFTgVm7HzLIBRp) | 6:14 |
 | 69 | [Street Sweeper](https://open.spotify.com/track/6eTrGiHJS6kvmifI3sIkPn) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Street Sweeper](https://open.spotify.com/album/12zuK73zE5d3pxYoqspSZB) | 3:54 |
-| 70 | [Regular](https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy) | [Wax](https://open.spotify.com/artist/72STzMOsaKlMfOWis0NzXT) | [MOLLO](https://open.spotify.com/album/24DWKZEAoDHxLLYaXgJ7SD) | 4:15 |
+| 70 | [Regular](https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy) | [Wax](https://open.spotify.com/artist/5qbgtET7uO7gxnFW0qdO5b) | [MOLLO](https://open.spotify.com/album/24DWKZEAoDHxLLYaXgJ7SD) | 4:15 |
 | 71 | [Capture This](https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:45 |
 | 72 | [Sky View](https://open.spotify.com/track/58IGukkmCJqIlTrrb4g4xO) | [Duochrome](https://open.spotify.com/artist/7oEPPw9oIE9daEBxJ4qRlB), [Brian Thomas](https://open.spotify.com/artist/5J2bWNW9crLgcvyNNjPtdz), [Jared Sims](https://open.spotify.com/artist/7vO0dxaCLvGlRAqCl47d7X) | [Sky View](https://open.spotify.com/album/3APv0egvjU4DiD1k77I4R4) | 6:25 |
 | 73 | [The Kumquat Kids](https://open.spotify.com/track/2LyjDg604LyRHjPpiymW7Z) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Sunburst](https://open.spotify.com/album/0OBbbHk9bIj8k5DnzzQnkk) | 4:30 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCw5Mzg1ZWFiYjdhMWU1N2NlNjBhODI5NDdkOGUyZmRhMjE3Y2Q3ZDJl`
+Snapshot ID: `MCwyYThlYTA1OGQ5OWM5MDJmMzYyMDk0YWNkMzViNWI1M2E3ZDE3ZjI3`

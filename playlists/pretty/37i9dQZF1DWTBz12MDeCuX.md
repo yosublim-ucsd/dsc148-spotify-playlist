@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,535 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,012 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 23 | [Home](https://open.spotify.com/track/2QLuk5lrDsisLSDDVk50E9) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Home](https://open.spotify.com/album/0V1uma2ZSCTbs0YdFLO3FA) | 2:51 |
 | 24 | [\\ sympathisch](https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:25 |
 | 25 | [Einer davon du](https://open.spotify.com/track/7nW4mCfz4emov7DMHblOds) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [Einer davon du](https://open.spotify.com/album/0hF5F1Pm6eHMpZ64TzSjTj) | 2:29 |
-| 26 | [ikone](https://open.spotify.com/track/5SC81CAbZ7VeJuHztT6Esh) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [ikone](https://open.spotify.com/album/1PHuRrCZawR79gh3KErzQf) | 3:40 |
+| 26 | [Ikone](https://open.spotify.com/track/5SC81CAbZ7VeJuHztT6Esh) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [Ikone](https://open.spotify.com/album/1PHuRrCZawR79gh3KErzQf) | 3:40 |
 | 27 | [A.M.D\. \(Allein Mit Dir\)](https://open.spotify.com/track/5pPGerLQuJJPz5Cwxqq7Rc) | [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [ėmma](https://open.spotify.com/artist/3gkGClHNRnrOpV7GgripOx) | [A.M.D\. \(Allein Mit Dir\)](https://open.spotify.com/album/6K8qZTZWrsZd1BNWa5gQRl) | 2:14 |
 | 28 | [Ups & Ups](https://open.spotify.com/track/0M7UPubDAjiQM5FL8ig7Js) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Ups & Ups](https://open.spotify.com/album/6W4YbAmhwNcjtEt3ZTSg3k) | 2:42 |
 | 29 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 67 | [Jung & dumm](https://open.spotify.com/track/04HhklbQjA1Z5ijLXNTeH6) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [Teil vom Ganzen](https://open.spotify.com/album/46WYDWDIojRYafGPTAsoTn) | 2:53 |
 | 68 | [Pinker Bademantel](https://open.spotify.com/track/0Kbt7IwPJMCAhUG2rA8359) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Pinker Bademantel](https://open.spotify.com/album/1K4LnsdXarhV7plcLCUzFM) | 2:35 |
 | 69 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 |
-| 70 | [Amour plastique](https://open.spotify.com/track/7M3HuQRRAm1QD4kftmq0bb) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Matthyeux](https://open.spotify.com/artist/6oE1rW4wI9y4lISZ5NvyDp) | [Amour plastique](https://open.spotify.com/album/3wcUR4eM3Ccp8uZ0lBXCGJ) | 3:47 |
+| 70 | [Amour plastique](https://open.spotify.com/track/7M3HuQRRAm1QD4kftmq0bb) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Amour plastique](https://open.spotify.com/album/3wcUR4eM3Ccp8uZ0lBXCGJ) | 3:47 |
 | 71 | [Time](https://open.spotify.com/track/6MxMqCgqmekcr0VwSU7AVH) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:00 |
 | 72 | [viel zu lang her](https://open.spotify.com/track/5A3yKMksw7mdA1dXetlKaA) | [$ubria](https://open.spotify.com/artist/6qI5OaCAenX62HTorD3VRN) | [viel zu lang her](https://open.spotify.com/album/5VfLnRKVfzX3QhWhvpV9Oi) | 3:13 |
 | 73 | [Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Schmetterling](https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3) | 2:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
 | 100 | [Du hast mich nie geliebt </3…](https://open.spotify.com/track/6aoadZIaPyAvIpfdkmonBX) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Du hast mich nie geliebt </3…](https://open.spotify.com/album/0EzmmuePkY1VrvGEpxyzuU) | 1:21 |
 
-Snapshot ID: `MCxhMmMzNzcyZDUwY2E4OWIzOGM2MzYwZmNhODc5YmM3MmE2Mzg0OGRj`
+Snapshot ID: `MCxmMDEwOGVhMjA5M2UxZDY2YWJmYTUwNjA5ZmE2ZDNkM2M4MWY3Yzc1`

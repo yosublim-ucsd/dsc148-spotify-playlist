@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 30054,
+  "num_followers": 30146,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjczMTI5MmFjMjI3YTI1NjUwNzBjZGEyMDE3OTAyY2ZhYjQ0Mjg3",
+  "snapshot_id": "MCw5ODc5MzUyYWZkZWJlNjg1NjZlZDQ3YmIxNjg2NGI4OWZkODJjMWY2",
   "tracks": [
     {
       "added_at": "2023-09-08 08:08:17",
@@ -527,26 +527,6 @@
     {
       "added_at": "2023-09-08 08:08:17",
       "album": {
-        "name": "NEO",
-        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
-      },
-      "artists": [
-        {
-          "name": "Jazzuelle",
-          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
-        },
-        {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
-        }
-      ],
-      "duration_ms": 436551,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
-    },
-    {
-      "added_at": "2023-09-08 08:08:17",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 366217,
       "name": "With You",
       "url": "https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw"
+    },
+    {
+      "added_at": "2023-09-08 08:08:17",
+      "album": {
+        "name": "NEO",
+        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
+      },
+      "artists": [
+        {
+          "name": "Jazzuelle",
+          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
+        },
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        }
+      ],
+      "duration_ms": 436551,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
     },
     {
       "added_at": "2023-09-08 08:08:17",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-09-08 08:08:17",
       "album": {
+        "name": "Artform",
+        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        }
+      ],
+      "duration_ms": 459731,
+      "name": "Flute Activation - Original Mix",
+      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
+    },
+    {
+      "added_at": "2023-09-08 08:08:17",
+      "album": {
         "name": "Seeking",
         "url": "https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
-    },
-    {
-      "added_at": "2023-09-08 08:08:17",
-      "album": {
-        "name": "Artform",
-        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
-      },
-      "artists": [
-        {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
-        }
-      ],
-      "duration_ms": 459731,
-      "name": "Flute Activation - Original Mix",
-      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
     },
     {
       "added_at": "2023-09-08 08:08:17",

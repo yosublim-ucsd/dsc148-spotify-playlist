@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,300 likes - 170 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,357 likes - 170 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 169 | [under the moon](https://open.spotify.com/track/42pudwLPmQT4AnegS85Yz4) | [Martin Monroi](https://open.spotify.com/artist/4IB5E37eyDYzrP0nQPogaq) | [under the moon](https://open.spotify.com/album/7mIKs5agQHWqo9w5bnVSEN) | 3:47 |
 | 170 | [Paloma](https://open.spotify.com/track/549JBVNjLZt5BN6qfphBbQ) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Paloma](https://open.spotify.com/album/04mofxzUHsD7zVCAKzbpWu) | 2:37 |
 
-Snapshot ID: `MCw0MTMwMTA3ZDMxN2JlMDVkODhkNTgyZWZkN2E5MGExNDdhZDJjMzlh`
+Snapshot ID: `MCxhNjkzNWQ3MDlmMzJmMmYwNjNlYjNkYjY1OTllMDdlYjhkZGY3Y2E4`

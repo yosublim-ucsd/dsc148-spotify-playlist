@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-653 songs - 1 day 17 hr 47 min
+654 songs - 1 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [If Ever I Would Leave You \- Remasted 1998/ Rudy Van Gelder Edition](https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas](https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy) | 5:09 | 2021-12-16 |  |
 | [If I Ask You Now?](https://open.spotify.com/track/3yyVqUxOKGgH47iUGNEyVB) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [If I Ask You Now?](https://open.spotify.com/album/6ntxSpTO4JPirtRAZ0SFQH) | 3:26 | 2023-09-29 |  |
 | [If You Say Goodbye](https://open.spotify.com/track/2spKTHzzPhXETINp5L43JY) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Don't Leave Me Alone](https://open.spotify.com/album/1dhSMp8BQM346Re594UVIq) | 3:00 | 2023-06-01 |  |
-| [Ill Wind](https://open.spotify.com/track/4BPd4Z916ZXnm8oXNqHxZg) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 7:59 | 2021-12-16 |  |
+| [Ill Wind](https://open.spotify.com/track/4BPd4Z916ZXnm8oXNqHxZg) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 7:59 | 2021-12-16 | 2023-10-04 |
 | [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 | 2022-12-01 |  |
 | [Impressive\-looking](https://open.spotify.com/track/1uM5EU6CdbnOVtPKVvqnI2) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Impressive\-looking](https://open.spotify.com/album/4HKAiMUq49tLZdkNd4njZs) | 3:24 | 2023-08-10 |  |
 | [In a quiet voice](https://open.spotify.com/track/0gEwI6dLfDSdb5uykp86Xx) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [In a quiet voice](https://open.spotify.com/album/3y21l63OCbOjOXR4st1swK) | 2:44 | 2023-04-27 |  |
@@ -591,6 +591,7 @@
 | [Thoughts Of You](https://open.spotify.com/track/1ca7uFXnN2yDZu9TgMy04N) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Thoughts Of You](https://open.spotify.com/album/1qwTOSaVVrRVW4vBjjzbza) | 2:56 | 2023-09-08 |  |
 | [Three to Get Ready](https://open.spotify.com/track/3k5O0RKO6zEqu9JJ7JqxDX) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 5:23 | 2021-12-16 | 2022-11-11 |
 | [Through The Raindrops](https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Through The Raindrops](https://open.spotify.com/album/3GnhjFhG9GtAXUkxwxYGNG) | 3:43 | 2023-06-01 |  |
+| [Tideaway](https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Forest Green](https://open.spotify.com/album/7plhGaXJdEwRsJkBr15KIb) | 3:29 | 2023-09-29 |  |
 | [Till There Was You](https://open.spotify.com/track/2MTvxuqnAEzUctNDGGEIuu) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Gene Ammons Story: Gentle Jug](https://open.spotify.com/album/0CCKExA36huR4N871Qkszm) | 7:10 | 2022-06-29 | 2022-11-11 |
 | [Till There Was You](https://open.spotify.com/track/5CRUURL4TTPTxF36cDtX1J) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Three Little Words](https://open.spotify.com/album/5R2EebUkOPmRbw0wEhutCD) | 7:12 | 2022-05-13 | 2022-07-29 |
 | [Till There Was You](https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Till There Was You](https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL) | 2:35 | 2023-08-10 |  |

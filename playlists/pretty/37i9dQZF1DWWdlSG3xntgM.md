@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,047 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,055 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 46 | [Giọt buồn không tên](https://open.spotify.com/track/6fvfC6QXhLput4cLYtxz6n) | [Phương Hồng Quế](https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap), [Giang Tử](https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW) | [Liên Khúc Đêm Buồn Tỉnh Lẻ, Những Đồi Hoa Sim \(Asia 283\)](https://open.spotify.com/album/3dA8DbhPvOiIIgKgGDZXVP) | 4:46 |
 | 47 | [LK Nỗi Buồn Hoa Phượng & Lưu Bút Ngày Xanh](https://open.spotify.com/track/4x7G87DKCNZpzCsxbTUdCv) | [Hoàng Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o), [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn), [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Sao Chưa Thấy Hồi Âm](https://open.spotify.com/album/5vaRnl2QeL8hONSGhi1EE8) | 6:34 |
 | 48 | [Xuân Này Con Không Về](https://open.spotify.com/track/7rQUKFLXPOIYpvFKNddRcS) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Xuân Đi Lễ Chùa](https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc) | 5:05 |
-| 49 | [Chuyện Tình Không Dĩ Vãng](https://open.spotify.com/track/6Kju3c7MNva9FJgi0NqY0t) | [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Điệu Buồn Lục Tỉnh](https://open.spotify.com/album/7eT0iZ0tW8rNJSF8TkfKXr) | 4:47 |
-| 50 | [Nó](https://open.spotify.com/track/0yMCviDfGzIM1BGYm7loWk) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Chuyện Giàn Thiên Lý \(Tình Khúc Anh Bằng và Trần Thiện Thanh\)](https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv) | 5:08 |
+| 49 | [Nó](https://open.spotify.com/track/0yMCviDfGzIM1BGYm7loWk) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Chuyện Giàn Thiên Lý \(Tình Khúc Anh Bằng và Trần Thiện Thanh\)](https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv) | 5:08 |
+| 50 | [Chuyện Tình Không Dĩ Vãng](https://open.spotify.com/track/6Kju3c7MNva9FJgi0NqY0t) | [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Điệu Buồn Lục Tỉnh](https://open.spotify.com/album/7eT0iZ0tW8rNJSF8TkfKXr) | 4:47 |
 
-Snapshot ID: `MCxhZTZjMzljYWE0NmQwOWM5ZjY0ZDliYWZhZGEwMTE0NWI0NzJjZWE0`
+Snapshot ID: `MCxmMmIzNDRiMWZkOGJlMzRhMjVmM2NlZDkzMTJiNWVkZTg0MTc1ZTEz`

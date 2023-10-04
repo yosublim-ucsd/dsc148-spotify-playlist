@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrDJ7TeNU58.md) - [plain]
 
 > Fêtez Halloween en musique !
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,756 likes - 40 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,923 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrDJ7TeNU58.md) - [plain]
 | 39 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 |
 | 40 | [Hells Bells](https://open.spotify.com/track/69QHm3pustz01CJRwdo20z) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:12 |
 
-Snapshot ID: `MCxiZDEwZjNjOTVlODZiYTA3MzEzMTZiNDgxZTJhN2NlMjRmYzY5M2Vj`
+Snapshot ID: `MCxjOWJlMWNjODg5NTI0NTNjN2E5NThiYjkwMmQ3MzkzZDU2OTYxMTlh`

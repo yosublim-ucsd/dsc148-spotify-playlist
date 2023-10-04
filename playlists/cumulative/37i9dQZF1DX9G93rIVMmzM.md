@@ -4,14 +4,15 @@
 
 > seduced in the shadows.
 
-53 songs - 3 hr 24 min
+54 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adrenalize](https://open.spotify.com/track/06WohfoFEUa5faNy8f9S5N) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l) | 4:15 | 2023-09-20 |  |
 | [Alkaline](https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:34 | 2023-09-20 |  |
 | [Animals](https://open.spotify.com/track/2n1Go55RzCD8pvnEmA6HGO) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [The Shape of Everything](https://open.spotify.com/album/5t7diqfBBT6QnXADEKbyaZ) | 4:30 | 2023-09-20 |  |
-| [Bitches Brew](https://open.spotify.com/track/32GLsaZGtVQ4OUaqmVsF9I) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [††† \(Crosses\)](https://open.spotify.com/album/3OFwgpivi60ZjfNmnPm2kf) | 3:28 | 2023-09-20 |  |
+| [Bitches Brew](https://open.spotify.com/track/4E23uX1BDdUTk9x56nEbla) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [††† \(Crosses\)](https://open.spotify.com/album/0nmLUAAUIUfm8q8Mq3mRAV) | 3:28 | 2023-09-29 |  |
+| [Bitches Brew](https://open.spotify.com/track/32GLsaZGtVQ4OUaqmVsF9I) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [††† \(Crosses\)](https://open.spotify.com/album/3OFwgpivi60ZjfNmnPm2kf) | 3:28 | 2023-09-20 | 2023-10-04 |
 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 | 2023-09-20 |  |
 | [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 | 2023-09-20 |  |
 | [BROWN NOISE](https://open.spotify.com/track/6J9FRTVeIX9D1GgM6K0wr9) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [NOISE T.V](https://open.spotify.com/album/3TxlPPVEkL4vlOcmpEJWLS) | 2:52 | 2023-09-20 |  |

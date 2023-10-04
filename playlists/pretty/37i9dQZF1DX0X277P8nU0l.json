@@ -1,31 +1,139 @@
 {
   "description": "Un caf\u00e9, un croissant et c\u2018est parti pour une bonne journ\u00e9e.",
-  "num_followers": 213634,
+  "num_followers": 213655,
   "original_name": "Caf\u00e9 Croissant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmQ0ZDZkMjZkODU0MzMxM2MzYmI0MjMwOWQyOWU1MTU5OTE1MWVl",
+  "snapshot_id": "MCxhMTg4NDY5MDlmZTg3YjIyOGEzNzUxZjhiMzRhZTJiY2FhNzMzMmJj",
   "tracks": [
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+        "name": "STRUGGLER",
+        "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+      "duration_ms": 279533,
+      "name": "See Ya There",
+      "url": "https://open.spotify.com/track/4KXd5UAFuHok5tfUXBP2fQ"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
+      "album": {
+        "name": "Good Morning (feat. Susan Carol)",
+        "url": "https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Susan Carol",
+          "url": "https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP"
+        }
+      ],
+      "duration_ms": 162038,
+      "name": "Good Morning (feat. Susan Carol)",
+      "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
+    },
+    {
+      "added_at": "2023-10-03 10:10:29",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2023-10-03 10:10:29",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "added_at": "2023-10-03 10:10:29",
+      "album": {
+        "name": "Turn Away / Place of Our Own",
+        "url": "https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql"
+      },
+      "artists": [
+        {
+          "name": "Later.",
+          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
+        }
+      ],
+      "duration_ms": 226647,
+      "name": "Turn Away",
+      "url": "https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK"
+    },
+    {
+      "added_at": "2023-10-03 10:10:29",
+      "album": {
+        "name": "peanut butter",
+        "url": "https://open.spotify.com/album/3tWrgOY80POwFvOrmbeS8t"
+      },
+      "artists": [
+        {
+          "name": "Jude Todd",
+          "url": "https://open.spotify.com/artist/0oiGuzjA6uQU96nSXV67le"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "peanut butter - stripped",
+      "url": "https://open.spotify.com/track/49QepkimWyBVatAvHHAzQ0"
+    },
+    {
+      "added_at": "2023-10-03 10:10:29",
+      "album": {
+        "name": "The Hardest Part (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 176048,
+      "name": "The Hardest Part (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
+    },
+    {
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
@@ -53,43 +161,87 @@
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG"
+        "name": "J\u00faJ\u00fa & The Flowerbug",
+        "url": "https://open.spotify.com/album/2PXP673QHx50WTC2Tu7KPF"
       },
       "artists": [
         {
-          "name": "Joy Denalane",
-          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
         }
       ],
-      "duration_ms": 259265,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR"
+      "duration_ms": 262079,
+      "name": "J\u00daJ\u00da",
+      "url": "https://open.spotify.com/track/2fvzuOmOYZJWSXFur49qQn"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
-        "name": "The Hardest Part (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
+        "name": "Change My World",
+        "url": "https://open.spotify.com/album/6F9BgRBsbKk53qIVocDQGP"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Alice on the roof",
+          "url": "https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei"
         }
       ],
-      "duration_ms": 176048,
-      "name": "The Hardest Part (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
+      "duration_ms": 208092,
+      "name": "Change My World",
+      "url": "https://open.spotify.com/track/2BAXiNtNY5e482p9fyL46v"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
+      "album": {
+        "name": "Sweet Craving",
+        "url": "https://open.spotify.com/album/2PZF0TA03SBBbOfhOblsJv"
+      },
+      "artists": [
+        {
+          "name": "King Josephine",
+          "url": "https://open.spotify.com/artist/1qf05AiTQEYatPSVe1sRDz"
+        }
+      ],
+      "duration_ms": 177310,
+      "name": "Sweet Craving",
+      "url": "https://open.spotify.com/track/6ORy3dG0eRQgfprk0MjjGp"
+    },
+    {
+      "added_at": "2023-10-03 10:10:29",
+      "album": {
+        "name": "Bill LaBounty",
+        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
+      },
+      "artists": [
+        {
+          "name": "Bill LaBounty",
+          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
+    },
+    {
+      "added_at": "2023-10-03 10:10:29",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "False Lights From the Land EP",
         "url": "https://open.spotify.com/album/2eswYuox4Rj1UKy40yUGDp"
@@ -105,7 +257,23 @@
       "url": "https://open.spotify.com/track/4tNTYxKPa8yWpoxpBEueIF"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG"
+      },
+      "artists": [
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+        }
+      ],
+      "duration_ms": 259265,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR"
+    },
+    {
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Sandhills",
         "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
@@ -121,7 +289,7 @@
       "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Uh",
         "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
@@ -137,23 +305,7 @@
       "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Turn Away / Place of Our Own",
-        "url": "https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql"
-      },
-      "artists": [
-        {
-          "name": "Later.",
-          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
-        }
-      ],
-      "duration_ms": 226647,
-      "name": "Turn Away",
-      "url": "https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Free (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
@@ -173,7 +325,7 @@
       "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "& the Charm",
         "url": "https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu"
@@ -189,7 +341,7 @@
       "url": "https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "The Lost Petals",
         "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
@@ -205,111 +357,7 @@
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Good Morning (feat. Susan Carol)",
-        "url": "https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Susan Carol",
-          "url": "https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP"
-        }
-      ],
-      "duration_ms": 162038,
-      "name": "Good Morning (feat. Susan Carol)",
-      "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "J\u00faJ\u00fa & The Flowerbug",
-        "url": "https://open.spotify.com/album/2PXP673QHx50WTC2Tu7KPF"
-      },
-      "artists": [
-        {
-          "name": "Sunni Col\u00f3n",
-          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "J\u00daJ\u00da",
-      "url": "https://open.spotify.com/track/2fvzuOmOYZJWSXFur49qQn"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 227195,
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "peanut butter",
-        "url": "https://open.spotify.com/album/3tWrgOY80POwFvOrmbeS8t"
-      },
-      "artists": [
-        {
-          "name": "Jude Todd",
-          "url": "https://open.spotify.com/artist/0oiGuzjA6uQU96nSXV67le"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "peanut butter - stripped",
-      "url": "https://open.spotify.com/track/49QepkimWyBVatAvHHAzQ0"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Sweet Craving",
-        "url": "https://open.spotify.com/album/2PZF0TA03SBBbOfhOblsJv"
-      },
-      "artists": [
-        {
-          "name": "King Josephine",
-          "url": "https://open.spotify.com/artist/1qf05AiTQEYatPSVe1sRDz"
-        }
-      ],
-      "duration_ms": 177310,
-      "name": "Sweet Craving",
-      "url": "https://open.spotify.com/track/6ORy3dG0eRQgfprk0MjjGp"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
@@ -325,23 +373,7 @@
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Bill LaBounty",
-        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
-      },
-      "artists": [
-        {
-          "name": "Bill LaBounty",
-          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Livin' It Up",
-      "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Back In Love",
         "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Bettye Swann",
         "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
@@ -373,7 +405,7 @@
       "url": "https://open.spotify.com/track/221XgJXCVkZ1ERPyfO3OlO"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Walk of Fire",
         "url": "https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3"
@@ -389,7 +421,7 @@
       "url": "https://open.spotify.com/track/2HG5pRpERRJ2wbln73lvLS"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Loving You is All I Want to Do",
         "url": "https://open.spotify.com/album/4TJt3xetzmO9t4hQSRBQnf"
@@ -409,7 +441,7 @@
       "url": "https://open.spotify.com/track/1GIf6prhwd6ESjjJ6pmiwV"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Differences Aside",
         "url": "https://open.spotify.com/album/60hjoFRYc1Q1wnFMGXQmlg"
@@ -425,7 +457,7 @@
       "url": "https://open.spotify.com/track/0olICfJFNxKfPeZtNgPa7G"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/45dAw6GXEsogcDF3NUgj3O"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "angeleyes",
         "url": "https://open.spotify.com/album/75iHw0qBQ8xJWpkwlOMafE"
@@ -461,7 +493,7 @@
       "url": "https://open.spotify.com/track/0OFsazXhclEqk8JVNE12xl"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "As Pr\u00f3prias",
         "url": "https://open.spotify.com/album/2zZYrq3CG38VCaPcw4nexA"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/172Z2U5yabNbrxY9AArzy5"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Love Is Alive",
         "url": "https://open.spotify.com/album/6crsCEK6qj2PmK00pETlAK"
@@ -509,7 +541,7 @@
       "url": "https://open.spotify.com/track/65Tyq0mmbLzayumvoK6Ixw"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
@@ -525,7 +557,7 @@
       "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Glue Song (feat. Clairo)",
         "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
@@ -545,23 +577,7 @@
       "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Alice, Gloria and Jon",
         "url": "https://open.spotify.com/album/1eL3olLqqX6J1wwMyx8WqB"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/6aopZlCfVFWLD4syXG9Hj7"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Mystical Magical Rhythmical Radical Ride",
         "url": "https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Wondrous Place",
         "url": "https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Heaven Is a Junkyard",
         "url": "https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "YUMA",
         "url": "https://open.spotify.com/album/2vWf2mPJe2KIsQxyEmablS"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/1VYWPQx1sOyByTKTOARHZs"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Country Gyal",
         "url": "https://open.spotify.com/album/6bn8dl0EeKUP3HlEhkg5r6"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/5TVL1BMpJeXiDxm74LWVBb"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Sun in June",
         "url": "https://open.spotify.com/album/5a0Rd79ItpxfDC3eHTMtmO"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/5X33CqotQWpIYvC5XTTpGS"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Out on the weekend",
         "url": "https://open.spotify.com/album/4Tj6Wk4DXEZxHUz2B9xOzW"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/0Gb9R3sEf8QQSQSLAkKpGQ"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Columbo",
         "url": "https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/26WZOTF738D3bR4t27zlkL"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
         "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7yP4Il1RMSvzNBxKFUPuoj"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/5QnArCvhVH3TqZGuhwycRV"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Young Hearts",
         "url": "https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/38eezlkjvczJZBu6hsKEWF"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Coffee in the Morning",
         "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "The Right Words",
         "url": "https://open.spotify.com/album/42QpFcdpPNsaFUc2kvOseG"
@@ -845,23 +861,7 @@
       "url": "https://open.spotify.com/track/6kHeWaJ0nSpOIwOx2HNg7R"
     },
     {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
-        "name": "Us Without Me",
-        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 200039,
-      "name": "Us Without Me",
-      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
+      "added_at": "2023-10-03 10:10:29",
       "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"

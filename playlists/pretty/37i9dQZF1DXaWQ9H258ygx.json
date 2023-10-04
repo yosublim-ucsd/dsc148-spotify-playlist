@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 74041,
+  "num_followers": 74307,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTc3ZGY5YjZlNjVhZDQ1NTc1ODYzMzQ0YzU4NmIwNmJkYzA4ZTAy",
+  "snapshot_id": "MCwwMzRiM2I3MDVkYmRhYmNiZTBhNGQ3ODg1NzY0YWVmNDNmZDQ2N2U3",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 172213,
-      "name": "Lights Up",
-      "url": "https://open.spotify.com/track/4jAIqgrPjKLTY9Gbez25Qb"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
         "name": "Who Hurt You?",
         "url": "https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 231964,
       "name": "Who Hurt You?",
       "url": "https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 172213,
+      "name": "Lights Up",
+      "url": "https://open.spotify.com/track/4jAIqgrPjKLTY9Gbez25Qb"
     },
     {
       "added_at": "2022-10-03 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "Provider",
-        "url": "https://open.spotify.com/album/7uSaHPXSYaRB3FxLOmatG9"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 243238,
-      "name": "Provider",
-      "url": "https://open.spotify.com/track/6R6ihJhRbgu7JxJKIbW57w"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
         "name": "Give Or Take",
         "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 170653,
       "name": "Tryna Be",
       "url": "https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/7uSaHPXSYaRB3FxLOmatG9"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 243238,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/6R6ihJhRbgu7JxJKIbW57w"
     },
     {
       "added_at": "2022-10-03 04:00:00",
@@ -751,6 +751,26 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
+      },
+      "artists": [
+        {
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 152250,
+      "name": "West",
+      "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
         "name": "The House Is Burning",
         "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 176682,
       "name": "Wat U Sed (feat. Doechii & Kal Banx)",
       "url": "https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
-      },
-      "artists": [
-        {
-          "name": "River Tiber",
-          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 152250,
-      "name": "West",
-      "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
     },
     {
       "added_at": "2022-10-03 04:00:00",

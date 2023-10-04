@@ -1,15 +1,39 @@
 {
-  "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421185,
+  "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
+  "num_followers": 421184,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5",
+  "snapshot_id": "MCw0MzVkNDYxYjRiMTc3Y2ZjZjNmYTc1MWM4NGQ0MDRmOGU2ZWFhZDY2",
   "tracks": [
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
+      "album": {
+        "name": "Toda Noite",
+        "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Renc Renc",
+      "url": "https://open.spotify.com/track/3LkOtPI3tg44XxnYdrST7B"
+    },
+    {
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Ironicamente",
         "url": "https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I"
@@ -29,7 +53,7 @@
       "url": "https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "HSEH",
         "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
@@ -53,7 +77,7 @@
       "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Bagulho Louco",
         "url": "https://open.spotify.com/album/7vmDYV51NrlXuzdyyQYDen"
@@ -73,55 +97,7 @@
       "url": "https://open.spotify.com/track/04vzhKfl5HtPEgrdZJCZ7L"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Simplesmente Ela",
-        "url": "https://open.spotify.com/album/42UKXbB3K0fJl7THkXPw0w"
-      },
-      "artists": [
-        {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
-        }
-      ],
-      "duration_ms": 161076,
-      "name": "Simplesmente Ela",
-      "url": "https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Larga Essa Vida",
-        "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Souza Beats",
-          "url": "https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "OGBEATZZ",
-          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 119008,
-      "name": "Larga Essa Vida",
-      "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Essa \u00e9 a Vida de um Corredor",
         "url": "https://open.spotify.com/album/7bBlOZxxwCMSMpFngmSIPO"
@@ -153,31 +129,27 @@
       "url": "https://open.spotify.com/track/4unpSpFKk3d8H08AmLvrHj"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
-        "name": "Frozone",
-        "url": "https://open.spotify.com/album/4JpuEAM5YMFpyhNwd9IkSs"
+        "name": "Toda Noite",
+        "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
       },
       "artists": [
         {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
         },
         {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        },
-        {
-          "name": "prod by bila",
-          "url": "https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2"
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         }
       ],
-      "duration_ms": 178119,
-      "name": "Frozone",
-      "url": "https://open.spotify.com/track/5jzcxib2TSkbcEuZPPF1DT"
+      "duration_ms": 128695,
+      "name": "Romance de Novela",
+      "url": "https://open.spotify.com/track/3Ddco5MUY23qxHZE2s3siS"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Aulas e Cursos",
         "url": "https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr"
@@ -193,7 +165,39 @@
       "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
+      "album": {
+        "name": "Larga Essa Vida",
+        "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Souza Beats",
+          "url": "https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 119008,
+      "name": "Larga Essa Vida",
+      "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
+    },
+    {
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Todo Mundo Ama O Sol",
         "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
@@ -217,7 +221,55 @@
       "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
+      "album": {
+        "name": "Frozone",
+        "url": "https://open.spotify.com/album/4JpuEAM5YMFpyhNwd9IkSs"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        },
+        {
+          "name": "prod by bila",
+          "url": "https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2"
+        }
+      ],
+      "duration_ms": 178119,
+      "name": "Frozone",
+      "url": "https://open.spotify.com/track/5jzcxib2TSkbcEuZPPF1DT"
+    },
+    {
+      "added_at": "2023-10-03 20:00:00",
+      "album": {
+        "name": "Quebra Cabe\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/5eIPlZnFSGPUl0YqzWuevT"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Quebra Cabe\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/2veIj31M3WytrkLQrbjFkx"
+    },
+    {
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Movimento - Spotify Singles",
         "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
@@ -245,7 +297,7 @@
       "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "100 Mili",
         "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
@@ -265,7 +317,7 @@
       "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Combate",
         "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
@@ -293,31 +345,7 @@
       "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Quebra Cabe\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/5eIPlZnFSGPUl0YqzWuevT"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Quebra Cabe\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/2veIj31M3WytrkLQrbjFkx"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Uber",
         "url": "https://open.spotify.com/album/1Uf5qg0DF4xGCl2JYKz2Ae"
@@ -341,7 +369,7 @@
       "url": "https://open.spotify.com/track/3e9jL8tQI1JyBQgaXYFwUb"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Joga na Cara",
         "url": "https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC"
@@ -361,7 +389,7 @@
       "url": "https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Putaria 2000",
         "url": "https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC"
@@ -381,7 +409,7 @@
       "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "3AM (PXT4 RASA) [Remix]",
         "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
@@ -405,23 +433,7 @@
       "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Eu Fiquei Com a Puta",
-        "url": "https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C"
-      },
-      "artists": [
-        {
-          "name": "MC Josh",
-          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Eu Fiquei Com a Puta",
-      "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Doce Veneno",
         "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
@@ -445,7 +457,23 @@
       "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
+      "album": {
+        "name": "Eu Fiquei Com a Puta",
+        "url": "https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C"
+      },
+      "artists": [
+        {
+          "name": "MC Josh",
+          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Eu Fiquei Com a Puta",
+      "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
+    },
+    {
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Malvatrem",
         "url": "https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL"
@@ -469,7 +497,7 @@
       "url": "https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Ritmo de Copa",
         "url": "https://open.spotify.com/album/08FBg7p5Esvrw49NAFj8v3"
@@ -501,7 +529,7 @@
       "url": "https://open.spotify.com/track/61BxiY7A9V9FC2IL7llA76"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "O Justo N\u00e3o Treme",
         "url": "https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA"
@@ -525,7 +553,7 @@
       "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Tiro Foto, Mas N\u00e3o Posto",
         "url": "https://open.spotify.com/album/2F5juQtLZImwXCTtCWFMeS"
@@ -549,7 +577,7 @@
       "url": "https://open.spotify.com/track/2zytQKmpGW9dvhEGnXiBTP"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2"
@@ -569,7 +597,7 @@
       "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "AJU",
         "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
@@ -589,7 +617,7 @@
       "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
@@ -617,7 +645,7 @@
       "url": "https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Rock Danger, Vol. 1",
         "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
@@ -641,7 +669,7 @@
       "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "8KG",
         "url": "https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J"
@@ -665,7 +693,7 @@
       "url": "https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Notas",
         "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
@@ -693,7 +721,7 @@
       "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "COSTA QUENTE",
         "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
@@ -713,7 +741,51 @@
       "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
+      "album": {
+        "name": "Levado - Spotify Singles",
+        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Rennan Guerra",
+          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
+        },
+        {
+          "name": "Patrick Laplan",
+          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
+        }
+      ],
+      "duration_ms": 175922,
+      "name": "Levado - Spotify Singles",
+      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
+    },
+    {
+      "added_at": "2023-10-03 20:00:00",
+      "album": {
+        "name": "Encruzilhada",
+        "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
+      },
+      "artists": [
+        {
+          "name": "Young Piva",
+          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "duration_ms": 151374,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
+    },
+    {
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Set Ajc",
         "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
@@ -749,51 +821,7 @@
       "url": "https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Levado - Spotify Singles",
-        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rennan Guerra",
-          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
-        },
-        {
-          "name": "Patrick Laplan",
-          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
-        }
-      ],
-      "duration_ms": 175922,
-      "name": "Levado - Spotify Singles",
-      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Encruzilhada",
-        "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
-      },
-      "artists": [
-        {
-          "name": "Young Piva",
-          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        }
-      ],
-      "duration_ms": 151374,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Viciado em Voc\u00ea",
         "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
@@ -809,7 +837,7 @@
       "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "P90",
         "url": "https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz"
@@ -829,7 +857,7 @@
       "url": "https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Hino Delas",
         "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
@@ -853,7 +881,7 @@
       "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "O outro lado do rio",
         "url": "https://open.spotify.com/album/1lVG4rP4Lqpk0fkHC5z61C"
@@ -873,7 +901,7 @@
       "url": "https://open.spotify.com/track/7zQB0CvUfqnziNBF4kLW1a"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "bonita e miser\u00e1vel",
         "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
@@ -889,7 +917,7 @@
       "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Eu Te Dei, Amor",
         "url": "https://open.spotify.com/album/3YYgYJsqWixI7kvzG0xVjY"
@@ -909,7 +937,27 @@
       "url": "https://open.spotify.com/track/295aNQC63tnXBPFfohPcqO"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
+      "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 134264,
+      "name": "Matem\u00e1tica",
+      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
+    },
+    {
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Baby Hair",
         "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
@@ -933,27 +981,7 @@
       "url": "https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 134264,
-      "name": "Matem\u00e1tica",
-      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Favelinha",
         "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
@@ -973,7 +1001,7 @@
       "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Me liga",
         "url": "https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7"
@@ -997,7 +1025,7 @@
       "url": "https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Do Alto da Laje",
         "url": "https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H"
@@ -1013,7 +1041,7 @@
       "url": "https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Ceder",
         "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
@@ -1033,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Aquecimento",
         "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
@@ -1053,7 +1081,7 @@
       "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "HODARI",
         "url": "https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154"
@@ -1069,7 +1097,7 @@
       "url": "https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "PATY",
         "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
@@ -1085,7 +1113,7 @@
       "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
@@ -1101,7 +1129,7 @@
       "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Imaginar",
         "url": "https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x"
@@ -1117,7 +1145,7 @@
       "url": "https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Deixar na B",
         "url": "https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3"
@@ -1133,7 +1161,7 @@
       "url": "https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
         "url": "https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD"
@@ -1153,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Droga Pesada (feat. Nairo)",
         "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
@@ -1173,7 +1201,7 @@
       "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Face ID",
         "url": "https://open.spotify.com/album/0UjBaUcZ8Kn7rcc6KhFDzI"
@@ -1201,23 +1229,7 @@
       "url": "https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Tu tem jeito de quem gosta",
-        "url": "https://open.spotify.com/album/5vrKMwJ2laISjYY0nWzZ2o"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 157557,
-      "name": "Tu tem jeito de quem gosta",
-      "url": "https://open.spotify.com/track/1xOpAC7Wv465c51iK4Tgkv"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Ver\u00e3o 021",
         "url": "https://open.spotify.com/album/0YEmY36nlVtX7odjfKFasc"
@@ -1253,51 +1265,7 @@
       "url": "https://open.spotify.com/track/74uMkyhm8QY9XDjOou0t9i"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC"
-      },
-      "artists": [
-        {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        },
-        {
-          "name": "Aguida Beats",
-          "url": "https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1"
-        }
-      ],
-      "duration_ms": 154211,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "24K o Spotify Que Paga",
-        "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
-      },
-      "artists": [
-        {
-          "name": "Mc Kanhoto",
-          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "DJ Guh Mix",
-          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "24K o Spotify Que Paga",
-      "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Rompe",
         "url": "https://open.spotify.com/album/283BKOpijdldRWEsKOfAmT"
@@ -1321,7 +1289,51 @@
       "url": "https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Aguida Beats",
+          "url": "https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1"
+        }
+      ],
+      "duration_ms": 154211,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT"
+    },
+    {
+      "added_at": "2023-10-03 20:00:00",
+      "album": {
+        "name": "24K o Spotify Que Paga",
+        "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
+      },
+      "artists": [
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "24K o Spotify Que Paga",
+      "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
+    },
+    {
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "VideoChamada (Facetime)",
         "url": "https://open.spotify.com/album/0PYK1zmn56XIeDi99TJmBN"
@@ -1341,7 +1353,7 @@
       "url": "https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "alice (s\u00f3 que sem as maravilhas)",
         "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
@@ -1357,7 +1369,7 @@
       "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Putaria e Crime",
         "url": "https://open.spotify.com/album/1mt7soWCRIs5QgCOh2R8EL"
@@ -1381,7 +1393,7 @@
       "url": "https://open.spotify.com/track/37FfXMaqjD664lk7VcXEqr"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "JORGE",
         "url": "https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0"
@@ -1405,23 +1417,7 @@
       "url": "https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 141557,
-      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Ruas Perigosas",
         "url": "https://open.spotify.com/album/4v2JRf5uvB7JYnwMABEZzV"
@@ -1445,7 +1441,23 @@
       "url": "https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
+      "album": {
+        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 141557,
+      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
+    },
+    {
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Na Mente",
         "url": "https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW"
@@ -1469,7 +1481,7 @@
       "url": "https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx"
@@ -1485,7 +1497,7 @@
       "url": "https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
@@ -1501,7 +1513,7 @@
       "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Trem Bala",
         "url": "https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42"
@@ -1521,27 +1533,7 @@
       "url": "https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Vai Com Calma",
-        "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
-      },
-      "artists": [
-        {
-          "name": "SH1FT",
-          "url": "https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD"
-        },
-        {
-          "name": "Bruxo 021",
-          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
-        }
-      ],
-      "duration_ms": 136289,
-      "name": "Vai Com Calma",
-      "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Santana Amarelo",
         "url": "https://open.spotify.com/album/2I3a1NXZt4AdF5LqltpY7P"
@@ -1565,7 +1557,27 @@
       "url": "https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
+      "album": {
+        "name": "Vai Com Calma",
+        "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
+      },
+      "artists": [
+        {
+          "name": "SH1FT",
+          "url": "https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD"
+        },
+        {
+          "name": "Bruxo 021",
+          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
+        }
+      ],
+      "duration_ms": 136289,
+      "name": "Vai Com Calma",
+      "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
+    },
+    {
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Contrai",
         "url": "https://open.spotify.com/album/5O2GGOafAOjpSG6yr6Krgm"
@@ -1585,7 +1597,7 @@
       "url": "https://open.spotify.com/track/43bcJZ3Q0sxxPXPW9o5xE6"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/0LoNbzVBsDjLIVT7HkwDOe"
@@ -1609,7 +1621,7 @@
       "url": "https://open.spotify.com/track/4LVy45tSEfOwGA9Pp1Kho6"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Se Fecha",
         "url": "https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB"
@@ -1633,7 +1645,7 @@
       "url": "https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5"
     },
     {
-      "added_at": "2023-07-12 21:00:00",
+      "added_at": "2023-10-03 20:00:00",
       "album": {
         "name": "Vivara",
         "url": "https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,572 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,811 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 58 | [Mata](https://open.spotify.com/track/1m43bKhTmsUVIVYEdRDzXn) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C) | [Mata](https://open.spotify.com/album/7i9x6F8kOA5AsQetVTMZoN) | 2:41 |
 | 59 | [De Ti](https://open.spotify.com/track/0v5jq7T9zUZxg89ijW3JfM) | [Manuel La Joya](https://open.spotify.com/artist/69o2LUrX032mHuCEAxSB6P) | [GALAXY](https://open.spotify.com/album/3pf2eFHL0Fm8jC0gxJD90z) | 2:23 |
 
-Snapshot ID: `MCxlN2RkODlkNWU2NmQ3ZWRiMTAzNjE5ZWZmNTA0Yzg5ZDM1YzM5MGU5`
+Snapshot ID: `MCxmMGY0MWE0NjFlOWY5MTQ3MzVkODBkMzhjYzIzMmI1NDhlNTAyYzNm`

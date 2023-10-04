@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-598 songs - 1 day 19 hr 18 min
+599 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [I'd Rather Go Blind](https://open.spotify.com/track/0QTDCY85qljLPKHoekvrVL) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Daptone Records Singles Collection: Volume 5](https://open.spotify.com/album/6exNhKZyY5D4KOqSVJk0mx) | 3:33 | 2022-03-29 | 2023-08-14 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/438vUZj0qwC0zM4HMF3trH) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Daptone Records Singles Collection: Volume 5](https://open.spotify.com/album/7DeXMePPzsB5ztt4CrZGAV) | 3:33 | 2022-03-29 | 2023-04-30 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/6SN0zMxQ7PlgpmwuVcGMgE) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [One Step Ahead](https://open.spotify.com/album/6oFyBwOwT0nh0hyOzr0Iht) | 3:36 | 2023-08-20 | 2023-09-25 |
+| [I'd Rather Go Blind](https://open.spotify.com/track/6dvQPRW4Gh1IHwLwXOsBBC) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [If You Ask Me To: Victor Axelrod Covers for Daptone Records](https://open.spotify.com/album/3WP7OnAU0FHW2XmwyhnYwq) | 3:36 | 2023-09-18 |  |
 | [I'm Gonna Make It](https://open.spotify.com/track/5oeL6Qnnlg4x789IMHQyl3) | [Gloria Jay](https://open.spotify.com/artist/6nF6ebJ5QfmyhqAfvo2mBG) | [Know What You Want](https://open.spotify.com/album/3SCzrlw8MWQzZxcGhG8moB) | 2:59 | 2021-10-06 | 2022-09-04 |
 | [I've Got Soul](https://open.spotify.com/track/1X4uGqysoMUdiX1yfWdwMT) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [David Marez](https://open.spotify.com/artist/1RXrFi7d58eFQxyWkdbQuq) | [I've Got Soul](https://open.spotify.com/album/5kQf8G6z3pRu1Zd10oJ99Z) | 3:29 | 2021-10-06 | 2022-07-29 |
 | [Ice V](https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice, Death, Planets, Lungs, Mushrooms And Lava](https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s) | 10:15 | 2022-09-09 | 2023-08-08 |
@@ -276,7 +277,7 @@
 | [Je k'abere](https://open.spotify.com/track/5wlLdbWUHyaoSwpbQgJSiL) | [Surv](https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ) | [Je k'abere](https://open.spotify.com/album/76qKWyy9uXq3Brpg3kp6c6) | 4:21 | 2021-10-06 |  |
 | [Joni Indo](https://open.spotify.com/track/6htacxeycAR4ILeAAnBbzY) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ) | [BTVC](https://open.spotify.com/album/52QTTpeSM35ixuCvnoJ0w3) | 4:45 | 2023-08-31 |  |
 | [Judge Not \- Ray Mang Radio Edit](https://open.spotify.com/track/5rJ4Actcle0BKg7CUmGqoy) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Judge Not \(Ray Mang Mixes\)](https://open.spotify.com/album/7l9wGE3dDzxgn5P8fl9lgw) | 3:34 | 2021-10-06 | 2022-07-29 |
-| [Judge Not \- Ray Mang Radio Edit](https://open.spotify.com/track/63Dcd1TRAGV5dxpJPDz6Ae) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Judge Not \(Ray Mang Mixes\)](https://open.spotify.com/album/1ltDNyqAihoVYUfjv28oXl) | 3:34 | 2021-10-06 |  |
+| [Judge Not \- Ray Mang Radio Edit](https://open.spotify.com/track/63Dcd1TRAGV5dxpJPDz6Ae) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Judge Not \(Ray Mang Mixes\)](https://open.spotify.com/album/1ltDNyqAihoVYUfjv28oXl) | 3:34 | 2021-10-06 | 2023-10-04 |
 | [Juicy](https://open.spotify.com/track/37BcvlCPdEu1fQuuad7TZ1) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Juicy](https://open.spotify.com/album/1l9h8V3bk4SUoGrAyviH2K) | 3:45 | 2023-03-22 | 2023-10-01 |
 | [Juicy Fruit](https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv) | [Karate Boogaloo](https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ) | [KB's Mixtape No\. 2](https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP) | 5:04 | 2022-01-17 | 2022-07-27 |
 | [Jungle Music](https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs) | [Kelenkye Band](https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq) | [Various Bilongo](https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt) | 5:36 | 2021-10-06 |  |

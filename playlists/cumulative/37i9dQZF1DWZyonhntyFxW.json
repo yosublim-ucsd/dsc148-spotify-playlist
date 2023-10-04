@@ -4291,6 +4291,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0646\u0627 \u0632\u0639\u0644\u062a\u0643",
+        "url": "https://open.spotify.com/album/2kMAQwPx9QOZedvJ5Np61H"
+      },
+      "artists": [
+        {
+          "name": "Mostafa Elnesr",
+          "url": "https://open.spotify.com/artist/3qMttOQzAJd5k3kbFPurvA"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "\u0627\u0646\u0627 \u0632\u0639\u0644\u062a\u0643",
+      "url": "https://open.spotify.com/track/0kQtFJbzjpVkrUQyh7hDD5"
+    },
+    {
+      "album": {
         "name": "\u0628\u0637\u0644",
         "url": "https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX"
       },

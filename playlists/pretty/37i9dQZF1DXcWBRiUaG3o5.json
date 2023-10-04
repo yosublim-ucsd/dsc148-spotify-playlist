@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1323539,
+  "num_followers": 1323522,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGQxZmM1MmZmOGVhZjk4ZWMwMjUxY2I0ZTk3MDhkYzRjNGM3MmVk",
+  "snapshot_id": "MCwyNzZmMzFjNjA0MTBlY2RlYTk5MmMyMWU2MzBkNTgxZGE0MDFmNTg3",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Big Bend (An Original Soundtrack for Public Television)",
-        "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 125408,
-      "name": "Woodpecker",
-      "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Under Dusk",
         "url": "https://open.spotify.com/album/6P2il2hKvAhUel4zPM0Dpp"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 219186,
       "name": "Under Dusk",
       "url": "https://open.spotify.com/track/3TbH823KFCLfwo8elqPtpj"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Big Bend (An Original Soundtrack for Public Television)",
+        "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 125408,
+      "name": "Woodpecker",
+      "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Emily Alone",
-        "url": "https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 220189,
-      "name": "Shadow Bloom",
-      "url": "https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "EP 3",
         "url": "https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 201892,
       "name": "Can't Get My Head Around Loving You",
       "url": "https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Emily Alone",
+        "url": "https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 220189,
+      "name": "Shadow Bloom",
+      "url": "https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Mary Glenn",
-        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
-      },
-      "artists": [
-        {
-          "name": "Mary Glenn",
-          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
-        }
-      ],
-      "duration_ms": 322478,
-      "name": "Dancefloor",
-      "url": "https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Back to Love",
         "url": "https://open.spotify.com/album/7yYWY91DNndW9RueF2vOv5"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 231120,
       "name": "Back to Love",
       "url": "https://open.spotify.com/track/6ijaOh1FGwPCmcpOJWPUtI"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Mary Glenn",
+        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
+      },
+      "artists": [
+        {
+          "name": "Mary Glenn",
+          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
+        }
+      ],
+      "duration_ms": 322478,
+      "name": "Dancefloor",
+      "url": "https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Aldous Harding",
-        "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 338639,
-      "name": "Stop Your Tears",
-      "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Sweet Return",
         "url": "https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 135077,
       "name": "Sweet Return",
       "url": "https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Aldous Harding",
+        "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 338639,
+      "name": "Stop Your Tears",
+      "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "There's Always Glimmer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 152320,
-      "name": "Smoke - Acoustic",
-      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Year In The Kingdom",
         "url": "https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 214640,
       "name": "Howling Light",
       "url": "https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "There's Always Glimmer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "Smoke - Acoustic",
+      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
     },
     {
       "added_at": "2023-09-29 04:00:00",

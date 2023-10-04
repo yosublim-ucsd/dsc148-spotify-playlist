@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Luidji
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,789 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,828 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Karma](https://open.spotify.com/track/3509Io3FyjSPoCMD1EUelJ) | [Akela](https://open.spotify.com/artist/16tQnVelLYMb0yWHxxXtEt) | [Genesis](https://open.spotify.com/album/0yC6cKV2omFGF9jXCWGIBc) | 2:35 |
 | 50 | [Maudit](https://open.spotify.com/track/0CyzbKO9MFV1pFCaMbwA1U) | [Abah](https://open.spotify.com/artist/34HGZEcVjKwWtkIebx4tfR) | [Lumière](https://open.spotify.com/album/0crLrXnmTkvukqmoPQh2Yv) | 1:49 |
 
-Snapshot ID: `MCxhNTAxMWVlYmM4MzQzNGM2N2E5MWFjYzY4ZWM1M2Y3OGNlYTEwYTkw`
+Snapshot ID: `MCwzYmQzMTNiZjYxNjM4YjVlZDhmMTA2ODIyZGRlMDdiYTNmMjI1NTgy`

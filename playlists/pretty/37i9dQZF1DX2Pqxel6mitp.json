@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 66770,
+  "num_followers": 66834,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjMzZWJhNDZkNzZkMzBlZmNmNTUxYWIwM2M0MzRkOGY5NTI5ODM0",
+  "snapshot_id": "MCwxNThlZjY4OTQwZmE0ODU0MDA5MTIzYjJmNzQ1NGI4YzUwM2JiYjMz",
   "tracks": [
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "Man in the Ground",
+        "url": "https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF"
+      },
+      "artists": [
+        {
+          "name": "Jack Barksdale",
+          "url": "https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Man in the Ground",
+      "url": "https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Man in the Ground",
-        "url": "https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF"
-      },
-      "artists": [
-        {
-          "name": "Jack Barksdale",
-          "url": "https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Man in the Ground",
-      "url": "https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG"
       },
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Racing To A Red Light",
-        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/5IrhwzC5IkEFzERecd2wnl"
       },
       "artists": [
         {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+          "name": "Sons Of Atticus",
+          "url": "https://open.spotify.com/artist/1XWJCGMAlVXkarYONgIw7g"
         }
       ],
-      "duration_ms": 264066,
-      "name": "Racing To A Red Light",
-      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
+      "duration_ms": 174067,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/1cKGXdl6m2k9gLDDDxqqtp"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Liar",
-        "url": "https://open.spotify.com/album/5IrhwzC5IkEFzERecd2wnl"
+        "name": "Racing To A Red Light",
+        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
       },
       "artists": [
         {
-          "name": "Sons Of Atticus",
-          "url": "https://open.spotify.com/artist/1XWJCGMAlVXkarYONgIw7g"
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
         }
       ],
-      "duration_ms": 174067,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/1cKGXdl6m2k9gLDDDxqqtp"
+      "duration_ms": 264066,
+      "name": "Racing To A Red Light",
+      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Devil Got My Woman",
-        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
-      },
-      "artists": [
-        {
-          "name": "Skip James",
-          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Devil Got My Woman",
-      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Midnight Call",
         "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 288240,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Devil Got My Woman",
+        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
+      },
+      "artists": [
+        {
+          "name": "Skip James",
+          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Devil Got My Woman",
+      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Tough Times",
+      "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "Philadelphia Mississippi",
         "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
       },
@@ -1699,38 +1715,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Tough Times",
-      "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "Vanguard Visionaries",
-        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 335880,
-      "name": "Stagolee",
-      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Elemental",
         "url": "https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 247630,
       "name": "Another Weary Soul",
       "url": "https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Candy Man Blues: Essential Recordings",
+        "url": "https://open.spotify.com/album/5QrttrAFJuldYaHVPPrv0L"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 175226,
+      "name": "Candy Man Blues",
+      "url": "https://open.spotify.com/track/2zWPKlfQgU4csG9gpPsYNY"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1799,38 +1799,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Mystery Man",
-        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
-      },
-      "artists": [
-        {
-          "name": "Leon Redbone",
-          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
-        }
-      ],
-      "duration_ms": 291295,
-      "name": "T.B. Blues",
-      "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "Candy Man Blues: Essential Recordings",
-        "url": "https://open.spotify.com/album/5QrttrAFJuldYaHVPPrv0L"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 175226,
-      "name": "Candy Man Blues",
-      "url": "https://open.spotify.com/track/2zWPKlfQgU4csG9gpPsYNY"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
@@ -1843,6 +1811,22 @@
       "duration_ms": 231373,
       "name": "Dance In The Fire",
       "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Mystery Man",
+        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+      },
+      "artists": [
+        {
+          "name": "Leon Redbone",
+          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+        }
+      ],
+      "duration_ms": 291295,
+      "name": "T.B. Blues",
+      "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1903,22 +1887,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Today!",
-        "url": "https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Louis Collins",
-      "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Newbury",
         "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
       },
@@ -1935,6 +1903,22 @@
       "duration_ms": 198000,
       "name": "Newbury",
       "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 335880,
+      "name": "Stagolee",
+      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -2003,22 +1987,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Guitar Blues 101",
-        "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy & Junior Wells",
-          "url": "https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t"
-        }
-      ],
-      "duration_ms": 273573,
-      "name": "Rollin' and Tumblin'",
-      "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Dirtiest Little Darling / Railroad Bill",
         "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
       },
@@ -2035,6 +2003,38 @@
       "duration_ms": 211999,
       "name": "Dirtiest Little Darling",
       "url": "https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Guitar Blues 101",
+        "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy & Junior Wells",
+          "url": "https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t"
+        }
+      ],
+      "duration_ms": 273573,
+      "name": "Rollin' and Tumblin'",
+      "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 134093,
+      "name": "Rainy Day Blues",
+      "url": "https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7"
     }
   ],
   "unique_name": "Black Coffee Blues",

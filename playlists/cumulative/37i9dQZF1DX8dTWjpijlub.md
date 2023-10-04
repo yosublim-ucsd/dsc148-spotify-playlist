@@ -4,7 +4,7 @@
 
 > The champs are here.
 
-231 songs - 13 hr 1 min
+232 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Champions \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6MBBMgzOJjVsBuhZglGJXw) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Champions \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/0HQVecZ4yQVtueE5yEKXC9) | 2:38 | 2022-03-25 | 2022-07-13 |
 | [Championships](https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 4:21 | 2022-03-25 | 2022-04-16 |
 | [Check My Stats](https://open.spotify.com/track/2INM03hjPLZtoIqRDxtREQ) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [FLOAT](https://open.spotify.com/album/6bNAqv5n538pMwjOG7fQG7) | 2:34 | 2022-03-25 | 2022-04-20 |
-| [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 | 2022-05-06 |  |
+| [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 | 2022-05-06 | 2023-10-04 |
 | [Circo Loco](https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:56 | 2022-11-04 |  |
 | [Coming In Hot](https://open.spotify.com/track/1kVYXfxTWSftIZtmYr6yH8) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Coming In Hot](https://open.spotify.com/album/2osaP8edSKG8bVFKBoWIcV) | 3:20 | 2021-09-03 | 2022-05-04 |
 | [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2022-03-25 |  |
@@ -87,6 +87,7 @@
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2021-09-03 |  |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 | 2021-09-03 |  |
 | [Faneto](https://open.spotify.com/track/6J1SjVyNDzkZ3sF85Ndd3B) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Back From The Dead 2](https://open.spotify.com/album/53eRw37Sne9d5kCGwu0Yk0) | 3:26 | 2022-03-18 | 2022-04-29 |
+| [Faneto](https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Back from the Dead 2](https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g) | 3:26 | 2022-11-04 |  |
 | [Father Stretch My Hands Pt\. 1](https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 2:15 | 2021-09-03 |  |
 | [Floor Seats](https://open.spotify.com/track/6AomCkEOQUODCYzQwH4SWC) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Floor Seats](https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97) | 2:37 | 2021-09-03 | 2022-07-11 |
 | [FRANCHISE \(feat\. Future, Young Thug & M.I.A.\) \- REMIX](https://open.spotify.com/track/6qUabsNxudatEFedWGHoDh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [FRANCHISE \(feat\. Future, Young Thug & M.I.A.\) \[REMIX\]](https://open.spotify.com/album/6k3hqPsGKPCSyBmmvCXd7B) | 3:27 | 2021-09-03 | 2022-07-20 |

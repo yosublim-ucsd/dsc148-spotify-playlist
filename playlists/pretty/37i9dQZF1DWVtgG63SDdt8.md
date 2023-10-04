@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="spotify:artist:5DXiy58vu9lP6cW5eKDeBg">Ivan Theva</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,406 likes - 99 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,519 likes - 99 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 36 | [No Trouble](https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [No Trouble](https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB) | 2:50 |
 | 37 | [My Sin, My Sin](https://open.spotify.com/track/3fauGjRuGnMlw1630Vk9M6) | [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz), [Lindell Cooley](https://open.spotify.com/artist/2AyN6mH7F12DJod5NaexEo), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Bless My Soul](https://open.spotify.com/album/00gL2XKPmfAZYkvS2GeDAx) | 5:02 |
 | 38 | [Good News \(feat\. Todd Galberth\)](https://open.spotify.com/track/5JmHiLoaUWE3kokwxAlCzV) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [Good News \(feat\. Todd Galberth\)](https://open.spotify.com/album/7wXs3tGbYj2qzaLLT26DgB) | 9:06 |
-| 39 | [Name Above All Name \- Single Version](https://open.spotify.com/track/0e3QRktKhq0glX1HT96NI4) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Name Above All Names](https://open.spotify.com/album/4pl2xLrgY9Zq8ukesuFli8) | 6:04 |
+| 39 | [Name Above All Names \- Single Version](https://open.spotify.com/track/0e3QRktKhq0glX1HT96NI4) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Name Above All Names](https://open.spotify.com/album/4pl2xLrgY9Zq8ukesuFli8) | 6:04 |
 | 40 | [This Joy \- Live](https://open.spotify.com/track/09kMxmxcVpZwM75dYqr0Pk) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Tina Colón Williams](https://open.spotify.com/artist/2BH2hojvyoVD7WKMWU8TNl), [Joshua Miller](https://open.spotify.com/artist/74nSu95etGTImEcrNPkMQK) | [This Joy \(Live\)](https://open.spotify.com/album/3DAQM6V6AUUaqstNA38KNp) | 5:11 |
 | 41 | [Marvel](https://open.spotify.com/track/6gXz4Jn62Y1EvNXlCgpMME) | [Madison Street Worship](https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53), [Jenna Bataller](https://open.spotify.com/artist/1GgRAWu3DzMzPcTB2LFNkV) | [Marvel](https://open.spotify.com/album/558LkZaYCHbypedAXKDA8n) | 6:04 |
 | 42 | [Everything Changes \- Reimagined](https://open.spotify.com/track/2BfSWz3wEqC3b3AxicsjuK) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Shout! Reimagined \(Vol\. 3\)](https://open.spotify.com/album/5MFiGbjk0XXgHdWpP4GFVr) | 10:14 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Buy You Flowers](https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Buy You Flowers](https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa) | 2:22 |
 | 99 | [Patient & Kind](https://open.spotify.com/track/4XUHPTauQpSLCeGIzRGIR3) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Patient & Kind](https://open.spotify.com/album/1ibfHJeOfj4wBtSBgy5JuG) | 4:57 |
 
-Snapshot ID: `MCxhMGRiYzM1Yzk3ZjUxYjMyMzA3OWVlNDQzN2Y4MWMzMTQ3NmUzZWRh`
+Snapshot ID: `MCwyNWFhYzVjNzQ0MDk5MTlmOTZkZjIwZTA4MjFhYjA0ODYwMzczZTdj`

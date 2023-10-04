@@ -1,12 +1,12 @@
 {
-  "description": "Newsworthy indie of 2023: New albums from Del Water Gap, Slow Pulp, Mitski and more. ",
-  "num_followers": 2231132,
+  "description": "Newsworthy indie of 2023: New music Del Water Gap, Mac Demarco, Slow Pulp, Mitski and more. ",
+  "num_followers": 2231128,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2NlOWVhZGI1OTQ2ZDdhMjU3NTAyYjM5NjI3MWVkNmY2MTI1ZWM5",
+  "snapshot_id": "MCxmNTc4MGYxMGFlMjNlNTJlMTNiY2FjOTYwZTA0YzMxODMxMWJjOGZk",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -25,20 +25,24 @@
       "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-03 20:46:59",
       "album": {
-        "name": "NFU",
-        "url": "https://open.spotify.com/album/6e5xluOlHaZPnI1ORf483L"
+        "name": "Simply Paradise",
+        "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
       },
       "artists": [
         {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
         }
       ],
-      "duration_ms": 221800,
-      "name": "NFU",
-      "url": "https://open.spotify.com/track/1RG9wGYVd6YyrYDDUqz2LU"
+      "duration_ms": 155695,
+      "name": "Simply Paradise",
+      "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
     },
     {
       "added_at": "2023-09-22 03:15:37",
@@ -73,32 +77,20 @@
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
-      "added_at": "2023-10-02 17:23:54",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+        "name": "NFU",
+        "url": "https://open.spotify.com/album/6e5xluOlHaZPnI1ORf483L"
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
         }
       ],
-      "duration_ms": 251469,
-      "name": "Salt In The Wound",
-      "url": "https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI"
+      "duration_ms": 221800,
+      "name": "NFU",
+      "url": "https://open.spotify.com/track/1RG9wGYVd6YyrYDDUqz2LU"
     },
     {
       "added_at": "2023-08-25 05:05:21",
@@ -809,20 +801,20 @@
       "url": "https://open.spotify.com/track/1hPRiRIEeYpjIa8VFLpRab"
     },
     {
-      "added_at": "2023-09-15 04:01:00",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Lost Petals",
-        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 121695,
-      "name": "Once More",
-      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
+      "duration_ms": 146240,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
     },
     {
       "added_at": "2023-09-25 17:24:50",
@@ -845,20 +837,20 @@
       "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Mosquito",
-        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 146240,
-      "name": "Mosquito",
-      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
       "added_at": "2023-07-19 04:00:00",
@@ -929,22 +921,6 @@
       "url": "https://open.spotify.com/track/52Td1R2HmvP5gevSgUaifx"
     },
     {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "After",
-        "url": "https://open.spotify.com/album/3EW7MWPhBS399EFYTlv6y8"
-      },
-      "artists": [
-        {
-          "name": "Lady Lamb",
-          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
-        }
-      ],
-      "duration_ms": 352866,
-      "name": "Dear Arkansas Daughter",
-      "url": "https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Bubblegum",
@@ -959,6 +935,22 @@
       "duration_ms": 279133,
       "name": "Bubblegum",
       "url": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "After",
+        "url": "https://open.spotify.com/album/3EW7MWPhBS399EFYTlv6y8"
+      },
+      "artists": [
+        {
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+        }
+      ],
+      "duration_ms": 352866,
+      "name": "Dear Arkansas Daughter",
+      "url": "https://open.spotify.com/track/4vrLJML3DDi4kzSslXBUfo"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1061,22 +1053,6 @@
       "url": "https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh"
     },
     {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "All We Ever Do Is Talk",
-        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
-    },
-    {
       "added_at": "2023-09-01 02:22:07",
       "album": {
         "name": "Ice Slippin",
@@ -1091,6 +1067,22 @@
       "duration_ms": 255920,
       "name": "Ice Slippin",
       "url": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1123,6 +1115,34 @@
       "duration_ms": 179346,
       "name": "Star",
       "url": "https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC"
+    },
+    {
+      "added_at": "2023-10-02 17:23:54",
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 251469,
+      "name": "Salt In The Wound",
+      "url": "https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1177,22 +1197,6 @@
       "url": "https://open.spotify.com/track/7aprF5ADDukD1JWHXG9h9z"
     },
     {
-      "added_at": "2023-08-01 17:19:49",
-      "album": {
-        "name": "Journey To The Real World (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/3PyQnHsgeniXrpuxJ4FmEv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 87827,
-      "name": "Journey To The Real World (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5xQjhPfF0J455duKo2Bv9w"
-    },
-    {
       "added_at": "2023-07-07 00:52:15",
       "album": {
         "name": "But Not Kiss",
@@ -1207,6 +1211,22 @@
       "duration_ms": 222555,
       "name": "But Not Kiss",
       "url": "https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l"
+    },
+    {
+      "added_at": "2023-08-01 17:19:49",
+      "album": {
+        "name": "Journey To The Real World (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/3PyQnHsgeniXrpuxJ4FmEv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 87827,
+      "name": "Journey To The Real World (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5xQjhPfF0J455duKo2Bv9w"
     },
     {
       "added_at": "2023-08-17 23:44:53",
@@ -1233,22 +1253,6 @@
       "url": "https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3"
     },
     {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Red Wine Supernova",
-        "url": "https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Red Wine Supernova",
-      "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
-    },
-    {
       "added_at": "2023-08-23 23:58:36",
       "album": {
         "name": "Star b/w Heaven",
@@ -1265,6 +1269,22 @@
       "url": "https://open.spotify.com/track/4inoOfvjCBQrJKdVwfJjlT"
     },
     {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Red Wine Supernova",
+        "url": "https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
+    },
+    {
       "added_at": "2023-09-15 04:01:00",
       "album": {
         "name": "Vampire Empire / Born For Loving You",
@@ -1279,6 +1299,22 @@
       "duration_ms": 214073,
       "name": "Born For Loving You",
       "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "Broken is the man",
+      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1363,22 +1399,6 @@
       "duration_ms": 183440,
       "name": "Then It All Goes Away",
       "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "Broken is the man",
-      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
     },
     {
       "added_at": "2023-08-16 21:09:27",
@@ -1517,22 +1537,6 @@
       "url": "https://open.spotify.com/track/7xZSy1YRvAbhkKVDMJWI1W"
     },
     {
-      "added_at": "2023-09-01 02:22:07",
-      "album": {
-        "name": "Hot in NY",
-        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 118787,
-      "name": "Hot in NY",
-      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Flaws in Our Design",
@@ -1555,6 +1559,22 @@
       "duration_ms": 186795,
       "name": "Waiting Forever",
       "url": "https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c"
+    },
+    {
+      "added_at": "2023-09-01 02:22:07",
+      "album": {
+        "name": "Hot in NY",
+        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 118787,
+      "name": "Hot in NY",
+      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
     },
     {
       "added_at": "2023-09-08 18:02:09",
@@ -1637,22 +1657,6 @@
       "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
     },
     {
-      "added_at": "2023-08-01 23:37:51",
-      "album": {
-        "name": "Loading",
-        "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 284551,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
-    },
-    {
       "added_at": "2023-07-07 00:52:15",
       "album": {
         "name": "Grapes Upon the Vine",
@@ -1667,6 +1671,22 @@
       "duration_ms": 246500,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
+    },
+    {
+      "added_at": "2023-08-01 23:37:51",
+      "album": {
+        "name": "Loading",
+        "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
     },
     {
       "added_at": "2023-08-25 05:05:21",
@@ -1699,22 +1719,6 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2023-07-13 22:53:19",

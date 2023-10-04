@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 
 > Lovely, acoustic pop\. Cover: Jonah Kagen
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,320 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,387 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 57 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 |
 | 58 | [When You're Gone \- Acoustic](https://open.spotify.com/track/3KrfUt1cYSbkBpstlITPkp) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone \(Acoustic\)](https://open.spotify.com/album/3xlMYD2dXpt1EF0xQIA2lj) | 3:08 |
 | 59 | [she's all i wanna be \- Acoustic](https://open.spotify.com/track/3iJVCCW5equhyyZcxrMABz) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be \(Acoustic\)](https://open.spotify.com/album/249BQ5FeDE1TqBLFlUt9uZ) | 3:18 |
-| 60 | [Latch \- Acoustic](https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:43 |
+| 60 | [Latch \- Acoustic](https://open.spotify.com/track/1dOQwrGmaSWotCvZwD9CK3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 3:43 |
 | 61 | [Nicer \- Acoustic](https://open.spotify.com/track/5MfFCOVMkXkDC9NWklqPZ9) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Nicer \(Acoustic\)](https://open.spotify.com/album/78SoTgcb3GmcIqa46vl28P) | 2:47 |
 | 62 | [IT'S YOU \(feat\. keshi\) \- Stripped Version](https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\) \[Stripped Version\]](https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP) | 2:38 |
 | 63 | [Heaven \(Acoustic\)](https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven \(Acoustic\)](https://open.spotify.com/album/0Ju0PhEN0Z43pCKc7ah1HN) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 99 | [New Rules \- Acoustic](https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Acoustic\)](https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o) | 3:33 |
 | 100 | [You should be sad \- Acoustic](https://open.spotify.com/track/4whxuYrgqxYoqqp41iIw66) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:18 |
 
-Snapshot ID: `MCxiMDRkMWU3ZWYzOWMzY2MyYWNlNWRjOTU4N2VkMTVhM2E4OTk4NjE2`
+Snapshot ID: `MCw1NTJmMTkyM2MyNmJmMWI4YTUyZDkzZmRhNzY4YjE0MGVmYWIwYzZm`

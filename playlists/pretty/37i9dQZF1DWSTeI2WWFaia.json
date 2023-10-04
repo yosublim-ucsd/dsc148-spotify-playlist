@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Earl Sweatshirt",
-  "num_followers": 1623528,
+  "num_followers": 1623573,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzhhMDI3ODAxZGU4MDBjZDc1MTRjNjhmODJiNGI2YTVmNGE4OTEw",
+  "snapshot_id": "MCw5MjQwMjM1NTYyNzFlMzRkNTIxNzQ0ZGVkMmVlOTcxNTIzY2YwMjk5",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -939,22 +939,26 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Victor",
-        "url": "https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH"
+        "name": "Soul Assassins 3: Death Valley",
+        "url": "https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD"
       },
       "artists": [
         {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
         },
         {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         }
       ],
-      "duration_ms": 196647,
-      "name": "$outhside Story ft. Common",
-      "url": "https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs"
+      "duration_ms": 114625,
+      "name": "Sicilian Gold",
+      "url": "https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -987,26 +991,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Soul Assassins 3: Death Valley",
-        "url": "https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD"
+        "name": "Victor",
+        "url": "https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH"
       },
       "artists": [
         {
-          "name": "DJ Muggs",
-          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         }
       ],
-      "duration_ms": 114625,
-      "name": "Sicilian Gold",
-      "url": "https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma"
+      "duration_ms": 196647,
+      "name": "$outhside Story ft. Common",
+      "url": "https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs"
     },
     {
       "added_at": "2023-09-29 04:00:00",

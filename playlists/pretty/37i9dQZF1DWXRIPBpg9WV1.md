@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,087 likes - 133 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,164 likes - 133 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 132 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 |
 | 133 | [True colors](https://open.spotify.com/track/3bVwh1aRQAnMyrNDI9sjW0) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [True colors](https://open.spotify.com/album/13QfkW5FCtLmYBUq9Izmwr) | 3:38 |
 
-Snapshot ID: `MCxkODJkYTRmMDE3OWM5ODZhNjRhZWUxNjAzYWY3ZjkzZWY2MWM1NzM1`
+Snapshot ID: `MCxiOTEwODBmOGI0N2EzZjAxMTNmOWIxYzQ0YTNiYzUxNzFlNmJjM2Ux`

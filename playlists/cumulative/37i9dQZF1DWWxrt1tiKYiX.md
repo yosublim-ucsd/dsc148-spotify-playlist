@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Jonah Kagen
 
-214 songs - 11 hr 49 min
+215 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Kiss Me \- Guitar](https://open.spotify.com/track/3Sf2bgJlNZQwkv3VpoT3Zp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me \(Guitar\)](https://open.spotify.com/album/64YI1ILJJXcVpgJfJcLbPL) | 3:38 | 2022-10-08 | 2022-10-16 |
 | [Kiss Me \- Guitar](https://open.spotify.com/track/3bNHiYwoKVcflW2tnzQG45) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me](https://open.spotify.com/album/1FM4P2J86LgXgLL7Amw6qQ) | 3:38 | 2022-10-14 | 2022-11-16 |
 | [Lady Like](https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:26 | 2022-01-28 | 2023-04-01 |
-| [Latch \- Acoustic](https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:43 | 2022-01-28 |  |
+| [Latch \- Acoustic](https://open.spotify.com/track/1dOQwrGmaSWotCvZwD9CK3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 3:43 | 2023-09-29 |  |
+| [Latch \- Acoustic](https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:43 | 2022-01-28 | 2023-10-04 |
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 | 2023-03-31 |  |
 | [Let Somebody Go \- Piano Version](https://open.spotify.com/track/2zVeRtqrrRXpCizKlywvvr) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Let Somebody Go \(Piano Version\)](https://open.spotify.com/album/1mbwiDXEr8l6mK7o76dqyu) | 4:09 | 2022-03-18 | 2023-07-01 |
 | [Lie To Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/47DHoEPxnSkT4f626qo5Mw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Spotify Singles](https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv) | 2:40 | 2022-01-28 | 2023-06-10 |

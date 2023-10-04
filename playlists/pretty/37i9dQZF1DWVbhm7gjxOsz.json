@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 38773,
+  "num_followers": 38959,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWRjMWNlNTA1NzNiM2U1NDlhYzRmY2UyYTFkOTE5MzQ0ZTcxOGZk",
+  "snapshot_id": "MCxmNTZlNDQ4YTBjNDBmZjhmZDc5MGM1YTQwZDI0ZTFmNTA3OWNjNmQy",
   "tracks": [
     {
       "added_at": "2023-08-29 23:44:25",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "La La Means I Love You",
         "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 200906,
       "name": "La-La Means I Love You",
       "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Keeper Of The Castle",
-        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Ain't No Woman (Like The One I've Got)",
-      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Oogum Boogum",
         "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 163302,
       "name": "I Like The Way You Love Me",
       "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Keeper Of The Castle",
+        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Ain't No Woman (Like The One I've Got)",
+      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
       "artists": [
         {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
         }
       ],
-      "duration_ms": 179426,
-      "name": "Earth Angel (Will You Be Mine)",
-      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
+      "duration_ms": 141329,
+      "name": "Gimme Little Sign",
+      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -563,6 +563,22 @@
       "duration_ms": 184634,
       "name": "I Love You for All Seasons",
       "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "The Best Of The Penguins",
+        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Earth Angel (Will You Be Mine)",
+      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -599,6 +615,22 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
         "name": "Sings Just One Look And Other Memorable Selections",
         "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
       },
@@ -611,22 +643,6 @@
       "duration_ms": 151906,
       "name": "Just One Look",
       "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 141329,
-      "name": "Gimme Little Sign",
-      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -679,22 +695,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "OOO Baby Baby: The Anthlogy",
-        "url": "https://open.spotify.com/album/4BIB3esNYszk2DL0E54Cy4"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "You've Really Got A Hold On Me - Alternate Stereo Mix",
-      "url": "https://open.spotify.com/track/7ifcJ5DDytGf8aITxmgsLN"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Yes I'm Ready",
         "url": "https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj"
       },
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
+        "name": "OOO Baby Baby: The Anthlogy",
+        "url": "https://open.spotify.com/album/4BIB3esNYszk2DL0E54Cy4"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "You've Really Got A Hold On Me - Alternate Stereo Mix",
+      "url": "https://open.spotify.com/track/7ifcJ5DDytGf8aITxmgsLN"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
         "name": "The Delfonics",
         "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 201066,
       "name": "Didn't I (Blow Your Mind This Time)",
       "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 128546,
+      "name": "Baby You Got It",
+      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
         "name": "The Skyliners",
         "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 377106,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 128546,
-      "name": "Baby You Got It",
-      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "You Beat Me To The Punch",
-      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Cowboys to Girls",
         "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 117133,
       "name": "Sad Girl",
       "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "You Beat Me To The Punch",
+      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
       "artists": [
         {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 159080,
-      "name": "Cowboys to Girls",
-      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
+      "duration_ms": 147466,
+      "name": "The One Who Really Loves You - Single Version",
+      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
       "artists": [
         {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 147466,
-      "name": "The One Who Really Loves You - Single Version",
-      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
+      "duration_ms": 159080,
+      "name": "Cowboys to Girls",
+      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Grazin'",
-        "url": "https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw"
-      },
-      "artists": [
-        {
-          "name": "The Friends Of Distinction",
-          "url": "https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu"
-        }
-      ],
-      "duration_ms": 252280,
-      "name": "Going In Circles",
-      "url": "https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Searching For My Love",
         "url": "https://open.spotify.com/album/7lpZkRX58TVPOyRbCFiRjV"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 150533,
       "name": "Searching For My Love",
       "url": "https://open.spotify.com/track/6EtOgpD6m1fBzcnckUAEfW"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Grazin'",
+        "url": "https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw"
+      },
+      "artists": [
+        {
+          "name": "The Friends Of Distinction",
+          "url": "https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu"
+        }
+      ],
+      "duration_ms": 252280,
+      "name": "Going In Circles",
+      "url": "https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Love On A Two-Way Street (US Release)",
-        "url": "https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9"
-      },
-      "artists": [
-        {
-          "name": "The Moments",
-          "url": "https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Love on a Two Way Street",
-      "url": "https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Tierra Greatest Hits",
         "url": "https://open.spotify.com/album/3jm43eYfDKTkJoR9uZp9gl"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 255203,
       "name": "Together",
       "url": "https://open.spotify.com/track/0lwHRyx3Sxl07UoVp2dcUM"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Love On A Two-Way Street (US Release)",
+        "url": "https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9"
+      },
+      "artists": [
+        {
+          "name": "The Moments",
+          "url": "https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Love on a Two Way Street",
+      "url": "https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI"
     },
     {
       "added_at": "2023-08-29 23:44:25",

@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-224 songs - 13 hr 46 min
+226 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [filter](https://open.spotify.com/track/5iZkaBAyiwCL3UrX3kjbyP) | [AKIRA](https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv), [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [filter](https://open.spotify.com/album/7eGTfApTKJKXhCqcpSqBxz) | 3:47 | 2022-11-15 | 2022-12-14 |
 | [filter](https://open.spotify.com/track/6Eru2VENyVOoDeVAmH9kiL) | [AKIRA](https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv), [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [filter](https://open.spotify.com/album/6lKc9qXFV4yFPEtG8tYABC) | 3:47 | 2022-11-15 | 2022-11-17 |
 | [First Love](https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [First Love](https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp) | 4:18 | 2023-01-25 | 2023-04-05 |
+| [flash](https://open.spotify.com/track/4K6pJPtAgURhU1GGdjuHJa) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [I just wanna dance with you\- period](https://open.spotify.com/album/50sOlknlpkacgE0gSXrQQS) | 3:52 | 2023-10-03 |  |
 | [Flower](https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [20 \(Complete Mixtape\)](https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD) | 3:28 | 2022-10-20 | 2023-03-25 |
 | [friday](https://open.spotify.com/track/1kElYu8m1PcJ7DTTVv0d2u) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [friday](https://open.spotify.com/album/5aRjH7I1J7EQwyInITKUt2) | 2:49 | 2022-12-22 | 2023-01-18 |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-10-20 |  |
@@ -92,7 +93,7 @@
 | [Ollie\(巡礼する季語\)](https://open.spotify.com/track/1hSlcXbPexuJh7ibsOiMA8) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [巡礼する季語](https://open.spotify.com/album/1uxl2dnJ0nJdJV2q0Oeov0) | 3:54 | 2023-01-31 | 2023-03-08 |
 | [One](https://open.spotify.com/track/7sT48E0PEPQy5cd4Nwfexs) | [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [喧騒幻想](https://open.spotify.com/album/55jIuQAwbXmjlzMiQC7yQN) | 3:01 | 2023-01-31 | 2023-03-14 |
 | [Orange \(feat\. MC\. waka\)](https://open.spotify.com/track/1h1X0s5L9PwU5FhdjH77s1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [MC\. waka](https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 2:46 | 2023-09-07 | 2023-09-09 |
-| [Orange \(feat\. MC\. waka\)](https://open.spotify.com/track/6GVW9TSNhzllTEWMJ4HneI) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [MC\. waka](https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 2:46 | 2023-09-08 |  |
+| [Orange \(feat\. MC\. waka\)](https://open.spotify.com/track/6GVW9TSNhzllTEWMJ4HneI) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [MC\. waka](https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 2:46 | 2023-09-08 | 2023-10-04 |
 | [Phase \- Extended Version](https://open.spotify.com/track/08rXHo15Jw4zsKjj9p2pbM) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [Phase \(Extended Version\)](https://open.spotify.com/album/5Ymjmii57wYbrbYXX4kuBL) | 4:43 | 2023-01-26 | 2023-04-05 |
 | [Picnic In The Park](https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [Picnic In The Park](https://open.spotify.com/album/7vGvMZJ2EcjqALGYxRmAuB) | 2:57 | 2022-10-20 | 2022-12-14 |
 | [Re:Deadstock](https://open.spotify.com/track/1yeVYPhxJBdeSoUFVf0gkb) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Re:Deadstock](https://open.spotify.com/album/2cDL3EX58mSFRisxcNRnwP) | 2:23 | 2022-10-20 | 2023-07-07 |
@@ -177,10 +178,11 @@
 | [ネオンライト](https://open.spotify.com/track/781vNvG3W7WiPogwzTXcXN) | [vuefloor](https://open.spotify.com/artist/4ut8eVBaW8x99Ibio3pfVe), [flasstain](https://open.spotify.com/artist/2qFyNfuQKunvAjpdGAF8ds) | [ネオンライト](https://open.spotify.com/album/5J32C1Lw9j23n0VO2YmycW) | 3:52 | 2022-11-23 | 2023-02-01 |
 | [ネオンライトに呼ばれて](https://open.spotify.com/track/5lsAPbv57oSWetUqP8OKq4) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [ネオンライトに呼ばれて](https://open.spotify.com/album/203EvrZNm2ngyllHX7PqHQ) | 3:25 | 2022-11-23 | 2022-11-24 |
 | [ブラウニー](https://open.spotify.com/track/2R6xQVJCCk1u8rPrxD5SmC) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブラウニー](https://open.spotify.com/album/5lDjj72VfeaRqvKJ3UYZGG) | 3:30 | 2023-03-14 | 2023-05-09 |
+| [メロウ](https://open.spotify.com/track/5Q5r5pGb9l0maFA8RPQW8x) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [メロウ](https://open.spotify.com/album/61fCCjJSfGbgL3yAbES3hD) | 3:26 | 2023-10-03 |  |
 | [リンジュー・ラヴ](https://open.spotify.com/track/4InoeTKoMnvrcKOAuvbUeT) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [wheel of life](https://open.spotify.com/album/23V4MjO0LO5wMfDg0Al29s) | 3:06 | 2023-03-25 | 2023-04-12 |
 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 | 2023-09-19 |  |
 | [人生はラブコメじゃない](https://open.spotify.com/track/33c9uDfAm4c3ZRHdgF8Tap) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [人生はラブコメじゃない](https://open.spotify.com/album/4PeufsKG3OqKWQzE9DZUKL) | 2:30 | 2023-08-29 | 2023-08-31 |
-| [人生はラブコメじゃない](https://open.spotify.com/track/4Elw59NCfkX7GU4M3u4Csb) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [人生はラブコメじゃない](https://open.spotify.com/album/4oYrPsYTM0FSHZyGhJKrSM) | 2:30 | 2023-08-29 |  |
+| [人生はラブコメじゃない](https://open.spotify.com/track/4Elw59NCfkX7GU4M3u4Csb) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [人生はラブコメじゃない](https://open.spotify.com/album/4oYrPsYTM0FSHZyGhJKrSM) | 2:30 | 2023-08-29 | 2023-10-04 |
 | [光を浴びて](https://open.spotify.com/track/6w8teS79FT2JV8XV4EgZDj) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [光を浴びて](https://open.spotify.com/album/2gmerqerD6iqVX4RgzDWGt) | 3:45 | 2023-09-26 |  |
 | [光合成](https://open.spotify.com/track/3X32CwdqTR8TTfWwehsZfZ) | [QUMO](https://open.spotify.com/artist/10y7aB4LWIrk6syMVdQdI1) | [光合成](https://open.spotify.com/album/2S70Ij7aq8sm2i7rbkrj6h) | 4:07 | 2023-03-02 | 2023-03-14 |
 | [前夜](https://open.spotify.com/track/57M5gx8YCxENPqSgNFoi8c) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [余白にいたら、](https://open.spotify.com/album/7FRSMhZwqwmU1kmmqyljCW) | 2:49 | 2023-03-07 | 2023-03-25 |

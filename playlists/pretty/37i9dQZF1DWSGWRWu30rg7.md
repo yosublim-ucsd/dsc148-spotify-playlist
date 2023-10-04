@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Nadzira Shafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,441 likes - 91 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,446 likes - 91 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 6 | [00.00](https://open.spotify.com/track/6C2yfj1lwlN3UDvyCLidSw) | [SEBY](https://open.spotify.com/artist/2gyoZB0qaowphecujZAzTd) | [00.00](https://open.spotify.com/album/6W4nShepkoTJyzpmeYx4ZN) | 3:10 |
 | 7 | [It ain't you](https://open.spotify.com/track/0Ne0t0utWCqFd9uQkHGvrU) | [Sabrina Soetomo](https://open.spotify.com/artist/3EveEev3WbVFqsjRDoeJAH) | [It ain't you](https://open.spotify.com/album/28vzGPEmuL1p0Zstvkb11w) | 3:37 |
 | 8 | [Drama Queen](https://open.spotify.com/track/0AuWDQx1YsmhVqub4XoC83) | [Harnan Gunsa](https://open.spotify.com/artist/3AjROpz3gjl1LLWXiToPEM) | [Drama Queen](https://open.spotify.com/album/6Ni5a5uoO3jpPEkAuvQOfq) | 2:59 |
-| 9 | [go home without me](https://open.spotify.com/track/3TPtcOqd5uc7zKUDImjuCv) | [Angie Krisnawan](https://open.spotify.com/artist/4XuzqDiipEzAykvZRqpYiW) | [go home without me](https://open.spotify.com/album/4G6uIwu30pMbmW0Wp2u4sw) | 4:19 |
+| 9 | [go home without me](https://open.spotify.com/track/3TPtcOqd5uc7zKUDImjuCv) | [Angie Krisnawan](https://open.spotify.com/artist/0pZy95MXIJ3Ui3YgMti7nQ) | [go home without me](https://open.spotify.com/album/4G6uIwu30pMbmW0Wp2u4sw) | 4:19 |
 | 10 | [I Just Wanna Dance With You](https://open.spotify.com/track/3rVvzQrxOnoJdGJ87WLDrr) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [I Just Wanna Dance With You](https://open.spotify.com/album/1w49WZhXvxtMKydYxYLgjB) | 3:47 |
 | 11 | [The Chorus Superstar](https://open.spotify.com/track/66pXN7akoC2e9RrPOSjBWc) | [Space Cubs](https://open.spotify.com/artist/3JOcvznPQ58nkKmyZ31ex0) | [The Chorus Superstar](https://open.spotify.com/album/2BnDqpwaFMaO1wOl5I7pv0) | 3:32 |
 | 12 | [Warna Abadi](https://open.spotify.com/track/3kNStMhbYblNQGsGoymlpj) | [Fourtune](https://open.spotify.com/artist/0MLJ6wDKP8xAPYeXjisC7k) | [Warna Abadi](https://open.spotify.com/album/3jjpo0OeMpfRNYv5Q9Navc) | 3:42 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 90 | [Gerdalia](https://open.spotify.com/track/4NT8vnGvumlDKCc73GdnNF) | [Niga Gunawan](https://open.spotify.com/artist/1nAbYFUpfK24120Ig3EhiI) | [Gerdalia](https://open.spotify.com/album/4IryBjKtK6wNqvr0WIDWRg) | 3:33 |
 | 91 | [Smile on You](https://open.spotify.com/track/1TdWThcKzP9aoGAacnbqWg) | [The Jasmates](https://open.spotify.com/artist/1aOU8t8z49ZQmt1ZO4Gf0U) | [Smile on You](https://open.spotify.com/album/313JE1LrYa4iIKoqDYQfbx) | 3:11 |
 
-Snapshot ID: `MCw0NTVmZDE4ZTQ3YzEzYTBkZjI3YTRiYjgyYjk0M2U1MjgzZDNmM2I4`
+Snapshot ID: `MCxhODA5MmRhYjJlMmE5ODc2NTdmZGE2ZjcwOTQyN2ZiMjIxZjIyYzEy`

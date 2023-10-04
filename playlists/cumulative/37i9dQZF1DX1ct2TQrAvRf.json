@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hip-Hop from India. Cover- DG Immortals & Elvish Yadav",
+  "description": "India Ka Rap Scene. Cover- DG Immortals & Elvish Yadav",
   "name": "RAP 91",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 132480,
       "name": "170CM from Think Indie",
       "url": "https://open.spotify.com/track/7vIVeEZCmE0UdfIIDTC9Ho"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 518570,
       "name": "Indian Hip Hop Cypher",
       "url": "https://open.spotify.com/track/0xwPtXvVX3JWs508EUfe5t"
@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 246000,
       "name": "Malabari Banger",
       "url": "https://open.spotify.com/track/0aXnTU90v6G1QVlimy0Kw8"
@@ -1478,6 +1478,28 @@
       "duration_ms": 200000,
       "name": "Manavaalan Thug - From \"Thallumaala\"",
       "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
+    },
+    {
+      "album": {
+        "name": "Mashooka",
+        "url": "https://open.spotify.com/album/5YIfNbv6RRMIdjP2hvF1Nc"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "Mashooka",
+      "url": "https://open.spotify.com/track/78iOfBb1DWPhKzihpDGZf5"
     },
     {
       "album": {
@@ -2034,7 +2056,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 164666,
       "name": "Streetwise",
       "url": "https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC"
@@ -2166,6 +2188,32 @@
       "duration_ms": 328421,
       "name": "WOH",
       "url": "https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN"
+    },
+    {
+      "album": {
+        "name": "Yadav Brand 2",
+        "url": "https://open.spotify.com/album/3pRiXGIvpgNrMQmK6AgJ3c"
+      },
+      "artists": [
+        {
+          "name": "Sunny Yaduvanshi",
+          "url": "https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU"
+        },
+        {
+          "name": "AK Rok",
+          "url": "https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY"
+        },
+        {
+          "name": "Nitesh Ujoli",
+          "url": "https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174252,
+      "name": "Yadav Brand 2",
+      "url": "https://open.spotify.com/track/4JvziZ2kQsbzfvRQtpYfmJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf"

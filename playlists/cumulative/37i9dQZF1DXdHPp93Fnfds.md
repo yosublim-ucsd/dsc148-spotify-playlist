@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-558 songs - 1 day 7 hr 48 min
+559 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Cortaste toda la luz](https://open.spotify.com/track/6sEkyi71nwR0Z7UC9OLWTg) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Cortaste toda la luz](https://open.spotify.com/album/5lbpiRYTFik8UBu7UKRI9E) | 2:58 | 2023-07-14 |  |
 | [Cosas Moradas](https://open.spotify.com/track/4vVC4ABAKzmkCalefOogIH) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ya Dormiré Cuando Me Muera](https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w) | 2:39 | 2022-01-21 | 2023-06-10 |
 | [Costa Brava](https://open.spotify.com/track/1v8BGid2yEnnb7rBEf1qoc) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Sector Apagado](https://open.spotify.com/album/5M1wEgLPmIX6d15YolKaie) | 2:54 | 2022-01-21 | 2022-07-13 |
-| [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 | 2023-06-30 |  |
+| [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 | 2023-06-30 | 2023-10-04 |
 | [Cuando](https://open.spotify.com/track/1tvQDFpAtWhBOJYf5Dvt6j) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:10 | 2022-01-21 | 2022-10-13 |
 | [Cuando](https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:10 | 2022-12-09 | 2023-04-16 |
 | [Cuando Sea Abuela](https://open.spotify.com/track/1m0cRuKnkpkfX68eF7fir0) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Historias para Cuando Sea Abuela](https://open.spotify.com/album/0LtK9bUcKNtbu0iwZBgyGU) | 4:17 | 2022-01-21 | 2022-07-17 |
@@ -169,7 +169,7 @@
 | [El Gobierno de China](https://open.spotify.com/track/2ZTvWgdCPbxn2G5E0Myrog) | [Pantocrator](https://open.spotify.com/artist/0EeQNIqYTjakHI2O81gAa3) | [El Gobierno de China](https://open.spotify.com/album/0Ar9uTqPd3flcz9frcMl0b) | 2:22 | 2022-02-11 | 2022-07-20 |
 | [El Guinness](https://open.spotify.com/track/3EMCNAmj4UgRmVEs0jbfM2) | [Amor Elefante](https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC) | [Billetes Falsos](https://open.spotify.com/album/1iYnmFBoM9eAazMvc928sE) | 2:38 | 2022-01-21 | 2022-07-26 |
 | [el humo](https://open.spotify.com/track/4jk6AWr2Xly8i9GJBaM6BR) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [el humo](https://open.spotify.com/album/3wxJafS7k8IdofVpP4yXFN) | 4:06 | 2022-04-01 | 2022-07-23 |
-| [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 | 2022-10-28 | 2022-11-29 |
+| [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 | 2022-10-28 |  |
 | [El Monstruo](https://open.spotify.com/track/4it95zN4UiXA3FLZEgYMSU) | [Sol Marianela](https://open.spotify.com/artist/1FxMAPKKLTQuK0hYvLNWfD) | [El Monstruo](https://open.spotify.com/album/7bIm8rt2u47dnEh0rweBy7) | 3:13 | 2022-04-01 | 2022-05-12 |
 | [El Olvido](https://open.spotify.com/track/06DDZtXgYJodWnjmrFVuF8) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [El Olvido](https://open.spotify.com/album/2K7MOl9u19XcO0cNVaRAWS) | 3:24 | 2022-01-21 | 2022-04-19 |
 | [El Pañuelo De Estrella](https://open.spotify.com/track/1Ql5w1SmnLowl0DggSdAIy) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu), [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Aurora Y Enrique](https://open.spotify.com/album/24pgKDb53Li1K0LIN4CtIl) | 2:31 | 2022-01-21 | 2022-07-25 |
@@ -403,6 +403,7 @@
 | [Piel](https://open.spotify.com/track/7EID59sXiSofGYYXaxc79G) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [Piel](https://open.spotify.com/album/0cSCkHU6ZITsc0s5C1ExUZ) | 2:58 | 2022-02-11 | 2022-07-25 |
 | [Piel](https://open.spotify.com/track/4fCRaUeln3PPUGAqWuCY7A) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Franco Banda](https://open.spotify.com/artist/2bhMtu8Fua2BNTvwbjtJjH) | [Piel](https://open.spotify.com/album/29OY30x1zP4a0zKSfCvu9f) | 3:20 | 2022-01-21 | 2022-07-08 |
 | [Pirámides](https://open.spotify.com/track/3fyL3KXUbseLdAQsXwTdsK) | [Romina Pechin](https://open.spotify.com/artist/7fzUQFFjRbuTNthKsJNEpk) | [Pirámides](https://open.spotify.com/album/4JiLb3OMls1aghneiuHwEE) | 3:59 | 2022-03-04 | 2022-06-29 |
+| [Pisteando](https://open.spotify.com/track/0kRDY2gDmv3aCKd7AuLNnt) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:13 | 2023-09-22 |  |
 | [Pisteando](https://open.spotify.com/track/5P7mZRTMySmENUDsF5XkYB) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Pisteando](https://open.spotify.com/album/2Oexya8VXIAXVHiuVcDXvE) | 2:13 | 2022-01-21 | 2022-07-29 |
 | [Playa](https://open.spotify.com/track/3D7dTIOjSEeCeXkhc1vyMF) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Playa](https://open.spotify.com/album/1pAyDmvq2KzwzuNqVJszFJ) | 2:55 | 2022-01-21 | 2022-07-20 |
 | [poco a poquito](https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [poco a poquito](https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b) | 2:48 | 2023-08-04 |  |
@@ -447,7 +448,7 @@
 | [romantiklov <3](https://open.spotify.com/track/6eNU9r9JCEjmodmoQo8lwf) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [romantiklov <3](https://open.spotify.com/album/2rkMB180JWhLwRXBHHmOlj) | 3:06 | 2023-08-04 |  |
 | [Rothmans](https://open.spotify.com/track/1mhq1CwMSZD6hITfzm6AzE) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:11 | 2023-05-26 | 2023-08-12 |
 | [Rothmans](https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7) | 3:11 | 2023-08-18 |  |
-| [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 | 2022-11-28 |  |
+| [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 | 2022-11-28 | 2023-10-04 |
 | [Rush](https://open.spotify.com/track/0XSKYcnq53sJMPBH3pp8wL) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Rush](https://open.spotify.com/album/58vRiAOoBIOR091LSSvJau) | 3:15 | 2022-01-14 | 2022-07-29 |
 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 | 2022-07-15 | 2022-11-06 |
 | [San Camilo](https://open.spotify.com/track/311A2rODtSCuXld6Uyj4TQ) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Recordar/ Volver a pasar](https://open.spotify.com/album/1QLUvdWhyHNrIN2I3Jc9ZR) | 4:22 | 2023-07-07 | 2023-09-02 |

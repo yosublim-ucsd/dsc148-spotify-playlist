@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > Deephouse in the mix for your delight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,487 likes - 100 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,518 likes - 100 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 99 | [Learn to Love](https://open.spotify.com/track/6tyREpqBKbEfkUeYTlH4nX) | [Vesin](https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5) | [Learn to Love](https://open.spotify.com/album/7kI2zOz0wrsF9CZsbP0KD9) | 5:02 |
 | 100 | [Lifted](https://open.spotify.com/track/2UKGefVmPDeAvGrNvTbvRl) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Holy Sun](https://open.spotify.com/album/0Rss280gMlEq7MuYgOlCry) | 6:56 |
 
-Snapshot ID: `MCwzODM3NGY3NTRmMmI2M2ZmODEzN2ViODE3NDhjYWMwMzNhMjk4ZjA3`
+Snapshot ID: `MCxhYWNlMjM2OGVlODhmNjg2Mzk1YjM1Zjk5NjU1MGNmNjUzYjg5MTA2`

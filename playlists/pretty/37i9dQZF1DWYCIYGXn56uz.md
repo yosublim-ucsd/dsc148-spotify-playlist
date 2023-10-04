@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: ARIETE
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,888 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,900 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 27 | [ARANCIATA](https://open.spotify.com/track/4X24I8ugXKgRgdtC9LzmlP) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [ARANCIATA](https://open.spotify.com/album/0I9Kc8iR7JAf52TITuMyhK) | 3:14 |
 | 28 | [America](https://open.spotify.com/track/02EpIKMNhihIl6u2j7uK1I) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [Black Mood 2](https://open.spotify.com/album/0w7PADq4AfddY8glHNZN5M) | 2:39 |
 | 29 | [Anni 70](https://open.spotify.com/track/4gExrhPC8TKtMqbO6MrjAP) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Anni 70](https://open.spotify.com/album/3CH6Le8XzQhnzWMQBELzmE) | 2:27 |
-| 30 | [RUMORE](https://open.spotify.com/track/7fxAFWmMsl86C60gW5yooG) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [RUMORE](https://open.spotify.com/album/6Lo4MzfKF6e0mwnEGtdGgd) | 2:39 |
+| 30 | [RUMORE](https://open.spotify.com/track/21ue7kSKtFBqGQNV23uGW8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:39 |
 | 31 | [LOVE SONG](https://open.spotify.com/track/5OlOi3sB9hMntMhg6N7ERn) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [LOVE SONG](https://open.spotify.com/album/24RwKTp7zQqYhOTUMkkUt1) | 3:11 |
 | 32 | [DORMIVEGLIA](https://open.spotify.com/track/2NfilNriFp7SJjOF6n6N3L) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:54 |
 | 33 | [Part Of Me \(with Matteo Romano\)](https://open.spotify.com/track/0yz540gbpL0uOrKGGzQlrZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Part Of Me \(with Matteo Romano\)](https://open.spotify.com/album/7xK11JFoSuQ1I6pqYEITzJ) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 |
 | 50 | [Mi Pensi Ancora](https://open.spotify.com/track/7GqoXNz3AIKj48FbUcCABR) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Mi Pensi Ancora](https://open.spotify.com/album/3WVYb9E0xwiAK6ouuXEw9g) | 2:44 |
 
-Snapshot ID: `MCxjNjAzNTM2MzlhZjgzNGNjMDU5ZmM0Mzc4MTk5YTNkODJmODg4ZGM1`
+Snapshot ID: `MCwwN2MxZTlhMDU4N2FiMGY5YjkzMjcwM2JkZGYwZWJjN2ZhNmYzYjY5`

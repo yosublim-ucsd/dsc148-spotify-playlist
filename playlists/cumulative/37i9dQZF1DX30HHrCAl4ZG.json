@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 200546,
       "name": "Body",
       "url": "https://open.spotify.com/track/2D3Kia865pJnopFMJtSwRV"
@@ -11855,6 +11855,28 @@
     },
     {
       "album": {
+        "name": "Disco Ball Soul",
+        "url": "https://open.spotify.com/album/0yS9yFe7vcaFNz34dUrrIB"
+      },
+      "artists": [
+        {
+          "name": "Rebounder",
+          "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
+        },
+        {
+          "name": "Purr",
+          "url": "https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159954,
+      "name": "Library",
+      "url": "https://open.spotify.com/track/2nbL5N84ccUC3FDnw1cbsM"
+    },
+    {
+      "album": {
         "name": "Library",
         "url": "https://open.spotify.com/album/2LuHMMKawbuifCE7p1HZKv"
       },
@@ -11870,7 +11892,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 159954,
       "name": "Library",
       "url": "https://open.spotify.com/track/7dxjxc3cL7fO2zFPdVZdwx"

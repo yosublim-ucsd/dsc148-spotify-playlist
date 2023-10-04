@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21475,
+  "num_followers": 21481,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzEwMTNmMzgzOWZmNTkyNWZhYWMxMTcyMGRhY2NjM2FhOGU1NDEx",
+  "snapshot_id": "MCxiNWM1YWM0YTdkNThiNzhhZmUzZWUxOGE1MmVhYjc4ODgzM2NkY2Fk",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Delicadeza",
-      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "AZUL\u00c6",
         "url": "https://open.spotify.com/album/1h7GakzHHoyEYyWhvlmiWo"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 200869,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Corte Superior",
-        "url": "https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG"
-      },
-      "artists": [
-        {
-          "name": "Pablo Trujillo",
-          "url": "https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Corte Superior",
-      "url": "https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Miedo, Amor y Vida - EP",
         "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 216857,
       "name": "La Oscuridad",
       "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Corte Superior",
+        "url": "https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG"
+      },
+      "artists": [
+        {
+          "name": "Pablo Trujillo",
+          "url": "https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Corte Superior",
+      "url": "https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ"
     },
     {
       "added_at": "2020-12-01 05:03:00",

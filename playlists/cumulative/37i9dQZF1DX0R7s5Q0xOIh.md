@@ -4,7 +4,7 @@
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-155 songs - 10 hr 21 min
+156 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Green Hair \(Japa Girl\)](https://open.spotify.com/track/5YVEdQM6nXdvhvA1sObnoy) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [O Charada Brasileiro](https://open.spotify.com/album/4JVAV3n0URnw1dgGIwkk7P) | 3:53 | 2023-08-16 |  |
 | [Halls na Língua](https://open.spotify.com/track/4pWsXhLUdtBKlw9npIXZAl) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Halls na Língua](https://open.spotify.com/album/21gJooS1uexxzD1qkDcw09) | 3:12 | 2023-09-29 |  |
 | [Hatred Inherit](https://open.spotify.com/track/0NV5S5z4A65fpiJOzHFoFO) | [Krisiun](https://open.spotify.com/artist/3pzAW9xs16rX8fukH8wV6N) | [Conquerors of Armageddon](https://open.spotify.com/album/7AQftnyMjAOPXay4fohLPO) | 5:33 | 2023-08-23 |  |
-| [Here I Am](https://open.spotify.com/track/67yGTWcR72BZvsrSS2dHST) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Avery Storm](https://open.spotify.com/artist/79OSA519ScnPY0MVDpu8ZV) | [Trilla](https://open.spotify.com/album/3DIGh7QbQEwtLCJ07P4XGa) | 3:29 | 2023-06-14 |  |
+| [Here I Am](https://open.spotify.com/track/55E78MhBGQ4IPZcQ3R5BAH) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Avery Storm](https://open.spotify.com/artist/79OSA519ScnPY0MVDpu8ZV) | [Trilla](https://open.spotify.com/album/4p64nRgh9PnMvojkk2Xj4t) | 3:29 | 2023-06-14 |  |
+| [Here I Am](https://open.spotify.com/track/67yGTWcR72BZvsrSS2dHST) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Avery Storm](https://open.spotify.com/artist/79OSA519ScnPY0MVDpu8ZV) | [Trilla](https://open.spotify.com/album/3DIGh7QbQEwtLCJ07P4XGa) | 3:29 | 2023-06-14 | 2023-10-04 |
 | [História de Verão](https://open.spotify.com/track/6F1kCUTjvdALqB6p5VkqwR) | [Forfun](https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g) | [Teoria Dinâmica Gastativa](https://open.spotify.com/album/2qK5koEmC0NIKohGdGeqX6) | 2:58 | 2023-08-02 |  |
 | [Hoje De Noite](https://open.spotify.com/track/2GHBe8pqsAp0CE3sPRhSO9) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Preço Curto, Prazo Longo](https://open.spotify.com/album/2hLNxoJZ5kZoBEX0XGBRNu) | 2:40 | 2023-06-21 |  |
 | [Hoje Não](https://open.spotify.com/track/2g4O6uYBRn8c6HbXc2yEd6) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Histórias da Minha Área](https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k) | 3:40 | 2023-06-21 |  |

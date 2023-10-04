@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNjU5NDAsMDAwMDAwMDAxNjVlZjdhNGM1MzJjNjc1ZTE0YWM3ZWU0MjIwNDBkMg==",
+  "snapshot_id": "MjgyNjU5NDAsMDAwMDAwMDA1NjMwYjM3MDA1NjBjYjE1NzZhZjAyZTE5YTFjNTJjZQ==",
   "tracks": [
     {
       "added_at": "2023-09-29 03:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Crossing Over (2023 Remaster)",
-        "url": "https://open.spotify.com/album/2VkvsbyNjm1KP5GIYKtSUn"
+        "name": "El Hilo del Tiempo",
+        "url": "https://open.spotify.com/album/4wGsXVkJVkyl6XttneSkyg"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Iv\u00e1n Donalson",
+          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
         }
       ],
-      "duration_ms": 305757,
-      "name": "Crossing Over - 2023 Remaster",
-      "url": "https://open.spotify.com/track/1XLRqJpQF7nRVUKDb2oTtV"
+      "duration_ms": 363661,
+      "name": "Sosteniendo la Visi\u00f3n",
+      "url": "https://open.spotify.com/track/6LQtGlPkwPJc5wAz5TTvFK"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Crossing Over (2023 Remaster)",
+        "url": "https://open.spotify.com/album/2VkvsbyNjm1KP5GIYKtSUn"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 305757,
+      "name": "Crossing Over - 2023 Remaster",
+      "url": "https://open.spotify.com/track/1XLRqJpQF7nRVUKDb2oTtV"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/6vYuWSS8nLKm64kTiX24MF"
       },
@@ -243,22 +259,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Vida Cotidiana (Deluxe Version)",
-        "url": "https://open.spotify.com/album/157buz5Int6IECXF2hKYak"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "La Versi\u00f3n En Mi Cabeza",
-      "url": "https://open.spotify.com/track/70iA1uzud3bwrJzQQZ5D6i"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "En Pausa",
         "url": "https://open.spotify.com/album/4VN1tnk43WT1FZp8pL5h4q"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 263483,
       "name": "En Pausa",
       "url": "https://open.spotify.com/track/4Bgpxhi150I9e2eOw1mGv4"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Vida Cotidiana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/157buz5Int6IECXF2hKYak"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "La Versi\u00f3n En Mi Cabeza",
+      "url": "https://open.spotify.com/track/70iA1uzud3bwrJzQQZ5D6i"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -343,22 +359,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "El Hilo del Tiempo",
-        "url": "https://open.spotify.com/album/4wGsXVkJVkyl6XttneSkyg"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Donalson",
-          "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
-        }
-      ],
-      "duration_ms": 290423,
-      "name": "Todo Se Resuelve",
-      "url": "https://open.spotify.com/track/0bK6a0xIhWj9ZVYTxEZK9A"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Amphetamine Smiles",
         "url": "https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY"
       },
@@ -419,26 +419,6 @@
       "duration_ms": 648267,
       "name": "Andante with Variations in F Minor, H.XVII:6 - Duca 516",
       "url": "https://open.spotify.com/track/6J2pJKriat9L0TNuzpU9aZ"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Doom Protectors",
-        "url": "https://open.spotify.com/album/40tr1n8XT3EX4Vj4r13Yi4"
-      },
-      "artists": [
-        {
-          "name": "VEIN",
-          "url": "https://open.spotify.com/artist/5UpoEonoqVkfRlySIcEU64"
-        },
-        {
-          "name": "Death",
-          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Doom",
-      "url": "https://open.spotify.com/track/7fGPMnxUXxnbP8Rfkn1eea"
     },
     {
       "added_at": "2023-09-29 03:00:00",

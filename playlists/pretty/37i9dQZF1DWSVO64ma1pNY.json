@@ -1,12 +1,12 @@
 {
   "description": "Time for some anger management? Let's get it out!",
-  "num_followers": 286274,
+  "num_followers": 286510,
   "original_name": "life sucks...i need some rock!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2Q0ZDU4ODFhOTVlNDBiNzJhY2UzOWQ3ZDYxZmUxNDhkNGRiZTYx",
+  "snapshot_id": "MCw5YTA2MTQxODg0ZmQ0OWY4NzNjNTlkN2NjMjczOWYxMzQyMjljNTdl",
   "tracks": [
     {
       "added_at": "2023-09-28 07:33:18",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
-    },
-    {
-      "added_at": "2023-09-28 07:33:18",
-      "album": {
         "name": "What Separates Me From You",
         "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 202640,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
+    },
+    {
+      "added_at": "2023-09-28 07:33:18",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
       "added_at": "2023-09-28 07:33:18",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "Only Revolutions",
-        "url": "https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 301080,
-      "name": "Bubbles",
-      "url": "https://open.spotify.com/track/05lBXOMA1uHpVPEQZyjoh3"
-    },
-    {
-      "added_at": "2023-09-28 07:33:18",
-      "album": {
         "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
         "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 189133,
       "name": "Blame It on the Boom Boom",
       "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
+    },
+    {
+      "added_at": "2023-09-28 07:33:18",
+      "album": {
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 301080,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/05lBXOMA1uHpVPEQZyjoh3"
     },
     {
       "added_at": "2023-09-28 07:33:18",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-09-28 07:33:18",
       "album": {
-        "name": "Emotion Sickness",
-        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/42wOkbQaZa1jnpBpUmk5Zv"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
         }
       ],
-      "duration_ms": 271076,
-      "name": "Emotion Sickness",
-      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
+      "duration_ms": 209542,
+      "name": "Skeletons",
+      "url": "https://open.spotify.com/track/7klR0a6pWaMiRanIkwg1vy"
     }
   ],
   "unique_name": "life sucks...i need some rock!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Indio Solari y Los Fundamentalistas del Aire Acondicionado
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,495 likes - 65 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,600 likes - 65 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 64 | [La Libertad](https://open.spotify.com/track/1Qd1kCBn0GPFl7y3fZZ8uG) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Huracán, Vol\. 9](https://open.spotify.com/album/0qLHnQBkMI3lhYELDxZeDb) | 3:16 |
 | 65 | [La Ladrona](https://open.spotify.com/track/1Gyfg0uusL0jDRllWpwM72) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [La Ladrona](https://open.spotify.com/album/6xr5n3aPVt5KuerSkh86C5) | 3:19 |
 
-Snapshot ID: `MCxjNmQ3NGE2ODhlMDQ2MTU5MDllMWYyMzFhY2VmM2ZmYmRiN2ZiZjRk`
+Snapshot ID: `MCw4Zjc5MTNjZDUyMGI3NDRhODc2YTk3YjIwYzE2NTJkYjgxMjM0NGZi`

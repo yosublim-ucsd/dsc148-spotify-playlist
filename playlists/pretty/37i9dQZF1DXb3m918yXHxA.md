@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483,784 likes - 125 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,484,112 likes - 125 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 20 | [O.C.O.E\. \(Official Cat Of The Eighties\)](https://open.spotify.com/track/4O9Af9tLDms3pGri4MjsIw) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Pages](https://open.spotify.com/album/3jq51cWLTtOgUN7x44fKvp) | 5:00 |
 | 21 | [Who'll Be the Fool Tonight](https://open.spotify.com/track/6gIX8nlmGBSJWkFvVDvfd1) | [Larsen/Feiten Band](https://open.spotify.com/artist/614GyAJSc7xbA6oYTvTLsB) | [Larsen/Feiten Band](https://open.spotify.com/album/1h1rSeeUKRSRefpSCmbbqB) | 4:12 |
 | 22 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:06 |
-| 23 | [Peg](https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 4:00 |
+| 23 | [Peg](https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 3:57 |
 | 24 | [Yah Mo B There](https://open.spotify.com/track/5edioRF5SIeNzZafgd1Py1) | [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [It's Your Night](https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs) | 4:39 |
 | 25 | [Nobody's Business](https://open.spotify.com/track/41A98cJexOEPLj6jCHXplA) | [Maxus](https://open.spotify.com/artist/23dBg5HdfYGtBBc96KfyWw) | [Maxus](https://open.spotify.com/album/3NqdoUkICbpsyzX1d5fzJO) | 3:21 |
 | 26 | [Minute by Minute](https://open.spotify.com/track/37oLDb3119IdKSIFQmSGRj) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:26 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 124 | [I Don't Want You Anymore](https://open.spotify.com/track/6yqxaTsYO8QItIvY4NkwHh) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Supercharged](https://open.spotify.com/album/6TsjAo5OfozNTu8R5VAugT) | 4:06 |
 | 125 | [Bi\-Coastal](https://open.spotify.com/track/1JFt7RvlIgRrTs4dXYbw0o) | [Peter Allen](https://open.spotify.com/artist/6748v9yNrbb4PPJuvfoMRa) | [Bi\-Coastal](https://open.spotify.com/album/18q7pXVYXXcuDPkstx2yxC) | 4:21 |
 
-Snapshot ID: `MCwxNjgzYzM1ZGM4MjJhMDQyNzFiNDdjZGI2YTJmOGMzMDJhODJmNGQw`
+Snapshot ID: `MCw0MWVmMjk4Y2IwZTU1NTExMjI5ZDM3OWMyYjUzZjNhMTMzMzlmMTE4`

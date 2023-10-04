@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Jade Eagleson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,069 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,686 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 83 | [Never Not Remember You](https://open.spotify.com/track/3PigB8AnVf6zPtWvVC5fJL) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Never Not Remember You](https://open.spotify.com/album/0unG2Z8Ac26MVI2qKnNk5z) | 2:57 |
 | 84 | [Dirt Roads And Jesus](https://open.spotify.com/track/0rAsn40XCigrz7XZNxV2pr) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 3:10 |
 | 85 | [I’m In Love](https://open.spotify.com/track/5uTQC24DoCTc287oH8Xpp4) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 2:26 |
-| 86 | [I Know A Guy](https://open.spotify.com/track/2wAavjh84cV0tH4Pbcz0EF) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [I Know A Guy](https://open.spotify.com/album/1TUlbemKM7UOS7gpi3gWdA) | 2:41 |
+| 86 | [I Know A Guy](https://open.spotify.com/track/6LCY0s8iDoooe8eMkdEQMu) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Side Effects Of The Heart](https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK) | 2:41 |
 | 87 | [Good With Me](https://open.spotify.com/track/47EkFFYRTlgatkXS0gg5FZ) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Good With Me](https://open.spotify.com/album/4MOXUKrGGMuokVxovC7wQL) | 2:26 |
 | 88 | [Cracks](https://open.spotify.com/track/73LXlPOFCWBAGlkQT28KGN) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country: The Extra Mile](https://open.spotify.com/album/47Neda2C9GGMDkgyM3fuqs) | 3:39 |
 | 89 | [Fool's Gold](https://open.spotify.com/track/4Pqc5qu1C7SZVuWz0d1Zut) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [Fool's Gold](https://open.spotify.com/album/5U1Svg6Q5QPxBWBavA3hKB) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq) | 2:59 |
 | 100 | [I ain't Country](https://open.spotify.com/track/7HoqLd4ZXftkWF1TkQgSt2) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P), [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Heart On Ice](https://open.spotify.com/album/59AFllTisSU6QjmiBjIO82) | 2:40 |
 
-Snapshot ID: `MCw3OTJjMGY4Y2UzNDIyYjJiN2JlOTA1ZTAyNWQwNjY1YWQ4NDYxMGI5`
+Snapshot ID: `MCwxYzI5NjcwMDZhMjI1ZjIzZWY3NGYzODA3ZmFhOTZlMWViZDljY2Qy`

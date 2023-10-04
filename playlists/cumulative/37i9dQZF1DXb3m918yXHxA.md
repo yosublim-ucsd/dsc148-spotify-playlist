@@ -4,7 +4,7 @@
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-174 songs - 12 hr 0 min
+175 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,8 +115,9 @@
 | [O.C.O.E\. \(Official Cat Of The Eighties\)](https://open.spotify.com/track/4O9Af9tLDms3pGri4MjsIw) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Pages](https://open.spotify.com/album/3jq51cWLTtOgUN7x44fKvp) | 5:00 | 2023-08-15 |  |
 | [On And On](https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:01 | 2021-12-20 | 2023-08-16 |
 | [Paradise](https://open.spotify.com/track/36nWEcjwsB7u3yKvLJpYhJ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Lite Me Up](https://open.spotify.com/album/5LsdfUYg3pWMyjoyAnS3fE) | 4:31 | 2022-11-23 |  |
+| [Peg](https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 3:57 | 2023-08-15 |  |
 | [Peg](https://open.spotify.com/track/5DQAHkO9U4IZIombHefcqK) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW) | 4:00 | 2021-12-20 | 2022-07-30 |
-| [Peg](https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 4:00 | 2022-07-28 |  |
+| [Peg](https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 4:00 | 2022-07-28 | 2023-10-04 |
 | [Please Don't Leave](https://open.spotify.com/track/6BDWKu4eOJgdSg9KA6Icn6) | [Lauren Wood](https://open.spotify.com/artist/67K9nZU3LXIwrDjxVOO9IG), [Novi](https://open.spotify.com/artist/7LfxHLrmQNqEggZvjaQL1A), [Ernie](https://open.spotify.com/artist/6rBZhEQ1RwYz6xOCE7CuUY) | [Lauren Wood](https://open.spotify.com/album/32BaRpNzyXS35DEtKVTGBt) | 3:58 | 2023-08-15 |  |
 | [Reelin' In The Years](https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 4:35 | 2022-07-28 | 2022-11-09 |
 | [Reelin' In The Years](https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 4:37 | 2022-07-28 | 2023-08-16 |

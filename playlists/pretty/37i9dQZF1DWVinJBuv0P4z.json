@@ -1,12 +1,12 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 365527,
+  "num_followers": 365668,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzQ2MGJhMzMwZjM1OTIwZmYwYmNmODIzNWQ0M2UzY2VmMzEyNDE2",
+  "snapshot_id": "MCxjZDc2ZmQ4MmY1ODRmZTA0MjY1MGU3NzI3Yjk4ZTc0MWIzYjFjYjNh",
   "tracks": [
     {
       "added_at": "2023-01-03 15:04:36",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
     },
     {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
-    },
-    {
       "added_at": "2023-05-23 07:27:41",
       "album": {
         "name": "Voulez-Vous",
@@ -847,18 +831,18 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "52nd Street",
-        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
         }
       ],
-      "duration_ms": 284000,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -875,6 +859,22 @@
       "duration_ms": 331333,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "52nd Street",
+        "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "No Particular Place To Go",
-      "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Rock Around The Clock",
         "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 129893,
       "name": "(We're Gonna) Rock Around The Clock",
       "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "No Particular Place To Go",
+      "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Llllloco-Motion",
-        "url": "https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj"
-      },
-      "artists": [
-        {
-          "name": "Little Eva",
-          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
-        }
-      ],
-      "duration_ms": 139120,
-      "name": "The Locomotion",
-      "url": "https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
         "url": "https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 155040,
       "name": "The Twist",
       "url": "https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Llllloco-Motion",
+        "url": "https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "duration_ms": 139120,
+      "name": "The Locomotion",
+      "url": "https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
+        "name": "Perfect Angel",
+        "url": "https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 223143,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
         "name": "It's Our Thing",
         "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
       },
@@ -2227,18 +2243,18 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Perfect Angel",
-        "url": "https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9"
+        "name": "Pure Gold",
+        "url": "https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8"
       },
       "artists": [
         {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 223143,
-      "name": "Lovin' You",
-      "url": "https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p"
+      "duration_ms": 162106,
+      "name": "Papa Loves Mambo",
+      "url": "https://open.spotify.com/track/62eAoNfrrS84177LOzJMQx"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2255,22 +2271,6 @@
       "duration_ms": 287440,
       "name": "Lost in Music - 1995 Remaster",
       "url": "https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "Pure Gold",
-        "url": "https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Papa Loves Mambo",
-      "url": "https://open.spotify.com/track/62eAoNfrrS84177LOzJMQx"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Shout!",
-        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "Shout, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 158853,
       "name": "Then He Kissed Me",
       "url": "https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Shout!",
+        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "Shout, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
     },
     {
       "added_at": "2023-01-03 15:04:36",

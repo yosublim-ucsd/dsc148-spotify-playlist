@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Donne Maula
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,907 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,590 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 74 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 |
 | 75 | [You & I](https://open.spotify.com/track/3mX2GKPSW38pRpdmC9tdvY) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [You & I](https://open.spotify.com/album/0eP9tZfnTfXk8aSnqPRC15) | 2:31 |
 
-Snapshot ID: `MCw4YzQyODVhYWRhYWEzMWU5YmVkNGE0NzhjNGE5MDVmNWZhNzQwYzk4`
+Snapshot ID: `MCw2NDc1Zjk0N2ZhNmNiNzgxNjIwMDcyOTUxZmJkOThjOGE0NDFmMGNl`

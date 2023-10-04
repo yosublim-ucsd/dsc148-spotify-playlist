@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 62445,
+  "num_followers": 62511,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzM4YzQxNTI5ZjUxOTg5MmMxZmI4M2M2YTE1YzAzNmU1MDJlOWUw",
+  "snapshot_id": "MCw5MDNlZWJmMmEyNjVkYmYxMDJmYzI3NDliZDAwYWJlZTRkMWNiZjkw",
   "tracks": [
     {
       "added_at": "2023-08-23 10:28:38",
@@ -23,6 +23,22 @@
       "duration_ms": 240200,
       "name": "River",
       "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Souled Out On You",
+      "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -47,22 +63,6 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Souled Out On You",
-      "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 432200,
-      "name": "Married To The Blues",
-      "url": "https://open.spotify.com/track/1wZpmkvPVQXdBLc6MnIpJi"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "Had to Cry Today",
         "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 411960,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 432200,
+      "name": "Married To The Blues",
+      "url": "https://open.spotify.com/track/1wZpmkvPVQXdBLc6MnIpJi"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 246826,
       "name": "Friendship",
       "url": "https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "An Introduction To Otis Rush",
-        "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 219559,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
         "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
+        "name": "An Introduction To Otis Rush",
+        "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 219559,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
         "name": "The Natch'l Blues",
         "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 208733,
       "name": "She Caught the Katy and Left Me a Mule to Ride",
       "url": "https://open.spotify.com/track/2B8TnS5nJijlzuORGs3RKy"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -687,6 +671,22 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
         "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
         "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 278266,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "The Last Of The Blue Devils",
         "url": "https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 421666,
       "name": "'Tain't Nobody's Biz'ness If I Do",
       "url": "https://open.spotify.com/track/6SVMrke6GfTo8VFWaDH8Yu"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+      },
+      "artists": [
+        {
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+        }
+      ],
+      "duration_ms": 278266,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Faith And Grace: A Family Journey 1953-1976",
-        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Uncloudy Day",
-      "url": "https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "You Don't Know Me",
         "url": "https://open.spotify.com/album/4uc55G1No3AyUqiWBpd9LC"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 210851,
       "name": "Love & Devotion",
       "url": "https://open.spotify.com/track/0HdYXZKwBLwhKMVBVerHms"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "Faith And Grace: A Family Journey 1953-1976",
+        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Uncloudy Day",
+      "url": "https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "The Legendary Christine Perfect Album",
-        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
-      },
-      "artists": [
-        {
-          "name": "Christine McVie",
-          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
-        }
-      ],
-      "duration_ms": 191355,
-      "name": "I'm on My Way",
-      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/20GfTZN5yYaNXTtsW16son"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 270752,
       "name": "Violet Nights",
       "url": "https://open.spotify.com/track/6vIqO60517ei9oVj2f1bWA"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "The Legendary Christine Perfect Album",
+        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
+      },
+      "artists": [
+        {
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
+        }
+      ],
+      "duration_ms": 191355,
+      "name": "I'm on My Way",
+      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
     },
     {
       "added_at": "2023-08-23 10:28:38",

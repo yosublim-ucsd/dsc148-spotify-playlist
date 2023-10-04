@@ -1,31 +1,31 @@
 {
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u300cEQUAL\u300d\u3002\u4eca\u6708\u306e\u30a2\u30f3\u30d0\u30b5\u30c0\u30fc: AI",
-  "num_followers": 13189,
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u300cEQUAL\u300d\u3002\u4eca\u6708\u306e\u30a2\u30f3\u30d0\u30b5\u30c0\u30fc: XG",
+  "num_followers": 13217,
   "original_name": "EQUAL Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTFmM2FhNDYzMWY0NjJiNTcwMzJhNTQ4OGUzZWY2ODgxOWNhYTJl",
+  "snapshot_id": "MCw1NDczNjA1ODNhOGQyNTM3NjYzZDc0YzhkMWZiZmRlNjQxMzcyNTA2",
   "tracks": [
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "RESPECT ALL",
-        "url": "https://open.spotify.com/album/2yEGTWb8SrvhEopxI5vwpy"
+        "name": "NEW DNA",
+        "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
       },
       "artists": [
         {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 330080,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/1HDS0yf0VtFpMhS0qEyP4H"
+      "duration_ms": 199960,
+      "name": "PUPPET SHOW",
+      "url": "https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "United Queens",
         "url": "https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr"
@@ -61,27 +61,39 @@
       "url": "https://open.spotify.com/track/7HBhfTW2zcldEs0qsXuvT2"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "RESPECT ALL",
-        "url": "https://open.spotify.com/album/2yEGTWb8SrvhEopxI5vwpy"
+        "name": "ICHIJIKIKOKU",
+        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },
       "artists": [
         {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        },
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "OTONABLUE",
+      "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
         {
           "name": "CHANMINA",
           "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 221786,
-      "name": "WORLD DANCE",
-      "url": "https://open.spotify.com/track/165pjCVXQTcjL6lQKXPBje"
+      "duration_ms": 196746,
+      "name": "B\u7d1a",
+      "url": "https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "NEW DANCE",
         "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
@@ -97,43 +109,55 @@
       "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "Death Anniversary",
-        "url": "https://open.spotify.com/album/2uoDeHqFLAKJLxwddkzGQt"
+        "name": "INSAINT",
+        "url": "https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s"
       },
       "artists": [
         {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
         }
       ],
-      "duration_ms": 201691,
-      "name": "Death Anniversary",
-      "url": "https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw"
+      "duration_ms": 150966,
+      "name": "Destruction Sisters",
+      "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "\u706b\u3092\u3064\u3051\u3066 feat. \u677e\u5c3e\u30ec\u30df (GLIM SPANKY)",
-        "url": "https://open.spotify.com/album/5Hd2WIPcnkSNh2nAUxt2b2"
+        "name": "more than words",
+        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
       },
       "artists": [
         {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        },
-        {
-          "name": "Remi Matsuo",
-          "url": "https://open.spotify.com/artist/5KRGr2Dbq35ycjbyRpKoc7"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 299803,
-      "name": "\u706b\u3092\u3064\u3051\u3066 feat. \u677e\u5c3e\u30ec\u30df (GLIM SPANKY)",
-      "url": "https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j"
+      "duration_ms": 289720,
+      "name": "more than words",
+      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Roll",
+      "url": "https://open.spotify.com/track/6ZOfIAVHz5kouYvIqUV19r"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "echo",
         "url": "https://open.spotify.com/album/2nb3EJIfouOFj5gQ624sAf"
@@ -153,7 +177,7 @@
       "url": "https://open.spotify.com/track/4tWlxWsrnxmeBLjxQaPflR"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
         "url": "https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE"
@@ -177,47 +201,23 @@
       "url": "https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "PRIVATE",
-        "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Roll",
-      "url": "https://open.spotify.com/track/6ZOfIAVHz5kouYvIqUV19r"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "Self Selection \u201cHIP HOP\u201d",
-        "url": "https://open.spotify.com/album/0VRtFgOc0hVwmB0K3XcAi0"
+        "name": "RESPECT ALL",
+        "url": "https://open.spotify.com/album/2yEGTWb8SrvhEopxI5vwpy"
       },
       "artists": [
         {
           "name": "AI",
           "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        },
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        },
-        {
-          "name": "\u30a2\u30f4\u30a7\u30c9\u30f3",
-          "url": "https://open.spotify.com/artist/74a3rSfeuEi9Iz5xXPtyo9"
         }
       ],
-      "duration_ms": 222653,
-      "name": "Not So Different - Remix",
-      "url": "https://open.spotify.com/track/4V3fw2tzq2XVm7smo4U3yR"
+      "duration_ms": 330080,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/1HDS0yf0VtFpMhS0qEyP4H"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm"
@@ -241,47 +241,7 @@
       "url": "https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        },
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        }
-      ],
-      "duration_ms": 159892,
-      "name": "BIJIN (Remix) [feat. Awich]",
-      "url": "https://open.spotify.com/track/1rfUCbfXaJexlYGjL3HZaa"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "FAKE feat. \u5b89\u5ba4\u5948\u7f8e\u6075",
-        "url": "https://open.spotify.com/album/7sy3It4biBMzVzmZdlgK9U"
-      },
-      "artists": [
-        {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        },
-        {
-          "name": "Namie Amuro",
-          "url": "https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa"
-        }
-      ],
-      "duration_ms": 255773,
-      "name": "FAKE",
-      "url": "https://open.spotify.com/track/3PUfI9Tprsqla2pk5moQqL"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "ROCK YOUR BODY",
         "url": "https://open.spotify.com/album/1oCMq00Ex2N0Q9tvm3dLFJ"
@@ -297,7 +257,7 @@
       "url": "https://open.spotify.com/track/3C8ESXsBRir63eIE1mwEtl"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "STRAIGHT UP",
         "url": "https://open.spotify.com/album/67vqoD5n8qcEkj1AVeeK6P"
@@ -313,7 +273,7 @@
       "url": "https://open.spotify.com/track/7p2NEA4Eliv5M3fxRl6V5D"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "Disaster I",
         "url": "https://open.spotify.com/album/6KA7XSmW0ckDmZXgqTn6tz"
@@ -329,7 +289,7 @@
       "url": "https://open.spotify.com/track/4YHGRPEkvgbXppwU9vZQ84"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "5am",
         "url": "https://open.spotify.com/album/1dLcTY0iMPyX7i6yrz5KjP"
@@ -345,7 +305,7 @@
       "url": "https://open.spotify.com/track/0u0QdTGos0mxiNW95OH00b"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "BUTTERFLY EFFECT",
         "url": "https://open.spotify.com/album/3jMsXyruxQMw80CVCQPmas"
@@ -361,7 +321,7 @@
       "url": "https://open.spotify.com/track/1AQ4UPkGibo0ELl4zvPoZj"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "AINIIKOU",
         "url": "https://open.spotify.com/album/6VUReTTUia2grVUe5YL6N6"
@@ -377,7 +337,7 @@
       "url": "https://open.spotify.com/track/3oGRtggGs5FH6nVrOwDIaW"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "ohhh!",
         "url": "https://open.spotify.com/album/3D4Y8HjCtnKoSBeEhcXshA"
@@ -393,7 +353,7 @@
       "url": "https://open.spotify.com/track/6QnhQ4DMD2GcQ3b1N6eeJa"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/5KRokKlLam580G33c38UvD"
@@ -413,7 +373,7 @@
       "url": "https://open.spotify.com/track/034AV3t5HvIo7R6v2xHmHe"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "\u3042\u3044\u3073\u304d",
         "url": "https://open.spotify.com/album/0hMg25f6Fzgf2nHuRFjG42"
@@ -433,7 +393,7 @@
       "url": "https://open.spotify.com/track/2aWB0SydblQSdTeei95Quw"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "Binetsu",
         "url": "https://open.spotify.com/album/4qF15Ad2DkTE3243XvUy3h"
@@ -449,7 +409,59 @@
       "url": "https://open.spotify.com/track/6JhntVurJvC4zjQQjtLGXr"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "\u3072\u304b\u308a",
+        "url": "https://open.spotify.com/album/1gG7PKsATszLJVgbnsdE4Z"
+      },
+      "artists": [
+        {
+          "name": "Makoto Kawamoto",
+          "url": "https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx"
+        }
+      ],
+      "duration_ms": 277240,
+      "name": "universe",
+      "url": "https://open.spotify.com/track/7mqvxUu2gwbjQ0FQQ2jMV4"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "\u706b\u3092\u3064\u3051\u3066 feat. \u677e\u5c3e\u30ec\u30df (GLIM SPANKY)",
+        "url": "https://open.spotify.com/album/5Hd2WIPcnkSNh2nAUxt2b2"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        },
+        {
+          "name": "Remi Matsuo",
+          "url": "https://open.spotify.com/artist/5KRGr2Dbq35ycjbyRpKoc7"
+        }
+      ],
+      "duration_ms": 299803,
+      "name": "\u706b\u3092\u3064\u3051\u3066 feat. \u677e\u5c3e\u30ec\u30df (GLIM SPANKY)",
+      "url": "https://open.spotify.com/track/0C2S3sEvaNfulnSRNF2E1j"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "Highlight no Nakade Bokura Zutto",
+        "url": "https://open.spotify.com/album/4Mn0L5WRGTvLhsQinoApud"
+      },
+      "artists": [
+        {
+          "name": "SCANDAL",
+          "url": "https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz"
+        }
+      ],
+      "duration_ms": 201999,
+      "name": "Highlight no Nakade Bokura Zutto",
+      "url": "https://open.spotify.com/track/1sOyY88KV1kIIkuj0CWrZk"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "BUTTERFLY EFFECT",
         "url": "https://open.spotify.com/album/3jMsXyruxQMw80CVCQPmas"
@@ -465,7 +477,7 @@
       "url": "https://open.spotify.com/track/0bubyBUGwfBudA9owgmCES"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "PRIVATE",
         "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
@@ -481,23 +493,7 @@
       "url": "https://open.spotify.com/track/4Yo0r2wyWLIOVzAnyJwbIc"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "SHOOTING STAR",
-        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 203556,
-      "name": "SHOOTING STAR",
-      "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "BESTY",
         "url": "https://open.spotify.com/album/0d3SQNjZ1hynZ14FQmWS3e"
@@ -513,7 +509,27 @@
       "url": "https://open.spotify.com/track/2ZG9JeE5w6JLq6nFu4GgR8"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "duration_ms": 159892,
+      "name": "BIJIN (Remix) [feat. Awich]",
+      "url": "https://open.spotify.com/track/1rfUCbfXaJexlYGjL3HZaa"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "Tolerance",
         "url": "https://open.spotify.com/album/1ZJnqutcqEwMwxKspBP5NQ"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/0B6X3qQ5mEmIGPeb17cKW7"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "Odd Dancer",
         "url": "https://open.spotify.com/album/6dgYwFD881z4kSbi0W0FA1"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/5KrmHvZqGCzxVjEdcB4xiX"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "Theme of +81 Connect EP",
         "url": "https://open.spotify.com/album/7LKI9DciQsxaf41Aw6c3nf"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/0qSAgPAgM8OhJJkuNk9kPa"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "LION",
         "url": "https://open.spotify.com/album/0bpAgQSadkh9F7Biymw5Ik"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/1apSVqNYcqLp7q7mqfpyuv"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "the wisdom (Prod. by Clap! Clap!)",
         "url": "https://open.spotify.com/album/1IbtR5jlJSor9DqqGy8294"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/6TTyIq5dwq6YC6CphfjD48"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "MALACHITE",
         "url": "https://open.spotify.com/album/0IpsUn6oG3FVVZK7tK8Cke"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/4Qvl6UXtikyutoEQr1uHDq"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "SHIKIBU",
         "url": "https://open.spotify.com/album/2c8PhG02N3d7kYTwIdVqYH"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/7KWCAjG5bfx9FfUqvpefYZ"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "BOSS",
         "url": "https://open.spotify.com/album/1EWbajEAKAeyaimtZMpTxP"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/5uTMsRYt36mEPu0MCoK68G"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/4y2DV7E7KlVFgvtDrVurZL"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "ISSUES",
         "url": "https://open.spotify.com/album/4pe6HW7f9ek72LUedGmFfS"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/51WWXUmEYibqy7JGsx2zwt"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "KAWAII BUBBLY LOVELY III",
         "url": "https://open.spotify.com/album/00NHoF1XbizRrBTny378TI"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/4xtTbKmWGNSFaC4kDAuuKL"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "marble",
         "url": "https://open.spotify.com/album/2ihGCQ3UJZ6hkf0KPJ27XO"
@@ -721,7 +737,39 @@
       "url": "https://open.spotify.com/track/35n7uoX6bP8VJRnFLW6KPJ"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "\u3072\u304b\u308a",
+        "url": "https://open.spotify.com/album/1gG7PKsATszLJVgbnsdE4Z"
+      },
+      "artists": [
+        {
+          "name": "Makoto Kawamoto",
+          "url": "https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx"
+        }
+      ],
+      "duration_ms": 236106,
+      "name": "\u30a2\u30ed\u30a8",
+      "url": "https://open.spotify.com/track/4kZERvnlhNMNnmdfxYqZno"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "Walking On Fire",
+        "url": "https://open.spotify.com/album/2ESJy47cfp4oIvJWKGHIBz"
+      },
+      "artists": [
+        {
+          "name": "GLIM SPANKY",
+          "url": "https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "\u3053\u3093\u306a\u591c\u66f4\u3051\u306f",
+      "url": "https://open.spotify.com/track/5Gd5llvb4qm3o7DjQbjUqY"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "Shades Of Yellow EP",
         "url": "https://open.spotify.com/album/0nhCGmTwYyu1zKA6bAnVJc"
@@ -737,7 +785,7 @@
       "url": "https://open.spotify.com/track/0tQVgQtzkzYlrEG1D6SXhx"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "MALACHITE",
         "url": "https://open.spotify.com/album/0IpsUn6oG3FVVZK7tK8Cke"
@@ -753,7 +801,7 @@
       "url": "https://open.spotify.com/track/63qCn8C2TJrEyAG1LTWngH"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "Disaster ll",
         "url": "https://open.spotify.com/album/3ryuZiy35mETfoLv7VyLA7"
@@ -769,7 +817,7 @@
       "url": "https://open.spotify.com/track/4Zm9YvYGoq3HCDilGvBq8m"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "GULLIVER",
         "url": "https://open.spotify.com/album/2JdZnrIBWbOrz4wPYiHjO3"
@@ -789,7 +837,7 @@
       "url": "https://open.spotify.com/track/5IuQ7mXHER8XCi4hQFJpJJ"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "AKANE",
         "url": "https://open.spotify.com/album/4vEyFBukqWydVhzP8wL9Dc"
@@ -805,7 +853,7 @@
       "url": "https://open.spotify.com/track/2ccOEhnfNr3nSaURTILBUY"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "BESTY",
         "url": "https://open.spotify.com/album/0d3SQNjZ1hynZ14FQmWS3e"
@@ -821,7 +869,7 @@
       "url": "https://open.spotify.com/track/05gCLdUSYdCMoyu40MC5V0"
     },
     {
-      "added_at": "2023-09-05 15:00:00",
+      "added_at": "2023-10-03 15:00:00",
       "album": {
         "name": "Neo Standard",
         "url": "https://open.spotify.com/album/6vXMlkcOS97nxv48Kl76MV"
@@ -839,82 +887,6 @@
       "duration_ms": 197000,
       "name": "Structure Of Romance (feat. Kyoko Koizumi)",
       "url": "https://open.spotify.com/track/5AVYMvMEZ0kFbuskjxTrsP"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "Walking On Fire",
-        "url": "https://open.spotify.com/album/2ESJy47cfp4oIvJWKGHIBz"
-      },
-      "artists": [
-        {
-          "name": "GLIM SPANKY",
-          "url": "https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "\u3053\u3093\u306a\u591c\u66f4\u3051\u306f",
-      "url": "https://open.spotify.com/track/5Gd5llvb4qm3o7DjQbjUqY"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "Checkmate!",
-        "url": "https://open.spotify.com/album/4NTDsMDwgwjJ8mRLVkpPpk"
-      },
-      "artists": [
-        {
-          "name": "Namie Amuro",
-          "url": "https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa"
-        },
-        {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        },
-        {
-          "name": "Anna Tsuchiya",
-          "url": "https://open.spotify.com/artist/1XTqQwcJw9D1bo0cuO8Oq2"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/3irp6WdpBLseu6ENO00XEi"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "Fighter",
-        "url": "https://open.spotify.com/album/2RXBuuFIINhwrOOkBQCaFJ"
-      },
-      "artists": [
-        {
-          "name": "Mika Nakashima",
-          "url": "https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F"
-        },
-        {
-          "name": "Miliyah",
-          "url": "https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND"
-        }
-      ],
-      "duration_ms": 299413,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/5IfISpdRTvRFKf8mGTJ0Z7"
     }
   ],
   "unique_name": "EQUAL Japan",

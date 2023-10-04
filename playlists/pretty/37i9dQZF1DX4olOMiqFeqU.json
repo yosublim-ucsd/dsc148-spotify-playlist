@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2452664,
+  "num_followers": 2453106,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGRhNDExYTgxNDg1MjUyYTBhOTZjOWNhMGZkNjU0NGQ5Y2MzYjA4",
+  "snapshot_id": "MCw0NWY2MzE1OWY5MjFhMTNiM2JmMjkzNzE0MDZkOTJjNTgwYzRiZWNi",
   "tracks": [
     {
       "added_at": "2023-09-13 05:36:31",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Hale",
-        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
-      },
-      "artists": [
-        {
-          "name": "Hale",
-          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
-        }
-      ],
-      "duration_ms": 291320,
-      "name": "The Day You Said Goodnight",
-      "url": "https://open.spotify.com/track/08hFNg8Oz3lvaAms7qrIif"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Kathang Isip",
         "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 318814,
       "name": "Kathang Isip",
       "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "duration_ms": 291320,
+      "name": "The Day You Said Goodnight",
+      "url": "https://open.spotify.com/track/08hFNg8Oz3lvaAms7qrIif"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Sa Susunod na Habang Buhay",
-        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 288189,
-      "name": "Sa Susunod na Habang Buhay",
-      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Yakap",
         "url": "https://open.spotify.com/album/0HNCZzy2tqjuLZJuTDGdAW"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
+        "name": "Sa Susunod na Habang Buhay",
+        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 288189,
+      "name": "Sa Susunod na Habang Buhay",
+      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
         "name": "Ang Wakas (feat. Trisha Macapagal)",
         "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 304000,
       "name": "Ang Wakas (feat. Trisha Macapagal)",
       "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Imahe",
+        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
+      },
+      "artists": [
+        {
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+        }
+      ],
+      "duration_ms": 321817,
+      "name": "Imahe",
+      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -463,38 +479,6 @@
       "duration_ms": 259114,
       "name": "Titig",
       "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
-        "name": "Imahe",
-        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
-      },
-      "artists": [
-        {
-          "name": "Magnus Haven",
-          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
-        }
-      ],
-      "duration_ms": 321817,
-      "name": "Imahe",
-      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -543,6 +527,22 @@
       "duration_ms": 291506,
       "name": "Nobela",
       "url": "https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -647,18 +647,22 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+        "name": "Tingin",
+        "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        },
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
         }
       ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+      "duration_ms": 222298,
+      "name": "Tingin",
+      "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -695,22 +699,18 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Tingin",
-        "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
       },
       "artists": [
         {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        },
-        {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 222298,
-      "name": "Tingin",
-      "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Binibini",
-        "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
+        "name": "Kung Alam Mo Lang",
+        "url": "https://open.spotify.com/album/54hm1RYQZwy4tZokG4YhGf"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "Bandang Lapis",
+          "url": "https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Binibini",
-      "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
+      "duration_ms": 256311,
+      "name": "Kung Alam Mo Lang",
+      "url": "https://open.spotify.com/track/2OwTNSBOspDlAWDcv37GIW"
     }
   ],
   "unique_name": "OPM Favorites",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,032 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,061 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 21 | [Let It Rain](https://open.spotify.com/track/3iXaV9yTFnAnZAoVbY8AuT) | [Amanda Marshall](https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO) | [Amanda Marshall](https://open.spotify.com/album/0TyKRzOsoZgXrXrcXnPvqt) | 4:31 |
 | 22 | [Someone Who's Cool](https://open.spotify.com/track/1g8ubxSaVpjtPm90fE77oz) | [Odds](https://open.spotify.com/artist/1MVQ4bbrG5VdRyozjajZQp), [Mixed by Steven Drake with other Odds](https://open.spotify.com/artist/5HS2kOCWsYhB2BxDM9k0iH) | [Nest](https://open.spotify.com/album/3bosHaEpGeWKUMTwAtVKUU) | 3:17 |
 | 23 | [Make You a Believer](https://open.spotify.com/track/3x2TPDl0jQthHTKTgWxz21) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Racine](https://open.spotify.com/album/7pMdUFxJHQTtSLfZMtY0SL) | 4:43 |
-| 24 | [Could I Be Your Girl](https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Living Under June](https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O) | 4:48 |
-| 25 | [Love Song](https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s) | [Sky](https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT) | [Piece Of Paradise](https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu) | 3:36 |
+| 24 | [Love Song](https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s) | [Sky](https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT) | [Piece Of Paradise](https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu) | 3:36 |
+| 25 | [Could I Be Your Girl](https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Living Under June](https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O) | 4:48 |
 | 26 | [Northern Touch \(feat\. Kardinal Offishall, Thrust, Choclair & Checkmate\)](https://open.spotify.com/track/4IfK0yQdVsWVoQO44DedEG) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Thrust](https://open.spotify.com/artist/38tN2aiWTtY8lhwXPKbIYk), [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS), [Checkmate](https://open.spotify.com/artist/6nfguy4Wxd0sQ8Bq7O3zYT) | [Cash Crop + Bonus Track](https://open.spotify.com/album/5mJHJ4ycYgFtNK5mEF68MM) | 4:07 |
 | 27 | [Steal My Sunshine \- Remastered Version](https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine \(Remixes, Vol\. 1\)](https://open.spotify.com/album/00nBnX92FEffzDHV1e84FL) | 3:31 |
 | 28 | [Numb](https://open.spotify.com/track/7eH1GkchdFvNN4ZUx767G3) | [Holly McNarland](https://open.spotify.com/artist/26YoEndupBcezyzcSmbcw2) | [Stuff](https://open.spotify.com/album/2pLU6e4KE2773H1OjOfRZ9) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 49 | [O Siem](https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU) | 4:27 |
 | 50 | [Hurts To Love You \- LP Version \(Album Version\)](https://open.spotify.com/track/7D4vdvgwrrbJjb3px4mMZ0) | [The Philosopher Kings](https://open.spotify.com/artist/4UzgFHHFfl4vf1UUmnORrA) | [Four Hits: The Philosopher Kings](https://open.spotify.com/album/2hfmvbYfmXvNd4qf6TFQyb) | 5:21 |
 
-Snapshot ID: `MCw4NGY0OTJlZTc2NzJhMDI2YzBhOTQ2YTNkZTZiMjgwYjhhNzVhNTBl`
+Snapshot ID: `MCwzMzI3YWI1Mzg1ZTgwMmFmY2MxZTRkYzE4NWUzOWQ0NGFjYWJjY2Y4`

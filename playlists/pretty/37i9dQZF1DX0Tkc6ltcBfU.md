@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Offset
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,194,463 likes - 76 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,194,670 likes - 76 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 75 | [Mama \(with Skilla Baby & Tay B\)](https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [Mama \(with Skilla Baby & Tay B\)](https://open.spotify.com/album/1XwVNB9mqxR00Wbj34mnn3) | 2:54 |
 | 76 | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/58Oj2g9GDO4xYKrtgDNeUv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:09 |
 
-Snapshot ID: `MCw1MTU5OWRhYTU1Y2IzZjZjNzU0ZDUwODA0ZDU3NmM3ZDUwZDA5MWMw`
+Snapshot ID: `MCxkYjRlNzc0ZDRjNGYzNTJlNTA5NWQzNWM5NTUzY2YyZDY4YWZmY2Zl`

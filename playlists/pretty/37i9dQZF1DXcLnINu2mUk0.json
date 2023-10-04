@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Domingues.",
-  "num_followers": 38790,
+  "num_followers": 38822,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGFlNTQwNmY5M2E2ZmQyYmFkOGU5NzdiM2JkZWY0MGEwNDZhODU1",
+  "snapshot_id": "MCw4ODUxOTE0Zjg2YzNhODM0NjE0MTgwODIwZDUzNTlhZTQ3NGJiZmM2",
   "tracks": [
     {
       "added_at": "2023-09-28 23:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
+        "name": "Madruga",
+        "url": "https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA"
+      },
+      "artists": [
+        {
+          "name": "Mike11",
+          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "Madruga",
+      "url": "https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
         "name": "Situation",
         "url": "https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 245258,
       "name": "Situation",
       "url": "https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Madruga",
-        "url": "https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA"
-      },
-      "artists": [
-        {
-          "name": "Mike11",
-          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "Madruga",
-      "url": "https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
+        "name": "Muda",
+        "url": "https://open.spotify.com/album/350MDczLAQuFoU07xEjRCB"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "duration_ms": 177859,
+      "name": "Muda",
+      "url": "https://open.spotify.com/track/5lTx1aJfs6rqYVqQbSzbve"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
         "name": "FAZ ME FICAR",
         "url": "https://open.spotify.com/album/2o2rUwESaEF5HxmL8d584q"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 222580,
       "name": "Interfeer",
       "url": "https://open.spotify.com/track/0Sc0LtMt22xo48C8YiojYk"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Muda",
-        "url": "https://open.spotify.com/album/350MDczLAQuFoU07xEjRCB"
-      },
-      "artists": [
-        {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        }
-      ],
-      "duration_ms": 177859,
-      "name": "Muda",
-      "url": "https://open.spotify.com/track/5lTx1aJfs6rqYVqQbSzbve"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1223,38 +1223,34 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "\u00c0 Tona",
-        "url": "https://open.spotify.com/album/6AQ5jQ3Tqm0ygMnBnmWUbe"
+        "name": "Run For You",
+        "url": "https://open.spotify.com/album/0t6I8iIyugB9uAwJ7hKpT9"
       },
       "artists": [
         {
-          "name": "Dote",
-          "url": "https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP"
+          "name": "10/16",
+          "url": "https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE"
         }
       ],
-      "duration_ms": 134743,
-      "name": "\u00c0 Tona",
-      "url": "https://open.spotify.com/track/2pejdDJoyqDBWM706pwC9M"
+      "duration_ms": 169210,
+      "name": "Run For You",
+      "url": "https://open.spotify.com/track/2o9Uzz02N7zakU9NBaIHtP"
     },
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Aura Diferente",
-        "url": "https://open.spotify.com/album/3CKAXJZxxJz5YInwBjgmXd"
+        "name": "Tua",
+        "url": "https://open.spotify.com/album/2yPwEUuRMCoGqDjw8Ln0TO"
       },
       "artists": [
         {
-          "name": "BiDU",
-          "url": "https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg"
-        },
-        {
-          "name": "JNY",
-          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+          "name": "Sara Megre",
+          "url": "https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd"
         }
       ],
-      "duration_ms": 251147,
-      "name": "Aura Diferente",
-      "url": "https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf"
+      "duration_ms": 201365,
+      "name": "Tua",
+      "url": "https://open.spotify.com/track/5UEyHP0qtkslMPeKXY1TYL"
     }
   ],
   "unique_name": "Seda",

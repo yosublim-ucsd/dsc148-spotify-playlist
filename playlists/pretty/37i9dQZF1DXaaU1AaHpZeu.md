@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Marineros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,617 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,636 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Elena Observando la Osa Mayor](https://open.spotify.com/track/68BQMDE4mppCSm5iVtvFND) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK) | [Elena Observando la Osa Mayor](https://open.spotify.com/album/3J1oz6X7tNKVBY0t5vwqdB) | 3:38 |
 | 50 | [Happy](https://open.spotify.com/track/4WTtWpPJuljhDWyzgWqe1h) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Happy](https://open.spotify.com/album/1AgJX2ef0crHFHOq1UhFIQ) | 3:31 |
 
-Snapshot ID: `MCw2YmYxNGU5ODE0ZjM0MDBjMjlhMjg5N2NkNzc3NTZiZWExNDJkYzI2`
+Snapshot ID: `MCw1ODcxYWYzZmNlNzBiZTBkNzRmZTJkNDEyMjY2MWRjODc0ZDIwOWE2`

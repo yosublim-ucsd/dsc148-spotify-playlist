@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: PinkPantheress
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,998 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,971 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Derby Raceway](https://open.spotify.com/track/1davHiGeSwxgSvdy1yXtjp) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/6bbyTk1fL07XSecYxWlInv) | 3:48 |
 | 40 | [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 |
 
-Snapshot ID: `MCwzYmI5MGVjM2I2MmFiNWQ3ZTM2ZWJhOGQ5MTk2ZmI2MjJkNzFiODVi`
+Snapshot ID: `MCxhMDE4YTVmMjRmMWI4OWFlMGJlOTVlY2NhOGM0MmRhNmVlMjI1MmUx`

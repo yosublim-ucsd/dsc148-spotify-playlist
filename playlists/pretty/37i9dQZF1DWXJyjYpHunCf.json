@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: David Kushner",
-  "num_followers": 864049,
+  "num_followers": 864537,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWM1NDQwOGFmMWQ2NWFkNWY1NjRmM2I5OTYxYWZhYTkyODI2NzI5",
+  "snapshot_id": "MCwyMzlkNTNjOWVjNTk4YjdiZTczYzcwZjcyNzdiMjFjNTVlMjhkNGJk",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -823,18 +823,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
       "artists": [
         {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 185583,
-      "name": "My Repair",
-      "url": "https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y"
+      "duration_ms": 231000,
+      "name": "Thousand Miles (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -855,22 +859,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Thousand Miles (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
+      "duration_ms": 185583,
+      "name": "My Repair",
+      "url": "https://open.spotify.com/track/4dxzf0bWuBb0AYs25VNL3y"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "How Do We Stay In Love?",
-        "url": "https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 159981,
-      "name": "How Do We Stay In Love?",
-      "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "searching for freedom",
         "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 266999,
       "name": "letting go",
       "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "How Do We Stay In Love?",
+        "url": "https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 159981,
+      "name": "How Do We Stay In Love?",
+      "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/6gvcXUbaSTH7qqHxPBkvb2"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "We Still Move on Dance Floors",
         "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 163893,
       "name": "In This Life",
       "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Pollution",
+        "url": "https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 234031,
+      "name": "Pollution",
+      "url": "https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Backyard Mafia",
-        "url": "https://open.spotify.com/album/5nqB1Ti9gY4zym2yDMFyLZ"
-      },
-      "artists": [
-        {
-          "name": "Oscar Blue",
-          "url": "https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z"
-        }
-      ],
-      "duration_ms": 215423,
-      "name": "Backyard Mafia",
-      "url": "https://open.spotify.com/track/2aRYPnIDsVUi4QqK9Ayp7E"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "All Day Long",
         "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 169433,
       "name": "All Day Long",
       "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Backyard Mafia",
+        "url": "https://open.spotify.com/album/5nqB1Ti9gY4zym2yDMFyLZ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Blue",
+          "url": "https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z"
+        }
+      ],
+      "duration_ms": 215423,
+      "name": "Backyard Mafia",
+      "url": "https://open.spotify.com/track/2aRYPnIDsVUi4QqK9Ayp7E"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 297279,
       "name": "Kinda Wild",
       "url": "https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Pollution",
-        "url": "https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 234031,
-      "name": "Pollution",
-      "url": "https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML"
     },
     {
       "added_at": "2023-09-29 04:00:00",

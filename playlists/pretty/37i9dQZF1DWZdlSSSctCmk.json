@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 108963,
+  "num_followers": 109098,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzE3ZGQyYmM1NjBmMmNlNTNlYTJlNzZmZDJkZDFlMzRkNGJhMGI4",
+  "snapshot_id": "MCxmM2JkNWQyNDVjMzdhNjhiNzBiZDE2ZDQ1MDIyNTQ1ODY0YTAzYzRm",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Blurred",
+        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        }
+      ],
+      "duration_ms": 305546,
+      "name": "Blurred",
+      "url": "https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Nabi",
         "url": "https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 232914,
       "name": "Nabi",
       "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Blurred",
-        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
-      },
-      "artists": [
-        {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
-        }
-      ],
-      "duration_ms": 305546,
-      "name": "Blurred",
-      "url": "https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Since Then. 2017",
-        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
-      },
-      "artists": [
-        {
-          "name": "Ian Pooley",
-          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
-        }
-      ],
-      "duration_ms": 274080,
-      "name": "Venasque",
-      "url": "https://open.spotify.com/track/20XyCtN4HMiL1BsvXyengf"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Intimate Fantasy - EP",
         "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 493000,
       "name": "Intimate Fantasy",
       "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Since Then. 2017",
+        "url": "https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM"
+      },
+      "artists": [
+        {
+          "name": "Ian Pooley",
+          "url": "https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS"
+        }
+      ],
+      "duration_ms": 274080,
+      "name": "Venasque",
+      "url": "https://open.spotify.com/track/20XyCtN4HMiL1BsvXyengf"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Tiefer",
-        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
-      },
-      "artists": [
-        {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
-        }
-      ],
-      "duration_ms": 214014,
-      "name": "Tiefer",
-      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Soleil Kr\u00e9yol",
         "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Keep Smiling [Remastered] (Remastered Version)",
-        "url": "https://open.spotify.com/album/04bsO604edaafFrGyDcaFy"
+        "name": "Tiefer",
+        "url": "https://open.spotify.com/album/3SLo0Ps3JXHBGlB5iDCK14"
       },
       "artists": [
         {
-          "name": "Laid Back",
-          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
         }
       ],
-      "duration_ms": 512080,
-      "name": "Fly Away / Walking in the Sunshine - 2008 Remaster",
-      "url": "https://open.spotify.com/track/39HnpKxGPzP3EUlXvs4VBQ"
+      "duration_ms": 214014,
+      "name": "Tiefer",
+      "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1163,6 +1147,22 @@
       "duration_ms": 273117,
       "name": "It Was 9:30 and You Were Beautiful",
       "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Keep Smiling [Remastered] (Remastered Version)",
+        "url": "https://open.spotify.com/album/04bsO604edaafFrGyDcaFy"
+      },
+      "artists": [
+        {
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
+        }
+      ],
+      "duration_ms": 512080,
+      "name": "Fly Away / Walking in the Sunshine - 2008 Remaster",
+      "url": "https://open.spotify.com/track/39HnpKxGPzP3EUlXvs4VBQ"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "maracuya massage",
-      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Amo Amo",
         "url": "https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "maracuya massage",
+      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Sacred",
         "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 347317,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Spreading Rhythm",
-        "url": "https://open.spotify.com/album/5js5mipJeFth3kA7jgtGcB"
-      },
-      "artists": [
-        {
-          "name": "Jojo Effect",
-          "url": "https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL"
-        }
-      ],
-      "duration_ms": 241500,
-      "name": "Echo Valley",
-      "url": "https://open.spotify.com/track/35XkKkjfM3zU2v9fOQ5Wuk"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1331,6 +1315,22 @@
       "duration_ms": 262281,
       "name": "Caf\u00e9 Com Leite",
       "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Spreading Rhythm",
+        "url": "https://open.spotify.com/album/5js5mipJeFth3kA7jgtGcB"
+      },
+      "artists": [
+        {
+          "name": "Jojo Effect",
+          "url": "https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL"
+        }
+      ],
+      "duration_ms": 241500,
+      "name": "Echo Valley",
+      "url": "https://open.spotify.com/track/35XkKkjfM3zU2v9fOQ5Wuk"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Time out of Mind",
         "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
       },
@@ -1391,18 +1407,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+        "name": "Into Daylight",
+        "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        },
+        {
+          "name": "Hush Forever",
+          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
         }
       ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
+      "duration_ms": 295989,
+      "name": "Verbana (feat. Hush Forever)",
+      "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1439,26 +1459,6 @@
       "duration_ms": 220546,
       "name": "V\u00f4o sobre o horizonte",
       "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Into Daylight",
-        "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        },
-        {
-          "name": "Hush Forever",
-          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
-        }
-      ],
-      "duration_ms": 295989,
-      "name": "Verbana (feat. Hush Forever)",
-      "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1511,6 +1511,22 @@
       "duration_ms": 222680,
       "name": "Camino Del Sol",
       "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Cantoma (Deluxe)",
+        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
+      },
+      "artists": [
+        {
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        }
+      ],
+      "duration_ms": 325760,
+      "name": "Pandajero",
+      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1611,22 +1627,6 @@
       "duration_ms": 372640,
       "name": "You Rock Me - Long Version",
       "url": "https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Cantoma (Deluxe)",
-        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        }
-      ],
-      "duration_ms": 325760,
-      "name": "Pandajero",
-      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
     },
     {
       "added_at": "2023-07-14 11:01:37",

@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 79742,
+  "num_followers": 79832,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmY1ZTIyNzc5YWZlYmIzYjhjZjc0NzA4YmZkYjU2NTUxYjllNWYx",
+  "snapshot_id": "MCw2ZWQ1ZWNmNGUzMWE3OGFkY2FjMWQ3OTdkYzcwMzVjOWQ1OGUwZjc0",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "counting crimes",
+        "url": "https://open.spotify.com/album/1v48gFxTeyWAeZDcB06sQW"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 182676,
+      "name": "counting crimes",
+      "url": "https://open.spotify.com/track/3EsFsEIcsdf4r5Y9UuW0yC"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "f.e.a.r.",
         "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 161561,
       "name": "pity party (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "counting crimes",
-        "url": "https://open.spotify.com/album/1v48gFxTeyWAeZDcB06sQW"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 182676,
-      "name": "counting crimes",
-      "url": "https://open.spotify.com/track/3EsFsEIcsdf4r5Y9UuW0yC"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "pretty poison",
+        "url": "https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 164994,
+      "name": "keep me afraid",
+      "url": "https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "Purity",
         "url": "https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 143428,
       "name": "Bitches These Days",
       "url": "https://open.spotify.com/track/1Ls9hQqVRPIIWnylIlHg48"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "pretty poison",
-        "url": "https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 164994,
-      "name": "keep me afraid",
-      "url": "https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi"
     },
     {
       "added_at": "2022-11-15 00:54:21",

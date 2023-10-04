@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,508 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,650 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 9 | [The hall is dancing](https://open.spotify.com/track/6UnSlwVAEPblKJING6FH5Z) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Transitions](https://open.spotify.com/album/7dopFnnInju2yjJe127paH) | 1:03 |
 | 10 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 |
 | 11 | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK) | 2:30 |
-| 12 | [Last Words](https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:49 |
-| 13 | [Past, Present & Future \- Intro](https://open.spotify.com/track/254QTqbIfInFIF38D2N48W) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy) | 1:00 |
+| 12 | [Past, Present & Future \- Intro](https://open.spotify.com/track/254QTqbIfInFIF38D2N48W) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy) | 1:00 |
+| 13 | [Last Words](https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:49 |
 | 14 | [forgotten thoughts, but it's nightcore](https://open.spotify.com/track/3g4KjrkyzdPyKW7iMBb6Zs) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:17 |
 | 15 | [afterdark.](https://open.spotify.com/track/1LEO99UJQTKugOVT62f6rf) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [afterdark.](https://open.spotify.com/album/6SzfyFW0pQHh7MJxXp6N3I) | 1:33 |
 | 16 | [Let Go](https://open.spotify.com/track/07Mde29eZ6MxAErYEwI5eG) | [ghostlycheeks](https://open.spotify.com/artist/4uQ0iSRBd2jAuRtxaelbnv) | [Let Go](https://open.spotify.com/album/1YO2U8t5Enh14ouHTKGR4k) | 3:30 |
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 28 | [Greenland](https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:11 |
 | 29 | [sleepless](https://open.spotify.com/track/2l3IMrkVUCUYLhSRGapTqu) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [sleepless](https://open.spotify.com/album/6PRpxN0aYV7kHmSOAaGWRr) | 2:29 |
 | 30 | [Shelter](https://open.spotify.com/track/2uiJtY5SHZI5dIvN7JmovH) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Shelter](https://open.spotify.com/album/1vsh8Ayq54a9N3XEXUT43e) | 2:40 |
-| 31 | [i watch the moon](https://open.spotify.com/track/2BkAkYGDk1SW09iZPefGMT) | [Flemish Bond](https://open.spotify.com/artist/4DAPVs6oobdlMxB54nt0Ik) | [i watch the moon](https://open.spotify.com/album/71mInbV0RMuAfEFznRyW8U) | 1:42 |
-| 32 | [Shootout \(8D Version\)](https://open.spotify.com/track/2SYciSIUYvHMPItZhWY3mI) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout \(8D Version\)](https://open.spotify.com/album/0xzDvef5MR20wNTwyTkhSJ) | 4:53 |
+| 31 | [Shootout \(8D Version\)](https://open.spotify.com/track/2SYciSIUYvHMPItZhWY3mI) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout \(8D Version\)](https://open.spotify.com/album/0xzDvef5MR20wNTwyTkhSJ) | 4:53 |
+| 32 | [i watch the moon](https://open.spotify.com/track/2BkAkYGDk1SW09iZPefGMT) | [Flemish Bond](https://open.spotify.com/artist/4DAPVs6oobdlMxB54nt0Ik) | [i watch the moon](https://open.spotify.com/album/71mInbV0RMuAfEFznRyW8U) | 1:42 |
 | 33 | [fallinginlove.](https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [daydream.](https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR) | 1:37 |
 | 34 | [walk](https://open.spotify.com/track/1qCgW8pAIIiDuoN1slJCd9) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [hollow](https://open.spotify.com/album/7IFoewD0yAxNyLHHVqALoG) | 1:54 |
-| 35 | [No Time Left](https://open.spotify.com/track/1ZHRQbm7S54eSKEhKiw1rl) | [Hazy](https://open.spotify.com/artist/4zoz0st7CqesHkO58AbJtl) | [Nirvana](https://open.spotify.com/album/4YakhJKIpxIx7HGD8WI4oz) | 1:45 |
-| 36 | [Drifting Away](https://open.spotify.com/track/2eNGGlykvjQyStOU7DBHvE) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [Drifting Away](https://open.spotify.com/album/1hQ6aHQZssr7VVzIczYZMa) | 2:45 |
-| 37 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
+| 35 | [Dandelion's Lullaby](https://open.spotify.com/track/4TLoYT6uaGydqUQRZ9hlxG) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Dandelion's Lullaby](https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW) | 2:03 |
+| 36 | [No Time Left](https://open.spotify.com/track/1ZHRQbm7S54eSKEhKiw1rl) | [Hazy](https://open.spotify.com/artist/4zoz0st7CqesHkO58AbJtl) | [Nirvana](https://open.spotify.com/album/4YakhJKIpxIx7HGD8WI4oz) | 1:45 |
+| 37 | [Drifting Away](https://open.spotify.com/track/2eNGGlykvjQyStOU7DBHvE) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [Drifting Away](https://open.spotify.com/album/1hQ6aHQZssr7VVzIczYZMa) | 2:45 |
 | 38 | [Organ Variation](https://open.spotify.com/track/6dkJvNZ7DJWzTFXv3KHmoT) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 4:51 |
 | 39 | [The Beach](https://open.spotify.com/track/41CMzNSRuMlxCxBiFMJhpC) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [The Beach](https://open.spotify.com/album/0b7YKgSQgWkVxpYsbd4oBQ) | 2:36 |
 | 40 | [livin](https://open.spotify.com/track/2XgZ0iZEOrqjiXMUyPcFqJ) | [yassprodd](https://open.spotify.com/artist/0WZLL9XHd4QId3RNI2kZ6Y) | [livin](https://open.spotify.com/album/3EKBf6jNY2loEs6R7BBdsq) | 1:31 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 43 | [Alone Forever](https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Isolation](https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA) | 1:20 |
 | 44 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
 | 45 | [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 |
-| 46 | [mirage](https://open.spotify.com/track/7gy6sob5awFll0Pc5zPP1w) | [théos](https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [mirage](https://open.spotify.com/album/2sk4WAQuLII3lYSUWFYZuU) | 1:58 |
-| 47 | [Starry Night](https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Novella](https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP) | 4:58 |
+| 46 | [Starry Night](https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Novella](https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP) | 4:58 |
+| 47 | [mirage](https://open.spotify.com/track/7gy6sob5awFll0Pc5zPP1w) | [théos](https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [mirage](https://open.spotify.com/album/2sk4WAQuLII3lYSUWFYZuU) | 1:58 |
 | 48 | [空蝉](https://open.spotify.com/track/512AumOSEWMM6zQXgohm0P) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 2:55 |
 | 49 | [for B.](https://open.spotify.com/track/4eqYoFG2SGQqMFCvKrjtiu) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [for B.](https://open.spotify.com/album/3l3JcGx513fCNPY6nGarLk) | 1:29 |
 | 50 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
 
-Snapshot ID: `MCw4ZGJkMzU2MTUyOThiMjhiYmZmNGQ5OGU0YzExZWViYWJjZjhiODE1`
+Snapshot ID: `MCw3NGUwM2EzYWNmOTg4Zjc2YWVkYjMxNzVmNTNjMzE3MTVjYzJhYmFi`

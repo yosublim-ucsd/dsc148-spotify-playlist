@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Nonso Amadi, Majid Jordan",
-  "num_followers": 7271,
+  "num_followers": 7279,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDFiZjlkNGQxNTQ1N2U4NTUxNjY1NzY3YzEzOWUwZTA1YzQ1ZDc4",
+  "snapshot_id": "MCxkZmM5OWZhOWJlMzFiMDRkYmNlNWQ5OGE0ZTY5OGUyYzI3MTdiMjRh",
   "tracks": [
     {
       "added_at": "2023-09-29 04:14:30",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-09-29 04:14:30",
       "album": {
-        "name": "Talk Luv",
-        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 164468,
-      "name": "Talk Luv",
-      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
-    },
-    {
-      "added_at": "2023-09-29 04:14:30",
-      "album": {
         "name": "Go\u00fbter +",
         "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 208192,
       "name": "in ur motion",
       "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
+    },
+    {
+      "added_at": "2023-09-29 04:14:30",
+      "album": {
+        "name": "Talk Luv",
+        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 164468,
+      "name": "Talk Luv",
+      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
     },
     {
       "added_at": "2023-09-29 04:14:30",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-09-29 04:14:30",
       "album": {
-        "name": "Lost In You",
-        "url": "https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/7N2r26B4SQ9YTjacvK03P1"
-    },
-    {
-      "added_at": "2023-09-29 04:14:30",
-      "album": {
         "name": "Get Home SAFE (Part 1)",
         "url": "https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 116571,
       "name": "By My Side (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7"
+    },
+    {
+      "added_at": "2023-09-29 04:14:30",
+      "album": {
+        "name": "Lost In You",
+        "url": "https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7N2r26B4SQ9YTjacvK03P1"
     },
     {
       "added_at": "2023-09-29 04:14:30",

@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 131013,
       "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -5666,7 +5666,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 157333,
       "name": "No One",
       "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
@@ -9640,7 +9640,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 223301,
       "name": "You Are Nobody (feat. \u3072\u304b\u308a) - TOSHIKI HAYASHI(%C) Remix",
       "url": "https://open.spotify.com/track/0LUleEmZOpT6mv2yXQxFdi"
@@ -9662,6 +9662,24 @@
       "duration_ms": 230906,
       "name": "You Never Visit Me - Single Version",
       "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
+    },
+    {
+      "album": {
+        "name": "Young Hearts",
+        "url": "https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "Young Hearts",
+      "url": "https://open.spotify.com/track/3dOQIVqCojMVKlOSreRzY8"
     },
     {
       "album": {

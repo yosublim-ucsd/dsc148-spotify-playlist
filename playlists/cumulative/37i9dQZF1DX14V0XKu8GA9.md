@@ -4,7 +4,7 @@
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: King Lil G & Young Drummer Boy
 
-328 songs - 15 hr 30 min
+329 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL), [$tonehardt](https://open.spotify.com/artist/6L0fEdbyPCFjfm8f0Ap58i), [Dexter Cayn](https://open.spotify.com/artist/2xOGNq8UOojSAnw31dYfq2) | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk) | 2:55 | 2023-01-27 | 2023-05-28 |
 | [Moonwalk](https://open.spotify.com/track/5cPfJgcnZLtyUitz9CylpR) | [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Moonwalk](https://open.spotify.com/album/5pqbrQJlvFOahCU9L7uoIS) | 3:41 | 2022-01-10 | 2022-07-06 |
 | [Morals & Principles](https://open.spotify.com/track/13hDks0qJA8JrSIFU2r6ac) | [Acito](https://open.spotify.com/artist/01oY6wumU3INVxo8ddX7mj), [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Morals & Principles](https://open.spotify.com/album/33PSLhe3pw56zPpXsC1nQk) | 2:40 | 2023-09-15 | 2023-10-02 |
+| [Morals & Principles](https://open.spotify.com/track/7taqc8ECCZeRWtjaCEYzlc) | [Acito](https://open.spotify.com/artist/01oY6wumU3INVxo8ddX7mj), [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [The Ace Of Spades](https://open.spotify.com/album/0HNREpMTFSwFnURnDYEYS8) | 2:40 | 2023-09-15 |  |
 | [more than friends](https://open.spotify.com/track/3Dt44kA5p1NDlLWQcuiJr8) | [Jay Roxxx](https://open.spotify.com/artist/7jIEDP5VQzhBrWsEK3nmWo), [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [more than friends](https://open.spotify.com/album/6p6oSg0hCA5sA9UK8DFSzf) | 2:56 | 2023-09-15 |  |
 | [Move](https://open.spotify.com/track/6c3HU5YjF0BuQVPls6wuBT) | [Cashout Ace](https://open.spotify.com/artist/6Dl48jX9PUpN2t1L48xOrI) | [Move](https://open.spotify.com/album/3HbRYqmBBvZuz9tAjZZcRa) | 2:01 | 2022-01-10 | 2022-02-21 |
 | [Move Fast \(feat\. Cypress Moreno & Low The Great\)](https://open.spotify.com/track/2sOPuotMtP3A5zgrfmGQBh) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Low the Great](https://open.spotify.com/artist/1M3n2lIeQHcETTVPYS6Ccb) | [Move Fast \(feat\. Cypress Moreno & Low The Great\)](https://open.spotify.com/album/4hLKmlOgRA1VH1D7d9i1cH) | 2:40 | 2023-09-15 |  |
@@ -256,7 +257,7 @@
 | [Se Acabó](https://open.spotify.com/track/5kvObosrU54AXCyOMrtqnu) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [Se Acabó](https://open.spotify.com/album/0jfj6Iuu437od6y51BfXOY) | 2:57 | 2022-01-10 | 2022-02-19 |
 | [Secret Service](https://open.spotify.com/track/3Ejd7TKYqanSVfTBDAFPxH) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [GEEZYWORLD](https://open.spotify.com/album/0kNhJM4dXKfsKbCERz7QBg) | 3:12 | 2022-01-10 | 2022-02-21 |
 | [Secret Service](https://open.spotify.com/track/7dWlTb1dK0kS0l7wji2Z1w) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Secret Service](https://open.spotify.com/album/2kys8S6QIA6AC4d8yHfdMs) | 3:12 | 2022-01-10 | 2022-02-26 |
-| [Shadow Banned](https://open.spotify.com/track/2qkObeNbfhoiPjAI5iFCyj) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [Shadow Banned](https://open.spotify.com/album/7rqLkVkk8JvoZMhmy9sKWD) | 2:54 | 2023-03-10 |  |
+| [Shadow Banned](https://open.spotify.com/track/2qkObeNbfhoiPjAI5iFCyj) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [Shadow Banned](https://open.spotify.com/album/7rqLkVkk8JvoZMhmy9sKWD) | 2:54 | 2023-03-10 | 2023-10-04 |
 | [Shattered](https://open.spotify.com/track/0w2YKaOL31NhORK7fvhUAQ) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [The Man Who Fell To Earth](https://open.spotify.com/album/7JL67si0UZNoev6kwD4jAY) | 2:17 | 2022-09-11 | 2023-01-28 |
 | [She gon choose](https://open.spotify.com/track/3PPAAIrkrrmBPuXf54xsqd) | [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw), [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [She gon choose](https://open.spotify.com/album/54oZoaoaXspC5YzHqtH6Jk) | 2:26 | 2023-09-15 |  |
 | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/track/2TWmbQKpAPXudKaTZkk544) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 2:36 | 2022-03-25 | 2023-01-28 |

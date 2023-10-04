@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,466,469 likes - 231 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,466,761 likes - 231 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 22 | [Tranquil Minds](https://open.spotify.com/track/3zCo3Pwx52Ek3wzlNjGgY5) | [Jacques Ferrandi](https://open.spotify.com/artist/5ZHteW1wcQ0lo61nAFQPV7) | [Tranquil Minds](https://open.spotify.com/album/6uyXcnQcfFE5Dl10yC2zWS) | 3:10 |
 | 23 | [More Human](https://open.spotify.com/track/2PDkltumMKXM72dKnED6Ck) | [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [More Human](https://open.spotify.com/album/46FuIwnxjGuBDs9SY33KuD) | 2:34 |
 | 24 | [Redwood Forest](https://open.spotify.com/track/2Dcq0sHQ9PLeixqdyz3aCy) | [Reversible](https://open.spotify.com/artist/0vPodmVWzicTAEAhq4OyID) | [Redwood Forest](https://open.spotify.com/album/3J1JTX1j0Q1qXPdgxC9Voj) | 2:12 |
-| 25 | [And There You Were](https://open.spotify.com/track/1r9tcQmkq2JBXbrEmhKu4N) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [For Tiny Feet](https://open.spotify.com/album/1GjPYdwgU2AU0Isa8pEYGN) | 2:24 |
+| 25 | [And There You Were](https://open.spotify.com/track/5wgdYkgZVflEgEmFIWvpug) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Close To Maman](https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH) | 2:24 |
 | 26 | [Léift Nostalgie](https://open.spotify.com/track/2Y9ICJk4tqJ3R4pK4DJv4d) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Léift Nostalgie](https://open.spotify.com/album/40Ab0PYvR6kRWGGvzp4ubK) | 2:39 |
 | 27 | [Awakening](https://open.spotify.com/track/7IwHCgH4i9MiJxT7jEhZ31) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Awakening](https://open.spotify.com/album/5oaWGoZ0WMSEQolzeQzeer) | 2:02 |
 | 28 | [Evoke](https://open.spotify.com/track/5nH4IicA1G7pxIfgHPZNp0) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Evoke](https://open.spotify.com/album/6C8bQ1SVXBEbc2bTJDndJH) | 2:14 |
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 31 | [The Voyager](https://open.spotify.com/track/6u8ftnh4bKbKvWNu8ozes8) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [The Voyager](https://open.spotify.com/album/6nBGhLiVCCHBbJH1j8zzYK) | 2:22 |
 | 32 | [Beautiful day](https://open.spotify.com/track/7tvFtyI2LhuDAWWJA4mVqr) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Beautiful day](https://open.spotify.com/album/0RlsiytRwYEp3gu4R7AgzN) | 3:02 |
 | 33 | [Calm Waters](https://open.spotify.com/track/4tOvimzaiRtoRSO2Fi7hFZ) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Calm Waters](https://open.spotify.com/album/1z0rEpc8QBWh0aepFwKJok) | 2:36 |
-| 34 | [And There You Were](https://open.spotify.com/track/1r9tcQmkq2JBXbrEmhKu4N) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [For Tiny Feet](https://open.spotify.com/album/1GjPYdwgU2AU0Isa8pEYGN) | 2:24 |
+| 34 | [And There You Were](https://open.spotify.com/track/5wgdYkgZVflEgEmFIWvpug) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Close To Maman](https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH) | 2:24 |
 | 35 | [Amalgam](https://open.spotify.com/track/0i4LbBW7DOlVcXThcRlbsP) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Amalgam](https://open.spotify.com/album/4fK4kG2XPZkaP9p0zrEV9k) | 2:12 |
 | 36 | [Autumnal Gold](https://open.spotify.com/track/7lKWLWAVjBtknyZ5u7dhaj) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Autumnal Gold](https://open.spotify.com/album/6TEOw0rKpA2oEBQVvyuC9j) | 2:04 |
 | 37 | [Eclipse](https://open.spotify.com/track/5nbWpY8HpQSdqWbPBWmJ8j) | [Ron Lopata](https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA) | [Sketches For Piano](https://open.spotify.com/album/0goZUsZwzGvX8oWFnF6e1z) | 2:17 |
 | 38 | [Mélange Weaved](https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Mélange Weaved](https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq) | 2:06 |
 | 39 | [Poetry](https://open.spotify.com/track/2rlOcXfBwMlZfMvXGvSkU7) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Poetry](https://open.spotify.com/album/7nWkxo27xOWNSBvlnRPGd8) | 3:01 |
 | 40 | [Sunset](https://open.spotify.com/track/0ag92nW0SFgRFtFPk34u6y) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Sunset](https://open.spotify.com/album/02Y1OTMuvVLFcIdetI1EFF) | 2:08 |
-| 41 | [Ninon](https://open.spotify.com/track/4U0kjpWXa1Jfr4Z54GjKNk) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [La Maison d’Isabelle](https://open.spotify.com/album/1U1oZuqZ1PCoVGbxfAMbU5) | 2:24 |
+| 41 | [Ninon](https://open.spotify.com/track/5zt7kPSoNPqnMh5J7qyl8f) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Levinas](https://open.spotify.com/album/5qm4snvjWmMNhDZyBuGhDo) | 2:24 |
 | 42 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 |
 | 43 | [Nocturne No.1: The Stars Are Your Friends](https://open.spotify.com/track/44stpzDXyTfG9LV97pHHP0) | [Matt Bettinson](https://open.spotify.com/artist/5MtYl3JKJxBUNtTo50XZcx) | [Nocturne No.1: The Stars Are Your Friends](https://open.spotify.com/album/6KxXL9mncQwzIz4SFtUVQF) | 2:30 |
 | 44 | [Moments of movement](https://open.spotify.com/track/2hHiDZt7uHjaIIUa2H9qBU) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Moments of movement](https://open.spotify.com/album/0gLpOwvM4ZUnonSZV5Odp3) | 2:12 |
@@ -240,4 +240,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 230 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 |
 | 231 | [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 |
 
-Snapshot ID: `MCxlYTQzOWExNzQ4Y2FmYmY4ZmQ0NjZiM2QyODUyYjY2ZTI0Njc0YmYy`
+Snapshot ID: `MCxkNzE0NTU0ZGFkMjBlNmY2MWIyNzZmMDI2MjM4MzljMjg0YWQxOTUy`

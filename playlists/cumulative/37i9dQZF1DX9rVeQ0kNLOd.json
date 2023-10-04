@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "I just wanna dance with you- period",
+        "url": "https://open.spotify.com/album/50sOlknlpkacgE0gSXrQQS"
+      },
+      "artists": [
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232563,
+      "name": "flash",
+      "url": "https://open.spotify.com/track/4K6pJPtAgURhU1GGdjuHJa"
+    },
+    {
+      "album": {
         "name": "20 (Complete Mixtape)",
         "url": "https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD"
       },
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 166600,
       "name": "Orange (feat. MC. waka)",
       "url": "https://open.spotify.com/track/6GVW9TSNhzllTEWMJ4HneI"
@@ -3315,6 +3333,24 @@
     },
     {
       "album": {
+        "name": "\u30e1\u30ed\u30a6",
+        "url": "https://open.spotify.com/album/61fCCjJSfGbgL3yAbES3hD"
+      },
+      "artists": [
+        {
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206202,
+      "name": "\u30e1\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/5Q5r5pGb9l0maFA8RPQW8x"
+    },
+    {
+      "album": {
         "name": "wheel of life",
         "url": "https://open.spotify.com/album/23V4MjO0LO5wMfDg0Al29s"
       },
@@ -3380,7 +3416,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 150681,
       "name": "\u4eba\u751f\u306f\u30e9\u30d6\u30b3\u30e1\u3058\u3083\u306a\u3044",
       "url": "https://open.spotify.com/track/4Elw59NCfkX7GU4M3u4Csb"

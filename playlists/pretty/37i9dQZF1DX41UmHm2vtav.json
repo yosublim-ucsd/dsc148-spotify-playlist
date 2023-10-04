@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 442444,
+  "num_followers": 442611,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzg2NDk1MjdhMjM5NThlODhkYjg0ZmMwNjdmZTAwNjM1NTRhNDVj",
+  "snapshot_id": "MCxlOTEwNjBlZjI1NTYxZDgzNDZhNjBmNzMzOTBiZDIxMGZjYTNjNTI5",
   "tracks": [
     {
       "added_at": "2023-09-29 03:03:00",
@@ -183,6 +183,30 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/5daWuGgRobKJj2FG0dgYXo"
+      },
+      "artists": [
+        {
+          "name": "Jaydan Wolf",
+          "url": "https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0"
+        },
+        {
+          "name": "Te Pai",
+          "url": "https://open.spotify.com/artist/1MGdLAHg2Wq4mSE6OEqXqg"
+        },
+        {
+          "name": "Kosimo",
+          "url": "https://open.spotify.com/artist/01tarNGsg4dinY1iJPHZBq"
+        }
+      ],
+      "duration_ms": 124226,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/3PJvNwNj6AhlVxm69dcyTB"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
         "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
       },
@@ -231,30 +255,6 @@
       "duration_ms": 205238,
       "name": "Anuncia\u00e7\u00e3o - Jopin Remix",
       "url": "https://open.spotify.com/track/5MU0hFRrFjG0IxKOKa1IPp"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
-        "name": "Smells Like Teen Spirit",
-        "url": "https://open.spotify.com/album/5daWuGgRobKJj2FG0dgYXo"
-      },
-      "artists": [
-        {
-          "name": "Jaydan Wolf",
-          "url": "https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0"
-        },
-        {
-          "name": "Te Pai",
-          "url": "https://open.spotify.com/artist/1MGdLAHg2Wq4mSE6OEqXqg"
-        },
-        {
-          "name": "Kosimo",
-          "url": "https://open.spotify.com/artist/01tarNGsg4dinY1iJPHZBq"
-        }
-      ],
-      "duration_ms": 124226,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/3PJvNwNj6AhlVxm69dcyTB"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -495,6 +495,34 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] [2023 Version]",
+        "url": "https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 160961,
+      "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
+      "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "Algum Ritmo (Remix)",
         "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
       },
@@ -583,34 +611,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] [2023 Version]",
-        "url": "https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 160961,
-      "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
-      "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "T\u00f4 de F\u00e9rias",
         "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
       },
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "V\u00e1rias Queixas (Remix)",
-        "url": "https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs"
-      },
-      "artists": [
-        {
-          "name": "Brunetta",
-          "url": "https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 123142,
-      "name": "V\u00e1rias Queixas - Remix",
-      "url": "https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -695,6 +675,26 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
+        "name": "V\u00e1rias Queixas (Remix)",
+        "url": "https://open.spotify.com/album/1S6sbl3tadU3c426t5hwBs"
+      },
+      "artists": [
+        {
+          "name": "Brunetta",
+          "url": "https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 123142,
+      "name": "V\u00e1rias Queixas - Remix",
+      "url": "https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
       },
@@ -711,6 +711,26 @@
       "duration_ms": 193747,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Telegrama (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 159193,
+      "name": "Telegrama (Double MZK Remix)",
+      "url": "https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -735,26 +755,6 @@
       "duration_ms": 183370,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
-        "name": "Telegrama (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 159193,
-      "name": "Telegrama (Double MZK Remix)",
-      "url": "https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Oh! Chuva",
-        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Descobridor dos Sete Mares: Remix",
         "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 191250,
       "name": "Descobridor dos Sete Mares: Remix",
       "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Oh! Chuva",
+        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1367,22 +1367,26 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+        "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
+        "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
       },
       "artists": [
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
         },
         {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+          "name": "Pic Schmitz",
+          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
+        },
+        {
+          "name": "Breno Rocha",
+          "url": "https://open.spotify.com/artist/0K2OlH7mYZqjcJXDuR35ut"
         }
       ],
-      "duration_ms": 179481,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
+      "duration_ms": 158824,
+      "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
+      "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1407,26 +1411,22 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
-        "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
       },
       "artists": [
         {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
         },
         {
-          "name": "Pic Schmitz",
-          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
-        },
-        {
-          "name": "Breno Rocha",
-          "url": "https://open.spotify.com/artist/0K2OlH7mYZqjcJXDuR35ut"
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
         }
       ],
-      "duration_ms": 158824,
-      "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
-      "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
+      "duration_ms": 179481,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
     },
     {
       "added_at": "2023-09-29 03:03:00",

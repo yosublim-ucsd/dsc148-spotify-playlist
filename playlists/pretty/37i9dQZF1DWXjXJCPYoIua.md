@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,906 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,088 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 79 | [EYO](https://open.spotify.com/track/50VID8NClGL3T4eJQhl9IX) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:25 |
 | 80 | [Tres Delinquentes \- Radio Version](https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U) | [Hip Hop 100 Hits \- Urban rap & R n B anthems inc\. Jay Z, A$ap Rocky, Wu\-Tang Clan & Nas](https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX) | 4:15 |
 | 81 | [No Me Arrepiento \(feat\. Gera MX, Neto Peña, Santa Fe Klan\)](https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 4:28 |
-| 82 | [Liga Malandra](https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Duende](https://open.spotify.com/artist/6RqzIj3qOKsNemp4GZMDH9), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Quetzal](https://open.spotify.com/artist/1NsELvHsy63esCtlakIxjD), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t) | [Locofonías](https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT) | 6:00 |
-| 83 | [Entrada Sin Salida](https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK) | [Mr\. Yosie Locote](https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR) | [Viaje Sin Equipaje](https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw) | 4:15 |
+| 82 | [Entrada Sin Salida](https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK) | [Mr\. Yosie Locote](https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR) | [Viaje Sin Equipaje](https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw) | 4:15 |
+| 83 | [Liga Malandra](https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Duende](https://open.spotify.com/artist/6RqzIj3qOKsNemp4GZMDH9), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Quetzal](https://open.spotify.com/artist/1NsELvHsy63esCtlakIxjD), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t) | [Locofonías](https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT) | 6:00 |
 | 84 | [So Fly](https://open.spotify.com/track/2BjIi07kN0yKSur0Fwrnss) | [NB Ridaz](https://open.spotify.com/artist/2KNDYRKdCzuKzCCUyjAcF4), [Big Gemini](https://open.spotify.com/artist/0jbx51hrAITPKt71DQj4lt) | [NB Ridaz.com](https://open.spotify.com/album/7wbQYeQPqFVDCir28YTlSM) | 4:14 |
 | 85 | [Ya Te la Cypress](https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:07 |
 | 86 | [Papá](https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [No Teníamos Nada, Pero Éramos Felices](https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 99 | [Mamacita](https://open.spotify.com/track/2NngcJXkyG5Mo6OO3775r0) | [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb) | [Sin Corte](https://open.spotify.com/album/6u1jmCdZsZTaLQywoAdVsZ) | 3:37 |
 | 100 | [Te Escondes](https://open.spotify.com/track/7qpV9Ot7eEtfKky1FI2yNY) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Socios II](https://open.spotify.com/album/61RLppWoLAO4mG3xBRAOEi) | 3:57 |
 
-Snapshot ID: `MCwxOTMzNmQ1N2QwMDU4NmZiZTBiNDA3OTUwNzMwMmQyMzdkNTE0Y2Jk`
+Snapshot ID: `MCw2MzBiYTNkZWFlYTVhMmExNjRmNDA5YTIyNGM0ZmVhY2VlN2RiZGU0`

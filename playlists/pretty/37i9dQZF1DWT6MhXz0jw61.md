@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Earthgang
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,297,284 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,297,407 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [FLAWS](https://open.spotify.com/track/0EnlvUZO6N6TadHIwbRkRQ) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FLAWS](https://open.spotify.com/album/2HeQ8J78llo9ltuobnqS1F) | 4:07 |
 | 100 | [Reload](https://open.spotify.com/track/702jqUrz5uHhhW2D47pkXE) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP), [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR) | [Reload](https://open.spotify.com/album/5UiSftvU7SPmgCsz4gCPX6) | 2:15 |
 
-Snapshot ID: `MCxkOGY1Y2MyZmVjYWEyZDZkNjQ2YmE3ZWFmMjM5MzdkMDNlMGY3MGJl`
+Snapshot ID: `MCwwZWY3MjA4ZGZiYTgyNjg5ZDdjZWE0ODI5YmRiYTdhODY4N2NhZWFl`

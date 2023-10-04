@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-367 songs - 15 hr 53 min
+368 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@
 | [Blazing](https://open.spotify.com/track/4a4xMLfNR4gNYBOdqXJafV) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Blazing](https://open.spotify.com/album/3xZZ9V4l1VjBDvpDUxnynu) | 2:07 | 2022-04-27 |  |
 | [Blessed with a fire](https://open.spotify.com/track/1CjqK7of4R5W0lrUjjfRdx) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Blessed with a fire](https://open.spotify.com/album/4OkclVD647nRAOSsgOzxKr) | 2:06 | 2023-07-18 |  |
 | [Blue Light](https://open.spotify.com/track/7dquOWRPNWnUT5i4R0mP90) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Blue Light](https://open.spotify.com/album/7LcAKBxLzrACoefQrTLUQ1) | 2:14 | 2022-05-26 |  |
+| [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/00PMrRJ5KFM730sipeOuoz) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- First Meditation](https://open.spotify.com/album/5VaNEQPcYQ87Kj1fYW1uTn) | 1:48 | 2023-09-18 |  |
 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/1CBWjgZy7onlRVByYknOLo) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Second Psalm](https://open.spotify.com/album/5StjzAp4cqRyGZyit1Qc3T) | 1:48 | 2023-08-22 | 2023-09-06 |
-| [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/7kgZUuD4aj8M0WfDxIxms7) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Mysterious Ways](https://open.spotify.com/album/1BfKFbABeUVtwlEVtXi3yU) | 1:48 | 2023-09-05 |  |
+| [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/7kgZUuD4aj8M0WfDxIxms7) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Mysterious Ways](https://open.spotify.com/album/1BfKFbABeUVtwlEVtXi3yU) | 1:48 | 2023-09-05 | 2023-10-04 |
 | [Breathe](https://open.spotify.com/track/3gtL7UMzcc54SjrOT0ZZE4) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Breathe / Debris](https://open.spotify.com/album/2wb8IcAFeV3ndOH36qTsRH) | 2:30 | 2022-04-14 | 2022-05-14 |
 | [Bringing Us Closer](https://open.spotify.com/track/407EfKCYlIForjXcRROQlv) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Bringing Us Closer](https://open.spotify.com/album/4H1jcyemjRrTrONqXXKy4b) | 1:59 | 2023-08-01 |  |
 | [Candice](https://open.spotify.com/track/29jQKqToqxKPsDy2IeKjan) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Candice](https://open.spotify.com/album/4dAIB4LbNy3LCupWfH8oxD) | 3:34 | 2022-04-14 | 2022-06-08 |

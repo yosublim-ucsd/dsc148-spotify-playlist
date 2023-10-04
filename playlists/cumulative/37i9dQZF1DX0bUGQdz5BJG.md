@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: John Morgan
 
-1,660 songs - 3 day 16 hr 59 min
+1,661 songs - 3 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,7 +601,8 @@
 | [Her](https://open.spotify.com/track/0DxQMXqaPwr0sEhLJJLycH) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Her](https://open.spotify.com/album/7I2c6Y3Gmbwq4uFcUH4Dv4) | 3:25 | 2023-01-13 | 2023-03-11 |
 | [Her Heartland](https://open.spotify.com/track/3vcchODam0X8E5Kw6ZTi6E) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Her Heartland](https://open.spotify.com/album/4fmOwemthCcEPLUKGYIBmu) | 3:15 | 2023-06-30 | 2023-09-16 |
 | [Her On Out](https://open.spotify.com/track/2zP9v1DeorQeZx1Z3EA3pu) | [Baker Grissom](https://open.spotify.com/artist/33oGwiMtijTES49M0gJAEG) | [Her On Out](https://open.spotify.com/album/3pZeTBS3yxRyg8eBgpVR4S) | 3:09 | 2022-07-22 | 2022-10-01 |
-| [Her To Here](https://open.spotify.com/track/7JxCeAdqeyT6zeXJjZt8LW) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Her To Here](https://open.spotify.com/album/1L1YLlqDbm86g3XEdUBer6) | 3:02 | 2023-09-08 |  |
+| [Her To Here](https://open.spotify.com/track/04e0idTPfV4J93WeZWSx78) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Side Effects Of The Heart](https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK) | 3:02 | 2023-10-01 |  |
+| [Her To Here](https://open.spotify.com/track/7JxCeAdqeyT6zeXJjZt8LW) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Her To Here](https://open.spotify.com/album/1L1YLlqDbm86g3XEdUBer6) | 3:02 | 2023-09-08 | 2023-10-04 |
 | [Here For It \(feat\. Ingrid Andress\)](https://open.spotify.com/track/539AfK6L46AlSeQLKerleq) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 3:03 | 2022-09-09 | 2022-09-17 |
 | [Hey Baby](https://open.spotify.com/track/0Zllgh8EyHoz04GsftiKxu) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Hearts Don't Rust](https://open.spotify.com/album/2Q2YOfInc2bXbfHRMgjIz2) | 3:44 | 2022-04-15 | 2022-06-18 |
 | [Hey Cowboy](https://open.spotify.com/track/6ramzCbQgaJukYKKzyJgDf) | [Autumn Brooke](https://open.spotify.com/artist/7EeFKSkojmKuaho1zh5GUD) | [Hey Cowboy](https://open.spotify.com/album/5kWO071j9kglgFUVVDRBWn) | 4:48 | 2022-05-25 | 2022-09-24 |

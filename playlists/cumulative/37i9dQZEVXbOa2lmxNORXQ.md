@@ -4,12 +4,12 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-755 songs - 1 day 17 hr 38 min
+756 songs - 1 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/2eKY4TBKeXnUXMtSLj4R0n) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2cfDV7HO5hy7Gw4nHY3igS) | 2:31 | 2021-08-07 | 2021-08-16 |
-| [100 Años Más](https://open.spotify.com/track/1OVH3lS2nSy6jniSfrb2bo) | [El Potro Alvarez](https://open.spotify.com/artist/6P4uOSrdyHqsyLDVcBYUry), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [100 Años Más](https://open.spotify.com/album/0BEl3RY1rgR1twNrhgDzcq) | 3:52 | 2023-09-19 |  |
+| [100 Años Más](https://open.spotify.com/track/1OVH3lS2nSy6jniSfrb2bo) | [El Potro Alvarez](https://open.spotify.com/artist/6P4uOSrdyHqsyLDVcBYUry), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [100 Años Más](https://open.spotify.com/album/0BEl3RY1rgR1twNrhgDzcq) | 3:52 | 2023-09-19 | 2023-10-04 |
 | [100 MILLONES](https://open.spotify.com/track/4Ixc50wY5pbUvNEogTQ2wL) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [100 MILLONES](https://open.spotify.com/album/5nqsQ0kfgdhrN8is8FR2rP) | 3:57 | 2021-05-30 | 2021-05-31 |
 | [11 Y ONCE](https://open.spotify.com/track/1YUTTfAThKaxEYP9Zfv21V) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:16 | 2023-07-01 | 2023-07-03 |
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-01-12 | 2022-08-28 |
@@ -628,6 +628,7 @@
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-01-13 | 2023-06-11 |
 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 | 2022-02-01 | 2022-02-28 |
 | [Si La Calle Llama \- Remix](https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:00 | 2023-03-18 | 2023-06-19 |
+| [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-03 |  |
 | [Si No Estás Aquí](https://open.spotify.com/track/5XHCXBNv2o1yop8tNm1du2) | [Bimbo el Oso Mañoso](https://open.spotify.com/artist/2P5WbTImnPSJQV4ZbQuQZ3), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP) | [Si No Estás Aquí](https://open.spotify.com/album/7JevfqfhIKER6JPeBdG3hx) | 2:36 | 2022-12-09 | 2022-12-22 |
 | [Si Salimos](https://open.spotify.com/track/7GfQEUSuqYGeY2L0BfVOXM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:21 | 2023-03-18 | 2023-03-22 |
 | [Si Supieran](https://open.spotify.com/track/4JOD18HMnM0RNIdeCMYem3) | [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Si Supieran](https://open.spotify.com/album/2kclsnBdL83nNNLJbZxNca) | 3:23 | 2023-08-18 | 2023-08-31 |

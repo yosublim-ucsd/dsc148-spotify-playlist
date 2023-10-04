@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Vismay Patel
 
-123 songs - 6 hr 50 min
+124 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,9 +85,10 @@
 | [Meri Banogi Kya](https://open.spotify.com/track/6gprR0rGv59wALbBU7yZkl) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Meri Banogi Kya](https://open.spotify.com/album/0cpuLQbNPdQtnKsjbu6NsW) | 3:35 | 2023-05-02 |  |
 | [Mocaccino](https://open.spotify.com/track/0PWzSjfce4Sqn9sA7FT9CU) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Mocaccino](https://open.spotify.com/album/2I0Y2c7G4Xw8HP7FRVSUbp) | 2:34 | 2023-05-26 | 2023-06-02 |
 | [Mujhe Mere Naam Se](https://open.spotify.com/track/3QaIy5RwASN8UuRVuw5BHz) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Mujhe Mere Naam Se](https://open.spotify.com/album/6KGAJk0rHos4UNZErML5Ap) | 3:43 | 2023-05-02 | 2023-08-05 |
+| [Mulaqat](https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa) | 4:06 | 2023-10-03 |  |
 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 | 2023-05-02 |  |
 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 | 2023-05-02 |  |
-| [Muskurayega](https://open.spotify.com/track/0AUyEpUEtwv3VdIDVanQg0) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Mikey McCleary](https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn), [Yashraj Mukhate](https://open.spotify.com/artist/1Ki1jGLoZSYLza3HnudAhI) | [Muskurayega](https://open.spotify.com/album/1892Qln1rYhD8V6tT0ECJF) | 3:43 | 2023-09-05 |  |
+| [Muskurayega](https://open.spotify.com/track/0AUyEpUEtwv3VdIDVanQg0) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Mikey McCleary](https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn), [Yashraj Mukhate](https://open.spotify.com/artist/1Ki1jGLoZSYLza3HnudAhI) | [Muskurayega](https://open.spotify.com/album/1892Qln1rYhD8V6tT0ECJF) | 3:43 | 2023-09-05 | 2023-10-04 |
 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-09-27 |  |
 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 | 2023-05-02 |  |
 | [Nasamjhi](https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nasamjhi](https://open.spotify.com/album/2N7wAkruqvQadV0W7P7xSL) | 3:44 | 2023-05-10 | 2023-07-02 |

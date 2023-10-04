@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 113016,
+  "num_followers": 113059,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzhmMzRmZGE2NTAxOGY4YjRiODA4OWU2Mzg5OTM0YjQ0ZmU0YTA4",
+  "snapshot_id": "MCw2YjIwMGJkNGIyYjNhYWI2YWM1M2Y5NjRhODcxZTE5Nzk0NjJkM2Yy",
   "tracks": [
     {
       "added_at": "2023-09-22 20:38:05",
@@ -219,8 +219,8 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "Old Love",
-        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
+        "name": "Nameless",
+        "url": "https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 205769,
-      "name": "Old Love",
-      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
+      "duration_ms": 221824,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -335,8 +335,8 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "Nameless",
-        "url": "https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU"
+        "name": "Old Love",
+        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 221824,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO"
+      "duration_ms": 205769,
+      "name": "Old Love",
+      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "Dans la seconde",
-        "url": "https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx"
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
       },
       "artists": [
         {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 273000,
-      "name": "L'\u00e9chafaud",
-      "url": "https://open.spotify.com/track/4rfqSbkpuX1LFT0urfeGi8"
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
-    },
-    {
-      "added_at": "2023-09-22 20:38:05",
-      "album": {
         "name": "Glossover",
         "url": "https://open.spotify.com/album/3zzUyJjhDn2qydMngk4rRe"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 229463,
       "name": "Glossover",
       "url": "https://open.spotify.com/track/5pE001IPon6BwglRIwSDZv"
+    },
+    {
+      "added_at": "2023-09-22 20:38:05",
+      "album": {
+        "name": "Dans la seconde",
+        "url": "https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx"
+      },
+      "artists": [
+        {
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "L'\u00e9chafaud",
+      "url": "https://open.spotify.com/track/4rfqSbkpuX1LFT0urfeGi8"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+        "name": "C'est tout, c'est rien",
+        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
       },
       "artists": [
         {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Sweetpie",
-      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
+      "duration_ms": 173515,
+      "name": "C'est tout, c'est rien",
+      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "C'est tout, c'est rien",
-        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
         }
       ],
-      "duration_ms": 173515,
-      "name": "C'est tout, c'est rien",
-      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+      "duration_ms": 201557,
+      "name": "Tu trembleras encore",
+      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -607,6 +607,22 @@
       "duration_ms": 209570,
       "name": "Elle vit dans les bois",
       "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
+    },
+    {
+      "added_at": "2023-09-22 20:38:05",
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Sweetpie",
+      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -631,22 +647,6 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "Petite plage",
-        "url": "https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Les \u00e9pousailles",
-      "url": "https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp"
-    },
-    {
-      "added_at": "2023-09-22 20:38:05",
-      "album": {
         "name": "Le bois",
         "url": "https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC"
       },
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+        "name": "Petite plage",
+        "url": "https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
         }
       ],
-      "duration_ms": 201557,
-      "name": "Tu trembleras encore",
-      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
+      "duration_ms": 158480,
+      "name": "Les \u00e9pousailles",
+      "url": "https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "La Fin du Monde",
-        "url": "https://open.spotify.com/album/1Mftp1y25xbwPnIVumAo6o"
-      },
-      "artists": [
-        {
-          "name": "Joseph Carr\u00e9",
-          "url": "https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44"
-        }
-      ],
-      "duration_ms": 218532,
-      "name": "La Fin du Monde",
-      "url": "https://open.spotify.com/track/1yvOuYHUOrFWMk3k5dUjvi"
-    },
-    {
-      "added_at": "2023-09-22 20:38:05",
-      "album": {
         "name": "Pers\u00e9ides",
         "url": "https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 175746,
       "name": "Lost River",
       "url": "https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge"
+    },
+    {
+      "added_at": "2023-09-22 20:38:05",
+      "album": {
+        "name": "La Fin du Monde",
+        "url": "https://open.spotify.com/album/1Mftp1y25xbwPnIVumAo6o"
+      },
+      "artists": [
+        {
+          "name": "Joseph Carr\u00e9",
+          "url": "https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44"
+        }
+      ],
+      "duration_ms": 218532,
+      "name": "La Fin du Monde",
+      "url": "https://open.spotify.com/track/1yvOuYHUOrFWMk3k5dUjvi"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "Me semble que c'est facile",
-        "url": "https://open.spotify.com/album/79oVShReMrIa4ACzMTX990"
-      },
-      "artists": [
-        {
-          "name": "Lisa LeBlanc",
-          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Me semble que c'est facile",
-      "url": "https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4"
-    },
-    {
-      "added_at": "2023-09-22 20:38:05",
-      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 191280,
       "name": "Le vent se l\u00e8ve",
       "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+    },
+    {
+      "added_at": "2023-09-22 20:38:05",
+      "album": {
+        "name": "Me semble que c'est facile",
+        "url": "https://open.spotify.com/album/79oVShReMrIa4ACzMTX990"
+      },
+      "artists": [
+        {
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Me semble que c'est facile",
+      "url": "https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "Ma chanson Natashquan",
-        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 198928,
-      "name": "Ma chanson Natashquan",
-      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
-    },
-    {
-      "added_at": "2023-09-22 20:38:05",
-      "album": {
         "name": "SITKA",
         "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
       },
@@ -1275,22 +1259,6 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "C'est Plus Comme Avant (Version Acoustique)",
-        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 166306,
-      "name": "C'est Plus Comme Avant - Version Acoustique",
-      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
-    },
-    {
-      "added_at": "2023-09-22 20:38:05",
-      "album": {
         "name": "AVALANCHE (n.f.)",
         "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
@@ -1303,6 +1271,54 @@
       "duration_ms": 188516,
       "name": "Tu pars",
       "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+    },
+    {
+      "added_at": "2023-09-22 20:38:05",
+      "album": {
+        "name": "Ma chanson Natashquan",
+        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 198928,
+      "name": "Ma chanson Natashquan",
+      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
+    },
+    {
+      "added_at": "2023-09-22 20:38:05",
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "duration_ms": 200005,
+      "name": "Le Tour",
+      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
+    },
+    {
+      "added_at": "2023-09-22 20:38:05",
+      "album": {
+        "name": "C'est Plus Comme Avant (Version Acoustique)",
+        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 166306,
+      "name": "C'est Plus Comme Avant - Version Acoustique",
+      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -1343,38 +1359,6 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "Les artifices",
-        "url": "https://open.spotify.com/album/7BvlJsXbXMIxoA9EEJr6cq"
-      },
-      "artists": [
-        {
-          "name": "Marilou",
-          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Les artifices",
-      "url": "https://open.spotify.com/track/0ElBgVzjnmsUHx7FwiwPZe"
-    },
-    {
-      "added_at": "2023-09-22 20:38:05",
-      "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
-      },
-      "artists": [
-        {
-          "name": "Clerel",
-          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
-        }
-      ],
-      "duration_ms": 200005,
-      "name": "Le Tour",
-      "url": "https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU"
-    },
-    {
-      "added_at": "2023-09-22 20:38:05",
-      "album": {
         "name": "Ceci est une esp\u00e8ce aim\u00e9e",
         "url": "https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+        "name": "Les artifices",
+        "url": "https://open.spotify.com/album/7BvlJsXbXMIxoA9EEJr6cq"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
         }
       ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+      "duration_ms": 238000,
+      "name": "Les artifices",
+      "url": "https://open.spotify.com/track/0ElBgVzjnmsUHx7FwiwPZe"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -1435,6 +1419,22 @@
       "duration_ms": 231906,
       "name": "Nos corps",
       "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
+    },
+    {
+      "added_at": "2023-09-22 20:38:05",
+      "album": {
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -1487,70 +1487,6 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "L'impasse",
-        "url": "https://open.spotify.com/album/2pQ4KWozkrWLmCXFeJJWJf"
-      },
-      "artists": [
-        {
-          "name": "Moran",
-          "url": "https://open.spotify.com/artist/1tJxanDuDZ2DWpBYxDH8Qm"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "L'impasse",
-      "url": "https://open.spotify.com/track/1zXz9HAxMVvqnVRED2PQXy"
-    },
-    {
-      "added_at": "2023-09-22 20:38:05",
-      "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
-    },
-    {
-      "added_at": "2023-09-22 20:38:05",
-      "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Un peu de magie",
-      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
-    },
-    {
-      "added_at": "2023-09-22 20:38:05",
-      "album": {
-        "name": "Fables (The Garden Version)",
-        "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
-      },
-      "artists": [
-        {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
-        }
-      ],
-      "duration_ms": 176536,
-      "name": "Fables - The Garden Version",
-      "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
-    },
-    {
-      "added_at": "2023-09-22 20:38:05",
-      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1571,6 +1507,54 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
+        "name": "Fables (The Garden Version)",
+        "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "duration_ms": 176536,
+      "name": "Fables - The Garden Version",
+      "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
+    },
+    {
+      "added_at": "2023-09-22 20:38:05",
+      "album": {
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Un peu de magie",
+      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
+    },
+    {
+      "added_at": "2023-09-22 20:38:05",
+      "album": {
+        "name": "Elle danse",
+        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
+      },
+      "artists": [
+        {
+          "name": "Mimi O'Bonsawin",
+          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
+        }
+      ],
+      "duration_ms": 149015,
+      "name": "Elle danse",
+      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
+    },
+    {
+      "added_at": "2023-09-22 20:38:05",
+      "album": {
         "name": "Notre-Dame-des-Sept-Douleurs",
         "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
@@ -1583,6 +1567,42 @@
       "duration_ms": 235800,
       "name": "J'aurai les cheveux longs",
       "url": "https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD"
+    },
+    {
+      "added_at": "2023-09-22 20:38:05",
+      "album": {
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
+    },
+    {
+      "added_at": "2023-09-22 20:38:05",
+      "album": {
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+      },
+      "artists": [
+        {
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 257838,
+      "name": "Pleure pas pour moi",
+      "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
     },
     {
       "added_at": "2023-09-22 20:38:05",
@@ -1619,34 +1639,18 @@
     {
       "added_at": "2023-09-22 20:38:05",
       "album": {
-        "name": "Elle danse",
-        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
+        "name": "L'impasse",
+        "url": "https://open.spotify.com/album/2pQ4KWozkrWLmCXFeJJWJf"
       },
       "artists": [
         {
-          "name": "Mimi O'Bonsawin",
-          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
+          "name": "Moran",
+          "url": "https://open.spotify.com/artist/1tJxanDuDZ2DWpBYxDH8Qm"
         }
       ],
-      "duration_ms": 149015,
-      "name": "Elle danse",
-      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
-    },
-    {
-      "added_at": "2023-09-22 20:38:05",
-      "album": {
-        "name": "Maison ouverte",
-        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
-      },
-      "artists": [
-        {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "Maison ouverte",
-      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
+      "duration_ms": 242186,
+      "name": "L'impasse",
+      "url": "https://open.spotify.com/track/1zXz9HAxMVvqnVRED2PQXy"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

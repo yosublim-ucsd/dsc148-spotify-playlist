@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of hip-hop tracks from South Asia. Cover:  Channi Nattan & Inderpal Moga",
+  "description": "Best of hip-hop tracks from South Asia. Cover:  Shubh",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 372000,
       "name": "12 Bajay",
       "url": "https://open.spotify.com/track/4G4mzPZFeJRtiTRMZer86A"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 204507,
       "name": "12 Bande",
       "url": "https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 343118,
       "name": "Afsanay",
       "url": "https://open.spotify.com/track/05sqcYfU2wMlKwPVJ0rotq"
@@ -439,6 +439,36 @@
     },
     {
       "album": {
+        "name": "Anjaan",
+        "url": "https://open.spotify.com/album/7bzGEQUHmMZOcz0DQdecAO"
+      },
+      "artists": [
+        {
+          "name": "JANI",
+          "url": "https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc"
+        },
+        {
+          "name": "superdupersultan",
+          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+        },
+        {
+          "name": "Nabeel Akbar",
+          "url": "https://open.spotify.com/artist/7jMFYa22assapoqtlqAiXe"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303203,
+      "name": "Anjaan",
+      "url": "https://open.spotify.com/track/34udZ2dsuJZaXmpmnIR2jy"
+    },
+    {
+      "album": {
         "name": "Area 06",
         "url": "https://open.spotify.com/album/7uanSnGe72OAGYQkBRq0Hc"
       },
@@ -480,6 +510,32 @@
       "duration_ms": 102315,
       "name": "Arrogant",
       "url": "https://open.spotify.com/track/2jt9VV6QGn0tbwkrr26OO6"
+    },
+    {
+      "album": {
+        "name": "Lunch Break",
+        "url": "https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "Faris Shafi",
+          "url": "https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD"
+        },
+        {
+          "name": "Talal Qureshi",
+          "url": "https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "Asal G",
+      "url": "https://open.spotify.com/track/1uBScPDkr0M98KHxsX4QKp"
     },
     {
       "album": {
@@ -716,7 +772,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 195428,
       "name": "Basti Ka Hasti",
       "url": "https://open.spotify.com/track/3k9PtGmPNnQtt32TKWm6f3"
@@ -810,7 +866,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 230400,
       "name": "Bitch I'm Back",
       "url": "https://open.spotify.com/track/2mKvEIvd912eg3FZ8WamMS"
@@ -828,7 +884,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 247272,
       "name": "Blowing Up",
       "url": "https://open.spotify.com/track/3Oh2FwWbnKIAyUE2gToFYu"
@@ -978,7 +1034,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 174000,
       "name": "Chal Bombay",
       "url": "https://open.spotify.com/track/6AooRgSRDzbCYL4NZ4RCjU"
@@ -1004,7 +1060,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 205040,
       "name": "Chauffeur",
       "url": "https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB"
@@ -1040,7 +1096,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 193663,
       "name": "CHUSAMBA",
       "url": "https://open.spotify.com/track/73N5AghXPjYtAoS6RIYPZd"
@@ -1062,7 +1118,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 227990,
       "name": "City Slums (feat. DIVINE)",
       "url": "https://open.spotify.com/track/6xzQ1uSk2Rzz6Xdf8xBnWn"
@@ -1208,6 +1264,24 @@
       "duration_ms": 201600,
       "name": "Dilli Waali Baatcheet",
       "url": "https://open.spotify.com/track/4z5TrwJbxRL25IbVXM6fch"
+    },
+    {
+      "album": {
+        "name": "Still Rollin",
+        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139133,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s"
     },
     {
       "album": {
@@ -1526,7 +1600,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 175500,
       "name": "Gandhi Money",
       "url": "https://open.spotify.com/track/3DXP7pJNl1AmAUl90CAGe0"
@@ -1592,10 +1666,40 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 168640,
       "name": "Ghana Kasoota (feat. Surbhi Jyoti)",
       "url": "https://open.spotify.com/track/0mvcsYusnTYlAkOZ077lDb"
+    },
+    {
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "JJ47",
+          "url": "https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394766,
+      "name": "Glass Half Full",
+      "url": "https://open.spotify.com/track/3Nl8qEBZYoXUTASuCV2Mla"
     },
     {
       "album": {
@@ -1702,10 +1806,50 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 163404,
       "name": "Gunehgar",
       "url": "https://open.spotify.com/track/4hzDCJUFDyk66oIBirPiCl"
+    },
+    {
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/5M0pviz4op3uvRnKTnPoce"
+    },
+    {
+      "album": {
+        "name": "Haryana Hood",
+        "url": "https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj"
+      },
+      "artists": [
+        {
+          "name": "Irshad Khan",
+          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "Haryana Hood",
+      "url": "https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl"
     },
     {
       "album": {
@@ -1780,7 +1924,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 258666,
       "name": "Hot Launde (feat. Fotty Seven, Bali)",
       "url": "https://open.spotify.com/track/2LQRU9QKAaommF4fL29AbW"
@@ -1838,7 +1982,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 116046,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0"
@@ -2105,6 +2249,32 @@
     },
     {
       "album": {
+        "name": "Kyun",
+        "url": "https://open.spotify.com/album/4Tw4sujoJDZCu2gKKQS6Ak"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Kyun",
+      "url": "https://open.spotify.com/track/4lDmFJg35YoU7GDDRMSHdA"
+    },
+    {
+      "album": {
         "name": "Laado",
         "url": "https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB"
       },
@@ -2197,6 +2367,50 @@
     },
     {
       "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/3UhoziCnYqcgxFpzYSx233"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Sunny Malton",
+          "url": "https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228705,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/60YICjIPdL7LDBcCMK0tAk"
+    },
+    {
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/3TM5mdqSJRUdGu1nBr1KoC"
+      },
+      "artists": [
+        {
+          "name": "aleemrk",
+          "url": "https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217875,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/0GD8UKZxIfKGMLrmrmatZm"
+    },
+    {
+      "album": {
         "name": "Likha Maine",
         "url": "https://open.spotify.com/album/1mvEpzkd0dq0bPlkV6gn87"
       },
@@ -2246,6 +2460,28 @@
       "duration_ms": 186947,
       "name": "Lion Heart (feat. Jeremy Oceans & KARRA)",
       "url": "https://open.spotify.com/track/4EZDJ5FMTj5pCJe2HBmd21"
+    },
+    {
+      "album": {
+        "name": "Different Phase",
+        "url": "https://open.spotify.com/album/4fXbGkCU7IEQs4Ow4rCQV5"
+      },
+      "artists": [
+        {
+          "name": "aleemrk",
+          "url": "https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181682,
+      "name": "Living In The City",
+      "url": "https://open.spotify.com/track/6f9Fi68sUYdZyG47tYzBVV"
     },
     {
       "album": {
@@ -2424,7 +2660,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 175187,
       "name": "Majhail",
       "url": "https://open.spotify.com/track/0cpyy8xLYRt1OdlnqPmMnm"
@@ -2580,7 +2816,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 192923,
       "name": "Mirchi",
       "url": "https://open.spotify.com/track/7zKzD5wM18bQSiJTAxTpwH"
@@ -2602,7 +2838,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 232173,
       "name": "Moosedrilla (feat. DIVINE)",
       "url": "https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV"
@@ -2738,6 +2974,32 @@
       "duration_ms": 237843,
       "name": "Neeye Oli",
       "url": "https://open.spotify.com/track/5qX9iF6UmV0cypQgeu4ujh"
+    },
+    {
+      "album": {
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Sunny Malton",
+          "url": "https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY"
+        },
+        {
+          "name": "SOE",
+          "url": "https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183225,
+      "name": "Never Fold",
+      "url": "https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462"
     },
     {
       "album": {
@@ -2898,10 +3160,32 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 180000,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/0n34awvLFvIayNC43L9JYw"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu"
+      },
+      "artists": [
+        {
+          "name": "Riar Saab",
+          "url": "https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q"
+        },
+        {
+          "name": "Abhijay Sharma",
+          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190444,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru"
     },
     {
       "album": {
@@ -3267,6 +3551,24 @@
     },
     {
       "album": {
+        "name": "Mtv Hustle 2.0",
+        "url": "https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "Ram Ram",
+      "url": "https://open.spotify.com/track/64jX14ntYSUd1lbzVgBMr6"
+    },
+    {
+      "album": {
         "name": "Punya Paap",
         "url": "https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5"
       },
@@ -3304,7 +3606,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 182378,
       "name": "Roll Deep",
       "url": "https://open.spotify.com/track/4jRoXx97M0sSZBfwMkBEDV"
@@ -3348,7 +3650,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 195505,
       "name": "Roll Up",
       "url": "https://open.spotify.com/track/7zR8dUcX3NH1N7S5Y1ySmR"
@@ -3610,7 +3912,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 228112,
       "name": "Shana Bann",
       "url": "https://open.spotify.com/track/5ZTsPwtt7aCuzbWd5rDGys"
@@ -3680,6 +3982,32 @@
       "duration_ms": 164666,
       "name": "Streetwise",
       "url": "https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC"
+    },
+    {
+      "album": {
+        "name": "Sushi // Woofer Paar De! (feat. Mykko Montana)",
+        "url": "https://open.spotify.com/album/63aWGpSQIQrf4tV7yfQwHD"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        },
+        {
+          "name": "Danny Zee",
+          "url": "https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP"
+        },
+        {
+          "name": "Mykko Montana",
+          "url": "https://open.spotify.com/artist/0xOtJ5JY4Urje1oVlMd3aS"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "Sushi // Woofer Paar De! (feat. Mykko Montana)",
+      "url": "https://open.spotify.com/track/2K82VcYXD0fzFfLhYadvCC"
     },
     {
       "album": {
@@ -3940,7 +4268,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 240000,
       "name": "Welcome to My Hood",
       "url": "https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4"

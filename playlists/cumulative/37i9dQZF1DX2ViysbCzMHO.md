@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-253 songs - 13 hr 48 min
+254 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Rock and A Hard Place \- Acoustic](https://open.spotify.com/track/1QLMOpJ9hjifk5pEiJdXMN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place \(Acoustic\)](https://open.spotify.com/album/1jp5itCaZpsTO6aK9KQH4R) | 3:27 | 2022-07-15 |  |
 | [Save The Roses \(Acoustic\)](https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Save The Roses \(Acoustic\)](https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N) | 3:17 | 2023-06-16 |  |
 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 | 2021-12-17 |  |
+| [See You Next Summer \- Acoustic](https://open.spotify.com/track/3IFhvMzycy0tFNbxEf1IjJ) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer \(Acoustic\)](https://open.spotify.com/album/1MaVV8K1KYUOEDK7uJCszn) | 2:37 | 2023-09-29 |  |
 | [Settling Down \- Acoustic](https://open.spotify.com/track/3qiFXINhnsIAkaE5AKPiKO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Settling Down \(Acoustic\)](https://open.spotify.com/album/5aoAYHBddUsvs2tkDfNDJL) | 2:27 | 2021-12-17 |  |
 | [She Had Me at Heads Carolina \- Acoustic](https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [She Had Me At Heads Carolina \(Acoustic\)](https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa) | 3:16 | 2022-10-07 | 2023-08-12 |
 | [She's Mine \(Acoustic\)](https://open.spotify.com/track/1hFQtqqucaLg96GiK4zQLI) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [She's Mine \(Acoustic\)](https://open.spotify.com/album/4Xb4L0bd5tEFwDMjoK1nwQ) | 3:09 | 2021-12-17 | 2022-07-13 |
@@ -256,7 +257,7 @@
 | [Yearbook](https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:32 | 2023-08-11 |  |
 | [You \- Acoustic](https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [You \(Acoustic\)](https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6) | 3:23 | 2022-08-12 |  |
 | [You and Jesus \- Acoustic](https://open.spotify.com/track/2dphPYc5468yOxlGZnf2VC) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus \(Acoustic\)](https://open.spotify.com/album/7LpFZjTCMspClEBy3J5vWO) | 2:46 | 2022-05-27 | 2022-07-15 |
-| [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 | 2021-12-17 |  |
+| [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 | 2021-12-17 | 2023-10-04 |
 | [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 | 2023-05-12 |  |
 | [You Shouldn't Have \- Acoustic](https://open.spotify.com/track/5yeccia0PoUhrNwbL6s4uO) | [Cale Dodds](https://open.spotify.com/artist/4PRfc0tn0HR0GhzWHHckLt) | [You Shouldn't Have \(Acoustic\)](https://open.spotify.com/album/53R4FtEIlu4fGpVI9GtI0r) | 2:46 | 2021-12-17 | 2022-07-10 |
 | [You, Me, And Whiskey \- Acoustic](https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey \(Acoustic\)](https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5) | 3:07 | 2023-07-28 |  |

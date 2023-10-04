@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 
 > Warming instrumental guitar for sitting by the fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,915 likes - 135 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,993 likes - 135 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 134 | [New Leaf](https://open.spotify.com/track/0lgEKJERZvY8vGgbQMVYGS) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Will Moore](https://open.spotify.com/artist/6XnR821CI0nzD4XFQ2ZFDo) | [New Leaf](https://open.spotify.com/album/6xrjggEWZ8tiUtMi0jJJiw) | 2:42 |
 | 135 | [anticipation](https://open.spotify.com/track/0OhvlAMiXwy7i9dbnXbOWH) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [leaving the city](https://open.spotify.com/album/6wQyphlrdifX6l2gS3tM6x) | 3:46 |
 
-Snapshot ID: `MCxlNTI0YTc5MWI2MzUzYTk0ODFkZDMwMWMyMTkzOTk5NzA1NTFkNTk2`
+Snapshot ID: `MCxjMThiMjZlYzkwNzAxYzM5NzQ3OWVlMDI1YzI5NmVkZTg4OWM5YjEz`

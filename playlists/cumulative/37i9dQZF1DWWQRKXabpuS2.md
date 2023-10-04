@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: نوال الكويتية
 
-271 songs - 18 hr 29 min
+273 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Hatet Yadak](https://open.spotify.com/track/0hnemjZiAz2E1jg83hsQl0) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Hatet Yadak](https://open.spotify.com/album/2yvDoecCouFgoSA8u84OJ7) | 4:32 | 2021-12-23 | 2022-02-11 |
 | [Hatha Al Kalam](https://open.spotify.com/track/4YfGPnOkFzM1SjwqpCSE7U) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Hatha Al Kalam](https://open.spotify.com/album/6XX6i3D0ovgR2Q4m7Mc26Q) | 3:45 | 2023-07-14 |  |
 | [Hatha Wagtah](https://open.spotify.com/track/4Eqz3io18FtQNfdGnsDyS7) | [Ibrahim Dashti](https://open.spotify.com/artist/7fVr9abExkyr5UQwtlWvpD) | [Hatha Wagtah](https://open.spotify.com/album/2DWKzmPb4aGU3VzL5e1gta) | 3:23 | 2021-12-23 | 2022-02-18 |
-| [Hawah Al Galb](https://open.spotify.com/track/5BlZZscTZ3xbYVPbvqYOK2) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hawah Al Galb](https://open.spotify.com/album/3EnxQsWBV0QcyMkgxDEdIT) | 3:16 | 2023-04-22 |  |
+| [Hawah Al Galb](https://open.spotify.com/track/5BlZZscTZ3xbYVPbvqYOK2) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hawah Al Galb](https://open.spotify.com/album/3EnxQsWBV0QcyMkgxDEdIT) | 3:16 | 2023-04-22 | 2023-10-04 |
 | [Haza Elli Temaneto](https://open.spotify.com/track/0XmVMNePLkSrqv7JlIT2vb) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Haza Elli Temaneto](https://open.spotify.com/album/62r1w9pE7RZBaXs5X11A8p) | 4:35 | 2022-12-12 | 2023-05-27 |
 | [Heb](https://open.spotify.com/track/53Xns0CpcycCnu1emVMUjI) | [Ismail Mubarak](https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB) | [Heb](https://open.spotify.com/album/3v854wIhjld4VPwh1G5nvB) | 4:09 | 2022-02-17 | 2022-07-07 |
 | [Hkomt Hob](https://open.spotify.com/track/5hWczJhh8ERWxNHert1egA) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Hkomt Hob](https://open.spotify.com/album/1hlvdo7MrHcC1LImgvNOPX) | 4:32 | 2021-12-23 | 2022-01-07 |
@@ -200,6 +200,7 @@
 | [Wa Melha Wa Zenah](https://open.spotify.com/track/365AtYjRoVs31lH6eLfsOQ) | [Faissal Ben Khalid](https://open.spotify.com/artist/3n0tXmQ0nInop0zTYGfYSZ) | [Wa Melha Wa Zenah](https://open.spotify.com/album/5zWcspJbXEb1dSwhcIAUsk) | 3:51 | 2021-12-23 | 2022-06-04 |
 | [Wahshni](https://open.spotify.com/track/7qXJDw6ucdCPRPXYSDRdBX) | [Essa Alwad](https://open.spotify.com/artist/5EZ7zMZU3c0JMHq0yczerM) | [Wahshni](https://open.spotify.com/album/6NHVn2BIPCjj5mHuWLqLKV) | 4:03 | 2022-06-02 | 2022-11-15 |
 | [Walhat Wjet](https://open.spotify.com/track/6SHgMFXfzUdJg71xZqzAeJ) | [Abdulkader Alahmed](https://open.spotify.com/artist/7fpdcwPFWY9cOWQfEKKIbk) | [Walhat Wjet](https://open.spotify.com/album/3K5AxP8THalYPGOuzJk1UA) | 2:22 | 2021-12-23 | 2022-06-04 |
+| [Waqaf Lahfatk](https://open.spotify.com/track/3GOvsMkufURsrN48DNa9pq) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Methan](https://open.spotify.com/artist/5IsaX1fHYyxc6xcFee6JTC) | [Waqaf Lahfatk](https://open.spotify.com/album/5NMIcwpKdjL2ZlcahGjsOI) | 4:44 | 2023-10-03 |  |
 | [Wayn Ma Wayn](https://open.spotify.com/track/1kqMk4SFhqjURfdHaZHP5k) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g) | [Wayn Ma Wayn](https://open.spotify.com/album/527Um3zJpKjclamlE7OGuS) | 3:16 | 2022-03-03 | 2022-08-13 |
 | [Weddi Aeref](https://open.spotify.com/track/2zpd1Epv2gf5MUTtMCuaMv) | [Abdullah Salim](https://open.spotify.com/artist/0AVcYHRYw4hsEyXmaZMedz) | [Weddi Aeref](https://open.spotify.com/album/0GGhAFHqI12OYD0TX0frVl) | 4:04 | 2021-12-23 | 2022-05-14 |
 | [Wesh Fini](https://open.spotify.com/track/595iet95ZCUsYsHBYjyOZA) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Wesh Fini](https://open.spotify.com/album/1y0u5gcePiOuiKRHZLHnWR) | 3:11 | 2023-07-27 |  |
@@ -242,8 +243,9 @@
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 | 2023-01-10 |
 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-02-24 | 2022-08-13 |
 | [زلزال](https://open.spotify.com/track/0FO3XVNhGNq86mZ1uEhYvK) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثاني](https://open.spotify.com/album/0HpjLJZITkQQsW0HqiOVIB) | 4:16 | 2023-06-06 |  |
+| [زينة أيامي](https://open.spotify.com/track/1mPzk2rv2swdE6zIlAtphM) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [الأرض](https://open.spotify.com/album/3qtM8m7WDIl4lhrmKjCMTp) | 3:37 | 2023-10-03 |  |
 | [زينة أيامي](https://open.spotify.com/track/6oMkESxOjwd6PFXpCocEZz) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [زينة أيامي](https://open.spotify.com/album/4Xq6qnOSBMLA7MESvKNk8u) | 3:37 | 2023-09-08 | 2023-10-03 |
-| [زينة أيامي](https://open.spotify.com/track/77F0ZkjCzh3B2ASgfu9okX) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X) | 3:37 | 2023-09-30 |  |
+| [زينة أيامي](https://open.spotify.com/track/77F0ZkjCzh3B2ASgfu9okX) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X) | 3:37 | 2023-09-30 | 2023-10-04 |
 | [زينك دمار](https://open.spotify.com/track/0STEeSVMD2rRqkFtf7gGXC) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [زينك دمار](https://open.spotify.com/album/7LWT6p48ZKIEUrYBl80H20) | 4:34 | 2022-05-25 | 2022-09-09 |
 | [سرق قلبي](https://open.spotify.com/track/2kqlas6p59Cm6OeYp2rWFb) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [سرق قلبي](https://open.spotify.com/album/0IVWUkh9YUII3SPLQXwJHP) | 4:15 | 2023-01-31 | 2023-08-26 |
 | [سواليف الوله](https://open.spotify.com/track/6sX47nT4v24OVf2FbfGE70) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [سواليف الوله](https://open.spotify.com/album/6a2aQVXeBNvHM9ovsnWuor) | 3:23 | 2023-05-26 |  |
@@ -254,8 +256,8 @@
 | [عندي أهم](https://open.spotify.com/track/2pDNrMSCAiKGQbN0kPUZZS) | [محمد مبارك](https://open.spotify.com/artist/6HCSHVuuQlHb3qiOUqXlKi) | [عندي أهم](https://open.spotify.com/album/6Gl8OmHtePVXiJtyVenWLY) | 3:39 | 2021-12-23 | 2022-03-02 |
 | [فوق تحت](https://open.spotify.com/track/5rFL1zYLe4HXY7QR6WCSWZ) | [Faris Al Balad](https://open.spotify.com/artist/3HpHVn0w30wsHoLBxP5lNP) | [فوق تحت](https://open.spotify.com/album/3l25EQJ6dkSjMwl99fA460) | 2:29 | 2022-07-20 | 2022-07-27 |
 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 | 2022-11-06 | 2023-05-11 |
-| [قلب ناسيني](https://open.spotify.com/track/3JyFw5gHP8pxsudyl1kltg) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X) | 4:48 | 2023-09-30 |  |
-| [قلب ناسيني](https://open.spotify.com/track/6Z4kadPlbhC6nE5MxP8C81) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/3qtM8m7WDIl4lhrmKjCMTp) | 4:48 | 2023-09-30 | 2023-10-03 |
+| [قلب ناسيني](https://open.spotify.com/track/6Z4kadPlbhC6nE5MxP8C81) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [الأرض](https://open.spotify.com/album/3qtM8m7WDIl4lhrmKjCMTp) | 4:48 | 2023-09-30 |  |
+| [قلب ناسيني](https://open.spotify.com/track/3JyFw5gHP8pxsudyl1kltg) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X) | 4:48 | 2023-09-30 | 2023-10-04 |
 | [لبيه](https://open.spotify.com/track/0CZtin5PSGzCCHp0cxjHTT) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [لبيه](https://open.spotify.com/album/2julMTVNHEdU3D0vHOpyAd) | 3:47 | 2023-06-30 |  |
 | [ما عرفتك](https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [ما عرفتك](https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7) | 5:39 | 2023-03-01 | 2023-09-30 |
 | [مجنون](https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مجنون](https://open.spotify.com/album/1ivQ3SBQ6eWl7NqG3QMyYT) | 3:33 | 2023-04-26 |  |

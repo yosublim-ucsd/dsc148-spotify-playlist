@@ -149,6 +149,42 @@
     },
     {
       "album": {
+        "name": "THE BOOK 3",
+        "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48866,
+      "name": "Interlude \"Awakening\"",
+      "url": "https://open.spotify.com/track/3wT58LylGS5wfXLBWRsMaZ"
+    },
+    {
+      "album": {
+        "name": "THE BOOK 3",
+        "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67933,
+      "name": "Interlude \"Worship\"",
+      "url": "https://open.spotify.com/track/3UyBvmAK2MjkCpuJtYzQ40"
+    },
+    {
+      "album": {
         "name": "Into the Night",
         "url": "https://open.spotify.com/album/6MZSQuewUgYmyFGvN5S0rz"
       },

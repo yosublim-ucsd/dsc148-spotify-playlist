@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 
 > Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,517 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,549 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 | 25 | [Guadalupe](https://open.spotify.com/track/2gokZy0P2QgqIRGMljHJAg) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 3:24 |
 | 26 | [Each Time I Think of You](https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF) | [Beach Planet Vol\. 1](https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp) | 6:24 |
 | 27 | [Agua](https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:20 |
-| 28 | [Gato Negro \- Daniel Hokum & okuma Remix](https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Daniel Hokum](https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Gato Negro \(Daniel Hokum & Okuma Remix\)](https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg) | 6:35 |
-| 29 | [Que Me Siga \(Malo\)](https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Que Me Siga \(Malo\)](https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO) | 3:15 |
+| 28 | [Que Me Siga \(Malo\)](https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Que Me Siga \(Malo\)](https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO) | 3:15 |
+| 29 | [Gato Negro \- Daniel Hokum & okuma Remix](https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Daniel Hokum](https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Gato Negro \(Daniel Hokum & Okuma Remix\)](https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg) | 6:35 |
 | 30 | [Costa Paraíso](https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Pulso](https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr) | 4:44 |
 | 31 | [Métele \- Cesare Remix](https://open.spotify.com/track/5h5Mc6KAFfrVzsP9ENIH0S) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Cesare](https://open.spotify.com/artist/6I00pP9y2ql2aSsviBmf0r) | [Métele \(Cesare Remix\)](https://open.spotify.com/album/07fJL4eGqxwSzvmuYjdKT3) | 4:44 |
 | 32 | [Baile Fodongo](https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX) | [Altoparlante](https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU) | [Baile Fodongo](https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE) | 5:06 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 | 42 | [Conexión Total](https://open.spotify.com/track/2NC0w4Z6RuW5j7tGTy73E8) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Tierra](https://open.spotify.com/album/1fbKhVPG7X4oROz23Z7d2J) | 3:35 |
 | 43 | [Mano de Fatima](https://open.spotify.com/track/1823wxCop81BdNRMKcfygg) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X) | 3:55 |
 | 44 | [\#Sádico \- Sunsplash & Ferraz Remix](https://open.spotify.com/track/6biNxZAZzW1qmWZu78ao5C) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [\#Sádico](https://open.spotify.com/album/37IMDq8KEAMXmi78I5UpDe) | 4:33 |
-| 45 | [Speakin' Nuyorican](https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe) | 3:29 |
-| 46 | [Futurista](https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx) | 2:59 |
-| 47 | [Pandemia](https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8) | [Casta](https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ) | [Lázaro](https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN) | 4:16 |
+| 45 | [Futurista](https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx) | 2:59 |
+| 46 | [Speakin' Nuyorican](https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe) | 3:29 |
+| 47 | [Elelu Tomassita](https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [El Baile de las Arañas](https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw) | 6:44 |
 | 48 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 |
-| 49 | [Elelu Tomassita](https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [El Baile de las Arañas](https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw) | 6:44 |
-| 50 | [Sambita \- Remastered](https://open.spotify.com/track/3WqdQxa5yPMLSbbnA1u2s3) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:58 |
+| 49 | [Pandemia](https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8) | [Casta](https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ) | [Lázaro](https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN) | 4:16 |
+| 50 | [Ya Llegó \- Captain Planet Remix](https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Calentura: Toque \(Captain Planet Remixes\)](https://open.spotify.com/album/3mBNM16s2Nq2hfPNkhHSpz) | 4:04 |
 
-Snapshot ID: `MCwyOGU5MTFkYmExNzlkODk5MjgyMDk2YzRhMGVlMThhMDg0NDcyYzA3`
+Snapshot ID: `MCw3MzY3ZGRkOWZmNjU1OTU2YzhlMGI2ZDRiN2QxZWUwOWJjY2ViNmE5`

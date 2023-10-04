@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Curated by Bun B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,882 likes - 94 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,905 likes - 94 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 41 | [Like A Pimp](https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Mississippi: The Album](https://open.spotify.com/album/6wTmI6YwP14KXnDC35VTT7) | 4:14 |
 | 42 | [Texas Flood](https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 5:20 |
 | 43 | [Ante Up \(Robbin Hoodz Theory\)](https://open.spotify.com/track/550JPXXPgjr1xqxtKIaX6b) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Warriorz](https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j) | 4:08 |
-| 44 | [Around The Way Girl](https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb) | 4:08 |
-| 45 | [Throw Some D's](https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu) | [Rich Boy](https://open.spotify.com/artist/6mXlDbi03T8wXYwWYew0Ut), [Polow Da Don](https://open.spotify.com/artist/0gcDAjaKZIKMdYJoIdrIfR) | [Rich Boy](https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9) | 4:23 |
+| 44 | [Throw Some D's](https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu) | [Rich Boy](https://open.spotify.com/artist/6mXlDbi03T8wXYwWYew0Ut), [Polow Da Don](https://open.spotify.com/artist/0gcDAjaKZIKMdYJoIdrIfR) | [Rich Boy](https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9) | 4:23 |
+| 45 | [Around The Way Girl](https://open.spotify.com/track/6jL1SnyXcXiKOmw4M2RnmT) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/6dfYmbgWeJCgqJhnR4TfKb) | 4:08 |
 | 46 | [Shoulder Lean \(feat\. T.I.\)](https://open.spotify.com/track/2OqYarizUUGzSSNHPrDEii) | [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Best Thang Smokin' \(Explicit Version\)](https://open.spotify.com/album/4UZzO6rBo6wjM2zfuRgd3r) | 4:18 |
 | 47 | [Shorty Wanna Ride](https://open.spotify.com/track/6Y9kdB2O0h9gq9y2vclsWT) | [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Straight Outta Cashville](https://open.spotify.com/album/1E5TJXITJtczbSYmYR9LuQ) | 4:21 |
 | 48 | [Danger \(Been So Long\) \(feat\. Nivea\)](https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg) | [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN) | [Let's Get Ready](https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l) | 3:31 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 93 | [Top Billin'](https://open.spotify.com/track/0ctyMxVlNs8oE7k0ZMcrKn) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [Old School Hip Hop Beats](https://open.spotify.com/album/2KDLQ8ypKKudHoO49Ttpi0) | 2:55 |
 | 94 | [Could This Be Love](https://open.spotify.com/track/0W9DTUYHHGLl62f4ETnTWI) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love \(Deluxe\)](https://open.spotify.com/album/2kw3VjK47np2HYq8IkvgXk) | 5:13 |
 
-Snapshot ID: `MCw0ZmQ2NTVlZGQ0ZmIyYjgwZDExNjljMDZiZDhmMGE5MjFhYzRlNWMw`
+Snapshot ID: `MCwyZGZjMmE3ZWFlNWM3YWFhOWNlZTFlYzFjZTk0ZDlkYjhiYmRlNjAw`

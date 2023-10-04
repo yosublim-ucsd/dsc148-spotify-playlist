@@ -4,7 +4,7 @@
 
 > コンポーザーのAyase、ボーカルのikuraからなる「小説を音楽にするユニット」、YOASOBIの楽曲をひとつのプレイリストに。
 
-42 songs - 3 hr 37 min
+44 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,8 @@
 | [Haven't](https://open.spotify.com/track/33ALvsldNGJduk3Bqr7VjS) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:16 | 2022-11-17 |  |
 | [Idol](https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Idol](https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0) | 3:33 | 2023-05-25 |  |
 | [If I Could Draw Life](https://open.spotify.com/track/5ASNsnnOvreLu9FtvA3jpR) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:22 | 2022-11-17 |  |
+| [Interlude "Awakening"](https://open.spotify.com/track/3wT58LylGS5wfXLBWRsMaZ) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 0:48 | 2023-10-03 |  |
+| [Interlude "Worship"](https://open.spotify.com/track/3UyBvmAK2MjkCpuJtYzQ40) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 1:07 | 2023-10-03 |  |
 | [Into The Night](https://open.spotify.com/track/0JyJVPi4IBCgj2wTRKb0yN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Into the Night](https://open.spotify.com/album/6MZSQuewUgYmyFGvN5S0rz) | 4:22 | 2022-11-17 |  |
 | [Just a Little Step](https://open.spotify.com/track/3UCbRuJbsnEZeGLXefqeow) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:39 | 2022-11-17 |  |
 | [Love Letter](https://open.spotify.com/track/325iR7dCw6hNekr48puGdG) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:30 | 2022-11-17 |  |

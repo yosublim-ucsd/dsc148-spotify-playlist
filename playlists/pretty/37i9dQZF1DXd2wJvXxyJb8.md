@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > algum não monogamico online? vem de dm
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,819 likes - 66 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,596 likes - 66 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 65 | [Toma Tapa](https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Toma Tapa](https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV) | 2:02 |
 | 66 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MCw1NDk0NmVlM2VjYzU0NTRkZjZkYWE2ZDQxZDgxYTIxNTNkOGY0Y2Ri`
+Snapshot ID: `MCwwMDgyZjM3MDgzMTZjM2M0NjZlMDA0OGY0YmFlZTFiZWE1ZTU3ODBj`

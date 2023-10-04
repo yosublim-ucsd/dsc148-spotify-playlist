@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 520405,
+  "num_followers": 520592,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGEzYTAxMzc5M2JmYTcwMmI4ZGZjZGZiMWRiNjNmNTE1MWE0ZDc1",
+  "snapshot_id": "MCw2YTFiNTRkODk3MGFiNGI5OGEwODUxYWJhZGY4ODcyMTg2YjUwODk1",
   "tracks": [
     {
       "added_at": "2023-09-29 08:51:27",
@@ -719,30 +719,22 @@
     {
       "added_at": "2023-09-29 08:51:27",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob"
+        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         },
         {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 305120,
-      "name": "Prometiste",
-      "url": "https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj"
+      "duration_ms": 188213,
+      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
+      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
     },
     {
       "added_at": "2023-09-29 08:51:27",
@@ -783,22 +775,30 @@
     {
       "added_at": "2023-09-29 08:51:27",
       "album": {
-        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         },
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
         }
       ],
-      "duration_ms": 188213,
-      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
-      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+      "duration_ms": 305120,
+      "name": "Prometiste",
+      "url": "https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj"
     },
     {
       "added_at": "2023-09-29 08:51:27",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-09-29 08:51:27",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/2FQeikDvH8PH7JhunCQ6j1"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "La Mujer Que No So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/2rgH6C08H3J2AWlckoG9Vm"
+    },
+    {
+      "added_at": "2023-09-29 08:51:27",
+      "album": {
         "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
         "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 185038,
       "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
-    },
-    {
-      "added_at": "2023-09-29 08:51:27",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/2FQeikDvH8PH7JhunCQ6j1"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "La Mujer Que No So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/2rgH6C08H3J2AWlckoG9Vm"
     },
     {
       "added_at": "2023-09-29 08:51:27",
@@ -1275,22 +1275,6 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2023-09-29 08:51:27",
-      "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
-      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
     },
     {
       "added_at": "2023-09-29 08:51:27",
@@ -1387,38 +1371,18 @@
     {
       "added_at": "2023-09-29 08:51:27",
       "album": {
-        "name": "30 de Febrero",
-        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 185573,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL"
-    },
-    {
-      "added_at": "2023-09-29 08:51:27",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Heroe",
-      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
+      "duration_ms": 225480,
+      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
     },
     {
       "added_at": "2023-09-29 08:51:27",
@@ -1451,6 +1415,42 @@
       "duration_ms": 292760,
       "name": "Te Llor\u00e9 Un R\u00edo",
       "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
+    },
+    {
+      "added_at": "2023-09-29 08:51:27",
+      "album": {
+        "name": "30 de Febrero",
+        "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL"
+    },
+    {
+      "added_at": "2023-09-29 08:51:27",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "Heroe",
+      "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
     },
     {
       "added_at": "2023-09-29 08:51:27",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-09-29 08:51:27",
       "album": {
-        "name": "Haashtag",
-        "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Lo Que un Hombre Deber\u00eda Saber",
-      "url": "https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle"
-    },
-    {
-      "added_at": "2023-09-29 08:51:27",
-      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -1519,22 +1503,6 @@
       "duration_ms": 279000,
       "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
       "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
-    },
-    {
-      "added_at": "2023-09-29 08:51:27",
-      "album": {
-        "name": "Sincer\u00e1ndome",
-        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 219672,
-      "name": "Sincer\u00e1ndome",
-      "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
     },
     {
       "added_at": "2023-09-29 08:51:27",
@@ -1559,18 +1527,18 @@
     {
       "added_at": "2023-09-29 08:51:27",
       "album": {
-        "name": "Enam\u00f3rate De Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/7EpdDp3FoDcnS95f0wgSYb"
+        "name": "Sincer\u00e1ndome",
+        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 229107,
-      "name": "Enam\u00f3rate De Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/1fXKStjVOTmBEwjAnFSNkc"
+      "duration_ms": 219672,
+      "name": "Sincer\u00e1ndome",
+      "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
     },
     {
       "added_at": "2023-09-29 08:51:27",
@@ -1587,6 +1555,38 @@
       "duration_ms": 257379,
       "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
       "url": "https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS"
+    },
+    {
+      "added_at": "2023-09-29 08:51:27",
+      "album": {
+        "name": "Enam\u00f3rate De Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/7EpdDp3FoDcnS95f0wgSYb"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 229107,
+      "name": "Enam\u00f3rate De Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/1fXKStjVOTmBEwjAnFSNkc"
+    },
+    {
+      "added_at": "2023-09-29 08:51:27",
+      "album": {
+        "name": "Haashtag",
+        "url": "https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Lo Que un Hombre Deber\u00eda Saber",
+      "url": "https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle"
     },
     {
       "added_at": "2023-09-29 08:51:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,737 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,750 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 33 | [In The Morning \(Let Your Love Come In\) \- Sticky Radio Edit](https://open.spotify.com/track/1nneW6gCqP7U9BPQ4F3Adg) | [Egypt](https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86), [Richard Forbes](https://open.spotify.com/artist/0zz4dNczrASgFx0fkXrjJB) | [In The Morning \(Let Your Love Come In\)](https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk) | 2:53 |
 | 34 | [WYWD \- Remix](https://open.spotify.com/track/3Q6AwSkDHoNVDqNrfwuQPG) | [Girl Unit](https://open.spotify.com/artist/3Jq7bBEptoqWjGQwrkLTWp), [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Song Feel](https://open.spotify.com/album/5x0YjKmysDAXaAjxq8HLip) | 3:30 |
 | 35 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
-| 36 | [Love Dub](https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf) | [Cooly G](https://open.spotify.com/artist/0XfcR8jVPEm77dOJEN9tvq) | [Narst / Love Dub](https://open.spotify.com/album/14AlAp96M3GOiLoGSdeAYu) | 3:35 |
-| 37 | [Sentah](https://open.spotify.com/track/3ozyBc00Z3ZARwbvSYHBjP) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Sentah](https://open.spotify.com/album/3wkIHYwO7iSF8NGzaS89p2) | 3:08 |
+| 36 | [Sentah](https://open.spotify.com/track/3ozyBc00Z3ZARwbvSYHBjP) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Sentah](https://open.spotify.com/album/3wkIHYwO7iSF8NGzaS89p2) | 3:08 |
+| 37 | [Love Dub](https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf) | [Cooly G](https://open.spotify.com/artist/0XfcR8jVPEm77dOJEN9tvq) | [Narst / Love Dub](https://open.spotify.com/album/14AlAp96M3GOiLoGSdeAYu) | 3:35 |
 | 38 | [My Circle \- Remix](https://open.spotify.com/track/7gDEIbmCStEGzICfqOTWeJ) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp), [Cadet](https://open.spotify.com/artist/1Gm0kKaDx4GH6pQF88rjSK), [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [My Circle \(Remix\)](https://open.spotify.com/album/3IrXZ0zBVpZCk62OaQg4AS) | 4:20 |
 | 39 | [What You Do \(Hottest By Far\)](https://open.spotify.com/track/5VbB0e2Sv6vxWLmroz1Vem) | [The Fives](https://open.spotify.com/artist/5EiVAQAe0qLKANwPmUFliS) | [What You Do \(Hottest By Far\)](https://open.spotify.com/album/5rCXzdvDDWsCzfarkeKbZK) | 4:45 |
 | 40 | [Stuck On You](https://open.spotify.com/track/2Xb7RtwHMkdNF5nCDWS1W5) | [Pedro da Linha](https://open.spotify.com/artist/4vRdcYRuZQC84SzNnxSNLh), [Bryte](https://open.spotify.com/artist/3l3kDKYrIrWoPDA5R0VWEO) | [Da Linha](https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh) | 2:50 |
-| 41 | [Baddie Part Two](https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Logic1000](https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn) | 4:07 |
-| 42 | [Gabryelle \(Refix\)](https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh) | [D\-Malice](https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT) | [Gabryelle \(Refix\)](https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO) | 4:51 |
+| 41 | [Make Money](https://open.spotify.com/track/5D2nyKpovnlc0o6dFWA4Y1) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Make Money](https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH) | 3:17 |
+| 42 | [Baddie Part Two](https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Logic1000](https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn) | 4:07 |
 | 43 | [African Warrior](https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:18 |
-| 44 | [Make Money](https://open.spotify.com/track/5D2nyKpovnlc0o6dFWA4Y1) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Make Money](https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH) | 3:17 |
+| 44 | [Gabryelle \(Refix\)](https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh) | [D\-Malice](https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT) | [Gabryelle \(Refix\)](https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO) | 4:51 |
 | 45 | [I'm Leaving \- DJ MA1 Remix](https://open.spotify.com/track/4ZuIiYL4lADtA7zoPFw4Mk) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Alahna](https://open.spotify.com/artist/46jSEbui6AGr4nPZwYiHi3), [DJ MA1](https://open.spotify.com/artist/4INAX5tocNkzY3S6Acrll6) | [I'm Leaving](https://open.spotify.com/album/2R9DbkINYc0xVuBxjk1K8r) | 6:10 |
 | 46 | [Bayeke \- Prace Remix](https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Prace](https://open.spotify.com/artist/2K5oIzqUzZKO738h7GT3iv) | [Bayeke \(Prace Remix\)](https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP) | 5:54 |
 | 47 | [Yellowtail](https://open.spotify.com/track/4Zew14g1Ucj3e26Q6IY9qC) | [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 59 | [Condo \(feat\. T\-Pain\) \- Roska Remix](https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Condo \(feat\. T\-Pain\) \[Remixes\]](https://open.spotify.com/album/2LRP4vOT55IKQHnQvi4hwr) | 3:52 |
 | 60 | [Hooligans](https://open.spotify.com/track/3HgL89b9l6Iwt06BH01r9s) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 5:38 |
 
-Snapshot ID: `MCwxZDZlYTBiMGY3NjU5NGEzZWVkMTY1MmNiYzdkOTZkNTMwMGY0YTQ0`
+Snapshot ID: `MCxjOWVhYzlmODNmODU2YWYxZWRiZGY5YWNlMjNjZDc2NDNmZjAwODlm`

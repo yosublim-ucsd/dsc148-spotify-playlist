@@ -4,7 +4,7 @@
 
 > Music From "Puella Magi Madoka Magica"! 音楽で辿る「魔法少女まどか☆マギカ」の世界! ©Magica Quartet／Aniplex・Madoka Movie Project Rebellio
 
-83 songs - 4 hr 17 min
+84 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,10 +24,11 @@
 | [Conturbatio](https://open.spotify.com/track/0gJLT6VVo8sfGT2VfP4zLP) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 1:28 | 2022-08-23 |  |
 | [Cor destructum](https://open.spotify.com/track/01bKOhw02iJm7VXqluohj9) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 1:28 | 2022-08-23 |  |
 | [Credens justitiam](https://open.spotify.com/track/4ArdP26tJNn0U5KI4FK5NV) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 1:56 | 2022-08-23 |  |
-| [Cubilulum album](https://open.spotify.com/track/40qk3bKtfAt4etLPpUMgWK) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 2:20 | 2022-08-23 |  |
+| [Cubilulum album](https://open.spotify.com/track/40qk3bKtfAt4etLPpUMgWK) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 2:20 | 2022-08-23 | 2023-10-04 |
 | [Decretum](https://open.spotify.com/track/6AICX6AYZYfM4lU24Fs08m) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 1:49 | 2022-08-23 |  |
 | [Depth in the Mirror](https://open.spotify.com/track/0vgzC65Gib5dcRxXeRYMjH) | [Chiba"Naotyu\-"Naoki](https://open.spotify.com/artist/3WhrpLNtwkewWEscuAsVEj) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:47 | 2022-08-23 |  |
 | [Desiderium](https://open.spotify.com/track/2nOcNupR8YMJFAB1ew1a7L) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 1:42 | 2022-08-23 |  |
+| [GLOW](https://open.spotify.com/track/6AP21pc2X40IiXdiNZytN1) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [GLOW](https://open.spotify.com/album/7vNqDHhm2UThG4t713JO1a) | 3:36 | 2023-10-03 |  |
 | [Gradus prohibitus](https://open.spotify.com/track/4CnyeXWlF4nKQiINkeXCIW) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 3:36 | 2022-08-23 |  |
 | [Incertus](https://open.spotify.com/track/5PTaPctnEar5L4V85T91Hk) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「魔法少女まどか☆マギカ」 Music Collection](https://open.spotify.com/album/7DIMGLcRga3HtdHJ3KsL6X) | 1:40 | 2022-08-23 |  |
 | [Infinite Battle](https://open.spotify.com/track/5imKWpPxUAEtPFn3hK4JXH) | [Ryo Furukawa](https://open.spotify.com/artist/3qp2cGncMSJabdUfhz24Bv) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:48 | 2022-08-23 |  |
@@ -38,7 +39,7 @@
 | [Last Dungeon](https://open.spotify.com/track/1sNOSm786SW07OKts4myIP) | [Ryo Furukawa](https://open.spotify.com/artist/3qp2cGncMSJabdUfhz24Bv) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:58 | 2022-08-23 |  |
 | [Magia](https://open.spotify.com/track/34q0h9Les2HFVMPLIQVHbI) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Magia](https://open.spotify.com/album/5jqyT4Y5pq6qF7zmKw4FNc) | 5:12 | 2022-08-23 |  |
 | [Magia\[quattro\]](https://open.spotify.com/track/20z9LowbUSLOowBWW6b4es) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [ひかりふる](https://open.spotify.com/album/0jCSqIa5E2rqBGw3R93JSt) | 5:16 | 2022-08-23 |  |
-| [Magical Artist](https://open.spotify.com/track/46hRJczP0wROCzXxCqLWYD) | [Kyohei Ozawa](https://open.spotify.com/artist/1bOH55pNvcr1YKotMhcdxN) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:51 | 2022-08-23 |  |
+| [Magical Artist](https://open.spotify.com/track/46hRJczP0wROCzXxCqLWYD) | [Kyohei Ozawa](https://open.spotify.com/artist/1bOH55pNvcr1YKotMhcdxN) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection](https://open.spotify.com/album/0W0UlUYMdKBxixMMDNkTGd) | 1:51 | 2022-08-23 | 2023-10-04 |
 | [Mebius Ash](https://open.spotify.com/track/2i6BYXATu18CBA4TuIdzMM) | [暁美ほむら \(CV:斎藤千和\)](https://open.spotify.com/artist/6sabqK2dfqbzkF0jg2oHya) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 4:03 | 2022-08-23 |  |
 | [misterioso](https://open.spotify.com/track/1UdAcNwonnmKUjZR5n8FrT) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [君の銀の庭](https://open.spotify.com/album/7t7RwR2ThlbTm7hqNaHr0n) | 4:02 | 2022-08-23 |  |
 | [naturally](https://open.spotify.com/track/7DAhdpK5bYIQzD8zp1dCju) | [鹿目まどか \(CV:悠木碧\)](https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO), [美樹さやか \(CV:喜多村英梨\)](https://open.spotify.com/artist/36y42taogcR024xS85HIHE) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 4:28 | 2022-08-23 |  |

@@ -528,7 +528,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 273013,
       "name": "Bones",
       "url": "https://open.spotify.com/track/5WGOH3L6yKhHjXyCjgBYog"
@@ -3036,7 +3036,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 237454,
       "name": "Negativity",
       "url": "https://open.spotify.com/track/0hwG6egZXGibubr52Av5df"
@@ -3797,7 +3797,7 @@
     },
     {
       "album": {
-        "name": "Songs / Revolving",
+        "name": "Songs/Revolving",
         "url": "https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O"
       },
       "artists": [

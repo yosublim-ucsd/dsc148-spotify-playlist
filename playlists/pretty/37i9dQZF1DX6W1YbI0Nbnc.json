@@ -1,13 +1,77 @@
 {
-  "description": "\u7d50\u96c6\u9999\u6e2fEQUAL\u5973\u8072\u529b\u91cf\uff01(cover: Lolly Talk)",
-  "num_followers": 4601,
+  "description": "\u7d50\u96c6\u9999\u6e2fEQUAL\u5973\u8072\u529b\u91cf\uff01(cover: \u9127\u5c0f\u5de7)",
+  "num_followers": 4602,
   "original_name": "EQUAL Hong Kong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTY4OGU0ZDg5ZjM4OTcxNDk4NmFkMWUxOGU4N2U5NzQzZmE1ODYz",
+  "snapshot_id": "MCxhYTE5ZjM4YTYxM2IxMTVjNDhmZGJmZWIwZmRlZjgwNjc2M2YzY2E3",
   "tracks": [
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u701f\u7051",
+        "url": "https://open.spotify.com/album/1NQJbok16gU94G8KQqbwZv"
+      },
+      "artists": [
+        {
+          "name": "Tang Siu Hau",
+          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "\u701f\u7051",
+      "url": "https://open.spotify.com/track/6zsl5xLmgDdU5SMeC0qIPn"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u5169\u7a2e\u8a9e\u8a00",
+        "url": "https://open.spotify.com/album/1AnYIfU0GYmTUcHFDYSO9i"
+      },
+      "artists": [
+        {
+          "name": "Tang Siu Hau",
+          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
+        }
+      ],
+      "duration_ms": 259736,
+      "name": "\u5169\u7a2e\u8a9e\u8a00",
+      "url": "https://open.spotify.com/track/1VKVc6v65Bj1ypg360BLQ3"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u53ef\u60dc\u4f60\u662f\u500b\u4eba",
+        "url": "https://open.spotify.com/album/0XKJPvviHX8UQa5NyVZZBR"
+      },
+      "artists": [
+        {
+          "name": "Tang Siu Hau",
+          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
+        }
+      ],
+      "duration_ms": 267349,
+      "name": "\u53ef\u60dc\u4f60\u662f\u500b\u4eba",
+      "url": "https://open.spotify.com/track/4Bfgdsd4wlypz9B12zuNay"
+    },
+    {
+      "added_at": "2023-10-03 16:00:00",
+      "album": {
+        "name": "\u5c0f\u5cf6",
+        "url": "https://open.spotify.com/album/13fTvWxRTs2t02FhPLCaGw"
+      },
+      "artists": [
+        {
+          "name": "Tang Siu Hau",
+          "url": "https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB"
+        }
+      ],
+      "duration_ms": 207430,
+      "name": "\u5c0f\u5cf6",
+      "url": "https://open.spotify.com/track/2hn37fEFyplCS7stICKgAq"
+    },
     {
       "added_at": "2023-09-05 16:00:00",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 342651,
+  "num_followers": 342873,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2Y3OWE5OWU5YmZmMGRkZTQ5MjRiZDU4MTJhYTVjMTdiZjY2ZjI2",
+  "snapshot_id": "MCwwODNjNjJlZTI2YjUzYjgxODRjN2Y5YmRiOTdjMWJlYjJiNzU5YWU0",
   "tracks": [
     {
       "added_at": "2023-09-22 07:02:14",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "The Green Trip",
-        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 174275,
-      "name": "Aerol\u00ednea Carrillo",
-      "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
         "name": "Un Album Sencillo",
         "url": "https://open.spotify.com/album/3v0EO4EsCPW8nZiqwbVVZH"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 144545,
       "name": "Tan Solo Morro",
       "url": "https://open.spotify.com/track/0KUPRHjyvFMnl4XLN3q1S1"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
+        "name": "The Green Trip",
+        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 174275,
+      "name": "Aerol\u00ednea Carrillo",
+      "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
+        "name": "Tirando la H",
+        "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 119333,
+      "name": "Tirando la H",
+      "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 178960,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
-        "name": "Tirando la H",
-        "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 119333,
-      "name": "Tirando la H",
-      "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "En Vivo EP, Vol. 1 (En vivo)",
-        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 228545,
-      "name": "Te Apuesto - En vivo",
-      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
         "name": "Hay Niveles",
         "url": "https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 122111,
       "name": "Hay Niveles",
       "url": "https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 228545,
+      "name": "Te Apuesto - En vivo",
+      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Ladeando",
-      "url": "https://open.spotify.com/track/73Duclev4uTDiM70jH1G5h"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
         "name": "El De Las Dos Pistolas",
         "url": "https://open.spotify.com/album/0LkXAgU73w2GQAHW4VDtSD"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 167288,
       "name": "El De Las Dos Pistolas",
       "url": "https://open.spotify.com/track/3BvGcHKkSKRdkathkvvxRp"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Ladeando",
+      "url": "https://open.spotify.com/track/73Duclev4uTDiM70jH1G5h"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "Lo Que Les Falta",
-        "url": "https://open.spotify.com/album/7uuomonKZYYmpq0vM59aDP"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 134507,
-      "name": "Lo Que Les Falta",
-      "url": "https://open.spotify.com/track/4my9onQE9Z2IvuH7V13WSM"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
         "name": "Corridos 602 Vol.2",
         "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 191477,
       "name": "El De La 31",
       "url": "https://open.spotify.com/track/2NpJMRaVvvZia0uVDcZJMe"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
+        "name": "Lo Que Les Falta",
+        "url": "https://open.spotify.com/album/7uuomonKZYYmpq0vM59aDP"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 134507,
+      "name": "Lo Que Les Falta",
+      "url": "https://open.spotify.com/track/4my9onQE9Z2IvuH7V13WSM"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "Fiesta En La Sierra",
-        "url": "https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "La Troca",
-      "url": "https://open.spotify.com/track/2Bc9LPTa1BThp2GMtoegUK"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
         "name": "Delux 12",
         "url": "https://open.spotify.com/album/6G9Wfz5z9w33QrJdwaPUMb"
       },
@@ -2359,18 +2343,18 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "No Me Gusta Perder",
-        "url": "https://open.spotify.com/album/4Zdzpz6ILDSQg5CRuBYovA"
+        "name": "Fiesta En La Sierra",
+        "url": "https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9"
       },
       "artists": [
         {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 151646,
-      "name": "No Me Gusta Perder",
-      "url": "https://open.spotify.com/track/4iYFx1RAtKpsnybhQh7kuO"
+      "duration_ms": 199920,
+      "name": "La Troca",
+      "url": "https://open.spotify.com/track/2Bc9LPTa1BThp2GMtoegUK"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -2387,6 +2371,22 @@
       "duration_ms": 180000,
       "name": "Vida Rencorosa",
       "url": "https://open.spotify.com/track/5KhsR58yXGWcLkAfCTzLZE"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
+        "name": "No Me Gusta Perder",
+        "url": "https://open.spotify.com/album/4Zdzpz6ILDSQg5CRuBYovA"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 151646,
+      "name": "No Me Gusta Perder",
+      "url": "https://open.spotify.com/track/4iYFx1RAtKpsnybhQh7kuO"
     },
     {
       "added_at": "2023-09-22 07:02:14",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2023-09-22 07:02:14",
       "album": {
-        "name": "Mi Nueva Familia",
-        "url": "https://open.spotify.com/album/1PkLp7f8coVDklhVhEQSvS"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 175038,
-      "name": "Mi Nueva Familia",
-      "url": "https://open.spotify.com/track/4JNEp47KO7F69MjLt61J21"
-    },
-    {
-      "added_at": "2023-09-22 07:02:14",
-      "album": {
         "name": "Pa Que Vayan y Digan",
         "url": "https://open.spotify.com/album/3mLFnv3XBh9olLHaCU9SIN"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 182767,
       "name": "Pa Que Vayan y Digan",
       "url": "https://open.spotify.com/track/7pQvG1dQLjIFRQI3pLWT00"
+    },
+    {
+      "added_at": "2023-09-22 07:02:14",
+      "album": {
+        "name": "Mi Nueva Familia",
+        "url": "https://open.spotify.com/album/1PkLp7f8coVDklhVhEQSvS"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 175038,
+      "name": "Mi Nueva Familia",
+      "url": "https://open.spotify.com/track/4JNEp47KO7F69MjLt61J21"
     },
     {
       "added_at": "2023-09-22 07:02:14",

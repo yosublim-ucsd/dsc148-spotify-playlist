@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
@@ -2010,6 +2010,24 @@
       "duration_ms": 153560,
       "name": "D\u00f3nde Est\u00e1s",
       "url": "https://open.spotify.com/track/16DNJ8y6k97DxuMyV49W7V"
+    },
+    {
+      "album": {
+        "name": "D\u00f3nde Est\u00e1s",
+        "url": "https://open.spotify.com/album/3uwIRMTeueP92bS46L6d7q"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153560,
+      "name": "D\u00f3nde Est\u00e1s",
+      "url": "https://open.spotify.com/track/71nkNlFUY4d9mBvTAyV9ig"
     },
     {
       "album": {
@@ -3006,7 +3024,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 164533,
       "name": "Imposible",
       "url": "https://open.spotify.com/track/4cuGZb0iFyHtwaSKdKrJkF"
@@ -5544,7 +5562,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 258799,
       "name": "Secreto",
       "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"

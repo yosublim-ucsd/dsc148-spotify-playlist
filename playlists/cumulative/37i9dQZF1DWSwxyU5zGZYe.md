@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-112 songs - 6 hr 50 min
+113 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Tujhko Jo Paaya](https://open.spotify.com/track/62kyw2ux2p0CZ7pKWtM6QO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Crook \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/298NO23hfv1nhAE0gQ5vLN) | 3:04 | 2022-04-11 |  |
 | [Tujhse Naraz Nahin Zindagi Unplugged LoFi](https://open.spotify.com/track/0z0fbGkzbfeJQTvrCrelOl) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2) | [Tujhse Naraz Nahin Zindagi Unplugged Lofi \- Single](https://open.spotify.com/album/53gbAlbYkzqUKPQwwGV7Q8) | 2:27 | 2023-01-04 | 2023-01-26 |
 | [Tujhse Naraz Nahin Zindagi Unplugged LoFi](https://open.spotify.com/track/1hSsvaAZHK1NdyhSvnBZwh) | [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2) | [Tujhse Naraz Nahin Zindagi Unplugged LoFi](https://open.spotify.com/album/5chFwFDNb5HL2R4KbUj4Eu) | 2:27 | 2023-01-04 | 2023-01-06 |
-| [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/album/5IoxrWkZLHmHIhZLHyiAjj) | 1:15 | 2023-09-20 |  |
+| [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/album/5IoxrWkZLHmHIhZLHyiAjj) | 1:15 | 2023-09-20 | 2023-10-04 |
+| [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/4kL3wGVwDpOVn8NOmKAopG) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \(Jonita's Version\)](https://open.spotify.com/album/0xKZP5O8CSbmMn5iOD9hpa) | 1:15 | 2023-09-20 |  |
 | [Tum Kya Mile \- Shreya's Version \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/1XF1cPnzsbGYn2mjKUjnWa) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \- Shreya's Version \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/1LsdbOwH1SPB0s5IkII3C1) | 3:57 | 2023-07-27 |  |
 | [Tum Se Hi \(Reprise\) \(From "Sadak 2"\) \(feat\. Alia Bhatt\)](https://open.spotify.com/track/4xhxNVJ21MayyOpKUnFd7W) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Tum Se Hi \(Reprise\) \(feat\. Alia Bhatt\) \[From "Sadak 2"\]](https://open.spotify.com/album/4qXletW47OQdSrNSmLYVNs) | 4:05 | 2022-04-11 | 2023-07-28 |
 | [Tum Se Milke \(From "Tiku Weds Sheru"\)](https://open.spotify.com/track/0oUidyQb3wXPv2Krqas06V) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Sai Kabir](https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg) | [Tum Se Milke \(From "Tiku Weds Sheru"\)](https://open.spotify.com/album/6zTut0LkaUMTYl3jC0EQ4s) | 3:02 | 2023-06-15 | 2023-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,667 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,210 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Plus jamais](https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Plus jamais](https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X) | 3:21 |
 | 50 | [Lanke](https://open.spotify.com/track/3mYXLXiDW6iRIht6dfusIy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Lanke](https://open.spotify.com/album/6Di2j6dmIeMGuJDAd2m4ix) | 2:32 |
 
-Snapshot ID: `MCw2NmVkZDE3NDM0NWJlOWMwNGUzMjZiMjdkOTkxNjI0MjI0MTNlMDNh`
+Snapshot ID: `MCxkZjI1MDE2NzI3ZmEwMDY4OTQ3ZTI2ODRlNDA1NjZkMjM4NGE1YTE3`

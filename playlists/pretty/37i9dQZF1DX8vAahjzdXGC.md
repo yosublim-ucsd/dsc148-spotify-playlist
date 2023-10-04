@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,426 likes - 105 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,476 likes - 105 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 3 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 |
 | 4 | [this is what space feels like](https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what space feels like](https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP) | 3:03 |
 | 5 | [this time](https://open.spotify.com/track/3RflzntjekyDoIlm11kNIN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [this time](https://open.spotify.com/album/7JXBW10JRr5UtC7CjPZR5t) | 2:56 |
-| 6 | [Sumpah Cintaku](https://open.spotify.com/track/3ltgK9gBYQIoKrSYyjxIT3) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Rio Febrian](https://open.spotify.com/artist/3q3FakGkayPyaj7dV3luv9), [Marcell](https://open.spotify.com/artist/2lq3b01voiAcxgJeRwOMgM), [Hedi Yunus](https://open.spotify.com/artist/7Chevtnmm3oUuJmkQaCjfA), [Fatur](https://open.spotify.com/artist/68v2wNmrKf1vIJp52qqiOm), [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Sumpah Cintaku](https://open.spotify.com/album/0KoE3q8SBZfIvtNO04JThH) | 4:30 |
+| 6 | [Sumpah Cintaku](https://open.spotify.com/track/3ltgK9gBYQIoKrSYyjxIT3) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Rio Febrian](https://open.spotify.com/artist/3q3FakGkayPyaj7dV3luv9), [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk), [Hedi Yunus](https://open.spotify.com/artist/7Chevtnmm3oUuJmkQaCjfA), [Fatur](https://open.spotify.com/artist/68v2wNmrKf1vIJp52qqiOm), [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Sumpah Cintaku](https://open.spotify.com/album/0KoE3q8SBZfIvtNO04JThH) | 4:30 |
 | 7 | [w u at?](https://open.spotify.com/track/2U64m71fXocmM9sm1Z3W0o) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [w u at?](https://open.spotify.com/album/5wdhSxjIvmvGX7O7N23OKE) | 3:39 |
 | 8 | [Dan Lalu](https://open.spotify.com/track/5J9sSYE3NK8TbLb1Wv2uIz) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Dan Lalu](https://open.spotify.com/album/5GCLIGhuawDEQpz6WyrUxH) | 3:46 |
 | 9 | [Rekat](https://open.spotify.com/track/0GYZUyK43iZwWS0dHaAqN0) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Arif Hidayat](https://open.spotify.com/artist/200mmVIcUx9pYT0cEUTMfN), [Gritte Agatha](https://open.spotify.com/artist/3H4nXN8G3BD6urm4Db28Cr) | [Rekat](https://open.spotify.com/album/3RyPWLcSYDapE7IXTNk81n) | 4:18 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 46 | [Mengembara](https://open.spotify.com/track/1f97ZtRGljz75JqhVfaKqm) | [The Rain](https://open.spotify.com/artist/76FV2FPEhMQj3GZPIkAJP2) | [Mengembara](https://open.spotify.com/album/3k3CuTdIZQ2Amqr8DlS6wp) | 3:45 |
 | 47 | [DINNER](https://open.spotify.com/track/30luEXaRUmaHL1gwpIRA36) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [DINNER](https://open.spotify.com/album/0MiS1pig5Q8RuvYwqUqeHN) | 4:05 |
 | 48 | [Belum Berhasil](https://open.spotify.com/track/1irXd1GlmHiMjnUYPSbDJU) | [Somewhere Somewhere](https://open.spotify.com/artist/1LA16z1EPkD6ElKmixAjqs) | [Belum Berhasil](https://open.spotify.com/album/2yHMBM5wYO8JqteKR5vcZF) | 3:41 |
-| 49 | [go home without me](https://open.spotify.com/track/3TPtcOqd5uc7zKUDImjuCv) | [Angie Krisnawan](https://open.spotify.com/artist/4XuzqDiipEzAykvZRqpYiW) | [go home without me](https://open.spotify.com/album/4G6uIwu30pMbmW0Wp2u4sw) | 4:19 |
+| 49 | [go home without me](https://open.spotify.com/track/3TPtcOqd5uc7zKUDImjuCv) | [Angie Krisnawan](https://open.spotify.com/artist/0pZy95MXIJ3Ui3YgMti7nQ) | [go home without me](https://open.spotify.com/album/4G6uIwu30pMbmW0Wp2u4sw) | 4:19 |
 | 50 | [The Chorus Superstar](https://open.spotify.com/track/66pXN7akoC2e9RrPOSjBWc) | [Space Cubs](https://open.spotify.com/artist/3JOcvznPQ58nkKmyZ31ex0) | [The Chorus Superstar](https://open.spotify.com/album/2BnDqpwaFMaO1wOl5I7pv0) | 3:32 |
 | 51 | [Walk Your Heart Home](https://open.spotify.com/track/1nbquISEGb21tsBdVlaP6V) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Temptation](https://open.spotify.com/album/6AvHqghzOREIkOOOJoLhWw) | 3:41 |
 | 52 | [Kutunggu Di Sini](https://open.spotify.com/track/4Kx1u8tSkq1cuiFbMmJgsA) | [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL) | [Kutunggu Di Sini](https://open.spotify.com/album/0koQe31s59omtAJaVA63hZ) | 3:49 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 104 | [It Could've Been You](https://open.spotify.com/track/5eQAybRCE1L1YgPgu6n6UG) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [It Could've Been You](https://open.spotify.com/album/1fz0TnFIf2lhouk219X1mt) | 3:35 |
 | 105 | [Bigger Than The Song](https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song](https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653) | 3:09 |
 
-Snapshot ID: `MCxkZTc0ZDM4MmNkYmQzNWNmZTM4YzQ1YzQzOTUwOGI4MTdiOTk2NmQ2`
+Snapshot ID: `MCw2OWM4ZGI1M2RhZjA0MDU1OGZiY2NmNjEyYzhiMjlmZjk0NzU0Y2Ez`

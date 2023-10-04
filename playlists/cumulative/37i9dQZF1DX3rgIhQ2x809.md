@@ -4,7 +4,7 @@
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-116 songs - 6 hr 18 min
+117 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [La Bebecita](https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc) | [Las Criaturas: El Regreso](https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank) | 3:51 | 2023-06-09 | 2023-09-13 |
 | [La Esquina](https://open.spotify.com/track/1FTFsE4Uv7SfmtxW5A3l5b) | [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [La Esquina](https://open.spotify.com/album/59bdhdLx7R1cThpbZNtyeB) | 4:05 | 2023-06-09 |  |
 | [La Familia](https://open.spotify.com/track/52ANZNLGCbf8IKin6sQYIk) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj) | [La Familia](https://open.spotify.com/album/3A35XT91xoDYsujfeGQFou) | 3:17 | 2023-06-09 |  |
-| [Labios](https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP) | [Joonti](https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj) | [Labios](https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82) | 2:46 | 2023-06-09 |  |
+| [Labios](https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP) | [Joonti](https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj) | [Labios](https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82) | 2:46 | 2023-06-09 | 2023-10-04 |
 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 | 2023-06-09 |  |
 | [Los Angeles](https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 2:43 | 2023-06-09 |  |
 | [MAMACITA](https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n) | [Natalia Paris](https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [MAMACITA](https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP) | 4:17 | 2023-06-09 |  |
@@ -117,6 +117,7 @@
 | [Trending](https://open.spotify.com/track/6Ee9z5UtJ9oRX4YaAwefml) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Jonniel Rythmz](https://open.spotify.com/artist/5wcCS0O8zB98kNPZu61Gab) | [Trending](https://open.spotify.com/album/75a1tCKYhGYYaQeNoDklwc) | 2:47 | 2023-06-09 | 2023-07-19 |
 | [Trending Remix \(with Myke Towers\)](https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Trending Remix \(with Myke Towers\)](https://open.spotify.com/album/0I0LtVW3UJjJtXkCJ7RPLO) | 3:45 | 2023-06-09 |  |
 | [Twerk](https://open.spotify.com/track/4RChFXDIxsaWg8QTkpSWlo) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Twerk](https://open.spotify.com/album/5DBAnbo3V3KnEf6Gvkq5Ua) | 2:40 | 2023-06-09 |  |
+| [Twisty](https://open.spotify.com/track/2EpuU1Fb5JnYnQxgUeNSoN) | [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Twisty](https://open.spotify.com/album/2ZF9vzq2iW6e6Xo1evM7N7) | 2:45 | 2023-06-09 |  |
 | [Tú Eres Loca?](https://open.spotify.com/track/279CFygxzwjumv9FTG25jn) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Tú Eres Loca?](https://open.spotify.com/album/6ygS8nXo9JLjrjxYIWRo9X) | 4:24 | 2023-06-09 |  |
 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 | 2023-06-09 |  |
 | [Un Cigarrillo](https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Cigarrillo](https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9) | 3:04 | 2023-06-09 |  |

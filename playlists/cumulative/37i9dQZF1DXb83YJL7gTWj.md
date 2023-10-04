@@ -4,7 +4,7 @@
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-285 songs - 16 hr 51 min
+286 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Home](https://open.spotify.com/track/3Fd1DPWahuBsv7HvcM36qG) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Home](https://open.spotify.com/album/2dCC5EFElFDCuxRaWCaZtp) | 3:35 | 2021-11-05 | 2022-03-19 |
 | [Homesick](https://open.spotify.com/track/5WyB2G0ecrM2qK3FJCkoUD) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Homesick](https://open.spotify.com/album/5Rr8zvYPZpdrSoPxNH3q2h) | 3:02 | 2021-11-05 | 2022-03-18 |
 | [Hot Tears](https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 4:07 | 2021-11-05 |  |
-| [Hurt Somebody](https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 2:48 | 2021-11-05 |  |
+| [Hurt Somebody](https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 2:48 | 2021-11-05 | 2023-10-04 |
 | [hurts like hell](https://open.spotify.com/track/1Cd4W9s1YoTKNzNrVkOjs2) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/1YqCPwqa29diDqCeB3Qahf) | 3:57 | 2022-10-28 | 2022-11-13 |
 | [hurts like hell](https://open.spotify.com/track/2z7EhgzjTkN9QozoJ7DvBA) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/6DnZ9MzBUgrhbElToTSgfk) | 3:57 | 2021-11-05 | 2022-07-29 |
 | [I Do](https://open.spotify.com/track/5mpCx2nbXtAbnzd342Mwrb) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [I Do](https://open.spotify.com/album/5FGa9dsx41t70tKh0roFsm) | 3:37 | 2021-11-05 | 2022-03-19 |
@@ -180,6 +180,7 @@
 | [Montreal](https://open.spotify.com/track/1z8F0DUrgxictKm2lzvuki) | [Port Cities](https://open.spotify.com/artist/6E9qPOOjsuwnt5kFLFCnWF) | [Montreal](https://open.spotify.com/album/0R9Jtj1ieDKgBW4xHZmKSO) | 2:59 | 2022-05-13 | 2022-05-19 |
 | [Mood Ring](https://open.spotify.com/track/6FE9EXi8TYg09hR4xv5PWJ) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/1lDMJQcBCttCroFPkNHtN7) | 3:45 | 2021-11-05 | 2022-07-29 |
 | [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 | 2022-07-22 |  |
+| [New](https://open.spotify.com/track/1Pd2lKVz2idFMh67ACJJ0q) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 2:56 | 2023-09-03 |  |
 | [New](https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [New](https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs) | 2:56 | 2023-04-28 | 2023-06-24 |
 | [New](https://open.spotify.com/track/5mTZyrEQnncaxziYXyJ9WK) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 2:56 | 2023-06-02 | 2023-09-29 |
 | [No Right To Love You](https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [No Right To Love You](https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW) | 3:58 | 2021-11-05 |  |

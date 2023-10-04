@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Hero  Artwork: Isu Kim
 
-1,716 songs - 4 day 5 hr 51 min
+1,717 songs - 4 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,8 @@
 | [Dito Ka Lang](https://open.spotify.com/track/67xU0MqPJ9McrUzTSKKQcD) | [Eyluke](https://open.spotify.com/artist/0upxuPJ3rfJ88WYSQOXZFq), [RCHRD](https://open.spotify.com/artist/3XEPhTiqZhOcAyueu5DlmO) | [Dito Ka Lang](https://open.spotify.com/album/0Jaar1EvYvSqbNyzcIGxg8) | 4:42 | 2023-02-02 | 2023-02-17 |
 | [Dito Ka Lang](https://open.spotify.com/track/4ZyGXk0n5nSJmRbNsokvcA) | [RCHRD](https://open.spotify.com/artist/3XEPhTiqZhOcAyueu5DlmO), [Don Gab](https://open.spotify.com/artist/5DdSIE3q3m121yjE3eKFcz) | [Dito Ka Lang](https://open.spotify.com/album/01iHz4vGUy25VXEd2U785i) | 4:16 | 2022-11-03 | 2023-02-03 |
 | [Dito Ka Lang](https://open.spotify.com/track/4TUCi0cHa6eu9X58e6mxp6) | [Shaqim](https://open.spotify.com/artist/4jJ33GuU2w49i8j4IykKrM), [DSH](https://open.spotify.com/artist/5jrp2mK9RLMSBhulri3aUA) | [Dito Ka Lang](https://open.spotify.com/album/1yKPb0qp8defRzMxvgs7Np) | 3:47 | 2023-04-06 | 2023-04-21 |
-| [Dito Ka Muna](https://open.spotify.com/track/76I7vSRELRBa4NIe2gaXsd) | [Royette](https://open.spotify.com/artist/7LYfNPFV0kGH7GhKHKlIAU), [Kyd Alvson](https://open.spotify.com/artist/5pYOuKoWJ8TfadbJYyQbem) | [Dito Ka Muna](https://open.spotify.com/album/5Frb3NMDiCJo9Uq03tZ6IC) | 3:32 | 2023-09-14 |  |
+| [Dito Ka Muna](https://open.spotify.com/track/76I7vSRELRBa4NIe2gaXsd) | [Royette](https://open.spotify.com/artist/7LYfNPFV0kGH7GhKHKlIAU), [Kyd Alvson](https://open.spotify.com/artist/5pYOuKoWJ8TfadbJYyQbem) | [Dito Ka Muna](https://open.spotify.com/album/5Frb3NMDiCJo9Uq03tZ6IC) | 3:32 | 2023-09-14 | 2023-10-04 |
+| [Dito Ka Muna](https://open.spotify.com/track/3hkUjYULUKJLJfhHwI385B) | [Royette](https://open.spotify.com/artist/7LYfNPFV0kGH7GhKHKlIAU), [Kyd Alvson](https://open.spotify.com/artist/5pYOuKoWJ8TfadbJYyQbem) | [Dito Ka Muna](https://open.spotify.com/album/3jWVcm4V1ptVhXdQ4aT21u) | 3:32 | 2023-09-28 |  |
 | [Dito Ka Na Lang](https://open.spotify.com/track/2O9arvl8nMl8LOGo3wXj29) | [Frank Saturday](https://open.spotify.com/artist/7EYbDLfdMh8yyuWpHGdZ6o) | [Dito Ka Na Lang](https://open.spotify.com/album/09kvKo99N4DYbHnYaizDqo) | 3:44 | 2023-02-16 | 2023-03-03 |
 | [Dito muna ko'](https://open.spotify.com/track/5PZa5nUZbl5CgexjUvXFuY) | [Sultanlobo](https://open.spotify.com/artist/7yq2o3KcUiUEz49NND7t3b), [YZ](https://open.spotify.com/artist/4NV5xC9aDz51d1YWBWygL9) | [Dito muna ko'](https://open.spotify.com/album/7xp2XI5HJHCEhBigaCfW9Q) | 2:34 | 2023-05-18 | 2023-06-02 |
 | [Dive](https://open.spotify.com/track/3uH3ZDKMHx1VncTFcqpkXs) | [Roseo 011](https://open.spotify.com/artist/73wzWldpQRC6ctIQkc9nYq), [Trippy Alex](https://open.spotify.com/artist/6EhdEoWMvdtAfOytJCwMC4), [Chie](https://open.spotify.com/artist/6CM89UwFDwMsFttSuQ6Ean) | [Dive](https://open.spotify.com/album/28MjRjInEezdqVWDXvo4GX) | 4:02 | 2023-02-23 | 2023-03-03 |

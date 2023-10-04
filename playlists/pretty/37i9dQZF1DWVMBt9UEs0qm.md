@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 
 > Classic pop, rock and folk for a pleasant drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,142 likes - 69 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,138 likes - 69 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 | 30 | [Leader of the Band](https://open.spotify.com/track/3O4s2m47MFhnGqmpkjoKYk) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Love Songs](https://open.spotify.com/album/2HBiEHyRhKl6dxWBKQpxID) | 4:16 |
 | 31 | [Yesterday \- Remastered 2009](https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:05 |
 | 32 | [On And On](https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:01 |
-| 33 | [Deacon Blues](https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 7:36 |
+| 33 | [Deacon Blues](https://open.spotify.com/track/0xeBC6N81ZBYDtxuBFGSuO) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 7:35 |
 | 34 | [Baby, What a Big Surprise \- Edit](https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago XI](https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1) | 3:03 |
 | 35 | [Get Together](https://open.spotify.com/track/7CQXyFX44CXmnuq8Bi9Dyc) | [The Youngbloods](https://open.spotify.com/artist/5I6MzhNEMk27cZsCqGAIYo) | [The Youngbloods](https://open.spotify.com/album/5s0VNKqar5MPHpL5atfTFG) | 4:39 |
 | 36 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 | 68 | [Somewhere U.S.A.](https://open.spotify.com/track/3ayP2t2qMgIqj8Yy1xHtaa) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 2:53 |
 | 69 | [One of Us Must Know \(Sooner or Later\)](https://open.spotify.com/track/40GFPBolcy0yucApV9uxq2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 4:52 |
 
-Snapshot ID: `MCxiMTBhNWQ2NDJmNDc2NTk1ZTQyYWU4YWVjMDMxMzk2ZTdmOTUxNmNj`
+Snapshot ID: `MCwyYmExOWEwN2E0ZmExMDc2ODM5NjI1YmY5OTZkZWRlZTM3ZDY5MzE4`

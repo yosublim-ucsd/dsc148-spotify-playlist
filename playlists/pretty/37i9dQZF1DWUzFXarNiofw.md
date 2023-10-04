@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Cleo Sol
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,987 likes - 171 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,131 likes - 171 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 170 | [Fantasy \(Give It All\)](https://open.spotify.com/track/29dLm7RhrSMQi6niCNRCut) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Hoofy Baby](https://open.spotify.com/artist/5Bb8NSase0poSD0lXSyBSp) | [Fantasy \(Give It All\)](https://open.spotify.com/album/7exmvMCbKRJUDrjNxxIyF9) | 2:57 |
 | 171 | [Golden Highs](https://open.spotify.com/track/0jJZZit9EZdmbuG8lHPV4u) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Golden Highs](https://open.spotify.com/album/2qxq7n2YzyVwRBskiPFYn4) | 3:51 |
 
-Snapshot ID: `MCwyMzgxNTZlOTdjZmE5NTAzMWY3NjVjZDAzY2M4Mzk0ZDkyNWNjNDU2`
+Snapshot ID: `MCxhNWFjNDgwZjE5ZTczZTYzMjljOTJkYzc4NGNmNzE0OGZiNmJmYjMz`

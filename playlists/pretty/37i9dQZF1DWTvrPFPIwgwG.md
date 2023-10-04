@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Gislaine e Mylena, Elaine Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,009 likes - 85 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,170 likes - 85 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 20 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 |
 | 21 | [Foi o Senhor \- Ao Vivo](https://open.spotify.com/track/4CCJF8aNJehAJu8J3IISVq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Foi o Senhor \(Ao Vivo\)](https://open.spotify.com/album/3Ki8QBtCUxoit8bE0yj2Jq) | 6:52 |
 | 22 | [Não Se Cobre Tanto \- Ao Vivo](https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Não Se Cobre Tanto \(Ao Vivo\)](https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo) | 4:58 |
-| 23 | [O Céu Tem Mais](https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [O Céu Tem Mais](https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz) | 7:32 |
+| 23 | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa) | 4:04 |
 | 24 | [O Mínimo de Mim](https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [O Mínimo de Mim](https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe) | 4:08 |
-| 25 | [Sou Eu \(Ao Vivo\)](https://open.spotify.com/track/45IOQmuDtNp9h0AkCpNIEn) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Sou Eu \(Ao Vivo\)](https://open.spotify.com/album/4Dd5MlQVW6isFsQ38T2LUb) | 4:41 |
-| 26 | [O Processo](https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [O Processo](https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O) | 4:50 |
+| 25 | [O Processo](https://open.spotify.com/track/44BsTP3MwFY22X1YijTcHM) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [O Processo](https://open.spotify.com/album/07f2j4GJrhf2vDPCSQpt4O) | 4:50 |
+| 26 | [Sou Eu \(Ao Vivo\)](https://open.spotify.com/track/45IOQmuDtNp9h0AkCpNIEn) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Sou Eu \(Ao Vivo\)](https://open.spotify.com/album/4Dd5MlQVW6isFsQ38T2LUb) | 4:41 |
 | 27 | [Volte a Orar \- Ao Vivo](https://open.spotify.com/track/5r8vpwFqXUu4T7sjXDWH3D) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd) | [Volte a Orar \(Ao Vivo\)](https://open.spotify.com/album/3Ohbs1wMdZI79L2u4X4YkL) | 6:35 |
-| 28 | [Espírito Santo](https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Espírito Santo](https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB) | 4:47 |
-| 29 | [Canta](https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Canta](https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi) | 4:58 |
+| 28 | [Canta](https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Canta](https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi) | 4:58 |
+| 29 | [Espírito Santo](https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Espírito Santo](https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB) | 4:47 |
 | 30 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 |
-| 31 | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa) | 4:04 |
+| 31 | [O Céu Tem Mais](https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [O Céu Tem Mais](https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz) | 7:32 |
 | 32 | [Despreocupa](https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP) | [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Despreocupa](https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI) | 5:10 |
 | 33 | [Não Desista de Orar \- Ao Vivo](https://open.spotify.com/track/6FHm572q3dErTDEzEhixm3) | [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd) | [Não Desista de Orar \(Ao Vivo\)](https://open.spotify.com/album/2AcvK4Zevw57arTwl9LqFj) | 8:05 |
 | 34 | [Vou Marcar Tua História](https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vou Marcar Tua História](https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9) | 4:09 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 | 85 | [Página Virada \- Ao Vivo](https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Página Virada \(Ao Vivo\)](https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD) | 7:03 |
 
-Snapshot ID: `MCwxZmEzNWQzNjJjN2IxYmY4YzBhYTBlZmVhNTA4MmRlNTJmMWU0ZTRl`
+Snapshot ID: `MCwxMTExYjU4YWZkOWU4NzI0NGUwMTA2MzljNDhiN2EzMTUwMjYxYzFh`

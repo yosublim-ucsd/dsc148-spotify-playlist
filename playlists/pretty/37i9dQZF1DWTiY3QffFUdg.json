@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 18612,
+  "num_followers": 19001,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjc3NGM1ZjA4NTA1YmZkMTBlZTNiMWIyYjUzMjU1ZTgxMjIxN2U3",
+  "snapshot_id": "MCw4NTgzODRhOGI2YmI0NzBlNjIyYzY4OTU4NTAwNjYzMzllMTY2OWQw",
   "tracks": [
     {
       "added_at": "2023-09-29 15:49:25",
@@ -783,6 +783,26 @@
     {
       "added_at": "2023-09-29 15:49:25",
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Nightcore",
+          "url": "https://open.spotify.com/artist/4T7P7W7Jp191exHszNy0iz"
+        }
+      ],
+      "duration_ms": 192643,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
+    },
+    {
+      "added_at": "2023-09-29 15:49:25",
+      "album": {
         "name": "Dark Water",
         "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
       },
@@ -799,6 +819,22 @@
       "duration_ms": 206733,
       "name": "Dark Water",
       "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
+    },
+    {
+      "added_at": "2023-09-29 15:49:25",
+      "album": {
+        "name": "The Unexpected",
+        "url": "https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "The Unexpected",
+      "url": "https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf"
     },
     {
       "added_at": "2023-09-29 15:49:25",
@@ -827,44 +863,8 @@
     {
       "added_at": "2023-09-29 15:49:25",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "Nightcore",
-          "url": "https://open.spotify.com/artist/4T7P7W7Jp191exHszNy0iz"
-        }
-      ],
-      "duration_ms": 192643,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
-    },
-    {
-      "added_at": "2023-09-29 15:49:25",
-      "album": {
-        "name": "The Unexpected",
-        "url": "https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z"
-      },
-      "artists": [
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "The Unexpected",
-      "url": "https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf"
-    },
-    {
-      "added_at": "2023-09-29 15:49:25",
-      "album": {
-        "name": "WANNA GO BANG",
-        "url": "https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG"
+        "name": "RIDE OR DIE",
+        "url": "https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj"
       },
       "artists": [
         {
@@ -872,17 +872,17 @@
           "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
         },
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         },
         {
-          "name": "DJ Deeon",
-          "url": "https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 237157,
-      "name": "WANNA GO BANG",
-      "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
+      "duration_ms": 189855,
+      "name": "RIDE OR DIE",
+      "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
     },
     {
       "added_at": "2023-09-29 15:49:25",

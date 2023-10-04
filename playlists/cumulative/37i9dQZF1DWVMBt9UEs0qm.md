@@ -4,7 +4,7 @@
 
 > Classic pop, rock and folk for a pleasant drive.
 
-85 songs - 5 hr 40 min
+86 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Crazy Love \- 2013 Remaster](https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Expanded Edition\)](https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O) | 2:35 | 2019-06-11 |  |
 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 | 2019-06-11 |  |
 | [Deacon Blues](https://open.spotify.com/track/3czOceQYa4SIzKMHx4lKcy) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Happy Soft Rock For Kids](https://open.spotify.com/album/0Fkuj45yLOf8BcYaTuC56r) | 7:32 | 2019-06-11 | 2022-11-13 |
-| [Deacon Blues](https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 7:36 | 2019-06-11 |  |
+| [Deacon Blues](https://open.spotify.com/track/0xeBC6N81ZBYDtxuBFGSuO) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 7:35 | 2019-06-11 |  |
+| [Deacon Blues](https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 7:36 | 2019-06-11 | 2023-10-04 |
 | [Debris](https://open.spotify.com/track/2gFXQQ7dDY4lquHpUNeDTM) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [A Nod Is as Good as a Wink..\. to a Blind Horse](https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK) | 4:36 | 2019-06-11 |  |
 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 | 2019-06-11 |  |
 | [Down To Zero](https://open.spotify.com/track/7G4T7qkB0Wp32ItIvxBCw5) | [Joan Armatrading](https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6) | [Joan Armatrading](https://open.spotify.com/album/3BsE4yVwIOxM38hDnzrMlx) | 3:50 | 2019-06-11 |  |

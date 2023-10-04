@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Asadito a pura cumbia y cuarteto!",
-  "num_followers": 461375,
+  "num_followers": 461553,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWQxNmM2YjY0ZGE3YThiZTI2MTQwNGQ2MGY2NDk1M2Q2NmFmNDFh",
+  "snapshot_id": "MCxkMTIxOWRjMWI4NzE2ZTI1NGY5NWM2NDJjZGEzNWM0ODUyNzcxM2Rm",
   "tracks": [
     {
       "added_at": "2023-09-26 13:53:37",
@@ -167,18 +167,22 @@
     {
       "added_at": "2023-09-26 13:53:37",
       "album": {
-        "name": "Una Cerveza",
-        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
+        "name": "ADI\u00d3S (Live Version)",
+        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
       },
       "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
         {
           "name": "Rafaga",
           "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 240853,
-      "name": "Una Cerveza",
-      "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
+      "duration_ms": 164547,
+      "name": "ADI\u00d3S (Live Version)",
+      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
     },
     {
       "added_at": "2023-09-26 13:53:37",
@@ -299,22 +303,18 @@
     {
       "added_at": "2023-09-26 13:53:37",
       "album": {
-        "name": "ADI\u00d3S (Live Version)",
-        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
+        "name": "Una Cerveza",
+        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
       },
       "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
         {
           "name": "Rafaga",
           "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 164547,
-      "name": "ADI\u00d3S (Live Version)",
-      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
+      "duration_ms": 240853,
+      "name": "Una Cerveza",
+      "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
     },
     {
       "added_at": "2023-09-26 13:53:37",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-09-26 13:53:37",
       "album": {
+        "name": "Ya No Llora",
+        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 120638,
+      "name": "Ya No Llora",
+      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
+    },
+    {
+      "added_at": "2023-09-26 13:53:37",
+      "album": {
         "name": "LATI2",
         "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 204146,
       "name": "LATI2",
       "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
-    },
-    {
-      "added_at": "2023-09-26 13:53:37",
-      "album": {
-        "name": "Ya No Llora",
-        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 120638,
-      "name": "Ya No Llora",
-      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
     },
     {
       "added_at": "2023-09-26 13:53:37",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-09-26 13:53:37",
       "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 174869,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4"
+    },
+    {
+      "added_at": "2023-09-26 13:53:37",
+      "album": {
         "name": "A\u00fan Sigue La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 211213,
       "name": "Llorar\u00e1s M\u00e1s de Diez Veces",
       "url": "https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt"
-    },
-    {
-      "added_at": "2023-09-26 13:53:37",
-      "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK"
-      },
-      "artists": [
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 174869,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4"
     },
     {
       "added_at": "2023-09-26 13:53:37",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-09-26 13:53:37",
       "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Fuego y Pasion",
-      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
-    },
-    {
-      "added_at": "2023-09-26 13:53:37",
-      "album": {
         "name": "Montevideo 418",
         "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 211026,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+    },
+    {
+      "added_at": "2023-09-26 13:53:37",
+      "album": {
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 302800,
+      "name": "Soy Cordobes",
+      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
     },
     {
       "added_at": "2023-09-26 13:53:37",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-09-26 13:53:37",
       "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 302800,
-      "name": "Soy Cordobes",
-      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
-    },
-    {
-      "added_at": "2023-09-26 13:53:37",
-      "album": {
         "name": "Sonidero Soy",
         "url": "https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 210706,
       "name": "Te Arrepentir\u00e1s",
       "url": "https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU"
+    },
+    {
+      "added_at": "2023-09-26 13:53:37",
+      "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 209414,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
     }
   ],
   "unique_name": "Asadito Cumbiero",

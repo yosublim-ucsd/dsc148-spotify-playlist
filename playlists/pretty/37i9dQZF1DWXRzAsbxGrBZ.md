@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,054 likes - 50 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,146 likes - 50 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 24 | [Synonymous](https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Synonymous](https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55) | 6:52 |
 | 25 | [To The World](https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A) | [Brazo Wa Afrika](https://open.spotify.com/artist/6uGuuIkpLIWdUYVJit1dvP), [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [To The World](https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v) | 6:27 |
 | 26 | [Before Everything](https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Fictions](https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH) | 6:15 |
-| 27 | [Vertigo](https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [NEO](https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986) | 7:16 |
-| 28 | [With You](https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw) | [Dj Burger](https://open.spotify.com/artist/0oVArDDqG7UfqZqwGskQVH), [Ryu Ken](https://open.spotify.com/artist/1rp6OXNShKdYKMug01rPlq), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [With You](https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE) | 6:06 |
+| 27 | [With You](https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw) | [Dj Burger](https://open.spotify.com/artist/0oVArDDqG7UfqZqwGskQVH), [Ryu Ken](https://open.spotify.com/artist/1rp6OXNShKdYKMug01rPlq), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [With You](https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE) | 6:06 |
+| 28 | [Vertigo](https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [NEO](https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986) | 7:16 |
 | 29 | [We Gonna Fight For Music](https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [We Gonna Fight For Music](https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb) | 8:41 |
 | 30 | [Don't 4get To Call Me](https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP) | [OUT OF ORDER](https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5) | [OOO: AFRO](https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx) | 7:46 |
 | 31 | [See the Light](https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu) | [Bless\_SA](https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP), [Kyika DeSoul](https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I) | [See the Light](https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA) | 6:45 |
 | 32 | [Sunday Showers](https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Old but New Last Episode](https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4) | 6:52 |
 | 33 | [Four Lessons](https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Dafrotone](https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N) | 7:33 |
-| 34 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 |
-| 35 | [Flute Activation \- Original Mix](https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Artform](https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5) | 7:39 |
+| 34 | [Flute Activation \- Original Mix](https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Artform](https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5) | 7:39 |
+| 35 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 |
 | 36 | [The Savior \- Original Mix](https://open.spotify.com/track/7BiStjhoLseP9zJC6mjkI5) | [Zhane](https://open.spotify.com/artist/0fPkUCch0uK79Ny9XZoO4p) | [The Savior](https://open.spotify.com/album/5B6J3s8r9Qi3NyNGRfi3zc) | 6:51 |
 | 37 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 |
 | 38 | [Octave](https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s) | [OVGSREPUBLIC](https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU) | 7:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [The Inglourious](https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Synth\-O\-Ven](https://open.spotify.com/artist/2rKAtDYA8XKQYtZkkKD1Pn) | [The Inglourious](https://open.spotify.com/album/17LsNERMz4XHdUgpkvyV5X) | 6:39 |
 | 50 | [Lately I Found Myself](https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn) | [HisKing](https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj), [The Poetic Manic](https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF) | [Lately I Found Myself](https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP) | 7:28 |
 
-Snapshot ID: `MCxhYjczMTI5MmFjMjI3YTI1NjUwNzBjZGEyMDE3OTAyY2ZhYjQ0Mjg3`
+Snapshot ID: `MCw5ODc5MzUyYWZkZWJlNjg1NjZlZDQ3YmIxNjg2NGI4OWZkODJjMWY2`

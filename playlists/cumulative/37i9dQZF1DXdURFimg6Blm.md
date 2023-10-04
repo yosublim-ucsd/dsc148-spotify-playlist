@@ -4,7 +4,7 @@
 
 > Dance tracks for a big workout.
 
-445 songs - 22 hr 2 min
+446 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 | 2022-01-07 | 2022-04-07 |
 | [Funky Town](https://open.spotify.com/track/4A7aOnpjE4yytIbXTg6BxT) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Maurice West](https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk) | [Funky Town](https://open.spotify.com/album/6oiwGJoWZv4EX7wknq8MyA) | 2:48 | 2022-01-07 | 2022-04-16 |
 | [G Spot](https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Algo](https://open.spotify.com/artist/3b7KMI96oGOeQEoXhe4iBK) | [Licked](https://open.spotify.com/album/3I549AvPzDfWUItpvHSid4) | 5:18 | 2022-01-07 | 2022-04-14 |
-| [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 | 2022-09-23 |  |
+| [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 | 2022-09-23 | 2023-10-04 |
 | [Ghost \- Bounce Inc\. & Mairee Remix](https://open.spotify.com/track/1P9dPTbYJcLWCbuM78JzN5) | [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q), [Bounce Inc.](https://open.spotify.com/artist/6XxLVuFoMx7IKEINZdf3Xq), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [Ghost \(Remixes\)](https://open.spotify.com/album/4QULdjGMudDihOa4Xrn0gN) | 2:29 | 2022-05-27 | 2022-05-31 |
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-02-24 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3Ty6LPBgKjUtTmk14f2Ux4) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/4fSTEyul9jcFtfkEtgXikM) | 2:56 | 2022-04-22 | 2022-05-27 |
@@ -241,6 +241,7 @@
 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-10-29 | 2023-10-01 |
 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 | 2022-09-30 |  |
 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 | 2022-09-02 | 2023-05-06 |
+| [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 | 2023-09-29 |  |
 | [Lonely Heart](https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Lonely Heart](https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q) | 2:47 | 2022-06-03 | 2023-01-22 |
 | [Loop](https://open.spotify.com/track/0lqgo6rIBS0nVsvppZC3Ay) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loop](https://open.spotify.com/album/1KNHmfZjkA5Fq52nfOK0sW) | 3:10 | 2022-10-28 | 2023-03-02 |
 | [Lose Control](https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Lose Control](https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE) | 2:53 | 2023-05-19 |  |

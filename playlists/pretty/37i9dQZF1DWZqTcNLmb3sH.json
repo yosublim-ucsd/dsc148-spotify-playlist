@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 53568,
+  "num_followers": 53615,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjk2Mzc1MTI1MzhjNzkyY2IxZGM2ZjRkM2Y0N2RhMWY0MTNhN2M5",
+  "snapshot_id": "MCwyMTFkY2JkNTUyMGQxMWQ4ZDljZDgzMzI2ZmFjNDhmMTVlZDFlODhk",
   "tracks": [
     {
       "added_at": "2023-09-12 08:17:16",
@@ -315,18 +315,26 @@
     {
       "added_at": "2023-09-21 13:49:00",
       "album": {
-        "name": "Ivanu (From \"Tiger Nageswara Rao\") (Kannada)",
-        "url": "https://open.spotify.com/album/23cr2birsfkl2gaxuApa6s"
+        "name": "Veedu (From \"Tiger Nageswara Rao\")",
+        "url": "https://open.spotify.com/album/5RYGFNSsuLcewmIAV1oPrm"
       },
       "artists": [
         {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
         }
       ],
       "duration_ms": 198083,
-      "name": "Ivanu (From \"Tiger Nageswara Rao\") (Kannada)",
-      "url": "https://open.spotify.com/track/0m25syyBZlV40tujgMvU1v"
+      "name": "Veedu (From \"Tiger Nageswara Rao\")",
+      "url": "https://open.spotify.com/track/16QpMebGDlM6GSdCdNkdVc"
     },
     {
       "added_at": "2023-09-15 11:15:47",
@@ -451,8 +459,8 @@
     {
       "added_at": "2023-09-20 12:59:03",
       "album": {
-        "name": "Cult Mama (From \"Skanda\") (Kannada)",
-        "url": "https://open.spotify.com/album/7AEwPXQSZmE4rgXBDKz5jt"
+        "name": "Cult Mama (From \"Skanda\")",
+        "url": "https://open.spotify.com/album/3PGMup46G05fgFOjoexm8h"
       },
       "artists": [
         {
@@ -466,11 +474,15 @@
         {
           "name": "Parnika Manya",
           "url": "https://open.spotify.com/artist/2xuVTI9imgpzqOabZP4gPO"
+        },
+        {
+          "name": "Varadaraj Chikballapura",
+          "url": "https://open.spotify.com/artist/5mIoP70HRX5S0iYGCUlmQW"
         }
       ],
       "duration_ms": 247882,
-      "name": "Cult Mama (From \"Skanda\") (Kannada)",
-      "url": "https://open.spotify.com/track/1cSDTRLkvTQjeQ3iNh50SG"
+      "name": "Cult Mama (From \"Skanda\")",
+      "url": "https://open.spotify.com/track/5YypG8lpyd7D2jGkFG8DTU"
     },
     {
       "added_at": "2023-08-08 13:36:47",

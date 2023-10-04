@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1530281,
+  "num_followers": 1530496,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODg4MDk1MjZiODI5NDBmMGY4ZmZmYjdjNmY4YzU4MmM5NzVjOGIy",
+  "snapshot_id": "MCxlYmMyODYxNTlmYTRlMDZiYzRhMjkyNDA2MzFlZDYyZjA0ZDFhM2Mx",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Echoes Of Life: Night",
+        "url": "https://open.spotify.com/album/3XARakl3JkVizUCWSFG0wY"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7Ib1fj8HnRmi9WRBpDK6ie"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Desire (with Sam Smith) [Cedric Gervais Remixes]",
         "url": "https://open.spotify.com/album/7zxqQLnexgfdIdtfDWDGIx"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 259351,
       "name": "Desire (with Sam Smith) - Cedric Gervais Festival Mix",
       "url": "https://open.spotify.com/track/4E03xcSx0FZOfzEeTdcmRc"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Echoes Of Life: Night",
-        "url": "https://open.spotify.com/album/3XARakl3JkVizUCWSFG0wY"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7Ib1fj8HnRmi9WRBpDK6ie"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Apnea",
-        "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        },
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 332146,
-      "name": "Beyond Control",
-      "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Cappadocia",
         "url": "https://open.spotify.com/album/0reS9m5prtXtDFetcKIr9C"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 282063,
       "name": "Cappadocia",
       "url": "https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Apnea",
+        "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 332146,
+      "name": "Beyond Control",
+      "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 245881,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Should Have Seen It Coming",
         "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
       },
@@ -1879,26 +1863,6 @@
       "duration_ms": 238072,
       "name": "Should Have Seen It Coming",
       "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "You Take My Hand",
-        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
-        }
-      ],
-      "duration_ms": 315861,
-      "name": "You Take My Hand",
-      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1927,6 +1891,42 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+        }
+      ],
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 245881,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Elamy",
         "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
       },
@@ -1939,26 +1939,6 @@
       "duration_ms": 278400,
       "name": "Elamy",
       "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Take Me High",
-        "url": "https://open.spotify.com/album/3SYUZxNBcktJzhWlDHUCcU"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        },
-        {
-          "name": "Sam Luck",
-          "url": "https://open.spotify.com/artist/5BVku7Olml0ffWJU8OWFek"
-        }
-      ],
-      "duration_ms": 162290,
-      "name": "Take Me High",
-      "url": "https://open.spotify.com/track/7vQP0yjr0b7PxTIGmQhGNB"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1979,6 +1959,26 @@
       "duration_ms": 231288,
       "name": "Hide and Seek - Le Youth Remix",
       "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/3SYUZxNBcktJzhWlDHUCcU"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Sam Luck",
+          "url": "https://open.spotify.com/artist/5BVku7Olml0ffWJU8OWFek"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/7vQP0yjr0b7PxTIGmQhGNB"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Discopolis 2.0 (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/69RPZXcg3PGWRsWWiP4Mds"
       },
@@ -2031,34 +2047,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Thermal / Oblivion",
-        "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
-      },
-      "artists": [
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
         }
       ],
-      "duration_ms": 326929,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
     }
   ],
   "unique_name": "Night Rider",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 
 > A collection of the biggest soul tracks from the 1970s\. Cover: Roberta Flack
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,487,866 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,327 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 65 | [Hang On In There Baby](https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef) | [Johnny Bristol](https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa) | [Hang On In There Baby](https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix) | 3:53 |
 | 66 | [Woman's Gotta Have It](https://open.spotify.com/track/20HCbY9qPpi1H2pP2MRUWy) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [The Best Of Bobby Womack \- The Soul Years](https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd) | 3:30 |
 | 67 | [L\-O\-V\-E \(Love\)](https://open.spotify.com/track/49qkJtDdi3KHmENFzleve4) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Al Green Is Love](https://open.spotify.com/album/3axrKsJqF9tGAR9Nrez4cK) | 3:09 |
-| 68 | [Wake up Everybody](https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 3:31 |
+| 68 | [Wake up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 3:31 |
 | 69 | [Masterpiece](https://open.spotify.com/track/4gAsVttMY36zJUCa7FYoJN) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Masterpiece](https://open.spotify.com/album/3ZRpmo4encM3hourEMUE0g) | 13:50 |
 | 70 | [It Should Have Been Me](https://open.spotify.com/track/3lQNVAMwqcxFCJj8mI1izh) | [Yvonne Fair](https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8) | [The Bitch Is Black](https://open.spotify.com/album/0ehXIeOOjIrlCFXv7Bv8CS) | 3:33 |
 | 71 | [Drowning in the Sea of Love](https://open.spotify.com/track/1hbf8AWhIfIQk8V9KqTRAl) | [Joe Simon](https://open.spotify.com/artist/5HRSYURV6LFFRCjAtiK0py) | [Drowning in the Sea of Love](https://open.spotify.com/album/3KXu9WiHi6HlxXM9aZtdQU) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 74 | [You're A Big Girl Now](https://open.spotify.com/track/5C7WGqaFxmYsWi0OpV6blr) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Stylistics \- The Original Debut Album](https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ) | 3:18 |
 | 75 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In Philadelphia](https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase) | 2:49 |
 
-Snapshot ID: `MCwwNThhNmMyYzc2MjIzMDViMTAwM2VhYzYzMmI5ZGMwNGJmYjZiNTQ3`
+Snapshot ID: `MCxjOTgyMDFhZGFmNGJjODkyNmE2MDc4NTQxMjYzNDU0MDM2YzU4NmQ1`

@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 346718,
+  "num_followers": 346739,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTc3MmNmOTZhMTUzZWZkNjE2NmM3MjcwNDE5MjQ1Y2NjYzY5YmMw",
+  "snapshot_id": "MCwzZDRiZTkxOTIxYmRlOGQxN2ExMDAzZWE4NWVjMjQwNjVjYWFlZDY0",
   "tracks": [
     {
       "added_at": "2023-09-02 00:00:35",
@@ -271,26 +271,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Codinome Beija-Flor",
-        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Meu Lugar",
         "url": "https://open.spotify.com/album/40rB2bt1WY6K7vuIFLAMFQ"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 186410,
       "name": "Meu Lugar",
       "url": "https://open.spotify.com/track/6TfqFXLWyslRByvwmgsOMk"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Codinome Beija-Flor",
+        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Meu Parceiro Belchior",
-        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
-      },
-      "artists": [
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        },
-        {
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        }
-      ],
-      "duration_ms": 166006,
-      "name": "A Palo Seco",
-      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 162000,
       "name": "O Caderno",
       "url": "https://open.spotify.com/track/6d9kLmczO7tjudF3zMCyb1"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Meu Parceiro Belchior",
+        "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
+      },
+      "artists": [
+        {
+          "name": "Fagner",
+          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
+        },
+        {
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
+        }
+      ],
+      "duration_ms": 166006,
+      "name": "A Palo Seco",
+      "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "A M\u00fasica de Tom",
-        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Montarroyos",
-          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
-        },
-        {
-          "name": "Cain\u00e3 Cavalcante",
-          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
-        }
-      ],
-      "duration_ms": 185691,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "desculpe o au\u00ea",
         "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 178867,
       "name": "desculpe o au\u00ea",
       "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "A M\u00fasica de Tom",
+        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Montarroyos",
+          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+        },
+        {
+          "name": "Cain\u00e3 Cavalcante",
+          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
+        }
+      ],
+      "duration_ms": 185691,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Pra lhe Dizer",
+        "url": "https://open.spotify.com/album/2FCd8bsBEd34LSKEVci8o8"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 290141,
+      "name": "Pra lhe Dizer",
+      "url": "https://open.spotify.com/track/2wmLzpkFjqwVNXrAck7i5D"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
         "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 165815,
       "name": "Regra Tr\u00eas",
       "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Pra lhe Dizer",
-        "url": "https://open.spotify.com/album/2FCd8bsBEd34LSKEVci8o8"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 290141,
-      "name": "Pra lhe Dizer",
-      "url": "https://open.spotify.com/track/2wmLzpkFjqwVNXrAck7i5D"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Querer Bem",
+        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
+      },
+      "artists": [
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Roberto Mendes",
+          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
+        }
+      ],
+      "duration_ms": 194752,
+      "name": "Querer Bem",
+      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Tamb\u00e9m Pede Bis",
         "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
       },
@@ -1675,26 +1695,6 @@
       "duration_ms": 209590,
       "name": "O La\u00e7o Que Une Eu E Voc\u00ea",
       "url": "https://open.spotify.com/track/4csFBU2C2tupgiKWxeUKTq"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Querer Bem",
-        "url": "https://open.spotify.com/album/5EsxhSjXVxOFehJlRk4peT"
-      },
-      "artists": [
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Roberto Mendes",
-          "url": "https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V"
-        }
-      ],
-      "duration_ms": 194752,
-      "name": "Querer Bem",
-      "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
     },
     {
       "added_at": "2023-09-02 00:00:35",

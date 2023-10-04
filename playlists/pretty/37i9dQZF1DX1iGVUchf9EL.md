@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1iGVUchf9EL.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/laurenlondon/">Lauren London</a>\. Inspired by Netflix's You People.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,086 likes - 51 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092 likes - 51 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1iGVUchf9EL.md) - [plain]
 | 48 | [How's It Goin' Down](https://open.spotify.com/track/5AP5KTPHWgOf56LFdjSwD2) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/5UYiEB3cGXGihBe7Wvp6dX) | 4:03 |
 | 49 | [On My Way](https://open.spotify.com/track/0oWJiWYnKrq4fHUZAuZmDq) | [Suga Free](https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Street Gospel](https://open.spotify.com/album/1ZAEMU1aaMpCQXKLJiuI7Q) | 4:29 |
 | 50 | [Fertile Soil](https://open.spotify.com/track/5old9evJieDTGStlvw4fVf) | [FR33SOL](https://open.spotify.com/artist/5U59bhe4N5CcwgGO36nqxm), [Londrelle](https://open.spotify.com/artist/5CYSZBI4BEAeMeiYRiT1Xd) | [When The Flowers Bloom...\(Deluxe\)](https://open.spotify.com/album/4RYYAmd7aVHj7SE0XxBBfM) | 4:40 |
-| 51 | [The Sweetest Thing \- From the New Line Cinema film "Love Jones"](https://open.spotify.com/track/3SFB3fwyh3fhfF2DkVgM5g) | [Refugee Camp All\-Stars](https://open.spotify.com/artist/7Jkv0oBbEmxtNnLsxT7NMt), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The All Time Greatest Movie Songs](https://open.spotify.com/album/2utmprJOfjPVxqT6CV85wk) | 4:50 |
+| 51 | [The Sweetest Thing \(feat\. Lauryn Hill\) \- From the New Line Cinema film "Love Jones"](https://open.spotify.com/track/3SFB3fwyh3fhfF2DkVgM5g) | [Refugee Camp All\-Stars](https://open.spotify.com/artist/7Jkv0oBbEmxtNnLsxT7NMt), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The All Time Greatest Movie Songs](https://open.spotify.com/album/2utmprJOfjPVxqT6CV85wk) | 4:50 |
 
-Snapshot ID: `MCxmZGQyNzk2MjlhYzhkYWQ0NjU3YWRiMTM0MzQzNTk2NTczYjUxNzA4`
+Snapshot ID: `MCw0MGE4YzRkMWJjZjJhMGQ0ZjU2M2VkOWIxZGU1YjA1MzU3YzQ0MWNh`

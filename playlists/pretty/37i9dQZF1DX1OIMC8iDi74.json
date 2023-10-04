@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 893552,
+  "num_followers": 893652,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODE2MGMzNWUxY2NkMjMxMDY0NDY4NzkyZTYxYjU2NDgyYjA0Y2Yx",
+  "snapshot_id": "MCxmNGM0MWE5ZTU4M2RhZTJiZmY0MDAyMTYzMDdmMGNjZDcxYzEzOTY4",
   "tracks": [
     {
       "added_at": "2023-09-29 13:13:38",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-09-29 13:13:38",
       "album": {
+        "name": "Fresh Outta Japan",
+        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
+      },
+      "artists": [
+        {
+          "name": "Yasko",
+          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
+        }
+      ],
+      "duration_ms": 116050,
+      "name": "Fresh Outta Japan",
+      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
+    },
+    {
+      "added_at": "2023-09-29 13:13:38",
+      "album": {
         "name": "Reaper (feat. JID)",
         "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 244302,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"
-    },
-    {
-      "added_at": "2023-09-29 13:13:38",
-      "album": {
-        "name": "Fresh Outta Japan",
-        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
-      },
-      "artists": [
-        {
-          "name": "Yasko",
-          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
-        }
-      ],
-      "duration_ms": 116050,
-      "name": "Fresh Outta Japan",
-      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
     },
     {
       "added_at": "2023-09-29 13:13:38",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-09-29 13:13:38",
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Lil Gnar",
-          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
-        }
-      ],
-      "duration_ms": 121849,
-      "name": "Spirits Pt. 2",
-      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
-    },
-    {
-      "added_at": "2023-09-29 13:13:38",
-      "album": {
         "name": "6 FEET UNDER",
         "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 154616,
       "name": "WARDOGZ",
       "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
+    },
+    {
+      "added_at": "2023-09-29 13:13:38",
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        }
+      ],
+      "duration_ms": 121849,
+      "name": "Spirits Pt. 2",
+      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
     },
     {
       "added_at": "2023-09-29 13:13:38",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-09-29 13:13:38",
       "album": {
+        "name": "Redo",
+        "url": "https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 197260,
+      "name": "Redo",
+      "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
+    },
+    {
+      "added_at": "2023-09-29 13:13:38",
+      "album": {
         "name": "Eden (feat. fussy)",
         "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 176761,
       "name": "Eden (feat. fussy)",
       "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
-    },
-    {
-      "added_at": "2023-09-29 13:13:38",
-      "album": {
-        "name": "Redo",
-        "url": "https://open.spotify.com/album/2AMprxvEKfL1MX46QFgHR7"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 197260,
-      "name": "Redo",
-      "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
     },
     {
       "added_at": "2023-09-29 13:13:38",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-09-29 13:13:38",
       "album": {
-        "name": "Wobble",
-        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Wobble",
-      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
-    },
-    {
-      "added_at": "2023-09-29 13:13:38",
-      "album": {
         "name": "Sable Valley Summer Vol. 3",
         "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 247500,
       "name": "Silo (feat. fknsyd)",
       "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
+    },
+    {
+      "added_at": "2023-09-29 13:13:38",
+      "album": {
+        "name": "Wobble",
+        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Wobble",
+      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
     },
     {
       "added_at": "2023-09-29 13:13:38",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-09-29 13:13:38",
       "album": {
+        "name": "REDloop",
+        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "REDloop",
+      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
+    },
+    {
+      "added_at": "2023-09-29 13:13:38",
+      "album": {
         "name": "Matangi",
         "url": "https://open.spotify.com/album/4fX5bMmqyLK0q71CbTKvPz"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 198000,
       "name": "Matangi",
       "url": "https://open.spotify.com/track/6tNgb8wC2bRSUDkb3biccy"
-    },
-    {
-      "added_at": "2023-09-29 13:13:38",
-      "album": {
-        "name": "REDloop",
-        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "REDloop",
-      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
     },
     {
       "added_at": "2023-09-29 13:13:38",
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2023-09-29 13:13:38",
       "album": {
+        "name": "NO TOMORROW",
+        "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
+      },
+      "artists": [
+        {
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+        }
+      ],
+      "duration_ms": 174334,
+      "name": "NO TOMORROW",
+      "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
+    },
+    {
+      "added_at": "2023-09-29 13:13:38",
+      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
@@ -1779,30 +1799,6 @@
     {
       "added_at": "2023-09-29 13:13:38",
       "album": {
-        "name": "SABER TOOTH",
-        "url": "https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9"
-      },
-      "artists": [
-        {
-          "name": "TIGER DROOL",
-          "url": "https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA"
-        },
-        {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
-        },
-        {
-          "name": "Vincent",
-          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "SABER TOOTH",
-      "url": "https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC"
-    },
-    {
-      "added_at": "2023-09-29 13:13:38",
-      "album": {
         "name": "Cartel II",
         "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
       },
@@ -1823,22 +1819,26 @@
     {
       "added_at": "2023-09-29 13:13:38",
       "album": {
-        "name": "NO TOMORROW",
-        "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
+        "name": "SABER TOOTH",
+        "url": "https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9"
       },
       "artists": [
         {
-          "name": "bear bear & friends",
-          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+          "name": "TIGER DROOL",
+          "url": "https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA"
         },
         {
-          "name": "Gill Chang",
-          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
         }
       ],
-      "duration_ms": 174334,
-      "name": "NO TOMORROW",
-      "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
+      "duration_ms": 165346,
+      "name": "SABER TOOTH",
+      "url": "https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC"
     },
     {
       "added_at": "2023-09-29 13:13:38",

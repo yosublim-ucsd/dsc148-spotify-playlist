@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,058,540 likes - 140 songs - 7 hr 18 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,058,573 likes - 140 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 90 | [On My Own](https://open.spotify.com/track/1ONKjaDIhaRpfXZM6Aissj) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [On My Own](https://open.spotify.com/album/2avJLo0TowGOxtZc7St6LO) | 4:30 |
 | 91 | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/track/6pooRNiLyYpxZeIA5kJ5EX) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/album/4IYvXJnU8zPRzPPTu4dJUl) | 3:36 |
 | 92 | [Savage \(feat\. Flux Pavilion & MAX\)](https://open.spotify.com/track/0kD586ste6xyDRqUYhVlCh) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Savage \(feat\. Flux Pavilion & MAX\)](https://open.spotify.com/album/1MWHKCowe1fS0A3LfRpEdK) | 3:25 |
-| 93 | [VAMOS DANÇAR](https://open.spotify.com/track/0m27jaB75GPulsmIUMQzj1) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li) | [VAMOS DANÇAR](https://open.spotify.com/album/1frYkIZSlYpHJauO1t6FIN) | 1:01 |
+| 93 | [VAMOS DANÇAR](https://open.spotify.com/track/0m27jaB75GPulsmIUMQzj1) | [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li), [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [VAMOS DANÇAR](https://open.spotify.com/album/1frYkIZSlYpHJauO1t6FIN) | 1:01 |
 | 94 | [Eburium](https://open.spotify.com/track/2Qweky9GgOCawoTbZE62uB) | [Inodi](https://open.spotify.com/artist/25WiVmd08PUQwOmXt4XnmU) | [Eburium](https://open.spotify.com/album/7JZaVI85kitpAlRaplKzpp) | 2:45 |
 | 95 | [Nu Bluem](https://open.spotify.com/track/3D0gUUumDPAiy0BAK1RxbO) | [Sheesh](https://open.spotify.com/artist/5zXD5qxsLXEUFlsFHr2yyd), [Alan Watts](https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b) | [Nu Bluem](https://open.spotify.com/album/0LWeDtleDhWJy9sBf6jELK) | 3:40 |
 | 96 | [Vans \- King Kavalier Remix](https://open.spotify.com/track/2hOI8ROmKpjTIOQk1E4fmr) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG), [King Kavalier](https://open.spotify.com/artist/2WHVbKysnJdhkB4VBWxC3v) | [Fear \(The Remixes\)](https://open.spotify.com/album/3Ca3vlf4i4CcZJDxVoNzbj) | 2:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > The Rugby World Cup is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,562 likes - 30 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,581 likes - 30 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 29 | [Pluto \(Remember You\) \- Radio Edit](https://open.spotify.com/track/0MITF6fx2O1ClZnkC8jSfr) | [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Pluto \(Remember You\)](https://open.spotify.com/album/5alvUiKME4gVY3qv6UlSwd) | 4:27 |
 | 30 | [Siya Kolisi](https://open.spotify.com/track/2GeRTXdpGmPIDBTW7maEnK) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Siya Kolisi](https://open.spotify.com/album/0ANG5WFHxrm0UsyOiR4x7U) | 3:49 |
 
-Snapshot ID: `MCw4ZGI0NjI4YTE4YTU4MmM1ODJlYWMxMDA0ZmJkNTJkNDg1NDYwYzBj`
+Snapshot ID: `MCxkNDJlMzVjOGY0ZDNiZGE0ZjBiYTgyMjNmZmYyMjBkYjJmZjYxMjMw`

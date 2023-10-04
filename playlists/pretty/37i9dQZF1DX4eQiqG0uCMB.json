@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 23418,
+  "num_followers": 23459,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTkxNDUzZTE3ZjQ2ODdmZGIwMDY4MzQ4OTFhZTZhZDNmYmJiZDA5",
+  "snapshot_id": "MCxjNWUyZGI5YzQyMTNlZjI1MTE0MDVjNGY2OWYwZmEyZjNmMTRmZWE0",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -491,18 +491,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+        "name": "Jaga Jaga (with Babyboy AV)",
+        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+      "duration_ms": 226000,
+      "name": "Jaga Jaga (with Babyboy AV)",
+      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -619,22 +623,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Jaga Jaga (with Babyboy AV)",
-        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Jaga Jaga (with Babyboy AV)",
-      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -875,22 +875,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+        "name": "Hypertension",
+        "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 230130,
-      "name": "Wine",
-      "url": "https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg"
+      "duration_ms": 163709,
+      "name": "Contraband",
+      "url": "https://open.spotify.com/track/2XWEtuwV02B9L4UNQ2wf9W"
     }
   ],
   "unique_name": "Sound Semester ",

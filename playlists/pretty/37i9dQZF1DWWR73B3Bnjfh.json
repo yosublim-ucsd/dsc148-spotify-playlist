@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 105199,
+  "num_followers": 105335,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGM3NWE5YzhiM2E1MDAyNGU1NjMzMGVlYzNkZWY2YWMxNmI5NjA0",
+  "snapshot_id": "MCwyZWQ2N2FlMmU3YzJhMjEzNmUzOTQ4YTQ5ZjcyZTY3NjhkZTQ1NGY3",
   "tracks": [
     {
       "added_at": "2023-09-22 07:50:05",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-09-22 07:50:05",
       "album": {
+        "name": "Further Definitions",
+        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 237640,
+      "name": "The Midnight Sun Will Never Set",
+      "url": "https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw"
+    },
+    {
+      "added_at": "2023-09-22 07:50:05",
+      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 252893,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/6lO3wImM4oMAhOzDptCqa6"
-    },
-    {
-      "added_at": "2023-09-22 07:50:05",
-      "album": {
-        "name": "Further Definitions",
-        "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
-      },
-      "artists": [
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 237640,
-      "name": "The Midnight Sun Will Never Set",
-      "url": "https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw"
     },
     {
       "added_at": "2023-09-22 07:50:05",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-09-22 07:50:05",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        },
-        {
-          "name": "The Three Sounds",
-          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
-        }
-      ],
-      "duration_ms": 598866,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/53I0rp6820Z8aksKz7FeXt"
-    },
-    {
-      "added_at": "2023-09-22 07:50:05",
-      "album": {
         "name": "Mating Call [RVG Remaster]",
         "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 321400,
       "name": "Soultrane - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"
+    },
+    {
+      "added_at": "2023-09-22 07:50:05",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        },
+        {
+          "name": "The Three Sounds",
+          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
+        }
+      ],
+      "duration_ms": 598866,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/53I0rp6820Z8aksKz7FeXt"
     },
     {
       "added_at": "2023-09-22 07:50:05",
@@ -1291,18 +1291,30 @@
     {
       "added_at": "2023-09-22 07:50:05",
       "album": {
-        "name": "Poppin'",
-        "url": "https://open.spotify.com/album/0fGG4NXcCWzTcpYGrcyCtc"
+        "name": "Falling In Love With Paul Desmond",
+        "url": "https://open.spotify.com/album/38SK483XET4r7jzPXaz8rc"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        },
+        {
+          "name": "Eugene Wright",
+          "url": "https://open.spotify.com/artist/3Bx84JkzpCnEzS2bTIHI53"
+        },
+        {
+          "name": "Connie Kay",
+          "url": "https://open.spotify.com/artist/7txdgV9R0IGjkZ8R6rPake"
         }
       ],
-      "duration_ms": 370000,
-      "name": "Dam That Dream",
-      "url": "https://open.spotify.com/track/1BBIJBrOV8Lzl48C9GZ4rX"
+      "duration_ms": 343000,
+      "name": "When Joanna Loved Me",
+      "url": "https://open.spotify.com/track/2rxK2vd9P8QM1TEbyGFjoY"
     }
   ],
   "unique_name": "Jazz Noir",

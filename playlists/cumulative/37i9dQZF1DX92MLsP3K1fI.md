@@ -2,9 +2,9 @@
 
 ### [Oye Pop](https://open.spotify.com/playlist/37i9dQZF1DX92MLsP3K1fI)
 
-> ¡Sube el volumen y disfruta del pop más chicloso! Kim Loaiza y Pailita en portada.
+> ¡Sube el volumen y disfruta del pop más chicloso! Morat en portada.
 
-230 songs - 11 hr 41 min
+231 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Nada Personal](https://open.spotify.com/track/7h2ns1BV8zbPtsabqvatER) | [Jiapsi](https://open.spotify.com/artist/6CTlgOuGnknxldVsZMmSpi) | [Nada Personal](https://open.spotify.com/album/7nduBYYVz66chTJdrfkVoW) | 2:51 | 2022-02-04 | 2022-05-28 |
 | [Nadie Te Entiende](https://open.spotify.com/track/3UMJzfw9Fq4gXnrJ0eCdM1) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Nadie Te Entiende](https://open.spotify.com/album/6PdWbSpwcrtKxbDmOG0pzA) | 3:10 | 2022-02-04 | 2022-07-24 |
 | [Neón Ponderosa](https://open.spotify.com/track/0ew6IpoCY2hx5xVfCt6BhE) | [José Hoek](https://open.spotify.com/artist/0bq9MHfPforgiUxuuffVzs) | [Neón Ponderosa](https://open.spotify.com/album/5eDv0qyiE6Rau1LEQxk7hN) | 3:23 | 2022-02-25 | 2022-04-23 |
-| [No Digas Nada](https://open.spotify.com/track/6YiWdUMnMUJ84Ik9JUG7NL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [No Digas Nada](https://open.spotify.com/album/11oUQbgiKOlQopjkZhvp5Z) | 4:07 | 2023-09-08 |  |
+| [No Digas Nada](https://open.spotify.com/track/6YiWdUMnMUJ84Ik9JUG7NL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [No Digas Nada](https://open.spotify.com/album/11oUQbgiKOlQopjkZhvp5Z) | 4:07 | 2023-09-08 | 2023-10-04 |
 | [No Eres Tú](https://open.spotify.com/track/4GStP9aSm7eAR6Q2ltRlum) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [No Eres Tú](https://open.spotify.com/album/6mid7zTX6Ba7MabucYA6zN) | 3:49 | 2022-02-04 | 2022-08-04 |
 | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k) | 3:49 | 2022-07-29 | 2023-02-04 |
 | [No Es Mi Culpa](https://open.spotify.com/track/0c8RjV0vfQ7z1ZpdfaQ61d) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [No Es Mi Culpa](https://open.spotify.com/album/0MXBGzxk5jZZH4yYWY1O37) | 2:07 | 2023-02-24 | 2023-08-31 |
@@ -162,7 +162,7 @@
 | [Pasajero](https://open.spotify.com/track/6EBd69hWC96BKJ0Ts92riX) | [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [Pasajero](https://open.spotify.com/album/5DGSn1ipSRxFMgleIALTXL) | 2:52 | 2022-03-11 | 2022-05-20 |
 | [Pase Lo Que Pase](https://open.spotify.com/track/3oVkYxmpw1VZcLumrMNywZ) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Pase Lo Que Pase](https://open.spotify.com/album/0xZEnws967dqNnWQ7YjqqY) | 3:05 | 2022-02-18 | 2022-07-22 |
 | [Pasos de Gigante](https://open.spotify.com/track/6DlhPEHyYrrZCs9rTIz6ho) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Pasos de Gigante](https://open.spotify.com/album/2hHyswHGfr2UQ1jdVUlMsP) | 3:41 | 2022-10-31 | 2023-04-01 |
-| [PATÁN](https://open.spotify.com/track/5whquDzWNIFu4d7ERTVdao) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [PATÁN](https://open.spotify.com/album/4WOnb20nJR9A05CkPpQnkM) | 2:55 | 2023-09-25 |  |
+| [PATÁN](https://open.spotify.com/track/5whquDzWNIFu4d7ERTVdao) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [PATÁN](https://open.spotify.com/album/4WOnb20nJR9A05CkPpQnkM) | 2:55 | 2023-09-25 | 2023-10-04 |
 | [Pensando En Ti](https://open.spotify.com/track/0DA7ylqBTevQpc5ytIkaF6) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Ciencia Fricción](https://open.spotify.com/album/5tHACDBVaSJ1j9np1vAmsF) | 2:50 | 2022-07-26 | 2022-11-02 |
 | [Pereza](https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Pereza](https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB) | 3:09 | 2022-07-29 | 2022-12-25 |
 | [Perreito](https://open.spotify.com/track/0CukGWJFEpaiQYic5R1iMq) | [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl) | [Prezea](https://open.spotify.com/album/56GTiqI6vHTARWl7nkGusX) | 2:56 | 2022-02-04 | 2022-06-08 |
@@ -191,6 +191,7 @@
 | [Si Ella Se Va](https://open.spotify.com/track/2GvFANHYc9Nckxu4OQHDOf) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ) | [Si Ella Se Va](https://open.spotify.com/album/6xKegFA0uFcks5W2dTWgrE) | 2:52 | 2022-02-04 | 2022-07-27 |
 | [Si Te Vas](https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8) | 3:41 | 2022-06-06 | 2022-06-29 |
 | [Siempre Tú](https://open.spotify.com/track/6LUouQmwcFQQgjkL4jsxUh) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [Siempre Tú](https://open.spotify.com/album/3ipgL8vCJtnSTJl8irREqr) | 3:14 | 2022-02-04 | 2023-02-04 |
+| [SIN HABLAR](https://open.spotify.com/track/1duwVv5o7C4DxMWyh9TRHj) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [SIN HABLAR](https://open.spotify.com/album/2s6WuuQGNDpvbA0lP5MPqI) | 3:11 | 2023-10-03 |  |
 | [sin ti </3](https://open.spotify.com/track/11PYImjBVaZ2pDE1ERIdHM) | [D\. Krugga](https://open.spotify.com/artist/4x65cIPX0RvYoK1zmQgQXH) | [sin ti </3](https://open.spotify.com/album/7z0agt22EaaxvqDyLxZVsq) | 3:03 | 2023-02-10 | 2023-05-06 |
 | [Sincronía](https://open.spotify.com/track/1wNsiqRAWRc6xGCOEGv7li) | [Luisa Ferss](https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K), [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh) | [Sincronía](https://open.spotify.com/album/6Z3JXvfQtfMo5B0sArZ2TK) | 3:38 | 2022-02-04 | 2022-07-25 |
 | [Sintonía](https://open.spotify.com/track/04XUVNDGZlQu4XcgzdD5GD) | [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP) | [Sintonía](https://open.spotify.com/album/5e2KDtyqG9lZiT8IoVXbeA) | 2:50 | 2022-04-22 | 2022-05-04 |
@@ -207,7 +208,7 @@
 | [Tacho](https://open.spotify.com/track/2WToWKYAibWQ868qR755bm) | [Gaby Noya](https://open.spotify.com/artist/7M0MRF7kyp2NTq5DssSbRX) | [Tacho](https://open.spotify.com/album/7lqlXhxcFJhuG3H3D4bysz) | 3:19 | 2023-03-31 | 2023-05-06 |
 | [Tan Bonita](https://open.spotify.com/track/7xyzefduQtdn4nxbT92T4G) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Tan Bonita](https://open.spotify.com/album/527CairPtfgaEwJKH6sAmj) | 3:03 | 2022-02-04 | 2022-12-20 |
 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 | 2022-02-04 |  |
-| [Tan Viva](https://open.spotify.com/track/3q9urLw4ksYMKJHBqIu4kb) | [JNS](https://open.spotify.com/artist/36VEEgbtrb7tx601gvlzli) | [Tan Viva](https://open.spotify.com/album/6odmoJINNoQa4pRrfcRwEs) | 3:25 | 2023-03-31 | 2023-09-30 |
+| [Tan Viva](https://open.spotify.com/track/3q9urLw4ksYMKJHBqIu4kb) | [JNS](https://open.spotify.com/artist/36VEEgbtrb7tx601gvlzli) | [Tan Viva](https://open.spotify.com/album/6odmoJINNoQa4pRrfcRwEs) | 3:25 | 2023-03-31 |  |
 | [Te Fuiste](https://open.spotify.com/track/4tY1tO1F7lYloVmHEq9fOs) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Te Fuiste](https://open.spotify.com/album/6l6pTc4bSbHUY3GHSmkeba) | 2:32 | 2023-02-10 | 2023-04-01 |
 | [TE PIENSO A CADA HORA](https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [TE PIENSO A CADA HORA](https://open.spotify.com/album/6jJJFLiYhv7LE1wvCZG5Z4) | 3:14 | 2022-02-18 | 2023-04-09 |
 | [Te Quieres Ir](https://open.spotify.com/track/5stGwgzM6HeOya3FrXrA5V) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw) | [Te Quieres Ir](https://open.spotify.com/album/4Ymj7pfgVf3U3mYVSbZ8ZO) | 3:36 | 2022-02-04 | 2022-07-19 |

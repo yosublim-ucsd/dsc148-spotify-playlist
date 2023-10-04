@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,744 songs - 3 day 6 hr 11 min
+1,746 songs - 3 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [feather](https://open.spotify.com/track/0lFk8GCAu5gbxNCxPGuoOU) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [at peace](https://open.spotify.com/album/1PvZfkyXrVL9jPs4QioLUw) | 2:50 | 2021-05-12 | 2022-04-21 |
 | [Feel Like April](https://open.spotify.com/track/1cgfxn9YQ0dFQ7MzWwHsQf) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Feel Like April](https://open.spotify.com/album/4tic19E7Ac76I8X13yVEG7) | 3:40 | 2021-03-31 | 2022-07-28 |
 | [Feeling Free](https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Feeling Free](https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB) | 2:06 | 2022-07-27 | 2022-09-26 |
+| [Felt Improv No\. 4](https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improv No\. 4](https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4) | 2:05 | 2023-10-03 |  |
 | [Felt Like November](https://open.spotify.com/track/5E1bhcfVKEpXhEy0uYAerK) | [Magnus Ludvigsson](https://open.spotify.com/artist/1ZdkboTg5bXbk7siTMxVc7) | [Felt Like November](https://open.spotify.com/album/6r7aJSg5jijuTKp9nwxg9u) | 2:56 | 2021-03-23 | 2022-07-28 |
 | [Feu noir](https://open.spotify.com/track/5cfcFwKThGXg3L6kRFehnh) | [Luc Renot](https://open.spotify.com/artist/5SfdCgy16I4e8ACzJScyXT) | [Feu noir](https://open.spotify.com/album/4zryhZrsEZz3S1L6anysR8) | 2:12 | 2021-03-11 | 2022-04-18 |
 | [Field of Joy](https://open.spotify.com/track/5Dupg1ztlsHXxhmBDVqww2) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Field of Joy](https://open.spotify.com/album/0iRcFoOpH69QSXovmNfa5N) | 3:16 | 2022-12-22 | 2023-02-25 |
@@ -750,6 +751,7 @@
 | [Je m'amoure de cette sensation](https://open.spotify.com/track/63PdrrV4D4DtKpB4JEKMTJ) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Je m'amoure de cette sensation](https://open.spotify.com/album/43fbFte7qzVb4OGBl0wTK8) | 2:31 | 2023-04-15 | 2023-05-31 |
 | [Je t'ai vu](https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Je t'ai vu](https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X) | 3:00 | 2022-10-25 | 2023-04-16 |
 | [Je vous ai trouvé](https://open.spotify.com/track/4PLaetqDYcJK1e6VFb361C) | [Verney Pépin](https://open.spotify.com/artist/1m0iaSvYDVKEUe4gkPXriQ) | [Je vous ai trouvé](https://open.spotify.com/album/2u9QYGFP25RUHD19s0rd4e) | 2:20 | 2022-10-25 | 2023-02-04 |
+| [Jean Paul errant](https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Jean Paul errant](https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0) | 2:20 | 2023-10-03 |  |
 | [Jeremy and Maureen](https://open.spotify.com/track/7ISwUxOAvFJhIM7Q9c1mcu) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Jeremy and Maureen](https://open.spotify.com/album/6ObwhBlnMPwTSXYgSGJZgf) | 3:24 | 2021-05-19 | 2022-07-20 |
 | [Jingle Bell Rock](https://open.spotify.com/track/64jsb7BPnYrz1SmmXVZBQh) | [Philip Watts](https://open.spotify.com/artist/6S4zMOIznUcAAcZ34DCVHF) | [Peaceful Christmas Piano](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 1:42 | 2021-03-19 | 2022-04-21 |
 | [Joy To the World](https://open.spotify.com/track/7A9apF3lxPLOO0qLPAF9Nx) | [Annie Leigh](https://open.spotify.com/artist/2jikpvyegE6SNWANdCrvPK) | [Peaceful Christmas Piano](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 1:23 | 2021-03-16 | 2022-04-17 |
@@ -950,7 +952,7 @@
 | [Mirage](https://open.spotify.com/track/28SIY2M7W3bs1s5K5yxhBC) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Mirage](https://open.spotify.com/album/6CQKX5bb2MZHTDTOurFBB0) | 2:56 | 2021-03-20 | 2021-12-21 |
 | [Mirror Song](https://open.spotify.com/track/5Z6pY8kv0bYE72QKBYes0s) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Mirror Song](https://open.spotify.com/album/3L25gHwm471Vec1YrXysmp) | 3:35 | 2021-04-28 | 2022-06-11 |
 | [Misli na tebe](https://open.spotify.com/track/33dahwAOW1V1quRlxh1Ffp) | [Frano Stanić](https://open.spotify.com/artist/0zlGbeqBJRLfirr9UTEpV9) | [Misli na tebe](https://open.spotify.com/album/3PEQD0rAwurBJiYIiT1OLx) | 1:53 | 2021-05-25 | 2022-04-18 |
-| [Missing You](https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Missing You](https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c) | 2:28 | 2023-06-27 |  |
+| [Missing You](https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Missing You](https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c) | 2:28 | 2023-06-27 | 2023-10-04 |
 | [Missy](https://open.spotify.com/track/31Ym8LjfKv5dpgppLUmpWs) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Missy](https://open.spotify.com/album/76M1XQdN9UnipO6FQG3TJc) | 2:45 | 2021-03-08 | 2022-04-17 |
 | [Mist](https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY) | [Sarah Keen](https://open.spotify.com/artist/2RsoZRd21YVJS5HKI7OfhE) | [Mist](https://open.spotify.com/album/5zilCnIGXq9HDMVhERTMQc) | 2:02 | 2022-09-29 | 2023-06-01 |
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2021-08-06 | 2022-09-19 |
@@ -1576,7 +1578,7 @@
 | [Tras Salomé](https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Tras Salomé](https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo) | 2:57 | 2021-05-18 | 2022-07-28 |
 | [Traunstein](https://open.spotify.com/track/3oTDoIy41rJX9ZQYURoWRt) | [Theodore Tompkins](https://open.spotify.com/artist/6q0goYsbiGF4LUqGIWrXBb) | [Traunstein](https://open.spotify.com/album/0R44nYLnFDUvN9XCk8sKGY) | 2:29 | 2021-05-26 | 2022-04-16 |
 | [Traveling](https://open.spotify.com/track/5ih49fmvqPDV9Hq7IRzf7U) | [Heinz Goldblatt](https://open.spotify.com/artist/2huinmkGMFzltmc7Pe7fgf) | [Traveling](https://open.spotify.com/album/2xDToUiJFj9bs00f7X9Q11) | 1:59 | 2021-05-07 | 2022-04-08 |
-| [Travelling](https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Travelling](https://open.spotify.com/album/3OLjWTVE7j1i2pWoBDRhoR) | 2:40 | 2022-05-31 |  |
+| [Travelling](https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Travelling](https://open.spotify.com/album/3OLjWTVE7j1i2pWoBDRhoR) | 2:40 | 2022-05-31 | 2023-10-04 |
 | [Travelling](https://open.spotify.com/track/2OKEAPTngkO7ogItXRPHwC) | [James Spiteri](https://open.spotify.com/artist/4kJAoV5i0XPIAoGRN4bVJJ) | [A New Beginning](https://open.spotify.com/album/5MtcpLLduxsOal79cT835i) | 3:57 | 2021-04-29 | 2022-04-02 |
 | [Travels/Memories](https://open.spotify.com/track/63TfOdue04Jf7m61CX8QG1) | [Les Clouds](https://open.spotify.com/artist/0SkWt52bPkwqH41F0zgdV0) | [Crossing Over](https://open.spotify.com/album/6DYQ4Yu1n7fEadsZoG0cUU) | 3:04 | 2021-05-05 | 2022-04-07 |
 | [Tread Softly](https://open.spotify.com/track/03P8X4jeamfDN208vUJK8k) | [Tina Cargyle](https://open.spotify.com/artist/4W0tULIDKZAqvI90hlIsV1) | [Tread Softly](https://open.spotify.com/album/1aiTn0Yp9QmWiZ6mQBcr0E) | 2:18 | 2021-03-20 | 2022-07-09 |

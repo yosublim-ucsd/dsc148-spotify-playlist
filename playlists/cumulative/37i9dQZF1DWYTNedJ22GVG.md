@@ -4,13 +4,14 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-170 songs - 8 hr 26 min
+171 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Hand For Mrs\. Claus](https://open.spotify.com/track/5GMaaILYpTiAo1SAhvvBKi) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas: A Season Of Love](https://open.spotify.com/album/2iaVsgsBIrCnxTksOl0Muz) | 2:29 | 2021-12-07 |  |
 | [A Marshmallow World](https://open.spotify.com/track/37L7EPenK5SI5ydjF8XWNm) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/2RRdk9dTPqgDdeEWRSflbg) | 2:14 | 2021-12-07 |  |
-| [A Winter Wonderland](https://open.spotify.com/track/3TdTi9r2kol4WGzz4b1blG) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/2Q3obqeUIIisZoav5mcW70) | 3:47 | 2022-12-19 |  |
+| [A Winter Wonderland](https://open.spotify.com/track/3TdTi9r2kol4WGzz4b1blG) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/2Q3obqeUIIisZoav5mcW70) | 3:47 | 2022-12-19 | 2023-10-04 |
+| [A Winter Wonderland](https://open.spotify.com/track/4Jg17t8vuAYi2hr0N250ei) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/79zxqDwDXxoaachqEr7NDh) | 3:47 | 2022-12-19 |  |
 | [A Winter Wonderland](https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl) | 3:47 | 2021-12-07 | 2023-10-02 |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/1iBnuoXZV2dGFl6mRWlZAk) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas Party!](https://open.spotify.com/album/3kRyhfULYkUMMfZQTqwbtG) | 3:15 | 2021-12-07 | 2022-11-24 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-07 |  |

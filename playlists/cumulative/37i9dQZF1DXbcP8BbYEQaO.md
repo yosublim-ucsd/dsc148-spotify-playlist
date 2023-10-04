@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-587 songs - 1 day 9 hr 8 min
+588 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Duel](https://open.spotify.com/track/3v7qgdQzpiNulr8eytLNXX) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish](https://open.spotify.com/album/20WvOLT4klgKqzYGJGFDMV) | 4:48 | 2022-04-16 | 2022-05-21 |
 | [Dysmorphia](https://open.spotify.com/track/5a8jFuEwVrMNi95USsGA2n) | [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Dysmorphia](https://open.spotify.com/album/0vvUDELUj8sQyoymamFOf9) | 3:12 | 2021-07-04 | 2021-07-18 |
 | [Easy](https://open.spotify.com/track/1U6NDSRMcLYdJIUzwPASni) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Easy](https://open.spotify.com/album/17Wr40mwfgaeUREqsKQNRt) | 5:44 | 2022-10-14 | 2022-12-29 |
+| [ecstacy \(slowed\)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(slowed\)](https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi) | 1:59 | 2023-10-03 |  |
 | [Ego](https://open.spotify.com/track/253V91l7DxehjkHyvxLPNN) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Ego](https://open.spotify.com/album/77geSTREeNrIHlpetsQoVz) | 3:49 | 2022-04-16 | 2022-05-21 |
 | [Emotion](https://open.spotify.com/track/5Rnv9hVUuyc5Q7jiFRHRwm) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Lost \- EP](https://open.spotify.com/album/1U1CVrJeVjdt6eY13T34FY) | 3:24 | 2020-10-13\* | 2022-01-01 |
 | [Encore](https://open.spotify.com/track/6VKp9ZRRULPkWTt87jYVMG) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Encore](https://open.spotify.com/album/4KCpGAzRm43d1KR0uHopMy) | 2:20 | 2023-08-18 | 2023-09-23 |

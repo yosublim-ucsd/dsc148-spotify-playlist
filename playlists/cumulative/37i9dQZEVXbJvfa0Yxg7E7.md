@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,283 songs - 2 day 18 hr 40 min
+1,284 songs - 2 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Dans](https://open.spotify.com/track/0EfTxcH2ZZ1mkSC83GD3C3) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver gang vi møtes 2023](https://open.spotify.com/album/0D9xDd3je29qrH1otIrbOx) | 2:58 | 2023-02-22 | 2023-02-26 |
 | [Dans](https://open.spotify.com/track/4f3SD5C93R8QXPNmAip2PR) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Dans](https://open.spotify.com/album/5FZ6eOWqmTlZdczQSgvTzw) | 2:58 | 2023-01-23 | 2023-02-23 |
 | [Dans På Bordet](https://open.spotify.com/track/2D1QHKW5IBDfn7xBGplNS9) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [David Mokel](https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni) | [Dans På Bordet](https://open.spotify.com/album/71606owUcX3aLa6tyCxOqZ) | 2:23 | 2022-02-11 | 2022-02-19 |
-| [Dans På Bordet](https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [David Mokel](https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni) | [Dans På Bordet](https://open.spotify.com/album/0324AmCGXDbzi4XRgVVc7g) | 2:23 | 2022-02-18 |  |
+| [Dans På Bordet](https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [David Mokel](https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni) | [Dans På Bordet](https://open.spotify.com/album/0324AmCGXDbzi4XRgVVc7g) | 2:23 | 2022-02-18 | 2023-10-04 |
 | [DANSA](https://open.spotify.com/track/63IaMjanvXp9c3f0Y7OImT) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [DANSA](https://open.spotify.com/album/5pe5edaldK4cwvH2Crjgiw) | 2:47 | 2021-10-23 | 2021-11-07 |
 | [Danse En Gang Til](https://open.spotify.com/track/4EtmxzuZK9NvRjdlpHD229) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Danse En Gang Til](https://open.spotify.com/album/74Qv3cAEDDCbGu2kAA09zj) | 2:08 | 2023-05-06 | 2023-07-30 |
 | [Danse Med Meg Selv](https://open.spotify.com/track/22qJmwCFmqIuk85u9nWgKO) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Danse Med Meg Selv](https://open.spotify.com/album/0iuiRPDRjobMe9eoZn70F5) | 2:35 | 2021-05-03 | 2021-05-23 |
@@ -733,6 +733,7 @@
 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2021-10-28 | 2021-10-29 |
 | [Lord I Need You](https://open.spotify.com/track/5YRFttxjAEgm2nq5Z2tlqK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:42 | 2021-09-01 | 2021-09-03 |
 | [Lose](https://open.spotify.com/track/7nVERWQXlgZRQsYw4fHf3b) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Lose](https://open.spotify.com/album/2KiivxtQQDKP8TfdXEfECf) | 3:25 | 2021-08-08 | 2021-08-22 |
+| [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2023-10-03 |  |
 | [Lost](https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/6vzH59tobnxE5WXMiqvBIx) | 3:54 | 2022-01-17 | 2022-03-05 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-03-04 | 2022-03-06 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-06-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,950 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,017 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 15 | [Techno Prank](https://open.spotify.com/track/2JqbTRtUZmkTIHxPyBkurQ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Techno Prank](https://open.spotify.com/album/7GXvOmUgon63BfUk3AB5fS) | 3:23 |
 | 16 | [Drinkee \- Vintage Culture & John Summit Remix](https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Drinkee \(Vintage Culture & John Summit Remix\)](https://open.spotify.com/album/3SJnS1rKgzb1tgi7oCkf5F) | 3:25 |
 | 17 | [Sunshine](https://open.spotify.com/track/36wm1WBVArEbnIgtkT3abj) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [Sunshine](https://open.spotify.com/album/4gP5HYqMorQT7rSoSPPfIF) | 3:03 |
-| 18 | [Move Your Body \- Tiësto Edit](https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Move Your Body \(Tiësto Edit\)](https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz) | 2:20 |
-| 19 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
+| 18 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
+| 19 | [Move Your Body \- Tiësto Edit](https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Move Your Body \(Tiësto Edit\)](https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz) | 2:20 |
 | 20 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 |
 | 21 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 |
 | 22 | [The Wall](https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [The Wall](https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 49 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 |
 | 50 | [Alive Again](https://open.spotify.com/track/2P7Vn6uJ9hRKTJVYMmjppN) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Alive Again](https://open.spotify.com/album/3jsZSRV7pLrjFCD8FObfok) | 3:32 |
 
-Snapshot ID: `MCw1ODMwYmUzMDhmMDJmOGJkZmRiN2JkZTgwMGI4MWE3NjczNmRlZTc2`
+Snapshot ID: `MCxkOTI3ODJmODFmZDk0ZGViYjM0MTA0YWZmMTQ3NGQ1M2E2OGViYTcw`

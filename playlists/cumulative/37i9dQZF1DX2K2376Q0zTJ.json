@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u300cEQUAL\u300d\u3002\u4eca\u6708\u306e\u30a2\u30f3\u30d0\u30b5\u30c0\u30fc: AI",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u300cEQUAL\u300d\u3002\u4eca\u6708\u306e\u30a2\u30f3\u30d0\u30b5\u30c0\u30fc: XG",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -1423,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196746,
+      "name": "B\u7d1a",
+      "url": "https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ"
+    },
+    {
+      "album": {
         "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73!\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
         "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
       },
@@ -2200,7 +2218,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 201691,
       "name": "Death Anniversary",
       "url": "https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw"
@@ -2298,6 +2316,24 @@
       "duration_ms": 188945,
       "name": "DESIRE",
       "url": "https://open.spotify.com/track/36R82gy8hcVZxeLpL5ECMx"
+    },
+    {
+      "album": {
+        "name": "INSAINT",
+        "url": "https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150966,
+      "name": "Destruction Sisters",
+      "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
     },
     {
       "album": {
@@ -3152,7 +3188,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 255773,
       "name": "FAKE",
       "url": "https://open.spotify.com/track/3PUfI9Tprsqla2pk5moQqL"
@@ -3246,7 +3282,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 299413,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/5IfISpdRTvRFKf8mGTJ0Z7"
@@ -4648,6 +4684,24 @@
       "duration_ms": 234873,
       "name": "Higher",
       "url": "https://open.spotify.com/track/5fvVRGba4CPOHRMnBRMqBQ"
+    },
+    {
+      "album": {
+        "name": "Highlight no Nakade Bokura Zutto",
+        "url": "https://open.spotify.com/album/4Mn0L5WRGTvLhsQinoApud"
+      },
+      "artists": [
+        {
+          "name": "SCANDAL",
+          "url": "https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201999,
+      "name": "Highlight no Nakade Bokura Zutto",
+      "url": "https://open.spotify.com/track/1sOyY88KV1kIIkuj0CWrZk"
     },
     {
       "album": {
@@ -7247,6 +7301,24 @@
     },
     {
       "album": {
+        "name": "more than words",
+        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289720,
+      "name": "more than words",
+      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
+    },
+    {
+      "album": {
         "name": "\u7fe1\u7fe0 ( hisui )",
         "url": "https://open.spotify.com/album/2jwl1zSw7jRfVNbgXa1tU8"
       },
@@ -8070,7 +8142,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 222653,
       "name": "Not So Different - Remix",
       "url": "https://open.spotify.com/track/4V3fw2tzq2XVm7smo4U3yR"
@@ -8434,7 +8506,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 184773,
       "name": "OTONABLUE",
       "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
@@ -9092,6 +9164,24 @@
       "duration_ms": 189000,
       "name": "Punish",
       "url": "https://open.spotify.com/track/7J9GTGEXSp0ZvtCc1AAo01"
+    },
+    {
+      "album": {
+        "name": "NEW DNA",
+        "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "PUPPET SHOW",
+      "url": "https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp"
     },
     {
       "album": {
@@ -10096,7 +10186,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 203556,
       "name": "SHOOTING STAR",
       "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
@@ -12291,6 +12381,24 @@
     },
     {
       "album": {
+        "name": "\u3072\u304b\u308a",
+        "url": "https://open.spotify.com/album/1gG7PKsATszLJVgbnsdE4Z"
+      },
+      "artists": [
+        {
+          "name": "Makoto Kawamoto",
+          "url": "https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277240,
+      "name": "universe",
+      "url": "https://open.spotify.com/track/7mqvxUu2gwbjQ0FQQ2jMV4"
+    },
+    {
+      "album": {
         "name": "Unleash!!!!!",
         "url": "https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G"
       },
@@ -12966,7 +13074,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 189906,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3irp6WdpBLseu6ENO00XEi"
@@ -13006,7 +13114,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 221786,
       "name": "WORLD DANCE",
       "url": "https://open.spotify.com/track/165pjCVXQTcjL6lQKXPBje"
@@ -14598,6 +14706,24 @@
       "duration_ms": 229333,
       "name": "\u30a2\u30dc\u30ab\u30c9 (AAAMYYY Remix)",
       "url": "https://open.spotify.com/track/2YX56THcxG48LqLKgVvIRR"
+    },
+    {
+      "album": {
+        "name": "\u3072\u304b\u308a",
+        "url": "https://open.spotify.com/album/1gG7PKsATszLJVgbnsdE4Z"
+      },
+      "artists": [
+        {
+          "name": "Makoto Kawamoto",
+          "url": "https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236106,
+      "name": "\u30a2\u30ed\u30a8",
+      "url": "https://open.spotify.com/track/4kZERvnlhNMNnmdfxYqZno"
     },
     {
       "album": {
@@ -16848,7 +16974,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 223808,
       "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
       "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"

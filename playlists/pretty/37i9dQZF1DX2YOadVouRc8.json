@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 17380,
+  "num_followers": 17417,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGUzYWNmZTEzMzA3NzQ5ZDNiMTI5YzI4N2RhMTczY2E1ZTMwZWE1",
+  "snapshot_id": "MCxmZDgwYzNkMzgxNGM0YjI1ZmE0ZDJjZmUzYjViYzQ5ODNmMTg0NWVl",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -235,26 +235,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "What's Poppin",
-        "url": "https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam"
-      },
-      "artists": [
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "What's Poppin",
-      "url": "https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Be Easy",
         "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 132052,
       "name": "Be Easy",
       "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "What's Poppin",
+        "url": "https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 195426,
+      "name": "What's Poppin",
+      "url": "https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Jaga Jaga (with Babyboy AV)",
+        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Jaga Jaga (with Babyboy AV)",
+      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "The Second Wave",
         "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Jaga Jaga (with Babyboy AV)",
-        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Jaga Jaga (with Babyboy AV)",
-      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Angelus",
-      "url": "https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Quick Question",
         "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 149457,
       "name": "Water",
       "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Angelus",
+      "url": "https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "History",
-        "url": "https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "History",
-      "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Your Body (feat. Bnxn)",
         "url": "https://open.spotify.com/album/1oPMIfZFH7ioBvjHI5sdnK"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 130918,
       "name": "Your Body (feat. Bnxn)",
       "url": "https://open.spotify.com/track/1IqNlIUJivQXXSp6MgCwRl"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "History",
+      "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "NO PRESSURE",
-        "url": "https://open.spotify.com/album/1SuP7VA3qfRhwV5vRscb9q"
-      },
-      "artists": [
-        {
-          "name": "Dremo",
-          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
-        },
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 180715,
-      "name": "Holy Pass (feat. 1da Banton)",
-      "url": "https://open.spotify.com/track/11XfkUA9RygQ7UFoZ5stfH"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/6QZtBw7JM1PqmJwcGQaSVX"
       },
@@ -1371,6 +1351,26 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "NO PRESSURE",
+        "url": "https://open.spotify.com/album/1SuP7VA3qfRhwV5vRscb9q"
+      },
+      "artists": [
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 180715,
+      "name": "Holy Pass (feat. 1da Banton)",
+      "url": "https://open.spotify.com/track/11XfkUA9RygQ7UFoZ5stfH"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "2 Bad",
         "url": "https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ"
       },
@@ -1383,6 +1383,26 @@
       "duration_ms": 156734,
       "name": "2 Bad",
       "url": "https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB"
+      },
+      "artists": [
+        {
+          "name": "Tony Frank",
+          "url": "https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 155141,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1407,26 +1427,6 @@
       "duration_ms": 237346,
       "name": "MEDITATE",
       "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "No Stress",
-        "url": "https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB"
-      },
-      "artists": [
-        {
-          "name": "Tony Frank",
-          "url": "https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 155141,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Upcoming (Check on Me)",
+        "url": "https://open.spotify.com/album/5UDgGPdFSnkySQ192FyrgX"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "duration_ms": 145676,
+      "name": "Upcoming (Check on Me)",
+      "url": "https://open.spotify.com/track/5D1nn7nHPn1oLP4bWIKS0V"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 176058,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Naked Wire",
-        "url": "https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Naked Wire",
-      "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
     }
   ],
   "unique_name": "Chill Bops",

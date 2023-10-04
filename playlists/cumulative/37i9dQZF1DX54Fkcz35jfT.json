@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: SiM",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Paledusk",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 240633,
       "name": "ALVA",
       "url": "https://open.spotify.com/track/1WsN1q1NTWYEJbw81KWsws"
@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "BROKEN GAMES",
+        "url": "https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd"
+      },
+      "artists": [
+        {
+          "name": "FZMZ",
+          "url": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236073,
+      "name": "BROKEN GAMES",
+      "url": "https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5"
+    },
+    {
+      "album": {
         "name": "BUG",
         "url": "https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP"
       },
@@ -374,7 +392,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 223592,
       "name": "Dear Life",
       "url": "https://open.spotify.com/track/6gsr8v2ZGPMzMegnJ05byK"
@@ -392,7 +410,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 169600,
       "name": "DESTINATION UNKNOWN",
       "url": "https://open.spotify.com/track/1SBs9FBcvzM9KclTZn5U8U"
@@ -428,7 +446,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 207425,
       "name": "Dive in Your Faith",
       "url": "https://open.spotify.com/track/0pzu9pwttcFnbx822XA9xx"
@@ -777,6 +795,24 @@
     },
     {
       "album": {
+        "name": "i don't wanna be",
+        "url": "https://open.spotify.com/album/5D0iizWvM5gdeduQST36rh"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216133,
+      "name": "i don't wanna be",
+      "url": "https://open.spotify.com/track/5cEBCMlHGGoShjfmmtfjJg"
+    },
+    {
+      "album": {
         "name": "I Refuse",
         "url": "https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R"
       },
@@ -846,7 +882,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 230835,
       "name": "I'm ready to die for my friends",
       "url": "https://open.spotify.com/track/2CQVZQ31zugcnfaxCkuR2N"
@@ -871,6 +907,24 @@
     },
     {
       "album": {
+        "name": "JUNGLE BUN DEM",
+        "url": "https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe"
+      },
+      "artists": [
+        {
+          "name": "SPARK!!SOUND!!SHOW!!",
+          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193520,
+      "name": "JUNGLE BUN DEM",
+      "url": "https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G"
+    },
+    {
+      "album": {
         "name": "Blooming Harvest",
         "url": "https://open.spotify.com/album/38OJkyqzjzBFpguQksifKn"
       },
@@ -882,7 +936,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 200013,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/2R4IXQQ3DoWosEB2BrtdxF"
@@ -936,7 +990,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 175386,
       "name": "KiLLiNG ME",
       "url": "https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6"
@@ -1578,7 +1632,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 120985,
       "name": "PLAYDEAD",
       "url": "https://open.spotify.com/track/1c4hhwfHiqpjYXDO9tLXOf"
@@ -1730,6 +1784,28 @@
       "duration_ms": 77863,
       "name": "Risin'",
       "url": "https://open.spotify.com/track/1lAnhwKFShmu4T0QniMKbe"
+    },
+    {
+      "album": {
+        "name": "RUMBLE",
+        "url": "https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        },
+        {
+          "name": "Masato",
+          "url": "https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281624,
+      "name": "RUMBLE",
+      "url": "https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU"
     },
     {
       "album": {
@@ -2062,6 +2138,24 @@
       "duration_ms": 172974,
       "name": "TAKING THEM DOWN",
       "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
+    },
+    {
+      "album": {
+        "name": "That's all enough. Demo EP",
+        "url": "https://open.spotify.com/album/4Y0BxXlfw7DXtKb7PEd1aA"
+      },
+      "artists": [
+        {
+          "name": "AGE OF KID",
+          "url": "https://open.spotify.com/artist/46UAkbp4aSvCZFc3HSOV8w"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140440,
+      "name": "That's all enough.",
+      "url": "https://open.spotify.com/track/2Th0tCO7TJfcAdh9Tu9TyP"
     },
     {
       "album": {
@@ -2632,7 +2726,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 201893,
       "name": "\u30e1\u30ea\u30fc\u30b4\u30fc\u30e9\u30f3\u30c9",
       "url": "https://open.spotify.com/track/5e17FZpKCvOEn5296aNvLg"

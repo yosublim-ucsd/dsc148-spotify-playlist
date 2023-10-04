@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-84 songs - 5 hr 17 min
+85 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Ray Of Solar \- Anfisa Letyago Remix](https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Ray Of Solar \(Anfisa Letyago Remix\)](https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2) | 3:27 | 2023-09-22 |  |
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-08-11 |  |
 | [Revolution](https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Revolution](https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X) | 2:46 | 2023-08-11 |  |
+| [RIDE OR DIE](https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [RIDE OR DIE](https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj) | 3:09 | 2023-09-29 |  |
 | [Robotic Arms](https://open.spotify.com/track/6FS5LBxQT7AfvcGzewS97H) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Robotic Arms](https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR) | 3:50 | 2023-08-11 | 2023-09-20 |
 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 | 2023-08-11 |  |
 | [Say You Will](https://open.spotify.com/track/63IsPNecHLiwqMMxzeVG12) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Say You Will](https://open.spotify.com/album/1gBgLMEQraFgv7KrMQqxYV) | 2:12 | 2023-09-01 | 2023-09-30 |
@@ -90,7 +91,7 @@
 | [Trust \- VIP Mix](https://open.spotify.com/track/5Kwy6gGIkpAyBDqmSokJOx) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Trust](https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo) | 2:37 | 2023-08-11 | 2023-08-26 |
 | [Variant](https://open.spotify.com/track/1pyU3Kumkerbf4lGOsQdtG) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Variant](https://open.spotify.com/album/1K5offBi5sFYxwHzI18KRB) | 4:50 | 2023-08-11 | 2023-08-19 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-11 |  |
-| [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 | 2023-08-11 |  |
+| [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 | 2023-08-11 | 2023-10-04 |
 | [Whole Again 2.0 \(with FOVOS\)](https://open.spotify.com/track/01SObBTN7qitRlP40pWp22) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Whole Again 2.0 \(with FOVOS\)](https://open.spotify.com/album/250HFdRGLXOpJ21R8PA98O) | 2:51 | 2023-08-11 | 2023-08-20 |
 
 \*This playlist was first scraped on 2023-08-12. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Easy listening for a pleasant drive.
 
-374 songs - 23 hr 57 min
+375 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Latch \- Acoustic](https://open.spotify.com/track/3XyU03WycJQ02kExHb9dqW) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Nirvana](https://open.spotify.com/album/4v62Eu3WGIFCBMy9WlD7hY) | 3:41 | 2019-06-21 | 2022-07-29 |
 | [Lately](https://open.spotify.com/track/5qHx4NUyx6sd3AOifxdRDY) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Lately](https://open.spotify.com/album/02MAwGGJc0Vzr9WY0PiS6h) | 3:38 | 2019-06-21 | 2022-07-25 |
 | [Lay Me Down](https://open.spotify.com/track/6x69yrZAJvsYxhk0CJS4uT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Lay Me Down](https://open.spotify.com/album/2KNizT4RkXeOMT3wDJnumk) | 3:49 | 2019-06-21 | 2022-07-29 |
-| [Lay Me Down](https://open.spotify.com/track/64GRDrL1efgXclrhVCeuA0) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:39 | 2019-06-21 |  |
+| [Lay Me Down](https://open.spotify.com/track/64GRDrL1efgXclrhVCeuA0) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:39 | 2019-06-21 | 2023-10-04 |
 | [Lego House](https://open.spotify.com/track/53Pgsvu3qSYO2aXt5J2vcL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7) | 3:05 | 2019-06-21 | 2022-07-29 |
 | [Let Her Go](https://open.spotify.com/track/0OO5mz0bqvvlJFvukSX8Jq) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/5dxFt6HCaP9lnjojZIvQVI) | 2:52 | 2019-06-21 | 2023-02-15 |
 | [Let Her Go](https://open.spotify.com/track/5fa6CrQwHwthEoCvTtd5Ig) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/6zUsMpfw5Nif1o0kYtidiR) | 2:52 | 2019-06-21 | 2022-07-29 |
@@ -204,7 +204,7 @@
 | [Lucky](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 3:09 | 2019-06-21 |  |
 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 | 2019-06-21 |  |
 | [Make It To Me](https://open.spotify.com/track/2VZ8vDGBVKW5shpP3ytWSz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe\)](https://open.spotify.com/album/48Q27KoyKp38caYPuy0KXD) | 2:42 | 2019-06-21 | 2022-07-29 |
-| [Make It To Me](https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 2:42 | 2019-06-21 |  |
+| [Make It To Me](https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 2:42 | 2019-06-21 | 2023-10-04 |
 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 | 2019-06-21 | 2023-06-11 |
 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 | 2019-06-21 | 2022-07-29 |
 | [Malibu](https://open.spotify.com/track/2habSXqcJGExM6JJyskY7O) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Malibu](https://open.spotify.com/album/7CUczABBlsbd5fqng9mjxo) | 3:51 | 2019-06-21 | 2022-07-29 |
@@ -221,7 +221,7 @@
 | [My My Love](https://open.spotify.com/track/7p1AaaqPcj4iVIyXtopBHz) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Wax Wings](https://open.spotify.com/album/0NdOAkRDjeYoAgYFmpqUa5) | 3:46 | 2019-06-21 | 2022-07-29 |
 | [Naked](https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked](https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT) | 3:54 | 2019-06-21 |  |
 | [Need The Sun To Break](https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:44 | 2019-06-21 | 2022-11-13 |
-| [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 | 2019-06-21 | 2023-09-24 |
+| [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 | 2019-06-21 |  |
 | [New Soul](https://open.spotify.com/track/6obMmMuVhvB0VMTZa5EJIP) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/3ufKV1PaaW3hdXIgocxPIQ) | 3:45 | 2019-06-21 | 2022-07-27 |
 | [Next To Me](https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events](https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz) | 3:16 | 2019-06-21 | 2022-11-13 |
 | [No Air \(feat\. Chris Brown\)](https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Jordin Sparks](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) | 4:24 | 2019-06-21 |  |
@@ -253,6 +253,7 @@
 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 | 2019-06-21 |  |
 | [Pray](https://open.spotify.com/track/3BgvCj5oUc8jpL8YCB9y8S) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Pray](https://open.spotify.com/album/6ss6Tbocdj0UQxmvimUhSa) | 3:41 | 2019-06-21 | 2022-05-04 |
 | [Pray](https://open.spotify.com/track/59ljpSFcgtfWJKS3vqG27R) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:41 | 2019-06-21 | 2022-11-14 |
+| [Pray](https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:41 | 2023-09-15 |  |
 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 | 2019-06-21 |  |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2019-06-21 |  |
 | [Real Estate](https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Real Estate](https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI) | 3:36 | 2019-06-21 | 2023-06-23 |

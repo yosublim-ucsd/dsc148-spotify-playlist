@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 264087,
+  "num_followers": 264098,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGMwMWY1ZTU3YzdmMWE1ODE3YTRlNTY0MTgyMjRkMDhjMGJkY2Ji",
+  "snapshot_id": "MCw3NGY5ZDA0ZTYwNzE3MTM1NTZkYzAwYmI5Mzg0MzY3ZjZiYTU2Zjgw",
   "tracks": [
     {
       "added_at": "2023-05-26 03:00:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Falling Like The Stars",
+        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Falling Like The Stars",
+      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "One Too Many",
         "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 203893,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Falling Like The Stars",
-        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Falling Like The Stars",
-      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 149233,
-      "name": "I Ain\u2019t Worried - Acoustic",
-      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Te Amar Demais",
         "url": "https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 131970,
       "name": "Te Amar Demais",
       "url": "https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 149233,
+      "name": "I Ain\u2019t Worried - Acoustic",
+      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Can't Tame Her (Acoustic)",
-        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Can't Tame Her - Acoustic",
-      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Make Me (Cry) [Acoustic Version]",
         "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 232906,
       "name": "Make Me (Cry) - Acoustic Version",
       "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Can't Tame Her (Acoustic)",
+        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Can't Tame Her - Acoustic",
+      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 191953,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
         "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 188527,
       "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
       "url": "https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 191953,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Sorry Not Sorry",
+        "url": "https://open.spotify.com/album/54PMEQXp5bKRAdP699bKiU"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 154990,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/3pDK9i2PUW4EF8h8Sevexs"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Coast (Acoustic)",
         "url": "https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 166400,
       "name": "Coast (feat. Anderson .Paak) [Acoustic]",
       "url": "https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Sorry Not Sorry",
-        "url": "https://open.spotify.com/album/54PMEQXp5bKRAdP699bKiU"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 154990,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/3pDK9i2PUW4EF8h8Sevexs"
     },
     {
       "added_at": "2023-05-26 03:00:00",

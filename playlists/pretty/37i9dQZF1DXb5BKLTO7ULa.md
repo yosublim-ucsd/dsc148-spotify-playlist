@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: KANE
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,965 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,973 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 98 | [Joder, te quiero](https://open.spotify.com/track/5F50jObaXmI6a0oyaOje0Q) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [Joder, te quiero](https://open.spotify.com/album/5hfeHP7WUqHz5oOo9RdBSb) | 2:41 |
 | 99 | [You Won.](https://open.spotify.com/track/1YWo8yErOZtAHhxGRHag0L) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [You Won.](https://open.spotify.com/album/0U7bc5n6NRGJxOxUoWBVe3) | 2:37 |
 
-Snapshot ID: `MCxiNjM2MTEyMjFiMWI3NjJhYzRjMjcwMGJiMWU1ZDMyNzk4NGQyZjc5`
+Snapshot ID: `MCwwOGFlZTc3M2FhOTlmNTE0ZDc4YTJiYTkzMDY4OGFjOGY2ZWMwYTdi`

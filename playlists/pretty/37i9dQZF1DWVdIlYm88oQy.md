@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > This is the Latin soundtrack of the 70s! Cover:  José José
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,769 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,796 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 79 | [El Cazanguero](https://open.spotify.com/track/4MlbAHuESYOsLGu8i7wFVY) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [A Man And His Music: Poeta del Pueblo](https://open.spotify.com/album/3OFaszBlhmz3MkM8fpP2Nf) | 4:06 |
 | 80 | [No Mercedes](https://open.spotify.com/track/6c8xw7vfxc0gDz3OFU2qxC) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:18 |
 | 81 | [Nasty Sexo](https://open.spotify.com/track/1QF2cLdi0hsrXlzaNOmHoS) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata 45 Aniversario](https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v) | 6:20 |
-| 82 | [La Vida](https://open.spotify.com/track/2yRZ94l0C9WzASirjKKuwI) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [I Can See](https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6) | 3:06 |
-| 83 | [Murmullo Del Mar](https://open.spotify.com/track/2XAyyJigU8OPixEtBLXAIi) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Alma con Alma](https://open.spotify.com/album/7sbG3cmyJzRI5QAA5fK1uf) | 3:07 |
+| 82 | [Murmullo Del Mar](https://open.spotify.com/track/2XAyyJigU8OPixEtBLXAIi) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Alma con Alma](https://open.spotify.com/album/7sbG3cmyJzRI5QAA5fK1uf) | 3:07 |
+| 83 | [La Vida](https://open.spotify.com/track/2yRZ94l0C9WzASirjKKuwI) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [I Can See](https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6) | 3:06 |
 | 84 | [Amor del Alma](https://open.spotify.com/track/0tNhDyaUDr2CY9rStDbc2l) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Del Alma \(Los Mejores Boleros Y Baladas De rocio Durcal\)](https://open.spotify.com/album/589YR8hhnGQp2ucKKbIfUj) | 2:51 |
 | 85 | [Lo Pasado, Pasado](https://open.spotify.com/track/1HYPtBNR4kXNqBo3wfpW27) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:11 |
 | 86 | [María José](https://open.spotify.com/track/0yk5rfeVzaar6r4KhfCJ2N) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre En Mi Mente](https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm) | 3:28 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 89 | [Iremos de la Mano](https://open.spotify.com/track/11eMjGWRKv0ZuUTCk42sEU) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 Éxitos](https://open.spotify.com/album/3sMYq7e2hCexGBrFA73dS7) | 3:25 |
 | 90 | [Lágrimas y Lluvia](https://open.spotify.com/track/2XbZmljaMUuU10gZ5uaOAn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 3:03 |
 
-Snapshot ID: `MCxkZTQzN2M2MjBhMThiMDZlMDcwZWQ5ZGZmZjdkZDE4NDYyYzk1Yjhk`
+Snapshot ID: `MCw0ZmY5MDFiMTM0ZTc0NDUyZjZmMTg3NjFkNjhlYTBjZGI5MTIxYmEx`

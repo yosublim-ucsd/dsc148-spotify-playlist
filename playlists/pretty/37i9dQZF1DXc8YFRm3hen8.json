@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 159881,
+  "num_followers": 159972,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmRlODQ2YzU5NGFkNDE3NGJmZjMxNDg1NzQyNTc2ZjIyZmMwNzli",
+  "snapshot_id": "MCw2M2Y2NGY1ZWUwMzcwZmQ0NDY2NjRhZjk3NWFlMmFjODMzOTdmMjg4",
   "tracks": [
     {
       "added_at": "2023-09-21 19:11:37",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-09-21 19:11:37",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 277011,
-      "name": "Los Calientes",
-      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
+      "duration_ms": 261971,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
     },
     {
       "added_at": "2023-09-21 19:11:37",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-09-21 19:11:37",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 261971,
-      "name": "Magia Blanca",
-      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
+      "duration_ms": 277011,
+      "name": "Los Calientes",
+      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
     },
     {
       "added_at": "2023-09-21 19:11:37",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-09-21 19:11:37",
       "album": {
+        "name": "Caminos Br\u00edos",
+        "url": "https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF"
+      },
+      "artists": [
+        {
+          "name": "Piti Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb"
+        }
+      ],
+      "duration_ms": 337538,
+      "name": "DOCTORA II",
+      "url": "https://open.spotify.com/track/0ei64Ivi3kxqHaQuYByc79"
+    },
+    {
+      "added_at": "2023-09-21 19:11:37",
+      "album": {
         "name": "Locales Calientes",
         "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 247419,
       "name": "Tan Distintos",
       "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
-    },
-    {
-      "added_at": "2023-09-21 19:11:37",
-      "album": {
-        "name": "Caminos Br\u00edos",
-        "url": "https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF"
-      },
-      "artists": [
-        {
-          "name": "Piti Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb"
-        }
-      ],
-      "duration_ms": 337538,
-      "name": "DOCTORA II",
-      "url": "https://open.spotify.com/track/0ei64Ivi3kxqHaQuYByc79"
     },
     {
       "added_at": "2023-09-21 19:11:37",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-09-21 19:11:37",
       "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+        "name": "Devorando Intensidad",
+        "url": "https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
         }
       ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
+      "duration_ms": 268998,
+      "name": "El Riesgo",
+      "url": "https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F"
     },
     {
       "added_at": "2023-09-21 19:11:37",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-09-21 19:11:37",
       "album": {
-        "name": "Devorando Intensidad",
-        "url": "https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8"
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
       },
       "artists": [
         {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 268998,
-      "name": "El Riesgo",
-      "url": "https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F"
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
     },
     {
       "added_at": "2023-09-21 19:11:37",

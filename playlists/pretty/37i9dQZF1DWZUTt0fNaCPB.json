@@ -1,12 +1,12 @@
 {
   "description": "No need for a gadget, just play these rock songs to set your pace!",
-  "num_followers": 1043706,
+  "num_followers": 1044007,
   "original_name": "Running to Rock 170-190 BPM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2IxOTZiNzFhNDU1M2JhMzIyNDkzMDAyYzVkMDI3YjlmNmYzMTQ2",
+  "snapshot_id": "MCwyZGJmMzFlY2QwYzE4YTQ3YzFhZjE1NDU3YzVkMTA0ZjMzM2Y0MmYy",
   "tracks": [
     {
       "added_at": "2023-09-14 07:38:49",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-09-14 07:38:49",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 331560,
-      "name": "Enter Sandman (Remastered)",
-      "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
-    },
-    {
-      "added_at": "2023-09-14 07:38:49",
-      "album": {
         "name": "See You On the Other Side",
         "url": "https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 199773,
       "name": "Coming Undone",
       "url": "https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"
+    },
+    {
+      "added_at": "2023-09-14 07:38:49",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 331560,
+      "name": "Enter Sandman (Remastered)",
+      "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
     },
     {
       "added_at": "2023-09-14 07:38:49",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-09-14 07:38:49",
       "album": {
-        "name": "Feel The Steel",
-        "url": "https://open.spotify.com/album/4SICJohKsdlQS3AW3Spg84"
-      },
-      "artists": [
-        {
-          "name": "Steel Panther",
-          "url": "https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Eyes Of A Panther",
-      "url": "https://open.spotify.com/track/1iWLoUrmSLht6keK0436jK"
-    },
-    {
-      "added_at": "2023-09-14 07:38:49",
-      "album": {
         "name": "Blue Collar Revolver",
         "url": "https://open.spotify.com/album/39zrUrsdRQdUlGx3Y9CUaV"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 210200,
       "name": "Watch Me Burn",
       "url": "https://open.spotify.com/track/4Y33fbX6KcOfP0xZhYMwO5"
+    },
+    {
+      "added_at": "2023-09-14 07:38:49",
+      "album": {
+        "name": "Feel The Steel",
+        "url": "https://open.spotify.com/album/4SICJohKsdlQS3AW3Spg84"
+      },
+      "artists": [
+        {
+          "name": "Steel Panther",
+          "url": "https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Eyes Of A Panther",
+      "url": "https://open.spotify.com/track/1iWLoUrmSLht6keK0436jK"
     },
     {
       "added_at": "2023-09-14 07:38:49",

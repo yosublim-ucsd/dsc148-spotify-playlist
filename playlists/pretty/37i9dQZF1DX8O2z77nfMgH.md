@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,767 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,801 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [Surtos \- Ao Vivo](https://open.spotify.com/track/2dl61hXmiH5NVvAM8yQzr5) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Portugal, Vol\. 1](https://open.spotify.com/album/5sOUswv6fXXrAOYx5P2a9T) | 2:53 |
 | 60 | [Ibiza](https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Ibiza](https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7) | 2:30 |
 
-Snapshot ID: `MCxmMWEyMWMwYTFjOGY3MmViMTI0ZTZhOTcwYjA3MGIxNjI3N2Q1MTBh`
+Snapshot ID: `MCxjODk5OTg5NjY1ZjIzYzc2ZDZjMDk4YzY3MWM4OTE4ZGJhYzM4ODIz`

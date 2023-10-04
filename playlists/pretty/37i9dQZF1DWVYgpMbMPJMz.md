@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:4vEpUOtKWtpotWkuv0Vlx4">Evan Craft</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 985,652 likes - 100 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 985,745 likes - 100 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 25 | [Jehovah \(feat\. Chris Brown\)](https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:54 |
 | 26 | [Found](https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [SURVEY: Part 1](https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0) | 5:50 |
 | 27 | [I Remember \- Radio Version](https://open.spotify.com/track/0vDRJvlyfq8ep0JYaJ1dlh) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [I Remember \(Radio Version\)](https://open.spotify.com/album/3SkfAOiIeJde2GwjAWTOBU) | 3:29 |
-| 28 | [Name Above All Name \- Single Version](https://open.spotify.com/track/0e3QRktKhq0glX1HT96NI4) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Name Above All Names](https://open.spotify.com/album/4pl2xLrgY9Zq8ukesuFli8) | 6:04 |
+| 28 | [Name Above All Names \- Single Version](https://open.spotify.com/track/0e3QRktKhq0glX1HT96NI4) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Name Above All Names](https://open.spotify.com/album/4pl2xLrgY9Zq8ukesuFli8) | 6:04 |
 | 29 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 |
 | 30 | [Jesus, My Brother \- Live](https://open.spotify.com/track/4R8CKooOuClTgDj6G89EAL) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Jesus, My Brother + Like Jesus \(Live\)](https://open.spotify.com/album/6FF25x5ZScHJpGXQtHuANN) | 5:50 |
 | 31 | [Break The Bottle](https://open.spotify.com/track/2Vf59fzWMGDRtLwolStTGw) | [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Hidden Here](https://open.spotify.com/album/5Ux7nchzxdGHPkr10dk6AP) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [This Is My Song](https://open.spotify.com/track/3NBWUPeHvIfqoVPxHrnPl1) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Heath Balltzglier](https://open.spotify.com/artist/3GB2s5tExZuuqiaWGRPM4M) | [This Is My Song](https://open.spotify.com/album/1vUHCTy5ywgCj13uSg4AFr) | 3:13 |
 | 100 | [It Is Finished](https://open.spotify.com/track/3pBJ1CM7P48h9XaExiL6EX) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Kingdom Kids, Vol\. 2](https://open.spotify.com/album/09SYVhIz581fCHeLcRI4oU) | 4:26 |
 
-Snapshot ID: `MCw4ZWU5M2Q2NzY4MzZiM2JkNTM4OWJhMzgzNjIxNjI4ZmU0ZDYzZWU3`
+Snapshot ID: `MCxhYjliNGNmNDYxNzE4YTk5NDI3YzY4YzJjYmFmNWExYjViNDM2MGJk`

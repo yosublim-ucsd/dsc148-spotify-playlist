@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-203 songs - 12 hr 11 min
+204 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,8 @@
 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 | 2023-02-24 |  |
 | [Wildflowers and Wild Horses](https://open.spotify.com/track/4SCIqKkTic7hUHsL201OY0) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 4:10 | 2023-03-03 |  |
 | [With You Gone](https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [With You Gone](https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6) | 4:06 | 2023-02-24 |  |
-| [Women And Horses \(feat\. Brandy Clark\)](https://open.spotify.com/track/0KjtzuS5bDYoICk5t2xMyE) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Women And Horses](https://open.spotify.com/album/2QcJKU6A5kUpzIR2LfCIqR) | 4:13 | 2023-06-21 |  |
+| [Women And Horses \(feat\. Brandy Clark\)](https://open.spotify.com/track/0KjtzuS5bDYoICk5t2xMyE) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Women And Horses](https://open.spotify.com/album/2QcJKU6A5kUpzIR2LfCIqR) | 4:13 | 2023-06-21 | 2023-10-04 |
+| [Women And Horses \(feat\. Brandy Clark\)](https://open.spotify.com/track/34udLlmfibjlLc5hEVkdXb) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Side Effects Of The Heart](https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK) | 4:13 | 2023-09-29 |  |
 | [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2023-09-28 |  |
 | [Wouldn't Have to Miss You](https://open.spotify.com/track/1yFIxmYBYEm8WhuYnuq3nD) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Red Eye EP](https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy) | 4:27 | 2023-02-24 |  |
 | [You Don’t Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 | 2023-05-12 |  |

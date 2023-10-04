@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Carlos Vives & Juanes",
-  "num_followers": 604411,
+  "num_followers": 604449,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzI0MmEzY2FiMjRmY2FiYTM4MzAwYjljZmM1OWMwOTYwNmVlM2Y5",
+  "snapshot_id": "MCw0NTJmZDM4MjUzNmQxYWMzM2NhMWQxNzExZmUwYWFiMDFhN2E1NTU0",
   "tracks": [
     {
       "added_at": "2023-09-15 16:18:56",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-09-15 16:18:56",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/71WrR2qgwisH0tJZnI5xiQ"
-    },
-    {
-      "added_at": "2023-09-15 16:18:56",
-      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
+    },
+    {
+      "added_at": "2023-09-15 16:18:56",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/71WrR2qgwisH0tJZnI5xiQ"
     },
     {
       "added_at": "2023-09-15 16:18:56",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-15 16:18:56",
       "album": {
-        "name": "Literal",
-        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "L\u00e1mpara Pa' Mis Pies",
-      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
-    },
-    {
-      "added_at": "2023-09-15 16:18:56",
-      "album": {
         "name": "Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2023-09-15 16:18:56",
       "album": {
+        "name": "Literal",
+        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "L\u00e1mpara Pa' Mis Pies",
+      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
+    },
+    {
+      "added_at": "2023-09-15 16:18:56",
+      "album": {
         "name": "Bachatica",
         "url": "https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8"
       },
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-09-15 16:18:56",
       "album": {
-        "name": "Vallenato Apretao",
-        "url": "https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 158120,
-      "name": "Vallenato Apretao",
-      "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
-    },
-    {
-      "added_at": "2023-09-15 16:18:56",
-      "album": {
         "name": "V\u00edctimas las Dos",
         "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 257614,
       "name": "V\u00edctimas las Dos",
       "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
+    },
+    {
+      "added_at": "2023-09-15 16:18:56",
+      "album": {
+        "name": "Vallenato Apretao",
+        "url": "https://open.spotify.com/album/5bNX7w96OZ2J8cZUaA33jo"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 158120,
+      "name": "Vallenato Apretao",
+      "url": "https://open.spotify.com/track/35iMl0FlgdxgOycezlyrPz"
     },
     {
       "added_at": "2023-09-15 16:18:56",
@@ -1455,6 +1455,22 @@
       "duration_ms": 200895,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE"
+    },
+    {
+      "added_at": "2023-09-15 16:18:56",
+      "album": {
+        "name": "Lado A Lado B",
+        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 276726,
+      "name": "Decid\u00ed Tener Pantalones",
+      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
     },
     {
       "added_at": "2023-09-15 16:18:56",
@@ -1555,6 +1571,26 @@
     {
       "added_at": "2023-09-15 16:18:56",
       "album": {
+        "name": "Boogaloo Supreme",
+        "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 208152,
+      "name": "Boogaloo Supreme",
+      "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
+    },
+    {
+      "added_at": "2023-09-15 16:18:56",
+      "album": {
         "name": "Si Me Das Tu Amor",
         "url": "https://open.spotify.com/album/4HnkFvcWujnLxUcPQkPjRM"
       },
@@ -1571,22 +1607,6 @@
       "duration_ms": 213186,
       "name": "Si Me Das Tu Amor",
       "url": "https://open.spotify.com/track/1O34fFJyV7djSqRtOuRSVh"
-    },
-    {
-      "added_at": "2023-09-15 16:18:56",
-      "album": {
-        "name": "Lado A Lado B",
-        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 276726,
-      "name": "Decid\u00ed Tener Pantalones",
-      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
     },
     {
       "added_at": "2023-09-15 16:18:56",
@@ -1699,6 +1719,22 @@
     {
       "added_at": "2023-09-15 16:18:56",
       "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 226128,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
+    },
+    {
+      "added_at": "2023-09-15 16:18:56",
+      "album": {
         "name": "Llego El Real Remix",
         "url": "https://open.spotify.com/album/0Fmk6OWP7ZPgLQNHXWSJV8"
       },
@@ -1719,18 +1755,26 @@
     {
       "added_at": "2023-09-15 16:18:56",
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/5LWzkXfz3kWsZ6mAc122X9"
+        "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
+        "url": "https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Marvin Santiago",
+          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
         }
       ],
-      "duration_ms": 226128,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/587xp1Yt8CAPzbHsAuN5nD"
+      "duration_ms": 184089,
+      "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
+      "url": "https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi"
     },
     {
       "added_at": "2023-09-15 16:18:56",
@@ -1747,26 +1791,6 @@
       "duration_ms": 192063,
       "name": "Todav\u00eda Te Espero",
       "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
-    },
-    {
-      "added_at": "2023-09-15 16:18:56",
-      "album": {
-        "name": "Boogaloo Supreme",
-        "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 208152,
-      "name": "Boogaloo Supreme",
-      "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
     },
     {
       "added_at": "2023-09-15 16:18:56",
@@ -1859,30 +1883,6 @@
       "duration_ms": 246759,
       "name": "Cuando Te Toco",
       "url": "https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG"
-    },
-    {
-      "added_at": "2023-09-15 16:18:56",
-      "album": {
-        "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
-        "url": "https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Marvin Santiago",
-          "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
-        }
-      ],
-      "duration_ms": 184089,
-      "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
-      "url": "https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi"
     }
   ],
   "unique_name": "Tropical Hits",

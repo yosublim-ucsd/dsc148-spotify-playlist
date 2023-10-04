@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,217 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,343 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 9 | [Tarha Tadagh](https://open.spotify.com/track/2LQwuRI1h4Q4qk4HzK9zE2) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Imarhan](https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL) | 3:06 |
 | 10 | [Assossamagh \- ReqTeq Re\-edit](https://open.spotify.com/track/2yd16TyZddVEZFs2X3AWas) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Assossamagh \(ReqTeq Re\-edit\)](https://open.spotify.com/album/3Uiu3RLO1p6EqPMyFxgZ3x) | 3:18 |
 | 11 | [Ruby](https://open.spotify.com/track/56K7H3Ipsce0Csn2v4u8kZ) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Ali & Toumani](https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi) | 5:55 |
-| 12 | [Mogoya](https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Mogoya](https://open.spotify.com/album/43euCDOikmefRS29Y55pLX) | 3:30 |
-| 13 | [Azawade](https://open.spotify.com/track/7dHowm9WlK1gOuEuM0bd7m) | [The Touré\-Raichel Collective](https://open.spotify.com/artist/4NXdiYnTn0W2hblJ1WphGh), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1), [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [The Tel Aviv Session](https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH) | 8:12 |
+| 12 | [Azawade](https://open.spotify.com/track/7dHowm9WlK1gOuEuM0bd7m) | [The Touré\-Raichel Collective](https://open.spotify.com/artist/4NXdiYnTn0W2hblJ1WphGh), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1), [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [The Tel Aviv Session](https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH) | 8:12 |
+| 13 | [Mogoya](https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Mogoya](https://open.spotify.com/album/43euCDOikmefRS29Y55pLX) | 3:30 |
 | 14 | [Chiri Hari](https://open.spotify.com/track/1YQmUOQUxVeHebdKBX6m71) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Gandadiko](https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB) | 4:00 |
 | 15 | [Degg Gui \(feat\. Flavia Coelho & Fixi\)](https://open.spotify.com/track/2m9TLj1eU3qZT895FOIm0v) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [Fixi](https://open.spotify.com/artist/4ZdJ35EaWtMCvdbczspFET) | [Degg Gui \(feat\. Flavia Coelho & Fixi\) \- Single](https://open.spotify.com/album/06B14KCKiA5UbBebBZiuLx) | 3:48 |
 | 16 | [Arrabi al Arabe](https://open.spotify.com/track/4anx9dy5q5vU1B0kwNRmrR) | [Mariem Hassan](https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O) | [El Aaiun Egdat](https://open.spotify.com/album/1M46BfgAnMu8p5P8DjUQ1p) | 4:26 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 40 | [Achinkad](https://open.spotify.com/track/3HsUImLYZkBYmCLAtvRFVl) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Achinkad](https://open.spotify.com/album/18mh747W9C4QbHRDhSZUjr) | 4:16 |
 | 41 | [Iyat Ninhay / Jaguar \(A Great Desert I Saw\)](https://open.spotify.com/track/7JhZnctUOHoRVXZnKP9cSB) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Azel](https://open.spotify.com/album/6OUmsPAH0w42g1NCQYe5Qv) | 6:07 |
 | 42 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 |
-| 43 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
-| 44 | [Taragalte](https://open.spotify.com/track/0g9YOykbhG0jhDW2m4Y3w8) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Soul of Morocco](https://open.spotify.com/album/1C00IcQUmLjluDOZjgxUM5) | 7:12 |
-| 45 | [Tahra a Issasnane](https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Akh Issudar](https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx) | 3:21 |
-| 46 | [Akaline Akaline](https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 3:07 |
+| 43 | [Taragalte](https://open.spotify.com/track/0g9YOykbhG0jhDW2m4Y3w8) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Soul of Morocco](https://open.spotify.com/album/1C00IcQUmLjluDOZjgxUM5) | 7:12 |
+| 44 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
+| 45 | [Akaline Akaline](https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 3:07 |
+| 46 | [Tahra a Issasnane](https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Akh Issudar](https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx) | 3:21 |
 | 47 | [Yarab](https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX) | [Malouma](https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5) | [Nour](https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3) | 5:05 |
 | 48 | [Midiwan \(My Friends\)](https://open.spotify.com/track/4p8Vq2bjTA0QFPJipbhOR3) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Deran](https://open.spotify.com/album/1lfByGwwrcnxIHig1xiuHY) | 3:42 |
 | 49 | [Toumast anlet](https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 5:13 |
 | 50 | [Mirage](https://open.spotify.com/track/3b45LikcYpvV5YQE4XcnZI) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Sequana](https://open.spotify.com/album/64Uwr6ZmYrBNABToF47PRN) | 4:17 |
 
-Snapshot ID: `MCxiYTg1NDQ0MmNkNGJhMWQ5MDdhZTJhYWMyMjJmNzk5MWU5MjJmMTMw`
+Snapshot ID: `MCwyNWU3MWM5OTAwYjQ4NjZlNzk1NjdhMTg3NTgyYTJhOGI3MjlhYzQ4`

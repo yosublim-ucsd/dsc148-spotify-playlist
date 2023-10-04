@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 28470,
+  "num_followers": 28480,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzQ5NyxhZjNiMDIwNjk1MTM3ZWQ0NzExOWVmNTAzZjk4NjM3ZTQ4NGE1ODZj",
+  "snapshot_id": "MzQ5OSwzOWVmZDE4NGE3NDg5Zjg5N2Y4NzQ3MDU1N2Q5MDA0Mzk0Nzk5ZTIy",
   "tracks": [
+    {
+      "added_at": "2023-10-03 14:27:03",
+      "album": {
+        "name": "Munitions",
+        "url": "https://open.spotify.com/album/7tTVaKHuBq94fj2RBplMYo"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "Munitions",
+      "url": "https://open.spotify.com/track/58iAMQaKz7UqvFyhknuyAY"
+    },
     {
       "added_at": "2023-09-27 18:09:47",
       "album": {
@@ -683,26 +699,6 @@
       "duration_ms": 291400,
       "name": "Fables",
       "url": "https://open.spotify.com/track/3I49KOk2e2Fxoh6IlSiTKX"
-    },
-    {
-      "added_at": "2023-04-04 23:34:25",
-      "album": {
-        "name": "Loso Na Madesu",
-        "url": "https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx"
-      },
-      "artists": [
-        {
-          "name": "Brian Nasty",
-          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
-        },
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 187872,
-      "name": "Loso Na Madesu",
-      "url": "https://open.spotify.com/track/7efNNsh9LW6puimq4vaWqw"
     },
     {
       "added_at": "2023-02-21 18:13:13",

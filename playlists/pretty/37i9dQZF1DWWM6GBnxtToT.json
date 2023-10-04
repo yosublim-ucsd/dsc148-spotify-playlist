@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 576211,
+  "num_followers": 576316,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWQ5MTgxZGJlNWExMTdkYmIxN2E1NDU1Yzk4Y2IwMDkxMDVkMWYy",
+  "snapshot_id": "MCwyYjQwNjNhMDM1MTA5NjY5M2MzMjE1MGFmNGNkYWJmNmNkNTNlMGE3",
   "tracks": [
     {
       "added_at": "2023-08-29 08:42:33",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "minuit",
-        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
-      },
-      "artists": [
-        {
-          "name": "Clementine",
-          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
-        },
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "minuit",
-      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
         "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
       },
@@ -735,6 +715,26 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
+        "name": "minuit",
+        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
+      },
+      "artists": [
+        {
+          "name": "Clementine",
+          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
+        },
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "minuit",
+      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
         "name": "Home of Sanity (the playlist)",
         "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 236167,
       "name": "ophelie",
       "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/2aiprMxQgmNnlEMRWKdR6n"
+      },
+      "artists": [
+        {
+          "name": "Yeah But No",
+          "url": "https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Run Run Run",
+      "url": "https://open.spotify.com/track/5BiNNRfucEIJ62KyjDP81B"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -771,22 +787,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/2aiprMxQgmNnlEMRWKdR6n"
-      },
-      "artists": [
-        {
-          "name": "Yeah But No",
-          "url": "https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Run Run Run",
-      "url": "https://open.spotify.com/track/5BiNNRfucEIJ62KyjDP81B"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Twister",
         "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Mister Burns",
-        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Mister Burns",
-      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Someone You Love",
         "url": "https://open.spotify.com/album/3osxMWTR97vYigGuiqVhxM"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 203828,
       "name": "Someone You Love",
       "url": "https://open.spotify.com/track/2JUXU13VveY6JMvPgpRJJZ"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Mister Burns",
+        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mister Burns",
+      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Mellow Moon",
-        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Colour Me Blue",
-      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Right There",
         "url": "https://open.spotify.com/album/2oBZsMGLHyBtI7xDnmaunz"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 182936,
       "name": "Right There",
       "url": "https://open.spotify.com/track/5oXj6bEvSt0piiMFZc8gpE"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Colour Me Blue",
+      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "I Swear It's True",
-        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
-      },
-      "artists": [
-        {
-          "name": "Mani Orrason",
-          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
-        }
-      ],
-      "duration_ms": 235784,
-      "name": "I Swear It's True",
-      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Mirage Morning",
         "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 186704,
       "name": "Saltburn",
       "url": "https://open.spotify.com/track/1YlvVgYcPQWNYMt23udKuf"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "I Swear It's True",
+        "url": "https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va"
+      },
+      "artists": [
+        {
+          "name": "Mani Orrason",
+          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
+        }
+      ],
+      "duration_ms": 235784,
+      "name": "I Swear It's True",
+      "url": "https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn"
     },
     {
       "added_at": "2023-08-29 08:42:33",

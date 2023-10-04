@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Bye septiembre! 🥰 Vámonos full spooky season con lo nuevo de Ferxxo, Danna Paola y hasta los Rolling Stones 😝
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,738 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,864 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Sandunguea](https://open.spotify.com/track/4Y4DgE7hqT4XwDgODir0Lh) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Sandunguea](https://open.spotify.com/album/4pfnzgk81dawquIVD10u96) | 2:37 |
 | 50 | [Coronitas](https://open.spotify.com/track/7ayUkOSCXw5wMWsdQCaRNi) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5) | [Coronitas](https://open.spotify.com/album/0H5biUj6cLSmMPH8YQmkvW) | 3:02 |
 
-Snapshot ID: `MCxiYzk1MTcxMTk3N2UzNjQ3OGVlNWJkMzcwNmYxYWRkN2U1YTdmMzgx`
+Snapshot ID: `MCw5MzA4NDdiMmQ5N2FkOTY1NmY2ODNjZDZmZjY5ZTRkMmYzZWIxYWNm`

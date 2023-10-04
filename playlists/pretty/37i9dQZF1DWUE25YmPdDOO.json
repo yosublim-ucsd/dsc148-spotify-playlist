@@ -1,12 +1,12 @@
 {
   "description": "Canciones de rock con un toque de nostalgia.",
-  "num_followers": 103018,
+  "num_followers": 103101,
   "original_name": "Nostalgia + Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDIzOTI2YWIyNjIyOTIyNDE1YzdhNDVjOGU3YjM5Mzk4MjkyMWNh",
+  "snapshot_id": "MCxmOTExOTYzMWRiMWMyNjMxNTlkOGU2ODhmZGJjY2ZhMTBkNDkzMDU1",
   "tracks": [
     {
       "added_at": "2023-09-14 02:53:01",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-09-14 02:53:01",
       "album": {
-        "name": "Some Girls",
-        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Beast Of Burden - Remastered 1994",
-      "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
-    },
-    {
-      "added_at": "2023-09-14 02:53:01",
-      "album": {
         "name": "Sue\u00f1os L\u00edquidos",
         "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 352160,
       "name": "En El Muelle de San Blas",
       "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
+    },
+    {
+      "added_at": "2023-09-14 02:53:01",
+      "album": {
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Beast Of Burden - Remastered 1994",
+      "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
     },
     {
       "added_at": "2023-09-14 02:53:01",

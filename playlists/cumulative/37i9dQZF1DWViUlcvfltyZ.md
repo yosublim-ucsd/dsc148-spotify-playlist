@@ -2,7 +2,7 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> La playlist che è come andare ai concerti! Nuove uscite rock, indie, post\-rock, punk ed emo dall'Italia\. Cover: Blonde Redhead
+> La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: Blonde Redhead
 
 564 songs - 1 day 7 hr 26 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Die Tage werden k\u00fcrzer und die Luft frischer. Hier ist dein Soundtrack f\u00fcr den goldenen Herbst.",
-  "num_followers": 1013013,
+  "num_followers": 1013283,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWQ4NjAyMTlkM2YwOTBkMDk0N2IxMmQ2MDc1ZWQxZWE0Y2RjOTY4",
+  "snapshot_id": "MCwwOGQ1MWRkYmUyYWVjMDZlOWJkMjcwNGE4NWFkMjhiODhiYmQwZjJk",
   "tracks": [
     {
       "added_at": "2023-09-29 15:23:22",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-09-29 15:23:22",
       "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 258693,
-      "name": "Smooth Operator - Single Version",
-      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
-    },
-    {
-      "added_at": "2023-09-29 15:23:22",
-      "album": {
         "name": "SYML",
         "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 202000,
       "name": "Where's My Love",
       "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
+    },
+    {
+      "added_at": "2023-09-29 15:23:22",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
       "added_at": "2023-09-29 15:23:22",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-09-29 15:23:22",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 171662,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
-    },
-    {
-      "added_at": "2023-09-29 15:23:22",
-      "album": {
         "name": "Oceans",
         "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 279573,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
+    },
+    {
+      "added_at": "2023-09-29 15:23:22",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 171662,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
     },
     {
       "added_at": "2023-09-29 15:23:22",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-09-29 15:23:22",
       "album": {
+        "name": "Nur ein bisschen",
+        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "duration_ms": 161956,
+      "name": "Nur ein bisschen",
+      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
+    },
+    {
+      "added_at": "2023-09-29 15:23:22",
+      "album": {
         "name": "Coffee Shop",
         "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 257500,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
-    },
-    {
-      "added_at": "2023-09-29 15:23:22",
-      "album": {
-        "name": "Nur ein bisschen",
-        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
-      },
-      "artists": [
-        {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
-        }
-      ],
-      "duration_ms": 161956,
-      "name": "Nur ein bisschen",
-      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
     },
     {
       "added_at": "2023-09-29 15:23:22",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-29 15:23:22",
       "album": {
-        "name": "Back In Love",
-        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Back In Love",
-      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
-    },
-    {
-      "added_at": "2023-09-29 15:23:22",
-      "album": {
         "name": "ARE YOU WITH ME",
         "url": "https://open.spotify.com/album/3kjidQ6jlBMkrpNucShbY2"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 167338,
       "name": "ARE YOU WITH ME",
       "url": "https://open.spotify.com/track/6JaHUUwEULmCzw99jyBc4G"
+    },
+    {
+      "added_at": "2023-09-29 15:23:22",
+      "album": {
+        "name": "Back In Love",
+        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 281253,
+      "name": "Back In Love",
+      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
     },
     {
       "added_at": "2023-09-29 15:23:22",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-09-29 15:23:22",
       "album": {
+        "name": "Prolog I",
+        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
+      },
+      "artists": [
+        {
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+        }
+      ],
+      "duration_ms": 258505,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
+    },
+    {
+      "added_at": "2023-09-29 15:23:22",
+      "album": {
         "name": "Embers Mixtape",
         "url": "https://open.spotify.com/album/2YtYYKvQHPUSnKvrSwbsQi"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2023-09-29 15:23:22",
       "album": {
-        "name": "Prolog I",
-        "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
       },
       "artists": [
         {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 258505,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
     },
     {
       "added_at": "2023-09-29 15:23:22",
@@ -1171,22 +1187,6 @@
       "duration_ms": 178000,
       "name": "luft (feat. Friedberg)",
       "url": "https://open.spotify.com/track/2bi2Sfu6PNmQByYPKrE1l9"
-    },
-    {
-      "added_at": "2023-09-29 15:23:22",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204174,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
     },
     {
       "added_at": "2023-09-29 15:23:22",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-29 15:23:22",
       "album": {
-        "name": "Same Vibes",
-        "url": "https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 180721,
-      "name": "Same Vibes",
-      "url": "https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM"
-    },
-    {
-      "added_at": "2023-09-29 15:23:22",
-      "album": {
         "name": "Nur",
         "url": "https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 216411,
       "name": "Regen (Piano Version)",
       "url": "https://open.spotify.com/track/67pt4LpKzOe86oFtrMPb9V"
+    },
+    {
+      "added_at": "2023-09-29 15:23:22",
+      "album": {
+        "name": "Same Vibes",
+        "url": "https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 180721,
+      "name": "Same Vibes",
+      "url": "https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM"
     },
     {
       "added_at": "2023-09-29 15:23:22",

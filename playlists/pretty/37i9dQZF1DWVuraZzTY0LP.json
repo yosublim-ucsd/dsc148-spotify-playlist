@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 329401,
+  "num_followers": 329484,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGFjNjBlMzk5NzRiZmIzZWNjZWQ3ZGUzZWM1ZDI5OTBiZmZiMGFi",
+  "snapshot_id": "MCw0M2RiMGE2OTAzOWRjYTU4ZWQ1ZTVmYTllZjc4YWRlOGY1ZWRjNTk4",
   "tracks": [
     {
       "added_at": "2023-09-29 08:52:09",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-09-29 08:52:09",
       "album": {
-        "name": "Flamingos",
-        "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
+        "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea",
+        "url": "https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 329666,
-      "name": "Lady Blue",
-      "url": "https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z"
+      "duration_ms": 248133,
+      "name": "V\u00eda L\u00e1ctea",
+      "url": "https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj"
     },
     {
       "added_at": "2023-09-29 08:52:09",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-09-29 08:52:09",
       "album": {
-        "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea",
-        "url": "https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG"
+        "name": "Flamingos",
+        "url": "https://open.spotify.com/album/2MUTc0OJT6lOZCwifS1LyB"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 248133,
-      "name": "V\u00eda L\u00e1ctea",
-      "url": "https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj"
+      "duration_ms": 329666,
+      "name": "Lady Blue",
+      "url": "https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z"
     },
     {
       "added_at": "2023-09-29 08:52:09",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-29 08:52:09",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 290420,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/08z1Wf8QxqDcVcxux3DvGx"
-    },
-    {
-      "added_at": "2023-09-29 08:52:09",
-      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 254993,
       "name": "Azul",
       "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
+    },
+    {
+      "added_at": "2023-09-29 08:52:09",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 290420,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/08z1Wf8QxqDcVcxux3DvGx"
     },
     {
       "added_at": "2023-09-29 08:52:09",

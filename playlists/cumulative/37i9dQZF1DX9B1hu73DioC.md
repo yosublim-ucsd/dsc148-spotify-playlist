@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-700 songs - 1 day 18 hr 3 min
+701 songs - 1 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Give Me Her](https://open.spotify.com/track/2S4SKBEnfJGqc4smQCwvPb) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Give Me Her](https://open.spotify.com/album/1Nx0l3is4MZBMGVNtnrmVs) | 1:14 | 2021-05-05 | 2022-04-18 |
 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2023-04-06 |  |
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2021-06-04 | 2022-06-15 |
+| [Glitter](https://open.spotify.com/track/22pR21715Xw2yB2uQrcdIr) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Glitter](https://open.spotify.com/album/6k49rwllp13RrGFHYw6Eik) | 2:06 | 2023-09-29 |  |
 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 | 2023-09-15 |  |
 | [Go Around](https://open.spotify.com/track/4XW24tqU4OG940MdepSQHB) | [Josh Gilligan](https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899) | [Go Around](https://open.spotify.com/album/5gcrssl1Te9P9V0QGPRWZt) | 3:43 | 2021-05-08 | 2022-07-20 |
 | [Go Slow](https://open.spotify.com/track/4BllTeaRSd5OXUceYXwVV4) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/4UgPnKsu5oqfJSaK4kkLT1) | 3:32 | 2021-03-15 | 2022-04-11 |
@@ -591,7 +592,7 @@
 | [Sunshine Baby](https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:39 | 2023-09-15 |  |
 | [Sweet](https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:51 | 2021-03-14 | 2022-11-09 |
 | [Sweet Bonita](https://open.spotify.com/track/6HeCWexSUG87Uok9hsrE83) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [Sweet Bonita](https://open.spotify.com/album/3NWL1BcgIHGMj6oWozBLt0) | 3:09 | 2023-07-12 |  |
-| [T Love \- Extended](https://open.spotify.com/track/1qmBJijlYA148svgU0herL) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift \(Deluxe\)](https://open.spotify.com/album/19ozV4Q1V0zC1KYBlnwbHU) | 5:59 | 2023-09-15 |  |
+| [T Love \- Extended](https://open.spotify.com/track/1qmBJijlYA148svgU0herL) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift \(Deluxe\)](https://open.spotify.com/album/19ozV4Q1V0zC1KYBlnwbHU) | 5:59 | 2023-09-15 | 2023-10-04 |
 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 | 2020-10-16 |  |
 | [Take Me Down](https://open.spotify.com/track/0bMYQjhqOV3CoqE7OcRIBv) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [A Little Disaster](https://open.spotify.com/album/2qioFepYwtRRzdP91fGsj5) | 4:03 | 2023-04-14 | 2023-04-22 |
 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2022-10-07 |  |

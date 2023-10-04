@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 350511,
+  "num_followers": 350597,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDEwNjA3MzJiYjI3ZjhlZmVlMDYzNTczNmZjYzlmMjFlMDg3YjZi",
+  "snapshot_id": "MCxiYjBlNWQyODIyNjdjZjUyYmNiYzExNWE1M2Q4MzYzZDlhYTA1M2M2",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -611,22 +611,18 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Love's In Need Of Love Today",
-        "url": "https://open.spotify.com/album/067timXrQdiROAy7dHLpIP"
+        "name": "A Nu Day",
+        "url": "https://open.spotify.com/album/4cYOUdfGAj9E2IOCWTo3ZM"
       },
       "artists": [
         {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        },
-        {
-          "name": "Sonna",
-          "url": "https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf"
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
         }
       ],
-      "duration_ms": 252697,
-      "name": "Love's In Need Of Love Today",
-      "url": "https://open.spotify.com/track/6eCeCP4MhQGPNAKPi6YD9p"
+      "duration_ms": 290426,
+      "name": "Love Me in a Special Way",
+      "url": "https://open.spotify.com/track/4tQXXFad6eReU2jDjE9UuP"
     }
   ],
   "unique_name": "Soul Revived",

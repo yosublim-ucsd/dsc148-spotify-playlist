@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-270 songs - 13 hr 40 min
+271 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Mukulu](https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:47 | 2023-08-10 | 2023-09-29 |
 | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV) | 3:00 | 2023-06-22 |  |
 | [MY WAY \(feat\. Joey B\)](https://open.spotify.com/track/3YMPFjNdqspuEvCUYXbWAl) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [MY WAY \(feat\. Joey B\)](https://open.spotify.com/album/2pTkLDnVeiVT3HOdeh2r5Y) | 3:17 | 2023-03-30 | 2023-05-07 |
-| [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-06-09 |  |
+| [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-06-09 | 2023-10-04 |
 | [Never Love Again](https://open.spotify.com/track/0NLRTMtyvgX4HC9Yyf7fO9) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Never Love Again](https://open.spotify.com/album/0DyQM70GwzJIhxLDHeaULt) | 3:05 | 2022-06-09 | 2022-08-07 |
 | [No letting guh](https://open.spotify.com/track/4C0DwDS6OzrUjtU8VtwhUN) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [No letting guh](https://open.spotify.com/album/1nW3aKGYni9OSGk2311kr9) | 2:24 | 2023-03-24 | 2023-04-21 |
 | [No Stress](https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC) | [Tony Frank](https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Stress](https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB) | 2:35 | 2023-05-04 |  |
@@ -252,6 +252,7 @@
 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 | 2023-04-20 |  |
 | [Ubumnandi \(feat\. Nia Pearl & MDU a.k.a TRP\)](https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Nia Pearl](https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [KOA II Part 1](https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q) | 6:24 | 2022-06-16 | 2023-07-21 |
 | [Undercover Lover](https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Undercover Lover](https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP) | 2:32 | 2023-05-11 | 2023-06-23 |
+| [Upcoming \(Check on Me\)](https://open.spotify.com/track/5D1nn7nHPn1oLP4bWIKS0V) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Upcoming \(Check on Me\)](https://open.spotify.com/album/5UDgGPdFSnkySQ192FyrgX) | 2:25 | 2023-09-29 |  |
 | [Vanity](https://open.spotify.com/track/7CT9KE85Muc2n7UG6JS0dv) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/07xgzcCcQz2uahUuO1xnkq) | 2:32 | 2023-07-20 | 2023-07-29 |
 | [Vawulence](https://open.spotify.com/track/0tu7UAep0cBH35Lzln2Fjw) | [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c) | [Vawulence](https://open.spotify.com/album/09EXBWpvIYBAwO9lCNZMvw) | 2:12 | 2023-08-10 |  |
 | [Waka Jeje \(feat\. Bnxn\)](https://open.spotify.com/track/04ISGhuusXAMz3dnXkAdxa) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Waka Jeje \(feat\. Bnxn\)](https://open.spotify.com/album/1jGHHoZvMuag4ENa30G9F9) | 2:28 | 2023-07-14 |  |

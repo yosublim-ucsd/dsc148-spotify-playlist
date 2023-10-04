@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,808 likes - 142 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,023 likes - 142 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 141 | [Sun Ascent](https://open.spotify.com/track/7aKvmuUzQTPR63CCqNyheE) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Relax: Easy Morning](https://open.spotify.com/album/7oCTqkeHvRY1umJzPhVFD5) | 3:39 |
 | 142 | [Bohemian Paradise](https://open.spotify.com/track/4nHM6GfKNeSrdvS2GDVJoj) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In The Age of Aristocracy: 2nd Anniversary Extended Edition](https://open.spotify.com/album/2p0SMYANCPd3P7k01sXboc) | 4:54 |
 
-Snapshot ID: `MCwxNzg2OTFhZWE2MThiMGU0NTBjN2U0OWI1MzVlYTNlZjhjMTJjOTA4`
+Snapshot ID: `MCw4Zjg0Zjc2MzQ2NWU5ZjEzNzI2MGRmOWVkNmU2NjQ2NzQ1ZmZkMGU5`

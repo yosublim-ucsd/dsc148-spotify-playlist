@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 227323,
       "name": "Boukenroku",
       "url": "https://open.spotify.com/track/2RUeYsbLz7BUVyO6Q3Ijx5"
@@ -823,6 +823,42 @@
     },
     {
       "album": {
+        "name": "Hanaarashi",
+        "url": "https://open.spotify.com/album/1txQrmehD3TKMQ8a5SQrbv"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223600,
+      "name": "Hanaarashi",
+      "url": "https://open.spotify.com/track/7appEyBT2D7skgWyyb5klH"
+    },
+    {
+      "album": {
+        "name": "Hyper",
+        "url": "https://open.spotify.com/album/1SVGVA68dbU3oTG8nRISM4"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Hyper",
+      "url": "https://open.spotify.com/track/2gjcKUENc1b3CkBEWjSL1E"
+    },
+    {
+      "album": {
         "name": "I just wanna dance with you- period",
         "url": "https://open.spotify.com/album/4u7Y1abTcYxn5Ob0Nl4Xzk"
       },
@@ -1226,7 +1262,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 207053,
       "name": "Mainstream",
       "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
@@ -1314,7 +1350,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 253057,
       "name": "meringue doll",
       "url": "https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ"
@@ -1786,6 +1822,24 @@
       "duration_ms": 140571,
       "name": "PEEK-A-BOO - feat. \u9234\u6728\u512a\u4eba & \u304b\u3066\u3043\u3093(\u89d2\u91ce\u96bc\u6597) with \u9ebb\u5e03\u5b66\u5712OB+\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
       "url": "https://open.spotify.com/track/0BghOAtqgizpuVtJFUCFxn"
+    },
+    {
+      "album": {
+        "name": "Pichi Pichi",
+        "url": "https://open.spotify.com/album/4xUwgCzKHpaQIGE3UKPA8V"
+      },
+      "artists": [
+        {
+          "name": "foodman",
+          "url": "https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Pichi Pichi",
+      "url": "https://open.spotify.com/track/6yU5OWl6JcErMP4gFqqFKr"
     },
     {
       "album": {
@@ -2266,7 +2320,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 231066,
       "name": "spiral",
       "url": "https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE"
@@ -2710,7 +2764,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 312502,
       "name": "\u3059\u304d\u3063! - \u8d85ver",
       "url": "https://open.spotify.com/track/4k3vWI14pw0q7FVwNhehWp"
@@ -2876,10 +2930,46 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 183586,
       "name": "\u30ad\u30e9\u30ad\u30e9\u30ad\u30e9",
       "url": "https://open.spotify.com/track/5B6lFLmKyXJBste5Tdp6Ar"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30b9\u30c8\u30c0\u30a4\u30d6",
+        "url": "https://open.spotify.com/album/22Y4CMkBXjaGCVfzNrtdEw"
+      },
+      "artists": [
+        {
+          "name": "POLKADOT STINGRAY",
+          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "\u30b4\u30fc\u30b9\u30c8\u30c0\u30a4\u30d6",
+      "url": "https://open.spotify.com/track/3YSYq98AiBIXAj8GCW3wbd"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u3067\u8e0a\u308a\u305f\u3044",
+        "url": "https://open.spotify.com/album/3S4nFATM8NAwyDBukOWPAb"
+      },
+      "artists": [
+        {
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229931,
+      "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u3067\u8e0a\u308a\u305f\u3044",
+      "url": "https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1"
     },
     {
       "album": {
@@ -3078,6 +3168,24 @@
       "duration_ms": 272036,
       "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
       "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
+    },
+    {
+      "album": {
+        "name": "BACK",
+        "url": "https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159536,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Chosunblues\(조선블루스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: PARKMOONCHI\(박문치\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-608 songs - 1 day 13 hr 17 min
+609 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [It’s Not Easy](https://open.spotify.com/track/32bCGtVMTOJL9vHpaXly85) | [Avii Garde](https://open.spotify.com/artist/3DbXI4NokdiqiFwer9YOoF) | [It’s Not Easy](https://open.spotify.com/album/0DlghI0qWip2mrcNzamdQP) | 3:45 | 2022-08-19 | 2022-09-13 |
 | [I’ll just smile](https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG) | [Arttichoke](https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9) | [Tang Tang!](https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF) | 2:30 | 2021-12-21 | 2022-05-13 |
 | [I′m Alright](https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj) | [QUDO](https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf), [Sehwan Hong](https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId) | [INCHEON CITYPOP Vol\. 1](https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH) | 3:46 | 2021-12-21 | 2022-04-20 |
+| [J U S T F U N \(with george\)](https://open.spotify.com/track/0fhnZmbHlo4rdcINqvhLCb) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh) | [J U S T F U N \(with george\)](https://open.spotify.com/album/2q0mO6x6Br2J3YVmVXMo4I) | 2:52 | 2023-10-03 |  |
 | [Jayu 자유](https://open.spotify.com/track/5vlUplZyrXnN0bbejrKfqu) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Jayu 자유](https://open.spotify.com/album/2ikSIntGYyG6biNQC0UgnH) | 3:55 | 2022-02-16 | 2022-06-22 |
 | [Jungle Bike](https://open.spotify.com/track/58NiYwHiOAsrl9ayiRYQXE) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Jungle Bike](https://open.spotify.com/album/1FkXoPtPNwDUN1Ow5iwWSW) | 2:46 | 2022-08-04 | 2022-08-24 |
 | [Just a Friend](https://open.spotify.com/track/4cRXmzPshRDVuL1NTGk5c0) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [simsong](https://open.spotify.com/artist/51MWzTgAg8ZIxqyO2Zz0c9) | [Just a Friend](https://open.spotify.com/album/4o5z8EULkN1q4wmNH6qI8W) | 3:36 | 2022-03-31 | 2022-05-13 |
@@ -295,7 +296,7 @@
 | [lost](https://open.spotify.com/track/53zgUNqd4DCRSRQUn4J4aJ) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [lost](https://open.spotify.com/album/3IAAhPOt3Ui36lJQ93Y7x8) | 3:50 | 2022-03-31 | 2022-07-27 |
 | [lost](https://open.spotify.com/track/26niEovvgyaq9po2KubsJI) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [lost](https://open.spotify.com/album/131Eo9LOhFcv05gClAIpCT) | 4:34 | 2022-06-08 | 2022-10-16 |
 | [Lost in the City](https://open.spotify.com/track/5tZFCjvVbOuEKkeOi6GWZd) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Lost in the City](https://open.spotify.com/album/4cN9wky9XIVZqrAKTASmTe) | 3:23 | 2022-09-05 | 2022-09-21 |
-| [lost the love \(with\. KIM SU IN\)](https://open.spotify.com/track/73Y8wOmucnTu0lUgfR57xU) | [Chosunblues](https://open.spotify.com/artist/6mKicVKyt6CPmrvbGkge4G), [KIM SU IN](https://open.spotify.com/artist/1eD6xraivpnXUOr4eX9Rhj) | [lost the love](https://open.spotify.com/album/7tARiULOzmBxyYehOg0b6U) | 5:48 | 2023-09-26 |  |
+| [lost the love \(with\. KIM SU IN\)](https://open.spotify.com/track/73Y8wOmucnTu0lUgfR57xU) | [Chosunblues](https://open.spotify.com/artist/6mKicVKyt6CPmrvbGkge4G), [KIM SU IN](https://open.spotify.com/artist/1eD6xraivpnXUOr4eX9Rhj) | [lost the love](https://open.spotify.com/album/7tARiULOzmBxyYehOg0b6U) | 5:48 | 2023-09-26 | 2023-10-04 |
 | [love in balcony](https://open.spotify.com/track/7BrlpynTrdHToVYs4uJSre) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 3:50 | 2023-02-01 | 2023-03-01 |
 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-03-31 | 2022-12-22 |
 | [Love like a bouquet,](https://open.spotify.com/track/7es4VhC71wFHRaVjkdQ5rK) | [CHOMINWOO](https://open.spotify.com/artist/1mISG0BUcXpI7kJKtRqthM), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Beautiful struggle](https://open.spotify.com/album/17X67myikY9mktuS1UHAyx) | 3:18 | 2022-08-19 | 2022-09-06 |

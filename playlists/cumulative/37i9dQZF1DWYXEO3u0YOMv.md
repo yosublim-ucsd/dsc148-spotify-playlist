@@ -4,7 +4,7 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-157 songs - 10 hr 8 min
+158 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [フレンズ](https://open.spotify.com/track/7cYQ9thqXjWg0slZ0CXSxm) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [suits me! suits you!](https://open.spotify.com/album/6w4UG3KP2TxppJ4QuQeean) | 3:59 | 2022-10-11 |  |
 | [ブチコメ!!](https://open.spotify.com/track/6tzOqDbBuX6U7Hq6yfcZPL) | [SHIKURAMEN](https://open.spotify.com/artist/0TCMXwyEt39idbHRlwGvs8) | [シクラメンの夏](https://open.spotify.com/album/0DnVad4YbEUndhNGChkiSx) | 3:45 | 2022-05-10 |  |
 | [メニメニマニマニ](https://open.spotify.com/track/7EvzUhU6zpdJxAsjNQZ1gN) | [高宮なすの\(CV:鳴海杏子\)](https://open.spotify.com/artist/4YUQrz8swYxgcc9dWV0nIG) | [メニメニマニマニ](https://open.spotify.com/album/0OflLmwcweeJ90j3qShjth) | 4:29 | 2022-05-10 |  |
+| [ユートピア](https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BACK](https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd) | 2:39 | 2023-10-03 |  |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2022-05-10 |  |
 | [僕の戦争](https://open.spotify.com/track/1UDw29EsOh3Rx1e5fYsbaG) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [僕の戦争](https://open.spotify.com/album/5wi31xge1BG1X8ME1eyhdi) | 4:40 | 2022-05-10 | 2022-07-29 |
 | [光へ](https://open.spotify.com/track/6q0iBMVQpMzRJi2771HiCD) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [ゾンビランドサガ フランシュシュ The Best](https://open.spotify.com/album/3KAi2KkekpOFd2gwhT3PNM) | 3:34 | 2022-05-10 |  |

@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 252600,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/4kxnkGIfIpf6VzHehCDE0E"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 280466,
       "name": "Boku no Sensou",
       "url": "https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh"
@@ -88,10 +88,28 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 231385,
       "name": "BOY",
       "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
+    },
+    {
+      "album": {
+        "name": "BROKEN GAMES",
+        "url": "https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd"
+      },
+      "artists": [
+        {
+          "name": "FZMZ",
+          "url": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236073,
+      "name": "BROKEN GAMES",
+      "url": "https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5"
     },
     {
       "album": {
@@ -178,7 +196,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 224669,
       "name": "FLY & DIVE",
       "url": "https://open.spotify.com/track/1GyJ9861V1V5xddnmDIRpx"
@@ -196,7 +214,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 244493,
       "name": "FLY HIGH!!",
       "url": "https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT"
@@ -275,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Hyper",
+        "url": "https://open.spotify.com/album/1SVGVA68dbU3oTG8nRISM4"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Hyper",
+      "url": "https://open.spotify.com/track/2gjcKUENc1b3CkBEWjSL1E"
+    },
+    {
+      "album": {
         "name": "Kaikai Kitan / Ao No Waltz",
         "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
       },
@@ -308,6 +344,46 @@
       "duration_ms": 193495,
       "name": "KICK BACK",
       "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
+    },
+    {
+      "album": {
+        "name": "OT WORKS \u2162 (Selected ver.)",
+        "url": "https://open.spotify.com/album/5SCmQmrYIKFsnBA5Ml2kCZ"
+      },
+      "artists": [
+        {
+          "name": "Okazaki Taiiku",
+          "url": "https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225906,
+      "name": "Knock Out(Album Mix)",
+      "url": "https://open.spotify.com/track/3J6zAKrJoz24YsoEYtWLSh"
+    },
+    {
+      "album": {
+        "name": "KUNOICHI",
+        "url": "https://open.spotify.com/album/1pVKX4UnCrRGGvwth0FyOI"
+      },
+      "artists": [
+        {
+          "name": "BURNOUT SYNDROMES",
+          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+        },
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219728,
+      "name": "KUNOICHI",
+      "url": "https://open.spotify.com/track/54oSb0hs2lyn13ZanbVUkW"
     },
     {
       "album": {
@@ -348,6 +424,24 @@
       "duration_ms": 327966,
       "name": "LOST IN PARADISE",
       "url": "https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX"
+    },
+    {
+      "album": {
+        "name": "Magic Writer",
+        "url": "https://open.spotify.com/album/2wCXz8EhURBDNPaBzG8RLw"
+      },
+      "artists": [
+        {
+          "name": "saji",
+          "url": "https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221906,
+      "name": "Magic Writer",
+      "url": "https://open.spotify.com/track/4XUjQUzNxxssdAI3V25Qbf"
     },
     {
       "album": {
@@ -528,7 +622,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 228120,
       "name": "the WORLD",
       "url": "https://open.spotify.com/track/2pe0UjA7U2F01djWeOtvS3"
@@ -647,6 +741,24 @@
     },
     {
       "album": {
+        "name": "\u3044\u3051\u306a\u3044fool logic",
+        "url": "https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "\u3044\u3051\u306a\u3044fool logic",
+      "url": "https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo"
+    },
+    {
+      "album": {
         "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
         "url": "https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x"
       },
@@ -694,7 +806,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 234800,
       "name": "\u30a2\u30de\u30ea\u30ea\u30b9",
       "url": "https://open.spotify.com/track/1g3M9L6Q6LeTyWDsq6k3PX"
@@ -716,6 +828,24 @@
       "duration_ms": 212546,
       "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
       "url": "https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT"
+    },
+    {
+      "album": {
+        "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f - from CrosSing",
+        "url": "https://open.spotify.com/album/22MgLVsrqOAHW8dBiLFWoH"
+      },
+      "artists": [
+        {
+          "name": "ZAQ",
+          "url": "https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229133,
+      "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f - from CrosSing",
+      "url": "https://open.spotify.com/track/5svgIVYpZuUZZgQbhWDQ0G"
     },
     {
       "album": {
@@ -827,6 +957,24 @@
     },
     {
       "album": {
+        "name": "\u30d2\u30ab\u30ea\u30c8\u30ab\u30bc",
+        "url": "https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "\u30d2\u30ab\u30ea\u30c8\u30ab\u30bc",
+      "url": "https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt"
+    },
+    {
+      "album": {
         "name": "BOOTLEG",
         "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
       },
@@ -910,7 +1058,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 208906,
       "name": "\u51ac\u306e\u306f\u306a\u3057",
       "url": "https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7"
@@ -932,6 +1080,24 @@
       "duration_ms": 232750,
       "name": "\u590f\u6681",
       "url": "https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ"
+    },
+    {
+      "album": {
+        "name": "\u597d\u304d\u306b\u306a\u3063\u3066\u306f\u3044\u3051\u306a\u3044\u7406\u7531",
+        "url": "https://open.spotify.com/album/0HusXRFOf7XeaD7kPxr8ry"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u5ddd\u5343\u611b",
+          "url": "https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280064,
+      "name": "\u597d\u304d\u306b\u306a\u3063\u3066\u306f\u3044\u3051\u306a\u3044\u7406\u7531",
+      "url": "https://open.spotify.com/track/2wjIQfeVIJs2NKqtPE79nq"
     },
     {
       "album": {
@@ -1000,10 +1166,28 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 223613,
       "name": "\u71b1\u60c5\u306e\u30b9\u30da\u30af\u30c8\u30e9\u30e0",
       "url": "https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7"
+    },
+    {
+      "album": {
+        "name": "\u79d8\u5bc6",
+        "url": "https://open.spotify.com/album/7mgvVMjKAxuLAMbbPFqCHP"
+      },
+      "artists": [
+        {
+          "name": "KOTORI",
+          "url": "https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207199,
+      "name": "\u79d8\u5bc6",
+      "url": "https://open.spotify.com/track/1sY7Loshp5UXmBioLDC0nq"
     },
     {
       "album": {
@@ -1018,7 +1202,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 287991,
       "name": "\u7b2c\u30bc\u30ed\u611f",
       "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"

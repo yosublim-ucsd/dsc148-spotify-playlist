@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Dj Black Spygo, Djodje and Chelsea Dinorath.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,869 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,949 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 42 | [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 |
 | 43 | [Puro](https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Puro](https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi) | 4:23 |
 | 44 | [Sabi](https://open.spotify.com/track/2tHfQoIrExSbV4KoFcgac7) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Sabi](https://open.spotify.com/album/564bR2hcA8FjpFBfn71Nlj) | 3:20 |
-| 45 | [Refúgio](https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Jordânia](https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod) | [Refúgio](https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa) | 3:57 |
-| 46 | [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 |
-| 47 | [Tempestade](https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:25 |
+| 45 | [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 |
+| 46 | [Tempestade](https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:25 |
+| 47 | [Refúgio](https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Jordânia](https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod) | [Refúgio](https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa) | 3:57 |
 | 48 | [Homem Que É Homem](https://open.spotify.com/track/7KeFg6QHNBmANqLu3N0kYh) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Homem Que É Homem](https://open.spotify.com/album/3da7ZdV8PajvULvHWlVCYU) | 3:36 |
 | 49 | [Monarquia](https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Mylson](https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y) | [Monarquia](https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2) | 3:22 |
 | 50 | [Preparado](https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Klasszik](https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD) | [Preparado](https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf) | 4:39 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 58 | [Felicidade](https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Felicidade](https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i) | 2:46 |
 | 59 | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I) | [Master Jake](https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX), [Eddy Flow](https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi) | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN) | 4:08 |
 | 60 | [Tudo de Novo](https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Tudo de Novo](https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz) | 4:19 |
-| 61 | [Momentos](https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Momentos](https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B) | 3:30 |
-| 62 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 |
+| 61 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 |
+| 62 | [Momentos](https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Liriany](https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd) | [Momentos](https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B) | 3:30 |
 | 63 | [Safadeza](https://open.spotify.com/track/4py0bZESzc62qRBlwSWFrZ) | [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Safadeza](https://open.spotify.com/album/0uTQBBju3AaEIzAHIcZgBB) | 3:09 |
 | 64 | [Super Mulher](https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Super Mulher](https://open.spotify.com/album/6LqxpzlJGADVpzKh2c16J5) | 3:52 |
 | 65 | [Mad Love](https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Mad Love](https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 99 | [Pele Negra](https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Pele Negra](https://open.spotify.com/album/0f21KuFAIbz8Bw7ExD1koZ) | 4:05 |
 | 100 | [Sentimento](https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filho do Zua](https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm) | [Sentimento](https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3) | 3:12 |
 
-Snapshot ID: `MCxkYjA2MzRkOWMwZjE2ZWJmZjhlN2YwM2M3YWMzYTFjNGM3ODBhNmMz`
+Snapshot ID: `MCw2Mjc2NzRiZGI0YmNmMGViMTQ3NTE1ZGI5NzgxM2Q0Y2FkZTNlZjFl`

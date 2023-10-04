@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Baani Sandhu
 
-62 songs - 3 hr 19 min
+65 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,10 +42,13 @@
 | [Laare](https://open.spotify.com/track/4L6h1muuapCakyu81caEVN) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat) | [Laare](https://open.spotify.com/album/0o667wDHfJ9lPRl3T1q7iw) | 2:38 | 2023-03-18 | 2023-04-20 |
 | [License](https://open.spotify.com/track/0sZMzHirZ6Iw4Zpg7K67nX) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [License](https://open.spotify.com/album/0yDxXtnTfsajw6L4idWi4Q) | 2:34 | 2023-09-15 |  |
 | [Life](https://open.spotify.com/track/2W1iYW6m4hW9EOApubE9Tf) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Life](https://open.spotify.com/album/6ezeADqN6YlvTaG5w5Cmv5) | 3:18 | 2023-03-18 |  |
+| [Main Tenu](https://open.spotify.com/track/6my9ChoBE2Ozs6oVerPzbX) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Main Tenu](https://open.spotify.com/album/4NlsZkgeJsvykk2EhCv3ko) | 2:31 | 2023-10-03 |  |
 | [Majhe Wale](https://open.spotify.com/track/6w3Ci44LBc9RlJcjy1QYow) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Majhe Wale](https://open.spotify.com/album/6C7vkwRhZtDvmiNokK2v5z) | 3:16 | 2023-03-18 |  |
+| [Malwain](https://open.spotify.com/track/2BW6LkyuZjrSgRsCOLL45B) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [1996](https://open.spotify.com/album/7ebGqKGjGg7aaBs5OTOnbM) | 2:35 | 2023-10-03 |  |
 | [Maskara](https://open.spotify.com/track/2Ln1OxWuG3xTzWDl6DNcsy) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Maskara](https://open.spotify.com/album/3AGGLTvJpKLcOW6EdZMvuY) | 2:55 | 2023-03-18 |  |
 | [Mil Mahiya](https://open.spotify.com/track/0Jed0U2VlUbQCrQwwexzaf) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu), [ICONYK](https://open.spotify.com/artist/53jFDJeDG6WGvjeiuw8RAE), [Sonakshi Sinha](https://open.spotify.com/artist/7Bs820pxTkAddFJ3O6WhKi) | [Mil Mahiya](https://open.spotify.com/album/4Ornr7ayLqytC7uxcof214) | 2:32 | 2023-03-18 |  |
 | [Motti Motti Akh](https://open.spotify.com/track/0v3H1kONrK6OKwE1elBYhZ) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Motti Motti Akh](https://open.spotify.com/album/54Ae2VjBhWonYo029f32Rb) | 4:31 | 2023-03-18 |  |
+| [Munda Karke +2 Aaya](https://open.spotify.com/track/483jHkv9kpwujhk9ZHBxlH) | [Sofia Inder](https://open.spotify.com/artist/04T6LAjLQUxF7JCqclfr5F), [Asmeet Sehra](https://open.spotify.com/artist/2lgc3rdVbTxyM5x4NhCXUs), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Munda Karke +2 Aaya](https://open.spotify.com/album/5gy6Gqn41X7wT7MysEocHl) | 2:47 | 2023-10-03 |  |
 | [Na Na Na](https://open.spotify.com/track/6BXzT27RykmZwNSXDffi7j) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd) | [Na Na Na](https://open.spotify.com/album/1uVZpHsFhGt48a5b8awBPm) | 2:59 | 2023-03-18 |  |
 | [No Bullshit](https://open.spotify.com/track/4pHNcvzZ5lnCJCJzxfFBZn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [No Bullshit](https://open.spotify.com/album/1FjzgqFWa03yqQ46NKOeSS) | 3:51 | 2023-03-18 |  |
 | [Pasand Bangi](https://open.spotify.com/track/0PQkxMXbAWaqRZfdLxeamN) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Pasand Bangi](https://open.spotify.com/album/2PJPQ8mRBTPVOreuUDTJ2X) | 3:45 | 2023-03-18 |  |

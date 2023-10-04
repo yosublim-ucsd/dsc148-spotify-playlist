@@ -4,7 +4,7 @@
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-148 songs - 8 hr 33 min
+150 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Bird's Eye View](https://open.spotify.com/track/4Yby465fLOnliPWCTKce6x) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Frame](https://open.spotify.com/album/0iem6ncIWRmptkAHGjKlEg) | 3:29 | 2023-06-09 | 2023-07-08 |
 | [Brand New Life \(feat\. Mumu Fresh\)](https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB), [Mumu Fresh](https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD) | [Brand New Life](https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE) | 4:32 | 2023-04-27 | 2023-05-26 |
 | [Calm Down](https://open.spotify.com/track/7HaYYyX5y87gj6JvXyOmzM) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/58vzDcu4jADoUAI4DKH5rj) | 3:15 | 2022-12-21 | 2023-01-20 |
-| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-03-23 |  |
+| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-03-23 | 2023-10-04 |
 | [Centre of The Universe](https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:10 | 2023-01-19 | 2023-06-10 |
+| [Change My World](https://open.spotify.com/track/2BAXiNtNY5e482p9fyL46v) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Change My World](https://open.spotify.com/album/6F9BgRBsbKk53qIVocDQGP) | 3:28 | 2023-10-03 |  |
 | [Charlotte](https://open.spotify.com/track/4fLWpuB8IHI0Z8UecU4p9R) | [Rose Rose](https://open.spotify.com/artist/7m5YHkCbSEVutUThNF5Lc9) | [Eye to Eye](https://open.spotify.com/album/1nPz4khN5zBQQRWQ7ClIXX) | 3:49 | 2023-03-10 | 2023-09-06 |
 | [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 | 2022-12-21 | 2023-01-27 |
 | [Chicago \(Take It Or Leave It\)](https://open.spotify.com/track/3ZMhHzlZKfbQTIiDPA5cJ2) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Chicago \(Take It Or Leave It\)](https://open.spotify.com/album/4uxEwckywQKv6NE2rjbHhE) | 3:12 | 2022-12-21 | 2023-01-20 |
@@ -113,6 +114,7 @@
 | [Right Here \(feat\. Benny Sings\)](https://open.spotify.com/track/0pceDOsozyHPaki99kCSJQ) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Right Here \(feat\. Benny Sings\)](https://open.spotify.com/album/1FONSSx47AfEC6DBTumU2W) | 2:29 | 2023-02-17 | 2023-07-01 |
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-12-21 | 2023-04-01 |
 | [Seasons](https://open.spotify.com/track/0jzuoUYtIxSMJLUktZXV9o) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [one](https://open.spotify.com/album/1tZ2W5PW2lyAf1K7sTM6iW) | 3:24 | 2022-12-21 | 2023-03-11 |
+| [See Ya There](https://open.spotify.com/track/4KXd5UAFuHok5tfUXBP2fQ) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf) | 4:39 | 2023-10-03 |  |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-03-10 | 2023-09-22 |
 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2023-08-24 |  |
 | [Sign Out](https://open.spotify.com/track/7xR9nZWkuINxV2jcbCplu9) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign Out](https://open.spotify.com/album/6zk2wMyaFUHRkoxRNDL1Ds) | 3:58 | 2023-01-19 | 2023-06-20 |
@@ -148,7 +150,7 @@
 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 | 2023-04-30 |
 | [Turn Away](https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Turn Away / Place of Our Own](https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql) | 3:46 | 2023-07-07 |  |
 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 | 2023-06-19 |  |
-| [Us Without Me](https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Us Without Me](https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt) | 3:20 | 2023-03-23 |  |
+| [Us Without Me](https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Us Without Me](https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt) | 3:20 | 2023-03-23 | 2023-10-04 |
 | [Vanilla Tobacco](https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Vanilla Tobacco](https://open.spotify.com/album/6HJjCkU7RNvqiYB0iZVIgR) | 2:48 | 2022-12-21 | 2023-02-28 |
 | [Vibrating Walls](https://open.spotify.com/track/3ujsvyuTUbmiKLXK9WTMLC) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Time On My Hands](https://open.spotify.com/album/0t8kLm7w7kw5k97T8iUge9) | 4:08 | 2022-12-21 | 2023-01-20 |
 | [Waiting by the Window](https://open.spotify.com/track/3NVDwR7cuCNy30L0DZPQil) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc), [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Waiting by the Window](https://open.spotify.com/album/1EnZIihjXvcmZW4IW84P6j) | 2:19 | 2022-12-21 | 2023-04-28 |

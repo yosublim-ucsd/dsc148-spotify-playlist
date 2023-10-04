@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,656 likes - 70 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,783 likes - 70 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 23 | [Luna](https://open.spotify.com/track/2BCaas3HKVlNZAe2Lzfq7x) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:50 |
 | 24 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
 | 25 | [Hypnotised](https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Hypnotised / I Can Feel](https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8) | 5:40 |
-| 26 | [Voices Above](https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Archila](https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh) | [Voices Above](https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW) | 3:10 |
-| 27 | [Golden State](https://open.spotify.com/track/0WRZuBaMDMw7qmwBeqX1jI) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Golden State](https://open.spotify.com/album/5bPmTN4p8RGeQjQv2iTPv5) | 2:55 |
+| 26 | [Golden State](https://open.spotify.com/track/0WRZuBaMDMw7qmwBeqX1jI) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Golden State](https://open.spotify.com/album/5bPmTN4p8RGeQjQv2iTPv5) | 2:55 |
+| 27 | [Voices Above](https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Archila](https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh) | [Voices Above](https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW) | 3:10 |
 | 28 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 |
 | 29 | [Elamy](https://open.spotify.com/track/6jdaBz780wecXanS9elu68) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Elamy](https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6) | 4:38 |
 | 30 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 41 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
 | 42 | [Untold](https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk) | 6:42 |
 | 43 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
-| 44 | [Give It 2 Me](https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx) | [Michael Feel & Aleco](https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni) | [Give It 2 Me](https://open.spotify.com/album/5DBn0yHAfqjKtIaENF0CJR) | 4:11 |
-| 45 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
+| 44 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
+| 45 | [Give It 2 Me](https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx) | [Michael Feel & Aleco](https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni) | [Give It 2 Me](https://open.spotify.com/album/5DBn0yHAfqjKtIaENF0CJR) | 4:11 |
 | 46 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 |
 | 47 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
 | 48 | [Haute Definition](https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Dissidænce Episode 1](https://open.spotify.com/album/3x4w1TdlWi3d81ibVmR4Lj) | 3:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [The Gates Of Babylonia](https://open.spotify.com/track/4JaCQuCXKEMo3jVDql5pqY) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [The Gates Of Babylonia](https://open.spotify.com/album/1WWuZ6jS4s45506fTQll3h) | 6:29 |
 | 70 | [Liquid Fantasy](https://open.spotify.com/track/6CiW8ZvZQYHyCdKsfYeJYL) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Vicky Who?](https://open.spotify.com/artist/0fj8NKbvzFH5LxS1h7Yr5I) | [Universo](https://open.spotify.com/album/6myGAZHh7d3FbQUFHnN9WT) | 5:30 |
 
-Snapshot ID: `MCwyZmQxMGQ5NTk0NmFiMDA0NzNiOWJmNWMxYjdlOWViMDFjOTY2YTNl`
+Snapshot ID: `MCw4NjkyNGIxZTUxOTYzYzNkYWM5MmRlNWRhYjVjNDRjMjAxY2ZkYWQ5`

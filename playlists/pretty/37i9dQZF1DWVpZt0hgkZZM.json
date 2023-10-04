@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 23430,
+  "num_followers": 23457,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWI4MDZmOWY0NjJjYzQzNTQ4OThmODU4YTM4NTU0MjkzZTQ5MGVi",
+  "snapshot_id": "MCxhMTBmNjU3Y2UyMDQxMjI3MWFiNjJiNmQ1NGI2NzM4MDM4YmJjNzY2",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+        "name": "Los Dos Inseparables",
+        "url": "https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D"
       },
       "artists": [
         {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        },
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
         }
       ],
-      "duration_ms": 264800,
-      "name": "Te Voy a Hacer Falta",
-      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
+      "duration_ms": 176533,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1283,22 +1287,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Los Dos Inseparables",
-        "url": "https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D"
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
       },
       "artists": [
         {
-          "name": "Alfredo Gutierrez",
-          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
-        },
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
         }
       ],
-      "duration_ms": 176533,
-      "name": "Anhelos",
-      "url": "https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J"
+      "duration_ms": 264800,
+      "name": "Te Voy a Hacer Falta",
+      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/5zrHyuF84953CZ1PLwTQeb"
+      },
+      "artists": [
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        },
+        {
+          "name": "Gustavo Quintero",
+          "url": "https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn"
+        }
+      ],
+      "duration_ms": 176509,
+      "name": "Fantas\u00eda Nocturna",
+      "url": "https://open.spotify.com/track/2tcv4KCa1jPl0DuOm5pkJv"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "El Mejor Int\u00e9rprete Tropical - 16 Exitos",
         "url": "https://open.spotify.com/album/5Hix3j0dTfiiRIcgGBp7yD"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 283103,
       "name": "muero por verla luis mateus vallenato",
       "url": "https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "De Pel\u00edcula",
-        "url": "https://open.spotify.com/album/5zrHyuF84953CZ1PLwTQeb"
-      },
-      "artists": [
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        },
-        {
-          "name": "Gustavo Quintero",
-          "url": "https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn"
-        }
-      ],
-      "duration_ms": 176509,
-      "name": "Fantas\u00eda Nocturna",
-      "url": "https://open.spotify.com/track/2tcv4KCa1jPl0DuOm5pkJv"
     },
     {
       "added_at": "2021-12-16 22:41:17",

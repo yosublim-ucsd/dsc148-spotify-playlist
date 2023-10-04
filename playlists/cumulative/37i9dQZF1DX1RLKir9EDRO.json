@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Ah Bebe\u011fim",
+        "url": "https://open.spotify.com/album/3pfr0vIporwrZ87fygkrxH"
+      },
+      "artists": [
+        {
+          "name": "Cavlas",
+          "url": "https://open.spotify.com/artist/0ZZtPjnzPZQ07whvWAIMo6"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189428,
+      "name": "Ah Bebe\u011fim",
+      "url": "https://open.spotify.com/track/3pOFjvC3NrodCMS7ozjZ7D"
+    },
+    {
+      "album": {
         "name": "Ah Ne G\u00fczel R\u00fcya",
         "url": "https://open.spotify.com/album/2AySgvWbixjnEcO7GMIt5J"
       },
@@ -502,7 +520,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 197922,
       "name": "Aynalar",
       "url": "https://open.spotify.com/track/2F86YQMC3MiJJ70qncP2Ft"
@@ -780,7 +798,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 149330,
       "name": "Baz\u0131 \u015eeyler",
       "url": "https://open.spotify.com/track/5HQFbT4XIxJTfieteuGo4p"
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 196901,
       "name": "FINE (not a love song)",
       "url": "https://open.spotify.com/track/5DD4s2p3m5exMH6eTiYONa"
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 250000,
       "name": "Ger\u00e7e\u011fin En Sert Tonu",
       "url": "https://open.spotify.com/track/7bVPRuW29YGFrzLm5drgE4"
@@ -3220,7 +3238,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 165046,
       "name": "G\u00fcc\u00fc Yeter Mi",
       "url": "https://open.spotify.com/track/5qBntkfunUllNgFhR6Vkkj"
@@ -3322,7 +3340,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 220327,
       "name": "G\u00fcne\u015f Orada",
       "url": "https://open.spotify.com/track/3IvkjdMs1QxWUlSLvD2mz5"
@@ -4120,7 +4138,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 198634,
       "name": "kalabal\u0131kt\u0131 kalbin",
       "url": "https://open.spotify.com/track/5ijrMAQtIwG4HapjmmdAPN"
@@ -5014,7 +5032,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 193933,
       "name": "Meftun",
       "url": "https://open.spotify.com/track/1BIAVFZmpArxk44rK22X0f"
@@ -5104,7 +5122,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 235602,
       "name": "Minik Bir Yolculuk",
       "url": "https://open.spotify.com/track/7EumJHp1y07LhEKuyE0QHq"
@@ -5770,7 +5788,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 398500,
       "name": "Robo X1",
       "url": "https://open.spotify.com/track/3QG0D5YCQyPlTaWuRBjqoo"
@@ -6004,7 +6022,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 263806,
       "name": "Safsata d\u00fcnya",
       "url": "https://open.spotify.com/track/19LuC8J2e2nosy6BdP5nz2"
@@ -6552,7 +6570,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 187792,
       "name": "Seninleyim Asl\u0131nda",
       "url": "https://open.spotify.com/track/4Nl1lmMye40zLFORAq1aUF"
@@ -7714,6 +7732,24 @@
       "duration_ms": 210653,
       "name": "Yar\u0131 Yolda",
       "url": "https://open.spotify.com/track/5KrypVUfRGEDkcPnHetixV"
+    },
+    {
+      "album": {
+        "name": "Yasemin",
+        "url": "https://open.spotify.com/album/5BNDr1n4pICYYPD204OWVD"
+      },
+      "artists": [
+        {
+          "name": "Frapan",
+          "url": "https://open.spotify.com/artist/7ykkGTwXWbWwBVjV3C4Bx4"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Yasemin",
+      "url": "https://open.spotify.com/track/1TJ6Ve4ddV3oE6LPidhACl"
     },
     {
       "album": {

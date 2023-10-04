@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. Cover: The Linda Lindas",
-  "num_followers": 45512,
+  "num_followers": 45513,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzU2Nzg3Y2E2ZmU2NjZiMDY2NWY1OGU4ZWE3ZWRkMzJmMzBlYjky",
+  "snapshot_id": "MCwyMzM0NWViN2EwNTdmY2JiZWNkZGMxYjQ0MTQ3NTQ3MmM1ZTM0NzRk",
   "tracks": [
     {
       "added_at": "2022-11-09 11:58:09",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 260560,
-      "name": "My December",
-      "url": "https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "McCartney II (Special Edition)",
         "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 260560,
+      "name": "My December",
+      "url": "https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -187,18 +187,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Rock",
-        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+        "name": "Nightmare Revisited",
+        "url": "https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 188031,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c"
+      "duration_ms": 206280,
+      "name": "Making Christmas",
+      "url": "https://open.spotify.com/track/3NgApo4U2gMHh0TKXntZRq"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Christmas Rock",
+        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 188031,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 207000,
       "name": "This Christmas (I'll Burn It To The Ground)",
       "url": "https://open.spotify.com/track/4lc26OWTRFdEZediB0picq"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Nightmare Revisited",
-        "url": "https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Making Christmas",
-      "url": "https://open.spotify.com/track/3NgApo4U2gMHh0TKXntZRq"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -329,20 +329,20 @@
       "url": "https://open.spotify.com/track/6VV8EboIsnmgv8Yy11g6Ww"
     },
     {
-      "added_at": "2022-11-18 01:09:25",
+      "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Merry Spidey Christmas (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
-        "url": "https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB"
+        "name": "Happy Skalidays",
+        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
       },
       "artists": [
         {
-          "name": "Patrick Stump",
-          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
         }
       ],
-      "duration_ms": 126144,
-      "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
-      "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
+      "duration_ms": 182286,
+      "name": "Grandma Got Run Over By A Reindeer",
+      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 182286,
-      "name": "Grandma Got Run Over By A Reindeer",
-      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "The World Is In Your Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 214733,
       "name": "This Holiday",
       "url": "https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx"
+    },
+    {
+      "added_at": "2022-11-18 01:09:25",
+      "album": {
+        "name": "Merry Spidey Christmas (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
+        "url": "https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        }
+      ],
+      "duration_ms": 126144,
+      "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
+      "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1199,22 +1199,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Calling",
-        "url": "https://open.spotify.com/album/3dxUAJGxReRRdWdDGze7EL"
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv"
       },
       "artists": [
         {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
-        },
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
         }
       ],
-      "duration_ms": 234893,
-      "name": "Things I Want",
-      "url": "https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c"
+      "duration_ms": 121931,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS"
     }
   ],
   "unique_name": "Punk Christmas",

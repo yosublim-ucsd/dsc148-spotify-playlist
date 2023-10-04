@@ -1,12 +1,12 @@
 {
   "description": "Mantras for meditation",
-  "num_followers": 175239,
+  "num_followers": 175384,
   "original_name": "Magical Mantras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTViYWNlMjIyMDg3NTY2NGUyN2Y3ZGFiNmNjMjFkMWQzYTRmNTQ3",
+  "snapshot_id": "MCw5ZjkwMTJiMTE5N2ViM2Q4ZTA5NzcwYThhN2VmMTVlMDZhYTg1NTMx",
   "tracks": [
     {
       "added_at": "2023-09-15 04:57:02",
@@ -260,12 +260,20 @@
       },
       "artists": [
         {
+          "name": "Vibhuti Vaity",
+          "url": "https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx"
+        },
+        {
           "name": "Rajshree Agarwal",
           "url": "https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C"
+        },
+        {
+          "name": "Abhinay Jain",
+          "url": "https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW"
         }
       ],
       "duration_ms": 2210484,
-      "name": "Gayatri Mantra",
+      "name": "Gayatri Mantra (108 Times)",
       "url": "https://open.spotify.com/track/5PFiiReo58SGPeKfEnRuc8"
     },
     {

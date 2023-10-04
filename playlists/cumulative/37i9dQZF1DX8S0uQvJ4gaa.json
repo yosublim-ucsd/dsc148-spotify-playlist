@@ -14162,10 +14162,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 161103,
       "name": "I Know A Guy",
       "url": "https://open.spotify.com/track/2wAavjh84cV0tH4Pbcz0EF"
+    },
+    {
+      "album": {
+        "name": "Side Effects Of The Heart",
+        "url": "https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK"
+      },
+      "artists": [
+        {
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161103,
+      "name": "I Know A Guy",
+      "url": "https://open.spotify.com/track/6LCY0s8iDoooe8eMkdEQMu"
     },
     {
       "album": {

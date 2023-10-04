@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,347 likes - 124 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,383 likes - 124 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 123 | [We Wonder](https://open.spotify.com/track/722UjaEjoA9IeiHvEXrE5N) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [We Wonder](https://open.spotify.com/album/3JIEf7Gw6toZP3YOHZwAmC) | 2:08 |
 | 124 | [Change](https://open.spotify.com/track/09wXdnNxg0U2owlGzrWghJ) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:25 |
 
-Snapshot ID: `MCwzODQyMjc5NmE3MDk3MGU4NTBiOWQ2YWQ5MzU2YmVkZWZiZGRiZTQz`
+Snapshot ID: `MCxhZWMyYjY4NWY5MjU1NTU0ZTA2OTgxODI3YjBiOGEyMzIwYjAxYjkx`

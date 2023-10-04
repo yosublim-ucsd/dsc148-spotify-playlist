@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 43102,
+  "num_followers": 43149,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjljYmFmOWExNTdlZjg3OTBhZmI4NGM5YWYxNjBkMGVkZDdiYjM4",
+  "snapshot_id": "MCxjYTEzMTAxYzY5NDdkNDcxMWZiZGExMzNkYzI5NzNmMDE0ZDJmZDI2",
   "tracks": [
     {
       "added_at": "2023-09-22 11:18:45",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Warm Valley",
-      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 260690,
       "name": "Tammy's Song",
       "url": "https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Warm Valley",
+      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
+        "name": "Gloomy Sunday",
+        "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor Trio",
+          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+        }
+      ],
+      "duration_ms": 193256,
+      "name": "Gloomy Sunday",
+      "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
         "name": "Blueberry Street",
         "url": "https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Daydreams",
-        "url": "https://open.spotify.com/album/4BtSurjJ5AKBGfNk1Tuav9"
-      },
-      "artists": [
-        {
-          "name": "Nelly Vernon",
-          "url": "https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS"
-        }
-      ],
-      "duration_ms": 204696,
-      "name": "Daydreams",
-      "url": "https://open.spotify.com/track/3DZ0VT9Cnl9P2kj5rEGske"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Hidden Beauty",
         "url": "https://open.spotify.com/album/5gCvaaa6Kg8iimNzKMcyrF"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Gloomy Sunday",
-        "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/4BtSurjJ5AKBGfNk1Tuav9"
       },
       "artists": [
         {
-          "name": "Alec Taylor Trio",
-          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+          "name": "Nelly Vernon",
+          "url": "https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS"
         }
       ],
-      "duration_ms": 193256,
-      "name": "Gloomy Sunday",
-      "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
+      "duration_ms": 204696,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/3DZ0VT9Cnl9P2kj5rEGske"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Gnostic",
-        "url": "https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis"
-      },
-      "artists": [
-        {
-          "name": "Heine Hansen",
-          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
-        }
-      ],
-      "duration_ms": 216614,
-      "name": "Gnostic",
-      "url": "https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Within a Dream",
         "url": "https://open.spotify.com/album/77u6sL9mxKm3uDqnMX6XV4"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 320957,
       "name": "Pour It Out",
       "url": "https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Gnostic",
+        "url": "https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis"
+      },
+      "artists": [
+        {
+          "name": "Heine Hansen",
+          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
+        }
+      ],
+      "duration_ms": 216614,
+      "name": "Gnostic",
+      "url": "https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "The Melody At Night, With You",
-        "url": "https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 426000,
-      "name": "I Got It Bad And That Ain't Good",
-      "url": "https://open.spotify.com/track/6ZvxoSCkod7ABm7DFvFkX6"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 208606,
       "name": "Searching",
       "url": "https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "The Melody At Night, With You",
+        "url": "https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 426000,
+      "name": "I Got It Bad And That Ain't Good",
+      "url": "https://open.spotify.com/track/6ZvxoSCkod7ABm7DFvFkX6"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Soul Dancer",
-        "url": "https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs"
-      },
-      "artists": [
-        {
-          "name": "The Groove Trio",
-          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
-        }
-      ],
-      "duration_ms": 202802,
-      "name": "Morning Thoughts",
-      "url": "https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Blue Romance",
         "url": "https://open.spotify.com/album/1SgyP8odpNQGFuRojV3XEH"
       },
@@ -1275,6 +1259,38 @@
       "duration_ms": 206490,
       "name": "Une Histoire Flamande",
       "url": "https://open.spotify.com/track/0gbrsvaa2jjGBPaDCjBaIw"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Soul Dancer",
+        "url": "https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "duration_ms": 202802,
+      "name": "Morning Thoughts",
+      "url": "https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Think about that",
+        "url": "https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "duration_ms": 166057,
+      "name": "Think about that",
+      "url": "https://open.spotify.com/track/36hGg9XIlY2jlLdQSclabi"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Think about that",
-        "url": "https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9"
+        "name": "Quiet Time",
+        "url": "https://open.spotify.com/album/63C4QvQD10U2tUBfgu2xxT"
       },
       "artists": [
         {
-          "name": "Bruce Willmington & Co",
-          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+          "name": "John Brown",
+          "url": "https://open.spotify.com/artist/7ajJigdOxmHkfWdvLVABN5"
         }
       ],
-      "duration_ms": 166057,
-      "name": "Think about that",
-      "url": "https://open.spotify.com/track/36hGg9XIlY2jlLdQSclabi"
+      "duration_ms": 492933,
+      "name": "When October Goes",
+      "url": "https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1351,22 +1367,6 @@
       "duration_ms": 790920,
       "name": "I've Been Here Before - Special Edition",
       "url": "https://open.spotify.com/track/2Guj4HKiwv4P9F2N1rpeWL"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
-        "name": "Quiet Time",
-        "url": "https://open.spotify.com/album/63C4QvQD10U2tUBfgu2xxT"
-      },
-      "artists": [
-        {
-          "name": "John Brown",
-          "url": "https://open.spotify.com/artist/7ajJigdOxmHkfWdvLVABN5"
-        }
-      ],
-      "duration_ms": 492933,
-      "name": "When October Goes",
-      "url": "https://open.spotify.com/track/56vJJaNAgZFqYOZg3d0z27"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Some Love Songs",
-        "url": "https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB"
-      },
-      "artists": [
-        {
-          "name": "Marc Copland",
-          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
-        },
-        {
-          "name": "Drew Gress",
-          "url": "https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK"
-        },
-        {
-          "name": "Jochen Rueckert",
-          "url": "https://open.spotify.com/artist/63u4hpQvFiSrFUdrd6g2eV"
-        }
-      ],
-      "duration_ms": 473680,
-      "name": "Spartacus Love Theme",
-      "url": "https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Yesterdays",
         "url": "https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX"
       },
@@ -1463,6 +1439,30 @@
       "duration_ms": 475213,
       "name": "You've Changed - Live",
       "url": "https://open.spotify.com/track/7HleoJP6ECvm5m7AJBDwgT"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Some Love Songs",
+        "url": "https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB"
+      },
+      "artists": [
+        {
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+        },
+        {
+          "name": "Drew Gress",
+          "url": "https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK"
+        },
+        {
+          "name": "Jochen Rueckert",
+          "url": "https://open.spotify.com/artist/63u4hpQvFiSrFUdrd6g2eV"
+        }
+      ],
+      "duration_ms": 473680,
+      "name": "Spartacus Love Theme",
+      "url": "https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Aesthete",
-        "url": "https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q"
-      },
-      "artists": [
-        {
-          "name": "Billy Hicks Quartet",
-          "url": "https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5"
-        }
-      ],
-      "duration_ms": 222459,
-      "name": "Aesthete",
-      "url": "https://open.spotify.com/track/0oJWmWozI8Hgn9kxkv6vaL"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Red Garland Revisited!",
         "url": "https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 335533,
       "name": "You Keep Coming Back Like A Song",
       "url": "https://open.spotify.com/track/7G0wlQpJ1CEwvhrP6W3kQU"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Aesthete",
+        "url": "https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q"
+      },
+      "artists": [
+        {
+          "name": "Billy Hicks Quartet",
+          "url": "https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5"
+        }
+      ],
+      "duration_ms": 222459,
+      "name": "Aesthete",
+      "url": "https://open.spotify.com/track/0oJWmWozI8Hgn9kxkv6vaL"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
+        "name": "Ben Webster Plays Ballads Remastered",
+        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 466568,
+      "name": "For Heavens Sake - Remastered",
+      "url": "https://open.spotify.com/track/142HC0KR9g0jmmGtwJJAKv"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
         "name": "Some Love Songs",
         "url": "https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 390013,
       "name": "Rainy Night House",
       "url": "https://open.spotify.com/track/1D3IkH8577BH4Erx2vHYUu"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
-        "name": "Ben Webster Plays Ballads Remastered",
-        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 466568,
-      "name": "For Heavens Sake - Remastered",
-      "url": "https://open.spotify.com/track/142HC0KR9g0jmmGtwJJAKv"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
+        "name": "Standard Time Vol. 2: Intimacy Calling",
+        "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "The End Of A Love Affair",
+      "url": "https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
         "name": "Simplicitas",
         "url": "https://open.spotify.com/album/5u282HONP3k3BSzLNZkCBA"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 308453,
       "name": "Simplicity",
       "url": "https://open.spotify.com/track/0AEBs3sZ492afceldzJzF0"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
-        "name": "Standard Time Vol. 2: Intimacy Calling",
-        "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "The End Of A Love Affair",
-      "url": "https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
+        "name": "Diamond In The Rough",
+        "url": "https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 370533,
+      "name": "Easy To Remember",
+      "url": "https://open.spotify.com/track/6gW8WmLAWrjH857ZxVBrxK"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
         "name": "The Time is Now",
         "url": "https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 467236,
       "name": "In a Sentimental Mood",
       "url": "https://open.spotify.com/track/0fv2YFvTsKNLK0X7PNvXqM"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
-        "name": "Diamond In The Rough",
-        "url": "https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 370533,
-      "name": "Easy To Remember",
-      "url": "https://open.spotify.com/track/6gW8WmLAWrjH857ZxVBrxK"
     },
     {
       "added_at": "2023-09-22 11:18:45",

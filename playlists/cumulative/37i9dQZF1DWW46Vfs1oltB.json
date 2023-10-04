@@ -11303,6 +11303,24 @@
     },
     {
       "album": {
+        "name": "LIBERATION",
+        "url": "https://open.spotify.com/album/5U3i7JRnUKtJqylZfFpTXh"
+      },
+      "artists": [
+        {
+          "name": "Skyminhyuk",
+          "url": "https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212775,
+      "name": "LIBERATION",
+      "url": "https://open.spotify.com/track/2mOJ1t5pfeZFfUeUbrNhf9"
+    },
+    {
+      "album": {
         "name": "LIE (feat. 24hrs)",
         "url": "https://open.spotify.com/album/3jMOeq7cZkOT1xqEtADEYX"
       },

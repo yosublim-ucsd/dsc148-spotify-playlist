@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-1,170 songs - 2 day 16 hr 33 min
+1,172 songs - 2 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -870,7 +870,7 @@
 | [Rich Porter](https://open.spotify.com/track/7nLzZI0e9ngvaNDqLF7Z8c) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:23 | 2023-07-01 | 2023-07-07 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-19 |
 | [Riez](https://open.spotify.com/track/4R0voYthb1112JJiUCeyBA) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:21 | 2022-03-05 | 2022-03-18 |
-| [Rihanna](https://open.spotify.com/track/1EZ2n0TQxwNkTjSkKoW7WX) | [Camille](https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs) | [Magie](https://open.spotify.com/album/3yQLlokzePpTGRzYivm5RE) | 3:02 | 2023-08-26 |  |
+| [Rihanna](https://open.spotify.com/track/1EZ2n0TQxwNkTjSkKoW7WX) | [Camille](https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs) | [Magie](https://open.spotify.com/album/3yQLlokzePpTGRzYivm5RE) | 3:02 | 2023-08-26 | 2023-10-04 |
 | [Rihanna](https://open.spotify.com/track/3JMLaFMnRMFnBv9sbotjBS) | [Camille](https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs) | [Rihanna](https://open.spotify.com/album/4iH8v5OvKCCHLA4oeLSlu0) | 3:02 | 2023-05-18 | 2023-08-27 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2023-06-06 |  |
 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 | 2022-12-30 | 2023-06-07 |
@@ -997,6 +997,7 @@
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-09-15 | 2023-01-16 |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-27 |
 | [T\-max 560](https://open.spotify.com/track/3t3ffqI2DxrrAawarNtwGw) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:58 | 2021-11-28 | 2021-11-28 |
+| [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 | 2023-10-03 |  |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-11-21 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |
@@ -1026,6 +1027,7 @@
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-10-10 | 2023-01-22 |
 | [THE LONELIEST](https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 4:07 | 2023-01-21 | 2023-06-03 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-12-28 | 2022-08-08 |
+| [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-10-03 |  |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2022-08-07 | 2022-08-13 |
 | [The Wrong Place](https://open.spotify.com/track/6riWD7fUly0edv1gUZaguM) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [Hidden Stories](https://open.spotify.com/album/0hLdIt0UanXnwLrRJPgjIa) | 2:56 | 2021-05-21 | 2021-06-05 |
 | [Therapie](https://open.spotify.com/track/323zcUSa2qrq0aUAwL30sT) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Therapie](https://open.spotify.com/album/7K56y28CXxhIvGI2MKcHIO) | 3:01 | 2023-01-31 | 2023-02-02 |
@@ -1100,7 +1102,7 @@
 | [Was Er Nooit](https://open.spotify.com/track/4braSYttpuk18fJZ7YQWBj) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Was Er Nooit](https://open.spotify.com/album/0UPzl3G2bGzMwJE7O5qaPt) | 3:15 | 2022-01-22 | 2022-01-29 |
 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 | 2021-04-02 | 2021-10-05 |
 | [Wat Een Idee!?](https://open.spotify.com/track/5T6gL9FrOwD6bNYFsy4twf) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Wat Een Idee!?](https://open.spotify.com/album/5ZcVyE0CK31wXs4Tr1NeN8) | 2:56 | 2022-09-16 | 2022-10-22 |
-| [Wat Wil Je Van Mij](https://open.spotify.com/track/09PxIJHtAlqOKV6aPci5B1) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Joris](https://open.spotify.com/album/7nqav22eDtbEci6zCr4wQL) | 3:19 | 2023-09-30 |  |
+| [Wat Wil Je Van Mij](https://open.spotify.com/track/09PxIJHtAlqOKV6aPci5B1) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Joris](https://open.spotify.com/album/7nqav22eDtbEci6zCr4wQL) | 3:19 | 2023-09-30 | 2023-10-04 |
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/5kUWt2aSUlU911bG7oqkqh) | 3:19 | 2023-06-06 | 2023-07-22 |
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/7Gzz44FpTbZu0DNVVZjwPs) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/1y7MAbKaVkvR7G8FkaA1ju) | 3:19 | 2022-11-22 | 2023-06-07 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-29 |  |

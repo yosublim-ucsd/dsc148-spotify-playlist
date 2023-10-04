@@ -1333,6 +1333,32 @@
     },
     {
       "album": {
+        "name": "RIDE OR DIE",
+        "url": "https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189855,
+      "name": "RIDE OR DIE",
+      "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
+    },
+    {
+      "album": {
         "name": "Robotic Arms",
         "url": "https://open.spotify.com/album/1znZNepyc0BEmAqyhPXTUR"
       },
@@ -1748,7 +1774,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Azevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,548 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,590 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 6 | [KEN ELAS QUER](https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [KEN ELAS QUER](https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL) | 2:01 |
 | 7 | [Putaria e Crime](https://open.spotify.com/track/2awdtqbbFJ5CxjvguMmsQ9) | [Lil Kid 777](https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [Putaria e Crime](https://open.spotify.com/album/2IfBTEVy0MXIPMcmFwXgnt) | 3:22 |
 | 8 | [Minha História \(As Respostas\)](https://open.spotify.com/track/3KCozDZaYfEAved8Uofo1Y) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Apesar De Você \(Mixtape\)](https://open.spotify.com/album/4hEwNsdQMT8r1ue2X4KMDX) | 2:12 |
-| 9 | [Pecado](https://open.spotify.com/track/3ODPKhAqR0QHIkuzl7NU2V) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Prodígio](https://open.spotify.com/artist/6BEwA8tWhsWd3pDLUSr26E) | [Pecado](https://open.spotify.com/album/5OjeVy0AAmKk5I8dNa8TKV) | 3:05 |
+| 9 | [Pecado](https://open.spotify.com/track/3ODPKhAqR0QHIkuzl7NU2V) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5) | [Pecado](https://open.spotify.com/album/5OjeVy0AAmKk5I8dNa8TKV) | 3:05 |
 | 10 | [Lucros](https://open.spotify.com/track/0tkrKLhu6L00nxbfYq3qYH) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Andy](https://open.spotify.com/artist/3IHfZEC6zpFC24Ox8T8Q3G), [Duarte D.A.T](https://open.spotify.com/artist/0jxleHFjX2N8LxSDZ1vvlM), [moyb](https://open.spotify.com/artist/4mWQPyioqqqZ9Lw4NX0GNg) | [Lucros](https://open.spotify.com/album/3OX21AX4IzunltSlTOOqAU) | 3:08 |
 | 11 | [Ego](https://open.spotify.com/track/01vSUhe8NcmCqeqXst8Dc5) | [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH) | [Ego](https://open.spotify.com/album/49htqGsKUzlDWeQV0UZ8Sj) | 2:40 |
 | 12 | [Conga La Conga](https://open.spotify.com/track/6H3oPXa5AtznVvrc3i56Gj) | [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Tavin](https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw), [Lil Vi](https://open.spotify.com/artist/3oFi6HudKNWBVYh04VxmiB) | [Conga La Conga](https://open.spotify.com/album/1RgwD3nM2CWteqTTmnNQWA) | 2:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Putaria e Muita Rima](https://open.spotify.com/track/2s51xgrfLjp0rI6ibbU8Nu) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B) | [Putaria e Muita Rima](https://open.spotify.com/album/1P8AHNOfhxcuvtirayw2DM) | 2:05 |
 | 75 | [Muda o Clima](https://open.spotify.com/track/5rRiLKbeO2Lb6FeId5eERS) | [UF GANG](https://open.spotify.com/artist/4yIsCbR2dnX4UbeAy1UDp3), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Muda o Clima](https://open.spotify.com/album/7hWHZGvxbVWN8tbxZJv3rr) | 2:30 |
 
-Snapshot ID: `MCxhODlhYTZlNmRkNWYyMjMxZDU1MTAwZDIyYWNmOWM4YmM5NjczYmE5`
+Snapshot ID: `MCxiZTRjZGNjNzgyNjM1NDU0ZjMwNWFjOWM0MTMzYzE5YmNiODM0MWEx`

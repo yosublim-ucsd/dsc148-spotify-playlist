@@ -1,12 +1,12 @@
 {
   "description": "New music from Sum 41, Ed Sheeran, PinkPantheress, William Prince and more.",
-  "num_followers": 349569,
+  "num_followers": 349618,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmRiMTU5ZGEzYjFiMTljZWZiNmQ0M2IzZmExM2M3OWQzY2QwYmE3",
+  "snapshot_id": "MCxjZTJjZjBjNjMxOGNlMWQxMDY5YjdlZWM5ZDFiNjVmMzliMGQyYmMw",
   "tracks": [
     {
       "added_at": "2023-09-29 04:07:37",
@@ -1554,6 +1554,10 @@
         {
           "name": "Nikki Jayy",
           "url": "https://open.spotify.com/artist/4MONW063BePUr0702vTw6c"
+        },
+        {
+          "name": "Supa Cindy",
+          "url": "https://open.spotify.com/artist/22e8seQKsb34z8dW26bG5P"
         }
       ],
       "duration_ms": 147961,
@@ -1746,6 +1750,10 @@
         {
           "name": "Versvs",
           "url": "https://open.spotify.com/artist/6XUsxNud8j33iC6AS8iHbK"
+        },
+        {
+          "name": "Bella Espo",
+          "url": "https://open.spotify.com/artist/7wJFRjIiHMLUrXwfVRG8cb"
         }
       ],
       "duration_ms": 176898,

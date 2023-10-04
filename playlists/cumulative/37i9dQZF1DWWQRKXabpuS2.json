@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 196291,
       "name": "Hawah Al Galb",
       "url": "https://open.spotify.com/track/5BlZZscTZ3xbYVPbvqYOK2"
@@ -3541,6 +3541,28 @@
     },
     {
       "album": {
+        "name": "Waqaf Lahfatk",
+        "url": "https://open.spotify.com/album/5NMIcwpKdjL2ZlcahGjsOI"
+      },
+      "artists": [
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        },
+        {
+          "name": "Methan",
+          "url": "https://open.spotify.com/artist/5IsaX1fHYyxc6xcFee6JTC"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284946,
+      "name": "Waqaf Lahfatk",
+      "url": "https://open.spotify.com/track/3GOvsMkufURsrN48DNa9pq"
+    },
+    {
+      "album": {
         "name": "Wayn Ma Wayn",
         "url": "https://open.spotify.com/album/527Um3zJpKjclamlE7OGuS"
       },
@@ -4301,6 +4323,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u0623\u0631\u0636",
+        "url": "https://open.spotify.com/album/3qtM8m7WDIl4lhrmKjCMTp"
+      },
+      "artists": [
+        {
+          "name": "Nawal El Kuwaitia",
+          "url": "https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217941,
+      "name": "\u0632\u064a\u0646\u0629 \u0623\u064a\u0627\u0645\u064a",
+      "url": "https://open.spotify.com/track/1mPzk2rv2swdE6zIlAtphM"
+    },
+    {
+      "album": {
         "name": "\u0632\u064a\u0646\u0629 \u0623\u064a\u0627\u0645\u064a",
         "url": "https://open.spotify.com/album/4Xq6qnOSBMLA7MESvKNk8u"
       },
@@ -4330,7 +4370,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 217941,
       "name": "\u0632\u064a\u0646\u0629 \u0623\u064a\u0627\u0645\u064a",
       "url": "https://open.spotify.com/track/77F0ZkjCzh3B2ASgfu9okX"
@@ -4526,6 +4566,24 @@
     {
       "album": {
         "name": "\u0627\u0644\u0623\u0631\u0636",
+        "url": "https://open.spotify.com/album/3qtM8m7WDIl4lhrmKjCMTp"
+      },
+      "artists": [
+        {
+          "name": "Nawal El Kuwaitia",
+          "url": "https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288901,
+      "name": "\u0642\u0644\u0628 \u0646\u0627\u0633\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/6Z4kadPlbhC6nE5MxP8C81"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0623\u0631\u0636",
         "url": "https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X"
       },
       "artists": [
@@ -4536,28 +4594,10 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 288901,
       "name": "\u0642\u0644\u0628 \u0646\u0627\u0633\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/3JyFw5gHP8pxsudyl1kltg"
-    },
-    {
-      "album": {
-        "name": "\u0627\u0644\u0623\u0631\u0636",
-        "url": "https://open.spotify.com/album/3qtM8m7WDIl4lhrmKjCMTp"
-      },
-      "artists": [
-        {
-          "name": "\u0646\u0648\u0627\u0644 \u0627\u0644\u0643\u0648\u064a\u062a\u064a\u0629",
-          "url": "https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys"
-        }
-      ],
-      "date_added": "2023-09-30",
-      "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
-      "duration_ms": 288901,
-      "name": "\u0642\u0644\u0628 \u0646\u0627\u0633\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/6Z4kadPlbhC6nE5MxP8C81"
     },
     {
       "album": {

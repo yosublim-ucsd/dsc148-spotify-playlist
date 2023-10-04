@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 127696,
+  "num_followers": 127743,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzYxMDVlZGY2MzYzYzkwNjJkZTU4ZjM4NGQ3ZDg5MzZmYzAyYTI3",
+  "snapshot_id": "MCw1NzcxZjQ4ZDgyMTlmZTcwYmJlNTAxYzExMGU1MTgzM2U4ZmJiNGI2",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+        "name": "Premiers \u00e9mois",
+        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
         }
       ],
-      "duration_ms": 255826,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+      "duration_ms": 206546,
+      "name": "La femme \u00e0 la peau bleue",
+      "url": "https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Origami",
         "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 194082,
       "name": "Hano\u00ef caf\u00e9",
       "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Premiers \u00e9mois",
-        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "La femme \u00e0 la peau bleue",
-      "url": "https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
       },
       "artists": [
         {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
         }
       ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Akousmatikous",
-        "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
-      },
-      "artists": [
-        {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 152691,
-      "name": "Propaganda",
-      "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "froge.mp3",
         "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 195226,
       "name": "beachin",
       "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Akousmatikous",
+        "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 152691,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Illumination (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6xPginu4nk1mvQAAjRDPWE"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        }
-      ],
-      "duration_ms": 303406,
-      "name": "Emagination - B-Side",
-      "url": "https://open.spotify.com/track/5GsJF8HZsWlcLEkjEzVzLX"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Burning Bright",
-        "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
+        "name": "Illumination (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xPginu4nk1mvQAAjRDPWE"
       },
       "artists": [
         {
-          "name": "Cameo Culture",
-          "url": "https://open.spotify.com/artist/3jLyvqWaddIP7L5H9dT8Gh"
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
         }
       ],
-      "duration_ms": 304654,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
+      "duration_ms": 303406,
+      "name": "Emagination - B-Side",
+      "url": "https://open.spotify.com/track/5GsJF8HZsWlcLEkjEzVzLX"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -979,6 +963,22 @@
       "duration_ms": 165593,
       "name": "Black Catbird",
       "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Burning Bright",
+        "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
+      },
+      "artists": [
+        {
+          "name": "Cameo Culture",
+          "url": "https://open.spotify.com/artist/3jLyvqWaddIP7L5H9dT8Gh"
+        }
+      ],
+      "duration_ms": 304654,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Cabrioli",
+        "url": "https://open.spotify.com/album/4FoTTiKaTZXbweALMqZoBK"
+      },
+      "artists": [
+        {
+          "name": "Moussa",
+          "url": "https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS"
+        }
+      ],
+      "duration_ms": 152631,
+      "name": "Cabrioli",
+      "url": "https://open.spotify.com/track/1wQdNXLp8XhQ0p0uG5ZRDD"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Passion (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
       },
@@ -1143,34 +1159,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Cabrioli",
-        "url": "https://open.spotify.com/album/4FoTTiKaTZXbweALMqZoBK"
+        "name": "How can I",
+        "url": "https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD"
       },
       "artists": [
         {
-          "name": "Moussa",
-          "url": "https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS"
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
         }
       ],
-      "duration_ms": 152631,
-      "name": "Cabrioli",
-      "url": "https://open.spotify.com/track/1wQdNXLp8XhQ0p0uG5ZRDD"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "On the Cloud",
-        "url": "https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG"
-      },
-      "artists": [
-        {
-          "name": "DGHTR",
-          "url": "https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL"
-        }
-      ],
-      "duration_ms": 111272,
-      "name": "On The Cloud",
-      "url": "https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm"
+      "duration_ms": 245804,
+      "name": "Like this",
+      "url": "https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "How can I",
-        "url": "https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD"
+        "name": "On the Cloud",
+        "url": "https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG"
       },
       "artists": [
         {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+          "name": "DGHTR",
+          "url": "https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL"
         }
       ],
-      "duration_ms": 245804,
-      "name": "Like this",
-      "url": "https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57"
+      "duration_ms": 111272,
+      "name": "On The Cloud",
+      "url": "https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
-      },
-      "artists": [
-        {
-          "name": "Gary Luton",
-          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Discoman",
         "url": "https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
+      },
+      "artists": [
+        {
+          "name": "Gary Luton",
+          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Rain Check",
         "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 136618,
       "name": "Rain Check",
       "url": "https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1447,22 +1463,6 @@
       "duration_ms": 216104,
       "name": "Voyages",
       "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 274716,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Lost in Music",
+        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 208150,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Beige 70 (Domenique Dumont Bilingual Remix)",
         "url": "https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 262019,
       "name": "Beige 70 - Domenique Dumont Bilingual Remix",
       "url": "https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Mopedbart",
+        "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
+      },
+      "artists": [
+        {
+          "name": "Hubbabubbaklubb",
+          "url": "https://open.spotify.com/artist/7HgA0wYq2OBe9ac7awv1Jq"
+        }
+      ],
+      "duration_ms": 312200,
+      "name": "Mopedbart",
+      "url": "https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "El Sabor del Viejo Mar",
         "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 263265,
       "name": "El Sabor del Viejo Mar",
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Mopedbart",
-        "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
-      },
-      "artists": [
-        {
-          "name": "Hubbabubbaklubb",
-          "url": "https://open.spotify.com/artist/7HgA0wYq2OBe9ac7awv1Jq"
-        }
-      ],
-      "duration_ms": 312200,
-      "name": "Mopedbart",
-      "url": "https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Samba del Arenal",
+        "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Cinemar",
+          "url": "https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Samba del Arenal",
+      "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
       },
@@ -1795,22 +1815,6 @@
       "duration_ms": 451362,
       "name": "Girl",
       "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
-      },
-      "artists": [
-        {
-          "name": "Tab\u00fa",
-          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
-        }
-      ],
-      "duration_ms": 220038,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

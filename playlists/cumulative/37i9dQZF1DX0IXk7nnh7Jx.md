@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A?si=4c149014dd4c4245">King Kaleidoscope</a>
 
-388 songs - 23 hr 21 min
+389 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Good Morning](https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Good Morning](https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3) | 3:34 | 2023-02-19 | 2023-08-05 |
 | [Good Morning Mercy](https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Good Morning Mercy](https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc) | 3:10 | 2023-03-10 | 2023-08-05 |
 | [Goodbye Ole Me](https://open.spotify.com/track/0INmfgwSQHFbkvTBdlyAgU) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc) | 2:01 | 2023-02-24 | 2023-09-25 |
+| [Goodbye Ole Me](https://open.spotify.com/track/1bw0pKdQVY17dmevzVioKY) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj) | 2:01 | 2023-08-11 |  |
 | [Goodbye Ole Me](https://open.spotify.com/track/2Ia3J3KjBGuJpNv93YaoLk) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Goodbye Ole Me](https://open.spotify.com/album/4nFLk3fZUyo8CnQZ1FHKc2) | 2:01 | 2023-02-19 | 2023-03-23 |
 | [growing into my dreams](https://open.spotify.com/track/4GtT4W8Ze5bFJpxxy3m4Mh) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [growing into my dreams](https://open.spotify.com/album/1zN8J0Ci8C1k49ypLIzvfQ) | 2:05 | 2023-08-11 | 2023-08-14 |
 | [Growing Up](https://open.spotify.com/track/26AqRniqB19PZGLuvYFqUZ) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Growing Up](https://open.spotify.com/album/23IZW5PrpK26X2UeP3i2qX) | 3:35 | 2023-02-24 |  |
@@ -395,6 +396,6 @@
 | [You're Not Wrong](https://open.spotify.com/track/1Q1hqbcLkRJK5OZiT63WV6) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [Bryan Joy](https://open.spotify.com/artist/1z5D53u4OQEPLSqFdi1O2c) | [My Oasis](https://open.spotify.com/album/0Ykgrf8LPx5D6VRiR29kaU) | 4:55 | 2023-08-11 |  |
 | [You're Not Wrong](https://open.spotify.com/track/5GCwPUgd6FrFf8gMjoxc4r) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [Bryan Joy](https://open.spotify.com/artist/1z5D53u4OQEPLSqFdi1O2c) | [I Wonder](https://open.spotify.com/album/3yJL2ybKvMhxkQwq6YSc8M) | 4:55 | 2023-08-11 | 2023-09-18 |
 | [YOUR WILL](https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4) | [The Family Album](https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo) | 4:43 | 2023-02-19 |  |
-| [YOUTH \(spring\)](https://open.spotify.com/track/6sBTvNmPpHMKWYyjCdNwKj) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [YOUTH \(spring\)](https://open.spotify.com/album/2h54XJmowWRNrjGWIF2lo3) | 3:16 | 2023-02-24 |  |
+| [YOUTH \(spring\)](https://open.spotify.com/track/6sBTvNmPpHMKWYyjCdNwKj) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [YOUTH \(spring\)](https://open.spotify.com/album/2h54XJmowWRNrjGWIF2lo3) | 3:16 | 2023-02-24 | 2023-10-04 |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

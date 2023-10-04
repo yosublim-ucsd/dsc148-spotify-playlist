@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 166717,
+  "num_followers": 166808,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDAxY2QzZDM3OWM1OGZmYjhjNDZhYTU1ZjhkMjZlY2NmZThjNWY5",
+  "snapshot_id": "MCwwZTRmYmFkY2MyODk4ZDNiZDE3ZTM0Y2Y2M2UyZjQzZmExOTRlY2Iy",
   "tracks": [
     {
       "added_at": "2023-08-11 15:45:26",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/1kccKNibPNlyCVqhdg8NYE"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Designer",
@@ -307,6 +291,22 @@
       "duration_ms": 317453,
       "name": "Zoo Eyes",
       "url": "https://open.spotify.com/track/1FuiXO0j9DZh4uG5ywGNYL"
+    },
+    {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2022-08-31 04:34:22",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
+      "added_at": "2022-01-14 00:51:04",
+      "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Lawn",
+      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+    },
+    {
       "added_at": "2023-08-08 03:45:10",
       "album": {
         "name": "Highlight",
@@ -375,6 +391,22 @@
       "duration_ms": 197500,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
+    },
+    {
+      "added_at": "2021-10-15 03:46:13",
+      "album": {
+        "name": "Mouth Full of Glass",
+        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
+      },
+      "artists": [
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Garter Snake",
+      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2023-06-07 02:51:46",
@@ -403,22 +435,6 @@
       "duration_ms": 373714,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/5133gwoZONwiUL9LxKAmJt"
-    },
-    {
-      "added_at": "2021-10-15 03:46:13",
-      "album": {
-        "name": "Mouth Full of Glass",
-        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
-      },
-      "artists": [
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Garter Snake",
-      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2023-06-07 23:32:59",
@@ -469,22 +485,6 @@
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
-      "added_at": "2022-01-14 00:51:04",
-      "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Lawn",
-      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Mahi Mahi",
@@ -507,22 +507,6 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
-    },
-    {
-      "added_at": "2023-06-26 14:17:57",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2022-09-29 00:40:57",
@@ -557,6 +541,22 @@
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
+      "added_at": "2023-06-26 14:17:57",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "The Universe Is Always Right",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
     },
     {
-      "added_at": "2023-06-05 20:56:02",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu",
-      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
-    },
-    {
       "added_at": "2022-09-12 20:09:14",
       "album": {
         "name": "When the Lights Go",
@@ -603,6 +587,22 @@
       "duration_ms": 266962,
       "name": "Crosswalk",
       "url": "https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs"
+    },
+    {
+      "added_at": "2023-06-05 20:56:02",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu",
+      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
       "added_at": "2022-02-25 03:06:43",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Flock",
+        "url": "https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 301153,
+      "name": "The Revolution of Super Visions",
+      "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
+    },
+    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -697,22 +713,6 @@
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Flock",
-        "url": "https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 301153,
-      "name": "The Revolution of Super Visions",
-      "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
-    },
-    {
       "added_at": "2023-03-23 20:08:51",
       "album": {
         "name": "Ready To Ball",
@@ -727,6 +727,22 @@
       "duration_ms": 207484,
       "name": "Ready To Ball",
       "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
+    },
+    {
+      "added_at": "2023-05-22 18:30:22",
+      "album": {
+        "name": "Vandali / Stranidei",
+        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "duration_ms": 245520,
+      "name": "Stranidei",
+      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     },
     {
       "added_at": "2023-06-07 04:10:00",
@@ -745,20 +761,20 @@
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
-      "added_at": "2023-05-22 18:30:22",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Vandali / Stranidei",
-        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
+        "name": "Behind The Sun",
+        "url": "https://open.spotify.com/album/1eqCcJVmYCGqxKQxoKBbaJ"
       },
       "artists": [
         {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
         }
       ],
-      "duration_ms": 245520,
-      "name": "Stranidei",
-      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
+      "duration_ms": 209817,
+      "name": "Behind The Sun",
+      "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -779,22 +795,6 @@
       "duration_ms": 447453,
       "name": "Corner Of My Sky",
       "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Behind The Sun",
-        "url": "https://open.spotify.com/album/1eqCcJVmYCGqxKQxoKBbaJ"
-      },
-      "artists": [
-        {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
-        }
-      ],
-      "duration_ms": 209817,
-      "name": "Behind The Sun",
-      "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Life, and Another",
-        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
-      },
-      "artists": [
-        {
-          "name": "Mega Bog",
-          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
-        }
-      ],
-      "duration_ms": 265815,
-      "name": "Station to Station",
-      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
-    },
-    {
       "added_at": "2022-08-13 00:53:45",
       "album": {
         "name": "Go On",
@@ -983,6 +967,22 @@
       "duration_ms": 286640,
       "name": "Go On",
       "url": "https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Life, and Another",
+        "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
+      },
+      "artists": [
+        {
+          "name": "Mega Bog",
+          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
+        }
+      ],
+      "duration_ms": 265815,
+      "name": "Station to Station",
+      "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
       "added_at": "2022-08-31 05:00:32",
@@ -1313,6 +1313,22 @@
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
+      "added_at": "2023-06-02 00:41:12",
+      "album": {
+        "name": "Music For Film: Women Against The Bomb",
+        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
+      },
+      "artists": [
+        {
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
+    },
+    {
       "added_at": "2022-08-19 01:53:48",
       "album": {
         "name": "artclubdiscotheque",
@@ -1353,40 +1369,20 @@
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
-      "added_at": "2023-06-02 00:41:12",
+      "added_at": "2022-08-13 01:40:58",
       "album": {
-        "name": "Music For Film: Women Against The Bomb",
-        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
-      },
-      "artists": [
-        {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "It's In Our Hands",
-      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
-    },
-    {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
+        "name": "NIGHT CRAWLING",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
       },
       "artists": [
         {
           "name": "John Cale",
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
         }
       ],
-      "duration_ms": 315213,
-      "name": "I KNOW YOU'RE HAPPY",
-      "url": "https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr"
+      "duration_ms": 293706,
+      "name": "NIGHT CRAWLING",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1469,20 +1465,24 @@
       "url": "https://open.spotify.com/track/0QsQEgTZoi83rFri3jEKZt"
     },
     {
-      "added_at": "2022-08-13 01:40:58",
+      "added_at": "2023-01-20 04:21:17",
       "album": {
-        "name": "NIGHT CRAWLING",
-        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
       },
       "artists": [
         {
           "name": "John Cale",
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
         }
       ],
-      "duration_ms": 293706,
-      "name": "NIGHT CRAWLING",
-      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+      "duration_ms": 315213,
+      "name": "I KNOW YOU'RE HAPPY",
+      "url": "https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr"
     },
     {
       "added_at": "2022-08-13 01:25:00",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
     },
     {
-      "added_at": "2023-03-31 19:24:48",
-      "album": {
-        "name": "1982",
-        "url": "https://open.spotify.com/album/2qNRcFR3VnrxgrBGB2JFuZ"
-      },
-      "artists": [
-        {
-          "name": "A Certain Ratio",
-          "url": "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
-        }
-      ],
-      "duration_ms": 174656,
-      "name": "SAMO",
-      "url": "https://open.spotify.com/track/7tUp7rwXgZ1VN9rjD6dn7F"
-    },
-    {
       "added_at": "2022-08-31 04:56:45",
       "album": {
         "name": "Sunset Dreams",
@@ -1647,6 +1631,22 @@
       "duration_ms": 215831,
       "name": "Don't Tell Me I'm Wrong",
       "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
+    },
+    {
+      "added_at": "2023-03-31 19:24:48",
+      "album": {
+        "name": "1982",
+        "url": "https://open.spotify.com/album/2qNRcFR3VnrxgrBGB2JFuZ"
+      },
+      "artists": [
+        {
+          "name": "A Certain Ratio",
+          "url": "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
+        }
+      ],
+      "duration_ms": 174656,
+      "name": "SAMO",
+      "url": "https://open.spotify.com/track/7tUp7rwXgZ1VN9rjD6dn7F"
     },
     {
       "added_at": "2022-07-14 12:42:06",

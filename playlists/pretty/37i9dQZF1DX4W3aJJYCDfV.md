@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jorja Smith \(pictured\), Ed Sheeran, The Rolling Stones and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,381 likes - 134 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,441 likes - 134 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 82 | [UNDER THE ILLUSION](https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [UNDER THE ILLUSION](https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP) | 3:56 |
 | 83 | [Tell Me Something \(I Already Know\)](https://open.spotify.com/track/1WD2Z5AQfi1fiDhDJeAZfQ) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Tell Me Something \(I Already Know\)](https://open.spotify.com/album/0Px1OdpEz3Dl6DD4Wawpoc) | 2:40 |
 | 84 | [Moonlight](https://open.spotify.com/track/2flLSFm3o1HbThLXabDoum) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Moonlight](https://open.spotify.com/album/76tdnPDtupBVJiQPN67GTp) | 2:48 |
-| 85 | [Landed](https://open.spotify.com/track/1fonhjfHSCAxsRGHNH6QqM) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Who is Dide?](https://open.spotify.com/album/3x52lQaCzqYauM8SNAs69F) | 3:00 |
+| 85 | [Landed](https://open.spotify.com/track/4MWRsdfss7ToCTkDn4iXWP) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Who is Dide?](https://open.spotify.com/album/7kPVmqsoARKE3hu8qYRdf2) | 3:00 |
 | 86 | [pos](https://open.spotify.com/track/5EwIo2Vc50Blvpk00ynRQP) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 3:05 |
 | 87 | [For Sure](https://open.spotify.com/track/7dTZAVkcjKAdnSF7b8wrBF) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [For Sure](https://open.spotify.com/album/3sonz2wiNheGyp79N7fR28) | 2:51 |
 | 88 | [It Could've Been You](https://open.spotify.com/track/5eQAybRCE1L1YgPgu6n6UG) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [It Could've Been You](https://open.spotify.com/album/1fz0TnFIf2lhouk219X1mt) | 3:35 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 133 | [We Sell Hearts With No Appeal](https://open.spotify.com/track/57nsBNIjcLs158ATMvR7Gn) | [Deema](https://open.spotify.com/artist/3SBYl2unJoVzvNIUBC8ftm) | [We Sell Hearts With No Appeal](https://open.spotify.com/album/2WW6Qnx62IPYHm8TpHdiyY) | 3:06 |
 | 134 | [Slice](https://open.spotify.com/track/6SR5Lk3NYfaiEFm2ZhG9mC) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [Slice](https://open.spotify.com/album/4zZ29RjFtFEN1TPxPHBH7r) | 3:24 |
 
-Snapshot ID: `MCw2ZjA1Y2FlYTkyYjM1OWViODMyMjAwYzQ0MWUwYTk0MTMxMDFkMGQ0`
+Snapshot ID: `MCxlMTJkYjM2NWFjNTMyZGM4OGE3ODBmODdiOGQ0YTRmMmFmODcwZWE1`

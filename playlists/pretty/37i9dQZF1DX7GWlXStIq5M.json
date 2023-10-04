@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: Marina Sena, Fleezus",
-  "num_followers": 367396,
+  "num_followers": 367419,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDk2NmViYzI4NTUyOGE4YjUwOTg5ZWZkOTIxM2NkMDUyODA4NGVh",
+  "snapshot_id": "MCw3NWJkZmVmYzg0NzNjMzA5NGRjNTU0MzcxZDA0MmQ1ZmRlMmI4YTdj",
   "tracks": [
     {
       "added_at": "2023-09-29 03:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Depois do Fim",
+        "url": "https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 139649,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "AFRODHIT",
         "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 204235,
       "name": "Fiu Fiu",
       "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Depois do Fim",
-        "url": "https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 139649,
-      "name": "Coisa Boa",
-      "url": "https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -755,26 +755,6 @@
       "duration_ms": 219534,
       "name": "Deixe-me Ir",
       "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Controla O Tempo",
-        "url": "https://open.spotify.com/album/516Yh6vOtJL96EGeQXaq5r"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        }
-      ],
-      "duration_ms": 122490,
-      "name": "Controla O Tempo",
-      "url": "https://open.spotify.com/track/1Qn4RLZbJ5UFD4dWR7dhCs"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -815,6 +795,26 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Controla O Tempo",
+        "url": "https://open.spotify.com/album/516Yh6vOtJL96EGeQXaq5r"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        }
+      ],
+      "duration_ms": 122490,
+      "name": "Controla O Tempo",
+      "url": "https://open.spotify.com/track/1Qn4RLZbJ5UFD4dWR7dhCs"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Orishas",
         "url": "https://open.spotify.com/album/5ExpTcYgqYuloazTYb0RgC"
       },
@@ -831,6 +831,38 @@
       "duration_ms": 164664,
       "name": "Orishas",
       "url": "https://open.spotify.com/track/5eZMv9ZkQ8ySMccOWAbHBq"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Vil\u00e3",
+        "url": "https://open.spotify.com/album/2W6EWkkAkkmMxQyeePtMTE"
+      },
+      "artists": [
+        {
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+        }
+      ],
+      "duration_ms": 148295,
+      "name": "Vil\u00e3",
+      "url": "https://open.spotify.com/track/6gHv2hEqyAgBvgnBr2DWs8"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Oops!...I did it again",
+        "url": "https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 138064,
+      "name": "Oops!\u2026I Did It Again",
+      "url": "https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -855,38 +887,6 @@
       "duration_ms": 257216,
       "name": "Brigas Demais - Live",
       "url": "https://open.spotify.com/track/0jezAU4LosmnZAYzw0z0hc"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Oops!...I did it again",
-        "url": "https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 138064,
-      "name": "Oops!\u2026I Did It Again",
-      "url": "https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Vil\u00e3",
-        "url": "https://open.spotify.com/album/2W6EWkkAkkmMxQyeePtMTE"
-      },
-      "artists": [
-        {
-          "name": "Isa Buzzi",
-          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
-        }
-      ],
-      "duration_ms": 148295,
-      "name": "Vil\u00e3",
-      "url": "https://open.spotify.com/track/6gHv2hEqyAgBvgnBr2DWs8"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "puro osso - ac\u00fastico",
-        "url": "https://open.spotify.com/album/7AqrBWUwuO3sZife9VTFkI"
-      },
-      "artists": [
-        {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "puro osso - ac\u00fastico",
-      "url": "https://open.spotify.com/track/57vtkUpGz1m9OOhT56hRkl"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Quero te ver gozar",
         "url": "https://open.spotify.com/album/58y3yjaCfF8Z3lCoAxqcog"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 181951,
       "name": "Quero te ver gozar",
       "url": "https://open.spotify.com/track/25AI0OE0Dl2le4omEsIwyW"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "puro osso - ac\u00fastico",
+        "url": "https://open.spotify.com/album/7AqrBWUwuO3sZife9VTFkI"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "puro osso - ac\u00fastico",
+      "url": "https://open.spotify.com/track/57vtkUpGz1m9OOhT56hRkl"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/2RhFlihoWqgcvGEO3ZSb4v"
+      },
+      "artists": [
+        {
+          "name": "GIOLI",
+          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
+        }
+      ],
+      "duration_ms": 150044,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/0yFsqGPEdoMM9UjdzNpnJY"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "93",
         "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
@@ -1191,30 +1207,6 @@
       "duration_ms": 158829,
       "name": "Pegada de Vil\u00e3",
       "url": "https://open.spotify.com/track/0QNyFrnE4O6E4ZJDRvBuWm"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Cachoeira",
-        "url": "https://open.spotify.com/album/4mAithietzaFqqKXXniP44"
-      },
-      "artists": [
-        {
-          "name": "BADZILLA",
-          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
-        },
-        {
-          "name": "MC Taya",
-          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
-        },
-        {
-          "name": "Mc Fredd",
-          "url": "https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5"
-        }
-      ],
-      "duration_ms": 167366,
-      "name": "Cachoeira",
-      "url": "https://open.spotify.com/track/0LqOJ2Vcm5uupnsHin7gRC"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1243,6 +1235,30 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Cachoeira",
+        "url": "https://open.spotify.com/album/4mAithietzaFqqKXXniP44"
+      },
+      "artists": [
+        {
+          "name": "BADZILLA",
+          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
+        },
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        },
+        {
+          "name": "Mc Fredd",
+          "url": "https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5"
+        }
+      ],
+      "duration_ms": 167366,
+      "name": "Cachoeira",
+      "url": "https://open.spotify.com/track/0LqOJ2Vcm5uupnsHin7gRC"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "ele diz que me ama s2",
         "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 241371,
       "name": "ele diz que me ama s2",
       "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Prioridade",
-        "url": "https://open.spotify.com/album/2RhFlihoWqgcvGEO3ZSb4v"
-      },
-      "artists": [
-        {
-          "name": "GIOLI",
-          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
-        }
-      ],
-      "duration_ms": 150044,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/0yFsqGPEdoMM9UjdzNpnJY"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1331,6 +1331,30 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Abelha",
+        "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Abelha",
+      "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Promessas",
         "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
       },
@@ -1367,30 +1391,6 @@
       "duration_ms": 168254,
       "name": "Karma",
       "url": "https://open.spotify.com/track/1bI9r5cGAL2D1GqOON37Gg"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Abelha",
-        "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
-      },
-      "artists": [
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "xochuo",
-          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Abelha",
-      "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
     },
     {
       "added_at": "2023-09-29 03:00:00",

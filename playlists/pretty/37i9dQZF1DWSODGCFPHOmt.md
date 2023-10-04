@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,690 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,688 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 69 | [Santa Quiero](https://open.spotify.com/track/6Vb7wm8QDYJaLe6nTfDaK4) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Amor Navideño](https://open.spotify.com/album/3FkNGhWudLC6Io9nz1D705) | 3:45 |
 | 70 | [Blanca Navidad](https://open.spotify.com/track/6Lmnli1aPgP4ze8SyWRzBf) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [América Fernández](https://open.spotify.com/artist/1t2pG2SILJIeGtJbLsKluI), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [Valentina Fernández](https://open.spotify.com/artist/6ZmC7bjmEwzBvBM8j3Q6ND) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:54 |
 | 71 | [Navidad Sin Ti](https://open.spotify.com/track/6JvXDavDKocEvJXRKLDuIm) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Navidad Sin Ti](https://open.spotify.com/album/0xJijA9NXeLfb13qavbFS2) | 3:19 |
-| 72 | [Dame Un Beso En Noche Buena](https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:38 |
-| 73 | [Blanca Navidad](https://open.spotify.com/track/3rJPFF1i68T5fp3dWOzHfw) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w), [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Blanca Navidad](https://open.spotify.com/album/5qrIYIBTF7uwabLCf6s5cC) | 3:07 |
+| 72 | [Blanca Navidad](https://open.spotify.com/track/3rJPFF1i68T5fp3dWOzHfw) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w), [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Blanca Navidad](https://open.spotify.com/album/5qrIYIBTF7uwabLCf6s5cC) | 3:07 |
+| 73 | [Dame Un Beso En Noche Buena](https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:38 |
 | 74 | [Amarga Navidad](https://open.spotify.com/track/70GSsd2TYikh9QMQy8BR2P) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Banda Lirio](https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8) | [Amarga Navidad](https://open.spotify.com/album/3MNqibanIKz1fwJtIoSnqF) | 3:06 |
 | 75 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Kenia Ríos](https://open.spotify.com/artist/7ib9pXPbXbKpokIVlUQwwr), [Anahi Ríos](https://open.spotify.com/artist/1wAbvXy6o5nu8b9TvzKt7l) | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa) | 2:00 |
 | 76 | [Otra Navidad Sin Ti](https://open.spotify.com/track/3aKeyoA3J0v9c57GMHjKAU) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Otra Navidad Sin Ti](https://open.spotify.com/album/7m8nA9UrbK98aYcNFLDFzJ) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 79 | [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 |
 | 80 | [En Esta Navidad](https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:00 |
 
-Snapshot ID: `MCxiN2M2NGQzNTIxMmIzNTkxYWQ4MTMyMTJiOGI5ZGRmN2NlNDAzMGZm`
+Snapshot ID: `MCxkM2RjZmNiMWI5OWRlNjM1MWI4NTk5M2Y4NDM0MjEwZmQ2NWY5MTM3`

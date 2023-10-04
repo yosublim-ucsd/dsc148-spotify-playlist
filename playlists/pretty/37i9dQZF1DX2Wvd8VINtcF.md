@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,801 likes - 118 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,837 likes - 118 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 117 | [You're Not Alone](https://open.spotify.com/track/4v7SAKFEqPyuYTy9gQRnHP) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [You're Not Alone](https://open.spotify.com/album/30TtNJxZgXt1DBb7GYlRkz) | 3:55 |
 | 118 | [Forever](https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Forever](https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc) | 3:16 |
 
-Snapshot ID: `MCw4MTQ3MTBmOGM2MTQ5ZGFjNmI5ODY3YmM3ZWMzNGZiMWFmOWMxNDdj`
+Snapshot ID: `MCw4OGQwMTVmM2Q3ODkyZWMxZGEwNGRjZDk4ZDhhOGQwOGI4ZGNjYjY2`

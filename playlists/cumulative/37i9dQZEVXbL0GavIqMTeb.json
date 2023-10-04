@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/6KDLws7nb97FLIZw1VHisk"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165318,
+      "name": "333",
+      "url": "https://open.spotify.com/track/5NlRqUTd4tv8AegeU7RW5x"
+    },
+    {
+      "album": {
         "name": "Los Green Lanters 2.0",
         "url": "https://open.spotify.com/album/4XuIa2a0170dUBN6HzhJd6"
       },
@@ -2946,7 +2968,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 348400,
       "name": "Coraz\u00f3n Roto pt. 3",
       "url": "https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP"
@@ -11530,7 +11552,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 198930,
       "name": "Pobre Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE"
@@ -16282,7 +16304,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"

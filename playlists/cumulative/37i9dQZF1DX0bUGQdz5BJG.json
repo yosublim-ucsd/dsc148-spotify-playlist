@@ -10951,6 +10951,24 @@
     },
     {
       "album": {
+        "name": "Side Effects Of The Heart",
+        "url": "https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK"
+      },
+      "artists": [
+        {
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "Her To Here",
+      "url": "https://open.spotify.com/track/04e0idTPfV4J93WeZWSx78"
+    },
+    {
+      "album": {
         "name": "Her To Here",
         "url": "https://open.spotify.com/album/1L1YLlqDbm86g3XEdUBer6"
       },
@@ -10962,7 +10980,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 182493,
       "name": "Her To Here",
       "url": "https://open.spotify.com/track/7JxCeAdqeyT6zeXJjZt8LW"

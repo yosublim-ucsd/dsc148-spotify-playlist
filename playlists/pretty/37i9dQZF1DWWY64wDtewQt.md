@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,660,201 likes - 100 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,670,174 likes - 100 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 68 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 |
 | 69 | [RITMO DE TREINO](https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT) | [YOUTHISENDING](https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX), [MC Pequeno Diamante](https://open.spotify.com/artist/7jqVVRFgBPvHWLnUwfRF6C) | [RITMO DE TREINO](https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz) | 1:42 |
 | 70 | [TREINAMENTO DE FORÇA](https://open.spotify.com/track/3xuOs8TPNwItkEYsApFEI2) | [TRXVELER](https://open.spotify.com/artist/31VaidRoI1NnHfyY8SxSL7) | [TREINAMENTO DE FORÇA](https://open.spotify.com/album/1xF2L9FhsEG6CPf9ERW7vH) | 2:05 |
-| 71 | [Montagem Celestial de Atenas](https://open.spotify.com/track/3EbCHjv7JbnBoF88Ku5giz) | [DJ ORBITAL](https://open.spotify.com/artist/01XS19DjUcPe5dfYEkXjsg) | [Montagem Celestial de Atenas](https://open.spotify.com/album/1ZDSWNvpRCtsvLrKEh9a50) | 3:30 |
+| 71 | [Montagem Celestial de Atenas](https://open.spotify.com/track/3EbCHjv7JbnBoF88Ku5giz) | [DJ ORBITAL](https://open.spotify.com/artist/01XS19DjUcPe5dfYEkXjsg), [G7 MUSIC BR](https://open.spotify.com/artist/4fPR5Tro0vdgsaMZanGjZ4) | [Montagem Celestial de Atenas](https://open.spotify.com/album/1ZDSWNvpRCtsvLrKEh9a50) | 3:30 |
 | 72 | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://open.spotify.com/track/3qV8bXiqsR35JEMOy0tpJv) | [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b), [Mc Larissa](https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX) | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://open.spotify.com/album/5nCc44klDwX9Oy8udBepD4) | 3:02 |
 | 73 | [PRINCE OF DARKNESS](https://open.spotify.com/track/3F8ydJz1se1vIxZTRcRjIJ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [PRINCE OF DARKNESS](https://open.spotify.com/album/34iHUfBPU6yTJKPBoQC5HY) | 2:03 |
 | 74 | [TIRED OF PROBLEMS](https://open.spotify.com/track/5L7h1PCOF5lrX3e3v8sJAx) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4), [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [TIRED OF PROBLEMS](https://open.spotify.com/album/040xi1cygyTX9odMDiNkpU) | 1:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [SHOOT TO KILL](https://open.spotify.com/track/4yELBnJLaQ3OAnEeHRzsPs) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [SHOOT TO KILL](https://open.spotify.com/album/5i99bO7QQseHLx0EQNAInu) | 2:06 |
 | 100 | [Phonk Bachi Bachi](https://open.spotify.com/track/4hx1w2XDXdS7w7cQ4NJxIj) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [Phonk Bachi Bachi](https://open.spotify.com/album/6w26U8IiuMeNYdMAfX52W6) | 1:44 |
 
-Snapshot ID: `MCwyMzI1MTdkMzg0MjRiYWI0YWM5OTNhZTI2MWNhZTA1MjMwNTFiMWNk`
+Snapshot ID: `MCwyYzc1NWM3NWNjZTBjODFmODNmNGUzNzlkZWM4MmNjYWQyYTYzZWU4`

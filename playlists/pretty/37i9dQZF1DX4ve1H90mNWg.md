@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. <br/> Cover:  <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36?si=d14048b372484137">Teezo Touchdown</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,229 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,257 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 20 | [emoTional](https://open.spotify.com/track/4KdCfqgaZ14QyGg5bQ5GME) | [Bobby Sessions](https://open.spotify.com/artist/1URwpSLjCBhRjnw4SUwNyL) | [emoTional](https://open.spotify.com/album/08oqwgx6X8DOaikW1ajwfK) | 3:28 |
 | 21 | [FAVORITE CITY](https://open.spotify.com/track/7lNtSbO88nayCWMGIijYYg) | [MC Beezy](https://open.spotify.com/artist/0sKjQzE9zRTcX6akN7STJv), [Lunitik Novae](https://open.spotify.com/artist/1SOCJd050tMqK0WfIrKdMv) | [FAVORITE CITY](https://open.spotify.com/album/0OEP3l7tiJyEACCfgP5vzx) | 2:15 |
 | 22 | [Fantasy \(Give It All\)](https://open.spotify.com/track/29dLm7RhrSMQi6niCNRCut) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Hoofy Baby](https://open.spotify.com/artist/5Bb8NSase0poSD0lXSyBSp) | [Fantasy \(Give It All\)](https://open.spotify.com/album/7exmvMCbKRJUDrjNxxIyF9) | 2:57 |
-| 23 | [380 BAKE](https://open.spotify.com/track/7iFkd7WdWJO63WG9JRmKyS) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [380 BAKE](https://open.spotify.com/album/65fpNPgM1mjLQNdEvx2CX3) | 2:20 |
+| 23 | [380 BAKE](https://open.spotify.com/track/2c9cgLHPUIZqyIabyAPkzR) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [The Pressure Pack](https://open.spotify.com/album/4riQz0IxWVfvQ64I55lvst) | 2:20 |
 | 24 | [Call You Back](https://open.spotify.com/track/5szHpSNNHyCWm1QAXSXNAI) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Call You Back](https://open.spotify.com/album/402rHWZJdaBEwHbq4whmJc) | 2:40 |
 | 25 | [Lil Fish, Big Pond](https://open.spotify.com/track/3TvFUCXBX98jXJ9aIts2Na) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lil Fish, Big Pond](https://open.spotify.com/album/6JznnjXuTAJkN2N6fFXWt9) | 2:34 |
 | 26 | [Boy](https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Boy](https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe) | 2:12 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 64 | [Nothing But The Blood](https://open.spotify.com/track/7jclwK9tMrEAbTskC7E4t3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Nothing But The Blood](https://open.spotify.com/album/2IJcWZ8vDouHlOD61LEb4b) | 3:07 |
 | 65 | [Vacant](https://open.spotify.com/track/2mMIkj4LBzhP3aZcwWRoKO) | [GGO Kurt](https://open.spotify.com/artist/0vz5Vjiz8a9dq9PEBACdRG) | [Vacant](https://open.spotify.com/album/6lTDtpozVlXzggm0IQz1vp) | 2:21 |
 
-Snapshot ID: `MCw4OWYwNjgwMTFkMWFhYWE1NGI3YTlkMjkxMmRiZWQ3OWYwNGYyOTk3`
+Snapshot ID: `MCxmOWQ4YjYyNmIzNTFmYWM2ZDcxZGQwM2RmOTdmNTEyNGM5ZmMwYzY1`

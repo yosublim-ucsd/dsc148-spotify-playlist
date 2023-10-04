@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Rick Ross, Meek Mill
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,029 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,040 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 28 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 |
 | 29 | [Signs](https://open.spotify.com/track/0xvMlF1iLu3IYRsHb5zJ3b) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [No Mans Land](https://open.spotify.com/album/14oURAAAF3cvntgf1Va5tg) | 2:23 |
 | 30 | [Oh My Days](https://open.spotify.com/track/2NzLUARHYNcPH7OErQIkOq) | [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2), [Young Clancy](https://open.spotify.com/artist/1gWVuqL7Ag3foUmrV5Us98) | [Oh My Days](https://open.spotify.com/album/757Xqp7ZVR7F4P9lSVLpNM) | 2:30 |
-| 31 | [Supa Silly Heaux](https://open.spotify.com/track/4ehOkKvFdlPzMGThBhmlgm) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Nikki Jayy](https://open.spotify.com/artist/4MONW063BePUr0702vTw6c) | [Supa Silly Heaux](https://open.spotify.com/album/3OYsZRVc4JR3ePoEmec836) | 2:27 |
+| 31 | [Supa Silly Heaux](https://open.spotify.com/track/4ehOkKvFdlPzMGThBhmlgm) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Nikki Jayy](https://open.spotify.com/artist/4MONW063BePUr0702vTw6c), [Supa Cindy](https://open.spotify.com/artist/22e8seQKsb34z8dW26bG5P) | [Supa Silly Heaux](https://open.spotify.com/album/3OYsZRVc4JR3ePoEmec836) | 2:27 |
 | 32 | [Ventriloquist](https://open.spotify.com/track/6DSBcwuz3OnlGEIoueZ3XB) | [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX) | [Ventriloquist](https://open.spotify.com/album/04AMNJFXS2QJRKZxZINkHM) | 2:29 |
 | 33 | [TRIPLE THREAT](https://open.spotify.com/track/2URQXBVDvENWHvUodr5ScN) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [TRIPLE THREAT](https://open.spotify.com/album/4ClTS36W38BNdWMFNvvFam) | 3:17 |
 | 34 | [No Holding Hands Pt 2](https://open.spotify.com/track/3nWOd6f7Ve0J8xapgjx5pd) | [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [No Holding Hands Pt 2](https://open.spotify.com/album/4ag7O1aBX4fVkw8X49uzxP) | 2:22 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 40 | [Everything We Did](https://open.spotify.com/track/7jbc6jkT3r6POZgNIcypPZ) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Free Samples, Vol\. 2](https://open.spotify.com/album/1WCxL49gWJL2TxE2sPVhL8) | 3:31 |
 | 41 | [4 Sho](https://open.spotify.com/track/4Bq7zzEFrI79hzIFqN4KUm) | [LUM](https://open.spotify.com/artist/1bY66d1Rv5q5KMJYP1lIQd), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [4 Sho](https://open.spotify.com/album/54yng3O1nadb0F3pYDM3vU) | 2:45 |
 | 42 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 |
-| 43 | [The Bridge](https://open.spotify.com/track/3JJ70Yq4PzMCTha53z8hxo) | [Versvs](https://open.spotify.com/artist/6XUsxNud8j33iC6AS8iHbK) | [The Bridge](https://open.spotify.com/album/5pQOL7DAtzcuqO9avpLHTc) | 2:56 |
+| 43 | [The Bridge](https://open.spotify.com/track/3JJ70Yq4PzMCTha53z8hxo) | [Versvs](https://open.spotify.com/artist/6XUsxNud8j33iC6AS8iHbK), [Bella Espo](https://open.spotify.com/artist/7wJFRjIiHMLUrXwfVRG8cb) | [The Bridge](https://open.spotify.com/album/5pQOL7DAtzcuqO9avpLHTc) | 2:56 |
 | 44 | [Bolognese](https://open.spotify.com/track/0ARnvcickXPuTkhtmoTQ4p) | [NAIIM](https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF) | [It Goes Without Saying](https://open.spotify.com/album/7iTciFlPGC1s3G04kALOsb) | 2:34 |
 | 45 | [Free Throw](https://open.spotify.com/track/2pg9e25Kr4XqiyCCuQssGH) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Free Throw](https://open.spotify.com/album/0nEvJ6UqOcKJEsQ9AXSxGt) | 2:30 |
 | 46 | [Move](https://open.spotify.com/track/4SWedmyfXSqY6B0h0Pilwi) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [Streameum](https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh), [Baby2](https://open.spotify.com/artist/4bQ8SnTJpXXxMtRE2KpUuc) | [Ghost Town 4](https://open.spotify.com/album/4ViOMKprk6pW1XbrBpEYfx) | 2:06 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 50 | [Lighter](https://open.spotify.com/track/5NtpxGpuqZpZhNtr48vYWM) | [Tinywiings](https://open.spotify.com/artist/1VUJORAhVbWM59xRLR8DY3) | [Lighter](https://open.spotify.com/album/0Ep00ARanHHc4ggmT4Crs6) | 2:29 |
 | 51 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 |
 
-Snapshot ID: `MCw1OTEwMjUzYzg4NWJlNGZkMzIwNGU2ZDZhMTRmMDgzNThmM2NhMGYy`
+Snapshot ID: `MCw2ZGEwYjRiZmYxN2M4MGYyYzdmNzYxZDEzNDZlYWRlNzExNmZlOThk`

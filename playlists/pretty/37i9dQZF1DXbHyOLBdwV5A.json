@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 114829,
+  "num_followers": 114887,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGUzMmRkM2U5ZDMxZWYzZmY0MDRhM2NhMDFlMGZiYjJhYjUxMTcx",
+  "snapshot_id": "MCxkYzExMGQ1NTYxN2RmNWIwOTFlZmJlMTRhZGQ1MDBlNjc4OTEwOTFk",
   "tracks": [
     {
       "added_at": "2023-09-15 22:07:17",
@@ -459,18 +459,22 @@
     {
       "added_at": "2023-09-15 22:07:17",
       "album": {
-        "name": "A Sertaneja de Jesus",
-        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
+        "name": "Controle",
+        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
       },
       "artists": [
         {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
         }
       ],
-      "duration_ms": 158733,
-      "name": "A Sertaneja de Jesus",
-      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
+      "duration_ms": 247862,
+      "name": "Controle",
+      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
     },
     {
       "added_at": "2023-09-15 22:07:17",
@@ -499,22 +503,18 @@
     {
       "added_at": "2023-09-15 22:07:17",
       "album": {
-        "name": "Controle",
-        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
+        "name": "A Sertaneja de Jesus",
+        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
       },
       "artists": [
         {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
         }
       ],
-      "duration_ms": 247862,
-      "name": "Controle",
-      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
+      "duration_ms": 158733,
+      "name": "A Sertaneja de Jesus",
+      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
     },
     {
       "added_at": "2023-09-15 22:07:17",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-09-15 22:07:17",
       "album": {
-        "name": "Pique Rei Davi (Remix)",
-        "url": "https://open.spotify.com/album/0mhHx49Dugoxr3FEjjq60Q"
-      },
-      "artists": [
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        }
-      ],
-      "duration_ms": 113777,
-      "name": "Pique Rei Davi - Remix",
-      "url": "https://open.spotify.com/track/4c09bY8MeyRqyExO11rXIH"
-    },
-    {
-      "added_at": "2023-09-15 22:07:17",
-      "album": {
         "name": "Viagem",
         "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 189268,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
+    },
+    {
+      "added_at": "2023-09-15 22:07:17",
+      "album": {
+        "name": "Pique Rei Davi (Remix)",
+        "url": "https://open.spotify.com/album/0mhHx49Dugoxr3FEjjq60Q"
+      },
+      "artists": [
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 113777,
+      "name": "Pique Rei Davi - Remix",
+      "url": "https://open.spotify.com/track/4c09bY8MeyRqyExO11rXIH"
     },
     {
       "added_at": "2023-09-15 22:07:17",

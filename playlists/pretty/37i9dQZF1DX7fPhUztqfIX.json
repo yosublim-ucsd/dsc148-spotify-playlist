@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 110869,
+  "num_followers": 110944,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTZhZjQ4NTgwN2ZiNzc1MDA3NWMzOGIxMzlmNTFjZDA1ZGY1MDgx",
+  "snapshot_id": "MCxiNDgxMWMyZmI2MWJhZGUyN2NlYjJkZTUwNDE3YjBlNWRjMjg1N2Ri",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "The Worship Project, Vol. 2",
-        "url": "https://open.spotify.com/album/0y4vEdjKpRM5oQmLQvmURP"
-      },
-      "artists": [
-        {
-          "name": "The Worship Project",
-          "url": "https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3"
-        },
-        {
-          "name": "Darrick Tam",
-          "url": "https://open.spotify.com/artist/7yRmKt0F9roUOE8nLsVvbH"
-        }
-      ],
-      "duration_ms": 365294,
-      "name": "Nothing Else",
-      "url": "https://open.spotify.com/track/38cEd6plDcyQrNci5QjIsc"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -1111,22 +1091,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Fearless / Fill Up The Sky (Live)",
-        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
+        "name": "The Worship Project, Vol. 2",
+        "url": "https://open.spotify.com/album/0y4vEdjKpRM5oQmLQvmURP"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+          "name": "The Worship Project",
+          "url": "https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3"
         },
         {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Darrick Tam",
+          "url": "https://open.spotify.com/artist/7yRmKt0F9roUOE8nLsVvbH"
         }
       ],
-      "duration_ms": 280519,
-      "name": "Fearless - Live",
-      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
+      "duration_ms": 365294,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/38cEd6plDcyQrNci5QjIsc"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1143,6 +1123,26 @@
       "duration_ms": 300826,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/3sUCZXBv5Gs8cG9opub5MO"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Fearless / Fill Up The Sky (Live)",
+        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 280519,
+      "name": "Fearless - Live",
+      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Carried",
         "url": "https://open.spotify.com/album/2ae612G873GaK4EoWE9pYw"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 366000,
       "name": "Through Every Season",
       "url": "https://open.spotify.com/track/6RJyHviV33RA8ssCL3ckOh"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        }
-      ],
-      "duration_ms": 303141,
-      "name": "Midnight - Radio Version",
-      "url": "https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Goodness of God - EP",
         "url": "https://open.spotify.com/album/10cefkv5cfgzr9KhIS6O4n"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "When It Comes to You",
-        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt"
       },
       "artists": [
         {
-          "name": "RNW Music",
-          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
         }
       ],
-      "duration_ms": 407190,
-      "name": "When It Comes to You",
-      "url": "https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH"
+      "duration_ms": 303141,
+      "name": "Midnight - Radio Version",
+      "url": "https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1319,6 +1303,22 @@
       "duration_ms": 223000,
       "name": "I Feel Good About It",
       "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "When It Comes to You",
+        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        }
+      ],
+      "duration_ms": 407190,
+      "name": "When It Comes to You",
+      "url": "https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 357404,
-      "name": "Just The Cross",
-      "url": "https://open.spotify.com/track/4rL4jepFTo9OeQ3A0bFej9"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Fear Not",
         "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 333890,
       "name": "Not a Chance",
       "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/32Wr0t52xLB961RcVbsfDI"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 357404,
+      "name": "Just The Cross",
+      "url": "https://open.spotify.com/track/4rL4jepFTo9OeQ3A0bFej9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Savior Of The World",
         "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 389187,
       "name": "Jesus Is The Key",
       "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1727,38 +1727,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "YEAR OF VICTORY",
-        "url": "https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 230444,
-      "name": "YEAR OF VICTORY",
-      "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Fountain (I Am Good) [Live]",
-        "url": "https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 318874,
-      "name": "Fountain (I Am Good) - Live",
-      "url": "https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "For the Time We Have",
         "url": "https://open.spotify.com/album/33lHJKIJxiCFKvpzFgaf2M"
       },
@@ -1779,6 +1747,38 @@
       "duration_ms": 206923,
       "name": "For the Time We Have",
       "url": "https://open.spotify.com/track/3V7L3BpcEpcup3Xon1ywMg"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Fountain (I Am Good) [Live]",
+        "url": "https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 318874,
+      "name": "Fountain (I Am Good) - Live",
+      "url": "https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "YEAR OF VICTORY",
+        "url": "https://open.spotify.com/album/3XDpH7KDR7vtIGVPYMKBvx"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 230444,
+      "name": "YEAR OF VICTORY",
+      "url": "https://open.spotify.com/track/4D8wGHyzwwNDa2vpZJKn5h"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Only Name",
+        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 312132,
+      "name": "Only Name",
+      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "I Heard a Song I Can't Ignore",
         "url": "https://open.spotify.com/album/53YgGrvY32WGW97USevt8m"
       },
@@ -1931,18 +1947,18 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Only Name",
-        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
+        "name": "I Stand Amazed",
+        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
       },
       "artists": [
         {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+          "name": "Reach City Worship",
+          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
         }
       ],
-      "duration_ms": 312132,
-      "name": "Only Name",
-      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
+      "duration_ms": 268500,
+      "name": "I Stand Amazed",
+      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1959,6 +1975,22 @@
       "duration_ms": 390800,
       "name": "You Reign - Live",
       "url": "https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Grace That Changes Everything",
+        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
+      },
+      "artists": [
+        {
+          "name": "All Things New",
+          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Sound of Freedom",
+      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1983,38 +2015,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "I Stand Amazed",
-        "url": "https://open.spotify.com/album/4hJHExE1dJPgBCFMSeRTv4"
-      },
-      "artists": [
-        {
-          "name": "Reach City Worship",
-          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "I Stand Amazed",
-      "url": "https://open.spotify.com/track/6ECT93JyKbfidOzEbsuhpX"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Grace That Changes Everything",
-        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
-      },
-      "artists": [
-        {
-          "name": "All Things New",
-          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Sound of Freedom",
-      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "King Jesus",
         "url": "https://open.spotify.com/album/3nAiFMSj2879iSgUfeSoMb"
       },
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "We Have The Name",
-        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 346591,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "I Remember (Studio Version)",
         "url": "https://open.spotify.com/album/3BPEVfCSdbGmAE6HMK731o"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 207800,
       "name": "I Remember - Studio Version",
       "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "We Have The Name",
+        "url": "https://open.spotify.com/album/081GPoVZSZxpeCclSrcKlH"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 346591,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/3oAdET3kYDy4snDhKIKEuH"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Your Name (Live)",
-        "url": "https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG"
-      },
-      "artists": [
-        {
-          "name": "LIFE Worship",
-          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
-        }
-      ],
-      "duration_ms": 385294,
-      "name": "Your Name - Live",
-      "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "The King In All His Beauty",
         "url": "https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 240766,
       "name": "The King In All His Beauty",
       "url": "https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Your Name (Live)",
+        "url": "https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG"
+      },
+      "artists": [
+        {
+          "name": "LIFE Worship",
+          "url": "https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d"
+        }
+      ],
+      "duration_ms": 385294,
+      "name": "Your Name - Live",
+      "url": "https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW"
     },
     {
       "added_at": "2021-06-12 04:00:40",

@@ -1,12 +1,12 @@
 {
   "description": "a new world of alternative electronic music. Cover: Logic1000",
-  "num_followers": 128007,
+  "num_followers": 128029,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmYwMTg3MTkxMTYzODUwMTM2YWE2NzI1ZDk5NjU3OTZjYTA1NzRh",
+  "snapshot_id": "MCwxMzg2ZDFmYmRmZTg4M2UxZTk4Zjc2YjdlYzhmYzJkYzg2MzA2Mzcx",
   "tracks": [
     {
       "added_at": "2023-09-28 14:00:00",
@@ -383,6 +383,22 @@
       "duration_ms": 254791,
       "name": "Deadbeat Gospel",
       "url": "https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT"
+    },
+    {
+      "added_at": "2023-09-28 14:00:00",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "added_at": "2023-09-28 14:00:00",

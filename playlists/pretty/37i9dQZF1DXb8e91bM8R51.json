@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 44851,
+  "num_followers": 44914,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGZjODYwM2E4MjUxY2M2Yzg4MmNjMjY1ZGU1NzQyMDUzODFhMGJi",
+  "snapshot_id": "MCw3YzkyN2U0MWZhZDg4NmE3ZmIzNTM1MDk2ZDMxNGRlY2E2NmM2YzNi",
   "tracks": [
     {
       "added_at": "2023-09-29 15:35:25",
@@ -791,30 +791,6 @@
     {
       "added_at": "2023-09-29 15:35:25",
       "album": {
-        "name": "Hot Shit (feat. Ye & Lil Durk)",
-        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 211649,
-      "name": "Hot Shit (feat. Ye & Lil Durk)",
-      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
-    },
-    {
-      "added_at": "2023-09-29 15:35:25",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 182532,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
+    },
+    {
+      "added_at": "2023-09-29 15:35:25",
+      "album": {
+        "name": "Hot Shit (feat. Ye & Lil Durk)",
+        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 211649,
+      "name": "Hot Shit (feat. Ye & Lil Durk)",
+      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     },
     {
       "added_at": "2023-09-29 15:35:25",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-09-29 15:35:25",
       "album": {
-        "name": "Do It Right",
-        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
-    },
-    {
-      "added_at": "2023-09-29 15:35:25",
-      "album": {
         "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 168000,
       "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg"
+    },
+    {
+      "added_at": "2023-09-29 15:35:25",
+      "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
     },
     {
       "added_at": "2023-09-29 15:35:25",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-09-29 15:35:25",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/6ULznds6F3HJlHA5dIWIuW"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 170654,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/400CcnDumUGLEJLleSzMKj"
-    },
-    {
-      "added_at": "2023-09-29 15:35:25",
-      "album": {
         "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
         "url": "https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 227234,
       "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
       "url": "https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact"
+    },
+    {
+      "added_at": "2023-09-29 15:35:25",
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/6ULznds6F3HJlHA5dIWIuW"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 170654,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/400CcnDumUGLEJLleSzMKj"
     },
     {
       "added_at": "2023-09-29 15:35:25",
@@ -1735,30 +1735,6 @@
     {
       "added_at": "2023-09-29 15:35:25",
       "album": {
-        "name": "I GOT ISSUES",
-        "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 253913,
-      "name": "Sober (feat. Roddy Ricch & Post Malone)",
-      "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
-    },
-    {
-      "added_at": "2023-09-29 15:35:25",
-      "album": {
         "name": "I Won [From F9 The Fast Saga Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/01RtA0qCjfGy0FY4ON23nD"
       },
@@ -1779,6 +1755,30 @@
       "duration_ms": 175639,
       "name": "I Won",
       "url": "https://open.spotify.com/track/1viUV5EGlKGCiSveBfFeQg"
+    },
+    {
+      "added_at": "2023-09-29 15:35:25",
+      "album": {
+        "name": "I GOT ISSUES",
+        "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 253913,
+      "name": "Sober (feat. Roddy Ricch & Post Malone)",
+      "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
     },
     {
       "added_at": "2023-09-29 15:35:25",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-09-29 15:35:25",
       "album": {
-        "name": "Do What I Want",
-        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Do What I Want",
-      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
-    },
-    {
-      "added_at": "2023-09-29 15:35:25",
-      "album": {
         "name": "Vinyl Days",
         "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 108387,
       "name": "In my lifetime (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
+    },
+    {
+      "added_at": "2023-09-29 15:35:25",
+      "album": {
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
     },
     {
       "added_at": "2023-09-29 15:35:25",
@@ -2335,30 +2335,22 @@
     {
       "added_at": "2023-09-29 15:35:25",
       "album": {
-        "name": "Do It for the Ghetto",
-        "url": "https://open.spotify.com/album/5VJ8Z1Y4UYfWjzFM9TjYyd"
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
       },
       "artists": [
         {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
         },
         {
-          "name": "Termanology",
-          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
-        },
-        {
-          "name": "Big K.R.I.T.",
-          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
-        },
-        {
-          "name": "Lakeith Rashad",
-          "url": "https://open.spotify.com/artist/1C3dllNDuRNi0rI7GVJwVx"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 221466,
-      "name": "Do It For The Ghetto (feat. Big K.R.I.T. & Lakeith Rashad)",
-      "url": "https://open.spotify.com/track/2FEogrV44RFFVrUhyDSiJ1"
+      "duration_ms": 275162,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
     }
   ],
   "unique_name": "No corre",

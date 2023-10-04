@@ -4,13 +4,13 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-304 songs - 22 hr 48 min
+305 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Moon River"](https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | ["Moon River"](https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf) | 2:52 | 2023-03-16 |  |
 | ['Round Midnight](https://open.spotify.com/track/11Ixvu6JuymPvgpOhQlR1M) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 5:51 | 2021-12-17 | 2022-07-29 |
-| ['Round Midnight](https://open.spotify.com/track/33nFpxA8wfc2dKw5lFw7PF) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 5:51 | 2023-05-30 |  |
+| ['Round Midnight](https://open.spotify.com/track/33nFpxA8wfc2dKw5lFw7PF) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 5:51 | 2023-05-30 | 2023-10-04 |
 | ['S Wonderful](https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 2:50 | 2021-12-17 |  |
 | ['Tis Autumn](https://open.spotify.com/track/0VUDiPnBlf13otxOPzSPd9) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Pat LaBarbera](https://open.spotify.com/artist/5RUD9RUhciOcJG5dL8s3Ja) | ['Tis Autumn](https://open.spotify.com/album/2SU5rrWTBsP4snnjoHBtyD) | 4:35 | 2022-09-27 |  |
 | [12th Avenue](https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [12th Avenue](https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd) | 4:37 | 2022-02-18 |  |
@@ -231,6 +231,7 @@
 | [Song to Comfort](https://open.spotify.com/track/2sJl5vXX9cVaDYZFfjPTLc) | [Marie Mørck](https://open.spotify.com/artist/7hlDHwdUAnMXWDRu5Shlt7) | [Songs to Comfort](https://open.spotify.com/album/10cKBHZzGy3ykvZVHngmy8) | 5:38 | 2023-05-30 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1Rx7TVIX8t9pZFJdLq0vvY) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 7:54 | 2021-12-17 | 2023-09-14 |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/0NUb2Cl5fs58ZPuZBYXnj6) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Carmen Staaf](https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/7s5zoUP13Lzz1KT2NLXp6u) | 5:58 | 2022-03-31 | 2023-09-28 |
+| [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1FPkGG0wRGYM8zIXBwq99G) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Carmen Staaf](https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/24yI5vwK7yTVV3nQxW6ukr) | 5:58 | 2023-09-26 |  |
 | [Spring Can Really Hang You Up The Most \- Demo](https://open.spotify.com/track/24mo3C5GuVTfoL8vedPMqL) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:48 | 2022-07-28 | 2023-09-14 |
 | [Spring Can Really Hang You Up The Most \- Demo](https://open.spotify.com/track/6SjpAsNdQMizJqNvvzsCK3) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spring Can Really Hang You Up The Most / Come Away With Me](https://open.spotify.com/album/5BWCqsQ5neaxEhnVxybYuG) | 3:48 | 2022-03-17 | 2022-07-29 |
 | [Spring Waltz](https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Spring Waltz](https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO) | 3:26 | 2021-12-17 |  |

@@ -2990,7 +2990,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 227307,
       "name": "Sensation",
       "url": "https://open.spotify.com/track/1IH8dWLe4CsuAg1ePgIUrC"
@@ -4252,6 +4252,24 @@
       "duration_ms": 215625,
       "name": "\u30df\u30a2\u30cd",
       "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"
+    },
+    {
+      "album": {
+        "name": "\u52d5\u7269\u306e\u5ead",
+        "url": "https://open.spotify.com/album/42oeZcCANlpXLzGq1nAunm"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5ddd\u7406\u6c99",
+          "url": "https://open.spotify.com/artist/4MyrgJ1rFn4ZxeKIH49jDO"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285870,
+      "name": "\u4f1d\u3048\u305f\u3044",
+      "url": "https://open.spotify.com/track/5PMH2m73WhuCs10kw0s2Bz"
     },
     {
       "album": {

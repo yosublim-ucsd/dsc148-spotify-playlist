@@ -1,12 +1,12 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? (Cover: CRAVITY) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 838039,
+  "num_followers": 838130,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODE3NTIwYmViNThjNzU4YzBlMjgwMTUxNGNjMmMyZmI2ODQ1ODQ0",
+  "snapshot_id": "MCw4ZjhiYTk1NzZmZjM4OGY5ZDMxY2RkOGNkMGI5M2IyZjlkMTViNTJh",
   "tracks": [
     {
       "added_at": "2023-09-27 03:36:44",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-09-27 03:36:44",
       "album": {
+        "name": "SHALALA - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "SHALALA",
+      "url": "https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR"
+    },
+    {
+      "added_at": "2023-09-27 03:36:44",
+      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 205101,
       "name": "Shoong! (feat. LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
-    },
-    {
-      "added_at": "2023-09-27 03:36:44",
-      "album": {
-        "name": "SHALALA - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp"
-      },
-      "artists": [
-        {
-          "name": "TAEYONG",
-          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "SHALALA",
-      "url": "https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR"
     },
     {
       "added_at": "2023-09-27 03:36:44",

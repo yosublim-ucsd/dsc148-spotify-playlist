@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,915 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,013 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 11 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 |
 | 12 | [Show Me](https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Show Me](https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M) | 3:28 |
 | 13 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |
-| 14 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 |
+| 14 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
 | 15 | [Sliding](https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [Charlie Choppa](https://open.spotify.com/artist/4aTBKDsrXC1os9HzfPuDTR) | [Sliding](https://open.spotify.com/album/5WvQFSYrjHNsZ85XP22GtT) | 4:17 |
-| 16 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
+| 16 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 |
 | 17 | [Riot Gear Romance](https://open.spotify.com/track/3LIQzjfcbhRGZmP9DfiF6T) | [QZB](https://open.spotify.com/artist/7DrL4NTd8JcbCpxOvdCnV9) | [Riot Gear Romance](https://open.spotify.com/album/2EFKBPxVQcp4EwmlOzws21) | 4:08 |
 | 18 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
 | 19 | [messy in heaven](https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [messy in heaven](https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Take You Higher](https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Lazers Not Included](https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB) | 4:47 |
 | 75 | [Mash up the Dance \- Kings of the Rollers Remix](https://open.spotify.com/track/3hHgU7QO5ev5R6FZVsPsJZ) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP) | [Mash up the Dance \(Kings of the Rollers Remix\)](https://open.spotify.com/album/6FS0y1f1pL45RPIWr6kYl0) | 2:57 |
 
-Snapshot ID: `MCw3ZjkzNzEyMzU5NTcyMTBhMmM1NGRmZjllOGUyMGFkMmY3YzBiMDg1`
+Snapshot ID: `MCw2MDVjNmYwOWYyNDA0NmY1NGU5OGFmNGU5N2NhNDhjYTQ2NmIyYzRh`

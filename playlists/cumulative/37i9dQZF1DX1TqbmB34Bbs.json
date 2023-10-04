@@ -6314,7 +6314,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 230053,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/2wVLe3Ch8UbyzeapLMPwuq"
@@ -12430,6 +12430,24 @@
       "duration_ms": 179585,
       "name": "LET IT BURN",
       "url": "https://open.spotify.com/track/33wnPpWohZVdw4rBqbepD0"
+    },
+    {
+      "album": {
+        "name": "LIBERATION",
+        "url": "https://open.spotify.com/album/5U3i7JRnUKtJqylZfFpTXh"
+      },
+      "artists": [
+        {
+          "name": "Skyminhyuk",
+          "url": "https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212775,
+      "name": "LIBERATION",
+      "url": "https://open.spotify.com/track/2mOJ1t5pfeZFfUeUbrNhf9"
     },
     {
       "album": {
@@ -24662,7 +24680,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 152386,
       "name": "WHIP! - Spotify Singles",
       "url": "https://open.spotify.com/track/0tW9Scup0VRKGlwD3Qvn4r"
@@ -25322,6 +25340,28 @@
       "duration_ms": 240680,
       "name": "X",
       "url": "https://open.spotify.com/track/3mJnYavSkAneaMiP2B5oLP"
+    },
+    {
+      "album": {
+        "name": "LIBERATION",
+        "url": "https://open.spotify.com/album/5U3i7JRnUKtJqylZfFpTXh"
+      },
+      "artists": [
+        {
+          "name": "Skyminhyuk",
+          "url": "https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM"
+        },
+        {
+          "name": "XXK",
+          "url": "https://open.spotify.com/artist/5zoRhVqlUYZLtqmX80wckL"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187919,
+      "name": "XXK NEXT LEVEL (FEAT. XXK)",
+      "url": "https://open.spotify.com/track/7uHsbOp7Ktpw5LD2jvqN6c"
     },
     {
       "album": {

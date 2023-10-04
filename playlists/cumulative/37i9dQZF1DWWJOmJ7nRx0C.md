@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Sleep Theory
 
-957 songs - 2 day 9 hr 19 min
+958 songs - 2 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A Disappearing Act](https://open.spotify.com/track/04flu1A6UXP4Stissk3G1l) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:29 | 2022-08-19 | 2023-03-25 |
 | [A MILLION MILES](https://open.spotify.com/track/1Q48QOI7NxJbUKtZXhIpAE) | [Saul](https://open.spotify.com/artist/3bpsYqqHc3GqU3WclK4dpp) | [A MILLION MILES](https://open.spotify.com/album/1jWsYK6baMwcaLbDU56rVp) | 4:12 | 2023-05-12 | 2023-08-26 |
 | [A Shot in the Dark](https://open.spotify.com/track/0vWaCnMA1j2u5OE5eOVb2N) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [A Shot in the Dark](https://open.spotify.com/album/7dcfDgnDbBf6BVtrltPw9u) | 3:12 | 2022-04-08 | 2022-05-20 |
+| [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 | 2023-10-03 |  |
 | [A Thousand Shades \(feat\. Jeff Beck\)](https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:26 | 2023-03-10 | 2023-04-15 |
 | [A World Afraid Of Tomorrow](https://open.spotify.com/track/0faXSK5Uqk8vzLb2x88HR4) | [ALPHAMEGA](https://open.spotify.com/artist/5Jo80kcSLQNYiwgu7A68EI) | [A World Afraid Of Tomorrow](https://open.spotify.com/album/572eVJNBK5CK1kaE6qD5OY) | 3:45 | 2023-02-17 | 2023-03-25 |
 | [A$$A$$IN](https://open.spotify.com/track/3sA3QDurusOs0paKSUZ4I6) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [We Made Plans & God Laughed](https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd) | 3:09 | 2022-12-02 | 2023-04-15 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- King
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,197 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,364 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sarkaare](https://open.spotify.com/track/3hbzNavvxCQBf28PwTUALJ) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Sarkaare](https://open.spotify.com/album/2oBdxfXQn21DfBWfu8krYT) | 2:43 |
-| 2 | [Aaja Baija Tu \(from "Brand Bollywood Downunder"\)](https://open.spotify.com/track/7n2su2GYTS1jNLSWtJ9sKp) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [EPR Iyer](https://open.spotify.com/artist/5meHdLKS90AVzsKa0PKyRF) | [Aaja Baija Tu \(from "Brand Bollywood Downunder"\)](https://open.spotify.com/album/5oE93LulpFrlhUJqCGq9HX) | 2:59 |
+| 2 | [Aaja Baija Tu \(from "Brand Bollywood Downunder"\)](https://open.spotify.com/track/7n2su2GYTS1jNLSWtJ9sKp) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Epr Iyer](https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj) | [Aaja Baija Tu \(from "Brand Bollywood Downunder"\)](https://open.spotify.com/album/5oE93LulpFrlhUJqCGq9HX) | 2:59 |
 | 3 | [Bitter Betrayals \(From "T\-Series Solos"\)](https://open.spotify.com/track/2qqFgR22eDiTcCTQUaSshU) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Nikhil Vinay](https://open.spotify.com/artist/0HsUQSehtJfQENJxgxQwg5), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Achha Sila Diya](https://open.spotify.com/album/2uodXwPtgPs131krAW6QIV) | 4:19 |
 | 4 | [Sab Rab](https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Sab Rab](https://open.spotify.com/album/6d31ZraM2g9FyRvsmbxSGp) | 3:04 |
 | 5 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Soneya](https://open.spotify.com/track/4T3afa03vozVX8YVwsr34x) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Soneya](https://open.spotify.com/album/2g1M3zZPVkYSHIj73loQBV) | 2:34 |
 | 50 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
 
-Snapshot ID: `MCxhNzZmOTcxZTQ5YjY2OGNhZDM5ZjllNWE3YzgxYTQyYTVhYjNjMzM5`
+Snapshot ID: `MCwzNmY4YjFmNGU4NjcxZWVhNTNkZjc0NDU4ZmVkOTg5NDUwZTFkM2Fm`

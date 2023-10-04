@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Krusha G y Papi Trujillo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,585 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,603 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 8 | [Pay Me](https://open.spotify.com/track/4N5jnDQ8qdpfjSySfyYSL0) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Pay Me](https://open.spotify.com/album/5icLajLMHTL7pdt7FOQTFe) | 3:48 |
 | 9 | [Me Quieren Hablar](https://open.spotify.com/track/5Zg8JvIOfmf2UpJ16NeSxO) | [Osiris El Enemy](https://open.spotify.com/artist/0sYqNybTSecGUJAMu3qQUl), [Mbs Rolling](https://open.spotify.com/artist/4GIy6u1MoQSwTIgeBexEKY), [Krusha G](https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw) | [Me Quieren Hablar](https://open.spotify.com/album/5q2l1YuIsTkB6J0iZlznHA) | 2:53 |
 | 10 | [Trapman](https://open.spotify.com/track/25l6wVWXH3LIf5dJQqZyqf) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Trapman](https://open.spotify.com/album/1llef7nzTSwQDrdaCrS8jO) | 3:10 |
-| 11 | [Infraganti](https://open.spotify.com/track/3gslN5n2cRyJKHUMV4M7dl) | [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [Mnzr](https://open.spotify.com/artist/0ukubLrduRP1yb78hHKrbA) | [Infraganti](https://open.spotify.com/album/76vMmSsl678VqUbB5UZzcJ) | 2:44 |
+| 11 | [Infraganti](https://open.spotify.com/track/3gslN5n2cRyJKHUMV4M7dl) | [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [MNZR](https://open.spotify.com/artist/3Hq3cjiSLxQGmKqLQASfFQ) | [Infraganti](https://open.spotify.com/album/76vMmSsl678VqUbB5UZzcJ) | 2:44 |
 | 12 | [MONOPSYCHO](https://open.spotify.com/track/1RvNIXRus8PEkc8nhBji1D) | [Kill the Clowns](https://open.spotify.com/artist/7KczDuPvlKEo8nQCpa8my8), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [CIRCUS](https://open.spotify.com/album/1RKKNHSeD6HuG15HevvGbe) | 2:46 |
 | 13 | [No Kiero Correr \- Remix](https://open.spotify.com/track/5hPtYGIIPVS3pWi1kLUOQT) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS) | [No Kiero Correr \(Remix\)](https://open.spotify.com/album/6jFGXDG7kIdQx76tzytpgB) | 4:35 |
 | 14 | [Snap](https://open.spotify.com/track/4PP8ZjE3LPGmLHUfKTq0pt) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi), [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL) | [Snap](https://open.spotify.com/album/4rmRixiUX5IwM8eafbG46l) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 99 | [Excusa](https://open.spotify.com/track/6Iqbx7Fn7Hnw8iJOEhS9OL) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Excusa](https://open.spotify.com/album/6rDbHMk2z6qW0nskzy7CAC) | 3:16 |
 | 100 | [FERRAGAMO](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FERRAGAMO](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
 
-Snapshot ID: `MCw2NDE5ZjM1NDgwZDM2OWRmYTcwMzkzMTExZjJjODgyMjYxYzJjMmZk`
+Snapshot ID: `MCxlNTU4ZTRkZTBlMDdiZGUxZTM1ZTY1ZWVlZDk3MTY4ZGU5ODRiNjRm`

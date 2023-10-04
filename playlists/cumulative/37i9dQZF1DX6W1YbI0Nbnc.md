@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 結集香港EQUAL女聲力量！\(cover: Lolly Talk\)
+> 結集香港EQUAL女聲力量！\(cover: 鄧小巧\)
 
-246 songs - 15 hr 37 min
+248 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [兩個月亮](https://open.spotify.com/track/5S3X9HuM3jsTUvQDTMSdae) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [兩個月亮](https://open.spotify.com/album/6IjLpaESpUOblB9qf56RhA) | 3:12 | 2021-12-07 | 2022-01-05 |
 | [兩個月亮 hirsk Remix](https://open.spotify.com/track/39DVBbBivh9J0uJxxg5AVb) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [兩個月亮 hirsk Remix](https://open.spotify.com/album/0e31QRXXBiJltLdFL2xZum) | 3:13 | 2022-01-04 | 2022-03-08 |
 | [兩個自己](https://open.spotify.com/track/13rZQUVGSlVc2M3YJ7QDbs) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [兩個你](https://open.spotify.com/album/04vZzjRIBZPqPqZiB9GwFX) | 3:16 | 2021-12-07 | 2022-01-05 |
-| [兩種語言](https://open.spotify.com/track/1VKVc6v65Bj1ypg360BLQ3) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [兩種語言](https://open.spotify.com/album/1AnYIfU0GYmTUcHFDYSO9i) | 4:19 | 2022-03-07 | 2022-05-04 |
+| [兩種語言](https://open.spotify.com/track/1VKVc6v65Bj1ypg360BLQ3) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [兩種語言](https://open.spotify.com/album/1AnYIfU0GYmTUcHFDYSO9i) | 4:19 | 2022-03-07 |  |
 | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/track/7eZJLfMQ5mDtejHitRkzRf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/album/5f1R2DOR0cLJlUmpO1gtjC) | 4:44 | 2022-08-02 | 2022-12-01 |
 | [分手的情書](https://open.spotify.com/track/4USRnfYLlx5NJkvAOnMvtk) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [分手的情書](https://open.spotify.com/album/42yEW5ERscrCNbRswPphzc) | 4:08 | 2022-01-04 | 2022-03-08 |
 | [初音](https://open.spotify.com/track/6FyLbzoyucZwgQVa0OdoAV) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [初音](https://open.spotify.com/album/4fVFgdlOH9JZVH60Su5Dkw) | 4:11 | 2022-11-30 |  |
@@ -121,6 +121,7 @@
 | [印象](https://open.spotify.com/track/3gfm2zOE9ZwsiKh36mPjpY) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [印象](https://open.spotify.com/album/4ynS04kn3rXnCvOJ9wFXmm) | 3:53 | 2022-03-07 | 2022-08-03 |
 | [原來談戀愛是這麼一回事](https://open.spotify.com/track/6TJOXAyqTtq6Xvk1qHoleJ) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [原來談戀愛是這麼一回事](https://open.spotify.com/album/41qU1Np9lsLmB0o1e4sQql) | 3:29 | 2022-08-02 | 2022-09-07 |
 | [只想你記得](https://open.spotify.com/track/2CZDMyih2ayqPoe9Ccw2e7) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [只想你記得](https://open.spotify.com/album/28HSqRdjcCF4tHGwbXH10K) | 3:13 | 2022-01-04 | 2022-03-08 |
+| [可惜你是個人](https://open.spotify.com/track/4Bfgdsd4wlypz9B12zuNay) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [可惜你是個人](https://open.spotify.com/album/0XKJPvviHX8UQa5NyVZZBR) | 4:27 | 2023-10-03 |  |
 | [君莫問](https://open.spotify.com/track/0aTRqpyXgGs3yfnlRR4IBF) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [君莫問](https://open.spotify.com/album/5jCsCSxXDojiRu92WdoXFG) | 3:07 | 2023-06-06 |  |
 | [吳哥窟](https://open.spotify.com/track/1BFpJoAPByexBgJ5z7CDHZ) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [我本人](https://open.spotify.com/album/73eNXN2VJcoEasWmWp4IX8) | 3:43 | 2021-12-07 | 2022-01-05 |
 | [告別式](https://open.spotify.com/track/4fxdfsuH7iUDixsF3IO8PA) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [告別式](https://open.spotify.com/album/60TuWoX4pXkaqjjadnYQxp) | 4:57 | 2021-12-07 | 2022-01-05 |
@@ -142,7 +143,7 @@
 | [如何忍眼淚](https://open.spotify.com/track/5xvDtj7eVQNtygu89PCj8V) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [Listen To Mi](https://open.spotify.com/album/1dSQj1GKXlEGZSWH1rpwsK) | 3:48 | 2021-12-07 | 2022-01-05 |
 | [如愿](https://open.spotify.com/track/4x9retP0JqKa35zZZhNhNS) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [如愿](https://open.spotify.com/album/3uybtqPxUaSIC9qTh1Wxfg) | 4:25 | 2021-12-07 | 2022-01-05 |
 | [小伊人愛護說明書](https://open.spotify.com/track/1iXcFABGhZSdrcTIzNcraa) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [小伊人愛護說明書](https://open.spotify.com/album/2nMO1JCBFcwzdlXe5tKLr4) | 3:33 | 2022-01-04 | 2022-02-03 |
-| [小島](https://open.spotify.com/track/2hn37fEFyplCS7stICKgAq) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [小島](https://open.spotify.com/album/13fTvWxRTs2t02FhPLCaGw) | 3:27 | 2022-03-07 | 2022-05-04 |
+| [小島](https://open.spotify.com/track/2hn37fEFyplCS7stICKgAq) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [小島](https://open.spotify.com/album/13fTvWxRTs2t02FhPLCaGw) | 3:27 | 2022-03-07 |  |
 | [尚有一堆理由顯出我優秀](https://open.spotify.com/track/1cg1SNSHbG9LxIy539xi3U) | [Robynn Yip](https://open.spotify.com/artist/0FjCN42GXtXZktPmzmKWa2) | [尚有一堆理由顯出我優秀](https://open.spotify.com/album/1qvLWSZ1Sg4DQ3tUeGJPvC) | 4:10 | 2022-03-07 | 2022-05-04 |
 | [幻愛 \(Pollie Version\) \- 電影《幻愛》主題曲](https://open.spotify.com/track/2KhBT97IkCutyCnGBB2nRV) | [Lil’ Ashes](https://open.spotify.com/artist/61JmerIHrcyWpHtih0adVh) | [幻愛](https://open.spotify.com/album/7KEkWyboM6KB8E1Amq5CX1) | 4:36 | 2022-01-04 | 2022-02-03 |
 | [心亂如麻](https://open.spotify.com/track/7xHHCahHre8K3vHpMd7ql0) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [My Love](https://open.spotify.com/album/3oAVjAtOmjrOlNOC5cwk3r) | 4:06 | 2021-12-07 | 2022-01-05 |
@@ -204,6 +205,7 @@
 | [浪漫石](https://open.spotify.com/track/0gqKyKO16PM30es201xAsZ) | [Regen C.](https://open.spotify.com/artist/4KInUUpPn9iBZgkSKTo4vv) | [浪漫石](https://open.spotify.com/album/4rKZxp7IMi7HPOdWCM9OXV) | 3:12 | 2022-03-07 | 2022-05-04 |
 | [浸浴](https://open.spotify.com/track/1UpICWgzC4wN2jC1IKYHfL) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:00 | 2021-12-07 |  |
 | [深夜浪漫](https://open.spotify.com/track/5V17L4QLIZpZ3sZtgHlmej) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [深夜浪漫](https://open.spotify.com/album/3DfW1z9k62nYQ4s4XJh7Gi) | 3:16 | 2022-01-04 | 2022-03-08 |
+| [瀟灑](https://open.spotify.com/track/6zsl5xLmgDdU5SMeC0qIPn) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [瀟灑](https://open.spotify.com/album/1NQJbok16gU94G8KQqbwZv) | 3:44 | 2023-10-03 |  |
 | [火和火柴](https://open.spotify.com/track/4JAXqGkTX0fZIauYfVb3Qo) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [火和火柴](https://open.spotify.com/album/4o8kczHjG9MDcBwhRp18Jy) | 3:44 | 2022-01-04 | 2022-03-08 |
 | [無名故事](https://open.spotify.com/track/63R20l947cq2dn2opzQ06D) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [無名故事](https://open.spotify.com/album/2WInCniECtqSXUn6eNlWzu) | 4:04 | 2022-03-07 | 2022-04-06 |
 | [無常家](https://open.spotify.com/track/5HE9tB9RHyoHVMdpOQmOHs) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [無常家](https://open.spotify.com/album/7GsVzjPuZJbKrbeEgqR23h) | 3:59 | 2022-03-07 | 2022-12-01 |

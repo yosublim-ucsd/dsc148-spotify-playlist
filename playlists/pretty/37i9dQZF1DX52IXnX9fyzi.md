@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,237 likes - 248 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,388 likes - 248 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 44 | [Vesper](https://open.spotify.com/track/0Xo93N3lMP488UozSVcWqw) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Beyond The Gloom](https://open.spotify.com/album/59FiFCeY0eKjQpTMvLgb7E) | 2:12 |
 | 45 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 |
 | 46 | [Lo Siento](https://open.spotify.com/track/6HTwYHpvYigjhhvBUsEKcd) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Lo Siento](https://open.spotify.com/album/4dTNDpTsYII6p7fkO8zWqc) | 2:14 |
-| 47 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/7kgZUuD4aj8M0WfDxIxms7) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Mysterious Ways](https://open.spotify.com/album/1BfKFbABeUVtwlEVtXi3yU) | 1:48 |
+| 47 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/00PMrRJ5KFM730sipeOuoz) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- First Meditation](https://open.spotify.com/album/5VaNEQPcYQ87Kj1fYW1uTn) | 1:48 |
 | 48 | [For You, E](https://open.spotify.com/track/5K0vfGcEAoXxcgiQT5Hegy) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [For You, E](https://open.spotify.com/album/2jswhxuUedy1shYdgAxCnG) | 2:55 |
 | 49 | [Seagull's Feathers](https://open.spotify.com/track/1UzBL7zD1kxJW2B2H3eaCf) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Seagull's Feathers](https://open.spotify.com/album/2OHdNwIAbyMWBAt3hGh81r) | 2:09 |
 | 50 | [Divinity](https://open.spotify.com/track/5ifNZSCzdccj4gxbwB5amJ) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Divinity](https://open.spotify.com/album/5towv8URRgVtNLMWniWVd1) | 2:06 |
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 247 | [Sea Change](https://open.spotify.com/track/3pJnfyKoVePwVmljB6Wun1) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Sea Change](https://open.spotify.com/album/1jqlahQiSw1r4Leg6IQp3S) | 2:51 |
 | 248 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 |
 
-Snapshot ID: `MCw0ZjM5ZTFjODA2MzI1Y2ZmMGM4NWFlODk1MGRkZWE4YWIxZTY0NGNi`
+Snapshot ID: `MCw5NzllNGNjOGNmMjZmOWY0OGRhNmIwYWYyYWQ1MjM1MmVkNWFlZmMw`

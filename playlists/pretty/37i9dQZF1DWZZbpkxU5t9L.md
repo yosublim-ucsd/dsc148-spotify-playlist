@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,663 likes - 61 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,710 likes - 61 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 60 | [On a Cherry Blossom Night](https://open.spotify.com/track/0FoW1FFoarYpUggrNVhGUz) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:29 |
 | 61 | [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 |
 
-Snapshot ID: `MCwwNWE2ZDFjMzVlY2U1OTliNmYyNTE1NDAxY2VhYTQyZDRkM2NjYmI0`
+Snapshot ID: `MCxmYTY0MWJhNGQzZGEwNmM3YTFkYmM3NGIyMzc0OWFmMjE2ZTY3ZGQx`

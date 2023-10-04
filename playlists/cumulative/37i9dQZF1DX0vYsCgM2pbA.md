@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-145 songs - 9 hr 1 min
+146 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 | 2023-02-23 | 2023-04-07 |
 | [All I Need](https://open.spotify.com/track/3YXTc9txD7OwGdkVkaoj5F) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [Flux](https://open.spotify.com/album/3GtbQUvHi0aVVumCa6093z) | 3:23 | 2023-04-20 | 2023-06-02 |
 | [Always Got The Love](https://open.spotify.com/track/5WCvSTVdMrwwk50yGVHm1g) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Always Got The Love](https://open.spotify.com/album/7mV7NuKPXVlRXhE1BodCe1) | 3:27 | 2022-12-01 | 2023-04-22 |
-| [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 | 2023-06-01 |  |
+| [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 | 2023-06-01 | 2023-10-04 |
 | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt) | 2:33 | 2022-12-01 | 2023-08-15 |
 | [Before It Goes](https://open.spotify.com/track/46ujI4XQnsKwuyq3mK34yV) | [Tijuana Cartel](https://open.spotify.com/artist/5KE0NtjV2Q9ki3i3IE6DdB) | [Alectura](https://open.spotify.com/album/1lIqutur4MwqF4nKrPpT4L) | 5:06 | 2023-08-31 | 2023-09-08 |
 | [Best of Me](https://open.spotify.com/track/60i4dFCWO9bmqfNEVdAptj) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Mosquito Love](https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V) | 4:22 | 2023-08-29 | 2023-09-01 |
@@ -36,6 +36,7 @@
 | [Counting Sheep \(V2\) \[2018 Export Wav\] feat\. Injury Reserve](https://open.spotify.com/track/28C8KsOvTwTSrsAN9rcm96) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 2:26 | 2023-02-09 | 2023-04-11 |
 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 | 2023-09-28 |  |
 | [DEVOTION](https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [DEVOTION](https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw) | 3:51 | 2022-12-01 |  |
+| [DEVOTION \- Mansionair Remix](https://open.spotify.com/track/6d8DvkfIHiilazeqFiAMBB) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [DEVOTION \(Mansionair Remix\)](https://open.spotify.com/album/6iccD3bKf7WzugmfcHtu3O) | 4:19 | 2023-09-28 |  |
 | [Differences](https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Differences](https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy) | 2:20 | 2023-01-26 | 2023-09-28 |
 | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Pooks](https://open.spotify.com/artist/4bK23BKvm2y1lYjenizdTN), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Hayley Trinca](https://open.spotify.com/artist/5l3jgJIgcCwcD0eG6wm0QH) | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0) | 3:03 | 2022-12-15 |  |
 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 | 2023-07-13 |  |

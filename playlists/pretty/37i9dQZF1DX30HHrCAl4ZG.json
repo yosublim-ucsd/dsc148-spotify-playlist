@@ -1,12 +1,12 @@
 {
   "description": "Explore all things indie rock right now. Featuring new music by Briston Maroney. ",
-  "num_followers": 849256,
+  "num_followers": 849278,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzU1ZTU3ZGI1NjRiMzdlMDJmMjljOTBiZGUyMDlhNWYyOGFiZDdm",
+  "snapshot_id": "MCwwMjhlZmEyN2VhNmZkNjVlY2QzNmFiNTM4NWYzYjAxOTY1MWNmM2E2",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -547,22 +547,6 @@
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/2D3Kia865pJnopFMJtSwRV"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1351,8 +1335,8 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Library",
-        "url": "https://open.spotify.com/album/2LuHMMKawbuifCE7p1HZKv"
+        "name": "Disco Ball Soul",
+        "url": "https://open.spotify.com/album/0yS9yFe7vcaFNz34dUrrIB"
       },
       "artists": [
         {
@@ -1366,7 +1350,7 @@
       ],
       "duration_ms": 159954,
       "name": "Library",
-      "url": "https://open.spotify.com/track/7dxjxc3cL7fO2zFPdVZdwx"
+      "url": "https://open.spotify.com/track/2nbL5N84ccUC3FDnw1cbsM"
     },
     {
       "added_at": "2023-09-08 04:00:00",

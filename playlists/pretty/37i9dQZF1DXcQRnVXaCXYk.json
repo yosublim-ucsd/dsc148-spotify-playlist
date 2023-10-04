@@ -1,12 +1,12 @@
 {
   "description": "Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.",
-  "num_followers": 43502,
+  "num_followers": 43523,
   "original_name": "The Pop Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDI3NTc1ZDk5MzE5Mzc0NTg0MTA0ZGY3OGY1OTA2N2RlMmU2ZmIy",
+  "snapshot_id": "MCw0NjAzMmIxODNiNDA3MTIzZTBiYTc2ZDkwNDZmMWVlNTg3OGFlYmFl",
   "tracks": [
     {
       "added_at": "2023-09-21 17:52:19",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-09-21 17:52:19",
       "album": {
-        "name": "Lipstick",
-        "url": "https://open.spotify.com/album/0xNBKoAOgkjxgDsmoa5lpV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "Lipstick",
-      "url": "https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov"
-    },
-    {
-      "added_at": "2023-09-21 17:52:19",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
+    },
+    {
+      "added_at": "2023-09-21 17:52:19",
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/0xNBKoAOgkjxgDsmoa5lpV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov"
     },
     {
       "added_at": "2023-09-21 17:52:19",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-21 17:52:19",
       "album": {
-        "name": "Honeymoon Phase",
-        "url": "https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi"
-      },
-      "artists": [
-        {
-          "name": "OSKA",
-          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Love You've Lost",
-      "url": "https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti"
-    },
-    {
-      "added_at": "2023-09-21 17:52:19",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 202986,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/2HEudAZWEH9NsygtkWXs5s"
+    },
+    {
+      "added_at": "2023-09-21 17:52:19",
+      "album": {
+        "name": "Honeymoon Phase",
+        "url": "https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Love You've Lost",
+      "url": "https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti"
     },
     {
       "added_at": "2023-09-21 17:52:19",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-21 17:52:19",
       "album": {
-        "name": "We Were Liars",
-        "url": "https://open.spotify.com/album/1fYonUxSmAnow1U8f2vhUl"
-      },
-      "artists": [
-        {
-          "name": "Atticus Blue",
-          "url": "https://open.spotify.com/artist/5jBXUdZ1qWKhy263U0nXPs"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "We Were Liars",
-      "url": "https://open.spotify.com/track/6KkBc1KCGGPRZ8cEz6E5iG"
-    },
-    {
-      "added_at": "2023-09-21 17:52:19",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 179253,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO"
+    },
+    {
+      "added_at": "2023-09-21 17:52:19",
+      "album": {
+        "name": "We Were Liars",
+        "url": "https://open.spotify.com/album/1fYonUxSmAnow1U8f2vhUl"
+      },
+      "artists": [
+        {
+          "name": "Atticus Blue",
+          "url": "https://open.spotify.com/artist/5jBXUdZ1qWKhy263U0nXPs"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "We Were Liars",
+      "url": "https://open.spotify.com/track/6KkBc1KCGGPRZ8cEz6E5iG"
     },
     {
       "added_at": "2023-09-21 17:52:19",

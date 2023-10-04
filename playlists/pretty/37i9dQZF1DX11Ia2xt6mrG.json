@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Dannylux en portada.",
-  "num_followers": 55021,
+  "num_followers": 55023,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzUwNTE2MzI1N2JlNTkzMGE0OGJmYmU4NTBmOTgyYTk4OTk1NzQx",
+  "snapshot_id": "MCxjNGIwNTg0ZmJjZWE1NjA4ZjAzOTljOTg1MGM4ZWE0MmMzODY0OGQz",
   "tracks": [
     {
       "added_at": "2023-09-29 06:00:00",
@@ -591,26 +591,18 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Ayanami",
-        "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
+        "name": "El Pana Dero",
+        "url": "https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I"
       },
       "artists": [
         {
-          "name": "Seith",
-          "url": "https://open.spotify.com/artist/0AX9fLjdqQxFjteGQcg3u2"
-        },
-        {
-          "name": "katsu energy",
-          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
-        },
-        {
-          "name": "B Kush",
-          "url": "https://open.spotify.com/artist/6i4990JfINe9bxVJjqJISS"
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Ayanami",
-      "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
+      "duration_ms": 164160,
+      "name": "El Pana Dero",
+      "url": "https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -631,18 +623,26 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "El Pana Dero",
-        "url": "https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I"
+        "name": "Ayanami",
+        "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
       },
       "artists": [
         {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+          "name": "Seith",
+          "url": "https://open.spotify.com/artist/0AX9fLjdqQxFjteGQcg3u2"
+        },
+        {
+          "name": "katsu energy",
+          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
+        },
+        {
+          "name": "B Kush",
+          "url": "https://open.spotify.com/artist/6i4990JfINe9bxVJjqJISS"
         }
       ],
-      "duration_ms": 164160,
-      "name": "El Pana Dero",
-      "url": "https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT"
+      "duration_ms": 147000,
+      "name": "Ayanami",
+      "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -939,6 +939,26 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "Ojos (La Noche Mix)",
+        "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
+      },
+      "artists": [
+        {
+          "name": "Jenna Kyle",
+          "url": "https://open.spotify.com/artist/17mfg70P3n3uE4mZP6mH8H"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 180521,
+      "name": "Ojos - La Noche Mix - Radio Edit",
+      "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "Brake Test",
         "url": "https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 137812,
       "name": "Brake Test",
       "url": "https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Ojos (La Noche Mix)",
-        "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
-      },
-      "artists": [
-        {
-          "name": "Jenna Kyle",
-          "url": "https://open.spotify.com/artist/17mfg70P3n3uE4mZP6mH8H"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 180521,
-      "name": "Ojos - La Noche Mix - Radio Edit",
-      "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
-      },
-      "artists": [
-        {
-          "name": "Andre VII",
-          "url": "https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq"
-        }
-      ],
-      "duration_ms": 369828,
-      "name": "Highway - Original Mix",
-      "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 166611,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
+      },
+      "artists": [
+        {
+          "name": "Andre VII",
+          "url": "https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq"
+        }
+      ],
+      "duration_ms": 369828,
+      "name": "Highway - Original Mix",
+      "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Esto Aqui No Acaba",
-        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Flor Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Esto Aqui No Acaba",
-      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "Malas Decisiones",
         "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 228907,
       "name": "Huellas",
       "url": "https://open.spotify.com/track/6GmNKFbiPwZJ01fYkBeToB"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Esto Aqui No Acaba",
+        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Flor Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Esto Aqui No Acaba",
+      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 213133,
       "name": "Windows",
       "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        }
+      ],
+      "duration_ms": 210967,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
-      },
-      "artists": [
-        {
-          "name": "N\u00d8RBY",
-          "url": "https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw"
-        },
-        {
-          "name": "Taylor Diaz",
-          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "I Saw You",
         "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
       },
@@ -1571,18 +1551,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Revelation",
-        "url": "https://open.spotify.com/album/63EEXjXqMKfdyg4oo5sBVH"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
       },
       "artists": [
         {
-          "name": "AO (MX)",
-          "url": "https://open.spotify.com/artist/1Xk4yfpxUMbLAnsYrJi1yM"
+          "name": "N\u00d8RBY",
+          "url": "https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw"
+        },
+        {
+          "name": "Taylor Diaz",
+          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
         }
       ],
-      "duration_ms": 456393,
-      "name": "Revelation",
-      "url": "https://open.spotify.com/track/1L2yB766uJH2BCTDxPQOcP"
+      "duration_ms": 178909,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1603,18 +1587,38 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Galactic Feelings",
-        "url": "https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X"
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/63EEXjXqMKfdyg4oo5sBVH"
       },
       "artists": [
         {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+          "name": "AO (MX)",
+          "url": "https://open.spotify.com/artist/1Xk4yfpxUMbLAnsYrJi1yM"
         }
       ],
-      "duration_ms": 250775,
-      "name": "Galactic Feelings",
-      "url": "https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R"
+      "duration_ms": 456393,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/1L2yB766uJH2BCTDxPQOcP"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Like a Dream",
+        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Bandido Brothers",
+          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Like a Dream",
+      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1639,22 +1643,18 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Like a Dream",
-        "url": "https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu"
+        "name": "Galactic Feelings",
+        "url": "https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X"
       },
       "artists": [
         {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Bandido Brothers",
-          "url": "https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ"
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Like a Dream",
-      "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
+      "duration_ms": 250775,
+      "name": "Galactic Feelings",
+      "url": "https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Mistake",
-        "url": "https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T"
-      },
-      "artists": [
-        {
-          "name": "JOKA",
-          "url": "https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV"
-        }
-      ],
-      "duration_ms": 192366,
-      "name": "Mistake",
-      "url": "https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "killed love",
         "url": "https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 232288,
       "name": "killed love",
       "url": "https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Mistake",
+        "url": "https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T"
+      },
+      "artists": [
+        {
+          "name": "JOKA",
+          "url": "https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV"
+        }
+      ],
+      "duration_ms": 192366,
+      "name": "Mistake",
+      "url": "https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs"
     }
   ],
   "unique_name": "mint MX",

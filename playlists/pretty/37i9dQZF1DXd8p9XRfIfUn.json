@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: legallyrxx",
-  "num_followers": 66198,
+  "num_followers": 66212,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjU4NjY2MzM2NjQ2ZTcwMmU5MGU1YjFkMDA1NDdkMjFjYzFkZWI3",
+  "snapshot_id": "MCxhZDQ4NTdmMDI2YjhkMDE2OGM0YzEyZjc2ZTAyNTQ0NzRmZWYxZThl",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Locura y Maldad",
+        "url": "https://open.spotify.com/album/7b37HOxDoKxFoFzHUZrUpK"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Locura y Maldad",
+      "url": "https://open.spotify.com/track/345pDhxKVhsOcs9VEnBkLa"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Salimo de Noche",
         "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 177857,
       "name": "Salimo de Noche",
       "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Locura y Maldad",
-        "url": "https://open.spotify.com/album/7b37HOxDoKxFoFzHUZrUpK"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Locura y Maldad",
-      "url": "https://open.spotify.com/track/345pDhxKVhsOcs9VEnBkLa"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -603,34 +603,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Los Malvekes",
-        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Simon la Letra",
-          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
-        },
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Los Malvekes",
-      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Mi Fanatica",
         "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
       },
@@ -691,6 +663,34 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Los Malvekes",
+        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Los Malvekes",
+      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Siempre Fine",
         "url": "https://open.spotify.com/album/4ZJFPNSnivkwyyNJ7EIYT4"
       },
@@ -719,6 +719,34 @@
       "duration_ms": 257592,
       "name": "La del Tik Tok",
       "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Pasajero",
+        "url": "https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa"
+      },
+      "artists": [
+        {
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 218448,
+      "name": "Pasajero",
+      "url": "https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -767,34 +795,6 @@
       "duration_ms": 204136,
       "name": "Como \u00d1engo (feat. Jota Rosa)",
       "url": "https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Pasajero",
-        "url": "https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa"
-      },
-      "artists": [
-        {
-          "name": "Nath",
-          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 218448,
-      "name": "Pasajero",
-      "url": "https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "Palmas",
-        "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
-      },
-      "artists": [
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        },
-        {
-          "name": "Saga WhiteBlack",
-          "url": "https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6"
-        }
-      ],
-      "duration_ms": 171089,
-      "name": "Palmas",
-      "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Tussi Code Mari",
         "url": "https://open.spotify.com/album/7aCyMeAhpphWSU828YBp9K"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 172390,
       "name": "Tussi Code Mari",
       "url": "https://open.spotify.com/track/5z3ALMdeF0rZSNQVzNrENw"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "Palmas",
+        "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Saga WhiteBlack",
+          "url": "https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6"
+        }
+      ],
+      "duration_ms": 171089,
+      "name": "Palmas",
+      "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
-        "url": "https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
-      "url": "https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "MAMi QU\u00c9 FUE?",
         "url": "https://open.spotify.com/album/3eqaeA5SS4CMsVYnm0ntrS"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 167814,
       "name": "MAMi QU\u00c9 FUE?",
       "url": "https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
+        "url": "https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
+      "url": "https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy"
     },
     {
       "added_at": "2023-06-29 22:00:00",

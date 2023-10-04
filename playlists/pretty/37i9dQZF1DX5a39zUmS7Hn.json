@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: U2",
-  "num_followers": 414953,
+  "num_followers": 415047,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmI1MGIxNDYxOTQ3N2RlOTUxNmRjMTRhNGY2ZmFmZDFjZGE3MjEy",
+  "snapshot_id": "MCw0NTBhNDI2MWM3ODI2YTdhMzNkNGViZTcwMjgzZDIyODAyZGM5ODU2",
   "tracks": [
     {
       "added_at": "2023-09-28 23:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Urban Hymns (Remastered 2016)",
-        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 357266,
-      "name": "Bitter Sweet Symphony - Remastered 2016",
-      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "Seven Inches Of Satanic Panic",
         "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Urban Hymns (Remastered 2016)",
+        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 357266,
+      "name": "Bitter Sweet Symphony - Remastered 2016",
+      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -767,8 +767,8 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
       },
       "artists": [
         {
@@ -776,25 +776,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -811,6 +795,22 @@
       "duration_ms": 259906,
       "name": "Once in a Lifetime - 2005 Remaster",
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 276666,
-      "name": "Live Forever - Remastered",
-      "url": "https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 246400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 276666,
+      "name": "Live Forever - Remastered",
+      "url": "https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -895,6 +895,38 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
+        "name": "Louder Than Bombs",
+        "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 140506,
+      "name": "Panic - 2011 Remaster",
+      "url": "https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
         "name": "Perhaps",
         "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
       },
@@ -911,34 +943,22 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+        "name": "Sweet Sounds Of Heaven",
+        "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
       },
       "artists": [
         {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Louder Than Bombs",
-        "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
-      },
-      "artists": [
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
         {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 140506,
-      "name": "Panic - 2011 Remaster",
-      "url": "https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK"
+      "duration_ms": 306423,
+      "name": "Sweet Sounds Of Heaven (feat. Lady Gaga & Stevie Wonder) - Edit",
+      "url": "https://open.spotify.com/track/6HCUMOcGa4LyjcBXjl7z0Y"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1023,26 +1043,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Sweet Sounds Of Heaven",
-        "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 306423,
-      "name": "Sweet Sounds Of Heaven (feat. Lady Gaga & Stevie Wonder) - Edit",
-      "url": "https://open.spotify.com/track/6HCUMOcGa4LyjcBXjl7z0Y"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "Parklife (Special Edition)",
         "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
       },
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 269813,
+      "name": "The Chain - 2004 Remaster",
+      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
         "name": "Fear Inoculum",
         "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 172920,
       "name": "A Message to You Rudy - 2015 Remaster",
       "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 269813,
-      "name": "The Chain - 2004 Remaster",
-      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "The Narcissist",
-        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 245225,
-      "name": "The Narcissist",
-      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+        "name": "The Narcissist",
+        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
         }
       ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
+      "duration_ms": 245225,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
     },
     {
       "added_at": "2023-09-28 23:00:00",

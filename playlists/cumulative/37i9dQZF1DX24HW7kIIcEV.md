@@ -2,9 +2,9 @@
 
 ### [after school club 🪄](https://open.spotify.com/playlist/37i9dQZF1DX24HW7kIIcEV)
 
-> this is what dreams are made of!
+> it's October 3rd
 
-119 songs - 6 hr 30 min
+121 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Determinate \- From "Lemonade Mouth"](https://open.spotify.com/track/4qEoqyPbLYnLOii6mKlIjI) | [Adam Hicks](https://open.spotify.com/artist/3dctbbXhrRgigX1icexnws), [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb), [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Lemonade Mouth](https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ) | 3:18 | 2022-03-25 |  |
 | [Do You Believe In Magic](https://open.spotify.com/track/7zBq7YCjuIxQRxqhtKJNbI) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Into The Rush](https://open.spotify.com/album/1Qx0TayWQYtbHAR7ECJyj7) | 2:14 | 2022-03-25 |  |
 | [Don't Forget](https://open.spotify.com/track/4He7bzKBaiu7CRz4wGkZzx) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Don't Forget](https://open.spotify.com/album/0X4XyC6gwsBtEO2iJlSJgw) | 3:43 | 2022-03-25 |  |
+| [Drama Queen \(That Girl\) \- Original Version](https://open.spotify.com/track/7ijMo6K6uLdgJqGdj9H7nG) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Confessions Of A Teenage Drama Queen](https://open.spotify.com/album/6jOV118zAEVyknQyHv9mnK) | 3:29 | 2023-10-03 |  |
 | [Everything Is Not As It Seems \- Series Theme Song](https://open.spotify.com/track/5U4wYRHrCRxRP6iQfM824C) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Wizards of Waverly Place](https://open.spotify.com/album/2aXmfPpn8Hq7B5gxOTxxi4) | 0:50 | 2022-03-25 |  |
 | [Fabulous](https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo) | [Sharpay Evans](https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt), [Ryan](https://open.spotify.com/artist/1fe7Tefs9PHQdILRR6gKoa), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 2 \(Original Soundtrack\)](https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49) | 3:00 | 2022-03-25 |  |
 | [Falling for Ya](https://open.spotify.com/track/5hK2Ks25jW6aMmUAHpAN3F) | [Grace Phipps](https://open.spotify.com/artist/2k8LSCieAnywX4Ku6k3X4m) | [Teen Beach Movie](https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF) | 3:12 | 2022-04-21 |  |
@@ -75,7 +76,7 @@
 | [Ordinary Girl](https://open.spotify.com/track/2kIq7Oq6YNfdUuTrmPC4w1) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana Forever](https://open.spotify.com/album/6FUFS9PRGUTyVrsltg1xji) | 2:57 | 2022-04-21 |  |
 | [Ordinary Girl](https://open.spotify.com/track/7DETWEnTmY875dC5Q8gvqV) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana Forever](https://open.spotify.com/album/5sYiillHfDiNUWUHZtlzFz) | 2:58 | 2022-03-25 | 2022-07-29 |
 | [Our Lips Are Sealed](https://open.spotify.com/track/6kv77w8Y9HC4OVLyAqAFpQ) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h), [Haylie Duff](https://open.spotify.com/artist/02T6rhlQ5X6rO01HUOIjLT) | [A Cinderella Story](https://open.spotify.com/album/0v7wAUSuX97AEwuJrcFJHb) | 2:39 | 2022-03-25 |  |
-| [Over](https://open.spotify.com/track/2vJzrTur6cWX2wX7ZvI38S) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:36 | 2022-03-25 | 2022-09-11 |
+| [Over](https://open.spotify.com/track/2vJzrTur6cWX2wX7ZvI38S) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:36 | 2022-03-25 |  |
 | [Party in the U.S.A.](https://open.spotify.com/track/65FLvpwtcMn2PHVOMcGNoG) | [Chelsea Heart](https://open.spotify.com/artist/2o3YvwaLj1ZcVAp0wYQKxL) | [4th July Bbq Grill Party Mix](https://open.spotify.com/album/7cNleXCYpNr2GhTBAy37Xz) | 3:24 | 2022-09-10 | 2022-11-14 |
 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 | 2022-03-25 | 2022-07-29 |
 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2022-04-21 |  |
@@ -87,6 +88,7 @@
 | [Push It to the Limit](https://open.spotify.com/track/3K01q0jtSNHeqx5gs97HH2) | [Corbin Bleu](https://open.spotify.com/artist/5GuEFqVXxQsqJtjGqoFWvf) | [Another Side](https://open.spotify.com/album/6Q2jKaWXFHu1bbnXHQpYiz) | 3:16 | 2022-04-21 |  |
 | [Reach \- Original Version](https://open.spotify.com/track/0kblBacvX0GNlnEs64vEW7) | [Caleigh Peters](https://open.spotify.com/artist/4q90j5LLa8ZamYiqCjTJCf) | [Ice Princess](https://open.spotify.com/album/6NfXy1XXbd5GsU3BVLlB6e) | 3:43 | 2022-03-25 | 2022-04-22 |
 | [Ready or Not](https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:20 | 2022-03-25 |  |
+| [Rumors](https://open.spotify.com/track/3KnjerEPMolLapVo2wdgz6) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:16 | 2023-10-03 |  |
 | [S.O.S.](https://open.spotify.com/track/5hbytEkl5hUB5iRb0cCtZi) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/6V6xjV5e4VYUqvQFBCx1rb) | 2:33 | 2022-03-25 | 2022-07-29 |
 | [S.O.S.](https://open.spotify.com/track/6sDP4912wjwB7BJhbSnjS1) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/4myOCm6FzD9TMdK7Q0Nzx0) | 2:33 | 2022-04-21 |  |
 | [S.O.S.](https://open.spotify.com/track/7tidSoiTUdW8y8HZTHP3zV) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Biggest Dance Trends](https://open.spotify.com/album/3o5O0QFbO4Gw295m5LFJds) | 2:33 | 2022-09-10 | 2022-11-13 |

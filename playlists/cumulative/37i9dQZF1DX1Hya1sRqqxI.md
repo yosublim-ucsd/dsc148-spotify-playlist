@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-330 songs - 21 hr 45 min
+331 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Disco Inferno \- Edit](https://open.spotify.com/track/3GXo1eWlT2flv4x01l5OTu) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Playlist: The Best Of The Trammps](https://open.spotify.com/album/2fbPRtAt1i5f68lZegx1iB) | 3:35 | 2021-03-22 |  |
 | [Disco Stomp](https://open.spotify.com/track/3mUkLWIadGyGfhMx4MRfB6) | [Bohannon](https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6) | [Insides Out](https://open.spotify.com/album/7KXF5DoOGd0m4NfAIbvKBk) | 5:15 | 2021-09-08 | 2022-07-27 |
 | [Doctor My Eyes](https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:19 | 2021-09-08 | 2023-09-29 |
+| [Doctor My Eyes \- 1997 Remaster](https://open.spotify.com/track/5OuaAMBmGjjJMK7yXpaFAK) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Next Voice You Hear \- The Best Of Jackson Browne](https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu) | 3:19 | 2021-09-08 |  |
 | [Doctor's Orders](https://open.spotify.com/track/0mOIj8tjNHcOBWSTGXmGVr) | [Carol Douglas](https://open.spotify.com/artist/7xcXR8rEj6eRPVMFjUNtBe) | [Disco 45's: A Short Trip Into Ecstasy](https://open.spotify.com/album/54ye0ADCH8Xp0R0rvGSviC) | 3:02 | 2021-09-08 | 2022-07-29 |
 | [Does Your Mother Know](https://open.spotify.com/track/2HPB3px8MJZRMfu1L65Z41) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:13 | 2021-09-08 | 2022-07-29 |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 | 2021-03-22 |  |
@@ -218,7 +219,7 @@
 | [One Way Ticket](https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G) | [Eruption](https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY) | [4 Hits: Eruption](https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm) | 3:33 | 2021-09-08 |  |
 | [Ooh what a life](https://open.spotify.com/track/26LXuBlHw2DZWcVcfMVlmi) | [The Gibson Brothers](https://open.spotify.com/artist/0pRXhFeDRaYQgCp0lj2X9r) | [The Complete Of Gibson Brothers](https://open.spotify.com/album/5RccpTmcphuiXB6XM7jljn) | 5:43 | 2021-09-08 | 2022-07-28 |
 | [Outa\-Space](https://open.spotify.com/track/17KFO56mkVEKR0v8qOPlkU) | [Billy Preston](https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5) | [I Wrote A Simple Song](https://open.spotify.com/album/02xgi7oFRl22FFr9GU8t1c) | 4:10 | 2021-09-08 | 2022-06-17 |
-| [Peg](https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 4:00 | 2021-03-22 |  |
+| [Peg](https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 4:00 | 2021-03-22 | 2023-10-04 |
 | [Pick up the Pieces](https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [Average White Band](https://open.spotify.com/album/5SlfIp60F93VaOJjd88BXC) | 3:54 | 2021-09-08 | 2022-07-24 |
 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 | 2021-09-08 |  |
 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 | 2021-03-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Zior Park\(지올팍\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,583 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,669 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [HAPPENING](https://open.spotify.com/track/5dpQn0AXTRnJV0Ik1FcU47) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [HAPPENING](https://open.spotify.com/album/3C5U9NYko3wIPimlaCaZZz) | 3:44 |
 | 50 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 |
 
-Snapshot ID: `MCwyMmMwMzBiYzhjZWE3Y2MxMmM2NGFjNDViZTQ4MWU5ZjA2MTYzZDky`
+Snapshot ID: `MCw2NDMzZjU4YTZmZmMxYmU3YmIzZGEwYTg2Y2QxM2JkMGUzNWIxYzUx`

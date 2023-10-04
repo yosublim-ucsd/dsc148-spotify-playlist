@@ -1,12 +1,12 @@
 {
   "description": "2014 highlights from the home of indie music.",
-  "num_followers": 49887,
+  "num_followers": 49915,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDUzZDM2ZWJkOWU3ZGQ4OWYxNzQzYjBlZmE1NWFhZDI0NzM1ODEw",
+  "snapshot_id": "MCw2MjM5YmMxNGY5M2Q2MTcyODNjYWUyNzM0YWQwZjU2NmRmNzBiMDAx",
   "tracks": [
     {
       "added_at": "2021-09-03 05:42:37",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 246306,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Salad Days",
         "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Built on Glass",
-        "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 285255,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk"
+      "duration_ms": 246306,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -695,6 +679,22 @@
       "duration_ms": 199742,
       "name": "Empress",
       "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Built on Glass",
+        "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 285255,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Built on Glass",
-        "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 218067,
-      "name": "Talk Is Cheap",
-      "url": "https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Bahamas Is Afie",
         "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 248920,
       "name": "Black Mambo",
       "url": "https://open.spotify.com/track/63OC8cNa4ZnFB3bbvbWCOc"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Built on Glass",
+        "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 218067,
+      "name": "Talk Is Cheap",
+      "url": "https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 283636,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "The Balcony",
         "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 148092,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/7lnXzMcgaK7CnzaQ7wj6k0"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 283636,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "ZABA",
         "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 254640,
       "name": "Toes",
       "url": "https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 281213,
-      "name": "I Forget Where We Were",
-      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
       },
@@ -1087,22 +1071,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 251626,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/607EA1HsuzrqqaPuxyNqpD"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7"
       },
@@ -1119,6 +1087,38 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "I Forget Where We Were",
+      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 251626,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/607EA1HsuzrqqaPuxyNqpD"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 181772,
       "name": "Busy Earnin'",
       "url": "https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "She Treats Me Well",
-      "url": "https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1179,6 +1163,22 @@
       "duration_ms": 219400,
       "name": "Lazaretto",
       "url": "https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "She Treats Me Well",
+      "url": "https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW"
     },
     {
       "added_at": "2021-09-03 05:42:37",

@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 207280,
       "name": "Noble Game (Feat. ILLINIT) (Prod. ILLUID HALLER)",
       "url": "https://open.spotify.com/track/3pLgl8HxGWbypR0yG6KlPS"
@@ -3358,6 +3358,28 @@
       "duration_ms": 190160,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/2sSMk1fkcz6rTKaQn711yz"
+    },
+    {
+      "album": {
+        "name": "1Q87",
+        "url": "https://open.spotify.com/album/5PWkEmaDQmIEqoqSg1VhsJ"
+      },
+      "artists": [
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        },
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "You and Me (feat. Gummy)",
+      "url": "https://open.spotify.com/track/0LvTksPA6IPRyI8m3blITL"
     },
     {
       "album": {

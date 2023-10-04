@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2585321,
+  "num_followers": 2585668,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTRiMzE2NWVjMGNjODJlY2RlMmE1MzIxMzllZWY2ZTBhMDBmZDQ1",
+  "snapshot_id": "MCwzN2Y4YmRkZmUzZDhiZGI0N2E3NDc1OGY3NjhmMzEyMGQ3NzUzYzA1",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Laserbeam",
+        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Laserbeam",
+      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "BRAVE",
         "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 220839,
       "name": "DAMN",
       "url": "https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Laserbeam",
-        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Laserbeam",
-      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -447,30 +447,6 @@
       "duration_ms": 238285,
       "name": "Gassed Up",
       "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Gyrate (ft. Wreckno)",
-        "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Quackson",
-          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
-        },
-        {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Gyrate (ft. Wreckno)",
-      "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -507,6 +483,30 @@
       "duration_ms": 182580,
       "name": "Fight Back",
       "url": "https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Gyrate (ft. Wreckno)",
+        "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        },
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Gyrate (ft. Wreckno)",
+      "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -687,30 +687,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "HEADSH\u00d6T",
-        "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
-      },
-      "artists": [
-        {
-          "name": "8\u00d68",
-          "url": "https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU"
-        },
-        {
-          "name": "Sh\u00f6ckface",
-          "url": "https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM"
-        },
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 157036,
-      "name": "HEADSH\u00d6T",
-      "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Bangers[7].Zip",
         "url": "https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV"
       },
@@ -731,6 +707,30 @@
       "duration_ms": 163764,
       "name": "MEGAZORD",
       "url": "https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "HEADSH\u00d6T",
+        "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
+      },
+      "artists": [
+        {
+          "name": "8\u00d68",
+          "url": "https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU"
+        },
+        {
+          "name": "Sh\u00f6ckface",
+          "url": "https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 157036,
+      "name": "HEADSH\u00d6T",
+      "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "WRATH OF THE WICKED",
+        "url": "https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "SAVE U NOW",
+      "url": "https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Vibe Check",
         "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 147310,
       "name": "Do It To It - Subtronics Remix",
       "url": "https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "WRATH OF THE WICKED",
-        "url": "https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Medyk",
-          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "SAVE U NOW",
-      "url": "https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Work That Body",
-        "url": "https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h"
-      },
-      "artists": [
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        },
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Work That Body",
-      "url": "https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Wall Of Death",
         "url": "https://open.spotify.com/album/6qiabMcuYx4PI3JRqscOhZ"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 168960,
       "name": "Wall Of Death",
       "url": "https://open.spotify.com/track/0adOv7C57abcznr40leSHx"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Work That Body",
+        "url": "https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h"
+      },
+      "artists": [
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        },
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Work That Body",
+      "url": "https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH"
     }
   ],
   "unique_name": "Hype",

@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 187643,
       "name": "ABLOH",
       "url": "https://open.spotify.com/track/5b5qsm7AO27JZ6osmKTshX"
@@ -748,6 +748,24 @@
       "duration_ms": 138870,
       "name": "Calle Romo Teteo Discoteca",
       "url": "https://open.spotify.com/track/4JBY54iFqdft7yMNOVvzo1"
+    },
+    {
+      "album": {
+        "name": "Calorazo",
+        "url": "https://open.spotify.com/album/6l1nP7pApoZRY4taX32OVp"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149328,
+      "name": "Calorazo",
+      "url": "https://open.spotify.com/track/5jrG8BSLIqMvacwkiWmxc7"
     },
     {
       "album": {

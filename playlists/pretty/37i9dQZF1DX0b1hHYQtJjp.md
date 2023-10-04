@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: \*NSYNC
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,794 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,938 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 22 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 |
 | 23 | [Link Up](https://open.spotify.com/track/5vsCD4vU93v7Y3HDVdGl4b) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Link Up](https://open.spotify.com/album/2vlW2rFQ0V9EnzzYXuhPvg) | 2:33 |
 | 24 | [Hold On To Now](https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 3:57 |
-| 25 | [Why Kiki](https://open.spotify.com/track/0u4phPUE31xmBJ8SxCydGw) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Why Kiki](https://open.spotify.com/album/4S2epFuYbgCj1acLX8IRIg) | 2:39 |
+| 25 | [Why Kiki?](https://open.spotify.com/track/0u4phPUE31xmBJ8SxCydGw) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Why Kiki?](https://open.spotify.com/album/4S2epFuYbgCj1acLX8IRIg) | 2:39 |
 | 26 | [Expensive \(with Pentatonix\)](https://open.spotify.com/track/59n5wNazV1fJarSwIZnPtf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Expensive \(with Pentatonix\)](https://open.spotify.com/album/3tE3IijjKtogSzfkWfvRp0) | 3:31 |
 | 27 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 |
 | 28 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 69 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 |
 | 70 | [Girls](https://open.spotify.com/track/7EjL6DoRMa601VXjoyyBSE) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Girls](https://open.spotify.com/album/7y0Rp3VEX8Ix9g9uZp2LAG) | 2:51 |
 
-Snapshot ID: `MCxkMzk1ZjU0MGNkZTlkOWEzZDRlZGFiZTU5ZWQ4MTI3NWQzMGRiNjZm`
+Snapshot ID: `MCxhOTcyYjNmMzhiYzdiMDBkMzQ2NTM0OGU3MTViOTliYzZkYTg2MjY3`

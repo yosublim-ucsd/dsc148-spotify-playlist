@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2Q0MmE4Mjk1Nzg0MmVjNjljOTE1N2NhMzZkZThkYzJiMTJmMTdi",
+  "snapshot_id": "MCw5NWE2NDYwMTg3MWM0N2NlYTMyODkyZDRiYWQ5NTM4ODVkNTM1NTNl",
   "tracks": [
     {
       "added_at": "2023-09-22 16:03:07",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 153139,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
         "name": "Hermoso",
         "url": "https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 207274,
       "name": "Hermoso",
       "url": "https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 153139,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
     },
     {
       "added_at": "2023-09-22 16:03:07",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
+        "name": "En Tus Aguas",
+        "url": "https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP"
+      },
+      "artists": [
+        {
+          "name": "Dariann Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
         "name": "Te Odio",
         "url": "https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 213956,
       "name": "Te odio",
       "url": "https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
-        "name": "En Tus Aguas",
-        "url": "https://open.spotify.com/album/5gEcPV40FRmHGzrFKpUAMP"
-      },
-      "artists": [
-        {
-          "name": "Dariann Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "Volando",
-      "url": "https://open.spotify.com/track/0aTWyIrYm4QkGGR0m7INY7"
     },
     {
       "added_at": "2023-09-22 16:03:07",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "LALALAND",
-      "url": "https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
         "name": "Quer\u00eda Olvidarte",
         "url": "https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "LALALAND",
+      "url": "https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 188560,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
+        "name": "Salvaje oeste",
+        "url": "https://open.spotify.com/album/5p9ly1x9t3JPuzQlvMXJmT"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 168571,
+      "name": "Salvaje oeste",
+      "url": "https://open.spotify.com/track/3Svnj02fGFGjIDACeUFuiI"
     },
     {
       "added_at": "2023-09-22 16:03:07",
@@ -819,22 +835,6 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
-        "name": "Salvaje oeste",
-        "url": "https://open.spotify.com/album/5p9ly1x9t3JPuzQlvMXJmT"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 168571,
-      "name": "Salvaje oeste",
-      "url": "https://open.spotify.com/track/3Svnj02fGFGjIDACeUFuiI"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 213088,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 210763,
       "name": "NO TE ALEJES",
       "url": "https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
+        "name": "80's",
+        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 213088,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
     },
     {
       "added_at": "2023-09-22 16:03:07",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
         "name": "Agua Caliente",
         "url": "https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
       },
       "artists": [
         {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
         }
       ],
-      "duration_ms": 220853,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
+      "duration_ms": 318058,
+      "name": "Esta canci\u00f3n",
+      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
     },
     {
       "added_at": "2023-09-22 16:03:07",
@@ -1127,22 +1143,6 @@
       "duration_ms": 190000,
       "name": "odiarte",
       "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 318058,
-      "name": "Esta canci\u00f3n",
-      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
     },
     {
       "added_at": "2023-09-22 16:03:07",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
-        "name": "Querernos De Nuevo",
-        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 231994,
-      "name": "Querernos De Nuevo",
-      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/6sIQNoyBSFFrPOx4Oy2YmV"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
+        "name": "Querernos De Nuevo",
+        "url": "https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 231994,
+      "name": "Querernos De Nuevo",
+      "url": "https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
         "name": "Volves",
         "url": "https://open.spotify.com/album/4W0sH5fMAH2NYYGopA8pr9"
       },
@@ -1259,38 +1259,6 @@
       "duration_ms": 242000,
       "name": "Volves",
       "url": "https://open.spotify.com/track/5uvobs7WJRW691LBLX3oxM"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
-        "name": "FDA",
-        "url": "https://open.spotify.com/album/6DlORJmquAxLQ3UALhbkcn"
-      },
-      "artists": [
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "vulnerable",
-      "url": "https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
-        "name": "Caf\u00e9 con Miel",
-        "url": "https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 195437,
-      "name": "Caf\u00e9 con Miel",
-      "url": "https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ"
     },
     {
       "added_at": "2023-09-22 16:03:07",
@@ -1311,6 +1279,38 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
+        "name": "Caf\u00e9 con Miel",
+        "url": "https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 195437,
+      "name": "Caf\u00e9 con Miel",
+      "url": "https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
+        "name": "FDA",
+        "url": "https://open.spotify.com/album/6DlORJmquAxLQ3UALhbkcn"
+      },
+      "artists": [
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "vulnerable",
+      "url": "https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C"
     },
     {
       "added_at": "2023-09-22 16:03:07",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
+        "name": "Inhabitable",
+        "url": "https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "duration_ms": 167240,
+      "name": "Inhabitable",
+      "url": "https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
         "name": "Migajas",
         "url": "https://open.spotify.com/album/6hyFTP9WF7wDN3fuUyE2X0"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
-        "name": "Inhabitable",
-        "url": "https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG"
-      },
-      "artists": [
-        {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
-        }
-      ],
-      "duration_ms": 167240,
-      "name": "Inhabitable",
-      "url": "https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
         "name": "Si Volviera A Conocerte",
         "url": "https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4"
       },
@@ -1483,42 +1483,6 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
-        "name": "hot wheels",
-        "url": "https://open.spotify.com/album/3bRecRHl4ngDmRJZ1SQVN2"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        },
-        {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
-        }
-      ],
-      "duration_ms": 169539,
-      "name": "hot wheels",
-      "url": "https://open.spotify.com/track/3Luh6sz1FHuGEv1HFhIR0m"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
-        "name": "TODO LO QUE HICE",
-        "url": "https://open.spotify.com/album/2xrFeU2vGVFZkDtUmxUJtJ"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "TODO LO QUE HICE",
-      "url": "https://open.spotify.com/track/5vH9UyB4OrFgiRHHx1BqNf"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
         "name": "Fuego - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6hRJWC3lrfRfaXfChbhm6k"
       },
@@ -1531,6 +1495,42 @@
       "duration_ms": 199402,
       "name": "Fuego - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5AzS25cbfhnWra3nQduYlB"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
+        "name": "odio esta casa (cuando te vas)",
+        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 194048,
+      "name": "odio esta casa (cuando te vas)",
+      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
+        "name": "Historia de un Amor",
+        "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        },
+        {
+          "name": "Denas & Miut",
+          "url": "https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT"
     },
     {
       "added_at": "2023-09-22 16:03:07",
@@ -1567,22 +1567,38 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
-        "name": "Historia de un Amor",
-        "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
+        "name": "TODO LO QUE HICE",
+        "url": "https://open.spotify.com/album/2xrFeU2vGVFZkDtUmxUJtJ"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        },
-        {
-          "name": "Denas & Miut",
-          "url": "https://open.spotify.com/artist/08YpjO7782fC1b4GpR0LsQ"
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT"
+      "duration_ms": 256506,
+      "name": "TODO LO QUE HICE",
+      "url": "https://open.spotify.com/track/5vH9UyB4OrFgiRHHx1BqNf"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
+        "name": "hot wheels",
+        "url": "https://open.spotify.com/album/3bRecRHl4ngDmRJZ1SQVN2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        },
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "duration_ms": 169539,
+      "name": "hot wheels",
+      "url": "https://open.spotify.com/track/3Luh6sz1FHuGEv1HFhIR0m"
     },
     {
       "added_at": "2023-09-22 16:03:07",
@@ -1647,38 +1663,6 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
-        "name": "lo-fi",
-        "url": "https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8"
-      },
-      "artists": [
-        {
-          "name": "Martin Oliver",
-          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
-        }
-      ],
-      "duration_ms": 175392,
-      "name": "lo-fi",
-      "url": "https://open.spotify.com/track/0jsCPolR169poPX99rNtCe"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
-        "name": "odio esta casa (cuando te vas)",
-        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 194048,
-      "name": "odio esta casa (cuando te vas)",
-      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
-    },
-    {
-      "added_at": "2023-09-22 16:03:07",
-      "album": {
         "name": "Ac\u00e1",
         "url": "https://open.spotify.com/album/3qUG8qKETKEmmZqhcRbGcX"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 250000,
       "name": "Ac\u00e1",
       "url": "https://open.spotify.com/track/1Y1ZjDVV24xDdnK2WiVsjc"
+    },
+    {
+      "added_at": "2023-09-22 16:03:07",
+      "album": {
+        "name": "lo-fi",
+        "url": "https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8"
+      },
+      "artists": [
+        {
+          "name": "Martin Oliver",
+          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
+        }
+      ],
+      "duration_ms": 175392,
+      "name": "lo-fi",
+      "url": "https://open.spotify.com/track/0jsCPolR169poPX99rNtCe"
     },
     {
       "added_at": "2023-09-22 16:03:07",
@@ -1711,26 +1711,18 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
-        "name": "Young In California",
-        "url": "https://open.spotify.com/album/1reYO7vImj6L4ZshyK9qZP"
+        "name": "Solo Tu",
+        "url": "https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7"
       },
       "artists": [
         {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        },
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
         }
       ],
-      "duration_ms": 225717,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5"
+      "duration_ms": 166000,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE"
     },
     {
       "added_at": "2023-09-22 16:03:07",
@@ -1755,18 +1747,26 @@
     {
       "added_at": "2023-09-22 16:03:07",
       "album": {
-        "name": "Solo Tu",
-        "url": "https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7"
+        "name": "Young In California",
+        "url": "https://open.spotify.com/album/1reYO7vImj6L4ZshyK9qZP"
       },
       "artists": [
         {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        },
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Solo Tu",
-      "url": "https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE"
+      "duration_ms": 225717,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5"
     }
   ],
   "unique_name": "el nuevo indie",

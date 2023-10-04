@@ -1,12 +1,12 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 522160,
+  "num_followers": 522305,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTYwMDMxOTNhMjI2MTFlNGE2NTcyMmJmMDY0Y2E3Y2FlN2MxNzcx",
+  "snapshot_id": "MCw1ZjYyYjk2ODE4NzJhZmNjMDJmYzk2M2U5ZDYzZDlhYjI3OTdjMTY3",
   "tracks": [
     {
       "added_at": "2023-06-27 13:33:22",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Titans of Creation",
-        "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 392066,
-      "name": "Night of the Witch",
-      "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "The Evil Divide",
         "url": "https://open.spotify.com/album/37BeDhGFfISfgrWxbv0MtW"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 278381,
       "name": "The Moth",
       "url": "https://open.spotify.com/track/1VAr5YFV3UF3eWmbhYQMqF"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Titans of Creation",
+        "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 392066,
+      "name": "Night of the Witch",
+      "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/7lD9KnYOyQyoYIBHOWKrdz"
     },
     {
-      "added_at": "2023-07-31 21:34:14",
-      "album": {
-        "name": "A Sign of Things to Come",
-        "url": "https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "A Sign of Things to Come",
-      "url": "https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL"
-    },
-    {
       "added_at": "2023-06-27 13:33:22",
       "album": {
         "name": "Born Of The Bomb",
@@ -955,6 +939,22 @@
       "duration_ms": 279373,
       "name": "Combat Mosh",
       "url": "https://open.spotify.com/track/04FfBJZBfU0UR5uqR4CJAD"
+    },
+    {
+      "added_at": "2023-07-31 21:34:14",
+      "album": {
+        "name": "A Sign of Things to Come",
+        "url": "https://open.spotify.com/album/0yAh1jpL4MX218VAVSPJIF"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 275306,
+      "name": "A Sign of Things to Come",
+      "url": "https://open.spotify.com/track/6RK8YZleqg0LUezZ9zh2rL"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Cycle of Suffering",
-        "url": "https://open.spotify.com/album/667otcFavTltYttK0VqcVm"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 308173,
-      "name": "I Sever",
-      "url": "https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "Bonded by Blood",
         "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 291960,
       "name": "Cult",
       "url": "https://open.spotify.com/track/7jkdjLkhSQRcVA3lsnTClQ"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Cycle of Suffering",
+        "url": "https://open.spotify.com/album/667otcFavTltYttK0VqcVm"
+      },
+      "artists": [
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+        }
+      ],
+      "duration_ms": 308173,
+      "name": "I Sever",
+      "url": "https://open.spotify.com/track/2mUGAyLahjCX5TQ9VB8vX2"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Handle With Care",
-        "url": "https://open.spotify.com/album/79vmBrXaUaPS7LleUgP7HY"
-      },
-      "artists": [
-        {
-          "name": "Nuclear Assault",
-          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Critical Mass",
-      "url": "https://open.spotify.com/track/4uOq76srFzt94o98QrCVRO"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
         "name": "Pleasure to Kill",
         "url": "https://open.spotify.com/album/5RP8ddfJnPDYvUjCbBS2Rc"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 248766,
       "name": "Pleasure to Kill",
       "url": "https://open.spotify.com/track/5PFhkQbjJge1h8k7wE1K5U"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
+        "name": "Handle With Care",
+        "url": "https://open.spotify.com/album/79vmBrXaUaPS7LleUgP7HY"
+      },
+      "artists": [
+        {
+          "name": "Nuclear Assault",
+          "url": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Critical Mass",
+      "url": "https://open.spotify.com/track/4uOq76srFzt94o98QrCVRO"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1597,20 +1597,20 @@
       "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
     },
     {
-      "added_at": "2023-07-31 21:34:14",
+      "added_at": "2023-06-27 13:33:22",
       "album": {
-        "name": "Mochado",
-        "url": "https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ"
+        "name": "No Absolution",
+        "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
       },
       "artists": [
         {
-          "name": "Brujeria",
-          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Mochado",
-      "url": "https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA"
+      "duration_ms": 234578,
+      "name": "Blood On Our Hands",
+      "url": "https://open.spotify.com/track/7y2XV9uAnhqMAUAYhHklRP"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1645,6 +1645,22 @@
       "url": "https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn"
     },
     {
+      "added_at": "2023-07-31 21:34:14",
+      "album": {
+        "name": "Mochado",
+        "url": "https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ"
+      },
+      "artists": [
+        {
+          "name": "Brujeria",
+          "url": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Mochado",
+      "url": "https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA"
+    },
+    {
       "added_at": "2023-06-27 13:33:22",
       "album": {
         "name": "Taking Over",
@@ -1659,22 +1675,6 @@
       "duration_ms": 272333,
       "name": "Wrecking Crew",
       "url": "https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
-        "name": "No Absolution",
-        "url": "https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs"
-      },
-      "artists": [
-        {
-          "name": "Lost Society",
-          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
-        }
-      ],
-      "duration_ms": 234578,
-      "name": "Blood On Our Hands",
-      "url": "https://open.spotify.com/track/7y2XV9uAnhqMAUAYhHklRP"
     },
     {
       "added_at": "2023-06-27 13:33:22",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2023-06-27 13:33:22",
       "album": {
+        "name": "Forbidden Evil",
+        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
+      },
+      "artists": [
+        {
+          "name": "Forbidden",
+          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
+        }
+      ],
+      "duration_ms": 272853,
+      "name": "Chalice of Blood",
+      "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
+    },
+    {
+      "added_at": "2023-06-27 13:33:22",
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 218406,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR"
-    },
-    {
-      "added_at": "2023-06-27 13:33:22",
-      "album": {
-        "name": "Forbidden Evil",
-        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
-      },
-      "artists": [
-        {
-          "name": "Forbidden",
-          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
-        }
-      ],
-      "duration_ms": 272853,
-      "name": "Chalice of Blood",
-      "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
     },
     {
       "added_at": "2023-06-27 13:33:22",

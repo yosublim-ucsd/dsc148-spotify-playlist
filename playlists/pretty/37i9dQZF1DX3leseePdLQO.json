@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Sof\u00eda Reyes.",
-  "num_followers": 7846,
+  "num_followers": 7881,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzMxNGQ4MThjODJhNGM5OGE4ZTBkNGIzYzFiZDIwNmUzNzY5YThj",
+  "snapshot_id": "MCxkNjkwZDQ3YTllNzZlZmIyZjczNTYwZDBlZTEzZDQ3MjIxODYzZjQ5",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -79,18 +79,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+        "name": "Mon Amour (Remix)",
+        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
       "artists": [
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 139146,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
+      "duration_ms": 179940,
+      "name": "Mon Amour - Remix",
+      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -111,22 +115,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Mon Amour (Remix)",
-        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
       "artists": [
         {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 179940,
-      "name": "Mon Amour - Remix",
-      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
+      "duration_ms": 139146,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "LAS BABYS",
-        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 153827,
-      "name": "LAS BABYS",
-      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "SI AYER FUERA HOY",
         "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 184666,
       "name": "Segundos Platos",
       "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "LAS BABYS",
+        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 153827,
+      "name": "LAS BABYS",
+      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Como T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 192757,
-      "name": "Como T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 133000,
       "name": "Att: Amor",
       "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Como T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 192757,
+      "name": "Como T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "La \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "No siempre quedar\u00e1 Par\u00eds (Remix)",
         "url": "https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 186045,
       "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
       "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "La \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 121836,
+      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Dementes",
         "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 231724,
       "name": "Te La Dedico",
       "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 121836,
-      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Thalia's Mixtape",
-        "url": "https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "David Summers",
-          "url": "https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt"
-        }
-      ],
-      "duration_ms": 202736,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/7sl70g1z4UCKl28PdAG5na"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Carolina",
         "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 233755,
       "name": "Amigos (con Maria Becerra)",
       "url": "https://open.spotify.com/track/2VhwmatY3oeJI5IOjeIUmr"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Thalia's Mixtape",
+        "url": "https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "David Summers",
+          "url": "https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt"
+        }
+      ],
+      "duration_ms": 202736,
+      "name": "Devu\u00e9lveme a Mi Chica",
+      "url": "https://open.spotify.com/track/7sl70g1z4UCKl28PdAG5na"
     },
     {
       "added_at": "2023-09-15 04:01:00",

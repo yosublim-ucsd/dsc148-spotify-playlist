@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 30090,
+  "num_followers": 30099,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmMxZjdkMGI5ODdiNzFiOGUyNjAzMDMyMDg3NDkzMTg3NDAxZTdi",
+  "snapshot_id": "MCw3OGY4ZmFmOGE0NDNmZTM3ZTgwMzhmOTA3MDNhMTExNWEyYzNjZmQz",
   "tracks": [
     {
       "added_at": "2023-08-04 15:30:29",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
+        "name": "Lei do Baile",
+        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        }
+      ],
+      "duration_ms": 212015,
+      "name": "Lei do Baile",
+      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
+    },
+    {
+      "added_at": "2023-08-04 15:30:29",
+      "album": {
         "name": "Bulldozer",
         "url": "https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 301950,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01"
-    },
-    {
-      "added_at": "2023-08-04 15:30:29",
-      "album": {
-        "name": "Lei do Baile",
-        "url": "https://open.spotify.com/album/33YgvrMiFsYrsD2lqUURzW"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        }
-      ],
-      "duration_ms": 212015,
-      "name": "Lei do Baile",
-      "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
     },
     {
       "added_at": "2023-08-04 15:30:29",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
-        "name": "Sub Zero",
-        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
-      },
-      "artists": [
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
-    },
-    {
-      "added_at": "2023-08-04 15:30:29",
-      "album": {
         "name": "Ride It (SBF17)",
         "url": "https://open.spotify.com/album/2wcJtzR9njkKvG2Shqk4h1"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 166060,
       "name": "Ride It - SBF17",
       "url": "https://open.spotify.com/track/4ngGJcO8IDtvf7jmkMaS9G"
+    },
+    {
+      "added_at": "2023-08-04 15:30:29",
+      "album": {
+        "name": "Sub Zero",
+        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
     },
     {
       "added_at": "2023-08-04 15:30:29",
@@ -1539,6 +1539,30 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
+        "name": "STAND BACK (RELOADED)",
+        "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "93rd",
+          "url": "https://open.spotify.com/artist/5J4q52NSlOOu2qN2gOWFzx"
+        },
+        {
+          "name": "Killa Kherk Cobain",
+          "url": "https://open.spotify.com/artist/2cYXDFsvkmjGSkMPBlRf3K"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "STAND BACK (RELOADED)",
+      "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
+    },
+    {
+      "added_at": "2023-08-04 15:30:29",
+      "album": {
         "name": "Bubble Pon Di Bed (UNIIQU3, Thai Chi Ros\u00e9, Charly Gynn Remix)",
         "url": "https://open.spotify.com/album/4ZdAikixtCkd0hInvsxNnX"
       },
@@ -1571,30 +1595,6 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
-        "name": "STAND BACK (RELOADED)",
-        "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
-      },
-      "artists": [
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        },
-        {
-          "name": "93rd",
-          "url": "https://open.spotify.com/artist/5J4q52NSlOOu2qN2gOWFzx"
-        },
-        {
-          "name": "Killa Kherk Cobain",
-          "url": "https://open.spotify.com/artist/2cYXDFsvkmjGSkMPBlRf3K"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "STAND BACK (RELOADED)",
-      "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
-    },
-    {
-      "added_at": "2023-08-04 15:30:29",
-      "album": {
         "name": "Get Freaky",
         "url": "https://open.spotify.com/album/4Lmx3PGRf7tIRest0Wdxaa"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
-        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
-        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
-      },
-      "artists": [
-        {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Get Down Lil Bit - Street Bangers Factory 16",
-      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
-    },
-    {
-      "added_at": "2023-08-04 15:30:29",
-      "album": {
         "name": "Pepper Dem",
         "url": "https://open.spotify.com/album/1gsMY3akSiEcBidWJm4tVi"
       },
@@ -1647,26 +1631,18 @@
     {
       "added_at": "2023-08-04 15:30:29",
       "album": {
-        "name": "Period",
-        "url": "https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0"
+        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
+        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
       },
       "artists": [
         {
-          "name": "leanon",
-          "url": "https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ"
-        },
-        {
-          "name": "Fatou",
-          "url": "https://open.spotify.com/artist/3Cv8Mlj2kEGomJuHHfMKHZ"
-        },
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
         }
       ],
-      "duration_ms": 113493,
-      "name": "Period",
-      "url": "https://open.spotify.com/track/0QgY9Q8KMFgL8Z9BACWdsR"
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit - Street Bangers Factory 16",
+      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
     },
     {
       "added_at": "2023-08-04 15:30:29",
@@ -1691,6 +1667,30 @@
       "duration_ms": 239000,
       "name": "Impossible - Roska Remix",
       "url": "https://open.spotify.com/track/5y8vPSQJqelX46gjX0KYmi"
+    },
+    {
+      "added_at": "2023-08-04 15:30:29",
+      "album": {
+        "name": "Period",
+        "url": "https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0"
+      },
+      "artists": [
+        {
+          "name": "leanon",
+          "url": "https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ"
+        },
+        {
+          "name": "Fatou",
+          "url": "https://open.spotify.com/artist/3Cv8Mlj2kEGomJuHHfMKHZ"
+        },
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 113493,
+      "name": "Period",
+      "url": "https://open.spotify.com/track/0QgY9Q8KMFgL8Z9BACWdsR"
     },
     {
       "added_at": "2023-08-04 15:30:29",

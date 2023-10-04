@@ -1972,6 +1972,24 @@
     {
       "album": {
         "name": "Aja",
+        "url": "https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237066,
+      "name": "Peg",
+      "url": "https://open.spotify.com/track/5emxp4RqsF6QoAWXW2Afrk"
+    },
+    {
+      "album": {
+        "name": "Aja",
         "url": "https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW"
       },
       "artists": [
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 240333,
       "name": "Peg",
       "url": "https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2"

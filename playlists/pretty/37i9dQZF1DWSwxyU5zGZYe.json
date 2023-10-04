@@ -1,12 +1,12 @@
 {
   "description": "Best acoustic melodies from Bollywood",
-  "num_followers": 196371,
+  "num_followers": 196441,
   "original_name": "Bollywood Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGQwZDg0MmY2ZDBjZDgxMzJkYjE0ZjRmMDgxZWU2ZTc0OGM2OGZh",
+  "snapshot_id": "MCwzZmM1ODIxN2VlMGYwMjU0OGIyNTliN2IyMGEyNjExYjUzN2NkOGI5",
   "tracks": [
     {
       "added_at": "2023-09-20 08:59:36",
@@ -255,18 +255,30 @@
     {
       "added_at": "2023-09-20 08:59:36",
       "album": {
-        "name": "Tum Kya Mile - Jonita's Version",
-        "url": "https://open.spotify.com/album/5IoxrWkZLHmHIhZLHyiAjj"
+        "name": "Tum Kya Mile (Jonita's Version)",
+        "url": "https://open.spotify.com/album/0xKZP5O8CSbmMn5iOD9hpa"
       },
       "artists": [
         {
           "name": "Jonita Gandhi",
           "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Keba Jeremiah",
+          "url": "https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "duration_ms": 75000,
       "name": "Tum Kya Mile - Jonita's Version",
-      "url": "https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv"
+      "url": "https://open.spotify.com/track/4kL3wGVwDpOVn8NOmKAopG"
     },
     {
       "added_at": "2023-09-20 08:59:36",

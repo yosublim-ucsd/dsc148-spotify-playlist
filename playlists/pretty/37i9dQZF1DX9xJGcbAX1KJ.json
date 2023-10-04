@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 15997,
+  "num_followers": 16015,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzM0NGFmMDc4NTU2ZDBkZThkNWNkYzlmYzUyZGI5MDMzODRkOTU2",
+  "snapshot_id": "MCxlZGZkNDAyZmYyMzNiMzM2YTUyNDFlYzRiYTNmN2NiZjhkNDIwNzA0",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -91,22 +91,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Bright Lights (Lights Re-pack / Bonus Version)",
         "url": "https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 191826,
       "name": "Your Song - Bonus Track",
       "url": "https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 170216,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -139,18 +139,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
         }
       ],
-      "duration_ms": 170216,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
+      "duration_ms": 190392,
+      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -239,22 +239,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "If I Ain\u2019t Got You - James Bay Spotify Session 2015 \"Alicia Keys Cover\"",
-      "url": "https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Imagine Dragons (Spotify Sessions)",
         "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 303433,
       "name": "Blank Space/Stand By Me - Live From Spotify London",
       "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "If I Ain\u2019t Got You - James Bay Spotify Session 2015 \"Alicia Keys Cover\"",
+      "url": "https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -423,22 +423,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Old Tyme Religion",
-        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
-      },
-      "artists": [
-        {
-          "name": "Hugo",
-          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
-        }
-      ],
-      "duration_ms": 137426,
-      "name": "99 Problems",
-      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "As Long as You Love Me",
         "url": "https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 151618,
       "name": "As Long as You Love Me",
       "url": "https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Old Tyme Religion",
+        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
+      },
+      "artists": [
+        {
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
+        }
+      ],
+      "duration_ms": 137426,
+      "name": "99 Problems",
+      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -476,22 +476,6 @@
       "added_at": "2019-02-22 20:19:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 346373,
-      "name": "Harvest Moon - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
       "artists": [
@@ -503,6 +487,22 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 346373,
+      "name": "Harvest Moon - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -763,6 +763,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp"
+      },
+      "artists": [
+        {
+          "name": "Zella Day",
+          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+        }
+      ],
+      "duration_ms": 172919,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "Superstition",
         "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 268893,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Seven Nation Army",
-        "url": "https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 172919,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO"
     },
     {
       "added_at": "2019-02-22 20:19:46",

@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring John Summit & VLTRA ",
-  "num_followers": 595806,
+  "num_followers": 595861,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTI0MmM4ZjhlY2EwNDQ4ZTA2NmI4NTBjZDE4YWQwZjIzYTZiNmFi",
+  "snapshot_id": "MCwyYTI3NWIwN2ViMDdkYzZlN2M0NmFiNmE4NTEyNTcxNThkOTkwNDYx",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Bring It Back",
         "url": "https://open.spotify.com/album/59nhRrYrcHzI5vs0obptvb"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 178242,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Throw Your Hands",
-        "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 191408,
-      "name": "Throw Your Hands",
-      "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Repeating",
         "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 147420,
       "name": "Repeating",
       "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Throw Your Hands",
+        "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 191408,
+      "name": "Throw Your Hands",
+      "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Chase The Sun (VIP)",
-        "url": "https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        }
-      ],
-      "duration_ms": 241838,
-      "name": "Chase The Sun - VIP",
-      "url": "https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Work It",
         "url": "https://open.spotify.com/album/1NZEAAcBizqIPTlViPC59g"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 167760,
       "name": "Work It",
       "url": "https://open.spotify.com/track/4TqGe1UaneqGotEIwraZ75"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Chase The Sun (VIP)",
+        "url": "https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "duration_ms": 241838,
+      "name": "Chase The Sun - VIP",
+      "url": "https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "In The Air",
+        "url": "https://open.spotify.com/album/4JHdM4BYdqOJGGw12t1bzX"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 164285,
+      "name": "In The Air",
+      "url": "https://open.spotify.com/track/1d6drNGnLw63kP9Bm8aQtz"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Me Me Me EP",
         "url": "https://open.spotify.com/album/4AWEbvZ2qwNLBbAYCdwc8Y"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "In The Air",
-        "url": "https://open.spotify.com/album/4JHdM4BYdqOJGGw12t1bzX"
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/02IhYgiRbwckRrXTKYrRPV"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
         }
       ],
-      "duration_ms": 164285,
-      "name": "In The Air",
-      "url": "https://open.spotify.com/track/1d6drNGnLw63kP9Bm8aQtz"
+      "duration_ms": 165242,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/1xgRUkB6OZH70aFtTGkk9n"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/02IhYgiRbwckRrXTKYrRPV"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 165242,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/1xgRUkB6OZH70aFtTGkk9n"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "In Your Mind",
         "url": "https://open.spotify.com/album/1lnxNRd7kCfp1AGkVehKCU"
       },
@@ -1271,22 +1271,6 @@
       "duration_ms": 154687,
       "name": "In Your Mind",
       "url": "https://open.spotify.com/track/1fljgBD0HxUOOtLDQ9WSaM"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Mean Sumthin",
-        "url": "https://open.spotify.com/album/0OzyNRMcEySK0EhRFnLKqt"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        }
-      ],
-      "duration_ms": 167175,
-      "name": "Mean Sumthin",
-      "url": "https://open.spotify.com/track/5P5qcTvuR94YZD3ocni8Wg"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 137204,
       "name": "TikTak",
       "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Mean Sumthin",
+        "url": "https://open.spotify.com/album/0OzyNRMcEySK0EhRFnLKqt"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 167175,
+      "name": "Mean Sumthin",
+      "url": "https://open.spotify.com/track/5P5qcTvuR94YZD3ocni8Wg"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/4wzWrWfeDDpklQSvyH9oqK"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/3y5LDvgjA1pb18RsKjSOoo"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Valodja (Kryder Remix)",
         "url": "https://open.spotify.com/album/6slfAHmFXzRaUVUDxcbi7p"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/4wzWrWfeDDpklQSvyH9oqK"
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/2fkIAlMozPVOXNEPfKA2qn"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
         }
       ],
-      "duration_ms": 208400,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/3y5LDvgjA1pb18RsKjSOoo"
+      "duration_ms": 206456,
+      "name": "Easy Tiger",
+      "url": "https://open.spotify.com/track/46xwxdKi1qZGuod4rTyzCA"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 180465,
       "name": "VIP Business",
       "url": "https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/2fkIAlMozPVOXNEPfKA2qn"
-      },
-      "artists": [
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        }
-      ],
-      "duration_ms": 206456,
-      "name": "Easy Tiger",
-      "url": "https://open.spotify.com/track/46xwxdKi1qZGuod4rTyzCA"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1667,6 +1667,42 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Paris to Milan",
+        "url": "https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        }
+      ],
+      "duration_ms": 112380,
+      "name": "Paris to Milan",
+      "url": "https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Think About It",
+        "url": "https://open.spotify.com/album/0gvBqzpRrgaqyUwrPLZ84A"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 199750,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/6sGTKPKsrNRMg96OUhSUWo"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Now Work",
         "url": "https://open.spotify.com/album/11VFaYGp4yZj0IssfdKJFA"
       },
@@ -1735,22 +1771,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Think About It",
-        "url": "https://open.spotify.com/album/0gvBqzpRrgaqyUwrPLZ84A"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 199750,
-      "name": "Think About It",
-      "url": "https://open.spotify.com/track/6sGTKPKsrNRMg96OUhSUWo"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Another Planet (Bruno's VIP Mix)",
         "url": "https://open.spotify.com/album/4YgWh4U4JvmwYBAGxJtmQC"
       },
@@ -1767,6 +1787,22 @@
       "duration_ms": 348750,
       "name": "Another Planet - Bruno's VIP Mix",
       "url": "https://open.spotify.com/track/6FJtJq6fVyADQJurbdDXBc"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1795,18 +1831,50 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+        "name": "Esta Vaina",
+        "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
       },
       "artists": [
         {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
         }
       ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
+      "duration_ms": 215699,
+      "name": "Esta Vaina",
+      "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Body Close",
+        "url": "https://open.spotify.com/album/3C1v2E4gAbTbCk71KQJCSH"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "duration_ms": 219169,
+      "name": "Body Close",
+      "url": "https://open.spotify.com/track/6RR5V7V3UGQxNpXDKb7sHH"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1827,18 +1895,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Body Close",
-        "url": "https://open.spotify.com/album/3C1v2E4gAbTbCk71KQJCSH"
+        "name": "ILG",
+        "url": "https://open.spotify.com/album/6OdiPs5eU9BZEh7s4me0ss"
       },
       "artists": [
         {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
         }
       ],
-      "duration_ms": 219169,
-      "name": "Body Close",
-      "url": "https://open.spotify.com/track/6RR5V7V3UGQxNpXDKb7sHH"
+      "duration_ms": 122385,
+      "name": "ILG",
+      "url": "https://open.spotify.com/track/2YvYluH4m4YSx9CP7sJsyD"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1863,58 +1931,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Paris to Milan",
-        "url": "https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
-        }
-      ],
-      "duration_ms": 112380,
-      "name": "Paris to Milan",
-      "url": "https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "ILG",
-        "url": "https://open.spotify.com/album/6OdiPs5eU9BZEh7s4me0ss"
-      },
-      "artists": [
-        {
-          "name": "Lance Savali",
-          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
-        }
-      ],
-      "duration_ms": 122385,
-      "name": "ILG",
-      "url": "https://open.spotify.com/track/2YvYluH4m4YSx9CP7sJsyD"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Esta Vaina",
-        "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 215699,
-      "name": "Esta Vaina",
-      "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "<3<3<3",
         "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
       },
@@ -1931,18 +1947,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+        "name": "House Y'all",
+        "url": "https://open.spotify.com/album/2pTxm1H1e3zfJBzRDwtmty"
       },
       "artists": [
         {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
         }
       ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
+      "duration_ms": 155625,
+      "name": "House Y'all",
+      "url": "https://open.spotify.com/track/0eWfHigLsQiQzmKRVbwjLL"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1967,18 +1983,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "House Y'all",
-        "url": "https://open.spotify.com/album/2pTxm1H1e3zfJBzRDwtmty"
+        "name": "Groovemasta / Beat It Up",
+        "url": "https://open.spotify.com/album/6KhQTzoIA3aOtNZuydQ80J"
       },
       "artists": [
         {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        },
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
         }
       ],
-      "duration_ms": 155625,
-      "name": "House Y'all",
-      "url": "https://open.spotify.com/track/0eWfHigLsQiQzmKRVbwjLL"
+      "duration_ms": 252121,
+      "name": "Groovemasta",
+      "url": "https://open.spotify.com/track/26wsiUVYF5M42ikSihxWBl"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1999,26 +2019,6 @@
       "duration_ms": 159154,
       "name": "Until The Morning",
       "url": "https://open.spotify.com/track/7jVXCigtfhxDL1mMidhlTl"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Groovemasta / Beat It Up",
-        "url": "https://open.spotify.com/album/6KhQTzoIA3aOtNZuydQ80J"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
-        },
-        {
-          "name": "NUZB",
-          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
-        }
-      ],
-      "duration_ms": 252121,
-      "name": "Groovemasta",
-      "url": "https://open.spotify.com/track/26wsiUVYF5M42ikSihxWBl"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2047,18 +2047,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Dont Sleep",
-        "url": "https://open.spotify.com/album/29C3mRpDY5Lqxh5X5mlnl9"
+        "name": "Club Rompas",
+        "url": "https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF"
       },
       "artists": [
         {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Basura Boyz",
+          "url": "https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux"
         }
       ],
-      "duration_ms": 156480,
-      "name": "Dont Sleep",
-      "url": "https://open.spotify.com/track/0bmT2MQ4FrBOgWhYr4S8Lj"
+      "duration_ms": 176000,
+      "name": "Blisters on My Feet",
+      "url": "https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2083,22 +2087,42 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Club Rompas",
-        "url": "https://open.spotify.com/album/57c4YyyWoOYOWGFqKqHJgF"
+        "name": "Dont Sleep",
+        "url": "https://open.spotify.com/album/29C3mRpDY5Lqxh5X5mlnl9"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "Basura Boyz",
-          "url": "https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Blisters on My Feet",
-      "url": "https://open.spotify.com/track/3j8TbHVc4Kg4mWApoXnUL4"
+      "duration_ms": 156480,
+      "name": "Dont Sleep",
+      "url": "https://open.spotify.com/track/0bmT2MQ4FrBOgWhYr4S8Lj"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Up N' Down (feat. JmNPR)",
+        "url": "https://open.spotify.com/album/6q9a42z7A1E3a19aRcO1j9"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        },
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        },
+        {
+          "name": "JmNPR",
+          "url": "https://open.spotify.com/artist/30tkBTplmnwCCDx8Ueuau2"
+        }
+      ],
+      "duration_ms": 208637,
+      "name": "Up N' Down (feat. JmNPR)",
+      "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2115,6 +2139,22 @@
       "duration_ms": 200314,
       "name": "Buenas Noches",
       "url": "https://open.spotify.com/track/1BlPQs0VPOI926x7ighmjr"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Apache",
+        "url": "https://open.spotify.com/album/6G1TJ6d0Dm8RbggfWjrAAi"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Apache",
+      "url": "https://open.spotify.com/track/3VqcCBJYupv8mu8pHLXqL1"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2159,22 +2199,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Apache",
-        "url": "https://open.spotify.com/album/6G1TJ6d0Dm8RbggfWjrAAi"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Apache",
-      "url": "https://open.spotify.com/track/3VqcCBJYupv8mu8pHLXqL1"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/6qhNsO8v6k0ZYyf1BkbCCj"
       },
@@ -2215,30 +2239,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Up N' Down (feat. JmNPR)",
-        "url": "https://open.spotify.com/album/6q9a42z7A1E3a19aRcO1j9"
-      },
-      "artists": [
-        {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
-        },
-        {
-          "name": "BRN",
-          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
-        },
-        {
-          "name": "JmNPR",
-          "url": "https://open.spotify.com/artist/30tkBTplmnwCCDx8Ueuau2"
-        }
-      ],
-      "duration_ms": 208637,
-      "name": "Up N' Down (feat. JmNPR)",
-      "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Do What You Want",
         "url": "https://open.spotify.com/album/4lCFkQUgP7I2Wpl5tEP7fq"
       },
@@ -2251,6 +2251,26 @@
       "duration_ms": 177857,
       "name": "Do What You Want",
       "url": "https://open.spotify.com/track/2ONPus6HrSvaMODodxhMtm"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Can't Take It Anymore",
+        "url": "https://open.spotify.com/album/0Gcby1p56pmK1FOFc0F7UQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        },
+        {
+          "name": "Maximo",
+          "url": "https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG"
+        }
+      ],
+      "duration_ms": 188437,
+      "name": "Can't Take It Anymore",
+      "url": "https://open.spotify.com/track/0kWSnUfrRvgfU6aej4joKu"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2279,26 +2299,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Can't Take It Anymore",
-        "url": "https://open.spotify.com/album/0Gcby1p56pmK1FOFc0F7UQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Susan",
-          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
-        },
-        {
-          "name": "Maximo",
-          "url": "https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG"
-        }
-      ],
-      "duration_ms": 188437,
-      "name": "Can't Take It Anymore",
-      "url": "https://open.spotify.com/track/0kWSnUfrRvgfU6aej4joKu"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "The Master",
         "url": "https://open.spotify.com/album/7xanzHN2SjpJWkUIsR14Ku"
       },
@@ -2315,6 +2315,42 @@
       "duration_ms": 156923,
       "name": "The Master",
       "url": "https://open.spotify.com/track/7lFrPi52k2FgW2C5DbmTvk"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Listen to My Heart",
+        "url": "https://open.spotify.com/album/6t1UaCKrU27p8iA5HZTZc7"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        }
+      ],
+      "duration_ms": 188591,
+      "name": "Listen to My Heart",
+      "url": "https://open.spotify.com/track/0mFiHmY5NWTc53lRtwRufc"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Dive In (feat. Notelle)",
+        "url": "https://open.spotify.com/album/1GTv5ZKph34mZHssztNvVe"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "Dive In (feat. Notelle)",
+      "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2379,26 +2415,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "hyperlife",
-        "url": "https://open.spotify.com/album/5xdvoItstdIlE92y2kGip9"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        },
-        {
-          "name": "Albin Myers",
-          "url": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
-        }
-      ],
-      "duration_ms": 247587,
-      "name": "hyperlife",
-      "url": "https://open.spotify.com/track/0BCrHDuPtE3uAiFkz7rdaN"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Party People",
         "url": "https://open.spotify.com/album/2QnH4p6bRWa0gE276h2Y7o"
       },
@@ -2415,22 +2431,6 @@
       "duration_ms": 199218,
       "name": "Party People",
       "url": "https://open.spotify.com/track/5EPso1jbkZ87ztEERhraZS"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "What I Wanted",
-        "url": "https://open.spotify.com/album/03ngckbVjnbKSbm6fJpW3i"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "What I Wanted",
-      "url": "https://open.spotify.com/track/2Xr65bPe0B0RikUoLdHrdN"
     }
   ],
   "unique_name": "Operator",

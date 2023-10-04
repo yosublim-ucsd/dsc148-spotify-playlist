@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem L7NNON, Maiara & Maraisa, Major RD e Felipe Amorim, MC Don Juan e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924,387 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924,593 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 78 | [Vermelho Campari](https://open.spotify.com/track/6AGNVdcVyZTyNsy1BN1ER6) | [Fresh Mind Co.](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Vermelho Campari](https://open.spotify.com/album/5fUpKhFaOUJXLqCetLATxf) | 3:34 |
 | 79 | [Festa e Luto](https://open.spotify.com/track/2QWkDGY5PiGzOoA8M77zHX) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Festa e Luto](https://open.spotify.com/album/3WKtZJKggGSjuH1v8EBoJc) | 1:53 |
 | 80 | [Do Nada](https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah) | [Do Nada](https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F) | 3:25 |
-| 81 | [Pecado](https://open.spotify.com/track/3ODPKhAqR0QHIkuzl7NU2V) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Prodígio](https://open.spotify.com/artist/6BEwA8tWhsWd3pDLUSr26E) | [Pecado](https://open.spotify.com/album/5OjeVy0AAmKk5I8dNa8TKV) | 3:05 |
+| 81 | [Pecado](https://open.spotify.com/track/3ODPKhAqR0QHIkuzl7NU2V) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5) | [Pecado](https://open.spotify.com/album/5OjeVy0AAmKk5I8dNa8TKV) | 3:05 |
 | 82 | [Nó na Garganta \- Acústico](https://open.spotify.com/track/6jrCdriDRqJEghjr7Nadtk) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Nó na Garganta \(Acústico\)](https://open.spotify.com/album/4zvib7ats67UVhjatwn2Sg) | 2:41 |
 | 83 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 |
 | 84 | [Eu Só Queria Que Você Soubesse](https://open.spotify.com/track/3VRtT3FmJHIUhNyytPgYoX) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Entrega](https://open.spotify.com/album/0z6Sy4yNeZyxA6JDwO4GoI) | 3:07 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Anota Aí](https://open.spotify.com/track/1h3LUndTk6adebg5dB19k1) | [Yago Vidal](https://open.spotify.com/artist/2cpIam47BLYzkgRy4N8ECP) | [Anota Aí](https://open.spotify.com/album/2NfhY9AGsKXFfI9DhxFASm) | 2:54 |
 | 99 | [Turn It Up](https://open.spotify.com/track/0Wh3unWk0HibusmpkdGFcE) | [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [3Beat](https://open.spotify.com/artist/6GygHIe8zmVX42gMgFQ3z8), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi) | [Turn It Up](https://open.spotify.com/album/2OCAMrTUxMXGHcj9R5QfMl) | 2:43 |
 
-Snapshot ID: `MCw3NzhiNmI5Zjc1ZjkxMWM3OTU5YjRhMDU3NDhlNWYwZmZkMmEwODVm`
+Snapshot ID: `MCw1MDIxMmRhMjQyY2ZhMTUzMGVlMGY3NThiMWE4OGI5ZThiNDM4NGFh`

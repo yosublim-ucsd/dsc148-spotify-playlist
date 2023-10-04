@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 179550,
+  "num_followers": 179628,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWRhNjNmMzc2OGNkNTRjYzJmOThkNjFhNDdmMmVjMjIwNmE5NTVi",
+  "snapshot_id": "MCxiZTk3YTQyYmNlYTNlODU4ZmE5M2ZjMzBkMDlkNjE5ZDQwY2JkZjUy",
   "tracks": [
     {
       "added_at": "2023-02-09 09:05:31",
@@ -67,26 +67,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Schubert: Piano Sonata D.959 & Minuets D. 334, D. 335, D. 600",
-        "url": "https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Arcadi Volodos",
-          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Minuet in A major, D. 334",
-      "url": "https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
         "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 216213,
       "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
       "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Schubert: Piano Sonata D.959 & Minuets D. 334, D. 335, D. 600",
+        "url": "https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Arcadi Volodos",
+          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Minuet in A major, D. 334",
+      "url": "https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Field: Complete Nocturnes",
+        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
+      },
+      "artists": [
+        {
+          "name": "John Field",
+          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
+        },
+        {
+          "name": "Elizabeth Joy Roe",
+          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
+        }
+      ],
+      "duration_ms": 221731,
+      "name": "Nocturne No. 1 in E Flat Major, H.24",
+      "url": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Flute and Harp",
         "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 212000,
       "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
       "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Field: Complete Nocturnes",
-        "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
-      },
-      "artists": [
-        {
-          "name": "John Field",
-          "url": "https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56"
-        },
-        {
-          "name": "Elizabeth Joy Roe",
-          "url": "https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs"
-        }
-      ],
-      "duration_ms": 221731,
-      "name": "Nocturne No. 1 in E Flat Major, H.24",
-      "url": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -539,6 +539,30 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Tchaikovsky: Serenade for Strings - Grieg: Holberg Suite - Mozart: Eine kleine Nachtmusik",
+        "url": "https://open.spotify.com/album/6bB2g7YWY6IjetZBzRsWfE"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Moscow Soloists",
+          "url": "https://open.spotify.com/artist/2skFcEhu0dYXkx7GGfCecx"
+        },
+        {
+          "name": "Yuri Bashmet",
+          "url": "https://open.spotify.com/artist/6x1iIq6sH6TPtCA5IJjA4x"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Serenade for Strings in C major, Op. 48: II. Walzer: Moderato, tempo di valse",
+      "url": "https://open.spotify.com/track/7uf3aFC1msj0t5cYImgOWy"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Fantasia on Greensleeves",
         "url": "https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV"
       },
@@ -563,30 +587,6 @@
       "duration_ms": 144266,
       "name": "Capriol Suite: 5. Pied-en- l'air",
       "url": "https://open.spotify.com/track/5JUZN3APQOGsw7LJZYEjmU"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Tchaikovsky: Serenade for Strings - Grieg: Holberg Suite - Mozart: Eine kleine Nachtmusik",
-        "url": "https://open.spotify.com/album/6bB2g7YWY6IjetZBzRsWfE"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Moscow Soloists",
-          "url": "https://open.spotify.com/artist/2skFcEhu0dYXkx7GGfCecx"
-        },
-        {
-          "name": "Yuri Bashmet",
-          "url": "https://open.spotify.com/artist/6x1iIq6sH6TPtCA5IJjA4x"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Serenade for Strings in C major, Op. 48: II. Walzer: Moderato, tempo di valse",
-      "url": "https://open.spotify.com/track/7uf3aFC1msj0t5cYImgOWy"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
-        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lieder ohne Worte, Op. 19, No. 1",
-      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
         "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 244333,
       "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
       "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
+        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lieder ohne Worte, Op. 19, No. 1",
+      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Kissin Plays Liszt",
-        "url": "https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
-        }
-      ],
-      "duration_ms": 375920,
-      "name": "St\u00e4ndchen (From Schwanengesang, D957)",
-      "url": "https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Schumann: Album for the Young",
         "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 76746,
       "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
       "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Kissin Plays Liszt",
+        "url": "https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "duration_ms": 375920,
+      "name": "St\u00e4ndchen (From Schwanengesang, D957)",
+      "url": "https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD"
     },
     {
       "added_at": "2023-02-09 09:05:31",

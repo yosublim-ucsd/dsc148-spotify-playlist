@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Austin Snell",
-  "num_followers": 97218,
+  "num_followers": 97290,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmU0Nzk0MjdkMmY1ZDAzNjkwNGIyYWZiZGM4NGNlMTU4M2EwYjgz",
+  "snapshot_id": "MCw3NWExOWY2MDk5MTUxNGRhODE5YThmMzgwYmIyYzZiMDJjODE2YjY3",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "The Way You Look Tonight (Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016)",
+        "url": "https://open.spotify.com/album/2WuFm7aAOlcyGhDC4BDkLt"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "The Way You Look Tonight - Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016",
+      "url": "https://open.spotify.com/track/0xN5D4yc3mJyU42fUzU6hC"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Eastside",
         "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 167142,
       "name": "Eastside",
       "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Simply The Hits",
-        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Walking In Memphis",
-      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1079,6 +1079,38 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Simply The Hits",
+        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Walking In Memphis",
+      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "From Now On",
+        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -1111,22 +1143,6 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "From Now On",
-        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/3KwXjiZwQHSsqQAnrcH8uZ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Big Machine Undercover",
         "url": "https://open.spotify.com/album/3rWSVlSY22f5XwgMUK2bwf"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 226747,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/2Fv1cWu2Hg2Z4UXsu3fbrx"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/3KwXjiZwQHSsqQAnrcH8uZ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1331,26 +1347,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Listen To The Radio",
-        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 240386,
-      "name": "Listen To The Radio",
-      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "The Devil Went Down to Georgia - Remastered",
         "url": "https://open.spotify.com/album/79xtbCxVx1XB1YM5Ocr8gC"
       },
@@ -1367,22 +1363,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Way You Look Tonight (Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016)",
-        "url": "https://open.spotify.com/album/2WuFm7aAOlcyGhDC4BDkLt"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "The Way You Look Tonight - Live at Irvine Meadows Amphitheatre, Irvine, CA, 06.04.2016",
-      "url": "https://open.spotify.com/track/0xN5D4yc3mJyU42fUzU6hC"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "15 Years, the Wild Ride",
         "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 272786,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Listen To The Radio",
+        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 240386,
+      "name": "Listen To The Radio",
+      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Outskirts of Heaven",
-        "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
-      },
-      "artists": [
-        {
-          "name": "Matt Schuster",
-          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
-        }
-      ],
-      "duration_ms": 243545,
-      "name": "Outskirts of Heaven",
-      "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Bless the Broken Road",
         "url": "https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 186560,
       "name": "Bless the Broken Road",
       "url": "https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Outskirts of Heaven",
+        "url": "https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "duration_ms": 243545,
+      "name": "Outskirts of Heaven",
+      "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Western",
-        "url": "https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy"
-      },
-      "artists": [
-        {
-          "name": "Spencer Crandall",
-          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
-        }
-      ],
-      "duration_ms": 209448,
-      "name": "You're Still the One",
-      "url": "https://open.spotify.com/track/1Lmtr7tJasX392hKpbHPx1"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 269382,
       "name": "Night Life - (Hot Country Artists to Watch) - Spotify Singles",
       "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Western",
+        "url": "https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "duration_ms": 209448,
+      "name": "You're Still the One",
+      "url": "https://open.spotify.com/track/1Lmtr7tJasX392hKpbHPx1"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "This Land Is Your Land (From Bright: The Album)",
-        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "This Land Is Your Land",
-      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Wild And Blue",
         "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 186346,
       "name": "Wild And Blue",
       "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "This Land Is Your Land (From Bright: The Album)",
+        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "This Land Is Your Land",
+      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
     },
     {
       "added_at": "2023-09-29 04:00:00",

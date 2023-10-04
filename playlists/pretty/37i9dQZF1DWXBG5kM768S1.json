@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 70924,
+  "num_followers": 70945,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzI4MGIyZWRlOGZlY2UyODMxYTE0YWFhZDkxYjFiMzE1YTEzOGY3",
+  "snapshot_id": "MCw2ODRjZTNjNzZlOWU2OGIyMmVmNzVkYTg3NGQxMzAwMzQyY2E4ZWU0",
   "tracks": [
     {
       "added_at": "2023-09-21 22:00:00",
@@ -187,22 +187,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Godmorgen, s\u00f8ster",
-        "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
+        "name": "Liten fuggel (Med kommentarer)",
+        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
       },
       "artists": [
         {
           "name": "Vamp",
           "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        },
-        {
-          "name": "Rita Eriksen",
-          "url": "https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da"
         }
       ],
-      "duration_ms": 270693,
-      "name": "Tir n'a Noir",
-      "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
+      "duration_ms": 191173,
+      "name": "Liten fuggel",
+      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -287,18 +283,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Liten fuggel (Med kommentarer)",
-        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
+        "name": "Godmorgen, s\u00f8ster",
+        "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
       },
       "artists": [
         {
           "name": "Vamp",
           "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        },
+        {
+          "name": "Rita Eriksen",
+          "url": "https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da"
         }
       ],
-      "duration_ms": 191173,
-      "name": "Liten fuggel",
-      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
+      "duration_ms": 270693,
+      "name": "Tir n'a Noir",
+      "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+        "name": "De N\u00e6re Ting",
+        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
       "artists": [
         {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+          "name": "Ingrid Olava",
+          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
         }
       ],
-      "duration_ms": 258638,
-      "name": "Sommerfuggel I Vinterland",
-      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
+      "duration_ms": 138412,
+      "name": "De N\u00e6re Ting",
+      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -783,22 +783,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Sangen om Gleden",
-        "url": "https://open.spotify.com/album/3paMl15llkBy8nme7nOd7C"
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
       "artists": [
         {
-          "name": "Sigvart Dagsland",
-          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
-        },
-        {
-          "name": "Helen Sj\u00f6holm",
-          "url": "https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx"
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
         }
       ],
-      "duration_ms": 323880,
-      "name": "Sangen om Gleden",
-      "url": "https://open.spotify.com/track/1WSX7bzVuGMbHnDwAKAWHx"
+      "duration_ms": 258638,
+      "name": "Sommerfuggel I Vinterland",
+      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -839,18 +835,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "De N\u00e6re Ting",
-        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
+        "name": "Sangen om Gleden",
+        "url": "https://open.spotify.com/album/3paMl15llkBy8nme7nOd7C"
       },
       "artists": [
         {
-          "name": "Ingrid Olava",
-          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        },
+        {
+          "name": "Helen Sj\u00f6holm",
+          "url": "https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx"
         }
       ],
-      "duration_ms": 138412,
-      "name": "De N\u00e6re Ting",
-      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+      "duration_ms": 323880,
+      "name": "Sangen om Gleden",
+      "url": "https://open.spotify.com/track/1WSX7bzVuGMbHnDwAKAWHx"
     },
     {
       "added_at": "2023-09-21 22:00:00",

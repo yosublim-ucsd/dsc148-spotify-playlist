@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today's pop, featuring PinkPantheress, Tyla and Ed Sheeran.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,094 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,111 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 100 | [Angel Pt\. 2 \(feat\. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack\)](https://open.spotify.com/track/0ApadYqa3GRQkJJ3E7pQDJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 2 \(feat\. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack\)](https://open.spotify.com/album/6I0ZEVomYGoOk218KaAlJk) | 2:56 |
 
-Snapshot ID: `MCxlM2VhMWYzZjcxZjVkOTgzYzgxYTVkYTVmZmM0NjU1YmIwNmFlNGUx`
+Snapshot ID: `MCw5NzU1MDcxMTFiZGU5MjJlZDJjYTY5OWUyNzE4M2E2NWUyODc0MzZm`

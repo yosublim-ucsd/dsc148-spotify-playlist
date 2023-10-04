@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 457975,
+  "num_followers": 457966,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjYxYzRlYjQ3MmVmMjE5NzRmNzRmMWNjZWFlZmY4ZjY5ZWEyOGZm",
+  "snapshot_id": "MCw2YTU0MDY2NjE3N2YzZDAyNTZmZGU2MTVjNzQxMWJjODkwMjUwZWUw",
   "tracks": [
     {
       "added_at": "2023-07-28 21:29:53",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
     },
     {
-      "added_at": "2022-02-25 03:39:39",
-      "album": {
-        "name": "Exotic Contents / Pulse at the Centre of Being",
-        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 346588,
-      "name": "Exotic Contents",
-      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
-    },
-    {
       "added_at": "2022-03-18 05:02:00",
       "album": {
         "name": "Trusted EP",
@@ -357,6 +341,22 @@
       "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
+      "added_at": "2022-02-25 03:39:39",
+      "album": {
+        "name": "Exotic Contents / Pulse at the Centre of Being",
+        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 346588,
+      "name": "Exotic Contents",
+      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
+    },
+    {
       "added_at": "2022-03-30 04:42:42",
       "album": {
         "name": "Chamas Do Cerrado",
@@ -371,26 +371,6 @@
       "duration_ms": 213708,
       "name": "Vale Da Lua",
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
-    },
-    {
-      "added_at": "2023-06-27 23:11:49",
-      "album": {
-        "name": "In The Afterworld",
-        "url": "https://open.spotify.com/album/02iBaExXa9p10DT4JlwSU0"
-      },
-      "artists": [
-        {
-          "name": "Om Unit",
-          "url": "https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B"
-        },
-        {
-          "name": "TM404",
-          "url": "https://open.spotify.com/artist/14mCD4JJYKhPl2nLqrjkZ7"
-        }
-      ],
-      "duration_ms": 299190,
-      "name": "Praha",
-      "url": "https://open.spotify.com/track/4PKcsaOmKOrfVXCJCqDOIK"
     },
     {
       "added_at": "2022-02-16 00:41:13",
@@ -423,6 +403,26 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
+    },
+    {
+      "added_at": "2023-06-27 23:11:49",
+      "album": {
+        "name": "In The Afterworld",
+        "url": "https://open.spotify.com/album/02iBaExXa9p10DT4JlwSU0"
+      },
+      "artists": [
+        {
+          "name": "Om Unit",
+          "url": "https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B"
+        },
+        {
+          "name": "TM404",
+          "url": "https://open.spotify.com/artist/14mCD4JJYKhPl2nLqrjkZ7"
+        }
+      ],
+      "duration_ms": 299190,
+      "name": "Praha",
+      "url": "https://open.spotify.com/track/4PKcsaOmKOrfVXCJCqDOIK"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -501,22 +501,6 @@
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
-      "added_at": "2022-12-07 01:09:17",
-      "album": {
-        "name": "Jump & Shuffle (Live at the Hardware Store)",
-        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
-      },
-      "artists": [
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Jump & Shuffle - Live at the Hardware Store",
-      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
-    },
-    {
       "added_at": "2022-07-15 18:13:54",
       "album": {
         "name": "Eden Portal",
@@ -531,6 +515,22 @@
       "duration_ms": 366500,
       "name": "Eden Portal",
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
+    },
+    {
+      "added_at": "2022-12-07 01:09:17",
+      "album": {
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
+      },
+      "artists": [
+        {
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
       "added_at": "2022-07-15 05:34:07",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
     },
     {
-      "added_at": "2023-01-07 03:51:32",
-      "album": {
-        "name": "Crass",
-        "url": "https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU"
-      },
-      "artists": [
-        {
-          "name": "96 Back",
-          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
-        }
-      ],
-      "duration_ms": 357131,
-      "name": "Hoss It",
-      "url": "https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U"
-    },
-    {
       "added_at": "2022-03-30 05:37:06",
       "album": {
         "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
@@ -631,6 +615,22 @@
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+    },
+    {
+      "added_at": "2023-01-07 03:51:32",
+      "album": {
+        "name": "Crass",
+        "url": "https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU"
+      },
+      "artists": [
+        {
+          "name": "96 Back",
+          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
+        }
+      ],
+      "duration_ms": 357131,
+      "name": "Hoss It",
+      "url": "https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U"
     },
     {
       "added_at": "2022-12-16 06:00:00",

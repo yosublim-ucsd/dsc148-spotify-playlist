@@ -1,12 +1,12 @@
 {
   "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: Mc Don Juan, MC Kevin Chris",
-  "num_followers": 408592,
+  "num_followers": 409037,
   "original_name": "Puro SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzJiYWM5MmMxNjRmOTZjMzIzMjM3ZTliMzBkNzA4MzM4ZjkyOTg1",
+  "snapshot_id": "MCwyNmJhOTk2MmEyODEwNWYzZjY2YmU5N2EyN2YyMzBlMDIwZDZmYTU2",
   "tracks": [
     {
       "added_at": "2023-09-29 03:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "A.Mago - Playlist do Mago",
+        "url": "https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So"
+      },
+      "artists": [
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "MONTAGEM ANOS 2000",
+      "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Tamborz\u00e3o Raiz",
         "url": "https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 180923,
       "name": "N\u00e3o Para",
       "url": "https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "A.Mago - Playlist do Mago",
-        "url": "https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So"
-      },
-      "artists": [
-        {
-          "name": "DJ Arana",
-          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
-        }
-      ],
-      "duration_ms": 178080,
-      "name": "MONTAGEM ANOS 2000",
-      "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Zona De Perigo",
-        "url": "https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 142151,
-      "name": "Zona De Perigo",
-      "url": "https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
         "url": "https://open.spotify.com/album/7vcEsYmKQdxArrMI7euRGw"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 137660,
       "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
       "url": "https://open.spotify.com/track/0oB3IBEhbmgTrL7mV0VnFq"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Zona De Perigo",
+        "url": "https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 142151,
+      "name": "Zona De Perigo",
+      "url": "https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
-        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 453018,
-      "name": "At\u00e9 Que Durou / Tu Mandas No Meu Cora\u00e7\u00e3o / Adorei / Supera",
-      "url": "https://open.spotify.com/track/1TFqH3zKOiTZoVe0OQuJte"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
         "url": "https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 135892,
       "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
       "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
+        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 453018,
+      "name": "At\u00e9 Que Durou / Tu Mandas No Meu Cora\u00e7\u00e3o / Adorei / Supera",
+      "url": "https://open.spotify.com/track/1TFqH3zKOiTZoVe0OQuJte"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Piseiro Tocando Alto",
-        "url": "https://open.spotify.com/album/0ys6ZnPJnccUAvK4p5L34X"
-      },
-      "artists": [
-        {
-          "name": "Forr\u00f3 do HF",
-          "url": "https://open.spotify.com/artist/3Yaa2NJiGdT82KIJMnHUZ7"
-        }
-      ],
-      "duration_ms": 108931,
-      "name": "Piseiro Tocando Alto",
-      "url": "https://open.spotify.com/track/74DKhVs1mFJGpdcpWOntVT"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Ind\u00edcios",
         "url": "https://open.spotify.com/album/3GCtOaO8rqzFGKGfaItCro"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "LUAN CITY DELUXE (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N"
+        "name": "Piseiro Tocando Alto",
+        "url": "https://open.spotify.com/album/0ys6ZnPJnccUAvK4p5L34X"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Forr\u00f3 do HF",
+          "url": "https://open.spotify.com/artist/3Yaa2NJiGdT82KIJMnHUZ7"
         }
       ],
-      "duration_ms": 148548,
-      "name": "SOLTEIROU - Ao Vivo",
-      "url": "https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT"
+      "duration_ms": 108931,
+      "name": "Piseiro Tocando Alto",
+      "url": "https://open.spotify.com/track/74DKhVs1mFJGpdcpWOntVT"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "LUAN CITY DELUXE (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 148548,
+      "name": "SOLTEIROU - Ao Vivo",
+      "url": "https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Eu Vou Cair na Noite",
         "url": "https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Facilita A\u00ed",
-        "url": "https://open.spotify.com/album/7xdmkdtyNToObPGmRYKVJc"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 143830,
-      "name": "Facilita A\u00ed",
-      "url": "https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "5 Da Manh\u00e3 (Ao Vivo Em Goi\u00e2nia)",
         "url": "https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 147116,
       "name": "5 Da Manh\u00e3 - Ao Vivo",
       "url": "https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Facilita A\u00ed",
+        "url": "https://open.spotify.com/album/7xdmkdtyNToObPGmRYKVJc"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 143830,
+      "name": "Facilita A\u00ed",
+      "url": "https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "N\u00e3o Manda \u00c1udio",
-        "url": "https://open.spotify.com/album/4TvJjBa84YCeR0DZKsnWFP"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 194090,
-      "name": "N\u00e3o Manda \u00c1udio",
-      "url": "https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Tchuco Nela",
         "url": "https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 170880,
       "name": "Tchuco Nela",
       "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "N\u00e3o Manda \u00c1udio",
+        "url": "https://open.spotify.com/album/4TvJjBa84YCeR0DZKsnWFP"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 194090,
+      "name": "N\u00e3o Manda \u00c1udio",
+      "url": "https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Digo ou N\u00e3o Digo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rrEzh5Y8zLVH7njdRIECu"
+        "name": "Botadinha Saliente",
+        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
         }
       ],
-      "duration_ms": 189800,
-      "name": "Digo ou N\u00e3o Digo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2rtsT3CefzKc05JdAm8aQ5"
+      "duration_ms": 158000,
+      "name": "Botadinha Saliente",
+      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1367,18 +1363,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Botadinha Saliente",
-        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
+        "name": "Digo ou N\u00e3o Digo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rrEzh5Y8zLVH7njdRIECu"
       },
       "artists": [
         {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Botadinha Saliente",
-      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
+      "duration_ms": 189800,
+      "name": "Digo ou N\u00e3o Digo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2rtsT3CefzKc05JdAm8aQ5"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1399,6 +1399,30 @@
       "duration_ms": 178765,
       "name": "Pega o Guanabara - Ao Vivo",
       "url": "https://open.spotify.com/track/63q5Qb9ERTpapEmARxKBE6"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Gol Bolinha, Gol Quadrado 2 (Remix)",
+        "url": "https://open.spotify.com/album/3ubffmPgtDf9X5MnNN8ITZ"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Rafinha RSQ",
+          "url": "https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h"
+        }
+      ],
+      "duration_ms": 128634,
+      "name": "Gol Bolinha, Gol Quadrado 2 - Remix",
+      "url": "https://open.spotify.com/track/5BNNPlohsGPh5cN3eooszS"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1427,30 +1451,6 @@
       "duration_ms": 136220,
       "name": "A Caminho do Bega [Piseiro Remix] (feat. Dj Mizzontti)",
       "url": "https://open.spotify.com/track/6GIIq2BZtZorfS2R2Y2vAT"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Gol Bolinha, Gol Quadrado 2 (Remix)",
-        "url": "https://open.spotify.com/album/3ubffmPgtDf9X5MnNN8ITZ"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Rafinha RSQ",
-          "url": "https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h"
-        }
-      ],
-      "duration_ms": 128634,
-      "name": "Gol Bolinha, Gol Quadrado 2 - Remix",
-      "url": "https://open.spotify.com/track/5BNNPlohsGPh5cN3eooszS"
     },
     {
       "added_at": "2023-09-29 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 80806,
+  "num_followers": 80893,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjgzY2NkYWJlNjY2OWYwMWJkY2JjNThlMjk1NjQ0YzZjZTJlNjZl",
+  "snapshot_id": "MCxkYzZhYjY0ZDNiZjlkZjMwY2MyNDJmMzliNTFhNDRhYTg1NzBkZTAz",
   "tracks": [
     {
       "added_at": "2023-09-29 15:52:17",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Looking at the World Through a Window",
-        "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI"
       },
       "artists": [
         {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
         }
       ],
-      "duration_ms": 385000,
-      "name": "Looking at the World Through a Window",
-      "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
+      "duration_ms": 361760,
+      "name": "A Citizen's Dream",
+      "url": "https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI"
+        "name": "Looking at the World Through a Window",
+        "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
       },
       "artists": [
         {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 361760,
-      "name": "A Citizen's Dream",
-      "url": "https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F"
+      "duration_ms": 385000,
+      "name": "Looking at the World Through a Window",
+      "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
+        "name": "Into The Mountains",
+        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
       },
       "artists": [
         {
-          "name": "Bossk",
-          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
+          "name": "Dan Caine",
+          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
         }
       ],
-      "duration_ms": 355506,
-      "name": "White Stork",
-      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
+      "duration_ms": 203012,
+      "name": "The Sun In The Trees",
+      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -715,18 +715,34 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Into The Mountains",
-        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
       },
       "artists": [
         {
-          "name": "Dan Caine",
-          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
+          "name": "Bossk",
+          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
         }
       ],
-      "duration_ms": 203012,
-      "name": "The Sun In The Trees",
-      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
+      "duration_ms": 355506,
+      "name": "White Stork",
+      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Blowback",
+        "url": "https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5"
+      },
+      "artists": [
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "duration_ms": 309200,
+      "name": "Blowback - Edit",
+      "url": "https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -763,18 +779,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Blowback",
-        "url": "https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5"
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
       },
       "artists": [
         {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+          "name": "The Aquaerials",
+          "url": "https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc"
         }
       ],
-      "duration_ms": 309200,
-      "name": "Blowback - Edit",
-      "url": "https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy"
+      "duration_ms": 364166,
+      "name": "Dust Bowl",
+      "url": "https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -795,26 +811,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Healing Is A Miracle",
-        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        },
-        {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
-        }
-      ],
-      "duration_ms": 366290,
-      "name": "In Light",
-      "url": "https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Timewave Zero",
         "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
       },
@@ -831,18 +827,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
+        "name": "Healing Is A Miracle",
+        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
       },
       "artists": [
         {
-          "name": "The Aquaerials",
-          "url": "https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc"
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        },
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
         }
       ],
-      "duration_ms": 364166,
-      "name": "Dust Bowl",
-      "url": "https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM"
+      "duration_ms": 366290,
+      "name": "In Light",
+      "url": "https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
+        "name": "In Gardens",
+        "url": "https://open.spotify.com/album/354ugiF6zocDzbvq5jgSGm"
+      },
+      "artists": [
+        {
+          "name": "HOLM",
+          "url": "https://open.spotify.com/artist/1V45eg22S9YuA3rdgVPXKt"
+        }
+      ],
+      "duration_ms": 323395,
+      "name": "In Gardens",
+      "url": "https://open.spotify.com/track/104iLe9xEka0rgjZYrvZsa"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 282981,
       "name": "Love Is in Beauty and Chaos",
       "url": "https://open.spotify.com/track/1vztv9K1JVzRzTT1d98aPN"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
-        "name": "In Gardens",
-        "url": "https://open.spotify.com/album/354ugiF6zocDzbvq5jgSGm"
-      },
-      "artists": [
-        {
-          "name": "HOLM",
-          "url": "https://open.spotify.com/artist/1V45eg22S9YuA3rdgVPXKt"
-        }
-      ],
-      "duration_ms": 323395,
-      "name": "In Gardens",
-      "url": "https://open.spotify.com/track/104iLe9xEka0rgjZYrvZsa"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Enfold",
-        "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
-      },
-      "artists": [
-        {
-          "name": "Soars",
-          "url": "https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Enfold",
-      "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Mockingbird Love",
         "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Meteor Shower",
-        "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
+        "name": "Enfold",
+        "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
       },
       "artists": [
         {
-          "name": "Alyas",
-          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
+          "name": "Soars",
+          "url": "https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Meteor Shower",
-      "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
+      "duration_ms": 226760,
+      "name": "Enfold",
+      "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Those Winter Sundays",
-        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
+        "name": "Meteor Shower",
+        "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
       },
       "artists": [
         {
-          "name": "Have a Cigar",
-          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
+          "name": "Alyas",
+          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Those Winter Sundays",
-      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
+      "duration_ms": 236000,
+      "name": "Meteor Shower",
+      "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1191,6 +1175,22 @@
       "duration_ms": 355360,
       "name": "Abschied",
       "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Those Winter Sundays",
+        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
+      },
+      "artists": [
+        {
+          "name": "Have a Cigar",
+          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Those Winter Sundays",
+      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "The Blurred Horizon",
-        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
-      },
-      "artists": [
-        {
-          "name": "Tuesday The Sky",
-          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "The Blurred Horizon",
-      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Pearldiving",
         "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 152260,
       "name": "Les Amourettes",
       "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "The Blurred Horizon",
+        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
+      },
+      "artists": [
+        {
+          "name": "Tuesday The Sky",
+          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "The Blurred Horizon",
+      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
-      },
-      "artists": [
-        {
-          "name": "Flumina",
-          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "(not) alone",
         "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 279197,
       "name": "(not) alone",
       "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
+      },
+      "artists": [
+        {
+          "name": "Flumina",
+          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Pajama Avenue",
-        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
-      },
-      "artists": [
-        {
-          "name": "Zelienople",
-          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "Back To Dangerous",
-      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
-    },
-    {
-      "added_at": "2023-09-29 15:52:17",
-      "album": {
         "name": "Hy-Brasil",
         "url": "https://open.spotify.com/album/0Ovb8VJpDHHtTbqjbYhywu"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2023-09-29 15:52:17",
       "album": {
-        "name": "Bloodsport",
-        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
+        "name": "Pajama Avenue",
+        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
       },
       "artists": [
         {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+          "name": "Zelienople",
+          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
         }
       ],
-      "duration_ms": 221775,
-      "name": "An Absolute Living Hell, Pt. 1",
-      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
+      "duration_ms": 232026,
+      "name": "Back To Dangerous",
+      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
     },
     {
       "added_at": "2023-09-29 15:52:17",
@@ -1515,6 +1499,22 @@
       "duration_ms": 164589,
       "name": "Lakeshore",
       "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
+    },
+    {
+      "added_at": "2023-09-29 15:52:17",
+      "album": {
+        "name": "Bloodsport",
+        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
+      },
+      "artists": [
+        {
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+        }
+      ],
+      "duration_ms": 221775,
+      "name": "An Absolute Living Hell, Pt. 1",
+      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
     },
     {
       "added_at": "2023-09-29 15:52:17",

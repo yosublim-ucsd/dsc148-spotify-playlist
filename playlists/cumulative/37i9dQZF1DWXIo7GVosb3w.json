@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Worldfly",
+        "url": "https://open.spotify.com/album/46OkEoB1mHajNm6pIGXUCc"
+      },
+      "artists": [
+        {
+          "name": "Vicke Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185793,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/4QuqtDZyTUmxJgGbsi1QAB"
+    },
+    {
+      "album": {
         "name": "BEST ALBUM SUPERVILLAIN",
         "url": "https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF"
       },

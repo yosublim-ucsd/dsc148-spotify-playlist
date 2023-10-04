@@ -3967,6 +3967,36 @@
     },
     {
       "album": {
+        "name": "Cult Mama (From \"Skanda\")",
+        "url": "https://open.spotify.com/album/3PGMup46G05fgFOjoexm8h"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Arun Kaundinya",
+          "url": "https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4"
+        },
+        {
+          "name": "Parnika Manya",
+          "url": "https://open.spotify.com/artist/2xuVTI9imgpzqOabZP4gPO"
+        },
+        {
+          "name": "Varadaraj Chikballapura",
+          "url": "https://open.spotify.com/artist/5mIoP70HRX5S0iYGCUlmQW"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247882,
+      "name": "Cult Mama (From \"Skanda\")",
+      "url": "https://open.spotify.com/track/5YypG8lpyd7D2jGkFG8DTU"
+    },
+    {
+      "album": {
         "name": "Cult Mama (From \"Skanda\") (Kannada)",
         "url": "https://open.spotify.com/album/7AEwPXQSZmE4rgXBDKz5jt"
       },
@@ -3986,7 +4016,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 247882,
       "name": "Cult Mama (From \"Skanda\") (Kannada)",
       "url": "https://open.spotify.com/track/1cSDTRLkvTQjeQ3iNh50SG"
@@ -8298,7 +8328,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 198083,
       "name": "Ivanu (From \"Tiger Nageswara Rao\") (Kannada)",
       "url": "https://open.spotify.com/track/0m25syyBZlV40tujgMvU1v"
@@ -19704,6 +19734,32 @@
       "duration_ms": 237818,
       "name": "Vasundharadevi (Title Song) - From \"Vasundharadevi\"",
       "url": "https://open.spotify.com/track/3wmCotziSIGCU1vu7fZd3j"
+    },
+    {
+      "album": {
+        "name": "Veedu (From \"Tiger Nageswara Rao\")",
+        "url": "https://open.spotify.com/album/5RYGFNSsuLcewmIAV1oPrm"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198083,
+      "name": "Veedu (From \"Tiger Nageswara Rao\")",
+      "url": "https://open.spotify.com/track/16QpMebGDlM6GSdCdNkdVc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Beautifully sad and moody piano music.
 
-343 songs - 15 hr 8 min
+344 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,10 @@
 | [All Numbers End](https://open.spotify.com/track/1QGlEQJkixOXsbijKqNTDB) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 1:35 | 2022-07-28 | 2023-05-10 |
 | [All Numbers End](https://open.spotify.com/track/7pLoI3XJLM67CGKAnOf5M5) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Numbers End](https://open.spotify.com/album/2J8z6obkyZkBrBHUjiXERN) | 1:35 | 2021-12-14 | 2022-07-29 |
 | [Amber](https://open.spotify.com/track/31eqVCJgVXYnJa1GkQdJuC) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Amber](https://open.spotify.com/album/6xc2Dyjtqq4jdwFVTqdHpl) | 3:47 | 2021-12-14 |  |
-| [And There You Were](https://open.spotify.com/track/1r9tcQmkq2JBXbrEmhKu4N) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [For Tiny Feet](https://open.spotify.com/album/1GjPYdwgU2AU0Isa8pEYGN) | 2:24 | 2023-09-05 |  |
+| [And There You Were](https://open.spotify.com/track/1r9tcQmkq2JBXbrEmhKu4N) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [For Tiny Feet](https://open.spotify.com/album/1GjPYdwgU2AU0Isa8pEYGN) | 2:24 | 2023-09-05 | 2023-10-04 |
 | [And There You Were](https://open.spotify.com/track/2OLfuAdRtXwsoORwiWahPe) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [A New Path](https://open.spotify.com/album/0sFVHCju4aS5BEiZtMt2LC) | 2:24 | 2023-08-14 | 2023-08-31 |
 | [And There You Were](https://open.spotify.com/track/5qcXvge6W2VFVwH20TNoPA) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And Blueberries](https://open.spotify.com/album/5L2Y9P1JFnFirIsk9RbqWp) | 2:24 | 2023-08-14 | 2023-09-13 |
+| [And There You Were](https://open.spotify.com/track/5wgdYkgZVflEgEmFIWvpug) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Close To Maman](https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH) | 2:24 | 2023-09-18 |  |
 | [And There You Were](https://open.spotify.com/track/6inqfF6liJBitNaHqvxbj8) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [From Out Of Nowhere](https://open.spotify.com/album/0UetsAF1JQXncnzxmbua3v) | 2:24 | 2023-08-07 | 2023-08-23 |
 | [And There You Were](https://open.spotify.com/track/7bSLnYwRRxstyvCoqorAPU) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Of Great Expectations](https://open.spotify.com/album/3E1aUqQYMvCaOexhgq8V1Q) | 2:24 | 2023-08-14 | 2023-09-05 |
 | [Anfractuous View](https://open.spotify.com/track/6TX02ODkwVEymt9Yzw4lUf) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Anfractuous View](https://open.spotify.com/album/71vCCA6hOqaPYZw1Q7F4yq) | 3:09 | 2022-06-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 162269,
+  "num_followers": 162379,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzQ2MDMxZDk4YzM1N2NiZGM2MTU2Y2QzZTk1ZDdjMmI1Yjc5YjI5",
+  "snapshot_id": "MCw2NGEzMjgzZDI3MzE1ZjgwODVhYjBlMDJjNTBlMGIxNDE2OTAyNGJh",
   "tracks": [
     {
       "added_at": "2023-09-29 06:00:00",
@@ -595,38 +595,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Pollo y Conejo",
-        "url": "https://open.spotify.com/album/486wFfAd63UihpKn7Cimiv"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Pollo y Conejo",
-      "url": "https://open.spotify.com/track/4dFzuZePy7GYvbPFNwJyyl"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
         "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 288000,
       "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
       "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Pollo y Conejo",
+        "url": "https://open.spotify.com/album/486wFfAd63UihpKn7Cimiv"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Pollo y Conejo",
+      "url": "https://open.spotify.com/track/4dFzuZePy7GYvbPFNwJyyl"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1187,6 +1187,42 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "Viaje Sin Equipaje",
+        "url": "https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw"
+      },
+      "artists": [
+        {
+          "name": "Mr. Yosie Locote",
+          "url": "https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR"
+        }
+      ],
+      "duration_ms": 255843,
+      "name": "Entrada Sin Salida",
+      "url": "https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Millonario Sin Corona",
+        "url": "https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Babo",
+          "url": "https://open.spotify.com/artist/50A4LkkoiVLuJAtcRvfqYh"
+        }
+      ],
+      "duration_ms": 203413,
+      "name": "De Aqu\u00ed los Veo",
+      "url": "https://open.spotify.com/track/7ICsw0j1Ln2cJDkFzqrGUS"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "Locofon\u00edas",
         "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
       },
@@ -1215,42 +1251,6 @@
       "duration_ms": 360724,
       "name": "Liga Malandra",
       "url": "https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Millonario Sin Corona",
-        "url": "https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Babo",
-          "url": "https://open.spotify.com/artist/50A4LkkoiVLuJAtcRvfqYh"
-        }
-      ],
-      "duration_ms": 203413,
-      "name": "De Aqu\u00ed los Veo",
-      "url": "https://open.spotify.com/track/7ICsw0j1Ln2cJDkFzqrGUS"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Viaje Sin Equipaje",
-        "url": "https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw"
-      },
-      "artists": [
-        {
-          "name": "Mr. Yosie Locote",
-          "url": "https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR"
-        }
-      ],
-      "duration_ms": 255843,
-      "name": "Entrada Sin Salida",
-      "url": "https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "Se Rumora",
+        "url": "https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 252923,
+      "name": "Se Rumora",
+      "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "Si Preguntan por M\u00ed",
         "url": "https://open.spotify.com/album/4POHA2ZskfSfw9s2zqRtKY"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 228500,
       "name": "Si Preguntan por M\u00ed",
       "url": "https://open.spotify.com/track/4BHysBnR9QD9cSDlx0hC5s"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Se Rumora",
-        "url": "https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 252923,
-      "name": "Se Rumora",
-      "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 141904,
+      "name": "Modo Bestia",
+      "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "Robot Montana",
         "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 175730,
       "name": "Mariguana & Tequila",
       "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 141904,
-      "name": "Modo Bestia",
-      "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
     },
     {
       "added_at": "2023-09-29 06:00:00",

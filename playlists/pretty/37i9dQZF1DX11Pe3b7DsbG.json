@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 230253,
+  "num_followers": 230260,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWNhYTZiMmUxNDU2M2M0YzdlNmI4M2NhZDNiNWYwNGY0NDMyOTdl",
+  "snapshot_id": "MCwzMzI4MTFkYjhmN2U4MDVkYjMzMGIzZTY0ZGViMzM2OThhM2I0Mzll",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -619,22 +619,18 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "Ao Vivo Com Os Amigos",
-        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
+        "name": "S\u00e9rie Documento - Nelson Cavaquinho",
+        "url": "https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k"
       },
       "artists": [
         {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+          "name": "Nelson Cavaquinho",
+          "url": "https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5"
         }
       ],
-      "duration_ms": 203320,
-      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
-      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
+      "duration_ms": 207786,
+      "name": "Quando Eu Me Chamar Saudade",
+      "url": "https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -655,18 +651,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
-        "name": "S\u00e9rie Documento - Nelson Cavaquinho",
-        "url": "https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k"
+        "name": "Ao Vivo Com Os Amigos",
+        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
       },
       "artists": [
         {
-          "name": "Nelson Cavaquinho",
-          "url": "https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5"
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Quando Eu Me Chamar Saudade",
-      "url": "https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF"
+      "duration_ms": 203320,
+      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
+      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
     },
     {
       "added_at": "2023-08-04 03:01:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 194291,
+      "name": "Faz uma loucura por mim - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Mais Feliz",
         "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 224376,
       "name": "Dependente Do Amor",
       "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 194291,
-      "name": "Faz uma loucura por mim - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P"
     },
     {
       "added_at": "2023-08-04 03:01:00",

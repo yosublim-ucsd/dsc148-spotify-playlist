@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,739 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,840 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 34 | [Mon fils ma bataille](https://open.spotify.com/track/0tZdYg6Tf2aGq2C4FyNzwN) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Un autre monde \(Remastered\)](https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2) | 4:08 |
 | 35 | [Déjeuner en paix](https://open.spotify.com/track/4QJfrtZEaJ51F1drECpOIe) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Engelberg \(Anniversaire 30 ans\)](https://open.spotify.com/album/4cyW68xKVdwPyqdHBxdMiX) | 3:59 |
 | 36 | [Manhattan\-Kaboul](https://open.spotify.com/track/7eJdx83TiKsVqAzLFBelMO) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r), [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Boucan d'enfer](https://open.spotify.com/album/1YQVhi1t8baYRJXDAEOvMG) | 3:50 |
-| 37 | [Qui de nous deux](https://open.spotify.com/track/0PZiPbrDCdORrSW6IIICRG) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [qui de nous deux](https://open.spotify.com/album/4RGGnIevJw3BObQqMPffAc) | 3:45 |
+| 37 | [Qui de nous deux](https://open.spotify.com/track/0PZiPbrDCdORrSW6IIICRG) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Qui de nous deux](https://open.spotify.com/album/4RGGnIevJw3BObQqMPffAc) | 3:45 |
 | 38 | [Eté 90](https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:12 |
 | 39 | [Désenchantée](https://open.spotify.com/track/15XYdD283tK9iyJzL738bn) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [L'Autre](https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM) | 5:22 |
 | 40 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 99 | [Respire](https://open.spotify.com/track/2xcuDxTLlp0ro2GYlS1i9G) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Tu Vas Pas Mourir De Rire](https://open.spotify.com/album/6A72tti9z0ejH8Y6DeVhCr) | 3:48 |
 | 100 | [Battez\-vous](https://open.spotify.com/track/7IlmHApoMCIv39Z5JRZyrk) | [Brigitte](https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk) | [Et vous, tu m'aimes ?](https://open.spotify.com/album/3YaeTL1gQ9CkWK0hj0foVU) | 4:03 |
 
-Snapshot ID: `MCw3ZGE3ZTk4NDU3ODVmMDI3YjY0YWI4ZDczMWIyYWQyZGYxMGI5YzE5`
+Snapshot ID: `MCw1ZTQyNzgwZTRmYzJjOTRjYmYwZGY3ODExNTc1Yjg4MDA4NWVmZjQy`

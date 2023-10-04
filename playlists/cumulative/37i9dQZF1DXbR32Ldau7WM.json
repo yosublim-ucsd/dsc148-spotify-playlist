@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now! Cover: GRAPEVINE",
+  "description": "The biggest rock bands/artists in Japan right now! Cover: QURULI(\u304f\u308b\u308a)",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 215220,
       "name": "6or9",
       "url": "https://open.spotify.com/track/5b2AjbOnzdOEQvbap9ZQdF"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 276666,
       "name": "All the best to you",
       "url": "https://open.spotify.com/track/041iQwe6neBn6VXVSQ1yV2"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 274971,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3LXcvucZIdGmD8MZ9adBh7"
@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "BROKEN GAMES",
+        "url": "https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd"
+      },
+      "artists": [
+        {
+          "name": "FZMZ",
+          "url": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236073,
+      "name": "BROKEN GAMES",
+      "url": "https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5"
+    },
+    {
+      "album": {
         "name": "Broken Heart of Gold",
         "url": "https://open.spotify.com/album/5cL6DxdZ1QRc9VlFkEZdXT"
       },
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "California coconuts",
       "url": "https://open.spotify.com/track/0lNrG9JiNQIrSQJ3vzQdcx"
@@ -2231,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "Fifty's map \uff5e\u304a\u3068\u306a\u306e\u5730\u56f3",
+        "url": "https://open.spotify.com/album/2T1C7BX29tDn1rQNtYMnpn"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290672,
+      "name": "Fifty's map \uff5e\u304a\u3068\u306a\u306e\u5730\u56f3",
+      "url": "https://open.spotify.com/track/5fNrWNdv7Qfj7EdCl31Rur"
+    },
+    {
+      "album": {
         "name": "10-feat",
         "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
       },
@@ -2496,6 +2532,24 @@
       "duration_ms": 145200,
       "name": "FXXKFXXKFXXK",
       "url": "https://open.spotify.com/track/7kMc3XJA3IaEmA47Pt7PZS"
+    },
+    {
+      "album": {
+        "name": "G.",
+        "url": "https://open.spotify.com/album/3qLcXyLhpmSLJRrWTipKTQ"
+      },
+      "artists": [
+        {
+          "name": "LUNA SEA",
+          "url": "https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259105,
+      "name": "G.",
+      "url": "https://open.spotify.com/track/2CcNLa3fYf7vw5i0dQCmGG"
     },
     {
       "album": {
@@ -2980,7 +3034,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 257133,
       "name": "Hyakka Ranman",
       "url": "https://open.spotify.com/track/5EqIj8sY7MmlUyfLi0363q"
@@ -4281,6 +4335,24 @@
     },
     {
       "album": {
+        "name": "LOVELESS",
+        "url": "https://open.spotify.com/album/7DaZae3yquuex9dVvij9F6"
+      },
+      "artists": [
+        {
+          "name": "LUNA SEA",
+          "url": "https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341340,
+      "name": "LOVELESS",
+      "url": "https://open.spotify.com/track/0CR13lQ9za1zCe8TrM8IQo"
+    },
+    {
+      "album": {
         "name": "SCAFULL KING",
         "url": "https://open.spotify.com/album/2jULdN2D4jZOMca3abkOMk"
       },
@@ -4354,6 +4426,24 @@
       "duration_ms": 391986,
       "name": "M42",
       "url": "https://open.spotify.com/track/1dzaqFqckQFcRtGeGjDMJm"
+    },
+    {
+      "album": {
+        "name": "BASSTARIAN",
+        "url": "https://open.spotify.com/album/4YyzC2kdPETT3bHIqFCNW2"
+      },
+      "artists": [
+        {
+          "name": "MASAKI",
+          "url": "https://open.spotify.com/artist/3eOiUBOEztginjc2coXceC"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222782,
+      "name": "MADJOY",
+      "url": "https://open.spotify.com/track/7aCfloApfOsWpl3BxruqGs"
     },
     {
       "album": {
@@ -5684,7 +5774,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 223118,
       "name": "PARADISE (Kill The Silence)",
       "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
@@ -6048,7 +6138,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 239494,
       "name": "Relay~Mori no Uta",
       "url": "https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc"
@@ -6316,7 +6406,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 240173,
       "name": "saigoni nokorumono",
       "url": "https://open.spotify.com/track/32b0pBnvuH0z0NY9YeXNx5"
@@ -6738,7 +6828,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 217545,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/2j7AIjrvfx9hpMhZ5oQGb9"
@@ -7612,7 +7702,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 210345,
       "name": "The Gong of Knockout",
       "url": "https://open.spotify.com/track/7eITsVSfN8kKAxT35hoKF2"
@@ -9224,6 +9314,24 @@
       "duration_ms": 240412,
       "name": "\u3042\u308b\u671d",
       "url": "https://open.spotify.com/track/3a2qX03Ctq69PEqG89cDM9"
+    },
+    {
+      "album": {
+        "name": "\u3044\u3051\u306a\u3044fool logic",
+        "url": "https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "\u3044\u3051\u306a\u3044fool logic",
+      "url": "https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo"
     },
     {
       "album": {
@@ -11401,6 +11509,24 @@
     },
     {
       "album": {
+        "name": "\u6700\u5f8c\u306b\u6b8b\u308b\u3082\u306e",
+        "url": "https://open.spotify.com/album/7EgengpE1IcBrCnlN04J3r"
+      },
+      "artists": [
+        {
+          "name": "THE BACK HORN",
+          "url": "https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227613,
+      "name": "\u30d5\u30a7\u30a4\u30af\u30c9\u30e9\u30de",
+      "url": "https://open.spotify.com/track/442pMIC5EsDrhR8oNTF6qr"
+    },
+    {
+      "album": {
         "name": "\u30d5\u30a7\u30ce\u30e1\u30ca\u30eb\u30de\u30f3",
         "url": "https://open.spotify.com/album/00v55UgAPns2pZv2NV0DZq"
       },
@@ -11762,6 +11888,24 @@
       "duration_ms": 252000,
       "name": "\u4e16\u754c\u306e\u771f\u663c",
       "url": "https://open.spotify.com/track/7CvhO8yF4Xw0mbrBLQXrSB"
+    },
+    {
+      "album": {
+        "name": "\u611f\u899a\u306f\u9053\u6a19",
+        "url": "https://open.spotify.com/album/0ueyYjPqJg4dWaDDTlnPfz"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254106,
+      "name": "\u4e16\u754c\u306f\u3053\u306e\u307e\u307e\u5909\u308f\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/5LWAMBZqkfFzZ4lJvI4pNP"
     },
     {
       "album": {

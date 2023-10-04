@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 271729,
       "name": "Affection - Radio Edit",
       "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 314666,
       "name": "Alle meine Raver",
       "url": "https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 422004,
       "name": "Be a Human",
       "url": "https://open.spotify.com/track/6kJ9Bl0rey8TfxzuuTFhlM"
@@ -382,6 +382,24 @@
       "duration_ms": 186190,
       "name": "Can You Move To The Beat",
       "url": "https://open.spotify.com/track/7rljiHdUyJWOx7bY57FMFn"
+    },
+    {
+      "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/15G5lWobigPCcfut6h0eaD"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208759,
+      "name": "Can't Stop the Feeling",
+      "url": "https://open.spotify.com/track/0NsigEyiIwuysCjeU9EhRU"
     },
     {
       "album": {
@@ -792,7 +810,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 231437,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z"
@@ -944,7 +962,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 348444,
       "name": "Experience",
       "url": "https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 392008,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 363953,
       "name": "Losing Gravity",
       "url": "https://open.spotify.com/track/2lCJlVxUXg7hE187mVPLZm"
@@ -1782,7 +1800,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 247272,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
@@ -1908,7 +1926,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 183649,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd"
@@ -2114,7 +2132,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 354626,
       "name": "Perfect Disorder - Roger Lavelle Remix",
       "url": "https://open.spotify.com/track/5SQ6u2IJsbgGkS9PDoIwCY"
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 268235,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU"
@@ -2520,7 +2538,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 236307,
       "name": "Scriptio Continua",
       "url": "https://open.spotify.com/track/5RkVKl0tsoVSXTigQ4bS0a"
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 438750,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/6YUnruRH7cz1pe1YruJrdR"
@@ -2998,7 +3016,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 212000,
       "name": "Time",
       "url": "https://open.spotify.com/track/20QjNItuQEZvwXnIy5Va37"
@@ -3085,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Together One Time",
+        "url": "https://open.spotify.com/album/7oF7soCZFmCFhnLeDKQ19Y"
+      },
+      "artists": [
+        {
+          "name": "Kaiserdisco",
+          "url": "https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288671,
+      "name": "Together One Time",
+      "url": "https://open.spotify.com/track/5UH3wpmBqgrTqMjtBdDv2s"
+    },
+    {
+      "album": {
         "name": "Traffic",
         "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
       },
@@ -3154,7 +3190,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 184888,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm"
@@ -3244,7 +3280,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 426000,
       "name": "Veritas",
       "url": "https://open.spotify.com/track/6KVUpPL8NJSDHt6OYAi2A8"

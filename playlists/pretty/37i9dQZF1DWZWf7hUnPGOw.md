@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,386 likes - 217 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,557 likes - 217 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,7 +198,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 188 | [Rollin' Trainwreck](https://open.spotify.com/track/7njzJyH8wDedN5Uuj3txOb) | [Rollin' Trainwreck](https://open.spotify.com/artist/6EhNv6Rn0dXT7rCSmvPOEN) | [Stomp](https://open.spotify.com/album/7h2naYB52TzWPTCrg4nJNU) | 3:04 |
 | 189 | [Close the Blinds](https://open.spotify.com/track/5hECuWyOkMaIpqmVhPv7ss) | [Denney and The Jets](https://open.spotify.com/artist/6JmZaCTWhmJcjIqt4Sh0XC) | [Denney and the Jets](https://open.spotify.com/album/0KIj1EBgmxUS0b8VVO4X0T) | 2:30 |
 | 190 | [November](https://open.spotify.com/track/3mM9vRlgBSZGyTLzJ4je5m) | [Keith Skooglund](https://open.spotify.com/artist/6UxzEMXInwnATIwEbDxkr0) | [November](https://open.spotify.com/album/1cEsGPDHBbS4Ik7eNQwRuF) | 2:59 |
-| 191 | [Better Man](https://open.spotify.com/track/1EHYOYhRaU3dXEPAhEsqDT) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Vol\. II](https://open.spotify.com/album/0OGhpkvxYC9KUUTCeMblqA) | 3:08 |
+| 191 | [Better Man](https://open.spotify.com/track/5ZaGVsPQtyRL1qGoA9Q1SX) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Vol\. II](https://open.spotify.com/album/6FAkuqhjLYxxN9uekAC2m5) | 3:08 |
 | 192 | [Just Like You](https://open.spotify.com/track/3I960WIrkms9OFGUoYHPvG) | [The Dahls](https://open.spotify.com/artist/5e6QJGOFBAFPoOPIFDKaWt) | [Just Like You](https://open.spotify.com/album/6qyqKi1AztjSruNzsVwiWt) | 3:51 |
 | 193 | [Meant to Stay Hid](https://open.spotify.com/track/5XaEiteF9A84F3ESpBg7jV) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Meant to Stay Hid](https://open.spotify.com/album/0U7yUdZYoCA3yp33ydpPHm) | 3:43 |
 | 194 | [Howl](https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ) | 3:38 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 216 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 217 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MCxiMTViY2M1ZTRiMWFmNjYxMjRmOTI5ZGFhOWM1ZmZhZGYzNWRkYWZh`
+Snapshot ID: `MCxiZGM3ZTNiZmY1NmU5NmI2MDY3NmFhMGMwMDMyNWJjMGZlOTc2YWUw`

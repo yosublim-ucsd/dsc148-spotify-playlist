@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk",
-  "num_followers": 33213,
+  "num_followers": 33230,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGVkOTJmODY2OTRjYThmODMyZDljNjgwMTgyN2Q3NzkxZjVhNWM1",
+  "snapshot_id": "MCw2ZDcxZDI1MDEzMDg4YjZiNDZkMmM1YjBlNGY5ZTNlMzk2OGYxNzVl",
   "tracks": [
     {
       "added_at": "2023-09-29 16:05:46",
@@ -683,6 +683,26 @@
     {
       "added_at": "2023-09-29 16:05:46",
       "album": {
+        "name": "Rap dos Novos Bandidos",
+        "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "duration_ms": 91682,
+      "name": "Puxa o Gatilho Primeiro",
+      "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
+    },
+    {
+      "added_at": "2023-09-29 16:05:46",
+      "album": {
         "name": "Fura Bilion\u00e1rios",
         "url": "https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 300000,
       "name": "Fura Bilion\u00e1rios",
       "url": "https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC"
-    },
-    {
-      "added_at": "2023-09-29 16:05:46",
-      "album": {
-        "name": "Rap dos Novos Bandidos",
-        "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
-      },
-      "artists": [
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
-        }
-      ],
-      "duration_ms": 91682,
-      "name": "Puxa o Gatilho Primeiro",
-      "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
     },
     {
       "added_at": "2023-09-29 16:05:46",

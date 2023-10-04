@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Abide With Me",
+        "url": "https://open.spotify.com/album/7JrbfoEAciipmoxUzvp9zx"
+      },
+      "artists": [
+        {
+          "name": "Steinar Lugn",
+          "url": "https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Abide With Me",
+      "url": "https://open.spotify.com/track/1z61CCMFv15IskuobYa1PZ"
+    },
+    {
+      "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/0DbmJx7EbFtHvX7DVnpwTJ"
       },
@@ -506,6 +524,24 @@
       "duration_ms": 109000,
       "name": "All I Want for Christmas is You",
       "url": "https://open.spotify.com/track/4K87zsyimy9SQdwCFkV1w5"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/1YLi7u0pZkzyQ20IN2Er7B"
+      },
+      "artists": [
+        {
+          "name": "Lena Terne",
+          "url": "https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140750,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/5o4iMbbgXDeBiQSCp8Tiuu"
     },
     {
       "album": {
@@ -898,10 +934,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 123250,
       "name": "Ding Dong Merrily On High",
       "url": "https://open.spotify.com/track/51VCb04kTqUOziuk2kviK5"
+    },
+    {
+      "album": {
+        "name": "Ding Dong! Merrily on High",
+        "url": "https://open.spotify.com/album/0AiX2e2fpeJNZuxDEmjIwf"
+      },
+      "artists": [
+        {
+          "name": "Avery Tormichael",
+          "url": "https://open.spotify.com/artist/6XlTCj3XJ2exhVk2rW5JbL"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130474,
+      "name": "Ding Dong! Merrily on High",
+      "url": "https://open.spotify.com/track/4YJa9BSCvs4HesVnhqdjND"
     },
     {
       "album": {
@@ -1121,6 +1175,42 @@
     },
     {
       "album": {
+        "name": "God Rest Ye Merry Gentlemen",
+        "url": "https://open.spotify.com/album/15rrNRx2oA0A9lbIdXQxiY"
+      },
+      "artists": [
+        {
+          "name": "R. Embers",
+          "url": "https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/3AsRbNlWMQCVtWzmRy4Q2N"
+    },
+    {
+      "album": {
+        "name": "Good Christian Men Rejoice",
+        "url": "https://open.spotify.com/album/5kupU8x4PJt4jTrpKeki4t"
+      },
+      "artists": [
+        {
+          "name": "Serenata Moss",
+          "url": "https://open.spotify.com/artist/3W4A8cV0hV5vutTRDgWuMi"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179252,
+      "name": "Good Christian Men Rejoice",
+      "url": "https://open.spotify.com/track/3Q0zjvVvqUL6I1pzaAdWLd"
+    },
+    {
+      "album": {
         "name": "We Three Kings",
         "url": "https://open.spotify.com/album/5Ppd2aIzY3YD2ug3FMI7sg"
       },
@@ -1139,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Grown-Up Christmas List",
+        "url": "https://open.spotify.com/album/2whNWSIgAu5F7fznsaZ2eU"
+      },
+      "artists": [
+        {
+          "name": "Alexander Gresham",
+          "url": "https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Grown-Up Christmas List",
+      "url": "https://open.spotify.com/track/1LCNUl8hYiweuj2tsaw3rA"
+    },
+    {
+      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/2JZcNuCIjkuWaOGMTVr0Wl"
       },
@@ -1154,6 +1262,24 @@
       "duration_ms": 165119,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6H4s7S9oZDyig7C5Lz8R1m"
+    },
+    {
+      "album": {
+        "name": "Happy Xmas",
+        "url": "https://open.spotify.com/album/5yfYF0xEnU9cUBxFbzgchY"
+      },
+      "artists": [
+        {
+          "name": "Zach Flash",
+          "url": "https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Happy Xmas",
+      "url": "https://open.spotify.com/track/6gGD7PRnQmj1BcoOs4rqiJ"
     },
     {
       "album": {
@@ -1413,6 +1539,42 @@
     },
     {
       "album": {
+        "name": "If We Make it Through December",
+        "url": "https://open.spotify.com/album/4G1fRe2v3jtqb1eL7i7gqS"
+      },
+      "artists": [
+        {
+          "name": "Algot Wiland",
+          "url": "https://open.spotify.com/artist/6xjC2yRJBQzqdlnSUJ6Gdv"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "If We Make it Through December",
+      "url": "https://open.spotify.com/track/0WcqzJx3kzikRLbwfAQCXd"
+    },
+    {
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/7E9onccxRGiLZg0o5jJsXN"
+      },
+      "artists": [
+        {
+          "name": "Miriam Modest",
+          "url": "https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/4y9a5vXdh0RQzUqaMTX8Lz"
+    },
+    {
+      "album": {
         "name": "Jolly Old Saint Nicholas",
         "url": "https://open.spotify.com/album/4GvTg3XYsZeCRicsntPr4U"
       },
@@ -1503,6 +1665,42 @@
     },
     {
       "album": {
+        "name": "Jul jul str\u00e5lande jul",
+        "url": "https://open.spotify.com/album/0VMWJC1J2Rq9APjJNtTL7s"
+      },
+      "artists": [
+        {
+          "name": "Dylan Francis",
+          "url": "https://open.spotify.com/artist/7iB04gHXi381OdMYrbdQQN"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Jul jul str\u00e5lande jul",
+      "url": "https://open.spotify.com/track/7BBEjxq9mITNoUYkgl4Caa"
+    },
+    {
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/3eIDPuVtFSHI3WFgvKnkdK"
+      },
+      "artists": [
+        {
+          "name": "Calmer Still",
+          "url": "https://open.spotify.com/artist/24c4AG30uUmfxrlnYkrntk"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/5eSP3DjZX4jfaXF8b4fqpt"
+    },
+    {
+      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/2osHsjjJFWmlYFUWsQVl3N"
       },
@@ -1514,7 +1712,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 157282,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/5LenSKghLjYnM6CVIbUu9M"
@@ -1644,6 +1842,24 @@
       "duration_ms": 127391,
       "name": "Maybe This Christmas",
       "url": "https://open.spotify.com/track/4i5ZpTxLoHCqeotiLOWv7K"
+    },
+    {
+      "album": {
+        "name": "My Christmas Tree",
+        "url": "https://open.spotify.com/album/1tZjTM9mNiAgPADNRFJkav"
+      },
+      "artists": [
+        {
+          "name": "Ray Wilshire",
+          "url": "https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130091,
+      "name": "My Christmas Tree",
+      "url": "https://open.spotify.com/track/4OEboSrggxr9MYywDKBNOA"
     },
     {
       "album": {

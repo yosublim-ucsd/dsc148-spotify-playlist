@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR?si=NCDLeoLkTPiSgYtBdEOq\-Q"> Afroto </a> : عشان تثبتلي انك ليبرو تيجي تسمع ملوك السين\. غلاف
 
-248 songs - 12 hr 39 min
+249 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 | 2022-06-01 | 2022-07-26 |
 | [الخلطه \- El Khalta](https://open.spotify.com/track/5tE0Z2T2hkcMnGcnylGmwF) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr) | [الخلطه \- El Khalta](https://open.spotify.com/album/74qh30BxVtgztYD0ZdS6ju) | 2:12 | 2023-08-17 |  |
 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 | 2023-06-23 |  |
+| [انا زعلتك](https://open.spotify.com/track/0kQtFJbzjpVkrUQyh7hDD5) | [Mostafa Elnesr](https://open.spotify.com/artist/3qMttOQzAJd5k3kbFPurvA) | [انا زعلتك](https://open.spotify.com/album/2kMAQwPx9QOZedvJ5Np61H) | 2:36 | 2023-10-03 |  |
 | [بطل](https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil baba](https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw) | [بطل](https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX) | 3:27 | 2022-05-10 | 2023-02-24 |
 | [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 | 2022-07-06 | 2023-05-26 |
 | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/0P6gYLZnBuhZNq99NAUJe3) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/6bAqBBFbmNi3ixH2B1F7b8) | 3:11 | 2022-05-10 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Ferxxo",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Bad Bunny",
   "name": "PEGAO",
   "tracks": [
     {
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 195986,
       "name": "Classy 101",
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
@@ -5398,6 +5398,28 @@
       "duration_ms": 242696,
       "name": "Mejor Que Yo",
       "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
+    },
+    {
+      "album": {
+        "name": "Mejores Amigos",
+        "url": "https://open.spotify.com/album/18ZYeQvsy6WkuWtbMXs1sk"
+      },
+      "artists": [
+        {
+          "name": "Nickzzy",
+          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
+        },
+        {
+          "name": "BlueFire",
+          "url": "https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140425,
+      "name": "Mejores Amigos",
+      "url": "https://open.spotify.com/track/6qyssw4zT1VIv7e8CWSkjQ"
     },
     {
       "album": {

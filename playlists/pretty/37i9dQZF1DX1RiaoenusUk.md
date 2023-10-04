@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,412 likes - 94 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,435 likes - 94 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 14 | [Funky Magazine](https://open.spotify.com/track/7FTyR0xZtVCXgjYYrGtvlj) | [Militantes del Climax](https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv) | [Funky Magazine](https://open.spotify.com/album/0dpvI4sK6dte5X32dELM95) | 2:44 |
 | 15 | [De Antes](https://open.spotify.com/track/6EzgVrNIlbA2lUni9jQ913) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [De Antes](https://open.spotify.com/album/2AKkV1ilSMfchUx4e1Wknl) | 3:28 |
 | 16 | [Do U Want It?](https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4) | [Papa Grows Funk](https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q) | [Needle in the Groove](https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4) | 4:50 |
-| 17 | [Back to Life](https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD) | [Eco \(feat\. Funky Torinos\)](https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH) | 4:46 |
-| 18 | [Eternamente](https://open.spotify.com/track/4jSbJmZXOmLKLz2nkG3oup) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Fe](https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym) | 3:14 |
+| 17 | [Eternamente](https://open.spotify.com/track/4jSbJmZXOmLKLz2nkG3oup) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Fe](https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym) | 3:14 |
+| 18 | [Back to Life](https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD) | [Eco \(feat\. Funky Torinos\)](https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH) | 4:46 |
 | 19 | [Zoom Out](https://open.spotify.com/track/1WrMYp7UbkzClUkqd3grc2) | [Grace & Badlove](https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE) | [Sticky Nostalgia](https://open.spotify.com/album/4u5QlJAmFtzmgGfQufbt8D) | 4:42 |
 | 20 | [Cortentrete](https://open.spotify.com/track/76feuT8zpM7EA0C6l8ZEVp) | [Papanegro](https://open.spotify.com/artist/3YIlnLkPcxVni4w8FGWJnm) | [SuperActivo](https://open.spotify.com/album/5svWSbY01Vl1THBqEIeJu8) | 3:15 |
 | 21 | [Entrégate](https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Entrégate](https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV) | 3:43 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 24 | [Negra Monamour](https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Xavier](https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4) | 3:32 |
 | 25 | [Olvidado en una Cueva Que Implotó](https://open.spotify.com/track/3CPcyW800SDhVerNoj8GQh) | [Nicolás Carou](https://open.spotify.com/artist/7Eo1djl0eJ1czhXpME4Dhp), [Wen](https://open.spotify.com/artist/1gPjLXy387NEzeZZGGx45q) | [¿Qué Le Hicimos a los Espejos?](https://open.spotify.com/album/2SrHyAA6EE5NFGv1vka41s) | 2:46 |
 | 26 | [Estoy Contento, Nena](https://open.spotify.com/track/3nN9r5nOaA16ev82clDomt) | [Claudio Taddei](https://open.spotify.com/artist/7nn8SAjbKT0CMqRyRhMpAh), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [La Iguana en el Jardín](https://open.spotify.com/album/2UVA2n1nfEu6Xemet5VwjH) | 3:04 |
-| 27 | [Ven Aquí a Pelear](https://open.spotify.com/track/2ksoIRPP6U0QuunCxbsRl5) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH) | [Metamorfosis](https://open.spotify.com/album/6fsrEl3P1Fj8ehM4XYkyiC) | 3:23 |
-| 28 | [Tal para Cual](https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Bienvenidos al Presente](https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS) | 3:29 |
+| 27 | [Tal para Cual](https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Bienvenidos al Presente](https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS) | 3:29 |
+| 28 | [Ven Aquí a Pelear](https://open.spotify.com/track/2ksoIRPP6U0QuunCxbsRl5) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH) | [Metamorfosis](https://open.spotify.com/album/6fsrEl3P1Fj8ehM4XYkyiC) | 3:23 |
 | 29 | [Vos No](https://open.spotify.com/track/6VGl3go59jQhn1vSnOW7Ol) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Vos No](https://open.spotify.com/album/2zLtFQC86cAi4Pn5wI3ief) | 3:40 |
 | 30 | [Supremacía \- Niguiri Sessions](https://open.spotify.com/track/0bbjRIKri8tDonziX4GIsw) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Niguiri Sessions](https://open.spotify.com/album/0qJs4hALyuV9PIiMz3leXl) | 4:08 |
 | 31 | [Gotta Get Funky](https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j) | [Doctorfunk](https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L) | [Prescription For Soul](https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE) | 3:35 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 73 | [Resistencia](https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Resistencia](https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY) | 3:38 |
 | 74 | [Get Porn](https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D) | [Free Anguila](https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN) | [Get Porn](https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh) | 5:43 |
 | 75 | [Contra la Corriente](https://open.spotify.com/track/1GltPY9or2DUMLAZIIFyno) | [Crettino](https://open.spotify.com/artist/6JjpGdFSIb9QIRXGmvT7OD), [Felipe Ilabaca](https://open.spotify.com/artist/1N825gWlAIeF3zC3bKVMHU) | [Contra la Corriente](https://open.spotify.com/album/4BDKn8HX52PP61H4GcZODY) | 2:55 |
-| 76 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
-| 77 | [Back up in Flames](https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 3:44 |
-| 78 | [Asterisco](https://open.spotify.com/track/2jfEG3HUT7tCsmQGRzBxL2) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 4:19 |
-| 79 | [Traffic \(Groovin' de bondi\)](https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP) | [Goro Wins](https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG) | [Super 8](https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw) | 4:30 |
+| 76 | [Traffic \(Groovin' de bondi\)](https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP) | [Goro Wins](https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG) | [Super 8](https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw) | 4:30 |
+| 77 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
+| 78 | [Back up in Flames](https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 3:44 |
+| 79 | [Asterisco](https://open.spotify.com/track/2jfEG3HUT7tCsmQGRzBxL2) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 4:19 |
 | 80 | [Sujeto a Espacio](https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:41 |
 | 81 | [Twice](https://open.spotify.com/track/3VKdesoESiJOCohefJctj3) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD), [Funky Torinos](https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5) | [Twice](https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527) | 3:36 |
 | 82 | [Lightning](https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl) | 4:39 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 93 | [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 |
 | 94 | [Best Of Us](https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t) | [Ale Zurita](https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq), [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Best Of Us](https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH) | 3:05 |
 
-Snapshot ID: `MCw4NDg4NDI5NzczZTJkYzdkYTA2MjZhZDhmNjEwZjkzMjNhMjU5M2Nl`
+Snapshot ID: `MCxkZDgyNGMyZGM3ZTU5YjQ0YjU2YzczYWFhYjU3ZTc3OWI3OTk2MzI1`

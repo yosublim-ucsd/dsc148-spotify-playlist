@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,769 likes - 100 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,764 likes - 100 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 48 | [Release \- Live/Edit](https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 4:03 |
 | 49 | [Jesus Is the Answer](https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classics Vol\. 1](https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE) | 5:03 |
 | 50 | [Worth Fighting For \- 1 Mic 1 Take](https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Resilience](https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt) | 4:01 |
-| 51 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
-| 52 | [Raised to Life \(feat\. The Walls Group\)](https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo) | [Elevation Collective](https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w), [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Evidence](https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo) | 2:10 |
-| 53 | [They Didn't Know](https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7) | [Kurt Carr](https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH) | [One Church](https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok) | 6:39 |
+| 51 | [Raised to Life \(feat\. The Walls Group\)](https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo) | [Elevation Collective](https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w), [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Evidence](https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo) | 2:10 |
+| 52 | [They Didn't Know](https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7) | [Kurt Carr](https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH) | [One Church](https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok) | 6:39 |
+| 53 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
 | 54 | [Jesus I Love You \(Live\)](https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs), [Robin Giles](https://open.spotify.com/artist/0gt7HlBDU64IOmHCo5IUn5) | [Live..\. This Is Your House](https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU) | 6:20 |
 | 55 | [Redeemer](https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V) | [Karima](https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE) | [Redeemer](https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs) | 5:17 |
 | 56 | [Finished Work \- Live From Chattanooga, TN](https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Daniel Johnson](https://open.spotify.com/artist/7MEJq0Z47EF6SzR2XEG1DK) | [The Cry: A Live Worship Experience](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 7:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [Oh Holy Lamb](https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Live In Detroit II \(Video\)](https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ) | 9:05 |
 | 100 | [Calvary](https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Beginnings](https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR) | 5:48 |
 
-Snapshot ID: `MCwwNzBhNDgxZTFiZDJiMzNjYWQwOTk5N2Q5MmI4ZjA2NjNkN2Q2Zjg0`
+Snapshot ID: `MCw1OWY4YTFjMmU3OTA5ZmY2ZWVjYzJiZGEwNjM1NzJhYmIyZDgzODg2`

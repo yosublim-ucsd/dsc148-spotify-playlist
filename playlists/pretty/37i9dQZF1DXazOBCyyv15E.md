@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: The Streets
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,958 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,002 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 29 | [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 |
 | 30 | [The Earth is a Very Small Dot](https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [The Earth is a Very Small Dot](https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG) | 3:56 |
 | 31 | [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 |
-| 32 | [Bending Hectic](https://open.spotify.com/track/2tA4gq8tO9TPPPpbgK5n4w) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Bending Hectic](https://open.spotify.com/album/17lXqRgpU1SQ4glWoR7ABk) | 8:00 |
+| 32 | [Bending Hectic](https://open.spotify.com/track/2tA4gq8tO9TPPPpbgK5n4w) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Bending Hectic](https://open.spotify.com/album/17lXqRgpU1SQ4glWoR7ABk) | 8:03 |
 | 33 | [Stop Waiting](https://open.spotify.com/track/1xbOdb9kv5YKBIzJSrKNEy) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 6:02 |
 | 34 | [Gymnopédie](https://open.spotify.com/track/4BSWSxDnXwDwWX0mOpBa4h) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Gymnopédie](https://open.spotify.com/album/1Vw6ZphBEFFsc9vn9hVK7o) | 3:50 |
 | 35 | [Cherry Cola](https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Cherry Cola](https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ) | 2:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 79 | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 |
 | 80 | [Quiet Storm](https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sidharth](https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM) | 5:40 |
 
-Snapshot ID: `MCw1YjcyODk4ZWFkNDMwY2RiZDdjMDU0MjBjNmQzZTdmZDNlMzEwNjY1`
+Snapshot ID: `MCwxNGZmMzhiMTk5NWM1Y2EyYWJjODMxNTY5NmE2MjFkNGU1MGFkMjQx`

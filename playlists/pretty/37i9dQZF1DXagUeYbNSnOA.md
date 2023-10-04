@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Jossman\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,807 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,815 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 34 | [Cae la noche](https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Cae la noche](https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB) | 4:04 |
 | 35 | [SUERTE](https://open.spotify.com/track/7GRB48rAvN77xITeOfsNIO) | [Julián Baglietto](https://open.spotify.com/artist/2jWobXd1SE2fhT0toIz8PR), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [PERDONT](https://open.spotify.com/album/0boZlhvPjJ2kMksU37d3EJ) | 2:52 |
 | 36 | [no somos nada](https://open.spotify.com/track/4QWMTNDHoVabBMu3RhUd3p) | [LEFNES](https://open.spotify.com/artist/4X1ANfUp76AjJlVF6NOUqu) | [no somos nada](https://open.spotify.com/album/1YptOavSSzLGK4LiBqdU27) | 3:59 |
-| 37 | [Pervertida](https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz) | [Pervertida](https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK) | 2:29 |
-| 38 | [La Fórmula Secreta](https://open.spotify.com/track/5t1JVeRtaLtNHcGkfWywho) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:13 |
+| 37 | [La Fórmula Secreta](https://open.spotify.com/track/5t1JVeRtaLtNHcGkfWywho) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:13 |
+| 38 | [Pervertida](https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz) | [Pervertida](https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK) | 2:29 |
 | 39 | [Llevo un Vino](https://open.spotify.com/track/7yGKZQrS0WYTyjhKGJnxnE) | [Pels](https://open.spotify.com/artist/2ILYFO9yLlXG5SgjtWxMXZ) | [Un Perro Verde](https://open.spotify.com/album/6zYM7YzVGfLZoQMupKMvys) | 3:41 |
 | 40 | [Pulso](https://open.spotify.com/track/4ilsiarphXUoGp2MzK68Tm) | [Laila Farinola](https://open.spotify.com/artist/7nWb2WA5wQLANBcbqGodwW), [Nana Arguen](https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt) | [Pulso](https://open.spotify.com/album/1h6yv9q7OlvXW62MDGEJLS) | 4:21 |
 | 41 | [Sandullako](https://open.spotify.com/track/15hgh8CC8Tj1XYi4JLmdjf) | [Código 2999](https://open.spotify.com/artist/4XQ3TMA2Q3ZGwS9CRU8Zre), [Foráneo](https://open.spotify.com/artist/5RMYEHjH0Eyi4sZsNFWSVM) | [Sandullako](https://open.spotify.com/album/6ZElx5dOb0lUEYzHVbVsxh) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Justrylove](https://open.spotify.com/track/1wVp8m7avqWE0g3AiJbEn5) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Plano](https://open.spotify.com/album/6N1AUqX8zyDN94BuyrB85D) | 3:22 |
 | 50 | [Un Cuarto de Hotel](https://open.spotify.com/track/0Ig4C71dh9XT6yh2Qr3SyL) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Suertes](https://open.spotify.com/album/5s9nae0PG4RBPy2EWteRze) | 3:43 |
 
-Snapshot ID: `MCw2ZTA1MDJiMTlkOGZkODRlZmFlZDhmMjNlMDkxZjNmZDYwMzM2MTA4`
+Snapshot ID: `MCwzNjZiYzI5YWY3ZDhiMTgyMmM3ZjVhN2YxNGVjNmNlM2ZhZGNiNWNk`

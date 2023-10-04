@@ -13318,7 +13318,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 166611,
       "name": "Kinderki",
       "url": "https://open.spotify.com/track/1yZlFDQm7JGFxyZQjZpCyo"
@@ -15288,7 +15288,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 162833,
       "name": "Lustro",
       "url": "https://open.spotify.com/track/3WX6nwhznaVTD9CazfMV4F"
@@ -16374,6 +16374,10 @@
         {
           "name": "bambi",
           "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "charlie moncler",
+          "url": "https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV"
         }
       ],
       "date_added": "2023-05-18",

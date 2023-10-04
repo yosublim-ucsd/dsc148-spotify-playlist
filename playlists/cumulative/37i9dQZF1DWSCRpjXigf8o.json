@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 187713,
       "name": "Anything",
       "url": "https://open.spotify.com/track/04jQY5VHHilNqaWCabuSzz"
@@ -1495,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "Daydream Believer",
+        "url": "https://open.spotify.com/album/3bUnFxPYnMEOUfZUCBnVuk"
+      },
+      "artists": [
+        {
+          "name": "Tomoyo Harada",
+          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201384,
+      "name": "Daydream Believer",
+      "url": "https://open.spotify.com/track/6SQg7kkKjkWqXvOCh95aku"
+    },
+    {
+      "album": {
         "name": "In Time: The Best Of R.E.M. 1988-2003",
         "url": "https://open.spotify.com/album/3UvVHQ31PhSMtI2GIS91Lz"
       },
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 212720,
       "name": "Falling Like The Stars",
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
@@ -3314,7 +3332,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 211149,
       "name": "ILYSB",
       "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
@@ -3910,7 +3928,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 232056,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/65Tyq0mmbLzayumvoK6Ixw"
@@ -4322,7 +4340,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 194245,
       "name": "Nervous - Piano Version",
       "url": "https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e"
@@ -4900,7 +4918,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 217000,
       "name": "Responder (Live Session)",
       "url": "https://open.spotify.com/track/4VYZuxJh4HwZgvWiPmcvSV"
@@ -5026,7 +5044,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 252733,
       "name": "Simulation Swarm",
       "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
@@ -6208,7 +6226,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 229250,
       "name": "Ubu's Blues (feat. Kurt Rosenwinkel)",
       "url": "https://open.spotify.com/track/6zrKkoBYt4J3XgZLQpq3Jg"
@@ -6955,6 +6973,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30a2\u30c8",
+        "url": "https://open.spotify.com/album/6wGLVnsYsN0o6RpobFs4Ux"
+      },
+      "artists": [
+        {
+          "name": "Guiba",
+          "url": "https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238234,
+      "name": "\u30cf\u30a2\u30c8",
+      "url": "https://open.spotify.com/track/6ghxqAEmAy369mF3O0t2N3"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30ed\u30fc\u30bd\u30f3\u30b0",
         "url": "https://open.spotify.com/album/1QPajmQ6wMNWfIlGLiPAt9"
       },
@@ -7352,7 +7388,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 308518,
       "name": "\u661f\u3092\u898b\u308b\u4eba",
       "url": "https://open.spotify.com/track/40D6bVwmUK7RqigjAnmcmW"

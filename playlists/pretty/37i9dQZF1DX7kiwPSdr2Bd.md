@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Mari Borges, Aline Barros
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,998 likes - 80 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,136 likes - 80 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 54 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
 | 55 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
 | 56 | [Vem, Espírito de Deus \- Ao Vivo](https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Vem, Espírito de Deus \(Ao Vivo\)](https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV) | 4:24 |
-| 57 | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/track/1Hy7Tu4Zu6aZ5uubBdQTgL) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/album/0VvCPIpTQRnYsT6BCwtqWn) | 3:34 |
+| 57 | [O Vento \(Faixa Bônus\)](https://open.spotify.com/track/1OWjFm57Jdchk8XhZFuHtO) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Segredos Deluxe \(Ao Vivo\)](https://open.spotify.com/album/1ouDCySsHSSI9BNe4GS9Eu) | 3:48 |
 | 58 | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu) | 5:12 |
 | 59 | [Grande é o Nosso Deus](https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus](https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd) | 5:19 |
-| 60 | [O Vento \(Faixa Bônus\)](https://open.spotify.com/track/1OWjFm57Jdchk8XhZFuHtO) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Segredos Deluxe \(Ao Vivo\)](https://open.spotify.com/album/1ouDCySsHSSI9BNe4GS9Eu) | 3:48 |
+| 60 | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/track/1Hy7Tu4Zu6aZ5uubBdQTgL) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/album/0VvCPIpTQRnYsT6BCwtqWn) | 3:34 |
 | 61 | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN) | 4:01 |
 | 62 | [Seu Amor • BRAVE Sessions \- Ao Vivo](https://open.spotify.com/track/4IzIBR03UPdEKyROA8KCDk) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [BRAVE Sessions • LUDI \(Ao Vivo\)](https://open.spotify.com/album/0WbJEPZ1ZWuv8w69yQc3eT) | 3:50 |
 | 63 | [Milagre Pra Você](https://open.spotify.com/track/5RXHfNspEa1aTC5cVMuO99) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Milagre Pra Você](https://open.spotify.com/album/03gC5ufzpeQ2x0AViEJ9rF) | 5:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 79 | [Vida Aos Sepulcros \- Ao Vivo](https://open.spotify.com/track/1KJDPb9x2L1mDRl5O2YEjs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/1lapMenp91z3CCdPBr7S23) | 5:51 |
 | 80 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 
-Snapshot ID: `MCxlMDVkNGRjZGI0OTNlZmY3OTgxOTA5MzA3ZmJkNmY1MDQ3NTkwNmM1`
+Snapshot ID: `MCxiNTQxNmY3NmI4MWQ1YWU0NmZkNjI5MTMxOTYwNzUxN2NhNWNmMmRk`

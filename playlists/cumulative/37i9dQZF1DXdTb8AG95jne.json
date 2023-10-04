@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Chosunblues(\uc870\uc120\ube14\ub8e8\uc2a4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: PARKMOONCHI(\ubc15\ubb38\uce58)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -4889,6 +4889,24 @@
     },
     {
       "album": {
+        "name": "J U S T F U N (with george)",
+        "url": "https://open.spotify.com/album/2q0mO6x6Br2J3YVmVXMo4I"
+      },
+      "artists": [
+        {
+          "name": "PARKMOONCHI",
+          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172440,
+      "name": "J U S T F U N (with george)",
+      "url": "https://open.spotify.com/track/0fhnZmbHlo4rdcINqvhLCb"
+    },
+    {
+      "album": {
         "name": "Jayu \uc790\uc720",
         "url": "https://open.spotify.com/album/2ikSIntGYyG6biNQC0UgnH"
       },
@@ -5410,7 +5428,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 348160,
       "name": "lost the love (with. KIM SU IN)",
       "url": "https://open.spotify.com/track/73Y8wOmucnTu0lUgfR57xU"

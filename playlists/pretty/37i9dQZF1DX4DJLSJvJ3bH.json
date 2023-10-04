@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 104107,
+  "num_followers": 104112,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTJhYTlkMTViMDIxZDc2NjU5MDRlZjQwNmY0ZjFhODQzYTU3YTQx",
+  "snapshot_id": "MCxmNzQwNWY0Y2VmOGUxZGI3MTNkMjkyNzFkOThlNGEyYmEzY2MwMzgx",
   "tracks": [
     {
       "added_at": "2023-09-22 12:33:46",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-09-22 12:33:46",
       "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 329000,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm"
+    },
+    {
+      "added_at": "2023-09-22 12:33:46",
+      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 176699,
       "name": "Cool Yule",
       "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
-    },
-    {
-      "added_at": "2023-09-22 12:33:46",
-      "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 329000,
-      "name": "Greensleeves",
-      "url": "https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm"
     },
     {
       "added_at": "2023-09-22 12:33:46",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-09-22 12:33:46",
       "album": {
-        "name": "Ultimate Christmas",
-        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+        "name": "Go Tell It On The Mountain",
+        "url": "https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Eltingvilles",
+          "url": "https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R"
         }
       ],
-      "duration_ms": 172000,
-      "name": "It Came Upon A Midnight Clear",
-      "url": "https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj"
+      "duration_ms": 150550,
+      "name": "Go Tell It On The Mountain",
+      "url": "https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ"
     },
     {
       "added_at": "2023-09-22 12:33:46",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-09-22 12:33:46",
       "album": {
-        "name": "Go Tell It On The Mountain",
-        "url": "https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i"
-      },
-      "artists": [
-        {
-          "name": "Eltingvilles",
-          "url": "https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R"
-        }
-      ],
-      "duration_ms": 150550,
-      "name": "Go Tell It On The Mountain",
-      "url": "https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ"
-    },
-    {
-      "added_at": "2023-09-22 12:33:46",
-      "album": {
         "name": "I'll Be Home for Christmas",
         "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-09-22 12:33:46",
       "album": {
-        "name": "Behold",
-        "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 267092,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/5M6I00Mt7AQrqFcF4WWZDz"
+      "duration_ms": 172000,
+      "name": "It Came Upon A Midnight Clear",
+      "url": "https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj"
     },
     {
       "added_at": "2023-09-22 12:33:46",
@@ -1003,6 +987,22 @@
       "duration_ms": 109210,
       "name": "Oh Christmas Tree",
       "url": "https://open.spotify.com/track/4RWrGsl1Thdb3dMFxu69ZT"
+    },
+    {
+      "added_at": "2023-09-22 12:33:46",
+      "album": {
+        "name": "Behold",
+        "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 267092,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5M6I00Mt7AQrqFcF4WWZDz"
     },
     {
       "added_at": "2023-09-22 12:33:46",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-09-22 12:33:46",
       "album": {
-        "name": "An Oscar Peterson Christmas",
-        "url": "https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 169506,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/0YMHnD9nApifaojmhMydoj"
-    },
-    {
-      "added_at": "2023-09-22 12:33:46",
-      "album": {
         "name": "A Child Is Born",
         "url": "https://open.spotify.com/album/1uTcIqbf4J8KDPYEl4AYXW"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 199384,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/3xp3vHkZmXXjuPN5TIZw9c"
+    },
+    {
+      "added_at": "2023-09-22 12:33:46",
+      "album": {
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/0YMHnD9nApifaojmhMydoj"
     },
     {
       "added_at": "2023-09-22 12:33:46",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-09-22 12:33:46",
       "album": {
-        "name": "The Singles Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
+        "name": "When My Heart Finds Christmas",
+        "url": "https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV"
       },
       "artists": [
         {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 155560,
-      "name": "I'd Like You For Christmas",
-      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
+      "duration_ms": 220760,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3DnYHzeul8cWJDEuTFd79H"
     },
     {
       "added_at": "2023-09-22 12:33:46",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-09-22 12:33:46",
       "album": {
-        "name": "When My Heart Finds Christmas",
-        "url": "https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV"
+        "name": "The Singles Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/6KABUH7jthR8bvreXPJ1yW"
       },
       "artists": [
         {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
         }
       ],
-      "duration_ms": 220760,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/3DnYHzeul8cWJDEuTFd79H"
+      "duration_ms": 155560,
+      "name": "I'd Like You For Christmas",
+      "url": "https://open.spotify.com/track/07D1vu4IHKAqviEw2XattQ"
     },
     {
       "added_at": "2023-09-22 12:33:46",

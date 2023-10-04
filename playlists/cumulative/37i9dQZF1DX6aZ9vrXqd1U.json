@@ -4143,6 +4143,24 @@
     },
     {
       "album": {
+        "name": "\u30d2\u30ab\u30ea\u30c8\u30ab\u30bc",
+        "url": "https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "\u30d2\u30ab\u30ea\u30c8\u30ab\u30bc",
+      "url": "https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt"
+    },
+    {
+      "album": {
         "name": "\u30d3\u30ae\u30cb\u30f3\u30b0",
         "url": "https://open.spotify.com/album/4oel0lHGTN643V87ohpAL1"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 
 > Spread some cheer with this list of new and old seasonal favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,960 likes - 86 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,954 likes - 86 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 18 | [What Christmas Means To Me](https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:28 |
 | 19 | [White Christmas \(with Shania Twain\)](https://open.spotify.com/track/6EM7JApNrP4fftMlDsOAZG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:36 |
 | 20 | [Do You Hear What I Hear?](https://open.spotify.com/track/4ALkaFHbQZtJ5h1FigF2Ps) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Do You Hear What I Hear?](https://open.spotify.com/album/2FJVY528PwIOfqDkAn25a4) | 3:05 |
-| 21 | [Sleigh Ride](https://open.spotify.com/track/6XAdcAseYtijN0QUnQFsH2) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 2:58 |
+| 21 | [Sleigh Ride \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/6XAdcAseYtijN0QUnQFsH2) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 2:58 |
 | 22 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
 | 23 | [Hard Candy Christmas](https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:37 |
 | 24 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 85 | [Don't Save It All for Christmas Day](https://open.spotify.com/track/4ruIMJnh6mPhiNWE9amaEF) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:37 |
 | 86 | [Happy New Year](https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:23 |
 
-Snapshot ID: `MCxhOGE1NmUyNDNmNmMzZmU0ZGI4OGNmYThjNzEwODcwYmY0ODIwMmI4`
+Snapshot ID: `MCwwNmE0NWI3NDUzNDNkYmE0NGE2YzI1ODZiODQ2ODJjMTQ2ZTM3NDk2`

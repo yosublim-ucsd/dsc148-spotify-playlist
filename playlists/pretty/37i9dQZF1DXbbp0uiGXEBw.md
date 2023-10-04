@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Hà Nhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,525 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,556 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
 | 50 | [yêu thì yêu không yêu thì yêu](https://open.spotify.com/track/79xFFmGKtEyky0I2G9U9Jg) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:10 |
 
-Snapshot ID: `MCwzMjhiNDI1NTRlNTI3MTc0NjAwOTZlNmRkYWQxZjM5ZWNjMmE4NTQ4`
+Snapshot ID: `MCw2NWViMmYzMjdhMjRmNTFhZDg3OTAwMDkyZjQ4NjgyMjgyMmZkMzk5`

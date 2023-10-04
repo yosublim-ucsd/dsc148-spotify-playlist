@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Roxane Bruneau, Souldia",
-  "num_followers": 38216,
+  "num_followers": 38237,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTMxMDRhMDg5NGVmM2IwOTRkOTA0YzU1NmY4ZDgyZmJlZjliZTgy",
+  "snapshot_id": "MCw5ZTg3NDg5ODZlMjMyYTg4M2QxY2ZjZWU5NmQ4MGI0OWZmZDkzZjgz",
   "tracks": [
     {
       "added_at": "2023-09-29 04:09:37",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-09-29 04:09:37",
       "album": {
+        "name": "Pr\u00e9judice",
+        "url": "https://open.spotify.com/album/5v5g6wVemrFkJFJDe4S77V"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 121446,
+      "name": "Pr\u00e9judice",
+      "url": "https://open.spotify.com/track/4QNPtD5yF7sTwoE92n2sSg"
+    },
+    {
+      "added_at": "2023-09-29 04:09:37",
+      "album": {
         "name": "French Riviera",
         "url": "https://open.spotify.com/album/0zz8rBPR2RmxmlNfvjrgGA"
       },
@@ -471,26 +487,6 @@
     {
       "added_at": "2023-09-29 04:09:37",
       "album": {
-        "name": "TESLA (feat. DaChoyce)",
-        "url": "https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        },
-        {
-          "name": "DaChoyce",
-          "url": "https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl"
-        }
-      ],
-      "duration_ms": 131633,
-      "name": "TESLA (feat. DaChoyce)",
-      "url": "https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1"
-    },
-    {
-      "added_at": "2023-09-29 04:09:37",
-      "album": {
         "name": "Diff\u00e9rent",
         "url": "https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y"
       },
@@ -507,18 +503,22 @@
     {
       "added_at": "2023-09-29 04:09:37",
       "album": {
-        "name": "Pr\u00e9judice",
-        "url": "https://open.spotify.com/album/5v5g6wVemrFkJFJDe4S77V"
+        "name": "TESLA (feat. DaChoyce)",
+        "url": "https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9"
       },
       "artists": [
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "DaChoyce",
+          "url": "https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl"
         }
       ],
-      "duration_ms": 121446,
-      "name": "Pr\u00e9judice",
-      "url": "https://open.spotify.com/track/4QNPtD5yF7sTwoE92n2sSg"
+      "duration_ms": 131633,
+      "name": "TESLA (feat. DaChoyce)",
+      "url": "https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1"
     },
     {
       "added_at": "2023-09-29 04:09:37",
@@ -567,6 +567,26 @@
       "duration_ms": 168359,
       "name": "La Peuf 6",
       "url": "https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k"
+    },
+    {
+      "added_at": "2023-09-29 04:09:37",
+      "album": {
+        "name": "Il faudrait",
+        "url": "https://open.spotify.com/album/2ODYDrN5YG9HVVBiBlg796"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "duration_ms": 222111,
+      "name": "Il faudrait",
+      "url": "https://open.spotify.com/track/62raj97K1yOi8mk54SLohm"
     },
     {
       "added_at": "2023-09-29 04:09:37",
@@ -635,42 +655,18 @@
     {
       "added_at": "2023-09-29 04:09:37",
       "album": {
-        "name": "Il faudrait",
-        "url": "https://open.spotify.com/album/2ODYDrN5YG9HVVBiBlg796"
+        "name": "Appart des Apes",
+        "url": "https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw"
       },
       "artists": [
         {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Bigflo & Oli",
-          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+          "name": "GLK",
+          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
         }
       ],
-      "duration_ms": 222111,
-      "name": "Il faudrait",
-      "url": "https://open.spotify.com/track/62raj97K1yOi8mk54SLohm"
-    },
-    {
-      "added_at": "2023-09-29 04:09:37",
-      "album": {
-        "name": "99 Nights",
-        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        },
-        {
-          "name": "Skiifall",
-          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
-        }
-      ],
-      "duration_ms": 178224,
-      "name": "Enfer",
-      "url": "https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei"
+      "duration_ms": 175968,
+      "name": "Appart des Apes",
+      "url": "https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s"
     },
     {
       "added_at": "2023-09-29 04:09:37",
@@ -691,18 +687,22 @@
     {
       "added_at": "2023-09-29 04:09:37",
       "album": {
-        "name": "Appart des Apes",
-        "url": "https://open.spotify.com/album/5yIPSHNtMozcsdkvjfX5rw"
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
       },
       "artists": [
         {
-          "name": "GLK",
-          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        },
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
         }
       ],
-      "duration_ms": 175968,
-      "name": "Appart des Apes",
-      "url": "https://open.spotify.com/track/3yEsyr32BAZ4WegEmFPW7s"
+      "duration_ms": 178224,
+      "name": "Enfer",
+      "url": "https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei"
     },
     {
       "added_at": "2023-09-29 04:09:37",
@@ -755,6 +755,42 @@
       "duration_ms": 175706,
       "name": "\u00c0 l'inverse",
       "url": "https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ"
+    },
+    {
+      "added_at": "2023-09-29 04:09:37",
+      "album": {
+        "name": "C'est dr\u00f4le",
+        "url": "https://open.spotify.com/album/6WfOHoMzaQSMDeUGbUBccF"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "C'est dr\u00f4le",
+      "url": "https://open.spotify.com/track/4czTL8KGYPjR0mWyQy7z6B"
+    },
+    {
+      "added_at": "2023-09-29 04:09:37",
+      "album": {
+        "name": "Parler de nous",
+        "url": "https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Parler de nous",
+      "url": "https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9"
     },
     {
       "added_at": "2023-09-29 04:09:37",
@@ -831,22 +867,6 @@
     {
       "added_at": "2023-09-29 04:09:37",
       "album": {
-        "name": "Parler de nous",
-        "url": "https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds"
-      },
-      "artists": [
-        {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Parler de nous",
-      "url": "https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9"
-    },
-    {
-      "added_at": "2023-09-29 04:09:37",
-      "album": {
         "name": "A.M.O.U.R",
         "url": "https://open.spotify.com/album/3LwsjIHgP08344cotAfY0N"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 231680,
       "name": "Donne",
       "url": "https://open.spotify.com/track/564LI6g6mPCngTvP6ABkZO"
-    },
-    {
-      "added_at": "2023-09-29 04:09:37",
-      "album": {
-        "name": "C'est dr\u00f4le",
-        "url": "https://open.spotify.com/album/6WfOHoMzaQSMDeUGbUBccF"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        },
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "C'est dr\u00f4le",
-      "url": "https://open.spotify.com/track/4czTL8KGYPjR0mWyQy7z6B"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 746113,
+  "num_followers": 746620,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWZmMTg0OTc4ZmE0MmZiM2UwMzJiZDE2NGNhZjAzNzI3ZDljNjI1",
+  "snapshot_id": "MCw1ZTYyODc5Mjg4ZTY0OWZmY2Y3ODk1NWMwMTE3OWUxMjljYzM5MTg5",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Players (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/0SoJzCzWfs9nwKrLDiuXdu"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 152494,
+      "name": "Players (with David Guetta) - David Guetta Remix",
+      "url": "https://open.spotify.com/track/2bgGETGKhv7V0WwQzzWqwc"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Post Malone (feat. RANI) [VIZE Remix]",
         "url": "https://open.spotify.com/album/2idnYaYkAG2xDus7xk1yNZ"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 154838,
       "name": "Post Malone (feat. RANI) - VIZE Remix",
       "url": "https://open.spotify.com/track/3mruwwpKfG5NYmnEr6O5Dw"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Players (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/0SoJzCzWfs9nwKrLDiuXdu"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 152494,
-      "name": "Players (with David Guetta) - David Guetta Remix",
-      "url": "https://open.spotify.com/track/2bgGETGKhv7V0WwQzzWqwc"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -731,6 +731,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Ain't My Fault (R3hab Remix)",
+        "url": "https://open.spotify.com/album/2GmlMoRLlTxdQHpgrgaeAT"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 158772,
+      "name": "Ain't My Fault - R3hab Remix",
+      "url": "https://open.spotify.com/track/3YPlsrk0Voe8AOa1jyN891"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
         "url": "https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 156960,
       "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
       "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Ain't My Fault (R3hab Remix)",
-        "url": "https://open.spotify.com/album/2GmlMoRLlTxdQHpgrgaeAT"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 158772,
-      "name": "Ain't My Fault - R3hab Remix",
-      "url": "https://open.spotify.com/track/3YPlsrk0Voe8AOa1jyN891"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
-        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 277226,
-      "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
-      "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Kiss It Better (Dance Remix)",
         "url": "https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 208000,
       "name": "Levitating (feat. DaBaby) - Don Diablo Remix",
       "url": "https://open.spotify.com/track/0QGl113Wm50br1F5V6kIt2"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 277226,
+      "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
+      "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "New Rules (Remixes)",
+        "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "New Rules - KREAM Remix",
+      "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Happier (Remixes)",
         "url": "https://open.spotify.com/album/16M1uToqnw9bPO8wv8ypeE"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 158095,
       "name": "Happier - Breathe Carolina Remix",
       "url": "https://open.spotify.com/track/31OqWK8Lc6GnUbnLG3GqPX"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "New Rules (Remixes)",
-        "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 280853,
-      "name": "New Rules - KREAM Remix",
-      "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Don't Start Now (Remixes)",
-        "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Don't Start Now - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "No Lie (Remixes)",
         "url": "https://open.spotify.com/album/2ods3As8JVWwkAuzCi5skS"
       },
@@ -1623,26 +1603,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Closer (Remixes)",
-        "url": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
+        "name": "Don't Start Now (Remixes)",
+        "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 161120,
-      "name": "Closer - R3hab Remix",
-      "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
+      "duration_ms": 216774,
+      "name": "Don't Start Now - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1663,6 +1639,30 @@
       "duration_ms": 264920,
       "name": "Habits (Stay High) - The Chainsmokers Radio Edit",
       "url": "https://open.spotify.com/track/2D20D6gxMn8iJV4ij30DIV"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Closer (Remixes)",
+        "url": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "Closer - R3hab Remix",
+      "url": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1903,6 +1903,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "High Hopes (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/1cBoBrARkIfC4wGhxlK2qB"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "High Hopes - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/1FlIzyCvRFQUE4pc7PiaIo"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Bang Bang (Remixes)",
         "url": "https://open.spotify.com/album/3ONhXhn7uDBCAW3Jy6lQFX"
       },
@@ -1927,26 +1947,6 @@
       "duration_ms": 186333,
       "name": "Bang Bang - 3LAU Remix",
       "url": "https://open.spotify.com/track/4kXDTeaXTJGRlyGQ15fhvA"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "High Hopes (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/1cBoBrARkIfC4wGhxlK2qB"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "High Hopes - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/1FlIzyCvRFQUE4pc7PiaIo"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2167,26 +2167,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Giant (with Rag'n'Bone Man) [Remixes]",
-        "url": "https://open.spotify.com/album/1z9yyq4FAPSplsvP7hvwWw"
+        "name": "First Time (Remixes)",
+        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         },
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         }
       ],
-      "duration_ms": 193297,
-      "name": "Giant (with Rag'n'Bone Man) - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/7kLWq3Z9XSs8cHTLB9nl0w"
+      "duration_ms": 173440,
+      "name": "First Time - Gryffin Remix",
+      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
     }
   ],
   "unique_name": "Remix Hits",

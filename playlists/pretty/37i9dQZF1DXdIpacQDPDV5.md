@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: CRi
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,656 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,665 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 59 | [Follow You](https://open.spotify.com/track/11BhlNPxHSFl2vz0sIgrqQ) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Follow You](https://open.spotify.com/album/4bfLExHNoTVZhmpdJPyLUQ) | 3:52 |
 | 60 | [The Oracle](https://open.spotify.com/track/7lzd3UcJS2rHrBThYKLXJ6) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [The Oracle](https://open.spotify.com/album/01jQoXxIg3KlnPLKBZZCLR) | 6:49 |
 
-Snapshot ID: `MCw1MzU5NmJhZTJjZWI2ZmEyY2NhNmNhMzUzYTIzZDNlMTFjOTMwNDcx`
+Snapshot ID: `MCxmZWI4Mzg5MTdhZmRhNjk2NDhhNmY1MGFjZGQ4MTc0MzI5ZDRlN2U4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > seduced in the shadows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,610 likes - 53 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,639 likes - 53 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 28 | [BROWN NOISE](https://open.spotify.com/track/6J9FRTVeIX9D1GgM6K0wr9) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [NOISE T.V](https://open.spotify.com/album/3TxlPPVEkL4vlOcmpEJWLS) | 2:52 |
 | 29 | [Rush \- 2006 Remaster](https://open.spotify.com/track/79V6bZgxKO8LXRbS2y8WUB) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Alan Wilder](https://open.spotify.com/artist/2HBRMiRk7dAjCwBlBJmJva), [Steve Lyon](https://open.spotify.com/artist/5f4sO8x6n2ZFqghAOU4nto) | [Songs of Faith and Devotion \(2006 Remaster\)](https://open.spotify.com/album/1nHX4rMCk0NIBSplCjioCb) | 4:40 |
 | 30 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 |
-| 31 | [Bitches Brew](https://open.spotify.com/track/32GLsaZGtVQ4OUaqmVsF9I) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [††† \(Crosses\)](https://open.spotify.com/album/3OFwgpivi60ZjfNmnPm2kf) | 3:28 |
+| 31 | [Bitches Brew](https://open.spotify.com/track/4E23uX1BDdUTk9x56nEbla) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [††† \(Crosses\)](https://open.spotify.com/album/0nmLUAAUIUfm8q8Mq3mRAV) | 3:28 |
 | 32 | [Mumble](https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 2:34 |
 | 33 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
 | 34 | [Out Of Control](https://open.spotify.com/track/6gwJm7LgsaHdd3CWi4K8e8) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR) | 3:37 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 52 | [Knees](https://open.spotify.com/track/49WaJosNna7DBveejaBjra) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Healing Is Not Linear](https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0) | 3:08 |
 | 53 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 |
 
-Snapshot ID: `MCw5NjQ3NTc2ZTI0MDQ4OWM0MzZhYzVlYzg5MmU3MjkyYjNiOTE1Zjdi`
+Snapshot ID: `MCwwYzZlMjJmZTk5ZmUwM2ZjYzdhZjFmYWQ5ZDIyOGU2NWUxYTA0ZTkw`

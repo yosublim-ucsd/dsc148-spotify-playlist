@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 264893,
+  "num_followers": 265065,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjY0NzMzMDA3YjE3MWUxZDY3NDU0YmNkYThmNTc0MjZkYjg2MjUy",
+  "snapshot_id": "MCwxYzRhZjI1YTA2OTIxNDMzZjk2MjBjOGI4MmFhMjQxMzU3OGYwMmI3",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "ABEYANCE",
-        "url": "https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH"
-      },
-      "artists": [
-        {
-          "name": "alt.",
-          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "WRAITH",
-      "url": "https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "RedZone / Dead or Alive",
         "url": "https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 227706,
       "name": "RedZone",
       "url": "https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "ABEYANCE",
+        "url": "https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH"
+      },
+      "artists": [
+        {
+          "name": "alt.",
+          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "WRAITH",
+      "url": "https://open.spotify.com/track/3ZpKJSyH04bVosqILYY5AB"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "The Weight That Holds Me Here",
+        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
+      },
+      "artists": [
+        {
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+        }
+      ],
+      "duration_ms": 186502,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Shut Up",
         "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "The Weight That Holds Me Here",
-        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
-      },
-      "artists": [
-        {
-          "name": "IMMERSE",
-          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
-        }
-      ],
-      "duration_ms": 186502,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Satellites (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 210927,
       "name": "Into The Void - Single Edit",
       "url": "https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+      },
+      "artists": [
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 193281,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/0hXSGi92Kprn6CEhULCGV3"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
-      },
-      "artists": [
-        {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Pyroclasts",
-        "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
-      },
-      "artists": [
-        {
-          "name": "sunn O)))",
-          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
-        }
-      ],
-      "duration_ms": 656933,
-      "name": "Frost (C)",
-      "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "FUCK WITH A WITCH 2",
         "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 90491,
       "name": "FUCK WITH A WITCH 2",
       "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Pyroclasts",
+        "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
+      },
+      "artists": [
+        {
+          "name": "sunn O)))",
+          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
+        }
+      ],
+      "duration_ms": 656933,
+      "name": "Frost (C)",
+      "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
     },
     {
       "added_at": "2022-11-18 01:42:16",

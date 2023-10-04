@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-273 songs - 19 hr 42 min
+274 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [サイレント・ヴォイス / with 寺井尚子](https://open.spotify.com/track/0m0H7NxmPiRv1E7yDHYb6F) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV), [Naoko Terai](https://open.spotify.com/artist/7otmuCdy15HH4CXtXeRxVM) | [サイレント・ヴォイス / with 寺井尚子](https://open.spotify.com/album/5SEsi8e78FRTZakCm4QaJF) | 4:55 | 2022-07-27 |  |
 | [ターンAターン](https://open.spotify.com/track/0lp2im335v7JrKpkjz65iD) | [Hideki Saijo](https://open.spotify.com/artist/0NftkVrfzvCddFaDAmkBxh) | [ターンAターン](https://open.spotify.com/album/6YEt5QWFkDNJkUxrPMwnRL) | 4:46 | 2022-07-27 | 2023-06-23 |
 | [ニブンノイチ](https://open.spotify.com/track/7v3ORF68iK8NQmyLs3sDey) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ニブンノイチ / INFINITY](https://open.spotify.com/album/1vd8lSOGx9dDHWWeJ2Ee0m) | 3:05 | 2022-07-27 |  |
+| [ヒカリトカゼ](https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ヒカリトカゼ](https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI) | 3:34 | 2023-10-03 |  |
 | [ビギニング](https://open.spotify.com/track/515LLsIoa7eetaTiFEJSa6) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [ビギニング](https://open.spotify.com/album/4oel0lHGTN643V87ohpAL1) | 3:24 | 2022-07-27 | 2023-06-10 |
 | [フリージア](https://open.spotify.com/track/1OGMOThMP4JCWvvzodZt4t) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [フリージア](https://open.spotify.com/album/2WZVjhKyNCsnaLslPrniD6) | 5:35 | 2022-10-17 | 2022-11-13 |
 | [フリージア](https://open.spotify.com/track/1cqtS5FEOzjaJy1UdNJDXu) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Monochrome](https://open.spotify.com/album/4MSwMoJfcq1kGVjQAdWACD) | 5:36 | 2022-07-27 |  |

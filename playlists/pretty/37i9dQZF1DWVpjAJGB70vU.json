@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating 30 years of Martina McBrides's timeless album \"The Way That I Am\" on 90s Country! ",
-  "num_followers": 1703172,
+  "num_followers": 1703568,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzkyY2I0OTI5M2UxYzc1ZWRhY2MwYzU3NmNjNDk3ODdjZjBiYjY1",
+  "snapshot_id": "MCxlZjAwZWRlM2RlM2Y3ZmJkOTA1ODU2NGU4NzI4ODg2ZmVhYTQ4YjMx",
   "tracks": [
     {
       "added_at": "2023-09-14 16:38:12",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
+        "name": "Be Good At It",
+        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
+      },
+      "artists": [
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "The Shake",
+      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
+    },
+    {
+      "added_at": "2023-09-14 16:38:12",
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 155000,
       "name": "Whatcha Gonna Do With A Cowboy",
       "url": "https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy"
-    },
-    {
-      "added_at": "2023-09-14 16:38:12",
-      "album": {
-        "name": "Be Good At It",
-        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "The Shake",
-      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
     },
     {
       "added_at": "2023-09-14 16:38:12",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
+        "name": "No Doubt About It",
+        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
+      },
+      "artists": [
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "No Doubt About It",
+      "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
+    },
+    {
+      "added_at": "2023-09-14 16:38:12",
+      "album": {
         "name": "Michael Peterson",
         "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
       },
@@ -2087,22 +2103,6 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
-        "name": "Rumor Has It",
-        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Then What?",
-      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
-    },
-    {
-      "added_at": "2023-09-14 16:38:12",
-      "album": {
         "name": "Sticks and Stones",
         "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
       },
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
-        "name": "No Doubt About It",
-        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
+        "name": "Rumor Has It",
+        "url": "https://open.spotify.com/album/51HYz7BSvrQBSUV2myiEOt"
       },
       "artists": [
         {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
         }
       ],
-      "duration_ms": 227640,
-      "name": "No Doubt About It",
-      "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
+      "duration_ms": 183853,
+      "name": "Then What?",
+      "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
     },
     {
       "added_at": "2023-09-14 16:38:12",

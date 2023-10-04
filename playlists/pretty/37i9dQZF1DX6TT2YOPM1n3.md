@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Current Pakistani hits under one roof\. Cover: Talal Qureshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,199 likes - 53 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,291 likes - 53 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 52 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 |
 | 53 | [Dard](https://open.spotify.com/track/3MqZKfZyzc9LEhMASXCtV8) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Dard](https://open.spotify.com/album/7s1DIgc6sYQunfkWFINPsD) | 3:50 |
 
-Snapshot ID: `MCxhNzQyMzdhYTFkZDY2OGQwODMzY2E5M2U4MDFmZjAwNjg1MDlhYzg2`
+Snapshot ID: `MCw0NTFhYmIxMWQ5YzhjM2M0ZmMxY2RiMjUyMzUyN2Q1YzdiZjVkYTFh`

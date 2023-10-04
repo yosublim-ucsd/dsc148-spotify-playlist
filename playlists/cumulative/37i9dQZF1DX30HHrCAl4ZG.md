@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring new music by Briston Maroney.
 
-1,205 songs - 2 day 17 hr 40 min
+1,206 songs - 2 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Blurred Out](https://open.spotify.com/track/4oyBLJ6PTSZ7BZ0ITCi2kG) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C), [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Blurred Out](https://open.spotify.com/album/2VK7NkrDsiOyENkDJtmRUv) | 3:02 | 2023-08-11 | 2023-09-23 |
 | [Blurt](https://open.spotify.com/track/0hvSJQdd2eGR3VBMfKbZSs) | [Mega Mango](https://open.spotify.com/artist/4O2iP6l7paJ9tThXxFVZXJ) | [Blurt](https://open.spotify.com/album/47gfLPyw1oBCUn8joa93bA) | 2:14 | 2022-07-15 | 2022-08-17 |
 | [Bob](https://open.spotify.com/track/3OMMX5sC4SaHFtZXH1MDmJ) | [The Sunshine State](https://open.spotify.com/artist/7fvI8ORZUF64qlb2GDcDQ7) | [Bob](https://open.spotify.com/album/5kwpmZCEI3vLYQ1lxg4sXs) | 3:21 | 2021-06-18 | 2022-04-21 |
-| [Body](https://open.spotify.com/track/2D3Kia865pJnopFMJtSwRV) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:20 | 2023-09-08 |  |
+| [Body](https://open.spotify.com/track/2D3Kia865pJnopFMJtSwRV) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:20 | 2023-09-08 | 2023-10-04 |
 | [Body](https://open.spotify.com/track/4nGgHg7tCUYVZtPDDVgm92) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Ultrapure](https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9) | 3:20 | 2023-09-29 |  |
 | [Body Dysmorphia](https://open.spotify.com/track/3nSiyKdhc6euQaGDyW1UE1) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Mulholland Drive](https://open.spotify.com/album/7g0KWmMqYJIWcHVVGycNqU) | 2:05 | 2021-08-27 | 2022-04-21 |
 | [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 | 2022-09-30 | 2022-12-17 |
@@ -655,7 +655,8 @@
 | [Let's Go](https://open.spotify.com/track/4zBFWizKHRrrgHmb3VQvuJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Let's Go](https://open.spotify.com/album/2ihzFPvG24siD95PTwp2nB) | 4:00 | 2022-06-16 | 2022-09-24 |
 | [Levee](https://open.spotify.com/track/3LjINbaBQeitJZD36pVdP4) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 4:11 | 2023-09-29 |  |
 | [Levels](https://open.spotify.com/track/19317BXBu7jgBfuZvzsPya) | [Quon](https://open.spotify.com/artist/4imMTIlAYPS7dd1YfzLSel) | [Levels](https://open.spotify.com/album/7odS1Jx0CfMysO9z1gDII4) | 3:52 | 2022-04-01 | 2022-04-21 |
-| [Library](https://open.spotify.com/track/7dxjxc3cL7fO2zFPdVZdwx) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Library](https://open.spotify.com/album/2LuHMMKawbuifCE7p1HZKv) | 2:39 | 2023-08-25 |  |
+| [Library](https://open.spotify.com/track/2nbL5N84ccUC3FDnw1cbsM) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Disco Ball Soul](https://open.spotify.com/album/0yS9yFe7vcaFNz34dUrrIB) | 2:39 | 2023-09-08 |  |
+| [Library](https://open.spotify.com/track/7dxjxc3cL7fO2zFPdVZdwx) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Library](https://open.spotify.com/album/2LuHMMKawbuifCE7p1HZKv) | 2:39 | 2023-08-25 | 2023-10-04 |
 | [Library \(feat\. Purr\)](https://open.spotify.com/track/0vdrHnhtRum6HGlsTlUXmL) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Library \(feat\. Purr\)](https://open.spotify.com/album/3TJ5rdwJK40WRdzTMMK0gs) | 2:39 | 2023-07-21 | 2023-08-31 |
 | [Lies](https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Lies](https://open.spotify.com/album/2EIv15518bIEB1LKkeDijG) | 2:50 | 2022-06-10 | 2022-09-03 |
 | [Life](https://open.spotify.com/track/01YuUwKN7RFa09q72o0hBF) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Life](https://open.spotify.com/album/3fiPEJT6tp9blTffNsRPgi) | 3:06 | 2021-11-19 | 2022-02-12 |

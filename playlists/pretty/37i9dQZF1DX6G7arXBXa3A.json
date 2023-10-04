@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 390415,
+  "num_followers": 390461,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGRlYjcxZjEyNGVmNmM3MGZkZmFjNTQyNGFmNjNjMDU0MTU4Mzgw",
+  "snapshot_id": "MCxjZjM1MGNhNzgyNGY2NTQyMGExM2Y5NGFjMTk5ODM1MjgyOTVmNWFh",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -445,7 +445,7 @@
         }
       ],
       "duration_ms": 171666,
-      "name": "Lullaby of Broadway - Version 2",
+      "name": "Lullaby of Broadway (with Harry James & His Orchestra) - Version 2",
       "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
     },
     {
@@ -641,26 +641,6 @@
       "url": "https://open.spotify.com/track/6KpMB0Wgw1NVFqwn0DCprf"
     },
     {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Vintage Big Band",
-        "url": "https://open.spotify.com/album/4CbbOvGG4eQkNPqpZ21v2O"
-      },
-      "artists": [
-        {
-          "name": "John Rowcroft",
-          "url": "https://open.spotify.com/artist/7GyrVlX5jFlHisEa2X2GSF"
-        },
-        {
-          "name": "London Studio Big Band",
-          "url": "https://open.spotify.com/artist/38Rc4JSbOBanZukrQFBe7Z"
-        }
-      ],
-      "duration_ms": 147891,
-      "name": "Speakeasy Swagger",
-      "url": "https://open.spotify.com/track/3B1iVnHB6KCAVs9azXtQO8"
-    },
-    {
       "added_at": "2020-03-06 16:28:56",
       "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
@@ -679,6 +659,26 @@
       "duration_ms": 404880,
       "name": "Take The \"A\" Train",
       "url": "https://open.spotify.com/track/6noZKuR5pjlEIynqvpFPbD"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Vintage Big Band",
+        "url": "https://open.spotify.com/album/4CbbOvGG4eQkNPqpZ21v2O"
+      },
+      "artists": [
+        {
+          "name": "John Rowcroft",
+          "url": "https://open.spotify.com/artist/7GyrVlX5jFlHisEa2X2GSF"
+        },
+        {
+          "name": "London Studio Big Band",
+          "url": "https://open.spotify.com/artist/38Rc4JSbOBanZukrQFBe7Z"
+        }
+      ],
+      "duration_ms": 147891,
+      "name": "Speakeasy Swagger",
+      "url": "https://open.spotify.com/track/3B1iVnHB6KCAVs9azXtQO8"
     },
     {
       "added_at": "2020-03-06 16:28:56",

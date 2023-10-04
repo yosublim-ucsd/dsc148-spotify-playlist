@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,453 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,474 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 47 | [Albi Ya Albi](https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Albi Ya Albi](https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj) | 3:26 |
 | 48 | [unlasting](https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:56 |
 | 49 | [But it's Destiny](https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI) | 3:51 |
-| 50 | [Your Song \(My One and Only You\)](https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk) | [Julie Anne San Jose](https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy) | [Breakthrough](https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi) | 3:43 |
-| 51 | [Hindi Tayo Pwede](https://open.spotify.com/track/64G8ywuyGGQl4S7U2a6XJf) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Kidnap for Romance \(Original Movie Soundtrack\)](https://open.spotify.com/album/70YCM7kgIwLvCGRxkQl9BJ) | 5:03 |
+| 50 | [Hindi Tayo Pwede](https://open.spotify.com/track/64G8ywuyGGQl4S7U2a6XJf) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Kidnap for Romance \(Original Movie Soundtrack\)](https://open.spotify.com/album/70YCM7kgIwLvCGRxkQl9BJ) | 5:03 |
+| 51 | [Your Song \(My One and Only You\)](https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk) | [Julie Anne San Jose](https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy) | [Breakthrough](https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi) | 3:43 |
 | 52 | [17](https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [17](https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq) | 2:40 |
 | 53 | [Hilo Rojo](https://open.spotify.com/track/3XMJLE4cS4ug7i4tnz09dP) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:42 |
 | 54 | [What If I Told You That I Love You](https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M) | 3:13 |
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 59 | [Tutto questo sei tu](https://open.spotify.com/track/2JbPEAf12Ju2CxSIoZC89d) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Tutto questo sei tu](https://open.spotify.com/album/5UvTtLCCL6GIHn7Ewh6pQB) | 4:04 |
 | 60 | [Malay Mo](https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Malay Mo, Tayo](https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj) | 4:34 |
 | 61 | [Evidemment](https://open.spotify.com/track/7yaAqQhgUFkcI9ap1qjqEy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Mi Vida \(Edition de Noël\)](https://open.spotify.com/album/6Rq5fjFsMh2iF4RCNo2PFk) | 3:57 |
-| 62 | [tere bina \- Acoustic](https://open.spotify.com/track/0wr1v0WSbEnmOm0B22yYHz) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [tere bina \(Acoustic\)](https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW) | 2:12 |
-| 63 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 |
+| 62 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 |
+| 63 | [tere bina \- Acoustic](https://open.spotify.com/track/0wr1v0WSbEnmOm0B22yYHz) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [tere bina \(Acoustic\)](https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW) | 2:12 |
 | 64 | [Ocean \- Remix](https://open.spotify.com/track/3Z5fGV8tIdwx3W0CgR9JTx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean \(Remix\)](https://open.spotify.com/album/1KWBHlgE8m1dEI6XW3PV50) | 3:12 |
-| 65 | [別勉強](https://open.spotify.com/track/6tzOEJ2tqSiAxHw9CAT9Ru) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI), [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摩天動物園](https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS) | 4:22 |
-| 66 | [Maula](https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu) | 3:57 |
+| 65 | [Maula](https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu) | 3:57 |
+| 66 | [別勉強](https://open.spotify.com/track/6tzOEJ2tqSiAxHw9CAT9Ru) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI), [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摩天動物園](https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS) | 4:22 |
 | 67 | [Church](https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 3:50 |
 | 68 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 |
 | 69 | [Bad Dreams \- Stripped](https://open.spotify.com/track/4II6CiYRsyuERn0KvUJoTG) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Bad Dreams \(Stripped\)](https://open.spotify.com/album/6KyX7ORexJ6oabGpNVEM9P) | 2:51 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 116 | [Call It Love](https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 4:01 |
 | 117 | [Sorry \- Live](https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sorry \(Live\)](https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD) | 3:24 |
 | 118 | [Right There](https://open.spotify.com/track/1LJlfMCNcVuIRTUJY3BmTX) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Right There](https://open.spotify.com/album/4xGFzLizscpyGNhPmK7vZK) | 3:59 |
-| 119 | [Oyasumi Kamisama](https://open.spotify.com/track/2z0Ui7sLju5TXHiaUTTUpO) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Yumemiru Kodomo](https://open.spotify.com/album/3txMmUiBxYmkF81B1g8bqt) | 3:43 |
-| 120 | [어쩌면 이유가 필요한 밤 Night Within You](https://open.spotify.com/track/5aFiyx6DOsrvOUnsrcFb84) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [어쩌면 이유가 필요한 밤 Night Within You](https://open.spotify.com/album/42fnXlrZaKXIc9lzWI6B1V) | 4:14 |
+| 119 | [어쩌면 이유가 필요한 밤 Night Within You](https://open.spotify.com/track/5aFiyx6DOsrvOUnsrcFb84) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [어쩌면 이유가 필요한 밤 Night Within You](https://open.spotify.com/album/42fnXlrZaKXIc9lzWI6B1V) | 4:14 |
+| 120 | [Oyasumi Kamisama](https://open.spotify.com/track/2z0Ui7sLju5TXHiaUTTUpO) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Yumemiru Kodomo](https://open.spotify.com/album/3txMmUiBxYmkF81B1g8bqt) | 3:43 |
 | 121 | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS) | [Steph](https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i) | [Ang Kwento Ng Pag\-Ibig](https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN) | 4:32 |
 | 122 | [Daydream](https://open.spotify.com/track/4RDy6zlwAFeMGGKeeJTwUA) | [深根](https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt) | [Daydream](https://open.spotify.com/album/3yEQXRLQ8SGkgwhGm9r7m5) | 3:45 |
 | 123 | [Don't forget me \(Prod\. ROCOBERRY\)](https://open.spotify.com/track/3Plg6ZQZeVSBUSp11zBXL5) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Don't forget me \(Prod\. ROCOBERRY\)](https://open.spotify.com/album/2PE9zF0g4LWpmxkpYzBsZg) | 3:13 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 149 | [Something](https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Kyle](https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY) | 4:15 |
 | 150 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
 
-Snapshot ID: `MCwwYWRhMDYzNjQ5YjNmNmRkMjk5NTc2ZDRiNTY2Y2ZkZTU3YzFjMWQ5`
+Snapshot ID: `MCxjMjU3MzVmNjU2ODhhZTU5OTg0YTkzNjYzOTUyNGNjYTc2ZTY3OGIx`

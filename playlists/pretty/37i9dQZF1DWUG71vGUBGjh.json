@@ -1,12 +1,12 @@
 {
   "description": "Plug your brain into a modular synthesizer analog loop.",
-  "num_followers": 89543,
+  "num_followers": 89568,
   "original_name": "MoogTube",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmFiNmEzNGY3ZjVlZmFhMjU0YTI1ZDU5YzMyOWY1M2UxZDgwZWQ1",
+  "snapshot_id": "MCxlZGUxZWE1Njg1ZDdjNjM1YWRhNzI5Nzg2ZWRjNTkyNmY3OGU5MDg4",
   "tracks": [
     {
       "added_at": "2021-08-17 02:11:46",
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The Electric Lucifer",
-        "url": "https://open.spotify.com/album/70WCteNU9tw7VekM9kj0SY"
-      },
-      "artists": [
-        {
-          "name": "Bruce Haack",
-          "url": "https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3"
-        }
-      ],
-      "duration_ms": 110746,
-      "name": "Electric to Me Turn",
-      "url": "https://open.spotify.com/track/4Mura1acGeShMhU1qhfFT8"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Moog: The Electric Eclectics Of Dick Hyman",
         "url": "https://open.spotify.com/album/2euTcNzWkbega5PDShQxaY"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 183400,
       "name": "The Moog And Me",
       "url": "https://open.spotify.com/track/1JGFQsMhUaZZJiJTvfUqFc"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "The Electric Lucifer",
+        "url": "https://open.spotify.com/album/70WCteNU9tw7VekM9kj0SY"
+      },
+      "artists": [
+        {
+          "name": "Bruce Haack",
+          "url": "https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3"
+        }
+      ],
+      "duration_ms": 110746,
+      "name": "Electric to Me Turn",
+      "url": "https://open.spotify.com/track/4Mura1acGeShMhU1qhfFT8"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -663,6 +663,30 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Space Oddities: Studio Ganaro (1972-1982)",
+        "url": "https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU"
+      },
+      "artists": [
+        {
+          "name": "Nino Nardini",
+          "url": "https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS"
+        },
+        {
+          "name": "Eddie Warner",
+          "url": "https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2"
+        },
+        {
+          "name": "Roger Roger",
+          "url": "https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt"
+        }
+      ],
+      "duration_ms": 123973,
+      "name": "Beyond the Clouds",
+      "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "Color de Tr\u00f3pico (Compiled By El Drag\u00f3n Criollo y El Palmas)",
         "url": "https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz"
       },
@@ -699,30 +723,6 @@
       "duration_ms": 197240,
       "name": "Incantation",
       "url": "https://open.spotify.com/track/4VkH1PSwDH5r87Gl5vqAOW"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Space Oddities: Studio Ganaro (1972-1982)",
-        "url": "https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU"
-      },
-      "artists": [
-        {
-          "name": "Nino Nardini",
-          "url": "https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS"
-        },
-        {
-          "name": "Eddie Warner",
-          "url": "https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2"
-        },
-        {
-          "name": "Roger Roger",
-          "url": "https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt"
-        }
-      ],
-      "duration_ms": 123973,
-      "name": "Beyond the Clouds",
-      "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -955,6 +955,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "I Hear a New World: An Outer Space Music Fantasy",
+        "url": "https://open.spotify.com/album/2y7yQUuTXpNcbN6eOxQqRn"
+      },
+      "artists": [
+        {
+          "name": "Joe Meek & the Blue Men",
+          "url": "https://open.spotify.com/artist/0RtKMoqVNlddAnmrHSztA6"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "Orbit Around the Moon",
+      "url": "https://open.spotify.com/track/59m5IVfKeV9f0oLiCULviI"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "The Happy Electropop Music Machine",
         "url": "https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 104026,
       "name": "The Typewriter",
       "url": "https://open.spotify.com/track/2W7PFU8zXwwEF60G9Yv2Yd"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "I Hear a New World: An Outer Space Music Fantasy",
-        "url": "https://open.spotify.com/album/2y7yQUuTXpNcbN6eOxQqRn"
-      },
-      "artists": [
-        {
-          "name": "Joe Meek & the Blue Men",
-          "url": "https://open.spotify.com/artist/0RtKMoqVNlddAnmrHSztA6"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "Orbit Around the Moon",
-      "url": "https://open.spotify.com/track/59m5IVfKeV9f0oLiCULviI"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "New Ways: Music from the Documentary I Dream of Wires (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7AjxhKLLUpjMLtniXCsfbL"
-      },
-      "artists": [
-        {
-          "name": "Solvent",
-          "url": "https://open.spotify.com/artist/46TYNnrpqzYjm5HjaMBVhj"
-        }
-      ],
-      "duration_ms": 360503,
-      "name": "King Vincent",
-      "url": "https://open.spotify.com/track/7noeGi6e5U2YR01kNSQ1n3"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Kpm 1000 Series: A Moog for More Reasons",
         "url": "https://open.spotify.com/album/4eXFRUfmrjGPA1d9vrk6IB"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 160160,
       "name": "Getaway Car",
       "url": "https://open.spotify.com/track/38FMDZyRTtiQfvP4Qw0uj2"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "New Ways: Music from the Documentary I Dream of Wires (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7AjxhKLLUpjMLtniXCsfbL"
+      },
+      "artists": [
+        {
+          "name": "Solvent",
+          "url": "https://open.spotify.com/artist/46TYNnrpqzYjm5HjaMBVhj"
+        }
+      ],
+      "duration_ms": 360503,
+      "name": "King Vincent",
+      "url": "https://open.spotify.com/track/7noeGi6e5U2YR01kNSQ1n3"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Moog (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
+      },
+      "artists": [
+        {
+          "name": "Meat Beat Manifesto",
+          "url": "https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx"
+        }
+      ],
+      "duration_ms": 294426,
+      "name": "Unavailable Memory",
+      "url": "https://open.spotify.com/track/2TYPY7sEP9cBAcqScBiNEQ"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "Kpm 1000 Series: Out of the Dark",
         "url": "https://open.spotify.com/album/4JQLnqdzkgSkhEIpphMVtI"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 128941,
       "name": "1958 Revisited",
       "url": "https://open.spotify.com/track/3o7FnCvqTVmw5FUKMalYIa"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Moog (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
-      },
-      "artists": [
-        {
-          "name": "Meat Beat Manifesto",
-          "url": "https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx"
-        }
-      ],
-      "duration_ms": 294426,
-      "name": "Unavailable Memory",
-      "url": "https://open.spotify.com/track/2TYPY7sEP9cBAcqScBiNEQ"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Electrically Possessed [Switched On Volume 4]",
-        "url": "https://open.spotify.com/album/6ybD1TXz83pL3sCtPa6syw"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 241105,
-      "name": "Variation One",
-      "url": "https://open.spotify.com/track/3Ag1GIsO6UAFUCOES1Aocw"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Surroundings",
         "url": "https://open.spotify.com/album/3RSldV7Zhw95KwPPvfPk8X"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 225977,
       "name": "Highway E 1",
       "url": "https://open.spotify.com/track/0ZvJ3UJA1eD0S9OBZaqnem"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Electrically Possessed [Switched On Volume 4]",
+        "url": "https://open.spotify.com/album/6ybD1TXz83pL3sCtPa6syw"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 241105,
+      "name": "Variation One",
+      "url": "https://open.spotify.com/track/3Ag1GIsO6UAFUCOES1Aocw"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1644,9 +1644,9 @@
           "url": "https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco"
         }
       ],
-      "duration_ms": 238047,
-      "name": "Tropic Topic - Remastered",
-      "url": "https://open.spotify.com/track/0A85JZuQVyOnQONv00spjo"
+      "duration_ms": 174383,
+      "name": "Jacaranda - Remastered",
+      "url": "https://open.spotify.com/track/0Bpy8hsCBvG6nwF3pL8Ri7"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Country Moog / Nashville Gold",
-        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
-      },
-      "artists": [
-        {
-          "name": "Gil Trythall",
-          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
-        }
-      ],
-      "duration_ms": 110426,
-      "name": "Martha White Theme",
-      "url": "https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Moog (Original Film Soundtrack)",
         "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 276933,
       "name": "I Am A Spaceman",
       "url": "https://open.spotify.com/track/1Gcn7jvVUIUHN0kGaITg0P"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Country Moog / Nashville Gold",
+        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
+      },
+      "artists": [
+        {
+          "name": "Gil Trythall",
+          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
+        }
+      ],
+      "duration_ms": 110426,
+      "name": "Martha White Theme",
+      "url": "https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1724,9 +1724,9 @@
           "url": "https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco"
         }
       ],
-      "duration_ms": 174383,
-      "name": "Jacaranda - Remastered",
-      "url": "https://open.spotify.com/track/0Bpy8hsCBvG6nwF3pL8Ri7"
+      "duration_ms": 238047,
+      "name": "Tropic Topic - Remastered",
+      "url": "https://open.spotify.com/track/0A85JZuQVyOnQONv00spjo"
     },
     {
       "added_at": "2021-08-17 02:11:46",

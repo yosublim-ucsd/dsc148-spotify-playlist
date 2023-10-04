@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: ARIETE
 
-228 songs - 10 hr 35 min
+229 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [ROMA](https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [ROMA](https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI) | 2:30 | 2023-03-23 |  |
 | [ROMANTICA E BUGIARDA](https://open.spotify.com/track/3jZojGbxzsJTihyb1VVrFE) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [ROMANTICA E BUGIARDA](https://open.spotify.com/album/0WE9QOW9r88g2gcPQRADbm) | 2:53 | 2023-06-15 | 2023-09-22 |
 | [RONDINI](https://open.spotify.com/track/5qt5YZOEUCejoPMrXFXRQq) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [RONDINI](https://open.spotify.com/album/5MLv3tlurdcQwChX4olC7K) | 2:27 | 2023-04-06 | 2023-04-14 |
-| [RUMORE](https://open.spotify.com/track/7fxAFWmMsl86C60gW5yooG) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [RUMORE](https://open.spotify.com/album/6Lo4MzfKF6e0mwnEGtdGgd) | 2:39 | 2023-09-12 |  |
+| [RUMORE](https://open.spotify.com/track/21ue7kSKtFBqGQNV23uGW8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:39 | 2023-09-28 |  |
+| [RUMORE](https://open.spotify.com/track/7fxAFWmMsl86C60gW5yooG) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [RUMORE](https://open.spotify.com/album/6Lo4MzfKF6e0mwnEGtdGgd) | 2:39 | 2023-09-12 | 2023-10-04 |
 | [Sangue e Aria](https://open.spotify.com/track/2FGQvZ0P8QcOqAshENIbK2) | [Sercho](https://open.spotify.com/artist/1YzDKK9gJRBqqkL5wxQQTa) | [Sangue e Aria](https://open.spotify.com/album/3FIG3AbOwcV8Ww8ur0jZ55) | 2:35 | 2023-09-21 |  |
 | [Scappi da me](https://open.spotify.com/track/75vgIeiaO6DtqrToQby1Qg) | [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck) | [Solo Francesco](https://open.spotify.com/album/6xPawfNwFStXqQHms84B2R) | 2:50 | 2023-03-23 | 2023-04-27 |
 | [Scivola](https://open.spotify.com/track/4xWsKYuIZS3Y5wSk7S5HyS) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [Scivola](https://open.spotify.com/album/2wYSqbGIQePGdEMCcKKufh) | 2:38 | 2023-03-23 | 2023-06-16 |

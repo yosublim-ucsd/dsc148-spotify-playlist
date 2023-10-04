@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: TOBi
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,490 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,707 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [World In My Hands](https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [World In My Hands](https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT) | 3:14 |
 | 100 | [This Too](https://open.spotify.com/track/7E0ck3kZmSzHTsnkXRINPv) | [hxzel](https://open.spotify.com/artist/5vzywo9BwgSd4vK5hz9qA8), [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [This Too](https://open.spotify.com/album/4vtdwsnDNvj0tKjONcqA45) | 2:37 |
 
-Snapshot ID: `MCxiMWY2NjZmZmVkYjZkNTk1NjgxMGY3ZDRlMmE0YjNiYTRiOWMyNjg4`
+Snapshot ID: `MCw4MjQ3NDc0YTQ1YTEyYTEzMWRiYmRlNDUyODk2NThhYjRhYWIzMmMz`

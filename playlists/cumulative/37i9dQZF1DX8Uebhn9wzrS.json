@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 138795,
       "name": "Amu",
       "url": "https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg"
@@ -8097,6 +8097,24 @@
     },
     {
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/61boJpcbCcJogaxhegOHwN"
+      },
+      "artists": [
+        {
+          "name": "Kibunde",
+          "url": "https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/0GX01FogF0EeJYXKTYwhMp"
+    },
+    {
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1Jl3suYPWmAT711QCX5y6F"
       },
@@ -8662,7 +8680,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 180000,
       "name": "faltering heights",
       "url": "https://open.spotify.com/track/71GgMWy54Ctffgnba5tZwJ"
@@ -9208,7 +9226,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 120008,
       "name": "Flattery",
       "url": "https://open.spotify.com/track/0EZzvnbBEDGBjaQRseSrbf"
@@ -14989,6 +15007,24 @@
     },
     {
       "album": {
+        "name": "Lizards and Lattes",
+        "url": "https://open.spotify.com/album/6MFXbVjc0gexy3Qvv3WuLb"
+      },
+      "artists": [
+        {
+          "name": "Wruce Billis",
+          "url": "https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119117,
+      "name": "Lizards and Lattes",
+      "url": "https://open.spotify.com/track/3WF6J4P4ozwQ1hbQMzGtID"
+    },
+    {
+      "album": {
         "name": "LMIRL",
         "url": "https://open.spotify.com/album/1XLYvhtvgjOhJcKpfikmo8"
       },
@@ -15460,7 +15496,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 137308,
       "name": "Loud Bolt",
       "url": "https://open.spotify.com/track/4JgH9mzHDXcL4ZQW9NvXwU"
@@ -20093,6 +20129,24 @@
     },
     {
       "album": {
+        "name": "Past Bedtime",
+        "url": "https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky"
+      },
+      "artists": [
+        {
+          "name": "HollyDave",
+          "url": "https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125158,
+      "name": "Past Bedtime",
+      "url": "https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q"
+    },
+    {
+      "album": {
         "name": "past bedtime",
         "url": "https://open.spotify.com/album/4F7oUJMBgDndBDF4W0E9ey"
       },
@@ -23526,7 +23580,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 123243,
       "name": "Sinnlig",
       "url": "https://open.spotify.com/track/1QLn1ZxpNoMD8ATiLcAT8w"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。10月1日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,172 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,252 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Naa](https://open.spotify.com/track/3kUvxqoQ2ywVsgLou4b1x5) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [Naa](https://open.spotify.com/album/6SD3e4cZat9Phvprpahs1m) | 3:14 |
 | 50 | [Garden](https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:49 |
 
-Snapshot ID: `MCxhM2I5MjI1OTkwNDdjMjY2ZDgwYTY3NzQyNzUzMDdmNDgyOTBhN2Vk`
+Snapshot ID: `MCxiMDlhNmU5MTBiYWEzYWQ2NDI2Mjk3NWM3MGViMzk1ZmQxODVjMTQ0`

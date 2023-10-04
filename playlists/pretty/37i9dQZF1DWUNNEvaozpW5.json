@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Arco.",
-  "num_followers": 568775,
+  "num_followers": 568855,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjdjMDhiYWVlMzJkYTcyOTc3MTYwYTliN2YyMDBmODhlOGFkYjYx",
+  "snapshot_id": "MCwzZDMxOGY2NjBjMGMzZTg3ODI2ZGYwNDcxNmNhMDA0NjhmNGYzMDhi",
   "tracks": [
     {
       "added_at": "2023-09-28 21:59:00",
@@ -507,22 +507,18 @@
     {
       "added_at": "2023-09-28 21:59:00",
       "album": {
-        "name": "Diablo",
-        "url": "https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7"
+        "name": "Agila",
+        "url": "https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is"
       },
       "artists": [
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
         }
       ],
-      "duration_ms": 164669,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3"
+      "duration_ms": 281666,
+      "name": "So payaso",
+      "url": "https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu"
     },
     {
       "added_at": "2023-09-28 21:59:00",
@@ -543,34 +539,22 @@
     {
       "added_at": "2023-09-28 21:59:00",
       "album": {
-        "name": "Agila",
-        "url": "https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is"
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7"
       },
       "artists": [
         {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "So payaso",
-      "url": "https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu"
-    },
-    {
-      "added_at": "2023-09-28 21:59:00",
-      "album": {
-        "name": "Todos Los D\u00edas Sale El Sol",
-        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
-      },
-      "artists": [
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
         {
-          "name": "Bongo Botrako",
-          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         }
       ],
-      "duration_ms": 146337,
-      "name": "Todos los d\u00edas sale el sol",
-      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
+      "duration_ms": 164669,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3"
     },
     {
       "added_at": "2023-09-28 21:59:00",
@@ -587,6 +571,22 @@
       "duration_ms": 133040,
       "name": "Insurrecci\u00f3n - 2008 Remaster",
       "url": "https://open.spotify.com/track/7803rmspVDTFR78bj5KLPk"
+    },
+    {
+      "added_at": "2023-09-28 21:59:00",
+      "album": {
+        "name": "Todos Los D\u00edas Sale El Sol",
+        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
+      },
+      "artists": [
+        {
+          "name": "Bongo Botrako",
+          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
+        }
+      ],
+      "duration_ms": 146337,
+      "name": "Todos los d\u00edas sale el sol",
+      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
     },
     {
       "added_at": "2023-09-28 21:59:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-09-28 21:59:00",
       "album": {
+        "name": "Canciones Prohibidas",
+        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Salir",
+      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
+    },
+    {
+      "added_at": "2023-09-28 21:59:00",
+      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 208839,
       "name": "Buscando en la basura",
       "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
-    },
-    {
-      "added_at": "2023-09-28 21:59:00",
-      "album": {
-        "name": "Canciones Prohibidas",
-        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Salir",
-      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
     },
     {
       "added_at": "2023-09-28 21:59:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-09-28 21:59:00",
       "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
-    },
-    {
-      "added_at": "2023-09-28 21:59:00",
-      "album": {
         "name": "Vispera De Todos Los Santos",
         "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 294200,
       "name": "Palabras Para Julia",
       "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
+    },
+    {
+      "added_at": "2023-09-28 21:59:00",
+      "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2023-09-28 21:59:00",
@@ -1407,6 +1407,46 @@
     {
       "added_at": "2023-09-28 21:59:00",
       "album": {
+        "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
+        "url": "https://open.spotify.com/album/4qByfq5tS7o8pQXyz3QzI0"
+      },
+      "artists": [
+        {
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        },
+        {
+          "name": "Funambulista",
+          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
+        },
+        {
+          "name": "Shinova",
+          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
+        }
+      ],
+      "duration_ms": 227319,
+      "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
+      "url": "https://open.spotify.com/track/6VwFAPGWOfHirpRLMVj7Go"
+    },
+    {
+      "added_at": "2023-09-28 21:59:00",
+      "album": {
+        "name": "Veo Veo Mamoneo",
+        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
+      },
+      "artists": [
+        {
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+        }
+      ],
+      "duration_ms": 243040,
+      "name": "Masculino singular",
+      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
+    },
+    {
+      "added_at": "2023-09-28 21:59:00",
+      "album": {
         "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
         "url": "https://open.spotify.com/album/4wXXumUtvJ94pKiLxsIOz3"
       },
@@ -1431,46 +1471,6 @@
       "duration_ms": 226813,
       "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
       "url": "https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD"
-    },
-    {
-      "added_at": "2023-09-28 21:59:00",
-      "album": {
-        "name": "Veo Veo Mamoneo",
-        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
-      },
-      "artists": [
-        {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Masculino singular",
-      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
-    },
-    {
-      "added_at": "2023-09-28 21:59:00",
-      "album": {
-        "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
-        "url": "https://open.spotify.com/album/4qByfq5tS7o8pQXyz3QzI0"
-      },
-      "artists": [
-        {
-          "name": "Despistaos",
-          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
-        },
-        {
-          "name": "Funambulista",
-          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
-        },
-        {
-          "name": "Shinova",
-          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
-        }
-      ],
-      "duration_ms": 227319,
-      "name": "Los d\u00edas contados (feat. Funambulista, Shinova)",
-      "url": "https://open.spotify.com/track/6VwFAPGWOfHirpRLMVj7Go"
     },
     {
       "added_at": "2023-09-28 21:59:00",

@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/4MKH2kAjS3SgTPm4HICzWJ"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Bath\uff06Frog (\u98a8\u5442\u3068\u86d9)",
+      "url": "https://open.spotify.com/track/4UaiMmr3Rqlylaiv2gSFSb"
+    },
+    {
+      "album": {
         "name": "Be On Your Way",
         "url": "https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl"
       },
@@ -8908,7 +8926,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 314466,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/6ayNdgQ7ISIGQW6TBelkKl"

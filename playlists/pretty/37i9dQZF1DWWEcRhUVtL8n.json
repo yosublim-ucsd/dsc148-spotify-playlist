@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: hemlocke springs ",
-  "num_followers": 1703009,
+  "num_followers": 1702947,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGQ1MDk2ZTRiNzBhZWU4NDgyMDg4N2FkNzIxY2IyN2U4YzIyOTVh",
+  "snapshot_id": "MCxkNDZiNjJjNzY5MDhiM2Q2NWJjMzQxMGJlODg3Y2U2Y2U5MmM4ZDVi",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
@@ -559,18 +543,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Petals on the Moon",
-        "url": "https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs"
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
         }
       ],
-      "duration_ms": 256945,
-      "name": "Petals on the Moon",
-      "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
+      "duration_ms": 206893,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -587,6 +571,22 @@
       "duration_ms": 190933,
       "name": "Designer",
       "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Petals on the Moon",
+        "url": "https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 256945,
+      "name": "Petals on the Moon",
+      "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -677,20 +677,20 @@
       "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Boy Toy",
-        "url": "https://open.spotify.com/album/4Fu86wa5adwAw8xEcnUnT7"
+        "name": "It\u2019s Never Fair, Always True",
+        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "duration_ms": 176474,
-      "name": "Boy Toy",
-      "url": "https://open.spotify.com/track/0bor8Slyl8zfU40Y2uJeaV"
+      "duration_ms": 155997,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -713,20 +713,20 @@
       "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "It\u2019s Never Fair, Always True",
-        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
+        "name": "Boy Toy",
+        "url": "https://open.spotify.com/album/4Fu86wa5adwAw8xEcnUnT7"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         }
       ],
-      "duration_ms": 155997,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
+      "duration_ms": 176474,
+      "name": "Boy Toy",
+      "url": "https://open.spotify.com/track/0bor8Slyl8zfU40Y2uJeaV"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -743,6 +743,42 @@
       "duration_ms": 217125,
       "name": "Over",
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Op Shop Lover",
+        "url": "https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 150421,
+      "name": "Op Shop Lover",
+      "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
+    },
+    {
+      "added_at": "2023-09-26 19:45:21",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 205520,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/6GdUMm5xMw9hJckIc0qsGb"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -777,36 +813,20 @@
       "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
     },
     {
-      "added_at": "2023-09-26 19:45:21",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "name": "The Earth is a Very Small Dot",
+        "url": "https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
         }
       ],
-      "duration_ms": 205520,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/6GdUMm5xMw9hJckIc0qsGb"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "When We Were Younger",
-        "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 159477,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
+      "duration_ms": 236100,
+      "name": "The Earth is a Very Small Dot",
+      "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
     },
     {
       "added_at": "2023-06-30 04:21:00",
@@ -825,22 +845,6 @@
       "url": "https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "The Earth is a Very Small Dot",
-        "url": "https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 236100,
-      "name": "The Earth is a Very Small Dot",
-      "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Bloom",
@@ -855,6 +859,22 @@
       "duration_ms": 213271,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "When We Were Younger",
+        "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 159477,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -905,6 +925,22 @@
       "url": "https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I"
     },
     {
+      "added_at": "2023-08-14 19:08:31",
+      "album": {
+        "name": "Happiest Girl",
+        "url": "https://open.spotify.com/album/4pKxL29XtwK9qXxh0Zsq9c"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 167812,
+      "name": "Happiest Girl",
+      "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
+    },
+    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Coping on Unemployment",
@@ -941,40 +977,20 @@
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Op Shop Lover",
-        "url": "https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP"
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
         }
       ],
-      "duration_ms": 150421,
-      "name": "Op Shop Lover",
-      "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
-    },
-    {
-      "added_at": "2023-08-14 19:08:31",
-      "album": {
-        "name": "Happiest Girl",
-        "url": "https://open.spotify.com/album/4pKxL29XtwK9qXxh0Zsq9c"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 167812,
-      "name": "Happiest Girl",
-      "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
+      "duration_ms": 151266,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -991,22 +1007,6 @@
       "duration_ms": 176005,
       "name": "Everything Is Boring",
       "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1309,6 +1309,38 @@
       "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "jupiter",
+        "url": "https://open.spotify.com/album/7EL4J9B8CbOiKNxuv9wHjn"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "duration_ms": 150430,
+      "name": "jupiter",
+      "url": "https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "duration_ms": 195598,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "To Be Yours",
@@ -1345,70 +1377,6 @@
       "url": "https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG"
     },
     {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t"
-      },
-      "artists": [
-        {
-          "name": "Charlie Houston",
-          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
-        }
-      ],
-      "duration_ms": 195598,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "how's it feel to be a boy",
-        "url": "https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA"
-      },
-      "artists": [
-        {
-          "name": "audalei",
-          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
-        }
-      ],
-      "duration_ms": 141373,
-      "name": "how's it feel to be a boy",
-      "url": "https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "jupiter",
-        "url": "https://open.spotify.com/album/7EL4J9B8CbOiKNxuv9wHjn"
-      },
-      "artists": [
-        {
-          "name": "sad alex",
-          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
-        }
-      ],
-      "duration_ms": 150430,
-      "name": "jupiter",
-      "url": "https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S"
-    },
-    {
-      "added_at": "2023-04-21 04:19:11",
-      "album": {
-        "name": "Rocket Ship",
-        "url": "https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 89189,
-      "name": "Rocket Ship",
-      "url": "https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "You\u2019d Be Stars (feat. chloe moriondo)",
@@ -1427,6 +1395,38 @@
       "duration_ms": 222899,
       "name": "You\u2019d Be Stars (feat. chloe moriondo)",
       "url": "https://open.spotify.com/track/6qsIkaOBHaQByY3jiNZSaA"
+    },
+    {
+      "added_at": "2023-04-21 04:19:11",
+      "album": {
+        "name": "Rocket Ship",
+        "url": "https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 89189,
+      "name": "Rocket Ship",
+      "url": "https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "how's it feel to be a boy",
+        "url": "https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "duration_ms": 141373,
+      "name": "how's it feel to be a boy",
+      "url": "https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2"
     },
     {
       "added_at": "2023-08-25 04:56:29",
@@ -1513,6 +1513,22 @@
       "url": "https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3"
     },
     {
+      "added_at": "2023-07-07 18:51:45",
+      "album": {
+        "name": "a beautiful blur",
+        "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 238346,
+      "name": "Alonica",
+      "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
+    },
+    {
       "added_at": "2023-08-25 04:56:29",
       "album": {
         "name": "Imposter Syndrome",
@@ -1545,22 +1561,6 @@
       "url": "https://open.spotify.com/track/3LQnvTX0E4cwig42VTbX3X"
     },
     {
-      "added_at": "2023-08-25 04:56:29",
-      "album": {
-        "name": "VOYCONTODO",
-        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 137114,
-      "name": "VOYCONTODO",
-      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Drop Cherries",
@@ -1575,6 +1575,22 @@
       "duration_ms": 206427,
       "name": "I Can't Get My Head Around You",
       "url": "https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts"
+    },
+    {
+      "added_at": "2023-08-25 04:56:29",
+      "album": {
+        "name": "VOYCONTODO",
+        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 137114,
+      "name": "VOYCONTODO",
+      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 158803,
       "name": "It\u2019s My Birthday",
       "url": "https://open.spotify.com/track/1qMDY64lQJyic7OtjYDTUs"
-    },
-    {
-      "added_at": "2023-04-28 05:05:19",
-      "album": {
-        "name": "Ribs",
-        "url": "https://open.spotify.com/album/1STW8v44VbbFKtmToUurll"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 170107,
-      "name": "Ribs",
-      "url": "https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM"
     },
     {
       "added_at": "2023-04-28 05:05:19",

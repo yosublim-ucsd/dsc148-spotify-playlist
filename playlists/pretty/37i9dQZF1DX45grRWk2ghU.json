@@ -1,12 +1,12 @@
 {
   "description": "Life in plastic is fantastic ",
-  "num_followers": 276547,
+  "num_followers": 277979,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjIyZWFhNWM2YTBlOTEzYjUyZjE4NjM1YjM1ODJkZGVkNWZiNjhk",
+  "snapshot_id": "MCw2ZDhjNTczNWIxNjhiZjQyMTA2OThjMmU2OTkzODRlM2Y3NTJhODRm",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Doll Domination (Deluxe)",
+        "url": "https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "duration_ms": 245680,
+      "name": "When I Grow Up",
+      "url": "https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 149438,
       "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Doll Domination (Deluxe)",
-        "url": "https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 245680,
-      "name": "When I Grow Up",
-      "url": "https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Birds of Prey: The Album",
-        "url": "https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI"
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/3StjwfadugiV10gNhLDu29"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 134239,
-      "name": "Boss Bitch",
-      "url": "https://open.spotify.com/track/0kEzNFvi5ZOlwn6ly5DR8i"
+      "duration_ms": 165306,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/0r9P2WPP0kRvw0idqKedgK"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/3StjwfadugiV10gNhLDu29"
+        "name": "Birds of Prey: The Album",
+        "url": "https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 165306,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/0r9P2WPP0kRvw0idqKedgK"
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/0kEzNFvi5ZOlwn6ly5DR8i"
     },
     {
       "added_at": "2023-09-22 04:00:00",

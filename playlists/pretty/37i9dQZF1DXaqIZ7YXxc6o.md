@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Young Franco
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,831 likes - 105 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,859 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 104 | [stay](https://open.spotify.com/track/71ZTTsP2SwH7GFUhTUqWw2) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Sace](https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA), [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu) | [stay](https://open.spotify.com/album/71fElHDTX4T1RKOaD0U4az) | 2:02 |
 | 105 | [ENERGY \(feat\. What So Not\)](https://open.spotify.com/track/56p7iNjfq5CAwYHAUtgcvl) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [EXISTENTIAL DANCE MUSIC](https://open.spotify.com/album/08B5vetD5dOlXKwFSDF4xz) | 3:52 |
 
-Snapshot ID: `MCw1ZjkxZDIzZTk5MGU0NmJmODkwNDBlZDJlMTlhN2Y1NmEwOGM3Y2Ux`
+Snapshot ID: `MCw2MGZkZjg5YTUxNGU4ZjU5ZTUzNWM3NjJlNWU3NGEwMGRkYjRmZDZj`

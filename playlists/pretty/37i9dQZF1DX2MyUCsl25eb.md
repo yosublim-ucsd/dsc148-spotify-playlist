@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,867 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,869 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [Somebody Good](https://open.spotify.com/track/3VJhOglZvjVlpA4V5r3cQT) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [I Don't Know What Love Is](https://open.spotify.com/album/52FQWWrNHNXIU3JlCzt3fX) | 2:49 |
 | 100 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 |
 
-Snapshot ID: `MCwyMDMzNDRjYWI3NzliMGQyOTdlN2VlOTI0OGYwMzA0ZjBkM2M3ZGY4`
+Snapshot ID: `MCxiNjgwZDU1NjdlMDdiN2E0ZTBkNDRlNzUyNjVhYjljMWM2YWQ2M2E2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paula Rivas.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,758 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,763 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 21 | [A Veces Tú](https://open.spotify.com/track/7CSAIA6x0PFZcDVjO34pxS) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Maleza](https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd) | 3:28 |
 | 22 | [Doncella](https://open.spotify.com/track/20HsMGWCEbTCCpqBriaaSK) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [Doncella](https://open.spotify.com/album/7DRvyobzwi9UOhFAagwe6D) | 3:34 |
 | 23 | [Cómo Voy a Renunciar a Ti](https://open.spotify.com/track/2RZKss79TnsQXTzxXvXJLv) | [Cecilia Echenique](https://open.spotify.com/artist/1aaJCccvrYoJQid1P4MSRY) | [El Amor Existe Aún](https://open.spotify.com/album/6Xp1xglTVJn57Ia8euOBF0) | 4:13 |
-| 24 | [Dame Luz](https://open.spotify.com/track/6SCiGD1ztcfEu7tPaUI027) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Grandes Exitos](https://open.spotify.com/album/6CfjsKzo1t08s1GbM0s5DV) | 4:58 |
-| 25 | [Si Te Volvieras Real](https://open.spotify.com/track/4qeQ2gEhB8zz8zyU3Uo6gz) | [Andrea Labarca](https://open.spotify.com/artist/5sHK6Fs9yxvTkYJhHnykTK) | [Andrea Labarca](https://open.spotify.com/album/7iqFva1GftiB41jKOXcJfn) | 5:02 |
+| 24 | [Si Te Volvieras Real](https://open.spotify.com/track/4qeQ2gEhB8zz8zyU3Uo6gz) | [Andrea Labarca](https://open.spotify.com/artist/5sHK6Fs9yxvTkYJhHnykTK) | [Andrea Labarca](https://open.spotify.com/album/7iqFva1GftiB41jKOXcJfn) | 5:02 |
+| 25 | [Dame Luz](https://open.spotify.com/track/6SCiGD1ztcfEu7tPaUI027) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Grandes Exitos](https://open.spotify.com/album/6CfjsKzo1t08s1GbM0s5DV) | 4:58 |
 | 26 | [Aprendí De Ti](https://open.spotify.com/track/1734yg0bzf4SyRTrE61l6o) | [Soledad Guerrero](https://open.spotify.com/artist/2mC6OvTH4wDXUVYofwCrki) | [Soledad](https://open.spotify.com/album/7EY7Z13sJfpKBrWnrttzvx) | 3:50 |
 | 27 | [Cartas Marcadas](https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb) | [Guadalupe del Carmen](https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN) | [La Gran Fonda de Chile](https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O) | 3:26 |
 | 28 | [Matorrales](https://open.spotify.com/track/4Ps9r2oTq5c60edB1Pj0sn) | [La Guacha](https://open.spotify.com/artist/1XjMUgVvJTqba3Cvsbw1zi) | [Fácil](https://open.spotify.com/album/4NYS5h8qs6oZOwylo3OVBT) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Corazón Salvaje](https://open.spotify.com/track/59jsGIPpK11rqnys2LcnlH) | [Reina Isabel](https://open.spotify.com/artist/6w67n5aSfExuuvgE4CBSru) | [Corazón Salvaje](https://open.spotify.com/album/4YjvrBICnLbjxGhu5d8zTd) | 3:10 |
 | 50 | [Julita la Buenita](https://open.spotify.com/track/1xsCZ7PZWbx8Ps8YpDZ5K3) | [Soledad Guerrero](https://open.spotify.com/artist/2mC6OvTH4wDXUVYofwCrki) | [Julita la Buenita](https://open.spotify.com/album/3TRgCkLlbpeZZq9jrNA88Q) | 3:44 |
 
-Snapshot ID: `MCwzY2U1ZDI5N2FlM2Y1ZmM1NTYyZGIyNWRmMDRhOTU3Njg3NWE4NzM2`
+Snapshot ID: `MCwxYTE2M2U1MGMwMDc4MjFmYmQ4YWM0YjhjMjkzMzk1MDYxZjc2YzU5`

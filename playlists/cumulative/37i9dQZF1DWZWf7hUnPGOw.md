@@ -4,7 +4,7 @@
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-256 songs - 15 hr 36 min
+257 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Battle](https://open.spotify.com/track/562unnYUADErsgCUy76JiP) | [hunnybunny](https://open.spotify.com/artist/1mR4Ye4Id0Vk14SQS7M54m) | [Battle](https://open.spotify.com/album/4q5AcEjTYSih2NJ7Pzg4G7) | 3:37 | 2022-07-22 |  |
 | [Benediction](https://open.spotify.com/track/2332ZgdidtDsMX9XzOp0bg) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Home](https://open.spotify.com/album/4Oj3NQVZjlhji59z6bSKl1) | 4:09 | 2022-07-22 |  |
 | [Better Days](https://open.spotify.com/track/778plcK6s2CpcKn2318Tbl) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [Felix Culpa](https://open.spotify.com/album/2KnYuDVPTaveLUsw3LU7g5) | 4:54 | 2022-07-22 |  |
-| [Better Man](https://open.spotify.com/track/1EHYOYhRaU3dXEPAhEsqDT) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Vol\. II](https://open.spotify.com/album/0OGhpkvxYC9KUUTCeMblqA) | 3:08 | 2022-07-22 |  |
+| [Better Man](https://open.spotify.com/track/1EHYOYhRaU3dXEPAhEsqDT) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Vol\. II](https://open.spotify.com/album/0OGhpkvxYC9KUUTCeMblqA) | 3:08 | 2022-07-22 | 2023-10-04 |
+| [Better Man](https://open.spotify.com/track/5ZaGVsPQtyRL1qGoA9Q1SX) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Vol\. II](https://open.spotify.com/album/6FAkuqhjLYxxN9uekAC2m5) | 3:08 | 2023-09-25 |  |
 | [Bird](https://open.spotify.com/track/6DzvC1VHpyTFfLBbAYBa7W) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:40 | 2022-07-22 |  |
 | [Bird on a Wire](https://open.spotify.com/track/7l8cRDImRiW7cv6g2heTWi) | [Kristin Diable](https://open.spotify.com/artist/54pjCT6b2kZAQuHsS4lR43) | [Create Your Own Mythology](https://open.spotify.com/album/18hMZo0Cfxv6oWrTYCbpTS) | 3:56 | 2022-07-22 |  |
 | [Bring It on Back](https://open.spotify.com/track/4uJ3lcczDikJVY3J7FMlAC) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Bring It on Back](https://open.spotify.com/album/6C7vMX5qtIcGUJfN0YAncv) | 4:34 | 2022-07-22 | 2022-10-13 |

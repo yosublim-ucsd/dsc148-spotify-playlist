@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 479480,
+  "num_followers": 479723,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmYzNDM1YmQ2N2U4Nzg3ZjNmNjE3ZmY1YjAxYjNlZWNmOGE4ZThm",
+  "snapshot_id": "MCxiMzk3OGQxNzI3ZjI0YzNhODNkOGZkMTg0ODM4M2E4MDBjMWY0Yjk0",
   "tracks": [
     {
       "added_at": "2023-08-25 13:50:04",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Alex Maher",
+          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
+        }
+      ],
+      "duration_ms": 240009,
+      "name": "Matter of Time",
+      "url": "https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
         "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
@@ -599,6 +619,22 @@
       "duration_ms": 213733,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
       "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -631,42 +667,6 @@
       "duration_ms": 196707,
       "name": "Alone in the Mountains",
       "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Alex Maher",
-          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
-        }
-      ],
-      "duration_ms": 240009,
-      "name": "Matter of Time",
-      "url": "https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Must Be Nice",
-        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn"
       },
       "artists": [
         {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 212346,
-      "name": "Up To Something",
-      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
+      "duration_ms": 225906,
+      "name": "Where Angels Fear To Tread",
+      "url": "https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn"
+        "name": "Must Be Nice",
+        "url": "https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
         }
       ],
-      "duration_ms": 225906,
-      "name": "Where Angels Fear To Tread",
-      "url": "https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b"
+      "duration_ms": 212346,
+      "name": "Up To Something",
+      "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
+        "name": "On the Quiet (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
+      },
+      "artists": [
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "Vaarwell",
+          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Far Away Place",
+      "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
         "name": "AudioLust & HigherLove",
         "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
       },
@@ -1307,26 +1327,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "On the Quiet (Expanded Edition)",
-        "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
-      },
-      "artists": [
-        {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        },
-        {
-          "name": "Vaarwell",
-          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Far Away Place",
-      "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "Home For Now",
         "url": "https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "What Falling in Love Is For",
-        "url": "https://open.spotify.com/album/7FFeFU5wRax5sTF3LurA68"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 174791,
-      "name": "What Falling in Love Is For",
-      "url": "https://open.spotify.com/track/6TYT1WKmZXZOkZDqDoNuAX"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 156293,
       "name": "Home",
       "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "What Falling in Love Is For",
+        "url": "https://open.spotify.com/album/7FFeFU5wRax5sTF3LurA68"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 174791,
+      "name": "What Falling in Love Is For",
+      "url": "https://open.spotify.com/track/6TYT1WKmZXZOkZDqDoNuAX"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Can\u2019t Let You Go",
-        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
+        "name": "Lightbulbs",
+        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Little Jet",
-          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Can\u2019t Let You Go",
-      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
+      "duration_ms": 180533,
+      "name": "UH",
+      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1427,6 +1423,26 @@
       "duration_ms": 252409,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "Can\u2019t Let You Go",
+        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Little Jet",
+          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Can\u2019t Let You Go",
+      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1463,22 +1479,6 @@
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
-        "name": "Lightbulbs",
-        "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "UH",
-      "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
+        "name": "Kosmos",
+        "url": "https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP"
+      },
+      "artists": [
+        {
+          "name": "J Lloyd",
+          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
+        }
+      ],
+      "duration_ms": 79986,
+      "name": "Feelin' Good",
+      "url": "https://open.spotify.com/track/5GkefxmfTqbYCJ58KXsuTi"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
         "name": "Chihiro (Remixes)",
         "url": "https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ"
       },
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Kosmos",
-        "url": "https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP"
-      },
-      "artists": [
-        {
-          "name": "J Lloyd",
-          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
-        }
-      ],
-      "duration_ms": 79986,
-      "name": "Feelin' Good",
-      "url": "https://open.spotify.com/track/5GkefxmfTqbYCJ58KXsuTi"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "We Belong (Odesza Remix)",
         "url": "https://open.spotify.com/album/4CXye0cetb3quBfN2PE5nb"
       },
@@ -1635,6 +1635,22 @@
       "duration_ms": 318306,
       "name": "We Belong - Odesza Remix",
       "url": "https://open.spotify.com/track/4tO93FtEpqdVA0b9RXK4xI"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 196052,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/2ru82sMlycieEodGcKyszh"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 196052,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/2ru82sMlycieEodGcKyszh"
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1691,22 +1707,6 @@
       "duration_ms": 153076,
       "name": "1080p",
       "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+        "name": "Peur des filles",
+        "url": "https://open.spotify.com/album/1t76mptgTSXtLPWL3Zj4xv"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
+      "duration_ms": 208805,
+      "name": "Peur des filles",
+      "url": "https://open.spotify.com/track/2PfPIIxUiH9Y7miXqiQdqv"
     }
   ],
   "unique_name": "golden hour",

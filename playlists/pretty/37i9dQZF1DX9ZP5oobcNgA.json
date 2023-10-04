@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 115056,
+  "num_followers": 115103,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWEyNzAwM2RmNjc0ZGY2NDIxM2E1MjBjYmZlNTNmZmNhZjI2OTA5",
+  "snapshot_id": "MCxiN2UxNjA4YzExYmFhNjQ5NzBmNzJlMDY3ZmVhNjkyZWI0NDYyNDEz",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -647,38 +647,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Baroque Duet",
-        "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Kathleen Battle",
-          "url": "https://open.spotify.com/artist/13Tfk6ZpGdF0G3v9B3kasP"
-        },
-        {
-          "name": "John Nelson",
-          "url": "https://open.spotify.com/artist/0rUC7g0r3Q9pfNeeVioxzC"
-        },
-        {
-          "name": "Orchestra of St. Luke's",
-          "url": "https://open.spotify.com/artist/6iyKy3RT5yvMRgKJK54Pzr"
-        }
-      ],
-      "duration_ms": 332026,
-      "name": "Let the Bright Seraphim from Samson, HWV 57 - Voice",
-      "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Ode for St. Cecilia's Day",
         "url": "https://open.spotify.com/album/45aTL6VJMdUD5uWfzLy96c"
       },
@@ -711,6 +679,38 @@
       "duration_ms": 213360,
       "name": "Ode for St. Cecilia's Day, HWV 76: Overture",
       "url": "https://open.spotify.com/track/0kmdowp839iUBkJLB8w0eM"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Baroque Duet",
+        "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Kathleen Battle",
+          "url": "https://open.spotify.com/artist/13Tfk6ZpGdF0G3v9B3kasP"
+        },
+        {
+          "name": "John Nelson",
+          "url": "https://open.spotify.com/artist/0rUC7g0r3Q9pfNeeVioxzC"
+        },
+        {
+          "name": "Orchestra of St. Luke's",
+          "url": "https://open.spotify.com/artist/6iyKy3RT5yvMRgKJK54Pzr"
+        }
+      ],
+      "duration_ms": 332026,
+      "name": "Let the Bright Seraphim from Samson, HWV 57 - Voice",
+      "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -867,34 +867,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Royal Fireworks",
-        "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Alison Balsom",
-          "url": "https://open.spotify.com/artist/44Z5ZP2F1omniNpGEdNDdt"
-        },
-        {
-          "name": "Balsom Ensemble",
-          "url": "https://open.spotify.com/artist/3sC8MocOBsrZcedSzCmVLE"
-        },
-        {
-          "name": "Simon Wright",
-          "url": "https://open.spotify.com/artist/1ZRTbgZMGs9HTI6SpMkySa"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "Handel: Music for the Royal Fireworks, HWV 351: II. Allegro - Lentement - Allegro",
-      "url": "https://open.spotify.com/track/67zxswDwXGu5LG5rJoFaA4"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Best of Handel",
         "url": "https://open.spotify.com/album/2kvMgK5fsB3TGdvYROToy2"
       },
@@ -919,6 +891,34 @@
       "duration_ms": 233760,
       "name": "Eternal Source Of Light Divine (Ode For The Birthday Of Queen Anne), HWV 74",
       "url": "https://open.spotify.com/track/301GhrxRRyQ0h8NP6NQQxc"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Royal Fireworks",
+        "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Alison Balsom",
+          "url": "https://open.spotify.com/artist/44Z5ZP2F1omniNpGEdNDdt"
+        },
+        {
+          "name": "Balsom Ensemble",
+          "url": "https://open.spotify.com/artist/3sC8MocOBsrZcedSzCmVLE"
+        },
+        {
+          "name": "Simon Wright",
+          "url": "https://open.spotify.com/artist/1ZRTbgZMGs9HTI6SpMkySa"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "Handel: Music for the Royal Fireworks, HWV 351: II. Allegro - Lentement - Allegro",
+      "url": "https://open.spotify.com/track/67zxswDwXGu5LG5rJoFaA4"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -971,6 +971,30 @@
       "duration_ms": 134800,
       "name": "Recorder Sonata in F Major, Op. 1 No. 11, HWV 369: I. Larghetto",
       "url": "https://open.spotify.com/track/0RH8m7C8hHdOZip0Oml7vp"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
+      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1043,30 +1067,6 @@
       "duration_ms": 330880,
       "name": "Rinaldo, HWV 7b: Act I: Overture",
       "url": "https://open.spotify.com/track/6DikE6mXpr6GfXWW94jug1"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
-        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
-      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1287,34 +1287,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Ren\u00e9e Fleming - Handel Arias",
-        "url": "https://open.spotify.com/album/53QDC8TNL7CEHRhbwpuudB"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "Orchestra of the Age of Enlightenment",
-          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
-        },
-        {
-          "name": "Harry Bicket",
-          "url": "https://open.spotify.com/artist/634i1ptyc5dA18xYg9hHL9"
-        }
-      ],
-      "duration_ms": 292373,
-      "name": "Giulio Cesare / Act 2: \"V'adoro, pupille\"",
-      "url": "https://open.spotify.com/track/1WlUctCmXbyC5eKbJZ8Un0"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Peaceful Handel",
         "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
       },
@@ -1343,8 +1315,8 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Belshazzar",
-        "url": "https://open.spotify.com/album/64jpRJoBITmrqWeqnqNOff"
+        "name": "Peaceful Handel",
+        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
       },
       "artists": [
         {
@@ -1352,21 +1324,49 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "William Christie",
-          "url": "https://open.spotify.com/artist/7mkcqdifmNkhfJ7XZ7WFFS"
+          "name": "Christina Wieland",
+          "url": "https://open.spotify.com/artist/0pwEmXXpHyP7CYrkMmNzEf"
         },
         {
-          "name": "Les Arts Florissants",
-          "url": "https://open.spotify.com/artist/652tly1eoAkKzhJ5z4LsEx"
+          "name": "Frankfurt Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
         },
         {
-          "name": "Iestyn Davies",
-          "url": "https://open.spotify.com/artist/0oKLScf6HtYdmZgAEXpSzl"
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
         }
       ],
-      "duration_ms": 293920,
-      "name": "Belshazzar, HWV 61: Arioso: \"O Sacred Oracles of Truth!\" - Aria: \"Amaz'd to Find the Foe So Near\" - Chorus of Persians: \"to Arms, to Arms, No More Delay\"",
-      "url": "https://open.spotify.com/track/1XMx2uskl2JWKXoMkupyRi"
+      "duration_ms": 180133,
+      "name": "Theodora, Hwv 68: Act I Scene 5: Air: Angels, ever bright and fair",
+      "url": "https://open.spotify.com/track/4vbsranpQUYHHQe46YfZij"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Ren\u00e9e Fleming - Handel Arias",
+        "url": "https://open.spotify.com/album/53QDC8TNL7CEHRhbwpuudB"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Harry Bicket",
+          "url": "https://open.spotify.com/artist/634i1ptyc5dA18xYg9hHL9"
+        }
+      ],
+      "duration_ms": 292373,
+      "name": "Giulio Cesare / Act 2: \"V'adoro, pupille\"",
+      "url": "https://open.spotify.com/track/1WlUctCmXbyC5eKbJZ8Un0"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1443,8 +1443,8 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Peaceful Handel",
-        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
+        "name": "Handel: Belshazzar",
+        "url": "https://open.spotify.com/album/64jpRJoBITmrqWeqnqNOff"
       },
       "artists": [
         {
@@ -1452,21 +1452,21 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Christina Wieland",
-          "url": "https://open.spotify.com/artist/0pwEmXXpHyP7CYrkMmNzEf"
+          "name": "William Christie",
+          "url": "https://open.spotify.com/artist/7mkcqdifmNkhfJ7XZ7WFFS"
         },
         {
-          "name": "Frankfurt Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
+          "name": "Les Arts Florissants",
+          "url": "https://open.spotify.com/artist/652tly1eoAkKzhJ5z4LsEx"
         },
         {
-          "name": "Joachim Carlos Martini",
-          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+          "name": "Iestyn Davies",
+          "url": "https://open.spotify.com/artist/0oKLScf6HtYdmZgAEXpSzl"
         }
       ],
-      "duration_ms": 180133,
-      "name": "Theodora, Hwv 68: Act I Scene 5: Air: Angels, ever bright and fair",
-      "url": "https://open.spotify.com/track/4vbsranpQUYHHQe46YfZij"
+      "duration_ms": 293920,
+      "name": "Belshazzar, HWV 61: Arioso: \"O Sacred Oracles of Truth!\" - Aria: \"Amaz'd to Find the Foe So Near\" - Chorus of Persians: \"to Arms, to Arms, No More Delay\"",
+      "url": "https://open.spotify.com/track/1XMx2uskl2JWKXoMkupyRi"
     },
     {
       "added_at": "2022-06-28 08:56:25",

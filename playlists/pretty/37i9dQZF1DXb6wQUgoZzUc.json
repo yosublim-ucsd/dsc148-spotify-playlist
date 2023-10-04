@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 879226,
+  "num_followers": 879361,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmQyMTMyYjA0MWIyOTdkMGFkMGZiODA5OTk0MmI0ZTQyNTMzOWUw",
+  "snapshot_id": "MCw5NDNmNzM2MmFhOTQ5YWZmZjRlMWE4ZjU4MDNjNzU2MTAyODJiMTFk",
   "tracks": [
     {
       "added_at": "2023-09-29 06:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "Mejor Que Yo",
         "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 242696,
       "name": "Mejor Que Yo",
       "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "CARNET",
+        "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 139376,
+      "name": "CARNET",
+      "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "Ojitos Rojos (Remix)",
         "url": "https://open.spotify.com/album/0bKvyVdhfsb0hLcN7oVUpv"
       },
@@ -1071,22 +1091,18 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "CARNET",
-        "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
       },
       "artists": [
         {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
         }
       ],
-      "duration_ms": 139376,
-      "name": "CARNET",
-      "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
+      "duration_ms": 195573,
+      "name": "5 Letras",
+      "url": "https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 211707,
       "name": "Podemos Repetirlo",
       "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "5 Letras",
-      "url": "https://open.spotify.com/track/0tDSgSmZsbxCkdkfUPjg59"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1507,38 +1507,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Travesuras (Remix)",
-        "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
+        "name": "Tu Sicaria",
+        "url": "https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR"
       },
       "artists": [
         {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
         },
         {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+          "name": "Beauty Brain",
+          "url": "https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR"
         }
       ],
-      "duration_ms": 324426,
-      "name": "Travesuras - Remix",
-      "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
+      "duration_ms": 147013,
+      "name": "Tu Sicaria",
+      "url": "https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1579,22 +1563,38 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Tu Sicaria",
-        "url": "https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR"
+        "name": "Travesuras (Remix)",
+        "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
       },
       "artists": [
         {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
         },
         {
-          "name": "Beauty Brain",
-          "url": "https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR"
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
         }
       ],
-      "duration_ms": 147013,
-      "name": "Tu Sicaria",
-      "url": "https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6"
+      "duration_ms": 324426,
+      "name": "Travesuras - Remix",
+      "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "Tiempos de Plan B",
+        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 161287,
+      "name": "Tiempos de Plan B",
+      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "Tendencia Global",
         "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 234402,
       "name": "Tendencia Global",
       "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Tiempos de Plan B",
-        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
-      },
-      "artists": [
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 161287,
-      "name": "Tiempos de Plan B",
-      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "Jeans",
+        "url": "https://open.spotify.com/album/2CihHxhe77TEB6YEWBRVru"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "Jeans",
+      "url": "https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "Baja Sube Sube",
         "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 211404,
       "name": "Baja Sube Sube",
       "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Jeans",
-        "url": "https://open.spotify.com/album/2CihHxhe77TEB6YEWBRVru"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 185840,
-      "name": "Jeans",
-      "url": "https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Piedritas En Los Dientes",
-        "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 156544,
-      "name": "Piedritas En Los Dientes",
-      "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 352093,
       "name": "LEYENDAS",
       "url": "https://open.spotify.com/track/5vQy9fwVJTeLsaX9IOpCcp"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Piedritas En Los Dientes",
+        "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 156544,
+      "name": "Piedritas En Los Dientes",
+      "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -2115,22 +2115,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "X 1 BESO",
-        "url": "https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W"
+        "name": "M\u00e1s De La Una",
+        "url": "https://open.spotify.com/album/0fz7mvsACRDrvT5PYTt4U9"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         },
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 188862,
-      "name": "X 1 BESO",
-      "url": "https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P"
+      "duration_ms": 236731,
+      "name": "M\u00e1s De La Una",
+      "url": "https://open.spotify.com/track/69Y5IZuBvGyzySFt5x7kCq"
     }
   ],
   "unique_name": "La Casa del Perreo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,775 likes - 86 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,827 likes - 86 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 18 | [Let's Be Badder](https://open.spotify.com/track/6not6UsSods0rxJOo0mv3X) | [Lucern Raze](https://open.spotify.com/artist/7dI3P00ZhNevHfPf1zYkKn), [Cherry Pickles](https://open.spotify.com/artist/3dIfGgzwaWbsCHA0OhE2mK) | [INTERNATIONAL BREAKDOWN](https://open.spotify.com/album/1gAjcCci3J8qovfV2YLF4D) | 2:59 |
 | 19 | [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:51 |
 | 20 | [Cats In The Cradle](https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [America's Least Wanted](https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR) | 4:01 |
-| 21 | [Another One Bites The Dust](https://open.spotify.com/track/291RmMazWAmDitFuD6NJCv) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game](https://open.spotify.com/album/1h0j80HhdzIMsUGUFiVkqa) | 3:35 |
+| 21 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
 | 22 | [What Makes You a Man](https://open.spotify.com/track/4yrMlE1BpKF0wQqLPtLbDt) | [The Ninth Wave](https://open.spotify.com/artist/7AAthfOGfAvVy4NWGJDiCP) | [What Makes You a Man](https://open.spotify.com/album/7ivtKC42IzUZvdKwRTRuBk) | 3:53 |
 | 23 | [\(I've Had\) The Time Of My Life](https://open.spotify.com/track/2JCTiiJQFWQNC0Zp8rsJRB) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Best Of Bill Medley](https://open.spotify.com/album/1O7j1wsOIpUZEVYkqAqZyr) | 4:49 |
 | 24 | [Teenage Dream](https://open.spotify.com/track/08feveJTNL1OMLSrdoHQ6Q) | [The Rescues](https://open.spotify.com/artist/28xUSGD80Bh3CuLlg0GVqf) | [Teenage Dream](https://open.spotify.com/album/1dKSvTjt9oKdPuttrwrwLj) | 3:39 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 85 | [Sinnerman](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 10:22 |
 | 86 | [Hello](https://open.spotify.com/track/2ij8uf754WwccftaYn3kay) | [My Kullsvik](https://open.spotify.com/artist/5URiHHxjOuaGuNZPmccofu) | [Hello \(Swedish Cover\)](https://open.spotify.com/album/4HyNWn0hioQ8zyLbJVLa3i) | 4:22 |
 
-Snapshot ID: `MCxlNGE4YzRiNzZhMzE1ZjNmNTMzYTUwMjEwMDNmMjRkMGI5YTJkOTE1`
+Snapshot ID: `MCw5NGVhZGEwYWI2NDJlYTZmZGYxN2YzNGFiZGRlMDViMjYwNGRkOGRk`

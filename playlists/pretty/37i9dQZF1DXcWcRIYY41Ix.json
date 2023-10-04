@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Rupatrupa.",
-  "num_followers": 116793,
+  "num_followers": 116839,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzI5ZTgzMGUyYjg2ZTJkNjljNDVjNzllMDdhMzkwMDkzMjVhNGU2",
+  "snapshot_id": "MCw5NzZlMzllOThkODU2ZjJmZjMzZjVhZjVmOGU1MGNiZDNjYTQwOTcw",
   "tracks": [
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Las Bestias Que Me Acompa\u00f1an",
-        "url": "https://open.spotify.com/album/4VfTnbsFhguLzTTOCYUcO9"
+        "name": "Caen Los \u00c1rboles",
+        "url": "https://open.spotify.com/album/0jerytpu0oDNnmdTzKJD10"
       },
       "artists": [
         {
-          "name": "Andrea Santiago",
-          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+          "name": "The New Raemon",
+          "url": "https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h"
         }
       ],
-      "duration_ms": 222428,
-      "name": "Las Bestias Que Me Acompa\u00f1an",
-      "url": "https://open.spotify.com/track/7u7dzBVfptwhsuNqKHMBXn"
+      "duration_ms": 263989,
+      "name": "Caen Los \u00c1rboles",
+      "url": "https://open.spotify.com/track/2xxQ52pXNXEoC6DOBRe3Jd"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1171,6 +1171,22 @@
       "duration_ms": 198293,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Las Bestias Que Me Acompa\u00f1an",
+        "url": "https://open.spotify.com/album/4VfTnbsFhguLzTTOCYUcO9"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santiago",
+          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+        }
+      ],
+      "duration_ms": 222428,
+      "name": "Las Bestias Que Me Acompa\u00f1an",
+      "url": "https://open.spotify.com/track/7u7dzBVfptwhsuNqKHMBXn"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1327,26 +1343,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "La Sangre del Mundo",
-        "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
-      "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
         "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
@@ -1363,18 +1359,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Caen Los \u00c1rboles",
-        "url": "https://open.spotify.com/album/0jerytpu0oDNnmdTzKJD10"
+        "name": "La Sangre del Mundo",
+        "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
       },
       "artists": [
         {
-          "name": "The New Raemon",
-          "url": "https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h"
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 263989,
-      "name": "Caen Los \u00c1rboles",
-      "url": "https://open.spotify.com/track/2xxQ52pXNXEoC6DOBRe3Jd"
+      "duration_ms": 264160,
+      "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
+      "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "El Perro Feroz",
         "url": "https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 140928,
       "name": "Diente de Le\u00f3n",
       "url": "https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "Cuchara Chueca",
+        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Alma Sola",
+      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "1990",
         "url": "https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 236756,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Cuchara Chueca",
-        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Alma Sola",
-      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1719,42 +1719,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Qui\u00e9n da M\u00e1s?",
-        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
-      },
-      "artists": [
-        {
-          "name": "Marcos French",
-          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 272010,
-      "name": "Qui\u00e9n da M\u00e1s?",
-      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "Me Voy a Valpara\u00edso",
         "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
       },
@@ -1791,22 +1755,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Tabaibas",
-        "url": "https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3"
-      },
-      "artists": [
-        {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
-        }
-      ],
-      "duration_ms": 232357,
-      "name": "Tabaibas",
-      "url": "https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "El Verano Que Vivimos",
         "url": "https://open.spotify.com/album/0WNi05EyoAFBDvKdqtVmYk"
       },
@@ -1823,6 +1771,58 @@
       "duration_ms": 231074,
       "name": "El Verano Que Vivimos",
       "url": "https://open.spotify.com/track/1LTaLoBeGVgQ9CXNhr6aXL"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Qui\u00e9n da M\u00e1s?",
+        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
+      },
+      "artists": [
+        {
+          "name": "Marcos French",
+          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 272010,
+      "name": "Qui\u00e9n da M\u00e1s?",
+      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Tabaibas",
+        "url": "https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 232357,
+      "name": "Tabaibas",
+      "url": "https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ"
     }
   ],
   "unique_name": "Cancionistas",

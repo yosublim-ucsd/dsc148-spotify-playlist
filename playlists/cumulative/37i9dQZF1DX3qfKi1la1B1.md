@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-286 songs - 18 hr 37 min
+287 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [The Surge \- Edit](https://open.spotify.com/track/7zgqpFBkgX3ycNALKpVdhQ) | [Sandunes](https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn), [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [The Surge](https://open.spotify.com/album/1Pt8oo4qJWdbFkAyzrmMfs) | 2:58 | 2023-08-03 | 2023-08-18 |
 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 | 2022-10-20 | 2022-11-23 |
 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 | 2022-10-20 |  |
+| [this is what space feels like](https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what space feels like](https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP) | 3:03 | 2023-10-03 |  |
 | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/track/3yJ57qr7LOU4cauQQwe50N) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/album/2QiROj647TO8FCCoKoojnA) | 5:26 | 2022-11-29 | 2022-12-14 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-22 | 2023-09-16 |
 | [Todai](https://open.spotify.com/track/1Zcmka6ZS0KHmFSvEJdQSZ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 2:54 | 2022-12-01 | 2022-12-16 |
@@ -271,7 +272,7 @@
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-13 |  |
 | [When Will the Sun Rise Again](https://open.spotify.com/track/0zDr3eeCehW8JZQR4fAh2l) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Belongs on a Place Called Earth](https://open.spotify.com/album/25BE6yXxEcxZHk5XWRn9JL) | 4:06 | 2023-06-22 | 2023-08-18 |
 | [When Will the Sun Rise Again](https://open.spotify.com/track/2tAJdFg9u7ozeb795U3vA9) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Belongs on a Place Called Earth](https://open.spotify.com/album/6QCQIstoSeXKwuAd6Xqjsw) | 4:06 | 2023-06-22 | 2023-06-24 |
-| [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 | 2022-10-20 |  |
+| [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 | 2022-10-20 | 2023-10-04 |
 | [Within \(Drumless Edition\)](https://open.spotify.com/track/4PTtFQIiFtNNbbX4Ym5RCD) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Within \(Drumless Edition\)](https://open.spotify.com/album/0JdfgRVwrsunExkHjb3cfy) | 3:48 | 2023-09-28 |  |
 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 | 2023-03-18 | 2023-05-12 |
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2022-10-20 | 2023-09-08 |

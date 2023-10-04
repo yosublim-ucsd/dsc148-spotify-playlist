@@ -1370,7 +1370,7 @@
     {
       "album": {
         "name": "Trilla",
-        "url": "https://open.spotify.com/album/3DIGh7QbQEwtLCJ07P4XGa"
+        "url": "https://open.spotify.com/album/4p64nRgh9PnMvojkk2Xj4t"
       },
       "artists": [
         {
@@ -1389,6 +1389,32 @@
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209546,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/55E78MhBGQ4IPZcQ3R5BAH"
+    },
+    {
+      "album": {
+        "name": "Trilla",
+        "url": "https://open.spotify.com/album/3DIGh7QbQEwtLCJ07P4XGa"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Avery Storm",
+          "url": "https://open.spotify.com/artist/79OSA519ScnPY0MVDpu8ZV"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-04",
       "duration_ms": 209546,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/67yGTWcR72BZvsrSS2dHST"

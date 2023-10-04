@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 55285,
+  "num_followers": 55326,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDFlNjQ2NjUzOTU2ZWYzOTA3NzBlN2JhNDI4Mjc3MGRjMGY0Zjcy",
+  "snapshot_id": "MCwyYmMwYjJmMjRjMDRkNzk0NmNjMThkNjRhMzZkNzIyYWMxYzdlM2Q2",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -691,22 +691,18 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Thang For You (feat. No Cap)",
-        "url": "https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/5pF05wJrbrIvqunE41vWP8"
       },
       "artists": [
         {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        },
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         }
       ],
-      "duration_ms": 259545,
-      "name": "Thang For You (feat. No Cap)",
-      "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
+      "duration_ms": 100291,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5jbDih9bLGmI8ycUKkN5XA"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -735,18 +731,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/5pF05wJrbrIvqunE41vWP8"
+        "name": "Thang For You (feat. No Cap)",
+        "url": "https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
         }
       ],
-      "duration_ms": 100291,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/5jbDih9bLGmI8ycUKkN5XA"
+      "duration_ms": 259545,
+      "name": "Thang For You (feat. No Cap)",
+      "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 224656,
+      "name": "Gnat",
+      "url": "https://open.spotify.com/track/6cS9PmLky2NhLOhpIsUlow"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Los Bo",
         "url": "https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 239120,
       "name": "Los Bo",
       "url": "https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Music To Be Murdered By - Side B (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 224656,
-      "name": "Gnat",
-      "url": "https://open.spotify.com/track/6cS9PmLky2NhLOhpIsUlow"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/1zg6QT0eGqLBlhAT2FPoFj"
       },
@@ -1131,22 +1115,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Sold Out Dates",
-        "url": "https://open.spotify.com/album/7MUGqiTtFGF2THKw5BjuoG"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 141578,
-      "name": "Sold Out Dates",
-      "url": "https://open.spotify.com/track/25rJp2UNyZWmBSoVDzjRss"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Music To Be Murdered By",
         "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
@@ -1163,6 +1131,38 @@
       "duration_ms": 170226,
       "name": "Lock It Up (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Sold Out Dates",
+        "url": "https://open.spotify.com/album/7MUGqiTtFGF2THKw5BjuoG"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 141578,
+      "name": "Sold Out Dates",
+      "url": "https://open.spotify.com/track/25rJp2UNyZWmBSoVDzjRss"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "added_at": "2023-09-01 14:43:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Dudu, Ryu, the Runner
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,126 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,217 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 20 | [Filho da tragédia](https://open.spotify.com/track/46J7cemrvq6WnKtu03lK3N) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Filho da tragédia](https://open.spotify.com/album/19enVphprn8hU8t33Ue9Wu) | 3:34 |
 | 21 | [Me Envolvo](https://open.spotify.com/track/0JbqPaiEZWUwwOhfOZvyu3) | [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [Metamorf](https://open.spotify.com/album/4cuTasGsG88sF9V0jiXHlK) | 2:33 |
 | 22 | [Grana, Dinheiro e Fama](https://open.spotify.com/track/4JenZe0lSMXG57yqfc6i5d) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Grana, Dinheiro e Fama](https://open.spotify.com/album/2DPiSfu6nw0irRYVOZ8brt) | 2:49 |
-| 23 | [Dinheiro, Amor e Reza](https://open.spotify.com/track/24iYv9zhR5HIlGgRDoE3AQ) | [Romaní](https://open.spotify.com/artist/6vw2vtVIu06GBH1elkbA3K), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Jon](https://open.spotify.com/artist/6wbfgVgq74I6BveSPkyC2t) | [Dinheiro, Amor e Reza](https://open.spotify.com/album/1rzR3bGwtOGMAv5GfvF9uy) | 2:52 |
+| 23 | [Dinheiro, Amor e Reza](https://open.spotify.com/track/24iYv9zhR5HIlGgRDoE3AQ) | [Romaní](https://open.spotify.com/artist/6vw2vtVIu06GBH1elkbA3K), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Jon](https://open.spotify.com/artist/6wbfgVgq74I6BveSPkyC2t), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Dinheiro, Amor e Reza](https://open.spotify.com/album/1rzR3bGwtOGMAv5GfvF9uy) | 2:52 |
 | 24 | [Sem Compaixão](https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [Sem Compaixão](https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2) | 3:22 |
 | 25 | [Ouro Rose](https://open.spotify.com/track/0pv0nTMDBFR2QNH393zp6A) | [Font](https://open.spotify.com/artist/2VxhcBCTUs11LYhPpA62S1), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw) | [Ouro Rose](https://open.spotify.com/album/2DtE00Rbwp2UC6IiNAdJIt) | 3:02 |
 | 26 | [Famigerado](https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Minha Vida é um Filme](https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Minha Vida é um Filme](https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj) | 3:06 |
 | 75 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
 
-Snapshot ID: `MCw1ZWI1MmE5OTA4Zjc3MmNlZjFiMTFjNGU0MmZhMDE5ZmM3ODg0Yzlj`
+Snapshot ID: `MCxmMjdkMDFhNjZmZDRkNzI4NDhjOTkzMjFjMTY2Y2ViOWY4NGM3YzJj`

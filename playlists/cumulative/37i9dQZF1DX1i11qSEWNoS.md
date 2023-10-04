@@ -4,7 +4,7 @@
 
 > und macht laune
 
-113 songs - 5 hr 22 min
+114 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,12 +35,13 @@
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-07-21 |  |
 | [Cooler Than Me](https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Cooler Than Me](https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP) | 2:59 | 2023-07-21 |  |
 | [Ding](https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV) | [Next!](https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt) | 3:26 | 2023-07-21 |  |
-| [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 | 2023-09-08 |  |
+| [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 | 2023-09-08 | 2023-10-04 |
 | [Dorfkinder](https://open.spotify.com/track/6TJJfeL9UUi0xNnYvte2av) | [Finnel](https://open.spotify.com/artist/7C0CBOwkkOMnkehrvdMLrU) | [Dorfkinder](https://open.spotify.com/album/1R8ny1P0qJBCTqHeoRwZLV) | 2:27 | 2023-07-28 | 2023-08-26 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2023-07-21 |  |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2023-07-21 |  |
 | [Durstlöscher](https://open.spotify.com/track/2QAsTQ1tydZ6mhYH2FyzfG) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Durstlöscher](https://open.spotify.com/album/4RF1l08nRRHF3lWfM35bUx) | 2:41 | 2023-07-21 |  |
 | [Einmal um die Welt 2k23](https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Einmal um die Welt 2k23](https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a) | 2:15 | 2023-07-21 |  |
+| [Es kracht in Buxtehude](https://open.spotify.com/track/1oryzuL2gSZMmTGgKD3sh1) | [Trizto](https://open.spotify.com/artist/34hL467mqffW7Z5WQhM1MS), [MontanaBlack](https://open.spotify.com/artist/3G48828EYRdDAQ77Z6HidC) | [Es kracht in Buxtehude](https://open.spotify.com/album/1eOfCZvt4oRKS10xyLkvLO) | 2:41 | 2023-10-03 |  |
 | [EURODANCE](https://open.spotify.com/track/6T88MZVzI2aKcpBPjrJpyx) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [EURODANCE](https://open.spotify.com/album/0cBalxWkwvPpjNxb7XRcUv) | 2:38 | 2023-08-18 |  |
 | [EWIGKEIT \- REMIX](https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Lyfrix](https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU) | [EWIGKEIT \(REMIX\)](https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz) | 2:17 | 2023-07-28 |  |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2023-07-21 |  |

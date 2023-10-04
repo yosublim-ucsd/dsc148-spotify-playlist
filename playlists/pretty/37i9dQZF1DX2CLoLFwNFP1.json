@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29719,
+  "num_followers": 29777,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODQ2ZWZlY2EwYTc5ZTc5NzkyMWQ2MWYyNzc4MmYyMmRmYmUwZDNi",
+  "snapshot_id": "MCwzYmJiZmQ3N2I5NWQ2NTA4ZjAyYzlhZTBhNTZkNWE5NmI2MGQzZjdh",
   "tracks": [
     {
       "added_at": "2023-07-31 16:03:37",
@@ -231,26 +231,6 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 192585,
-      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
-      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Semi Final",
         "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 242500,
       "name": "WITCH (Feat. Jay Park, So!YoON!) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/1v520W6rEa0nB2vvqAxnU3"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 192585,
+      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
+      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -395,46 +395,6 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
-      },
-      "artists": [
-        {
-          "name": "JMIN",
-          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Dedication (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Does She",
-      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -451,6 +411,26 @@
       "duration_ms": 218375,
       "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
+      },
+      "artists": [
+        {
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "Dedication (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -495,6 +475,26 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Does She",
+      "url": "https://open.spotify.com/track/3Pz9konqP1wwaXkNagNNT7"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "Think",
         "url": "https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA"
       },
@@ -511,46 +511,6 @@
       "duration_ms": 231222,
       "name": "Think (feat. Jay Park)",
       "url": "https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 176986,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR"
-      },
-      "artists": [
-        {
-          "name": "Wolftyla",
-          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Butterflies (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -591,6 +551,26 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "WATER",
         "url": "https://open.spotify.com/album/1jPLfwzHnBTJIMzrA2lb7y"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 262560,
       "name": "WATER (Prod. by GooseBumps)",
       "url": "https://open.spotify.com/track/7EBxRB5zybo2zutJuiAwoF"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR"
+      },
+      "artists": [
+        {
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Butterflies (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "School Rapper4 Final",
+        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
+      },
+      "artists": [
+        {
+          "name": "PARK HYEON JIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 213532,
+      "name": "INTRO (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "BOYCOLD",
         "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 292109,
       "name": "h1ghr gang",
       "url": "https://open.spotify.com/track/2fFeKfvIEJxpFbeTZ0tsJ5"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "School Rapper4 Final",
-        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
-      },
-      "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 213532,
-      "name": "INTRO (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -895,6 +895,34 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "H1GHR : BLUE TAPE",
+        "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Golden",
+          "url": "https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "School Rapper4 - Team Battle:Group",
         "url": "https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK"
       },
@@ -927,34 +955,6 @@
       "duration_ms": 241906,
       "name": "GREEN LIGHT (Feat. Jay Park, pH-1) (Prod. WOOGIE)",
       "url": "https://open.spotify.com/track/3KxadSAONZRtjuLpyZVZlp"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "H1GHR : BLUE TAPE",
-        "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Golden",
-          "url": "https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3"
     },
     {
       "added_at": "2023-07-31 16:03:37",

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-112 songs - 7 hr 0 min
+113 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Flying High](https://open.spotify.com/track/6a1mt15RL1Y3FxeU6Zoh3W) | [ronixd](https://open.spotify.com/artist/4fdvt615NKbd5n2s1cLiQZ) | [Flying High](https://open.spotify.com/album/652jsJs6hnACmycOLVL9wm) | 3:49 | 2023-06-08 | 2023-06-25 |
 | [Friends \(with Pamungkas\)](https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Friends \(with Pamungkas\)](https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm) | 3:19 | 2022-12-13 | 2023-06-08 |
 | [Gemintang Hatiku](https://open.spotify.com/track/2Q44ftk6lRes25tvoXlAqp) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:55 | 2022-12-13 |  |
+| [Hari Kita Berdua](https://open.spotify.com/track/1eFGzmSGfbODtQXF4CK9Vl) | [Sherina Munaf](https://open.spotify.com/artist/3UUS2j9dYbI6MB5ee8d0jp) | [Petualangan Sherina 2 \(Original Motion Picture Soundtrack\) \- Deluxe Version](https://open.spotify.com/album/0Yxs506teCUiP9ndlC0mqa) | 3:41 | 2023-10-03 |  |
 | [Heaven](https://open.spotify.com/track/0vtnYQ2A6o2fuEWim7DRYy) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk), [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Heaven](https://open.spotify.com/album/3ZlxavMQWzOa0dfcRrCUpi) | 3:44 | 2023-01-09 |  |
 | [Here We Go Again / Fanboi](https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Craziest thing happened in my backyard](https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6) | 3:12 | 2022-12-13 | 2023-01-10 |
 | [Heroik](https://open.spotify.com/track/2sRXa0KzHvIsUuN7zYBEd4) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Heroik](https://open.spotify.com/album/6n50RxgjfIYDZjd20vIQOe) | 4:18 | 2022-12-13 | 2023-08-09 |

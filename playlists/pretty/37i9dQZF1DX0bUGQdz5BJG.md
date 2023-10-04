@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: John Morgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,380 likes - 204 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,445 likes - 204 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 129 | [Oklahoma Sooner](https://open.spotify.com/track/03MLqdkCOn326rpG2rRcWm) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Oklahoma Sooner](https://open.spotify.com/album/7k3QL5d7vtnPQMjwAtrbrW) | 3:05 |
 | 130 | [My Mind's Made Up](https://open.spotify.com/track/1GrY3M6m6CAsRMqTTyFolL) | [Grace Leer](https://open.spotify.com/artist/2zaXxMpZKyNK075LXZ3wDG) | [My Mind's Made Up](https://open.spotify.com/album/60hBTn4rw9qPxwDSnz91hX) | 3:28 |
 | 131 | [You Made Me](https://open.spotify.com/track/3Vs8Bi80l5xvUKjNFvb98J) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [You Made Me](https://open.spotify.com/album/6x3TbiEDunVVLNEJIVRJCc) | 3:03 |
-| 132 | [Her To Here](https://open.spotify.com/track/7JxCeAdqeyT6zeXJjZt8LW) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Her To Here](https://open.spotify.com/album/1L1YLlqDbm86g3XEdUBer6) | 3:02 |
+| 132 | [Her To Here](https://open.spotify.com/track/04e0idTPfV4J93WeZWSx78) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Side Effects Of The Heart](https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK) | 3:02 |
 | 133 | [The Girl I Was](https://open.spotify.com/track/1vDIn9JZ1fxRL5zkmyTFvy) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [The Girl I Was](https://open.spotify.com/album/3rKxMNBmnC7PhoRvUZNyvY) | 3:38 |
 | 134 | [Life Without You](https://open.spotify.com/track/1YbJ36vb1NI1wKPrylkrRu) | [The Tuten Brothers](https://open.spotify.com/artist/1SKdnfGF5KypZsRJCb7M7h) | [Life Without You](https://open.spotify.com/album/1XTExLYIaQv489gT98KCfP) | 2:51 |
 | 135 | [Cowboy](https://open.spotify.com/track/6wszKb5nYKeVCjXfzJVgx0) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Cowboy](https://open.spotify.com/album/0oh5yikmH827k1IgIodAr4) | 3:22 |
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 203 | [Million Little Bandaids \(feat\. Zac Brown Band\)](https://open.spotify.com/track/2HjVYqDNCtSzaeZVeRmOqu) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y), [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Million Little Bandaids \(feat\. Zac Brown Band\)](https://open.spotify.com/album/1jYMEpxUQ0DBMc3gBfufXQ) | 3:14 |
 | 204 | [Where the Time Goes](https://open.spotify.com/track/4t3E8hshOmYWSK3zIVVm5A) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Where the Time Goes](https://open.spotify.com/album/0SlVaPuiqItyXW0VCNYg5z) | 3:08 |
 
-Snapshot ID: `MCw2ZDQxMGIyMzdmOThlMjMyZDA3ZWU5ZTIyY2M1NDgxNjRmYTYwNDdl`
+Snapshot ID: `MCw5ZWRkMjNhNDEyZWRmYTBlYjc2ZDNkZGNmYzRmMTNhYjcwMTk3ODFl`

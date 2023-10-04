@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: hemlocke springs
 
-1,682 songs - 3 day 16 hr 36 min
+1,683 songs - 3 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Alone](https://open.spotify.com/track/6171vS9Jl6Onj87LjkpXiV) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Alone](https://open.spotify.com/album/62CmFD4qQ21lUSiNIjz9By) | 3:00 | 2021-10-22 | 2022-04-11 |
 | [Alone](https://open.spotify.com/track/5xTeAUdHImWMC0NwfUUVjN) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Between You and Me](https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26) | 3:39 | 2021-01-15 | 2021-01-28 |
 | [Alone on the Moon](https://open.spotify.com/track/4bnJC64uvoZ598bqwZ6L9L) | [JOY.](https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P) | [Alone on the Moon](https://open.spotify.com/album/1RlXHytHcfxZjLlnN4PC9W) | 3:11 | 2022-03-04 | 2022-04-16 |
+| [Alonica](https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:58 | 2023-07-07 |  |
 | [Alonica](https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr) | 3:58 | 2023-07-07 | 2023-10-02 |
 | [Already Know](https://open.spotify.com/track/5wcXX7b0aGkvrF86BuzSV2) | [ELPENTHE](https://open.spotify.com/artist/5neRLK08a8gW8GHTiev0hY), [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [Already Know](https://open.spotify.com/album/1TtD0tM0553ENDdBjrvFmN) | 2:53 | 2022-04-25 | 2022-07-19 |
 | [alright?](https://open.spotify.com/track/54wIOQkXFjt4b8ISi22R1S) | [Luke Royalty](https://open.spotify.com/artist/0weBcU4Pkl2GPAWHraOEaR) | [my blue room](https://open.spotify.com/album/7l5jkO8Mhaglz4rz5AoRdW) | 2:29 | 2022-04-08 | 2022-04-21 |
@@ -1238,7 +1239,7 @@
 | [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2020-10-13\* | 2022-04-14 |
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-03 | 2022-04-05 |
 | [Rewind](https://open.spotify.com/track/4Rh1JpJKMPOJ75SIfVIqMJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Rewind](https://open.spotify.com/album/2ESrlKHxZ9dCK6f1gSCSSv) | 3:20 | 2022-01-07 | 2022-01-10 |
-| [Ribs](https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Ribs](https://open.spotify.com/album/1STW8v44VbbFKtmToUurll) | 2:50 | 2023-04-28 |  |
+| [Ribs](https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Ribs](https://open.spotify.com/album/1STW8v44VbbFKtmToUurll) | 2:50 | 2023-04-28 | 2023-10-04 |
 | [Ride or Die](https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Ride or Die](https://open.spotify.com/album/1vMfrkDvP3CDkYGt19voDl) | 3:30 | 2022-01-14 | 2022-08-06 |
 | [Right Thing](https://open.spotify.com/track/4dSOUIj2mJ7gZuW7dbuSB0) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Right Thing](https://open.spotify.com/album/1WFSgrgfu33KqJfk4CWyPW) | 3:42 | 2023-01-23 | 2023-02-04 |
 | [Risk It All](https://open.spotify.com/track/110004u5CbqwZ6mD0elr6l) | [Jackson Harris](https://open.spotify.com/artist/0pW16l7mPsVjS9CdmvOstz) | [Risk It All](https://open.spotify.com/album/2RU5jhdjyOleSiJIBRJKvn) | 3:33 | 2021-05-07 | 2021-05-24 |

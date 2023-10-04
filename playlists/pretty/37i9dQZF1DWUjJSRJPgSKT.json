@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 16470,
+  "num_followers": 16541,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjAyMzk3YmE0YzAzMjcxMjc2M2NlYjBlYjY3YzNhMzNjNzdkNTBm",
+  "snapshot_id": "MCxiNTY0Y2FiZjUyNGYwOTk1Y2U2OWJlYWQ5MzIwZDQ1M2E0MWUwNzg3",
   "tracks": [
     {
       "added_at": "2023-09-01 09:42:16",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Relaxin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 308466,
-      "name": "I Could Write A Book",
-      "url": "https://open.spotify.com/track/4fTV2tXbeAeTaIfFIDoF4H"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Blue Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 427266,
       "name": "Lazy Bird - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0V3K5h6d8Epqg4k60O1IBB"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Relaxin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 308466,
+      "name": "I Could Write A Book",
+      "url": "https://open.spotify.com/track/4fTV2tXbeAeTaIfFIDoF4H"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Cannonball Adderley Quintet In Chicago",
-        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
       "artists": [
         {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 280226,
-      "name": "Limehouse Blues",
-      "url": "https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i"
+      "duration_ms": 266666,
+      "name": "Airegin",
+      "url": "https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+        "name": "Cannonball Adderley Quintet In Chicago",
+        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
       },
       "artists": [
         {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
         }
       ],
-      "duration_ms": 266666,
-      "name": "Airegin",
-      "url": "https://open.spotify.com/track/32mnjN5E4cGbaEogtZdHMh"
+      "duration_ms": 280226,
+      "name": "Limehouse Blues",
+      "url": "https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
-        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 401560,
-      "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Smokin' At The Half Note (Expanded Edition)",
         "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 303333,
       "name": "Impressions - Live At The Half Note /1965",
       "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 401560,
+      "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "More Blues And The Abstract Truth",
-        "url": "https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie"
-      },
-      "artists": [
-        {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
-        },
-        {
-          "name": "Daniel Moore",
-          "url": "https://open.spotify.com/artist/7ePbCvgnCDpz0SfaQHV8Bq"
-        }
-      ],
-      "duration_ms": 312266,
-      "name": "Blues And The Abstract Truth",
-      "url": "https://open.spotify.com/track/0Nlj7A0uSf1uytsTIsEZJO"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Kenny Burrell & John Coltrane",
         "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 439013,
       "name": "Freight Trane",
       "url": "https://open.spotify.com/track/67lao4uXu1p8rdpn9ActTg"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "More Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        },
+        {
+          "name": "Daniel Moore",
+          "url": "https://open.spotify.com/artist/7ePbCvgnCDpz0SfaQHV8Bq"
+        }
+      ],
+      "duration_ms": 312266,
+      "name": "Blues And The Abstract Truth",
+      "url": "https://open.spotify.com/track/0Nlj7A0uSf1uytsTIsEZJO"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
       },
       "artists": [
         {
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 633826,
-      "name": "Roll Call - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1niBlhuYWv5D52E1z8PrmI"
+      "duration_ms": 469813,
+      "name": "Three Way Split - Remastered 2000 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/105krPHiFcjggw4XSN0M0b"
     },
     {
       "added_at": "2023-09-01 09:42:16",

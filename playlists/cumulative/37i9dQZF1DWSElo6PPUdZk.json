@@ -721,6 +721,28 @@
     },
     {
       "album": {
+        "name": "Main Tenu",
+        "url": "https://open.spotify.com/album/4NlsZkgeJsvykk2EhCv3ko"
+      },
+      "artists": [
+        {
+          "name": "Basant Kur",
+          "url": "https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7"
+        },
+        {
+          "name": "Jashan Inder",
+          "url": "https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Main Tenu",
+      "url": "https://open.spotify.com/track/6my9ChoBE2Ozs6oVerPzbX"
+    },
+    {
+      "album": {
         "name": "Majhe Wale",
         "url": "https://open.spotify.com/album/6C7vkwRhZtDvmiNokK2v5z"
       },
@@ -736,6 +758,24 @@
       "duration_ms": 196853,
       "name": "Majhe Wale",
       "url": "https://open.spotify.com/track/6w3Ci44LBc9RlJcjy1QYow"
+    },
+    {
+      "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/7ebGqKGjGg7aaBs5OTOnbM"
+      },
+      "artists": [
+        {
+          "name": "Pari Pandher",
+          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155972,
+      "name": "Malwain",
+      "url": "https://open.spotify.com/track/2BW6LkyuZjrSgRsCOLL45B"
     },
     {
       "album": {
@@ -806,6 +846,32 @@
       "duration_ms": 271200,
       "name": "Motti Motti Akh",
       "url": "https://open.spotify.com/track/0v3H1kONrK6OKwE1elBYhZ"
+    },
+    {
+      "album": {
+        "name": "Munda Karke +2 Aaya",
+        "url": "https://open.spotify.com/album/5gy6Gqn41X7wT7MysEocHl"
+      },
+      "artists": [
+        {
+          "name": "Sofia Inder",
+          "url": "https://open.spotify.com/artist/04T6LAjLQUxF7JCqclfr5F"
+        },
+        {
+          "name": "Asmeet Sehra",
+          "url": "https://open.spotify.com/artist/2lgc3rdVbTxyM5x4NhCXUs"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167684,
+      "name": "Munda Karke +2 Aaya",
+      "url": "https://open.spotify.com/track/483jHkv9kpwujhk9ZHBxlH"
     },
     {
       "album": {

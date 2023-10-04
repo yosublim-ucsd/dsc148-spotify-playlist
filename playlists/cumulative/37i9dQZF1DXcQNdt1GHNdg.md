@@ -4,13 +4,14 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-55 songs - 2 hr 52 min
+56 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Bande](https://open.spotify.com/track/7wX4ffiROMwngmsc3aeL7O) | [George Sidhu](https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC), [Rinku Chautala](https://open.spotify.com/artist/1wld069pW7ElApAwWfmyOa) | [10 Bande](https://open.spotify.com/album/2RJSx7VJU7VjcNCgmeKGhx) | 3:22 | 2023-07-18 |  |
 | [12 Bande](https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [12 Bande](https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u) | 3:24 | 2023-07-18 |  |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2023-07-18 |  |
+| [Animal Pre\-Teaser Audio](https://open.spotify.com/track/39uuqD3qzHp5qPRONIrgSe) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Animal Pre\-Teaser Audio](https://open.spotify.com/album/4jYN9icTE1NDqCSE0YvHVB) | 0:49 | 2023-10-03 |  |
 | [Balle Jatta](https://open.spotify.com/track/3TMub7U6GmZ9RIaQpQerbZ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Balle Jatta](https://open.spotify.com/album/5TSOrVokaOvXbRXJOkJ1b5) | 3:32 | 2023-07-18 |  |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-07-18 |  |
 | [Behja Behja](https://open.spotify.com/track/0uBZBeRrBsUuJTepslamCJ) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Abbu](https://open.spotify.com/artist/2g8fHIiFYVaCtpilQR5YTv) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:27 | 2023-07-18 |  |
@@ -53,7 +54,7 @@
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-07-18 |  |
 | [Small Circle](https://open.spotify.com/track/1PrLCrX3eY1gs7Bytw71qg) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [Small Circle](https://open.spotify.com/album/6vaip7iNjz4dElaxbsq9yu) | 2:32 | 2023-07-18 |  |
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-07-18 |  |
-| [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 | 2023-07-18 |  |
+| [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 | 2023-07-18 | 2023-10-04 |
 | [SWITCHIN' LANES](https://open.spotify.com/track/0o6IjbwmqxiDZPE5TvNKoJ) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [SWITCHIN' LANES](https://open.spotify.com/album/6YCt9sL8Y6kphIOcUalaRl) | 2:12 | 2023-07-18 |  |
 | [Take It Easy](https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:30 | 2023-07-18 |  |
 | [Taur](https://open.spotify.com/track/3Zkd2rqCq0MuJXoVTMmg08) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Sidhuan De Munde](https://open.spotify.com/album/3oTPgv4PbK4loiyz4yT2pZ) | 2:48 | 2023-07-18 |  |

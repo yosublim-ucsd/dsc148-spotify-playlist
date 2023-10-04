@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: The Cadillac Three",
-  "num_followers": 564856,
+  "num_followers": 564988,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDYzM2M1OGZiOWI0YzkwZGNmYjZiZTNiZGI3ZjcyYTg5ZjNlOTlj",
+  "snapshot_id": "MCw5YWQ1ZDIxNjQzZWM0MmZlOTM2N2U4ZjA3NzgzZWUzNDIwNTU3N2Rh",
   "tracks": [
     {
       "added_at": "2023-09-30 05:12:10",
@@ -283,30 +283,22 @@
     {
       "added_at": "2023-09-30 05:12:10",
       "album": {
-        "name": "Town Line",
-        "url": "https://open.spotify.com/album/080zNTXnyXccahBk0Vv6wG"
+        "name": "The Better Me",
+        "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
       },
       "artists": [
         {
-          "name": "Aaron Lewis",
-          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         },
         {
-          "name": "Charlie Daniels",
-          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
-        },
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        },
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 283346,
-      "name": "Country Boy (feat. Charlie Daniels, Chris Young, & George Jones)",
-      "url": "https://open.spotify.com/track/5TzoqLAFczwhUMrjNlWITI"
+      "duration_ms": 195236,
+      "name": "The Better Me",
+      "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
     },
     {
       "added_at": "2023-09-30 05:12:10",
@@ -395,22 +387,30 @@
     {
       "added_at": "2023-09-30 05:12:10",
       "album": {
-        "name": "The Better Me",
-        "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
+        "name": "Town Line",
+        "url": "https://open.spotify.com/album/080zNTXnyXccahBk0Vv6wG"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Aaron Lewis",
+          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
         },
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Charlie Daniels",
+          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
+        },
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        },
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 195236,
-      "name": "The Better Me",
-      "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
+      "duration_ms": 283346,
+      "name": "Country Boy (feat. Charlie Daniels, Chris Young, & George Jones)",
+      "url": "https://open.spotify.com/track/5TzoqLAFczwhUMrjNlWITI"
     },
     {
       "added_at": "2023-09-30 05:12:10",

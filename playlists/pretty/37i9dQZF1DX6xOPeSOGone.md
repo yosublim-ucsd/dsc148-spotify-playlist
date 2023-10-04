@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > It's like rock, but softer\. Cover: Fleetwood Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,598,612 likes - 110 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,598,718 likes - 110 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 20 | [Guitar Man](https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy) | 3:46 |
 | 21 | [Ride Like the Wind](https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:35 |
 | 22 | [Waiting for a Girl like You](https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:52 |
-| 23 | [Deacon Blues](https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 7:36 |
+| 23 | [Deacon Blues](https://open.spotify.com/track/0xeBC6N81ZBYDtxuBFGSuO) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 7:35 |
 | 24 | [Ventura Highway](https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [Homecoming](https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um) | 3:31 |
 | 25 | [While You See A Chance](https://open.spotify.com/track/4tFumK7mnlcpNeHCNEQ4wc) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Arc Of A Diver](https://open.spotify.com/album/6st1dtm8abvdd1S9vWLUQL) | 5:13 |
 | 26 | [Georgy Porgy](https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 4:07 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 109 | [Tranquillo \(Melt My Heart\)](https://open.spotify.com/track/0i8s3YyZjFcJoV41GxZjhg) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Boys in the Trees](https://open.spotify.com/album/6TUPBFLSBxRwHDXV0y3AHs) | 4:03 |
 | 110 | [Float On By](https://open.spotify.com/track/3i4cFJr2Ka8b4HpxfvQyje) | [Rhythm Heritage](https://open.spotify.com/artist/2ZGlJUO9hdjZEvl710OpVX) | [Sky's The Limit](https://open.spotify.com/album/5m0YX0qek6vg8hzdsBluaK) | 3:31 |
 
-Snapshot ID: `MCxlNDY1YmQ5ZmZiYzMxMmFlODQwZTk0NmI3OWEwZGJmNDNlYmU2MGY2`
+Snapshot ID: `MCwxMDIyZjhiOTI5ZjYzOWNhMjJmOTI4ODg4M2M4Nzc4MzI1Y2Q0MmU3`

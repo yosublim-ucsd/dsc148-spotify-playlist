@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,035 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,038 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 14 | [Beat Dem Bad](https://open.spotify.com/track/2K7lwIM77amplCz8FCA0RA) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Street Shots 2020: Streets of Kingston](https://open.spotify.com/album/3StTdYfwlRuTvgjDfM00nk) | 2:24 |
 | 15 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 |
 | 16 | [I Wish](https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h) | 2:55 |
-| 17 | [Run Wid It](https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Run Wid It](https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG) | 3:11 |
-| 18 | [Split in De Middle](https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i) | [Freezy](https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF) | [Split in De Middle](https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4) | 2:19 |
+| 17 | [Split in De Middle](https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i) | [Freezy](https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF) | [Split in De Middle](https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4) | 2:19 |
+| 18 | [Run Wid It](https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Run Wid It](https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG) | 3:11 |
 | 19 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 |
 | 20 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 |
 | 21 | [Monster Winer](https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [King Bubba Mashup Volume 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 2:39 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 41 | [Yuh Bad \(No Stressing\)](https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [Yuh Bad \(No Stressing\)](https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V) | 3:14 |
 | 42 | [Wrong Again](https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Wrong Again](https://open.spotify.com/album/45cwc8M8DQrrAcfjTDog4b) | 2:46 |
 | 43 | [Conch Shell](https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Conch Shell](https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ) | 3:12 |
-| 44 | [We Outside](https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Knock About Riddim](https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw) | 2:56 |
-| 45 | [Private Zess](https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN) | [K Lion](https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi), [LR](https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l) | [Private Zess](https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6) | 2:48 |
+| 44 | [Private Zess](https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN) | [K Lion](https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi), [LR](https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l) | [Private Zess](https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6) | 2:48 |
+| 45 | [We Outside](https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Knock About Riddim](https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw) | 2:56 |
 | 46 | [Shots \(One for Di Road\)](https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:17 |
 | 47 | [Captain](https://open.spotify.com/track/2uoIP6BmQxHIXWT2CFAUFO) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Saga Boy](https://open.spotify.com/album/1ijwvFIx4XKoJP5EXsTxXM) | 3:50 |
 | 48 | [Go Hard](https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Lifestyle Riddim](https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb) | 2:44 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
 | 68 | [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 |
 
-Snapshot ID: `MCw3MTEzYjIwZGI5MmUxMTgwOWRmOWIyYzM1YzM0ZTA0YmI5OGI4NDEw`
+Snapshot ID: `MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx`

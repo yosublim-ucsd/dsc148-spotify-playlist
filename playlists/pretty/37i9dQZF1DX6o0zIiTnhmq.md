@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,239 likes - 50 songs - 13 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,384 likes - 50 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 11 | [Ram Naam Chanting](https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Chanting](https://open.spotify.com/album/2a3szoALUteejLabQS39M1) | 18:01 |
 | 12 | [Om Gam Ganapataye](https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Om Gam Ganapataye](https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67) | 10:30 |
 | 13 | [Shiva Chants](https://open.spotify.com/track/4HFFzYAPgabpJI9IiKNDxS) | [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Shiva Chants](https://open.spotify.com/album/6oVqipIJuVUOx6yUYcLvFh) | 5:03 |
-| 14 | [Gayatri Mantra](https://open.spotify.com/track/5PFiiReo58SGPeKfEnRuc8) | [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C) | [Gayatri Mantra](https://open.spotify.com/album/6yAEcjB0tVVFcrJB7i0FdB) | 36:50 |
+| 14 | [Gayatri Mantra \(108 Times\)](https://open.spotify.com/track/5PFiiReo58SGPeKfEnRuc8) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Gayatri Mantra](https://open.spotify.com/album/6yAEcjB0tVVFcrJB7i0FdB) | 36:50 |
 | 15 | [Mool Mantra](https://open.spotify.com/track/260CN7x19rK2PUlwXhRsZN) | [Ananya Bhowmick](https://open.spotify.com/artist/74dv0wmBboWMomobcuanhU) | [Mool Mantra](https://open.spotify.com/album/68mN6PReyeJfWydMrMSOBl) | 7:45 |
 | 16 | [Ganesha Pancharatnam](https://open.spotify.com/track/7c8xzpPAMGus1cM6lV4u5H) | [Om Voices Junior](https://open.spotify.com/artist/2AWAl66rPSpY6zi905a9wD) | [Ganesha Pancharatnam](https://open.spotify.com/album/1MKhRxd0kLwWR1UaL5W1xj) | 4:03 |
 | 17 | [Sarvesham Svastir Bhavtu](https://open.spotify.com/track/0ttVqRISNySDktBhdJsJZv) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 49 | [Om Kali Mahakali Mantra](https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ) | [Chant Central](https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI) | [Om Kali Mahakali Mantra](https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx) | 47:06 |
 | 50 | [Hari Om \- Edit](https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv) | [Nisha Narsai](https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC) | [Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga](https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M) | 8:04 |
 
-Snapshot ID: `MCwxZTViYWNlMjIyMDg3NTY2NGUyN2Y3ZGFiNmNjMjFkMWQzYTRmNTQ3`
+Snapshot ID: `MCw5ZjkwMTJiMTE5N2ViM2Q4ZTA5NzcwYThhN2VmMTVlMDZhYTg1NTMx`

@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Felix Ames
 
-972 songs - 2 day 4 hr 4 min
+973 songs - 2 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Eternal Sunshine](https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Eternal Sunshine](https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n) | 4:01 | 2021-05-14 | 2022-07-23 |
 | [Eternal Sunshine \(Fire Pit\)](https://open.spotify.com/track/39AkkoGAl2ILUDU2u9g9En) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 4:16 | 2023-03-03 | 2023-07-22 |
 | [Eternity](https://open.spotify.com/track/7jrbOhDHb5bvvcmzEPbRWw) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Eternity](https://open.spotify.com/album/5SXIbnJOOXC2z3gpj3u1U1) | 3:34 | 2022-04-01 | 2022-04-09 |
+| [Eucalyptus](https://open.spotify.com/track/0jXcEpjGIfyDYCqf2eTmjN) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Eucalyptus](https://open.spotify.com/album/4Mki5qZ68ARHfSjriUFqng) | 4:28 | 2023-09-29 |  |
 | [Euphoria \(At Night\)](https://open.spotify.com/track/41kClICjtba1W8UVbcHmya) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/2bdOs4BJoK5hI9jAC37H06) | 2:07 | 2023-02-24 | 2023-09-03 |
 | [Everytime the Night Starts Calling](https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN), [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Form Follows Function](https://open.spotify.com/album/55Rfi4oaFbYuWbZuQw5Qxr) | 2:40 | 2023-04-14 | 2023-07-02 |
 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 | 2023-02-10 |  |
@@ -814,7 +815,7 @@
 | [Suppress](https://open.spotify.com/track/4I0lAql698rA7kNmRnKbSX) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Suppress \(Original\)](https://open.spotify.com/album/1MhBXyaIo7WfOy1nctpIkb) | 3:12 | 2022-04-01 | 2022-07-27 |
 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 | 2023-09-08 |  |
 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 | 2021-06-25 | 2022-06-08 |
-| [SWEET GEORGIA](https://open.spotify.com/track/5gcr1NIWr4fgppRFvVVFqv) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC) | [TANGERINE](https://open.spotify.com/album/3Lgv3tNI5QAdRVzBOBq5YT) | 5:09 | 2023-09-01 |  |
+| [SWEET GEORGIA](https://open.spotify.com/track/5gcr1NIWr4fgppRFvVVFqv) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC) | [TANGERINE](https://open.spotify.com/album/3Lgv3tNI5QAdRVzBOBq5YT) | 5:09 | 2023-09-01 | 2023-10-04 |
 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 | 2021-03-19 | 2022-04-26 |
 | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI) | 2:57 | 2022-07-29 | 2022-09-15 |
 | [Swim Away](https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Swim Away](https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE) | 3:25 | 2022-08-26 | 2022-09-03 |

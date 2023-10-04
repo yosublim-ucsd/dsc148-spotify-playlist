@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Aqua",
-  "num_followers": 3444586,
+  "num_followers": 3444834,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzMzODg1NGY3OTVkMjE4Yjc5M2VhYzc2NWNjOGFjZTAwYmY4OTg3",
+  "snapshot_id": "MCwzNTI4MThjMThkZDczYmZlMGUyN2I2N2E0ZTE0M2Q3ZjVmMmJhOGRi",
   "tracks": [
     {
       "added_at": "2023-09-03 13:51:50",
@@ -179,22 +179,18 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "Praising You (feat. Fatboy Slim)",
-        "url": "https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu"
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 164693,
-      "name": "Praising You (feat. Fatboy Slim)",
-      "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2023-09-03 13:51:50",
@@ -219,18 +215,22 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+        "name": "Praising You (feat. Fatboy Slim)",
+        "url": "https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+      "duration_ms": 164693,
+      "name": "Praising You (feat. Fatboy Slim)",
+      "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
     },
     {
       "added_at": "2023-09-03 13:51:50",
@@ -307,6 +307,26 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
+    },
+    {
+      "added_at": "2023-09-03 13:51:50",
+      "album": {
         "name": "Seven (feat. Latto) (Alesso Remix)",
         "url": "https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 162480,
       "name": "Seven (feat. Latto) (Alesso Remix)",
       "url": "https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB"
-    },
-    {
-      "added_at": "2023-09-03 13:51:50",
-      "album": {
-        "name": "Pump It Louder",
-        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "added_at": "2023-09-03 13:51:50",
@@ -655,30 +655,6 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
-        },
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu"
-    },
-    {
-      "added_at": "2023-09-03 13:51:50",
-      "album": {
         "name": "Hold Me Closer (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
       },
@@ -703,6 +679,30 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
+        "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+        },
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu"
+    },
+    {
+      "added_at": "2023-09-03 13:51:50",
+      "album": {
         "name": "Don't Go Yet (Major Lazer Remix)",
         "url": "https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo"
       },
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "Say Yes To Heaven (Anyma Remix)",
-        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 222076,
-      "name": "Say Yes To Heaven - Anyma Remix",
-      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
-    },
-    {
-      "added_at": "2023-09-03 13:51:50",
-      "album": {
         "name": "The Best Part of Life (Imanbek Remix)",
         "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 198979,
       "name": "The Best Part of Life (Imanbek Remix)",
       "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
+    },
+    {
+      "added_at": "2023-09-03 13:51:50",
+      "album": {
+        "name": "Say Yes To Heaven (Anyma Remix)",
+        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 222076,
+      "name": "Say Yes To Heaven - Anyma Remix",
+      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
     },
     {
       "added_at": "2023-09-03 13:51:50",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "By The End Of The Night (southstar Remix)",
-        "url": "https://open.spotify.com/album/3LpSBl8LPPFkoUeY6uLrZ3"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "By The End Of The Night - southstar Remix",
-      "url": "https://open.spotify.com/track/0BJq75IdLPWnFWG0TLwoN2"
-    },
-    {
-      "added_at": "2023-09-03 13:51:50",
-      "album": {
         "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
         "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 176000,
       "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
       "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
+    },
+    {
+      "added_at": "2023-09-03 13:51:50",
+      "album": {
+        "name": "By The End Of The Night (southstar Remix)",
+        "url": "https://open.spotify.com/album/3LpSBl8LPPFkoUeY6uLrZ3"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 221906,
+      "name": "By The End Of The Night - southstar Remix",
+      "url": "https://open.spotify.com/track/0BJq75IdLPWnFWG0TLwoN2"
     },
     {
       "added_at": "2023-09-03 13:51:50",
@@ -1311,30 +1311,6 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "Hallucination (Navos Remix)",
-        "url": "https://open.spotify.com/album/0WKL2d7faG0lR3HLJuvT6v"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        },
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        }
-      ],
-      "duration_ms": 150040,
-      "name": "Hallucination - Navos Remix",
-      "url": "https://open.spotify.com/track/5VrfQqPD5hymxVQzd5pkkw"
-    },
-    {
-      "added_at": "2023-09-03 13:51:50",
-      "album": {
         "name": "My Universe (Galantis Remix)",
         "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
       },
@@ -1355,6 +1331,30 @@
       "duration_ms": 224908,
       "name": "My Universe - Galantis Remix",
       "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
+    },
+    {
+      "added_at": "2023-09-03 13:51:50",
+      "album": {
+        "name": "Hallucination (Navos Remix)",
+        "url": "https://open.spotify.com/album/0WKL2d7faG0lR3HLJuvT6v"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        },
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "duration_ms": 150040,
+      "name": "Hallucination - Navos Remix",
+      "url": "https://open.spotify.com/track/5VrfQqPD5hymxVQzd5pkkw"
     },
     {
       "added_at": "2023-09-03 13:51:50",
@@ -1491,30 +1491,6 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "Do It Like That (Jax Jones Remix)",
-        "url": "https://open.spotify.com/album/3xUNr11OLl38k9aPZ5AzrA"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 295955,
-      "name": "Do It Like That (Jax Jones Remix)",
-      "url": "https://open.spotify.com/track/2FwNVwldrtc8454bYU5a9g"
-    },
-    {
-      "added_at": "2023-09-03 13:51:50",
-      "album": {
         "name": "Sweetest Pie (David Guetta Remixes)",
         "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
       },
@@ -1535,6 +1511,30 @@
       "duration_ms": 143000,
       "name": "Sweetest Pie - David Guetta Dance Remix",
       "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
+    },
+    {
+      "added_at": "2023-09-03 13:51:50",
+      "album": {
+        "name": "Do It Like That (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/3xUNr11OLl38k9aPZ5AzrA"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 295955,
+      "name": "Do It Like That (Jax Jones Remix)",
+      "url": "https://open.spotify.com/track/2FwNVwldrtc8454bYU5a9g"
     },
     {
       "added_at": "2023-09-03 13:51:50",

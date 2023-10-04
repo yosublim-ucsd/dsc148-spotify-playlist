@@ -1,12 +1,12 @@
 {
   "description": "Soft Jazz beats in the background while you're studying or relaxing.",
-  "num_followers": 117990,
+  "num_followers": 118547,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzg2Mjc2Y2M3NTZlNjhmOTY5NzgxMTFjZjVhMTZjYWE4NjIxODlk",
+  "snapshot_id": "MCxiZDE0NWE2NjkxNzg1MmY2NDM0OGMwMzE5ZTZiZWI1OGI3MzcwYWFm",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "The Art of Chilling, Vol. 2",
+        "url": "https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp"
+      },
+      "artists": [
+        {
+          "name": "The BREED",
+          "url": "https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k"
+        }
+      ],
+      "duration_ms": 140605,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2zgbN6Db0WvF2pyVuSisnt"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "No Worries",
         "url": "https://open.spotify.com/album/1mJMKjZhjvbqj1vsLq5OHT"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 181600,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/1UKn8bOlQO1gakfDhyu1FN"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "The Art of Chilling, Vol. 2",
-        "url": "https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp"
-      },
-      "artists": [
-        {
-          "name": "The BREED",
-          "url": "https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k"
-        }
-      ],
-      "duration_ms": 140605,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/2zgbN6Db0WvF2pyVuSisnt"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Woodlander",
+        "url": "https://open.spotify.com/album/7sSPJBrN2fgSnW5rHSSKhG"
+      },
+      "artists": [
+        {
+          "name": "invention_",
+          "url": "https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU"
+        }
+      ],
+      "duration_ms": 149123,
+      "name": "Woodlander",
+      "url": "https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "Chance of a Day, Pt. 3",
         "url": "https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 387693,
       "name": "Chance of a Day, Pt. 3",
       "url": "https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Woodlander",
-        "url": "https://open.spotify.com/album/7sSPJBrN2fgSnW5rHSSKhG"
-      },
-      "artists": [
-        {
-          "name": "invention_",
-          "url": "https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU"
-        }
-      ],
-      "duration_ms": 149123,
-      "name": "Woodlander",
-      "url": "https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Refractions",
-        "url": "https://open.spotify.com/album/03KrQZCLUNTSaqnx1GHBsT"
-      },
-      "artists": [
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        },
-        {
-          "name": "mishingo",
-          "url": "https://open.spotify.com/artist/4h3GbEbbDBcyrICmI4QUAK"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Refractions",
-      "url": "https://open.spotify.com/track/5T78R7NpMs9DJVSaxEowuM"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Notes",
         "url": "https://open.spotify.com/album/5OWNwdm8CWn52XZUfTK5Ld"
       },
@@ -995,38 +975,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB"
+        "name": "Refractions",
+        "url": "https://open.spotify.com/album/03KrQZCLUNTSaqnx1GHBsT"
       },
       "artists": [
         {
-          "name": "skyswimming",
-          "url": "https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy"
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
         },
         {
-          "name": "koolmonke",
-          "url": "https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b"
+          "name": "mishingo",
+          "url": "https://open.spotify.com/artist/4h3GbEbbDBcyrICmI4QUAK"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Keep Cruising",
-        "url": "https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT"
-      },
-      "artists": [
-        {
-          "name": "Erik von Spreckelsen",
-          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Keep Cruising",
-      "url": "https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO"
+      "duration_ms": 136000,
+      "name": "Refractions",
+      "url": "https://open.spotify.com/track/5T78R7NpMs9DJVSaxEowuM"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1047,6 +1011,26 @@
       "duration_ms": 176000,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/20rDMAV7nHVWN0ih5vLdLc"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB"
+      },
+      "artists": [
+        {
+          "name": "skyswimming",
+          "url": "https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy"
+        },
+        {
+          "name": "koolmonke",
+          "url": "https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1087,34 +1071,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "SPRING",
-        "url": "https://open.spotify.com/album/4KEaYd9DK7qom7TIHvdM3Z"
+        "name": "Keep Cruising",
+        "url": "https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT"
       },
       "artists": [
         {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+          "name": "Erik von Spreckelsen",
+          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Stuck Inside",
-      "url": "https://open.spotify.com/track/40WnxbuSovGpDcJrZqO0lP"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Orilla Del Mar",
-        "url": "https://open.spotify.com/album/6qjFjgMpi6nHlYAWx80XRl"
-      },
-      "artists": [
-        {
-          "name": "Mattari",
-          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
-        }
-      ],
-      "duration_ms": 158003,
-      "name": "Orilla Del Mar",
-      "url": "https://open.spotify.com/track/4sshFtDRFl9ZxlxnJg2IWk"
+      "duration_ms": 236250,
+      "name": "Keep Cruising",
+      "url": "https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1135,6 +1103,38 @@
       "duration_ms": 124878,
       "name": "Bergamot",
       "url": "https://open.spotify.com/track/6WNRv5EhU3pi2kH71qoYuw"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Orilla Del Mar",
+        "url": "https://open.spotify.com/album/6qjFjgMpi6nHlYAWx80XRl"
+      },
+      "artists": [
+        {
+          "name": "Mattari",
+          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
+        }
+      ],
+      "duration_ms": 158003,
+      "name": "Orilla Del Mar",
+      "url": "https://open.spotify.com/track/4sshFtDRFl9ZxlxnJg2IWk"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "SPRING",
+        "url": "https://open.spotify.com/album/4KEaYd9DK7qom7TIHvdM3Z"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Stuck Inside",
+      "url": "https://open.spotify.com/track/40WnxbuSovGpDcJrZqO0lP"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/6SOsPztuO7oRa0NI5hSMJv"
-      },
-      "artists": [
-        {
-          "name": "Stan Forebee",
-          "url": "https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez"
-        }
-      ],
-      "duration_ms": 128248,
-      "name": "Delta",
-      "url": "https://open.spotify.com/track/5DdzyKfJMCGTk4RTbpSaXL"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Class",
         "url": "https://open.spotify.com/album/7wORQYmtzCmi9afnh4TwYo"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 173682,
       "name": "Class",
       "url": "https://open.spotify.com/track/3jfb2El9s0DKukAvOpON9a"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/6SOsPztuO7oRa0NI5hSMJv"
+      },
+      "artists": [
+        {
+          "name": "Stan Forebee",
+          "url": "https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez"
+        }
+      ],
+      "duration_ms": 128248,
+      "name": "Delta",
+      "url": "https://open.spotify.com/track/5DdzyKfJMCGTk4RTbpSaXL"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "MAINS",
-        "url": "https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS"
-      },
-      "artists": [
-        {
-          "name": "J3PO",
-          "url": "https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k"
-        }
-      ],
-      "duration_ms": 222554,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Thursday",
         "url": "https://open.spotify.com/album/5L829kuzY7EhGHEimMUDeF"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 140000,
       "name": "Luminism",
       "url": "https://open.spotify.com/track/6WtvZcBhLlI1pTWkAmyHDk"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "MAINS",
+        "url": "https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS"
+      },
+      "artists": [
+        {
+          "name": "J3PO",
+          "url": "https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k"
+        }
+      ],
+      "duration_ms": 222554,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1507,22 +1507,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Chardonnay Kisses",
-        "url": "https://open.spotify.com/album/60qoopjAfk8w2KZ0Modo48"
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9"
       },
       "artists": [
         {
-          "name": "G Bliz",
-          "url": "https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt"
+          "name": "Colombo",
+          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
         },
         {
-          "name": "The Colleagues",
-          "url": "https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT"
+          "name": "Massaman",
+          "url": "https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9"
         }
       ],
-      "duration_ms": 152195,
-      "name": "Chardonnay Kisses",
-      "url": "https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd"
+      "duration_ms": 125590,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/3AN1XehfQNYZ1j0VUCezhU"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1547,22 +1547,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9"
+        "name": "Chardonnay Kisses",
+        "url": "https://open.spotify.com/album/60qoopjAfk8w2KZ0Modo48"
       },
       "artists": [
         {
-          "name": "Colombo",
-          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+          "name": "G Bliz",
+          "url": "https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt"
         },
         {
-          "name": "Massaman",
-          "url": "https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9"
+          "name": "The Colleagues",
+          "url": "https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT"
         }
       ],
-      "duration_ms": 125590,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/3AN1XehfQNYZ1j0VUCezhU"
+      "duration_ms": 152195,
+      "name": "Chardonnay Kisses",
+      "url": "https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9"
+      },
+      "artists": [
+        {
+          "name": "Colombo",
+          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+        },
+        {
+          "name": "Massaman",
+          "url": "https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Harvest Time",
+      "url": "https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "Monte Adentro",
         "url": "https://open.spotify.com/album/0Rsap5JXIEDLxkhTVNT3Kr"
       },
@@ -1735,22 +1755,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9"
+        "name": "Making It Rain / Buckets",
+        "url": "https://open.spotify.com/album/1xIEHNtF2PiFZmC9jK1N0z"
       },
       "artists": [
         {
-          "name": "Colombo",
-          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
         },
         {
-          "name": "Massaman",
-          "url": "https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9"
+          "name": "delaney.",
+          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Harvest Time",
-      "url": "https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z"
+      "duration_ms": 147333,
+      "name": "Making It Rain",
+      "url": "https://open.spotify.com/track/7pCnG3kLCGZwp4lGT5C2xm"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1791,26 +1811,6 @@
       "duration_ms": 123636,
       "name": "Lavanta",
       "url": "https://open.spotify.com/track/7izOc7Oi4jU4VqLmDMqARt"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Making It Rain / Buckets",
-        "url": "https://open.spotify.com/album/1xIEHNtF2PiFZmC9jK1N0z"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        },
-        {
-          "name": "delaney.",
-          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "Making It Rain",
-      "url": "https://open.spotify.com/track/7pCnG3kLCGZwp4lGT5C2xm"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1911,26 +1911,26 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "A Bouquet of Flowers",
-        "url": "https://open.spotify.com/album/4HDswsyVIvlz7TKSP9gwPa"
+        "name": "Abduction",
+        "url": "https://open.spotify.com/album/5D9Rzhx22E3YGaZ9wGlKjy"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+          "name": "Baen Mow",
+          "url": "https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM"
         },
         {
-          "name": "c e c e l i e",
-          "url": "https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX"
+          "name": "Monaqee",
+          "url": "https://open.spotify.com/artist/4EGwgTccVIMRAeJbpcIlaq"
         },
         {
-          "name": "Louk",
-          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+          "name": "Vanis",
+          "url": "https://open.spotify.com/artist/3tMBRTfZnB4VrAvooWzbrz"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Sunflowers",
-      "url": "https://open.spotify.com/track/1b8asb7HTke3rKDKt0GNdR"
+      "duration_ms": 150000,
+      "name": "Abduction",
+      "url": "https://open.spotify.com/track/0tQHFnqCqhvR6tv0COYl6o"
     }
   ],
   "unique_name": "Smooth Jazz Beats",

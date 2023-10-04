@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 454456,
+  "num_followers": 454716,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDE4NDQ5YjZmYTQ1ZTI2ZDQ5OWM0MzgwMWMzMmMzMDhmMmFiMjBj",
+  "snapshot_id": "MCwyMzgzZDk0ZGM2MWM3NzU2ZGVmNzBmZGE1Y2Q4NmIwNDU2NTMwYzMy",
   "tracks": [
     {
       "added_at": "2023-09-20 04:42:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
-        "name": "RAN For Your Life",
-        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Pandangan Pertama",
-      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
         "name": "Renung Resah",
         "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 222000,
       "name": "Itu Aku",
       "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
+        "name": "RAN For Your Life",
+        "url": "https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Pandangan Pertama",
+      "url": "https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR"
     },
     {
       "added_at": "2023-09-20 04:42:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
+        "name": "Hari Baru",
+        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Dekat Di Hati",
+      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
         "name": "Mesin Waktu",
         "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 223500,
       "name": "Film Favorit",
       "url": "https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
-        "name": "Hari Baru",
-        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Dekat Di Hati",
-      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
     },
     {
       "added_at": "2023-09-20 04:42:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
-        "name": "My Happy Life",
-        "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
-      },
-      "artists": [
-        {
-          "name": "Tompi",
-          "url": "https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Menghujam Jantungku",
-      "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
         "name": "The Best of Dewa 19",
         "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 241266,
       "name": "Kamulah Satu - Satunya",
       "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
+        "name": "My Happy Life",
+        "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
+      },
+      "artists": [
+        {
+          "name": "Tompi",
+          "url": "https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Menghujam Jantungku",
+      "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
     },
     {
       "added_at": "2023-09-20 04:42:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
-        "name": "Peace, Love And Respect",
-        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
-      },
-      "artists": [
-        {
-          "name": "Gigi",
-          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "11 Januari",
-      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
         "name": "Ello",
         "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 267600,
       "name": "Pergi Untuk Kembali",
       "url": "https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
+        "name": "Peace, Love And Respect",
+        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
+      },
+      "artists": [
+        {
+          "name": "Gigi",
+          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "11 Januari",
+      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
     },
     {
       "added_at": "2023-09-20 04:42:00",

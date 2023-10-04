@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 201739,
       "name": "Campos Eliseos",
       "url": "https://open.spotify.com/track/0suq6pekpVWxP5OqcjhtbQ"
@@ -3954,7 +3954,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 204347,
       "name": "Endless Euphoria",
       "url": "https://open.spotify.com/track/7dlxSY7v6Ol0jEhS9qTFMh"
@@ -7676,7 +7676,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 209262,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4cRysbsSV8hwNcbD44r0rE"
@@ -15430,6 +15430,28 @@
       "duration_ms": 198750,
       "name": "We Made It - Future Rave",
       "url": "https://open.spotify.com/track/5IIGpQKlaIzaM6xB9DnUC6"
+    },
+    {
+      "album": {
+        "name": "We Stay Up",
+        "url": "https://open.spotify.com/album/1ot5278asUL46avHU9lMxS"
+      },
+      "artists": [
+        {
+          "name": "Achilles",
+          "url": "https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka"
+        },
+        {
+          "name": "Ken Bauer",
+          "url": "https://open.spotify.com/artist/19bSyzqhV2NIVhHtqdFX7t"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "We Stay Up",
+      "url": "https://open.spotify.com/track/0ELfc9u4ZR8AtDS4TUbyQA"
     },
     {
       "album": {

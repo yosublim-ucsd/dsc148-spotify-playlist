@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 26065,
+  "num_followers": 26097,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDM1MzZhZjA0NmNlYmJjNDQ5OGZiMzcyOTdhNTRkOTdhYjU2ZmM4",
+  "snapshot_id": "MCw2MTZhNThmZDk0NzdhYjZhZDJlZGFiMjNjNGI1MjdiZWEzNWUyNTVj",
   "tracks": [
     {
       "added_at": "2023-05-15 07:15:38",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Aretha Live at Fillmore West",
-        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 261533,
-      "name": "Love the One You're With - Live at Fillmore West, San Francisco, February 5, 1971",
-      "url": "https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 374236,
       "name": "Ain't Nobody - Live",
       "url": "https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Aretha Live at Fillmore West",
+        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 261533,
+      "name": "Love the One You're With - Live at Fillmore West, San Francisco, February 5, 1971",
+      "url": "https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Grow (Live)",
-        "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
+        "name": "Live From San Francisco",
+        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 182117,
-      "name": "Grow - Live",
-      "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
+      "duration_ms": 295306,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live From San Francisco",
-        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
+        "name": "Grow (Live)",
+        "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 295306,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
+      "duration_ms": 182117,
+      "name": "Grow - Live",
+      "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live at Metropolis Studios",
-        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Family - Live at Metropolis Studios",
-      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Betty Wright Live",
         "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+        "name": "Live at Metropolis Studios",
+        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
       },
       "artists": [
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 220546,
-      "name": "Add To Me - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
+      "duration_ms": 210413,
+      "name": "Family - Live at Metropolis Studios",
+      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1547,6 +1531,22 @@
       "duration_ms": 289600,
       "name": "What's Going On - Live At Oakland Coliseum, CA / 1974",
       "url": "https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "Add To Me - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
     },
     {
       "added_at": "2023-05-15 07:15:38",

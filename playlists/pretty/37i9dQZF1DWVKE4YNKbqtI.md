@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,826 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,832 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 15 | [Have A Good Time](https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 3:48 |
 | 16 | [Hoodoo Man Blues](https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:06 |
 | 17 | [Down Home Blues](https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t), [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Harp Attack!](https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b) | 6:23 |
-| 18 | [Diggin' My Potatoes](https://open.spotify.com/track/7vsJLJHAYHRmovTbRTgRFx) | [Brownie McGhee](https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC), [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Wizard Of The Harmonica](https://open.spotify.com/album/5lDFjfrldTB4HSFWkDYUBw) | 3:37 |
-| 19 | [What My Mama Told Me](https://open.spotify.com/track/7HLVfPFYRba4she3c0qIAp) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Harpslinger](https://open.spotify.com/album/324FrIkjqOJ7rwTS4vGarw) | 3:04 |
+| 18 | [What My Mama Told Me](https://open.spotify.com/track/7HLVfPFYRba4she3c0qIAp) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Harpslinger](https://open.spotify.com/album/324FrIkjqOJ7rwTS4vGarw) | 3:04 |
+| 19 | [Diggin' My Potatoes](https://open.spotify.com/track/7vsJLJHAYHRmovTbRTgRFx) | [Brownie McGhee](https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC), [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Wizard Of The Harmonica](https://open.spotify.com/album/5lDFjfrldTB4HSFWkDYUBw) | 3:37 |
 | 20 | [Bottle It Up and Go](https://open.spotify.com/track/5eHeHvy9wdvATbd7Wj4R8T) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Too Cool to Move](https://open.spotify.com/album/62xvQ20A7TCjo2ZeafeuJx) | 3:02 |
 | 21 | [The Wine Talkin'](https://open.spotify.com/track/4jwpFbAnl9e5fsMbhVZgjV) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Hail To The Kings!](https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA) | 3:49 |
 | 22 | [Ain't Seen My Baby](https://open.spotify.com/track/5r1gF2DneZC8pBL86SDarK) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF) | [Shoulder To Shoulder](https://open.spotify.com/album/6mHbgI7rA71VIDAgy2z1YV) | 3:22 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 34 | [Don't Bite the Hand That Feeds You](https://open.spotify.com/track/0Gjw2bx2khjm0OueuMFBKL) | [Kim Wilson](https://open.spotify.com/artist/3LkeAX21Tyb0t1CCAP5aq3) | [That's Life](https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii) | 4:16 |
 | 35 | [Going Back To Alabama](https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr) | [The Siegel\-Schwall Band](https://open.spotify.com/artist/09y7wEuZOxZyYi8suU6NEo) | [Flash Forward](https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv) | 3:39 |
 | 36 | [Need To Make A Dollar](https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J) | [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Alone With The Blues](https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ) | 2:51 |
-| 37 | [Dog Days of August](https://open.spotify.com/track/5gOxdOaXlIVrM0mlOEJ3hZ) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF), [John Cephas](https://open.spotify.com/artist/39gMpw4vsyl8CLCW6OZx97), [Phil Wiggins](https://open.spotify.com/artist/454ZmfE5h5JeoCksBvEymQ) | [Richmond Blues](https://open.spotify.com/album/3diP0MKxncGd7wi8ZMASFZ) | 4:11 |
-| 38 | [Bad Boys Heaven](https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj) | [Sugar Blue](https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE) | [Code Blue](https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD) | 9:08 |
+| 37 | [Bad Boys Heaven](https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj) | [Sugar Blue](https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE) | [Code Blue](https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD) | 9:08 |
+| 38 | [Dog Days of August](https://open.spotify.com/track/5gOxdOaXlIVrM0mlOEJ3hZ) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF), [John Cephas](https://open.spotify.com/artist/39gMpw4vsyl8CLCW6OZx97), [Phil Wiggins](https://open.spotify.com/artist/454ZmfE5h5JeoCksBvEymQ) | [Richmond Blues](https://open.spotify.com/album/3diP0MKxncGd7wi8ZMASFZ) | 4:11 |
 | 39 | [Honky Tonk Parts 1 & 2](https://open.spotify.com/track/4PDT7WnrEhcUB83qyY6JG0) | [Jerry "Boogie" McCain](https://open.spotify.com/artist/1sR4V8FLHoKLtkA68DP7do) | [Abolutely the Best: The Complete Jewel Singles 1965\-1972](https://open.spotify.com/album/4Vp7gTydgX0GiYyYOeJ3mJ) | 3:50 |
 | 40 | [Who's the Fool](https://open.spotify.com/track/6zIZH6unxpNPpOMLFEciiZ) | [Harmonica Shah](https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR) | [Live at the Cove](https://open.spotify.com/album/4ZrX2ckehiYbVGOSBNqbpF) | 5:37 |
 | 41 | [Callin' All Fools](https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [One Wrong Turn](https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl) | 5:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 49 | [Bluesy](https://open.spotify.com/track/078lhMIegYPNI58tyFn6o8) | [Louis Myers](https://open.spotify.com/artist/2MHJe9H2p09aSHJm7yrwNh) | [Blues Harp Hero](https://open.spotify.com/album/5lkj3Xw9Xw5VUY38BvTmXL) | 2:44 |
 | 50 | [You Got It](https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir) | [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Up All Night](https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN) | 3:14 |
 
-Snapshot ID: `MCwyYzU4ZTg4MGMwM2EzOTI1Mjc2ZjI0OTMwNGU5MDBiN2MzOTc5MzQ5`
+Snapshot ID: `MCw0NGZkMjNkM2JjODU1YmI3Zjg0MmYzOTA3OGM2OWU0NDliZDZmMTYw`

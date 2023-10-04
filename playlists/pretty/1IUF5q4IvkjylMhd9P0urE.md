@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,298 likes - 90 songs - 5 hr 22 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 15,304 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 47 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 |
 | 48 | [DIZZY PPL BECOME BLURRY](https://open.spotify.com/track/6aUgDqwXY6GqcHKvj3hSvv) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY](https://open.spotify.com/album/02FnZYyHb5AccBVtO4OnjV) | 1:58 |
 | 49 | [Flimsier](https://open.spotify.com/track/6IXan50zp9ZEdtkF0vsFAj) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/36tUlc8fGxaUTv4cLmC9UJ) | 3:59 |
-| 50 | [Bending Hectic](https://open.spotify.com/track/2tA4gq8tO9TPPPpbgK5n4w) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Bending Hectic](https://open.spotify.com/album/17lXqRgpU1SQ4glWoR7ABk) | 8:00 |
+| 50 | [Bending Hectic](https://open.spotify.com/track/2tA4gq8tO9TPPPpbgK5n4w) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Bending Hectic](https://open.spotify.com/album/17lXqRgpU1SQ4glWoR7ABk) | 8:03 |
 | 51 | [Abandon All Hope](https://open.spotify.com/track/1nKwN2fypWq43r0OUeJ5kx) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Abandon All Hope](https://open.spotify.com/album/4ylZeG92GetC46n8gU0o0l) | 3:46 |
 | 52 | [isitluv](https://open.spotify.com/track/2To7k5CWffVqCQhbhlZKzO) | [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Waiting 4 Life](https://open.spotify.com/album/5EWskri4Ymtm74wjH5aRPJ) | 3:57 |
 | 53 | [Double Tap](https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Double Tap](https://open.spotify.com/album/31cA2G8w5XuCbSLU8ccPiu) | 3:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 
 > ONE DREAM with TXT! Are you ready for a Sugar Rush Ride?
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,412 likes - 81 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,627 likes - 81 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 | 80 | [君じゃない誰かの愛し方 \(Ring\) \- Unplugged Ver.](https://open.spotify.com/track/0K1jAnEXaT5BPK6Q6z7WQT) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 3:25 |
 | 81 | [Outro : FALLING](https://open.spotify.com/track/4e6VsQ4MBI6hAFXMrEFSUV) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 2:09 |
 
-Snapshot ID: `MCxjYWNjNTBhMmNmOWZhOWU5ZWY3NjMwOThhZTZlNDk2NjEyYTFhYWMx`
+Snapshot ID: `MCw4NWZkYmRiZTQ4ZTc4OGRjZTYzYTIxYWMyZjI3N2NjNGY0OGQzZDg0`

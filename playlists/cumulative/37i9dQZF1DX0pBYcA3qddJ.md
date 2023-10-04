@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-559 songs - 1 day 13 hr 47 min
+560 songs - 1 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Autumn](https://open.spotify.com/track/6Ysl4gmI1ILiOBRsGJKoQ9) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Autumn](https://open.spotify.com/album/2N78beiPGNQuH4D3E3Gsfq) | 1:36 | 2023-09-19 | 2023-09-21 |
 | [Babylonia](https://open.spotify.com/track/2A7oXmM3Xmiick54UNgtmB) | [Osteoleuco](https://open.spotify.com/artist/42u1RJUE0BhUW7VkXntJ99) | [Babylonia](https://open.spotify.com/album/1De6SSZ08u82FIBspPG68M) | 2:46 | 2022-12-13 | 2023-02-15 |
 | [Bardenklänge, Book 3: No\. 1, An die Entfernte](https://open.spotify.com/track/5Yuwz1gwWZp37ldoSzB0eZ) | [Johann Kaspar Mertz](https://open.spotify.com/artist/06ZJnihZcaNruiWz4KWbRx), [Yasuji Ohagi](https://open.spotify.com/artist/1VMxb6VCRfw7GNnlIGRlnN) | [Cantilène](https://open.spotify.com/album/4ZqH7IIqmsH3wOqqIbaMTe) | 4:14 | 2023-09-14 |  |
+| [Bath＆Frog \(風呂と蛙\)](https://open.spotify.com/track/4UaiMmr3Rqlylaiv2gSFSb) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Undercurrent](https://open.spotify.com/album/4MKH2kAjS3SgTPm4HICzWJ) | 3:07 | 2023-10-03 |  |
 | [Be On Your Way](https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Be On Your Way](https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl) | 4:04 | 2023-01-10 | 2023-04-10 |
 | [Be On Your Way](https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:04 | 2023-04-18 | 2023-08-27 |
 | [Belief](https://open.spotify.com/track/4NEQrLQUbGX5XZtJzlXkgP) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Sentimental Days](https://open.spotify.com/album/0b1GNpqsnogyIWlpXB2Zi1) | 2:32 | 2023-02-28 | 2023-03-25 |
@@ -464,7 +465,7 @@
 | [Violin Concerto, Op\. 30: If\. Studio V \- Per gli armonici\. Andante](https://open.spotify.com/track/3B87yX3OSqvLKhvHVKPhfv) | [Alberto Ginastera](https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX), [Frankfurt Radio Symphony Orchestra](https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ), [Andrés Orozco\-Estrada](https://open.spotify.com/artist/5NL2rslgSdYEMujmzqJDO2) | [Ginastera: Violin Concerto, Op\. 30: If\. Studio V \- Per gli armonici\. Andante](https://open.spotify.com/album/56JMy4PIDBd7ZSGR0cKuIt) | 2:14 | 2022-10-20 | 2022-11-23 |
 | [Violin Sonata No\. 1 in D Minor, Op\. 75, R\. 123: II\. Adagio](https://open.spotify.com/track/76zq5F4boCeUXEhxFGPUY9) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [尾池亜美](https://open.spotify.com/artist/3cS5HS2INEMFnSOXCqcZrq), [Takaya Sano](https://open.spotify.com/artist/2RemI5LukbaAX28U1HQzFg) | [French Romanticism](https://open.spotify.com/album/7LlIFbfuWFbB9HliLNU6xj) | 5:48 | 2022-10-20 |  |
 | [Voyage](https://open.spotify.com/track/5T9jY8XY5uAkewdYMjDdYi) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Voyage](https://open.spotify.com/album/1zyRsUPkb552Z6f4w0dvM4) | 2:39 | 2022-12-01 | 2023-03-01 |
-| [Voyage](https://open.spotify.com/track/6ayNdgQ7ISIGQW6TBelkKl) | [Ichiro Takamoto](https://open.spotify.com/artist/0e6KRrsS9hkrOFoj5fFvFa) | [シャコンヌ・オリエンターレ2](https://open.spotify.com/album/4nuVKjPj8d7HqX8VhOgJsh) | 5:14 | 2022-10-20 |  |
+| [Voyage](https://open.spotify.com/track/6ayNdgQ7ISIGQW6TBelkKl) | [Ichiro Takamoto](https://open.spotify.com/artist/0e6KRrsS9hkrOFoj5fFvFa) | [シャコンヌ・オリエンターレ2](https://open.spotify.com/album/4nuVKjPj8d7HqX8VhOgJsh) | 5:14 | 2022-10-20 | 2023-10-04 |
 | [Walking in The Air](https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Walking in The Air](https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51) | 3:59 | 2022-12-13 | 2023-04-04 |
 | [Waltz in Bb Minor](https://open.spotify.com/track/5d7h5dhyoncJuJmg0jV5gU) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Waltz in Bb Minor](https://open.spotify.com/album/4gUcfKjoa7FJeeGIcvHCMz) | 2:06 | 2022-12-01 | 2023-02-15 |
 | [Waltz in C Minor](https://open.spotify.com/track/74cR0Tj6N0Nq0doikA0sb0) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Harmonism I](https://open.spotify.com/album/2XOeI9TVCRZL28H4F5CYSm) | 2:20 | 2023-09-14 |  |

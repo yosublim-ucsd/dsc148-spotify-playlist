@@ -4,7 +4,7 @@
 
 > 아이브의 \[SHOW WHAT I HAVE\] 콘서트를 기대하며 아이브의 대표곡들을 만나보세요!
 
-26 songs - 1 hr 19 min
+29 songs - 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,9 @@
 | [Queen of Hearts](https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN) | 2:25 | 2023-10-02 |  |
 | [ROYAL](https://open.spotify.com/track/0LMdtBOxbVgrYoA4n0Vwvv) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 3:26 | 2023-10-02 |  |
 | [Shine With Me](https://open.spotify.com/track/3L7pilDxJhZz1fP6t4D9P9) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:44 | 2023-10-02 |  |
+| [Special Message from ANYUJIN & GAEUL](https://open.spotify.com/track/4AUoxg1vZ58g3zszXQmEbg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE WORLD TOUR 'SHOW WHAT I HAVE' audio liners](https://open.spotify.com/album/6uRx10gQsZLicCXIQSnfYE) | 0:20 | 2023-10-03 |  |
+| [Special Message from JANGWONYOUNG & LEESEO](https://open.spotify.com/track/3OaRK05xLLKSDXDmP3hAjh) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE WORLD TOUR 'SHOW WHAT I HAVE' audio liners](https://open.spotify.com/album/6uRx10gQsZLicCXIQSnfYE) | 0:21 | 2023-10-03 |  |
+| [Special Message from LIZ & REI](https://open.spotify.com/track/3SNVpUJeIHDgrr0KgwDbLo) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE WORLD TOUR 'SHOW WHAT I HAVE' audio liners](https://open.spotify.com/album/6uRx10gQsZLicCXIQSnfYE) | 0:25 | 2023-10-03 |  |
 | [Take It](https://open.spotify.com/track/70EfheCNy3zOrcT2meMQ1g) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 3:24 | 2023-10-02 |  |
 | [WAVE](https://open.spotify.com/track/2FNgoGLkE4AAOtYkQfiVL4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [WAVE](https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA) | 2:55 | 2023-10-02 |  |
 | [궁금해 \(Next Page\)](https://open.spotify.com/track/5vYsQareJoW2jRJjiTFo6K) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:19 | 2023-10-02 |  |

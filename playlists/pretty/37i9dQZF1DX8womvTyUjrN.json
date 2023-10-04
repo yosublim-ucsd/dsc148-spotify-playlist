@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Manuel Medrano ",
-  "num_followers": 285799,
+  "num_followers": 285867,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGQ4ZDlhMmJmYzAwNjZlYThlN2Q1OGYzMGJjMjBhOWQ2ODc4MzE5",
+  "snapshot_id": "MCxhNjIyNjdkZDg0NTliYTgzYTI0YjhjY2NlNDNlOTg4MzEzMDY2ODNh",
   "tracks": [
     {
       "added_at": "2023-09-29 15:55:35",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-09-29 15:55:35",
       "album": {
-        "name": "solo x ti (Remix)",
-        "url": "https://open.spotify.com/album/7xVcOKGRAPLBUk2uLzqk0W"
-      },
-      "artists": [
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        },
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 188380,
-      "name": "solo x ti - Remix",
-      "url": "https://open.spotify.com/track/4SHCYN7oI5bMzMFUF4RrNj"
-    },
-    {
-      "added_at": "2023-09-29 15:55:35",
-      "album": {
         "name": "Besos y Pendientes",
         "url": "https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 171680,
       "name": "Besos y Pendientes",
       "url": "https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj"
+    },
+    {
+      "added_at": "2023-09-29 15:55:35",
+      "album": {
+        "name": "solo x ti (Remix)",
+        "url": "https://open.spotify.com/album/7xVcOKGRAPLBUk2uLzqk0W"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 188380,
+      "name": "solo x ti - Remix",
+      "url": "https://open.spotify.com/track/4SHCYN7oI5bMzMFUF4RrNj"
     },
     {
       "added_at": "2023-09-29 15:55:35",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-09-29 15:55:35",
       "album": {
-        "name": "B\u00f3rrame",
-        "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "B\u00f3rrame",
-      "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
-    },
-    {
-      "added_at": "2023-09-29 15:55:35",
-      "album": {
         "name": "MUCHO TXT",
         "url": "https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 149777,
       "name": "Multiverso (feat. Jay Wheeler)",
       "url": "https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1"
+    },
+    {
+      "added_at": "2023-09-29 15:55:35",
+      "album": {
+        "name": "B\u00f3rrame",
+        "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "B\u00f3rrame",
+      "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
     },
     {
       "added_at": "2023-09-29 15:55:35",

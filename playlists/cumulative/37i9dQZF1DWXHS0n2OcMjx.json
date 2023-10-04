@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 143376,
       "name": "Dear Mom",
       "url": "https://open.spotify.com/track/6V7trMvgFjmvsZ6dI5sslz"
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 93800,
       "name": "Dedication",
       "url": "https://open.spotify.com/track/5OuHw5SfiGMtF7qrvrTw01"
@@ -2776,7 +2776,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 216688,
       "name": "Friday",
       "url": "https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe"
@@ -3558,7 +3558,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 196918,
       "name": "Horizon mind",
       "url": "https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b"
@@ -3598,6 +3598,24 @@
       "duration_ms": 119500,
       "name": "Hurricane Season",
       "url": "https://open.spotify.com/track/0vj6E1gDIeIMSh4Eyvyv62"
+    },
+    {
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/4YcojIOuGGewmDv8jMKKay"
+      },
+      "artists": [
+        {
+          "name": "Dip Lewis",
+          "url": "https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4AAxteXXwBqVchz26932uB"
     },
     {
       "album": {
@@ -4410,7 +4428,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 168250,
       "name": "Loafing About",
       "url": "https://open.spotify.com/track/0v7hjhp5gLUl2Z6owHK8ao"
@@ -4558,7 +4576,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 132263,
       "name": "lucid air",
       "url": "https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj"
@@ -5168,7 +5186,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 155151,
       "name": "my garden",
       "url": "https://open.spotify.com/track/5on1wGhJ1vseh68mtI5JOF"
@@ -5862,7 +5880,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 177352,
       "name": "Parallax",
       "url": "https://open.spotify.com/track/2wtAveNu0CDS788jUw9vT1"
@@ -6926,6 +6944,24 @@
       "duration_ms": 147110,
       "name": "Scootaloo",
       "url": "https://open.spotify.com/track/6pPdSiA17dUM773DCRFhUx"
+    },
+    {
+      "album": {
+        "name": "Sea of Thoughts",
+        "url": "https://open.spotify.com/album/795sBvT2shhNGKZJoEcb6B"
+      },
+      "artists": [
+        {
+          "name": "Soft Vessels",
+          "url": "https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Sea of Thoughts",
+      "url": "https://open.spotify.com/track/22z4OBkJ2VmGA7dSssWsy7"
     },
     {
       "album": {
@@ -8077,6 +8113,24 @@
     },
     {
       "album": {
+        "name": "the neighborhood",
+        "url": "https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz"
+      },
+      "artists": [
+        {
+          "name": "ninetytwo.",
+          "url": "https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "the neighborhood",
+      "url": "https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0"
+    },
+    {
+      "album": {
         "name": "The Night Cruise",
         "url": "https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo"
       },
@@ -8092,6 +8146,24 @@
       "duration_ms": 137143,
       "name": "The Night Cruise",
       "url": "https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7"
+    },
+    {
+      "album": {
+        "name": "Their Name Is Jazz",
+        "url": "https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj"
+      },
+      "artists": [
+        {
+          "name": "yoranda",
+          "url": "https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135385,
+      "name": "Their Name Is Jazz",
+      "url": "https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g"
     },
     {
       "album": {
@@ -8254,7 +8326,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 141952,
       "name": "Timing",
       "url": "https://open.spotify.com/track/6XdulSZx2waNFqtpZE1hL3"
@@ -8737,6 +8809,24 @@
     },
     {
       "album": {
+        "name": "Walk in the Park",
+        "url": "https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT"
+      },
+      "artists": [
+        {
+          "name": "NogEgg",
+          "url": "https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Walk in the Park",
+      "url": "https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG"
+    },
+    {
+      "album": {
         "name": "Walk The Dog",
         "url": "https://open.spotify.com/album/306HMpP6yrynuST9JxQVoj"
       },
@@ -8961,6 +9051,24 @@
     },
     {
       "album": {
+        "name": "I Recognize",
+        "url": "https://open.spotify.com/album/0m84fp41o0EaSIf9SInbIo"
+      },
+      "artists": [
+        {
+          "name": "Sid Southside",
+          "url": "https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "When I Get A Lil' Older",
+      "url": "https://open.spotify.com/track/18vC8S9aI8kUMW49pJHdZR"
+    },
+    {
+      "album": {
         "name": "When Our Eyes Meet",
         "url": "https://open.spotify.com/album/7l7LGXNNY3M65UX5SgS9PV"
       },
@@ -9048,7 +9156,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 86000,
       "name": "Wings",
       "url": "https://open.spotify.com/track/63daV8ZkxFe70vRXyTwQL3"

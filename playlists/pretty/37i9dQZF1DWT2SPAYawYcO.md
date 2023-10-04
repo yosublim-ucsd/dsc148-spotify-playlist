@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,988 likes - 82 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,056 likes - 82 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 81 | [These Words](https://open.spotify.com/track/4LsWhBz3lp4JmZPr5O9KVc) | [Mia Dyson](https://open.spotify.com/artist/5QSZl73T85ZpZGAHSDIED6) | [These Words](https://open.spotify.com/album/3ksBZUgI5srUWGxOoXZKtt) | 2:13 |
 | 82 | [LEX LUGER](https://open.spotify.com/track/0JBng49doSSmKs21rJ2sAa) | [Rob the Bank](https://open.spotify.com/artist/71j9zpBeJVBnPLE5kIzJrE) | [LEX LUGER](https://open.spotify.com/album/0RIGa1mG2ITzln0Ecoz5io) | 2:35 |
 
-Snapshot ID: `MCw5MzcwN2JmYTdlMjUxOGUxNjUxYmFkODNmNzA3ZDQzOWM3ZGMxZWUz`
+Snapshot ID: `MCw1NGM5MThkMTRmNjc5ZGEzMDY4MzMwZDc5MDQ2M2UzYTRmZDUzYzY1`

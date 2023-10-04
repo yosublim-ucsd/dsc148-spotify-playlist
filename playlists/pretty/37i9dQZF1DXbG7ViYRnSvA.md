@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,993 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,031 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 23 | [Another Star](https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 8:28 |
 | 24 | [Never Let Me Down](https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:24 |
 | 25 | [You Know How to Make Me Feel so Good](https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [Wake Up Everybody](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 5:16 |
-| 26 | [I'm Illy](https://open.spotify.com/track/3iNYQG2B6aBRnaCEOdNGbc) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:06 |
-| 27 | [How Do You Love Me](https://open.spotify.com/track/5kBDtZCd2AfdumMJgqk5QM) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Hours Spent Loving You](https://open.spotify.com/album/3zjUZQika2ragt7FweAQzB) | 2:46 |
+| 26 | [How Do You Love Me](https://open.spotify.com/track/5kBDtZCd2AfdumMJgqk5QM) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Hours Spent Loving You](https://open.spotify.com/album/3zjUZQika2ragt7FweAQzB) | 2:46 |
+| 27 | [I'm Illy](https://open.spotify.com/track/3iNYQG2B6aBRnaCEOdNGbc) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:06 |
 | 28 | [Maiysha \(So Long\) \(feat\. Erykah Badu\)](https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 7:29 |
 | 29 | [Charlotte's Thong](https://open.spotify.com/track/2Lnnp5z8ZdLDHryhwkT7GD) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA) | [Jassbusters](https://open.spotify.com/album/13xEigGY8YQfqfRt3CrIkX) | 8:56 |
 | 30 | [I Put A Spell On You](https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [NINA REVISITED: A Tribute to Nina Simone](https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL) | 6:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 49 | [Just Chill](https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [The Mayhem Machine](https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK) | 4:17 |
 | 50 | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/track/5ZXrVNnQoKEMLcZ1s6Davv) | [Apryl Sashay](https://open.spotify.com/artist/4oqYiNYjquQyQbYShsS3lf) | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/album/6RA2KhowTm52zctoAWF90v) | 3:35 |
 
-Snapshot ID: `MCw1ZWE0MzBhZjVkMTI2ZDJjN2EyYTBjODVhZWMzMDBlZDBmNWVmMmYz`
+Snapshot ID: `MCw5YjY2MGY5MmY3NjIxNDFhMDNiNzBjYjcxODNhMjcyMzk2NmIxMjFm`

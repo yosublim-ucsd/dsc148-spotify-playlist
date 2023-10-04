@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 101272,
+  "num_followers": 101426,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGVmNTZkMGFiODc1NWY1MzQ4YzdmNjkzODk0M2FiNTkxY2IzNTRl",
+  "snapshot_id": "MCw4NWM3YWEwMzVjYmZlMzMwYjY5ODU3ODEzNDE5YjY0NjE4MGIzNGYy",
   "tracks": [
     {
       "added_at": "2023-09-29 15:34:21",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-09-29 15:34:21",
       "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM"
-    },
-    {
-      "added_at": "2023-09-29 15:34:21",
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 132213,
       "name": "Broken is the man",
       "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
+    },
+    {
+      "added_at": "2023-09-29 15:34:21",
+      "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM"
     },
     {
       "added_at": "2023-09-29 15:34:21",
@@ -227,22 +227,18 @@
     {
       "added_at": "2023-09-29 15:34:21",
       "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 265906,
-      "name": "New Type (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
+      "duration_ms": 204920,
+      "name": "Falling or flying",
+      "url": "https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ"
     },
     {
       "added_at": "2023-09-29 15:34:21",
@@ -263,18 +259,22 @@
     {
       "added_at": "2023-09-29 15:34:21",
       "album": {
-        "name": "GLU",
-        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 262711,
-      "name": "GLU",
-      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
+      "duration_ms": 265906,
+      "name": "New Type (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
     },
     {
       "added_at": "2023-09-29 15:34:21",
@@ -291,6 +291,22 @@
       "duration_ms": 130981,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
+    },
+    {
+      "added_at": "2023-09-29 15:34:21",
+      "album": {
+        "name": "GLU",
+        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 262711,
+      "name": "GLU",
+      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
     },
     {
       "added_at": "2023-09-29 15:34:21",
@@ -347,22 +363,6 @@
     {
       "added_at": "2023-09-29 15:34:21",
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Falling or flying",
-      "url": "https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ"
-    },
-    {
-      "added_at": "2023-09-29 15:34:21",
-      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
       },
@@ -415,30 +415,6 @@
     {
       "added_at": "2023-09-29 15:34:21",
       "album": {
-        "name": "Back To Love [Feat. SiR & Alex Isley]",
-        "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Back To Love [Feat. SiR & Alex Isley]",
-      "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
-    },
-    {
-      "added_at": "2023-09-29 15:34:21",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -459,22 +435,26 @@
     {
       "added_at": "2023-09-29 15:34:21",
       "album": {
-        "name": "Heaux Tales",
-        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+        "name": "Back To Love [Feat. SiR & Alex Isley]",
+        "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
       },
       "artists": [
         {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         },
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 205000,
-      "name": "On It",
-      "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
+      "duration_ms": 201773,
+      "name": "Back To Love [Feat. SiR & Alex Isley]",
+      "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
     },
     {
       "added_at": "2023-09-29 15:34:21",
@@ -507,6 +487,26 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2023-09-29 15:34:21",
+      "album": {
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
     },
     {
       "added_at": "2023-09-29 15:34:21",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-09-29 15:34:21",
       "album": {
-        "name": "Deeper",
-        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 214455,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
-    },
-    {
-      "added_at": "2023-09-29 15:34:21",
-      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2023-09-29 15:34:21",
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 214455,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
+    },
+    {
+      "added_at": "2023-09-29 15:34:21",
+      "album": {
         "name": "Feelings 4 You",
         "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
       },
@@ -627,38 +627,6 @@
       "duration_ms": 256202,
       "name": "Feelings 4 You",
       "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
-    },
-    {
-      "added_at": "2023-09-29 15:34:21",
-      "album": {
-        "name": "Right Back In It",
-        "url": "https://open.spotify.com/album/6LDfHzJYzCoJzKvDSjOFIk"
-      },
-      "artists": [
-        {
-          "name": "Leela James",
-          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
-        }
-      ],
-      "duration_ms": 222588,
-      "name": "Right Back In It",
-      "url": "https://open.spotify.com/track/6v3SMTdZiexZt12g6rG5v1"
-    },
-    {
-      "added_at": "2023-09-29 15:34:21",
-      "album": {
-        "name": "A Muse In Her Feelings",
-        "url": "https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 222089,
-      "name": "A Muse",
-      "url": "https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl"
     },
     {
       "added_at": "2023-09-29 15:34:21",
@@ -679,6 +647,38 @@
       "duration_ms": 247426,
       "name": "Voicemail (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD"
+    },
+    {
+      "added_at": "2023-09-29 15:34:21",
+      "album": {
+        "name": "A Muse In Her Feelings",
+        "url": "https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 222089,
+      "name": "A Muse",
+      "url": "https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl"
+    },
+    {
+      "added_at": "2023-09-29 15:34:21",
+      "album": {
+        "name": "Right Back In It",
+        "url": "https://open.spotify.com/album/6LDfHzJYzCoJzKvDSjOFIk"
+      },
+      "artists": [
+        {
+          "name": "Leela James",
+          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
+        }
+      ],
+      "duration_ms": 222588,
+      "name": "Right Back In It",
+      "url": "https://open.spotify.com/track/6v3SMTdZiexZt12g6rG5v1"
     },
     {
       "added_at": "2023-09-29 15:34:21",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-29 15:34:21",
       "album": {
-        "name": "Live at VEVO",
-        "url": "https://open.spotify.com/album/1auqYOyeliYPBgTAhBpQsl"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 158249,
-      "name": "dumb luck (Live at VEVO)",
-      "url": "https://open.spotify.com/track/0M3zo2dGoxG1hMzOWlJQ8U"
-    },
-    {
-      "added_at": "2023-09-29 15:34:21",
-      "album": {
         "name": "But You Caint Use My Phone (Mixtape)",
         "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 310809,
       "name": "What\u2019s Yo Phone Number / Telephone - Medley / Ghost Of Screw Mix",
       "url": "https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM"
+    },
+    {
+      "added_at": "2023-09-29 15:34:21",
+      "album": {
+        "name": "Live at VEVO",
+        "url": "https://open.spotify.com/album/1auqYOyeliYPBgTAhBpQsl"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 158249,
+      "name": "dumb luck (Live at VEVO)",
+      "url": "https://open.spotify.com/track/0M3zo2dGoxG1hMzOWlJQ8U"
     },
     {
       "added_at": "2023-09-29 15:34:21",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-09-29 15:34:21",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
-      },
-      "artists": [
-        {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
-        }
-      ],
-      "duration_ms": 186294,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
-    },
-    {
-      "added_at": "2023-09-29 15:34:21",
-      "album": {
         "name": "No Love Song",
         "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 239173,
       "name": "No Love Song",
       "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
+    },
+    {
+      "added_at": "2023-09-29 15:34:21",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "duration_ms": 186294,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
     },
     {
       "added_at": "2023-09-29 15:34:21",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-09-29 15:34:21",
       "album": {
-        "name": "FYF",
-        "url": "https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 173464,
-      "name": "FYF",
-      "url": "https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE"
-    },
-    {
-      "added_at": "2023-09-29 15:34:21",
-      "album": {
         "name": "Love and Be Loved",
         "url": "https://open.spotify.com/album/3ynGv03Sdz2FIWxsLPhVJ3"
       },
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2023-09-29 15:34:21",
       "album": {
+        "name": "FYF",
+        "url": "https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 173464,
+      "name": "FYF",
+      "url": "https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE"
+    },
+    {
+      "added_at": "2023-09-29 15:34:21",
+      "album": {
         "name": "Let Me See Your Phone",
         "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
       },
@@ -1471,26 +1471,6 @@
       "duration_ms": 202371,
       "name": "Let Me See Your Phone",
       "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
-    },
-    {
-      "added_at": "2023-09-29 15:34:21",
-      "album": {
-        "name": "Type Of Day",
-        "url": "https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z"
-      },
-      "artists": [
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 187541,
-      "name": "Type Of Day",
-      "url": "https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI"
     },
     {
       "added_at": "2023-09-29 15:34:21",
@@ -1511,6 +1491,26 @@
       "duration_ms": 209773,
       "name": "GODDESS REIGN",
       "url": "https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys"
+    },
+    {
+      "added_at": "2023-09-29 15:34:21",
+      "album": {
+        "name": "Type Of Day",
+        "url": "https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 187541,
+      "name": "Type Of Day",
+      "url": "https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI"
     },
     {
       "added_at": "2023-09-29 15:34:21",

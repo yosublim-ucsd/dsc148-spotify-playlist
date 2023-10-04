@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 4447,
+  "num_followers": 4459,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTNjOWI3NzJhY2ZiNDU0ODM3Mzc3ZDBjZmYwNjc5YmZjMGRkNzBk",
+  "snapshot_id": "MCxlOGEwNjgzYTRhZGQwYjU4ZGU5NjczOWMxNzAxOTAxOTFmYWY2NTY5",
   "tracks": [
     {
       "added_at": "2023-09-29 05:33:30",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-09-29 05:33:30",
       "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Songs About You",
-      "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
-    },
-    {
-      "added_at": "2023-09-29 05:33:30",
-      "album": {
         "name": "Buck",
         "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 124986,
       "name": "Whatever Turns You On",
       "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
+    },
+    {
+      "added_at": "2023-09-29 05:33:30",
+      "album": {
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Songs About You",
+      "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
     },
     {
       "added_at": "2023-09-29 05:33:30",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-29 05:33:30",
       "album": {
-        "name": "The Green Stone",
-        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "I Waited for You",
-      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
-    },
-    {
-      "added_at": "2023-09-29 05:33:30",
-      "album": {
         "name": "The Returner",
         "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 230920,
       "name": "The Returner",
       "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
+    },
+    {
+      "added_at": "2023-09-29 05:33:30",
+      "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
     },
     {
       "added_at": "2023-09-29 05:33:30",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-09-29 05:33:30",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
-    },
-    {
-      "added_at": "2023-09-29 05:33:30",
-      "album": {
         "name": "Sugah Rush",
         "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-09-29 05:33:30",
       "album": {
-        "name": "Gonna Shine",
-        "url": "https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi"
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
       },
       "artists": [
         {
-          "name": "The Georgia Thunderbolts",
-          "url": "https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 241906,
-      "name": "Gonna Shine",
-      "url": "https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW"
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
     },
     {
       "added_at": "2023-09-29 05:33:30",
@@ -695,6 +679,22 @@
       "duration_ms": 204800,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
+    },
+    {
+      "added_at": "2023-09-29 05:33:30",
+      "album": {
+        "name": "Gonna Shine",
+        "url": "https://open.spotify.com/album/56d6RiEgQQBFlkuEx6lmAi"
+      },
+      "artists": [
+        {
+          "name": "The Georgia Thunderbolts",
+          "url": "https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Gonna Shine",
+      "url": "https://open.spotify.com/track/5DmCE0x0NldbgmjClh3qRW"
     },
     {
       "added_at": "2023-09-29 05:33:30",

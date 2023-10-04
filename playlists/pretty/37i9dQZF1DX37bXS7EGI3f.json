@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 749124,
+  "num_followers": 749290,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDUxYTY0ZmQ4OTQ4YTYxNDQxYzlmZTcyZTRiMWE1MjI1M2U5Mzc3",
+  "snapshot_id": "MCw0ZDJkMDY3ZTlhNWU4ZTlmN2MzOWExN2NlZDFjODM3MDI2YjU0NTgz",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Love Reign O'er Me",
-        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
-      },
-      "artists": [
-        {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Love Reign O'er Me",
-      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Dark Waters",
         "url": "https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs"
       },
@@ -683,18 +663,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Chapter III - Downfall",
-        "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
+        "name": "Love Reign O'er Me",
+        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
       },
       "artists": [
         {
-          "name": "Ad Infinitum",
-          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
         }
       ],
-      "duration_ms": 234346,
-      "name": "Eternal Rains",
-      "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
+      "duration_ms": 240106,
+      "name": "Love Reign O'er Me",
+      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 199000,
       "name": "Feed the Fire",
       "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Chapter III - Downfall",
+        "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
+      },
+      "artists": [
+        {
+          "name": "Ad Infinitum",
+          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Eternal Rains",
+      "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Invaders",
-        "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
-      },
-      "artists": [
-        {
-          "name": "Civil War",
-          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Summer Wine",
         "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 245444,
       "name": "Summer Wine",
       "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Invaders",
+        "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
+      },
+      "artists": [
+        {
+          "name": "Civil War",
+          "url": "https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
       },
       "artists": [
         {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+          "name": "Dark Princess",
+          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
         }
       ],
-      "duration_ms": 314414,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+      "duration_ms": 182479,
+      "name": "My Shadow Self",
+      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
+        "name": "Pop Metal",
+        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
       "artists": [
         {
-          "name": "Dark Princess",
-          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
+          "name": "Memoremains",
+          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
         }
       ],
-      "duration_ms": 182479,
-      "name": "My Shadow Self",
-      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
+      "duration_ms": 191999,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Pop Metal",
-        "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
       },
       "artists": [
         {
-          "name": "Memoremains",
-          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
         }
       ],
-      "duration_ms": 191999,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
+      "duration_ms": 314414,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Now Is the Time",
+        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
+      },
+      "artists": [
+        {
+          "name": "Power Quest",
+          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
+        }
+      ],
+      "duration_ms": 378549,
+      "name": "Now Is the Time",
+      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Now Is the Time",
-        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
+        "name": "Warning Sign",
+        "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
       },
       "artists": [
         {
-          "name": "Power Quest",
-          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
+          "name": "Dark Sarah",
+          "url": "https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk"
         }
       ],
-      "duration_ms": 378549,
-      "name": "Now Is the Time",
-      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
+      "duration_ms": 259068,
+      "name": "Warning Sign",
+      "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 261933,
       "name": "Altar of Power",
       "url": "https://open.spotify.com/track/0VwzxtkLcWVsFwdLSHfHfX"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Warning Sign",
-        "url": "https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH"
-      },
-      "artists": [
-        {
-          "name": "Dark Sarah",
-          "url": "https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk"
-        }
-      ],
-      "duration_ms": 259068,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1299,6 +1299,38 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "The Beast Has Awoken",
+        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
+      },
+      "artists": [
+        {
+          "name": "Hate World Hero",
+          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "The Beast Has Awoken",
+      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Juokse Sin\u00e4 Humma",
+        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 196636,
+      "name": "Juokse Sin\u00e4 Humma",
+      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Queen of Shadow",
         "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
       },
@@ -1335,22 +1367,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Beast Has Awoken",
-        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
-      },
-      "artists": [
-        {
-          "name": "Hate World Hero",
-          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
-        }
-      ],
-      "duration_ms": 213473,
-      "name": "The Beast Has Awoken",
-      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "My Father's Son",
         "url": "https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 303253,
       "name": "Breathing Divinity",
       "url": "https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Juokse Sin\u00e4 Humma",
-        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 196636,
-      "name": "Juokse Sin\u00e4 Humma",
-      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
     }
   ],
   "unique_name": "Epic & Melodic",

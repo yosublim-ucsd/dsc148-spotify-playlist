@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > Italian funk, disco and jazz, recent and old—to listen to while you have aperitivo on a rooftop, ideally 🌅
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,244 likes - 74 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,295 likes - 74 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 73 | [La Isla Bonita](https://open.spotify.com/track/1OueK4M0n2c6FACkCZpjoZ) | [Tuccio D'amico](https://open.spotify.com/artist/4Hqzd7jUdItiVpEFpJfrY3) | [San Valentino](https://open.spotify.com/album/0daLM5GqO8yOnss7LYSGNk) | 3:22 |
 | 74 | [La spiaggia incantata \(Seq.1, Titoli di testa\)](https://open.spotify.com/track/0q8GmIh3nYVnHWdr8KI5nf) | [Carlo Rustichelli](https://open.spotify.com/artist/4zPqGt9888ogJunfNtXubd) | [L'isola di Arturo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O2AnAOBMbWyX99vnl73m1) | 2:02 |
 
-Snapshot ID: `MCw0YTkzMWU4ZmYzYTRiMzM2ZjJkZjdhZDc4YjM3MzMzYTI5MmJjMTBk`
+Snapshot ID: `MCxkNGNhZGI2MzJhOWUyNzQ0Y2JlN2QyNDFlNWNlYzA1ZmMzZGZjYTU4`

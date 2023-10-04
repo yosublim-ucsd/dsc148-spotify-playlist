@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Earl Sweatshirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,623,528 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,623,573 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 44 | [Harlem World 97 \(feat\. Estelle\)](https://open.spotify.com/track/66c6S7LLdZ6V4LdqnB1k2M) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Harlem World 97 \(feat\. Estelle\)](https://open.spotify.com/album/0pOSCZ2yuQhY5qBYnbAwjF) | 2:17 |
 | 45 | [Woke Up and Asked Siri How I'm Gonna Die](https://open.spotify.com/track/5YAgSjM22pJzOOwN7261Uh) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Woke Up and Asked Siri How I'm Gonna Die](https://open.spotify.com/album/5hKMFGdqaeJEbxpghERhsF) | 2:41 |
 | 46 | [Runway](https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [Runway](https://open.spotify.com/album/5pKCdjwCiOVwVVy28d2sFV) | 3:06 |
-| 47 | [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 |
+| 47 | [Sicilian Gold](https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Soul Assassins 3: Death Valley](https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD) | 1:54 |
 | 48 | [Andre 3000 \(feat\. Bangladesh\)](https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [7xvethegenius](https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5), [Bangladesh](https://open.spotify.com/artist/0lKIUVjGFoPfBH6nXfudEx) | [Conway The Machine Presents: Drumwork The Album](https://open.spotify.com/album/23duSQFjfpcwNRHhYJmT2L) | 4:29 |
-| 49 | [Sicilian Gold](https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Soul Assassins 3: Death Valley](https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD) | 1:54 |
+| 49 | [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 |
 | 50 | [Soft Landing](https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 2:53 |
 
-Snapshot ID: `MCxlYzhhMDI3ODAxZGU4MDBjZDc1MTRjNjhmODJiNGI2YTVmNGE4OTEw`
+Snapshot ID: `MCw5MjQwMjM1NTYyNzFlMzRkNTIxNzQ0ZGVkMmVlOTcxNTIzY2YwMjk5`

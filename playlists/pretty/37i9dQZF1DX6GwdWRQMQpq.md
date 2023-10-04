@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,944,959 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,945,746 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Don't Play With It \(feat\. Latto & Yung Miami\) \- Remix](https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Don't Play With It \(feat\. Latto & Yung Miami\) \[Remix\]](https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC) | 2:59 |
 | 50 | [Get It](https://open.spotify.com/track/379Bq2UYx6X6NagvNjZLSX) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [RESILIENCE](https://open.spotify.com/album/6oq03SmM5eN38iNZOFpjmx) | 2:53 |
 
-Snapshot ID: `MCw2YzQ0YmU5OTlmODYyZWQ4ZTE1YTVmOTA2ZjY0NDVjMjk3YTU3ZWM2`
+Snapshot ID: `MCw0MjYzYjVhZGQ3MjA3YzAxNDFlYTk0NGE1ZGZlZmVlYzQxZWMyNTlh`

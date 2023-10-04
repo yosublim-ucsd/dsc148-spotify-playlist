@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,411 likes - 76 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237,479 likes - 76 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 75 | [Heat](https://open.spotify.com/track/6uffqxl4bVeg3rPGDqctxq) | [Duske](https://open.spotify.com/artist/6VfL0NK2Mqt7OWXP6j2YZi), [Faithman](https://open.spotify.com/artist/67TlEACho22Dbu27Q3upti) | [Heat](https://open.spotify.com/album/5S1h4L00DB6P9IIRwjVfO9) | 3:23 |
 | 76 | [Bron Bron](https://open.spotify.com/track/2BcdzkJwckG25nk6PAYlqu) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Bron Bron](https://open.spotify.com/album/0RarRuW8t6Q3oRPZYFapDt) | 2:37 |
 
-Snapshot ID: `MCxlMjcyMWZhM2UzMzI1NGQyNmQyZTA5NDY4OTQwNzIxNTU5NzZkYzM1`
+Snapshot ID: `MCw1NjIxOGQ4MWMxMmVlNDUyNWMwODlkYjllZmY2ZTBlM2QyZTM1MGU0`

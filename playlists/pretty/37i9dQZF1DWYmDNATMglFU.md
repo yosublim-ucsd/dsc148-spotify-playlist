@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. landon barker
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,427 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,426 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [17250](https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:31 |
 | 80 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 |
 
-Snapshot ID: `MCxjYWZhNjg3ZmEyMDk1NGJmMDIxYTBjYmUwOWQ5Zjk2OTgyNGMzYzYw`
+Snapshot ID: `MCxhNTZmZjVlNzMwNGFmNGZmNzYxYjI5ZWUzZWU2M2ExZTU5ZDUzYTFl`

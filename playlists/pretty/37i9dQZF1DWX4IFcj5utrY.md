@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7?si=Rxd\-PmdDS1uewUM6xyLcRw">GoldFish</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,182 likes - 55 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,218 likes - 55 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 54 | [Indlela](https://open.spotify.com/track/20biXVfOt8Fm1Mxo123d5c) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Indlela](https://open.spotify.com/album/4SHct7kn98G7DW5KanqFO2) | 6:08 |
 | 55 | [Inkumbulo](https://open.spotify.com/track/1LmBIpU2a28oc3KKkW1RAA) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Inkumbulo](https://open.spotify.com/album/2edkP9y6Fy7PbkQiXGlbWt) | 5:22 |
 
-Snapshot ID: `MCxiYmUxNmVkY2NlNzY2MmE4ZGNiYTcyNDliODE3ZDFjMTkxYTM1ZjBl`
+Snapshot ID: `MCxiMWYyMzNlYTVjM2FkMzNhNmMzYjJlYjg4YWI4NTc1NWVhMzA1ZmEy`

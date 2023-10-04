@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Torya
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,457 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,490 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Facim](https://open.spotify.com/track/3R6ywVCDqkW6gvuLEfgD1x) | [Lorak](https://open.spotify.com/artist/4lAgDPv5o0YoLrqUIKWFnu), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Lótus](https://open.spotify.com/album/07i6uDxq5RYgTUlsyGCuwL) | 2:05 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCw2YTNlYzVmMjY2OWY2MmZjYjA1MmY2MjgyNzFlNDE3NTM0NjM3Yzdi`
+Snapshot ID: `MCw2NjUyNjU5ZjFhOTBhZjhiNzQ1Y2ViZDhkMjMwYTdiYzc4OTNiZTAy`

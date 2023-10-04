@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Numidia
 
-566 songs - 1 day 8 hr 49 min
+567 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Hetta Tanya](https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Hetta Tanya](https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR) | 3:19 | 2022-11-15 | 2023-05-13 |
 | [HEY DJ](https://open.spotify.com/track/2X8XcskW99dzN3ERfRdbLt) | [Sirine Miled](https://open.spotify.com/artist/1i69kloElAsdqtmdP5rru0) | [HEY DJ](https://open.spotify.com/album/2McuhBKRgSGr60FXSHs5GP) | 2:52 | 2021-12-23 | 2022-03-01 |
 | [High](https://open.spotify.com/track/6i6xYs14ViOdffFSBpoBeV) | [Gohary](https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn) | [High](https://open.spotify.com/album/0ljHvBxU42OU9opDgWJEcb) | 3:39 | 2021-12-23 | 2022-03-01 |
-| [Hkayat](https://open.spotify.com/track/2i4oVynWtzKOTc8fq9xiyq) | [Chantal Bitar](https://open.spotify.com/artist/6HN34scCFbSWFdHDbGagBM) | [Hkayat](https://open.spotify.com/album/78cWsuCyskPfF9hRtjtOdW) | 3:27 | 2023-07-21 |  |
+| [Hkayat](https://open.spotify.com/track/2i4oVynWtzKOTc8fq9xiyq) | [Chantal Bitar](https://open.spotify.com/artist/6HN34scCFbSWFdHDbGagBM) | [Hkayat](https://open.spotify.com/album/78cWsuCyskPfF9hRtjtOdW) | 3:27 | 2023-07-21 | 2023-10-04 |
 | [Hkomt Hob](https://open.spotify.com/track/5hWczJhh8ERWxNHert1egA) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Hkomt Hob](https://open.spotify.com/album/1hlvdo7MrHcC1LImgvNOPX) | 4:32 | 2022-03-08 | 2022-07-29 |
 | [Hnaya](https://open.spotify.com/track/37fxraGklh1llULoyhcFCz) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Hnaya](https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U) | 3:08 | 2022-03-01 | 2023-03-02 |
 | [Hoba La Ma Khali](https://open.spotify.com/track/6xNB566zvUDyMdSfU3Pw5M) | [Eman Al Amer](https://open.spotify.com/artist/1snAPnlh86ySyIdF73ASLI) | [Hoba La Ma Khali](https://open.spotify.com/album/2mnpMrOUa4Kx1SB7ul6og9) | 2:58 | 2021-12-23 | 2022-03-02 |
@@ -422,6 +422,7 @@
 | [Walo](https://open.spotify.com/track/2AdPThXwkFigPti9gjp7Ro) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Walo](https://open.spotify.com/album/0R6jvhG8YgqrkDNI2HyWiJ) | 2:42 | 2021-12-23 | 2022-03-02 |
 | [Wana](https://open.spotify.com/track/0JggYhzdak2vD47gkP9K4U) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Wana](https://open.spotify.com/album/0bY1O5psyu1iG4NtHqQqZn) | 2:36 | 2021-12-23 | 2022-03-02 |
 | [Wana](https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [Wana](https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm) | 3:39 | 2023-09-14 |  |
+| [Wara Kol Nagah](https://open.spotify.com/track/3mRHFu05SyAc4Y7cQPorON) | [Shereen Yehia](https://open.spotify.com/artist/6sI8bEic5Dp7EQjiZNzqMY) | [Wara Kol Nagah](https://open.spotify.com/album/3IZoThcaZ81nAYTuxLXfXU) | 2:45 | 2023-10-03 |  |
 | [Wayak Wayak](https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Rezq El Wared](https://open.spotify.com/album/3URkpUufiqInzAGBhFn9Az) | 4:00 | 2023-01-25 | 2023-09-09 |
 | [Wayyak](https://open.spotify.com/track/1zQBbLzIE77m5kjm7BPYet) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Mouthakerti](https://open.spotify.com/album/4bS80nF6fc85gq8MBsWLGW) | 3:28 | 2023-08-02 |  |
 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 | 2021-12-23 | 2022-03-02 |

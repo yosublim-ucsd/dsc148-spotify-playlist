@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,897 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,066 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 49 | [Junjou](https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Air Kiss](https://open.spotify.com/album/0HPFK3PQpRl1bU3Maptq78) | 3:31 |
 | 50 | [A面で恋をして](https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH) | [NIAGARA TRIANGLE](https://open.spotify.com/artist/2Z7xG1x1KFkKXGQmr38j1M), [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [Masamichi Sugi](https://open.spotify.com/artist/0sunKSW71vUUlXKwwJQKKH), [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [NIAGARA TRIANGLE vol.2 40th Anniversary Edition](https://open.spotify.com/album/1eXJvf74OeQnFlx6G7qbCJ) | 3:11 |
 
-Snapshot ID: `MCxhZDIxNTEzYzM0MGIzYjFhNmZlYzFkM2JlMDhhOTNmZjljNDQ0MzVh`
+Snapshot ID: `MCw2NWQ4M2JjMWUxMzExYzA4NDE2ZGNmNzA1NWU4MzMzODdhOTJiMDA4`

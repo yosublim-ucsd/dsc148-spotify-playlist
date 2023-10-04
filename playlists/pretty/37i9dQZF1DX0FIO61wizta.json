@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 72213,
+  "num_followers": 72245,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjNlNDc1MjAyN2MyNzQwYWNmYTg3ZDIxZDQ4MGU5NTkyNjY5OTM1",
+  "snapshot_id": "MCxkYWM4YjU0NDgwYTg4MTAyNzQyNDhhM2NlMzY1ZGMxZmE0MTZjMWMz",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "The Verdi Album",
-        "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
-        }
-      ],
-      "duration_ms": 641253,
-      "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
-      "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Aida",
         "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
       },
@@ -1187,6 +1163,30 @@
       "duration_ms": 123333,
       "name": "Aida: Danza Sacre delle Sacerdotesse",
       "url": "https://open.spotify.com/track/3u02B57scqZyXHuy7bfFjl"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "The Verdi Album",
+        "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+        }
+      ],
+      "duration_ms": 641253,
+      "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
+      "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1459,30 +1459,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Songs",
-        "url": "https://open.spotify.com/album/597ID4pZXyhkJtMPMeFTdb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Dennis O'Neill",
-          "url": "https://open.spotify.com/artist/4gOpBpkE5PrTJUFC7dWusZ"
-        },
-        {
-          "name": "Ingrid Surgenor",
-          "url": "https://open.spotify.com/artist/1GJ4XkVWcNqaDgkBQv08WC"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "La seduzione",
-      "url": "https://open.spotify.com/track/13auykVUzc7TQ8BQFTXL2h"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Falstaff",
         "url": "https://open.spotify.com/album/5vydzpfnI6B6mEhUIYQ8Zc"
       },
@@ -1507,6 +1483,30 @@
       "duration_ms": 241026,
       "name": "Falstaff, Act I: L'Onore! Ladri!",
       "url": "https://open.spotify.com/track/7qWfNxCBZwfu9DKzGWDMki"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Songs",
+        "url": "https://open.spotify.com/album/597ID4pZXyhkJtMPMeFTdb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Dennis O'Neill",
+          "url": "https://open.spotify.com/artist/4gOpBpkE5PrTJUFC7dWusZ"
+        },
+        {
+          "name": "Ingrid Surgenor",
+          "url": "https://open.spotify.com/artist/1GJ4XkVWcNqaDgkBQv08WC"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "La seduzione",
+      "url": "https://open.spotify.com/track/13auykVUzc7TQ8BQFTXL2h"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1863,30 +1863,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi : Rigoletto",
-        "url": "https://open.spotify.com/album/1kYU5ZZNBHYafn2ssSEboY"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of Welsh National Opera",
-          "url": "https://open.spotify.com/artist/7tKNcrC1eSbJnMem8B4cpa"
-        }
-      ],
-      "duration_ms": 110800,
-      "name": "Verdi : Rigoletto : Act 3 \"Chi mai, chi \u00e8 qui\" [Rigoletto, Gilda]",
-      "url": "https://open.spotify.com/track/0VawWZRChM7zLs77jMzANd"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Nabucco",
         "url": "https://open.spotify.com/album/6dLhLAMPKpxpyhKjphx62U"
       },
@@ -1915,6 +1891,30 @@
       "duration_ms": 667640,
       "name": "Verdi: Nabucco, Act 3: \"Donna, chi sei?\" - \"Chi \u00e8 costei?... Oh, di qual'onta aggravisi\" (Nabucco, Abigaille)",
       "url": "https://open.spotify.com/track/74hbxXrq3TYPK5JzDgHkeL"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi : Rigoletto",
+        "url": "https://open.spotify.com/album/1kYU5ZZNBHYafn2ssSEboY"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of Welsh National Opera",
+          "url": "https://open.spotify.com/artist/7tKNcrC1eSbJnMem8B4cpa"
+        }
+      ],
+      "duration_ms": 110800,
+      "name": "Verdi : Rigoletto : Act 3 \"Chi mai, chi \u00e8 qui\" [Rigoletto, Gilda]",
+      "url": "https://open.spotify.com/track/0VawWZRChM7zLs77jMzANd"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1975,30 +1975,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Rigoletto",
-        "url": "https://open.spotify.com/album/1sfnSIMuSOo9RFLgorKKfn"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Rigoletto: Overture (Preludio)",
-      "url": "https://open.spotify.com/track/0gEEu38t46lgUct2JJKmis"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Villaz\u00f3n - Verdi",
         "url": "https://open.spotify.com/album/2F96laLM8FRRWaiLotJ10h"
       },
@@ -2023,6 +1999,30 @@
       "duration_ms": 115920,
       "name": "La traviata / Act II: \"O mio rimorso!\"",
       "url": "https://open.spotify.com/track/3Ig1LumEIzvePVWC9uzgkF"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Rigoletto",
+        "url": "https://open.spotify.com/album/1sfnSIMuSOo9RFLgorKKfn"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Rigoletto: Overture (Preludio)",
+      "url": "https://open.spotify.com/track/0gEEu38t46lgUct2JJKmis"
     },
     {
       "added_at": "2022-06-27 14:42:44",

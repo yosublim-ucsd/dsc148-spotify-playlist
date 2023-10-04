@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 78140,
+  "num_followers": 78166,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWI1ZmFkODU4ZDgzYzBjNTJkNGYyYjUwYTNmZWE5YmY2ZDFhZDkz",
+  "snapshot_id": "MCw4YjE1ZTYwMjUyMWVkNjE4ZTFjMDQ3M2UyYTM3Y2EyMTQxMjM5OThi",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
+        "name": "Sweet Disarray",
+        "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
+      },
+      "artists": [
+        {
+          "name": "Dan Croll",
+          "url": "https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21"
+        }
+      ],
+      "duration_ms": 196848,
+      "name": "From Nowhere",
+      "url": "https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Sweet Disarray",
-        "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
-      },
-      "artists": [
-        {
-          "name": "Dan Croll",
-          "url": "https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21"
-        }
-      ],
-      "duration_ms": 196848,
-      "name": "From Nowhere",
-      "url": "https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "When The Night (Deluxe)",
-        "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 308360,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Secondhand Rapture",
         "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 226373,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "When The Night (Deluxe)",
+        "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 308360,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Tramp",
-        "url": "https://open.spotify.com/album/1StZHZ13mdQcQPG8QQjndF"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 182146,
-      "name": "Serpents",
-      "url": "https://open.spotify.com/track/2v05RhwIQx3zbN8O72Ff69"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Fear Fun",
         "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 219259,
       "name": "Funtimes in Babylon",
       "url": "https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Tramp",
+        "url": "https://open.spotify.com/album/1StZHZ13mdQcQPG8QQjndF"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 182146,
+      "name": "Serpents",
+      "url": "https://open.spotify.com/track/2v05RhwIQx3zbN8O72Ff69"
     },
     {
       "added_at": "2022-05-19 08:11:23",

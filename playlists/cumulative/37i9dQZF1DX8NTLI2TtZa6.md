@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-438 songs - 18 hr 47 min
+440 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,9 +32,10 @@
 | [Amour perdu](https://open.spotify.com/track/1sAsclZEYoNjzUmopro1aN) | [Francine Leblanc](https://open.spotify.com/artist/3ua2qjBzlY2IDpjWQJA8Uy) | [Amour perdu](https://open.spotify.com/album/1dY0LogeBi0BFu1C2joxCf) | 2:19 | 2021-12-07 | 2022-02-16 |
 | [Anaïs](https://open.spotify.com/track/3ypf3tHRl2c8FsJRwAhDew) | [Satordi de Launay](https://open.spotify.com/artist/4NZ53ctU4KWRID8Y431vhq) | [Anaïs](https://open.spotify.com/album/6l2cjS9Z7tnOau7cUZBfzz) | 1:58 | 2021-12-07 | 2023-01-27 |
 | [And I Always Will](https://open.spotify.com/track/2ELwSFL1CGiJIlpHP3XFbZ) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [And I Always Will](https://open.spotify.com/album/6IMQgMaokDB7ZS5QkOJuoK) | 1:59 | 2021-12-07 | 2022-09-21 |
-| [And There You Were](https://open.spotify.com/track/1r9tcQmkq2JBXbrEmhKu4N) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [For Tiny Feet](https://open.spotify.com/album/1GjPYdwgU2AU0Isa8pEYGN) | 2:24 | 2023-09-11 |  |
+| [And There You Were](https://open.spotify.com/track/1r9tcQmkq2JBXbrEmhKu4N) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [For Tiny Feet](https://open.spotify.com/album/1GjPYdwgU2AU0Isa8pEYGN) | 2:24 | 2023-09-11 | 2023-10-04 |
 | [And There You Were](https://open.spotify.com/track/2OLfuAdRtXwsoORwiWahPe) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [A New Path](https://open.spotify.com/album/0sFVHCju4aS5BEiZtMt2LC) | 2:24 | 2023-08-21 | 2023-08-30 |
 | [And There You Were](https://open.spotify.com/track/5qcXvge6W2VFVwH20TNoPA) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And Blueberries](https://open.spotify.com/album/5L2Y9P1JFnFirIsk9RbqWp) | 2:24 | 2023-08-21 | 2023-09-13 |
+| [And There You Were](https://open.spotify.com/track/5wgdYkgZVflEgEmFIWvpug) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Close To Maman](https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH) | 2:24 | 2023-09-26 |  |
 | [And There You Were](https://open.spotify.com/track/6inqfF6liJBitNaHqvxbj8) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [From Out Of Nowhere](https://open.spotify.com/album/0UetsAF1JQXncnzxmbua3v) | 2:24 | 2023-07-25 | 2023-08-23 |
 | [And There You Were](https://open.spotify.com/track/7bSLnYwRRxstyvCoqorAPU) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Of Great Expectations](https://open.spotify.com/album/3E1aUqQYMvCaOexhgq8V1Q) | 2:24 | 2023-08-21 | 2023-09-05 |
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2022-01-18 |  |
@@ -260,7 +261,8 @@
 | [Night Light](https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Night Light](https://open.spotify.com/album/6NOESzKosiokfmEwXfZOnX) | 2:09 | 2021-12-07 | 2023-01-27 |
 | [Ninon](https://open.spotify.com/track/0FqRaf2LQqj2kf1Xn1VjYQ) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Ninon](https://open.spotify.com/album/3gEUPFAVJ5lw0Qq7k6bOdK) | 2:24 | 2023-08-14 | 2023-08-30 |
 | [Ninon](https://open.spotify.com/track/2izOkdHQxrr95v4f1j36on) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Contrescarpe](https://open.spotify.com/album/0wbc7lZ5a5u7URTdQO6tip) | 2:24 | 2023-08-21 | 2023-09-13 |
-| [Ninon](https://open.spotify.com/track/4U0kjpWXa1Jfr4Z54GjKNk) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [La Maison d’Isabelle](https://open.spotify.com/album/1U1oZuqZ1PCoVGbxfAMbU5) | 2:24 | 2023-09-11 |  |
+| [Ninon](https://open.spotify.com/track/4U0kjpWXa1Jfr4Z54GjKNk) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [La Maison d’Isabelle](https://open.spotify.com/album/1U1oZuqZ1PCoVGbxfAMbU5) | 2:24 | 2023-09-11 | 2023-10-04 |
+| [Ninon](https://open.spotify.com/track/5zt7kPSoNPqnMh5J7qyl8f) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Levinas](https://open.spotify.com/album/5qm4snvjWmMNhDZyBuGhDo) | 2:24 | 2023-09-26 |  |
 | [No Goodbye](https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [No Goodbye](https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL) | 2:24 | 2023-09-26 |  |
 | [Nocturne No.1: The Stars Are Your Friends](https://open.spotify.com/track/44stpzDXyTfG9LV97pHHP0) | [Matt Bettinson](https://open.spotify.com/artist/5MtYl3JKJxBUNtTo50XZcx) | [Nocturne No.1: The Stars Are Your Friends](https://open.spotify.com/album/6KxXL9mncQwzIz4SFtUVQF) | 2:30 | 2023-07-25 |  |
 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 | 2021-12-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Carnaval en portada.",
-  "num_followers": 1141003,
+  "num_followers": 1141096,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjRmZGZmOGJhY2M0OTgxYmE1Y2E0ZGY1M2UwYWRjM2QzN2RhYzZi",
+  "snapshot_id": "MCxiMjllZTE0ZjI2OTFkY2JkMzc1YmFkNDdhYjUyM2NjYzFkNGU2M2Q1",
   "tracks": [
     {
       "added_at": "2023-09-22 06:52:49",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+    },
+    {
+      "added_at": "2023-09-22 06:52:49",
+      "album": {
         "name": "Amor Clandestino",
         "url": "https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 227696,
       "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
       "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
-    },
-    {
-      "added_at": "2023-09-22 06:52:49",
-      "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
     },
     {
       "added_at": "2023-09-22 06:52:49",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
-        "name": "De Memoria Me Las S\u00e9",
-        "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "De Memoria Me Las S\u00e9",
-      "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
-    },
-    {
-      "added_at": "2023-09-22 06:52:49",
-      "album": {
         "name": "Tiempo Fuera",
         "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 198040,
       "name": "Tiempo Fuera",
       "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
+    },
+    {
+      "added_at": "2023-09-22 06:52:49",
+      "album": {
+        "name": "De Memoria Me Las S\u00e9",
+        "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "De Memoria Me Las S\u00e9",
+      "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
     },
     {
       "added_at": "2023-09-22 06:52:49",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
-        "name": "Una Julio 70",
-        "url": "https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 175829,
-      "name": "Una Julio 70",
-      "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
-    },
-    {
-      "added_at": "2023-09-22 06:52:49",
-      "album": {
         "name": "Si Esta Botella Hablara",
         "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 188511,
       "name": "Si Esta Botella Hablara",
       "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
+    },
+    {
+      "added_at": "2023-09-22 06:52:49",
+      "album": {
+        "name": "Una Julio 70",
+        "url": "https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 175829,
+      "name": "Una Julio 70",
+      "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
     },
     {
       "added_at": "2023-09-22 06:52:49",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
-        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
-        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 423653,
-      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
-      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
+      "duration_ms": 215303,
+      "name": "Sigues Siendo Tu - En vivo",
+      "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
     },
     {
       "added_at": "2023-09-22 06:52:49",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
+        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 215303,
-      "name": "Sigues Siendo Tu - En vivo",
-      "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
+      "duration_ms": 423653,
+      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
+      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
     },
     {
       "added_at": "2023-09-22 06:52:49",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
-        "name": "Voy Pa\u2019Arriba Y Con Viada",
-        "url": "https://open.spotify.com/album/3CPelQDAucCTS0qDJllAHB"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "Voy Pa\u2019Arriba Y Con Viada",
-      "url": "https://open.spotify.com/track/3Ci2QXttB3371jfqJcmJcJ"
-    },
-    {
-      "added_at": "2023-09-22 06:52:49",
-      "album": {
         "name": "La Bolsita",
         "url": "https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB"
       },
@@ -1927,38 +1911,18 @@
     {
       "added_at": "2023-09-22 06:52:49",
       "album": {
-        "name": "Mis Gustos Mis Canciones (En Vivo)",
-        "url": "https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2"
+        "name": "Voy Pa\u2019Arriba Y Con Viada",
+        "url": "https://open.spotify.com/album/3CPelQDAucCTS0qDJllAHB"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 163978,
-      "name": "Fruta Prohibida (En Vivo)",
-      "url": "https://open.spotify.com/track/7LePdYin7ESpRVRURBx16C"
-    },
-    {
-      "added_at": "2023-09-22 06:52:49",
-      "album": {
-        "name": "Ojitos Caf\u00e9s",
-        "url": "https://open.spotify.com/album/4F3C6UQX3tnAsLD5nl2yCt"
-      },
-      "artists": [
-        {
-          "name": "Omar Robles",
-          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 190981,
-      "name": "Ojitos Caf\u00e9s",
-      "url": "https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh"
+      "duration_ms": 176146,
+      "name": "Voy Pa\u2019Arriba Y Con Viada",
+      "url": "https://open.spotify.com/track/3Ci2QXttB3371jfqJcmJcJ"
     },
     {
       "added_at": "2023-09-22 06:52:49",
@@ -1983,6 +1947,42 @@
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
+    },
+    {
+      "added_at": "2023-09-22 06:52:49",
+      "album": {
+        "name": "Ojitos Caf\u00e9s",
+        "url": "https://open.spotify.com/album/4F3C6UQX3tnAsLD5nl2yCt"
+      },
+      "artists": [
+        {
+          "name": "Omar Robles",
+          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 190981,
+      "name": "Ojitos Caf\u00e9s",
+      "url": "https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh"
+    },
+    {
+      "added_at": "2023-09-22 06:52:49",
+      "album": {
+        "name": "Mis Gustos Mis Canciones (En Vivo)",
+        "url": "https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 163978,
+      "name": "Fruta Prohibida (En Vivo)",
+      "url": "https://open.spotify.com/track/7LePdYin7ESpRVRURBx16C"
     },
     {
       "added_at": "2023-09-22 06:52:49",

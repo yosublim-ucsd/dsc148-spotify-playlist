@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: DEBBY FRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,296 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,326 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 76 | [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 |
 | 77 | [Stuck Here](https://open.spotify.com/track/3Y0No5lXAS30OlN84b6NWv) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Tragedy](https://open.spotify.com/album/5rtzuc9i65JU8u90cOOFPr) | 3:11 |
 | 78 | [Out Of Control](https://open.spotify.com/track/0YDQCkIxi2mOBB5ksDd9u1) | [Moon King](https://open.spotify.com/artist/6hTzDsb4gaKGZMNtfC70c5), [Visors](https://open.spotify.com/artist/5fLeURoq7hUfA1YRLDKnp5) | ["Turning \(Inside Out\)" b/w "Out Of Control"](https://open.spotify.com/album/561UO06aHshx0pz1miVIPV) | 4:02 |
-| 79 | [Pause](https://open.spotify.com/track/4zkYz1az0oGzTlfZUb1Zwf) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [Suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Pause](https://open.spotify.com/album/43kkRSBUKK3JaZvQiMmAVJ) | 2:40 |
+| 79 | [Pause](https://open.spotify.com/track/4zkYz1az0oGzTlfZUb1Zwf) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Pause](https://open.spotify.com/album/43kkRSBUKK3JaZvQiMmAVJ) | 2:40 |
 | 80 | [BEZU](https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [BEZU](https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF) | 3:04 |
 | 81 | [en plein vol](https://open.spotify.com/track/0qE2TLnemJVGb93aPB4BU4) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [en plein vol](https://open.spotify.com/album/1ybTjnD1JeEL8iQjcxh4Lt) | 3:06 |
 | 82 | [Picture in Picture](https://open.spotify.com/track/2TNziyPiO5OyGnSDZ44MGQ) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Picture in Picture](https://open.spotify.com/album/5Dpa1BC2KYnwlRJEoeTqTk) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [ta peau](https://open.spotify.com/track/4Tu5nR9YC9TnSp2YVnPmxP) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO), [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [ta peau](https://open.spotify.com/album/0CDkekykSRQAUkQ6d7BRfH) | 3:48 |
 | 100 | [Almost Lost You](https://open.spotify.com/track/0MipSSCvBt5vFU1bGlOJXw) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [Almost Lost You](https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN) | 3:47 |
 
-Snapshot ID: `MCwyYWQxOWExMjdmNDY1Yzg3YjdjN2Y1NzYyNzc1ZTg5NjZjNzk3ZTg0`
+Snapshot ID: `MCxlNTljM2IwNzUzZWFkZWU3OWY0MGY4OTNlZDc3ZjRmZjU5NmNkMTkz`

@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: julie
 
-1,837 songs - 4 day 0 hr 38 min
+1,838 songs - 4 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 | 2022-03-18 | 2022-05-28 |
 | [A Man Will Do Wrong](https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 4:17 | 2023-01-27 | 2023-02-25 |
 | [A Sad Sad Song](https://open.spotify.com/track/5b9M4d2UlAOwPDAur72Z1G) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [People R Ugly](https://open.spotify.com/album/7zokQXDSsOzWWswmtKjZrL) | 2:52 | 2023-07-28 | 2023-08-26 |
+| [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 | 2023-10-03 |  |
 | [A Thousand Lives](https://open.spotify.com/track/2NpEowhC7lE5nZX18Xzadi) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [A Thousand Lives](https://open.spotify.com/album/2iOC02KOlEMTRWSY02ZKVw) | 4:14 | 2022-09-23 | 2022-11-19 |
 | [A Wave Across A Bay](https://open.spotify.com/track/1p9yDrQeXYbE3f6bW2YBAI) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [A Wave Across A Bay](https://open.spotify.com/album/7cBsGWCsDuu0KC38K3uBFF) | 3:43 | 2022-01-14 | 2022-03-18 |
 | [A Wolf Dressed Up As A Sheep](https://open.spotify.com/track/0dEESK9s5ZtgDZMYZTrJkt) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Bad Lovers Club](https://open.spotify.com/artist/44lvHJBBFpuAoZtcDXsrkp) | [Time Isn't Real](https://open.spotify.com/album/33Efdv2w7tLBoLOm0mtVt9) | 2:45 | 2022-04-01 | 2022-05-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 
 > Quelques chansons tranquilles pour des moments tendres et complices
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,491 likes - 68 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,492 likes - 68 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 35 | [Le portrait \- Acoustique](https://open.spotify.com/track/1AepftfmEz0Nv44jkxayeh) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Les feux d'artifice \(Deluxe\)](https://open.spotify.com/album/4bauhAhQtAvxo0r5cnn68G) | 3:03 |
 | 36 | [À la faveur de l'automne](https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [À la faveur de l'automne](https://open.spotify.com/album/0EOK4Nqc012P7YPnIE1xot) | 3:43 |
 | 37 | [Pourtant](https://open.spotify.com/track/2Y53CuS1lihvQPh2kQrpea) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Bliss](https://open.spotify.com/album/5ks6A7kl0RWnqejf2k5cnu) | 3:36 |
-| 38 | [La bonne étoile \(Duo dub \- version Ariane Moffat\)](https://open.spotify.com/track/65XxFc7ir5H4iUWlfCfBRW) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [La bonne étoile](https://open.spotify.com/album/5m5Qe4fwmXtLjlADVsO0bB) | 4:12 |
+| 38 | [La bonne étoile \(Duo dub\) \[feat\. Ariane Moffat\]](https://open.spotify.com/track/65XxFc7ir5H4iUWlfCfBRW) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Ariane Moffat](https://open.spotify.com/artist/6WCfv3ApgE7lAYwW9NY8GO) | [La bonne étoile](https://open.spotify.com/album/5m5Qe4fwmXtLjlADVsO0bB) | 4:12 |
 | 39 | [La vie c'est quoi ?](https://open.spotify.com/track/2ApNTgwQpO1X64nCT8sXWn) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Malou Harel](https://open.spotify.com/artist/6ttO3F8QBMsaaEA7NCPLTI) | [Enfantillages 3](https://open.spotify.com/album/77kv2o5PJeW3mim1yWPiMA) | 3:04 |
 | 40 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [La tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |
 | 41 | [Il y a](https://open.spotify.com/track/0F6ju9gPE2nUiqOgixQFZ9) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT) | [Fréro Delavega](https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46) | 3:03 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 67 | [I’ll See You In My Dreams](https://open.spotify.com/track/0SOeHOnrKeUCSoLD1lbjcj) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Eternels jusqu’à demain](https://open.spotify.com/album/6h57y7voPpiRDYnh4X6hqg) | 3:04 |
 | 68 | [Les Secrets Chuchotés](https://open.spotify.com/track/3DnoHIA9BPsMBNVnMYbYIL) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [D’Une Tonne A Un Tout Petit Poids](https://open.spotify.com/album/3IZYKZL2tUqYKUL9EAbPpt) | 4:13 |
 
-Snapshot ID: `MCxiOGQ4MmQ2ZjhiYWUzOTIzMDIzMDRhZTBmYzQ5YzcyNTJjMmQzZGIx`
+Snapshot ID: `MCw3YzkzMTRmYmEwMDFjNjdhOWIzODQ2ZDdkMGQ0MGM5NjJkNzVlOWJk`

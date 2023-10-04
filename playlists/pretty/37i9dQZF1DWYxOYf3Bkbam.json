@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 41943,
+  "num_followers": 41977,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjZjZTBlNmNlMWM4MTdmMTFjYjU2MjAzNDE5OTBhY2QzNDJjNDBi",
+  "snapshot_id": "MCw4YWU2MWU5YTJiNWYwY2FiMWYwYjg0MmM3ZDY4OWI0MmFjOTkyZjM4",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Otras M\u00fasicas",
+        "url": "https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "Nazareno",
+      "url": "https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Chamame - Los 100 mejores temas - Vol 4",
         "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 202786,
       "name": "Km. 11",
       "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Otras M\u00fasicas",
-        "url": "https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY"
-      },
-      "artists": [
-        {
-          "name": "Chango Spasiuk",
-          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "Nazareno",
-      "url": "https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Con Alma y Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
-      },
-      "artists": [
-        {
-          "name": "Los Dioses del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
-      "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 142120,
       "name": "Ah Mi Corrientes Por\u00e1",
       "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Con Alma y Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
+      },
+      "artists": [
+        {
+          "name": "Los Dioses del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
+      "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Santa Ana",
-          "url": "https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu"
-        }
-      ],
-      "duration_ms": 175613,
-      "name": "La Calandria",
-      "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Oraci\u00f3n del Remanso",
         "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 311531,
       "name": "Oraci\u00f3n del Remanso",
       "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Santa Ana",
+          "url": "https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu"
+        }
+      ],
+      "duration_ms": 175613,
+      "name": "La Calandria",
+      "url": "https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+        }
+      ],
+      "duration_ms": 185906,
+      "name": "Malvita",
+      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
-        }
-      ],
-      "duration_ms": 185906,
-      "name": "Malvita",
-      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Noche de Tormenta",
         "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 194853,
       "name": "Para Volver a So\u00f1ar",
       "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 139253,
       "name": "El Gato Blanco",
       "url": "https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Sencillito Nom\u00e1s",
-        "url": "https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Fuerza del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "No Hay Mal Que por Bien No Venga",
-      "url": "https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Refugio de So\u00f1adores",
         "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 202025,
       "name": "Refugio de So\u00f1adores",
       "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Sencillito Nom\u00e1s",
+        "url": "https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Fuerza del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "No Hay Mal Que por Bien No Venga",
+      "url": "https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV"
     },
     {
       "added_at": "2023-06-09 03:00:00",

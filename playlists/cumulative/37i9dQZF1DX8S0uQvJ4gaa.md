@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Jade Eagleson
 
-1,824 songs - 4 day 2 hr 43 min
+1,825 songs - 4 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,7 +769,8 @@
 | [I Hope](https://open.spotify.com/track/2Hc4t9N2nt37oO4sF9BynI) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [I Hope](https://open.spotify.com/album/35SOQhniusum2ewU72jdBh) | 3:29 | 2019-10-12 | 2019-12-14 |
 | [I Hope You’re Happy Now](https://open.spotify.com/track/1iiehnBysGi59zXYXIuKQD) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Hope You’re Happy Now](https://open.spotify.com/album/5zMUrHGRi7LpqRW1mxM2wu) | 3:18 | 2019-09-29 | 2019-11-09 |
 | [I Just Killed A Man](https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [I Just Killed A Man](https://open.spotify.com/album/128clheSrjkaaJLnYe4ykz) | 3:32 | 2023-06-30 |  |
-| [I Know A Guy](https://open.spotify.com/track/2wAavjh84cV0tH4Pbcz0EF) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [I Know A Guy](https://open.spotify.com/album/1TUlbemKM7UOS7gpi3gWdA) | 2:41 | 2023-08-04 |  |
+| [I Know A Guy](https://open.spotify.com/track/2wAavjh84cV0tH4Pbcz0EF) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [I Know A Guy](https://open.spotify.com/album/1TUlbemKM7UOS7gpi3gWdA) | 2:41 | 2023-08-04 | 2023-10-04 |
+| [I Know A Guy](https://open.spotify.com/track/6LCY0s8iDoooe8eMkdEQMu) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Side Effects Of The Heart](https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK) | 2:41 | 2023-09-29 |  |
 | [I Like Where This Is Going](https://open.spotify.com/track/7Mf0yxd8aivj6w4Ruly6J4) | [Cale Dodds](https://open.spotify.com/artist/4PRfc0tn0HR0GhzWHHckLt) | [I Like Where This Is Going](https://open.spotify.com/album/0FkCDKCq3avpuZvWrZgghD) | 3:05 | 2019-05-26\* | 2019-07-06 |
 | [I Like You Better](https://open.spotify.com/track/6O2U3KEpMJusHQ6m3IR2vg) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [I Like You Better](https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG) | 2:51 | 2022-04-08 | 2022-05-28 |
 | [I Love Her, but She Don't Love Me Back](https://open.spotify.com/track/2XdrIZCGsVf4mMfbYgyKUg) | [James Carothers](https://open.spotify.com/artist/5pX3zfSvGUMxg3RGHRug5f) | [I Love Her, but She Don't Love Me Back](https://open.spotify.com/album/0XAjb83S8voqt6ArQoFiOu) | 3:10 | 2020-06-07 | 2020-06-14 |

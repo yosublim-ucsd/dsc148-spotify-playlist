@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,158 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,235 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 56 | [Soy Una Feria](https://open.spotify.com/track/5gPBR2GlcBQZnwEwPFR1fS) | [Gracia Montes](https://open.spotify.com/artist/1dLbRp4b9TOqxlPj6Pmtbu) | [Mis Mejores Canciones](https://open.spotify.com/album/3v6sufMLzild3gXVb4zmK8) | 2:44 |
 | 57 | [Coplillas de las Divisas \(Americanos\)](https://open.spotify.com/track/2jsHf9MILNts8a4oE52QX0) | [Lolita Sevilla](https://open.spotify.com/artist/3YTaABDoji99gSK5qDdPja) | [Raices de la Canción Española, Vol\. 4](https://open.spotify.com/album/0YPZiUW2u8RB8zRsVANNpr) | 2:44 |
 | 58 | [Te Quiero Te Quiero](https://open.spotify.com/track/55ekUAzFSBgKDj2gWziFsd) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen de España](https://open.spotify.com/album/4gRMzAVEmQp1aSIkxplmpn) | 3:04 |
-| 59 | [El Talismán](https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [Mujeres de Música](https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim) | 4:03 |
-| 60 | [Cántame](https://open.spotify.com/track/40yczJ7VRenkAPVctWQfqp) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Cántame Sevillanas](https://open.spotify.com/album/7hJrIlgMWFgZoacK5G3v5j) | 4:02 |
+| 59 | [Cántame](https://open.spotify.com/track/40yczJ7VRenkAPVctWQfqp) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Cántame Sevillanas](https://open.spotify.com/album/7hJrIlgMWFgZoacK5G3v5j) | 4:02 |
+| 60 | [El Talismán](https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [Mujeres de Música](https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim) | 4:03 |
 | 61 | [Alma Mía](https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [A Bola De Nieve](https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o) | 4:22 |
 | 62 | [La Violetera \- Remastered](https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [La Violetera \(Remastered\)](https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ) | 3:42 |
 | 63 | [Tatuaje](https://open.spotify.com/track/4bSTSglkBr2mtv9bgKR8Th) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Tatuaje](https://open.spotify.com/album/6z0xxhlPljQvIMgCrfkwTn) | 4:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 74 | [Se Nos Rompio el Amor \(with Malú\)](https://open.spotify.com/track/2Wp7kX7Kj38MgIBe3p0MBE) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:39 |
 | 75 | [Dejandonos La Piel \(with Lolita\)](https://open.spotify.com/track/7FjpkYUDZhR66hR1Us8PrW) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:42 |
 
-Snapshot ID: `MCxkMDlmZmZjMmUxMmY3MWY1NTYzMjcxY2IwMWJhOGNkMTYzMjRjMzFh`
+Snapshot ID: `MCwxNDY3NTllMzJkYzczOTFlOGM3N2Y5ZDI0ODMyOWRiZjgyZDM1NmE3`

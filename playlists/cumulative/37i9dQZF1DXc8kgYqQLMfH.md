@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,059 songs - 1 day 15 hr 58 min
+1,060 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Drift](https://open.spotify.com/track/4JDGpMVac8xxRn8B0t8FZd) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f), [Ninn Tendo](https://open.spotify.com/artist/1OF6VqF0EwQP7tfJlFIVMw) | [Drift](https://open.spotify.com/album/5gGqBvy3mXCsUI7ijZ6MfG) | 2:03 | 2022-07-29 | 2022-10-15 |
 | [Drift](https://open.spotify.com/track/7DgiTzkm5OcTlD4vYLmGS9) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f), [Ninn Tendo](https://open.spotify.com/artist/1OF6VqF0EwQP7tfJlFIVMw) | [Drift](https://open.spotify.com/album/6bmoUmUkCHbfKa4sb3iXEP) | 2:03 | 2021-11-10 | 2022-07-29 |
 | [driftaways](https://open.spotify.com/track/1ovbqyYP6O7UR7BQzg02qy) | [densitydrive](https://open.spotify.com/artist/6J05YtZ0cTSqqTm5W7Ar2e) | [driftaways](https://open.spotify.com/album/56fghvFpH5TbCG7iTSvNtd) | 2:15 | 2021-11-10 | 2022-06-03 |
+| [Drifting](https://open.spotify.com/track/1wr8Q5WOf1VHvIW2XlJ6WS) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Drifting](https://open.spotify.com/album/5f5B4R0ddtk11JjCNpWPeY) | 2:02 | 2023-09-29 |  |
 | [Drifting](https://open.spotify.com/track/1mPjpQZdd5H4wvb4ZQ98Fm) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Drifting](https://open.spotify.com/album/1DUBPVEvAeWMvG663pp5Qc) | 2:27 | 2021-11-10 | 2022-07-29 |
 | [Drifting](https://open.spotify.com/track/6sQEOXvW9JyMiihWyCZv1E) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Drifting](https://open.spotify.com/album/00mz7xgsCHhPWtpJmHmr9U) | 2:00 | 2023-02-17 |  |
 | [Drifting](https://open.spotify.com/track/3hzuW73077GPScFT8IELkX) | [Van El](https://open.spotify.com/artist/2kBXWpkCBsooA31kqTFuog), [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy), [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [Drifting](https://open.spotify.com/album/6RW0gLcKjJMKa2DaI0EfvT) | 2:09 | 2022-07-22 | 2022-07-29 |
@@ -493,7 +494,7 @@
 | [Land Breeze](https://open.spotify.com/track/6Of1IIGfqbi3gmos9Hg0xx) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Land Breeze](https://open.spotify.com/album/2ViqL6IGro8GTWR3sV7dD4) | 2:34 | 2022-04-15 | 2022-12-10 |
 | [landscape](https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [landscape](https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY) | 2:42 | 2023-09-29 |  |
 | [Last Summer](https://open.spotify.com/track/5qaQn9EJqXN2oX3wnoahSP) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [Last Summer](https://open.spotify.com/album/4JPGEFUfwc7hh8lU1IuRCg) | 2:29 | 2021-11-10 | 2022-07-29 |
-| [Late but calm](https://open.spotify.com/track/4oWsy1FsUhuBmf5kFs2Jwi) | [Snowji](https://open.spotify.com/artist/1jBhtlpf2bKt06VAAjwmBK) | [Late but calm](https://open.spotify.com/album/6Z02cbUU8x5f4cA0Rd1srO) | 2:15 | 2022-08-19 |  |
+| [Late but calm](https://open.spotify.com/track/4oWsy1FsUhuBmf5kFs2Jwi) | [Snowji](https://open.spotify.com/artist/1jBhtlpf2bKt06VAAjwmBK) | [Late but calm](https://open.spotify.com/album/6Z02cbUU8x5f4cA0Rd1srO) | 2:15 | 2022-08-19 | 2023-10-04 |
 | [Late Night Stroll](https://open.spotify.com/track/6WHC4rp9WcHROE0Mc0x99O) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Late Night Stroll](https://open.spotify.com/album/6ZdowJt2oYX0daWT16JXG3) | 1:46 | 2022-08-05 | 2022-11-20 |
 | [Late Night Stroll](https://open.spotify.com/track/0GcMJrYjy6x8H5amj9hydy) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Late Night Stroll](https://open.spotify.com/album/0AntztnwTrIG3sDUarkHqc) | 1:46 | 2022-11-11 | 2023-04-28 |
 | [Late Night!](https://open.spotify.com/track/6JM8rwjU4pCpzeJ1WhSiLF) | [yengotti](https://open.spotify.com/artist/1RaEktJWhxIrpYnj1LmXHU) | [Late Night!](https://open.spotify.com/album/3DHZZAAx5uo21W6WH7mnwB) | 2:08 | 2021-11-10 | 2022-06-03 |

@@ -708,7 +708,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 124455,
       "name": "A Dona Aranha",
       "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
@@ -2473,6 +2473,28 @@
     },
     {
       "album": {
+        "name": "Assanhadinha",
+        "url": "https://open.spotify.com/album/4OCxpsJAeY4CjEovKLJXms"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "MC Durrony",
+          "url": "https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Assanhadinha",
+      "url": "https://open.spotify.com/track/3akR6DnboLGowHS3Zzk5IR"
+    },
+    {
+      "album": {
         "name": "Cola Aqui, Pt. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4TBovTffAvKSHeHn5ppnai"
       },
@@ -2896,7 +2918,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 126857,
       "name": "Automotivo Holiday",
       "url": "https://open.spotify.com/track/76KKMBT5UOwF0XDxtPwgsx"
@@ -2970,6 +2992,28 @@
       "duration_ms": 159428,
       "name": "Automotivo Sai da Caverna Sua Puta",
       "url": "https://open.spotify.com/track/76WTyJ79nzVKp5MV09hdGI"
+    },
+    {
+      "album": {
+        "name": "Automotivo Solitude",
+        "url": "https://open.spotify.com/album/2vIyshRIVgQHLcMWqcAU2k"
+      },
+      "artists": [
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "DJ DUCK",
+          "url": "https://open.spotify.com/artist/6IARCys83hSamwkFJYAdj4"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121860,
+      "name": "Automotivo Solitude",
+      "url": "https://open.spotify.com/track/0yHyFqe0f1MZXpAisMdSVb"
     },
     {
       "album": {
@@ -3208,6 +3252,28 @@
       "duration_ms": 100507,
       "name": "Baby Relaxa Encaixa Na Vibe",
       "url": "https://open.spotify.com/track/1GEs0MIyXWiSfadbDyTmDz"
+    },
+    {
+      "album": {
+        "name": "Back for More (with Anitta)",
+        "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131037,
+      "name": "Back for More (with Anitta)",
+      "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
     },
     {
       "album": {
@@ -4904,7 +4970,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 150000,
       "name": "Bom N\u00e3o, Morena",
       "url": "https://open.spotify.com/track/2yXRfu7dOiYPZ49ZGzkWoe"
@@ -8830,7 +8896,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 163013,
       "name": "DENTRO DA HILUX",
       "url": "https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI"
@@ -9160,7 +9226,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
@@ -10374,6 +10440,28 @@
       "duration_ms": 459230,
       "name": "Eis-me Aqui - Ao Vivo",
       "url": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE"
+    },
+    {
+      "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196988,
+      "name": "Ela - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kWcd9h9HoeXsKaDVhSOtj"
     },
     {
       "album": {
@@ -13896,7 +13984,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 211141,
       "name": "get him back!",
       "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
@@ -14416,6 +14504,24 @@
       "duration_ms": 247692,
       "name": "Gratid\u00e3o",
       "url": "https://open.spotify.com/track/0EYN8iQmNTIZz0avaUCfHC"
+    },
+    {
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "album": {
@@ -15614,7 +15720,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 222435,
       "name": "Iguaria",
       "url": "https://open.spotify.com/track/0xjlf07YcizDPmtLIGl5Og"
@@ -17300,6 +17406,64 @@
       "duration_ms": 79875,
       "name": "Let's Go (Hm, Hm, Hm)",
       "url": "https://open.spotify.com/track/3rlUeVUnxszXe49hTBUJbj"
+    },
+    {
+      "album": {
+        "name": "Let's Go 4",
+        "url": "https://open.spotify.com/album/5bL1JfGehas80YH7qoCyBL"
+      },
+      "artists": [
+        {
+          "name": "Dj GBR",
+          "url": "https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC GH do 7",
+          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 641941,
+      "name": "Let's Go 4",
+      "url": "https://open.spotify.com/track/2InS5VWKJQbsFBKOsf1cJB"
     },
     {
       "album": {
@@ -21052,7 +21216,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 145188,
       "name": "MONTAGEM CORAL",
       "url": "https://open.spotify.com/track/3XxgfnKzZAc8hZlsjBCOIK"
@@ -21645,6 +21809,24 @@
     },
     {
       "album": {
+        "name": "LUAN CITY 2.0 - FASE 2",
+        "url": "https://open.spotify.com/album/3HZoYUVz3aRNa7xL8LIg8Y"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190293,
+      "name": "MULHER SEGURA - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KhLYwYVhi13hMhxX73m55"
+    },
+    {
+      "album": {
         "name": "I AM YOU",
         "url": "https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW"
       },
@@ -21682,6 +21864,24 @@
       "duration_ms": 204893,
       "name": "Mutante",
       "url": "https://open.spotify.com/track/5rShS5dwU8nIe21jlQnbxK"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "album": {
@@ -25117,6 +25317,24 @@
     },
     {
       "album": {
+        "name": "Passa L\u00e1 em Casa Jesus",
+        "url": "https://open.spotify.com/album/61yf8smjeBzEwUNuJRWV4U"
+      },
+      "artists": [
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294122,
+      "name": "Passa L\u00e1 em Casa Jesus",
+      "url": "https://open.spotify.com/track/7qKr6x5EXFDxI5Ei6Xfaqj"
+    },
+    {
+      "album": {
         "name": "Passarinho",
         "url": "https://open.spotify.com/album/6hNdkT4xZMvF9z6IR2ZnKa"
       },
@@ -25556,7 +25774,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 208910,
       "name": "Personnalite",
       "url": "https://open.spotify.com/track/39za6I56DBTjr2JBJ2eIdo"
@@ -26586,7 +26804,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -27259,6 +27477,24 @@
     },
     {
       "album": {
+        "name": "To Be (Ao Vivo Em Nova Iorque EP1)",
+        "url": "https://open.spotify.com/album/5WeYemRNOgJ1sfcXJcgf6N"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178251,
+      "name": "Quase Algo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP"
+    },
+    {
+      "album": {
         "name": "Ciclone",
         "url": "https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v"
       },
@@ -27448,6 +27684,24 @@
       "duration_ms": 146823,
       "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
       "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
+    },
+    {
+      "album": {
+        "name": "Quem o Louco Entre Nos?",
+        "url": "https://open.spotify.com/album/0Ay7oZUBnS34KP3NJo59Ke"
+      },
+      "artists": [
+        {
+          "name": "Nadson",
+          "url": "https://open.spotify.com/artist/0PdTHXvqmbWdzAYqjPnINn"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175217,
+      "name": "Quem o Louco Entre Nos?",
+      "url": "https://open.spotify.com/track/0UOR0azT6xaBs35DqLzV47"
     },
     {
       "album": {
@@ -31439,6 +31693,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Deus",
+        "url": "https://open.spotify.com/album/13L5BLI0Z340LZbIFPSuKw"
+      },
+      "artists": [
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221860,
+      "name": "S\u00f3 Deus",
+      "url": "https://open.spotify.com/track/6n7aenCg07XnW4WP9pdTk8"
+    },
+    {
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
       },
@@ -33420,7 +33696,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 134485,
       "name": "Tropa dos Covardes",
       "url": "https://open.spotify.com/track/3AlJeYu0F3gbttq276kBcM"
@@ -34832,7 +35108,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 148615,
       "name": "Vem Quebrando",
       "url": "https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1"

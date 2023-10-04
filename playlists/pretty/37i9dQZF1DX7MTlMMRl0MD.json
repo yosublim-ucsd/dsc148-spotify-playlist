@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Enrique Iglesias y Maria Becerra",
-  "num_followers": 1922042,
+  "num_followers": 1922195,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDliMmEzMjlkNmE3NDcyNjA0OTUwYzVjOGY1YjRhZmMyMGQ2ZTQx",
+  "snapshot_id": "MCw2ODhmMjQzMWQ1OTM1ZjY3MTRlNWNhMDZlYWI4OTYzNzJkNWY0MGI5",
   "tracks": [
     {
       "added_at": "2023-09-29 06:15:12",
@@ -503,18 +503,22 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
-        "name": "El Amor",
-        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
+        "name": "Iluminatti",
+        "url": "https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO"
       },
       "artists": [
         {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 204733,
-      "name": "La Asesina",
-      "url": "https://open.spotify.com/track/1WoDc1x28zHmxnPvvM5GLh"
+      "duration_ms": 221773,
+      "name": "Soy Mia",
+      "url": "https://open.spotify.com/track/5anRovfNkeo83bshruaWX9"
     },
     {
       "added_at": "2023-09-29 06:15:12",
@@ -555,22 +559,18 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
-        "name": "Iluminatti",
-        "url": "https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO"
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
       },
       "artists": [
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
         }
       ],
-      "duration_ms": 221773,
-      "name": "Soy Mia",
-      "url": "https://open.spotify.com/track/5anRovfNkeo83bshruaWX9"
+      "duration_ms": 204733,
+      "name": "La Asesina",
+      "url": "https://open.spotify.com/track/1WoDc1x28zHmxnPvvM5GLh"
     },
     {
       "added_at": "2023-09-29 06:15:12",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-09-29 06:15:12",
       "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq"
-      },
-      "artists": [
-        {
-          "name": "Lil Eddie",
-          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
-        }
-      ],
-      "duration_ms": 203751,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe"
-    },
-    {
-      "added_at": "2023-09-29 06:15:12",
-      "album": {
         "name": "Religi\u00f3n",
         "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 220903,
       "name": "Religi\u00f3n",
       "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
+    },
+    {
+      "added_at": "2023-09-29 06:15:12",
+      "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq"
+      },
+      "artists": [
+        {
+          "name": "Lil Eddie",
+          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
+        }
+      ],
+      "duration_ms": 203751,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe"
     },
     {
       "added_at": "2023-09-29 06:15:12",

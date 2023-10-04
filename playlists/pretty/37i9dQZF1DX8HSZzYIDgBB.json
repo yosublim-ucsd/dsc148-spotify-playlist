@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Immasoul en portada.",
-  "num_followers": 34443,
+  "num_followers": 34455,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTM0MzU2OGU4ZTc3ZjMzMWE2YzBlZWE5NmI3MzZmY2EwNDUyMzY0",
+  "snapshot_id": "MCw0ODdmNGI5N2FjYmJkZjQ5YjQ5NTVmNWU2MjM0NzNhMjI3MTYzNzc5",
   "tracks": [
     {
       "added_at": "2023-08-01 03:44:51",
@@ -769,6 +769,22 @@
       "url": "https://open.spotify.com/track/48IuvQA45zrS1FJBKhOLH8"
     },
     {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Mabanzo",
+        "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
+      },
+      "artists": [
+        {
+          "name": "Juanita Euka",
+          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
+        }
+      ],
+      "duration_ms": 291786,
+      "name": "Alma Seca",
+      "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
+    },
+    {
       "added_at": "2023-06-01 16:51:17",
       "album": {
         "name": "RAMA",
@@ -791,18 +807,18 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Mabanzo",
-        "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
+        "name": "Te Olvidaste",
+        "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
       },
       "artists": [
         {
-          "name": "Juanita Euka",
-          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
         }
       ],
-      "duration_ms": 291786,
-      "name": "Alma Seca",
-      "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
+      "duration_ms": 182470,
+      "name": "Te Olvidaste",
+      "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Te Olvidaste",
-        "url": "https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 182470,
-      "name": "Te Olvidaste",
-      "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "Noest\u00e1saqu\u00ed",
         "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 202066,
       "name": "Window Seat",
       "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
-      },
-      "artists": [
-        {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
-        }
-      ],
-      "duration_ms": 198048,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -911,6 +895,22 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198048,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Madremonte",
         "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
       },
@@ -923,26 +923,6 @@
       "duration_ms": 263096,
       "name": "Contra la Corriente",
       "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Piedras del Sol",
-        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
-      },
-      "artists": [
-        {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "Piedras del Sol",
-      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1011,6 +991,26 @@
       "duration_ms": 277589,
       "name": "Los Estimados",
       "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Piedras del Sol",
+        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "Piedras del Sol",
+      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
+        "name": "Nubecita",
+        "url": "https://open.spotify.com/album/0hG60eOpUIfy9ERatkO3wt"
+      },
+      "artists": [
+        {
+          "name": "Montoya",
+          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
+        },
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Nubecita",
+      "url": "https://open.spotify.com/track/5RR90wjPUyoG8nQcvJkjMz"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 288519,
       "name": "Futuro Incierto",
       "url": "https://open.spotify.com/track/4Rz2h33CcrSLpQ4EScZmPJ"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Nubecita",
-        "url": "https://open.spotify.com/album/0hG60eOpUIfy9ERatkO3wt"
-      },
-      "artists": [
-        {
-          "name": "Montoya",
-          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
-        },
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Nubecita",
-      "url": "https://open.spotify.com/track/5RR90wjPUyoG8nQcvJkjMz"
     }
   ],
   "unique_name": "tropic.alt",

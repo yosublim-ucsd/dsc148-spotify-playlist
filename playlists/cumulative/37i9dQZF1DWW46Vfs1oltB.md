@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:BewhY\(비와이\)\)
 
-998 songs - 2 day 6 hr 50 min
+999 songs - 2 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [Leave Me Alone \(???\)](https://open.spotify.com/track/5pZbWZyrprBrg5xYtSO1gK) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [Leave Me Alone \(???\)](https://open.spotify.com/album/066c1K3HBglKKm2Hve3sFr) | 1:25 | 2022-06-09 | 2022-06-30 |
 | [Legacy](https://open.spotify.com/track/4emIEej0tph5aZGzUfNWEP) | [Raphael](https://open.spotify.com/artist/5ZmB3eXx6oDmzicmFdcqmr), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [EPTEND](https://open.spotify.com/artist/3X5atTeD09WXIpSzEq1Mez) | [THE:RISE 5 with Baund](https://open.spotify.com/album/0u5wY8PVDFTQdBMMx2sMrB) | 3:08 | 2023-03-06 | 2023-09-08 |
 | [Let me know, God \(Feat\. C JAMM, Jvcki Wai\)](https://open.spotify.com/track/35QdNOzsIMw1ZXElaGH8Ec) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [NEO CHRISTIAN](https://open.spotify.com/album/53L4UEcxgbL0XE1XXN6B3h) | 4:38 | 2021-12-18 | 2022-06-10 |
+| [LIBERATION](https://open.spotify.com/track/2mOJ1t5pfeZFfUeUbrNhf9) | [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM) | [LIBERATION](https://open.spotify.com/album/5U3i7JRnUKtJqylZfFpTXh) | 3:32 | 2023-10-03 |  |
 | [LIE \(feat\. 24hrs\)](https://open.spotify.com/track/0ZcCW6QGwo0fkE1sBtKfJs) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [LIE \(feat\. 24hrs\)](https://open.spotify.com/album/3jMOeq7cZkOT1xqEtADEYX) | 2:53 | 2021-12-21 | 2022-07-01 |
 | [Lie \(Feat\. BIG Naughty\)](https://open.spotify.com/track/4B6lrEWB6NixTYhEJ5P2cT) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Lie \(Feat\. BIG Naughty\)](https://open.spotify.com/album/4goiWh21TYMnfxRkf3XsmB) | 3:35 | 2021-12-21 | 2022-07-04 |
 | [Life Goes On \(Feat\. pH\-1\)](https://open.spotify.com/track/7DNT98RushlHadPmT3qaiX) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Life Goes On \(Feat\. pH\-1\)](https://open.spotify.com/album/5WDXQ5ZLgRb7ckaKzk2AHw) | 3:04 | 2021-12-21 | 2022-07-03 |

@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 6238,
+  "num_followers": 6265,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDNjNTEzN2Y5YjJkZjFlYjFkM2NjZmQ3ODFiM2IxOTczNGYzOTEz",
+  "snapshot_id": "MCwxOGU2MmVmZGJiZmY2ZWI2N2EwZDljYjc4OTYwNDcyNDY5YjYyNWMy",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -495,38 +495,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Unfolding",
-        "url": "https://open.spotify.com/album/0gflF9tUooliM9pyoUx7BO"
-      },
-      "artists": [
-        {
-          "name": "Chequerboard",
-          "url": "https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr"
-        }
-      ],
-      "duration_ms": 453700,
-      "name": "A Field of Night",
-      "url": "https://open.spotify.com/track/0XhNhTydcNnkbwYguBsPt3"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 98946,
-      "name": "Made of Metal",
-      "url": "https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Reassemblage",
         "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
@@ -547,18 +515,34 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Book of Life",
-        "url": "https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR"
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
       "artists": [
         {
-          "name": "Masayoshi Fujita",
-          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 264683,
-      "name": "Fog",
-      "url": "https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl"
+      "duration_ms": 98946,
+      "name": "Made of Metal",
+      "url": "https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "The Unfolding",
+        "url": "https://open.spotify.com/album/0gflF9tUooliM9pyoUx7BO"
+      },
+      "artists": [
+        {
+          "name": "Chequerboard",
+          "url": "https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr"
+        }
+      ],
+      "duration_ms": 453700,
+      "name": "A Field of Night",
+      "url": "https://open.spotify.com/track/0XhNhTydcNnkbwYguBsPt3"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -579,18 +563,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Ravedeath, 1972",
-        "url": "https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy"
+        "name": "Book of Life",
+        "url": "https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Masayoshi Fujita",
+          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
         }
       ],
-      "duration_ms": 231906,
-      "name": "Analog Paralysis, 1978",
-      "url": "https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5"
+      "duration_ms": 264683,
+      "name": "Fog",
+      "url": "https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -607,6 +591,22 @@
       "duration_ms": 131000,
       "name": "Kae",
       "url": "https://open.spotify.com/track/033Vg3im3XjMERhAf180cN"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Ravedeath, 1972",
+        "url": "https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Analog Paralysis, 1978",
+      "url": "https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Virgins",
-        "url": "https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 157369,
-      "name": "Live Room Out",
-      "url": "https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Spells (Special Edition)",
         "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 200160,
       "name": "Selene",
       "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Virgins",
+        "url": "https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 157369,
+      "name": "Live Room Out",
+      "url": "https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Sea Island",
-        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 371480,
-      "name": "Holding Pattern",
-      "url": "https://open.spotify.com/track/565i055O62arjZp2Z3yJed"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Passive Aggressive",
         "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 207993,
       "name": "Hanging Glass Structure",
       "url": "https://open.spotify.com/track/7M2AMJZISkdKAzHg7n2CUZ"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Sea Island",
+        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 371480,
+      "name": "Holding Pattern",
+      "url": "https://open.spotify.com/track/565i055O62arjZp2Z3yJed"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Best Driving Music in the World Ever",
-        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
       },
       "artists": [
         {
-          "name": "Sean Curtis Patrick",
-          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        },
+        {
+          "name": "Sebastian Plano",
+          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
         }
       ],
-      "duration_ms": 250341,
-      "name": "We Search for the Lights",
-      "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
+      "duration_ms": 214668,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
+        "name": "The Best Driving Music in the World Ever",
+        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
       },
       "artists": [
         {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        },
-        {
-          "name": "Sebastian Plano",
-          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
+          "name": "Sean Curtis Patrick",
+          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
         }
       ],
-      "duration_ms": 214668,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
+      "duration_ms": 250341,
+      "name": "We Search for the Lights",
+      "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Goodbye To Language",
+        "url": "https://open.spotify.com/album/10bvLR2PyyfhP9xzU9feBu"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+        }
+      ],
+      "duration_ms": 158950,
+      "name": "Low Sudden",
+      "url": "https://open.spotify.com/track/3kptDtRlM4b7et3gUzhilp"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Distant and Spirals",
         "url": "https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R"
       },
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Goodbye To Language",
-        "url": "https://open.spotify.com/album/10bvLR2PyyfhP9xzU9feBu"
-      },
-      "artists": [
-        {
-          "name": "Daniel Lanois",
-          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
-        }
-      ],
-      "duration_ms": 158950,
-      "name": "Low Sudden",
-      "url": "https://open.spotify.com/track/3kptDtRlM4b7et3gUzhilp"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Xen",
         "url": "https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe"
       },
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Travels in Constants Volume 24",
+        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
+      },
+      "artists": [
+        {
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
+      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "LUX 1",
         "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Travels in Constants Volume 24",
-        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
-      },
-      "artists": [
-        {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
-      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Reassemblage",
         "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Curious Things",
-        "url": "https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 328826,
-      "name": "Ogives / Redistributed",
-      "url": "https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Breaks My Heart Each Time",
         "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 558877,
       "name": "Diminishing Emotion",
       "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Curious Things",
+        "url": "https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 328826,
+      "name": "Ogives / Redistributed",
+      "url": "https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "American Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
-      },
-      "artists": [
-        {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
-        }
-      ],
-      "duration_ms": 106643,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "We Will Always Be",
         "url": "https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 364253,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "American Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
+      },
+      "artists": [
+        {
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+        }
+      ],
+      "duration_ms": 106643,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP"
     },
     {
       "added_at": "2023-06-07 15:21:34",

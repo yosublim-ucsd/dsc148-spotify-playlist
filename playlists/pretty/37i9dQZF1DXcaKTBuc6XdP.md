@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,546 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,551 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 4 | [How Great Is Our God](https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 |
 | 5 | [My Lighthouse](https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [The Art Of Celebration](https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b) | 3:44 |
 | 6 | [Awesome God / God Only Knows \- Campfire Medley](https://open.spotify.com/track/4ythCnq2XWIHzLqC9GnUE3) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [Bailee Madison](https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE), [Jahbril Cook](https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT), [Kat Conner Sterling](https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD), [Iain Tucker](https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 2:19 |
-| 7 | [Start a Fire](https://open.spotify.com/track/4jdQaEDZ4y3x54FzxnfYAQ) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/27wNCWjZQneJ6SFvCWpUJc) | 3:04 |
-| 8 | [Give Me Faith](https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Kingdom Come](https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH) | 4:54 |
+| 7 | [Give Me Faith](https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Kingdom Come](https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH) | 4:54 |
+| 8 | [Start a Fire](https://open.spotify.com/track/4jdQaEDZ4y3x54FzxnfYAQ) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/27wNCWjZQneJ6SFvCWpUJc) | 3:04 |
 | 9 | [The Heart Of Worship](https://open.spotify.com/track/5N23UhzMfAuCYjwhSbTQwH) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:18 |
 | 10 | [When You Walk Into The Room](https://open.spotify.com/track/22wEdAfAi35HqfNBCRzaz4) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Kingdom Come](https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR) | 4:48 |
 | 11 | [Oceans \(Where Feet May Fail\) \- Radio Version](https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Oceans](https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v) | 4:09 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 40 | [More Than Good Enough](https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:38 |
 | 41 | [Signs](https://open.spotify.com/track/2iLIzTOmpyPv24l0mfdhLA) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [How Could I Be Silent](https://open.spotify.com/album/5MQxNJ9Fg8AyhHmHf4VUdY) | 3:32 |
 | 42 | [Amazing Grace](https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Hymns](https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd) | 2:06 |
-| 43 | [My Strength \(feat\. Emily Hearn\)](https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb), [Emily Hearn](https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1) | [Alive](https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k) | 3:00 |
-| 44 | [Lift You Higher](https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714) | [Copper Pointe Worship](https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV) | [New Sound](https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf) | 3:08 |
-| 45 | [I Am Alive](https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA) | [SL Worship](https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP) | [I Am Alive](https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR) | 3:48 |
+| 43 | [Lift You Higher](https://open.spotify.com/track/1D1pCyVeec4FdazVM7l714) | [Copper Pointe Worship](https://open.spotify.com/artist/2uLK8YHG3eIG54kvlX2WxV) | [New Sound](https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf) | 3:08 |
+| 44 | [I Am Alive](https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA) | [SL Worship](https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP) | [I Am Alive](https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR) | 3:48 |
+| 45 | [My Strength \(feat\. Emily Hearn\)](https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb), [Emily Hearn](https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1) | [Alive](https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k) | 3:00 |
 | 46 | [Living in Freedom](https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK) | [Stephen Witt](https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg) | [Living in Freedom](https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG) | 4:26 |
 | 47 | [Nothing Is Impossible](https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Ultimate Kids Worship](https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd) | 3:52 |
 | 48 | [Where I Belong](https://open.spotify.com/track/5Ah9mt916VYxP1DCpdUT4y) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4) | 3:48 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [Every Move I Make](https://open.spotify.com/track/1HBWWoS8rdvZtPLdK4UY6g) | [Maranatha! Praise Band](https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa) | [Praise And Worship Top 40](https://open.spotify.com/album/41yxtxd3tOJ7CXlUPGnfWg) | 3:59 |
 | 53 | [Belong](https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Belong](https://open.spotify.com/album/23UWXk1FORanft5u9boft9) | 3:48 |
 
-Snapshot ID: `MCw0YjAwYTc5ZTNhZjU3YzU0ODQ5ZmJjNGY0ZWFhNDQzODNjNjc3Zjc1`
+Snapshot ID: `MCwwNmY0ZTU2NjQzMDA5ZjJlZGRkYzRkMjFlZTVhY2Y5YzkxMjJjZWMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,371 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,441 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 9 | [Bin Tere \- Reprise](https://open.spotify.com/track/7zG4akZAie70mOCMmtoacS) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 3:40 |
 | 10 | [Sham](https://open.spotify.com/track/5Q58RkKyUafm15Syxg79DW) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Aisha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc) | 4:44 |
 | 11 | [Samjhawan \(Unplugged by Alia Bhatt\) \[From "Humpty Sharma Ki Dulhania"\]](https://open.spotify.com/track/3TrdGeV5bEpHezExHlsguD) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Samjhawan \(Unplugged by Alia Bhatt\) \[From "Humpty Sharma Ki Dulhania"\]](https://open.spotify.com/album/21bDtSHJ5mVCeNBpIRsToX) | 3:35 |
-| 12 | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/album/5IoxrWkZLHmHIhZLHyiAjj) | 1:15 |
+| 12 | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/4kL3wGVwDpOVn8NOmKAopG) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \(Jonita's Version\)](https://open.spotify.com/album/0xKZP5O8CSbmMn5iOD9hpa) | 1:15 |
 | 13 | [Saanjha \(From "Zara Hatke Zara Bachke"\) \- Unplugged](https://open.spotify.com/track/5qXXxsY0eLQikM6KEp91P7) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Saanjha \(From "Zara Hatke Zara Bachke"\) \[Unplugged\]](https://open.spotify.com/album/3qStuUsmAmUDiLDqbtGF8C) | 3:17 |
 | 14 | [Meri Tum Ho \(Unplugged\)](https://open.spotify.com/track/1BVlbuPTabrUN73h7LgyaY) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 3:33 |
 | 15 | [Shayad \- Reprise](https://open.spotify.com/track/2L2YNB3YIletW4fUtwphDv) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Heer](https://open.spotify.com/track/1CapGmE3jqZpEATdujksnX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Jab Tak Hai Jaan](https://open.spotify.com/album/3G0diKadKaufyFybV3TzuP) | 5:14 |
 | 50 | [Rozana](https://open.spotify.com/track/1mYcukuz7uow0wc7DmPXHU) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Rozana \(From "Naam Shabana"\)](https://open.spotify.com/album/6QsWVJu3QawRgoAgUH9QX5) | 4:34 |
 
-Snapshot ID: `MCwzZGQwZDg0MmY2ZDBjZDgxMzJkYjE0ZjRmMDgxZWU2ZTc0OGM2OGZh`
+Snapshot ID: `MCwzZmM1ODIxN2VlMGYwMjU0OGIyNTliN2IyMGEyNjExYjUzN2NkOGI5`

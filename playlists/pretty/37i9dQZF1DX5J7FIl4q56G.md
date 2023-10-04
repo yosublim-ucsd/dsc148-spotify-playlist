@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Amaranthe
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,269 likes - 62 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,409 likes - 62 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 61 | [Pendulum Soul](https://open.spotify.com/track/2KTbdYwBj8skQ4TsJ3jbA5) | [Peasant](https://open.spotify.com/artist/01YDzkrxK32m3V88JKDxDL) | [Pendulum Soul](https://open.spotify.com/album/1wL46IJpUhKPeaUlFPVEL9) | 2:24 |
 | 62 | [The Fakest Being](https://open.spotify.com/track/1OgJaSYK0Gax62Ru1aCoRd) | [blossom.](https://open.spotify.com/artist/7k8IWkUoVHa4LD5dF5lPxI) | [The Fakest Being](https://open.spotify.com/album/2WdVeFoguRPOAyrUxlBN5Y) | 2:05 |
 
-Snapshot ID: `MCw0ZDA4N2MxZTRiOGNiNDQzM2NkMDAzYzI0MTg3Njk0YmVlZDI1OTdm`
+Snapshot ID: `MCxmNjk3MWY2MjgyZDAyNzMzMDVkZTJiYmMzYWRlOGUyMDc4YjEzYTIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzHEab3T1o1.md) - [plain]
 
 > El junte entre las estrellas del dance global y del urbano latino\. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,525 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,524 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzHEab3T1o1.md) - [plain]
 | 44 | [QueLoQue \(feat\. Paloma Mami\)](https://open.spotify.com/track/1089I4FLizCRim8hc6eKST) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:45 |
 | 45 | [All Night](https://open.spotify.com/track/1hpXAtEeEpiQXHMwbDtGdp) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:25 |
 
-Snapshot ID: `MCw1YWRiOTVlYTZiNzQ4NDVjNTE5MTVhMDU5ZmZkZjkxMjFkZWRiZmI1`
+Snapshot ID: `MCw3MDBjMjQwNzc3MjMwNjIyOThkNjU3MWI3MWU1MWVmNmM0NzRlYjBm`

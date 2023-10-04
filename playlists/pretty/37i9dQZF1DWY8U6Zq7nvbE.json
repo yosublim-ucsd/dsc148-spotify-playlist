@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs and pop covers right now.",
-  "num_followers": 1135632,
+  "num_followers": 1135644,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjhlYzJmNzlmNjQzYWIyMzEzMzJmMDljZjU1NmMwYzU0NDQ3N2Vj",
+  "snapshot_id": "MCxmYzkyYmVhOTM2OGRlMDM3ZWI5Yjc2OTdhNjljY2ZhMzM2MTljYWU2",
   "tracks": [
     {
       "added_at": "2023-08-31 14:40:35",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Can't Tame Her (Acoustic)",
-        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Can't Tame Her - Acoustic",
-      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Make Me (Cry) [Acoustic Version]",
         "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 232906,
       "name": "Make Me (Cry) - Acoustic Version",
       "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Can't Tame Her (Acoustic)",
+        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Can't Tame Her - Acoustic",
+      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 141286,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Girls Like You",
         "url": "https://open.spotify.com/album/0m8do2sQQ59xwjG6sLkOmT"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 217772,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/6J2gTwqgxuYnIU5yJt64Id"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 141286,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "see you soon",
+        "url": "https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "duration_ms": 158647,
+      "name": "see you soon",
+      "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Body Back (feat. Maia Wright) [Acoustic]",
         "url": "https://open.spotify.com/album/0qVzs84aveFRnx0lRxkSRc"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 196363,
       "name": "Body Back (feat. Maia Wright) - Acoustic",
       "url": "https://open.spotify.com/track/72QN4En2X8QFxqJV6pvxzR"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "see you soon",
-        "url": "https://open.spotify.com/album/3R0uLgP4cb8h4BEMzmAvLW"
-      },
-      "artists": [
-        {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
-        }
-      ],
-      "duration_ms": 158647,
-      "name": "see you soon",
-      "url": "https://open.spotify.com/track/3lAWDyjTH7SeHckJRJOGrf"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Redbone",
+        "url": "https://open.spotify.com/album/5iBdBYWTKoreXGuKlxBznd"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/1AMaBApVmeyBWai8k0QAMQ"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Breaking Me (Remixes)",
         "url": "https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 194245,
       "name": "Nervous - Piano Version",
       "url": "https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Redbone",
-        "url": "https://open.spotify.com/album/5iBdBYWTKoreXGuKlxBznd"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hale",
-          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/1AMaBApVmeyBWai8k0QAMQ"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/0UkPFZiEY8VJLDiWFuYiqd"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "duration_ms": 191496,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/0Vdw0avLSgSt2uZoSZOXTx"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 228186,
       "name": "Always You (Wedding Version) [From Maybe I Do]",
       "url": "https://open.spotify.com/track/3jk8QofgnK5a2NfZYYPcVC"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/0UkPFZiEY8VJLDiWFuYiqd"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 191496,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/0Vdw0avLSgSt2uZoSZOXTx"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1683,38 +1683,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/1hBcP9vQCIkoKfJRtGh4zX"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kristine",
-          "url": "https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9"
-        }
-      ],
-      "duration_ms": 229855,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/4fiMHTOM1LyoqUKxCj540L"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ"
-      },
-      "artists": [
-        {
-          "name": "Fink's Mood",
-          "url": "https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "STAY",
         "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
       },
@@ -1731,6 +1699,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/1hBcP9vQCIkoKfJRtGh4zX"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kristine",
+          "url": "https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9"
+        }
+      ],
+      "duration_ms": 229855,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/4fiMHTOM1LyoqUKxCj540L"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "We Found Love - Acoustic",
         "url": "https://open.spotify.com/album/0YuVbTUWFSxAPPQCGAat0u"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 157714,
       "name": "We Found Love - Acoustic",
       "url": "https://open.spotify.com/track/4qdLbr82uc46ZDr7pPsbR0"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ"
+      },
+      "artists": [
+        {
+          "name": "Fink's Mood",
+          "url": "https://open.spotify.com/artist/1iUB72crNwlgJybWBA5Fl8"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Jealous (Acoustic)",
-        "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 211639,
-      "name": "Jealous (Acoustic)",
-      "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "how do you sleep?",
         "url": "https://open.spotify.com/album/6HHO3PkWgYYK6D0zAS9VUm"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 223340,
       "name": "how do you sleep?",
       "url": "https://open.spotify.com/track/6vRNE5P6s0GIZRQPJgLpF6"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Jealous (Acoustic)",
+        "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "duration_ms": 211639,
+      "name": "Jealous (Acoustic)",
+      "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "25 Acoustic (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2hDCebKKttYzWSJEnp9m0a"
-      },
-      "artists": [
-        {
-          "name": "Sofia Karlberg",
-          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
-        }
-      ],
-      "duration_ms": 217548,
-      "name": "Send My Love (To Your New Lover) - Acoustic Version",
-      "url": "https://open.spotify.com/track/2NZXGZVgML83MePjoxxofN"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/3D2orXAe3EPWBBB1hK0AHn"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 211043,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3fGDYm9IW5OhqmJ7juHDM4"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "25 Acoustic (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2hDCebKKttYzWSJEnp9m0a"
+      },
+      "artists": [
+        {
+          "name": "Sofia Karlberg",
+          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
+        }
+      ],
+      "duration_ms": 217548,
+      "name": "Send My Love (To Your New Lover) - Acoustic Version",
+      "url": "https://open.spotify.com/track/2NZXGZVgML83MePjoxxofN"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2695,6 +2695,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Strangers EP Unplugged",
+        "url": "https://open.spotify.com/album/139IHc8keqLycMck1EvMTz"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 242581,
+      "name": "Girl I Wish I Didn't Know - Acoustic",
+      "url": "https://open.spotify.com/track/2Zmt6TqxG2UGDxg4SjNVkA"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW"
       },
@@ -2723,22 +2739,6 @@
       "duration_ms": 256730,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Strangers EP Unplugged",
-        "url": "https://open.spotify.com/album/139IHc8keqLycMck1EvMTz"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 242581,
-      "name": "Girl I Wish I Didn't Know - Acoustic",
-      "url": "https://open.spotify.com/track/2Zmt6TqxG2UGDxg4SjNVkA"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Dreamer (Acoustic)",
-        "url": "https://open.spotify.com/album/7zMLBMNzzmf2o7Q1COPkpX"
-      },
-      "artists": [
-        {
-          "name": "Malik Harris",
-          "url": "https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Dreamer - Acoustic",
-      "url": "https://open.spotify.com/track/6Gafs2pJPXOqKAIHtIgpGx"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "i get high (feat. Joy Oladokun)",
         "url": "https://open.spotify.com/album/0ajUz0nm6V1J4BLTX7h9Md"
       },
@@ -3003,6 +2987,22 @@
       "duration_ms": 123807,
       "name": "i get high (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/1wq96gZHLUWNRwlevS99ru"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Dreamer (Acoustic)",
+        "url": "https://open.spotify.com/album/7zMLBMNzzmf2o7Q1COPkpX"
+      },
+      "artists": [
+        {
+          "name": "Malik Harris",
+          "url": "https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Dreamer - Acoustic",
+      "url": "https://open.spotify.com/track/6Gafs2pJPXOqKAIHtIgpGx"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -3259,22 +3259,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "I'll Save A Place",
-        "url": "https://open.spotify.com/album/673L0hxi8CysOnbBUot1fZ"
-      },
-      "artists": [
-        {
-          "name": "Carly Rose",
-          "url": "https://open.spotify.com/artist/0Z49rYPKsyCCLGq1UiHrBe"
-        }
-      ],
-      "duration_ms": 181313,
-      "name": "I'll Save A Place",
-      "url": "https://open.spotify.com/track/5f1yZuAiLBdKVXzzBQ1g5j"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/4rVEM2O5IsozLPU2u86TR3"
       },
@@ -3287,6 +3271,22 @@
       "duration_ms": 187409,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/1dHa5Z7tEurFuZUaySS749"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "I'll Save A Place",
+        "url": "https://open.spotify.com/album/673L0hxi8CysOnbBUot1fZ"
+      },
+      "artists": [
+        {
+          "name": "Carly Rose",
+          "url": "https://open.spotify.com/artist/0Z49rYPKsyCCLGq1UiHrBe"
+        }
+      ],
+      "duration_ms": 181313,
+      "name": "I'll Save A Place",
+      "url": "https://open.spotify.com/track/5f1yZuAiLBdKVXzzBQ1g5j"
     },
     {
       "added_at": "2023-08-31 14:40:35",

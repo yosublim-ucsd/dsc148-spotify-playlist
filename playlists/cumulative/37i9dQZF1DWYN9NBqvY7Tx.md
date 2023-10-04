@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-427 songs - 22 hr 56 min
+428 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 | 2022-10-07 |  |
 | [Live 4 Ever](https://open.spotify.com/track/2J8f89cDYoFuEVZAXKN3sH) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Live 4 Ever](https://open.spotify.com/album/4RT18SyW0vxHw7pjmfEQZS) | 2:13 | 2023-03-31 | 2023-06-07 |
 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 | 2023-07-18 |  |
-| [Lone Wolf](https://open.spotify.com/track/2jliyCiGz19fl2SgCfK4T2) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Lone Wolf](https://open.spotify.com/album/7muDNCTjPlomqHUaUToHUS) | 3:30 | 2023-09-22 |  |
+| [Lone Wolf](https://open.spotify.com/track/2jliyCiGz19fl2SgCfK4T2) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Lone Wolf](https://open.spotify.com/album/7muDNCTjPlomqHUaUToHUS) | 3:30 | 2023-09-22 | 2023-10-04 |
 | [Lone Wolf](https://open.spotify.com/track/3n9nDP4jEoBlatxzLCFAqw) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Lone Wolf](https://open.spotify.com/album/3pwQFoSEOeM7hXtkIT5kdv) | 3:30 | 2022-05-06 | 2022-07-29 |
 | [Lonely](https://open.spotify.com/track/3dRnHNrBmPM5hw3blJyLRt) | [Beatmount](https://open.spotify.com/artist/78dUeeMpavPUMBv0kGCape) | [Lonely](https://open.spotify.com/album/1Z7tkHXaOtRKXz6d03UUQ8) | 2:18 | 2022-05-06 | 2022-07-28 |
 | [Lonely With You](https://open.spotify.com/track/4Y5FAQrTSqI2mlDF5i8lTi) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Lonely With You](https://open.spotify.com/album/37VdhrfrONjJFL21OinnZv) | 3:25 | 2022-10-07 |  |
@@ -263,6 +263,7 @@
 | [Other Side](https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:31 | 2023-05-05 |  |
 | [Out of Order](https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Out of Order](https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM) | 2:51 | 2022-07-14 | 2022-07-27 |
 | [Pandora](https://open.spotify.com/track/3ihpDP7D2ZK769grmaGjlO) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Pandora](https://open.spotify.com/album/4dxh48ZuZtwKbMQ5GCm0UI) | 3:41 | 2022-05-06 | 2022-07-29 |
+| [Party Everywhere](https://open.spotify.com/track/3HHqSilU2nbhzi6S9tWbCV) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Party Everywhere](https://open.spotify.com/album/3lPc7CF3ysHqLgyFSMxJPE) | 2:10 | 2023-09-29 |  |
 | [Party Girl \- VIZE Remix](https://open.spotify.com/track/64vgWvPf41BreVeNomZ3nv) | [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Party Girl \(VIZE Remix\)](https://open.spotify.com/album/7fqLVmRJezUeXbYhcoCE7V) | 2:34 | 2022-05-06 |  |
 | [Party Jumpin'](https://open.spotify.com/track/2S5e00424Wsh4bVcvV8AKc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jamie Brown](https://open.spotify.com/artist/1itVP3ysVe9MMrYCeOKMsO) | [Party Jumpin'](https://open.spotify.com/album/2OCsxR71jK4ONRHTMacXRg) | 2:35 | 2023-01-13 | 2023-03-26 |
 | [PERFECT CHERRY BLOSSOM](https://open.spotify.com/track/6ZPuQzivx212dWhy688ain) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [PERFECT CHERRY BLOSSOM](https://open.spotify.com/album/20FG884jVaTdrTHcnkev9d) | 4:36 | 2022-06-10 | 2022-11-30 |

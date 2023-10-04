@@ -4,7 +4,7 @@
 
 > A playlist to get you through your whole workday.
 
-396 songs - 22 hr 33 min
+397 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Heaven](https://open.spotify.com/track/5M5IB1cNzJqbWFEUK4a1MD) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Broad Stories](https://open.spotify.com/album/0DjyKeAM1LL48qIipVMOBD) | 3:11 | 2021-04-30 | 2023-08-18 |
 | [Heaven](https://open.spotify.com/track/6eJ2rRy68QOduhNLW3M1Yy) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Amethyst](https://open.spotify.com/album/51jD9mF5wg2WMBd4xVeYTi) | 3:11 | 2021-04-30 |  |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/58mFu3oIpBa0HLNeJIxsw3) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth](https://open.spotify.com/album/4PLM698gAODdpx7Wy3LNPj) | 4:07 | 2021-04-30 | 2022-08-15 |
-| [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 | 2021-04-30 |  |
+| [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 | 2021-04-30 | 2023-10-04 |
 | [Her](https://open.spotify.com/track/2GjQ5KNXggsIRpx5ZUj2zX) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Her](https://open.spotify.com/album/2RewEjwnjhUnDlGpFnaBNx) | 2:57 | 2021-04-30 | 2023-06-05 |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2021-04-30 |  |
 | [High Water](https://open.spotify.com/track/7GNvm2eN2sgD1rujyVC4QG) | [Tim Schou](https://open.spotify.com/artist/5XThsmRraC5gvRpetD2S1q) | [High Water](https://open.spotify.com/album/1v7qofEI78gKnKexc0oNMj) | 2:59 | 2021-04-30 | 2022-07-28 |
@@ -342,6 +342,7 @@
 | [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 | 2021-04-30 | 2023-04-09 |
 | [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 | 2021-04-30 | 2022-07-31 |
 | [That Don't Impress Me Much \- International Mix](https://open.spotify.com/track/54m5HrUjtbaeLQ7RX5Ilk1) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version / Special Edition\)](https://open.spotify.com/album/2eiMbazzkhkBAD2qRujLop) | 3:58 | 2021-04-30 | 2023-08-28 |
+| [That Don't Impress Me Much \- International Mix](https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:59 | 2021-04-30 |  |
 | [The Book of You & I](https://open.spotify.com/track/2CSrG5fnBpcdfPXg7sJUBi) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 3:27 | 2021-04-30 | 2022-11-13 |
 | [The Book of You & I](https://open.spotify.com/track/6goVVcwzy7RtZdytF5XADW) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Book of You & I](https://open.spotify.com/album/3xHrlh93xHHP1c5zYiaUad) | 3:27 | 2021-04-30 | 2022-07-29 |
 | [The Boys Of Summer](https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Building The Perfect Beast](https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i) | 4:48 | 2021-04-30 |  |

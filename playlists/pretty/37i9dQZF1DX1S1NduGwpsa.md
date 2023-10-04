@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gregory Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,752 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,855 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Because of You \- 2023](https://open.spotify.com/track/3ivoMu5Y5iDA4qjTElozbd) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Because of You \(2023\)](https://open.spotify.com/album/2UGDVSH0KTEPidJeCs8z6P) | 3:37 |
 | 50 | [Teo](https://open.spotify.com/track/445N8tdrFPPQiEXm8x8vES) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Teo](https://open.spotify.com/album/1nhW2dBhlBtfuzB4GwlHy4) | 3:35 |
 
-Snapshot ID: `MCwwMjlmOWU5YWUzMWM5NGZkMzA4NWQyOTllMDIzZmU4ZTI4ZGJkMDdi`
+Snapshot ID: `MCw5ZWM0NWRkZDU0MmEzOGVkOGRlNmZiNDkxZjhlZTEwM2EyNTYzN2Fj`

@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 493844,
+  "num_followers": 493833,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2Y5ODI3ZjM4NzhlYTYxYzdhY2FhMzZlODVkMzIxNWIxMzAzNjMy",
+  "snapshot_id": "MCwwYWU2ZDRmMTkxNDYyYjg4NDUzYmZlNDI2NGM3NTFjYzliN2EzZjIy",
   "tracks": [
     {
       "added_at": "2023-09-28 22:01:00",
@@ -591,6 +591,26 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 162857,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -735,42 +735,6 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
         "name": "Headlights (feat. KIDDO)",
         "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
       },
@@ -791,6 +755,42 @@
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
     },
     {
       "added_at": "2023-09-28 22:01:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-09-28 22:01:00",
       "album": {
+        "name": "Cosby Sweater",
+        "url": "https://open.spotify.com/album/1Mtq3h8b8EPKITaBaEkNxD"
+      },
+      "artists": [
+        {
+          "name": "Marcapasos",
+          "url": "https://open.spotify.com/artist/6QKeymKBlijyJhfOi1smqB"
+        }
+      ],
+      "duration_ms": 290778,
+      "name": "Cosby Sweater - Extended Version",
+      "url": "https://open.spotify.com/track/6hux9qb3Iw54XBzFZpI3Eq"
+    },
+    {
+      "added_at": "2023-09-28 22:01:00",
+      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
-    },
-    {
-      "added_at": "2023-09-28 22:01:00",
-      "album": {
-        "name": "Diamonds & Dancefloors",
-        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 181763,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff"
     },
     {
       "added_at": "2023-09-28 22:01:00",

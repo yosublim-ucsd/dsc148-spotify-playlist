@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Laika Perra Rusa.
 
-195 songs - 11 hr 50 min
+196 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Cuando la Luna Caiga](https://open.spotify.com/track/4kbQVab7ftejREWGo8ebUi) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cuando la Luna Caiga](https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35) | 4:33 | 2023-09-22 |  |
 | [Cuando Sea Grande](https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Cuando Sea Grande](https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL) | 2:27 | 2023-09-15 |  |
 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 | 2023-03-17 | 2023-07-08 |
-| [Cuánto Falta](https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj) | [Ziberia](https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH) | [Cuánto Falta](https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD) | 4:00 | 2023-03-17 |  |
+| [Cuánto Falta](https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj) | [Ziberia](https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH) | [Cuánto Falta](https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD) | 4:00 | 2023-03-17 | 2023-10-04 |
 | [Cómplices](https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Cómplices](https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE) | 3:48 | 2023-05-19 |  |
 | [Cómplices](https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cómplices](https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE) | 3:39 | 2023-04-14 |  |
 | [De Nada Sirve](https://open.spotify.com/track/17lgXGSt1GJ8M4Thl9dodV) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [De Nada Sirve](https://open.spotify.com/album/7a0I2kC5zlbuLb11m1gsdE) | 6:45 | 2023-03-17 | 2023-03-25 |
@@ -84,6 +84,7 @@
 | [Fiebre](https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF) | [DEFENSA](https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [7 canciones antes de que nos corten la luz](https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm) | 3:43 | 2023-03-17 |  |
 | [Flaps](https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:45 | 2023-03-25 | 2023-09-27 |
 | [fotosíntesis](https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd) | [los romances](https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [fotosíntesis](https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB) | 3:07 | 2023-08-18 | 2023-09-22 |
+| [fribRitni](https://open.spotify.com/track/1A6xpBr2L2MTtj0SKrtJhW) | [Carolo](https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [fribRitni](https://open.spotify.com/album/6luUb5rdY8eNPkK6XEYXTN) | 3:16 | 2023-09-29 |  |
 | [FRONTERAS](https://open.spotify.com/track/190JPM6ySJgA6BAilTqdXH) | [Yuls](https://open.spotify.com/artist/7p3xvTVisjvZnUBSFV5LMS) | [FRONTERAS](https://open.spotify.com/album/5yCqO9RYOg1fWahWthseI8) | 3:33 | 2023-03-17 | 2023-08-31 |
 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 | 2023-08-25 |  |
 | [Futuro Perfecto](https://open.spotify.com/track/4qDeQ3x0NRbRWCBhhKr6YA) | [Tú No Existes](https://open.spotify.com/artist/6oKGdMwqEVmL5B0N2Jbk3B), [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9) | [Futuro Perfecto Futuro](https://open.spotify.com/album/6uFyFgjOu7Bn4dfK05M1Fo) | 3:00 | 2023-03-17 | 2023-07-08 |

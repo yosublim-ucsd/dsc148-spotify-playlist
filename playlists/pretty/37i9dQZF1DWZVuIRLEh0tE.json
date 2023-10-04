@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos urbanos de RD, pa' lo t\u00edgueres de alta gama. En portada: Dilon Baby",
-  "num_followers": 223126,
+  "num_followers": 223195,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTQwMzQ0MTA1NmI2YjI2OTBlZTg0YjcxZGI3ZGM4MmQ2ODkxZjRj",
+  "snapshot_id": "MCxjNzE4NjA5YzVhMTYzMTgzOTYxYzhjMTVjMDY3M2Q4YjBlYjI0NGYx",
   "tracks": [
     {
       "added_at": "2023-08-09 02:57:44",
@@ -27,6 +27,22 @@
       "duration_ms": 124137,
       "name": "Quien Dijo",
       "url": "https://open.spotify.com/track/1GlVvjF1q1NkP1gjB6NGTy"
+    },
+    {
+      "added_at": "2023-10-03 16:38:29",
+      "album": {
+        "name": "Calorazo",
+        "url": "https://open.spotify.com/album/6l1nP7pApoZRY4taX32OVp"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        }
+      ],
+      "duration_ms": 149328,
+      "name": "Calorazo",
+      "url": "https://open.spotify.com/track/5jrG8BSLIqMvacwkiWmxc7"
     },
     {
       "added_at": "2023-09-21 15:12:01",
@@ -1315,30 +1331,6 @@
       "duration_ms": 180048,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9"
-    },
-    {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
-        "name": "ABLOH",
-        "url": "https://open.spotify.com/album/3uQdpnXdLGFlu1WsSfMacT"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Big League Fendi",
-          "url": "https://open.spotify.com/artist/17wjReeHDWuTIjl2014aeE"
-        },
-        {
-          "name": "Seriousman",
-          "url": "https://open.spotify.com/artist/2dEnL8KGIvLgA2vNSED2C6"
-        }
-      ],
-      "duration_ms": 187643,
-      "name": "ABLOH",
-      "url": "https://open.spotify.com/track/5b5qsm7AO27JZ6osmKTshX"
     },
     {
       "added_at": "2023-07-18 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 41628,
+  "num_followers": 41682,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGQyYmM4YjNmZmZjYTI5YzIwM2NhZTBmNTNmOWJiMjRmZDIyMTE5",
+  "snapshot_id": "MCw2MGY2MDNiZThjOWNjMGM4NmFjMjM0ZTQzYzhkNGU2ZjBhNDkyNWQy",
   "tracks": [
     {
       "added_at": "2023-08-31 13:38:27",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "Overthinking",
-        "url": "https://open.spotify.com/album/7juT5Xm5izAEVtHZiRIluA"
-      },
-      "artists": [
-        {
-          "name": "HALES",
-          "url": "https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 137046,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/7juT5Xm5izAEVtHZiRIluA"
+      },
+      "artists": [
+        {
+          "name": "HALES",
+          "url": "https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "Good Thing (Deluxe)",
-        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
+        "name": "It's A Long Road",
+        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
         }
       ],
-      "duration_ms": 230853,
-      "name": "Naomi",
-      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
+      "duration_ms": 282773,
+      "name": "Tell You Not To Worry",
+      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "It's A Long Road",
-        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
+        "name": "Good Thing (Deluxe)",
+        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
       },
       "artists": [
         {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 282773,
-      "name": "Tell You Not To Worry",
-      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
+      "duration_ms": 230853,
+      "name": "Naomi",
+      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -967,18 +967,22 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "TRAVELIN'",
-        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
+        "name": "No One But You",
+        "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
       },
       "artists": [
         {
-          "name": "((( O )))",
-          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 217846,
-      "name": "TRAVELIN'",
-      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
+      "duration_ms": 213404,
+      "name": "No One But You",
+      "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -999,22 +1003,18 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "No One But You",
-        "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
+        "name": "TRAVELIN'",
+        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
       },
       "artists": [
         {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
         }
       ],
-      "duration_ms": 213404,
-      "name": "No One But You",
-      "url": "https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL"
+      "duration_ms": 217846,
+      "name": "TRAVELIN'",
+      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
     },
     {
       "added_at": "2023-08-31 13:38:27",

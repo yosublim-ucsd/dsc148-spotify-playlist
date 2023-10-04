@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Chesca",
-  "num_followers": 525523,
+  "num_followers": 525567,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTQ1NTkzN2EyOTYxNDg1YzNmYjMyZWE3Y2VhZTc2MzcwY2FkYzRm",
+  "snapshot_id": "MCxlODYzNjg3NzNjZWNjYjQ5NTk3MDlhMjI3MmRlMjBlZDVmZjhlY2M4",
   "tracks": [
     {
       "added_at": "2023-09-29 06:27:21",
@@ -291,26 +291,6 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "X ESO BB",
-        "url": "https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 193835,
-      "name": "X ESO BB",
-      "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
-    },
-    {
-      "added_at": "2023-09-29 06:27:21",
-      "album": {
         "name": "Coraz\u00f3n Roto pt. 3",
         "url": "https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 348400,
       "name": "Coraz\u00f3n Roto pt. 3",
       "url": "https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP"
+    },
+    {
+      "added_at": "2023-09-29 06:27:21",
+      "album": {
+        "name": "X ESO BB",
+        "url": "https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 193835,
+      "name": "X ESO BB",
+      "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -495,30 +495,6 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "Cafe Malib\u00fa",
-        "url": "https://open.spotify.com/album/68Qm7k0mDa6ta4mbVD9d2n"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 260307,
-      "name": "Cafe Malib\u00fa",
-      "url": "https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb"
-    },
-    {
-      "added_at": "2023-09-29 06:27:21",
-      "album": {
         "name": "Te Menti",
         "url": "https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl"
       },
@@ -539,6 +515,30 @@
       "duration_ms": 187129,
       "name": "Te Menti",
       "url": "https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B"
+    },
+    {
+      "added_at": "2023-09-29 06:27:21",
+      "album": {
+        "name": "Cafe Malib\u00fa",
+        "url": "https://open.spotify.com/album/68Qm7k0mDa6ta4mbVD9d2n"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 260307,
+      "name": "Cafe Malib\u00fa",
+      "url": "https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -643,6 +643,46 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
+        "name": "Borracho y Loco",
+        "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
+    },
+    {
+      "added_at": "2023-09-29 06:27:21",
+      "album": {
+        "name": "Narcotics (with Bryant Myers)",
+        "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 173991,
+      "name": "Narcotics (with Bryant Myers)",
+      "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
+    },
+    {
+      "added_at": "2023-09-29 06:27:21",
+      "album": {
         "name": "Podemos Repetirlo (Remix)",
         "url": "https://open.spotify.com/album/3UmFOFNVmfzGI6NKJkUImG"
       },
@@ -683,46 +723,6 @@
       "duration_ms": 159245,
       "name": "ASQUEROSO",
       "url": "https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs"
-    },
-    {
-      "added_at": "2023-09-29 06:27:21",
-      "album": {
-        "name": "Borracho y Loco",
-        "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "Borracho y Loco",
-      "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
-    },
-    {
-      "added_at": "2023-09-29 06:27:21",
-      "album": {
-        "name": "Narcotics (with Bryant Myers)",
-        "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 173991,
-      "name": "Narcotics (with Bryant Myers)",
-      "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "Andaluza",
-        "url": "https://open.spotify.com/album/1k0F8bRdT0klGyWqQa8IPy"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "David Marley",
-          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Andaluza",
-      "url": "https://open.spotify.com/track/2fhtNu3GpxpZZL669pbP1h"
-    },
-    {
-      "added_at": "2023-09-29 06:27:21",
-      "album": {
         "name": "Kyoto",
         "url": "https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
+    },
+    {
+      "added_at": "2023-09-29 06:27:21",
+      "album": {
+        "name": "Andaluza",
+        "url": "https://open.spotify.com/album/1k0F8bRdT0klGyWqQa8IPy"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "David Marley",
+          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Andaluza",
+      "url": "https://open.spotify.com/track/2fhtNu3GpxpZZL669pbP1h"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 168125,
+      "name": "Ella Perrea",
+      "url": "https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050"
+    },
+    {
+      "added_at": "2023-09-29 06:27:21",
+      "album": {
         "name": "BANDIDA",
         "url": "https://open.spotify.com/album/0Gawwvg9JS6p24C2BpmyIb"
       },
@@ -1391,42 +1411,18 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "Bicha",
-        "url": "https://open.spotify.com/album/2LhBFY1mquGDfrsIw0oPaS"
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/2QkUssVSrsngGCtJtuGRjy"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
         }
       ],
-      "duration_ms": 149696,
-      "name": "Bicha",
-      "url": "https://open.spotify.com/track/3Xv4C3ZIpd1D0S9lUh4S1b"
-    },
-    {
-      "added_at": "2023-09-29 06:27:21",
-      "album": {
-        "name": "No Es Normal (con Jay Wheeler)",
-        "url": "https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "No Es Normal (con Jay Wheeler)",
-      "url": "https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr"
+      "duration_ms": 168837,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/4xGGG1jWs6x56KZ9A4rS3m"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1447,18 +1443,22 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/2QkUssVSrsngGCtJtuGRjy"
+        "name": "No Es Normal (con Jay Wheeler)",
+        "url": "https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX"
       },
       "artists": [
         {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 168837,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/4xGGG1jWs6x56KZ9A4rS3m"
+      "duration_ms": 173960,
+      "name": "No Es Normal (con Jay Wheeler)",
+      "url": "https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
+        "name": "Bicha",
+        "url": "https://open.spotify.com/album/2LhBFY1mquGDfrsIw0oPaS"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 149696,
+      "name": "Bicha",
+      "url": "https://open.spotify.com/track/3Xv4C3ZIpd1D0S9lUh4S1b"
+    },
+    {
+      "added_at": "2023-09-29 06:27:21",
+      "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu"
       },
@@ -1559,26 +1579,6 @@
       "duration_ms": 177728,
       "name": "CHIQUITA",
       "url": "https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD"
-    },
-    {
-      "added_at": "2023-09-29 06:27:21",
-      "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 168125,
-      "name": "Ella Perrea",
-      "url": "https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "UY (feat. Milo Mae)",
-        "url": "https://open.spotify.com/album/7b4mrtmdh3sEf8xzHUAGdg"
+        "name": "Anti-todo",
+        "url": "https://open.spotify.com/album/4yikPqi6jZ5B0fok72MSkm"
       },
       "artists": [
         {
           "name": "Yng Lvcas",
           "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Milo Mae",
-          "url": "https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP"
         }
       ],
-      "duration_ms": 155454,
-      "name": "UY (feat. Milo Mae)",
-      "url": "https://open.spotify.com/track/6cFVj4HsrKwq8slnigLjDy"
+      "duration_ms": 177977,
+      "name": "Anti-todo",
+      "url": "https://open.spotify.com/track/1UBLpmwFqty3My4THs0Yx5"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1855,18 +1851,22 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "Anti-todo",
-        "url": "https://open.spotify.com/album/4yikPqi6jZ5B0fok72MSkm"
+        "name": "UY (feat. Milo Mae)",
+        "url": "https://open.spotify.com/album/7b4mrtmdh3sEf8xzHUAGdg"
       },
       "artists": [
         {
           "name": "Yng Lvcas",
           "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Milo Mae",
+          "url": "https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP"
         }
       ],
-      "duration_ms": 177977,
-      "name": "Anti-todo",
-      "url": "https://open.spotify.com/track/1UBLpmwFqty3My4THs0Yx5"
+      "duration_ms": 155454,
+      "name": "UY (feat. Milo Mae)",
+      "url": "https://open.spotify.com/track/6cFVj4HsrKwq8slnigLjDy"
     },
     {
       "added_at": "2023-09-29 06:27:21",

@@ -4,11 +4,11 @@
 
 > Magic of acoustic poured into your Chai
 
-189 songs - 10 hr 39 min
+191 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Shreya Phukan](https://open.spotify.com/artist/5Hfymmb6YdN0BXT5z394b6), [Raaj Jyoti Konwar](https://open.spotify.com/artist/5olB8pxiBEf6xV6cJlawbD) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 | 2023-07-05 |  |
+| [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Shreya Phukan](https://open.spotify.com/artist/5Hfymmb6YdN0BXT5z394b6), [Raaj Jyoti Konwar](https://open.spotify.com/artist/5olB8pxiBEf6xV6cJlawbD) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 | 2023-07-05 | 2023-10-04 |
 | [Aasmaan](https://open.spotify.com/track/4OJ3ecc157Wg4Z29aglEOu) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Farzi \(Original Series Soundtrack\)](https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz) | 2:52 | 2023-05-17 |  |
 | [Aate Rehte Hain](https://open.spotify.com/track/0bxI9eC4ax4T6gfXI8TtYv) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Zohrajabeen](https://open.spotify.com/album/6WbwIMCBi2mxR08rCkJUth) | 3:45 | 2023-07-24 | 2023-09-16 |
 | [Ab Kya Karen](https://open.spotify.com/track/45gLowg76AxVx2Q3Gfjy1Y) | [Qulid](https://open.spotify.com/artist/2CV0KIicosK2RGWjpil0Wp) | [Ehsaas](https://open.spotify.com/album/7bXn9yCtp6aPc7ADJLGyyu) | 2:44 | 2023-05-17 | 2023-07-06 |
@@ -185,7 +185,8 @@
 | [Tum Aur Main](https://open.spotify.com/track/29O6kviQMumVmWZDO14QSB) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Tum Aur Main](https://open.spotify.com/album/3uP0bCOGPkGSPKzfN3tJyU) | 2:43 | 2023-07-19 |  |
 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-22 |  |
 | [TUM JO SAATH HO](https://open.spotify.com/track/4LoBM8A2XOuiQ4Ic3IVWeu) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA) | [TUM JO SAATH HO](https://open.spotify.com/album/6lR4XHAh3vVFzkp9otcMBs) | 4:01 | 2023-06-08 | 2023-08-04 |
-| [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/album/5IoxrWkZLHmHIhZLHyiAjj) | 1:15 | 2023-09-21 |  |
+| [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/album/5IoxrWkZLHmHIhZLHyiAjj) | 1:15 | 2023-09-21 | 2023-10-04 |
+| [Tum Kya Mile \- Jonita's Version](https://open.spotify.com/track/4kL3wGVwDpOVn8NOmKAopG) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \(Jonita's Version\)](https://open.spotify.com/album/0xKZP5O8CSbmMn5iOD9hpa) | 1:15 | 2023-10-03 |  |
 | [Tum Mujhe Jaante Ho \- Ukulele Version](https://open.spotify.com/track/1kZZfGmtZHBd4cZOuov1k0) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4), [Luv](https://open.spotify.com/artist/1dEulvhhLRgnDn5DW1WNqe) | [Tum Mujhe Jaante Ho \(Ukulele Version\)](https://open.spotify.com/album/69hZQvIMjMIOEhgYmuWZua) | 3:50 | 2023-05-17 |  |
 | [Uljhe se hum](https://open.spotify.com/track/6TPYVkZRpeL2rwkvUDuYhm) | [Vishal Sinha](https://open.spotify.com/artist/0UJG2meWUtvjPFAcyrOOBN) | [Uljhe se hum](https://open.spotify.com/album/5CPpw1mdt73Fs6Dd6qegJx) | 3:40 | 2023-09-09 |  |
 | [Unke bina \(Raw\)](https://open.spotify.com/track/0S2VhMptqhyylEowrvMRRx) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Hardik Sawhney](https://open.spotify.com/artist/1AeP2gkdtIPekU0HvEo3P5) | [Unke bina \(Raw\)](https://open.spotify.com/album/1zQdURnPPZXRLquGKTR5Qa) | 2:28 | 2023-05-17 | 2023-07-06 |
@@ -196,6 +197,7 @@
 | [Yaari Ke Dhaage](https://open.spotify.com/track/1F79kSzDvRgQFOge5CMvl0) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Brite Roy](https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y) | [Yaari Ke Dhaage](https://open.spotify.com/album/0fRZWJiJsvrMnGEWhN7WfU) | 2:47 | 2023-08-04 | 2023-09-21 |
 | [Yahi Sach Hai](https://open.spotify.com/track/3dpvuS1Kow72xFcThRX3X9) | [Yugm](https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL) | [Yahi Sach Hai](https://open.spotify.com/album/0dQUjoVuziFkNaoeDMR1RA) | 6:14 | 2023-06-19 | 2023-07-07 |
 | [Ye Sama](https://open.spotify.com/track/6YdMuBCmTZUypKNZuFvIuv) | [Muzaffer](https://open.spotify.com/artist/6lKmfBnq8JWmPpUHJWpyzm) | [Ye Sama](https://open.spotify.com/album/57VlJwy79d6s3pkCcqsvvn) | 3:23 | 2023-05-17 | 2023-06-24 |
+| [Yeh Mera Dil](https://open.spotify.com/track/459wvXRbstNfUVyQoJ8PB2) | [Hammad Ehsan](https://open.spotify.com/artist/7FvUkx4OEVD7hvYirKrZKD) | [Yeh Mera Dil](https://open.spotify.com/album/7sNjCGtlVEKsRVHCGEISKv) | 3:01 | 2023-10-03 |  |
 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/5SYVEm7xc8Vi8czRO44q8M) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind \- Single](https://open.spotify.com/album/26VsSu066lK8UdTTiz7JVe) | 3:28 | 2023-05-17 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

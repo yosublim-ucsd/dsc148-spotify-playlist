@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,420 likes - 74 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,430 likes - 74 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 38 | [Dirt Road Anthem \(Revisited\)](https://open.spotify.com/track/13KyJdVV5uKFdwwkJiK7Vc) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 4:38 |
 | 39 | [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 |
 | 40 | [Back to Them Backroads](https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [We The People, Vol\. 1](https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0) | 3:11 |
-| 41 | [White Trash](https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [American White Trash](https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd) | 2:47 |
-| 42 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 |
+| 41 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 |
+| 42 | [White Trash](https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [American White Trash](https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd) | 2:47 |
 | 43 | [Bumpy Road](https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Kuntry Livin'](https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0) | 2:50 |
 | 44 | [Blood Red](https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blood Red](https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk) | 2:37 |
 | 45 | [Rippin It up \(feat\. Bubba Sparxxx, Boondock Kingz, Porch Matthews & Jawga Boyz\)](https://open.spotify.com/track/6BOqVMxqQxkxknO3COfzrG) | [Jawga Sparxxx](https://open.spotify.com/artist/4Tmi4eRiBmTkJCEJuFnKuP), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Boondock Kingz](https://open.spotify.com/artist/5t1SNVbHSuaQWZ0FXnLGcK), [Porch Matthews](https://open.spotify.com/artist/6mzpnqqXaw7OEOXKXJtPp7), [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Muddy Days Drunken Nights](https://open.spotify.com/album/10kU2gbvQq0alFj6jmgwqK) | 3:12 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 59 | [Yeah](https://open.spotify.com/track/2jACYdJzSd2VWwGX5DLqLb) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Yeah](https://open.spotify.com/album/0McuDEqJtphpfw6hgEk5JN) | 3:17 |
 | 60 | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/track/0RNHYswDxxq1xooRh3PLza) | [Avila Brothers](https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM) | 2:47 |
 | 61 | [The Dream](https://open.spotify.com/track/7LjenQM99kDj7iwTHdjBg8) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [The Dream](https://open.spotify.com/album/045KdMFUDzWbFjxwwPmwnn) | 3:12 |
-| 62 | [Goin' Back Down](https://open.spotify.com/track/5sN36xav9dZXX5qUB3aVYD) | [Redneck Social Club](https://open.spotify.com/artist/4nPrlCWAm20yBoiyE5vpr1), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Goin' Back Down](https://open.spotify.com/album/72SXoGRMGpqVDZSdErzIU6) | 3:45 |
-| 63 | [STOMP YOUR BOOTS](https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [STOMP YOUR BOOTS](https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ) | 2:31 |
+| 62 | [STOMP YOUR BOOTS](https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [STOMP YOUR BOOTS](https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ) | 2:31 |
+| 63 | [Goin' Back Down](https://open.spotify.com/track/5sN36xav9dZXX5qUB3aVYD) | [Redneck Social Club](https://open.spotify.com/artist/4nPrlCWAm20yBoiyE5vpr1), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Goin' Back Down](https://open.spotify.com/album/72SXoGRMGpqVDZSdErzIU6) | 3:45 |
 | 64 | [Dam](https://open.spotify.com/track/0YJRsd068DzbWWMMUiY5EJ) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Southern Son](https://open.spotify.com/album/0HKbTKNK8B3Am937gbxRv0) | 3:06 |
 | 65 | [Standard American](https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh) | [Gunnar & The Grizzly Boys](https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot) | [Mud Digger 5](https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl) | 3:29 |
 | 66 | [Kiss My Ass](https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 2:42 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 74 | [Trucks Gone Wild](https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Trucks Gone Wild](https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN) | 1:41 |
 
-Snapshot ID: `MCxlNDI4NDg3YTMwMDVkNjc2ZTlkNWQ0ZmZjZWEzM2MzMzU0ZTFmYzI1`
+Snapshot ID: `MCxjNTgwNmU1NzkxMmQ1ZDBhMTVjNWQyMmJiNjNjMjU0YzM2MmZiNGQy`

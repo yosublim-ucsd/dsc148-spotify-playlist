@@ -4,14 +4,14 @@
 
 > The label's essential tracks by Drake, PARTYNEXTDOOR, Roy Woods, dvsn, and more\. Cover: <a href="spotify:artist:3TVXtAsR1Inumwj472S9r4">Drake</a> and Noah "40" Shebib
 
-109 songs - 6 hr 46 min
+110 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Flawless' Do It Well Pt\. 3 \(feat\. Summer Walker\)](https://open.spotify.com/track/2ChVOWEY5BMEN7tmJScQpc) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:51 | 2023-06-01 |  |
 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 | 2023-06-01 |  |
 | [All Me](https://open.spotify.com/track/7y911sqgHGHcyU4ivapjwi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ) | 4:30 | 2023-06-01 |  |
-| [All Over You](https://open.spotify.com/track/50J3n2Xi624snV5VmAGfLL) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [All Over You](https://open.spotify.com/album/2uo6Hnpb1cwRq8Xu6yptp8) | 3:35 | 2023-06-01 |  |
+| [All Over You](https://open.spotify.com/track/50J3n2Xi624snV5VmAGfLL) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [All Over You](https://open.spotify.com/album/2uo6Hnpb1cwRq8Xu6yptp8) | 3:35 | 2023-06-01 | 2023-10-04 |
 | [Another Life](https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 4:30 | 2023-06-01 |  |
 | [Balance \(feat\. dvsn & PnB Rock\)](https://open.spotify.com/track/6qL6Pj04xtBpT6GNWoEn3P) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Say Less](https://open.spotify.com/album/2VLY0KLCsRkanyaL5PSruh) | 3:42 | 2023-06-01 | 2023-07-29 |
 | [BELIEVE IT](https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:03 | 2023-06-01 |  |
@@ -48,6 +48,7 @@
 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 | 2023-06-01 |  |
 | [Gwan Big up Urself](https://open.spotify.com/track/5RLIG9RLyMYhQGH7MI98ny) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Waking at Dawn](https://open.spotify.com/album/5rvBOTHohJZk2aQHPJi6eU) | 3:20 | 2023-06-01 |  |
 | [Hallucinations](https://open.spotify.com/track/3J6I2S9sTNVStKhkrPp3yd) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 4:06 | 2023-06-01 |  |
+| [Hands Tied](https://open.spotify.com/track/6FTtvuPD4Xas3Oj7XJFf3C) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Hands Tied](https://open.spotify.com/album/7zrXcg8W9t7yNBQopdBFw3) | 5:43 | 2023-10-03 |  |
 | [Hate Me \(feat\. Coi Leray\)](https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:15 | 2023-07-28 |  |
 | [Her](https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [A Place Like This](https://open.spotify.com/album/1iMD6TkaGBK3tYuD7hi16A) | 5:00 | 2023-06-01 | 2023-09-19 |
 | [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-06-01 |  |

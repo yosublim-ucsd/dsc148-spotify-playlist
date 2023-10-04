@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-359 songs - 22 hr 42 min
+360 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Esa](https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Personalidad](https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY) | 3:08 | 2022-06-02 |  |
 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 | 2022-01-01 |  |
 | [Acaríciame](https://open.spotify.com/track/6MVNYTim9yCQMQgnpx517N) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [La Más Completa Colección](https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a) | 4:13 | 2022-01-01 | 2022-07-29 |
+| [Acaríciame](https://open.spotify.com/track/22mBFQDC3JJvJAahX7hOmH) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [O Ella o Yo](https://open.spotify.com/album/0Xy14kGbjkFXjijXR5UhWt) | 4:15 | 2023-01-12 |  |
 | [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 | 2022-06-02 |  |
 | [Agárrense De Las Manos](https://open.spotify.com/track/2XztvViBuf20kZGypnmHGR) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [15 Exitos De Jose Luis Rodriguez](https://open.spotify.com/album/22RrvH0d9fd9HHXgOtAOwt) | 3:59 | 2022-08-31 | 2022-11-13 |
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 | 2022-01-01 |  |
@@ -164,7 +165,7 @@
 | [Jurame](https://open.spotify.com/track/1xBg37ECDzty1i0UKPj9qa) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:21 | 2022-01-01 | 2022-06-08 |
 | [La Barca](https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:29 | 2022-06-02 |  |
 | [La cima del cielo](https://open.spotify.com/track/3C9fAn3IgajBTwR274huch) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:17 | 2022-01-01 |  |
-| [La Gata Bajo la Lluvia](https://open.spotify.com/track/7aOFPde65u12EJmh1dr7uL) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 3:37 | 2022-01-01 |  |
+| [La Gata Bajo la Lluvia](https://open.spotify.com/track/7aOFPde65u12EJmh1dr7uL) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 3:37 | 2022-01-01 | 2023-10-04 |
 | [La Incondicional](https://open.spotify.com/track/6v7Ad1gFUGZpqdvmqajchI) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Exitos \- US CD version](https://open.spotify.com/album/2RTzSYUsrbecOYJQbElNc9) | 4:17 | 2022-01-01 | 2022-07-29 |
 | [La Ladrona](https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Estoy Vivo \(Remasterizado\)](https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm) | 3:04 | 2022-06-02 |  |
 | [La Ladrona](https://open.spotify.com/track/2t8DM8Gdp9z50upcaY2IXl) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Estoy Vivo \(Remasterizado\)](https://open.spotify.com/album/04Wj2hxRNKcYSLodz3HwOS) | 3:04 | 2022-01-01 | 2022-07-29 |

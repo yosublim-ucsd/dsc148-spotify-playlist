@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,941 likes - 96 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,985 likes - 96 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Midnight Heat \- Live](https://open.spotify.com/track/2HlfyyZwGq6tQYwl2qU0vY) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Live In London](https://open.spotify.com/album/3Lqzd6AFTfeVybMiBbBDse) | 5:24 |
 | 2 | [Always Free \(Live in Austin\)](https://open.spotify.com/track/7lcoqPnMvytTtYPBqS2LNO) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends \(Live in Austin\)](https://open.spotify.com/album/3FnXv4h5TBWXo7ccTftiUj) | 7:36 |
 | 3 | [New Used Car](https://open.spotify.com/track/7fVCVM1DIUHpnRiDm2fKvP) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [New Used Car](https://open.spotify.com/album/6UA7yjMQHFu7yw3RmEOkI8) | 3:47 |
-| 4 | [Just Won’t Burn \- Live at the Beacon Theatre / 2022](https://open.spotify.com/track/3wl59CVUAS8IL3FfPwfGSB) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta), [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Just Won't Burn](https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn) | 7:29 |
+| 4 | [Just Won’t Burn \- Live at the Beacon Theatre / 2022](https://open.spotify.com/track/3wl59CVUAS8IL3FfPwfGSB) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta), [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Just Won't Burn \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn) | 7:29 |
 | 5 | [Crossroads \- Live at The Royal Albert Hall, Rock Version](https://open.spotify.com/track/3nKzcSOvTSFTvB3tPe3mhH) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Definitive 24 Nights \(Live\)](https://open.spotify.com/album/7uLDovmFB97bee1kDTtCNl) | 8:55 |
 | 6 | [The Heart That Never Waits \(Live\)](https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 8:31 |
 | 7 | [No One Left To Blame \(Dangerous Game\)](https://open.spotify.com/track/2sthMcGvt0sLw7sImcEPVL) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [No One Left To Blame \(Dangerous Game\)](https://open.spotify.com/album/7draBVSdExn7m8osrjm1q9) | 4:41 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 95 | [Do You Wanna \- Live](https://open.spotify.com/track/4dHpgdH4HNPTDxOrTFKnhy) | [Vanja Sky](https://open.spotify.com/artist/11qCism35wezz8ve5s5hBq) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 3:35 |
 | 96 | [Backwater Blues \- Live](https://open.spotify.com/track/4ScrL9E0Ifv2dL1liFqnf7) | [Cedric Burnside Project](https://open.spotify.com/artist/0U8rq1DeTRYsLCHFm8aB0W) | [Backwater Blues \(Live\)](https://open.spotify.com/album/1acsrcWZZlLtWnzhHykdrU) | 4:37 |
 
-Snapshot ID: `MCxkZWYxNDlmYmNjMWMzMjUxYjliNjBjZTEzNDVmNDNmNTdhMjdkOTI0`
+Snapshot ID: `MCwxMGEzZmYyODQ4NzU3MTlmZWI0YjQ0OWEyNWZiNzEyY2Q5OTNkMjYx`

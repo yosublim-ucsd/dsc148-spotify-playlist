@@ -2,7 +2,7 @@
 
 ### [Big Room Dance](https://open.spotify.com/playlist/37i9dQZF1DX3d2wagqzwmM)
 
-> Big rooms and big sounds\. Cover: Hardwell
+> Big rooms and big sounds\. Cover: LUM!X
 
 349 songs - 18 hr 43 min
 
@@ -171,7 +171,7 @@
 | [Leave A Little Love \- Club Mix](https://open.spotify.com/track/2SPZAzJWwy0IXTbmqdzsVM) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love \(Club Mix\)](https://open.spotify.com/album/5nV1iCvWWEWgJwwwn6jtHH) | 2:53 | 2022-04-14 | 2022-09-29 |
 | [Les Lacs du Connemara](https://open.spotify.com/track/7BC1IK97sAgN96PNJhKq8u) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Les Lacs Du Connemara](https://open.spotify.com/album/4ymvYRcjhuQiAKHJQslAWa) | 3:13 | 2022-11-17 | 2022-12-27 |
 | [Let Me Think About It Again](https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let Me Think About It Again](https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz) | 3:15 | 2023-09-14 |  |
-| [LFG](https://open.spotify.com/track/68ZnVusVckKXOLW80KGeRh) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [LFG](https://open.spotify.com/album/2wkzGaDtc9o705E0cxBTxT) | 2:11 | 2023-08-10 |  |
+| [LFG](https://open.spotify.com/track/68ZnVusVckKXOLW80KGeRh) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [LFG](https://open.spotify.com/album/2wkzGaDtc9o705E0cxBTxT) | 2:11 | 2023-08-10 | 2023-10-04 |
 | [Liang](https://open.spotify.com/track/3IJbDajiJ4EUu1iGsNzrqU) | [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Liang](https://open.spotify.com/album/46nV6goAp3URwXLErMs13s) | 2:30 | 2022-04-14 | 2023-08-25 |
 | [Light It Up](https://open.spotify.com/track/4GBwm2ntmncnoZzBVcbjH0) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT), [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI) | [Light It Up](https://open.spotify.com/album/1Z5GjzxV89KzSUiIdTCz9o) | 2:42 | 2023-04-13 | 2023-06-13 |
 | [Lightning Strikes](https://open.spotify.com/track/2BMmxlUZXD7tFZLegkoQju) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Lightning Strikes](https://open.spotify.com/album/4gdZrNY2wQLlmNak1f6zzQ) | 3:01 | 2022-04-14 | 2022-11-01 |
@@ -192,7 +192,7 @@
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-07-20 |  |
 | [MIND CONTROL](https://open.spotify.com/track/1ijNLECKPfBExLWeq9MD74) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [MIND CONTROL](https://open.spotify.com/album/3BiMWVo79A0eBXjU3ftPrT) | 4:08 | 2022-06-30 | 2023-01-03 |
 | [Mind Dimension \- Tiësto Remix](https://open.spotify.com/track/7aEivHwZvqNHoqsXoNKcWL) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Mind Dimension \(Tiësto Remix\)](https://open.spotify.com/album/3CX2LjhZKJ0ERvdKW0t5YV) | 3:40 | 2022-12-27 | 2023-01-03 |
-| [Minerva](https://open.spotify.com/track/7D9NidXOJwb3ZAPJ7LOkoD) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Minerva](https://open.spotify.com/album/1V2i9HepUHLseVkSdAeSuv) | 2:52 | 2023-09-07 | 2023-10-03 |
+| [Minerva](https://open.spotify.com/track/7D9NidXOJwb3ZAPJ7LOkoD) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Minerva](https://open.spotify.com/album/1V2i9HepUHLseVkSdAeSuv) | 2:52 | 2023-09-07 |  |
 | [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-07-20 |  |
 | [Missing You](https://open.spotify.com/track/2y9DDWm7kuxoSk4VPu1Spv) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [EMKR](https://open.spotify.com/artist/16YZPLaST1ER7EtQizXEPA) | [Missing You](https://open.spotify.com/album/7k6GSoJGrGyF5JeksX4Hd7) | 3:04 | 2022-04-14 | 2022-05-04 |
 | [Mockmoon \(Peace, Love, XTC\)](https://open.spotify.com/track/1X4gELOOeBfWVp1dj7ycFO) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF), [Genlog](https://open.spotify.com/artist/3fzP4AxJEAIgQ6QgItTzJ3) | [Mockmoon \(Peace, Love, XTC\)](https://open.spotify.com/album/1PqcQOQlifaSVhPMAN6JsZ) | 6:08 | 2022-12-27 | 2023-01-03 |

@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-237 songs - 14 hr 29 min
+238 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 | 2022-11-24 | 2023-01-13 |
 | [Sea Lions](https://open.spotify.com/track/2QBnT3LDKDhldKVCfe12Qj) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Pink Balloon / Sea Lions](https://open.spotify.com/album/5Onu4scGFnxb1MhrLFJqX0) | 5:19 | 2023-01-10 | 2023-02-22 |
 | [See You In Life](https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [See You In Life](https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI) | 4:01 | 2023-01-10 | 2023-05-21 |
-| [Sensation](https://open.spotify.com/track/1IH8dWLe4CsuAg1ePgIUrC) | [山本海](https://open.spotify.com/artist/7wZw3dzfhgxJctTcvoYGSi) | [Sensation](https://open.spotify.com/album/3Iw3lXvDzk2LXFt2rm0QCI) | 3:47 | 2023-09-20 |  |
+| [Sensation](https://open.spotify.com/track/1IH8dWLe4CsuAg1ePgIUrC) | [山本海](https://open.spotify.com/artist/7wZw3dzfhgxJctTcvoYGSi) | [Sensation](https://open.spotify.com/album/3Iw3lXvDzk2LXFt2rm0QCI) | 3:47 | 2023-09-20 | 2023-10-04 |
 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 | 2023-03-09 | 2023-05-13 |
 | [shattered me \- feat.Shamyah](https://open.spotify.com/track/52FmhxikYFZLC7E8g9X7G2) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy), [Shamyah](https://open.spotify.com/artist/2FZr8X3VApIG0ujKmMH9aa) | [shattered me \(feat.Shamyah\)](https://open.spotify.com/album/1xWhNKtfxEAgowceAQNS2t) | 5:28 | 2023-09-20 |  |
 | [She's Got You](https://open.spotify.com/track/2vxA74DuID8LBkCr1nxJCo) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [She's Got You](https://open.spotify.com/album/5pegL29fvLU4J3tM8gD0Yc) | 2:53 | 2023-02-08 | 2023-03-18 |
@@ -227,6 +227,7 @@
 | [サーカスナイト](https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [サーカスナイト](https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR) | 5:27 | 2023-01-10 | 2023-02-15 |
 | [タバコと私](https://open.spotify.com/track/6RSQ12pSRhTI2szqkumXUs) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [秘密](https://open.spotify.com/album/4c4NCpIWFtGxRYNT3gREs1) | 4:28 | 2023-01-10 | 2023-02-02 |
 | [ミアネ](https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [306](https://open.spotify.com/album/4xDPpqsq8PLPtDRXGpKEPF) | 3:35 | 2023-01-31 | 2023-04-14 |
+| [伝えたい](https://open.spotify.com/track/5PMH2m73WhuCs10kw0s2Bz) | [中川理沙](https://open.spotify.com/artist/4MyrgJ1rFn4ZxeKIH49jDO) | [動物の庭](https://open.spotify.com/album/42oeZcCANlpXLzGq1nAunm) | 4:45 | 2023-10-03 |  |
 | [咲まう](https://open.spotify.com/track/07kglGIdrAd9p2NdtCLEaD) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 4:08 | 2023-04-04 | 2023-05-13 |
 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-10-16 | 2023-01-29 |
 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-10-16 | 2023-05-10 |

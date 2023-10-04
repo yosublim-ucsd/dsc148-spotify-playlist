@@ -5023,6 +5023,28 @@
     },
     {
       "album": {
+        "name": "Eucalyptus",
+        "url": "https://open.spotify.com/album/4Mki5qZ68ARHfSjriUFqng"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Eucalyptus",
+      "url": "https://open.spotify.com/track/0jXcEpjGIfyDYCqf2eTmjN"
+    },
+    {
+      "album": {
         "name": "Cool Party",
         "url": "https://open.spotify.com/album/2bdOs4BJoK5hI9jAC37H06"
       },
@@ -15596,7 +15618,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-04",
       "duration_ms": 309904,
       "name": "SWEET GEORGIA",
       "url": "https://open.spotify.com/track/5gcr1NIWr4fgppRFvVVFqv"

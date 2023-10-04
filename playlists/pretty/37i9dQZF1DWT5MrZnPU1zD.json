@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1677999,
+  "num_followers": 1678078,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2NiMDllYTdkNzA3ODdhZTZkZTBjYmI4MGRjNDE4YzM4ZTc4MzU4",
+  "snapshot_id": "MCwxZTQyYWJkMWYzMzA2MmZhMDUwMGE1YzhiMDI2NjNhMTk0MGY5Mzcx",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -657,20 +657,20 @@
       "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-09-22 16:16:54",
       "album": {
-        "name": "Dead or Alive",
-        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 122487,
-      "name": "Dead or Alive",
-      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
+      "duration_ms": 187400,
+      "name": "Shutcho",
+      "url": "https://open.spotify.com/track/4rjQxlKAIXbEqHzjrnYZ7x"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -689,20 +689,20 @@
       "url": "https://open.spotify.com/track/09A7OM0R7yazApSFe0v1SA"
     },
     {
-      "added_at": "2023-09-22 16:16:54",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+        "name": "Dead or Alive",
+        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 187400,
-      "name": "Shutcho",
-      "url": "https://open.spotify.com/track/4rjQxlKAIXbEqHzjrnYZ7x"
+      "duration_ms": 122487,
+      "name": "Dead or Alive",
+      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -909,26 +909,6 @@
       "url": "https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "Bla Bla (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Ron Artest",
@@ -947,6 +927,26 @@
       "duration_ms": 153392,
       "name": "Ron Artest",
       "url": "https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 146966,
+      "name": "Bla Bla (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Presidential Rolex",
-        "url": "https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Presidential Rolex",
-      "url": "https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe"
-    },
-    {
       "added_at": "2023-08-11 04:13:14",
       "album": {
         "name": "Slide",
@@ -1067,6 +1051,22 @@
       "duration_ms": 149565,
       "name": "Slide",
       "url": "https://open.spotify.com/track/00rMGQGXFeY2VQTrg7SWde"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Presidential Rolex",
+        "url": "https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Presidential Rolex",
+      "url": "https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
     },
     {
-      "added_at": "2023-09-01 16:56:46",
-      "album": {
-        "name": "AT WHAT COST?",
-        "url": "https://open.spotify.com/album/3GkYOJW5mbaUCSUpN2cQI4"
-      },
-      "artists": [
-        {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
-        }
-      ],
-      "duration_ms": 159918,
-      "name": "AT WHAT COST?",
-      "url": "https://open.spotify.com/track/2ktPib6e7LCnHX4LZECEyG"
-    },
-    {
       "added_at": "2023-09-08 04:00:00",
       "album": {
         "name": "Soak City (feat. Mustard, OhGeesy & BlueBucksClan)",
@@ -1481,20 +1465,20 @@
       "url": "https://open.spotify.com/track/2EYdheS1WcwbBv8bRmbvvW"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-09-01 16:56:46",
       "album": {
-        "name": "One Time",
-        "url": "https://open.spotify.com/album/2B4p1yxwU3nBooi6ZYlUUn"
+        "name": "AT WHAT COST?",
+        "url": "https://open.spotify.com/album/3GkYOJW5mbaUCSUpN2cQI4"
       },
       "artists": [
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
         }
       ],
-      "duration_ms": 179231,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/6JXJgBcTfcuiPAd0416sOB"
+      "duration_ms": 159918,
+      "name": "AT WHAT COST?",
+      "url": "https://open.spotify.com/track/2ktPib6e7LCnHX4LZECEyG"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1519,6 +1503,22 @@
       "duration_ms": 174250,
       "name": "Mama (with Skilla Baby & Tay B)",
       "url": "https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/2B4p1yxwU3nBooi6ZYlUUn"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 179231,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/6JXJgBcTfcuiPAd0416sOB"
     },
     {
       "added_at": "2023-07-28 04:28:34",
@@ -1597,6 +1597,22 @@
       "url": "https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "No Bap",
+        "url": "https://open.spotify.com/album/4lqBlbYBv6UesCVnjCD1Rr"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 120944,
+      "name": "No Bap",
+      "url": "https://open.spotify.com/track/2WT78xcgpKwr3eigtnAu9T"
+    },
+    {
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "TEXAS BOY",
@@ -1615,22 +1631,6 @@
       "duration_ms": 195267,
       "name": "ARSENAL (I SMELL BITCH) (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "No Bap",
-        "url": "https://open.spotify.com/album/4lqBlbYBv6UesCVnjCD1Rr"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 120944,
-      "name": "No Bap",
-      "url": "https://open.spotify.com/track/2WT78xcgpKwr3eigtnAu9T"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1717,22 +1717,6 @@
       "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "From The Can",
-        "url": "https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69"
-      },
-      "artists": [
-        {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        }
-      ],
-      "duration_ms": 149865,
-      "name": "No Remorse",
-      "url": "https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Pacer",
@@ -1747,6 +1731,22 @@
       "duration_ms": 176516,
       "name": "Pacer",
       "url": "https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "From The Can",
+        "url": "https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "duration_ms": 149865,
+      "name": "No Remorse",
+      "url": "https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1789,6 +1789,22 @@
       "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
     },
     {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Ganger",
+        "url": "https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "duration_ms": 224470,
+      "name": "Not a Drill",
+      "url": "https://open.spotify.com/track/0fjJon7hJQ6nH6Cz4w0AcT"
+    },
+    {
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "MadMan",
@@ -1811,22 +1827,6 @@
       "duration_ms": 182400,
       "name": "Slight Dub (feat. 21 Savage & Young Nudy)",
       "url": "https://open.spotify.com/track/2INe19w9F8ueR1Fgm9HXbh"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Ganger",
-        "url": "https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2"
-      },
-      "artists": [
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        }
-      ],
-      "duration_ms": 224470,
-      "name": "Not a Drill",
-      "url": "https://open.spotify.com/track/0fjJon7hJQ6nH6Cz4w0AcT"
     },
     {
       "added_at": "2022-12-16 05:00:00",

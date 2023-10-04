@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: NewDad",
-  "num_followers": 113303,
+  "num_followers": 113328,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODRlMGRiNzdlNTcyYmRiZDQ0OGM0NDBiZmYzMDQ1Y2NmYjYxNjU3",
+  "snapshot_id": "MCxmN2VmMzNlOWRlZTcwNWVjMGUzY2JiN2IxYjg2ODRhMDM2NGU5YjBh",
   "tracks": [
     {
       "added_at": "2023-09-15 00:00:00",
@@ -149,6 +149,22 @@
       "url": "https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw"
     },
     {
+      "added_at": "2023-09-29 00:00:00",
+      "album": {
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 269440,
+      "name": "Deep End (Paul\u2019s in Pieces)",
+      "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
+    },
+    {
       "added_at": "2023-09-15 00:00:00",
       "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
@@ -167,22 +183,6 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
-    },
-    {
-      "added_at": "2023-09-29 00:00:00",
-      "album": {
-        "name": "Laugh Track",
-        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 269440,
-      "name": "Deep End (Paul\u2019s in Pieces)",
-      "url": "https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 152993,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
         "name": "Theatre",
         "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
       },
@@ -387,22 +371,6 @@
       "duration_ms": 179037,
       "name": "Theatre",
       "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2023-09-29 00:00:00",
@@ -419,6 +387,38 @@
       "duration_ms": 180978,
       "name": "Heartbreak Kid",
       "url": "https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 152993,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
-      },
-      "artists": [
-        {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
-        }
-      ],
-      "duration_ms": 172921,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
         "name": "Cuts & Bruises",
         "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 215906,
       "name": "Just To Keep You Satisfied",
       "url": "https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "duration_ms": 172921,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
         "name": "Never Going Under",
         "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 134252,
       "name": "Never Going Under",
       "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 200891,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
         "name": "Bigger",
         "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 198071,
       "name": "Bigger",
       "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 200891,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "Drunk & Loud",
-        "url": "https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy"
-      },
-      "artists": [
-        {
-          "name": "Bloom Twins",
-          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
-        }
-      ],
-      "duration_ms": 114964,
-      "name": "Drunk & Loud",
-      "url": "https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
         "name": "Borderline Insane",
         "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
       },
@@ -1015,6 +999,38 @@
       "duration_ms": 139664,
       "name": "Borderline Insane",
       "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
+    },
+    {
+      "added_at": "2023-09-29 00:00:00",
+      "album": {
+        "name": "How to Hold a Knife",
+        "url": "https://open.spotify.com/album/0PQLyt9P4Qi94KgwTnsvcH"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        }
+      ],
+      "duration_ms": 176558,
+      "name": "How to Hold a Knife",
+      "url": "https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "Drunk & Loud",
+        "url": "https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy"
+      },
+      "artists": [
+        {
+          "name": "Bloom Twins",
+          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
+        }
+      ],
+      "duration_ms": 114964,
+      "name": "Drunk & Loud",
+      "url": "https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -1115,6 +1131,22 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
+        "name": "Nothing Works",
+        "url": "https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252797,
+      "name": "Nothing Works",
+      "url": "https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
         "name": "Hello Alien",
         "url": "https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5"
       },
@@ -1131,22 +1163,6 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "Prophecy of the Dragon",
-        "url": "https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs"
-      },
-      "artists": [
-        {
-          "name": "The Voidz",
-          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
-        }
-      ],
-      "duration_ms": 293631,
-      "name": "Prophecy of the Dragon",
-      "url": "https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
         "name": "Emotional Creature",
         "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
       },
@@ -1159,6 +1175,22 @@
       "duration_ms": 202693,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "Prophecy of the Dragon",
+        "url": "https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 293631,
+      "name": "Prophecy of the Dragon",
+      "url": "https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -1227,22 +1259,6 @@
     {
       "added_at": "2023-09-15 00:00:00",
       "album": {
-        "name": "Nothing Works",
-        "url": "https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 252797,
-      "name": "Nothing Works",
-      "url": "https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
         "name": "As Good As It Gets",
         "url": "https://open.spotify.com/album/1Nq7X61ErYdrIfN2BDYar0"
       },
@@ -1255,6 +1271,22 @@
       "duration_ms": 164494,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/1oSFY7EjYTQGqECkCgX9hF"
+    },
+    {
+      "added_at": "2023-09-15 00:00:00",
+      "album": {
+        "name": "From Nothing To A Little Bit More",
+        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Lucky Bean",
+      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
     },
     {
       "added_at": "2023-09-15 00:00:00",
@@ -1287,38 +1319,6 @@
       "duration_ms": 184881,
       "name": "Car Park",
       "url": "https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz"
-    },
-    {
-      "added_at": "2023-09-15 00:00:00",
-      "album": {
-        "name": "From Nothing To A Little Bit More",
-        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Lucky Bean",
-      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
-    },
-    {
-      "added_at": "2023-09-29 00:00:00",
-      "album": {
-        "name": "How to Hold a Knife",
-        "url": "https://open.spotify.com/album/0PQLyt9P4Qi94KgwTnsvcH"
-      },
-      "artists": [
-        {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
-        }
-      ],
-      "duration_ms": 176558,
-      "name": "How to Hold a Knife",
-      "url": "https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0"
     }
   ],
   "unique_name": "pulp",
